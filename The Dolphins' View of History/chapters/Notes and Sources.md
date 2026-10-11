@@ -252,7 +252,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Numbers embarked and died in the Atlantic slave trade.* Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010.
 
-*The voyages database behind those numbers.* SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026).
+*The voyages database behind those numbers.* [SlaveVoyages: Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org) (consulted 2026).
 
 *Equiano’s account of the crossing.* Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789. Project Gutenberg ebook 15399.
 
@@ -338,7 +338,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The vaquita’s decline and its cause.* Taylor, Barbara L., et al. “Extinction Is Imminent for Mexico’s Endemic Porpoise unless Fishery Bycatch Is Eliminated.” Conservation Letters 10 (2017): 588–95.
 
-*The vaquita’s numbers now.* NOAA Fisheries. “Vaquita.” https://www.fisheries.noaa.gov/species/vaquita (consulted 2026).
+*The vaquita's numbers now.* NOAA Fisheries. "[Vaquita](https://www.fisheries.noaa.gov/species/vaquita)." (consulted 2026).
 
 *Brazil’s military regime, 1964–1985.* Skidmore, Thomas E. The Politics of Military Rule in Brazil, 1964–1985. New York: Oxford University Press, 1988.
 
@@ -358,7 +358,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Iguala case.* Hernández, Anabel. A Massacre in Mexico: The True Story behind the Missing 43 Students. London: Verso, 2018.
 
-*Mexico’s register of the missing.* Secretaría de Gobernación (Mexico). “Registro Nacional de Personas Desaparecidas y No Localizadas.” https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index (consulted 2026).
+*Mexico's register of the missing.* Secretaría de Gobernación (Mexico). "[Registro Nacional de Personas Desaparecidas y No Localizadas](https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index)." (consulted 2026).
 
 **1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left**
 
@@ -480,6 +480,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Hong Kong’s national-security law.* Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, promulgated June 30, 2020.
 
+*The Winnie-the-Pooh memes and their censorship.* McDonell, Stephen. "[Why China Censors Banned Winnie the Pooh](https://www.bbc.com/news/blogs-china-blog-40627855)." BBC News, July 17, 2017.
+
+*Little Bear Winnie on Weibo and WeChat; the 2013 and 2014 pairings.* Agence France-Presse. "'Oh, Bother': [Winnie the Pooh Falls Foul of Chinese Internet Censors](https://www.theguardian.com/world/2017/jul/17/winnie-the-pooh-chinese-internet-censors-xi-jinping)." The Guardian, July 17, 2017.
+
 **The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews**
 
 *The long history.* Schama, Simon. The Story of the Jews. 2 vols. London: Bodley Head, 2013 and 2017.
@@ -506,7 +510,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy**
 
-*Artemis II record distance and splashdown.* NASA. “NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth.” News release, April 10, 2026 (updated May 7, 2026). https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/
+*Artemis II record distance and splashdown.* NASA. "[NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth](https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/)." News release, April 10, 2026 (updated May 7, 2026).
 
 *Apollo.* Chaikin, Andrew. A Man on the Moon. New York: Viking, 1994.
 
@@ -529,6 +533,32 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
 
 *The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+*Mendeleev's table and the predicted elements.* Scerri, Eric R. [The Periodic Table: Its Story and Its Significance](https://openlibrary.org/works/OL8005621W). New York: Oxford University Press, 2006.
+
+*Ammonia synthesis and the food supply.* Erisman, Jan Willem, et al. "[How a Century of Ammonia Synthesis Changed the World](https://doi.org/10.1038/ngeo325)." Nature Geoscience 1 (2008): 636-39.
+
+*The double helix.* Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid](https://doi.org/10.1038/171737a0)." Nature 171 (1953): 737-38.
+
+*Franklin's X-ray evidence.* Franklin, Rosalind E., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate](https://doi.org/10.1038/171740a0)." Nature 171 (1953): 740-41.
+
+*The draft human genome.* International Human Genome Sequencing Consortium. "[Initial Sequencing and Analysis of the Human Genome](https://doi.org/10.1038/35057062)." Nature 409 (2001): 860-921.
+
+*The finished genome.* International Human Genome Sequencing Consortium. "[Finishing the Euchromatic Sequence of the Human Genome](https://doi.org/10.1038/nature03001)." Nature 431 (2004): 931-45.
+
+*The last gaps, 2022.* Nurk, Sergey, et al. "[The Complete Sequence of a Human Genome](https://doi.org/10.1126/science.abj6987)." Science 376 (2022): 44-53.
+
+*Seafloor magnetic stripes and plate tectonics.* Vine, F. J., and D. H. Matthews. "[Magnetic Anomalies over Oceanic Ridges](https://doi.org/10.1038/199947a0)." Nature 199 (1963): 947-49.
+
+*The predicted afterglow.* Alpher, Ralph A., and Robert Herman. "[Evolution of the Universe](https://doi.org/10.1038/162774b0)." Nature 162 (1948): 774-75.
+
+*The afterglow found.* Penzias, A. A., and R. W. Wilson. "[A Measurement of Excess Antenna Temperature at 4080 Mc/s](https://doi.org/10.1086/148307)." Astrophysical Journal 142 (1965): 419-21.
+
+*Cold fusion.* Fleischmann, Martin, and Stanley Pons. "[Electrochemically Induced Nuclear Fusion of Deuterium](https://doi.org/10.1016/0022-0728(89)80006-3)." Journal of Electroanalytical Chemistry 261 (1989): 301-08.
+
+*The arsenic bacterium (retracted 2025).* Wolfe-Simon, Felisa, et al. "[A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus](https://doi.org/10.1126/science.1197258)." Science 332 (2011): 1163-66.
+
+*The arsenic claim refuted.* Reaves, Marshall Louis, et al. "[Absence of Detectable Arsenate in DNA from Arsenate-Grown GFAJ-1 Cells](https://doi.org/10.1126/science.1219861)." Science 337 (2012): 470-73.
 
 **The 1940s to the 1970s: Decolonization — The World Redraws Itself**
 
@@ -584,7 +614,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The case for a natural origin.* ‘Oumuamua ISSI Team. “The Natural History of ‘Oumuamua.” Nature Astronomy 3 (2019): 594–602.
 
-*The Arecibo message.* Staff at the National Astronomy and Ionosphere Center. “The Arecibo Message of November, 1974.” Icarus 26 (1975): 462–66.
+*The Arecibo message.* Staff at the National Astronomy and Ionosphere Center. "[The Arecibo Message of November, 1974](https://doi.org/10.1016/0019-1035(75)90116-5)." Icarus 26 (1975): 462-66.
 
 *The Pentagon’s review of UAP claims.* All-domain Anomaly Resolution Office (AARO). Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena, Volume I. U.S. Department of Defense, 2024.
 
@@ -624,17 +654,25 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *West Antarctica and marine ice-sheet retreat.* Joughin, Ian, Benjamin E. Smith, and Brooke Medley. “Marine Ice Sheet Collapse Potentially under Way for the Thwaites Glacier Basin, West Antarctica.” Science 344 (2014): 735–38.
 
-*The Antarctic Treaty.* Secretariat of the Antarctic Treaty. “The Antarctic Treaty.” Signed at Washington, December 1, 1959; in force June 23, 1961. https://www.ats.aq/e/antarctictreaty.html (consulted 2026).
+*The Antarctic Treaty.* Secretariat of the Antarctic Treaty. "[The Antarctic Treaty](https://www.ats.aq/e/antarctictreaty.html)." Signed at Washington, December 1, 1959; in force June 23, 1961 (consulted 2026).
+
+*The 1946 American offer for Greenland.* Office of the Historian, US Department of State. [Foreign Relations of the United States, 1947, Volume III](https://history.state.gov/historicaldocuments/frus1947v03/d414): The British Commonwealth; Europe, document 414.
+
+*Greenland not for sale, 2019.* "'Greenland Belongs to Greenland': [Denmark Says Selling World's Largest Island to US Is Absurd](https://www.cnbc.com/2019/08/18/greenland-belongs-to-greenland-denmark-says-selling-worlds-largest-island-to-us-is-absurd.html)." CNBC, August 18, 2019.
+
+*The renewed bid and Greenland's reply, December 2024.* BBC News. Report on [Greenland's reply to the renewed American bid](https://www.bbc.com/news/articles/c791xy4pllqo), December 23, 2024.
+
+*Force not ruled out; "We want to be Greenlandic".* BBC News. [Report from Greenland on the renewed American interest](https://www.bbc.co.uk/news/articles/c93qyky1gglo), January 12, 2025.
 
 **1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age**
 
 *Annual decline in global freedom.* Freedom House. Freedom in the World 2025. Washington, DC, 2025.
 
-*COVID-19 outcomes and trust.* COVID-19 National Preparedness Collaborators. “Pandemic Preparedness and COVID-19: An Exploratory Analysis of Infection and Fatality Rates, and Contextual Factors Associated with Preparedness in 177 Countries.” The Lancet 399 (2022): 1489–1512.
+*COVID-19 outcomes and trust.* COVID-19 National Preparedness Collaborators. "[Pandemic Preparedness and COVID-19: An Exploratory Analysis of Infection and Fatality Rates, and Contextual Factors Associated with Preparedness in 177 Countries](https://doi.org/10.1016/S0140-6736(22)00172-6)." The Lancet 399 (2022): 1489-1512.
 
 *Excess mortality.* Msemburi, William, et al. “The WHO Estimates of Excess Mortality Associated with the COVID-19 Pandemic.” Nature 613 (2023): 130–37.
 
-**1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped**
+**Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History**
 
 *Population milestones and projections.* United Nations, Department of Economic and Social Affairs, Population Division. World Population Prospects 2024. New York, 2024.
 
