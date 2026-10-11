@@ -22,7 +22,7 @@ How the shrink was done: photos became JPEG (q82-85, metadata stripped) at max 1
 | Math, Actually Vol 2 | 7.41 | 2.78 | 114 | |
 | Math, Actually Vol 3 | 6.96 | 2.62 | 102 | |
 | Math, Actually Vol 1 | 5.34 | 2.06 | 97 | |
-| Gravitation, Actually Rev8 | 4.23 | 1.62 | 16 | |
+| Gravity, Actually Rev8 | 4.23 | 1.62 | 16 | |
 | A Trip Is Not a New Life | 3.47 | 2.57 | 46 | |
 | Science Sparks | 1.98 | 0.97 | 20 | |
 | EE Book 2, Circuits, Components, and Control | 1.80 | 0.62 | 34 | |
@@ -80,7 +80,7 @@ Life, Actually (captioned photos, about 90-225 KB each at 1000 px). Proposed for
 
 The Universe Has No Now. Proposed for simple drawings (mood): Fig 0 kitchen clock (141 KB), Fig 1 kitchen (89), Fig 25 Perseverance rover (146), Fig 32 tractor (169), Fig 33 vault door in snow (173), Fig 35 radio dish (209). Keep (astronomy that teaches): Sun, Andromeda, distant galaxies, NGC 4414, sky map, Bullet Cluster, Crab Nebula, M87* ring, M87 jet, Europa, Galapagos finch. This book is built from Figures\ by export\build_docx.py, so any change must also go into the build, or a rebuild restores the big files.
 
-Gravitation, Actually: ISS cabin photo, Bullet Cluster and M87 photos, which teach. Keep.
+Gravity, Actually: ISS cabin photo, Bullet Cluster and M87 photos, which teach. Keep.
 
 ## Caveat for script-built books
 
@@ -109,7 +109,7 @@ Lothar's later decisions replace the drawing and split proposals above.
 | A Trip Is Not a New Life | 1.93 |
 | Schrodinger's Paperwork | 2.50 |
 | The Murder That Hadn't Happened Yet | 0.39 |
-| Gravitation, Actually | 0.90 |
+| Gravity, Actually | 0.90 |
 | Science Sparks | 0.97 |
 
 ## No Word tables in the Kindle files (10 Oct 2026, late)
@@ -124,7 +124,7 @@ Every Kindle master below now has no `<w:tbl>`. Tables became Kindle-friendly te
 | Schrodinger's Paperwork | 1 | 1 | 0 |
 | A Trip Is Not a New Life | 7 | 6 | 1 (seven-loop scorecard, 6 columns) |
 | The Universe Has No Now | 2 | 2 | 0 |
-| Gravitation, Actually | 4 | 1 | 3 (speed, horizon and clock-rate number tables) |
+| Gravity, Actually | 4 | 1 | 3 (speed, horizon and clock-rate number tables) |
 | Quantum, Actually Vol 1 | 19 | 19 | 0 |
 | Math, Actually Vol 2 | 93 | 8 | 85 (displayed matrices) |
 | Quantum, Actually Vol 2 | 413 | 410 | 3 (cos/sin values, divergence degrees, electroweak charges) |

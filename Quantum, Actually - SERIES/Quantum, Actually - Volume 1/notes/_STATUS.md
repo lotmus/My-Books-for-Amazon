@@ -17,7 +17,7 @@ Full read (no sampling), fixes:
 Checks: 0 Word tables, no visible URLs, 935 hyperlinks (933 + 2), package entries and relationships unchanged, 2.11 MB, about 120,500 words (98,600 before; the growth is exercises and solutions). LibreOffice render: 478 pages, exercise pages and the Lagrangian checked by eye.
 
 Scores (strict): physics 9.4, exercises 9.4, clarity 9.0, structure 9.2, prose 8.7, pictures 9.0 (not re-audited), sources 9.2, Kindle 9.2, KDP listing 9.2, covers 8.8; overall 9.1. Sellability 6.5 (long subtitle, niche Part Two; the exercises are now a selling point).
-Still open toward 9.5: a prose-tightening pass on Part Two (Chapters 13-31 repeat their own conclusions and run long; this pass trimmed only where a sentence was wrong); an outside physicist's check of the exercise solutions; the Gravitation, Actually entry in Also-by still uses the old subtitle "A Short Book on Gravity", as in every other book (its new subtitle is in Gravitation's KDP_Description.md), so update all Also-by lists together.
+Still open toward 9.5: a prose-tightening pass on Part Two (Chapters 13-31 repeat their own conclusions and run long; this pass trimmed only where a sentence was wrong); an outside physicist's check of the exercise solutions. (Done 11 Oct 2026: the Also-by entry in every book now reads "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard"; the book was renamed from Gravitation, Actually.)
 
 ## 10 Oct 2026, strict rescore from a careful sampled reread: 8.1 -> 8.7
 
