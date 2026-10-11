@@ -42,10 +42,10 @@ California's Uniform Statutory Form Power of Attorney (Probate Code § 4401), si
 
 **What to do.**
 
-- If you trust the person enough to name them, consider making the power effective now.
-- If you do not trust them enough for that, name someone else.
-- Name a backup agent, and consider requiring the agent to report to a second person.
-- Ask your bank which forms it accepts, and get its answer in writing.
+- Read your power of attorney and find the sentence that says when it takes effect. If it springs, ask who decides and how quickly they can.
+- If you trust the agent, make the power effective now and keep control through accountability, such as monthly statements sent to a second person.
+- Name a successor agent in case the first cannot act.
+- Ask your bank and your insurer in writing whether they will accept your power.
 
 ### Case 17: No power at all
 
@@ -91,10 +91,10 @@ Robert might also have considered a will, since Denise would have inherited noth
 
 **What to do.**
 
-- Sign a durable power of attorney and an advance health care directive now, whatever your age.
-- If you are not married, treat these documents as essential, not optional.
-- If you run a business alone, make sure your agent's power covers it, and write a one-page continuity note.
-- Tell your relatives whom you have named, so they hear it from you and not from a hospital.
+- Sign a durable power of attorney and an advance health care directive this month, whatever your age.
+- If you are not married, name your partner explicitly as agent in both, and say in the directive that you want them involved in your care.
+- If you are self-employed, make sure the power covers your business accounts, and put a one-page business continuity note in your Family List.
+- Give copies to your doctor and your agent, and tell any relative who might object whom you have chosen.
 
 ### Case 18: The German spouse who could decide, but only for a while
 
@@ -136,10 +136,10 @@ German law requires the power of attorney to be in writing, and to mention expre
 
 **What to do.**
 
-- In Germany, sign a *Vorsorgevollmacht* and a *Patientenverfügung*, even if you are married.
-- Notarise or certify the power if you own property, and register it.
-- Ask your bank whether it accepts your power, or whether you also need its own form.
-- Review it every few years, and when circumstances change.
+- If you are married in Germany, do not rely on the spouse's emergency right. Each of you should sign a *Vorsorgevollmacht* covering health and money.
+- If you own property, have the powers notarised or officially certified so the land registry will accept them.
+- Register the powers in the Central Register of Lasting Powers of Attorney.
+- Carry a card in your wallet saying that a power exists and where the original is.
 
 ### Case 19: "No heroic measures"
 
@@ -188,10 +188,10 @@ Write the answers down in your own words. Then take them to the form. Appendix F
 
 **What to do.**
 
-- Write your wishes as situations and treatments, not slogans.
-- Discuss them with your agent and with everyone else who will be in the room.
-- If you are seriously ill or frail, ask your doctor about a POLST (in California) or a detailed *Patientenverfügung* (in Germany).
-- Review the directive every few years, and after any major diagnosis.
+- Rewrite any one-line directive as situations and treatments: infections, ventilation, feeding tubes, resuscitation, place of care.
+- Add one sentence about your values, such as whether being at home matters more to you than living longer.
+- Go through it with your agent and with everyone else likely to be at the bedside, at the same time.
+- If you are frail or seriously ill, ask your doctor about a POLST in California, or a detailed *Patientenverfügung* in Germany.
 
 ## Chapter 7. Families, Borders, and the Digital Locker
 
@@ -233,10 +233,10 @@ Once Ingrid had died without such a clause, Hans had one more option: a notarise
 
 **What to do.**
 
-- Before you write a joint will in Germany, decide whether the survivor should be free to change the final heirs. Write that decision into the will.
-- Ask a notary about remarriage, stepchildren, and compulsory shares.
-- If you are a widow or widower bound by an old joint will and are thinking of remarrying, see a notary before the wedding.
-- If you are marrying someone bound by an old joint will, ask to see it.
+- Before you sign a joint will in Germany, decide whether the survivor may change the final heirs, and write a change clause or a deliberate "no changes" into the will.
+- Decide what should happen if the survivor remarries, and put that in the will too.
+- If you are a survivor bound by a joint will, see a notary before you remarry or make any large gift.
+- If you are marrying someone bound by an old joint will, ask to see it before you give up your own home.
 
 ### Case 21: Two passports, two homes, one estate
 
@@ -272,11 +272,10 @@ So the two systems pulled in different directions. Helga, as heir in Germany, fa
 
 **What to do.**
 
-- If you move countries, review your whole estate plan within a year.
-- If you have more than one nationality, ask whether an express choice of law in your will would help.
-- Make sure your documents in each country know about each other.
-- Keep a Family List that includes every country's assets, advisers, and originals.
-- See Chapter 39 for the questions to ask in any other jurisdiction.
+- Within a year of moving to another country, have your whole plan reviewed by advisers who know both countries.
+- If you have two nationalities, ask whether a choice of law in your will would protect what you want.
+- Make each country's documents refer to the other's, so that no document claims more than it should.
+- Ask a cross-border tax adviser how each country will tax your estate, before you die rather than after.
 
 ### Case 22: The phone nobody could open
 
@@ -322,11 +321,10 @@ Part Six and Chapter 38 describe how to set this up without writing passwords on
 
 **What to do.**
 
-- Turn on legacy-contact or inactive-account settings in your main accounts today.
-- Use a password manager with emergency access, and name a trusted person.
-- Store device passcodes and recovery codes securely, where your executor can get them.
-- Add a digital-assets clause to your will, after advice.
-- Back up anything that matters to a place someone else can reach.
+- This week, turn on legacy-contact or inactive-account settings in your email, cloud storage, and main social accounts. In California, those settings outrank your will.
+- Set up emergency access in a password manager for one trusted person, and store your device passcodes and two-factor recovery codes there.
+- Add a clause to your will consenting to disclosure of your electronic communications to your executor.
+- Back up work files and photographs to a place your executor can reach without your phone.
 
 ### Case 23: The video will
 
@@ -364,10 +362,10 @@ Daniel and Luis, who had nodded at every word, discovered after their father's d
 
 **What to do.**
 
-- If you are seriously ill and want to change your will, call a lawyer today; many will come to you.
-- If you cannot wait, write a short will entirely by hand and sign it.
-- Record a video too, if you want, as a message and as evidence, but never instead of a valid will.
-- If you have a stepchild you want to inherit, name them in a valid will. The law will not assume it.
+- If you are seriously ill and want to change your will, call a lawyer today and ask for a home or hospital visit.
+- If you cannot wait, write three sentences by hand, sign them, and date them. That can be a valid will in both California and Germany.
+- Record your video after the will is signed, without the main beneficiary in the room, and say in it that a written will exists.
+- If you want a stepchild to inherit, name them in that written will.
 
 ### Case 24: The seed phrase in the will
 
@@ -412,7 +410,7 @@ Chapter 24 describes the general pattern: secrets go in secure storage; document
 
 **What to do.**
 
-- Never put passwords, PINs, or recovery phrases in a will, a trust, or any document that may be copied or filed.
-- Write instructions for digital assets separately, store them securely, and tell your executor where they are.
-- Test the instructions while you are alive.
-- Make sure the person who will inherit, or the trustee, can actually use what you leave them.
+- Search your will drafts and any notes kept with them for passwords, PINs, or recovery phrases, and remove them.
+- In the will, say who receives your digital assets. Keep how to reach them in a separate, sealed set of instructions.
+- Test the instructions with the person who will use them, by recovering a small amount together.
+- If a trustee may have to manage digital assets for a child, make sure the trust lets them hire expert help.

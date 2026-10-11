@@ -6,7 +6,7 @@
 
 Walter's will, signed with a lawyer when his wife was still alive and updated after her death, left everything in equal shares to the three children. It was a good will. It was also, as it turned out, mostly irrelevant.
 
-At a barbecue, a neighbour told Walter about a document that would let his house skip probate entirely. "You just sign a deed naming who gets it, record it, and when you go, it passes automatically. No court, no lawyers, no fees." Walter liked the sound of no lawyers. He found a form, filled it in, had it notarised at the shipping store, and recorded it with the county. He named Paul as beneficiary, because Paul was nearby and practical and would "take care of things." Walter told Paul he trusted him to share the house with his brother and sister. He did not tell Susan or Mark about the deed at all, because it seemed like a technicality.
+At a barbecue, a neighbour told Walter about a document that would let his house skip probate entirely. "You just sign a deed naming who gets it, record it, and when you go, it passes automatically. No court, no lawyers, no fees." Walter liked the sound of no lawyers. He found the statutory form, filled it in, signed it in front of two neighbours as witnesses and a notary at the shipping store, and recorded it with the county a week later. He named Paul as beneficiary, because Paul was nearby and practical and would "take care of things." Walter told Paul he trusted him to share the house with his brother and sister. He did not tell Susan or Mark about the deed at all, because it seemed like a technicality.
 
 Walter died four years later. The house was worth about 620,000 dollars. The savings account held about 30,000.
 
@@ -29,6 +29,8 @@ Either option costs little more than what Walter did. The difference is that bot
 
 A note on the statute itself: the California law that authorises these deeds is currently set to be repealed on 1 January 2032 unless the legislature extends it. Deeds signed before that date remain valid. If you rely on one, check its status with your lawyer every few years.
 
+**What the form itself warns you about.** California prints the TOD deed form in the statute (Probate Code § 5642), and the form is unusually frank. It must be signed before a notary, and, for deeds signed since 2022, also in front of two witnesses who are present at the same time. It must be recorded with the county within 60 days of being notarised, or it has no effect. Beneficiaries must be named by full name; "my children" is not allowed. If a beneficiary dies before you, their share goes to the surviving beneficiaries, not to the dead beneficiary's own children (§ 5652). And if you own the house as a joint tenant or as community property with right of survivorship and die first, the deed is void: the house goes to the co-owner. The form tells you, in capitals, to provide only the information it asks for and to add no instructions of your own. Walter's deed did everything the form required. It simply said something different from his will.
+
 **The plain-language version.** A transfer-on-death deed is a will for one house. If it says something different from your real will, it wins for that house. Most families never notice the difference until the house is the only thing that mattered.
 
 **The German version.** Germany has no transfer-on-death deed. Ownership of land passes at death only through inheritance, by will or by statute, and a lifetime transfer of land requires a notarised contract (BGB § 311b) and an entry in the land register. That makes Walter's particular mistake impossible in Germany, but its cousin is common: a parent transfers the house to one child during life, by notarised gift, "so the others don't have to bother," and assumes the child will share. The other children may later have claims against the estate or, in some cases, against the child under the compulsory share rules, which add back gifts made within the last ten years (§ 2325). The moral is the same. If you want equality, put equality in the document.
@@ -37,7 +39,7 @@ A note on the statute itself: the California law that authorises these deeds is 
 
 - Who will own this property the day after I die, and what document decides that?
 - Does that match my will, my trust, and what I have told my family?
-- What happens if the person I name dies before me? (California's form lets you name alternates. Use them.)
+- What happens if the person I name dies before me? (On a California TOD deed, a beneficiary who dies first simply drops out: their share goes to the other named beneficiaries, and if all have died, the deed has no effect. The form has no space for alternates.)
 - What happens if the person I name is in debt, divorcing, or ill when I die?
 - Who gets a copy, and who knows it exists?
 
@@ -45,10 +47,10 @@ A note on the statute itself: the California law that authorises these deeds is 
 
 **What to do.**
 
-- Before you sign any deed, form, or designation, ask: does this match my will?
-- If you want the house to avoid probate and be shared, name every intended beneficiary on the deed, or use a trust.
-- Do not rely on one child to "share" with the others. Moral obligations do not survive divorces, creditors, or the child's own death.
-- Tell all your children what you have signed. A family meeting with a copy of each document on the table costs an afternoon and saves a decade.
+- Before you sign a transfer-on-death deed, lay it beside your will and check that the two name the same people in the same shares.
+- Remember that a TOD deed names no alternates: if a beneficiary dies before you, their share goes to the others, not to their children. If that matters, use a trust instead.
+- If you want one child to manage the sale, name all the children as beneficiaries, or use a trust with that child as trustee, rather than relying on a promise to share.
+- If you rely on a TOD deed, check its legal status every few years: the current California law is due to expire in 2032 unless extended.
 
 ### Case 7: The son added to the title
 
@@ -95,10 +97,10 @@ For the practical problem of selling the property later, a durable power of atto
 
 **What to do.**
 
-- Do not add a child to the title of your home "to avoid probate" without advice. In California, a TOD deed or a trust usually does the job better.
-- If you have already done it, ask a lawyer whether and how to undo it. Undoing it may itself have tax and gift consequences, so do not simply sign another deed.
-- If your child runs a business, has debts, or is in a fragile marriage, be doubly careful about putting assets in their name early.
-- Ask your tax adviser about basis before you give property away. The tax on a gift can arrive years later, on someone else's return.
+- Before you add anyone to the title of your home, ask your tax adviser to compare the tax basis your heir would get by gift with the basis they would get by inheritance.
+- Ask whether a transfer-on-death deed or a revocable trust would do the same job without giving away ownership now.
+- If your child runs a business or has debts, assume their creditors could reach any share you put in their name.
+- If you have already added a child, do not sign a new deed to undo it until you have advice; the undoing is itself a transfer.
 
 ### Case 8: Tenants in common, and a share nobody planned for
 
@@ -142,10 +144,10 @@ The siblings could also have held the cabin through a family limited liability c
 
 **What to do.**
 
-- If you co-own property with anyone other than a spouse, know how the title is held: joint tenancy (survivorship) or tenancy in common (no survivorship).
-- If it is tenancy in common, sign a co-ownership agreement with a buy-out clause.
-- Make a will that says where your share goes.
-- If you are separated but not divorced, assume your spouse is still your spouse for inheritance purposes until a lawyer tells you otherwise, and plan accordingly.
+- Look up how your co-owned property is titled. The deed will say joint tenancy or tenancy in common; if it says neither, ask.
+- If you hold as tenants in common, sign a co-ownership agreement with a buy-out price formula, a payment period, and rules for costs and use.
+- Make a will that says where your share goes, so the intestacy statute does not decide.
+- If you are separated but not divorced, update your will and your beneficiary forms now; for inheritance purposes, your spouse is still your spouse.
 
 ### Case 9: Half of it was never hers to give
 
@@ -186,10 +188,10 @@ They made an uneasy arrangement: George would stay, pay the taxes and repairs, a
 
 **What to do.**
 
-- In a community property state, remember that your will controls your half of the community property, not the whole.
-- In a second marriage, plan as a couple, with one lawyer, in one room, at the same time.
-- Decide explicitly where the surviving spouse will live and for how long.
-- Put the plan in documents that bind both halves of the estate, not in a conversation over wine.
+- List which of your assets are community and which are separate, and how each is titled. In California, your will controls only your half of community property.
+- If either of you has children from an earlier relationship, see one lawyer together and sign one coordinated plan.
+- Decide in writing where the survivor will live, for how long, and who pays for the house in the meantime.
+- If the survivor is not to be free to change the plan for the first spouse's half, make sure the documents say so.
 
 ### Case 10: The house given away eight years before
 
@@ -230,7 +232,7 @@ Sophie, who had never wanted to take anything from her brother, told him at the 
 
 **What to do.**
 
-- If you are in Germany and want to treat your children unequally, see a notary about compulsory shares before you give anything away.
-- Ask the child who will receive less whether they would sign a waiver, and what would make it fair.
-- Write down why you are doing what you are doing. Chapter 34 shows how to write a letter for an unequal gift.
-- If one child is caring for you, record it: dates, hours, what was done. It may matter later, and it will matter to them now that you noticed.
+- If you live in Germany and plan a large gift to one child, ask the notary to calculate the compulsory share consequences before you sign.
+- Ask the child who will receive less whether they would sign a notarised waiver, and what would make it fair to them.
+- If a child is caring for you, keep a simple log of the care: dates, hours, tasks. It may affect the shares later.
+- Make sure the child who keeps the house will have cash to pay a sibling's claim, for example through life insurance.

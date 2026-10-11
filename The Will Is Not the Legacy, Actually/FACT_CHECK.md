@@ -75,3 +75,4 @@
 - BGH III ZR 183/17 (12 Jul 2018): social network user contract passes to heirs (§1922); heirs may demand full account access incl. messages.
 - BGB 2287 applied by analogy to binding joint-will provisions: final heir can reclaim lifetime gifts made by survivor with intent to impair, absent legitimate lifetime self-interest; claim arises at survivor's death.
 - Pflichtteil claims: regular 3-year limitation (BGB 195), from end of year in which claimant learned of death and of the excluding disposition (199; 2332 since 2010 covers only claims vs donee).
+- CA Prob 5642 statutory TOD deed form: full names (not "my children"); notarised; two witnesses present together (for deeds signed since 2022, SB 315); record within 60 days of notarisation; no alternates/instructions. 5652: beneficiary must survive; lapsed share to other beneficiaries equally; all predecease = no effect. Joint tenancy/CPWROS: if transferor dies first, deed void.

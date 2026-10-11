@@ -46,10 +46,10 @@ None of this replaces advice. It does make the difference between a document a c
 
 **What to do.**
 
-- In Germany: handwrite every word, or see a notary. Never type and sign.
-- In California: a typed will needs two witnesses, or use the statutory form with two witnesses.
-- If you are not married or registered, assume your partner receives nothing without a valid will, and ask about inheritance tax before you rely on the will alone.
-- Tell your partner where the original is, and consider official custody so it cannot be lost.
+- In Germany, never sign a typed will. Write every word by hand, or take the typed text to a notary.
+- If you are not married or in a registered partnership, ask a German adviser what your partner would pay in inheritance tax before you decide how to leave them your home.
+- Consider a right of residence for your partner as an alternative to ownership, and ask how each would be taxed.
+- Deposit the handwritten will in official custody so it is found (Case 14).
 
 ### Case 12: The California form will, half filled in
 
@@ -92,10 +92,10 @@ That is all. Ten minutes, two neighbours, one pen. It is the most underused free
 
 **What to do.**
 
-- Use the California statutory will form or a lawyer-drafted will, and sign it in front of two adult witnesses who are present together.
-- Choose witnesses who receive nothing under the will (Case 13).
-- If you want a stepchild, a partner's child, or a friend to inherit, name them explicitly in a valid will. Do not rely on the intestacy rules.
-- If you have only a handwritten or form will, ask a lawyer to look at it. A short consultation now is far cheaper than a court's interpretation later.
+- Download the California statutory will form and read its signing page before you fill in anything.
+- Book two disinterested adult witnesses before you start, and sign in front of both at the same time.
+- If you want a stepchild to inherit, name them in the will. The intestacy rules include stepchildren only in narrow cases.
+- If you already have a fill-in form will without witnesses, re-sign a proper will now rather than hoping a court will rescue the old one.
 
 ### Case 13: The witness who was also the heir
 
@@ -135,10 +135,10 @@ The more subtle prevention would have been a conversation. Frank could have told
 
 **What to do.**
 
-- Choose witnesses who receive nothing under the will and are not married to anyone who does.
-- If a gift might surprise someone, tell them while you are alive, and write a short letter explaining why (Chapter 34).
-- For a gift to someone who helped you, describe the help in the will or the letter. "Because he helped me rebuild it" was a good line. A few more sentences would have been better.
-- Keep the will boring. Boring wills are the ones that survive.
+- Ask: does either witness, or a witness's spouse, receive anything? If so, find another witness.
+- For a gift to someone who helped you, say in the will what the help was.
+- Tell the person who will be disappointed about the gift while you are alive, and tell them why.
+- Sign at a lawyer's office with staff witnesses if you can. Their memory of an ordinary signing is the best evidence you can leave.
 
 ### Case 14: The original that nobody could find
 
@@ -180,10 +180,10 @@ A notarial will would have been registered in the same way.
 
 **What to do.**
 
-- In Germany: deposit your handwritten will in official custody at the local court, or make a notarial will. Keep the receipt with your Family List.
-- In California: keep the original somewhere safe that your executor knows about. Give your lawyer or executor a copy and tell them where the original is.
-- Never keep the only original in a cellar, an attic, or anywhere that floods, burns, or gets cleared out.
-- Tell the people who matter that a will exists and where it is. You do not have to tell them what it says.
+- In Germany, take your handwritten will to the local court for official custody, and keep the receipt in your binder.
+- In California, keep the original with your lawyer or in a fireproof place your executor knows about, and keep a copy marked "copy" in your binder.
+- Write the location of the original on the first page of your Family List.
+- Check the location every year when you review the list. Floods and house clearances do not announce themselves.
 
 ### Case 15: The no-contest clause that scared nobody
 
@@ -220,7 +220,7 @@ Undue influence is a different question. A person can have full capacity and sti
 
 **What to do.**
 
-- Do not rely on a no-contest clause to prevent a challenge. Rely on good process.
-- If you change your will after an illness, ask your lawyer about documenting capacity, and meet the lawyer alone.
-- If you leave someone much less than they expect, give them enough to make a challenge costly, and explain your reasons in writing.
-- Make big changes while you are well. The best evidence of capacity is a will signed long before anyone could doubt it.
+- If you plan a large change to your will after an illness, ask your lawyer how to document your capacity, and meet the lawyer alone.
+- Do not arrange a will appointment for a parent from whom you will benefit. Let them arrange it, or ask someone neutral to.
+- If you leave someone much less than they expect, leave them enough that a no-contest clause would actually cost them something.
+- Explain an unequal plan in a calm letter written while you are well (Chapter 34).

@@ -48,11 +48,10 @@ If you are the former spouse who has been named, you may be legally entitled to 
 
 **What to do.**
 
-- List every retirement account you have ever had, including the forgotten ones from old employers. Appendix D has a beneficiary audit for exactly this.
-- Ask each plan administrator for written confirmation of the beneficiary on file. Do not rely on memory.
-- After a divorce, change every form the same week. Do not rely on state law to do it for you; for many employer plans, it cannot.
-- After a marriage, a birth, or a death, check again.
-- Bring the printouts to your lawyer. The will never sees the 401(k). The form does.
+- Ask the administrator of every employer plan you have ever belonged to for a printout of the beneficiary on file. Appendix D has a beneficiary audit sheet.
+- The week a divorce is final, file new designations with each plan. For employer plans, the state's automatic revocation may not protect you.
+- If you remarry, ask each plan whether your new spouse now has rights that need their written consent to change.
+- Bring the printouts, not your memory, to the lawyer who drafts your will.
 
 ### Case 2: The life insurance that paid "my heirs"
 
@@ -90,10 +89,10 @@ Second, a will. Many German couples with children use a joint will in which each
 
 **What to do.**
 
-- Never write "my heirs" or "my estate" on a life insurance or pension form unless a lawyer has told you why that is what you want.
-- Name a person as primary beneficiary and at least one contingent.
-- If you have young children, think about what happens if both parents die. A contingent beneficiary that is a minor child brings the same management and court questions. A trust (in the United States) or a carefully drafted will with an executor (in Germany) may be better; ask.
-- Make a will even if you are young. Especially if you are young and have children.
+- Replace "my heirs" or "my estate" on every insurance and pension form with named people, unless an adviser has given you a reason to keep it.
+- In Germany, ask the insurer whether your nomination is revocable and whether the policy follows your will or overrides it.
+- If your children are minors, decide who should manage their money, and say so in a will.
+- Sit down with your partner and check both of your policies on the same evening. Couples usually make this mistake in pairs.
 
 ### Case 3: The account with the daughter's name on it
 
@@ -129,11 +128,10 @@ If you are the sibling on the account, remember that what you do now will define
 
 **What to do.**
 
-- Never add someone to an account "for convenience" without asking: does this make them an owner? Does it give them the account when I die?
-- For help with bills, use a power of attorney or a signer-only arrangement.
-- If you want accounts to pass outside probate, use payable-on-death designations that match your will.
-- If you have already added a child as joint owner, ask a lawyer whether to change it. The longer it stays, the more it looks like a gift.
-- Tell the other children what you have done and why. Surprise is the fuel of family disputes.
+- Before you add anyone to an account, ask the bank in writing: will this person become an owner, and will they take the balance when I die?
+- For help with bills, use a power of attorney (Chapter 20) or a signer-only arrangement, not joint ownership.
+- If a child is already a joint owner for convenience, write a dated note saying so and stating that the money is to be shared under your will, and ask a lawyer whether the account itself should change.
+- Keep a record of who paid in. In California, that is what decides who owns a joint account while everyone is alive.
 
 ### Case 4: The forgotten IRA and the beneficiary who died first
 
@@ -179,11 +177,10 @@ Third, a line on the Family List. If Lena had known the IRA existed, the custodi
 
 **What to do.**
 
-- Name a contingent beneficiary on every form. Every one.
-- When a beneficiary dies, update the form within weeks.
-- Keep foreign accounts on your Family List with the institution, the account type, the last four digits of the number, and a phone number that works from abroad.
-- If you live in one country and have accounts in another, ask an adviser whether it is simpler to consolidate. Fewer accounts in fewer countries make life easier for everyone, including you.
-- Update your email address with every institution. A statement that goes to a dead inbox is a reminder that never arrives.
+- After a beneficiary dies, update every form that names them within the month. Put a reminder in the Family List under that person's name.
+- For accounts abroad, record the institution, account type, last four digits, and an international phone number on the Family List.
+- Ask each foreign institution what papers it would want from heirs living in another country, and file the answer with the account details.
+- Change the email and postal address on every old account when you move. An unread statement is a warning that never arrives.
 
 ### Case 5: The twelve-year-old beneficiary
 
@@ -225,8 +222,7 @@ On the money, there were several better options.
 
 **What to do.**
 
-- If you have children under eighteen, nominate a guardian in writing, today, and ask the person first. Name a backup.
-- Do not name a minor child directly as beneficiary of life insurance or retirement accounts. Name a trust, a custodian, or an adult, after advice.
-- Choose an age at which the child should receive money outright, and make sure your documents actually say it.
-- Write a guardian brief (Appendix E) for the person you name: the child's routines, health, friends, and the things only you know.
-- Tell the child, if they are old enough, who would look after them. Children worry about this more than adults think.
+- Nominate a guardian for your children in writing, and a backup, after asking both.
+- Name a trust or a custodian, not the child, as beneficiary of insurance and retirement accounts, and choose the age at which the child gets control.
+- Write a guardian brief (Appendix E) and give it to the person you name.
+- If the other parent is absent or unsuitable, put the facts in a calm letter kept with the nomination.
