@@ -1,0 +1,40 @@
+H1: Chapter 24. Heat, Combining, and the Path to the Antenna
+P: A 100 W amplifier dissipating 57 W runs its junction at 108 °C on a 40 °C day, with plenty of margin. Block the fan, let the air get hotter, or mismatch the antenna, and that margin is what keeps it alive. Heat is the quiet limit on every transmitter, and it is designed in the mechanical drawing as much as in the schematic.
+P: Where you meet this: Heat sinks and thermal pads on every power stage, combiner trees in radars and broadcast transmitters, harmonic filters, and the feeder between a rack and its antenna.
+P: An amplifier that meets its power and efficiency targets on the bench can still fail in service, by overheating, by a single failed device taking down a combined array, or by losing its gains in the hardware between the device and the antenna. This chapter follows the power out of the transistor: through the thermal path that removes its waste heat, the combiners that add several devices together, the isolator and harmonic filter that protect and clean it, and the feed line that carries it to the antenna.
+H2: 24.1 The thermal path
+P: Heat flows from the transistor's channel, or junction, through the die and package to the flange, then through an interface material to the heat sink and into the air or coolant. Each step has a thermal resistance θ in °C/W, and the temperature rises add like voltage drops in a series circuit. The junction temperature sets the device's lifetime: GaN-on-SiC parts are typically rated for channel temperatures up to about 225 °C, and designers usually hold them well below 200 °C to keep the predicted lifetime long. Pulsed operation, as in radar, lets the peak temperature stay below the steady-state value, and transient thermal impedance curves give the peak rise for a given pulse width and duty cycle.
+EQ: Tj = Tambient + Pdiss (θjc + θcs + θsa)
+FIG: fig24_1.png | Figure 24.1 — Temperatures along the thermal path of Worked Example 24.1. With 57 W flowing out to 40 °C air, the sink sits at 57.1 °C, the flange at 62.8 °C, and the junction at 108.4 °C.
+H2: Worked Example 24.1
+P: Problem. The 100 W amplifier of Worked Example 22.1 dissipates 57.0 W. Its θjc is 0.8 °C/W, the interface adds 0.1 °C/W, and the heat sink 0.3 °C/W to air at 40 °C. Find the junction temperature. What sink resistance would hold Tj to 200 °C?
+P: Solution. The total resistance is 1.2 °C/W, so the junction rises 57.0 × 1.2 = 68.4 °C, to 108.4 °C. The flange sits at 40 + 57.0 × 0.4 = 62.8 °C. For Tj = 200 °C, the total may be (200 − 40)/57.0 = 2.81 °C/W, so the sink could be as poor as 2.81 − 0.9 = 1.91 °C/W. The design has ample margin; the margin is what allows the amplifier to survive a hot day, a blocked fan, or a mismatched antenna.
+H2: 24.2 Combining
+P: When one device cannot supply the power, several are combined. The Wilkinson divider and combiner, the 90° hybrid, and spatial or radial combiners all add N equal, in-phase signals into one port without loss in the ideal case, and each dissipates the difference in an isolation resistor or load when the inputs are unequal. The output of an ideal combiner with N inputs is the square of the sum of the input amplitudes, divided by N. A phase error θ between two equal inputs leaves a fraction cos²(θ/2) of the power: 99.2% at 10°, 97.0% at 20°, and 93.3% at 30°. A failed device is more costly: with one of N inputs dead, the output falls to (N − 1)²/N² of full power, which is 25% for N = 2, 56% for N = 4, and 77% for N = 8. The rest is dissipated in the isolation loads, which must be rated for it.
+EQ: Pout = (Σ √Pi)² / N   (ideal N-way in-phase combiner)
+H2: Worked Example 24.2
+P: Problem. Four 100 W modules feed a combiner with 0.3 dB of loss. Find the output with all four working and with one failed.
+P: Solution. With all four, the output is 400 × 10^(−0.03) = 373 W. With one failed, the ideal output is (3√100)²/4 = 225 W, 56% of 400 W, and after the combiner loss 210 W. The isolation loads absorb 75 W, and must be rated for at least that continuously. The combined transmitter loses 2.5 dB, not the 1.25 dB that a quarter of the hardware might suggest.
+P: Key idea. Combining multiplies power but also adds loss and creates a failure mode. A combiner's output falls by more than the failed fraction, because the surviving inputs no longer add in amplitude.
+H2: 24.3 Isolator, harmonic filter, and duplexer
+P: A ferrite isolator passes power forward and diverts reflected power into a load, so the amplifier always sees close to its design impedance even when the antenna is damaged or iced. A 2:1 VSWR at the antenna reflects 11.1% of the power; without an isolator, that reflection shifts the load seen by the device and can push its voltage beyond breakdown. The harmonic filter, a lowpass after the amplifier, attenuates the second and third harmonics, which a class AB stage generates at 20 to 30 dB below the carrier and which emission limits, the subject of Book 7, typically require at 60 dB or more below. A duplexer in a frequency-division system adds the receive filter, so the transmitter and receiver can share one antenna. Each element typically costs 0.2 to 0.5 dB.
+H2: 24.4 The feed line
+P: The last loss is the line to the antenna, which can be tens of meters on a tower. A cable with 6.6 dB of loss per 100 m at 2 GHz loses 1.98 dB in 30 m, leaving 63% of the power. Mounting the amplifier at the top of the mast, as in a remote radio head or an active antenna unit, removes that loss, and the same choice on the receive side improves the noise figure, as Chapter 25 shows. That is why modern base stations put the radio beside the antenna and carry the signal down the mast on optical fiber.
+H2: Worked Example 24.3
+P: Problem. A transmitter delivers 100 W through a 0.3 dB isolator, a 0.5 dB harmonic filter and duplexer, and 1.98 dB of cable. Find the power at the antenna. How much is recovered by mounting the radio at the antenna, keeping only 0.2 dB of jumper?
+P: Solution. The losses total 2.78 dB, leaving 100 × 10^(−0.278) = 52.7 W. With the radio at the antenna, the loss is 1.0 dB, leaving 79.4 W. Moving the radio recovers 26.7 W, more than a quarter of the amplifier's output, with no change to the amplifier.
+BENCH: Compute the junction temperature with every resistance in the stack, including the interface material, which is easy to forget. Then check what happens at the highest ambient temperature with one fan failed. Device life falls steeply as junction temperature rises, so lowering it is often the best single reliability improvement. In combiners, plan for a failed module: know what the remaining modules deliver and where the lost power goes.
+H2: Practice
+P: 1. A device dissipates 30 W with a total thermal resistance of 2.5 °C/W in 45 °C air. Find Tj.
+P: 2. Two equal amplifiers combine with a 15° phase error. What fraction of the power is delivered?
+P: 3. An 8-way combiner loses one input. By how many decibels does the output fall?
+P: 4. What fraction of the power is reflected at a VSWR of 1.5?
+P: 5. Find the loss of 45 m of cable rated at 6.6 dB per 100 m, and the power left from 40 W.
+P: 6. Why must a combiner's isolation resistors be rated for more than the normal imbalance power?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Tj = Ta + Pdiss × Σθ.
+LI: Combining loss and graceful degradation.
+LI: Feeder loss after the last amplifier.
+P: Mostly for exams and deeper study
+LI: Transient thermal impedance modeling.

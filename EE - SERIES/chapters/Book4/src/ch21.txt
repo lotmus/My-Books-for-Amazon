@@ -1,0 +1,36 @@
+H1: Chapter 21. The Load Line
+P: The maximum-power-transfer theorem is the first thing taught about matching, and the first thing a power amplifier designer sets aside. A transistor can't swing beyond twice its supply or below its knee, so its best load is set by voltage swing, Ropt = (VDD − Vknee)²/(2P), not by the conjugate of its output impedance.
+P: Where you meet this: Every power amplifier output network, load-pull data in device application notes, and the impedance targets on transistor data sheets.
+P: A small-signal amplifier is matched for gain: its load is chosen so that the most power is transferred, which means a conjugate match to the device's output impedance. A power amplifier is matched for power, and that is a different load. The device can swing its voltage only between a knee, below which its current collapses, and a maximum set by the supply and breakdown, and it can swing its current only between zero and a maximum. The load that lets it use the whole of both ranges at once is the optimum load, Ropt, and finding it is the first step of every power-amplifier design. The method is due to Steve Cripps, whose RF Power Amplifiers for Wireless Communications remains the reference.
+H2: 21.1 The optimum load
+P: With a supply VDD and a knee voltage Vknee, the drain voltage can swing by VDD − Vknee on either side of the supply, so the peak fundamental voltage is VDD − Vknee. With a sinusoidal current, the fundamental output power is the product of the peak voltage and peak current divided by two. For a target output power P, the optimum load resistance follows directly, and it is a resistance at the intrinsic drain, behind the device's output capacitance and package parasitics, which the matching network must also absorb.
+EQ: Ropt = (VDD − Vknee)² / (2P)
+FIG: fig21_1.png | Figure 21.1 — The load line of a 100 W, 50 V GaN amplifier with a 5 V knee. The voltage swings 45 V each way about the 50 V bias, setting Ropt = 45²/200 = 10.13 Ω.
+H2: Worked Example 21.1
+P: Problem. Find Ropt for a 100 W amplifier on a 50 V GaN process with a 5 V knee, and on a 28 V LDMOS process with a 3 V knee. Find the ratio of 50 Ω to each, and the peak fundamental current in each case.
+P: Solution. At 50 V, Ropt = 45²/200 = 10.125 Ω, which this book writes as 10.13 Ω. At 28 V, Ropt = 25²/200 = 3.125 Ω, written 3.13 Ω. The transformation ratios to 50 Ω are 4.9 and 16. The peak fundamental currents are 2P/(VDD − Vknee) = 200/45 = 4.44 A and 200/25 = 8.0 A. The 28 V design needs nearly twice the current and so a larger device, with more output capacitance to tune out, and a matching network with three times the impedance ratio.
+H2: 21.2 Why the conjugate match is wrong
+P: The device's output resistance, the slope of its current against drain voltage, is typically hundreds of ohms for a large transistor. A conjugate match would present that resistance as the load, and the voltage swing would hit the knee and the supply long before the current reached its maximum: the device would deliver a small fraction of the power it could. The load-line match accepts a lower gain in exchange for using the full current and voltage range. The difference between the two, often 2 to 3 dB of output power, is the reason power amplifiers are designed by load-pull measurements, which sweep the load and map power and efficiency contours, rather than by small-signal S-parameters.
+P: Key idea. A power amplifier is matched for power, not gain. The optimum load is set by the voltage and current the device can swing, and at a given power it scales with the square of the voltage.
+H2: 21.3 The matching network
+P: The output network must transform 50 Ω down to Ropt and absorb the device's output capacitance. For a single L-section, Chapter 3's result gives Q = √(Rhigh/Rlow − 1). For the 50 V design, Q = √(4.94 − 1) = 1.98; for the 28 V design, Q = √(16 − 1) = 3.87. A higher Q means a narrower bandwidth, larger circulating currents, and more loss in the network's finite-Q components. Wideband or high-ratio designs use two or more sections, each with a lower ratio, or a transmission-line transformer. In a phone the problem is worse: at 3.4 V with a 0.3 V knee, 1 W needs Ropt = 3.1²/2 = 4.8 Ω, and 2 W needs 2.4 Ω, a 21:1 ratio.
+H2: Worked Example 21.2
+P: Problem. A 200 W design on the 50 V process uses the same 5 V knee. Find Ropt, the single-section Q to 50 Ω, and compare it with the 100 W design.
+P: Solution. Ropt = 45²/400 = 5.06 Ω. The ratio is 50/5.06 = 9.9, so Q = √(9.9 − 1) = 2.98. Doubling the power at the same voltage halves Ropt and raises the single-section Q from 1.98 to 2.98. To get back to the 100 W impedance level, the designer would combine two 100 W devices, Chapter 24's subject, or move to a higher supply.
+H2: 21.4 Raising the rail
+P: The scaling Ropt ∝ V²/P is the main argument of high-voltage design. Doubling the supply at constant power quadruples the optimum load and halves the current. Gallium nitride's breakdown field, about ten times that of silicon, permits 48 to 50 V supplies at microwave frequencies, and some designs use 65 V or more. The cost is that the knee voltage, the drain-source capacitance, and the trapping effects that cause memory in the amplifier's response all change with voltage, and the designer must characterize them at the operating point.
+BENCH: Start every power amplifier from the load line. It gives you the right impedance to within what load-pull will refine, and it tells you at once whether the matching ratio is reasonable. The device's output capacitance and package parasitics sit between the intrinsic drain and the package leads, and data-sheet load impedances are usually given at the leads. Check which reference plane a number refers to before you compare it with yours.
+H2: Practice
+P: 1. Find Ropt for 200 W at 50 V with a 5 V knee, and for 50 W at 28 V with a 3 V knee.
+P: 2. Find the peak fundamental drain current for 100 W at 50 V with a 5 V knee.
+P: 3. Find the single-section L-network Q to transform 50 Ω to 3.13 Ω.
+P: 4. A phone amplifier at 3.4 V has a 0.3 V knee. Find Ropt for 1 W.
+P: 5. By what factor does Ropt change when the supply is doubled at constant power and negligible knee?
+P: 6. Why is a power amplifier's output not conjugately matched?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Ropt = (VDD − Vknee)²/(2P).
+LI: Matching ratio and Q from Ropt to 50 Ω.
+LI: Why a conjugate match wastes the voltage swing.
+P: Mostly for exams and deeper study
+LI: Large-signal device model equations.

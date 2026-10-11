@@ -1,0 +1,400 @@
+H1: Appendix A. Constants and Formulas Used in This Book
+P: Speed of light c = 2.998 × 10⁸ m/s. Reference impedance Z0 = 50 Ω unless stated.
+P: Reference stripline laminate: εr = 3.55, so λg = λ0/1.884; at 2.45 GHz, λ0 = 12.24 cm and λg = 6.49 cm. Reference microstrip: 0.508 mm thick, εr = 3.55, 50 Ω width 1.14 mm, εeff ≈ 2.79.
+P: Decibels: P(dBm) = 10 log₁₀(P/1 mW); 0 dBm in 50 Ω is 0.224 V rms.
+P: Reflection: Γ = (ZL − Z0)/(ZL + Z0); VSWR = (1 + |Γ|)/(1 − |Γ|); RL = −20 log₁₀|Γ|; ML = −10 log₁₀(1 − |Γ|²).
+P: Line input impedance: Zin = Z0 (ZL + jZ0 tan βl)/(Z0 + jZL tan βl); quarter wave: Zin = Z0²/ZL.
+P: L-network: Q = √(Rhigh/Rlow − 1), Xseries = Q Rlow, Xshunt = Rhigh/Q.
+P: S-parameters: Zin = Z0(1 + S₁₁)/(1 − S₁₁); stability K = (1 − |S₁₁|² − |S₂₂|² + |Δ|²)/(2|S₁₂S₂₁|), Δ = S₁₁S₂₂ − S₁₂S₂₁.
+P: Filter prototypes, third order: Butterworth g = 1, 2, 1; Chebyshev 0.1 dB g = 1.0316, 1.1474, 1.0316. Midband loss ≈ 4.343 Σgₖ/(FBW Qu) dB.
+P: Rectangular waveguide TE₁₀ cutoff fc = c/2a; WR-90 a = 22.86 mm (6.56 GHz); WR-28 a = 7.112 mm (21.1 GHz).
+P: Antennas: half-wave dipole Rrad ≈ 73 Ω, D = 1.64 (2.15 dBi); short dipole Rrad = 80π²(l/λ)²; Ae = Gλ²/4π; dish G = ηap(πD/λ)², θ₃dB ≈ 70λ/D degrees.
+P: Link anchor: Pr/Pt = Gt Gr (λ/4πR)²; at 2.45 GHz and 100 m the path factor is 9.48 × 10⁻⁹ (−80.2 dB).
+P: Arrays: β = −kd sin θ₀; no grating lobes for d/λ < 1/(1 + |sin θmax|); broadside beamwidth ≈ 0.886λ/(Nd) rad.
+P: Wilkinson: lines √2 Z0, resistor 2Z0. Branch-line: Z0/√2 series arms. Coupled lines: Z0e = Z0√((1 + C)/(1 − C)), Z0o = Z0√((1 − C)/(1 + C)).
+P: Microstrip: εeff = (εr + 1)/2 + (εr − 1)/(2√(1 + 12h/W)). 50 Ω on εr 3.55, h 0.508 mm: W = 1.14 mm. Stripline: Z0 = 30πb/[√εr(W + 0.441b)].
+P: Bode-Fano (parallel RC): ∫ln(1/|Γ|)dω ≤ π/(RC). Chu: Qmin = 1/(ka)³ + 1/(ka). TE101: f = (c/2)√(1/a² + 1/d²).
+P: Fresnel r1 = √(λd1d2/(d1 + d2)); two-ray breakpoint 4hthr/λ; knife edge J(0) = 6 dB; rain γ = kR^α dB/km.
+P: Ferrite resonance f = γH, γ ≈ 28 GHz/T. Far field R = 2D²/λ. Gain comparison G = Gref + PAUT − Pref. Passive loss Te = (L − 1)T. Coupled filters Qe = g₀g₁/FBW, M = FBW/√(gᵢgᵢ₊₁). Series switch IL = 20 log|1 + Z/2Z₀|; ideal mixer loss 3.92 dB.
+P: dBm = 10 log₁₀(P/1 mW); 1 W = 30 dBm; 1 dB of loss leaves 0.794 of the power. EIRP = Pout − Lfeed + Gant.
+P: Load line: Ropt = (VDD − Vknee)²/(2P). 100 W: 10.13 Ω at 50 V/5 V knee; 3.13 Ω at 28 V/3 V knee.
+P: Efficiency: ηD = Pout/PDC; PAE = (Pout − Pin)/PDC. Class A 50%; class B π/4 = 78.5%; η(α) = (α − sin α)/[4(sin(α/2) − (α/2)cos(α/2))].
+P: Back-off: class A η ∝ Pout; class B η = (π/4)√(Pout/Pmax); ideal symmetric Doherty 78.5% at peak and at 6 dB back-off.
+P: OIP3 = Ptone + ΔIM3/2. SFDR = (2/3)(IIP3 − Nfloor).
+P: Thermal: Tj = Tamb + Pdiss Σθ. Ideal N-way combiner: Pout = (Σ√Pi)²/N; one of N failed leaves (N − 1)²/N².
+P: Noise: kT0 = −174 dBm/Hz at 290 K; Te = T0(F − 1); F = F1 + (F2 − 1)/G1 + (F3 − 1)/(G1G2) + ….
+P: PLL: fout = N fref; in-band noise = Lref + 20 log₁₀N. Leeson: L(Δf) ≈ 10 log₁₀{(2FkT/Ps)[1 + (f0/(2QLΔf))²]}. σφ = √(2∫L df); jitter = σφ/(2πf0).
+P: Radar: Pr = PtG²λ²σ/[(4π)³R⁴]; ΔR = c/(2B); Runamb = c·PRI/2; fd = 2v/λ; FMCW fb = 2RS/c.
+P: LNA: F = Fmin + (4Rn/Z0)|Γs − Γopt|²/[(1 − |Γs|²)|1 + Γopt|²]. Mixer image = fRF ∓ 2fIF; spurs at |m fLO ± n fRF| = fIF.
+P: Link: Lpath = 20 log₁₀(4πdf/c); C/N0 = EIRP − Lpath + G/T + 228.6 dBHz. 12 GHz, 38,000 km: 205.6 dB.
+P: |Γ| = (VSWR − 1)/(VSWR + 1); 10:1 gives 0.818, 66.9% reflected. Beam P = VI; perveance K = I/V^1.5.
+P: Exposure: S = EIRP/(4πR²); FCC public 10 W/m² (1.5–100 GHz), f/1500 mW/cm² (300–1500 MHz); ground factor 2.56.
+P: Class E (50% duty): R = 0.5768 VDD²/P, C = 0.1836/(ωR), vpk = 3.562 VDD. Outphasing: Pout = Pmax cos²φ.
+P: Class A η = 50 %, class B π/4; Ropt = (VDD − Vk)²/(2P). Class D V₁ = (2/π)VDD, capacitive loss C VDD² f. Class J: Z₁ = Ropt(1 + jα), Z₂ = −j(3π/8)αRopt. Doherty back-off peak 20 log₁₀(1 + r). Rayleigh envelope: Pr{p > k⟨p⟩} = exp(−k); class B average ⟨η⟩ = (π/4)⟨v²⟩/⟨v⟩. Boost capacitor C = It/ΔV; delay error ≈ πBΔt.
+P: PAE = (Pout − Pin)/PDC; P_IM3 = 3Pout − 2·OIP3; class B η = (π/4)10^(−BO/20). Fractional-N: fout = (N + F/2^k)fref; in-band L ≈ FOM + 10 log f_PFD + 20 log N. DDS: fout = FTW·fclk/2^n, spur ≈ −6.02P dBc. Directivity error 20 log(1 ± 10^(−(RL + D)/20)).
+H1: Appendix B. Answers to the Practice Problems
+H2: Chapter 1
+P: 1. λ0 = 2.998 × 10⁸/5.8 × 10⁹ = 5.17 cm; λg = 5.17/1.884 = 2.74 cm.
+P: 2. λg must be 20 cm, so f = 2.998 × 10⁸/(1.884 × 0.20) = 0.80 GHz.
+P: 3. 27 dBm = 10^2.7 mW = 501 mW. −90 dBm = 10⁻¹² W; V = √(10⁻¹² × 50) = 7.07 µV rms.
+P: 4. f = 1/(2π √(0.6 × 10⁻⁹ × 100 × 10⁻¹²)) = 650 MHz.
+P: 5. −30 + 20 − 2 − 6 = −18 dBm.
+P: 6. At series resonance the capacitive and inductive reactances cancel and only the small ESR remains, so the part is the closest thing to a short circuit available for coupling or bypassing at that frequency.
+H2: Chapter 2
+P: 1. vp = 2.55 × 10⁸ m/s; C = 1/(75 × 2.55 × 10⁸) = 52.3 pF/m; L = 75/2.55 × 10⁸ = 294 nH/m.
+P: 2. Γ = 25/125 = 0.20; VSWR = 1.5; RL = 14.0 dB; ML = 0.18 dB.
+P: 3. Γ = (25 − 50)/75 = −1/3, so |Γ| = 0.333 and VSWR = 2.0; the negative sign says the load is below Z0.
+P: 4. Zin = 50²/200 = 12.5 Ω.
+P: 5. Zin = −jZ0 cot 45° = −j50 Ω, so C = 1/(2π × 2.45 × 10⁹ × 50) = 1.30 pF.
+P: 6. Any length of line between the load and the measurement point rotates the impedance by 2βl, so the same load reads differently at every plane; the number has meaning only at a stated plane.
+H2: Chapter 3
+P: 1. Q = √(50/5 − 1) = 3.0. Series reactance 15 Ω, L = 15/(2π × 900 MHz) = 2.65 nH. Shunt reactance 50/3 = 16.7 Ω, C = 10.6 pF.
+P: 2. Q = √(200/50 − 1) = 1.73. The shunt element (an inductor in the high-pass form) goes across the 200 Ω side, and the series capacitor faces the 50 Ω side.
+P: 3. Rv = 50/(64 + 1) = 0.77 Ω.
+P: 4. R = 15/30 = 0.5 Ω in series with 5 Ω; 5/5.5 = 0.909, a loss of 0.41 dB.
+P: 5. 20 − 8 = 12 Ω of inductive reactance, since the load supplies j8 Ω.
+P: 6. Each section transforms by the square root of the total ratio, so each has a lower Q; the cascade has wider bandwidth and lower component loss than a single high-Q section.
+H2: Chapter 4
+P: 1. Zq = √(100 × 50) = 70.7 Ω.
+P: 2. The formula is symmetric in Z0 and RL, so the bandwidth for 100 to 50 Ω equals that for 25 to 50 Ω, a ratio of 2 in each case: 36.7%.
+P: 3. YL = 1/(25 − j25) = 0.02 + j0.02 S, so its conductance is already 1/50 S. A stub must supply −j0.02 S, so −j cot βl = −j1 and l = λ/8.
+P: 4. The reflection coefficient's phase changes by 2βd = 2 × 360° × 0.1 = 72°, clockwise.
+P: 5. The 29.7 Ω section sits next to the 25 Ω load and the 42.0 Ω section next to the 50 Ω line.
+P: 6. The reactance of a line or stub changes with frequency in proportion to its electrical length, so shorter elements drift less from their design values as the frequency moves.
+H2: Chapter 5
+P: 1. RL = 20 dB; IL = −20 log₁₀ 0.995 = 0.04 dB. |S₁₁|² + |S₂₁|² = 0.01 + 0.990 = 1.000, so it is lossless within the precision given.
+P: 2. Zin = 50 (1 + S₁₁)/(1 − S₁₁) = 68.3 − j31.9 Ω.
+P: 3. 20 log₁₀(1 ± 0.06) = +0.51 dB to −0.54 dB.
+P: 4. K = (1 − 0.25 − 0.25 + 0.167)/(2 × 0.2) = 1.67. With K > 1 and |Δ| < 1, it is unconditionally stable.
+P: 5. S₁₂ = S₂₁ = 0.7∠−30°.
+P: 6. Ideal opens and shorts cannot be made at microwave frequencies, and an active device terminated in them may oscillate; matched terminations are realizable and keep the device stable during measurement.
+H2: Chapter 6
+P: 1. C₁ = C₃ = 1/(50 × 2π × 500 MHz) = 6.37 pF; L₂ = 2 × 50/(2π × 500 MHz) = 31.8 nH.
+P: 2. 10 log₁₀(1 + 3⁶) = 28.6 dB.
+P: 3. 4.343 × 3.21/(0.02 × 500) = 1.39 dB.
+P: 4. λ0 = 24.98 mm; λg = 24.98/√(1 − (6.56/12)²) = 29.8 mm.
+P: 5. fc = 2.998 × 10⁸/(2 × 0.0158) = 9.49 GHz.
+P: 6. The midband loss is inversely proportional to the resonators' Qu, and at high power that loss is heat; a cavity's Q is roughly ten times that of microstrip, so it dissipates a tenth of the power and also handles the voltage and heat.
+H2: Chapter 7
+P: 1. λ = 5.17 cm, so 0.48λ = 2.48 cm.
+P: 2. η = 5/8 = 0.625; G = 0.625 × 1.5 = 0.94, or −0.28 dBi.
+P: 3. (0.1224/(4π × 1000))² = 9.48 × 10⁻¹¹, or −100.2 dB.
+P: 4. λ = 3.0 cm; G = 0.6 × (π × 0.3/0.03)² = 592, or 27.7 dBi; θ₃dB ≈ 70 × 0.03/0.3 = 7.0°.
+P: 5. G = 3.98; Ae = 3.98 × 0.1224²/(4π) = 4.74 × 10⁻³ m², about 47 cm².
+P: 6. A circular wave can be split into two equal linear components at right angles with a 90° phase difference; a linear antenna at any angle captures exactly one of the two equal halves of the power.
+H2: Chapter 8
+P: 1. β = −180° × sin 45° = −127.3°.
+P: 2. 6 + 10 log₁₀ 64 = 24.1 dBi.
+P: 3. 0.886/(32 × 0.5) = 0.0554 rad = 3.2°.
+P: 4. d/λ < 1/(1 + 0.5) = 0.667.
+P: 5. Step 11.25°, σ = 3.25° = 0.0567 rad, loss = 4.343 × 0.0567² = 0.014 dB.
+P: 6. The link factor improves by 20 log₁₀(60/2.45) = 27.8 dB. At 100 m the 60 GHz oxygen absorption of about 15 dB/km takes back only 1.5 dB.
+H2: Chapter 9
+P: 1. 106.1 Ω lines and a 150 Ω resistor.
+P: 2. 9.03 dB.
+P: 3. 45 dB.
+P: 4. 16.1 to 27.2 dB.
+P: 5. The reflections from the two identical amplifiers return through the input hybrid 180° apart at the input port and in phase at the isolated port, where the load absorbs them.
+P: 6. The S-matrix of a lossless reciprocal network must be unitary and symmetric, and for three ports those conditions cannot hold with all diagonal terms zero.
+H2: Chapter 10
+P: 1. About 2.78.
+P: 2. 10.7/√2.78 = 6.42 mm.
+P: 3. W/b = 30π/(√3 × 50) − 0.441 = 0.647, so W = 0.52 mm.
+P: 4. About 0.074 dB/cm, since dielectric loss scales with frequency.
+P: 5. Its field lies entirely within the homogeneous dielectric between the planes.
+P: 6. Thin substrates push the cutoff of surface-wave and higher-order modes above the operating frequency and keep the traces narrow enough for the small structures at those wavelengths.
+H2: Chapter 11
+P: 1. Q = 2.
+P: 2. 70.7 Ω and 141.4 Ω.
+P: 3. The exponent is 2.5, so Γ = 0.082, a return loss of 21.7 dB.
+P: 4. Δf = 1/(2RC ln(1/Γ)) = 4.34 GHz.
+P: 5. It allows a controlled ripple within the passband instead of requiring a maximally flat response, which spreads the zeros of reflection across the band.
+P: 6. It absorbs the device capacitances into an artificial transmission line whose characteristic impedance is resistive over a wide band, so no single capacitance has to be matched.
+H2: Chapter 12
+P: 1. 8.89 GHz.
+P: 2. 2500.
+P: 3. 4.343 × 5/(0.005 × 10,000) = 0.43 dB.
+P: 4. Q scales as √σ, so 3000.
+P: 5. Its walls enclose the fields completely, so energy can be lost only in the walls, the dielectric, or the coupling ports.
+P: 6. They are far too large; handsets use acoustic resonators, whose wavelengths, with sound speeds of a few thousand to about 11,000 m/s, are tens of thousands of times smaller than electromagnetic ones at the same frequency.
+H2: Chapter 13
+P: 1. 86.3 mm.
+P: 2. ka = 0.546 and Qmin = 8.0.
+P: 3. 17.6 dBi; the horn is half the size at twice the frequency, so its gain is unchanged.
+P: 4. As the fourth power of the diameter, since it goes as the square of the area.
+P: 5. The ground plane reflects all the radiation into the upper half-space, so the same power is concentrated into half the solid angle.
+P: 6. Loss lowers the Q and widens the bandwidth beyond what the size limit would allow for a lossless antenna, at the cost of efficiency.
+H2: Chapter 14
+P: 1. 2.50 m.
+P: 2. 2.80 km.
+P: 3. 122.0 dB in free space, 129.5 dB with absorption.
+P: 4. About 6.0 dB.
+P: 5. About 10.2 dB.
+P: 6. The direct and reflected waves nearly cancel, and the residual depends on the antenna heights and distance; the λ² of the free-space term cancels against the λ dependence of the path difference.
+H2: Chapter 15
+P: 1. 1.4 GHz.
+P: 2. |Γ| = 1/3, so 11.1% of the power.
+P: 3. √(10^(−2.5)) = 0.056.
+P: 4. The power leaves at port 3; an ideal circulator routes port 2 to port 3.
+P: 5. 21 dBm.
+P: 6. If the antenna is disconnected or shorted, all the forward power is reflected and routed to the termination.
+H2: Chapter 16
+P: 1. 3.0 m.
+P: 2. 4.0 m.
+P: 3. 16.5 dBi.
+P: 4. −72.4 dB.
+P: 5. 10.0 dBi.
+P: 6. Half a wavelength.
+H2: Chapter 17
+P: 1. 169.6 K.
+P: 2. 1.00 dB.
+P: 3. 288.6 K.
+P: 4. −114.0 dBm.
+P: 5. 2.3 dB.
+P: 6. 149.7 K.
+H2: Chapter 18
+P: 1. 20.6.
+P: 2. 0.0460.
+P: 3. About 1.80 cm.
+P: 4. 0.70 dB.
+P: 5. |Ω| = 3.16.
+P: 6. 25.0 dB.
+H2: Chapter 19
+P: 1. 0.17 dB.
+P: 2. 9.3 dB.
+P: 3. 22.6 dB.
+H2: Chapter 20
+P: 1. 37.0 dBm, 54.0 dBm, and 63.0 dBm.
+P: 2. 43.0 − 3 + 12 = 52.0 dBm; the cable delivers 10.0 W and loses 10.0 W.
+P: 3. 10^(−0.2) = 0.631.
+P: 4. GaN-on-SiC: it operates well above 3 GHz at 28 to 50 V with high power density and good heat removal; LDMOS is near its upper frequency limit there.
+P: 5. 1 dB in total, so 40/0.794 = 50.4 W.
+P: 6. At a given power, a higher voltage swing means a smaller current and a higher optimum load resistance, closer to 50 Ω, so the matching network needs a smaller transformation ratio, a lower Q, and less loss.
+H2: Chapter 21
+P: 1. 45²/400 = 5.06 Ω; 25²/100 = 6.25 Ω.
+P: 2. 200/45 = 4.44 A.
+P: 3. Q = √(50/3.125 − 1) = 3.87.
+P: 4. 3.1²/2 = 4.8 Ω.
+P: 5. By four.
+P: 6. A conjugate match would present the device's high output resistance as the load, so the voltage would limit at the knee and supply long before the current reached its maximum, delivering much less power than the load-line match.
+H2: Chapter 22
+P: 1. ηD = 50/75 = 66.7%; PAE = 49/75 = 65.3%; Pdiss = 75 + 1 − 50 = 26 W.
+P: 2. 60.2%.
+P: 3. The device conducts for only part of the cycle, so for a given drive amplitude the fundamental output current is smaller; reaching full current needs a larger input swing, and the gain falls.
+P: 4. PDC = 333.3 W, so 133.3 W is dissipated.
+P: 5. Pout = 1 W, Pin = 0.158 W, PDC = 2 W; PAE = (1 − 0.158)/2 = 42.1%.
+P: 6. The switch voltage is zero, and its slope is zero, at the instant the switch closes, so no charge is dumped from the shunt capacitor.
+H2: Chapter 23
+P: 1. 20 + 46/2 = 43 dBm.
+P: 2. 46 + 2 × 3 = 52 dBc.
+P: 3. (π/4) × 10^(−0.5) = 24.8%.
+P: 4. (π/4) × 0.316/0.5 = 49.7%.
+P: 5. Average 200 × 10^(−0.9) = 25.2 W; DC 25.2/0.55 = 45.8 W.
+P: 6. The tones fall 1 dB per decibel of input while third-order products fall 3 dB, so their ratio grows by 2 dB.
+H2: Chapter 24
+P: 1. 45 + 30 × 2.5 = 120 °C.
+P: 2. cos²(7.5°) = 98.3%.
+P: 3. (7/8)² = 0.766, a fall of 1.16 dB.
+P: 4. |Γ| = 0.5/2.5 = 0.2, so 4.0%.
+P: 5. 2.97 dB, leaving 40 × 10^(−0.297) = 20.2 W.
+P: 6. When a device fails, the isolation loads absorb a large part of the surviving devices' power, which is far more than the small imbalance of normal operation.
+H2: Chapter 25
+P: 1. 290 × (1.585 − 1) = 170 K.
+P: 2. F = 1.202 + (15.85 − 1)/100 = 1.351, or 1.31 dB.
+P: 3. −174 + 73.0 + 2 = −99.0 dBm.
+P: 4. (2/3)(0 + 99.0) = 66.0 dB.
+P: 5. −30 − 120 + 60 = −90 dBm.
+P: 6. A passive loss at T0 attenuates the signal but delivers the same thermal noise power kT0B, so the SNR falls by the loss, and nothing before it provides gain to hide it.
+H2: Chapter 26
+P: 1. 20 log₁₀145 = 43.2 dB.
+P: 2. It falls by 3 dB, since the noise term is divided by Ps.
+P: 3. σφ = √(2 × 10⁻¹⁰ × 999,000) = 0.0141 rad = 0.81°; jitter = 0.0141/(2π × 10⁹) = 2.25 ps.
+P: 4. N = 145; −150 + 43.2 = −106.8 dBc/Hz.
+P: 5. Twice the 100 kHz value: 63.8 µs.
+P: 6. The divider makes the loop multiply the reference's phase deviations by N, so the reference's noise appears at the output raised by 20 log₁₀N; a smaller N multiplies it less.
+H2: Chapter 27
+P: 1. 2⁴ = 16.
+P: 2. c/(2 × 150 MHz) = 1.0 m.
+P: 3. c × 500 µs/2 = 75 km.
+P: 4. 1 kW × 0.001 = 1 W.
+P: 5. 15.4 kHz.
+P: 6. S = 10¹⁴ Hz/s, so fb = 2 × 100 × 10¹⁴/2.998 × 10⁸ = 66.7 MHz.
+H2: Chapter 28
+P: 1. F = 1.259 + 0.8 × 0.16/|1 + j0.4|² = 1.259 + 0.128/1.16 = 1.369, or 1.36 dB.
+P: 2. F = 1.122 × (1.259 + (10 − 1)/100) = 1.122 × 1.349 = 1.514, or 1.80 dB.
+P: 3. A real, noiseless resistive part, ωT Ls, which moves the input match toward the noise-optimum condition.
+P: 4. (15.85 − 1)/31.6 = 0.47.
+P: 5. If it has less gain, the following stages' noise is divided by a smaller number and may raise the system noise figure by more than the device's own improvement.
+P: 6. The reflections of the two identical halves reach the input through 90° hybrids with a 180° relative phase and cancel, being dissipated in the hybrid's isolated load.
+H2: Chapter 29
+P: 1. fLO = 6.8 GHz; the image is at 7.8 GHz.
+P: 2. fLO = 830 MHz; the half-IF spur is at fRF − fIF/2 = 865 MHz.
+P: 3. 45 dB.
+P: 4. About 6.5 dB.
+P: 5. The image lies 2fIF from the wanted signal, so a higher IF moves it farther away, where a filter can attenuate it more easily.
+P: 6. The oscillator is at the carrier frequency, so any leakage appears in the middle of the transmitted channel, where it raises the EVM and cannot be filtered out.
+P: 7. 3.92 dB.
+P: 8. About +17 dBm.
+H2: Chapter 30
+P: 1. 126.1 dB.
+P: 2. 20 + 30 − 120 + 30 = −40 dBm.
+P: 3. Path loss 209.6 dB; C/N0 = 50 − 209.6 + 10 + 228.6 = 79.0 dBHz; C/N = 79.0 − 70.0 = 9.0 dB.
+P: 4. 290(10^0.15 − 1) = 119.6 K.
+P: 5. 20 log10 3 = 9.5 dB.
+P: 6. Received C/N0 depends on antenna gain and system noise temperature only through their ratio, so G/T captures the receiving station's whole contribution in one number.
+H2: Chapter 31
+P: 1. |Γ| = 0.333, return loss 9.5 dB, 11.1% reflected.
+P: 2. 70.7 V matched; |Γ| = 0.667, so the worst case is 117.9 V.
+P: 3. 75% of the power, or −1.25 dB.
+P: 4. With zero gate voltage the device is fully on, so powering the drain first would draw an uncontrolled current that can destroy it.
+P: 5. The smallest reflection it can measure, because forward power leaking into the reverse port masks a weak reflection.
+P: 6. The ballast resistor provides negative feedback against the falling base-emitter voltage as the device heats, preventing thermal runaway and current hogging between cells.
+H2: Chapter 32
+P: 1. 40 kW; perveance 2/(2 × 10⁴)^1.5 = 0.71 µperv.
+P: 2. γ = 1.039, so v = 0.272c.
+P: 3. 1429 W in; 429 W of heat.
+P: 4. The klystron interacts through resonant cavities, which have narrow bandwidths; the helix is a nonresonant slow-wave structure whose phase velocity is nearly constant over a wide band.
+P: 5. It decelerates the spent electrons with a retarding voltage before they land, returning part of their energy to the supply and raising efficiency.
+P: 6. 2400 × 10^(−0.05) = 2.14 kW.
+H2: Chapter 33
+P: 1. 10 W/m².
+P: 2. 600/1500 = 0.4 mW/cm², or 4 W/m².
+P: 3. 50 / (4π × 9) = 0.44 W/m².
+P: 4. √(1000 / (4π × 10)) = 2.82 m.
+P: 5. E = √(S × 377 Ω) = 61.4 V/m.
+P: 6. The head is in the antenna's reactive near field, where power density is not well defined and the energy couples directly into tissue, so the absorbed power per mass is what matters.
+H2: Chapter 34
+P: 1. −170 dBm/Hz.
+P: 2. 10 log10(1 + 10^(−0.6)) = 0.97 dB.
+P: 3. Noise floor −174 + 70 + 4 = −100 dBm, so 123 dB.
+P: 4. −27 dBm.
+P: 5. The receiver is not listening while the transmitter is on, so only the switch's isolation and settling matter, not continuous isolation during transmission.
+P: 6. The noise lies at the same frequencies as the wanted signal, so any filter that removed it would also remove the signal; it has to be stopped before it reaches the receiver.
+H2: Chapter 35
+P: 1. R = 0.5768 × 144/10 = 8.31 Ω; C = 0.1836/(2π × 13.56 × 10⁶ × 8.31) = 259 pF.
+P: 2. 3.562 × 12 = 42.7 V.
+P: 3. 1292 MHz.
+P: 4. 78.5%, the class B value.
+P: 5. Its peak voltage is about 3.6 times the supply, and GaN's high breakdown voltage tolerates that swing at a useful supply voltage.
+P: 6. Each additional harmonic adds less to the fundamental amplitude, so the first two or three do most of the waveform shaping; the device capacitance also suppresses the higher harmonics.
+H2: Chapter 36
+P: 1. 78.5% × 10^(−0.5) = 24.8%.
+P: 2. 56%.
+P: 3. cos²φ = 0.5, so φ = 45°.
+P: 4. About 60 to 100 MHz.
+P: 5. The envelope's bandwidth is several times the signal's, and the amplitude and phase paths must be aligned precisely; efficient supply modulators cannot follow a wide envelope.
+P: 6. At back-off, the two amplifiers' outputs partially cancel, and an isolating combiner dissipates the cancelled power in its isolation resistor instead of returning it.
+H2: Chapter 37
+P: 1. 19.4 Ω.
+P: 2. 56.3%.
+P: 3. 20.6%.
+P: 4. −15 dBm, 40 dB below each tone.
+P: 5. 46 dB.
+P: 6. 6 dB.
+H2: Chapter 38
+P: 1. 21.
+P: 2. About 100 MHz.
+P: 3. 31.3%.
+P: 4. 78.5%.
+P: 5. The predistorter only changes the input; the amplifier's maximum output is fixed by its supply and device, so peaks beyond saturation cannot be restored.
+P: 6. Any two of: bias-network impedance at the envelope frequency, thermal changes in the device, and charge trapping in GaN.
+H2: Chapter 39
+P: 1. 47.7 Hz.
+P: 2. N = 116, F = 0.
+P: 3. −113.7 dBc/Hz.
+P: 4. About 8.9 µHz.
+P: 5. About −72 dBc.
+P: 6. 3 dB.
+H2: Chapter 40
+P: 1. 3 dB.
+P: 2. +0.09 dB and −0.09 dB.
+P: 3. 63 dB.
+P: 4. 31.6 mW.
+P: 5. It responds to the signal's peaks, and OFDM's peaks are 8 to 10 dB above its average power.
+P: 6. The input power in decibels, over a wide range.
+H2: Chapter 41
+P: 1. The current Imax/2 + (Imax/2) sin ωt has IDC = Imax/2 and I₁ = Imax/2. With V₁ = VDD, Pout = VDD Imax/4 and PDC = VDD Imax/2, so η = 50 %.
+P: 2. 74.4 %.
+P: 3. V₁ = (2/π) × 24 = 15.3 V, so Pout = 15.3²/16 = 14.6 W.
+P: 4. R = 0.5768 × 784/25 = 18.1 Ω; C = 0.1836/(2π × 10⁹ × 18.1) = 1.62 pF.
+P: 5. Ropt = 11²/10 = 12.1 Ω; Z₂ = −j(3π/8) × 12.1 = −j14.3 Ω.
+P: 6. 20 log₁₀ 2.5 = 8.0 dB.
+P: 7. exp(−10^0.4) = exp(−2.51) = 8.1 %.
+P: 8. 0.5 × 2 × 10⁻⁶ / 0.25 = 4.0 µF.
+P: 9. 0.01/(π × 40 × 10⁶) = 80 ps.
+P: 10. The supply becomes a fixed function of the input envelope, so the amplifier and modulator act as one nonlinear system with memory that a memory polynomial can model and invert; an independently varying supply would add a second input the predistorter cannot see.
+H1: Appendix C. Sources
+P: Chris Bowick, RF Circuit Design, 2nd edition, for the practical start of Chapters 1 to 3.
+P: David M. Pozar, Microwave Engineering, 4th edition; Michael Steer, Microwave and RF Design, volumes 1 to 3 (open textbook), for lines, matching, S-parameters, filters, and waveguide.
+P: Guillermo Gonzalez, Microwave Transistor Amplifiers, for stability and gain from S-parameters.
+P: George Matthaei, Leo Young, and E. M. T. Jones, Microwave Filters, Impedance-Matching Networks, and Coupling Structures, and Jia-Sheng Hong, Microstrip Filters for RF/Microwave Applications, for Chapter 6.
+P: Constantine Balanis, Antenna Theory, 4th edition, and John Volakis (editor), Antenna Engineering Handbook, for Chapters 7 and 8; Robert Mailloux, Phased Array Antenna Handbook, for arrays.
+P: E. Hammerstad and Ø. Jensen, "Accurate Models for Microstrip Computer-Aided Design" (IEEE MTT-S, 1980), for the microstrip numbers. The MIT Radiation Laboratory Series is the historical record of the field.
+P: ITU-R Recommendations P.676 (gaseous attenuation) and P.838 (rain) for millimeter-wave propagation.
+P: E. J. Wilkinson, "An N-Way Hybrid Power Divider," IRE Transactions on Microwave Theory and Techniques, 1960, for Chapter 9.
+P: E. O. Hammerstad, "Equations for Microstrip Circuit Design," European Microwave Conference, 1975, and H. A. Wheeler, "Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane," IEEE MTT, 1977, for Chapter 10.
+P: R. M. Fano, "Theoretical Limitations on the Broadband Matching of Arbitrary Impedances," Journal of the Franklin Institute, 1950, for Chapter 11.
+P: L. J. Chu, "Physical Limitations of Omni-Directional Antennas," Journal of Applied Physics, 1948, and Constantine A. Balanis, Antenna Theory, 4th edition, for Chapter 13.
+P: ITU-R Recommendations P.526 (diffraction), P.676 (gaseous attenuation), and P.838 (rain), for Chapter 14.
+P: Benjamin Lax and Kenneth J. Button, Microwave Ferrites and Ferrimagnetics, and Pozar, Chapter 9, for Chapter 15; IEEE Std 149, Test Procedures for Antennas, and Gary E. Evans, Antenna Measurement Techniques, for Chapter 16.
+P: Jia-Sheng Hong, Microstrip Filters for RF/Microwave Applications, for the coupling-matrix design of Chapter 18; Stephen A. Maas, Microwave Mixers, for Chapter 19.
+P: Steve C. Cripps, RF Power Amplifiers for Wireless Communications, 2nd edition, and Advanced Techniques in RF Power Amplifier Design, for the load line, classes, and Doherty (Chapters 21 to 23).
+P: Andrei Grebennikov, Nathan O. Sokal, and Marc J. Franco, Switchmode RF and Microwave Power Amplifiers, for classes E and F.
+P: Peter B. Kenington, High-Linearity RF Amplifier Design, for intermodulation and predistortion.
+P: Kevin McClaning, Wireless Receiver Design for Digital Communications, and Behzad Razavi, RF Microelectronics, 2nd edition, for noise cascades, dynamic range, and oscillators (Chapters 25 and 26).
+P: Floyd M. Gardner, Phaselock Techniques, 3rd edition, and Roland E. Best, Phase-Locked Loops, for the PLL; D. B. Leeson, "A Simple Model of Feedback Oscillator Noise Spectrum," Proceedings of the IEEE, 1966.
+P: Merrill I. Skolnik, Introduction to Radar Systems, 3rd edition, and Mark A. Richards, Fundamentals of Radar Signal Processing, for Chapter 27.
+P: W. H. Doherty, "A New High Efficiency Power Amplifier for Modulated Waves," Proceedings of the IRE, 1936.
+P: Les Besser and Rowan Gilmore, Practical RF Circuit Design for Modern Wireless Systems, and Guillermo Gonzalez, Microwave Transistor Amplifiers, 2nd edition, for the LNA and mixers (Chapters 28 and 29).
+P: David M. Pozar, Microwave Engineering, 4th edition, for the link equation (Chapter 30).
+P: Jerry C. Whitaker, Power Vacuum Tubes Handbook, and A. S. Gilmour, Klystrons, Traveling Wave Tubes, Magnetrons, Crossed-Field Amplifiers, and Gyrotrons, for Chapter 32.
+P: IEEE C95.1-2019; ICNIRP Guidelines for Limiting Exposure to Electromagnetic Fields (100 kHz to 300 GHz), 2020; 47 CFR 1.1310; and FCC OET Bulletin 65, for Chapter 33.
+P: N. O. Sokal and A. D. Sokal, "Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers," IEEE JSSC, 1975; Marian K. Kazimierczuk, RF Power Amplifiers, 2nd edition; and F. H. Raab, "Maximum Efficiency and Output of Class-F Power Amplifiers," IEEE MTT, 2001, for Chapter 35.
+P: F. H. Raab et al., "Power Amplifiers and Transmitters for RF and Microwave," IEEE MTT, 2002, and H. Chireix, "High Power Outphasing Modulation," Proceedings of the IRE, 1935, for Chapter 36.
+P: Steve C. Cripps, RF Power Amplifiers for Wireless Communications, 2nd edition, and Fadhel M. Ghannouchi, Oualid Hammi, and Mohamed Helaoui, Behavioral Modeling and Predistortion of Wideband Wireless Transmitters, for Chapters 37 and 38; 3GPP TS 38.104 and 38.101-1 for ACLR and power-control requirements.
+P: Dean Banerjee, PLL Performance, Simulation, and Design, and Analog Devices, A Technical Tutorial on Digital Signal Synthesis, for Chapter 39; Analog Devices and Texas Instruments application notes on RF power detectors, for Chapter 40.
+P: Steve C. Cripps, RF Power Amplifiers for Wireless Communications, 2nd edition, and P. Wright, J. Lees, J. Benedikt, P. J. Tasker, and S. C. Cripps, "A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA," IEEE Trans. MTT, 2009, for class J and the continuous modes; L. R. Kahn, "Single-Sideband Transmission by Envelope Elimination and Restoration," Proceedings of the IRE, 1952; Zhancang Wang, Envelope Tracking Power Amplifiers for Wireless Communications, Artech House, 2014; and F. H. Raab et al. (IEEE MTT, 2002) for the comparison of classes, for Chapter 41.
+P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+H1: About the Author
+P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+H1: Also by Lothar J. Musiol
+P: Physics, Actually
+P: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+P: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+P: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+P: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+P: More Actually Books
+P: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+P: The Universe, Actually: What Humanity Currently Understands About Reality
+P: Math, Actually
+P: Math, Actually, Volume 1: From Arithmetic to Calculus
+P: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+P: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+P: Math, Actually, Volume 4: From Category Theory to the Frontier
+P: Quantum, Actually
+P: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+P: Quantum, Actually, Volume 2: A QED Course
+P: Science Sparks
+P: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+P: Look First
+P: Look First, Volume 1: The Universe Has No Now
+P: Look First, Volume 2: A Trip Is Not a New Life
+P: Electrical Engineering Series
+P: Foundations of Electronics (Book 1)
+P: Circuits, Components, and Control (Book 2)
+P: Semiconductor Physics and Devices (Book 3)
+P: Communications, Wireless, and SDR (Book 5)
+P: Power and Energy (Book 6)
+P: Packaging, Layout, EMC, and Test (Book 7)
+P: History
+P: The Dolphins’ View of History
+P: Fiction
+P: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+P: In German
+P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
