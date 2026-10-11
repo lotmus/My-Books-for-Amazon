@@ -215,12 +215,37 @@ def front():
     im.alpha_composite(sheet, (1164 * S, 1570 * S))
     d = ImageDraw.Draw(im)
     d.ellipse(P((1306, 1572), (1326, 1592)), fill=GOLD)
+    # Mrs Marsh's ruling, on a sticky note left of the door (Ch19: 'It is not decorative. It is a platform.')
+    note = Image.new('RGBA', (230 * S, 200 * S), (0, 0, 0, 0)); nd = ImageDraw.Draw(note)
+    nd.rectangle([0, 0, 230 * S, 200 * S], fill=(246, 214, 92))
+    nd.rectangle([0, 0, 230 * S, 26 * S], fill=(236, 200, 74))
+    nf = F(TITLE, 22); y_ = 40
+    for ln in ['IT IS NOT', 'DECORATIVE.', 'IT IS A', 'PLATFORM.']:
+        nd.text((16 * S, y_ * S), ln, font=nf, fill=(40, 34, 30)); y_ += 30
+    nd.text((16 * S, 166 * S), '– Mgmt', font=F(EBI, 22, 500), fill=(60, 50, 40))
+    note = note.rotate(-6, resample=Image.BICUBIC, expand=True)
+    sh2 = Image.new('RGBA', note.size, (0, 0, 0, 0)); sh2.putalpha(note.split()[3].point(lambda v: v // 2))
+    im.alpha_composite(sh2.filter(ImageFilter.GaussianBlur(6 * S)), (76 * S, 1610 * S))
+    im.alpha_composite(note, (66 * S, 1598 * S))
+    d = ImageDraw.Draw(im)
+    # Derek's mug on the carpet, right of the light (its chipped base made the ring)
+    mx0, my0, mx1, my1 = 1290, 2318, 1420, 2448
+    d.ellipse(P((mx0 - 16, my1 - 14), (mx1 + 16, my1 + 14)), fill=(30, 12, 16))
+    d.rounded_rectangle(P((mx0, my0), (mx1, my1)), radius=12 * S, fill=(236, 232, 222))
+    d.arc(P((mx1 - 24, my0 + 26), (mx1 + 40, my0 + 96)), 270, 90, fill=(236, 232, 222), width=12 * S)
+    d.ellipse(P((mx0, my0 - 12), (mx1, my0 + 12)), fill=(214, 208, 196))
+    d.ellipse(P((mx0 + 8, my0 - 6), (mx1 - 8, my0 + 8)), fill=(120, 76, 44))
+    mf = F(TITLE, 19)
+    for k, ln in enumerate(['MIND', 'THE', 'ORDER']):
+        tw = d.textlength(ln, font=mf)
+        d.text((((mx0 + mx1) / 2) * S - tw / 2, (my0 + 26 + k * 28) * S), ln, font=mf, fill=(30, 40, 70))
     # --- type ---
-    sl = F(CINZEL, 46, 700)
-    w = spaced(d, (800 * S, 70 * S), 'RELATIVISTIC INVESTIGATION BUREAU', sl, GOLD, track=4)
-    d.line(P((40, 100), (800 - w / S / 2 - 24, 100)), fill=GOLD, width=3 * S)
-    d.line(P((800 + w / S / 2 + 24, 100), (1560, 100)), fill=GOLD, width=3 * S)
-    spaced(d, (800 * S, 136 * S), 'BOOK 2', F(CINZEL, 40, 700), CREAM, track=10)
+    sl = F(CINZEL, 40, 700)
+    w = spaced(d, (800 * S, 66 * S), 'RELATIVISTIC INVESTIGATION BUREAU, BOOK 2', sl, GOLD, track=3)
+    d.line(P((40, 92), (800 - w / S / 2 - 20, 92)), fill=GOLD, width=3 * S)
+    d.line(P((800 + w / S / 2 + 20, 92), (1560, 92)), fill=GOLD, width=3 * S)
+    # the hook: true to the plot (the sheet arrives on Monday and is printed on Tuesday)
+    spaced(d, (800 * S, 124 * S), 'The warning came before it was written.', F(EBI, 50, 520), CREAM)
     # ornament with RIB monogram
     yo = 228
     d.line(P((260, yo), (730, yo)), fill=GOLD, width=2 * S); d.line(P((870, yo), (1340, yo)), fill=GOLD, width=2 * S)
@@ -274,10 +299,11 @@ def back():
         else:
             d.line(P((L + 120, y), (780, y)), fill=GOLD, width=2 * S); d.line(P((820, y), (R - 120, y)), fill=GOLD, width=2 * S)
             d.polygon(P((800, y - 9), (809, y), (800, y + 9), (791, y)), fill=GOLD)
-    hook = F(CINZEL, 64, 700)
-    y = 150
-    for ln in ['A WARNING DATED TOMORROW.', 'A DOOR ONTO A RAILWAY.', 'A VOICE THAT CAME TOO LATE.']:
-        spaced(d, (800 * S, y * S), ln, hook, GOLD, track=2); y += 92
+    hook = F(CINZEL, 58, 700)
+    y = 120
+    for ln in ['A WARNING DATED TOMORROW.', 'A DOOR THAT OPENS ONTO A RAILWAY.', 'AND HIS OWN VOICE SAYING', '“DON’T OPEN THE DOOR.”']:
+        spaced(d, (800 * S, y * S), ln, hook, GOLD, track=2); y += 82
+    spaced(d, (800 * S, (y + 4) * S), 'Afterwards.', F(EBI, 60, 520), CREAM); y += 84
     y += 30; rule(y); y += 60
     body = F(EB, 46, 420); lead = 64
     for t in ["On the Monday morning that Derek Gent closes the case of the murder that never happened, a sheet of paper appears on his desk where the folder lay a second before. It is on the Bureau’s own form. It is dated tomorrow. The box for the sender’s date of birth says NOT YET. And it says, in flat capitals: DO NOT ALLOW DEREK GENT TO BOARD THE MYSTERIOUS TRAIN.",
@@ -286,11 +312,11 @@ def back():
               "With his cousin Penny, Trevor and his tape measure, a visiting patent attorney from Munich and a building superintendent who regards the platform as a breach of the lease, Derek has until Wednesday to put one morning in the right order, before a landlord, two insurance companies and a very patient train do it for him."]:
         y = para(y, t, body, CREAM, lead) + 24
     y += 10; rule(y); y += 54
-    y = para(y, 'A British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it. Six short physics lessons follow.', F(EBI, 44, 420), GOLD, 60, center=True, x0=L + 40, width=R - L - 80)
+    y = para(y, 'A British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it.', F(EBI, 44, 420), GOLD, 60, center=True, x0=L + 40, width=R - L - 80)
     y += 40; rule(y + 26, 'ABOUT THE AUTHOR'); y += 70
     y = para(y, 'Lothar J. Musiol is German by birth and American by choice, and writes in British because Love Actually’s Colin Frissell made it look worth the trouble. He divides his time between San Clemente and Passau with a grumpy Teacup Pomeranian named Gucci and eleven chickens.', F(EB, 42, 420), CREAM, 58, center=True, x0=L + 20, width=R - L - 40)
     y += 40
-    y = para(y, 'Book 2 of the Relativistic Investigation Bureau. It stands alone; Book 1 is The Murder That Hadn’t Happened Yet.', F(EB, 38, 420), CREAM, 52, center=True, x0=L + 60, width=R - L - 120)
+    y = para(y, 'Book 2 of the Relativistic Investigation Bureau, with six short physics lessons. It stands alone; Book 1 is The Murder That Hadn’t Happened Yet.', F(EB, 38, 420), CREAM, 52, center=True, x0=L + 60, width=R - L - 120)
     print('back cover text ends at y =', y)
     assert y < 2480, 'back cover text overflows'
     out = im.resize((1600, 2560), Image.LANCZOS)
