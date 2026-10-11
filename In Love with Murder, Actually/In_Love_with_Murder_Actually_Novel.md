@@ -1,6 +1,6 @@
 # In Love with Murder, Actually
 
-*A Comic Mystery*
+*A Derailed Mystery in Provence*
 
 Lothar J. Musiol writing as Romuald Livingston
 
