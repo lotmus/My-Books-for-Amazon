@@ -2550,7 +2550,7 @@ Four point three gained, one and a quarter lost. Three nanoseconds an hour, net,
 
 “Ten,” she said aloud, to the photograph. “He’s right. Again.”
 
-It annoyed her more than she could reasonably account for. He had done it upside down, in his head, in the time it took to put a ticket away, and she had done it with a biro over twenty minutes, and they had got the same number. Very smart and very lazy, Herbert called it. Weinstein quoted it about himself with something not far from pride.
+It annoyed her more than she could reasonably account for. He had done it upside down, in his head, in the time it took to put a ticket away; she had done it with a biro over twenty minutes; they had got the same number. Herbert called that very smart and very lazy. Weinstein had more or less had it engraved.
 
 She sat over the sum for a while. Something in it was bothering her, and she could not find it, as you cannot find a smell in a room once you have been sitting in it long enough.
 
@@ -2570,7 +2570,7 @@ He answered on the fourth ring with his mouth full.
 
 “I can’t, actually. One problem at a time.” There was a pause, and the sound of a plate being put down on something hard, and then, unmistakably, the small click of a pair of glasses being folded. “Go on.”
 
-She read it to him. Height, gravity, the speed of light. Speed, the speed of light. Four point three in, one and a quarter out, three and a half hours, ten and a half nanoseconds. Weinstein’s number. She read it in the voice she used for reading out flight times, so that he would not hear that it mattered.
+She read it to him in the voice she used for flight times, so that he would not hear that it mattered: four point three in, one and a quarter out, three and a half hours, ten and a half nanoseconds. Weinstein’s number.
 
 Trevor was silent for some time.
 
@@ -2616,7 +2616,7 @@ Penny pulled the itinerary back towards her and wrote, in the margin, in the bir
 
 “How fast you actually go over the ground. If there’s a tailwind going east, you go faster, so the speed part gets bigger and the flight gets shorter, so the gravity part gets smaller. You’d come back younger. If there’s a headwind, you go slower and you’re up there longer, and the gravity part wins, and you come back older. He’s said older, because he did it the textbook way, with the ground standing still. The textbook doesn’t fly to Athens.”
 
-Penny considered the ten and a half on the itinerary, and the x3 in the margin beside it, and at the four of them standing against the sugar bowl.
+Penny looked at the ten and a half on the itinerary, and the x3 beside it, and the four of them standing against the sugar bowl.
 
 “How do you know this?”
 
@@ -2628,19 +2628,13 @@ Penny found that she was smiling at the itinerary, which was ridiculous, and sto
 
 “He’s not wrong. He did the bit he did right. He left out the bit he didn’t do.” Trevor considered. “Herbert would say that’s the same thing as wrong, and Weinstein would say it was the interesting bit and he’d been saving it.”
 
-“He’d say it was lazy.”
-
-“Herbert would say that. Weinstein would agree with him and be pleased about it.”
-
-That was true, and she did not want it to be, and she let it go.
-
 “Trevor.”
 
 “Yes.”
 
 “If I wanted to send him the right number, when would I have to send it?”
 
-A silence came down the line. It went on long enough that she thought for a moment the call had dropped, and then she heard him breathing, slowly, as he breathed when he was standing at the edge of a thing and deciding whether to say it.
+A silence came down the line, long enough that she thought the call had dropped. Then she heard him breathing slowly, as he did at the edge of a thing he was deciding whether to say.
 
 “From the air. Or after. You can’t send it before. Not the real one. Before, you can only send what it’d be if the wind did a particular thing, and the plane went at a particular height, and you didn’t sit behind the Dubai plane for forty minutes. That’s a forecast. It’s not your number. Your number’s what happens to your clock on the actual flight. It doesn’t exist yet. It can’t. It hasn’t been flown.”
 
@@ -2698,9 +2692,9 @@ Trevor laughed, which he did not often do on the telephone, because he did not t
 
 “In order, Trevor.”
 
-He rang off. She sat with the phone in her hand, and the kettle she had boiled at seven and forgotten, and the rain on the window, and a train somewhere across London in a doorway on the second floor of an old building, with Derek sitting in front of it with the face.
+He rang off. She sat with the phone in her hand, the kettle she had boiled at seven and forgotten, and the rain, and somewhere across London a train in a doorway with Derek sitting in front of it, doing the face at it.
 
-She thought about ringing him. He had said he would ring if it did anything. He had said nothing about ringing if it did nothing, and she had told him to ring her if it didn’t, and he had not, which meant that it was not doing anything and he was being Derek about it. She left him alone. It was, she thought, the kind of help he was best at accepting.
+She thought about ringing him. He had promised to ring if it did anything. He had not rung, which meant it was doing nothing and he was being Derek about it. She left him alone. It was the kind of help he was best at accepting.
 
 Instead she picked up the biro, turned the itinerary over to the front, and wrote along the top margin, above the flight number, in her own fast hand, the things Trevor had told her to write down, in the order he had said them, with a space after each one for the number she did not yet have.
 
@@ -2722,9 +2716,9 @@ The Night Shift
 
 He stayed until nearly midnight.
 
-He had not meant to. He had meant to stay for a bit, as he had told Penny, and the bit had a habit of becoming another bit, as the evenings had once become shut doors. He made a cup of tea at seven and did not drink it. He made another at eight and drank half. He rang out for nothing and ate nothing. He sat in his own chair, behind his own desk, and turned it, for the first time all day, to face the doorway square.
+He had not meant to. He had meant to stay for a bit, as he had told Penny, and the bit had a habit of becoming another bit, as the evenings had once become shut doors. He made a cup of tea at seven and did not drink it. He made another at eight and drank half. He thought about ordering food, and could not face giving a delivery driver directions that ended at a railway on the second floor, so he ate nothing. He sat in his own chair, behind his own desk, and turned it, for the first time all day, to face the doorway square.
 
-The platform at night was not much different from the platform at ten in the morning. That was the first thing he noticed. The lamp at the far end had not got brighter. The lit windows of the carriage had not changed. The white clock on the far pillar went round at the same rate as every clock in London, as Trevor had shown it did, and told the time it had been telling all day. The board said YESTERDAY.
+The platform at night was the platform at ten in the morning. The lamp had not got brighter, the lit windows had not changed, and the white clock on the far pillar went round at the same rate as every clock in London, as Trevor had shown it did. The board said YESTERDAY.
 
 What had changed was the office. With the overhead light off and only the desk lamp on, the room was dimmer than the platform, so that for the first time it was the railway that was lighting him, and not the other way round. The light from the carriage windows lay across the carpet in pale rectangles, as far as the sill, and over the sill, and onto the toes of his shoes.
 
@@ -2768,7 +2762,7 @@ At half past ten, Tabitha.
 
 Gucci ate. From my plate. The evening went in the usual order. Thought you should know.
 
-He read it three times. He found that it was, in its way, the best thing anyone had said to him all day, and that it was a report about a dog. He typed a reply and deleted it, and typed another and deleted that, and then remembered the pavement at Paddington and the sentence he had already said, and that it did not need saying again in a text message at half past ten to a woman who had already heard it.
+He read it three times. It was the best thing anyone had said to him all day, and it was a report about a dog. He typed a reply and deleted it, and then remembered the pavement at Paddington and the sentence he had already said there, which did not need saying again by text at half past ten.
 
 Good, he wrote. Tell him I’ll see him tomorrow.
 
@@ -2781,8 +2775,6 @@ I know. That’s not what he’s asking.
 He looked at the doorway for a while.
 
 Tell him it would be open anyway, he wrote, and sent it before he could delete it, and put the phone face-down on the desk, as Trevor did when he had been brave by accident.
-
-The phone buzzed once more. He did not turn it over. He knew roughly what it would say, and he found he did not need to know exactly; that it could wait until the morning, and be read in the morning, and be no less true for being read late.
 
 At eleven he did, finally, the one thing he had been not doing since six. He got up and walked to the sill.
 
@@ -2798,9 +2790,9 @@ He went back to his desk. He wrote a note on the Bureau’s paper, in his own ha
 
 Gone home. Walking. Door open because it has to be. Nobody boarded. D.
 
-Then he turned off the desk lamp. The office went dark, and the platform did not, and he stood for a moment in the light from a train that was going nowhere, in a room lit from the other side of a sill, and found that he was not afraid of it. He was not reconciled to it. He was simply not afraid.
+Then he turned off the desk lamp. The office went dark and the platform did not, and he stood for a moment in the light of a train that was going nowhere and found that he was not afraid of it. Not reconciled. Simply not afraid.
 
-On this corridor an open door meant that nobody knew where you had gone. He had written that rule himself. He went out through the outer room, and down the stairs, past the step where Mrs Marsh had sat, and out into the street, and he walked home, because he walked; he had no licence, and there was no one on the pavement to mention it to.
+He went out through the outer room and down the stairs, past the step where Mrs Marsh had sat, and walked home, because he walked; he had never held a licence, and at that hour there was nobody on the pavement to explain it to.
 
 Behind him, on the second floor, a light burned all night in a doorway, and nobody got on.
 
@@ -2814,7 +2806,7 @@ Herbert Steps
 
 On Tuesday morning the trams went past Alfred Weinstein’s window in Schwabing at their usual intervals, and the brass clock on his filing cabinet skipped, as it always skipped, at a little after the half hour, and the window was as cold as it had been every morning since he had taken the office, and none of this was a railway.
 
-He sat at his desk with the blotter in front of him and his jacket on, because he always had his jacket on, and he did not open any of the patent files that were waiting for him. There was a dishwasher in one of them that claimed to clean plates using sound alone. He had been looking forward to the dishwasher for a week. He found, this morning, that he could not make himself care whether it worked.
+He had been at his desk since six, in his jacket, because he was always in his jacket, trying to settle one question before anybody arrived to ask it for him. He had not opened the patent files. There was a dishwasher in one of them that claimed to clean plates using sound alone, and he had been looking forward to it for a week. This morning he could not make himself care whether it worked, which worried him more than the railway had.
 
 Herbert arrived at ten. He had not been asked. He never was; it was one of the few things the two men had in common, that neither of them had ever waited for an invitation to the other’s premises, and both of them disapproved of it in the other.
 
@@ -2874,7 +2866,7 @@ Weinstein frowned at the question mark.
 
 “And if it was me? Later?”
 
-“Then you will find out later. In which case you will know later. You will not know it now, by wishing.” Herbert stood, and took his coat from the chair he had been sitting on, and shook it out. “Novikov would say the universe only permits the stories that were always going to happen. Hawking would say the universe does not permit this kind of story at all. Barbarian would say there is no story, only the relations, and that I am being old-fashioned to want an author. All three of them would agree on one thing: you do not get to be the author by being frightened that you might be.”
+“Then you will find out later. In which case you will know later. You will not know it now, by wishing.” Herbert stood, and took his coat from the chair he had been sitting on, and shook it out. “Novikov would say the universe only permits the stories that were always going to happen. Hawking suspected the universe does not permit this kind of story at all. Barbarian would say there is no story, only the relations, and that I am being old-fashioned to want an author. All three of them would agree on one thing: you do not get to be the author by being frightened that you might be.”
 
 “That is cold comfort.”
 
@@ -2884,7 +2876,7 @@ Weinstein frowned at the question mark.
 
 “Why didn’t it help?”
 
-Weinstein thought about it. He thought about the barrier at Paddington, and turning round once, and Derek’s face, and Penny’s face, and a little girl he had met last week and understood better this week who refused to write down headings she had not read.
+Weinstein thought about the barrier at Paddington, and turning round once, and a girl he had met last week who refused to write down headings she had not read.
 
 “Because the order was the easy part. It didn’t tell anyone who to be frightened for. They had to work that out for themselves, in a station, with a slip from lost property and a pencil. And then Derek had to stand on a railway and say no to it. The order did not do that either.”
 
@@ -2914,7 +2906,7 @@ Herbert Matkowski arrived at Julius Barbarian’s house at two o’clock, which 
 
 The plaque by the door said APPOINTMENTS ARE A HUMAN CONVENTION.
 
-He had made one anyway. He regarded the plaque as an opinion, and he had never in his life allowed an opinion on a door to alter his behaviour on the step.
+He had made one anyway. He regarded the plaque as an opinion, and he had never in his life allowed an opinion on a door to alter his behaviour on the step. He had also come with one purpose, written on a card in his breast pocket so that he could not be talked out of it: THE RULER MAY GO. THE CONE STAYS.
 
 Barbarian opened the door before he had knocked.
 
@@ -3010,7 +3002,7 @@ Herbert regarded the line he had drawn.
 
 “It is a convenience.”
 
-“It is the best convenience in physics. It is so good that people forget they put it there.” Barbarian sat back. “And then a sheet arrives before a door, and a voice comes after, and they look at the wire for the answer, and the wire says nothing. YESTERDAY. Not a date. A direction. It is the most honest railway in Europe. I should like to meet whoever designed it.”
+“It is the best convenience in physics. It is so good that people forget they put it there.” Barbarian sat back. “Then a sheet arrives before a door, and they look at the wire for the answer, and the wire says nothing. YESTERDAY. Not a date; a direction. The most honest railway in Europe. It has never once promised to arrive. I should like to meet whoever designed it.”
 
 “So should Mr Gent.”
 
@@ -3022,7 +3014,7 @@ Herbert regarded the line he had drawn.
 
 Herbert did not answer, which was an answer.
 
-“Of course he does. He was holding it. People always want to be the before; it is the only position in a story that cannot be blamed for arriving late.” Barbarian shook his head, slowly, with every appearance of affection. “Tell him he is in the order, and that is honour enough for anyone. He was there for the sheet. That is all.”
+“Of course he does. He was holding it. People always want to be the before; it is the only position in a story that cannot be blamed for arriving late.”
 
 “I told him something of the kind this morning.”
 
@@ -3096,13 +3088,13 @@ Herbert left it. He stood, and put on his coat, and buttoned it, and looked at h
 
 “Which hurry?”
 
-“Monday. He told me on the telephone that he nearly stayed. He went through the barrier at four and turned round once and did not come back. Staying would have been a tenancy. It was the cleanest act of the day, until Mr Gent’s. Do not tell him I said he was right. Tell him the hurry was. He will know the difference, and it will annoy him.”
+“Monday. He nearly stayed. Staying would have been a tenancy. Do not tell him I said he was right. Tell him the hurry was. He will know the difference, and it will annoy him.”
 
-Herbert let himself out. On the step he looked at the plaque again, and thought about appointments, and decided that he had kept this one, and that the keeping had been entirely his own affair.
+Herbert let himself out. On the step he took the card out of his breast pocket, read it, and put it back. Both halves had held.
 
 At five o’clock, alone, Julius Barbarian sat at the table among his twenty clocks and wrote to London.
 
-He wrote four hundred words, and found that they explained the joke, and deleted them. He wrote two hundred, and found that they agreed with Herbert, and deleted those too. Then he watched the clocks for a while, each one perfectly honest and none of them in agreement, and wrote four lines that said what he meant.
+He wrote four hundred words, found that they explained the joke, and deleted them. He wrote two hundred, found that they agreed with Herbert, and deleted those faster. Then he watched the clocks for a while, each one perfectly honest and none of them in agreement, and wrote four lines that said what he meant.
 
 He did not put a subject line. He pressed send. It was a little after four in London. He did not check.
 
@@ -3182,7 +3174,7 @@ Trevor had been waiting, with the visible pain of a man holding a fact in his mo
 
 Mr Quayle glanced down at the holster as if it had spoken. “It bounces off the wall.”
 
-“It times it. It sends light out and waits for it to come back. Eight hundred and ninety-six millimetres there and back is about six nanoseconds. It’s measuring when the light gets home.” He was going a little pink. “If you pointed it one inch further, it’d come back off the platform, late by exactly the right amount, because the platform’s there. It doesn’t care about the lease.”
+“It times it. It sends light out and waits for it to come back. Eight hundred and ninety-six millimetres there and back is about six nanoseconds. It’s measuring when the light gets home.” He was going a little pink. “If you turned it a few degrees, through the opening, it’d come back off the platform, late by exactly the right amount, because the platform’s there. It doesn’t care about the lease.”
 
 There was a short silence in the corridor.
 
@@ -3248,7 +3240,7 @@ Mrs Marsh looked at him. Then she looked at the platform, and at the form, and t
 
 “Acting,” she said. “Not appointed. Write down that I said acting.”
 
-They did it as the Bureau had done everything that week, a box at a time, out loud. Location: second floor, inner office. Name of occupier: Derek wrote his own, and Mrs Marsh made him add the word tenant. Date and time first observed: Trevor wrote MONDAY 10:05, NOTICED, ALREADY OPEN, and Mr Pendleton read it upside down and said that he would copy it into his incident report exactly as it stood, because he had written ten oh five in the report on Monday, on the stairs, and he liked his reports to agree with themselves. Nobody thought anything of that at the time. By five o’clock two insurance companies would think a great deal of it.
+They did it as the Bureau had done everything that week, a box at a time, out loud. Location: second floor, inner office. Name of occupier: Derek wrote his own, and Mrs Marsh made him add the word tenant. Date and time first observed: Trevor wrote MONDAY 10:05, NOTICED, ALREADY OPEN, and Mr Pendleton read it upside down and said that he would copy it into his incident report exactly as it stood, because he had written ten oh five in the report on Monday, on the stairs, and he liked his reports to agree with themselves. Nobody thought anything of that at the time. By five o’clock it would turn out that two insurance companies had already thought a great deal of it.
 
 Penny read the heading of his report upside down while he said it. NATURE OF INCIDENT: MYSTERIOUS (OTHER). TRAIN, 2ND FLOOR.
 
@@ -3300,7 +3292,7 @@ Before she signed, Mrs Marsh turned the form over and read the back aloud, becau
 
 7. NOTICES FOR THE ATTENTION OF STAFF AT THE PREVIOUS STATION ARE TO BE FOLDED IN FOUR AND LEFT ON THE FIRST SEAT OF THE LEADING VEHICLE OF THE STANDING SERVICE, WHICH WILL CONVEY THEM. THE BOARD ACCEPTS NO RESPONSIBILITY FOR NOTICES RECEIVED BEFORE THEY ARE WRITTEN.
 
-“That isn’t a rule,” said Penny. “That’s a confession.”
+“That isn’t a rule,” said Penny. “That’s a confession.” Everybody laughed, Mr Pendleton last and least certainly.
 
 Trevor looked through the doorway at the board. YESTERDAY. “Previous station,” he said, and nobody answered him, because Mrs Marsh had turned the form back over and uncapped the pen. She signed: Acting Station Master, and under it, smaller, Acting.
 
@@ -3408,7 +3400,7 @@ Mr Haskett turned to look at her, and the ring went round once more, and stopped
 
 “I’m not asking you to lie.”
 
-“You’re asking us to guess and sign it. That’s the same thing with better handwriting.” Penny got up and came round her desk. She did not come too close; she stood beside the filing cabinet, with one hand on the top of it, in the place where she had stood on Monday when the board had flickered. “We’ve spent two days not doing that. We’re not going to start for an insurer.”
+“You’re asking us to guess and sign it. That’s the same thing with better handwriting.” Penny got up and stood by the filing cabinet, one hand on top of it, where she had stood on Monday when the board flickered. “We’ve spent two days not doing that. We’re not going to start for an insurer.”
 
 “I’ll make it worth your while.” There was no embarrassment in it; it was the tone he presumably used for most things about money. “There’s a rent review in March. I’ve got some latitude.”
 
@@ -3458,11 +3450,11 @@ DOOR OPENED BETWEEN THOSE.
 
 He read what he had written. So did Mr Haskett. So, from the outer doorway, did Mrs Marsh.
 
-“Ten o’clock is in the middle of it,” said Mr Haskett.
+“Ten o’clock is inside it,” said Mr Haskett.
 
 “Yes.”
 
-“It’s eight minutes wide and ten o’clock is in the middle.”
+“It’s eight minutes wide and ten o’clock is sitting in it like a lodger.”
 
 “About eight. Ten o’clock is a minute and forty-eight seconds from the near end.” Trevor had the glasses off again. “If you assumed it was equally likely to have opened at any moment in the interval, which you can’t, because nothing about doors is equally likely, then about—”
 
@@ -3540,9 +3532,9 @@ Mr Haskett read the statement.
 
 Mrs Marsh took the statement from the desk before he could pick it up, filed the original in drawer three, under Pending Geometry, behind Sunday, behind Case 1047, and came back from the photocopier on the landing with two copies, and gave them both to Mr Haskett. On her way past Derek’s desk she said, without stopping, “I shall want the rest of the case on paper before I lock that drawer at a quarter to seven. I do not file screens.”
 
-“One for each insurer.”
+“One for each insurer,” said Mr Haskett.
 
-“Both for you. In case you read it once.”
+“Both for you,” said Mrs Marsh. “In case you read it once.”
 
 He put them in the leather folder. He went to the outer doorway, and stopped there, and turned round, and looked back across the office at the platform, which had done nothing whatever throughout and showed no sign of beginning.
 
@@ -3560,9 +3552,7 @@ He put them in the leather folder. He went to the outer doorway, and stopped the
 
 He went down. Through the window they saw him on the pavement in the camel coat, standing at the kerb with the folder under his arm for longer than it takes to look for a taxi. Then he walked away towards the river.
 
-Trevor sat down on the floor again by the filing cabinet and studied the photograph on his phone, the shut door behind the bottle, at nine fifty-eight and twelve seconds. “That’s the last picture of it. Before.”
-
-Trevor put the phone away. At ten past six he glanced at the window, said something about a warden and the Mini, and went down to move it.
+At ten past six Trevor glanced at the window, said something about a warden and the Mini, and went down to move it.
 
 Penny put on her coat. She picked up the guidebook and put it in the bag, on top of the itinerary. Then she took the photograph out, the one from Sunday morning, and stood it against her own monitor, face-up, facing the room. She did not explain it. She did not look to see whether anybody had noticed.
 
