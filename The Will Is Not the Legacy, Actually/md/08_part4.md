@@ -26,6 +26,8 @@ The form ignores your will, your divorce (sometimes), your later intentions, and
 
 Make a beneficiary audit part of your Family List (Appendix D has the worksheet). For each policy and account, record the primary and contingent beneficiaries, the date you last checked, and how to contact the institution. Check after every marriage, divorce, birth, adoption, and death, and otherwise every few years. Ask the institution for written confirmation of what is on file. People are regularly surprised by what is.
 
+**If you live elsewhere.** For what passes outside the will in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#What passes outside the will, elsewhere).
+
 ## Chapter 13. Payable-on-Death and Transfer-on-Death
 
 ### When it works
@@ -44,6 +46,8 @@ A POD or TOD designation ignores the rest of your plan. One child on the deed an
 
 Use POD and TOD as coordinated pieces of a plan, not as shortcuts you keep secret from your will. Name all the people you want to benefit, in the shares you want, with contingents. Write each designation on your Family List.
 
+**If you live elsewhere.** For which states have transfer-on-death deeds in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
+
 ## Chapter 14. Joint Ownership
 
 ### When it works
@@ -61,6 +65,8 @@ In Germany, spouses who own a house together each typically own a fractional sha
 ### What to do
 
 Do not add a name to a title "to make it easier" without advice (Cases 7 and [11](#Case 11: The house for the son who pays the mortgage)). If the goal is convenience, use a power of attorney. If the goal is inheritance, use a beneficiary designation, a TOD deed, a trust, or a will.
+
+**If you live elsewhere.** For joint ownership in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#What passes outside the will, elsewhere).
 
 ## Chapter 15. Gifts While Alive
 
@@ -81,6 +87,8 @@ In Germany, gifts are taxed under the same law as inheritances (the Inheritance 
 
 Document large gifts. Say in writing whether a gift is meant as an advance on an inheritance, and make sure your will or trust says the same. In Germany, ask a notary about compulsory-share effects before giving away real estate.
 
+**If you live elsewhere.** For taxes at death in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Taxes at death, elsewhere).
+
 ## Chapter 16. Dying Without a Will
 
 ### When it works
@@ -98,6 +106,8 @@ Statutes do not know your life. Unmarried partners usually receive nothing. Step
 ### What to do
 
 If the statute's answer is not your answer, make a will.
+
+**If you live elsewhere.** For family members you cannot leave out in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Family members you cannot leave out, elsewhere).
 
 ## Chapter 17. Small-Estate Procedures
 

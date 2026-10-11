@@ -22,7 +22,7 @@ German advisers give the same warning about a *Vorsorgevollmacht* made condition
 
 !> **The takeaway.** A springing power protects you from the person you trust, at the moment you most need them. If you trust your agent, make the power effective now and add a second pair of eyes; if you do not trust them, choose someone else.
 
-**If you hold a power that will not spring.** Ask the doctors, in writing, exactly what they need to see, and whether an assessment can be expedited. Ask the bank what it will accept meanwhile. On a clear day, ask the principal whether they would sign a new, immediately effective power; if they have the capacity to do that, it may be the fastest fix. Keep a record of every bill and payment.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 17).
 
 **What to do.**
 
@@ -87,13 +87,13 @@ The wife had to apply to the guardianship court for appointment as the husband's
 
 German law requires the power of attorney to be in writing, and to mention expressly certain serious medical decisions (such as decisions about treatment where there is a risk of death or serious harm) if the agent is to make them (§ 1820). A power of attorney that is only signed by hand is valid, but banks often prefer their own forms or a notarised power, and a power that is to be used for real estate generally needs to be notarised or officially certified to be accepted by the land registry. The power can be registered in the Central Register of Lasting Powers of Attorney (*Zentrales Vorsorgeregister*), run by the Federal Chamber of Notaries, so that a guardianship court will find it before appointing anyone else. If a registered power names the spouse, the court will generally not appoint a guardian at all, because the power makes one unnecessary. Registration does not make a power valid; it makes it findable, which, in a hospital corridor, is the same thing.
 
-**What it cost.** Less money than in Case 18, because the German guardianship court appointed the wife quickly and the fees were modest. The cost was time and supervision. For a year the wife kept receipts for everything she spent from the husband's account, filed reports, and waited for court approval before she could refinance the house when interest rates fell. The husband recovered enough to sign a *Vorsorgevollmacht* himself the following spring; the guardianship was lifted soon afterwards. Both of them now carry, in their wallets, a small card saying that a power of attorney exists and where it is.
+**What it cost.** Less money than in Case 18, because the German guardianship court appointed the wife quickly and the fees were modest. The cost was time and supervision. For a year the wife kept careful records of what she spent from the husband's account, filed reports, and waited for court approval before she could refinance the house when interest rates fell. The husband recovered enough to sign a *Vorsorgevollmacht* himself the following spring; the guardianship was lifted soon afterwards. Both of them now carry, in their wallets, a small card saying that a power of attorney exists and where it is.
 
 The 2023 law is an emergency bridge for the first weeks in hospital, narrow on purpose: the legislature did not want to give every spouse sweeping long-term power by default, and for anything longer or wider it expects a power chosen by the person or a guardian supervised by a court.
 
 **The California version.** California has no equivalent automatic spouse power for finances. Without a power of attorney, a spouse may need a conservatorship to manage the other spouse's separate property, and some transactions involving community property can also require court involvement when one spouse cannot sign. The cure is the same: sign the documents while you can.
 
-**If it has already happened.** If you are using the spouse's emergency right now, note the date on the doctor's confirmation and count six months forward. Apply to the guardianship court early, well before the deadline, and propose yourself as guardian; the court will hear the patient where possible and ask about their wishes. If the patient has lucid periods, ask a notary whether a *Vorsorgevollmacht* could still be signed; notaries are used to assessing capacity, and many will visit a hospital.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 19).
 
 **What to do.**
 
@@ -145,7 +145,7 @@ And the twenty minutes. The mother could have sat with both children, the direct
 
 **In Germany,** courts have said the same thing plainly. The Federal Court of Justice held that a general phrase such as "no life-prolonging measures" is not, on its own, specific enough to be binding as a *Patientenverfügung*; it must refer to particular treatments or situations (BGH, decision of 6 July 2016, XII ZB 61/16). German law defines an advance directive as written decisions about specific examinations, treatments, or interventions for a future situation in which the person cannot consent, and where the directive does not fit the actual situation, the agent must work out the patient's treatment wishes or presumed wishes from earlier statements, beliefs, and values (BGB § 1827). In both countries, a vague document does not free the agent to decide as they like. It leaves them the harder job of reconstructing what the patient would have wanted.
 
-**If you are in that room now.** Ask the doctors to explain the realistic outcomes of each option, not only the risks. Bring the people who knew the patient best and ask one question: what would she have said, if she could hear this conversation? Write down the reasons for what you decide. You will want them later, when you lie awake. A vague directive is still a gift: it named you because she trusted you to decide.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 20).
 
 **What to do.**
 
@@ -178,7 +178,7 @@ California has no joint will of this type with automatic binding effect. Couples
 
 !> **The takeaway.** Before you sign a joint will, answer one question in writing: after the first of us dies, may the survivor change the plan? A change clause, a remarriage clause, or a deliberate "no changes" costs a sentence. Silence decides it for you, and in Germany silence usually means "no."
 
-**If it has already happened.** If you are a widow or widower bound by a joint will and want to provide for a new partner, see a notary before making any gift or new will. Ask whether the old will contains a change clause, whether your children would agree to a notarised arrangement, and whether a gift you are considering could be reclaimed later. If you are the new spouse, ask to see the old will, gently, before you give up your own home.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 21).
 
 **What to do.**
 
@@ -209,11 +209,11 @@ So the two systems pulled in different directions. His partner, as heir in Germa
 
 **What would have prevented it.** One coordinated plan, made with advice in both countries.
 
-- **A will with an express choice of law.** Depending on what the emigrant wanted, he could have chosen German or Californian law for his whole succession. A choice of Californian law would generally have removed the German compulsory share rules from the picture for the succession itself; whether that suited him depended on his goals, which is exactly the conversation a lawyer would have had with him.
+- **A will with an express choice of law.** Depending on what the emigrant wanted, he could have chosen German or Californian law for his whole succession. A choice of Californian law would in principle have displaced the German compulsory share rules, but not reliably: Germany's highest civil court has held that applying a chosen foreign law which leaves a child with no fixed minimum share can violate German public policy where the case is closely connected with Germany. Whether a choice of law suited him, and whether it would hold, is exactly the conversation a lawyer would have had with him.
 - **Documents that referred to each other.** The German will could have said, "My property in the United States passes under my revocable trust dated ..; this will governs everything else." The trust could have referred to the German will.
 - **A tax review.** Moving from California to Germany changes the tax picture entirely. A cross-border tax adviser should see the plan.
 
-**If it has already happened.** If someone has died with assets in two countries, the heirs should agree early on one coordinating lawyer, usually in the country of habitual residence, who works with a counterpart in the other. Collect the death certificate in multiple certified copies, with apostilles; you will need more than you think. Apply for a European Certificate of Succession for the European assets if the institutions abroad will accept it. Get cross-border tax advice before any money moves between countries.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 22).
 
 **The European Certificate of Succession.** One document did help. A European Certificate of Succession, issued by the German probate court, proves who the heirs are and what powers they have, and takes effect in every member state bound by the Succession Regulation without any further procedure (Article 69). It does not reach Denmark or Ireland, which are not bound by the regulation, and it has no automatic effect in the United States. For the German and other European assets it was the key that opened every bank. For the Sunnyvale side, the son's trust certificate did the same job in California. Two keys, two systems, one estate.
 
@@ -271,7 +271,7 @@ Part Six and Chapter 38 describe how to set this up without writing passwords on
 
 **In Germany,** the law is in one respect more generous to heirs. The Federal Court of Justice held in 2018 that the contract for a social network account passes to the heirs like any other contract, and that the heirs can demand access to the full account, including private messages (BGH, judgment of 12 July 2018, III ZR 183/17). Contracts such as subscriptions also pass to the heirs, who may then cancel them. But a German heir with a court judgment still cannot unlock an encrypted phone without the passcode. The law can give your heirs the right to ask. Only you can give them the key.
 
-**If you are at that desk now.** Stop guessing passcodes. Before you close any account, ask whether you still need it for two-factor codes, recovery emails, or data you cannot retrieve later. Request each provider's procedure for deceased users in writing and keep copies of what you send. Ask friends, clients, the accountant, and any computer repair person for copies and for knowledge of backups. A surprising amount can be rebuilt from other people's inboxes.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 23).
 
 **What to do.**
 
@@ -300,7 +300,7 @@ Germans sometimes believe a dying person can make a will by telling three witnes
 
 !> **The takeaway.** A video can show who you are. It cannot, on its own, decide who gets your house. Write three sentences by hand, or sign in front of two witnesses, and then press record.
 
-**If it has already happened.** The law will not follow the video, but the family can. Heirs under the old will or the intestacy rules may choose to honour the wishes in a video by agreement, with advice on how to document it and on any tax reporting. That choice is moral, not legal, and it is easier to make when the video is watched together, calmly, and early.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 24).
 
 **What to do.**
 
@@ -338,7 +338,7 @@ Chapter 24 describes the general pattern, and it is not limited to cryptocurrenc
 
 **What a good access plan contains.** A sound plan for digital assets has four parts. An inventory: what you hold, where, and roughly how much. A location note: where the devices, backups, and recovery materials are kept. A method: step-by-step instructions, written for someone less technical than you, for recovering access. And a person: someone who knows the plan exists and can find it, but cannot use it alone while you are alive. Many people split recovery materials so that no single person or place holds everything; others use a professional custodian. The right choice depends on the amount, the family, and how comfortable the heirs are with the technology. Whatever the choice, the will should mention that digital assets exist and say who receives them, so that the executor knows to look.
 
-**If it has already happened.** If you find a recovery phrase in a will, a draft, or a public court file, assume it has been seen. Move the assets, with the executor's authority, to a new wallet as soon as you lawfully can. If you are an executor dealing with digital assets you do not understand, hire someone who does, and keep a written record of everything you authorise them to do.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 25).
 
 **The family conversation.** His wife was not a developer. When the lawyer asked whether she would know what to do with a hardware wallet if the developer died, she laughed and said she did not know what one looked like. That was the most useful moment of the meeting. A plan for digital assets that only its author understands is not a plan. The developer spent a Sunday afternoon showing her the device, the storage, and the instructions, and rewrote the instructions twice until she could follow them on her own. He described it as the most humbling code review of his career.
 

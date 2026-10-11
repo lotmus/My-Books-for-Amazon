@@ -29,22 +29,15 @@ Even if the will had been valid, his partner would have faced a second problem: 
 
 On the tax, the honest answer is that some couples marry or register partly for this reason, late in life, after decades of saying they never would. Others use lifetime gifts spread over ten-year periods, life insurance structured with care, or a right of residence (*Wohnrecht*) instead of ownership, which can reduce the taxable value. All of these need advice. None of them can be arranged after the funeral.
 
-**Writing a German handwritten will that works.** If you choose the handwritten route, a few habits make the will stronger without making it longer.
-
-- Use a pen, not a pencil, and plain paper. Write slowly enough that a stranger can read every word.
-- Begin with a heading such as *Mein Testament* or "My Will," so nobody can mistake it for a draft or a letter.
-- Name people fully, with dates of birth if you can, and describe property clearly enough to identify it: "my flat at [address]" rather than "the flat."
-- Say who should inherit (the *Erbe*), not only who gets particular things. German law draws a sharp line between appointing an heir, who steps into your whole legal position, and leaving a particular item to someone (a *Vermächtnis*), who only has a claim against the heirs. Muddling the two is one of the commonest causes of disputes about German home-made wills.
-- Write the place and date and sign with your first and last name at the end, below the last line of text. Anything added below the signature may not count.
-- If you change your mind, write a new will rather than crossing things out.
+**Writing a German handwritten will that works.** A few habits make a handwritten will stronger without making it longer: a clear heading, full names, property described so it can be identified, a clear choice between an heir and a single gift, and the signature at the very end. They are set out in [Chapter 11](#Writing a German handwritten will that works).
 
 **The California version.** In California a typed will can be perfectly valid, but only if it is witnessed by two people (Probate Code § 6110). The engineer's document, typed and signed but unwitnessed, would have failed in California too, unless the family could show by clear and convincing evidence that he intended it as his will, which California allows courts to accept in some cases. California also gives no intestate rights to an unmarried partner who is not a registered domestic partner. Both countries agree: if you are not married, you must write it down, properly.
 
-**If it has already happened.** If you are the unmarried partner of someone who has died with an invalid will, or none, get advice immediately about your own position: whether you have any rights in the home under a tenancy or a contract, whether any accounts were joint, whether life insurance names you. Ask the heirs, early and in writing, for time. Many heirs will agree to a period of months if asked respectfully; few agree when they first hear from a lawyer.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 12).
 
 **What to do.**
 
-- In Germany, never sign a typed will. Write every word by hand, or take the typed text to a notary.
+- In Germany, do not rely on a typed will you have only signed: it is void. Write every word by hand, or make the will before a notary.
 - If you are not married or in a registered partnership, ask a German adviser what your partner would pay in inheritance tax before you decide how to leave them your home.
 - Consider a right of residence for your partner as an alternative to ownership, and ask how each would be taxed.
 - Deposit the handwritten will in official custody so it is found (Case 15).
@@ -65,20 +58,13 @@ The question mattered because of the stepson. If the will failed, the estate wou
 
 Her son and daughter said at once that they wanted their stepbrother to share equally, whatever any court decided. It worked. But it meant two people making a gift out of their own inheritance, with possible gift tax paperwork, and it rested entirely on the goodwill of two people who could have chosen otherwise.
 
-California offers a free statutory will form (§ 6240), published by the California courts and designed for people like her. It requires two adult witnesses, and its instructions say, in capitals, that notarisation alone is not enough. Done properly, it takes about ten minutes:
-
-1. Download the current form from the California courts' website and read its instructions all the way through, once, before writing anything.
-2. Fill in the choices in ink. The form offers set options; if you need something it does not offer, that is a sign you need a lawyer.
-3. Find two adults who receive nothing under the will, and sit with them at the same table at the same time.
-4. Tell them, "This is my will," and sign while they watch.
-5. Each witness signs in your presence and in each other's presence.
-6. Put the original somewhere safe, write its location on your Family List, and tell your executor.
+California offers a free statutory will form (§ 6240), published by the California courts and designed for people like her. It requires two adult witnesses, and its instructions say, in capitals, that notarisation alone is not enough. Done properly, it takes about ten minutes; [Chapter 11](#Signing the statutory will in ten minutes) has the six steps.
 
 She could also have written the whole will by hand, from "This is my will" to her signature, which would have been a valid holographic will. Or she could have seen a lawyer, who would have asked about the stepson and might have mentioned that adult adoption is possible in California, if the family wanted it.
 
 !> **The takeaway.** A will needs either witnesses or the testator's own handwriting doing the important work. A printed form with a few words filled in has one foot in each camp and can fall between them. If you use a kit, read its signing page first and book the witnesses before you pick up the pen.
 
-**If you find a will like this.** Do not throw it away, and do not try to fix it by adding witnesses afterwards; that can make things worse. Whoever has the original must deliver it to the court within thirty days of learning of the death (§ 8200). Take it, untouched, to a probate lawyer, who can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it. Families often are, once they understand what the parent wanted and what a court fight would cost.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 13).
 
 **What to do.**
 
@@ -116,7 +102,7 @@ Estate disputes are rarely about the largest asset. They are about the object th
 
 **In Germany,** a private will needs no witnesses; the handwriting does that job. For notarial wills, the law excludes notaries and certain persons from taking part in recording a will that benefits them or their relatives. The idea is the same: the people who make the document official should not be the people who profit from it.
 
-**If it has already happened.** If you are named in a will you witnessed, tell the executor and get your own advice, and gather the evidence that the wish was genuinely the testator's: messages, photographs, conversations others heard, notes from whoever drafted the will. If you suspect pressure, ask yourself honestly what you would gain from a challenge, after costs, and whether the testator's reasons, once you hear them, might be ones you can live with.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 14).
 
 **What to do.**
 
@@ -149,11 +135,11 @@ A notarial will would have been registered in the same way.
 
 **The California version.** California has no state-run will register. The standard advice is to keep the signed original where the executor can find it, often with the lawyer who drafted it, and to tell the executor where it is. Whoever has the original must deliver it to the clerk of the superior court within thirty days of learning of the death (Probate Code § 8200). A lost will is worse in California than in Germany: if the will was last in the testator's possession, the testator remained competent, and the original cannot be found, the law presumes the testator destroyed it on purpose to revoke it (§ 6124). The presumption can be overcome with evidence, but the family starts uphill.
 
-**How official custody works in practice.** In Germany, you take your handwritten will to the local court (*Amtsgericht*) of your choice, usually the one where you live. The court puts it in a sealed envelope, records it, registers it in the Central Register of Wills, and gives you a deposit receipt. You can take a handwritten will back out of custody at any time; for a handwritten will, taking it back does not revoke it, but for a notarial will, taking it back out of official custody counts as revoking it (BGB § 2256), which surprises people. If you want to change a will in custody, the simplest course is to write a new one and deposit that as well; a later will overrides an earlier one to the extent they conflict. The court gives you a deposit receipt (*Hinterlegungsschein*); keep it in your binder, because it tells your family at once which court holds the will. The court returns a will from custody only to the testator in person, and a joint will only to both spouses together, which is another safeguard against a helpful relative "tidying up." One line on the Family List does the rest: "Original will: in official custody at the local court in Passau, deposit receipt in binder, section 1."
+**How official custody works in practice.** The court seals and registers the will and gives you a deposit receipt; [Chapter 11](#Official custody in practice) explains how to deposit, retrieve, and replace a will in custody, and why taking a notarial will back out revokes it.
 
 **What it cost.** The cost to the granddaughter was everything the grandmother had meant her to have, and the knowledge that her grandmother had tried. The sons, who would both have honoured the will if it had been found, were left to decide on their own how generous to be, which is a burden nobody should inherit. One of them still wonders whether the folder in the cellar was really the will at all.
 
-**If it has already happened.** If you believe a will existed but cannot find it, search thoroughly and systematically: desks, safes, files, books, the deceased's car, safe deposit boxes, the lawyer or notary the person used, and the local probate court, which can check whether a will is held in official custody. In Germany, the court will also learn from the Central Register of Wills whether any registered will exists. Write down who saw what, when, and what they remember it saying, as soon as possible, while memories are fresh. Look for copies, drafts, photographs, or letters that mention it. Then ask a lawyer whether that evidence is enough. Sometimes it is.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 15).
 
 **What to do.**
 
@@ -203,7 +189,7 @@ The law the lawyer described is in the Probate Code: no-contest clauses and prob
 
 **In Germany,** there is no exact equivalent, but a couple's joint will often contains a *Pflichtteilsstrafklausel*: a child who claims a compulsory share after the first parent's death is limited to the compulsory share after the second death too. It deters, and fails, for the same reason: if the child has more to gain from claiming than from waiting, it will not stop them. Germany's capacity test is its own: a person cannot make a valid will if, because of a mental disorder or impairment of consciousness, they cannot understand the significance of what they are declaring and act on that understanding (BGB § 2229). Notaries must satisfy themselves of capacity and record their impression in the deed, which is one reason a notarial will made after an illness is harder to attack than a handwritten one.
 
-**If you are in either chair.** If you are the child left with a small gift and a no-contest clause, do not decide in anger; get a lawyer's view on probable cause and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter and consider early mediation. Most will contests settle eventually. Settling early saves the most.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 16).
 
 **What to do.**
 

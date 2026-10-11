@@ -30,6 +30,8 @@ Talk to the agent. Tell them where your Family List is (Part Six). Give them a c
 
 In California, being married does not give you authority over your spouse's separate accounts or retirement plans. In Germany, since 2023, spouses have a limited emergency right to represent each other in health matters for up to six months (BGB § 1358), but not in financial matters, and not if they live apart (Case 19). Each spouse should sign a power for the other.
 
+**If you live elsewhere.** For powers of attorney in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Powers of attorney and healthcare, elsewhere).
+
 ## Chapter 21. Healthcare Decisions
 
 ### Two jobs, one or two documents
@@ -64,3 +66,6 @@ A directive in a drawer at home is not in the emergency file. Give copies to you
 ### Guardianship, the outcome you are avoiding
 
 If you cannot decide and no valid power exists, someone may have to ask a court to appoint a conservator (California) or a legal guardian (Germany). It is public in California, involves court supervision in both places, and the court might not choose the person you would have chosen. A power of attorney and a healthcare directive, signed while you are well, avoid most of it. They take an afternoon. The court process can take months.
+
+**If you live elsewhere.** For healthcare directives in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Powers of attorney and healthcare, elsewhere).
+

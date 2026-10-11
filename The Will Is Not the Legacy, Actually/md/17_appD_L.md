@@ -237,7 +237,183 @@ Checked against official sources in October 2026. Thresholds change; check befor
 - **Digital assets.** California: RUFADAA (§§ 870 ff.); provider online tool overrides will (§ 873); Germany: Accounts pass to heirs (BGH III ZR 183/17).
 - **Cross-border.** California: State conflict rules; Germany: EU Succession Regulation: habitual residence, choice of nationality law (Arts 21, 22).
 
-## Appendix L. Sources
+## Appendix L. If It Has Already Happened
+
+Each case in Part Two ends with what to do next time. This appendix collects what to do if the case has already happened in your family: the first steps, in the order that usually saves the most. Each entry links back to its case.
+
+### If it has already happened: Case 1
+
+*[Case 1: The retirement account that remembered the first marriage](#Case 1: The retirement account that remembered the first marriage)*
+
+If you are the surviving spouse and the form names someone else, ask the plan administrator in writing for a copy of the designation on file and for the plan's claims procedure; ERISA plans must have one, with deadlines. Find the divorce judgment and any settlement agreement, because their exact words about retirement accounts matter. Then see a lawyer who handles ERISA claims, quickly, before the money is paid out if possible. If you are the former spouse who has been named, you may be legally entitled to the money and still face a claim based on what you agreed in the divorce. Get your own advice before you spend it.
+
+### If it has already happened: Case 3
+
+*[Case 3: The account with the daughter's name on it](#Case 3: The account with the daughter's name on it)*
+
+Start with a calm conversation, not a lawyer's letter; the joint owner may be as surprised as you are. Gather the account-opening forms, the dates, who paid in and who withdrew, and any note or email in which the parent said why the child was added. If everyone agrees the money was meant to be shared, a written agreement among the siblings is the simplest course, with advice on any gift tax reporting by the sibling who shares. If there is no agreement, a lawyer can tell you whether the evidence is likely to meet the clear-and-convincing standard. Often it does not, and knowing that early saves years. And if you are the sibling on the account: the law may say the money is yours. Your brothers will remember what you did with it.
+
+### If it has already happened: Case 4
+
+*[Case 4: The forgotten IRA and the beneficiary who died first](#Case 4: The forgotten IRA and the beneficiary who died first)*
+
+If you are the heir of someone who held accounts in another country, find out exactly what exists: statements, tax forms, old emails, forwarding addresses. Contact each institution's estate or bereavement department, not general customer service, and ask for its written requirements for a foreign estate, including whether it accepts a European Certificate of Succession or a German certificate of inheritance with an apostille and certified translation. Engage a tax adviser who knows both countries before any money moves, because how and when you take a distribution can change the tax.
+
+### If it has already happened: Case 5
+
+*[Case 5: The twelve-year-old beneficiary](#Case 5: The twelve-year-old beneficiary)*
+
+The relative caring for the child should contact the court's self-help centre or a family lawyer at once, because temporary guardianship can often be arranged quickly while the full process runs. Gather anything that shows what the parent wanted: emails, texts, letters, the names of people who heard the parent say it. Tell the insurer that the beneficiary is a minor and ask exactly what it requires. Do not accept the money personally on the child's behalf unless a lawyer has told you that you may.
+
+### If it has already happened: Case 6
+
+*[Case 6: The transfer-on-death deed and the other two children](#Case 6: The transfer-on-death deed and the other two children)*
+
+If a parent's deed named one sibling and the will named all of you, talk before anyone sells, borrows against, or moves into the house. The named sibling owns it, but may be willing to share, and the cleanest way to share is usually to sell and divide the proceeds by written agreement, with a tax adviser's view on how the sharing is reported. If the deed was signed when the parent was frail, or after pressure, a lawyer can tell you whether it can be challenged; California's TOD deed law has its own rules and deadlines for contests, so ask promptly.
+
+### If it has already happened: Case 8
+
+*[Case 8: Tenants in common, and a share nobody planned for](#Case 8: Tenants in common, and a share nobody planned for)*
+
+Find out what the new co-owner wants; many simply want fair value. Agree on one independent appraiser in advance. A buy-out at an appraised price, paid over time if necessary, is almost always cheaper than a partition lawsuit. Put the terms in writing, and then sign a co-ownership agreement among the people who remain, so it does not happen twice.
+
+### If it has already happened: Case 9
+
+*[Case 9: Half of it was never hers to give](#Case 9: Half of it was never hers to give)*
+
+If you have inherited half of a house in which the deceased's spouse still lives, the worst move is a quick ultimatum. Get a valuation. Find out what the surviving spouse can afford: a buy-out, a rent, a life-long arrangement with the sale at the end. Put any arrangement in writing, with who pays taxes, insurance, and repairs, and what happens at the next death. A written co-ownership agreement among people who are not family is not a sign of mistrust. It is the only thing that keeps the peace.
+
+### If it has already happened: Case 10
+
+*[Case 10: The house given away eight years before](#Case 10: The house given away eight years before)*
+
+If you received a lifetime gift and now face a sibling's compulsory share claim, establish the facts before the argument starts: the date of the gift, its value then, the value of the estate, and any evidence of care you gave. Ask a lawyer to calculate the claim, including any credit for care, before you negotiate. If you are the sibling with the claim, mind the clock: German compulsory share claims are generally subject to the regular three-year limitation period, running from the end of the year in which you learned of the death and of the will that excluded you.
+
+### If it has already happened: Case 11
+
+*[Case 11: The house for the son who pays the mortgage](#Case 11: The house for the son who pays the mortgage)*
+
+If a parent has already recorded a life estate deed, it cannot be undone without the child's signature, but it can be reversed with it: the child can deed the remainder back, which has its own gift and tax consequences, so take advice first. If the deed may have breached a home equity agreement or a mortgage clause, contact the company or servicer in writing before they contact you. If the parent has died and the house came to you subject to a mortgage, ask the servicer to confirm you as a successor in interest, keep paying, and get a written payoff statement from any home equity investor before you decide whether to refinance or sell.
+
+### If it has already happened: Case 12
+
+*[Case 12: The German will that was typed](#Case 12: The German will that was typed)*
+
+If you are the unmarried partner of someone who has died with an invalid will, or none, get advice immediately about your own position: whether you have any rights in the home under a tenancy or a contract, whether any accounts were joint, whether life insurance names you. Ask the heirs, early and in writing, for time. Many heirs will agree to a period of months if asked respectfully; few agree when they first hear from a lawyer.
+
+### If it has already happened: Case 13
+
+*[Case 13: The California form will, half filled in](#Case 13: The California form will, half filled in)*
+
+Do not throw it away, and do not try to fix it by adding witnesses afterwards; that can make things worse. Whoever has the original must deliver it to the court within thirty days of learning of the death (§ 8200). Take it, untouched, to a probate lawyer, who can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it. Families often are, once they understand what the parent wanted and what a court fight would cost.
+
+### If it has already happened: Case 14
+
+*[Case 14: The witness who was also the heir](#Case 14: The witness who was also the heir)*
+
+If you are named in a will you witnessed, tell the executor and get your own advice, and gather the evidence that the wish was genuinely the testator's: messages, photographs, conversations others heard, notes from whoever drafted the will. If you suspect pressure, ask yourself honestly what you would gain from a challenge, after costs, and whether the testator's reasons, once you hear them, might be ones you can live with.
+
+### If it has already happened: Case 15
+
+*[Case 15: The original that nobody could find](#Case 15: The original that nobody could find)*
+
+If you believe a will existed but cannot find it, search thoroughly and systematically: desks, safes, files, books, the deceased's car, safe deposit boxes, the lawyer or notary the person used, and the local probate court, which can check whether a will is held in official custody. In Germany, the court will also learn from the Central Register of Wills whether any registered will exists. Write down who saw what, when, and what they remember it saying, as soon as possible, while memories are fresh. Look for copies, drafts, photographs, or letters that mention it. Then ask a lawyer whether that evidence is enough. Sometimes it is.
+
+### If it has already happened: Case 16
+
+*[Case 16: The no-contest clause that scared nobody](#Case 16: The no-contest clause that scared nobody)*
+
+If you are the child left with a small gift and a no-contest clause, do not decide in anger; get a lawyer's view on probable cause and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter and consider early mediation. Most will contests settle eventually. Settling early saves the most.
+
+### If it has already happened: Case 17
+
+*[Case 17: The springing power that would not spring](#Case 17: The springing power that would not spring)*
+
+Ask the doctors, in writing, exactly what they need to see, and whether an assessment can be expedited. Ask the bank what it will accept meanwhile. On a clear day, ask the principal whether they would sign a new, immediately effective power; if they have the capacity to do that, it may be the fastest fix. Keep a record of every bill and payment.
+
+### If it has already happened: Case 19
+
+*[Case 19: The German spouse who could decide, but only for a while](#Case 19: The German spouse who could decide, but only for a while)*
+
+If you are using the spouse's emergency right now, note the date on the doctor's confirmation and count six months forward. Apply to the guardianship court early, well before the deadline, and propose yourself as guardian; the court will hear the patient where possible and ask about their wishes. If the patient has lucid periods, ask a notary whether a *Vorsorgevollmacht* could still be signed; notaries are used to assessing capacity, and many will visit a hospital.
+
+### If it has already happened: Case 20
+
+*[Case 20: "No heroic measures"](#Case 20: "No heroic measures")*
+
+Ask the doctors to explain the realistic outcomes of each option, not only the risks. Bring the people who knew the patient best and ask one question: what would she have said, if she could hear this conversation? Write down the reasons for what you decide. You will want them later, when you lie awake. A vague directive is still a gift: it named you because she trusted you to decide.
+
+### If it has already happened: Case 21
+
+*[Case 21: The Berliner Testament and the second marriage](#Case 21: The Berliner Testament and the second marriage)*
+
+If you are a widow or widower bound by a joint will and want to provide for a new partner, see a notary before making any gift or new will. Ask whether the old will contains a change clause, whether your children would agree to a notarised arrangement, and whether a gift you are considering could be reclaimed later. If you are the new spouse, ask to see the old will, gently, before you give up your own home.
+
+### If it has already happened: Case 22
+
+*[Case 22: Two passports, two homes, one estate](#Case 22: Two passports, two homes, one estate)*
+
+If someone has died with assets in two countries, the heirs should agree early on one coordinating lawyer, usually in the country of habitual residence, who works with a counterpart in the other. Collect the death certificate in multiple certified copies, with apostilles; you will need more than you think. Apply for a European Certificate of Succession for the European assets if the institutions abroad will accept it. Get cross-border tax advice before any money moves between countries.
+
+### If it has already happened: Case 23
+
+*[Case 23: The phone nobody could open](#Case 23: The phone nobody could open)*
+
+Stop guessing passcodes. Before you close any account, ask whether you still need it for two-factor codes, recovery emails, or data you cannot retrieve later. Request each provider's procedure for deceased users in writing and keep copies of what you send. Ask friends, clients, the accountant, and any computer repair person for copies and for knowledge of backups. A surprising amount can be rebuilt from other people's inboxes.
+
+### If it has already happened: Case 24
+
+*[Case 24: The video will](#Case 24: The video will)*
+
+The law will not follow the video, but the family can. Heirs under the old will or the intestacy rules may choose to honour the wishes in a video by agreement, with advice on how to document it and on any tax reporting. That choice is moral, not legal, and it is easier to make when the video is watched together, calmly, and early.
+
+### If it has already happened: Case 25
+
+*[Case 25: The seed phrase in the will](#Case 25: The seed phrase in the will)*
+
+If you find a recovery phrase in a will, a draft, or a public court file, assume it has been seen. Move the assets, with the executor's authority, to a new wallet as soon as you lawfully can. If you are an executor dealing with digital assets you do not understand, hire someone who does, and keep a written record of everything you authorise them to do.
+
+## Appendix M. Case 11, the Technical Notes
+
+These notes carry the detail behind [Case 11](#Case 11: The house for the son who pays the mortgage), a California parent leaving a mortgaged house to the son who pays for it. They are California and federal law; for other states, see [Other US states](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
+
+### The transfer-on-death deed, in detail
+
+California offers only one kind: the revocable transfer-on-death deed. By definition it stays revocable until the owner's death, and the owner can revoke it at any time while she has capacity (Probate Code §§ 5614, 5630). There is no irrevocable version. Since 2022 it must be signed by the owner, dated, signed by two witnesses who are present at the same time, and acknowledged before a notary, and it must be recorded with the county recorder on or before 60 days after the date it was notarised, or it has no effect (§§ 5624, 5626). The statutory form is printed in the Probate Code itself (§ 5642), and recording it requires no documentary transfer tax and no preliminary change of ownership report (§ 5656). The county still charges its recording fees, which vary. The whole part of the code that allows these deeds is due to be repealed on 1 January 2032 unless the Legislature extends it (§ 5600).
+
+The witness rule was also more subtle than the chat suggested. Anyone generally competent to be a witness may witness the deed, and a deed is not invalid just because an interested person witnessed it. But if a beneficiary of the deed is also a witness, the law presumes that the beneficiary obtained the deed by duress, menace, fraud, or undue influence, and the beneficiary then carries the burden of proving otherwise (§ 5625). So the son should not witness. The daughter could legally witness a deed that gives her nothing, and no presumption would arise; but the lawyer pointed out that the two strongest witnesses are people with no family stake at all, such as neighbours or the notary's colleagues, and that the daughter's signature as a witness might later be read as agreement she never meant to give, or as pressure she never applied. Better to tell her, and let someone else witness.
+
+### The life estate deed, in detail
+
+A life estate deed does what the mother wanted in one sense: she would keep the right to live in the house for life, and her son would receive the remainder, which becomes his now. That is exactly the problem. Once the deed is recorded, the son owns a present interest. The mother cannot undo it without his signature. She cannot sell or refinance the whole house without him. If he is sued, his creditors may be able to reach his remainder. If he remarries and divorces again, his interest will be part of the conversation, even if it is his separate property. If he dies before her, his remainder passes under his own will or to his own heirs, not back to her.
+
+The tax picture is mixed. Giving away the remainder is a gift, and because the son will not enjoy the house until later, it is a gift of a future interest; a federal gift tax return, Form 709, is required for future-interest gifts regardless of their value, although tax is rarely due because of the lifetime exemption. At her death, because she kept the right to live in the house for life, the whole value of the house is included in her estate for federal estate tax purposes (Internal Revenue Code § 2036). That has a good side: property included in the estate generally receives a new income tax basis equal to its value at death (§ 1014). On that point the life estate deed is better than adding the son to the title, which would have passed on her old basis for the half she gave him (Case 7).
+
+Property tax works in her favour too, but only so far. Creating a life estate that the owner keeps for herself is not a change in ownership for California property tax purposes; the change happens when the life estate ends and the remainder comes into the son's possession. At that point the parent-child exclusion under Proposition 19 can prevent a full reassessment, but only if the house was her principal residence, he makes it his principal residence and claims the homeowners' or disabled veterans' exemption within one year, and he files the exclusion claim with the county assessor within three years. The exclusion is also capped: the house keeps her taxable value only up to that value plus 1,044,586 dollars for transfers between 16 February 2025 and 15 February 2027 (the figure is adjusted every two years). Above that, the difference is added to the taxable value. The same rules apply when he inherits through a transfer-on-death deed, a trust, or a will.
+
+The chat's "five-year Medicaid look-back" was also wrong for California. Since 1 January 2026, Medi-Cal again counts assets for people aged sixty-five or older, and for long-term care it looks back at transfers made for less than fair value in the 30 months before someone enters a nursing facility; transfers made before 2026 are not counted. A gift of the remainder now could delay coverage if she needed nursing care within that window. Federal Medicaid law does contain narrow exceptions for transferring a home to certain children, including a child who lived in the home for at least two years before the parent entered care and whose care kept the parent at home (42 U.S.C. § 1396p(c)(2)(A)). Paying the mortgage is not the same as providing care. Whether any exception fits is a question for a specialist, with the facts in hand.
+
+### The mortgage and the due-on-sale clause
+
+Most mortgages contain a due-on-sale clause: if the property is transferred, the lender can demand the whole loan. Federal law limits that. For a home with fewer than five dwelling units, a lender may not enforce the clause on certain transfers, including a transfer to a relative resulting from the borrower's death, a transfer where the borrower's children become an owner, a transfer on the death of a joint tenant, and a transfer into a living trust in which the borrower remains a beneficiary (12 U.S.C. § 1701j-3(d)). The federal regulation adds conditions: the protection for family transfers applies where the person receiving the home occupies or will occupy it, and the trust exception requires that the borrower remains the beneficiary and occupant (12 C.F.R. § 191.5(b)). Because the son lived in the house, a transfer to him, now or at death, fell within those exceptions. He would not need to "assume" the loan for the lender to be prevented from calling it in. After the mother's death, federal servicing rules treat him as a successor in interest, and once the servicer confirms his identity and ownership it must deal with him much like a borrower. He could also apply to assume the loan formally, but that is an option, not the price of keeping the house.
+
+### The home equity investment, in detail
+
+This was the part nobody had thought about. The lawyer pulled the recorded documents and the contract. The company's interest was secured against the house, and the contract required repayment of the company's share when the house was sold, when the owner died, or when the term ended, and treated other transfers of title as events that needed the company's written consent or triggered settlement. No deed, of any kind, makes that obligation go away. A life estate deed recorded now might itself count as a transfer under the contract. A transfer-on-death deed transfers nothing until death, but the death would be a settlement event in any case. So whatever deed the mother chose, the son would one day have to pay the company its share, by refinancing, by using savings, or by selling. There would be no "assumption agreement" for the son to sign; there would be a bill.
+
+### Questions to ask before you sign a deed for one child
+
+- [ ] Do I want my child to own something now, or only at my death? Can I live with needing their signature to sell or refinance?
+- [ ] Who will witness the deed? Is either witness a beneficiary? Will it be notarised and recorded within 60 days of the notary's date?
+- [ ] What does my mortgage say about transfers, and does my situation fit the federal exceptions (a child who lives in the home, a living trust in which I stay the beneficiary and occupant)? Have I asked the servicer in writing?
+- [ ] Is there a home equity investment, reverse mortgage, or other agreement recorded against the house? What does it say about transfers, consent, and settlement at death? Have I asked the company in writing, and kept the answer?
+- [ ] Have my child's payments been written down: rent, loan, or advance on inheritance? Is there a signed agreement?
+- [ ] Will my child make the house their principal residence, so the parent-child property tax exclusion can apply, and is the value under the current limit?
+- [ ] Could I need nursing care in the next 30 months? Have I asked a Medi-Cal specialist before giving away any interest?
+- [ ] Is a gift tax return needed (any future-interest gift, or a present gift over the annual exclusion)?
+- [ ] Have I told my other children, and does my will say the same thing as the deed or trust?
+
+## Appendix N. Sources
 
 All sources were consulted in October 2026. Statute section numbers are given in the text where they are used.
 
@@ -278,7 +454,7 @@ All sources were consulted in October 2026. Statute section numbers are given in
 
 ### Germany
 
-- Bürgerliches Gesetzbuch (BGB), via Gesetze im Internet (gesetze-im-internet.de), Federal Ministry of Justice: §§ 311b, 331, 430, 753, 1358, 1371, 1643, 1782, 1783, 1814, 1820, 1827, 1922, 1924, 1925, 1931, 1936, 1944, 1967, 2042, 2048, 2057a, 2064, 2077, 2087, 2174, 2197, 2229, 2231, 2232, 2233, 2247, 2248, 2249, 2250, 2252, 2253, 2255, 2256, 2259, 2265, 2267, 2269, 2270, 2271, 2276, 2287, 2296, 2303, 2316, 2325, 2333, 2346, 2348, 2353.
+- Bürgerliches Gesetzbuch (BGB), via Gesetze im Internet (gesetze-im-internet.de), Federal Ministry of Justice: §§ 311b, 331, 430, 753, 1358, 1975, 1371, 1643, 1782, 1783, 1814, 1820, 1827, 1922, 1924, 1925, 1931, 1936, 1944, 1967, 2042, 2048, 2057a, 2064, 2077, 2087, 2174, 2197, 2229, 2231, 2232, 2233, 2247, 2248, 2249, 2250, 2252, 2253, 2255, 2256, 2259, 2265, 2267, 2269, 2270, 2271, 2276, 2287, 2296, 2303, 2316, 2325, 2333, 2346, 2348, 2353.
 - Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG) §§ 2, 14, 16, 30.
 - Versicherungsvertragsgesetz (VVG) §§ 159, 160.
 - Gerichts- und Notarkostengesetz (GNotKG), fee schedule no. 12100.
@@ -287,11 +463,19 @@ All sources were consulted in October 2026. Statute section numbers are given in
 - Strafgesetzbuch (StGB) § 201.
 - Kunsturhebergesetz (KunstUrhG) §§ 22, 23.
 - Urheberrechtsgesetz (UrhG) § 64.
-- Bundesgerichtshof: judgment of 12 July 2018, III ZR 183/17, and press release of the same date; judgment of 8 October 2013, XI ZR 401/12; judgment of 5 April 2016, XI ZR 440/15; decision of 6 July 2016, XII ZB 61/16; decision of 24 March 2021, IV ZR 269/20.
+- Bundesgerichtshof: judgment of 12 July 2018, III ZR 183/17, and press release of the same date; judgment of 8 October 2013, XI ZR 401/12; judgment of 5 April 2016, XI ZR 440/15; decision of 6 July 2016, XII ZB 61/16; decision of 24 March 2021, IV ZR 269/20; judgment of 27 April 1994, IV ZR 132/93, and judgment of 29 June 2016, IV ZR 474/15 (reserved usufruct and right of residence: when the ten-year period of § 2325 begins); judgment of 29 June 2022, IV ZR 110/21 (chosen foreign law without a fixed share for children and German public policy, Succession Regulation Article 35).
 - Bundesnotarkammer: Zentrales Testamentsregister (testamentsregister.de), including register contents and fees; Zentrales Vorsorgeregister (vorsorgeregister.de).
 - TelefonSeelsorge Deutschland, crisis line numbers as published by the service.
 
 ### European Union
 
-- Regulation (EU) No 650/2012 (Succession Regulation), Articles 21, 22, 69, and 83, via EUR-Lex.
+- Regulation (EU) No 650/2012 (Succession Regulation), Articles 21, 22, 35, 69, and 83, via EUR-Lex.
 - Regulation (EU) 2016/679 (General Data Protection Regulation), Article 2(2)(c), via EUR-Lex.
+
+### Other countries (Chapter 40)
+
+- United States: Internal Revenue Service, Publication 555, Community Property (list of community property states).
+- United Kingdom: UK government guidance, "Making a will: make sure your will is legal" and "Update your will", and "How Inheritance Tax works: thresholds, rules and allowances"; Office of the Public Guardian, "Make, register or end a lasting power of attorney" and its guide to making a lasting power of attorney; Scottish Government guidance, "Create a will" (legal rights in Scotland); Wills Act 1837, sections 9, 15, 18 and 18B, and the Inheritance (Provision for Family and Dependants) Act 1975, on the official UK legislation website.
+- Canada: Canada Revenue Agency, "Prepare tax returns for someone who died" (deemed disposition and the final return); Gouvernement du Québec, "Notarial will" and the pages on the forms of will; Government of Ontario, "Make a power of attorney" and the Substitute Decisions Act, 1992.
+- Australia: Moneysmart (Australian Securities and Investments Commission), "Who gets your super if you die"; Australian Taxation Office, deceased estates and superannuation death benefits pages; NSW Legal Aid, "Family provision claims", and the Succession Act 2006 (NSW).
+
