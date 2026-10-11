@@ -2,7 +2,7 @@
 
 Most estate planning imagines a clean line: alive, then dead. Real life often has a long, untidy middle, months or years in which a person is alive but cannot sign, decide, or explain. The four cases in this chapter happen in that middle. None of them is about a will. All of them are about the documents people mean to sign "later."
 
-### Case 16: The springing power that would not spring
+### Case 17: The springing power that would not spring
 
 **The situation.** The mother was a retired accountant in San Jose, seventy-six, independent to the point of stubbornness and proud of never having missed a bill in her life. Her son lived nearby and was the obvious person to help if she ever needed it. Her daughter lived in Boston.
 
@@ -47,7 +47,7 @@ California's Uniform Statutory Form Power of Attorney (Probate Code § 4401), si
 - Name a successor agent in case the first cannot act.
 - Ask your bank and your insurer in writing whether they will accept your power.
 
-### Case 17: No power at all
+### Case 18: No power at all
 
 **The situation.** The man in this case was sixty-one, a self-employed electrician in Bakersfield with a van, two part-time employees, and a reputation for turning up when he said he would. He had lived for twelve years with his partner, a dental receptionist, in a house he owned. They had never married; they had both been married before and saw no reason to do it again.
 
@@ -73,7 +73,7 @@ The electrician recovered partially after five months. He could walk with a cane
 - **An advance health care directive** naming his partner as his agent for healthcare decisions, with a sentence or two about what the electrician would want. In California, a directive is valid if it is signed and either notarised or witnessed by two qualified adults, and it can be voluntarily registered with the California Secretary of State's registry. The California statutory form is free.
 - **A business continuity note.** For a sole trader, a one-page note on the Family List saying who his key clients and suppliers were, where the business banking was, and who could finish open jobs would have saved much of the business.
 
-The electrician might also have considered a will, since his partner would have inherited nothing if he had died; as in Case 11, unmarried partners do not inherit under the default rules.
+The electrician might also have considered a will, since his partner would have inherited nothing if he had died; as in Case 12, unmarried partners do not inherit under the default rules.
 
 **The plain-language version.** The law has a default list of who decides for you. It is built around spouses, parents, and children. If the person who actually knows you best is not on that list, only paper can put them there.
 
@@ -85,7 +85,7 @@ The electrician might also have considered a will, since his partner would have 
 - If I could not sign tomorrow, who could pay my bills, run my business, or sell my car?
 - Does anyone in my family disagree with my partner about how I should be cared for? Have I told them, in writing, whom I trust?
 
-**The German version.** Germany has the same gap. Without a *Vorsorgevollmacht*, the court appoints a legal guardian (*Betreuer*) for an adult who cannot manage their affairs (BGB § 1814). The court must consider the person's wishes and close relationships, and a long-term partner is often appointed, but it takes time, and the court supervises. The 2023 spouse's emergency right (Case 18) does not help unmarried partners at all.
+**The German version.** Germany has the same gap. Without a *Vorsorgevollmacht*, the court appoints a legal guardian (*Betreuer*) for an adult who cannot manage their affairs (BGB § 1814). The court must consider the person's wishes and close relationships, and a long-term partner is often appointed, but it takes time, and the court supervises. The 2023 spouse's emergency right (Case 19) does not help unmarried partners at all.
 
 **The documents in practice.** An advance health care directive in California does two jobs: it names an agent, and it lets you write down instructions. The statutory form takes about half an hour to complete, and a notary or two qualified adult witnesses complete it. Some restrictions apply to who may witness; the form explains them. Keep the original at home, give copies to your agent and your doctor, and ask the doctor to put a copy in your medical record. A financial power of attorney is longer, needs a notary, and is worth having a lawyer review if you own a business or real estate. Together, they are the most valuable afternoon most adults will ever spend on paperwork.
 
@@ -98,7 +98,7 @@ The electrician might also have considered a will, since his partner would have 
 - If you are self-employed, make sure the power covers your business accounts, and put a one-page business continuity note in your Family List.
 - Give copies to your doctor and your agent, and tell any relative who might object whom you have chosen.
 
-### Case 18: The German spouse who could decide, but only for a while
+### Case 19: The German spouse who could decide, but only for a while
 
 **The situation.** The husband and the wife had been married for twenty-six years and lived in a terraced house in Nuremberg, which they owned jointly. The husband was an IT administrator and a keen weekend cyclist; the wife taught primary school. They had talked, vaguely, about signing powers of attorney for each other, but then they read in the newspaper that since 2023 spouses in Germany could represent each other automatically in a medical emergency. That seemed to settle it.
 
@@ -120,7 +120,7 @@ German law requires the power of attorney to be in writing, and to mention expre
 
 **The plain-language version.** The 2023 law is an emergency bridge for the first weeks in hospital. It was never meant to replace a power of attorney, and it stops at the hospital door and at the six-month mark.
 
-**What it cost.** Less money than in Case 17, because the German guardianship court appointed the wife quickly and the fees were modest. The cost was time and supervision. For a year the wife kept receipts for everything she spent from the husband's account, filed reports, and waited for court approval before she could refinance the house when interest rates fell. The husband recovered enough to sign a *Vorsorgevollmacht* himself the following spring; the guardianship was lifted soon afterwards. Both of them now carry, in their wallets, a small card saying that a power of attorney exists and where it is.
+**What it cost.** Less money than in Case 18, because the German guardianship court appointed the wife quickly and the fees were modest. The cost was time and supervision. For a year the wife kept receipts for everything she spent from the husband's account, filed reports, and waited for court approval before she could refinance the house when interest rates fell. The husband recovered enough to sign a *Vorsorgevollmacht* himself the following spring; the guardianship was lifted soon afterwards. Both of them now carry, in their wallets, a small card saying that a power of attorney exists and where it is.
 
 **Questions to ask a German notary or adviser.**
 
@@ -145,7 +145,7 @@ German law requires the power of attorney to be in writing, and to mention expre
 - Register the powers in the Central Register of Lasting Powers of Attorney.
 - Carry a card in your wallet saying that a power exists and where the original is.
 
-### Case 19: "No heroic measures"
+### Case 20: "No heroic measures"
 
 **The situation.** The mother was eighty-four, a retired librarian in Santa Barbara, sharp-witted and allergic to fuss. Years earlier, after watching a friend die slowly in intensive care, she had filled in an advance directive. She named her daughter as her healthcare agent. In the space for instructions she wrote one sentence: "I do not want heroic measures." She showed it to the daughter, said "You know what I mean," and put it in a drawer.
 
@@ -201,7 +201,7 @@ Write the answers down in your own words. Then take them to the form. Appendix F
 
 ## Chapter 7. Families, Borders, and the Digital Locker
 
-### Case 20: The Berliner Testament and the second marriage
+### Case 21: The Berliner Testament and the second marriage
 
 **The situation.** The husband and his first wife married in Hamburg in 1968 and raised two children, a daughter and a son, in a flat in Eimsbüttel that they eventually bought. In 1990, after a friend's sudden death, they sat down at the kitchen table one evening and wrote a joint will. His first wife wrote it out by hand, as German law allows for a joint will between spouses; both of them signed it. It said what most German joint wills say: each of us appoints the other as sole heir; after the death of the survivor, our children shall inherit in equal shares. They put it in a folder and, being careful people, deposited it in official custody at the local court.
 
@@ -246,7 +246,7 @@ Once his first wife had died without such a clause, the husband had one more opt
 - If you are a survivor bound by a joint will, see a notary before you remarry or make any large gift.
 - If you are marrying someone bound by an old joint will, ask to see it before you give up your own home.
 
-### Case 21: Two passports, two homes, one estate
+### Case 22: Two passports, two homes, one estate
 
 **The situation.** The emigrant was born in Würzburg, studied in Munich, and at twenty-eight took a job in Silicon Valley that was supposed to last two years. It lasted thirty. He married an American; they had a son and later divorced. He became an American citizen and kept his German one. He owned a house in Sunnyvale, which he put into a California revocable trust on his lawyer's advice, naming his son as beneficiary.
 
@@ -269,7 +269,7 @@ So the two systems pulled in different directions. His partner, as heir in Germa
 **What would have prevented it.** One coordinated plan, made with advice in both countries.
 
 - **A will with an express choice of law.** Depending on what the emigrant wanted, he could have chosen German or Californian law for his whole succession. A choice of Californian law would generally have removed the German compulsory share rules from the picture for the succession itself; whether that suited him depended on his goals, which is exactly the conversation a lawyer would have had with him.
-- **Documents that referred to each other.** The German will could have said, "My property in the United States passes under my revocable trust dated ...; this will governs everything else." The trust could have referred to the German will.
+- **Documents that referred to each other.** The German will could have said, "My property in the United States passes under my revocable trust dated ..; this will governs everything else." The trust could have referred to the German will.
 - **A tax review.** Moving from California to Germany changes the tax picture entirely. A cross-border tax adviser should see the plan.
 
 **The plain-language version.** If you live in one country and own property in another, you have not two estates but one, seen through two pairs of glasses. Each country will apply its own rules about which law applies. The European rule is simple: where you live decides, unless you choose your nationality's law in writing.
@@ -287,7 +287,7 @@ So the two systems pulled in different directions. His partner, as heir in Germa
 - Make each country's documents refer to the other's, so that no document claims more than it should.
 - Ask a cross-border tax adviser how each country will tax your estate, before you die rather than after.
 
-### Case 22: The phone nobody could open
+### Case 23: The phone nobody could open
 
 **The situation.** The woman in this case was a freelance graphic designer in Pasadena, forty-six, single, organised in her work and chaotic in her drawers. Her business lived entirely in her phone and laptop: client files, invoices, contracts, ten years of photographs, and the drafts of a children's book she had been writing in her spare time. Both devices were encrypted, as modern devices are by default. Her email account used two-factor authentication, with codes sent by text message to her phone. Her passwords were in her head and, she joked, "in the phone, somewhere."
 
@@ -338,7 +338,7 @@ Part Six and Chapter 38 describe how to set this up without writing passwords on
 - Add a clause to your will consenting to disclosure of your electronic communications to your executor.
 - Back up work files and photographs to a place your executor can reach without your phone.
 
-### Case 23: The video will
+### Case 24: The video will
 
 **The situation.** The father was seventy-three, a retired postal worker in Ventura, when he was diagnosed with pancreatic cancer and told he had a few months. He had married late, at sixty, to a widow who brought a grown daughter into the marriage. The father had two sons of his own from his first marriage. His wife died two years before his diagnosis. In those last two years, and especially after the diagnosis, it was the stepdaughter who drove him to chemotherapy, cooked for him, and slept on his sofa on the bad nights.
 
@@ -381,7 +381,7 @@ The two sons, who had nodded at every word, discovered after their father's deat
 - Record your video after the will is signed, without the main beneficiary in the room, and say in it that a written will exists.
 - If you want a stepchild to inherit, name them in that written will.
 
-### Case 24: The seed phrase in the will
+### Case 25: The seed phrase in the will
 
 **The situation.** The man in this case was a software developer in Palo Alto, thirty-nine, married, with a two-year-old daughter. Over a decade he had built up a substantial holding of cryptocurrency, held in a self-custody wallet: no bank, no exchange, just a hardware device and a twenty-four-word recovery phrase that could restore access to the funds from anywhere in the world.
 

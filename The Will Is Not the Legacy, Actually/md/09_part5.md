@@ -18,7 +18,7 @@ Both the *Vorsorgevollmacht* and the *Betreuungsverfügung* can be registered in
 
 ### Immediate or springing
 
-An immediate power works from the day you sign. A springing power works only when you become incapacitated, usually proven by a doctor's certificate. Springing powers sound safer and work slower (Case 16). The real safeguard is choosing the right agent, naming a backup, and, if you want oversight, requiring the agent to report to a second person.
+An immediate power works from the day you sign. A springing power works only when you become incapacitated, usually proven by a doctor's certificate. Springing powers sound safer and work slower (Case 17). The real safeguard is choosing the right agent, naming a backup, and, if you want oversight, requiring the agent to report to a second person.
 
 ### Choosing the agent
 
@@ -28,7 +28,7 @@ Talk to the agent. Tell them where your Family List is (Part Six). Give them a c
 
 ### Spouses are not automatically agents
 
-In California, being married does not give you authority over your spouse's separate accounts or retirement plans. In Germany, since 2023, spouses have a limited emergency right to represent each other in health matters for up to six months (BGB § 1358), but not in financial matters, and not if they live apart (Case 18). Each spouse should sign a power for the other.
+In California, being married does not give you authority over your spouse's separate accounts or retirement plans. In Germany, since 2023, spouses have a limited emergency right to represent each other in health matters for up to six months (BGB § 1358), but not in financial matters, and not if they live apart (Case 19). Each spouse should sign a power for the other.
 
 ## Chapter 21. Healthcare Decisions
 
@@ -42,7 +42,7 @@ A healthcare directive does two jobs: it names the person who decides for you wh
 
 ### Write in situations, not slogans
 
-"No heroic measures" is a slogan (Case 19). A useful directive describes situations and decisions:
+"No heroic measures" is a slogan (Case 20). A useful directive describes situations and decisions:
 
 - If I am terminally ill and unable to communicate, I do / do not want resuscitation, a ventilator, artificial nutrition, dialysis.
 - If I have permanent severe brain damage with no reasonable prospect of recovery, I want / do not want life-prolonging treatment.

@@ -6,6 +6,8 @@
 
 This chapter is written for the person who was named: the executor, the heir, the archive-keeper, or simply the family member who ended up holding the folder. Give it to them in advance, if you are the planner. If you are the receiver, start here.
 
+![Figure 5. The first ninety days after a death, at a glance. The numbered steps below give the detail.](src/diagrams/fig3_first_ninety_days.png)
+
 ### The first days
 
 **Do not rush.** Very little has to be done in the first forty-eight hours, and almost nothing has to be decided. The exceptions are below.
@@ -103,4 +105,4 @@ Before closing anything, export:
 
 ### Cryptocurrency and other bearer assets
 
-If the deceased held cryptocurrency in self-custody, the will names who receives it, but access depends on the keys. Look for sealed instructions (Case 24). Be very careful: anyone who offers to "recover" crypto for an upfront fee is far more likely to be a fraudster than a rescuer.
+If the deceased held cryptocurrency in self-custody, the will names who receives it, but access depends on the keys. Look for sealed instructions (Case 25). Be very careful: anyone who offers to "recover" crypto for an upfront fee is far more likely to be a fraudster than a rescuer.

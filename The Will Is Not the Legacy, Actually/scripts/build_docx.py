@@ -86,7 +86,8 @@ for _ in range(10): doc.add_paragraph()
 cp=["Copyright © 2026 Lothar J. Musiol. All rights reserved.",
 "No part of this book may be reproduced or transmitted in any form or by any means without written permission from the author, except for brief quotations in reviews and for the worksheets and checklists in the appendices, which readers may copy for their own personal use.",
 "This book is an educational guide. It is not legal, tax, financial, or medical advice, and it does not create a lawyer-client relationship. Laws on wills, trusts, compulsory shares, taxes, digital assets, powers of attorney, and healthcare directives differ by country and by state, and they change. Legal figures naming California, the United States, Germany, or the European Union were checked against official sources in October 2026. Have a qualified lawyer or notary where you live review any document that transfers property, names a guardian, or grants a power of attorney before you rely on it.",
-"All people and families in this book are fictional. Any resemblance to real persons is coincidental.",
+"All people and families in this book are fictional and are described by their roles, not by name. Any resemblance to real persons is coincidental.",
+"Pictures: the cover illustration and the five diagrams inside were drawn for this book by the author's own scripts from simple shapes and text. No photographs, stock images, or third-party artwork are used. Fonts on the covers and diagrams are licensed under the SIL Open Font License 1.1. See the picture credits file for details.",
 "First edition, 2026."]
 for t in cp:
     p=doc.add_paragraph(); r=p.add_run(t); r.font.size=Pt(8.5)
@@ -118,6 +119,8 @@ for f in md_files:
                 elif cur: paras.append(' '.join(cur)); cur=[]
             if cur: paras.append(' '.join(cur))
             blocks.append(('quote',paras)); continue
+        mi=re.match(r'^!\[(.*)\]\((.*)\)\s*$',l)
+        if mi: blocks.append(('img',mi.group(1),mi.group(2))); i+=1; continue
         m=re.match(r'^(\s*)([-*]|\d+\.) (.*)',l)
         if m:
             items=[]
@@ -161,6 +164,12 @@ for b in blocks:
         p=doc.add_paragraph(); t=b[1]
         if t.startswith('*') and t.endswith('*') and t.count('*')==2: add_runs(p,t[1:-1],italic=True)
         else: add_runs(p,t)
+    elif b[0]=='img':
+        from docx.enum.text import WD_ALIGN_PARAGRAPH
+        p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.keep_with_next=True
+        p.add_run().add_picture('/workspace/will/'+b[2],width=Inches(4.5))
+        c=doc.add_paragraph(); c.alignment=WD_ALIGN_PARAGRAPH.CENTER
+        r=c.add_run(b[1]); r.italic=True; r.font.size=Pt(9.5)
     elif b[0]=='quote':
         for t in b[1]:
             p=doc.add_paragraph(); p.paragraph_format.left_indent=Inches(0.3); p.paragraph_format.right_indent=Inches(0.2)
@@ -226,3 +235,6 @@ for rpr in doc.element.body.iter(qn('w:rPr')):
 doc.core_properties.title=TITLE; doc.core_properties.subject=SUB; doc.core_properties.author=AUTHOR
 out='/workspace/will/out/The_Will_Is_Not_the_Legacy_Actually_MASTER.docx'
 doc.save(out); print(out, len(heads), 'headings;', len(USED_LINKS), 'in-text links resolved')
+import zipfile as _z
+_x=_z.ZipFile(out).read('word/document.xml').decode()
+print('w:tbl count:', _x.count('<w:tbl>')+_x.count('<w:tbl '), '| inline pictures:', _x.count('<wp:inline'), '| anchored:', _x.count('<wp:anchor'), '| textboxes:', _x.count('txbx'))

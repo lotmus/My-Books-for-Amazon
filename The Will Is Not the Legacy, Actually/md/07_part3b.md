@@ -30,7 +30,7 @@ The German Civil Code (BGB) allows a will in ordinary form in only two ways (§ 
 
 Two practical advantages are worth knowing. First, a notarial will is found reliably. Second, it can save the heirs from having to apply for a certificate of inheritance (*Erbschein*): under the Land Registry Code (*Grundbuchordnung*, § 35), a notarial will together with the court's record of its opening is usually sufficient proof of succession to change the land register, although the registry may still ask for a certificate if it has doubts. Banks often accept it too. Since a certificate of inheritance also costs a fee based on the estate's value, the notarial will can pay for itself.
 
-**The handwritten will (eigenhändiges Testament).** You write the entire text yourself, by hand, and sign it (§ 2247). The law says you *should* state the date and place, and that the signature *should* include first name and surname; if those are missing, the will may still be valid, but an undated will can fail if the date matters to its validity. A typed will signed by hand is not valid (Case 11). A person who is a minor or cannot read writing cannot make a handwritten will (§ 2247(4)); minors over sixteen may make a will before a notary (§ 2233).
+**The handwritten will (eigenhändiges Testament).** You write the entire text yourself, by hand, and sign it (§ 2247). The law says you *should* state the date and place, and that the signature *should* include first name and surname; if those are missing, the will may still be valid, but an undated will can fail if the date matters to its validity. A typed will signed by hand is not valid (Case 12). A person who is a minor or cannot read writing cannot make a handwritten will (§ 2247(4)); minors over sixteen may make a will before a notary (§ 2233).
 
 You can keep a handwritten will at home, but you can also ask the local court to take it into special official custody (§ 2248). It is then registered in the Central Register of Wills, which the Federal Chamber of Notaries says charges a registration fee of 12.50 euros if collected through a notary and 15.50 euros if it bills you directly. Privately kept wills cannot be registered at all. Anyone who holds a will not in official custody must deliver it to the probate court without delay after learning of the death (§ 2259).
 
@@ -77,9 +77,7 @@ Chapter 31 comes back to the first item, because it is where Part Seven's video 
 
 ### Where the original goes
 
-| | California | Germany |
-|---|---|---|
-| Typical custody | Lawyer's office, home safe, or bank box the executor can open | Official custody at the local court (notarial wills automatically) |
-| Central registration | No state-run will register | Central Register of Wills (Bundesnotarkammer) for wills in official custody |
-| Duty after death | Deliver to superior court clerk within 30 days (§ 8200) | Deliver to probate court without delay (§ 2259) |
-| What heirs usually need | Letters from the probate court, or a summary procedure | Certificate of inheritance, or notarial will plus opening record |
+- **Typical custody.** California: Lawyer's office, home safe, or bank box the executor can open; Germany: Official custody at the local court (notarial wills automatically).
+- **Central registration.** California: No state-run will register; Germany: Central Register of Wills (Bundesnotarkammer) for wills in official custody.
+- **Duty after death.** California: Deliver to superior court clerk within 30 days (§ 8200); Germany: Deliver to probate court without delay (§ 2259).
+- **What heirs usually need.** California: Letters from the probate court, or a summary procedure; Germany: Certificate of inheritance, or notarial will plus opening record.

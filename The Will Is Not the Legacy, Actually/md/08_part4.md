@@ -4,6 +4,8 @@
 
 A will is the default tool, not always the main one. Much of a modern estate already moves outside the will. The useful question is not "will or no will?" It is "which asset should pass by which path, and what is left over for the will to catch?" This part takes each path in turn: when it works, the surprise it can spring, and a case where it overrode the will.
 
+![Figure 2. What passes outside the will, and what is left for it. Each asset is checked against its own paperwork first.](src/diagrams/fig1_outside_the_will.png)
+
 ## Chapter 12. Beneficiary Designations
 
 ### When it works
@@ -14,7 +16,7 @@ Life insurance, retirement plans, annuities, and many bank and brokerage account
 
 The form ignores your will, your divorce (sometimes), your later intentions, and your family's sense of fairness. It does exactly what it says.
 
-- **Divorce.** California automatically cancels many nonprobate transfers to a former spouse (Probate Code § 5040), but federal law governs most employer retirement plans, and the U.S. Supreme Court held in *Egelhoff v. Egelhoff* that federal law displaces a state rule of that kind for those plans (Case 1).
+- **Divorce.** California automatically cancels many nonprobate transfers to a former spouse (Probate Code § 5040), but federal law governs most employer retirement plans, and the U.S. Supreme Court held in 2001 that federal law displaces a state rule of that kind for those plans (Case 1).
 - **Death of the beneficiary.** If the only named beneficiary dies first and there is no contingent, the plan's default rules apply. Often that means the estate, which brings back the probate you were trying to avoid (Case 4).
 - **Minors.** A child cannot receive a large sum directly; someone has to be appointed to manage it (Case 5).
 - **Benefits.** An heir with a disability who relies on means-tested benefits may lose them if they receive money outright (Chapter 19).
@@ -30,7 +32,7 @@ Make a beneficiary audit part of your Family List (Appendix D has the worksheet)
 
 In California, bank accounts can carry a payable-on-death (POD) designation and securities accounts a transfer-on-death (TOD) registration. Real estate can pass by a revocable transfer-on-death deed (Probate Code §§ 5600 and following). You keep full ownership and control while alive; you can change or revoke the designation; and at death the named person takes the asset, usually without probate.
 
-California's revocable TOD deed must be signed, notarised, and recorded with the county recorder within the time the statute allows. The statute authorising these deeds is set to be repealed on 1 January 2032 unless extended; deeds executed before then remain valid.
+California's revocable TOD deed must be signed and dated by the owner, signed by two witnesses present at the same time, acknowledged before a notary, and recorded with the county recorder on or before 60 days after the notary's date (Probate Code §§ 5624, 5626). A beneficiary should not be a witness: that raises a presumption of undue influence (§ 5625). There is no irrevocable version. The statute authorising these deeds is set to be repealed on 1 January 2032 unless extended; deeds executed before then remain valid. For a worked example with a mortgage and a home equity investment, and for a side-by-side comparison with a life estate deed, see [Case 11](#Case 11: The house for the son who pays the mortgage); for other states, see [Other US states](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
 
 Germany has no direct equivalent to a TOD deed for real estate. Property transfers at death through the heirs (or by a legacy they must fulfil), and the land register is changed on proof of succession. For bank accounts, German banks offer arrangements that pay a named person on death, built on the contract-for-a-third-party rule; ask the bank what its form does, and remember that such a payment can still count when compulsory shares are calculated.
 
@@ -58,7 +60,7 @@ In Germany, spouses who own a house together each typically own a fractional sha
 
 ### What to do
 
-Do not add a name to a title "to make it easier" without advice. If the goal is convenience, use a power of attorney. If the goal is inheritance, use a beneficiary designation, a TOD deed, a trust, or a will.
+Do not add a name to a title "to make it easier" without advice (Cases 7 and [11](#Case 11: The house for the son who pays the mortgage)). If the goal is convenience, use a power of attorney. If the goal is inheritance, use a beneficiary designation, a TOD deed, a trust, or a will.
 
 ## Chapter 15. Gifts While Alive
 
@@ -103,12 +105,10 @@ If the statute's answer is not your answer, make a will.
 
 **California.** If the estate is small, heirs can avoid full probate. For deaths on or after 1 April 2025, the California courts list these limits:
 
-| Procedure | Limit |
-|---|---|
-| Small estate affidavit for personal property (Probate Code §§ 13100–13101), usable 40 days after death | 208,850 dollars gross value |
-| Court petition for the decedent's primary residence (§§ 13151–13154) | 750,000 dollars |
-| Affidavit for real property of small value (§ 13200) | 69,625 dollars |
-| Spouse collecting unpaid salary (§§ 13600–13601) | 20,875 dollars |
+- **Small estate affidavit for personal property (Probate Code §§ 13100–13101), usable 40 days after death:** 208,850 dollars gross value
+- **Court petition for the decedent's primary residence (§§ 13151–13154):** 750,000 dollars
+- **Affidavit for real property of small value (§ 13200):** 69,625 dollars
+- **Spouse collecting unpaid salary (§§ 13600–13601):** 20,875 dollars
 
 Many assets are left out when calculating the value, including cars, property in a trust, joint tenancy property, assets passing by beneficiary designation, and property passing to a surviving spouse. Debts are not subtracted. The limits are adjusted every three years; the next adjustment is due on 1 April 2028 (Probate Code § 890).
 
@@ -130,7 +130,7 @@ Bring every one of these documents to the drafting meeting. A will written witho
 
 ## Chapter 19. Trusts
 
-Trusts are American and English inventions. German law has no trust in the common-law sense, and German courts and tax authorities treat foreign trusts in their own way; anyone with a German connection and an American trust should get advice in both countries (Case 21). This chapter is about trusts in California.
+Trusts are American and English inventions. German law has no trust in the common-law sense, and German courts and tax authorities treat foreign trusts in their own way; anyone with a German connection and an American trust should get advice in both countries (Case 22). This chapter is about trusts in California.
 
 ### The revocable living trust
 
@@ -144,17 +144,15 @@ You create it while alive, usually naming yourself as trustee. You transfer ("fu
 
 "Funding" means changing the ownership of each asset so the trust owns it. This is where trusts fail.
 
-| Asset | How it is funded | Common mistake |
-|---|---|---|
-| House | New deed from you to yourself as trustee, recorded | Deed never recorded; or refinancing lender takes it out of the trust and nobody puts it back |
-| Out-of-state real estate | Deed recorded in that state | Forgotten, creating a second probate |
-| Bank and brokerage accounts | Retitled to the trust, or POD/TOD naming the trust | New accounts opened in your own name |
-| Retirement accounts | Not retitled; beneficiary form may name the trust or individuals, after tax advice | Retitling (which can be a taxable distribution), or naming the trust without advice |
-| Life insurance | Beneficiary form names the trust or individuals | Old form still names someone else |
-| Cars | Often left out, because small-estate procedures can handle them | Assuming everything is in the trust |
-| Business interests | Assignment, with partners' consent if required | Buy-sell agreement forbids transfer |
-| Personal belongings | General assignment to the trust | No assignment at all |
-| Digital assets and intellectual property | Assignment of copyrights and domain names, where possible | Forgotten |
+- **House.** How it is funded: New deed from you to yourself as trustee, recorded; Common mistake: Deed never recorded; or refinancing lender takes it out of the trust and nobody puts it back.
+- **Out-of-state real estate.** How it is funded: Deed recorded in that state; Common mistake: Forgotten, creating a second probate.
+- **Bank and brokerage accounts.** How it is funded: Retitled to the trust, or POD/TOD naming the trust; Common mistake: New accounts opened in your own name.
+- **Retirement accounts.** How it is funded: Not retitled; beneficiary form may name the trust or individuals, after tax advice; Common mistake: Retitling (which can be a taxable distribution), or naming the trust without advice.
+- **Life insurance.** How it is funded: Beneficiary form names the trust or individuals; Common mistake: Old form still names someone else.
+- **Cars.** How it is funded: Often left out, because small-estate procedures can handle them; Common mistake: Assuming everything is in the trust.
+- **Business interests.** How it is funded: Assignment, with partners' consent if required; Common mistake: Buy-sell agreement forbids transfer.
+- **Personal belongings.** How it is funded: General assignment to the trust; Common mistake: No assignment at all.
+- **Digital assets and intellectual property.** How it is funded: Assignment of copyrights and domain names, where possible; Common mistake: Forgotten.
 
 A pour-over will catches anything left outside and sends it to the trust, but those assets may still have to go through probate on the way.
 

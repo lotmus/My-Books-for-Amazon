@@ -1,6 +1,6 @@
 ## Chapter 5. Wills That Went Wrong
 
-### Case 11: The German will that was typed
+### Case 12: The German will that was typed
 
 **The situation.** The man in this case was a retired engineer in Munich, seventy-one, precise, a little vain about his handwriting, which had been ruined by forty years of technical drawings and was now legible mainly to himself. He had lived for eighteen years with a former bookseller, his partner, in a flat in Schwabing that the engineer had bought before they met. They had never married. The engineer's first marriage had ended badly, and he said, often, that he did not need the state's permission to love someone.
 
@@ -49,9 +49,9 @@ None of this replaces advice. It does make the difference between a document a c
 - In Germany, never sign a typed will. Write every word by hand, or take the typed text to a notary.
 - If you are not married or in a registered partnership, ask a German adviser what your partner would pay in inheritance tax before you decide how to leave them your home.
 - Consider a right of residence for your partner as an alternative to ownership, and ask how each would be taxed.
-- Deposit the handwritten will in official custody so it is found (Case 14).
+- Deposit the handwritten will in official custody so it is found (Case 15).
 
-### Case 12: The California form will, half filled in
+### Case 13: The California form will, half filled in
 
 **The situation.** The mother was a retired school secretary in Oakland, sixty-six, with two adult children, a son and a daughter, and a stepson from her late husband's first marriage, whom she had raised from the age of six and loved as her own. She had always meant to make a will. One afternoon, in a stationery shop, she saw a printed fill-in-the-blanks will kit and bought it, pleased to have finally done something.
 
@@ -97,7 +97,7 @@ That is all. Ten minutes, two neighbours, one pen. It is the most underused free
 - If you want a stepchild to inherit, name them in the will. The intestacy rules include stepchildren only in narrow cases.
 - If you already have a fill-in form will without witnesses, re-sign a proper will now rather than hoping a court will rescue the old one.
 
-### Case 13: The witness who was also the heir
+### Case 14: The witness who was also the heir
 
 **The situation.** The father was a retired machinist in Long Beach, eighty, with two daughters and a fully restored 1967 convertible that he had rebuilt over four years with his elder daughter's husband. The car was red. It had won two prizes at local shows. It was, in the father's words, "the only thing I ever finished."
 
@@ -142,7 +142,7 @@ The more subtle prevention would have been a conversation. The father could have
 - Tell the person who will be disappointed about the gift while you are alive, and tell them why.
 - Sign at a lawyer's office with staff witnesses if you can. Their memory of an ordinary signing is the best evidence you can leave.
 
-### Case 14: The original that nobody could find
+### Case 15: The original that nobody could find
 
 **The situation.** The grandmother was a widow in a village near Passau, eighty-four, with two sons who lived in Munich and Stuttgart and a granddaughter who had moved in with her at twenty-two, during a hard time in her own life, and stayed. For nine years the granddaughter cooked, gardened, drove the grandmother to church, and listened to the same stories about the war more times than either of them could count.
 
@@ -189,7 +189,7 @@ A notarial will would have been registered in the same way.
 - Write the location of the original on the first page of your Family List.
 - Check the location every year when you review the list. Floods and house clearances do not announce themselves.
 
-### Case 15: The no-contest clause that scared nobody
+### Case 16: The no-contest clause that scared nobody
 
 **The situation.** The father built a successful logistics company in Irvine, sold it at sixty, and spent his seventies on golf and grievances. He had a daughter from his first marriage, with whom he had a relationship that both of them described, on good days, as complicated. He had a second wife and a son with her.
 

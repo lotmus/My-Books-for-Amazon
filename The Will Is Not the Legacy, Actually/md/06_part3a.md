@@ -131,7 +131,7 @@ What follows is a fictional will for a fictional Californian widow with two adul
 
 **Why it is there.** California requires at least two witnesses, present at the same time, who understand that the document is the testator's will (Probate Code § 6110). The declaration under penalty of perjury lets the will be proved later without the witnesses appearing in court in many cases.
 
-**What goes wrong.** Witnesses who arrive one at a time. Witnesses who are beneficiaries (Case 13). Signing pages out of order, stapling and unstapling, or adding handwritten notes after signing. Keep the signing ceremonial and boring.
+**What goes wrong.** Witnesses who arrive one at a time. Witnesses who are beneficiaries (Case 14). Signing pages out of order, stapling and unstapling, or adding handwritten notes after signing. Keep the signing ceremonial and boring.
 
 ## Chapter 10. One Estate, Three Plans
 
@@ -183,12 +183,10 @@ The couple create a joint revocable living trust, naming themselves as trustees 
 
 ### The lesson of three plans
 
-| | Plan one | Plan two | Plan three |
-|---|---|---|---|
-| Set-up cost | Low | Low | Higher |
-| Probate at second death | Yes, plus Arizona | Mostly avoided | Avoided for funded assets |
-| Holds a minor's share in trust | Yes, via will | No | Yes |
-| Main failure mode | Probate cost and delay | Forms drift out of date | Assets left outside the trust |
-| Privacy | Low | Medium | High |
+- **Set-up cost.** Plan one: Low; Plan two: Low; Plan three: Higher.
+- **Probate at second death.** Plan one: Yes, plus Arizona; Plan two: Mostly avoided; Plan three: Avoided for funded assets.
+- **Holds a minor's share in trust.** Plan one: Yes, via will; Plan two: No; Plan three: Yes.
+- **Main failure mode.** Plan one: Probate cost and delay; Plan two: Forms drift out of date; Plan three: Assets left outside the trust.
+- **Privacy.** Plan one: Low; Plan two: Medium; Plan three: High.
 
 The best plan is the one you will keep up to date.

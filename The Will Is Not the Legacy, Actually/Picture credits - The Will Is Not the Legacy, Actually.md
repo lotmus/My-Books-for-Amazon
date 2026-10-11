@@ -14,7 +14,14 @@ Checked 10 Oct 2026 (PT).
 
 ## Interior
 
-- The interior uses no images. Tables are set as text.
+- **Five diagrams**, drawn by `src/diagrams.py` from lines, shapes, and text on coloured backgrounds (no photographs, no stock or AI-generated images, no third-party artwork, no people, no names, no brands). Font: Inter (SIL Open Font License 1.1). Each is an 800 px wide palette PNG, inserted inline (not floating):
+  1. `src/diagrams/fig2_tod_vs_life_estate.png`: Figure 1, TOD deed vs. life estate deed (Case 11, Chapter 4).
+  2. `src/diagrams/fig1_outside_the_will.png`: Figure 2, what passes outside the will (opening of Part Four).
+  3. `src/diagrams/fig4_family_list_map.png`: Figure 3, the Family List map (Chapter 23).
+  4. `src/diagrams/fig5_video_diary_setup.png`: Figure 4, video-diary setup (Chapter 27).
+  5. `src/diagrams/fig3_first_ninety_days.png`: Figure 5, the first ninety days (Chapter 37).
+- **Kindle format:** the interior contains no Word tables, text boxes, SmartArt, or columns; all former tables are set as headed lists.
+- Rebuild the diagrams with `python3 src/diagrams.py`.
 
 ## Rebuilding
 

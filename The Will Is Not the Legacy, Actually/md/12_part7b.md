@@ -76,7 +76,7 @@ A common rule of thumb for anything precious:
 
 - **Three copies** of every recording.
 - On at least **two different kinds** of storage (for example, a computer and an external drive, or a drive and a cloud service).
-- With at least **one copy away from home**, so that a fire or flood does not take everything (Case 14 lost a will to a flooded cellar; recordings drown just as easily).
+- With at least **one copy away from home**, so that a fire or flood does not take everything (Case 15 lost a will to a flooded cellar; recordings drown just as easily).
 
 In practice, many people use: the original on the computer; a copy on an external drive kept at home; and a copy in a cloud storage account. Some also give a drive to a family member in another city.
 
@@ -122,7 +122,7 @@ German law allows a will in ordinary form only before a notary or entirely handw
 
 ### What happens to the video, then
 
-If you leave only a video, your estate passes as if you had no will, or under your last valid written will, whatever the video says (Case 23). Your family may agree to honour the video voluntarily, if every heir is an adult and willing. Often they will not, or not all of them will, and the ones who benefit from the statute have no legal obligation to give anything up.
+If you leave only a video, your estate passes as if you had no will, or under your last valid written will, whatever the video says (Case 24). Your family may agree to honour the video voluntarily, if every heir is an adult and willing. Often they will not, or not all of them will, and the ones who benefit from the statute have no legal obligation to give anything up.
 
 ### How video helps a valid will
 

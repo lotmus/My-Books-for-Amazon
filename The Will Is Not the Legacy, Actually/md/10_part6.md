@@ -23,6 +23,8 @@ It also helps you. Most people who make one discover something: an old life insu
 
 Appendix C is the full printable checklist, organised as an "In Case of Emergency" binder. This chapter explains each section and what to write.
 
+![Figure 3. The Family List points to everything else: what exists, and where each piece is kept. It never holds the passwords themselves.](src/diagrams/fig4_family_list_map.png)
+
 ### 1. The first page: who and where
 
 The first page is for the person who opens the binder in a crisis. It should answer, in under a minute:
@@ -92,7 +94,7 @@ Social Security numbers, tax IDs, passport numbers, and full account numbers are
 
 ## Chapter 24. Passwords Without Writing Them Down
 
-The wrong way to pass on your passwords is a notebook in the desk drawer with "PASSWORDS" written on the cover. Burglars can read, too. The second-wrong way is to put them in your will, which in California can become a public court record during probate (Case 24).
+The wrong way to pass on your passwords is a notebook in the desk drawer with "PASSWORDS" written on the cover. Burglars can read, too. The second-wrong way is to put them in your will, which in California can become a public court record during probate (Case 25).
 
 ### The pattern that works
 
@@ -119,7 +121,7 @@ The wrong way to pass on your passwords is a notebook in the desk drawer with "P
 
 ### Paper, digital, or both
 
-**Paper** is easy for anyone to read, needs no device, and survives software changes. It can be lost, burned, or flooded (Case 14), and it goes out of date the day you write it.
+**Paper** is easy for anyone to read, needs no device, and survives software changes. It can be lost, burned, or flooded (Case 15), and it goes out of date the day you write it.
 
 **Digital** is easy to update and to copy. It depends on devices, passwords, and file formats, and on someone knowing it exists.
 

@@ -20,7 +20,7 @@ Tick each box when done. Write the date beside it. Chapter references show where
 ### This month
 
 - [ ] Book an appointment with a lawyer (California) or notary (Germany), or decide which official form you will use. (Chapters 9, 11)
-- [ ] Sign a will that is valid where you live. Store the original where it will be found: with your lawyer, or in official custody in Germany. (Chapter 11, Case 14)
+- [ ] Sign a will that is valid where you live. Store the original where it will be found: with your lawyer, or in official custody in Germany. (Chapter 11, Case 15)
 - [ ] Sign a financial power of attorney. Register it where registration exists (Germany: Central Register of Lasting Powers of Attorney). (Chapter 20)
 - [ ] Sign a healthcare directive. Fill in Appendix F first. Give copies to your agent and doctor. (Chapter 21)
 - [ ] Request written confirmation of every beneficiary designation. Update any that are wrong. Name contingent beneficiaries. (Chapter 12, Appendix D)
@@ -43,6 +43,7 @@ Tick each box when done. Write the date beside it. Chapter references show where
 - [ ] Write a README for each unfinished project. (Chapter 36)
 - [ ] Review joint titles and accounts. Remove convenience joint ownership where a power of attorney would serve better, with advice. (Chapter 14, Cases 3 and 7)
 - [ ] If you own real estate in more than one state or country, ask about a trust or a coordinated cross-border plan. (Chapters 19, 39)
+- [ ] If you plan to leave your home to one child, especially one who pays towards it: put the child's payments in a signed agreement, and before recording any deed, ask your mortgage servicer and any home equity investor in writing what the deed would trigger. (Case 11)
 - [ ] If you have a business, write an emergency plan and check the partnership or shareholder agreement. (Chapters 18, 36)
 - [ ] Fill in the guardian brief if you have minor children. (Appendix E)
 
@@ -125,91 +126,136 @@ Use this as the table of contents for a binder (paper) or a folder (digital, enc
 
 ### Section 1. First page
 
-| Item | Details |
-|---|---|
-| Full legal name | |
-| Date and place of birth | |
-| Citizenship(s) | |
-| Address(es) | |
-| Executor / heirs | Name, phone, email |
-| Agent under power of attorney | Name, phone, email |
-| Healthcare agent | Name, phone, email |
-| Archive-keeper (recordings, letters) | Name, phone, email |
-| Lawyer / notary | Name, firm, phone |
-| Tax adviser | Name, phone |
-| Doctor | Name, phone |
-| Where the will is | |
-| Where the trust is (if any) | |
-| Where the powers of attorney are | |
-| Where the healthcare directive is | |
-| Where the rest of this binder is (if split) | |
-| Page last checked | Date |
+- **Full legal name:** ______
+- **Date and place of birth:** ______
+- **Citizenship(s):** ______
+- **Address(es):** ______
+- **Executor / heirs:** Name, phone, email
+- **Agent under power of attorney:** Name, phone, email
+- **Healthcare agent:** Name, phone, email
+- **Archive-keeper (recordings, letters):** Name, phone, email
+- **Lawyer / notary:** Name, firm, phone
+- **Tax adviser:** Name, phone
+- **Doctor:** Name, phone
+- **Where the will is:** ______
+- **Where the trust is (if any):** ______
+- **Where the powers of attorney are:** ______
+- **Where the healthcare directive is:** ______
+- **Where the rest of this binder is (if split):** ______
+- **Page last checked:** Date
 
 ### Section 2. Bank accounts
 
-| Bank | Type | Last 4 digits | Title (sole / joint / POD) | POD beneficiary | Online access? | Notes |
-|---|---|---|---|---|---|---|
-| | | | | | | |
+For each item, note:
+
+- Bank: ______
+- Type: ______
+- Last 4 digits: ______
+- Title (sole / joint / POD): ______
+- POD beneficiary: ______
+- Online access? ______
+- Notes: ______
 
 ### Section 3. Investments and brokerage
 
-| Institution | Type | Last 4 digits | Title / TOD | Beneficiaries | Contact |
-|---|---|---|---|---|---|
-| | | | | | |
+For each item, note:
+
+- Institution: ______
+- Type: ______
+- Last 4 digits: ______
+- Title / TOD: ______
+- Beneficiaries: ______
+- Contact: ______
 
 ### Section 4. Retirement and pensions
 
-| Provider / employer | Plan type | Member no. (last 4) | Primary beneficiary | Contingent | Contact |
-|---|---|---|---|---|---|
-| | | | | | |
+For each item, note:
+
+- Provider / employer: ______
+- Plan type: ______
+- Member no. (last 4): ______
+- Primary beneficiary: ______
+- Contingent: ______
+- Contact: ______
 
 ### Section 5. Insurance
 
-| Insurer | Type | Policy no. | Insured | Beneficiaries | Agent / contact |
-|---|---|---|---|---|---|
-| | | | | | |
+For each item, note:
+
+- Insurer: ______
+- Type: ______
+- Policy no.: ______
+- Insured: ______
+- Beneficiaries: ______
+- Agent / contact: ______
 
 ### Section 6. Property
 
-| Address | Ownership (sole / joint / trust / TOD) | Where the deed is | Mortgage lender | Insurance | Tenants |
-|---|---|---|---|---|---|
-| | | | | | |
+For each item, note:
+
+- Address: ______
+- Ownership (sole / joint / trust / TOD): ______
+- Where the deed is: ______
+- Mortgage lender: ______
+- Insurance: ______
+- Tenants: ______
 
 ### Section 7. Vehicles and valuables
 
-| Item | Where it is | Documents / title | Loan | Wishes (see will) |
-|---|---|---|---|---|
-| | | | | |
+For each item, note:
+
+- Item: ______
+- Where it is: ______
+- Documents / title: ______
+- Loan: ______
+- Wishes (see will): ______
 
 ### Section 8. Business interests
 
-| Business | Role / share | Key agreements and where | Accountant | Who can run it for a month |
-|---|---|---|---|---|
-| | | | | |
+For each item, note:
+
+- Business: ______
+- Role / share: ______
+- Key agreements and where: ______
+- Accountant: ______
+- Who can run it for a month: ______
 
 ### Section 9. Debts
 
-| Lender | Type | Account (last 4) | Approx. balance | Notes (guarantees, loans to family) |
-|---|---|---|---|---|
-| | | | | |
+For each item, note:
+
+- Lender: ______
+- Type: ______
+- Account (last 4): ______
+- Approx. balance: ______
+- Notes (guarantees, loans to family): ______
 
 ### Section 10. Income
 
-| Source | Amount / frequency | Paid into which account | What happens at death |
-|---|---|---|---|
-| | | | |
+For each item, note:
+
+- Source: ______
+- Amount / frequency: ______
+- Paid into which account: ______
+- What happens at death: ______
 
 ### Section 11. Regular payments and subscriptions
 
-| Service | Paid from | Cancel / keep / transfer | Notes |
-|---|---|---|---|
-| | | | |
+For each item, note:
+
+- Service: ______
+- Paid from: ______
+- Cancel / keep / transfer: ______
+- Notes: ______
 
 ### Section 12. Digital accounts and access
 
-| Service | Username / email | Legacy setting on? (who) | Instruction (keep / download / memorialise / delete) |
-|---|---|---|---|
-| | | | |
+For each item, note:
+
+- Service: ______
+- Username / email: ______
+- Legacy setting on? (who): ______
+- Instruction (keep / download / memorialise / delete): ______
 
 Access (no passwords here):
 
@@ -220,44 +266,34 @@ Access (no passwords here):
 
 ### Section 13. Key contacts
 
-| Role | Name | Phone | Email |
-|---|---|---|---|
-| Lawyer / notary | | | |
-| Tax adviser | | | |
-| Financial adviser | | | |
-| Insurance agent | | | |
-| Doctor | | | |
-| Employer HR | | | |
-| Friend who knows things | | | |
+- **Lawyer / notary.** 
+- **Tax adviser.** 
+- **Financial adviser.** 
+- **Insurance agent.** 
+- **Doctor.** 
+- **Employer HR.** 
+- **Friend who knows things.** 
 
 ### Section 14. Wishes and the meaning archive
 
-| Item | Details |
-|---|---|
-| Funeral / burial / cremation wishes | |
-| Organ donation | |
-| People to inform | |
-| Pets and who takes them | |
-| Ethical will and letters are at | |
-| Recordings are at (all copies) | |
-| Recording index is at | |
-| Permission sheet is at | |
+- **Funeral / burial / cremation wishes:** ______
+- **Organ donation:** ______
+- **People to inform:** ______
+- **Pets and who takes them:** ______
+- **Ethical will and letters are at:** ______
+- **Recordings are at (all copies):** ______
+- **Recording index is at:** ______
+- **Permission sheet is at:** ______
 
 ### Storage and update record
 
-| Copy | Where | Who knows | Last updated |
-|---|---|---|---|
-| Paper binder | | | |
-| Digital (encrypted) | | | |
-| Copy with executor / lawyer | | | |
+- **Paper binder.** 
+- **Digital (encrypted).** 
+- **Copy with executor / lawyer.** 
 
 ### A filled example (excerpt)
 
-| Bank | Type | Last 4 | Title | POD beneficiary | Online? | Notes |
-|---|---|---|---|---|---|---|
-| [Bank name] | Checking | 4417 | Sole | Daughter and son equally (full names on the form) | Yes | Bills paid from here |
-| [Bank name] (Germany) | Girokonto | 0932 | Sole | none | Yes | German pension paid here; heirs need certificate or notarial will |
+- **[Bank name].** Type: Checking; Last 4: 4417; Title: Sole; POD beneficiary: Daughter and son equally (full names on the form); Online? Yes; Notes: Bills paid from here.
+- **[Bank name] (Germany).** Type: Girokonto; Last 4: 0932; Title: Sole; POD beneficiary: none; Online? Yes; Notes: German pension paid here; heirs need certificate or notarial will.
 
-| Insurer | Type | Policy no. | Insured | Beneficiaries | Contact |
-|---|---|---|---|---|---|
-| [Insurer name] | Term life to 2031 | ...7781 | Me | Primary: spouse. Contingent: daughter and son equally | Agent: name and phone on file |
+- **[Insurer name].** Type: Term life to 2031; Policy no.: ...7781; Insured: Me; Beneficiaries: Primary: spouse. Contingent: daughter and son equally; Contact: Agent: name and phone on file.

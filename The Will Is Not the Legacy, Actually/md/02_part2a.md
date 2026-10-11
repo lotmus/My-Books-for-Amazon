@@ -1,4 +1,4 @@
-# Part Two: Twenty-Four Cases
+# Part Two: Twenty-Five Cases
 
 *Educational guide, not legal advice. Every family here is invented. The rules they run into are real, and where a case names California or Germany, the rule was checked against the statute or an official court source.*
 
@@ -22,7 +22,7 @@ The husband died of a heart attack at fifty-eight.
 
 **What actually happened, and why.** California does have such a rule. When a marriage is dissolved, the Probate Code (§ 6122) revokes gifts to the former spouse in a will, and a separate section (§ 5040) makes many transfers that happen outside the will, such as payable-on-death accounts, fail if they name a former spouse. If the husband's old account had been an ordinary bank account with a payable-on-death designation, his ex-wife would probably have been treated as if she had died before him.
 
-But a 401(k) is not an ordinary account. It is an employer retirement plan, and those are governed by a federal law, the Employee Retirement Income Security Act, usually shortened to ERISA. Federal law outranks state law where they conflict. In *Egelhoff v. Egelhoff*, 532 U.S. 141 (2001), the U.S. Supreme Court considered a state statute very like California's, one that automatically cancelled an ex-spouse's beneficiary designation after divorce, and held that ERISA overrode it for ERISA plans. The reasoning, in plain words: plan administrators must be able to pay according to the plan documents, without studying the family law of fifty states. So the administrator pays the person on the form.
+But a 401(k) is not an ordinary account. It is an employer retirement plan, and those are governed by a federal law, the Employee Retirement Income Security Act, usually shortened to ERISA. Federal law outranks state law where they conflict. In a 2001 decision (532 U.S. 141), the U.S. Supreme Court considered a state statute very like California's, one that automatically cancelled an ex-spouse's beneficiary designation after divorce, and held that ERISA overrode it for ERISA plans. The reasoning, in plain words: plan administrators must be able to pay according to the plan documents, without studying the family law of fifty states. So the administrator pays the person on the form.
 
 The form named the husband's first wife.
 
