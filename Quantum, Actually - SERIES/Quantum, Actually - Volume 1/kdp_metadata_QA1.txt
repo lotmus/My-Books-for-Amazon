@@ -1,0 +1,18 @@
+Quantum, Actually, Volume 1: KDP metadata (10 Oct 2026)
+The description is in kdp_description_QA1.txt.
+
+Seven keywords (no title, subtitle or category words; paste one per box):
+1. entanglement and Bell tests explained
+2. QED and QCD for general readers
+3. physics books for curious adults
+4. Feynman diagrams without heavy math
+5. Copenhagen many worlds interpretations
+6. qubits cryptography computing basics
+7. Aharonov Bohm effect gauge potential
+
+Three categories:
+1. Kindle eBooks > Science & Math > Physics > Quantum Theory
+2. Kindle eBooks > Science & Math > Physics > Electromagnetic Theory
+3. Kindle eBooks > Science & Math > History & Philosophy of Science
+
+Covers: Front Cover of Quantum, Actually - Volume 1 - 2202 x 3520 Portrait.jpg (upload this one; KDP takes 2202 x 3520) and the matching back cover (paperback wrap later). Made by scripts/make_qa1_covers.py in Volume 2's trade dress.

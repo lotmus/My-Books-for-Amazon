@@ -26,6 +26,18 @@ The **diary style** is ongoing: short clips recorded over months or years, about
 
 The **testament style** is deliberate: messages recorded for a specific purpose, often for specific people, sometimes to be opened at a specific time. A message for a child's wedding. An explanation of a decision. A goodbye. A statement of your values. This style borrows the word "testament" from the old meaning, a statement of what you believe and want, not from the legal document. Chapter 31 is firm about that distinction.
 
+### Three archives, and what each one did
+
+The legal cases in Part Two show what goes wrong when paper is missing. Recordings fail and succeed in their own ways, and the ways are just as predictable. Three short examples, invented but typical:
+
+**The grandmother who recorded too much, and indexed nothing.** For six years a widow in a farming town recorded a clip most Sunday mornings: the weather, the hens, the news, a memory of her own mother. When she died there were more than two hundred files on an old laptop, named by the camera, in no order. Her son opened the first one, heard her say good morning, and closed the laptop for a year. When he finally went through them, with his daughter beside him for courage, they found the best things by accident: the clip where she explains how she decided to marry, the one where she sings the hymn from her own wedding, the one in which she says, quite cheerfully, what she wants at her funeral. A one-page index would have let him find those three on the first evening. (Chapter 30 shows how.)
+
+**The father who recorded one message, and made it count.** A man in his sixties, not a talker, recorded a single nine-minute video for each of his two children after a heart scare. He wrote five lines of notes first, sat by the kitchen window, said his name and the date and who the message was for, told one story about each child that they had never heard from his side, apologised for one specific thing, and stopped. He gave each child a drive with their message on it, sealed in an envelope, the same week, and lived another eleven years. His daughter says she has watched hers perhaps twenty times, and that she knows the exact place where his voice changes.
+
+**The mother whose recordings were locked away.** A woman recorded beautiful messages for her grandchildren on her phone and kept them nowhere else. The phone was encrypted, and nobody knew the passcode. The messages exist, somewhere, and nobody will ever see them (Case 23 is the same story about a business).
+
+The differences between the three are not talent or equipment. They are an index, a plan for each message, and a second copy in someone else's hands. The rest of this part is about getting those three things right.
+
 ## Chapter 27. How to Record: Phone, Webcam, Light, and Sound
 
 You do not need special equipment. You need a device you already own, a quiet room, a window, and the willingness to look slightly foolish for twenty minutes. Here is how to make the recordings good enough that people will actually want to watch them.
@@ -106,6 +118,28 @@ Start every testament-style recording the same way. Say:
 
 "This is [your full name]. It's the tenth of October 2026, I'm at home in Sacramento, and this message is for my grandson [his name]." This takes ten seconds and saves your family hours of guessing later. It also matters if anyone ever asks when and where a recording was made.
 
+### Your first recording, minute by minute
+
+The hardest recording is the first one. Here is a plan for a first session of about twenty minutes, from setting up to stopping.
+
+1. **Minutes 0 to 5: set up.** Sit facing the window. Prop the phone horizontally at eye level, about an arm's length away. Turn off the television and anything that hums. Put a glass of water within reach, out of the frame.
+2. **Minutes 5 to 6: test.** Record ten seconds saying anything at all. Play it back with headphones. If you can hear the fridge, move. If your face is dark, turn towards the light.
+3. **Minutes 6 to 7: the opening.** Start recording and say your name, the date, where you are, and who this is for. If it is for nobody in particular, say "for the family."
+4. **Minutes 7 to 17: one prompt.** Choose one easy prompt from Chapter 28, such as "describe the house you grew up in, room by room," and answer it as if you were talking to one person sitting just behind the phone. Do not stop when you stumble. Stumbles are what you sound like.
+5. **Minutes 17 to 18: the ending.** Say "That's all for today," or anything you would say at the end of a phone call. Then stop recording.
+6. **Minutes 18 to 20: save it.** Copy the file off the phone, rename it (`2026-10-10 [your name] - first recording - the house I grew up in.mp4`), and put it in your recordings folder. Then tell one person that you have started.
+
+You will probably dislike the result. Almost everyone dislikes the sound of their own voice. The people who love you will not.
+
+### When something goes wrong
+
+- **You freeze.** Look away from the lens and talk to the window for a minute, then look back. Or have someone sit beside the camera and ask the question aloud.
+- **You cry.** Keep recording if you can. A pause and a breath, on a recording meant for your family, is not a mistake to be edited out.
+- **The phone runs out of storage.** Shorter clips; one story per file; copy each one off the phone after the session.
+- **The sound echoes.** Move to a room with curtains, carpet, or bookshelves, or hang a blanket behind the camera.
+- **You look tired.** You probably are. Record at your best time of day, and record anyway.
+- **You keep starting again.** Allow yourself one restart per session, then keep whatever comes.
+
 ## Chapter 28. What to Say: Prompts That Work
 
 Facing a lens with no plan produces a minute of awkward silence followed by the weather. Prompts fix this. Pick one prompt per recording. Answer it as if talking to one person. Stop when you are done.
@@ -183,6 +217,40 @@ The difference between a recording people treasure and one they watch once is sp
 > **Strong:** "I turned down the partnership in 1998 because your grandmother was sick. I've never been sure it was right. What I'm sure of is that I don't remember a single meeting from that year, and I remember every afternoon at the hospital."
 
 The strong versions have dates, places, objects, and a doubt. That is what makes them yours.
+
+### How to get from the general to the specific
+
+Most first answers are general, because general is safe. "My father was a hard worker." The art of a good recording, whether you are interviewing yourself or someone else, is the follow-up question that turns a general sentence into a scene. Four follow-ups do most of the work:
+
+- **When?** "What year was that? How old were you?"
+- **Where were you standing?** Place brings back detail: the room, the light, who else was there.
+- **What did it look like, sound like, smell like?** The senses are where memory keeps its best material.
+- **What happened next?** Stories end later than people think.
+
+Try it on yourself. "My father was a hard worker" becomes, after four questions: "In the winter of 1962 my father left for the brickworks at five, before it was light. I know because I could hear him in the kitchen, cutting bread with the big knife, and the door clicked behind him. I was seven. I thought everyone's father left in the dark."
+
+### A message, annotated
+
+Here is a short testament-style message, about three minutes when spoken, from a grandfather to a grandson who is twelve now and will watch it, perhaps, at eighteen. It is fictional. The notes after it say why it works.
+
+> *"This is [your full name]. It's the tenth of October 2026, I'm in the workshop, and this is for my grandson [his name], for when you're eighteen. If you're watching it earlier, that's fine too.*
+>
+> *You were seven when you asked me why I keep every screw in a jar. I told you it was because I'm cheap. That's partly true. The real reason is that my father kept them, in the same kind of jar, and when he died I found eleven jars in his shed, all sorted by size, and I sat on the floor and couldn't stop laughing, because he'd never once told me he did it. So now you know: it runs in the family. You're allowed to break the habit.*
+>
+> *The thing I want you to know at eighteen is this. When I was nineteen I left an apprenticeship I hated, and everybody told me I was throwing my life away. I wasn't. I was throwing that life away, which is different. If you ever have to do something like that, do it kindly, tell the people who'll be disappointed yourself, and then work twice as hard at the next thing. That's all the advice I have. The rest you'll work out better than I did.*
+>
+> *I'm proud of you. Not for anything in particular. Just for the way you hold a hammer, which is properly, because I showed you. Look after the jars."*
+
+**Why it works.**
+
+- **It opens with the four facts:** name, date, place, recipient, plus a line about when to watch it.
+- **It starts with a shared memory,** in the grandson's own words from when he was seven, which tells him he was listened to.
+- **It reveals one small thing he did not know** (the eleven jars), which is what makes a message feel like a gift rather than a speech.
+- **It gives one piece of advice,** with the story that earned it, and then explicitly stops advising.
+- **It releases him** ("you're allowed to break the habit").
+- **It ends with something specific to replay:** the hammer, and the jars.
+
+It says nothing about property. If the grandfather leaves the workshop tools to his grandson, that belongs in the will, and the message can mention that the will exists (Chapter 31).
 
 ### Things to leave out
 

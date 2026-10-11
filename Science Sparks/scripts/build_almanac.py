@@ -95,7 +95,7 @@ ALSO_BY = [
         ('Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere', None),
     ]),
     ('More Actually Books', [
-        ('Gravitation, Actually: A Short Book on Gravity', None),
+        ('Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard', None),
         ('The Universe, Actually: What Humanity Currently Understands About Reality', None),
     ]),
     ('Math, Actually', [

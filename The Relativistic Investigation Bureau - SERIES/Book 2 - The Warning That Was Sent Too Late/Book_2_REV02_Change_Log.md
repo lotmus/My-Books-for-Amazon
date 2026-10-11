@@ -91,3 +91,89 @@ Story words: 48,807 → 48,516.
   - **Repeat descriptions:** Sherlock's mackerel accounting (already given a sentence earlier), the board's city list (it comes again later in the chapter), Tabitha's "where London is" (already said), the doubled school-phone logistics, and several padded clauses.
   - **Size:** the docx is now 52,629 words and 123 Letter pages. All 52 internal links resolve.
 - **`SERIES_SEAM.md`** (series notes) now names REV02 as Book 2's master and records that DRAFT, REV01 and the old `manuscript_text.txt` export were retired. The worktree copy was identical to `origin/main`, so there were no uncommitted changes from another agent.
+
+## 10 Oct 2026, strict rescore: 8.4 before the day's fixes, 8.7 after
+
+Sampled reread (front matter, Prologue, Chapters 1 and 12, the course and back matter). Prose 8.8, plot 8.4, characters 8.8, humour 8.6, pacing 8.3, facts 9.2, formatting/KDP 9.0. Cover not scored: none yet, by decision.
+
+- Typography: every straight quote is now curly (1,312 paragraphs, 2,856 double and 1,219 single marks), matching Book 1; three nested single quotes checked by eye. The "->" lesson arrows and " - " in the Contents stay, as in Book 1.
+- Link rule: the seven Bibliography books and the three Further Reading books now carry their titles as keyword links to Open Library (each checked to resolve); the two papers already had DOI links. No visible URLs.
+- The Also-by page already leaves this book out; KDP.md no longer says otherwise.
+- `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.md` regenerated from the docx (`scripts/docx_to_md.py`); it had fallen behind by the lesson lines in the Contents and the review line. The docx stays the master.
+- Script: `scripts/rescore_2026-10-10.py`. Old docx and md in `bak/2026-10-10 pre-rescore/`.
+
+Still open: covers (none yet, by decision; Lothar decides), release date and price.
+
+
+## 11 Oct 2026 (PT), full read-through: 38 fixes
+
+The whole book was read: front matter, Prologue to Epilogue, Coming Next, the course and the back matter, and it was checked against Book 1 (`FINAL_REV11`), the series notes and the two passages taken from *In Love with Murder, Actually* (Weinstein's Sud Expresso anecdote in Ch2 and Pendleton's "It exists on the form" lines in Ch20, both consistent). The docx is edited in place by `scripts/readthrough_2026-10-11.py`; every edit replaces one exact phrase and has to match exactly once. The old docx and md are in `bak/2026-10-11 pre-readthrough/`. The lessons' exercises (Quick tests) are untouched.
+
+Plot logic and clue fairness (the Ch22 solution has to match what the reader saw):
+- **Ch22:** the printout's heading read STATUS OF CASE; the Prologue sheet reads CASE STATUS. Now identical.
+- **Ch12:** the form's grey note read "THE PREVIOUS WARNING ARRIVED AFTER THE ACT", but Ch22 says the back of the sheet *is* that note, and the back reads "The previous warning was sent too late". The note now reads PLEASE NOTE. THE PREVIOUS WARNING WAS SENT TOO LATE.
+- **Ch12:** Penny deletes a recipient line the reader had never been shown. The line (RECIPIENT: SOPHIE, typed by Trevor at lunch) is now on screen before she deletes it.
+- **Ch22:** the carrier route said the sheet arrived "between 09:58:12 and the opening of the door"; 09:58:12 is the door photograph, not the sheet. Now: under the 1047 folder, before the door opened, time unknown.
+- **Ch22:** on Monday Derek stood on the yellow line inside his own office; he never crossed the sill. The recap now says so, and the explanatory paragraph about paces and widths (it read like a note) is replaced by two sentences: from the slabs he can reach the first seat; reaching is not boarding.
+- **Ch22:** Penny is four minutes out of the door, so she answers from a bus stop, not her kitchen; and the British Rail form is in the basement, so the call no longer has Derek reading it aloud.
+- **Epilogue:** Sophie used the Bureau's private phrase "the nearest name", which she cannot know and which brushes against the promise not to tell her about the board. Replaced with "It's the true one." / "Mr Okafor says the true ones usually are."
+
+Continuity:
+- **Prologue:** "He lifted Penny's mug off it": the mug on the folder was Derek's. Now "the mug".
+- **Ch1:** a kettle Penny boiled before ten "clicked off" at 10:22. It now ticks as it cools, and the poured mugs go cold.
+- **Ch1:** Book 1 has device 3 revoked at SUN 01:33, the second one. Was "half past one".
+- **Ch1:** Tabitha, a solicitor, is at home on a Monday: "where she had a brief to read and was not reading it".
+- **Ch4:** "what Penny had taught him on the stairs at ten o'clock": the order was dictated onto Trevor's envelope at 10:22, in the office. "She's said she won't write it down": her text said she had not opened or fetched it. "Twice in a morning" at 13:15 is now "twice in one day".
+- **Ch5:** the Sunday-morning photograph cannot have lived in Penny's bag "since the old Tuesday"; clause removed.
+- **Ch6:** Herbert said Weinstein was staying "to be polite for a week", but he leaves on the Monday. Now "until Monday ... three days together".
+- **Ch9:** Sophie put Julian's hangers "in the hall"; Tuppence and Ch14 have them in her room. Now "in my wardrobe".
+- **Ch12:** Trevor "went to the kitchen" for the kettle that is in the office corner.
+- **Ch13:** Mrs Marsh's kettle is in the lodge (Book 1), not "the kitchen downstairs".
+- **Ch14:** Tuppence rings Derek on Tuesday evening (Epilogue), so "In the daytime" is gone from her plan.
+- **Ch15:** Penny came in at seven and gets up at about ten: "nearly three hours", not two and a half.
+- **Ch16:** Sherlock's "No." came at Paddington in the afternoon, not "at lunch".
+- **Ch17:** Weinstein does the sum "in ink" after getting out his phone; now his pen.
+- **Ch21:** Mrs Marsh says she locks drawer three at half past six but collects the paper at 18:35; now "a quarter to seven". Penny's guidebook appears for the first time and is now "her guidebook to Greece".
+- **Epilogue:** Trevor had gone to move the Mini, so he drives home round the park rather than walking through it.
+
+Facts (every figure in the story and course was recomputed or checked):
+- **Ch1:** 17 minutes of light is 306 million km; added "That's past the far side of the Sun", which sets up Ch10's "the sum about the other side of the Sun".
+- **Ch15:** Hafele and Keating published two short papers (Science 177, 166-170), not "two pages".
+- **Lesson 5:** Hawking's chronology protection is a conjecture, so it "proposes", not "says", that physics forbids closed timelike curves.
+- **Lessons 1, 2 and 4:** at the opening the sheet was in Derek's hand, not yet in his pocket.
+- Checked and unchanged: 1/1200 rate limit (12,000 km/s by time dilation, 250 km/s by Doppler), the flight sums (4.3 ns/h gained at 11 km, 1.25 ns/h lost at 250 m/s, London 290 m/s and Athens 365 m/s of rotation, the x3), Hafele-Keating (-59 +/- 10 and +273 +/- 7 ns observed, -40 and +275 predicted), the laser's 6 ns for 896 mm, 41.2 m = 45 yd, 07:40 to 13:05 local = 3 h 25, the two one o'clocks on the night UK clocks go back, Munich one hour ahead, DCF77 at Mainflingen for the PTB, the caesium second (1967) and the ephemeris second (1956/1960), the Sud Expresso dates and Portugal's 1992-1996 clocks, PL/9's "fifty-two years" since 1974, thirty-two hours of ageing, and every Bibliography and Further Reading citation.
+
+Also checked: British spelling throughout; no leftover notes or brackets except the cabinet label in About the Author; no Trump references; no Word tables; 54 bookmarks, 75 links, 0 dead anchors, 0 visible URLs; Also-by matches the canonical list in Book 1 and lists Book 1, not this book; the review line still sits before About the Author; byline "Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)"; bio is the Colin Frissell / Gucci version.
+
+
+## 11 Oct 2026 (PT), covers, KDP and strict rescore: 8.7 to 8.9
+
+- **Covers:** `Kindle Front Cover.jpg` (1600 x 2560) and `Kindle Back Cover.jpg` (1600 x 2560), drawn by `scripts/make_covers.py` in Book 1's trade dress: night-blue sky with a dusk-orange horizon over generic London rooftops, the title in cream and gold Coustard Black, the gold Cinzel series line (RELATIVISTIC INVESTIGATION BUREAU / BOOK 2) with the RIB monogram, and the byline "Lothar J. Musiol / writing as Spezala Genara Relavi (S.G.R.)". The picture is the office door open onto the platform: the YESTERDAY board in amber dots, the lit train with its open door and first seat, the yellow line, the bench, the lamp and the station clock, Trevor's tape across the sill, and the warning (heading, instruction, NOT YET, tea ring with its bite) pinned beside the door. The back cover is one navy colour, text only: the hook, the blurb (as in KDP.md), the line about the physics, and a short Colin/Gucci bio line taken from About the Author. No photographs, no real people, no third-party art; fonts are Google Fonts (SIL Open Font License). No MediaSearcher or stock art was needed.
+- **KDP.md:** the description was checked against the read-through and still holds. Keywords replaced (no category or title words, no "time travel", none copied from Book 1). Categories now match Book 1's revised set: Hard Science Fiction; Mystery > Private Investigators; Science Fiction > Humorous. Time Travel dropped: nobody travels in time and Derek does not board.
+- **Checks on the master:** 0 Word tables, no visible URLs, 75 hyperlinks (linked Contents and course links), review line directly before About the Author, Also-by leaves this book out, 0.16 MB.
+- **Strict rescore (whole book read):** prose 8.9, plot and clue fairness 8.9, characters 8.9, humour 8.7, pacing 8.4 (the Tuesday chapters still sag a little), facts 9.4, formatting/KDP 9.3, covers 8.8. Overall 8.9. Status ready.
+
+
+## 11 Oct 2026 (PT), tightening and humour pass, sharper covers: 8.9 to 9.0
+
+Chapters 15 to 21 (Monday night and Tuesday) edited by `scripts/tighten_2026-10-11.py`: 33 phrase edits and 5 paragraphs removed, about 320 words net shorter. Every edit has to match exactly once. Front matter, Prologue to Chapter 14, Chapter 22 onwards and the whole course are byte-for-byte unchanged, so the lessons' Quick tests are untouched. Old docx and md in `bak/2026-10-11 pre-tighten/`.
+
+- **Repetition and slow beats cut:** the Herbert/Weinstein "lazy" exchange said twice (Ch15); Penny's circular thought about ringing Derek (Ch15); the second buzz of the phone after Derek's best text (Ch16); the platform described a second time (Ch16); the delete-and-retype of the reply to Tabitha (Ch16); Barbarian repeating Herbert's "nearest hand" from Ch17 (Ch18); the full replay of Weinstein at the barrier (Ch18); Trevor's "last picture" line, which repeated Derek's thought a page earlier (Ch21).
+- **Scene goals made plain:** Weinstein has been at his desk since six "trying to settle one question before anybody arrived to ask it for him" (Ch17, the question still revealed by him later). Herbert arrives at Barbarian's with a card in his pocket, THE RULER MAY GO. THE CONE STAYS., which the scene then pays off ("You may take away my ruler. You may not take away the cone") and he checks on the step: both halves held (Ch18).
+- **Sharper jokes in flat places:** Derek cannot face giving a delivery driver directions that end at a railway on the second floor (Ch16); Weinstein "had more or less had it engraved" (Ch15); the most honest railway in Europe "has never once promised to arrive" (Ch18); ten o'clock sits in the interval "like a lodger", from the landlord (Ch21); Barbarian deletes the agreeing draft "faster" (Ch18); the PL/9 "confession" now gets the laugh that Ch22 remembers, Mr Pendleton last and least certainly (Ch20).
+- **Fixes found on the way:** the surveyor's laser, aimed across the opening, only reaches the platform if it is turned through the opening (Ch19); the insurers' letters already existed by five o'clock (Ch20); ten o'clock is near the start of the eight-minute interval, not the middle (Ch21); speaker tags for "One for each insurer" and "Both for you" (Ch21); a grammar slip ("considered ... and at the four of them", Ch15); Hawking "suspected", not "would say" (Ch17).
+- **Clues kept:** the sum and DO NOT SEND BEFORE, the voice's register, the newspaper on the seat, MYSTERIOUS (OTHER), note 7 on the back of PL/9, the 09:58:12 photograph, the ring and the fold.
+- **Covers:** front now carries the hook line "The warning came before it was written." under the series line, which now reads RELATIVISTIC INVESTIGATION BUREAU, BOOK 2. Two comic props join the scene, as on Book 1's cover: Mrs Marsh's sticky note ("IT IS NOT DECORATIVE. IT IS A PLATFORM. – Mgmt", from Ch19) and Derek's mug ("MIND THE ORDER"). The back cover's hook is now A WARNING DATED TOMORROW. / A DOOR THAT OPENS ONTO A RAILWAY. / AND HIS OWN VOICE SAYING "DON'T OPEN THE DOOR." / *Afterwards.*
+- **Strict rescore:** prose 9.0, plot and clue fairness 8.9, characters 8.9, humour 8.9, pacing 8.6, facts 9.4, formatting/KDP 9.3, covers 9.0. Overall 9.0. Status ready.
+
+## 11 Oct 2026 (PT), deeper cut: Chapter 18 and the reflective stretches; pacing 8.6 to 9.0
+
+Edited by `scripts/deepcut_2026-10-11.py` on top of the tightening pass: 22 phrase edits, 9 paragraphs removed, 1 paragraph added to Lesson 6. Every edit has to match exactly once. Chapters 19 onwards, the front matter and every lesson's Quick test are unchanged. Old docx and md in `bak/2026-10-11 pre-deepcut/`.
+
+- **Chapter 18 (Twenty Clocks), about 2,230 to 1,940 words:** the argument now moves in its turns only: the clocks that "measure each other", the ruler, Seventeen as a duration, the counts Herbert will not give up, the wire Barbarian will not accept, the wrong question about a sender, and the cone that makes a partial order. Cut: the second round of "it is where I put it / it is a convenience", a duplicated "who sent it" exchange, the clock readings, Herbert's search for a clean sheet, and the long description of the freehand drawing (now a third shorter, every arrow kept). Barbarian now touches the drawing once, when he turns it over.
+- **Exposition moved to Lesson 6:** a new paragraph, "Behind the case", gives what the dialogue no longer spells out: every clock is a counter (since 1967 the SI second is 9,192,631,770 periods of the caesium-133 radiation), clocks at rest side by side agree on the count between two events (the proper time) whatever they read at the start, the world line is a drawing aid, and the light cone makes a partial order in which an event with no known place, the sender, cannot be ordered at all. It links back to Chapter 18; Chapter 18 already links to Lesson 6.
+- **Chapter 14 (Monday evening), about 2,770 to 2,590 words:** Tuppence's meeting, her committee reflection, the coat and Julian's tap shortened; the recap of her lunchtime text cut. New joke: she declined the mural "on the grounds that a mural is a forecast".
+- **Chapters 12, 15, 16:** Derek's "he had known it" on returning to the office, Penny's photograph by the sugar bowl, Derek's lecture to himself and the voice's register each said once instead of twice.
+- **Clues and physics kept:** Herbert's freehand order (sheet to door to voice to reading to refusal; sheet to train and nothing back; Sunday POSSIBLE. NOT SHOWN; the empty circle), "you cannot get a sender out of an order, only out of a mechanism", Seventeen as a duration, the hurry and Barbarian's letter, the voice's register, and "what reaches you is in your past".
+- **Checks:** 0 Word tables, no visible URLs, 76 internal links (one new), review line before About the Author, Also-by unchanged, 0.16 MB.
+- **Strict rescore:** prose 9.0, plot and clue fairness 8.9, characters 8.9, humour 8.9, pacing 9.0, facts 9.4, formatting/KDP 9.3, covers 9.0. Overall 9.0 (9.05).

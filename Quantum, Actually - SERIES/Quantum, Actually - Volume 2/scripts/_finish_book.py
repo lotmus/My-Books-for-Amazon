@@ -35,7 +35,7 @@ LESSON_H1 = re.compile(r"^Lesson (\d+)[: ]")
 SERIES = bl.SERIES
 SERIES_LINE = "A Volume in the %s Series" % SERIES  # as in Math, Actually
 BOOK_TITLE = bl.VOLUME_TITLE
-VOLUME_H1 = "Volume %d - %s" % (bl.SERIES_VOLUME, bl.VOLUME_TITLE)  # Math, Actually: "Volume 1 - From Arithmetic to Calculus"
+VOLUME_H1 = "Volume %d: %s" % (bl.SERIES_VOLUME, bl.VOLUME_TITLE)  # as on the cover and in KDP
 SUBTITLE = "From Mathematical Foundations to One-Loop QED"
 SERIES_BLUE = RGBColor(0x4F, 0x81, 0xBD)
 ALSO_IN_SERIES = [
@@ -60,7 +60,7 @@ ALSO_BY = [
         'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
     ]),
     ('More Actually Books', [
-        'Gravitation, Actually: A Short Book on Gravity',
+        'Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard',
         'The Universe, Actually: What Humanity Currently Understands About Reality',
     ]),
     ('Math, Actually', [

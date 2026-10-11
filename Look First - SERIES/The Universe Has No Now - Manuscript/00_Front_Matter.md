@@ -14,7 +14,7 @@ Copyright © 2026 Lothar J. Musiol. All rights reserved.
 
 Look First, Volume 1.
 
-Photograph credits are not printed under the figures. They are in this file, so a copy that never sees the store page still names its sources.
+Photograph credits are not printed under the figures. They are listed here, so a copy that never sees the store page still names its sources.
 
 **Photographs.** Fig 0: Islander61, Wikimedia Commons, CC BY-SA 4.0. Fig 1: Unsplash. Fig 3: NASA/SDO. Fig 4: NASA/ESA/Hubble. Fig 8: NASA/ESA/STScI. Fig 9: ESA and the Planck Collaboration, CC BY 4.0. Fig 14: NASA/ESA/Hubble Heritage Team (STScI/AURA). Fig 16: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett). Fig 17: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI. Fig 18: NASA/ESA/J. Hester and A. Loll (Arizona State University). Fig 20: Event Horizon Telescope Collaboration, CC BY 4.0. Fig 24: NASA/Hubble Heritage Team (STScI/AURA). Fig 25: NASA/JPL-Caltech/MSSS. Fig 29: NASA/JPL-Caltech/SETI Institute. Fig 32: Sasu photography, Wikimedia Commons, CC BY-SA 4.0. Fig 33: Cierra Martin for Crop Trust, Wikimedia Commons, CC BY-SA 2.0. Fig 35: Corrie Barklimore, Wikimedia Commons, CC BY 2.0. Fig 42: NASA. Fig 43: Charles J. Sharp, Wikimedia Commons, CC BY-SA 3.0. Fig 46: NASA/JPL-Caltech. Diagrams are original line art for this book.
 

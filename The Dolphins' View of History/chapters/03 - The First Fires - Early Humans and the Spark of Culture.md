@@ -12,7 +12,7 @@ Fire did three things at once, and dolphins rank them in order of surprise.
 
 It cooked food. Cooking breaks down tough fibers and denatures proteins before a single tooth gets involved, meaning more calories extracted per bite and less of the day spent chewing. Some researchers tie this directly to the brain's later growth spurt — a brain is metabolically expensive, and cooking may have been what first paid the bill.
 
-The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, because firm evidence of controlled fire is patchy at the very date the theory needs it most. Dolphin scholarship finds it plausible and not proved.
+The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, because firm evidence of controlled fire is patchy at the very date the theory needs it most. It is plausible and not proved.
 
 It pushed back the night. A fire is the first porch light: a circle of visibility and warmth a hominin band could sit inside after dark, when every other diurnal (day-active) primate was hiding.
 

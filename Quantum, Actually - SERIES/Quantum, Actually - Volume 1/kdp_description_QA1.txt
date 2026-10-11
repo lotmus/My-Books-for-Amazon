@@ -12,6 +12,8 @@ Along the way:
 
 This is not a textbook, and it is not a puff piece. Claims are labeled for what they are — established fact, well-tested theory, or genuinely open question — because the honest answer is more interesting than a confident wrong one. Every chapter opens with the question it answers, objections a careful reader would raise get answered in plain Q&A boxes, and each Part ends with the common questions.
 
+And you learn it by doing it. Every one of the 31 chapters has quick Try it now checks where an idea is fresh and ends with graded exercises, Core, Extension and Challenge: 62 checks and 189 exercises in all, each with a worked solution that names the usual mistake. The arithmetic needs nothing beyond powers of ten and a calculator.
+
 37 illustrations and diagrams. Three appendices, a working glossary, a myth-busting cheat sheet for the quantum claims you hear at parties, and the key equations decoded in plain English.
 
 Some of this is better felt than read, so the book comes with nine free interactive simulations, linked where they matter. No login. No app.

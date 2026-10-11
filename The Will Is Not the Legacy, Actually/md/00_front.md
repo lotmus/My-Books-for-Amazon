@@ -8,7 +8,7 @@ The title is the argument. A will is a piece of paper that tells a court who get
 
 Part One is the short version. If time is short, read Chapter 1 and do what it says. It is a sequence, not a philosophy.
 
-Part Two is twenty-five worked cases. Each one shows a family, what they assumed, what actually happened and which document or rule decided it, what would have prevented it, and what to do, including what to do if it has already happened to you. These are the chapters readers remember, because they are where the rules stop being abstract and start costing real money.
+Part Two is twenty-five worked cases. Some read like a case file, some like a short story, some like a conversation at a kitchen table, and some show the same family twice, as it went and as it could have gone. Each one shows which document or rule decided the outcome, what would have prevented it, and what to do, including what to do if it has already happened to you. These are the chapters readers remember, because they are where the rules stop being abstract and start costing real money.
 
 Part Three walks through a sample will clause by clause, then plans the same estate three different ways, and ends with the formalities that make a will valid or useless in California and in Germany.
 
@@ -30,7 +30,7 @@ The appendices are working pages: two printable to-do lists (one for you, one fo
 
 ## The two homes of this book
 
-Rules about wills differ by country and, in the United States, by state. Rather than pretend to cover fifty states and a hundred and ninety countries, this book uses two jurisdictions as its worked examples, because they are the two I live in: California and Germany. One is a common-law system with probate courts, trusts, and witnesses. The other is a civil-law system with notaries, forced shares, and an inheritance court that issues certificates. Between them they show most of the ways inheritance can be organised, and most of the ways it can go wrong.
+Rules about wills differ by country and, in the United States, by state. Rather than pretend to cover fifty states and a hundred and ninety countries, this book uses two jurisdictions as its worked examples, because they are the two I live in: California and Germany. One is a common-law system with probate courts, trusts, and witnesses. The other is a civil-law system with notaries, forced shares, and an inheritance court that issues certificates. Between them they show most of the ways inheritance can be organised, and most of the ways it can go wrong. Treat them as worked examples, the way a textbook works a problem with real numbers: the reasoning carries over, the figures do not. If you live in another US state, the United Kingdom, Canada, or Australia, [Chapter 40](#Chapter 40. If You Live Elsewhere: Topic by Topic) gives a short guide for each key topic, and the key chapters point you to it.
 
 Every legal figure in this book that names a jurisdiction was checked against an official source (the statute itself, a court's self-help pages, or a tax authority) in October 2026. The Sources appendix lists them. Thresholds change. California adjusts several of its small-estate figures every three years, and the next adjustment is due on 1 April 2028. Tax exemptions move with legislation. Check the current figure before you rely on it.
 

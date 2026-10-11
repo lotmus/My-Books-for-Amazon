@@ -4,7 +4,7 @@ A QED COURSE starts where Feynman's popular lectures start, with photons, probab
 
 Along the way:
 
-• Nine illustrated prologues for absolute beginners: light as lumps carrying arrows, partial reflection, all the paths light can take, a gentle step from arrows to complex numbers, the three basic actions of QED, loops and infinities, then bras and kets and Feynman diagrams, plus a bridge from the microwave engineer's S-parameters to the S-matrix
+• Nine illustrated opening chapters for absolute beginners: light as lumps carrying arrows, partial reflection, all the paths light can take, a gentle step from arrows to complex numbers, the three basic actions of QED, loops and infinities, then bras and kets and Feynman diagrams, plus a bridge from the microwave engineer's S-parameters to the S-matrix
 • The foundation, rebuilt: linear algebra, special relativity, Lagrangians, Maxwell's equations and gauge freedom, quantum mechanics, the Dirac equation, spinors, and antiparticles
 • Noether's theorem and the quantization of the scalar, Dirac, and electromagnetic fields
 • Local U(1) gauge symmetry and the QED Lagrangian, from which the vertex and the propagators are derived rather than assumed
@@ -17,7 +17,7 @@ Along the way:
 
 This is a textbook, and it says exactly what it does and does not compute. It derives tree-level QED, one-loop renormalization, Schwinger's correction, and the leading Lamb-shift mechanism. It does not pretend to reproduce two-loop g-2, the full Lamb shift to kilohertz, or the weak and strong forces. Those limits are stated up front.
 
-87 lessons and 9 prologues in twelve parts, with a marked core track of 35 lessons for readers who want the shortest route to loop corrections. Every lesson ends with exercises labelled Core, Extension, and Challenge, and full solutions; first-pass boxes state each major result before its derivation, every worked example is done line by line, and the Feynman-diagram lessons are fully illustrated. A glossary of symbols, a consolidated formula index, a course capstone, and a bibliography close the book.
+87 lessons and 9 opening chapters in twelve parts, with a marked core track of 35 lessons for readers who want the shortest route to loop corrections. Every lesson ends with exercises labelled Core, Extension, and Challenge, and full solutions; first-pass boxes state each major result before its derivation, every worked example is done line by line, and the Feynman-diagram lessons are fully illustrated. A glossary of symbols, a consolidated formula index, a course capstone, and a bibliography close the book.
 
 You need pencil and paper. You do not need to have seen quantum field theory before. If linear algebra and ordinary quantum mechanics are willing to be rebuilt rather than assumed, this can be your first course in QED.
 

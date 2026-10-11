@@ -10,13 +10,13 @@ The purges and show trials of the later 1930s eliminated much of the Communist P
 
 In August 1939 Stalin signed a non-aggression pact with Hitler, with a secret protocol dividing Poland and the Baltic states between them, and Soviet troops entered eastern Poland that September. When Germany broke the pact and invaded in June 1941, Stalin is reported to have been, for a short while, unable to believe it.
 
-The instinct to deny instead of admit had an early, specific test case. In 1940, the Soviet secret police executed some 22,000 Polish military officers and civil servants in the Katyn Forest and elsewhere, then blamed the killings on Nazi Germany for the next five decades; the Soviet state did not admit its own responsibility until 1990, one of the last confessions Gorbachev's own government made before the country that had committed the act ceased to exist.
+The instinct to deny instead of admit had an early, specific test case. In 1940, the Soviet secret police executed some 22,000 Polish military officers and civil servants in the Katyn Forest and elsewhere, then blamed the killings on Nazi Germany for the next five decades. The Soviet state did not admit its own responsibility until 1990, one of the last confessions Gorbachev's own government made before the country that had committed the act ceased to exist.
 
 The scale of the camps was not widely believed outside the Soviet Union until one of their own survivors made it impossible to ignore. Aleksandr Solzhenitsyn, who had spent eight years in the Gulag himself, smuggled out and published The Gulag Archipelago in 1973, a documented account that cost him his citizenship and cost the Soviet state much of what remained of its sympathy abroad.
 
 The same state apparatus that ran the purges and the camps also drove rapid industrialization, turning a largely agrarian economy into one capable, within a single generation, of matching Nazi Germany's military production and, in 1957, launching Sputnik, the first artificial satellite, ahead of every other nation on Earth.
 
-Dolphin historians insist on stating plainly what a shorter accounting would flatten out: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany, with estimates of Soviet dead in the Second World War running from around 20 million to as high as 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
+A shorter accounting would flatten out the other half: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany. Estimates of Soviet dead in the Second World War run from around 20 million to as high as 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
 
 *“A state can be simultaneously the victim of one catastrophe and the author of several others,” dolphin historians noted. “This chapter is where that fact is hardest to look away from.”*
 

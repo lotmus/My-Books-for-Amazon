@@ -20,7 +20,7 @@ The nearest thing to an accident, by several participants' accounts, happened at
 
 *“Twice, the survival of a great many species turned on one officer deciding that the machine was probably wrong,” dolphin historians noted. “The first of them was in a submarine, which dolphins take personally.”*
 
-The Berlin Wall, raised by East Germany in 1961 to stop the outflow of its own population westward, stood as the era's most literal symbol for close to three decades before crowds tore it down in November 1989, a single unplanned night that historians now treat as the moment the outcome of the whole rivalry became visible to everyone at once. The Soviet Union dissolved two years later, in 1991.
+The Berlin Wall, raised by East Germany in 1961 to stop the outflow of its own population westward, stood as the era's most literal symbol for close to three decades before crowds tore it down in November 1989. Historians now treat that single unplanned night as the moment the outcome of the whole rivalry became visible to everyone at once. The Soviet Union dissolved two years later, in 1991.
 
 **Dolphin verdict:**
 

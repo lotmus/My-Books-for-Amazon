@@ -1,6 +1,6 @@
 # KDP: The Warning That Was Sent Too Late (Book 2)
 
-Written 9 Oct 2026 (PT) against the master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx`. That file is about 52,900 words: the story (Prologue to Epilogue) is about 48,500, and the front matter, Coming Next, course and back matter make up the rest. It renders to about 124 Letter pages in LibreOffice. There is no cover yet, by decision.
+Written 9 Oct 2026 (PT) against the master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx`. That file is about 52,900 words: the story (Prologue to Epilogue) is about 48,500, and the front matter, Coming Next, course and back matter make up the rest. It renders to about 124 Letter pages in LibreOffice. Covers made 11 Oct 2026 (PT): `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
 
 The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides** are left open on purpose.
 
@@ -35,28 +35,34 @@ About 300 words, well under KDP's 4,000-character limit. Every fact is checked a
 
 ## Keywords (7, comma-separated for KDP)
 
-relativity mystery, physics detective novel, british comic mystery, time paradox mystery, mysterious train, cozy science fiction mystery, causality puzzle
+Revised 11 Oct 2026 (PT), on Book 1's rule: no keyword repeats a category word or the title (KDP indexes those already), no "time travel" (nobody travels in time, and nobody boards), none copies Book 1's list, each under 50 characters.
 
-1. relativity mystery
-2. physics detective novel
-3. british comic mystery
-4. time paradox mystery
-5. mysterious train
-6. cozy science fiction mystery
-7. causality puzzle
+relativity causality puzzle novel, phantom train in a london office, mysterious warning note story, funny british detective agency sequel, light cone whodunit, cousin sleuths and a tape measure, einstein physics fiction for adults
+
+1. relativity causality puzzle novel
+2. phantom train in a london office
+3. mysterious warning note story
+4. funny british detective agency sequel
+5. light cone whodunit
+6. cousin sleuths and a tape measure
+7. einstein physics fiction for adults
 
 These avoid author names, other authors' titles and claims such as "bestseller", which KDP does not allow in keywords.
 
-## Categories (proposal, same as Book 1)
+## Categories (3, same as Book 1's revised set)
+
+Revised 11 Oct 2026 (PT). Time Travel dropped, as for Book 1: the train's board says YESTERDAY, but nobody travels in time and Derek does not board, so time-travel readers would feel misled. Derek is a paid investigator, so Private Investigators fits better than Amateur Sleuth.
 
 1. Fiction > Science Fiction > Hard Science Fiction
-2. Fiction > Mystery, Thriller & Suspense > Mystery > Amateur Sleuth (or the nearest match the picker offers)
-3. Fiction > Science Fiction > Time Travel
+2. Fiction > Mystery, Thriller & Suspense > Mystery > Private Investigators
+3. Fiction > Science Fiction > Humorous
+
+(Category names in the picker change from time to time; choose the nearest match.)
 
 ## Still open
 
 - **Release date:** Lothar decides.
 - **Price:** proposal $3.99, the same as Book 1, with the 70% royalty and KDP Select for the launch window. Lothar decides.
-- **Cover:** none yet, by decision.
+- **Cover:** `Kindle Front Cover.jpg` (1600 x 2560, Book 1's trade dress: night-blue sky, dusk horizon, cream and gold Coustard title, RIB monogram, byline "Lothar J. Musiol / writing as Spezala Genara Relavi (S.G.R.)") and `Kindle Back Cover.jpg` (single navy colour, text only: hook, the blurb, short Colin/Gucci bio line). Everything is drawn by `scripts/make_covers.py`: no photographs, no real people, no third-party art; fonts are Google Fonts under the SIL Open Font License. To rebuild: `python scripts/make_covers.py .` (needs Pillow and those four fonts).
 - **AI disclosure:** KDP asks whether any text, images or translations were AI-generated. Lothar answers that on the KDP form.
-- **Cross-sell:** Book 2's Also-by already lists Book 1, and Book 1's Coming Next already names Book 2. Book 2's Also-by also lists Book 2 itself under Fiction. That is harmless, but you may want it removed before upload.
+- **Cross-sell:** Book 2's Also-by lists Book 1, and Book 1's Coming Next names Book 2. Book 2's Also-by no longer lists Book 2 itself (checked 10 Oct 2026).

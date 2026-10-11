@@ -16,7 +16,7 @@ The same network that carried silk and paper also carried, in the 1340s, a bacte
 
 Numbers that size stop meaning anything, so here is one man. In Siena, where the plague arrived in the spring of 1348, a tax official named Agnolo di Tura kept a chronicle. In the middle of it he wrote: “I, Agnolo di Tura, called the Fat, buried my five children with my own hands.” He went on with the chronicle afterward. There was nobody else to write it.
 
-Dolphin historians, who watched a great many Genoese ships go by, note that much of the Black Death's itinerary was maritime. Rats have always made excellent passengers and terrible guests, though recent studies suggest that in many European outbreaks the disease spread more through human fleas and lice than through rats.
+Much of the Black Death's itinerary was maritime, as dolphins watching a great many Genoese ships go by could have told anyone. Rats have always made excellent passengers and terrible guests, though recent studies suggest that in many European outbreaks the disease spread more through human fleas and lice than through rats.
 
 *“Humans built the first genuinely continental trade network,” dolphin historians noted, “and were unpleasantly surprised to learn that a market open to silk is also open to everything else that hitches a ride.”*
 

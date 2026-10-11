@@ -10,7 +10,7 @@ Over the following two centuries the method swallowed most of nature: electricit
 
 The Enlightenment took that method and pointed it at government itself. If nature ran on discoverable, testable laws instead of divine whim, philosophers including Locke, Rousseau, and Voltaire argued, perhaps legitimate government did too — resting on the consent of the governed, not a monarch's claimed mandate from heaven.
 
-Those arguments left the page. The American colonies declared independence from Britain in 1776 on language drawn almost directly from Locke; the French Revolution, beginning in 1789, went considerably further and faster, ending not just a king's rule but, for a time, the king himself, at the guillotine in 1793, and unleashing a period of revolutionary terror before settling, after considerable further upheaval, into a very different Europe than the one that started the century.
+Those arguments left the page. The American colonies declared independence from Britain in 1776 on language drawn almost directly from Locke. The French Revolution, beginning in 1789, went considerably further and faster, ending not just a king's rule but, for a time, the king himself, at the guillotine in 1793. It unleashed a period of revolutionary terror before settling, after considerable further upheaval, into a very different Europe than the one that started the century.
 
 The 1789 Declaration of the Rights of Man and of the Citizen proclaimed those rights universal in its title and meant, on close reading, men. Olympe de Gouges published a parallel Declaration of the Rights of Woman in 1791, pointing out the omission in the driest possible terms; the revolutionary tribunal had her guillotined in 1793, officially for her political pamphlets, and dolphin scholarship notes only that a government inventing universal rights from first principles found the principle easier to state than to extend.
 
@@ -18,13 +18,13 @@ Industry arrived on a separate but overlapping timeline. Steam power, made pract
 
 The ratchet found an engine. For a million years the stored know-how of the species had been multiplied by muscle, its own or an animal's. Coal multiplied it by sunlight buried three hundred million years earlier. Wisdom had no equivalent fuel. Factory laws, public sanitation, and limits on child labor all came eventually, but each had to be argued for, one parliament and one generation at a time, after the damage was done.
 
-The other side of the ledger was immediate, and dolphin historians set it beside the productivity gains, not tucked in afterward: children as young as five or six worked textile mill floors on twelve-hour shifts; new industrial cities like Manchester grew so fast that sanitation and housing never caught up, and cholera outbreaks followed accordingly.
+The other side of the ledger was immediate, and it belongs beside the productivity gains, not after them: children as young as five or six worked textile mill floors on twelve-hour shifts; new industrial cities like Manchester grew so fast that sanitation and housing never caught up, and cholera outbreaks followed accordingly.
 
 *Professor Click-Click-Whoosh, in the margin beside Manchester: “Also raining.”*
 
 Forests vanished into furnaces, coal smoke turned industrial skies the color of old newspaper, and factory waste began its long journey to the sea. As late as December 1952, London suffered five days of coal smoke so thick that about four thousand people died within days, and by later estimates as many as twelve thousand over the following months, a rare occasion on which British weather was not entirely the weather's fault.
 
-Nationalism, an idea barely a century old in its modern form, hardened through the late 1800s into competitive alliances between the newly industrial and imperial powers of Europe — Germany (whose own rapid unification in 1871 is a later chapter's starting point), France, Britain, Austria-Hungary, and Russia, each arming and allying against the others in a system explicitly built, on paper, to prevent exactly the war it produced.
+Nationalism, an idea barely a century old in its modern form, hardened through the late 1800s into competitive alliances between the newly industrial and imperial powers of Europe — Germany (whose own rapid unification in 1871 is a later chapter's starting point), France, Britain, Austria-Hungary, and Russia. Each armed and allied against the others in a system explicitly built, on paper, to prevent exactly the war it produced.
 
 **Dolphin verdict:**
 

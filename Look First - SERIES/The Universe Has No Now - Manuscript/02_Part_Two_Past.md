@@ -138,7 +138,7 @@ COBE, the Cosmic Background Explorer, carried the instrument that made that sent
 
 A blackbody this clean is also a veto. Starlight bounced off dust, a fog of leftover starlight, a glow from nearby radio junk: those stories produce the wrong shape. They can make a hiss. They cannot make FIRAS. The curve is the courtroom. The pigeons were a reasonable first suspect. They were not a spectrum.
 
-![Figure 9. The microwave sky as a gray oval. Warmer and cooler patches are labeled in words. This is a measurement, not a snapshot from a camera.](Figures/figs/fig09.png)
+![Figure 9. The microwave sky as an oval map: blue patches are slightly cooler, red patches slightly warmer. This is a measurement, not a snapshot from a camera.](Figures/figs/fig09.png)
 
 The freckles have a date. COBE’s DMR map, in 1992, showed that the sky is not perfectly bland: differences of about one part in 100,000, the first photograph of the seeds Chapter 14 will grow into galaxies. George Smoot’s team had not found continents. They had found the rumple in the dough. WMAP, through the 2000s, turned the rumple into a spectrum of sizes. Planck, with maps in 2013 and a final cosmology release in 2018, sharpened the weather chart until the peaks in that spectrum became a courtroom of their own: how much ordinary matter, how much extra pull, how fast the stretch, how flat the large-scale geometry. Those later maps are how Chapter 11 gets its percentages. This chapter only needs the baby: a blackbody with freckles, photographed on the whole sky.
 

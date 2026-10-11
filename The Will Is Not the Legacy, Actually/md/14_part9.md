@@ -64,6 +64,8 @@ Hire one, or see a notary in Germany, if any of these apply: there is real estat
 20. **Respect the permissions.** Share within what the permission sheet (Appendix H) allows. When in doubt, ask the other people named, or wait.
 21. **Back up before you reorganise.** Copy every recording, photo, and document to two places before you rename, sort, or delete anything. Grief and accidental deletion go together.
 
+**If you live elsewhere.** For probate in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Probate and estate administration, elsewhere).
+
 ## Chapter 38. Digital Access From the Other Side of the Lock
 
 ### What you can do with the right preparation
