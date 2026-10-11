@@ -24,6 +24,7 @@ P: Automotive radars use the 76 to 81 GHz band and a frequency-modulated continu
 H2: Worked Example 27.3
 P: Problem. A 77 GHz FMCW radar sweeps 1 GHz in 50 µs. Find the slope, the beat frequency for a target at 50 m, the range resolution, and the Doppler shift for a closing speed of 30 m/s.
 P: Solution. S = 10⁹/(50 × 10⁻⁶) = 2 × 10¹³ Hz/s. fb = 2 × 50 × 2 × 10¹³/2.998 × 10⁸ = 6.67 MHz, within reach of an inexpensive converter. ΔR = c/(2 × 1 GHz) = 15.0 cm. λ = 3.89 mm, so fd = 2 × 30/0.00389 = 15.4 kHz.
+P: Where this continues. Chapter 49 designs FMCW front ends at 24, 60, and 77 GHz, from chirp slope and IF bandwidth to MIMO angle resolution and gesture sensing. The ranging signal processing is in Book 5, "Ranging and Positioning", the chirp measurements in Book 9, Test and Measurement Instruments, "Bursts, Chirps, and Pulses: BLE, LoRa, FMCW Radar, and Pulsed RF", and point-cloud processing on the host in Book 8, Firmware and Software for Electronics, "Sensor Fusion: IMU Filters, Kalman, and SLAM Basics".
 BENCH: Because echo power falls as R⁻⁴, doubling the range takes 12 dB more of something: power, antenna gain, integration time, or lower noise. Work out which is cheapest. In FMCW radars, chirp linearity and leakage from transmitter to receiver often limit performance before thermal noise does, so look at the close-in spectrum and the beat-frequency spurs before chasing noise figure.
 H2: Practice
 P: 1. By what factor must the transmitter power rise to double a radar's range, all else equal?

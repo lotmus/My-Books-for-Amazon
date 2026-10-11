@@ -18,6 +18,7 @@ P: A transistor's output power is set by how much voltage and current it can swi
 H2: Worked Example 20.2
 P: Problem. A radar transmitter needs 2 kW peak at the antenna through 0.6 dB of loss. Its GaN modules each deliver 250 W at the combiner input, and the combiner loses 0.4 dB. How many modules are needed?
 P: Solution. The total loss is 1.0 dB, a factor of 0.794, so the modules together must supply 2000/0.794 = 2518 W. At 250 W each, that is 10.07 modules, so eleven, or in a binary combiner tree, sixteen. A tree of eight would deliver only 8 × 250 × 0.794 = 1589 W. The arithmetic shows why combining loss limits the solid-state route: every doubling of the module count adds a combining stage and its loss.
+P: Where this continues. Part III, Chapters 42 to 47, designs with each of these device families in turn: CMOS, the GaAs handset amplifier and pHEMT, GaN broadband and Doherty amplifiers, RF SOI, SiGe, and InP, and the acoustic filters that sit between them and the antenna.
 BENCH: Draw the level diagram before anything else, with dBm at every stage from the modem to the antenna. It shows where power is lost, which stage compresses first, and how much margin each stage has. A decibel saved after the final amplifier is the cheapest decibel in the system. Count combining losses honestly: going from eight modules to sixteen adds another combining stage, and its loss, along with the modules.
 H2: Practice
 P: 1. Convert 5 W, 250 W, and 2 kW to dBm.

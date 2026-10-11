@@ -32,188 +32,244 @@ P: Schottky thermionic emission: JS = A* T² e^(−φB/VT), A* ≈ 112 A/(cm²·
 P: AlGaN/GaN 2DEG: ns ≈ 1×10¹³ cm⁻², practical current density about 1 A per mm of gate.
 P: Poisson die yield Y = e^(−A D0); 300 mm wafer area ≈ 707 cm².
 P: Soft errors: 3.6 eV per electron-hole pair in silicon; FIT = failures per 10⁹ device-hours.
+P: Representative material constants for Part IX (gap, critical field, electron mobility, relative permittivity, saturation velocity, thermal conductivity): listed in Section 25.1. Orientation values, not design values.
+P: SPICE nominal temperature TNOM: 27 °C by default, where VT = 25.85 mV. Hand work in this book keeps VT = 26 mV.
+P: Teaching diode of Section 23.4: Is = 50 fA with N = 1, recombination current 0.5 nA with N = 2, high-injection knee 20 mA, Rs = 0.5 Ω.
+P: Time of flight: 6.67 ns of round trip per meter of range, 66.7 ps per centimeter.
+P: APD excess noise: F(M) = kM + (1 − k)(2 − 1/M); k ≈ 0.02 for silicon, 0.4 to 0.5 for InGaAs/InP, 0.9 for germanium.
+P: Floating-diffusion conversion gain q/C: 160 µV per electron for 1 fF.
+P: NV center in diamond: zero-field splitting 2.87 GHz; 28 GHz/T, or 28 kHz/µT, per resonance line.
 H1: Appendix B. Answers to the Practice Problems
+P: Every practice problem is worked in full below: the idea, the numbers, and a check or the usual mistake. Where a problem continues a worked example, the solution uses that example's declared values.
 H2: Chapter 1
-P: 1. p = ni²/n = 1.0×10⁵ cm⁻³. σ = q n μn = 0.1602 (Ω·cm)⁻¹. ρ = 6.242 Ω·cm. Ten times fewer electrons, ten times the resistivity.
-P: 2. A wider gap means fewer bonds broken at a given temperature, so ni is smaller. Reverse current of a junction tracks that minority population, so the leakage falls.
-P: 3. σ = q ni (μn + μp) = 2.371×10⁻⁶ (Ω·cm)⁻¹. The hole term is μp/(μn+μp) = 0.32 of the total, about a third. It is not ignorable. It was ignorable in the worked example only because doping had made n huge and p tiny.
-P: 4. 4.99×10²² / 10¹⁶ ≈ 5×10⁶, about five million silicon atoms per dopant atom.
-P: 5. Ei − EF = 0.026 × ln(10¹⁷/10¹⁰) = 0.026 × 16.12 = 0.419 eV. EF is below midgap, toward the valence band, as it must be for p-type material.
-P: 6. 45 °C is five doublings, so ni rises about 2⁵ = 32 times, and an ni² leakage about 1,000 times. The hand model gives 22 and 470; the doubling rule is a slightly generous estimate.
-P: 7. Multiplying n = Nc e^(−(Ec − EF)/kT) by p = Nv e^(−(EF − Ev)/kT) adds the exponents, and EF appears once with each sign, leaving only Ec − Ev = Eg.
+P: 1. Idea: the dopant sets the majority, mass action sets the minority, and conductivity follows the majority. p = ni²/n = (1.0×10¹⁰)²/1.0×10¹⁵ = 1.0×10⁵ cm⁻³. σ = q n μn = (1.602×10⁻¹⁹)(1.0×10¹⁵)(1000) = 0.1602 (Ω·cm)⁻¹, so ρ = 1/σ = 6.24 Ω·cm. Check: ten times fewer electrons than Worked Example 1.1 gives ten times its 0.624 Ω·cm. The usual mistake is to keep the hole term; it is ten orders of magnitude smaller.
+P: 2. Idea: ni carries the factor e^(−Eg/2kT), so the gap sits in an exponent. A wider gap means fewer bonds broken at any temperature and a much smaller ni. Junction leakage is fed by minority carriers whose concentration scales as ni², so it falls even faster than ni. Check with numbers: going from silicon's 1.12 eV to 4H-SiC's 3.26 eV cut ni by about eighteen orders of magnitude in Worked Example 1.3. The usual mistake is to think a wide gap only raises the forward drop; its main gift is low leakage when hot.
+P: 3. Idea: in intrinsic material both carriers are present in equal numbers, so both terms of σ count. σ = q ni (μn + μp) = (1.602×10⁻¹⁹)(1.0×10¹⁰)(1000 + 480) = 2.37×10⁻⁶ (Ω·cm)⁻¹, a resistivity of about 420 kΩ·cm. The hole share is 480/1480 = 0.32, about a third. Check: not ignorable. Dropping the hole term was fair in Worked Example 1.1 only because doping made p twelve decades smaller than n.
+P: 4. Idea: the unit cell holds eight atoms in a cube of edge a. N = 8/a³ = 8/(5.431×10⁻⁸ cm)³ = 8/1.602×10⁻²² = 4.99×10²² cm⁻³. Atoms per dopant: 4.99×10²²/10¹⁶ ≈ 5×10⁶, about five million silicon atoms for each dopant. Check the units: a must be in centimeters before cubing; 0.5431 nm = 5.431×10⁻⁸ cm.
+P: 5. Idea: doping moves EF away from midgap by kT times the log of how far the majority exceeds ni. Ei − EF = VT ln(p/ni) = 0.026 × ln(10¹⁷/10¹⁰) = 0.026 × 16.12 = 0.419 eV. EF lies 0.419 eV below Ei, toward the valence band. Check: p-type material must have EF below midgap; an answer above midgap means the sign was dropped.
+P: 6. Idea: 25 °C to 70 °C is 45 °C, five doublings at 9 °C each. ni rises about 2⁵ = 32 times, and a leakage proportional to ni² about 32² ≈ 1000 times. The full hand model ni ∝ T^1.5 e^(−Eg/2kT) gives 21.5 and 463, so the doubling rule is generous at this range because the per-kelvin rate (0.077 at 300 K) falls as T rises. The usual mistake is to forget the square for ni² leakage.
+P: 7. Multiplying the two Boltzmann expressions adds their exponents, and EF enters one with a plus sign and the other with a minus sign, so it cancels and leaves only Ec − Ev = Eg, a property of the crystal and the temperature alone.
 H2: Chapter 2
-P: 1. n ≈ 1.0×10¹⁵ cm⁻³. p = ni²/n = 1.0×10⁵ cm⁻³.
-P: 2. The hole concentration is ni²/ND, not zero. At ND = 10¹⁶ cm⁻³ it is 1.0×10⁴ cm⁻³.
-P: 3. Donors exceed acceptors by 9.0×10¹⁵ cm⁻³, so the material is n-type. The majority electron concentration is approximately ND − NA = 9.0×10¹⁵ cm⁻³. The minority hole concentration is ni² divided by that majority, about 1.1×10⁴ cm⁻³. The subtraction is charge neutrality with the small carrier terms dropped. Dropping them is fair here because both are far below the doping difference.
-P: 4. Both have the same carrier concentration, but the compensated region has many more ionized impurities to scatter the carriers, so its mobility is lower.
-P: 5. n-type. n = I B/(q |VH| t) = (0.5×10⁻³)(0.40)/[(1.602×10⁻¹⁹)(1.0×10⁻³)(2.5×10⁻⁴)] = 5.0×10²¹ m⁻³ = 5.0×10¹⁵ cm⁻³.
-P: 6. 1000/25 = 40 squares; 40 µm long at 1 µm wide.
+P: 1. Idea: shallow donors are all ionized at room temperature, so n ≈ ND, and mass action gives the minority. n ≈ 1.0×10¹⁵ cm⁻³. p = ni²/n = 1.0×10²⁰/1.0×10¹⁵ = 1.0×10⁵ cm⁻³. Check: n p = 1.0×10²⁰ = ni². The usual mistake is to write p = 0.
+P: 2. Mass action fixes the product n p = ni², so the hole population falls but cannot reach zero. At ND = 10¹⁶ cm⁻³, p = 10²⁰/10¹⁶ = 1.0×10⁴ cm⁻³: ten thousand holes per cubic centimeter. They are rare, and they are exactly the minority carriers a junction later sweeps across, so they matter.
+P: 3. Idea: the larger dopant wins, and the net difference sets the majority. Neutrality: n + NA = p + ND. Donors exceed acceptors by 9.0×10¹⁵ cm⁻³, so the material is n-type. The small term is p, the minority; dropping it gives n ≈ ND − NA = 9.0×10¹⁵ cm⁻³. Then p = ni²/n = 10²⁰/9.0×10¹⁵ = 1.1×10⁴ cm⁻³. Check: p is eleven decades below the doping difference, so dropping it changed nothing. The usual mistake is to drop it before naming it, or to add the dopants instead of subtracting them.
+P: 4. Both regions have the same free-carrier concentration, but the compensated one holds 2.1×10¹⁶ ionized impurities per cm³ instead of 10¹⁶, and every one of them scatters carriers, so its mobility and therefore its conductivity are lower.
+P: 5. Idea: the sign of VH names the carrier, the size gives the concentration without needing the mobility. The negative reading means electrons, so the bar is n-type. In SI units, n = I B/(q |VH| t) = (0.5×10⁻³)(0.40)/[(1.602×10⁻¹⁹)(1.0×10⁻³)(2.5×10⁻⁴)] = 5.0×10²¹ m⁻³ = 5.0×10¹⁵ cm⁻³. Check the units: t = 0.25 mm = 2.5×10⁻⁴ m, and m⁻³ divided by 10⁶ gives cm⁻³. The usual mistake is to mix millimeters and meters, which shifts the answer by a factor of 1000.
+P: 6. Idea: a resistor in sheet-resistance units is a count of squares. N = R/Rs = 1000/25 = 40 squares. At 1 µm wide the strip is 40 × 1 µm = 40 µm long. Check: any width works if the length scales with it; 2 µm wide needs 80 µm. Real layouts add a fraction of a square for each contact head.
 H2: Chapter 3
-P: 1. Dn = 26.0 cm²/s. Dp = 12.48 cm²/s.
-P: 2. |Jp| = q Dp |dp/dx| = 199.952 A/cm². Conventional current points the same way the holes are spreading.
-P: 3. Jn,drift = q n μn E = 16.022 A/cm². The diffusion example was 374.909 A/cm². A modest field of 10 V/cm in this doping already beats that particular one-micron gradient. Steeper gradients, the kind inside a junction, put diffusion back in front.
-P: 4. R rises as 1/μ, by (350/300)^2.4 = 1.45, to about 14.5 kΩ.
-P: 5. σ = 0.1 (Ω·cm)⁻¹, so τd = 1.04×10⁻¹²/0.1 = 10.4 ps.
-P: 6. t = 5×10⁻⁶ cm / 10⁷ cm/s = 0.5 ps.
+P: 1. Idea: the Einstein relation ties diffusion to mobility through the thermal voltage, D = μ VT. Dn = 1000 × 0.026 = 26.0 cm²/s. Dp = 480 × 0.026 = 12.48 cm²/s. Check the units: cm²/V·s times V gives cm²/s. The usual mistake is to use VT in millivolts and get answers a thousand times too large.
+P: 2. Idea: diffusion current is charge times diffusion constant times gradient. |Jp| = q Dp |dp/dx| = (1.602×10⁻¹⁹)(12.48)(1.0×10²⁰) = 200 A/cm². Holes are positive, so conventional current points the same way the holes are spreading, down the gradient. Check against electrons: the same gradient of electrons would give a current pointing opposite to their spread, because their charge is negative.
+P: 3. Idea: with no gradient only drift is left, J = q n μn E. J = (1.602×10⁻¹⁹)(1.0×10¹⁶)(1000)(10) = 16.0 A/cm². Worked Example 3.1 gave 375 A/cm² from a one-micron gradient, about 23 times more. Check: a field of 10 V/cm is tiny; the steep gradients inside a junction are why diffusion matters there and drift dominates in the bulk.
+P: 4. Idea: resistance scales as 1/μ, and lattice-limited mobility falls as T^(−2.4). R(350) = R(300) × (350/300)^2.4 = 10.0 kΩ × 1.448 = 14.5 kΩ. Check: that is a 45 % rise over 50 K, about 0.9 % per kelvin on average, consistent with the 0.8 %/K slope at 300 K quoted in Section 3.4. The usual mistake is to apply the exponent with the wrong sign and predict a falling resistance.
+P: 5. Idea: τd = εs/σ. σ = 1/ρ = 0.1 (Ω·cm)⁻¹ and εs = 11.7 × 8.854×10⁻¹⁴ = 1.04×10⁻¹² F/cm, so τd = 1.04×10⁻¹²/0.1 = 1.04×10⁻¹¹ s = 10.4 ps. Check: ten times the resistivity of the 1 Ω·cm example gives ten times its 1 ps. Even lightly doped silicon neutralizes majority charge far faster than any circuit event.
+P: 6. Idea: at saturation the time is length over the velocity ceiling, t = L/vsat. t = 5×10⁻⁶ cm/1×10⁷ cm/s = 5×10⁻¹³ s = 0.5 ps. Check the conversion: 50 nm = 5×10⁻⁶ cm. The usual mistake is to use μE, which promises a shorter time than silicon can deliver.
 H2: Chapter 4
-P: 1. NA ND / ni² = 1.0×10³⁴ / 1.0×10²⁰ = 1.0×10¹⁴. Vbi = 0.026 × ln(10¹⁴) = 0.026 × 32.236 = 0.838 V.
-P: 2. Only somewhat larger. Width follows the square root of (Vbi − V). A few volts of reverse bias increases the term inside the root by a factor of several, and the width by the square root of that factor, not by the factor itself.
-P: 3. Vbi depends on ln(1/ni²). A larger ni shrinks the argument of the logarithm, so Vbi falls.
-P: 4. Vbi = 0.026 × ln(10³⁴/10²⁰) = 0.838 V. W = sqrt(2 × 1.036×10⁻¹² × 0.838 × 2×10⁻¹⁷/1.602×10⁻¹⁹) = 0.147 µm.
-P: 5. Vbi − V = εs Emax²/(2 q ND) = 1.036×10⁻¹² × 9×10¹⁰/(2 × 1.602×10⁻¹⁹ × 10¹⁶) = 29.1 V, so a reverse bias of about 28 V. Avalanche needs a little more because breakdown requires multiplication over a distance, so the measured breakdown of such a junction is about 50 to 60 V; the simple estimate is conservative.
-P: 6. 1 − V/Vbi = 15.3. For m = 0.5 the capacitance falls by √15.3 = 3.9 times; for m = 1.0 by 15.3 times. Hyperabrupt doping is how tuning varactors get a wide range from a modest voltage swing.
+P: 1. Idea: Vbi = VT ln(NA ND/ni²). NA ND/ni² = (1.0×10¹⁸)(1.0×10¹⁶)/1.0×10²⁰ = 1.0×10¹⁴. ln(10¹⁴) = 32.24, so Vbi = 0.026 × 32.24 = 0.838 V. Check: a hundred times more doping on one side than in Worked Example 4.1 adds VT ln(100) = 0.120 V to its 0.718 V. The usual mistake is to forget to square ni.
+P: 2. Only somewhat larger. W grows as the square root of Vbi − V. At zero bias the root holds 0.718 V; at −3 V it holds 3.72 V, about 5.2 times more, so W grows by √5.2 ≈ 2.3 times, not 5.2. Check against Worked Example 4.2: going from 0 V to −10 V raised the voltage across the layer thirteenfold and the width only 3.6 times.
+P: 3. Vbi = VT ln(NA ND/ni²), and ni grows steeply with temperature, so the argument of the logarithm shrinks faster than VT grows and Vbi falls, by roughly 2 mV per kelvin for typical dopings. Physically, the hotter crystal has more minority carriers on each side, so a smaller barrier already balances diffusion.
+P: 4. Idea: a symmetric junction splits the depletion layer equally, so the two-sided formula is needed. Vbi = 0.026 × ln(10³⁴/10²⁰) = 0.838 V. W = √[2 εs Vbi (NA + ND)/(q NA ND)] = √[2 × 1.036×10⁻¹² × 0.838 × 2×10⁻¹⁷/1.602×10⁻¹⁹] = 1.47×10⁻⁵ cm = 0.147 µm, half on each side. Check: ten times the doping of Worked Example 4.1 shrinks its 0.431 µm by about √10 = 3.2, slightly less because Vbi rose. The usual mistake is to use the one-sided formula, which gives 0.104 µm.
+P: 5. Idea: set Emax equal to the critical field and solve for the voltage across the layer. Vbi − V = εs Emax²/(2 q ND) = 1.036×10⁻¹² × (3×10⁵)²/(2 × 1.602×10⁻¹⁹ × 10¹⁶) = 29.1 V, so V ≈ −28.3 V, a reverse bias of about 28 V. Check: Worked Example 4.2 had 1.83×10⁵ V/cm at 10.8 V across the layer, and Emax grows as the square root, so 1.83×10⁵ × √(29.1/10.8) = 3.0×10⁵ V/cm. Measured breakdown of such a junction is nearer 50 to 60 V, because avalanche needs multiplication over a distance; the estimate is conservative.
+P: 6. Idea: the capacitance ratio is (1 − V/Vbi)^m. 1 − (−10)/0.7 = 15.29. For m = 0.5 the capacitance falls by 15.29^0.5 = 3.91 times; for m = 1.0 by 15.29 times. Check: the hyperabrupt profile buys a fourfold wider tuning range from the same 10 V swing, which is why tuning varactors use it. The usual mistake is to forget the sign: reverse bias makes V negative, so the bracket grows.
 H2: Chapter 5
-P: 1. I(0.65 V) = 7.200×10⁻⁵ A = 72.00 μA.
-P: 2. One decade is 59.9 mV, so the rule says 59.9 mV. Exact voltages: 0.6585 V at 0.1 mA and 0.7184 V at 1 mA, a difference of 59.9 mV. The rule is the exact ideal-diode result once I is far above IS, which it is.
-P: 3. I(−0.2 V) = -9.995×10⁻¹⁶ A, which is −IS times (1 − e^(−0.2/VT)). e^(−0.2/VT) is about 4.56×10⁻⁴, so the factor in parentheses is already indistinguishable from 1 at three significant figures, and I ≈ −IS. A real diode adds surface leakage and generation inside the depletion layer, both missing from the ideal law.
-P: 4. 60 °C × (−1.8 mV/°C) = −108 mV, so about 0.54 V. The coefficient changes slightly with temperature, but the estimate is within a few millivolts.
-P: 5. n = 0.118/(0.026 × ln 10) = 1.97, about 2: recombination in the depletion layer dominates at such low current.
-P: 6. rd = 0.026/10⁻⁴ = 260 Ω at 0.1 mA and 0.026/10⁻² = 2.6 Ω at 10 mA.
+P: 1. Idea: well above IS the exponential term rules, I ≈ IS e^(V/VT). I = 1.0×10⁻¹⁵ × e^(0.65/0.026) = 1.0×10⁻¹⁵ × e^25 = 1.0×10⁻¹⁵ × 7.20×10¹⁰ = 7.20×10⁻⁵ A = 72.0 µA. Check: Worked Example 5.1 gave 10.5 µA at 0.60 V; 50 mV more is 0.83 decade, a factor of 6.9, and 10.5 × 6.9 = 72.
+P: 2. Idea: one decade of current costs VT ln 10. The rule says 59.9 mV. Exact: V = VT ln(I/IS + 1) gives 0.6585 V at 0.1 mA and 0.7184 V at 1 mA, a difference of 59.9 mV. Check: the rule is the exact ideal result once I is far above IS, and 0.1 mA is eleven decades above 1 fA.
+P: 3. Idea: in reverse the exponential vanishes and only −IS survives. I = IS(e^(−0.2/0.026) − 1) = 1.0×10⁻¹⁵ × (4.56×10⁻⁴ − 1) = −9.995×10⁻¹⁶ A ≈ −IS. The exponential is already below 0.05 % of the 1, so the current has saturated. A real diode leaks more because generation inside the depletion layer and surface leakage add currents the ideal law leaves out. The usual mistake is to report a positive current or to drop the −1.
+P: 4. Idea: at constant current the forward voltage drifts about −1.8 mV per kelvin. ΔT = 60 K, so ΔV ≈ 60 × (−1.8 mV) = −108 mV, and V ≈ 0.650 − 0.108 = 0.54 V at 85 °C. Check: the coefficient (V − Eg/q − 3VT)/T shrinks a little as V falls and T rises, so the estimate is good to a few millivolts. The usual mistake is to add the drift and predict a higher voltage when hot.
+P: 5. Idea: one decade costs n VT ln 10, so n = ΔV/(VT ln 10). n = 0.118/(0.026 × 2.3026) = 1.97, about 2. An ideality factor near 2 at nanoamp currents means recombination inside the depletion layer dominates. Check: n = 1 would need only 60 mV for the decade.
+P: 6. Idea: rd = n VT/I with n = 1. At 0.1 mA, rd = 0.026/10⁻⁴ = 260 Ω. At 10 mA, rd = 0.026/10⁻² = 2.6 Ω. Check: a hundred times the current gives a hundredth of the resistance. The usual mistake is to use V/I, the large-signal ratio, which gives about 6.6 kΩ at 0.1 mA, far from the slope.
 H2: Chapter 6
-P: 1. 1 − V/Vbi = 3.784. Cj = 20 / 1.945 = 10.28 pF.
-P: 2. The time is waiting on minority charge stored by the forward current. A Schottky junction does not store that minority population in the same way, so the recovery tail is largely absent.
-P: 3. The resistor sets the current through the knee. The junction sets the voltage. Without the resistor the supply would try to hold 12 V across a 5.1 V knee.
-P: 4. JS = 112 × 9×10⁴ × e^(−0.6/0.02585) = 8.4×10⁻⁴ A/cm², so IS = 84 nA and V = 0.02585 × ln(10⁻³/8.4×10⁻⁸) = 0.24 V.
-P: 5. Heavy doping makes the depletion layer under the metal only nanometers thick, so electrons tunnel through the barrier in both directions and the contact is resistive instead of rectifying.
-P: 6. About 6.4 + 30 × 0.043 = 7.7 V, somewhat higher in practice because the breakdown voltage itself rises as the junction heats.
+P: 1. Idea: an abrupt junction's capacitance falls as the square root of 1 − V/Vbi. 1 − (−2)/0.718 = 3.786, whose square root is 1.946, so Cj = 20 pF/1.946 = 10.3 pF. Check: Worked Example 6.1 took 10 pF to 3.54 pF at −5 V; a smaller reverse voltage should cut less, and halving is less than a factor of 2.8. The usual mistake is to forget that V is negative in reverse.
+P: 2. Forward current stores minority charge on both sides of the junction, and the diode cannot block until that charge has been pulled back out or has recombined; the recovery time is the wait. A Schottky junction carries its current as majority electrons going over a metal barrier, so almost no minority charge is stored and the recovery tail is largely absent. What remains is the charging of its junction capacitance.
+P: 3. The resistor sets the current through the knee, about (12 − 5.1)/R; the junction only sets the voltage, and without the resistor the 12 V rail would try to force 12 V across a 5.1 V knee and destroy the part.
+P: 4. Idea: thermionic emission gives JS = A* T² e^(−φB/VT). With VT = kT/q = 0.02585 V at 300 K: JS = 112 × (300)² × e^(−0.6/0.02585) = 1.008×10⁷ × 8.3×10⁻¹¹ = 8.4×10⁻⁴ A/cm². IS = JS A = 8.4×10⁻⁸ A = 84 nA. At 1 mA, V = 0.02585 × ln(10⁻³/8.4×10⁻⁸) = 0.02585 × 9.39 = 0.24 V. Check: Section 6.4 found 0.34 V for φB = 0.7 eV; 0.1 eV less barrier is about 0.1 V less drop. The usual mistake is to use the pn-junction formula with ni².
+P: 5. Heavy doping, above about 10¹⁹ cm⁻³, thins the depletion layer under the metal to a few nanometers, so electrons tunnel straight through the barrier in both directions and the contact acts as a small resistor instead of a rectifying Schottky diode.
+P: 6. Idea: above breakdown a TVS acts as its breakdown voltage plus a small resistance. The dynamic resistance from the data-sheet points is (9.2 − 6.4)/65.2 = 43 mΩ. At 30 A: Vclamp ≈ 6.4 + 30 × 0.043 = 7.7 V. Check: 30 A is about half the rated 65.2 A, and 7.7 V lies about halfway between 6.4 and 9.2 V. In practice it reads somewhat higher, because the junction heats during the pulse and the breakdown voltage itself rises. The usual mistake is to use the 5.0 V stand-off voltage as the start of the line.
 H2: Chapter 7
-P: 1. Ropt = 40 / 0.50 = 80 Ω. P = (40)(0.50)/2 = 10 W.
-P: 2. Open an InP HEMT first. Do not open a GaN power switch, and do not open a handset HBT. A survivable limiter in front of that LNA can be GaN. The noise-figure deficit of 0.4 dB is an InP problem.
-P: 3. The 650 V part is a GaN-on-silicon power HEMT. InP is a small, fragile, poorly heat-spreading substrate with a 1 to 5 V RF habit. It is not in that market.
-P: 4. (56 − 3) × 0.8/8 = 5.3 W/mm; 25/5.3 = 4.7 mm of gate.
-P: 5. The electrons are supplied by polarization charge, not by dopant atoms inside the channel, so there are no ionized impurities in the well to scatter them.
+P: 1. Idea: the optimum load is peak voltage over peak current, and the power is half their product. Ropt = 40/0.50 = 80 Ω. P = (40)(0.50)/2 = 10 W. Check: against the 28 V, 0.20 A case of Worked Example 7.1, the voltage rose 1.43 times and the current 2.5 times, so the power should rise 3.6 times, from 2.8 W to 10 W. The usual mistake is to forget the factor of 2 and report 20 W.
+P: 2. Open an InP HEMT first. At 94 GHz with a small input signal the noise figure is the specification, and InP HEMTs give the lowest noise figure from about 30 GHz through W-band. Do not open a GaN power switch or a handset GaAs HBT: neither is a low-noise millimeter-wave part. A GaN limiter in front of the LNA can be useful for survivability, but the 0.4 dB deficit is an InP problem.
+P: 3. GaN's wide gap and high critical field let one HEMT structure block hundreds of volts, and GaN grows on large, cheap silicon wafers, so the same material serves a 50 V radar transistor on SiC and a 650 V switch on silicon. InP has a narrow-gap InGaAs channel built for 1 to 5 V and sits on small, fragile wafers that spread heat poorly, so it has no place in a high-voltage switch.
+P: 4. Idea: Class A power density is the swing times the current over 8. Vmax ≈ 2 × 28 = 56 V. Power density = (56 − 3) × 0.8/8 = 5.3 W/mm. Periphery for 25 W: 25/5.3 = 4.7 mm of gate. Check: at 1 A/mm Section 7.6 found 6.6 W/mm, and 0.8 of that is 5.3. The usual mistake is to use the supply, 28 V, instead of the peak, 56 V, which halves the answer.
+P: 5. The electrons of the 2DEG come from polarization charge at the AlGaN/GaN interface, not from dopant atoms inside the channel, so the sheet can be dense while the well holds almost no ionized impurities to scatter them; Chapter 3's falling mobility comes from those impurities.
+P: 6. Idea: the valence-band step adds to the barrier that holes must climb, so the back-injected hole current falls by the Boltzmann factor. Factor = exp(ΔEv/kT) = exp(0.15/0.026) = exp(5.77) = 320. Check: Worked Example 7.3's 0.20 eV gave 2,190, and every 0.06 eV changes the factor by about ten, so 0.15 eV giving a few hundred is consistent. The usual mistake is to use the whole bandgap difference; only the valence-band part of the step blocks holes.
+P: 7. Idea: conduction loss is I²R with the resistance that applies while the switch conducts. DC value: 10² × 0.070 = 7.0 W. Dynamic value: R = 1.3 × 70 = 91 mΩ, so 10² × 0.091 = 9.1 W, 2.1 W more. Check: 30 % more resistance gives 30 % more loss at the same current. The usual mistake is to size the heat sink with the DC data sheet value, which a hard-switched GaN stage never sees right after turn-off.
 H2: Chapter 8
-P: 1. IS doubles to 3.2×10⁻¹⁶ A, because IS is inversely proportional to WB. The transit time WB²/(2Dn) falls by a factor of four, to 1.25 ps.
-P: 2. α = 150/151 = 0.993. IE = IC/α = 2.0 × 151/150 = 2.013 mA.
-P: 3. VBE = 0.026 ln(10⁻⁴/10⁻¹⁵) = 0.659 V and 0.026 ln(10⁻²/10⁻¹⁵) = 0.778 V, a difference of 120 mV. Two decades of current at about 60 mV per decade.
-P: 4. β is proportional to NE, so the ratio predicts three times the gain. A real device gains less because heavier doping narrows the emitter bandgap and lowers the hole diffusion constant, both of which increase backward injection.
-P: 5. In saturation the forward-biased collector junction stores excess minority charge in the base and collector, and that charge must be removed or recombine before the collector junction can block; in forward-active mode that excess charge was never stored.
-P: 6. Solve (2 + x)/(1 − x/100) = e^(0.1/0.026) = 46.8: 2 + x = 46.8 − 0.468x, so x = 30.5.
-P: 7. It conducts before the collector junction forward-biases deeply, diverting excess base current so little minority charge is stored, and there is less charge to remove at turn-off.
+P: 1. Idea: IS is inversely proportional to the Gummel number NA,B WB, and the transit time grows as WB². Halving WB doubles IS: 2 × 1.6×10⁻¹⁶ = 3.2×10⁻¹⁶ A. The transit time WB²/(2Dn) = (5.0×10⁻⁶)²/(2 × 10) = 1.25×10⁻¹² s = 1.25 ps, a quarter of the 5 ps before. Check: the square law makes thin bases fast, which is why RF transistors chase thin bases; the cost is a lower Early voltage and easier punch-through.
+P: 2. Idea: α = β/(β + 1) and IE = IC + IB. α = 150/151 = 0.9934. IB = 2.0 mA/150 = 13.3 µA, so IE = 2.0133 mA, equally IC/α. Check: α is within 1 % of unity for any useful β, which is why IE ≈ IC is a safe hand approximation.
+P: 3. Idea: VBE = VT ln(IC/IS + 1). At 0.1 mA: 0.026 × ln(10¹¹) = 0.026 × 25.33 = 0.659 V. At 10 mA: 0.026 × ln(10¹³) = 0.026 × 29.93 = 0.778 V. They differ by 120 mV because two decades of current at 59.9 mV per decade is 119.7 mV. The usual mistake is to treat VBE as a fixed 0.7 V and miss that a hundredfold current change moves it by more than a tenth of a volt.
+P: 4. β ∝ NE in the injection ratio, so tripling NE predicts three times the gain. A real device gains less: heavy doping narrows the emitter's bandgap, raising its effective ni² and therefore the backward hole injection, and it lowers the hole diffusion constant and lifetime in the emitter. Above about 10¹⁹ cm⁻³ the gain can even fall, which is one reason the polysilicon emitter and the SiGe base were invented.
+P: 5. In saturation the forward-biased collector junction lets excess minority charge pile up in the base and collector, and that charge must be removed or recombine before the collector junction can block; a transistor held in forward-active mode never stored that excess, so it has less charge to remove and turns off sooner.
+P: 6. Idea: solve the Ebers-Moll formula for βforced. With βR = 1, αR = 0.5 and 1/αR = 2. Set 0.026 ln[(2 + x)/(1 − x/100)] = 0.1, so (2 + x)/(1 − x/100) = e^(3.846) = 46.8. Then 2 + x = 46.8 − 0.468x, which gives 1.468x = 44.8 and x = 30.5. Check: Worked Example 8.3 found 67 mV at 10 and 121 mV at 50, and 0.1 V falls between them. The usual mistake is to forget the βforced/βR term in the numerator.
+P: 7. The Schottky diode turns on at a lower voltage than the collector-base junction, so it diverts the excess base current into the collector before that junction forward-biases deeply. Little minority charge is stored, so there is little to remove at turn-off and the switch recovers quickly.
 H2: Chapter 9
-P: 1. gm = 0.25 mA/26 mV ≈ 9.62 mS; rπ = 120/0.00962 ≈ 12.5 kΩ.
-P: 2. ro = 60 V/0.5 mA = 120 kΩ; gm ro = VA/VT = 60/0.026 ≈ 2310, about 67 dB.
-P: 3. RE = (4.0 − 0.718)/0.986 mA ≈ 3.33 kΩ. ΔIE = 0.100/3330 ≈ 30 µA, about 3.0% instead of 7.8%.
-P: 4. gm = 76.9 mS; Cπ = 0.0769 × 10 ps + 50 fF ≈ 819 fF; fT = 0.0769/(2π × 839 fF) ≈ 14.6 GHz.
-P: 5. gm is proportional to IC and ro is inversely proportional to IC, so their product VA/VT contains no current at all.
-P: 6. −0.0385 × 3.47 kΩ = −134.
-P: 7. So that the base current, which varies with β and temperature, changes the divider's output voltage only slightly; otherwise the bias point follows β.
+P: 1. Idea: gm depends only on the current; rπ adds β. gm = IC/VT = 0.25 mA/26 mV = 9.62 mS. rπ = β/gm = 120/0.00962 = 12.5 kΩ. Check: a quarter of the declared 1 mA gives a quarter of 38.5 mS, and rπ scales as β/IC. The usual mistake is to compute rπ as VT/IB without noticing it is the same thing, then use the wrong β.
+P: 2. Idea: ro = VA/IC and gm ro = VA/VT. ro = 60 V/0.5 mA = 120 kΩ. gm = 0.5 mA/26 mV = 19.2 mS, so gm ro = 19.2 mS × 120 kΩ = 2310, which is 20 log(2310) = 67.3 dB. Check: VA/VT = 60/0.026 = 2308, the same number without the current, as Section 9.4 promised.
+P: 3. Idea: keep IE at 0.986 mA with a larger VB, so the same VBE change is a smaller fraction of the voltage across RE. RE = (4.0 − 0.718)/0.986 mA = 3.33 kΩ. A 100 mV fall in VBE raises IE by 0.100/3330 = 30 µA, which is 3.0 % instead of 7.8 %. Check: the sensitivity is ΔVBE/(VB − VBE), and the denominator grew from 1.28 V to 3.28 V. The cost is 2 V less headroom for the collector swing.
+P: 4. Idea: fT = gm/(2π(Cπ + Cμ)) with Cπ = gm τF + Cje. At 2 mA, gm = 76.9 mS. Cπ = 0.0769 × 10 ps + 50 fF = 819 fF. fT = 0.0769/(2π × 839 fF) = 14.6 GHz. Check: it lies between the 13.5 GHz at 1 mA and the 15.4 GHz at 5 mA of Worked Example 9.4, closing in on the 15.9 GHz transit-time ceiling. The usual mistake is to leave Cμ out of the denominator.
+P: 5. gm rises in proportion to IC while ro = VA/IC falls in the same proportion, so the current cancels from their product, which is VA/VT, set only by the Early voltage and the temperature.
+P: 6. Idea: with the emitter at signal ground the gain is −gm times the collector load. The load is 5.6 kΩ ∥ 10 kΩ ∥ 100 kΩ = 3.47 kΩ. Gain = −0.0385 × 3466 = −133. Check: Worked Example 9.5 with 100 Ω of degeneration gave −27.5; removing the feedback raised the gain about fivefold and tied it to gm, so it now moves with temperature and bias. The usual mistake is to forget the 10 kΩ load and ro in parallel with RC.
+P: 7. The base current flows through the divider's Thevenin resistance and drops a voltage there; if the divider current is ten or more times the base current, that drop, and therefore the change in base voltage when β or temperature moves the base current, stays small, so the bias point does not follow β.
 H2: Chapter 10
-P: 1. Cox = 3.45×10⁻¹³/1.0×10⁻⁷ ≈ 3.45×10⁻⁶ F/cm² ≈ 34.5 fF/µm².
-P: 2. ID = ½ × 200 µA/V² × 10 × 0.16 = 160 µA; gm = 2 × 160 µA/0.4 V = 0.80 mS; gm/ID = 5 V⁻¹. Doubling Vov quadrupled the current but only doubled gm.
-P: 3. VDS < Vov, so it is in triode, where it behaves as a gate-controlled resistor; in bipolar vocabulary this corresponds to saturation.
-P: 4. 120/80 = 1.5 decades, a factor of 10^1.5 ≈ 32.
-P: 5. Once carriers move at a fixed saturated velocity, the current is the channel charge per unit width times that velocity, which does not involve L; shortening the channel only raises the field in a region where velocity can no longer increase.
-P: 6. Vth = 0.45 + 0.40 × (√1.0 − √0.7) = 0.45 + 0.40 × 0.163 = 0.515 V.
-P: 7. The fin is thin and fully depleted, and the gate wraps three sides, so the gate controls the channel charge and the substrate potential has little electrostatic coupling to it.
+P: 1. Idea: Cox = εox/tox, with tox the equivalent oxide thickness. Cox = 3.45×10⁻¹³ F/cm/1.0×10⁻⁷ cm = 3.45×10⁻⁶ F/cm². One µm² is 10⁻⁸ cm², so that is 3.45×10⁻¹⁴ F/µm² = 34.5 fF/µm². Check: half the 2 nm of Worked Example 10.1 doubles its 17.3 fF/µm². The usual mistake is to leave tox in nanometers.
+P: 2. Idea: in saturation ID grows as Vov² and gm as ID/Vov. ID = ½ × 200 µA/V² × 10 × (0.4)² = 160 µA. gm = 2ID/Vov = 2 × 160 µA/0.4 V = 0.80 mS. gm/ID = 2/Vov = 5 V⁻¹. Check: doubling Vov quadrupled the current but only doubled gm, so gm/ID halved from 10 to 5 V⁻¹. High overdrive buys current and speed, not efficiency.
+P: 3. Idea: compare VDS with Vov. VDS = 0.1 V is below Vov = 0.5 V, so the channel is not pinched off and the device is in triode, where it acts as a gate-controlled resistor of about 1/(μnCox (W/L) Vov). In bipolar vocabulary that region corresponds to saturation, the switch's on state. The usual mistake is to carry the word 'saturation' across between the two devices.
+P: 4. Idea: each decade of leakage costs one subthreshold swing of threshold. 120 mV/80 mV per decade = 1.5 decades, so the leakage rises by 10^1.5 = 31.6, about 32 times. Check: at the ideal 60 mV/decade the same shift would cost 100 times; a poorer swing softens the penalty but also gives a weaker on/off ratio for the same supply.
+P: 5. Once carriers travel at the fixed saturation velocity, the current is the channel charge per unit width times vsat, which contains no L; shortening the channel only raises the lateral field in a region where velocity can no longer rise.
+P: 6. Idea: the body effect raises Vth by γ times the change in √(2φF + VSB). Vth = 0.45 + 0.40 × (√(0.70 + 0.30) − √0.70) = 0.45 + 0.40 × (1.000 − 0.837) = 0.45 + 0.065 = 0.515 V. Check: Worked Example 10.4 found 0.637 V at VSB = 1.0 V, and the square root makes the first 0.3 V cost less per volt than the rest. The usual mistake is to omit the 2φF inside the root.
+P: 7. The fin is thin and fully depleted, and the gate wraps three sides of it, so the gate sets the channel potential almost entirely; the substrate has little electrostatic coupling to the channel, so raising the source above the body barely moves the threshold.
 H2: Chapter 11
-P: 1. 3 × (2 × 42 + 6) = 3 × 90 = 270 nm.
-P: 2. 4 × 2 × (25 + 6) = 248 nm.
-P: 3. 50 mV/0.70 V ≈ 71 mV/V.
-P: 4. In a thin channel, every point is close to a gate electrode, so the gate's field sets the potential throughout the channel; the drain's field, which must reach in from the far end, has little channel left to influence.
-P: 5. 4 × (2 × 52 + 7) = 444 nm.
-P: 6. The width is set by the number of fins, each a fixed lithographic structure, so it comes in multiples of the per-fin width.
+P: 1. Idea: each fin contributes two sidewalls and a top, W_eff = N_fin(2H_fin + W_fin). One fin: 2 × 42 + 6 = 90 nm. Three fins: 3 × 90 = 270 nm. Check: fins taller than they are wide get almost all their width from the sidewalls. The usual mistake is to count only the top, 6 nm per fin.
+P: 2. Idea: each sheet is gated on all four sides, W_eff = N_sheet × 2(W_sheet + T_sheet). Per sheet: 2 × (25 + 6) = 62 nm. Four sheets: 248 nm. Check: the thickness counts twice per sheet because the gate covers top and bottom as well as both edges.
+P: 3. Idea: DIBL is the threshold shift divided by the drain-voltage change. ΔVDS = 0.75 − 0.05 = 0.70 V, so DIBL = 50 mV/0.70 V = 71 mV/V. Check: well-controlled FinFETs report a few tens of mV/V and short planar devices above 100 mV/V, so this device sits in between. The usual mistake is to divide by 0.75 V instead of the difference.
+P: 4. In a thin channel every point lies close to a gate electrode, so the gate's field sets the potential throughout the channel, while the drain's field, which must reach in from the far end, finds little channel left to influence.
+P: 5. Idea: the same fin formula. One fin: 2 × 52 + 7 = 111 nm. Four fins: 4 × 111 = 444 nm. Check: at about 1 mA/µm that is roughly 0.44 mA of drive.
+P: 6. The width is set by the number of fins, each a fixed lithographic structure with the same height and width everywhere on the wafer, so the effective width comes only in whole multiples of the per-fin width.
 H2: Chapter 12
-P: 1. IOUT = 200 µA/(1 + 2/50) = 192.3 µA.
-P: 2. 2 × 2 mV/0.15 V = 2.7%.
-P: 3. √(WL) = 4/0.5 = 8 µm, so WL = 64 µm².
-P: 4. gm = 200 µA/26 mV = 7.69 mS; gain = 7.69 mS × 20 kΩ = 154.
-P: 5. VT ln(1.02) = 26 mV × 0.0198 = 0.51 mV.
-P: 6. Edge effects such as diffusion under the gate edge and corner rounding scale with perimeter, not area, so one wide device does not carry exactly four times the current of a narrow one; four copies of the same unit device reproduce every edge effect four times.
-P: 7. Rout ≈ 40 × 100 kΩ = 4 MΩ.
-P: 8. Both stacked transistors must stay in saturation, so the output must stay at least two overdrive voltages (or a threshold plus two overdrives for the basic bias) above the rail instead of one.
+P: 1. Idea: the reference current feeds one collector and two base currents. IOUT = IREF/(1 + 2/β) = 200 µA/(1 + 2/50) = 200/1.04 = 192.3 µA. Check: the error 2/β = 4 % is twice that of the β = 100 mirror in Worked Example 12.1. The usual mistake is to subtract only one base current.
+P: 2. Idea: in saturation a threshold difference becomes a current difference of 2ΔVth/Vov. σ(ΔI/I) = 2 × 2 mV/0.15 V = 0.0267 = 2.7 %. Check: a lower overdrive makes the same threshold mismatch worse, which is why current mirrors that must match are biased at higher Vov than input pairs.
+P: 3. Idea: Pelgrom's law, σ(ΔVth) = AVt/√(WL), solved for area. √(WL) = 4 mV·µm/0.5 mV = 8 µm, so WL = 64 µm², for example 8 µm × 8 µm. Check: an eightfold improvement over a 1 µm² pair needs 64 times the area. The usual mistake is to scale area linearly with the improvement.
+P: 4. Idea: each side runs at half the tail current, and the differential gain is gm RC. IC = 200 µA, gm = 200 µA/26 mV = 7.69 mS, gain = 7.69 mS × 20 kΩ = 154. Check: gm RC equals IC RC/VT = 4 V/0.026 V = 154, the voltage across one load resistor in thermal voltages. The usual mistake is to use the full 400 µA tail current for gm.
+P: 5. Idea: an IS mismatch appears as a VBE offset of VT ln(IS1/IS2). Vos = 0.026 × ln(1.02) = 0.026 × 0.0198 = 0.51 mV. Check: about 0.26 mV per percent of mismatch, as Section 12.2 found for 1 %.
+P: 6. Edge effects such as diffusion under the gate edge, corner rounding, and stress near the ends of a device scale with its perimeter, not its area, so one device four times wider does not carry exactly four times the current, while four copies of the same unit device reproduce every edge effect exactly four times.
+P: 7. Idea: a cascode multiplies the output resistance by the stacked device's intrinsic gain. Rout ≈ gm ro × ro = 40 × 100 kΩ = 4 MΩ. Check: forty times the simple mirror's 100 kΩ. In a bipolar cascode the gain would be capped near β ro.
+P: 8. Both stacked transistors must stay in saturation, so the output must stay at least two overdrive voltages, or a threshold plus two overdrives for the basic bias, above the rail instead of one, and that extra voltage comes out of the signal swing.
 H2: Chapter 13
-P: 1. 180 × 220 = 39,600, which is 92.0 dB.
-P: 2. Cc = 0.25 mS/(2π × 5 MHz) = 7.96 pF.
-P: 3. SR = 40 µA/30 pF = 1.33 V/µs.
-P: 4. SR = 2π × 10 MHz × 0.15 V = 9.4 V/µs.
-P: 5. CL = 4 mS/(2π × 6.6 MHz) = 96 pF.
-P: 6. Each stage's gain gm ro is independent of current because gm rises and ro falls in proportion, but the second pole gm6/(2πCL) moves up with gm6, so a larger load capacitance keeps the same pole frequency.
-P: 7. SR = 20 µA/10 pF = 2 V/µs; f = 2×10⁶/(2π × 5) = 64 kHz.
-P: 8. A JFET has much less transconductance per unit current, so reaching the same gm1, and hence the same GBW, requires more tail current, and slew rate is tail current divided by Cc.
+P: 1. Idea: stage gains multiply, and decibels are 20 log of the product. A₀ = 180 × 220 = 39,600. In decibels, 20 log(39,600) = 20 × 4.598 = 92.0 dB. Check: 45.1 dB plus 46.8 dB is also 92.0 dB, since decibels add when gains multiply. The usual mistake is to use 10 log, which gives 46 dB.
+P: 2. Idea: GBW = gm1/(2πCc), solved for Cc. Cc = 0.25 mS/(2π × 5 MHz) = 2.5×10⁻⁴/3.14×10⁷ = 7.96 pF. Check: Worked Example 13.2 needed 15.9 pF for 0.10 mS at 1 MHz; 2.5 times the gm and 5 times the bandwidth gives 15.9 × 2.5/5 = 7.96 pF.
+P: 3. Idea: the whole tail current charges Cc during a large step, SR = IEE/Cc. SR = 40 µA/30 pF = 1.33×10⁶ V/s = 1.33 V/µs. Check: the 741 has about 19 µA into the same 30 pF and slews about 0.5 to 0.6 V/µs, so twice the current gives about twice the rate. The usual mistake is to use the current of one input transistor instead of the tail.
+P: 4. Idea: SR = 2π GBW × (IEE/gm1), and for a MOS pair IEE/gm1 = Vov. SR = 2π × 10×10⁶ × 0.15 = 9.42×10⁶ V/s = 9.4 V/µs. Check: a bipolar pair would have IEE/gm1 = 52 mV and slew only 3.3 V/µs at the same GBW.
+P: 5. Idea: the second pole gm6/(2πCL) must sit at 2.2 × GBW = 6.6 MHz. CL = gm6/(2π × 6.6 MHz) = 4 mS/4.15×10⁷ = 96 pF. Check: Worked Example 13.4 allowed 72 pF for 1 mS at 2.2 MHz; four times the gm at three times the frequency allows 72 × 4/3 = 96 pF.
+P: 6. Each stage's gain gm ro/2 does not depend on current, because at fixed overdrive gm doubles while ro = 1/(λ ID) halves; but the second pole gm6/(2πCL) moves up with gm6, so a load capacitance twice as large leaves that pole where it was.
+P: 7. Idea: SR = IEE/Cc, and full-power bandwidth is SR/(2πVp). SR = 20 µA/10 pF = 2 V/µs. f = 2×10⁶/(2π × 5) = 63.7 kHz. Check: a 5 V peak sine at 63.7 kHz has a maximum slope of 2π × 63.7×10³ × 5 = 2.0 V/µs, exactly the slew rate. The usual mistake is to use the peak-to-peak amplitude, which halves the answer.
+P: 8. A JFET has much less transconductance per unit of current than a bipolar transistor, so it must run at more tail current to reach the same gm1 and hence the same GBW, and the slew rate IEE/Cc rises with that current.
 H2: Chapter 14
-P: 1. √(2 × 1.602 × 10⁻¹⁹ × 10⁻⁴) = 5.7 pA/√Hz.
-P: 2. en = 26 mV × √(3.20 × 10⁻¹⁹/10⁻⁴) = 1.47 nV/√Hz.
-P: 3. rπ = 200 × 26 Ω = 5.2 kΩ; rπ/√β = 5.2 kΩ/14.1 = 368 Ω.
-P: 4. √(1.60 × 10⁻²⁰ × 0.667/0.004) = 1.6 nV/√Hz.
-P: 5. 8 × √(1 + 100) = 80 nV/√Hz.
-P: 6. At 10 MΩ, a bipolar input's current noise of order 1 pA/√Hz produces 10 µV/√Hz in the source resistance, far above any voltage noise, while a CMOS input's femtoampere current noise produces only nanovolts; the source resistance's own thermal noise, about 400 nV/√Hz, then dominates.
-P: 7. Ropt = 3×10⁻⁹/0.4×10⁻¹² = 7.5 kΩ.
-P: 8. in Rs = 0.7 pA × 1 MΩ = 700 nV/√Hz, far above en = 5 nV/√Hz and the source's own √(1.6×10⁻²⁰ × 10⁶) = 126 nV/√Hz; the current noise dominates.
+P: 1. Idea: shot noise density is √(2qI). √(2 × 1.602×10⁻¹⁹ × 10⁻⁴) = √(3.20×10⁻²³) = 5.66×10⁻¹² A/√Hz = 5.7 pA/√Hz. Check: a tenth of Worked Example 14.1's 1 mA gives 17.9/√10 = 5.7 pA/√Hz. The usual mistake is to forget the factor of 2.
+P: 2. Idea: the collector shot noise referred through gm gives en = VT √(2q/IC). en = 0.026 × √(2 × 1.602×10⁻¹⁹/10⁻⁴) = 0.026 × 5.66×10⁻⁸ = 1.47 nV/√Hz. Check: a tenth of the current of Worked Example 14.2 raises its 0.47 nV/√Hz by √10. Lower current means higher voltage noise and lower current noise.
+P: 3. Idea: Ropt = en/in = rπ/√β. rπ = β/gm = 200 × 26 Ω = 5.2 kΩ. √200 = 14.1, so Ropt = 5.2 kΩ/14.1 = 368 Ω. Check: the β = 100 transistor of Worked Example 14.2 had 260 Ω; a higher β lowers the base-current noise and raises Ropt as √β.
+P: 4. Idea: en² = 4kTγ/gm. en = √(1.60×10⁻²⁰ × 0.667/4×10⁻³) = √(2.67×10⁻¹⁸) = 1.63 nV/√Hz. Check: ten times the gm of Worked Example 14.3 divides its 5.2 nV/√Hz by √10. The usual mistake is to use the 26 mV thermal voltage in place of 4kT.
+P: 5. Idea: below the corner the density is en,white √(1 + fc/f). At 2 Hz: 8 × √(1 + 200/2) = 8 × √101 = 80 nV/√Hz. Check: two decades below the corner, the flicker power is 100 times the white power and the density ten times the white density. The usual mistake is to scale the density by fc/f instead of its square root.
+P: 6. At 10 MΩ the input current noise flowing in the source dominates: a bipolar input's roughly 1 pA/√Hz becomes 10 µV/√Hz, far above any voltage noise, while a CMOS input's femtoampere current noise becomes only nanovolts, leaving the source's own 400 nV/√Hz thermal noise in charge.
+P: 7. Idea: Ropt = en/in. Ropt = 3×10⁻⁹/0.4×10⁻¹² = 7.5 kΩ. Check: at 7.5 kΩ the in Rs term is 0.4 pA × 7.5 kΩ = 3 nV/√Hz, equal to en, as the definition requires.
+P: 8. Idea: compare the three terms at Rs = 1 MΩ. en = 5 nV/√Hz. in Rs = 0.7 pA/√Hz × 1 MΩ = 700 nV/√Hz. Source thermal noise = √(1.60×10⁻²⁰ × 10⁶) = 126 nV/√Hz. The current-noise term dominates, by a factor of 5.5 over the source itself. Check: Rs is 140 times the NE5532's Ropt of 7 kΩ, deep into the region where current noise wins; a FET-input part belongs here.
 H2: Chapter 15
-P: 1. (W/L)p/(W/L)n = 2.5.
-P: 2. tp = 3 fF × 0.75 V/(2 × 60 µA) = 18.8 ps.
-P: 3. 0.15 × 5 × 10⁻⁹ × 0.81 × 1.5 × 10⁹ = 0.91 W.
-P: 4. (0.7/1.0)² = 0.49, so 51% is saved.
-P: 5. 150/75 = 2 decades, so leakage falls to 0.5/100 = 5 mW.
-P: 6. Charging a capacitor to VDD through any resistance dissipates ½CV² in that resistance, because a smaller resistance carries a larger current for a shorter time and the product is fixed; the resistance sets the speed, not the energy.
-P: 7. P = 5×10⁻⁹ × 0.64 × 1.5×10⁹ = 4.8 W; the energy per cycle is unchanged at 3.2 nJ.
-P: 8. The cycle time grows exponentially below threshold, and the leakage current flows for the whole longer cycle, so leakage energy per operation grows until it outweighs the CV² savings.
+P: 1. Idea: equal pull-up and pull-down strength needs the PMOS width ratio to make up the mobility ratio. (W/L)p/(W/L)n = μn/μp = 2.5. Check: with the book's working mobilities the ratio was 2.08; a larger mobility gap needs a wider PMOS. In FinFET processes strain narrows the gap and ratios near 1 to 1.5 are common.
+P: 2. Idea: tp ≈ CL VDD/(2Ion), the charge for half the swing over the on-current. tp = 3×10⁻¹⁵ × 0.75/(2 × 60×10⁻⁶) = 2.25×10⁻¹⁵/1.2×10⁻⁴ = 18.8 ps. Check: Worked Example 15.2 had 8 ps for 1 fF at 0.8 V and 50 µA; three times the load, slightly less voltage, and 20 % more current give 8 × 3 × (0.75/0.8)/1.2 = 18.8 ps.
+P: 3. Idea: Pdyn = α C VDD² f. Pdyn = 0.15 × 5×10⁻⁹ × 0.81 × 1.5×10⁹ = 0.91 W. Check: αC = 0.75 nF switched per cycle, times 0.81 V² gives 0.61 nJ per cycle, and 1.5 billion cycles a second gives 0.91 W. The usual mistake is to use VDD instead of VDD².
+P: 4. Idea: energy per transition scales as VDD². (0.7/1.0)² = 0.49, so 51 % of the energy is saved. Check: a 30 % voltage cut halves the energy, the reason voltage is the first power knob. The usual mistake is to report 30 %.
+P: 5. Idea: off-current falls one decade per subthreshold swing of extra threshold. 150 mV/75 mV per decade = 2 decades, a factor of 100. Leakage falls to 0.5 W/100 = 5 mW. Check: Worked Example 15.4 went the other way, one swing lower and ten times the leakage. The price of the higher threshold is speed.
+P: 6. Charging a capacitor to VDD through any resistance dissipates ½CVDD² in that resistance, because a smaller resistance carries a larger current for a shorter time and the integral of I²R is fixed; the resistance sets the speed of the transition, not its energy.
+P: 7. Idea: power scales with frequency at fixed voltage, energy per cycle does not. P = 5×10⁻⁹ × 0.64 × 1.5×10⁹ = 4.8 W, half of the 9.6 W at 3.0 GHz. E = 5×10⁻⁹ × 0.64 = 3.2 nJ per cycle, unchanged. Check: the 0.65 V, 2.0 GHz point of Worked Example 15.5 used 4.2 W and only 2.1 nJ per cycle, so lowering the voltage beats halving the clock.
+P: 8. Below threshold the gate delay, and therefore the cycle time, grows exponentially as the supply falls, and every off transistor leaks for the whole longer cycle, so the leakage energy per operation grows until it outweighs the CV² savings.
 H2: Chapter 16
-P: 1. ΔVbl = 0.55 × 15/105 = 78.6 mV.
-P: 2. I = 15 fF × 0.2 V/32 ms = 94 fA.
-P: 3. N = 0.2 × 10⁻¹⁵ × 0.5/1.602 × 10⁻¹⁹ = 624 electrons.
-P: 4. Four levels have three spaces, so 5/3 = 1.67 V.
-P: 5. 0.9 × 0.2/1.2 = 0.15 V.
-P: 6. Charge sharing with the bit line leaves the DRAM cell at nearly the bit-line voltage, so its stored value is lost and must be restored; an SRAM cell's latch actively holds its state through a correctly sized read and restores its own nodes.
-P: 7. 64 ms/8192 = 7.8 µs, the standard tREFI interval.
-P: 8. It is nonvolatile like flash but writes much faster, has far higher endurance, and is built in the back-end metal layers of a logic process with only a few added masks.
+P: 1. Idea: charge sharing moves the bit line by the cell's excess voltage times Cs/(Cs + Cbl). ΔVbl = (1.1 − 0.55) × 15/(15 + 90) = 0.55 × 0.1429 = 78.6 mV. Check: Worked Example 16.2 gave 83 mV with a ratio of 20/120; a smaller ratio here is offset by the larger stored voltage. The usual mistake is to use the full 1.1 V instead of the difference from the precharge level.
+P: 2. Idea: a constant leakage drains the cell at I/Cs, so I = Cs ΔV/t. I = 15×10⁻¹⁵ × 0.2/0.032 = 9.4×10⁻¹⁴ A = 94 fA. Check: the result is in femtoamperes, the same order as Worked Example 16.2's 47 fA; a picoampere answer means a unit slipped.
+P: 3. Idea: ΔVth = Q/Ccg, so N = Ccg ΔVth/q. N = 0.2×10⁻¹⁵ × 0.5/1.602×10⁻¹⁹ = 624 electrons. Check: twice the coupling of Worked Example 16.3 at half the threshold shift gives the same 624 electrons.
+P: 4. Idea: n levels have n − 1 gaps. Two bits per cell is four levels and three gaps, so the spacing is 5 V/3 = 1.67 V. Check: TLC in a 6 V window had 0.86 V, and each extra bit roughly halves the spacing. The usual mistake is to divide by four.
+P: 5. Idea: the access and pull-down transistors form a divider on the node that holds zero. V = 0.9 × 0.2/1.2 = 0.15 V. Check: the node rose only 0.15 V, well below a typical inverter switching threshold near 0.4 V, so the read does not flip the cell.
+P: 6. Charge sharing with the large bit line leaves the DRAM cell at nearly the bit-line voltage, so its stored value is lost and must be written back; an SRAM cell's cross-coupled inverters actively hold their state through a correctly sized read and restore their own nodes.
+P: 7. Idea: the refresh commands must be spread evenly over the interval. 64 ms/8192 = 7.8 µs between commands, the standard tREFI. Check: the capacity does not enter, because each command refreshes a group of rows across all banks; larger devices refresh more rows per command, which makes each command take longer.
+P: 8. STT-MRAM is nonvolatile like flash but writes far faster at low voltage, has much higher endurance, and is built in the back-end metal layers of a logic process with only a few added masks, so it fits on advanced microcontroller nodes where embedded flash no longer scales.
 H2: Chapter 17
-P: 1. 8000/1500 = 5.33 A.
-P: 2. ½ × 100 pF × (4000)² = 0.8 mJ.
-P: 3. 0.5/0.025 = 20 Ω.
-P: 4. exp((0.7/8.617 × 10⁻⁵)(1/358.15 − 1/378.15)) = 3.3, so the life falls to about 30%.
-P: 5. 5 × 10^0.2 = 7.9 mV.
-P: 6. The protection clamp holds the pin at a few volts while the capacitor starts at kilovolts, so almost all of the voltage, and therefore almost all of the I²R energy, appears across the 1.5 kΩ resistor in series.
-P: 7. Q = 0.8 fC, or 0.8×10⁻¹⁵/1.602×10⁻¹⁹ ≈ 5,000 electrons.
-P: 8. 16 × 500 × 10 = 80,000 FIT, one upset about every 12,500 hours.
+P: 1. Idea: in the human-body model the 1.5 kΩ resistor sets the peak current. Ipeak = 8000/1500 = 5.33 A. Check: four times the 2 kV case of Worked Example 17.1 gives 4 × 1.33 = 5.33 A. The protection network must carry this for a time constant of 150 ns without its metal or junctions melting.
+P: 2. Idea: the stored energy is ½CV². E = ½ × 100×10⁻¹² × (4000)² = 0.8 mJ. Check: twice the voltage of Worked Example 17.1 stores four times its 0.2 mJ. The usual mistake is to use 100 nF and get an answer a thousand times too large.
+P: 3. Idea: the injected current develops I R across the substrate, which must stay below the emitter's turn-on. R ≤ 0.5 V/25 mA = 20 Ω. Check: Worked Example 17.2 allowed 60 Ω for 10 mA at 0.6 V; more current and a stricter voltage shrink the allowance. Twenty ohms means substrate contacts very close to the injecting device.
+P: 4. Idea: Black's equation gives a temperature factor exp[(Ea/k)(1/T1 − 1/T2)]. With T1 = 358.15 K and T2 = 378.15 K: (0.7/8.617×10⁻⁵) × (1/358.15 − 1/378.15) = 8123 × 1.477×10⁻⁴ = 1.20, and e^1.20 = 3.3. The life at 105 °C is about 1/3.3 = 30 % of the life at 85 °C. Check: Worked Example 17.3 found a factor of 4.0 for 20 °C with Ea = 0.9 eV; a lower activation energy is less temperature sensitive. The usual mistake is to use Celsius in the exponent.
+P: 5. Idea: ΔVth ∝ t^0.2, so ten times the time multiplies the shift by 10^0.2. 5 mV × 1.585 = 7.9 mV. Check: most of the ten-year drift happens early; the first year already delivered 63 % of it.
+P: 6. The protection clamp holds the pin at a few volts while the capacitor starts at kilovolts, so nearly all the voltage, and therefore nearly all of the I²R energy, appears across the 1.5 kΩ resistor in series.
+P: 7. Idea: the critical charge is roughly C V, converted to electrons. Q = 1×10⁻¹⁵ × 0.8 = 0.8 fC. N = 0.8×10⁻¹⁵/1.602×10⁻¹⁹ = 4990, about 5000 electrons. Check: a 5 MeV alpha particle frees 1.4 million pairs, so collecting under 0.4 % of them is enough to flip this node.
+P: 8. Idea: FIT rates add across bits. At sea level: 16 × 500 = 8000 FIT. At 10 km, ten times that: 80,000 FIT, which is 8×10⁻⁵ upsets per hour, one about every 12,500 hours, or 1.4 years. Check: for a fleet of 1000 aircraft that is about two upsets a day, so avionics memory needs error correction.
+P: 9. Idea: every 0.1 V lower multiplies the life by ten, while the area and failure-fraction factors of Worked Example 17.6 stay the same. From 1.8 V, where 0.01 % fail after 2.15 h, to 1.5 V is 0.3 V, a factor of 10³: 2.15 h × 1000 = 2,150 h, about three months. Check: still far short of ten years, consistent with the 1.34 V limit of the worked example. The usual mistake is to quote the test capacitor's 63 % life, 10⁸ h at 1.5 V, as if it applied to a whole chip.
+P: 10. Idea: power-law aging scales as (t2/t1)^n. ΔVth = 8 mV × (10,000/100)^0.5 = 8 × 10 = 80 mV. Check: an exponent of 0.5 means every factor of 100 in time multiplies the shift by ten. The usual mistake is to scale linearly, which would give 800 mV, an impossible shift for a working transistor.
 H2: Chapter 18
-P: 1. L = √(12.48 × 10⁻⁷) cm = 1.12 × 10⁻³ cm = 11.2 µm.
-P: 2. 1240/625 = 1.98 eV.
-P: 3. No. 1550 nm corresponds to 1240/1550 = 0.80 eV, below silicon's 1.12 eV gap, so the photons pass through without creating carriers; InGaAs or germanium is used.
-P: 4. R = 0.8 × 850/1240 = 0.55 A/W; I = 5.5 µA.
-P: 5. hν = 1240/630 = 1.97 eV; Popt = 0.35 × 0.030 × 1.97 = 20.7 mW; input 63 mW; ηwall = 33%.
-P: 6. Voc rises by VT ln 10 = 60 mV, to 0.68 V.
-P: 7. Cin = 75 pF, so f ≈ √(10⁷/(2π × 10⁵ × 75×10⁻¹²)) = 460 kHz.
-P: 8. Negative feedback keeps the inverting input at the same voltage as the non-inverting input, so the photodiode's terminal voltage stays constant and its capacitance carries almost no signal current.
+P: 1. Idea: L = √(Dτ). Lp = √(12.48 × 100×10⁻⁹) cm = √(1.248×10⁻⁶) cm = 1.12×10⁻³ cm = 11.2 µm. Check: a hundred times shorter lifetime than Worked Example 18.1's 10 µs gives a diffusion length ten times shorter than its 112 µm. The usual mistake is to forget that D is in cm²/s, so L comes out in centimeters.
+P: 2. Idea: E (eV) ≈ 1240/λ (nm). E = 1240/625 = 1.98 eV. Check: red light near 2 eV matches the 1.8 to 2.2 V forward voltage of a red LED quoted in Section 18.3.
+P: 3. No. A 1550 nm photon carries 1240/1550 = 0.80 eV, less than silicon's 1.12 eV gap, so it cannot lift an electron across the gap and passes through silicon unabsorbed. Silicon stops responding near 1100 nm. InGaAs on InP, with a gap near 0.75 eV, or germanium, near 0.66 eV, is used instead.
+P: 4. Idea: responsivity is η λ/1240 in A/W. R = 0.8 × 850/1240 = 0.548 A/W. I = 0.548 × 10 µW = 5.5 µA. Check: each 1.46 eV photon that is collected gives one electron, so 1 W of photons at 1.46 eV each could give at most 1/1.46 = 0.685 A, and 80 % of that is 0.548 A/W.
+P: 5. Idea: optical power is EQE times the electron rate times the photon energy. hν = 1240/630 = 1.97 eV. Popt = 0.35 × 0.030 A × 1.97 V = 20.7 mW. Electrical input = 0.030 × 2.1 = 63 mW. ηwall = 20.7/63 = 33 %. Check: the wall-plug efficiency is EQE times hν/(qVF) = 0.35 × 1.97/2.1 = 0.33. The remaining 42 mW heats the junction.
+P: 6. Idea: Voc = VT ln(IL/IS + 1), so ten times the light adds VT ln 10. ΔVoc = 0.026 × 2.303 = 60 mV, so Voc ≈ 0.68 V. Check: Worked Example 18.5 found 18 mV for a factor of 2, and ln 10/ln 2 = 3.3 times that is 60 mV.
+P: 7. Idea: the bandwidth scales as 1/√Cin. Cin = 70 + 5 = 75 pF. f−3dB ≈ √(10⁷/(2π × 10⁵ × 75×10⁻¹²)) = √(2.12×10¹¹) = 460 kHz. Check: 2.5 times the capacitance of Worked Example 18.6 divides its 730 kHz by √2.5 = 1.58. Reverse bias was worth more than half again in speed.
+P: 8. Negative feedback forces the inverting input to the same voltage as the non-inverting input, a virtual ground, so the photodiode's terminal voltage stays constant; its capacitance then carries almost no signal current and all the photocurrent flows through Rf.
 H2: Chapter 19
-P: 1. ND = 2.9 × 10¹⁵ cm⁻³; W = 6.7 µm; Ron,sp = 1.43 mΩ·cm².
-P: 2. Ron,sp ∝ BV², so it rises by 2² = 4.
-P: 3. Ron,sp ∝ 1/Ec³, so material A has 1/27 of the resistance of material B.
-P: 4. α₁ + α₂ = 0.85 < 1, so it is not latched. A gate current, or a current rise that increases both gains, must bring the sum to 1.
-P: 5. 0.9 × 40 + 0.015 × 1600 = 36 + 24 = 60 W.
-P: 6. The IGBT conducts by flooding its drift region with injected holes, which must recombine or be swept out after the channel turns off, while a MOSFET's current is carried by majority electrons alone, which stop when the channel closes.
-P: 7. Si 225 × 0.126 = 28.4 W; SiC 225 × 0.075 = 16.9 W; GaN 225 × 0.080 = 18.0 W.
-P: 8. Its body diode stores a large minority charge and recovers slowly, so when the opposite switch turns on and forces the diode off, the recovery current causes large losses and stress.
+P: 1. Idea: the drift-region design equations of Section 19.2. ND = εs Ec²/(2qBV) = 1.036×10⁻¹² × 9×10¹⁰/(2 × 1.602×10⁻¹⁹ × 100) = 2.9×10¹⁵ cm⁻³. W = 2BV/Ec = 200/3×10⁵ = 6.7×10⁻⁴ cm = 6.7 µm. Ron,sp = W/(q μn ND) = 6.67×10⁻⁴/(1.602×10⁻¹⁹ × 1000 × 2.91×10¹⁵) = 1.43 mΩ·cm². Check: the square law predicts 51 × (100/600)² = 1.43 mΩ·cm². The usual mistake is to keep the 600 V doping and only change the width.
+P: 2. Idea: Ron,sp ∝ BV². Doubling the blocking voltage multiplies it by 2² = 4, from 51 to about 206 mΩ·cm². Check: the doping halves and the width doubles, and both raise the resistance.
+P: 3. Idea: Ron,sp ∝ 1/Ec³ at fixed voltage, permittivity, and mobility. A field three times higher gives 1/3³ = 1/27 of the resistance. Check: this cubic dependence is why the tenfold field of the wide-gap materials buys about a thousandfold, reduced by their lower mobility and permittivity.
+P: 4. Idea: the regenerative loop latches when α₁ + α₂ reaches 1. Here 0.45 + 0.40 = 0.85 < 1, so it is not latched. A gate current, or a rise in the anode current that increases both gains, must bring the sum to 1; once there, the loop holds itself on until the current falls below the holding current.
+P: 5. Idea: the IGBT's on-state is a fixed junction drop plus a resistance. P = VCE0 I + rCE I² = 0.9 × 40 + 0.015 × 1600 = 36 + 24 = 60 W. Check: the fixed-drop term grows linearly and the resistive term quadratically, so at this current they are comparable; a MOSFET would need below 37.5 mΩ to match it.
+P: 6. The IGBT conducts by flooding its drift region with injected holes, which must recombine or be swept out after the channel turns off, while a MOSFET's current is carried by majority electrons alone, which stop as soon as the channel closes.
+P: 7. Idea: I²R at the hot resistance. I² = 225. Si: 225 × 0.126 = 28.4 W. SiC: 225 × 0.075 = 16.9 W. GaN: 225 × 0.080 = 18.0 W. Check: each is 2.25 times its value at 10 A, and the ranking is unchanged; the SiC part still wins conduction because of its flat temperature curve.
+P: 8. Its body diode stores a large minority charge and recovers slowly, so when the opposite switch turns on and forces that diode off while it is conducting, the reverse-recovery current causes large losses and voltage stress in both devices.
 H2: Chapter 20
-P: 1. About 8.8 nm.
-P: 2. 1.42 × 10⁻¹³ cm²/s.
-P: 3. 2√(1.42 × 10⁻¹³ × 3600) cm = 0.45 µm.
-P: 4. 10¹⁸ cm⁻³.
-P: 5. 0.3 × 13.5/0.33 = 12.3 nm.
-P: 6. 193 nm immersion lithography could not print features below about 40 nm half-pitch in one exposure, so smaller pitches were split across several aligned exposures until EUV tools reached production.
-P: 7. Y = e^(−0.4) = 0.67.
-P: 8. Yield falls exponentially with area, so small dice each have a much higher chance of being defect-free, and the defective ones are discarded individually before assembly instead of taking a whole large die with them.
+P: 1. Idea: about 44 nm of silicon is consumed for every 100 nm of oxide grown. 20 × 0.44 = 8.8 nm. Check: the oxide grows partly into the wafer and partly above the original surface, 56 % above and 44 % below, because silicon dioxide is less dense in silicon atoms than the crystal.
+P: 2. Idea: Arrhenius law D = D0 exp(−Ea/kT). At 1373.15 K, kT = 8.617×10⁻⁵ × 1373.15 = 0.1183 eV, so Ea/kT = 3.5/0.1183 = 29.58, and D = 1.0 × e^(−29.58) = 1.42×10⁻¹³ cm²/s. Check: 100 °C hotter than Worked Example 20.1's 1000 °C raised D about tenfold. The usual mistake is to use Celsius in kT.
+P: 3. Idea: the profile spreads by about 2√(Dt). Dt = 1.42×10⁻¹³ × 3600 = 5.11×10⁻¹⁰ cm², √ = 2.26×10⁻⁵ cm, so 2√(Dt) = 4.5×10⁻⁵ cm = 0.45 µm. Check: an hour at 1100 °C moves boron almost half a micrometer, enough to wreck a modern junction; this is the thermal budget Section 20.2 warns about.
+P: 4. Idea: average concentration is dose over depth. 5×10¹³ cm⁻²/5×10⁻⁵ cm = 1.0×10¹⁸ cm⁻³. Check the units: 0.5 µm = 5×10⁻⁵ cm, and cm⁻² over cm gives cm⁻³.
+P: 5. Idea: R = k1 λ/NA. R = 0.3 × 13.5/0.33 = 12.3 nm. Check: k1 = 0.4 gave 16.4 nm in Worked Example 20.3, so a more aggressive process factor buys a quarter less pitch on the same tool.
+P: 6. 193 nm immersion lithography could not print features below about 40 nm half-pitch in one exposure, and EUV tools were years late reaching production, so the industry split each fine layer into two to four aligned exposures, at the cost of more masks, more steps, and tighter overlay.
+P: 7. Idea: Poisson yield Y = e^(−A D0). A D0 = 2.0 × 0.2 = 0.4, so Y = e^(−0.4) = 0.67. Check: on average 0.4 defects land on each die, and the fraction of dice with none is 67 %.
+P: 8. Yield falls exponentially with area, so each small die has a much higher chance of being defect-free, and the defective small dice are discarded individually before assembly instead of one defect scrapping a whole large die.
 H2: Chapter 21
-P: 1. 1.62 µm.
-P: 2. 0.5 µm.
-P: 3. About 148 MHz.
-P: 4. √1.05 = 1.0247.
-P: 5. Sound in these materials travels tens of thousands of times slower than light, so its wavelength at the same frequency is that much shorter.
-P: 6. It raises the piezoelectric coupling, which increases the spacing between the series and parallel resonances that bounds the filter bandwidth.
-P: 7. 0.0263 × 1900 = 50 MHz.
-P: 8. At 24 % fractional bandwidth it is roughly ten times wider than the resonance spacing a BAW material provides, so a ladder cannot pass it; wider-coupling resonators or lumped filters are used instead.
+P: 1. Idea: the film is half an acoustic wavelength thick, t = v/(2f). t = 11,350/(2 × 3.5×10⁹) = 1.62×10⁻⁶ m = 1.62 µm. Check: Worked Example 21.1 gave 2.32 µm at 2.45 GHz, and 2.32 × 2.45/3.5 = 1.62. Real films are thinner still, because the electrodes add mass.
+P: 2. Idea: the electrode period is one acoustic wavelength, and a finger is a quarter of it. λ = v/f = 4000/2×10⁹ = 2 µm, so the finger width is 0.5 µm. Check: half the 1 µm finger of a 1 GHz device, as Section 21.4 gave; at 5 GHz the fingers would be 0.2 µm, the reason SAW yields to BAW at high frequency.
+P: 3. Idea: (fp − fs)/fp = (4/π²) kt². The fraction is 0.10 × 4/π² = 0.0405, so fp = 3.5/(1 − 0.0405) = 3.648 GHz and the spacing is 148 MHz. Check: the shortcut 0.0405 × 3.5 GHz = 142 MHz uses fs in place of fp and is 4 % low. The usual mistake is to take kt² itself, 10 %, as the fractional spacing.
+P: 4. Idea: fp = fs √(1 + Cm/C0). fp/fs = √1.05 = 1.0247, so the parallel resonance sits 2.5 % above the series one. Check: Worked Example 21.2 had Cm/C0 = 0.055 for a 2.7 % spacing.
+P: 5. Sound in these materials travels tens of thousands of times slower than light, so at the same frequency its wavelength is tens of thousands of times shorter, and a resonator sized in acoustic half-wavelengths is micrometers instead of centimeters.
+P: 6. Scandium softens the lattice and raises the piezoelectric response, which raises the coupling kt², and the coupling sets the spacing between the series and parallel resonances that bounds a ladder filter's bandwidth.
+P: 7. Idea: the spacing is about (4/π²) kt² of the frequency. 0.0263 × 1900 MHz = 50 MHz. Check: the PCS band near 1.9 GHz needs 60 MHz plus guard band per direction, so a pure AlN ladder is marginal there too; band filters use careful design or higher-coupling films.
+P: 8. At 24 % fractional bandwidth it is roughly ten times wider than the resonance spacing a BAW film provides, so a ladder cannot pass it; laterally excited resonators in lithium niobate, lumped LC filters, or splitting the band are used instead.
+P: 9. Idea: the electrode period of a SAW transducer is one acoustic wavelength. λ = v/f = 3,158/(433.92×10⁶) = 7.28 µm, so the fingers are about 1.82 µm wide. Check: features this large are easy to print, one reason quartz SAW resonators for 433 MHz remote controls cost so little. The usual mistake is to apply the BAW rule f = v/(2t), which describes a thickness, not an electrode period.
+P: 10. Idea: compare the needed fractional bandwidth with each material's resonance spacing, (4/π²) k². Needed: 100/5,000 = 2.0 %. AlN gives 2.6 %, too little once temperature drift and a ladder's narrower usable passband are counted. AlScN at 13 % gives 5.3 %, ample, and a thin-film lithium niobate XBAR offers more. SAW is ruled out at 5 GHz by sub-quarter-micrometer fingers and limited power handling. Choose an AlScN BAW, or an XBAR if the band grows. Check: Worked Example 21.3 reached the same verdict at 3.5 GHz.
 H2: Chapter 22
-P: 1. 0.06/(0.026 × ln 10) = 1.00.
-P: 2. 3/√0.1 = 9.5 mV.
-P: 3. 9 µm².
-P: 4. 99.73%.
-P: 5. The simulator solves the circuit by Newton iteration, which fails to converge if currents or their derivatives jump between regions.
-P: 6. A memory has millions or billions of identical cells, and all must work, so the per-cell failure probability must be extremely small.
-P: 7. 2Q(3) = 0.27 %.
-P: 8. Four times the area, since σ scales as 1/√(WL).
+P: 1. Idea: n is the measured voltage per decade divided by the ideal 59.9 mV. n = 0.06/(0.026 × ln 10) = 0.06/0.0599 = 1.00. Check: one decade of current for 60 mV is the ideal diffusion law, so this diode sits in its ideal mid-current window. The usual mistake is to use log base 10 without the ln 10 factor and get n = 2.3.
+P: 2. Idea: Pelgrom's law, σ(ΔVt) = AVt/√(WL). WL = 0.5 × 0.2 = 0.1 µm², √0.1 = 0.316 µm, so σ = 3/0.316 = 9.5 mV. Check: a tenth of the area of a 1 µm² pair gives √10 = 3.16 times its 3 mV.
+P: 3. Idea: solve Pelgrom's law for area. √(WL) = AVt/σ = 3 mV·µm/1 mV = 3 µm, so WL = 9 µm², for example 3 µm × 3 µm. Check: a threefold improvement over a 1 µm² pair needs nine times the area.
+P: 4. Idea: a Gaussian keeps 1 − 2Q(3) inside ±3σ. 1 − 2 × 1.35×10⁻³ = 0.9973, so 99.73 % of parts lie inside. Check: 0.27 % outside, about one part in 370.
+P: 5. The simulator solves the circuit by Newton iteration, which needs continuous currents and continuous derivatives; a jump or a kink between regions makes the iteration oscillate or fail to converge, and it also gives wrong small-signal values such as gm at the region boundary.
+P: 6. A memory has millions or billions of identical cells and all of them must work, so the failure probability of each cell must be extremely small, below about 10⁻⁸ for a 128 Mbit array, which is near 5.7σ; 3σ would leave hundreds of thousands of failing cells.
+P: 7. Idea: a two-sided spec at ±3σ fails 2Q(3). 2 × 1.35×10⁻³ = 2.7×10⁻³ = 0.27 %, about 2700 parts per million. Check: Problem 4 found 99.73 % inside, the complement.
+P: 8. Idea: σ ∝ 1/√(WL), so halving σ needs √(WL) doubled. Four times the gate area halves σ. Check: Problem 3 found nine times the area for a third of the σ, the same square law.
+H2: Chapter 23
+P: 1. Idea: invert the diode law. V = N VT ln(I/Is) = 1.8 × 0.026 × ln(10⁻³/3×10⁻⁹) = 0.0468 × 12.72 = 0.595 V. Check: a large N spreads the exponential, and a large Is lowers the curve, so this diode reaches 1 mA below the roughly 0.65 V of a near-ideal small-signal diode. The usual mistake is to use log10 instead of ln.
+P: 2. Idea: two points on the straight part of the log curve give the slope and the intercept. N = ΔV/(VT ln(I2/I1)) = 0.07/(0.026 × 2.303) = 1.17. Is = I1 exp(−V1/(N VT)) = 10⁻⁴ × exp(−0.55/(1.17 × 0.026)) = 10⁻⁴ × exp(−18.10) = 1.39×10⁻¹² A. Check: the second point, 1.39×10⁻¹² × exp(0.62/0.0304) = 1.0 mA, is reproduced. The usual mistake is to fit Is first with N = 1, which forces the wrong slope.
+P: 3. Idea: the residual at high current is what Rs absorbs in a level 1 card. Matching 0.95 V needs 0.15 V across Rs at 200 mA, so Rs = 0.15/0.2 = 0.75 Ω, which moves the 10 mA point by only 2.5 mV. Raising Rs can still be the wrong fix: the extra drop may come from high injection, which a level 1 card cannot represent and which bends the curve differently at other currents, or from fixture and lead resistance in a measurement made without Kelvin connections, in which case the part itself is better than the bench suggests. Check the fixture first, then decide whether the card needs a high-injection term. The usual mistake is to tune Rs until one point fits and declare the model validated.
+P: 4. Idea: the stored charge Tt × IF drains through the reverse current, with the storage time from Chapter 6. ts ≈ Tt ln(1 + IF/IR) = 20 ns × ln(1 + 10/20) = 20 × 0.405 = 8.1 ns. Check: a stronger reverse current shortens it; Worked Example 23.1's 60 mA gave 3.1 ns. The usual mistake is to take Tt itself as the recovery time.
+P: 5. Idea: least squares minimizes the residual over the parameters it is allowed to change, so a model with one more free parameter can always do at least as well as before, because setting the new parameter to its old value reproduces the old fit. A smaller in-range residual is therefore guaranteed, not earned. The model is better only if it predicts points the fit did not use, which is why validation data are kept separate. Section 23.4's free Rs of −5.8 kΩ shows the failure: a lower residual and a nonsensical parameter. The usual mistake is to report the in-range residual as the model's accuracy.
+P: 6. Idea: evaluate the card outside its fitted range and compare. V = N VT ln(I/Is) = 1.10 × 0.026 × ln(10⁻⁶/0.47×10⁻¹²) = 0.0286 × 14.57 = 0.416 V. The device has 0.387 V, so the card is 29 mV high at 1 µA, or about three times too little current at that voltage. Do not trust it there: 1 µA is three decades below the 1 mA bottom of its fitted range. The usual mistake is to assume an exponential fitted over two decades extends to all currents.
+H2: Chapter 24
+P: 1. Idea: Tf is the minimum transit delay, so fT cannot exceed 1/(2π Tf). fT ≤ 1/(2π × 400×10⁻¹²) = 398 MHz. Check: the junction capacitances charged through 1/gm add delay and lower the real fT further, most at low current. The usual mistake is to take 1/Tf, forgetting the 2π.
+P: 2. Idea: in saturation gm = √(2 K ID), so K = gm²/(2 ID). K = 0.1²/(2 × 0.05) = 0.1 A/V². Check: ID = (K/2) Vov² gives Vov = √(2 × 0.05/0.1) = 1.0 V, and gm = K Vov = 0.1 A/V, as stated. The usual mistake is to use gm = K Vov without first finding Vov.
+P: 3. Idea: the data sheet threshold is the gate voltage at which the stated current flows, so Vto lies below it by the overdrive needed for that current. Vov = √(2 × 250×10⁻⁶/0.1) = 0.071 V, so Vto = 1.8 − 0.071 = 1.73 V. Check: (0.1/2) × 0.071² = 250 µA. The usual mistake is to set Vto equal to VGS(th).
+P: 4. Idea: on the Miller plateau the gate current goes entirely into Qgd, so the transition time is charge over current. t = 30 nC/1.5 A = 20 ns. Check: a driver of 0.75 A would double it to 40 ns and double the switching loss. The usual mistake is to use Qg, which includes the charge before and after the plateau.
+P: 5. Idea: add the Foster terms at t = 10 ms. Zth = 0.4 × (1 − e^(−20)) + 1.2 × (1 − e^(−1)) = 0.400 + 1.2 × 0.632 = 1.159 K/W, so ΔTj = 30 × 1.159 = 34.8 K. Check: the fast term is fully charged and the slow one 63 % charged, so Zth lies between 0.4 and 1.6 K/W. The usual mistake is to use the steady 1.6 K/W, which gives 48 K and an over-designed heat sink.
+P: 6. Idea: IDSS fixes Beta through ID = Beta (VGS − Vto)². Beta = 0.010/2.5² = 1.6 mA/V². At VGS = −1 V, ID = 1.6×10⁻³ × (−1 + 2.5)² = 1.6×10⁻³ × 2.25 = 3.6 mA. Check: at VGS = 0 the formula returns 10 mA, the stated IDSS. The usual mistake is to drop the sign of Vto and compute (−1 − 2.5)².
+H2: Chapter 25
+P: 1. Idea: BFOM ∝ εr μ Ec³, divided by silicon's 442. AlN: 9.8 × 426 × 15.4³ = 9.8 × 426 × 3,652 = 1.52×10⁷, so 1.52×10⁷/442 = 34,500 times silicon. Check: Figure 25.1 shows about 34,500, second only to diamond. The usual mistake is to forget that Ec is cubed.
+P: 2. Idea: JFOM ∝ Ec vsat. Diamond: 10 × 2.3 = 23; silicon: 0.3 × 1.0 = 0.3; ratio 77. Check: Figure 25.1 shows about 77. The usual mistake is to use the mobility, which does not appear in the Johnson figure.
+P: 3. Idea: scale the critical field with the square of the gap. Ec(GaN) ≈ 0.3 × (3.4/1.12)² = 0.3 × 9.22 = 2.8 MV/cm, about 16 % below the 3.3 MV/cm used in this book. Check: the square law is a trend across materials, good to tens of percent, not a formula for any one crystal. The usual mistake is to use it in place of a measured value.
+P: 4. Idea: Ron,sp = 4 BV²/(εs μ Ec³) from Section 19.1. Ron,sp = 4 × 600²/(10.4 × 8.854×10⁻¹⁴ × 1000 × (3.3×10⁶)³) = 4.35×10⁻⁵ Ω·cm² = 0.044 mΩ·cm². Check: a quarter of the 0.17 mΩ·cm² at 1200 V, as the square law requires. The usual mistake is to leave Ec in MV/cm while ε is in F/cm.
+P: 5. Idea: a pn junction needs both carrier types. Ga2O3 has no usable p-type doping, so there is no pn junction, no inversion-channel MOSFET body, and no bipolar device; designers use Schottky barriers, depletion-mode and fin transistors, or junctions with other p-type materials. Even a Schottky diode is limited by heat: with 11 to 27 W/m·K, a tenth of SiC's conductivity, the junction temperature rises quickly at high current density, so the die must be thinned, cooled from the top, or bonded to a better conductor. The usual mistake is to read the Baliga figure as a forecast of real device performance.
+P: 6. Idea: the off-state stack must hold the peak swing with margin, at 2.5 V per transistor. Required: 15 × 1.2 = 18 V, so 18/2.5 = 7.2, rounded up to 8 transistors. Check: 8 × 2.5 = 20 V, which covers 18 V. The usual mistake is to round 7.2 down, which leaves the stack below the required margin.
+H2: Chapter 26
+P: 1. Idea: λ (µm) ≈ 1.24/Eg. λ = 1.24/1.9 = 0.653 µm, red light. Check: AlGaInP red LEDs have gaps near 1.9 to 2.0 eV. The usual mistake is to use 1240 with micrometers, which gives 653 µm.
+P: 2. Idea: above threshold P = η (I − Ith). I − Ith = 5 mW/0.3 W/A = 16.7 mA, so I = 12 + 16.7 = 28.7 mA. Check: an edge-emitting laser of this kind runs at tens of milliamperes, unlike the sub-milliampere threshold of a VCSEL. The usual mistake is to forget the threshold current.
+P: 3. Idea: light goes out and back. t = 2d/c = 2 × 15/3×10⁸ = 100 ns. Check: 6.67 ns per meter × 15 m = 100 ns. The usual mistake is to use the one-way distance.
+P: 4. Idea: McIntyre's formula. F = 0.02 × 20 + 0.98 × (2 − 1/20) = 0.40 + 0.98 × 1.95 = 2.31. Check: doubling M from 10 raised F only from 2.06 to 2.31 for silicon. The usual mistake is to forget the (1 − k) factor.
+P: 5. Idea: dynamic range = full well/read noise; peak SNR = √(full well). DR = 10,000/1.5 = 6,667, 20 log10(6,667) = 76.5 dB. Peak SNR = √10,000 = 100, or 40 dB. Check: dynamic range and peak SNR are different quantities; the first depends on read noise, the second only on the full well. The usual mistake is to quote dynamic range as the image quality.
+P: 6. Idea: conversion gain = q/C. 1.602×10⁻¹⁹/2×10⁻¹⁵ = 80 µV per electron. Check: half of the 160 µV/e for 1 fF. The usual mistake is to forget that a larger capacitance lowers the gain while raising the charge the node can hold.
+H2: Chapter 27
+P: 1. Idea: x = a/ω0². x = 9.81/(2π × 2000)² = 9.81/1.58×10⁸ = 62 nm per g. Check: a resonance 2.5 times lower than Worked Example 27.1 gives 6.25 times the motion, 6.25 × 9.94 nm = 62 nm. The usual mistake is to use f instead of ω.
+P: 2. Idea: the thermomechanical noise scales as 1/√m. Four times the mass halves it: 5.1×10⁻⁴/2 = 2.55×10⁻⁴ m/s² per √Hz, about 26 µg/√Hz. Check: by direct substitution, √(4 × 1.38×10⁻²³ × 300 × 31,416/8×10⁻⁹) = 2.55×10⁻⁴. The usual mistake is to scale linearly with mass.
+P: 3. Idea: Coriolis acceleration is linear in Ω. At 100 °/s, Ω = 1.745 rad/s, and a = 2 × 1.745 × 1.257 = 4.39 m/s², about 0.45 g. Check: one hundred times Worked Example 27.2's 0.044 m/s². The usual mistake is to leave Ω in degrees per second.
+P: 4. Idea: VH = S × I × B. VH = 100 × 2×10⁻³ × 0.05 = 10 mV. Check: high-sensitivity plates use low-density, high-mobility InSb or GaAs. The usual mistake is to leave the field in millitesla.
+P: 5. Idea: the splitting is 2γB. B = 5.6×10⁶/(2 × 28×10⁹) = 1.0×10⁻⁴ T = 100 µT. Check: half the splitting of Worked Example 27.4 gives half its 200 µT. The usual mistake is to forget the factor of 2 between the two lines.
+P: 6. Idea: by Beer-Lambert, transmission at three times the concentration is the single transmission cubed. T = 0.9³ = 0.729, or 72.9 %. Check: exp(−3αcL) = (exp(−αcL))³. The usual mistake is to subtract three times 10 %, giving 70 %.
+H2: Chapter 28
+P: 1. Idea: break-even = ΔNRE/Δ(unit cost). (2.5 − 0.5) million/(12 − 4) = 2,000,000/8 = 250,000 units. Check: at 250,000 units both cost 14 dollars per unit including NRE. The usual mistake is to divide by the sum of the unit costs.
+P: 2. Idea: NRE/N + unit cost at N = 100,000. FPGA: 2 + 25 = 27 dollars. Mature ASIC: 30 + 2 = 32 dollars. Advanced ASIC: 400 + 1.50 = 401.50 dollars. Check: 100,000 units lies below the 122,000-unit break-even, so the FPGA should still win, and it does. The usual mistake is to compare unit costs alone.
+P: 3. Idea: the respin adds to the ASIC's NRE and moves the break-even up. New NRE = 4.5 million; break-even = (4.5 − 0.2) million/(25 − 2) = 187,000 units. Check: 50 % more NRE moved the break-even about 54 % higher, because the FPGA's own NRE is subtracted. The usual mistake is to forget the respin entirely when planning, which is why the From the Bench note asks for margin.
+P: 4. Idea: analog and RF performance do not scale like logic. Analog precision, high-voltage devices, and low leakage are often better or cheaper in mature nodes, which offer thicker oxides and higher supply voltages; the NRE and mask cost are far lower; and the logic content of an analog chip is too small for an advanced node's density to pay. Any two of these answer the question.
+P: 5. Idea: the front end of the design flow is shared. The same hardware description and simulation produce an FPGA bitstream in hours, so the design can be tested in real time, with real interfaces and real software, before anyone pays for masks. An error found on the FPGA costs a rebuild; an error found in silicon costs a respin. The usual mistake is to assume FPGA timing and power will carry over to the ASIC unchanged; they do not.
+P: 6. Idea: total cost, not area, decides. The FPGA's twenty-fold area raises its unit cost, but it carries almost no NRE, no mask set, and no fab delay, and it can be changed after shipment. At low volume the NRE divided by the number of units dominates the ASIC's cost, so the FPGA is cheaper overall, as Worked Example 28.1 showed below about 122,000 units. The usual mistake is to compare silicon area or unit price alone.
 H1: Appendix C. Where This Book Hands Off
-P: This book runs from the crystal to the chip: carriers and junctions (Part I), the bipolar transistor (Part II), the MOSFET to the nanosheet (Part III), the amplifier built from them (Part IV), CMOS as a chip (Part V), the junction as a source and detector of light and as a high-voltage switch (Part VI), and how devices are made, modeled, and extended to piezoelectric films (Part VII). Each later book of the series starts from a device this one has explained and stops explaining it.
+P: This book runs from the crystal to the chip: carriers and junctions (Part I), the bipolar transistor (Part II), the MOSFET to the nanosheet (Part III), the amplifier built from them (Part IV), CMOS as a chip (Part V), the junction as a source and detector of light and as a high-voltage switch (Part VI), how devices are made, modeled, and extended to piezoelectric films (Part VII), data sheets read into SPICE models (Part VIII), and the materials, light and sensing devices, and chip economics beyond the silicon logic process (Part IX). Each later book of the series starts from a device this one has explained and stops explaining it.
 P: Book 4 takes the transistor's small-signal model, the GaAs, GaN, and InP devices and the load line of Chapter 7, the noise of Chapter 14, the power-device limits of Chapter 19, and the acoustic filters of Chapter 21 into matching networks, power amplifiers, receivers, and synthesizers. Book 5 uses the converters and sample-and-hold circuits of Book 2 and the noise of Chapter 14 to build modems and software-defined radios. Book 6 takes the Schottky and fast-recovery diodes of Chapter 6 and the power MOSFET, superjunction, SiC, GaN, and IGBT of Chapter 19 into converters, magnetics, and the grid. Book 7 picks up the chip of Part V at the package: interposers and chiplets (Chapter 20's yield argument), high-bandwidth memory built from the DRAM cells of Chapter 16, the 875 A of a modern accelerator, MEMS on the films of Chapter 21, and the ESD and latch-up of Chapter 17 as system-level immunity.
 P: Two habits travel with the reader. First, every quantity in this book was computed from a declared hand value; when a vendor model or a process design kit gives a different number, the vendor number wins for that part. Second, below about 20 nm the PDK outranks every textbook, including this one.
 H1: Appendix D. Sources and Further Reading
@@ -230,7 +286,61 @@ P: Rabaey, Chandrakasan, and Nikolić, Digital Integrated Circuits; Weste and Ha
 H2: Part VI: Light and Power
 P: Sze and Ng for recombination, photodetectors, and solar cells; Schubert, Light-Emitting Diodes; Graeme, Photodiode Amplifiers; Baliga, Fundamentals of Power Semiconductor Devices; Infineon, Wolfspeed (C3M0060065D), and GaN Systems/Infineon (GS66508T) data sheets.
 H2: Part VII: Making, Modeling, and New Materials
-P: Plummer, Deal, and Griffin, Silicon VLSI Technology; Lakin, "Thin Film Resonator Technology" (IEEE UFFC, 2005); Akiyama et al., "Enhancement of Piezoelectric Response in Scandium Aluminum Nitride Alloy Thin Films" (Advanced Materials, 2009); Hashimoto, RF Bulk Acoustic Wave Filters for Communications; Chauhan et al., FinFET Modeling for IC Simulation and Design: Using the BSIM-CMG Standard; Gummel and Poon, "An Integral Charge Control Model of Bipolar Transistors" (Bell System Technical Journal, 1970).
+P: Plummer, Deal, and Griffin, Silicon VLSI Technology; Lakin, "Thin Film Resonator Technology" (IEEE UFFC, 2005); Akiyama et al., "Enhancement of Piezoelectric Response in Scandium Aluminum Nitride Alloy Thin Films" (Advanced Materials, 2009); Hashimoto, RF Bulk Acoustic Wave Filters for Communications; Chauhan et al., FinFET Modeling for IC Simulation and Design: Using the BSIM-CMG Standard; Gummel and Poon, "An Integral Charge Control Model of Bipolar Transistors" (Bell System Technical Journal, 1970); Plessky et al., "5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate" (Electronics Letters, 2019).
+H2: Part VIII: From Datasheet to Model
+P: Massobrio and Antognetti, Semiconductor Device Modeling with SPICE; the ngspice User's Manual; Box, "Science and Statistics" (Journal of the American Statistical Association, 1976), and "Robustness in the Strategy of Scientific Model Building" (in Launer and Wilkinson, editors, Robustness in Statistics, 1979); the onsemi data sheets for the 1N4148, 2N3904, and 2N7000; the Infineon data sheet for the IRFZ44N; manufacturer data sheets for the J310.
+H2: Part IX: Materials, Light, Sensing, and the Chip
+P: Tsao et al., "Ultrawide-Bandgap Semiconductors: Research Opportunities and Challenges" (Advanced Electronic Materials, 2018); Woo et al., "From Wide to Ultrawide-Bandgap Semiconductors for High Power and High Frequency Electronic Devices" (Journal of Physics: Materials, 2024); Coldren, Corzine, and Mašanović, Diode Lasers and Photonic Integrated Circuits; McIntyre, "Multiplication Noise in Uniform Avalanche Diodes" (IEEE Transactions on Electron Devices, 1966); Ohta, Smart CMOS Image Sensors and Applications; Gallego et al., "Event-Based Vision: A Survey" (IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022); Shockley and Queisser, "Detailed Balance Limit of Efficiency of p-n Junction Solar Cells" (Journal of Applied Physics, 1961); Kaajakari, Practical MEMS; Popović, Hall Effect Devices; Schirhagl et al., "Nitrogen-Vacancy Centers in Diamond: Nanoscale Sensors for Physics and Biology" (Annual Review of Physical Chemistry, 2014); Weste and Harris (Part V) for the ASIC flow; the Tiny Tapeout project pages.
+H1: Appendix E. Datasheet-to-SPICE Parameter Lists
+P: Each list names a model parameter and the data sheet line or measurement it comes from, for the devices of Chapters 23 and 24. Fitted values are valid over the range they were fitted in; record that range with the card.
+H2: Diode (SPICE level 1)
+LI: Is, saturation current: from the straight part of the forward curve on a log axis, fitted together with N.
+LI: N, emission coefficient: from the slope of that straight part, N = ΔV/(VT ln(I2/I1)).
+LI: Rs, series resistance: from the bend of the forward curve at high current.
+LI: Cjo, Vj, M: from the capacitance curve against reverse voltage; Cjo is the zero-bias value, often quoted as CT at 0 V and 1 MHz.
+LI: Fc: where the forward-bias capacitance switches to a linear extrapolation; leave at 0.5.
+LI: Tt, transit time: from trr in its stated test circuit, through ts ≈ Tt ln(1 + IF/IR).
+LI: BV and Ibv: the breakdown voltage and the current that defines it, from the reverse curve or the Zener voltage specification.
+LI: Eg and Xti: temperature scaling of Is, from forward curves at two temperatures; 1.11 eV for silicon junctions, the barrier height for Schottky diodes.
+LI: Kf and Af: flicker-noise coefficient and exponent; rarely on a data sheet, zero unless measured.
+H2: Bipolar transistor (Gummel-Poon)
+LI: Is, Bf, Nf: the collector current and the gain ceiling, from the Gummel plot.
+LI: Ise, Ne: the non-ideal base current that lowers hFE at small IC.
+LI: Ikf: the high-injection knee that lowers hFE at large IC.
+LI: Vaf (and Var): the Early voltage, from the slope of the output curves.
+LI: Br, Isc, Nc, Ikr: reverse-mode parameters; VCE(sat) checks them.
+LI: Rb, Re, Rc: ohmic resistances, from VCE(sat) and VBE(sat) at high current.
+LI: Cje, Vje, Mje and Cjc, Vjc, Mjc: junction capacitances, from Cibo and Cobo against voltage.
+LI: Tf, Itf, Vtf, Xtf: forward transit time and its growth at high current, from fT against IC.
+LI: Tr: reverse transit time, from the storage time in the switching test.
+LI: Xtb, Xti, Eg: temperature scaling of β and Is.
+H2: MOSFET (level 1 and the power subcircuit)
+LI: Vto: the square-law threshold; not the data sheet VGS(th), which is a gate voltage at a stated drain current.
+LI: Kp with W and L: from gfs at its test current, K = gfs²/(2 ID).
+LI: Lambda: from the slope of the output curves in saturation.
+LI: Gamma and Phi: body effect; irrelevant for a discrete part with source tied to body.
+LI: Rd and Rs: series resistances that close the gap to the measured RDS(on).
+LI: Cgd, Cgs, Cds in a subcircuit: Cgd = Crss, Cgs = Ciss − Crss, Cds = Coss − Crss, each against VDS.
+LI: Qgs, Qgd, Qg: checks on the capacitances, from the gate-charge curve.
+LI: Body diode: a diode card fitted to the source-drain diode curve, trr, and Qrr.
+LI: Thermal behavior: a Foster or Cauer network from Zth(t), and a temperature coefficient for RDS(on) from its curve against TJ.
+LI: Safe operating area: not in the model; check against the data sheet curve.
+H2: JFET
+LI: Vto: from VGS(off), the pinch-off voltage.
+LI: Beta: IDSS/Vto².
+LI: Lambda: from the slope of the output curves.
+LI: Cgs, Cgd, Pb: from the capacitance data.
+LI: Is: gate-junction leakage, from IGSS.
+H2: Zener, LED, and Schottky diodes
+LI: Zener: BV and Ibv from VZ at IZT, the breakdown slope from rz, and a temperature coefficient from the Zener voltage drift.
+LI: LED: Is and N from the forward curve, N often 2 or more; light output from a behavioral source proportional to current.
+LI: Schottky: a large Is, N near 1.0 to 1.1, Tt near zero, and Eg set to the barrier height so that leakage rises correctly with temperature.
+H2: Temperature, corners, and other devices
+LI: TNOM: the temperature at which the card was fitted, 27 °C by default.
+LI: Foster network: Ri and τi pairs fitted to Zth(t); not extendable with a heat sink.
+LI: Cauer network: a ladder whose nodes map to physical layers; extendable with a heat sink.
+LI: Corners and Monte Carlo: corner cards built from the data sheet limits, or spreads measured on a batch of parts.
+LI: Op-amps and comparators: macromodels, in Book 2, Circuits, Components, and Control, Sections 15.7, 15.8, and 16.8.
 P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
 H1: About the Author
 P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.

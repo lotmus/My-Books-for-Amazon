@@ -1,0 +1,14 @@
+! ATF-54143 E-pHEMT, VDS = 3 V, ID = 60 mA, transcribed from the Broadcom (Avago) data sheet tables
+! Reference planes at the ends of the leads, 0.025 in alumina carrier, 4 source vias
+! Excerpt of five frequencies for Book 4, Chapter 48; use the full vendor file for design work
+# GHz S MA R 50
+1.5  0.64 -149.8  9.34  86.1  0.05  36.1  0.21 -105.2
+1.9  0.62 -164.9  7.64  75.6  0.06  33.8  0.17 -114.7
+2.0  0.62 -168.3  7.31  73.3  0.06  33.3  0.17 -117.0
+2.5  0.60  176.2  6.01  61.8  0.07  30.1  0.13 -129.7
+3.0  0.60  162.3  5.10  51.0  0.08  26.5  0.11 -146.5
+! noise parameters: freq, NFmin (dB), |Gamma_opt|, angle (deg), Rn/50
+1.9  0.42  0.27  116.3  0.04
+2.0  0.45  0.27  120.1  0.04
+2.4  0.52  0.26  145.8  0.04
+3.0  0.59  0.29  178.0  0.05

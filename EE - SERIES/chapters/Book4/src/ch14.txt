@@ -25,6 +25,7 @@ P: Solution. ν = 5 × √(2 × 10,000/(0.0517 × 5000 × 5000)) = 0.622, so J =
 H2: 14.4 Gases and rain
 P: Above about 10 GHz the atmosphere absorbs. Water vapor has a line near 22 GHz, and oxygen a strong band near 60 GHz, where absorption reaches about 15 dB/km at sea level, which limits 60 GHz links to short ranges but also isolates neighboring links from one another. Rain attenuates more strongly with frequency and rain rate. The ITU-R P.838 model gives the specific attenuation as γ = kR^α dB/km with coefficients tabulated by frequency; at 30 GHz with horizontal polarization, k ≈ 0.240 and α ≈ 0.949, so a heavy 25 mm/h rain costs about 5.1 dB/km. Millimeter-wave link budgets must include these losses with the availability statistics of Chapter 30.
 EQ: γrain = k R^α  dB/km
+P: Where this continues. Chapter 52 turns propagation into projects: a propagation monitor that logs beacon signals through the day, and satellite passes whose Doppler and path loss change by the minute.
 BENCH: Survey the path for 60 % of the first Fresnel zone, using the earth bulge for k = 4/3, and add clearance for trees that will grow. Above 10 GHz, check the rain region before you promise availability; a link that clears every hill can still drop in a thunderstorm. Raise the antennas rather than buying more power: height fixes a Fresnel-zone problem, while power only partly compensates for it.
 H2: Practice
 P: 1. Find the first Fresnel radius at the midpoint of a 2 km, 24 GHz path.

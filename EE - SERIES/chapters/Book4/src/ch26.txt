@@ -23,6 +23,7 @@ P: Integrating the phase noise over the offsets that matter gives the oscillator
 H2: Worked Example 26.3
 P: Problem. An oscillator at 2.4 GHz has flat phase noise of −110 dBc/Hz from 10 kHz to 10 MHz offset. Find its rms phase error, the EVM floor it sets, and its rms jitter.
 P: Solution. The integral is 2 × 10⁻¹¹ × (10⁷ − 10⁴) = 2.0 × 10⁻⁴ rad², so σφ = 0.0141 rad, or 0.81°. As an EVM floor that is 1.41%, or −37.0 dB, just short of the −38 dB that Book 5 found for Wi-Fi 7's 4096-QAM, so this oscillator would limit that mode before any other impairment. The jitter is 0.0141/(2π × 2.4 × 10⁹) = 0.94 ps rms.
+P: Measure it yourself. Phase noise is measured with a spectrum analyzer for coarse work and with a phase-noise analyzer for the levels of this chapter; Book 9, Test and Measurement Instruments, covers both in "Noise Figure and Phase Noise Analyzers" and the references behind them in "Counters, Timers, and Frequency References".
 BENCH: Read a phase-noise plot by region: inside the loop bandwidth the reference and divider set the noise, outside it the VCO does. Integrate the noise over the band your modulation cares about to get rms phase error or jitter, and compare it with the EVM budget. Keep the VCO tuning line and loop filter away from switching supplies and digital lines; a few microvolts of ripple there appears as spurs next to the carrier.
 H2: Practice
 P: 1. By how much does the in-band reference noise rise in a PLL with N = 145?

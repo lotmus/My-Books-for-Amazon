@@ -23,10 +23,11 @@ P: A horn flares a waveguide into an aperture, transforming the guide's impedanc
 H2: Worked Example 13.3
 P: Problem. A pyramidal horn at 10 GHz has an aperture of 100 × 80 mm and an aperture efficiency of 0.51. Find its gain.
 P: Solution. λ = 30.0 mm, so G = 0.51 × 4π × 0.1 × 0.08/0.0300² = 57.0, or 17.6 dBi.
+P: Where this continues. Chapter 52 puts these antennas to work: a quarter-wave whip for a 915 MHz LoRa reader, a ceramic patch for GPS at 1575.42 MHz, a crossed-dipole or turnstile for weather satellites, and a dish for the hydrogen line, each with numbers a reader can measure.
 BENCH: For a small antenna, the ground plane matters as much as the antenna itself. A monopole on a 30 mm board isn't the monopole in the data sheet, because the board is half the antenna. Leave a pi-match footprint, measure with the device in its final enclosure with the battery installed, and tune last. A small loop's radiation resistance is in milliohms, so copper loss and capacitor ESR set its efficiency; use the highest-Q tuning capacitor you can find.
 H2: Practice
 P: 1. Find the length of a quarter-wave monopole at 868 MHz.
-P: 2. An 868 MHz antenna fits in a 30 mm sphere. Find ka and the minimum Q.
+P: 2. An 868 MHz antenna fits in a sphere of 30 mm radius. Find ka and the minimum Q.
 P: 3. Find the gain of a horn of 50 × 40 mm at 20 GHz with an aperture efficiency of 0.51.
 P: 4. How does a small loop's radiation resistance scale with its diameter?
 P: 5. Why is a quarter-wave monopole's directivity twice a half-wave dipole's?

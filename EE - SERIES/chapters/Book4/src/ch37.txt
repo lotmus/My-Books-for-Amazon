@@ -27,7 +27,10 @@ EQ: ACLR = Pmain / Padjacent,   P_IM3 = 3Pout − 2 OIP3  (dBm)
 H2: Worked Example 37.4
 P: Problem. An amplifier with OIP3 = 50 dBm delivers two tones of 30 dBm each. Find the third-order products and their level relative to the tones.
 P: Solution. P_IM3 = 3 × 30 − 2 × 50 = −10 dBm, which is 40 dB below each tone. Every 1 dB of back-off improves that ratio by 2 dB, until other mechanisms, such as memory effects, dominate.
+P: Measure it yourself. Book 9, Test and Measurement Instruments, treats each measurement of this chapter as an instrument procedure: "Scalar Analysis, Amplifier Test, and Load Pull", "RF Power Meters and Sensors", and "Transmitter Spectrum: Channel Power, ACLR, Emission Masks, and CCDF". Scripting the sweeps is covered in its "SCPI, VISA, IVI, and Programming Instruments in Python and C#".
 BENCH: State the conditions with every number: signal type and PAPR, frequency, supply, temperature, and whether the efficiency is drain or PAE. Calibrate power meters and spectrum analyzers at the device's reference plane, and measure ACLR with the specified bandwidth and filter. On a load-pull bench the tuner's own loss limits how low an impedance it can present, so make sure the optimum you found isn't simply the edge of the tuner's range.
+P: On the Job
+P: PA characterization engineers measure what the designers promised: load-pull contours, efficiency and PAE across supply and temperature, AM-AM and AM-PM, ACLR and EVM with real signals, and ruggedness into high VSWR. Much of the work is automation, sequencing instruments in Python or a test executive, and much is skepticism, finding the cable loss or the calibration step that made a number look too good. The role sits at semiconductor companies, module makers, and base-station vendors, and it is a common route into PA design.
 H2: Practice
 P: 1. Find Ropt for VDD = 48 V, Vknee = 4 V, and 50 W.
 P: 2. Find the PAE of an amplifier delivering 20 W with 10 dB gain from 32 W DC.

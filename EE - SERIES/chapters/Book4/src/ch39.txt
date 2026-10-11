@@ -24,6 +24,7 @@ FIG: fig39_1.png | Figure 39.1 — How a DDS works. A phase accumulator adds a s
 H2: Worked Example 39.3
 P: Problem. A DDS uses a 32-bit accumulator, a 1 GHz clock, and 14 bits of phase into the table. Find the step and the phase-truncation spur level, and the highest practical output frequency.
 P: Solution. The step is 10⁹/2³² = 0.233 Hz. The truncation spur is about −6.02 × 14 = −84 dBc. The highest practical output is about 400 MHz. A common architecture uses a DDS as the fine-tuning reference of a PLL, combining the DDS's agility and resolution with the PLL's reach to gigahertz.
+P: Code. A DDS phase accumulator and sine table are a few lines of hardware description; Book 8, Firmware and Software for Electronics, builds one in "HDL: Software That Becomes Hardware".
 BENCH: Run the phase-detector frequency as high as the part allows; the 20 log N term outweighs the 10 log f term, so higher is better. Expect fractional spurs when the fractional value sits near a simple ratio such as 1/2 or 1/4, and plan the frequency plan or dithering around them. In a DDS, the clock's phase noise and spurs carry straight to the output, so clean the clock first.
 H2: Practice
 P: 1. Find the step of a 50 MHz reference with a 20-bit fractional accumulator.

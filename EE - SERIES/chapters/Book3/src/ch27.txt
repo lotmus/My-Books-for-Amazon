@@ -1,0 +1,52 @@
+H1: Chapter 27. Sensing Devices: MEMS, Hall, Gas, and Quantum
+P: A phone knows which way is down, how fast it is turning, where north is, how loud the room is, and sometimes how clean the air is. Each of those senses is a semiconductor device, and most of them are machined from the same silicon as the processor.
+P: Where you meet this: Phones, wearables, vehicles, drones, industrial monitoring, air-quality and safety sensors, and the newest magnetometers.
+H2: 27.1 MEMS: silicon that moves
+P: Microelectromechanical systems, MEMS, are mechanical structures etched from silicon, polysilicon, or deposited films with the tools of Chapter 20. A MEMS accelerometer is a proof mass on silicon springs. An acceleration a displaces it by x = a/ω0², where ω0 = √(k/m) is its resonant frequency, and comb-shaped capacitor plates read the displacement as a change of capacitance. Below resonance the response is flat; above it the mass cannot follow. Gas damping sets the quality factor, and accelerometers are usually damped to a Q of about 0.5 to 1 so that a shock does not make them ring.
+EQ: x = a / ω0²,   ΔC/C ≈ x / g0,   noise ≈ √(4 kB T ω0 / (m Q)) in m/s² per √Hz
+H2: Worked Example 27.1
+P: A MEMS accelerometer has a proof mass of 2 µg (2×10⁻⁹ kg), a resonance at 5 kHz, Q = 1, and capacitor gaps of 2 µm (example values). Find the displacement per g, the fractional capacitance change per g, and the thermomechanical noise floor at 300 K.
+P: ω0 = 2π × 5000 = 31,416 rad/s, so x = 9.81/31,416² = 9.94×10⁻⁹ m, about 10 nm, some 18 lattice constants of silicon. ΔC/C = 9.94 nm/2 µm = 0.50 %. Noise: √(4 × 1.38×10⁻²³ × 300 × 31,416/(2×10⁻⁹ × 1)) = √(2.60×10⁻⁷) = 5.1×10⁻⁴ m/s² per √Hz, about 52 µg/√Hz. The readout must resolve tiny fractions of a capacitance of order a picofarad, and that electronics, more than the silicon spring, is where most of the design effort goes.
+FIG: fig27_1.png | Figure 27.1 — Proof-mass motion per g of the accelerometer of Worked Example 27.1 for three damping values. Below the 5 kHz resonance the response is flat at about 9.9 nm per g.
+P: A MEMS gyroscope drives a proof mass to vibrate along one axis and senses the Coriolis force when the device rotates: a mass moving with velocity v in a frame rotating at Ω feels an acceleration 2Ωv, perpendicular to both. The signal is small, the mechanical design is a pair of closely matched resonances, and the electronics is a synchronous detector locked to the drive.
+H2: Worked Example 27.2
+P: A gyroscope's drive mode vibrates with a 10 µm amplitude at 20 kHz. Find the peak Coriolis acceleration at a rotation rate of 1 °/s.
+P: Peak velocity v = 2π × 20,000 × 10×10⁻⁶ = 1.26 m/s. Ω = 1 °/s = 0.01745 rad/s. a = 2Ωv = 2 × 0.01745 × 1.26 = 0.044 m/s², about 4.5 mg. Resolving 0.01 °/s means resolving 45 µg of Coriolis acceleration in the presence of the much larger drive motion, which is why gyroscopes need matched modes and synchronous detection.
+P: A MEMS microphone is a thin, compliant diaphragm about a millimeter across in front of a perforated rigid backplate. Sound pressure moves the diaphragm and changes the capacitance, which an ASIC in the same package biases, amplifies, and digitizes. Piezoelectric MEMS microphones use the AlN films of Chapter 21 instead of a biased capacitor.
+H2: 27.2 Magnetic sensors: Hall and magnetoresistance
+P: Part I used the Hall effect to measure carrier density. With a known density, the same effect measures the field: a plate carrying current I in a field B develops VH = I B/(n q t) across its width. Low carrier density and high mobility give a large, quiet signal, which is why discrete Hall sensors use InSb or GaAs, while Hall sensors integrated in CMOS accept silicon's smaller signal for on-chip amplification and offset cancellation. They measure current without contact, sense the position of magnets in motors and switches, and count wheel rotations in every car.
+EQ: VH = I B / (n q t)
+H2: Worked Example 27.3
+P: A silicon Hall plate has n = 1×10¹⁶ cm⁻³ and a thickness of 10 µm. Find its current-related sensitivity and the Hall voltage at 1 mA in 10 mT.
+P: With n = 10²² m⁻³, 1/(n q t) = 1/(10²² × 1.602×10⁻¹⁹ × 10⁻⁵) = 62.4 V/(A·T). VH = 62.4 × 10⁻³ × 0.01 = 0.62 mV. The offset of a real plate, from mechanical stress and contact misalignment, can be as large as that signal. The spinning-current method, which rotates the current direction among the plate's contacts and averages the outputs, cancels most of it.
+P: Magnetoresistive sensors change resistance in a field. Anisotropic magnetoresistance, AMR, changes a permalloy film's resistance by a few percent. Giant and tunnel magnetoresistance, GMR and TMR, use thin magnetic multilayers and, for TMR, a tunnel barrier, the structures of hard-disk read heads and MRAM, to reach changes of tens to hundreds of percent. They are more sensitive than Hall plates and serve in electronic compasses and current sensors.
+H2: 27.3 Gas sensors
+P: A metal-oxide gas sensor is a heated film of tin oxide or tungsten oxide whose surface adsorbs oxygen, which captures electrons and leaves a depleted, resistive layer at each grain boundary. A reducing gas such as carbon monoxide or ethanol reacts with the adsorbed oxygen and returns the electrons, and the resistance falls, roughly as a power of the concentration. These sensors are inexpensive and sensitive, need a few hundred degrees and some milliwatts of heater power, drift with humidity and age, and respond to many gases at once, so their readings are better treated as trends than as concentrations.
+P: Nondispersive infrared, NDIR, sensors measure carbon dioxide by its absorption near 4.26 µm with an infrared source, an optical path, a filter, and a thermopile or photodiode detector. By the Beer-Lambert law the transmitted fraction is exp(−α c L) for a concentration c and path length L, so the reading is selective and stable, and calibration lasts years. Electrochemical cells, which oxidize or reduce the target gas at an electrode and measure the current, are the third family, used for toxic gases at low concentrations.
+H2: 27.4 Quantum sensing with diamond
+P: Some of the most sensitive solid-state magnetometers use a defect in diamond: a nitrogen atom next to a missing carbon atom, the nitrogen-vacancy, or NV, center. In its negative charge state the NV center has an electron spin whose ms = 0 and ms = ±1 sublevels are split by D = 2.87 GHz even without a field. Green laser light pumps the spin into ms = 0, and the ms = ±1 states fluoresce less brightly, so sweeping a microwave frequency while watching the red fluorescence shows a dip at each spin resonance: optically detected magnetic resonance. A field along the NV axis splits the two resonances by 2γB, with γ = 28 GHz/T, or 28 kHz per microtesla, and the field is read from that frequency.
+EQ: f± = D ± γ B,   D = 2.87 GHz,   γ = 28 GHz/T
+H2: Worked Example 27.4
+P: An NV magnetometer sees its two resonances at 2.8644 and 2.8756 GHz. Find the field along the NV axis. What splitting does the Earth's field of about 50 µT produce at most?
+P: The splitting is 11.2 MHz = 2γB, so B = 11.2×10⁶/(2 × 28×10⁹) = 2.0×10⁻⁴ T = 200 µT. The center, 2.870 GHz, confirms D. The Earth's 50 µT along the axis splits the lines by 2 × 28 kHz/µT × 50 µT = 2.8 MHz. Resolving nanotesla fields means resolving tens of hertz on a 2.87 GHz line, which ensemble sensors with millions of NV centers can do; a single NV center gives nanometer-scale spatial resolution instead.
+P: Quantum sensing also includes atomic magnetometers and atomic clocks built on vapor cells, superconducting SQUIDs, and the SPADs of Chapter 26 counting single photons. What makes the NV center a semiconductor-device topic is that it works at room temperature in a solid, is made by implantation and annealing with the tools of Chapter 20, and is read out with a laser, a photodiode, and a microwave source.
+P: Key idea. A sensor turns a quantity into a device parameter: displacement into capacitance in MEMS, field into Hall voltage or resistance, gas into conductance or optical absorption, field into a spin-resonance frequency. The device sets the signal; the readout electronics usually sets the noise.
+P: Every device of this book, from the diode to the NV center, ends up on a chip or beside one. Chapter 28 asks how that chip is chosen and paid for.
+BENCH: Mount a MEMS sensor as part of the mechanics, because it is. Board stress from soldering, screws, or a flexing enclosure shifts the zero of an accelerometer or gyroscope, and a resonance of the board or housing near the sensor's bandwidth shows up as false motion. Follow the vendor's land pattern and keep-out rules, keep the part away from board-mounting holes, and measure the offset after assembly, not only on the bare part.
+P: On the Job
+P: Sensor companies hire MEMS process engineers, who make the moving structures and seal them in their vacuum or gas-filled cavities; mixed-signal designers, who build the capacitance-to-digital readout; test engineers, who shake, rotate, heat, and gas every part on calibration rigs; and applications engineers, who help customers with the board-stress and filtering problems of the From the Bench note. Sensor fusion, the firmware that combines accelerometer, gyroscope, and magnetometer readings into an orientation, belongs to Book 8.
+H2: Practice
+P: 1. An accelerometer has a 2 kHz resonance. Find its displacement per g.
+P: 2. With the values of Worked Example 27.1 but a proof mass of 8 µg, find the noise floor.
+P: 3. Find the peak Coriolis acceleration at 100 °/s for the gyroscope of Worked Example 27.2.
+P: 4. A Hall sensor has a sensitivity of 100 V/(A·T). Find VH at 2 mA in 50 mT.
+P: 5. An NV center shows a resonance splitting of 5.6 MHz. Find the field along its axis.
+P: 6. An NDIR cell transmits 90 % at a concentration c1. What does it transmit at 3c1?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: x = a/ω0² for any spring-mass sensor.
+LI: VH = IB/(nqt); spinning current removes the offset.
+LI: NV center: 2.87 GHz at zero field, 28 kHz per µT per line.
+P: Mostly for exams and deeper study
+LI: Thermomechanical noise from the fluctuation-dissipation theorem.
+LI: Surface chemistry of metal-oxide gas sensors.

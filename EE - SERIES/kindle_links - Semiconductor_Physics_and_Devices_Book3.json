@@ -378,6 +378,102 @@
    "to": "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol&i=digital-text)",
    "in": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
    "max": 1
+  },
+  {
+   "find": "Semiconductor Device Modeling with SPICE",
+   "to": "[Semiconductor Device Modeling with SPICE](https://openlibrary.org/search?q=Semiconductor+Device+Modeling+with+SPICE+Massobrio)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "ngspice User's Manual",
+   "to": "[ngspice User's Manual](https://ngspice.sourceforge.io/docs.html)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "Science and Statistics",
+   "to": "[Science and Statistics](https://search.crossref.org/?q=Science+and+Statistics+Box+1976)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "Robustness in the Strategy of Scientific Model Building",
+   "to": "[Robustness in the Strategy of Scientific Model Building](https://search.crossref.org/?q=Robustness+in+the+Strategy+of+Scientific+Model+Building)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "Ultrawide-Bandgap Semiconductors: Research Opportunities and Challenges",
+   "to": "[Ultrawide-Bandgap Semiconductors: Research Opportunities and Challenges](https://search.crossref.org/?q=Ultrawide-Bandgap+Semiconductors%3A+Research+Opportunities+and+Challenges)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "From Wide to Ultrawide-Bandgap Semiconductors for High Power and High Frequency Electronic Devices",
+   "to": "[From Wide to Ultrawide-Bandgap Semiconductors for High Power and High Frequency Electronic Devices](https://search.crossref.org/?q=From+wide+to+ultrawide-bandgap+semiconductors+for+high+power+and+high+frequency+electronic+devices)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Diode Lasers and Photonic Integrated Circuits",
+   "to": "[Diode Lasers and Photonic Integrated Circuits](https://openlibrary.org/search?q=Diode+Lasers+and+Photonic+Integrated+Circuits+Coldren)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Multiplication Noise in Uniform Avalanche Diodes",
+   "to": "[Multiplication Noise in Uniform Avalanche Diodes](https://search.crossref.org/?q=Multiplication+Noise+in+Uniform+Avalanche+Diodes)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Smart CMOS Image Sensors and Applications",
+   "to": "[Smart CMOS Image Sensors and Applications](https://openlibrary.org/search?q=Smart+CMOS+Image+Sensors+and+Applications+Ohta)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Event-Based Vision: A Survey",
+   "to": "[Event-Based Vision: A Survey](https://search.crossref.org/?q=Event-Based+Vision%3A+A+Survey)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Detailed Balance Limit of Efficiency of p-n Junction Solar Cells",
+   "to": "[Detailed Balance Limit of Efficiency of p-n Junction Solar Cells](https://search.crossref.org/?q=Detailed+Balance+Limit+of+Efficiency+of+p-n+Junction+Solar+Cells)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Practical MEMS",
+   "to": "[Practical MEMS](https://openlibrary.org/search?q=Practical+MEMS+Kaajakari)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Hall Effect Devices",
+   "to": "[Hall Effect Devices](https://openlibrary.org/search?q=Hall+Effect+Devices+Popovic)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Nitrogen-Vacancy Centers in Diamond: Nanoscale Sensors for Physics and Biology",
+   "to": "[Nitrogen-Vacancy Centers in Diamond: Nanoscale Sensors for Physics and Biology](https://search.crossref.org/?q=Nitrogen-Vacancy+Centers+in+Diamond%3A+Nanoscale+Sensors+for+Physics+and+Biology)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Tiny Tapeout project pages",
+   "to": "[Tiny Tapeout project pages](https://tinytapeout.com)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate",
+   "to": "[5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate](https://search.crossref.org/?q=5+GHz+laterally-excited+bulk-wave+resonators+%28XBARs%29+based+on+thin+platelets+of+lithium+niobate)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
   }
  ]
 }

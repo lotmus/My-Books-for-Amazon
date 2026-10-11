@@ -16,6 +16,7 @@ H2: Worked Example 19.2
 P: Problem. A shunt switch has R = 1 Ω when on. Find the isolation it provides.
 P: Solution. |S₂₁| = 2/(2 + 50) = 0.0385, an isolation of 28.3 dB, in addition to the 16 dB of the series element if both are used. Isolations of 40 dB and more come from such series-shunt combinations, at the cost of slightly more insertion loss.
 P: Key idea. A series switch's isolation is set by its off capacitance and falls with frequency; a shunt switch to ground, or a series-shunt pair, restores it.
+P: Where this continues. Chapter 46 designs the switch that most phones use, a stack of RF SOI transistors, and sets its stack height from the voltage at the worst mismatch.
 BENCH: Read three switch numbers together: insertion loss, isolation at your highest frequency, and power handling at your worst VSWR, because the data-sheet power rating usually assumes a perfect match. Watch switching time and the settling of insertion phase in TDD systems. If the switch carries transmit power, check its harmonics and intermodulation; a cheap switch can generate spurs that fail a regulatory test.
 H2: Practice
 P: 1. Find the insertion loss of a series switch with R = 2 Ω.

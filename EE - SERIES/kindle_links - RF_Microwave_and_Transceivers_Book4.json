@@ -1,5 +1,5 @@
 {
- "note": "EE Book 4 link rules (11 Oct 2026): papers -> DOI (curated 10 Oct) or Crossref search, Appendix C books -> Open Library search, Also-by -> Amazon Kindle search; keyword links, hidden URLs.",
+ "note": "EE Book 4 link rules (11 Oct 2026): papers -> DOI (curated 10 Oct) or Crossref search, Appendix C books -> Open Library search, Also-by -> Amazon Kindle search; keyword links, hidden URLs. Pass 2 (11 Oct 2026): Appendix C additions for Chapters 42-52 (books -> Open Library, papers -> Crossref search, Touchstone spec and scikit-rf docs).",
  "rules": [
   {
    "find": "An N-Way Hybrid Power Divider",
@@ -251,6 +251,108 @@
    "find": "Power Amplifiers and Transmitters for RF and Microwave",
    "to": "[Power Amplifiers and Transmitters for RF and Microwave](https://search.crossref.org/?q=Power+Amplifiers+and+Transmitters+for+RF+and+Microwave)",
    "in": "F. H. Raab et al., \"Power Amplifiers and Transmitters for RF",
+   "max": 1
+  },
+  {
+   "find": "mm-Wave Silicon Power Amplifiers and Transmitters",
+   "to": "[mm-Wave Silicon Power Amplifiers and Transmitters](https://openlibrary.org/search?q=mm-Wave+Silicon+Power+Amplifiers+and+Transmitters+Hashemi)",
+   "in": "Ali M. Niknejad and colleagues' papers on CMOS power amplifi",
+   "max": 1
+  },
+  {
+   "find": "RF and Microwave Power Amplifier Design",
+   "to": "[RF and Microwave Power Amplifier Design](https://openlibrary.org/search?q=RF+and+Microwave+Power+Amplifier+Design+Grebennikov)",
+   "in": "Ali M. Niknejad and colleagues' papers on CMOS power amplifi",
+   "max": 1
+  },
+  {
+   "find": "Radio Frequency Integrated Circuits and Technologies",
+   "to": "[Radio Frequency Integrated Circuits and Technologies](https://openlibrary.org/search?q=Radio+Frequency+Integrated+Circuits+and+Technologies+Ellinger)",
+   "in": "Frank Ellinger, Radio Frequency Integrated Circuits and Tech",
+   "max": 1
+  },
+  {
+   "find": "RF MEMS: Theory, Design, and Technology",
+   "to": "[RF MEMS: Theory, Design, and Technology](https://openlibrary.org/search?q=RF+MEMS%3A+Theory%2C+Design%2C+and+Technology+Rebeiz)",
+   "in": "GlobalFoundries and STMicroelectronics RF SOI process briefs",
+   "max": 1
+  },
+  {
+   "find": "Surface Acoustic Wave Devices in Telecommunications",
+   "to": "[Surface Acoustic Wave Devices in Telecommunications](https://openlibrary.org/search?q=Surface+Acoustic+Wave+Devices+in+Telecommunications+Hashimoto)",
+   "in": "Ken-ya Hashimoto, Surface Acoustic Wave Devices in Telecommu",
+   "max": 1
+  },
+  {
+   "find": "Analog Optical Links",
+   "to": "[Analog Optical Links](https://openlibrary.org/search?q=Analog+Optical+Links+Cox)",
+   "in": "Charles H. Cox III, Analog Optical Links; Jianping Yao, \"Mic",
+   "max": 1
+  },
+  {
+   "find": "The ARRL Handbook for Radio Communications",
+   "to": "[The ARRL Handbook for Radio Communications](https://openlibrary.org/search?q=The+ARRL+Handbook+for+Radio+Communications+ARRL)",
+   "in": "The ARRL Handbook for Radio Communications; 47 CFR Part 97 (",
+   "max": 1
+  },
+  {
+   "find": "Radio Astronomy",
+   "to": "[Radio Astronomy](https://openlibrary.org/search?q=Radio+Astronomy+Kraus)",
+   "in": "IS-GPS-200 for the L1 C/A signal level; Semtech SX1276 data ",
+   "max": 1
+  },
+  {
+   "find": "On the Continuity of High Efficiency Modes in Linear RF Power Amplifiers",
+   "to": "[On the Continuity of High Efficiency Modes in Linear RF Power Amplifiers](https://search.crossref.org/?q=On+the+Continuity+of+High+Efficiency+Modes+in+Linear+RF+Power+Amplifiers)",
+   "in": "Frank Ellinger, Radio Frequency Integrated Circuits and Tech",
+   "max": 1
+  },
+  {
+   "find": "First Demonstration of Amplification at 1 THz Using 25-nm InP High Electron Mobility Transistor Process",
+   "to": "[First Demonstration of Amplification at 1 THz Using 25-nm InP High Electron Mobility Transistor Process](https://search.crossref.org/?q=First+Demonstration+of+Amplification+at+1+THz+Using+25-nm+InP+High+Electron+Mobility+Transistor+Process)",
+   "in": "GlobalFoundries and STMicroelectronics RF SOI process briefs",
+   "max": 1
+  },
+  {
+   "find": "5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate",
+   "to": "[5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate](https://search.crossref.org/?q=5+GHz+Laterally-Excited+Bulk-Wave+Resonators+%28XBARs%29+Based+on+Thin+Platelets+of+Lithium+Niobate)",
+   "in": "Ken-ya Hashimoto, Surface Acoustic Wave Devices in Telecommu",
+   "max": 1
+  },
+  {
+   "find": "The Fundamentals of Millimeter Wave Sensors",
+   "to": "[The Fundamentals of Millimeter Wave Sensors](https://search.crossref.org/?q=The+Fundamentals+of+Millimeter+Wave+Sensors)",
+   "in": "Texas Instruments IWR6843 and IWR1843 data sheets and the wh",
+   "max": 1
+  },
+  {
+   "find": "Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar",
+   "to": "[Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar](https://search.crossref.org/?q=Soli%3A+Ubiquitous+Gesture+Sensing+with+Millimeter+Wave+Radar)",
+   "in": "Texas Instruments IWR6843 and IWR1843 data sheets and the wh",
+   "max": 1
+  },
+  {
+   "find": "Microwave Photonics",
+   "to": "[Microwave Photonics](https://search.crossref.org/?q=Microwave+Photonics)",
+   "in": "Charles H. Cox III, Analog Optical Links; Jianping Yao, \"Mic",
+   "max": 1
+  },
+  {
+   "find": "A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation",
+   "to": "[A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation](https://search.crossref.org/?q=A+Legacy+in+Orbit%3A+NOAA+Decommissions+the+POES+Satellite+Constellation)",
+   "in": "IS-GPS-200 for the L1 C/A signal level; Semtech SX1276 data ",
+   "max": 1
+  },
+  {
+   "find": "Touchstone File Format Specification, Version 2.0",
+   "to": "[Touchstone File Format Specification, Version 2.0](https://ibis.org/touchstone_ver2.0/)",
+   "in": "Touchstone File Format Specification, Version 2.0, IBIS Open",
+   "max": 1
+  },
+  {
+   "find": "scikit-rf documentation",
+   "to": "[scikit-rf documentation](https://scikit-rf.readthedocs.io/)",
+   "in": "Touchstone File Format Specification, Version 2.0, IBIS Open",
    "max": 1
   },
   {
