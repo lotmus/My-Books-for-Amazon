@@ -1,0 +1,10 @@
+OPS = [
+('image', 6, 2, 'figures/fig1_two_arcs.png', 'Figure 1. The two arcs of this book: the physical world from quarks to the observable universe, then life from the cell to civilization.',
+ 'Two horizontal powers-of-ten scales in meters. First arc, Parts I to VI: quark (below 10^-18 m), proton (10^-15 m), atom (10^-10 m), molecule, a person (1 m), Earth (10^7 m), Solar System (10^13 m), galaxy (10^21 m), observable universe (10^27 m). Second arc, Parts VII to XI: DNA (2 nm wide), cell (10^-6 to 10^-4 m), brain (0.15 m), body (1.7 m), forest or reef, the living planet (10^7 m), technology reaching other worlds.'),
+('image', 346, 0, 'figures/fig3_standard_model.png', 'Figure 2. The particles of the Standard Model, with rounded masses.',
+ 'Quarks, generation I to III: up 2.2 MeV, charm 1.27 GeV, top 173 GeV; down 4.7 MeV, strange 93 MeV, bottom 4.18 GeV. Leptons: electron 0.511 MeV, muon 106 MeV, tau 1.78 GeV; electron, muon and tau neutrinos, each below 0.45 eV. Force carriers: gluon 0, photon 0, Z boson 91.2 GeV, W boson 80.4 GeV. Higgs boson 125 GeV.'),
+('image', 22, 1, 'figures/fig2_cosmic_timeline.png', 'Figure 3. A timeline of the universe. Top: the first 50 000 years on a logarithmic scale of seconds. Bottom: the rest of cosmic history in billions of years.',
+ 'First 50 000 years, seconds after the Big Bang: Planck time 10^-43 s, where known physics ends; inflation near 10^-34 s, if it happened; electroweak force splits near 10^-12 s; quarks bind into protons and neutrons near 10^-5 s; light nuclei form in the first minutes; matter outweighs radiation at about 50 000 years. Billions of years after the Big Bang: atoms form and the microwave background is released at 380 000 years; first stars about 0.2; reionization complete about 1; cosmic star formation peaks about 3.5; expansion starts to accelerate about 7.8; Sun and Earth form 9.2; today 13.8.'),
+('sub', 365 if False else 366, 'a link between particle collisions and the black-hole holography of the earlier chapters.', 'a link between particle collisions and the black-hole holography of {ch14}.'),
+('sub', 196, 'described earlier in this chapter,', 'described in {ch27},'),
+]

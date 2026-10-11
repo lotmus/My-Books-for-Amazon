@@ -1,0 +1,27 @@
+OPS = [
+('title', 500, 'Hormones and Their Hierarchies'), ('title', 502, 'The Heart and Blood Pressure'),
+('title', 517, 'The Hard Problem'), ('title', 526, 'Self-Recognition and Culture in Dolphins and Orcas'),
+('title', 561, 'The Oxygen Cycle and the Rock Archive'), ('title', 566, 'Paleoclimate, Feedbacks and Sea Level'),
+('title', 573, 'Metapopulations, Coevolution and Macroecology'),
+('title', 582, 'Why Large Networks Generalize'), ('title', 588, 'Hashes, Signatures and Side Channels'),
+('title', 602, 'Replication and Its Safeguards'), ('title', 608, 'How Gödel’s Proof Works'),
+('title', 616, 'Coding Theorems and Quantum Extensions'),
+('sub', 607, ' The proof constructs a sentence that asserts its own unprovability. If the system is consistent, the sentence is true yet unprovable.', ''),
+('sub', 615, 'A noiseless channel can transmit at any rate below the entropy.', 'No lossless code can compress the source below that average.'),
+('sub', 587, 'resting on the physics described in the chapters on quantum information.', 'resting on the physics described in {ch29}.'),
+# Bell / entanglement
+('replace_p', 306, 1, "The result does not permit faster-than-light signaling, but it does rule out outcomes fixed in advance by local variables. The correlations are stronger than any local mechanism can produce. The first tests were delicate; the latest are conclusive, and versions of them are now teaching-laboratory demonstrations. Local realism, the joint assumption that outcomes are predetermined and that no influence travels faster than light, is false, and the falsity is measured."),
+('delp', 307, 1),
+('sub', 307, 'The violation is established.', 'Three loophole-free tests in 2015 settled the matter, and Alain Aspect, John Clauser and Anton Zeilinger shared the 2022 Nobel Prize in Physics for the experiments.'),
+('replace_p', 307, 3, "The experiments rule out local hidden-variable theories but do not select among the remaining interpretations ({ch27}). Each side’s outcomes stay random; only the joint statistics show the violation, which is why no signal can be sent. The same resource drives quantum teleportation ({ch29})."),
+('title', 308, 'How the Inequality Works'),
+('delp', 308, 0), ('delp', 308, 3), ('delp', 308, 4),
+('replace', 310, ["Quantum entanglement is a correlation between subsystems that no assignment of pre-existing local properties can reproduce. For two spin-1/2 particles in the singlet state, spin measurements along the same axis are perfectly anti-correlated; along axes at an angle θ the correlation is −cos θ. The same resource powers quantum teleportation, super-dense coding and device-independent cryptography, so entanglement is both a foundational feature of quantum mechanics and a practical tool."]),
+('title', 310, 'Entanglement as a Resource'),
+('join', 310, 311), ('move', 309, 310),
+# Reichenbach
+('sub', 595, ' The conventionality is limited. It is not arbitrary. The limits are those of the light-cone structure.', ''),
+('replace', 596, ["Reichenbach’s principle of the common cause states that if two events are correlated and neither causes the other, a common cause in their past screens off the correlation. Classical correlations obey it: two thermometers in one room agree because the room’s temperature is their common cause. The correlations of entangled particles do not, since no local common cause can screen them off; that is the content of Bell’s theorem ({ch28}). The principle remains the default assumption, and its failure is the signature of quantum non-locality."]),
+('join', 595, 596), ('join', 595, 597), ('join', 595, 598), ('join', 595, 599), ('join', 595, 600),
+('movep', 595, 3),
+]
