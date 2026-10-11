@@ -23,7 +23,7 @@
 * Turkey Drumstick: phuonghoangthuy, Pixabay (Pixabay Content License)
 * Rouladen: Brücke-Osteuropa, Wikimedia Commons (CC0)
 * Crispy Chicken Schnitzel with Fried Potatoes: Andy Li, Wikimedia Commons (CC0)
-* Crispy Duck with Red Cabbage, Walnut Crumble, and Dumpling Slices: Ludwig Kwan, Pexels (Pexels License)
+* Crispy Duck with Red Cabbage, Walnut Crumble, and Dumpling Slices: Valeria Boltneva, Pexels (Pexels License), pexels.com/photo/17751633 (replaced 11 Oct 2026)
 * Sour Pot Roast: Jameres, Wikimedia Commons (Public domain)
 * Beef Fillet with Potato-Celery Puree: Taha Samet Arslan, Pexels (Pexels License)
 * Bavarian Lentil Stew: Openverse (CC0)
@@ -40,7 +40,7 @@
 * Bavarian Pretzels: Anton Maienfeldt, Wikimedia Commons (CC0)
 * Sourdough Bread: Nutrition, Food Safety & Health, Wikimedia Commons (CC0)
 * Bavarian Green Bean Salad: Teguh S, Pexels (Pexels License)
-* German Doughnuts: Anh Nguyen, Pexels (Pexels License)
+* German Doughnuts: Anh Nguyen, Pexels (Pexels License), pexels.com/photo/39866725 (replaced 11 Oct 2026)
 * Bayerischer Scheiterhaufen: User:Panzi, Wikimedia Commons (Public domain)
 * Marble Bundt Cake: Gundula Vogel, Pexels (Pexels License)
 * Bavarian Plum Cake: Garitzko, Wikimedia Commons (Public domain)
@@ -86,11 +86,11 @@
 * Baked Apples with Almonds and Vanilla Sauce: neelam279, Pixabay (Pixabay Content License)
 * Bavarian Turkey Döner Kebab: Patrick, Pexels (Pexels License)
 * Bavarian Bread Soup: Daderot, Wikimedia Commons (CC0)
-* Sirloin Steak with Fried Onions and Gravy: wifechef, Pixabay (Pixabay Content License)
+* Sirloin Steak with Fried Onions and Gravy: Sergej, Pexels (Pexels License), pexels.com/photo/37548414 (replaced 11 Oct 2026)
 * Pichelsteiner Meat and Vegetable Stew: Hansuan_Fabregas, Pixabay (Pixabay Content License)
 * Franconian Roast Pork Shoulder: RitaE, Pixabay (Pixabay Content License)
 * Sour Sausages in Onion-Vinegar Broth: tommao wang, Unsplash (Unsplash License)
-* Napkin Dumpling: Hans, Pixabay (Pixabay Content License)
+* Napkin Dumpling: Vero Lova, Pexels (Pexels License), pexels.com/photo/37047943 (replaced 11 Oct 2026)
 * Bee Sting Cake: Ralphs_Fotos, Pixabay (Pixabay Content License)
 * Elisen Lebkuchen: AI-generated image (Microsoft Copilot)
 * Creamy Mushroom Dish: AI-generated image (Microsoft Copilot)
@@ -120,3 +120,10 @@
 * Weißwurst with Sweet Mustard and Pretzel: AI-generated image (Microsoft Copilot)
 * Oktoberfest Roast Chicken: AI-generated image (Microsoft Copilot)
 * Bavarian Savoy Cabbage Lasagna: AI-generated image (Microsoft Copilot)
+
+## Kindle cover (11 Oct 2026)
+
+* Food photo (roast pork knuckle): Vinícius Caricatte, Pexels (Pexels License), pexels.com/photo/14007234. Background darkened and blurred around the dish.
+* Neuschwanstein and the Alps: cropped from the earlier Copilot-generated cover art (AI-generated).
+
+All 120 recipe photos were cropped, given a gentle warm colour and contrast boost and a thin blue border for the 11 Oct 2026 edition (build/photos_process.py).

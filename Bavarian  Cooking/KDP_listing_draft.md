@@ -37,8 +37,8 @@ Whether you are cooking for family, planning an Oktoberfest party, or missing a 
 - Kindle eBooks > Cookbooks, Food & Wine > Cooking by Ingredient or Course > Main Courses (or Desserts)
 
 ## Upload checklist
-- **Manuscript:** upload the EPUB (`Bavarian Cooking Made Simple (Kindle).epub`) or the Word file. Check the preview in Kindle Previewer.
-- **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (2000 x 3000 px). **Open (11 Oct):** the cover still reads ANNETTE TAUBER and "120+ Delicious Recipes". The first name must become ANNELIESE, and "120+" should become "120" (the book has exactly 120 recipes), before upload. Not redrawn, on Lothar's instruction.
+- **Manuscript:** upload the Word file (`Bavarian Cooking Made Simple (Kindle).docx`, 11 Oct visual pass). The EPUB is older (10 Oct) and does not have the new recipe layout or photos. Check the preview in Kindle Previewer.
+- **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (1600 x 2560 px). Redrawn 11 Oct: ANNELIESE TAUBER, "120 Delicious Recipes", roast pork knuckle photo (Pexels License) under a small Neuschwanstein. The castle is AI-generated, so answer "Yes" for the cover.
 - **AI-generated content:** answer "Yes" for the cover, the AI recipe pictures (Microsoft Copilot), and the AI-assisted text (new recipes and corrections were AI-assisted). Keep the original Copilot files in the `photos\ai_originals` folder.
 - **Rights:** the other pictures are public domain, CC0, Pexels, Pixabay, or Unsplash images; see the Photo Credits page.
 - **Cooking disclaimers:** the "Before You Cook" page covers raw ingredients, alcohol, and allergens.
