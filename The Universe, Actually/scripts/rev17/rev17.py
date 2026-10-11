@@ -50,9 +50,9 @@ def first_para_after(h):
     i = idx[id(h)] + 1
     while i < len(order) and style(order[i]) == '' and not len(text(order[i]).strip()): i += 1
     return order[i]
-def add_figure(after, caption, alt, title):
+def add_figure(after, caption, alt, title, width=6.0):
     ip = d.add_paragraph(); ip.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    ip.add_run().add_picture(title, width=Inches(6.0))
+    ip.add_run().add_picture(title, width=Inches(width))
     for dp in ip._p.iter('{http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing}docPr'):
         dp.set('descr', alt); dp.set('title', caption[:80])
     cp = newpara(tpl, '*Figure @@. ' + caption.replace('*', '') + '*')
@@ -86,6 +86,27 @@ for name, r in reg.items():
         anchor = order[j]
     add_figure(anchor, r['caption'], r['alt'], r['file']); placed.append(name)
 print('figures placed', len(placed))
+# ---------- real NASA photographs (public domain), compressed for Kindle
+from photos_reg import PH
+from PIL import Image
+os.makedirs('photos_small', exist_ok=True)
+for key, (chn, where, cap, alt, wd) in PH.items():
+    im = Image.open('photos/%s.jpg' % key).convert('RGB'); im.thumbnail((1400, 1400))
+    sm = 'photos_small/%s.jpg' % key; im.save(sm, quality=80, optimize=True)
+    if isinstance(where, int):
+        h = chap[chn]; i = idx[id(h)] + 1; paras = []
+        while i < len(order) and style(order[i]) not in ('Heading1', 'Heading2', 'Heading3'):
+            if len(text(order[i]).strip()) > 40: paras.append(order[i])
+            i += 1
+        anchor = paras[where]
+    else:
+        h = h3.get(norm(where))
+        assert h is not None, ('MISSING photo anchor', key, where)
+        j = idx[id(first_para_after(h))]
+        while j < len(order) and style(order[j]) == '' and len(text(order[j]).strip()) < 60 and style(order[j + 1]) == '': j += 1
+        anchor = order[j]
+    add_figure(anchor, cap, alt, sm, wd)
+print('photos placed', len(PH))
 # ---------- hooks and questions
 rpr0 = base_rpr(runs_of(tpl)[0])
 def bold_run(txt):
@@ -133,4 +154,10 @@ for e in els:
     for m in sorted(set(re.findall(r'Figure (\d+)', t)), reverse=True):
         if m in oldmap and oldmap[m] != m: sub(e, 'Figure ' + m, 'Figure ' + oldmap[m])
 print('figures total', k, 'map', oldmap)
+# US spelling fixes found in the REV16 text
+for t in body.iter(W('t')):
+    v = t.text or ''
+    for a, b in (('analysers', 'analyzers'), ('analyser', 'analyzer'), ('kilometres', 'kilometers'), ('programme', 'program'), ('tonnes', 'metric tons'), ('tonne', 'metric ton')):
+        v = v.replace(a, b)
+    t.text = v
 d.save(out); print('saved', out)

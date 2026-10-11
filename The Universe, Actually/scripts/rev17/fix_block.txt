@@ -1,0 +1,11 @@
+# US spelling fixes found in the REV16 text
+for t in body.iter(W('t')):
+    v = t.text or ''
+    for a, b in (('analysers', 'analyzers'), ('analyser', 'analyzer'), ('kilometres', 'kilometers')):
+        v = v.replace(a, b)
+    t.text = v
+for t in body.iter(W('t')):
+    v = t.text or ''
+    for a, b in (('programme', 'program'), ('tonnes', 'metric tons'), ('tonne', 'metric ton')):
+        v = v.replace(a, b)
+    t.text = v

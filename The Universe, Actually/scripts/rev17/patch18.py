@@ -1,0 +1,8 @@
+s=open('rev17.py',encoding='utf-8').read()
+s=s.replace("def add_figure(after, caption, alt, title):","def add_figure(after, caption, alt, title, width=6.0):")
+s=s.replace("add_picture(title, width=Inches(6.0))","add_picture(title, width=Inches(width))")
+new=open('photo_block.txt',encoding='utf-8').read()
+s=s.replace("print('figures placed', len(placed))\n","print('figures placed', len(placed))\n"+new,1)
+fix=open('fix_block.txt',encoding='utf-8').read()
+s=s.replace("d.save(out); print('saved', out)",fix+"d.save(out); print('saved', out)",1)
+open('rev17.py','w',encoding='utf-8').write(s)

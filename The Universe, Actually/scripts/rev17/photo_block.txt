@@ -1,0 +1,21 @@
+# ---------- real NASA photographs (public domain), compressed for Kindle
+from photos_reg import PH
+from PIL import Image
+os.makedirs('photos_small', exist_ok=True)
+for key, (chn, where, cap, alt, wd) in PH.items():
+    im = Image.open('photos/%s.jpg' % key).convert('RGB'); im.thumbnail((1400, 1400))
+    sm = 'photos_small/%s.jpg' % key; im.save(sm, quality=80, optimize=True)
+    if isinstance(where, int):
+        h = chap[chn]; i = idx[id(h)] + 1; paras = []
+        while i < len(order) and style(order[i]) not in ('Heading1', 'Heading2', 'Heading3'):
+            if len(text(order[i]).strip()) > 40: paras.append(order[i])
+            i += 1
+        anchor = paras[where]
+    else:
+        h = h3.get(norm(where))
+        assert h is not None, ('MISSING photo anchor', key, where)
+        j = idx[id(first_para_after(h))]
+        while j < len(order) and style(order[j]) == '' and len(text(order[j]).strip()) < 60 and style(order[j + 1]) == '': j += 1
+        anchor = order[j]
+    add_figure(anchor, cap, alt, sm, wd)
+print('photos placed', len(PH))
