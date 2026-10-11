@@ -1,0 +1,282 @@
+{
+ "a01_projectile": {
+  "file": "fig/a01_projectile.png",
+  "chapter": 1,
+  "anchor": "Motion and Newton’s Laws",
+  "caption": "Newton’s second law at work. Without air a thrown ball follows a parabola; with air resistance the same throw falls short and descends more steeply.",
+  "alt": "Two curves of height against distance for a ball thrown at 45 degrees and 30 metres per second. The blue curve, without air, is a symmetric parabola about 92 metres long. The red curve, with moderate air drag, is lower, shorter and steeper on the way down."
+ },
+ "a02_damping": {
+  "file": "fig/a02_damping.png",
+  "chapter": 1,
+  "anchor": "Oscillations",
+  "caption": "The three regimes of damped oscillation. Shock absorbers and door closers are tuned to the green curve.",
+  "alt": "Three curves of displacement against time for an oscillator released from rest. With light damping the blue curve oscillates with shrinking amplitude. With critical damping the green curve returns to zero fastest without crossing it. With heavy damping the red curve returns slowly."
+ },
+ "a03_maxwell": {
+  "file": "fig/a03_maxwell.png",
+  "chapter": 2,
+  "anchor": "Temperature, Gas Laws and Phases",
+  "caption": "Temperature is a statement about a distribution. Hotter gas has a lower, broader hump of molecular speeds and a long tail of very fast molecules. At 300 K the most common nitrogen speed is about 420 m/s.",
+  "alt": "Three curves of the distribution of speeds of nitrogen molecules at 100, 300 and 1000 kelvin. The curve for 100 kelvin is tall and narrow near 230 metres per second. The curve for 1000 kelvin is low and broad, peaking near 770 metres per second."
+ },
+ "a04_logistic": {
+  "file": "fig/a04_logistic.png",
+  "chapter": 2,
+  "anchor": "Chaos",
+  "caption": "The logistic map, x → r x (1 − x), computed for 1,100 values of r. Each vertical slice shows where the sequence settles. Doubling of the period leads to chaos near r = 3.57, with a window of order near r = 3.83.",
+  "alt": "A bifurcation diagram. For r below 3 the long-run value is a single point. Between 3 and about 3.45 it splits into two, then four, eight and so on, until at about 3.57 the points fill bands and the behaviour is chaotic. A narrow window of order appears near 3.83."
+ },
+ "a05_lorenz": {
+  "file": "fig/a05_lorenz.png",
+  "chapter": 2,
+  "anchor": "Lyapunov Exponents and Predictability",
+  "caption": "Left: the path of Lorenz’s convection model, a strange attractor. Right: two runs that start one part in a million apart agree for a while, then diverge completely. That is the practical meaning of a positive Lyapunov exponent.",
+  "alt": "Two panels. Left, a butterfly-shaped curve of z against x with two lobes. Right, two traces of x against time, one blue and one red, that overlap closely at first and then drift apart into unrelated oscillations."
+ },
+ "a06_double_slit": {
+  "file": "fig/a06_double_slit.png",
+  "chapter": 3,
+  "anchor": "Optics and Quantum Mechanics",
+  "caption": "Interference from two slits 0.2 mm apart with light of wavelength 600 nm, on a screen 2 m away. Right: the same pattern builds up when particles arrive one at a time, shown as a simulated tally of detections.",
+  "alt": "Left, a curve of brightness against position with evenly spaced peaks about 6 millimetres apart under a broad envelope. Right, a histogram of 1,500 simulated single-particle detections that follows the same banded pattern."
+ },
+ "a07_dipole": {
+  "file": "fig/a07_dipole.png",
+  "chapter": 4,
+  "anchor": "The Electromagnetic Field",
+  "caption": "Field lines leave positive charge and end on negative charge. The lines are densest where the field is strongest, near the charges.",
+  "alt": "Curved field lines running from a positive charge on the left to a negative charge on the right, crowded near each charge and spreading out in between and around them."
+ },
+ "a08_blackbody": {
+  "file": "fig/a08_blackbody.png",
+  "chapter": 5,
+  "anchor": "LEAD:1",
+  "caption": "Thermal radiation computed from Planck’s law (solid) against the classical prediction for 5800 K (dashed), which rises without limit toward short wavelengths. Planck’s assumption that energy comes in quanta removes the divergence and fits the observed curve.",
+  "alt": "Three solid curves of brightness against wavelength for temperatures of 3500, 4500 and 5800 kelvin, each with a single peak. The hotter curves peak at shorter wavelengths. A dashed classical curve for 5800 kelvin climbs steeply at short wavelengths without limit."
+ },
+ "a09_hydrogen": {
+  "file": "fig/a09_hydrogen.png",
+  "chapter": 15,
+  "anchor": "Quantum Mechanics of the Atom",
+  "caption": "The energy levels of hydrogen and the three best-known series of spectral lines. Each arrow is one photon, with energy equal to the drop between levels. The Balmer series, ending on n = 2, is the visible one: 656, 486 and 434 nm.",
+  "alt": "A ladder of horizontal lines for hydrogen’s energy levels from n equals 1 at minus 13.6 electronvolts up to zero at ionization. Downward arrows group into three series ending on levels 1, 2 and 3, named Lyman, Balmer and Paschen."
+ },
+ "b01_bell": {
+  "file": "fig/b01_bell.png",
+  "chapter": 7,
+  "anchor": "How the Inequality Works",
+  "caption": "The quantum correlation for two entangled spins is a cosine, which bows beyond the straight line that local hidden-variable models of this kind can give. At the best angles the combination used in the CHSH inequality reaches 2√2 ≈ 2.83, above the local limit of 2.",
+  "alt": "Correlation against the angle between detector settings from 0 to 180 degrees. The blue quantum curve is minus the cosine of the angle. The red dashed local-model line is straight. The two agree at 0, 90 and 180 degrees and differ in between, which is where the experiments measure."
+ },
+ "b02_bloch": {
+  "file": "fig/b02_bloch.png",
+  "chapter": 8,
+  "anchor": "Quantum Computing",
+  "caption": "A single qubit’s state is a point on a sphere. The poles are the ordinary bit values 0 and 1; every other point is a superposition, with the angle around the equator giving the relative phase. Gates are rotations of the sphere.",
+  "alt": "A sphere with poles labelled zero and one and two equatorial points labelled plus and minus. A red arrow from the centre points to a general position on the surface, standing for an arbitrary superposition."
+ },
+ "b03_binding": {
+  "file": "fig/b03_binding.png",
+  "chapter": 13,
+  "anchor": "Nuclear Binding Energy",
+  "caption": "Binding energy per nucleon against mass number. The curve is computed from the liquid-drop (semi-empirical) mass formula; red points are measured values for selected nuclei. Nuclei near iron-56 and nickel-62 are the most tightly bound, so fusion of light nuclei and fission of heavy ones both release energy.",
+  "alt": "A curve of binding energy per nucleon rising steeply from helium-4 at about 7 million electronvolts to a peak of about 8.8 near iron and nickel at mass number 56 to 62, then declining slowly to about 7.6 at uranium-235. Annotations mark fusion on the rising side and fission on the falling side."
+ },
+ "b04_neutrino": {
+  "file": "fig/b04_neutrino.png",
+  "chapter": 14,
+  "anchor": "Neutrino Mass and Mixing",
+  "caption": "A neutrino produced as one flavor is a mixture of mass states that drift out of step as it travels, so it can be detected as another flavor. Computed from the two-flavor formula with the atmospheric mass splitting 2.5 × 10⁻³ eV² and maximal mixing.",
+  "alt": "Two curves of probability against distance divided by energy. The blue curve, the chance a muon neutrino stays a muon neutrino, falls from one to zero and back repeatedly. The red curve, the chance it has turned into a tau neutrino, rises and falls in the opposite pattern."
+ },
+ "b05_periodic": {
+  "file": "fig/b05_periodic.png",
+  "chapter": 15,
+  "anchor": "The Periodic Table",
+  "caption": "The shape of the periodic table is the shape of the electron shells: two columns where an s subshell fills, six for p, ten for d and fourteen for f. Rows are periods; columns are groups with similar chemistry. (Helium, with a filled 1s shell, sits with the noble gases.)",
+  "alt": "A block layout of the 118 elements with symbols, in seven rows and eighteen columns with two extra rows of fourteen below. Elements are colored by the type of subshell being filled: s on the left, p on the right, d across the middle and f in the lower two rows."
+ },
+ "b06_bands": {
+  "file": "fig/b06_bands.png",
+  "chapter": 17,
+  "anchor": "Semiconductors",
+  "caption": "Energy bands in solids. A metal has a partly filled band. A semiconductor has a full band separated from an empty one by a small gap (about 1.1 eV in silicon) that heat, light or doping can bridge. An insulator’s gap is too wide to cross.",
+  "alt": "Three panels of energy bands. In the metal, one band is partly filled. In the semiconductor, a full valence band sits below an empty conduction band across a gap of about 1.1 electronvolts. In the insulator the gap is much wider, about 9 electronvolts."
+ },
+ "b07_catalysis": {
+  "file": "fig/b07_catalysis.png",
+  "chapter": 16,
+  "anchor": "Surface Chemistry and Catalysis",
+  "caption": "A catalyst offers a lower-energy route over the barrier. The starting and finishing energies, and therefore the equilibrium, are unchanged; the reaction simply gets there faster.",
+  "alt": "Two energy profiles from reactants to products. The blue uncatalyzed curve climbs over a high barrier. The green catalyzed curve climbs a lower barrier. Both start and finish at the same energies."
+ },
+ "c01_lightcone": {
+  "file": "fig/c01_lightcone.png",
+  "chapter": 18,
+  "anchor": "The Speed of Light and the Structure of Spacetime",
+  "caption": "The light cone divides spacetime around an event into the future and past that can be causally connected to it and the “elsewhere” that cannot. Any possible worldline stays inside the cone.",
+  "alt": "A spacetime diagram with space horizontal and time vertical. Two diagonal lines through the central event, drawn at 45 degrees for light, bound a blue upper region labelled absolute future and an orange lower region labelled absolute past. The left and right regions are labelled elsewhere. A red wavy line stays inside the cone."
+ },
+ "c02_gamma": {
+  "file": "fig/c02_gamma.png",
+  "chapter": 18,
+  "anchor": "Length Contraction and Time Dilation",
+  "caption": "The Lorentz factor γ against speed. It is negligible in everyday life and climbs without limit as v approaches c. At 0.6c a moving clock runs 25 percent slow; at 0.998c, the speed of the muons in the worked example, γ ≈ 16.",
+  "alt": "A curve of the Lorentz factor on a logarithmic vertical axis against speed from zero to almost the speed of light. It stays near one until about 0.5 of c, then rises steeply. Marked points show 1.25 at 0.6c, 2.3 at 0.9c, 7.1 at 0.99c and about 16 at 0.998c."
+ },
+ "c03_gps": {
+  "file": "fig/c03_gps.png",
+  "chapter": 20,
+  "anchor": "GPS and Relativity",
+  "caption": "Computed rate difference between an orbiting clock and a clock on the ground (ignoring Earth’s rotation). At GPS altitude the gravitational gain of about 46 µs per day outweighs the 7 µs lost to speed, leaving a net gain near 38 µs per day, which would build into kilometres of positioning error if left uncorrected.",
+  "alt": "Three curves against altitude. A red curve for the gravitational effect rises steadily to about plus 50 microseconds per day at high altitude. A blue curve for orbital speed falls to about minus 12 and flattens. The black net curve crosses zero at roughly 3000 kilometres, and a dotted line marks the GPS orbit at 20,200 kilometres where the net is about plus 38."
+ },
+ "c04_chirp": {
+  "file": "fig/c04_chirp.png",
+  "chapter": 21,
+  "anchor": "The Signal That Traveled for a Billion Years",
+  "caption": "A simulated gravitational-wave chirp from two black holes of 30 solar masses, drawn from the leading-order inspiral formula with a damped ringing tail attached by hand. Frequency and strength rise together as the holes spiral in; the real GW150914 signal swept from 35 to 250 Hz in about 0.2 seconds.",
+  "alt": "A wave trace against time that begins with slow, small oscillations and grows steadily in both frequency and height over a third of a second, ending in a short burst and a quickly fading ringing."
+ },
+ "c05_bh_radii": {
+  "file": "fig/c05_bh_radii.png",
+  "chapter": 22,
+  "anchor": "What a Black Hole Is",
+  "caption": "The geometry outside a non-rotating black hole, in units of the Schwarzschild radius Rₛ = 2GM/c². Light can circle the hole at 1.5 Rₛ; gas can orbit steadily only outside 3 Rₛ, so accretion disks end there and then plunge inward.",
+  "alt": "Concentric circles around a black disk. The black disk is the event horizon of radius Rs. A circle at one and a half Rs marks the photon sphere. A larger circle at three Rs marks the innermost stable circular orbit."
+ },
+ "c06_page": {
+  "file": "fig/c06_page.png",
+  "chapter": 24,
+  "anchor": "The Page Curve and the Paradox",
+  "caption": "A schematic of the information puzzle. If Hawking radiation were exactly thermal, the radiation’s entanglement would grow for ever (dashed). If evaporation is unitary, it must peak at the Page time and fall to zero (solid). Island calculations reproduce the solid curve.",
+  "alt": "Two curves of entanglement entropy against time. A red dashed curve rises throughout. A blue curve rises until the Page time, marked by a dotted vertical line at the middle, then falls back to zero at the end of evaporation."
+ },
+ "d01_hr": {
+  "file": "fig/d01_hr.png",
+  "chapter": 28,
+  "anchor": "Stars and Nuclear Burning",
+  "caption": "The Hertzsprung–Russell diagram plots a star’s brightness against its surface temperature. Most stars lie on the main sequence, where mass sets both; stars that have exhausted core hydrogen move up to the giants, or end as white dwarfs below the sequence. Regions are schematic.",
+  "alt": "A plot with temperature increasing to the left and luminosity increasing upward, both logarithmic. A band from the upper left to the lower right is the main sequence, marked with the Sun near the middle. Red giants and supergiants form clouds above it on the right, and white dwarfs form a cloud below it on the left."
+ },
+ "d02_exoplanet_methods": {
+  "file": "fig/d02_exoplanet_methods.png",
+  "chapter": 27,
+  "anchor": "Exoplanet Detection, Demographics and Atmospheres",
+  "caption": "The two classic detection methods. Left: a transit dims the star by the square of the radius ratio. Right: the star’s reflex velocity measures the planet’s pull (12.5 m/s is Jupiter’s effect on the Sun). Both curves are illustrative.",
+  "alt": "Two panels. Left, a flat light curve with a shallow box-shaped dip of about one percent lasting a few hours. Right, a sine wave of the star’s velocity of plus and minus 12.5 metres per second over two orbits."
+ },
+ "d03_habzone": {
+  "file": "fig/d03_habzone.png",
+  "chapter": 27,
+  "anchor": "Planetary Habitability",
+  "caption": "The habitable zone moves outward and widens for heavier, brighter stars and shrinks toward the star for small, dim ones. Computed from main-sequence luminosities with Kasting-style flux limits of 1.1 and 0.36 times the flux Earth receives. Venus and Mars lie near the Sun’s zone edges.",
+  "alt": "A green band showing orbital distance, on a logarithmic scale, against stellar mass. The band rises from about 0.1 AU for a star of 0.2 solar masses to several AU for a star twice the Sun’s mass. Dashed lines mark the orbits of Venus, Earth and Mars."
+ },
+ "d04_retention": {
+  "file": "fig/d04_retention.png",
+  "chapter": 25,
+  "anchor": "Planetary Atmospheres",
+  "caption": "A planet holds a gas for billions of years if its escape speed exceeds about six times the gas molecules’ typical speed. Lines show that threshold for common gases; dots are approximate values for worlds. Earth keeps nitrogen and oxygen but has lost hydrogen; Jupiter keeps everything; the Moon keeps nothing.",
+  "alt": "Rising curves of the speed threshold against temperature for hydrogen, helium, water, nitrogen and carbon dioxide, with hydrogen highest. Dots mark worlds by escape speed and temperature. Jupiter lies above all lines, Earth between the hydrogen and nitrogen lines, and the Moon below nearly all of them."
+ },
+ "d05_rotation": {
+  "file": "fig/d05_rotation.png",
+  "chapter": 30,
+  "anchor": "Galaxies",
+  "caption": "Stars far from a spiral galaxy’s center orbit as fast as those nearer in, instead of slowing as the visible mass would predict. The flat curve was a key early piece of evidence for dark matter. The curves are illustrative, shaped like real ones, not data from one galaxy.",
+  "alt": "Two curves of orbital speed against distance from the galaxy center. The red dashed curve for visible matter rises and then declines. The blue curve for the observed rotation rises and then stays roughly flat near 200 kilometres per second out to 30 kiloparsecs."
+ },
+ "d06_scale_factor": {
+  "file": "fig/d06_scale_factor.png",
+  "chapter": 31,
+  "anchor": "Radiation, Matter and Vacuum Eras",
+  "caption": "The scale factor a(t), computed from the Friedmann equation with 31.5 percent matter and 68.5 percent dark energy (dashed: a matter-only universe). Early on the expansion slows under gravity; since roughly 5 billion years ago dark energy has made it speed up.",
+  "alt": "A rising curve of the size of the universe against time from 14 billion years in the past to 25 billion years in the future, equal to one at the present. The blue curve flattens then steepens upward. The red dashed matter-only curve rises more slowly and keeps flattening."
+ },
+ "d07_cmb": {
+  "file": "fig/d07_cmb.png",
+  "chapter": 32,
+  "anchor": "The Cosmic Microwave Background",
+  "caption": "The spectrum of the cosmic microwave background follows the Planck curve for 2.7255 K to better than one part in ten thousand. The dots stand for the measurements made by COBE’s FIRAS instrument in 1990; they lie on the curve within the line width.",
+  "alt": "A smooth rising and falling curve of brightness against frequency from 0 to 600 gigahertz with a peak near 160 gigahertz. Red dots stand on the curve."
+ },
+ "d08_budget": {
+  "file": "fig/d08_budget.png",
+  "chapter": 33,
+  "anchor": "The Dark Sector at a Glance",
+  "caption": "The cosmic energy budget today, from the Planck satellite’s ΛCDM fit: about 68 percent dark energy, 27 percent dark matter and 5 percent ordinary matter. Of the ordinary 5 percent, stars and planets make up only about a tenth.",
+  "alt": "A donut chart in three parts: 68 percent dark energy, 27 percent dark matter and 5 percent ordinary matter."
+ },
+ "d09_entropy": {
+  "file": "fig/d09_entropy.png",
+  "chapter": 35,
+  "anchor": "Entropy",
+  "caption": "Entropy as counting. For 100 molecules the number of ways of having k on the left is the binomial coefficient C(100, k). Nearly all arrangements are close to an even split, so the gas ends up there; with 10²³ molecules the peak is a spike.",
+  "alt": "A bar chart of probability against the number of molecules in the left half. The bars form a narrow bell shape centered on 50, with a maximum of about 8 percent. Bars near 0 and 100 are invisibly small."
+ },
+ "d10_calendar": {
+  "file": "fig/d10_calendar.png",
+  "chapter": 0,
+  "anchor": "The Cosmic Calendar",
+  "caption": "The cosmic calendar: 13.8 billion years squeezed into one year, so that one day is about 38 million years. Dates are approximate. Our species appears about eleven minutes before midnight on 31 December, and all of recorded history fits into the final twelve seconds or so.",
+  "alt": "A circular calendar divided into twelve months with red markers: the Big Bang on 1 January, the Sun and Earth forming on 1 September, the earliest life in late September, oxygen in the air in late October, animals with shells in mid December and the end of the dinosaurs on 30 December."
+ },
+ "e01_popgen": {
+  "file": "fig/e01_popgen.png",
+  "chapter": 38,
+  "anchor": "Population Genetics",
+  "caption": "Left: with random mating and no selection, genotype frequencies settle into p², 2pq and q² in one generation. Right: simulated drift with no selection. Six runs each start with allele A at 50 percent; in a population of 20 the allele soon drifts to loss or fixation, while in 500 it barely moves.",
+  "alt": "Left, three curves of genotype frequency against allele frequency: a rising parabola for AA, a hump peaking at one half for Aa and a falling parabola for aa. Right, six red random-walk lines in a small population wander to zero or one within a few dozen generations, while six blue lines in a large population stay near 0.5."
+ },
+ "e02_action_potential": {
+  "file": "fig/e02_action_potential.png",
+  "chapter": 49,
+  "anchor": "The Nervous System",
+  "caption": "A computed nerve impulse. A brief stimulus pushes the membrane past threshold; sodium channels open and the voltage spikes to about +40 mV within a millisecond, then potassium channels open and the voltage falls back, briefly undershooting the resting level. The shape is all-or-none.",
+  "alt": "Two panels. The upper trace of membrane voltage against time sits at minus 65 millivolts, spikes to about plus 40 shortly after a brief stimulus shown in the lower panel, falls below rest and recovers. Annotations mark sodium channel opening on the rise and potassium channel opening on the fall."
+ },
+ "e03_logistic_growth": {
+  "file": "fig/e03_logistic_growth.png",
+  "chapter": 61,
+  "anchor": "Ecology",
+  "caption": "Population growth. With unlimited resources growth is exponential (dashed). Competition, predation and disease slow it as numbers rise, giving the S-shaped logistic curve that levels off at the carrying capacity K.",
+  "alt": "A blue S-shaped curve rising from about 10 to a ceiling of 1000 labelled carrying capacity, and a red dashed exponential curve that shoots upward past the ceiling."
+ },
+ "e04_energy_balance": {
+  "file": "fig/e04_energy_balance.png",
+  "chapter": 62,
+  "anchor": "LEAD:1",
+  "caption": "Earth’s energy balance in round numbers (global and annual averages). The planet absorbs about 240 W/m² and must radiate the same to space. Greenhouse gases return part of the surface’s infrared radiation, so the surface is about 33 °C warmer than it would be otherwise. Adding greenhouse gas tips the balance by a few tenths of a watt per square meter at a time.",
+  "alt": "A diagram of the atmosphere and surface with arrows: 340 watts per square meter of sunlight arriving, 100 reflected, 240 infrared leaving to space, about 400 radiated by the surface and about 340 returned downward by greenhouse gases."
+ },
+ "e05_shannon": {
+  "file": "fig/e05_shannon.png",
+  "chapter": 63,
+  "anchor": "Information Theory",
+  "caption": "Left to right, the same function seen two ways. H(p) = −p log₂p − (1−p) log₂(1−p) is the information in a biased coin toss, largest when the outcome is most uncertain. Subtracting it from 1 gives the capacity of a channel that flips each bit with probability p; at p = ½ nothing gets through.",
+  "alt": "Two curves against probability from 0 to 1. The blue curve is a hump rising from 0 to 1 bit at probability one half and falling back. The red curve is its mirror image, falling from 1 to 0 at one half and rising again."
+ },
+ "e06_earth_layers": {
+  "file": "fig/e06_earth_layers.png",
+  "chapter": 56,
+  "anchor": "The Structure of the Earth",
+  "caption": "The Earth’s interior drawn to scale. The crust is so thin it is a line at this size. Seismic waves reveal the layers: shear waves do not pass through the liquid outer core, which is how it was found.",
+  "alt": "A circular cross-section of the Earth with a thin crust, a thick mantle, a liquid outer core and a small solid inner core, each labelled."
+ },
+ "e07_dna": {
+  "file": "fig/e07_dna.png",
+  "chapter": 39,
+  "anchor": "The Double Helix",
+  "caption": "A schematic of the double helix. Two sugar–phosphate backbones wind around each other, joined by pairs of bases: A with T and G with C. About ten base pairs make one turn of 3.4 nanometres. The sequence along one strand fixes the sequence of the other, which is the copying rule.",
+  "alt": "Two intertwined wavy lines, one blue and one red, forming a double helix, with short colored rungs between them for the paired bases."
+ },
+ "e08_carbon_budget": {
+  "file": "fig/e08_carbon_budget.png",
+  "chapter": 62,
+  "anchor": "LEAD:3",
+  "caption": "Where the carbon dioxide we emit goes, in round numbers for the early 2020s. Human sources of about 10.7 billion tonnes of carbon a year are matched by sinks: about half stays in the air, raising the concentration, and the rest is absorbed by the ocean and by land plants. The small mismatch is the budget imbalance. Source: Global Carbon Budget estimates, rounded.",
+  "alt": "Two stacked bars. The left bar, about 10.7 billion tonnes of carbon per year, is mostly fossil fuel emissions with a small land-use part. The right bar splits about 5.2 staying in the atmosphere, 2.9 absorbed by the ocean and 3.2 by land plants."
+ }
+}
