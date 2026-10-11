@@ -83,6 +83,51 @@ The following is fictional and offered as a model of tone and length.
 
 Notice what it does: it states that it is not a will and where the will is; tells a scene; explains a decision; makes a specific apology; expresses specific gratitude; releases them from an obligation; and gives clear permissions. It is under six hundred words.
 
+### Writing it in four evenings
+
+Most people who intend to write an ethical will never start, because the blank page asks for a summary of their life. Do it in four evenings instead, an hour each, and do not reread the previous evening's work until the last one.
+
+1. **Evening one: scenes.** Write down, as fast as you can, ten moments from your life that you would want your family to know about. One sentence each. Do not explain them. Then circle the two or three that explain the most.
+2. **Evening two: beliefs.** For each circled scene, write what it taught you, in one sentence, and then the story of how you came to believe it. If you cannot find a story behind a belief, leave the belief out.
+3. **Evening three: the hard parts.** One decision you want to explain. One apology, naming the event. One thing you are not asking anyone to repeat. Write these as if you were saying them to one person across a table.
+4. **Evening four: gratitude, permissions, and the cut.** Add specific gratitude. Add what may be shared and what may be destroyed. Then read everything aloud once, and cut anything that sounds like a sermon, a lecture, or a score being settled. What is left is usually about two pages.
+
+### The read-aloud test
+
+Read the finished letter aloud, as if to the person it is for. Three things to listen for:
+
+- **Would you say it to their face?** If not, either soften it or ask yourself why it is in a letter they will read when you cannot answer.
+- **Does any sentence begin "You should"?** Rewrite it as a hope, or delete it.
+- **Is there a sentence they will want to quote at your funeral?** If there is not, find the most honest sentence in the letter and make it the last one.
+
+### Give it now, or leave it for later?
+
+Both are legitimate, and they do different things.
+
+- **Giving it now** turns the letter into a conversation. The people you wrote to can answer, ask, disagree, or thank you. Some writers find that the apology section is better delivered in person, with the letter as a script.
+- **Leaving it for later** lets you say things you could not say face to face, and gives the people you love something from you after you are gone. Tell them it exists and where it is, so that it is found; a letter in a drawer nobody opens is a letter not sent.
+- **A middle way:** give a copy now, and leave a second, longer one for later, or record yourself reading it (Chapter 31's rule still applies: say at the start that it is not your will).
+
+### A shorter ethical will, for people who hate writing
+
+Not everyone will write two pages. A one-page version, built from the same shape, still does the job.
+
+> *For my daughter.*
+>
+> *This is not my will; that is with the lawyer. This is the rest.*
+>
+> *I learned to swim at forty-four because you were five and wanted me in the water. I was terrified. You held my hand and told me to "just float." I have used that advice for thirty years, in hospitals and in arguments and on the night your father died.*
+>
+> *I am sorry I was so hard on you about the university. I was afraid you would make my mistakes. You made your own, which is what I should have wanted.*
+>
+> *Thank you for the Sunday phone calls, every one of them.*
+>
+> *You don't have to keep my china. Keep the photographs. Share this with whoever you like.*
+>
+> *Just float.*
+
+It is under a hundred and fifty words, and it has a scene, a belief that came from it, a specific apology, specific gratitude, a release, a permission, and a last line worth keeping.
+
 ## Chapter 34. Letters Beside the Will
 
 ### Explaining unequal gifts
@@ -100,6 +145,20 @@ Show the letter to your lawyer, so it does not contradict the will or create an 
 Silence is not a plan. In California, a child born or adopted after you made your will who is not mentioned may be entitled to a share (Probate Code § 21620), and a lawyer will usually make any omission explicit. In Germany, a child cut out of the estate still has a compulsory share, which can be withdrawn only on narrow, serious grounds set out in the Civil Code (BGB § 2333).
 
 Whatever the will does, a letter can do something the will cannot: speak to the person. It need not reconcile. It can simply say what happened from your side, without asking for a reply. Some people find, writing it, that they want to send it while they are alive. That is also allowed.
+
+### A letter to an estranged child, sketched
+
+This is the hardest letter in the book to write, and the one most often abandoned. It is fictional, and it is meant only to show a tone: factual, unhurried, and not asking for anything.
+
+> *I am writing this because I may not get another chance to say it, and because I would rather you heard it from me than worked it out from a document.*
+>
+> *We have not spoken for nine years. I know how it started, from my side: the argument at your sister's wedding, and what I said about your husband, which was unkind and, as it turned out, wrong. I am sorry for it. I have not been sorry in the right way until recently, because for a long time I thought I was waiting for you to call.*
+>
+> *My will leaves you a share equal to your sister's. I want you to know that this is not a gesture. It is what I think is right.*
+>
+> *You do not need to reply to this letter. If you would like to talk while there is still time, my number has not changed. If you would rather not, I understand, and I hope your life is a good one. I think it is.*
+
+What it does not do matters as much as what it does. It does not relitigate the argument. It does not ask for forgiveness as a condition of anything. It does not use the inheritance as leverage. And it says plainly what the will does, so the child does not have to guess (if the will gave less, the letter should say that too, and why, calmly; show such a letter to your lawyer before it goes anywhere, for the reasons explained above).
 
 ### Timed messages
 

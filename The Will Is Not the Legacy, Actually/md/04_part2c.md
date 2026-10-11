@@ -38,8 +38,6 @@ On the tax, the honest answer is that some couples marry or register partly for 
 - Write the place and date and sign with your first and last name at the end, below the last line of text. Anything added below the signature may not count.
 - If you change your mind, write a new will rather than crossing things out.
 
-None of this replaces advice. It does make the difference between a document a court can read and one it has to interpret.
-
 **The California version.** In California a typed will can be perfectly valid, but only if it is witnessed by two people (Probate Code § 6110). The engineer's document, typed and signed but unwitnessed, would have failed in California too, unless the family could show by clear and convincing evidence that he intended it as his will, which California allows courts to accept in some cases. California also gives no intestate rights to an unmarried partner who is not a registered domestic partner. Both countries agree: if you are not married, you must write it down, properly.
 
 **If it has already happened.** If you are the unmarried partner of someone who has died with an invalid will, or none, get advice immediately about your own position: whether you have any rights in the home under a tenancy or a contract, whether any accounts were joint, whether life insurance names you. Ask the heirs, early and in writing, for time. Many heirs will agree to a period of months if asked respectfully; few agree when they first hear from a lawyer.
@@ -53,94 +51,79 @@ None of this replaces advice. It does make the difference between a document a c
 
 ### Case 13: The California form will, half filled in
 
-**The situation.** The mother was a retired school secretary in Oakland, sixty-six, with two adult children, a son and a daughter, and a stepson from her late husband's first marriage, whom she had raised from the age of six and loved as her own. She had always meant to make a will. One afternoon, in a stationery shop, she saw a printed fill-in-the-blanks will kit and bought it, pleased to have finally done something.
+The mother was a retired school secretary in Oakland, sixty-six, with a son, a daughter, and a stepson from her late husband's first marriage, whom she had raised from the age of six and loved as her own. She had always meant to make a will. One afternoon in a stationery shop she saw a printed fill-in-the-blanks will kit and bought it, pleased to have finally done something about it.
 
-At home, she filled in the blanks in her own handwriting. The printed text said things like "I give my residuary estate to the following persons in equal shares:" and the mother wrote the three children's names. She signed and dated it at the bottom. The form had lines for two witnesses. She did not have it witnessed, because it was evening and she lived alone, and because, she reasoned, it was a printed legal form; surely that counted for something.
+At home that evening she filled in the blanks by hand. Where the printed text said "I give my residuary estate to the following persons in equal shares:", she wrote the three children's names. She signed and dated the bottom. The form had lines for two witnesses. She left them empty, because it was evening and she lived alone, and because it was a printed legal form; surely that counted for something.
 
-She died eighteen months later.
+She died eighteen months later, and all three children assumed the estate would be divided three ways, which is what she wanted and what the form appeared to say.
 
-**What the family assumed.** All three children assumed the will divided the estate three ways, which is what the mother wanted and what the form appeared to say.
+California recognises two main kinds of individual will, and her document sat in the gap between them. A formal will must be signed by the testator and witnessed by at least two people, present at the same time, who understand that it is the testator's will (Probate Code § 6110). A holographic will needs no witnesses, but its signature and its *material provisions*, who gets what, must be in the testator's own handwriting (§ 6111). The statute expressly allows the statement of intent, "this is my will," to be part of a commercially printed form. It does not allow the gifts themselves to be printed.
 
-**What actually happened, and why.** California recognises two main kinds of individual will. A formal will must be in writing, signed by the testator, and witnessed by at least two people who are present at the same time and understand that it is the testator's will (Probate Code § 6110). A holographic will needs no witnesses, but the signature and the *material provisions* (who gets what) must be in the testator's own handwriting (§ 6111). The statute expressly allows the statement of intent, "this is my will," to be part of a commercially printed form. It does not allow the gifts themselves to be printed.
+With no witnesses, the will could survive only as a holographic will. Did her handwritten names, with her signature, make up the material provisions, or were the printed words around them, "I give my residuary estate ... in equal shares," doing the real work? Courts have looked at questions like this before, and the answer depends on the particular form and the particular handwriting.
 
-The mother's will had no witnesses, so it could survive only as a holographic will. The question was whether her handwritten words, "the three children," together with her signature, made up the material provisions, or whether the printed words around them, "I give my residuary estate ... in equal shares," were doing the real work. Courts have looked at questions like this before, and the outcome depends on the particular form and the particular handwriting.
+The question mattered because of the stepson. If the will failed, the estate would pass under the intestacy rules to her children, and her stepson was not, in law, her child. California treats a stepchild as a child for inheritance only in narrow circumstances: generally, where the relationship began during the child's minority, continued throughout both lives, and there is clear and convincing evidence that the stepparent would have adopted the child but for a legal barrier (§ 6454). She had never adopted him because his mother, while alive, would never have consented. Whether that met the test was a question for another court, on another day.
 
-The question mattered enormously, because of the stepson. If the will failed, the mother's estate would pass under the intestacy rules to her children. Her son and daughter were her children. The stepson was her stepchild, and California's intestacy rules treat a stepchild as a child for inheritance purposes only in narrow circumstances, generally where the relationship began during the child's minority, continued throughout both lives, and there is clear and convincing evidence that the stepparent would have adopted the child but for a legal barrier (§ 6454). The mother had never adopted the stepson because his mother, while alive, would never have consented. Whether that met the test was another question for another court.
+Her son and daughter said at once that they wanted their stepbrother to share equally, whatever any court decided. It worked. But it meant two people making a gift out of their own inheritance, with possible gift tax paperwork, and it rested entirely on the goodwill of two people who could have chosen otherwise.
 
-Her son and daughter, to their great credit, said at once that they wanted the stepson to share equally, whatever the court said. That was generous, and it worked, but it required her son and daughter to make a gift to the stepson out of their own inheritance, with possible gift tax paperwork, and it depended entirely on the goodwill of two people who could have chosen otherwise.
+California offers a free statutory will form (§ 6240), published by the California courts and designed for people like her. It requires two adult witnesses, and its instructions say, in capitals, that notarisation alone is not enough. Done properly, it takes about ten minutes:
 
-**What would have prevented it.** California offers a free statutory will form (§ 6240), published by the California courts. It is simple, it is designed for people like the mother, and it requires two adult witnesses. Its own instructions say, in capitals, that notarisation alone is not enough. The mother could have signed it on a Saturday with two neighbours, or at her bank, or at her church, in about ten minutes.
-
-Alternatively, she could have written the whole will by hand, from "This is my will" to her signature, which would have been a valid holographic will. Or she could have seen a lawyer, who would also have asked about the stepson and might have suggested that, since adoption of an adult is possible in California, the family consider whether it was wanted.
-
-**The plain-language version.** A will needs either witnesses or the testator's own handwriting doing the important work. A printed form with a few words filled in has one foot in each camp and may fall between them. Witnesses are the cheapest insurance in estate planning.
-
-**Signing the statutory will in ten minutes.** The California statutory will is a fill-in form, and it is designed to be completed without a lawyer. The process is simple and worth describing because so many people never get round to it.
-
-1. Download the current form from the California courts' website and read its instructions all the way through, once.
-2. Fill in the choices in ink. The form offers set options; it does not allow you to write in your own complicated arrangements. If you need something it does not offer, that is a sign you need a lawyer.
-3. Find two adults who receive nothing under the will. Ask them to sit with you at the same table at the same time.
-4. Tell them, "This is my will." Sign it while they watch.
+1. Download the current form from the California courts' website and read its instructions all the way through, once, before writing anything.
+2. Fill in the choices in ink. The form offers set options; if you need something it does not offer, that is a sign you need a lawyer.
+3. Find two adults who receive nothing under the will, and sit with them at the same table at the same time.
+4. Tell them, "This is my will," and sign while they watch.
 5. Each witness signs in your presence and in each other's presence.
 6. Put the original somewhere safe, write its location on your Family List, and tell your executor.
 
-That is all. Ten minutes, two neighbours, one pen. It is the most underused free legal document in the state.
+She could also have written the whole will by hand, from "This is my will" to her signature, which would have been a valid holographic will. Or she could have seen a lawyer, who would have asked about the stepson and might have mentioned that adult adoption is possible in California, if the family wanted it.
 
-**If it has already happened.** If you find a parent's will on a printed form, unwitnessed, do not throw it away and do not try to "fix" it by adding witnesses afterwards; that can make things worse. Take the original, untouched, to a probate lawyer. Whoever has it must deliver it to the court within thirty days of learning of the death in any case (§ 8200). The lawyer can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it voluntarily. Families often are, when they understand what the parent wanted and what a court fight would cost.
+!> **The takeaway.** A will needs either witnesses or the testator's own handwriting doing the important work. A printed form with a few words filled in has one foot in each camp and can fall between them. If you use a kit, read its signing page first and book the witnesses before you pick up the pen.
 
-**Why kits are tempting and what to look for.** Will kits sell because they promise a finished document in an evening. Some are perfectly good, if they are written for your state and you follow their signing instructions exactly. The danger lies in the gap between buying the kit and signing it properly. If you use one, read the signing page first, before you fill anything in, and book the witnesses before you start. A kit that tells you only to sign and date is either written for a different jurisdiction or relying on handwriting rules it does not explain.
+**If you find a will like this.** Do not throw it away, and do not try to fix it by adding witnesses afterwards; that can make things worse. Whoever has the original must deliver it to the court within thirty days of learning of the death (§ 8200). Take it, untouched, to a probate lawyer, who can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it. Families often are, once they understand what the parent wanted and what a court fight would cost.
 
 **What to do.**
 
 - Download the California statutory will form and read its signing page before you fill in anything.
 - Book two disinterested adult witnesses before you start, and sign in front of both at the same time.
 - If you want a stepchild to inherit, name them in the will. The intestacy rules include stepchildren only in narrow cases.
-- If you already have a fill-in form will without witnesses, re-sign a proper will now rather than hoping a court will rescue the old one.
+- If you already have a fill-in form will without witnesses, sign a proper will now rather than hoping a court will rescue the old one.
 
 ### Case 14: The witness who was also the heir
 
-**The situation.** The father was a retired machinist in Long Beach, eighty, with two daughters and a fully restored 1967 convertible that he had rebuilt over four years with his elder daughter's husband. The car was red. It had won two prizes at local shows. It was, in the father's words, "the only thing I ever finished."
+*This case is told twice: once as it happened, and once as an uneventful afternoon that would have left nothing to argue about.*
 
-The father asked a paralegal to type a will for him, following his instructions: one third of the estate to the elder daughter, one third to the younger daughter, one third to his church; and the car to the son-in-law, "because he helped me rebuild it." The father signed it one evening at his kitchen table. His two witnesses were his next-door neighbour and the son-in-law, who happened to be there for dinner.
+**As it happened.** The father was a retired machinist in Long Beach, eighty, with two daughters and a red 1967 convertible that he had rebuilt over four years with his elder daughter's husband. It had won two prizes at local shows. It was, in his words, "the only thing I ever finished."
 
-The younger daughter, who lived in Sacramento and had loved the car since she was nine, did not know about the gift until the will was read.
+He asked a paralegal to type a will on his instructions: a third of the estate to each daughter, a third to his church, and the car to his son-in-law, "because he helped me rebuild it." He signed it one evening at his kitchen table. His witnesses were his next-door neighbour and the son-in-law, who happened to be there for dinner. The younger daughter, who lived in Sacramento and had loved that car since she was nine, heard about the gift for the first time when the will was read. She assumed someone had talked her father into it.
 
-**What the family assumed.** The father assumed the will was valid, because it was typed, signed, and witnessed by two people. The son-in-law assumed the car was his. The younger daughter assumed someone had talked her father into it.
+The will was valid. California does not cancel a will because a witness benefits from it (Probate Code § 6112). But the same section adds a safeguard: unless there are at least two other, disinterested witnesses, a gift to a witness raises a presumption that the witness procured it by duress, menace, fraud, or undue influence. Ordinarily the person alleging pressure must prove it. Here the presumption flipped the burden, and the son-in-law had to prove that he had not pressured his father-in-law.
 
-**What actually happened, and why.** The will was valid. California does not cancel a will because a witness benefits from it (Probate Code § 6112). But the same section adds a safeguard. Unless there are at least two other, disinterested witnesses, a gift to a witness raises a presumption that the witness procured it by duress, menace, fraud, or undue influence.
+The younger daughter challenged the gift. His evidence was good: four years of photographs in the garage, the prize ribbons, the neighbour's account of the father talking about the gift for months, the paralegal's notes. The court found that he had rebutted the presumption, and he kept the car. The case took ten months, and the legal fees on both sides would have bought a respectable second convertible. The two sisters, who shared a bedroom as girls, now communicate mainly through their children.
 
-In plain words: the law suspects the witness. The son-in-law, because he witnessed a will that gave him a car, had to prove that he had not pressured the father into giving it. Ordinarily it would have been the younger daughter's job to prove pressure. The presumption flipped the burden.
+**As it could have gone.** Same father, same car, same wishes. This time the paralegal's office books the signing at the office on a Tuesday morning. The father arrives on his own. He talks about the weather and last night's baseball, reads the will through, asks one sensible question about the church's legal name, and signs in front of two office staff who receive nothing and will never be surprised by the result. Above their signatures, an attestation clause records that he declared the document to be his will and signed it in their presence. The son-in-law is at work.
 
-The younger daughter challenged the gift. The son-in-law's evidence was good: photos of the two of them in the garage over four years, the prize ribbons, the neighbour's testimony that the father had talked about the gift for months, the paralegal's notes. The court found that the son-in-law had rebutted the presumption, and he kept the car. But the case took ten months, and the legal fees on both sides would have bought a respectable second convertible. The younger daughter and the elder daughter, who had shared a bedroom as girls, now communicate mainly through their children.
+The will itself tells the story of the gift: *I give my 1967 convertible to my son-in-law [full name], who spent four years helping me restore it. I make this gift with love for both my daughters, who will share the rest of my estate equally.* And on a Sunday a month later, the father phones his younger daughter. "The car's going to your sister's husband. He built it with me. You'll get your third of everything else, and I want you to have the photographs from the shows." She is disappointed, and says so. Then she asks whether she can drive it once more at Christmas.
 
-**What would have prevented it.** Two disinterested witnesses. The neighbour and anyone else who received nothing: another neighbour, the paralegal, a colleague. Or three witnesses, with two of them disinterested. That is all. Many law offices have their own staff witness wills for exactly this reason: staff receive nothing, have no family connection, and will remember, if asked, that the testator seemed clear and calm.
+When he dies, there is nothing to pull at. A beneficiary was not in the room; no witness had a stake; the reason was written down and had already been heard by the person most likely to object.
 
-The more subtle prevention would have been a conversation. The father could have told the younger daughter, while he was alive, "The car goes to my son-in-law. He helped me build it. You'll get your third of everything else." It might not have pleased her. It would have removed the suspicion, which was the real engine of the lawsuit.
+**The difference, line by line.**
 
-**Choosing witnesses well.** A good witness is an adult who receives nothing under the will, is not married or closely related to anyone who does, knows you slightly or not at all, and is likely to be findable for years. A colleague from another department, a neighbour two doors down, staff at a lawyer's office. Lawyers usually include an attestation clause: a short paragraph above the witnesses' signatures in which they confirm that the testator declared the document to be their will and signed it in their presence. It is useful evidence if questions arise later, and it can spare the witnesses from being tracked down years afterwards to remember an ordinary afternoon.
+- **Witnesses:** a neighbour and the beneficiary, or two people with no stake. With two disinterested witnesses, the presumption never arises.
+- **The reason for the gift:** in the son-in-law's evidence after the fact, or in the will itself.
+- **The disappointed daughter:** surprised at the reading, or told kindly a year earlier.
+- **Cost:** ten months and two sets of fees, or a Tuesday morning.
 
-**The German version.** German private wills need no witnesses at all; the handwriting does that job. For notarial wills, the law excludes notaries and certain persons from taking part in recording a will that benefits them or their relatives. The underlying idea is the same as California's: the people who make the document official should not be the people who profit from it.
+Estate disputes are rarely about the largest asset. They are about the object that carries a story: the car, the ring, the piano. The younger daughter did not need the car. She wanted the afternoons she remembered in it, and the will seemed to give those afternoons to her brother-in-law. A gift with a story needs the story told, in the will or beside it.
 
-**What the paperwork should have looked like.** A will that leaves a specific item to someone who helped the testator is perfectly normal. What protects it is the evidence around it. The father's lawyer, had he used one, would have met the father alone, asked why he wanted the son-in-law to have the car, and written down the answer. The will itself might have said, "I give my 1967 convertible to my son-in-law [full name], who spent four years helping me restore it; I make this gift with love for both my daughters, who will share the rest of my estate equally." The signing would have taken place at the lawyer's office, with two staff members as witnesses, and the son-in-law at home. None of that costs much. All of it makes a challenge look unpromising.
+**In Germany,** a private will needs no witnesses; the handwriting does that job. For notarial wills, the law excludes notaries and certain persons from taking part in recording a will that benefits them or their relatives. The idea is the same: the people who make the document official should not be the people who profit from it.
 
-**If it has already happened.** If you are named in a will you witnessed, tell the executor and get your own advice. Gather the evidence that shows the testator's wish was genuinely theirs: messages, photographs, conversations other people heard, notes from anyone who drafted the will. If you are the family member who suspects pressure, ask yourself honestly what you would gain from a challenge, after costs, and whether the testator's reasons, once you hear them, might be ones you can live with.
-
-**Questions to ask before anyone signs.**
-
-- Does either witness, or the spouse of either witness, receive anything under this will?
-- Will both witnesses be reachable in ten years?
-- Is there anyone who might be surprised by a gift? Have I told them?
-
-**Why it was the car, not the money.** Disputes over estates are rarely about the largest asset. They are about the object that carries a story: the car, the ring, the piano, the cabin. The younger daughter did not need the car. She wanted the afternoons she remembered sitting in it with her father, and the will seemed to give those afternoons to her brother-in-law. A gift with a story needs the story told, in the will or beside it, and if possible to the person who will be disappointed, while the giver is alive to tell it kindly.
-
-**Why boring signings win.** Lawyers who litigate wills say the same thing in different words: the strongest evidence for a will is an uneventful signing. A testator who arrives on their own, talks about the weather, reads the will, asks one sensible question, and signs in front of two people who will never benefit and will never be surprised by the result leaves almost nothing to argue about. Every departure from that picture, a beneficiary in the room, a witness with a stake, a signing at the kitchen table after dinner, becomes a thread someone can pull. The father's will survived because the son-in-law had good evidence. It would have survived without a lawsuit if the signing had been dull.
+**If it has already happened.** If you are named in a will you witnessed, tell the executor and get your own advice, and gather the evidence that the wish was genuinely the testator's: messages, photographs, conversations others heard, notes from whoever drafted the will. If you suspect pressure, ask yourself honestly what you would gain from a challenge, after costs, and whether the testator's reasons, once you hear them, might be ones you can live with.
 
 **What to do.**
 
-- Ask: does either witness, or a witness's spouse, receive anything? If so, find another witness.
+- Before anyone signs, ask: does either witness, or a witness's spouse, receive anything? If so, find another witness.
 - For a gift to someone who helped you, say in the will what the help was.
 - Tell the person who will be disappointed about the gift while you are alive, and tell them why.
-- Sign at a lawyer's office with staff witnesses if you can. Their memory of an ordinary signing is the best evidence you can leave.
+- Sign at a lawyer's office with staff witnesses if you can. An ordinary signing is the best evidence you can leave.
 
 ### Case 15: The original that nobody could find
 
@@ -166,21 +149,11 @@ A notarial will would have been registered in the same way.
 
 **The California version.** California has no state-run will register. The standard advice is to keep the signed original where the executor can find it, often with the lawyer who drafted it, and to tell the executor where it is. Whoever has the original must deliver it to the clerk of the superior court within thirty days of learning of the death (Probate Code § 8200). A lost will is worse in California than in Germany: if the will was last in the testator's possession, the testator remained competent, and the original cannot be found, the law presumes the testator destroyed it on purpose to revoke it (§ 6124). The presumption can be overcome with evidence, but the family starts uphill.
 
-**How official custody works in practice.** In Germany, you take your handwritten will to the local court (*Amtsgericht*) of your choice, usually the one where you live. The court puts it in a sealed envelope, records it, registers it in the Central Register of Wills, and gives you a deposit receipt. You can take a handwritten will back out of custody at any time; for a handwritten will, taking it back does not revoke it, but for a notarial will, taking it back out of official custody counts as revoking it (BGB § 2256), which surprises people. If you want to change a will in custody, the simplest course is to write a new one and deposit that as well; a later will overrides an earlier one to the extent they conflict.
+**How official custody works in practice.** In Germany, you take your handwritten will to the local court (*Amtsgericht*) of your choice, usually the one where you live. The court puts it in a sealed envelope, records it, registers it in the Central Register of Wills, and gives you a deposit receipt. You can take a handwritten will back out of custody at any time; for a handwritten will, taking it back does not revoke it, but for a notarial will, taking it back out of official custody counts as revoking it (BGB § 2256), which surprises people. If you want to change a will in custody, the simplest course is to write a new one and deposit that as well; a later will overrides an earlier one to the extent they conflict. The court gives you a deposit receipt (*Hinterlegungsschein*); keep it in your binder, because it tells your family at once which court holds the will. The court returns a will from custody only to the testator in person, and a joint will only to both spouses together, which is another safeguard against a helpful relative "tidying up." One line on the Family List does the rest: "Original will: in official custody at the local court in Passau, deposit receipt in binder, section 1."
 
-**On the Family List.** One line: "Original will: in official custody at the local court in Passau, deposit receipt in binder, section 1." Or, in California: "Original will: with our lawyer at [office], copy in binder."
-
-**What it cost.** The cost in money was small; in Germany, an estate without a will is often cheaper to settle than one with a disputed will. The cost to the granddaughter was everything the grandmother had meant her to have, and the knowledge that her grandmother had tried. The sons, who would both have honoured the will if it had been found, were left to decide on their own how generous to be, which is a burden nobody should inherit. One of them still wonders whether the folder in the cellar was really the will at all.
+**What it cost.** The cost to the granddaughter was everything the grandmother had meant her to have, and the knowledge that her grandmother had tried. The sons, who would both have honoured the will if it had been found, were left to decide on their own how generous to be, which is a burden nobody should inherit. One of them still wonders whether the folder in the cellar was really the will at all.
 
 **If it has already happened.** If you believe a will existed but cannot find it, search thoroughly and systematically: desks, safes, files, books, the deceased's car, safe deposit boxes, the lawyer or notary the person used, and the local probate court, which can check whether a will is held in official custody. In Germany, the court will also learn from the Central Register of Wills whether any registered will exists. Write down who saw what, when, and what they remember it saying, as soon as possible, while memories are fresh. Look for copies, drafts, photographs, or letters that mention it. Then ask a lawyer whether that evidence is enough. Sometimes it is.
-
-**Questions to ask now.**
-
-- Where exactly is the original of my will?
-- Who knows where it is?
-- Would it survive a flood, a fire, or a well-meaning relative clearing the house?
-
-**The receipt is part of the plan.** When a German court accepts a will into official custody, it gives the testator a deposit receipt (*Hinterlegungsschein*). Keep it with your Family List: it tells your family at once which court holds the will, and it is what you show if you ever want the will back. The court returns a will from custody only to the testator in person, and a joint will only to both spouses together, which is another safeguard against a helpful relative "tidying up."
 
 **What to do.**
 
@@ -191,42 +164,51 @@ A notarial will would have been registered in the same way.
 
 ### Case 16: The no-contest clause that scared nobody
 
-**The situation.** The father built a successful logistics company in Irvine, sold it at sixty, and spent his seventies on golf and grievances. He had a daughter from his first marriage, with whom he had a relationship that both of them described, on good days, as complicated. He had a second wife and a son with her.
+*A conversation in a lawyer's office in Orange County, three weeks after a funeral. The daughter has brought a copy of her father's last will and a hospital discharge letter. The lawyer handles will contests.*
 
-At seventy-seven, the father had a stroke. He recovered partly, but his speech was slower and his memory unreliable. Two weeks after he came home from hospital, the second wife arranged for a lawyer to visit him there. In a single meeting, with the second wife in the room, the father signed a new will leaving almost everything to the second wife and her son, and 50,000 dollars to the daughter. The lawyer added a no-contest clause: anyone who challenged the will would lose their gift. The second wife was told, and told the father, that this would "stop any fight."
+**The daughter:** He built a logistics company and sold it at sixty. The estate is about eleven million dollars. This will leaves almost everything to his second wife and their son, and fifty thousand to me. And it says that if I challenge it, I lose the fifty thousand.
 
-The father died eight months later. His estate was worth about eleven million dollars.
+**The lawyer:** That's a no-contest clause. When did he sign?
 
-**What the family assumed.** The second wife assumed the clause would keep the daughter quiet, because 50,000 dollars was better than nothing. The daughter, who had seen her father in hospital and heard him struggle to remember her children's names, assumed something had gone badly wrong.
+**The daughter:** Two weeks after he came home from hospital. He'd had a stroke at seventy-seven. He recovered partly, but his speech was slow and his memory wasn't reliable. When I visited him, he couldn't remember my children's names.
 
-**What actually happened, and why.** A no-contest clause says, in effect, "if you challenge this document, you lose what it gives you." It is a deterrent: it works only when the person has something to lose and expects to lose the challenge.
+**The lawyer:** Where was it signed, and who arranged it?
 
-California limits these clauses. Under Probate Code § 21311, a no-contest clause can be enforced against a direct contest, such as a claim that the will is invalid because of forgery, lack of capacity, or undue influence, only if the contest was brought *without probable cause*. Probable cause, roughly, means that the facts known to the person would lead a reasonable person to believe there is a reasonable likelihood the challenge will succeed after further investigation.
+**The daughter:** At home. His wife arranged for a lawyer to come to the house. One meeting. She was in the room. She told him the clause would "stop any fight."
 
-The daughter had probable cause and then some. Her father signed a will that cut her share drastically, two weeks after a stroke, at home, in a single meeting arranged by the main beneficiary, who sat in the room. She could contest the will without risking her 50,000 dollars. And because the stakes were eleven million, the clause was not much of a deterrent anyway.
+**The lawyer:** It won't. In California a no-contest clause can be enforced against a direct contest, one that says the will is invalid for forgery, lack of capacity, or undue influence, only if the contest was brought without probable cause. Roughly, probable cause means the facts you know would lead a reasonable person to believe there's a reasonable likelihood the challenge will succeed after further investigation.
 
-She contested. The case turned on the evidence of the father's capacity and on whether the second wife had exercised undue influence. California law looks at factors such as the vulnerability of the person, the influencer's apparent authority, the actions taken, and whether the result was fair. The litigation lasted three years. It ended in a settlement that gave the daughter considerably more than 50,000 dollars and gave everyone a lasting dislike of the others. The lawyers did well.
+**The daughter:** And do I have that?
 
-**What would have prevented it.** The clause was not the problem. The circumstances of signing were.
+**The lawyer:** A will that drastically cuts your share, signed two weeks after a stroke, at home, in a single meeting arranged by the main beneficiary, who sat in the room? That is close to the textbook picture. I'd want the medical records before I promise anything. But on what you've told me, you can very likely contest without risking the fifty thousand. And frankly, fifty thousand against a share of eleven million was never much of a deterrent.
 
-- **Timing.** If the father wanted to change his will, the safest time was before the stroke, or, failing that, after a clear recovery, with his doctor's opinion of his capacity on record.
-- **Process.** The lawyer should have met the father alone, without the second wife, more than once, asked open questions about his family and his reasons, and kept notes. Many lawyers in these situations ask a doctor to examine the client close to the signing. Some arrange for the signing to be video-recorded; that can help or hurt, depending on how the client presents, so it is a judgment for the lawyer.
-- **A real gift.** A no-contest clause deters only if the gift at risk is large enough to matter. Fifty thousand dollars against a possible share of millions deters nobody.
-- **A letter.** A calm letter from the father, written in his own words before the stroke if possible, explaining why he was dividing the estate as he did, would not have bound anyone, but might have helped the daughter understand. People sue less over decisions they understand, even when they dislike them (Chapter 34).
+**The daughter:** What would we actually have to prove?
 
-**What "capacity" actually means.** People often imagine that capacity to make a will means being perfectly well. It does not. In California, a person has the capacity to make a will if, at the time, they understand the nature of making a will, can recall the nature and situation of their property, and remember and understand their relations to their family and to the people affected by the will (Probate Code § 6100.5). A person with early dementia, or recovering from a stroke, can still meet that test on a good day. The difficulty is proving it afterwards. The father may well have had capacity. Nobody wrote down the evidence that would have shown it.
+**The lawyer:** Two different things, and people mix them up. The first is capacity. It doesn't mean being perfectly well. Under the Probate Code, he had capacity if, at the time, he understood the nature of making a will, could recall the nature and situation of his property, and remembered and understood his relations to his family and to the people affected. Someone recovering from a stroke can meet that test on a good day. The second is undue influence: someone with full capacity can still be pressured into a will that isn't really theirs. The court looks at how vulnerable he was, how much authority and access she had, what she actually did, and whether the result was fair.
 
-Undue influence is a different question. A person can have full capacity and still be pressured into a will that is not really theirs. California's courts look at the whole picture: how vulnerable the person was, how much authority and access the influencer had, what the influencer actually did, and whether the result was fair. Two weeks after a stroke, a new will drafted at home, with the main beneficiary arranging the meeting and sitting in on it, ticks too many of those boxes to ignore. A lawyer who sees those boxes ticked should slow down.
+**The daughter:** He may have had capacity. I honestly don't know.
 
-**The German version.** German law has no exact equivalent, but wills often contain a so-called *Pflichtteilsstrafklausel* in a couple's joint will: a child who claims their compulsory share after the first parent's death is limited to the compulsory share after the second death too. It deters for the same reason as the California clause, and fails for the same reason: if the child has more to gain from claiming than from waiting, the clause will not stop them.
+**The lawyer:** Then the problem is that nobody wrote down the evidence that would show it either way. That's what we'll be fighting about.
 
-**If it has already happened.** If you are the child left with a small gift and a no-contest clause, do not decide in anger. Get a lawyer's view on whether you have probable cause, and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter, and consider early mediation. Will contests are often settled in the end; settling them early saves the most.
+She contested. The litigation lasted three years and ended in a settlement that gave her considerably more than fifty thousand dollars and gave everyone a lasting dislike of everyone else. The lawyers did well.
 
-**The German version of the capacity question.** German law sets its own test: a person cannot make a valid will if, because of a mental disorder or impairment of consciousness, they cannot understand the significance of what they are declaring and act on that understanding (BGB § 2229). German notaries must satisfy themselves of capacity and record their impression in the deed, which is one reason a notarial will made after an illness is harder to attack than a handwritten one. In both countries the evidence that matters most is evidence gathered on the day, by someone neutral.
+The law the lawyer described is in the Probate Code: no-contest clauses and probable cause in § 21311, capacity in § 6100.5. The clause was never the problem. The signing was.
+
+**What would have prevented it.**
+
+- **Timing.** The safest time to change the will was before the stroke, or after a clear recovery, with his doctor's opinion of his capacity on record.
+- **Process.** A lawyer meeting him alone, without the second wife, more than once, asking open questions about his family and his reasons, and keeping notes. In these situations many lawyers ask a doctor to examine the client close to the signing. Some video-record it; that can help or hurt, depending on how the client presents, so it is the lawyer's judgment.
+- **A gift worth losing.** A no-contest clause deters only if the gift at risk is large enough to matter.
+- **A letter.** A calm letter in his own words, written before the stroke if possible, explaining why he divided the estate as he did. It would bind nobody, but people sue less over decisions they understand, even when they dislike them (Chapter 34).
+
+**In Germany,** there is no exact equivalent, but a couple's joint will often contains a *Pflichtteilsstrafklausel*: a child who claims a compulsory share after the first parent's death is limited to the compulsory share after the second death too. It deters, and fails, for the same reason: if the child has more to gain from claiming than from waiting, it will not stop them. Germany's capacity test is its own: a person cannot make a valid will if, because of a mental disorder or impairment of consciousness, they cannot understand the significance of what they are declaring and act on that understanding (BGB § 2229). Notaries must satisfy themselves of capacity and record their impression in the deed, which is one reason a notarial will made after an illness is harder to attack than a handwritten one.
+
+**If you are in either chair.** If you are the child left with a small gift and a no-contest clause, do not decide in anger; get a lawyer's view on probable cause and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter and consider early mediation. Most will contests settle eventually. Settling early saves the most.
 
 **What to do.**
 
 - If you plan a large change to your will after an illness, ask your lawyer how to document your capacity, and meet the lawyer alone.
 - Do not arrange a will appointment for a parent from whom you will benefit. Let them arrange it, or ask someone neutral to.
 - If you leave someone much less than they expect, leave them enough that a no-contest clause would actually cost them something.
-- Explain an unequal plan in a calm letter written while you are well (Chapter 34).
+- Explain an unequal plan in a calm letter written while you are well.
+

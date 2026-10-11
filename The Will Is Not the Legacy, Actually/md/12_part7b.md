@@ -27,6 +27,33 @@ Some families record a short message on each birthday, or at New Year, or on the
 
 The diary can include longer sessions in which a family member interviews you. Grandchildren are often the best interviewers: they ask the questions adults are too polite to ask. "Did you ever get in trouble with the police?" "What was the worst thing you ate in the war?" Let them.
 
+### A year of prompts
+
+If you would rather not choose a prompt each week, use a theme for each month and pick one question from it. Over a year, this gives a rounded portrait without anyone having planned it.
+
+- **January:** the house you grew up in, and the people in it.
+- **February:** how you met the people you love.
+- **March:** school, teachers, and what you were good and bad at.
+- **April:** your first job, your first money, your first mistake with money.
+- **May:** places: the town, the holiday, the walk you always took.
+- **June:** your work, as it actually was on an ordinary day.
+- **July:** food: a recipe, a meal you remember, the kitchen.
+- **August:** friendships, including the ones that ended.
+- **September:** beliefs, and how they changed.
+- **October:** the hardest year of your life, and how you got through it.
+- **November:** gratitude: one person a week, by name, for one specific thing.
+- **December:** what you hope for the people who will watch this.
+
+### When the diary gets hard
+
+A diary kept through illness, grief, or old age will reach weeks that are hard to record. A few things help.
+
+- **Lower the bar further.** One minute is a diary entry. So is ten seconds saying "bad day; more next week."
+- **Change the medium.** On days when you do not want to be seen, record audio only.
+- **Say what is true, and then something else.** "The treatment is hard this month. Also, the plum tree is flowering." The people who watch later will want both.
+- **Decide in advance what is private.** If some entries are for no one, put them in a separate folder and say in the index what should happen to it (Chapter 32).
+- **Let someone help.** A family member can set up the phone, ask a question, and leave the room.
+
 ## Chapter 30. Organising, Storing, and Keeping It Alive
 
 A hundred recordings on a phone that nobody can open are not a legacy. They are a locked box. This chapter is about making sure the recordings outlive the device, the account, and you.
@@ -92,6 +119,21 @@ This is where most video legacies fail. The recordings exist; nobody can get to 
 4. **Turn on legacy settings.** Several major phone, photo, and cloud services offer a legacy-contact or inactive-account setting, which lets a person you name download your data after your death. Check the services you use, turn the setting on, and tell the person you named. Under California's digital-assets law, a direction given through such a tool can override a contrary instruction in your will (Probate Code § 873), so make the tool and the will agree.
 5. **Keep the subscription paid.** Tell your executor that the cloud storage holding the recordings must not be cancelled until everything has been downloaded.
 6. **Give a copy now.** The simplest protection of all: give your archive-keeper a drive with a copy of everything, today, and update it once a year. They cannot be locked out of something they already have.
+
+### The archive-keeper's first evening
+
+It helps to imagine the other side. Your archive-keeper, weeks after your death, opens the drive or the shared folder for the first time. What should they find?
+
+1. **A file called `Start here`.** One page, in plain words: who you are leaving this to, what is in the folders, where the index is, and what you would like done first. "Please send each grandchild the message in their folder within a month. The rest can wait."
+2. **The index,** sorted by recipient, with the opening instructions for sealed messages (see below) and permissions from Appendix H.
+3. **Folders that match the index.**
+4. **A short list of who else holds copies,** so nothing is lost if this copy fails.
+
+An index entry needs only a line or two:
+
+> `2026-10-10 Grandpa - for grandson - at eighteen.mp4` · For my grandson, at eighteen, or earlier if he asks. Three minutes. About the screw jars and the apprenticeship. Private to him; he may share it.
+
+The archive-keeper's job is then possible in an evening instead of a year. They can deliver the urgent messages first, watch the rest when they are ready, and know what you wanted without having to guess at every file.
 
 ### Sealed and timed messages
 
