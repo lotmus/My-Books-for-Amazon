@@ -111,3 +111,26 @@ Lothar's later decisions replace the drawing and split proposals above.
 | The Murder That Hadn't Happened Yet | 0.39 |
 | Gravitation, Actually | 0.90 |
 | Science Sparks | 0.97 |
+
+## No Word tables in the Kindle files (10 Oct 2026, late)
+
+Every Kindle master below now has no `<w:tbl>`. Tables became Kindle-friendly text: 1-column boxes (such as "Try it now" or "Question and answer") were lifted out unchanged. 2-column tables became one paragraph per row ("**first cell** — second cell", or "**1.** ..." for numbered exercises). Tables with 3 or more columns became a bold key line with the column headings, then one paragraph per row (first cell bold, each further value labelled with its heading on its own line). Tables that need columns became an inline PNG about 800 px wide (matrices at their natural size), with all of the table's text in the alt text: matrices with bracket cells, tables with 2 or more number columns, and wide tables (5+ columns of short entries). No words were lost, which was checked word by word against the original including the alt text. Exercises and solutions only changed format. Bookmarks and links are unchanged. None of these books had floating pictures or text boxes.
+
+| Book | Tables | As text | As image |
+|---|---|---|---|
+| EE Book 1 Foundations | 17 | 17 | 0 |
+| EE Book 2 Circuits | 2 | 2 | 0 |
+| Life, Actually | 2 | 1 | 1 (Mendel's counts) |
+| Schrodinger's Paperwork | 1 | 1 | 0 |
+| A Trip Is Not a New Life | 7 | 6 | 1 (seven-loop scorecard, 6 columns) |
+| The Universe Has No Now | 2 | 2 | 0 |
+| Gravitation, Actually | 4 | 1 | 3 (speed, horizon and clock-rate number tables) |
+| Quantum, Actually Vol 1 | 19 | 19 | 0 |
+| Math, Actually Vol 2 | 93 | 8 | 85 (displayed matrices) |
+| Quantum, Actually Vol 2 | 413 | 410 | 3 (cos/sin values, divergence degrees, electroweak charges) |
+
+The other books had no tables: EE 3-7, In Love with Murder, The Permitted Options, Math 1/3/4, Physics 1-3, Protocol Flamingo, Science Sparks, Dolphins, Relativistic Investigation Bureau 1-2. Not touched, report only: The Will (31 tables), Bavarian Cooking (1 table and 94 VML pictures), Auswandern (3 tables, 2 floating pictures), How to Publish (2 floating pictures), YouTube Channel (2 floating pictures), and The Universe, Actually (no tables; left to Claude).
+
+Side effect: saving the Quantum books dropped images that the text no longer referenced (Vol 2: 71 files, 1.25 MB; Vol 1: 2 files, 0.12 MB). Vol 2 is now an estimated 2.05 MB and Vol 1 2.09 MB.
+
+On rebuild: `tools/kindle_tables.py` does this. It runs from `kindle_postbuild.py` when the book's `kindle_postbuild.json` has `"tables": true` (Life, The Universe Has No Now, Quantum Vol 2). The other books have no docx build script. The originals are in each book's bak\ as "... - 2026-10-10 pre-no-tables.docx".
