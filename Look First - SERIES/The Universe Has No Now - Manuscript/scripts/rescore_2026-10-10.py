@@ -26,7 +26,7 @@ ab = one(lambda p: p.text == 'ABOUT THE AUTHOR' and p.style.name == 'Heading 1')
 last = P[ab + 2]; assert last.text.startswith('He writes to make')
 GROUPS = [
  ('Physics, Actually', ['Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity', 'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime', 'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge', 'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere']),
- ('More Actually Books', ['Gravitation, Actually: A Short Book on Gravity', 'The Universe, Actually: What Humanity Currently Understands About Reality']),
+ ('More Actually Books', ['Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard', 'The Universe, Actually: What Humanity Currently Understands About Reality']),
  ('Math, Actually', ['Math, Actually, Volume 1: From Arithmetic to Calculus', 'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic', 'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra', 'Math, Actually, Volume 4: From Category Theory to the Frontier']),
  ('Quantum, Actually', ['Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire', 'Quantum, Actually, Volume 2: A QED Course']),
  ('Science Sparks', ['Science Sparks: Physics, Life, and Mathematics \u2014 The Same Few Rules, Told in Highlights']),
