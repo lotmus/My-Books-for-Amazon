@@ -104,3 +104,43 @@ Sampled reread (front matter, Prologue, Chapters 1 and 12, the course and back m
 
 Still open: covers (none yet, by decision; Lothar decides), release date and price.
 
+
+## 11 Oct 2026 (PT), full read-through: 38 fixes
+
+The whole book was read: front matter, Prologue to Epilogue, Coming Next, the course and the back matter, and it was checked against Book 1 (`FINAL_REV11`), the series notes and the two passages taken from *In Love with Murder, Actually* (Weinstein's Sud Expresso anecdote in Ch2 and Pendleton's "It exists on the form" lines in Ch20, both consistent). The docx is edited in place by `scripts/readthrough_2026-10-11.py`; every edit replaces one exact phrase and has to match exactly once. The old docx and md are in `bak/2026-10-11 pre-readthrough/`. The lessons' exercises (Quick tests) are untouched.
+
+Plot logic and clue fairness (the Ch22 solution has to match what the reader saw):
+- **Ch22:** the printout's heading read STATUS OF CASE; the Prologue sheet reads CASE STATUS. Now identical.
+- **Ch12:** the form's grey note read "THE PREVIOUS WARNING ARRIVED AFTER THE ACT", but Ch22 says the back of the sheet *is* that note, and the back reads "The previous warning was sent too late". The note now reads PLEASE NOTE. THE PREVIOUS WARNING WAS SENT TOO LATE.
+- **Ch12:** Penny deletes a recipient line the reader had never been shown. The line (RECIPIENT: SOPHIE, typed by Trevor at lunch) is now on screen before she deletes it.
+- **Ch22:** the carrier route said the sheet arrived "between 09:58:12 and the opening of the door"; 09:58:12 is the door photograph, not the sheet. Now: under the 1047 folder, before the door opened, time unknown.
+- **Ch22:** on Monday Derek stood on the yellow line inside his own office; he never crossed the sill. The recap now says so, and the explanatory paragraph about paces and widths (it read like a note) is replaced by two sentences: from the slabs he can reach the first seat; reaching is not boarding.
+- **Ch22:** Penny is four minutes out of the door, so she answers from a bus stop, not her kitchen; and the British Rail form is in the basement, so the call no longer has Derek reading it aloud.
+- **Epilogue:** Sophie used the Bureau's private phrase "the nearest name", which she cannot know and which brushes against the promise not to tell her about the board. Replaced with "It's the true one." / "Mr Okafor says the true ones usually are."
+
+Continuity:
+- **Prologue:** "He lifted Penny's mug off it": the mug on the folder was Derek's. Now "the mug".
+- **Ch1:** a kettle Penny boiled before ten "clicked off" at 10:22. It now ticks as it cools, and the poured mugs go cold.
+- **Ch1:** Book 1 has device 3 revoked at SUN 01:33, the second one. Was "half past one".
+- **Ch1:** Tabitha, a solicitor, is at home on a Monday: "where she had a brief to read and was not reading it".
+- **Ch4:** "what Penny had taught him on the stairs at ten o'clock": the order was dictated onto Trevor's envelope at 10:22, in the office. "She's said she won't write it down": her text said she had not opened or fetched it. "Twice in a morning" at 13:15 is now "twice in one day".
+- **Ch5:** the Sunday-morning photograph cannot have lived in Penny's bag "since the old Tuesday"; clause removed.
+- **Ch6:** Herbert said Weinstein was staying "to be polite for a week", but he leaves on the Monday. Now "until Monday ... three days together".
+- **Ch9:** Sophie put Julian's hangers "in the hall"; Tuppence and Ch14 have them in her room. Now "in my wardrobe".
+- **Ch12:** Trevor "went to the kitchen" for the kettle that is in the office corner.
+- **Ch13:** Mrs Marsh's kettle is in the lodge (Book 1), not "the kitchen downstairs".
+- **Ch14:** Tuppence rings Derek on Tuesday evening (Epilogue), so "In the daytime" is gone from her plan.
+- **Ch15:** Penny came in at seven and gets up at about ten: "nearly three hours", not two and a half.
+- **Ch16:** Sherlock's "No." came at Paddington in the afternoon, not "at lunch".
+- **Ch17:** Weinstein does the sum "in ink" after getting out his phone; now his pen.
+- **Ch21:** Mrs Marsh says she locks drawer three at half past six but collects the paper at 18:35; now "a quarter to seven". Penny's guidebook appears for the first time and is now "her guidebook to Greece".
+- **Epilogue:** Trevor had gone to move the Mini, so he drives home round the park rather than walking through it.
+
+Facts (every figure in the story and course was recomputed or checked):
+- **Ch1:** 17 minutes of light is 306 million km; added "That's past the far side of the Sun", which sets up Ch10's "the sum about the other side of the Sun".
+- **Ch15:** Hafele and Keating published two short papers (Science 177, 166-170), not "two pages".
+- **Lesson 5:** Hawking's chronology protection is a conjecture, so it "proposes", not "says", that physics forbids closed timelike curves.
+- **Lessons 1, 2 and 4:** at the opening the sheet was in Derek's hand, not yet in his pocket.
+- Checked and unchanged: 1/1200 rate limit (12,000 km/s by time dilation, 250 km/s by Doppler), the flight sums (4.3 ns/h gained at 11 km, 1.25 ns/h lost at 250 m/s, London 290 m/s and Athens 365 m/s of rotation, the x3), Hafele-Keating (-59 +/- 10 and +273 +/- 7 ns observed, -40 and +275 predicted), the laser's 6 ns for 896 mm, 41.2 m = 45 yd, 07:40 to 13:05 local = 3 h 25, the two one o'clocks on the night UK clocks go back, Munich one hour ahead, DCF77 at Mainflingen for the PTB, the caesium second (1967) and the ephemeris second (1956/1960), the Sud Expresso dates and Portugal's 1992-1996 clocks, PL/9's "fifty-two years" since 1974, thirty-two hours of ageing, and every Bibliography and Further Reading citation.
+
+Also checked: British spelling throughout; no leftover notes or brackets except the cabinet label in About the Author; no Trump references; no Word tables; 54 bookmarks, 75 links, 0 dead anchors, 0 visible URLs; Also-by matches the canonical list in Book 1 and lists Book 1, not this book; the review line still sits before About the Author; byline "Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)"; bio is the Colin Frissell / Gucci version.
