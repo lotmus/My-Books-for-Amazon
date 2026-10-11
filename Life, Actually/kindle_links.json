@@ -1,0 +1,415 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Home_DNA_Testing_Kit_Tube_(47400098641).jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Home_DNA_Testing_Kit_Tube_(47400098641).jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Friar_House_from_The_Eagle.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Friar_House_from_The_Eagle.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Agarplate_redbloodcells_edit.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Agarplate_redbloodcells_edit.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Umland,_Sonnenaufgang_im_Winter_--_2013_--_9899.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Umland,_Sonnenaufgang_im_Winter_--_2013_--_9899.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Fairbanks_-_Mendel_Axial_and_Terminal_Flowers_and_Pods.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fairbanks_-_Mendel_Axial_and_Terminal_Flowers_and_Pods.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Basilica_of_the_Assumption_of_Our_Lady,_Abbatial_church,_Brno.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Basilica_of_the_Assumption_of_Our_Lady,_Abbatial_church,_Brno.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:D-Melanogaster_2.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D-Melanogaster_2.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:First_Annual_Field_Workers%27_Conference,_Eugenics_Record_Office,_Cold_Spring_Harbor,_Long_Island,_New_York,_June_20_and_21,1912.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_Annual_Field_Workers%27_Conference,_Eugenics_Record_Office,_Cold_Spring_Harbor,_Long_Island,_New_York,_June_20_and_21,1912.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Vacutainer_with_blood_collection_tube.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vacutainer_with_blood_collection_tube.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:A_ewe_and_her_lamb_at_Reed_Ranch_(40871239920).jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_ewe_and_her_lamb_at_Reed_Ranch_(40871239920).jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Havanese_Litter.png",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Havanese_Litter.png)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_276_003_003_(16625682631).jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:U.S._Department_of_Energy_-_Science_-_276_003_003_(16625682631).jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:CORN_HARVEST_close_up_of_ear_(48980552538).jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CORN_HARVEST_close_up_of_ear_(48980552538).jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Fresh_tomatoes_stacked_at_market_stall.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fresh_tomatoes_stacked_at_market_stall.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Red_chicken_barn_Canada.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Red_chicken_barn_Canada.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Entrance_to_Svalbard_Global_Seed_Vault_in_2008.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance_to_Svalbard_Global_Seed_Vault_in_2008.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Wonder_Who_I_Am_-_Flickr_-_Lisa_Zins.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wonder_Who_I_Am_-_Flickr_-_Lisa_Zins.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0395-CC).jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0395-CC).jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Whippet_2018_6.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Whippet_2018_6.jpg)"
+  },
+  {
+   "find": "https://commons.wikimedia.org/wiki/File:Newborn_feet_nestled_gently_in_a_parent%27s_hand_highlighting_the_bond_of_love_and_care_at_home.jpg",
+   "to": "[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Newborn_feet_nestled_gently_in_a_parent%27s_hand_highlighting_the_bond_of_love_and_care_at_home.jpg)"
+  },
+  {
+   "find": "Confronting Risks of Mirror Life",
+   "to": "[Confronting Risks of Mirror Life](https://doi.org/10.1126/science.ads9158)",
+   "in": "Adamala, Katarzyna P., et al. “Confronting Risks of Mirror L",
+   "max": 1
+  },
+  {
+   "find": "Extraterrestrial Cause for the Cretaceous-Tertiary Extinction",
+   "to": "[Extraterrestrial Cause for the Cretaceous-Tertiary Extinction](https://doi.org/10.1126/science.208.4448.1095)",
+   "in": "Alvarez, Luis W., Walter Alvarez, Frank Asaro, and Helen V. ",
+   "max": 1
+  },
+  {
+   "find": "Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types",
+   "to": "[Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types](https://doi.org/10.1084/jem.79.2.137)",
+   "in": "Avery, Oswald T., Colin M. MacLeod, and Maclyn McCarty. “Stu",
+   "max": 1
+  },
+  {
+   "find": "The Evolution of Cooperation",
+   "to": "[The Evolution of Cooperation](https://doi.org/10.1126/science.7466396)",
+   "in": "Axelrod, Robert, and William D. Hamilton. “The Evolution of ",
+   "max": 1
+  },
+  {
+   "find": "On the History and Future of Cosmic Planet Formation",
+   "to": "[On the History and Future of Cosmic Planet Formation](https://doi.org/10.1093/mnras/stv1817)",
+   "in": "Behroozi, Peter, and Molly S. Peeples. “On the History and F",
+   "max": 1
+  },
+  {
+   "find": "The UK Biobank Resource with Deep Phenotyping and Genomic Data",
+   "to": "[The UK Biobank Resource with Deep Phenotyping and Genomic Data](https://doi.org/10.1038/s41586-018-0579-z)",
+   "in": "Bycroft, Clare, et al. “The UK Biobank Resource with Deep Ph",
+   "max": 1
+  },
+  {
+   "find": "Detection of an Extrasolar Planet Atmosphere",
+   "to": "[Detection of an Extrasolar Planet Atmosphere](https://doi.org/10.1086/338770)",
+   "in": "Charbonneau, David, Timothy M. Brown, Robert W. Noyes, and R",
+   "max": 1
+  },
+  {
+   "find": "Searching for Interstellar Communications",
+   "to": "[Searching for Interstellar Communications](https://doi.org/10.1038/184844a0)",
+   "in": "Cocconi, Giuseppe, and Philip Morrison. “Searching for Inter",
+   "max": 1
+  },
+  {
+   "find": "Directed Panspermia",
+   "to": "[Directed Panspermia](https://doi.org/10.1016/0019-1035(73)90110-3)",
+   "in": "Crick, Francis H. C., and Leslie E. Orgel. “Directed Pansper",
+   "max": 1
+  },
+  {
+   "find": "Finding a Second Sample of Life on Earth",
+   "to": "[Finding a Second Sample of Life on Earth](https://doi.org/10.1089/ast.2005.5.154)",
+   "in": "Davies, Paul C. W., and Charles H. Lineweaver. “Finding a Se",
+   "max": 1
+  },
+  {
+   "find": "Search for Artificial Stellar Sources of Infrared Radiation",
+   "to": "[Search for Artificial Stellar Sources of Infrared Radiation](https://doi.org/10.1126/science.131.3414.1667)",
+   "in": "Dyson, Freeman J. “Search for Artificial Stellar Sources of ",
+   "max": 1
+  },
+  {
+   "find": "Molecular Configuration in Sodium Thymonucleate",
+   "to": "[Molecular Configuration in Sodium Thymonucleate](https://doi.org/10.1038/171740a0)",
+   "in": "Franklin, Rosalind E., and Raymond G. Gosling. “Molecular Co",
+   "max": 1
+  },
+  {
+   "find": "Prime Editing for p47phox-Deficient Chronic Granulomatous Disease",
+   "to": "[Prime Editing for p47phox-Deficient Chronic Granulomatous Disease](https://doi.org/10.1056/nejmoa2509807)",
+   "in": "Gori, Jennifer L., et al. “Prime Editing for p47phox-Deficie",
+   "max": 1
+  },
+  {
+   "find": "Phosphine Gas in the Cloud Decks of Venus",
+   "to": "[Phosphine Gas in the Cloud Decks of Venus](https://doi.org/10.1038/s41550-020-1174-4)",
+   "in": "Greaves, Jane S., et al. “Phosphine Gas in the Cloud Decks o",
+   "max": 1
+  },
+  {
+   "find": "Thermal Emission from the Earth-Sized Exoplanet TRAPPIST-1 b Using JWST",
+   "to": "[Thermal Emission from the Earth-Sized Exoplanet TRAPPIST-1 b Using JWST](https://doi.org/10.1038/s41586-023-05951-7)",
+   "in": "Greene, Thomas P., et al. “Thermal Emission from the Earth-S",
+   "max": 1
+  },
+  {
+   "find": "Ongoing Hydrothermal Activities within Enceladus",
+   "to": "[Ongoing Hydrothermal Activities within Enceladus](https://doi.org/10.1038/nature14262)",
+   "in": "Hsu, Hsiang-Wen, et al. “Ongoing Hydrothermal Activities wit",
+   "max": 1
+  },
+  {
+   "find": "Altitude Adaptation in Tibetans Caused by Introgression of Denisovan-like DNA",
+   "to": "[Altitude Adaptation in Tibetans Caused by Introgression of Denisovan-like DNA](https://doi.org/10.1038/nature13408)",
+   "in": "Huerta-Sánchez, Emilia, et al. “Altitude Adaptation in Tibet",
+   "max": 1
+  },
+  {
+   "find": "A Secondary Atmosphere on the Rocky Exoplanet 55 Cancri e",
+   "to": "[A Secondary Atmosphere on the Rocky Exoplanet 55 Cancri e](https://doi.org/10.1038/s41586-024-07432-x)",
+   "in": "Hu, Renyu, et al. “A Secondary Atmosphere on the Rocky Exopl",
+   "max": 1
+  },
+  {
+   "find": "Hypervariable ‘Minisatellite’ Regions in Human DNA",
+   "to": "[Hypervariable ‘Minisatellite’ Regions in Human DNA](https://doi.org/10.1038/314067a0)",
+   "in": "Jeffreys, Alec J., Victoria Wilson, and Swee Lay Thein. “Hyp",
+   "max": 1
+  },
+  {
+   "find": "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+   "to": "[A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity](https://doi.org/10.1126/science.1225829)",
+   "in": "Jinek, Martin, Krzysztof Chylinski, Ines Fonfara, Michael Ha",
+   "max": 1
+  },
+  {
+   "find": "Habitable Zones around Main Sequence Stars",
+   "to": "[Habitable Zones around Main Sequence Stars](https://doi.org/10.1006/icar.1993.1010)",
+   "in": "Kasting, James F., Daniel P. Whitmire, and Ray T. Reynolds. ",
+   "max": 1
+  },
+  {
+   "find": "Detection of Organic Compounds in Freshly Ejected Ice Grains from Enceladus’s Ocean",
+   "to": "[Detection of Organic Compounds in Freshly Ejected Ice Grains from Enceladus’s Ocean](https://doi.org/10.1038/s41550-025-02655-y)",
+   "in": "Khawaja, Nozair, et al. “Detection of Organic Compounds in F",
+   "max": 1
+  },
+  {
+   "find": "Galileo Magnetometer Measurements: A Stronger Case for a Subsurface Ocean at Europa",
+   "to": "[Galileo Magnetometer Measurements: A Stronger Case for a Subsurface Ocean at Europa](https://doi.org/10.1126/science.289.5483.1340)",
+   "in": "Kivelson, Margaret G., et al. “Galileo Magnetometer Measurem",
+   "max": 1
+  },
+  {
+   "find": "Habitable Zones around Main-Sequence Stars: New Estimates",
+   "to": "[Habitable Zones around Main-Sequence Stars: New Estimates](https://doi.org/10.1088/0004-637x/765/2/131)",
+   "in": "Kopparapu, Ravi Kumar, et al. “Habitable Zones around Main-S",
+   "max": 1
+  },
+  {
+   "find": "A Physical Basis for Life Detection Experiments",
+   "to": "[A Physical Basis for Life Detection Experiments](https://doi.org/10.1038/207568a0)",
+   "in": "Lovelock, James E. “A Physical Basis for Life Detection Expe",
+   "max": 1
+  },
+  {
+   "find": "Proton Tunneling in DNA and Its Biological Implications",
+   "to": "[Proton Tunneling in DNA and Its Biological Implications](https://doi.org/10.1103/revmodphys.35.724)",
+   "in": "Löwdin, Per-Olov. “Proton Tunneling in DNA and Its Biologica",
+   "max": 1
+  },
+  {
+   "find": "Carbon-Bearing Molecules in a Possible Hycean Atmosphere",
+   "to": "[Carbon-Bearing Molecules in a Possible Hycean Atmosphere](https://doi.org/10.3847/2041-8213/acf577)",
+   "in": "Madhusudhan, Nikku, et al. “Carbon-Bearing Molecules in a Po",
+   "max": 1
+  },
+  {
+   "find": "New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI",
+   "to": "[New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI](https://doi.org/10.3847/2041-8213/adc1c8)",
+   "in": "Madhusudhan, Nikku, et al. “New Constraints on DMS and DMDS ",
+   "max": 1
+  },
+  {
+   "find": "On the Origin of Mitosing Cells",
+   "to": "[On the Origin of Mitosing Cells](https://doi.org/10.1016/0022-5193(67)90079-3)",
+   "in": "Margulis (Sagan), Lynn. “On the Origin of Mitosing Cells.” J",
+   "max": 1
+  },
+  {
+   "find": "A Jupiter-Mass Companion to a Solar-Type Star",
+   "to": "[A Jupiter-Mass Companion to a Solar-Type Star](https://doi.org/10.1038/378355a0)",
+   "in": "Mayor, Michel, and Didier Queloz. “A Jupiter-Mass Companion ",
+   "max": 1
+  },
+  {
+   "find": "Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001",
+   "to": "[Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001](https://doi.org/10.1126/science.273.5277.924)",
+   "in": "McKay, David S., et al. “Search for Past Life on Mars: Possi",
+   "max": 1
+  },
+  {
+   "find": "Versuche über Pflanzen-Hybriden",
+   "to": "[Versuche über Pflanzen-Hybriden](https://doi.org/10.5962/bhl.title.61004)",
+   "in": "Mendel, Gregor. “Versuche über Pflanzen-Hybriden.” Verhandlu",
+   "max": 1
+  },
+  {
+   "find": "The Replication of DNA in Escherichia coli",
+   "to": "[The Replication of DNA in Escherichia coli](https://doi.org/10.1073/pnas.44.7.671)",
+   "in": "Meselson, Matthew, and Franklin W. Stahl. “The Replication o",
+   "max": 1
+  },
+  {
+   "find": "A Production of Amino Acids under Possible Primitive Earth Conditions",
+   "to": "[A Production of Amino Acids under Possible Primitive Earth Conditions](https://doi.org/10.1126/science.117.3046.528)",
+   "in": "Miller, Stanley L. “A Production of Amino Acids under Possib",
+   "max": 1
+  },
+  {
+   "find": "The Nature of the Last Universal Common Ancestor and Its Impact on the Early Earth System",
+   "to": "[The Nature of the Last Universal Common Ancestor and Its Impact on the Early Earth System](https://doi.org/10.1038/s41559-024-02461-1)",
+   "in": "Moody, Edmund R. R., et al. “The Nature of the Last Universa",
+   "max": 1
+  },
+  {
+   "find": "Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease",
+   "to": "[Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease](https://doi.org/10.1056/nejmoa2504747)",
+   "in": "Musunuru, Kiran, et al. “Patient-Specific In Vivo Gene Editi",
+   "max": 1
+  },
+  {
+   "find": "Melting of Io by Tidal Dissipation",
+   "to": "[Melting of Io by Tidal Dissipation](https://doi.org/10.1126/science.203.4383.892)",
+   "in": "Peale, Stanton J., Patrick Cassen, and Ray T. Reynolds. “Mel",
+   "max": 1
+  },
+  {
+   "find": "Detection of Phosphates Originating from Enceladus’s Ocean",
+   "to": "[Detection of Phosphates Originating from Enceladus’s Ocean](https://doi.org/10.1038/s41586-023-05987-9)",
+   "in": "Postberg, Frank, et al. “Detection of Phosphates Originating",
+   "max": 1
+  },
+  {
+   "find": "A Search for Life on Earth from the Galileo Spacecraft",
+   "to": "[A Search for Life on Earth from the Galileo Spacecraft](https://doi.org/10.1038/365715a0)",
+   "in": "Sagan, Carl, W. Reid Thompson, Robert Carlson, Donald Gurnet",
+   "max": 1
+  },
+  {
+   "find": "Analysis of the Breakthrough Listen Signal of Interest blc1 with a Technosignature Verification Framework",
+   "to": "[Analysis of the Breakthrough Listen Signal of Interest blc1 with a Technosignature Verification Framework](https://doi.org/10.1038/s41550-021-01508-8)",
+   "in": "Sheikh, Sofia Z., et al. “Analysis of the Breakthrough Liste",
+   "max": 1
+  },
+  {
+   "find": "An Open Quantum Systems Approach to Proton Tunnelling in DNA",
+   "to": "[An Open Quantum Systems Approach to Proton Tunnelling in DNA](https://doi.org/10.1038/s42005-022-00881-8)",
+   "in": "Slocombe, Louie, Max Sacchi, and Jim Al-Khalili. “An Open Qu",
+   "max": 1
+  },
+  {
+   "find": "Bayesian Analysis of the Astrobiological Implications of Life’s Early Emergence on Earth",
+   "to": "[Bayesian Analysis of the Astrobiological Implications of Life’s Early Emergence on Earth](https://doi.org/10.1073/pnas.1111694108)",
+   "in": "Spiegel, David S., and Edwin L. Turner. “Bayesian Analysis o",
+   "max": 1
+  },
+  {
+   "find": "Organic Synthesis Associated with Serpentinization and Carbonation on Early Mars",
+   "to": "[Organic Synthesis Associated with Serpentinization and Carbonation on Early Mars](https://doi.org/10.1126/science.abg7905)",
+   "in": "Steele, Andrew, et al. “Organic Synthesis Associated with Se",
+   "max": 1
+  },
+  {
+   "find": "Cell Proliferation at 122°C and Isotopically Heavy CH4 Production by a Hyperthermophilic Methanogen under High-Pressure Cultivation",
+   "to": "[Cell Proliferation at 122°C and Isotopically Heavy CH4 Production by a Hyperthermophilic Methanogen under High-Pressure Cultivation](https://doi.org/10.1073/pnas.0712334105)",
+   "in": "Takai, Ken, et al. “Cell Proliferation at 122°C and Isotopic",
+   "max": 1
+  },
+  {
+   "find": "Extraterrestrial Intelligent Beings Do Not Exist",
+   "to": "[Extraterrestrial Intelligent Beings Do Not Exist](https://doi.org/10.1063/1.2914542)",
+   "in": "Tipler, Frank J. “Extraterrestrial Intelligent Beings Do Not",
+   "max": 1
+  },
+  {
+   "find": "Computing Machinery and Intelligence",
+   "to": "[Computing Machinery and Intelligence](https://doi.org/10.1093/mind/lix.236.433)",
+   "in": "Turing, Alan M. “Computing Machinery and Intelligence.” Mind",
+   "max": 1
+  },
+  {
+   "find": "Cassini Finds Molecular Hydrogen in the Enceladus Plume: Evidence for Hydrothermal Processes",
+   "to": "[Cassini Finds Molecular Hydrogen in the Enceladus Plume: Evidence for Hydrothermal Processes](https://doi.org/10.1126/science.aai8703)",
+   "in": "Waite, J. Hunter, et al. “Cassini Finds Molecular Hydrogen i",
+   "max": 1
+  },
+  {
+   "find": "Genetical Implications of the Structure of Deoxyribonucleic Acid",
+   "to": "[Genetical Implications of the Structure of Deoxyribonucleic Acid](https://doi.org/10.1038/171964b0)",
+   "in": "Watson, James D., and Francis H. C. Crick. “Genetical Implic",
+   "max": 1
+  },
+  {
+   "find": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+   "to": "[Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid](https://doi.org/10.1038/171737a0)",
+   "in": "Watson, James D., and Francis H. C. Crick. “Molecular Struct",
+   "max": 1
+  },
+  {
+   "find": "Viable Offspring Derived from Fetal and Adult Mammalian Cells",
+   "to": "[Viable Offspring Derived from Fetal and Adult Mammalian Cells](https://doi.org/10.1038/385810a0)",
+   "in": "Wilmut, Ian, Angelika E. Schnieke, Jim McWhir, Alexander J. ",
+   "max": 1
+  },
+  {
+   "find": "Phylogenetic Structure of the Prokaryotic Domain: The Primary Kingdoms",
+   "to": "[Phylogenetic Structure of the Prokaryotic Domain: The Primary Kingdoms](https://doi.org/10.1073/pnas.74.11.5088)",
+   "in": "Woese, Carl R., and George E. Fox. “Phylogenetic Structure o",
+   "max": 1
+  },
+  {
+   "find": "How Much SETI Has Been Done? Finding Needles in the n-Dimensional Cosmic Haystack",
+   "to": "[How Much SETI Has Been Done? Finding Needles in the n-Dimensional Cosmic Haystack](https://doi.org/10.3847/1538-3881/aae099)",
+   "in": "Wright, Jason T., Shubham Kanodia, and Emily Lubar. “How Muc",
+   "max": 1
+  },
+  {
+   "find": "No Thick Carbon Dioxide Atmosphere on the Rocky Exoplanet TRAPPIST-1 c",
+   "to": "[No Thick Carbon Dioxide Atmosphere on the Rocky Exoplanet TRAPPIST-1 c](https://doi.org/10.1038/s41586-023-06232-z)",
+   "in": "Zieba, Sebastian, et al. “No Thick Carbon Dioxide Atmosphere",
+   "max": 1
+  },
+  {
+   "find": "In Love with Murder, Actually: A Comic Mystery",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}
