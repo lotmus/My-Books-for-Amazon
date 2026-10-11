@@ -10,7 +10,7 @@ The regime's decisive turn came earlier than the invasion of Ethiopia. In June 1
 
 *“The claim that Mussolini made the trains run on time,” dolphin historians noted, “is, by most transport historians' account, largely a myth the regime encouraged on its own behalf. Dolphin scholarship treats a dictatorship's own press office as a source of last resort.”*
 
-The regime's foreign ambitions ran ahead of its actual military strength for most of its life. The 1935-36 invasion of Ethiopia, one of the last independent states in Africa, used chemical weapons against a population with no air force and little modern weaponry to answer with, a one-sided brutality that does not belong under "war" in the sense the word implies elsewhere in this book.
+The regime's foreign ambitions ran ahead of its actual military strength for most of its life. The 1935-36 invasion of Ethiopia, one of the last independent states in Africa, used chemical weapons against a population with no air force and little modern weaponry to answer with, a one-sided brutality that does not belong under "war" in the sense the word implies in the chapters on the century's two world wars.
 
 Italy entered the Second World War in 1940 as Germany's junior partner, and its military performance across North Africa, Greece, and the Balkans fell consistently short of the alliance's needs. The war turned against Italy well before it turned against Germany: Allied landings in Sicily in 1943 triggered Mussolini's own arrest by his former colleagues within weeks, and the country split in two, an Allied-backed south and a German-occupied north where Mussolini was installed as a puppet ruler.
 

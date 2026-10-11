@@ -1,6 +1,6 @@
 ## Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece
 
-Every government examined so far in this book has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
+Every government examined so far has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
 
 Athens, starting with reforms under Cleisthenes in 508 BCE, tried something that fit no earlier category: a large body of citizens deciding collectively, in person, by majority vote, in an assembly any citizen could attend and speak in.
 

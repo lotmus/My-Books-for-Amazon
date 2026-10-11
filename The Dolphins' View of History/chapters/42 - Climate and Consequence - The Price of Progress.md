@@ -22,7 +22,7 @@ Geologists have their own name for what all of this adds up to: the Anthropocene
 
 *“Humans spent two decades arguing over what to call the layer of rock they were leaving behind,” dolphin historians noted, “instead of the century arguing over whether to leave it. We note the committee vote changed nothing about the rock.”*
 
-The response, such as it has been, arrived slowly and unevenly against the scale of the problem. Renewable energy, solar and wind chiefly, fell in cost fast enough by the 2010s to compete directly with fossil fuels on price in many markets without subsidy, a genuine and rapid technological success by the standards of any earlier chapter in this book. The 2015 Paris Agreement brought nearly every country on Earth into a single framework for reducing emissions, a diplomatic achievement with few equivalents in scope.
+The response, such as it has been, arrived slowly and unevenly against the scale of the problem. Renewable energy, solar and wind chiefly, fell in cost fast enough by the 2010s to compete directly with fossil fuels on price in many markets without subsidy, a genuine and rapid technological success by the standards of any earlier chapter here. The 2015 Paris Agreement brought nearly every country on Earth into a single framework for reducing emissions, a diplomatic achievement with few equivalents in scope.
 
 Actual global emissions, measured against the reductions the same agreement's own targets called for, continued rising for years afterward before beginning, in some accounts, to level off — real progress, real shortfall, both at once, in the same decade.
 
