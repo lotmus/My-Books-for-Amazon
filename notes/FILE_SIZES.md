@@ -134,3 +134,7 @@ The other books had no tables: EE 3-7, In Love with Murder, The Permitted Option
 Side effect: saving the Quantum books dropped images that the text no longer referenced (Vol 2: 71 files, 1.25 MB; Vol 1: 2 files, 0.12 MB). Vol 2 is now an estimated 2.05 MB and Vol 1 2.09 MB.
 
 On rebuild: `tools/kindle_tables.py` does this. It runs from `kindle_postbuild.py` when the book's `kindle_postbuild.json` has `"tables": true` (Life, The Universe Has No Now, Quantum Vol 2). The other books have no docx build script. The originals are in each book's bak\ as "... - 2026-10-10 pre-no-tables.docx".
+
+## Physics openers at 440 px (10 Oct 2026, night)
+
+The Physics chapter openers are now 440 px wide with the mild colour boost, like every other photo. Their "Key idea" and "What we'll explore" text is still legible at that width, so the earlier 800 px exception is dropped. Vol 1: 17 pictures, 2.80 to 1.46 MB. Vol 2: 10 pictures, 1.99 to 1.02 MB. The front covers were not changed. The fixed "four-dimensional stage called spacetime" opener in Vol 1 is 327 px wide, smaller than 440, so it was not changed. The Vol 2 back cover already reads "Lothar J. Musiol writes the Physics, Actually series". Originals are in bak\ as "... - 2026-10-10 pre-openers-440.docx". Note: the colour boost applies only to photos scaled to 440 px. Photo-like figures kept at 800 px for their labels (2 in Life, 1 in A Trip) and front covers are not boosted. The Will Is Not the Legacy needed nothing: it has 0 tables, no floating pictures, and 5 PNG diagrams at 800 px (0.29 MB).
