@@ -96,11 +96,7 @@ Show your first two sentences to one stranger. If they cannot say who the book i
 
 ## Chapter 5: Cover, keywords, and categories
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/01_part_one_short_road.md
-**The thumbnail test.** Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on colour alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 22 covers genre conventions, hierarchy, and what covers cost.
-========
 **The thumbnail test.** Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on color alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 22 covers genre conventions, hierarchy, and what covers cost.
->>>>>>>> origin/main:Your First Book That Sells/chapters/01_part_one_short_road.md
 
 **Keywords.** KDP gives you seven keyword boxes. Fill them with short phrases a reader would type, like the shared phrases from Chapter 2, not single words such as “book.” Her seven: small town sleuth, amateur detective inn, clean no gore, village puzzle, quiet village detective, gentle puzzle novel, weekend read. She leaves out the word “mystery”, because her category already carries it (Chapter 23).
 
@@ -112,11 +108,7 @@ Run the thumbnail test on your phone today. If the title fails, fix the cover be
 
 ## Chapter 6: Ask for an honest review
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/01_part_one_short_road.md
-**Platform rule [1] [2].** You may give readers a free or discounted copy as long as you do not require a review and do not try to influence it. Offering anything beyond the book, such as a gift card, a refund, or a favour, invalidates the review. Amazon does not allow reviews from the author, or from friends, relatives, employers, business associates, competitors, or anyone with a financial interest in the book. Do not buy reviews, trade reviews with other authors, or ask anyone to change a rating.
-========
 **Platform rule [1] [2].** You may give readers a free or discounted copy as long as you do not require a review and do not try to influence it. Offering anything beyond the book, such as a gift card, a refund, or a favor, invalidates the review. Amazon does not allow reviews from the author, or from friends, relatives, employers, business associates, competitors, or anyone with a financial interest in the book. Do not buy reviews, trade reviews with other authors, or ask anyone to change a rating.
->>>>>>>> origin/main:Your First Book That Sells/chapters/01_part_one_short_road.md
 
 **Platform rule [22].** In the United States the FTC’s rule on consumer reviews, in force since 21 October 2024, forbids a business from offering an incentive on condition that the review be positive, whether that condition is said out loud or implied.
 

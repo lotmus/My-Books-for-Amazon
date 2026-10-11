@@ -14,11 +14,7 @@ Self-publishing through Kindle Direct Publishing (KDP) turns a long chain of age
 
 Traditional publishing pays an advance and a royalty set by contract, provides editing, design, and distribution, and takes control of price, cover, and timing. It moves on a timeline of years, and for a debut author without a platform the door can be hard to open.
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-Hybrid and vanity publishers charge the author to publish. A few are transparent about what each fee buys. Many charge high prices for things that cost little or nothing to do yourself, such as an ISBN, an ebook conversion, or a KDP upload. Chapter 29 shows how to tell them apart.
-========
 Hybrid and vanity publishers charge the author to publish. Some are transparent about what each fee buys. Others charge high prices for things that cost little or nothing to do yourself, such as an ISBN, an ebook conversion, or a KDP upload. Chapter 29 shows how to tell them apart.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 Self-publishing makes you the publisher. Nobody stops you and nobody helps you, unless you hire the help. In exchange you keep your rights, earn the royalties in Chapter 3 and Chapter 17, and can change a price or fix a typo the same day. The cost is that editing, cover, formatting, metadata, pricing, launch, and advertising become your job, in your own hours or your own money.
 
@@ -71,11 +67,7 @@ EU prices include VAT, and the royalty is figured on the price without VAT, so t
 
 ### Kindle Unlimited and the page-read fund
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-**Platform rule [13] [10].** If your ebook is in KDP Select, Kindle Unlimited subscribers can borrow it and you are paid for pages read, measured in Kindle Edition Normalized Pages (KENP), not your Word page count. Each month Amazon sets a KDP Select Global Fund, splits it among countries, and divides each country’s share by the pages read there. You can earn for at most 3,000 pages per title per customer. For July 2026 Amazon announced a fund of $67.6 million. KDP also runs a separate, discretionary monthly All Stars bonus for Select titles that reach certain customer-engagement marks, with its own pool size announced alongside the fund each month. Amazon does not publish a single per-page rate; your own royalty report shows what your pages earned, and monthly figures are finalised around the 15th of the following month.
-========
 **Platform rule [13] [10].** If your ebook is in KDP Select, Kindle Unlimited subscribers can borrow it and you are paid for pages read, measured in Kindle Edition Normalized Pages (KENP), not your Word page count. Each month Amazon sets a KDP Select Global Fund, splits it among countries, and divides each country’s share by the pages read there. You can earn for at most 3,000 pages per title per customer. For July 2026 Amazon announced a fund of $67.6 million. KDP also runs a separate, discretionary monthly All Stars bonus for Select titles that reach certain customer-engagement marks, with its own pool size announced alongside the fund each month. Amazon does not publish a single per-page rate; your own royalty report shows what your pages earned, and monthly figures are finalized around the 15th of the following month.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 **Worked example.** At a hypothetical $0.0045 per page, one full read of a 300-page (KENP) book pays 300 × $0.0045 = $1.35. That is less than the $3.28 kept on a $4.99 sale, but it may come from a reader who would never have paid $4.99. Whether that trade suits your book is the question in Chapter 28.
 
@@ -107,11 +99,7 @@ Chapter 4’s two-sentence test still applies to both: a stranger should be able
 
 **Platform rule [1] [2].** The review rule itself does not change: optional, honest, no rating requested, the same roster-and-invitation method from Chapters 6 and 7 for every genre. What changes is what you are screening advance readers for. A novel needs readers who read in that genre and will judge the story on its own terms. A nonfiction book needs readers who either have the problem it solves or enough standing in the subject to judge whether the solution actually works; a glowing review from someone who never had the problem is worth less than a flat one from someone who did.
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-**Field practice.** Nonfiction authors often publish from an existing platform — a blog, a podcast, a channel — built before the book exists. Pat Flynn’s Smart Passive Income site, built years before his own books, is a widely known example of an audience preceding the book rather than the book building the audience cold, the way Part I’s launch does for a debut novelist with no list yet. Neither path is required, and the launch chapters (Chapters 6, 7, and 25) assume no existing audience on purpose; a platform mainly changes which of those steps you have already done before you start.
-========
 **Field practice.** Nonfiction authors often publish from an existing platform — a blog, a podcast, a channel — built before the book exists. In that case the audience comes before the book, rather than the book building an audience cold, as Part I’s launch does for a debut novelist with no list yet. Neither path is required, and the launch chapters (Chapters 6, 7, and 25) assume no existing audience on purpose; a platform mainly changes which of those steps you have already done before you start.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 ### A catalog means something different in each case
 
@@ -136,11 +124,7 @@ Price bands, delivery charges, the review rule, the ad cap, the AI-disclosure ru
 - Look at who publishes there. A shelf held by a few large publishers with deep backlists is hard to enter. A shelf of single-book authors is easier to be seen on, though sometimes it is fragmented because demand is small.
 - Read the one- and two-star reviews of the current leaders. They tell you what readers wanted and did not get. That gap can become your outline.
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-**Field practice.** A hypothetical beginner’s hobby guide: the top of the list is held by three books six to ten years old; two books published in the last 90 days already have dozens of reviews; four single-book authors sit in the top twenty; and the low-star reviews of all three leaders complain that there is no troubleshooting for humid climates. None of that guarantees a sale. It does give you a shelf with live buyers and one checkable gap to lead with in your subtitle and description (Chapter 23).
-========
 **Worked example.** A hypothetical beginner’s hobby guide: the top of the list is held by three books six to ten years old; two books published in the last 90 days already have dozens of reviews; four single-book authors sit in the top twenty; and the low-star reviews of all three leaders complain that there is no troubleshooting for humid climates. None of that guarantees a sale. It does give you a shelf with live buyers and one checkable gap to lead with in your subtitle and description (Chapter 23).
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 ### Write to a shelf
 
@@ -317,11 +301,7 @@ Chapter 6 gives the review rule, and Chapter 7 the invitation. Chapter 32 covers
 
 ### Launch week
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-**Recommendation.** Put the review link, the note to your list, and any capped ad (Chapter 9) on the same publication day rather than spreading them out. Use the six-week calendar in Chapter 11. A specific, accurate category (Chapter 23) gives a small burst of sales the best chance to be visible; it does not guarantee a badge.
-========
 **Recommendation.** Put the review link, the note to your list, and any capped ad (Chapter 9) on the same publication day rather than spreading them out. Use the six-week calendar in Chapter 11. A specific, accurate category (Chapter 23) may make a small burst of sales easier to see; it does not guarantee a badge.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 ## Chapter 26: Amazon Ads Without Wasting Money
 
@@ -406,11 +386,7 @@ Going wide means selling the ebook through other retailers and library platforms
 
 **Test it yourself.** Enroll the first book for one term. Record sales, pages read, and the page-read money from the final monthly reports. At the end of the term, decide the next term from those numbers.
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-**Worked example.** A 300-page (KENP) ebook at $4.99 keeps $3.28 per sale. Suppose 300 readers in one term. If all 300 buy it, wide or in Select, the term keeps 300 × $3.28 = $984. If instead 120 of them read it in full through Kindle Unlimited at a hypothetical $0.0045 per page, the term keeps 180 × $3.28 + 120 × 300 × $0.0045 = $590.40 + $162 = $752.40. That same $752.40 is a loss or a gain depending on one fact only you can know: if those 120 would have bought the book anyway, Select cost you $984 − $752.40 = $231.60; if they would never have paid $4.99 at all, Select earned you $752.40 that wide would have earned nothing on. Select wins only if it brings readers who would not have paid $4.99 at all, and that number is exactly what one real term tells you.
-========
 **Worked example.** A 300-page (KENP) ebook at $4.99 keeps $3.28 per sale. Suppose 300 readers in one term. If all 300 buy it, wide or in Select, the term keeps 300 × $3.28 = $984. If instead 120 of them read it in full through Kindle Unlimited at a hypothetical $0.0045 per page, the term keeps 180 × $3.28 + 120 × 300 × $0.0045 = $590.40 + $162 = $752.40. Whether that $752.40 is a loss or a gain depends on one fact only you can know. If those 120 would have bought the book anyway, Select cost you $984 − $752.40 = $231.60. If they would never have paid $4.99, the 180 buyers pay you $590.40 either way, and Select added only the $162 in page reads. Select wins only if the page reads from readers who would not have bought outweigh the sales it displaces, and one real term shows you which it is.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 **Test it yourself.** Whether Kindle Unlimited suits your book depends on your genre and your readers. Your own term is the only evidence that counts.
 
@@ -434,20 +410,6 @@ Buying reviews, trading them, or paying for a “ranking boost” breaks Amazon�
 
 ### Volume publishing and AI flooding
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-Mass-producing thin, lightly reviewed books to flood a category is the same trap at scale. KDP now limits every account to two new titles per format per week (Chapter 15), requires disclosure of AI-generated content (Chapter 33), and removes books that create a poor customer experience [8]. A flood of weak books under one name also damages trust in your better books, because a reader’s next click is often “more by this author.”
-
-### Copyright and licensing traps
-
-Two mistakes recur. The first is assuming something is public domain when it is not: status depends on dates and on the country, and a translation, annotation, or edited edition of an old work can carry its own copyright (Chapter 33). The second is using an image without a licence that covers commercial use in a book. Read the licence for every image, every time.
-
-### Two triggers that need no bad intent
-
-- Duplicate or near-duplicate content: the same book, or a lightly reworded version, under a new title, cover, or account. A relaunch that changes only the cover can look like this.
-- Breaking Select exclusivity by forgetting: a book enrolled months ago, later included in a website giveaway or a bundle elsewhere (Chapter 28).
-
-Add misleading keywords (Chapter 23) and a skipped AI disclosure (Chapter 33), and you have the common causes of account trouble that need no malice at all. Run them as a checklist before every launch.
-========
 Mass-producing thin, lightly reviewed books to flood a category is the same trap at scale. KDP now limits every account to two new titles per format per week (Chapter 15), requires disclosure of AI-generated content (Chapter 33), and removes books that create a poor customer experience [8]. A flood of weak books under one name can also hurt your better books, because readers who dislike one may not try another.
 
 ### Copyright and licensing traps
@@ -460,7 +422,6 @@ Two mistakes recur. The first is assuming something is public domain when it is 
 - Breaking Select exclusivity by forgetting: a book enrolled months ago, later included in a website giveaway or a bundle elsewhere (Chapter 28).
 
 Add misleading keywords (Chapter 23) and a skipped AI disclosure (Chapter 33), and you have several ways to get into account trouble without any malice. Run them as a checklist before every launch.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 ### The best filter
 
@@ -601,11 +562,7 @@ Used as a fast first pass that a person then judges, AI is useful at most stages
 - Cover concepts (Chapter 22): rough directions to react to before a designer makes the real one. An AI-generated final cover image is AI-generated content and must be declared.
 - Description and ad-copy drafts (Chapters 23 and 26): several variants for you to choose from and rewrite.
 - Keyword brainstorming (Chapter 23): candidate phrases that you then test in Amazon’s search bar and check against KDP’s keyword rules.
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-- Research support: explaining a concept, testing your understanding, or summarising your own notes, after which you write the explanation yourself.
-========
 - Research support: explaining a concept, testing your understanding, or summarizing your own notes, after which you write the explanation yourself.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 ### Building background knowledge, legitimately
 
@@ -646,11 +603,7 @@ Take a tempting case: a long, sharp conversation with a chatbot, say about wheth
 
 One pattern deserves a name because it is packaged to look like professional workflow: take a few existing books on a subject, have AI condense and merge them, then run a “similarity audit” to find and remove close parallels with those particular sources until the draft no longer looks derived.
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/02_parts_two_to_eight_full_guide.md
-The audit step is the tell. Legitimate research has no reason to scrub a manuscript against a short list of specific books; that step exists because the process expects resemblance and is built to hide it. Facts and ideas are not protected by copyright, but an author’s expression of them, including wording, analogies, and structure, is [25]. A workflow whose last step erases detectable similarity to particular copyrighted books produces a derivative work dressed to pass inspection, and “an AI tool did the condensing” is no defence. It also puts the whole account at risk (Chapter 29), not just one title.
-========
 The audit step is the tell. Legitimate research has no reason to scrub a manuscript against a short list of specific books; a step whose only job is to remove detectable resemblance suggests that resemblance is expected. Facts and ideas are not protected by copyright, but an author’s expression of them, including wording, analogies, and structure, is [25]. A workflow whose last step erases detectable similarity to particular copyrighted books produces a derivative work dressed to pass inspection, and “an AI tool did the condensing” does not by itself make it lawful (see below). It could also put the whole account at risk (Chapter 29), not just one title.
->>>>>>>> origin/main:Your First Book That Sells/chapters/02_parts_two_to_eight_full_guide.md
 
 ### What copyright protects, and two legitimate ways to build on another work
 

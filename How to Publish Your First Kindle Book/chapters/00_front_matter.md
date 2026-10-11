@@ -4,11 +4,7 @@
 
 **Kevin Drew Peters**
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/00_front_matter.md
-Updated 5 October 2026
-========
 Updated 6 October 2026
->>>>>>>> origin/main:Your First Book That Sells/chapters/00_front_matter.md
 
 Copyright © 2026 Kevin Drew Peters. All rights reserved.
 

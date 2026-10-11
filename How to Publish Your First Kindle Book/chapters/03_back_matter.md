@@ -38,11 +38,7 @@ If you remember one thing, make it the keep test from the start of Part I. Befor
 
 - [ ] Tax interview completed and treaty claimed if it applies (Chapter 27)
 - [ ] AI-content question answered truthfully (Chapter 33)
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/03_back_matter.md
-- [ ] KDP Select enrolment, and its renewal date, decided on purpose (Chapter 28)
-========
 - [ ] KDP Select enrollment, and its renewal date, decided on purpose (Chapter 28)
->>>>>>>> origin/main:Your First Book That Sells/chapters/03_back_matter.md
 
 ### Launch
 
@@ -172,15 +168,11 @@ Keep. What one sale leaves you after Amazon’s share and, where it applies, del
 
 KENP. Kindle Edition Normalized Pages, the page count Amazon uses to pay Kindle Unlimited reads. Chapter 17.
 
-<<<<<<<< HEAD:How to Publish Your First Kindle Book/chapters/03_back_matter.md
-KDP Select. A 90-day, ebook-only exclusive enrolment that adds Kindle Unlimited and promotions. Chapter 28.
-========
 KDP Select. A 90-day, ebook-only exclusive enrollment that adds Kindle Unlimited and promotions. Chapter 28.
 
 Negative keyword. A search term you tell the ad system never to show your ad for. Chapter 26.
 
 Read-through. The share of readers of one book who go on to buy the next. Chapters 10 and 24.
->>>>>>>> origin/main:Your First Book That Sells/chapters/03_back_matter.md
 
 Seventy percent band. On Amazon.com, list prices from $2.99 to $12.99 where the 70 percent royalty can apply. The top was $9.99 until 7 July 2026. Chapter 3.
 
