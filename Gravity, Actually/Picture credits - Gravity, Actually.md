@@ -1,6 +1,6 @@
-# Picture credits: Gravitation, Actually
+# Picture credits: Gravity, Actually
 
-Recorded 2026-10-11. Every picture in `Gravitation, Actually - Rev9.docx` and both covers are listed here. Rev7 added four diagrams on 2026-10-10, Rev8 replaced three soft AI paintings the same day, and Rev9 (2026-10-11) replaced the last AI painting (the wormhole flask) with a drawn diagram and replaced both covers.
+Recorded 2026-10-11. Every picture in `Gravity, Actually - Rev10.docx` (Rev9 renamed; same pictures) and both covers are listed here. Rev7 added four diagrams on 2026-10-10, Rev8 replaced three soft AI paintings the same day, and Rev9 (2026-10-11) replaced the last AI painting (the wormhole flask) with a drawn diagram and replaced both covers.
 
 ## Real images (credited, license checked)
 
@@ -28,7 +28,7 @@ None remain in Rev9. Retired, with copies kept: the falling cabin, the apple wit
 
 ## Covers
 
-- Front `Gravitation, Actually - Front Cover (Kindle) v3.jpg` (1600×2560) and back `Gravitation, Actually - Back Cover v3.jpg`: drawn from scratch by `src/cover9.py` (Pillow, NumPy): a falling apple strobed along a straight line on a spacetime grid with a light cone. No rubber sheet, no photographs, no AI image generator. Fonts: Cormorant SC, Cormorant Garamond, Source Sans Pro (SIL Open Font License). Title and author checked at 100 px wide.
+- Front `Gravity, Actually - Front Cover (Kindle) v4.jpg` (1600×2560) and back `Gravity, Actually - Back Cover v4.jpg`: drawn from scratch by `src/cover10.py` (the v3 script `src/cover9.py` with only the title and subtitle text changed for the rename; v3 covers in `bak/2026-10-11 pre-rename-gravity/`) (Pillow, NumPy): a falling apple strobed along a straight line on a spacetime grid with a light cone. No rubber sheet, no photographs, no AI image generator. Fonts: Cormorant SC, Cormorant Garamond, Source Sans Pro (SIL Open Font License). Title and author checked at 100 px wide.
 
 ## MediaSearcher
 

@@ -1,11 +1,11 @@
-# KDP Description: Gravitation, Actually
+# KDP Description: Gravity, Actually
 
-Rev9, 11 Oct 2026. Paste the HTML block below into the KDP "Description" box. It uses only tags KDP accepts (`<p>`, `<b>`, `<i>`, `<ul>`, `<li>`, `<br>`) and is well under the 4,000-character limit.
+Rev10, 11 Oct 2026 (Rev9 renamed: title Gravity, Actually, subtitle Einstein’s Relativity in Plain Words; text and blurb otherwise unchanged). Paste the HTML block below into the KDP "Description" box. It uses only tags KDP accepts (`<p>`, `<b>`, `<i>`, `<ul>`, `<li>`, `<br>`) and is well under the 4,000-character limit.
 
 ## Title and subtitle (enter exactly)
 
-- Title: Gravitation, Actually
-- Subtitle: Einstein’s Gravity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+- Title: Gravity, Actually
+- Subtitle: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
 - Author: Lothar J. Musiol
 
 ## Description (HTML)
@@ -13,7 +13,7 @@ Rev9, 11 Oct 2026. Paste the HTML block below into the KDP "Description" box. It
 ```html
 <p><b>Let go of an apple and nothing pulls it down.</b> It is already on the straightest path there is. The floor is what gets in the way.</p>
 <p>So why do astronauts float in a station where gravity is still 89 percent as strong as on the ground? Why would your phone’s map be kilometers off within a day if nobody corrected the satellite clocks for Einstein? Why does the sea rise twice a day, not once? And why is the edge of a black hole a door and not a wall?</p>
-<p><i>Gravitation, Actually</i> answers in ordinary words, and brings the story right up to what has actually been measured:</p>
+<p><i>Gravity, Actually</i> answers in ordinary words, and brings the story right up to what has actually been measured:</p>
 <ul>
 <li>Clocks in orbit that run fast by 38 microseconds a day, and the GPS correction that keeps them honest</li>
 <li>Tides as the fingerprint of curved spacetime, and why a small black hole would tear you apart before you reached its edge</li>
@@ -69,5 +69,5 @@ KDP lets you choose up to three categories. In order of preference:
 
 - The hook comes first: the apple, then four curiosity questions (floating astronauts, GPS, two tides, the black-hole door).
 - Every number matches the book: 89 percent at the space station, 38 microseconds a day net, kilometers of GPS error within a day (about 11 km of range error per day), M87* in 2019 and Sgr A* in 2022, GW150914 in 2015, 4 km arms, 68 exercises.
-- The title "Gravity, Actually" was checked on 11 Oct 2026 and no book of that exact title was found; the title stays "Gravitation, Actually" for now.
+- The title "Gravity, Actually" was checked on 11 Oct 2026 and no book of that exact title was found. On 11 Oct 2026 (Rev10) the book was renamed from "Gravitation, Actually" to "Gravity, Actually", and the subtitle now says Relativity so it does not repeat the title.
 - It does not imply endorsement by NASA, the EHT, or the authors whose teaching ideas are retold.

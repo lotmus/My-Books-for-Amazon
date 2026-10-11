@@ -1799,7 +1799,7 @@ const alsoBy = [
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere", italics: true })] }),
   new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "More Actually Books", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Gravitation, Actually: A Short Book on Gravity", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Universe, Actually: What Humanity Currently Understands About Reality", italics: true })] }),
   new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Math, Actually", bold: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 1: From Arithmetic to Calculus", italics: true })] }),
