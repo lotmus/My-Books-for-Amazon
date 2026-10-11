@@ -29,8 +29,14 @@ def _lines(name):
         return f.read().splitlines()
 
 
-def about_paragraphs(version="B"):
-    """Paragraphs of the About the Author bio for 'A' or 'B', exactly as written (inline *italic* kept)."""
+def _typo(text, typographic):
+    """Books that set curly apostrophes get the canonical straight ones as U+2019."""
+    return text.replace("'", "\u2019") if typographic else text
+
+
+def about_paragraphs(version="B", typographic=False):
+    """Paragraphs of the About the Author bio for 'A' or 'B', exactly as written (inline *italic* kept).
+    typographic=True turns straight apostrophes into curly ones, for books that use curly quotes."""
     head = "## Version " + version
     out, cur, inside = [], [], False
     for line in _lines(ABOUT_FILE) + [""]:
@@ -46,11 +52,12 @@ def about_paragraphs(version="B"):
         elif cur:
             out.append(" ".join(cur)); cur = []
     # the file ends with a note about the plain-text copies; it is not part of the bio
-    return [p for p in out if not p.startswith("Plain-text copies")]
+    return [_typo(p, typographic) for p in out if not p.startswith("Plain-text copies")]
 
 
-def also_by(exclude=()):
-    """[(group, [title, ...]), ...] from the canonical Also-by list, in order, minus excluded titles."""
+def also_by(exclude=(), typographic=False):
+    """[(group, [title, ...]), ...] from the canonical Also-by list, in order, minus excluded titles.
+    typographic=True turns straight apostrophes into curly ones, for books that use curly quotes."""
     groups, group, inside = [], None, False
     for line in _lines(ALSO_BY_FILE):
         if line.startswith("## "):
@@ -66,7 +73,7 @@ def also_by(exclude=()):
         elif s.startswith("- ") and group is not None:
             title = s[2:].strip()
             if not any(title.startswith(x) for x in exclude):
-                group[1].append(title)
+                group[1].append(_typo(title, typographic))
     return [(g, t) for g, t in groups if t]
 
 
