@@ -64,7 +64,7 @@ Companies, partnerships, sole proprietorships, rental businesses: your role, you
 
 ### 9. Debts
 
-Mortgages, car loans, personal loans, credit cards, lines of credit, loans you have made to family members, guarantees you have signed. For each: the lender, account, and approximate balance. Your executor needs to know what has to be paid; your heirs need to know what they might be inheriting. In Germany, heirs inherit the debts as well as the assets, which is why they have only six weeks to disclaim (BGB § 1944) after learning that they are heirs. A list of debts can decide whether that is a sensible choice.
+Mortgages, car loans, personal loans, credit cards, lines of credit, loans you have made to family members, guarantees you have signed. For each: the lender, account, and approximate balance. Your executor needs to know what has to be paid; your heirs need to know what they might be inheriting. In Germany, heirs inherit the debts as well as the assets (they can limit their liability to the estate, but only through a formal procedure such as court-ordered estate administration or estate insolvency, BGB § 1975), which is why they have only six weeks to disclaim (BGB § 1944) after learning that they are heirs. A list of debts can decide whether that is a sensible choice.
 
 ### 10. Income
 

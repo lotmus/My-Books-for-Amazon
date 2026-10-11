@@ -106,3 +106,22 @@
 
 ## Round 5 (10-11 Oct 2026): structure and prose pass
 No new legal claims were introduced. Cases 2-25 were restructured (stories with a takeaway box, family conversations, before/after) and tightened; every statute, figure and date in them was carried over from the verified text above. New material in Parts Seven and Eight (three archives, first-recording plan, follow-up questions, annotated message, year of prompts, archive-keeper's first evening, four-evening ethical will, read-aloud test, short ethical will, letter to an estranged child) is practical guidance and fiction marked as such, with no legal or statistical claims. Brand check: one team name removed from Case 14.
+
+## Round 6 (11 Oct 2026): rebalance, "If you live elsewhere", professional cold read
+Structure only: Case 11 technical detail moved verbatim to Appendix M; "If it has already happened" sections of 22 cases moved verbatim to Appendix L; Case 12 handwriting habits, Case 13 signing steps and Case 15 custody detail moved to Chapter 11; "Other US states" section moved to Chapter 40. Sources appendix is now Appendix N.
+
+New facts (checked 11 Oct 2026):
+- BGH 27.4.1994 IV ZR 132/93 and 29.6.2016 IV ZR 474/15 (bundesgerichtshof.de): a gift with a fully reserved usufruct (Nießbrauch) is not "made" for § 2325(3), so the ten-year period does not start; a reserved right of residence only exceptionally, depending on whether the donor still essentially uses the whole property. Added to Case 10.
+- BGH 29.6.2022 IV ZR 110/21 (bundesgerichtshof.de): applying a chosen law (English law) under Art. 22 EuErbVO violates German ordre public (Art. 35) where, with a sufficiently strong domestic connection, a child has no needs-independent compulsory share. Case 22 softened accordingly.
+- BGB § 1975: heirs can limit liability to the estate through Nachlassverwaltung or Nachlassinsolvenz. Added to Chapter 23.
+- Prob. Code §§ 10800, 10810 (leginfo): fees computed on the estate accounted for, "without reference to encumbrances". Chapter 8 wording made precise.
+- Case 7: lien now arises from a recorded judgment (judgment lien), not from the lawsuit itself.
+- England and Wales (GOV.UK "Make sure your will is legal"): writing; signed in presence of 2 witnesses over 18; witnesses sign in testator's presence; witnesses (and married partners) cannot benefit. GOV.UK "Update your will": getting married cancels any earlier will; review after separation or divorce. (Witness gift fails while the will stays valid: Wills Act 1837 s. 15.)
+- Scotland (mygov.scot; Scottish Parliament briefing SB 25-06): legal rights of spouse/civil partner and children in movable estate, not land or buildings.
+- Inheritance (Provision for Family and Dependants) Act 1975: family/dependants may claim reasonable financial provision.
+- UK inheritance tax (GOV.UK): normally none below £325,000 threshold or if everything above goes to spouse, civil partner, charity; standard rate 40% above threshold.
+- LPA (GOV.UK, OPG guide): two types (property and financial affairs; health and welfare); must be registered with OPG before use; health and welfare only when donor lacks capacity; registration 8-10 weeks.
+- IRS Publication 555: community property states AZ, CA, ID, LA, NV, NM, TX, WA, WI.
+- Canada (CRA): deemed disposition of capital property immediately before death, reported on final return, unless transferred to spouse/common-law partner or other exception. Quebec (quebec.ca): notarial, holograph and witnessed wills; notarial will needs no probate. Ontario (ontario.ca): continuing power of attorney for property and power of attorney for personal care, two witnesses.
+- Australia (Moneysmart, updated 2 Oct 2026): super does not automatically form part of the estate; binding (lapsing after 3 years, or non-lapsing) and non-binding nominations; legal personal representative may be nominated. ATO: no inheritance tax; CGT and super death benefit tax rules apply. NSW (Legal Aid; Succession Act 2006): family provision claims, generally within 12 months.
+General statements in Chapter 40 without figures (state formalities vary, elective shares in most non-community-property states, provincial dependants' relief, state powers of attorney) are framed as general and point to official sources.

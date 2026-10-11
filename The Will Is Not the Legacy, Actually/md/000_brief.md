@@ -22,7 +22,7 @@
 
 **[Part Nine: The Receiver's Half](#Part Nine: The Receiver's Half)**. For the family afterwards: [the first ninety days](#Chapter 37. The First Ninety Days) for an executor, and [digital access from the other side of the lock](#Chapter 38. Digital Access From the Other Side of the Lock).
 
-**[Part Ten: What This Book Cannot Know](#Part Ten: What This Book Cannot Know)**. [One honest chapter](#Chapter 39. One Honest Chapter About Where You Live) on the questions to ask if you live somewhere other than California or Germany.
+**[Part Ten: What This Book Cannot Know](#Part Ten: What This Book Cannot Know)**. [One honest chapter](#Chapter 39. One Honest Chapter About Where You Live) on the questions to ask if you live somewhere other than California or Germany, and [a topic-by-topic guide](#Chapter 40. If You Live Elsewhere: Topic by Topic) for other US states, the United Kingdom, Canada, and Australia: valid wills, family members you cannot leave out, what passes outside the will, powers of attorney, taxes at death, and probate.
 
 **[The Appendices](#Appendices)**. Printable working pages:
 
@@ -30,5 +30,7 @@
 - **[Appendix B](#Appendix B. The Family Checklist: The First Days and Weeks After a Death)**: the family's checklist for the first days and weeks after a death.
 - **[Appendix C](#Appendix C. The "In Case of Emergency" Binder Checklist)**: the "In Case of Emergency" binder, a fill-in template for the Family List.
 - **[Appendices D to J](#Appendix D. Asset Map and Beneficiary Audit)**: worksheets with filled examples: asset map and beneficiary audit, guardian brief, healthcare wishes, handoff script, permission sheet, video prompt card, and ethical-will skeleton.
-- **[Appendix K](#Appendix K. California and Germany Side by Side)**: California and Germany side by side, in one table.
-- **[Appendix L](#Appendix L. Sources)**: the official sources behind the legal statements.
+- **[Appendix K](#Appendix K. California and Germany Side by Side)**: California and Germany side by side, as a short list.
+- **[Appendix L](#Appendix L. If It Has Already Happened)**: first steps for each case, if it has already happened in your family.
+- **[Appendix M](#Appendix M. Case 11, the Technical Notes)**: the deed, tax, mortgage, and home equity detail behind Case 11, with a checklist.
+- **[Appendix N](#Appendix N. Sources)**: the official sources behind the legal statements.

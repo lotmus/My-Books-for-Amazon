@@ -22,6 +22,19 @@ If the witnessing went wrong, § 6110(c)(2) offers a narrow rescue: the will is 
 
 **After death.** Whoever has custody of the original must deliver it to the clerk of the superior court within thirty days of learning of the death (§ 8200), unless a probate petition has already been filed. Keep the original safe, tell your executor where it is, and give your lawyer a copy.
 
+### Signing the statutory will in ten minutes
+
+The California statutory will (Case 13) is designed to be completed without a lawyer:
+
+1. Download the current form from the California courts' website and read its instructions all the way through, once, before writing anything.
+2. Fill in the choices in ink. The form offers set options; if you need something it does not offer, that is a sign you need a lawyer.
+3. Find two adults who receive nothing under the will, and sit with them at the same table at the same time.
+4. Tell them, "This is my will," and sign while they watch.
+5. Each witness signs in your presence and in each other's presence.
+6. Put the original somewhere safe, write its location on your Family List, and tell your executor.
+
+Ten minutes, two neighbours, one pen. It is the most underused free legal document in the state.
+
 ### Germany: two ordinary forms, and a few extraordinary ones
 
 The German Civil Code (BGB) allows a will in ordinary form in only two ways (§ 2231).
@@ -39,6 +52,17 @@ You can keep a handwritten will at home, but you can also ask the local court to
 **The inheritance contract (Erbvertrag).** A contract with another person about succession, which binds you in a way a will does not. It must be made before a notary with both parties present (§ 2276). Unmarried couples who want the binding effect of a joint will use it.
 
 **Emergency wills.** If death is feared before a notary can be reached, a will can be made before the mayor and two witnesses (§ 2249), or, in near danger of death or when cut off by extraordinary circumstances, by oral declaration before three witnesses, of which a written record must be made (§ 2250). These emergency wills lapse three months after they are made if the testator is still alive (§ 2252). They are rare, and none of them is a video.
+
+### Writing a German handwritten will that works
+
+If you choose the handwritten route (Case 12), a few habits make the will stronger without making it longer.
+
+- Use a pen, not a pencil, and plain paper. Write slowly enough that a stranger can read every word.
+- Begin with a heading such as *Mein Testament* or "My Will," so nobody can mistake it for a draft or a letter.
+- Name people fully, with dates of birth if you can, and describe property clearly enough to identify it: "my flat at [address]" rather than "the flat."
+- Say who should inherit (the *Erbe*), not only who gets particular things. German law draws a sharp line between appointing an heir, who steps into your whole legal position, and leaving a particular item to someone (a *Vermächtnis*), who only has a claim against the heirs. Muddling the two is one of the commonest causes of disputes about German home-made wills.
+- Write the place and date and sign with your first and last name at the end, below the last line of text. Anything added below the signature may not count.
+- If you change your mind, write a new will rather than crossing things out.
 
 ### German wills use different building blocks
 
@@ -64,6 +88,10 @@ Here is a fictional example, kept deliberately simple, to show the shape. Square
 
 Gloss: The testator names her two children as heirs in equal shares, with their descendants as substitute heirs; leaves her niece a ring as a legacy; revokes earlier wills; and dates, places, and signs with first name and surname. All of it in her own handwriting, on paper, in ink.
 
+### Official custody in practice
+
+In Germany, you take your handwritten will to the local court (*Amtsgericht*) of your choice, usually the one where you live. The court puts it in a sealed envelope, records it, registers it in the Central Register of Wills, and gives you a deposit receipt. You can take a handwritten will back out of custody at any time; for a handwritten will, taking it back does not revoke it, but for a notarial will, taking it back out of official custody counts as revoking it (BGB § 2256), which surprises people. If you want to change a will in custody, the simplest course is to write a new one and deposit that as well; a later will overrides an earlier one to the extent they conflict. The court gives you a deposit receipt (*Hinterlegungsschein*); keep it in your binder, because it tells your family at once which court holds the will. The court returns a will from custody only to the testator in person, and a joint will only to both spouses together, which is another safeguard against a helpful relative "tidying up." One line on the Family List does the rest: "Original will: in official custody at the local court in Passau, deposit receipt in binder, section 1."
+
 ### What neither system accepts
 
 Neither California nor Germany accepts, as a will:
@@ -81,3 +109,6 @@ Chapter 31 comes back to the first item, because it is where Part Seven's video 
 - **Central registration.** California: No state-run will register; Germany: Central Register of Wills (Bundesnotarkammer) for wills in official custody.
 - **Duty after death.** California: Deliver to superior court clerk within 30 days (§ 8200); Germany: Deliver to probate court without delay (§ 2259).
 - **What heirs usually need.** California: Letters from the probate court, or a summary procedure; Germany: Certificate of inheritance, or notarial will plus opening record.
+
+**If you live elsewhere.** For how wills are signed in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Making a valid will, elsewhere).
+

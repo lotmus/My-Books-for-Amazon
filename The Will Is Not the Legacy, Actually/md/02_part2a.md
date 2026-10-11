@@ -34,7 +34,7 @@ His widow's lawyer explored whether she had a claim against the ex-wife after th
 
 **On the other side of the Atlantic.** German law also cancels gifts to a spouse in a will once the marriage has ended, and even when a divorce was pending and its conditions were met (BGB § 2077). But a life insurance or private pension contract that names a beneficiary is a contract for the benefit of a third party, and the named person acquires the right to the money at the death (§ 331). Whether a divorce changes that depends on the contract and on what the parties agreed, which is exactly the question you do not want your widow to be asking.
 
-**If it has already happened.** If you are the surviving spouse and the form names someone else, ask the plan administrator in writing for a copy of the designation on file and for the plan's claims procedure; ERISA plans must have one, with deadlines. Find the divorce judgment and any settlement agreement, because their exact words about retirement accounts matter. Then see a lawyer who handles ERISA claims, quickly, before the money is paid out if possible. If you are the former spouse who has been named, you may be legally entitled to the money and still face a claim based on what you agreed in the divorce. Get your own advice before you spend it.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 1).
 
 **What to do.**
 
@@ -114,7 +114,7 @@ The deeper failure was silence. The mother never told her sons what she had done
 
 **In Germany.** The usual joint account is the *Oder-Konto*, on which each holder can act alone. It has no automatic survivorship in the American sense: the dead holder's heirs step into that holder's position, and between the holders the balance is presumed to belong to them in equal shares (BGB § 430) unless a different arrangement can be shown. The daughter could probably still withdraw as far as the bank was concerned, but would owe the estate an account of the mother's half. Any amount that counts as a gift to her may also be added back when a disinherited sibling calculates a compulsory share (§ 2325). The tool for help with bills is the same: a power of attorney (*Vollmacht*).
 
-**If you are at this table now.** Start with a calm conversation, not a lawyer's letter; the joint owner may be as surprised as you are. Gather the account-opening forms, the dates, who paid in and who withdrew, and any note or email in which the parent said why the child was added. If everyone agrees the money was meant to be shared, a written agreement among the siblings is the simplest course, with advice on any gift tax reporting by the sibling who shares. If there is no agreement, a lawyer can tell you whether the evidence is likely to meet the clear-and-convincing standard. Often it does not, and knowing that early saves years. And if you are the sibling on the account: the law may say the money is yours. Your brothers will remember what you did with it.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 3).
 
 **What to do.**
 
@@ -141,7 +141,7 @@ There was tax, too. Since 2020, most individuals who inherit an IRA as named ben
 
 **What would have prevented it.** A review of the form after his brother's death, naming his partner as primary beneficiary: the custodian would have paid her directly, on a death certificate and a claim form, with the treatment a named individual beneficiary can get. A contingent on the original form would at least have kept the account out of the estate. And a line on the Family List would have told her the account existed; the engineer, writing that line, would probably have noticed the problem himself. Writing a Family List is, among other things, an audit.
 
-**If it has already happened.** If you are the heir of someone who held accounts in another country, find out exactly what exists: statements, tax forms, old emails, forwarding addresses. Contact each institution's estate or bereavement department, not general customer service, and ask for its written requirements for a foreign estate, including whether it accepts a European Certificate of Succession or a German certificate of inheritance with an apostille and certified translation. Engage a tax adviser who knows both countries before any money moves, because how and when you take a distribution can change the tax.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 4).
 
 **What to do.**
 
@@ -183,7 +183,7 @@ One thing does not change between the versions. The boy's father was alive, and 
 
 Naming the intended guardian directly as beneficiary, trusting them to use the money for the child, is the shortcut some parents take. It avoids court, but gives the money to that adult outright, exposed to their creditors, their divorce, and their honesty, and it fails if they die first.
 
-**If it has already happened.** The relative caring for the child should contact the court's self-help centre or a family lawyer at once, because temporary guardianship can often be arranged quickly while the full process runs. Gather anything that shows what the parent wanted: emails, texts, letters, the names of people who heard the parent say it. Tell the insurer that the beneficiary is a minor and ask exactly what it requires. Do not accept the money personally on the child's behalf unless a lawyer has told you that you may.
+**If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 5).
 
 **What to do.**
 
