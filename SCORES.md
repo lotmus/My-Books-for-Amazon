@@ -1,4 +1,4 @@
-# Scores and release plan
+﻿# Scores and release plan
 
 Updated 10 Oct 2026 (PT). One row per book. Covers are judged from the files in each book folder on 10 Oct 2026; a file that exists only under `bak/` counts as draft. Status: published = live on Amazon; ready = manuscript closed with an upload package or KDP description; draft = still being written or fixed.
 
