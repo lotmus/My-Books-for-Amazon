@@ -6,7 +6,7 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 
 | Book | Task | Status | Who |
 |---|---|---|---|
-| EE Books 1–7 | Diagrams, voice, and "What you'll actually use" pass | running | agent |
+| EE Books 1–7 | Diagrams, voice, and "What you'll actually use" pass (Books 1-4 done and pushed 11 Oct; resume at Book 5 from scripts/diagrams/b3-b4 and the EE3/EE4 notes, then 6 and 7) | running | agent |
 | Physics Vol 1; Physics Vol 3; A Trip Is Not a New Life; Science Sparks; Life, Actually; Physics Vol 2 | Weak-books improvement pass | running | agent |
 | Bavarian Cooking Made Simple | Cover blend softening; replace 11 weak dish photos | queued | — |
 | Quantum, Actually, Volume 1 | Part Two tightening | queued | — |
