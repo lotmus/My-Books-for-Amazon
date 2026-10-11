@@ -6,7 +6,7 @@ Release order covers unpublished books only. Rules: highest score with finished 
 
 | Title | Series/Vol | Status | Latest score + date | Front cover | Back cover | Audio fit | Kindle MB (est., 10 Oct, photos 440 px, no tables) | Next fix | Proposed release order |
 |---|---|---|---|---|---|---|---|---|---|
-| Protocol Flamingo | The Invasion Storybooks, Book 1 | ready | 8.9 (outside review; date not recorded) | done | done | good | 0.25 | Decide the 2026 Texas eclipse question (keep it invented or move the story year), then upload | 2 (week of 12 Oct) |
+| Protocol Flamingo | The Invasion Storybooks, Book 1 | ready | 9.2 (10 Oct 2026, strict; 8.7 before that day's fixes) | done | done | good | 0.25 | Optional: merge A Note to the Reader and A Note on the Cousins (they repeat each other); paperback spine once the print page count is final; then upload | 2 (week of 12 Oct) |
 | The Murder That Hadn't Happened Yet | The Relativistic Investigation Bureau, Book 1 | ready | 9.1 (10 Oct 2026, strict; 8.6 before that day's fixes) | done | done | good | 0.43 | Set the launch date. Optional: re-export the front cover at 1600 x 2560 | 4 (week of 19 Oct) |
 | Schrödinger's Paperwork | Lolly Wren's Curious Science Adventures, Book 1 | ready | 9–9.5 (date not recorded) | done | draft (only in bak/covers) | good | 2.50 | Finalise the back cover | 5 (week of 26 Oct) |
 | The Universe Has No Now | Look First, Vol 1 | ready | 9.1 (3 Oct 2026) | done (clock-ring cover in export/) | missing | good | 2.51 | Make the back cover | 7 (week of 2 Nov) |
