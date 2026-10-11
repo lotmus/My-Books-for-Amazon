@@ -81,61 +81,43 @@ VOLUMES = {
 GLOSSARY_FILE = "90_glossary.md"
 GLOSS_REF_RE = re.compile(r'\bChapter (\d+)\b')
 
-# Also by Lothar J. Musiol: (group, [(title, store search or None)]). The canonical list, rebuilt on
-# 2 Oct 2026 from the title pages of the masters in the repository (one entry per real book; same
-# list in every book's Also-by page, see notes/ALSO_BY - canonical list.md at the repo root).
-# A search string of None means "title + author name".
-# Rebuilt 10 Oct 2026 from notes/ALSO_BY - canonical list.md. The book itself is left out; Kevin Drew
-# Peters books never appear on a Lothar J. Musiol page.
-ALSO_BY = [
-    ('Physics, Actually', [
-        ('Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity', None),
-        ('Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime', None),
-        ('Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge', None),
-        ('Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere', None),
-    ]),
-    ('More Actually Books', [
-        ('Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard', None),
-        ('The Universe, Actually: What Humanity Currently Understands About Reality', None),
-    ]),
-    ('Math, Actually', [
-        ('Math, Actually, Volume 1: From Arithmetic to Calculus', None),
-        ('Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic', None),
-        ('Math, Actually, Volume 3: From Differential Equations to Abstract Algebra', None),
-        ('Math, Actually, Volume 4: From Category Theory to the Frontier', None),
-    ]),
-    ('Quantum, Actually', [
-        ('Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire', None),
-        ('Quantum, Actually, Volume 2: A QED Course', None),
-    ]),
-    ('Look First', [
-        ('Look First, Volume 1: The Universe Has No Now', None),
-        ('Look First, Volume 2: A Trip Is Not a New Life', None),
-    ]),
-    ('Electrical Engineering Series', [
-        ('Foundations of Electronics (Book 1)', 'Foundations of Electronics'),
-        ('Circuits, Components, and Control (Book 2)', 'Circuits, Components, and Control'),
-        ('Semiconductor Physics and Devices (Book 3)', 'Semiconductor Physics and Devices'),
-        ('RF, Microwave, and Transceivers (Book 4)', 'RF, Microwave, and Transceivers'),
-        ('Communications, Wireless, and SDR (Book 5)', 'Communications, Wireless, and SDR'),
-        ('Power and Energy (Book 6)', 'Power and Energy'),
-        ('Packaging, Layout, EMC, and Test (Book 7)', 'Packaging, Layout, EMC, and Test'),
-    ]),
-    ('History', [
-        ("The Dolphins' View of History", None),
-    ]),
-    ('Fiction', [
-        ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", "The Murder That Hadn't Happened Yet"),
-        ('The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)', 'The Warning That Was Sent Too Late'),
-        ("Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", "Schrödinger's Paperwork"),
-        ("The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", 'The Permitted Options Lolly Wren'),
-        ('Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine', 'Protocol Flamingo George Herbert Fontaine'),
-        ('In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston', 'In Love with Murder, Actually Romuald Livingston'),
-    ]),
-    ('In German', [
-        ('Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?', None),
-    ]),
+# Also by Lothar J. Musiol and About the Author are read from notes/ALSO_BY - canonical list.md and
+# notes/ABOUT_THE_AUTHOR - canonical.md (via tools/canonical_text.py); nothing is copied here. Change those
+# files, not this script. The book itself is left out of its own Also-by page.
+# Amazon search text for titles whose store search should be shorter than "title + author":
+STORE_SEARCH = [
+    ('Foundations of Electronics', 'Foundations of Electronics'),
+    ('Circuits, Components, and Control', 'Circuits, Components, and Control'),
+    ('Semiconductor Physics and Devices', 'Semiconductor Physics and Devices'),
+    ('RF, Microwave, and Transceivers', 'RF, Microwave, and Transceivers'),
+    ('Communications, Wireless, and SDR', 'Communications, Wireless, and SDR'),
+    ('Power and Energy', 'Power and Energy'),
+    ('Packaging, Layout, EMC, and Test', 'Packaging, Layout, EMC, and Test'),
+    ("The Murder That Hadn't Happened Yet", "The Murder That Hadn't Happened Yet"),
+    ('The Warning That Was Sent Too Late', 'The Warning That Was Sent Too Late'),
+    ("Schr\u00f6dinger's Paperwork", "Schr\u00f6dinger's Paperwork"),
+    ('The Permitted Options', 'The Permitted Options Lolly Wren'),
+    ('Protocol Flamingo', 'Protocol Flamingo George Herbert Fontaine'),
+    ('In Love with Murder, Actually', 'In Love with Murder, Actually Romuald Livingston'),
 ]
+
+
+def _canonical():
+    d = os.path.dirname(os.path.abspath(__file__))
+    while not os.path.isfile(os.path.join(d, 'tools', 'canonical_text.py')) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    sys.path.insert(0, os.path.join(d, 'tools'))
+    import canonical_text
+    return canonical_text
+
+
+def also_by_groups():
+    """[(group, [(title, store search or None)])] from the canonical list, without this book."""
+    out = []
+    for group, titles in _canonical().also_by(exclude=[TITLE + ':']):
+        out.append((group, [(t, next((q for pre, q in STORE_SEARCH if t.startswith(pre)), None)) for t in titles]))
+    return out
+
 
 # chapter number -> (png name, caption). Placed after the chapter's first paragraph.
 FIGURES = {
@@ -952,14 +934,9 @@ AFTERWORD_CLOSE = (
     "book has done what it set out to do. The universe keeps the books. You can read them now."
 )
 
-ABOUT = (
-    "Lothar J. Musiol is a graduate of Munich University of Applied Sciences and has spent many "
-    "years in the semiconductor industry. Meanwhile, he studied science with enough depth to know "
-    "exactly where he simplifies in his explanations, and where he does not. He gained most of his "
-    "experience in the United States, where he supported several start-ups. Today, he makes good "
-    "use of his dual citizenship and divides his time between San Clemente (California) and Passau "
-    "(Bavaria). His goal is to present complex relationships more clearly and engagingly than many "
-    "treatments manage, without obscuring their true complexity."
+REVIEW_INVITATION = (
+    "If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. "
+    "A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one."
 )
 
 
@@ -1062,12 +1039,16 @@ def back_matter(doc):
         add_field(p, 'INDEX \\c "2" \\z "1033"', 'Update fields to build the index.')
 
     new_section(doc, 'About the Author')
+    p = body(doc, REVIEW_INVITATION, first=True)
+    for r in p.runs:
+        r.italic = True
     heading(doc, 1, "About the Author")
-    body(doc, ABOUT, first=True)
+    for i, para in enumerate(_canonical().about_paragraphs('B')):
+        body(doc, para, first=(i == 0))
 
     new_section(doc, 'Also by Lothar J. Musiol')
     heading(doc, 1, "Also by Lothar J. Musiol")
-    for group, titles in ALSO_BY:
+    for group, titles in also_by_groups():
         p = doc.add_paragraph()
         flush_left(p, space_before=10, space_after=2)
         p.add_run(group).bold = True
