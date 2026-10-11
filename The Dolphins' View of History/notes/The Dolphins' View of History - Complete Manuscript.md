@@ -16,11 +16,111 @@ Professor Click-Click-Whoosh, the Cetacean Academy of Oceanic Studies, and the I
 
 Kindle edition, 2026.
 
-
-
 **Table of Contents**
 
+- Prologue: Humans Have Ape Ancestors
 
+- The Last Fifty Million Years: No Hands, No Cities — Why the Dolphins Only Watched
+
+- 7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans
+
+- The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture
+
+- 70,000 to 15,000 Years Ago: Out of Africa — The Long Walk Across the World
+
+- The Neolithic, from 10,000 BCE: The First Villages — Agriculture and the End of Wandering
+
+- From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
+
+- The Bronze Age, 3100-1150 BCE: Gods and Kings — Mesopotamia, Egypt, and the First Empires
+
+- 1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization
+
+- 2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity
+
+- Classical Greece, 508-323 BCE: Democracy's Experiment — Ancient Greece
+
+- The 8th Century BCE to 476 CE: Rome — The Empire That Built the World and Broke It
+
+- The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World
+
+- The Early Middle Ages, 476-1000 CE: The Allegedly Dark Ages
+
+- The 2nd Century BCE to 1368 CE: Silk, Steppe, and Plague — The Roads That Connected Everyone, Including the Germs
+
+- The 8th Century BCE to 1897 CE: Gold, Salt, and Stone — The Kingdoms of Africa
+
+- 1482 to Today: The Richness Moved — Africa's Resources and Who Took Them
+
+- 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
+
+- The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age
+
+- 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
+
+- 1776-1865: The Republic, With Exceptions — America
+
+- 1865 to Today: After the Bargain — America's Long Account
+
+- 1620 to 1993: God's Own Experiment — Religion in America
+
+- 1808 to Today: Liberators and Generals — Latin America After the Empires
+
+- 1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left
+
+- 1914-1918: Home by Christmas — The First World War
+
+- The Twentieth Century: Genius and Catastrophe — Great Countries, Terrible Decades
+
+- 1853-1947: Japan, Restoration, and Empire
+
+- 1861-1946: Italy, Rome's Heir and the Fascist Detour
+
+- Medieval Córdoba to 1981: Spain, Convivencia and the General
+
+- 1917-1991: The Soviet Union, Ideals and Iron
+
+- 1949 to Today: China, the Long Memory and the Great Leap
+
+- The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews
+
+- 1945-1991: Cold War — Two Powers, One Planet
+
+- 1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
+
+- 1905 Onward: The Physics That Finally Made Sense to Someone
+
+- The 1940s to the 1970s: Decolonization — The World Redraws Itself
+
+- 1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself
+
+- 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
+
+- The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)
+
+- 1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)
+
+- 1796 to Today: Medicine and Its Cost — How Humans Learned to Heal
+
+- 1896 to Today: Climate and Consequence — The Price of Progress
+
+- 1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age
+
+- Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History
+
+- Epilogue: After Homo Sapiens — Superhumans and Androids
+
+- A Timeline — For Humans Who Like Their History in Order
+
+- What the Physics Is For — An Appendix on Uses and the One Theory Not Yet Found
+
+- Notes and Sources
+
+- Further Reading — For Humans
+
+- About the Author
+
+- Also by Lothar J. Musiol
 
 ## Prologue: Humans Have Ape Ancestors
 
@@ -48,13 +148,13 @@ Their own story starts in the water, heading the opposite direction.
 
 About fifty million years ago, an early four-legged land mammal, from the same broad family that today includes hippos, waded into shallow water and did not come back out.
 
-Over tens of millions of years that choice reshaped the whole animal. Legs became flippers. Nostrils migrated to the top of the skull. Hearing adapted for water instead of air.
-
-Dolphins gave up solid ground. In exchange they got something almost no land animal has: three-dimensional hearing precise enough to find a single fish in total darkness, and, once diving and breathing stopped using all of it, some intelligence left over. Watching, for instance.
-
 Dolphin scholarship is willing to name names on the way. The fossil record calls the first of these test cases Pakicetus — four legs, hooves, a long snout, built rather like a hairy dog that had made some very specific life choices. Its next of kin, once it had committed a little further to the bit, was filed under Ambulocetus, which is Latin for “the walking whale.” Dolphin historians did not choose that name. They have simply had fifty million years to get used to it.
 
 *“Our closest living land relative, confirmed independently more than once, is the hippopotamus,” the Society noted. “We did not select this family. We were assigned it, and we have decided to be gracious about it in public.”*
+
+Over tens of millions of years that choice reshaped the whole animal. Legs became flippers. Nostrils migrated to the top of the skull. Hearing adapted for water instead of air.
+
+Dolphins gave up solid ground. In exchange they got something almost no land animal has: three-dimensional hearing precise enough to find a single fish in total darkness, and, once diving and breathing stopped using all of it, some intelligence left over. Watching, for instance.
 
 While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees — and had wasted no time getting there. The first small, tree-dwelling creature recognizable as a primate shows up in the fossil record a little over sixty million years ago, a few million years after the asteroid: on a timescale of tens of millions of years, essentially the same week. Dolphin scholarship notes this is a very fast start for a family that would go on to need another sixty million years just to invent the wheel.
 
@@ -1172,6 +1272,10 @@ One assumption about this rise is worth correcting head-on, since it is a common
 
 The political side of the ledger tightened. Xi Jinping took the top posts in 2012 and in 2018 removed the two-term limit on the presidency, ending the arrangement that had made leadership change hands every decade. An anti-corruption campaign jailed rivals along with a great many officials who were, in fact, corrupt. In Xinjiang the state built a system of mass detention and surveillance aimed at Uyghurs and other largely Muslim minorities, documented by researchers, leaked police files, and satellite imagery, and described by Beijing as vocational training. In Hong Kong a 2020 national-security law curtailed the autonomy the 1997 handover had promised.
 
+The tightening had a lighter footnote, which the state did not treat lightly. The leader the internet nicknamed Pooh earned the name in 2013, when he walked with the American president at Sunnylands in California and Chinese social media users posted the photograph beside a drawing of Winnie-the-Pooh strolling with Tigger. In 2014 a handshake with Japan's prime minister was matched with Pooh gripping the hoof of a gloomy Eeyore. In 2017, in the run-up to a party congress, comments using the bear's Chinese name, Little Bear Winnie, began failing on Weibo with a warning that the content was illegal, and Pooh stickers disappeared from WeChat's official gallery. No reason was given.
+
+Dolphin historians do not consider the resemblance their business. They consider the ban their business. A state with a nuclear arsenal, a censorship apparatus, and the largest online population on Earth arranged to be threatened by a Bear of Very Little Brain. A government that feels secure can live with a joke. One that does not deletes it, and the deletion becomes the better-known joke.
+
 Dolphin scholarship registers one further complaint alongside the economic ledger, and concedes it is a more personal one than most. China has been the world's largest annual source of carbon emissions since the mid-2000s, by a growing margin over the United States in second place, and a widely cited 2015 study of mismanaged plastic waste entering the ocean ranked China first. A 2021 study that modeled rivers in more detail ranked the Philippines, India, and Malaysia higher, and wealthy countries, the United States among them, had for years shipped their own plastic waste to Asia to be dealt with there.
 
 **Dolphin verdict:**
@@ -1306,25 +1410,19 @@ None of this is offered as a claim that dolphins secretly anticipated theoretica
 
 Quantum mechanics, in particular, did not stay confined to physics departments. Understanding how electrons behave in materials made the transistor possible in 1947, and the transistor made every computer, phone, and network described later in this book possible in turn. A century's strangest ideas about light and matter ended up, by a fairly direct chain of consequences, sitting in every reader's pocket.
 
-*Two questions this chapter raises and a history cannot settle — what all this physics is actually for, and why it has still not become a single theory — are taken up in the appendix at the back of the book, “What the Physics Is For.”*
-
 ### The rest of the ledger
 
-Physics is the chapter's joke. It is not the whole of the accomplishment. Dolphin historians, having teased one science for seeming familiar, owe the others a straight inventory. Humans spent about four centuries building a method: claim less than you can show, show it again, and let a stranger try to break it. The method is the achievement. The list under it is what the method caught.
+Physics is the chapter's joke. It is not the whole of the accomplishment. Dolphin historians, having teased one science for seeming familiar, owe the others a straight inventory. Over about four centuries humans built a method: claim less than you can show, show it again, and let a stranger try to break it. The method is the achievement. The list under it is what the method caught.
 
-Chemistry learned to name matter instead of tasting it. The periodic table, already met in another country's file, turned a cabinet of unrelated stuff into a pattern with holes in it, and the holes turned out to have elements sitting in them, waiting. From that table came fertilizers that feed several billion people, plastics that do not go away, drugs that do, and a habit of rearranging molecules on purpose. The same skill that fixed nitrogen out of the air, and thereby postponed famine, also made explosives. Dolphin historians decline to be surprised. A tool does not know which factory it is in.
+Chemistry learned to name matter instead of tasting it. Mendeleev's table turned a cabinet of unrelated substances into a pattern with gaps in it, and within two decades three of the gaps had been filled by elements found where he said they would be. The same habit of rearranging molecules on purpose produced plastics that do not go away and drugs that do. Early in the twentieth century Fritz Haber and Carl Bosch learned to pull nitrogen out of the air as ammonia; fertilizer made that way now helps feed roughly half of humanity. The same process kept Germany supplied with nitrates for explosives through the First World War. Dolphin historians decline to be surprised. A tool does not know which factory it is in.
 
-Biology found the script. In 1953 the structure of DNA was published, built in part on an X-ray photograph taken by Rosalind Franklin, whose name the first announcement did not lead with. The code was then read, slowly, and in 2003 a rough draft of a human genome was finished, three billion letters, most of them not genes, which was itself a finding. Evolution, stated in the nineteenth century and disliked by several pulpits ever since, is the frame the letters sit in. Plate tectonics, accepted only in the 1960s, explained why the coasts fit and why the ground occasionally kills a city. Astronomy pushed the start of the universe back to a hot beginning, heard the leftover hiss of that beginning in 1965, and in 2015 measured a ripple in space from two black holes colliding, a tremor that had been traveling since before humans had a word for a tremor. In 2012 a particle theorists had ordered in advance, the Higgs, turned up in a machine under the border of France and Switzerland. Dolphin historians are impressed by a species that can write a shopping list for reality and then find the item.
+Biology found the script. In 1953 James Watson and Francis Crick published the double helix of DNA, built in part on X-ray measurements by Rosalind Franklin, whose own paper ran in the same issue and whose results the famous one acknowledged only in passing. Exactly fifty years later, in 2003, the Human Genome Project declared the code read; a working draft had appeared two years earlier, and the last stubborn gaps closed only in 2022. About three billion letters, most of them not genes, which was itself a finding. Evolution, stated in the nineteenth century, is the frame the letters sit in.
 
-The method fails in public, which is how you know it is the method and not a church. Cold fusion did not work. A famous arsenic bacterium did not rewrite life. Papers are retracted. That embarrassment is the accomplishment's immune system. A science that cannot say “we were wrong” in a journal is a costume.
+The ground and the sky were read the same way. Plate tectonics, accepted only in the 1960s once the magnetic stripes on the ocean floor were mapped, explained why the coasts fit together and why the ground occasionally kills a city. In 1948 Ralph Alpher and Robert Herman predicted that a hot beginning would have left a faint glow filling the whole sky. In 1965 two radio astronomers at Bell Labs, Arno Penzias and Robert Wilson, found a hiss in their antenna that would not go away, and it was the glow. Dolphin historians, who locate everything by its echo, admire a species that predicted the echo of its universe's beginning and then went and heard it.
 
-### The outlook, without a trumpet
+The method fails in public, which is how you know it is the method and not a church. In 1989 two chemists announced nuclear fusion in a cell of heavy water at room temperature; other laboratories could not reproduce it, and cold fusion faded. In 2010 a bacterium was announced that could build its DNA with arsenic in place of phosphorus; by 2012 other teams had shown that it could not, and in 2025 the journal retracted the paper. That embarrassment is the accomplishment's immune system. A science that cannot say "we were wrong" in print is a costume.
 
-What comes next is a set of jobs, not a coronation. Fusion power has been twenty years away for about seventy years, and dolphin historians will believe the electricity when it arrives on a grid a town can scold. Quantum computers exist, in expensive and fragile forms, and have not yet made yesterday's codes obsolete. They might. The honest sentence is that the machines are real and the revolution is still a prospectus. Gravitational-wave observatories will hear more collisions. Telescopes now in orbit are reading the atmospheres of planets around other stars, looking for a gas that should not be there unless something is maintaining it. A detection would be the largest headline in this book. It has not happened. Saying “not yet” is not a sneer. It is the method.
-
-The life sciences are faster, and they are treated in the chapter on healing. What belongs here is the warning that goes with the speed. Reading a genome is no longer the hard part. Editing one is becoming ordinary in the laboratory and is already being tried, carefully, in sick people. Editing one in a way that passes to children is a different act, and a few researchers have already done it in defiance of the pause everyone else had agreed to. Dolphin historians do not confuse a tool's power with permission. The outlook is that humans will be able to alter their own inheritance on purpose. The open question is whether the method that made the tool, the part about showing your work and letting strangers object, will be allowed in the room when the alteration is proposed.
-
-Artificial systems that predict the next word, the next fold of a protein, the next storm, are already useful and already over-described. They are not a new species of mind. They are a compression of a great many human sentences and measurements, turned back at the world that produced them. Used on a protein, they shorten a search. Used on a person, they can launder an old prejudice through a new interface. Dolphin historians file them under instruments. Instruments have always been better than the hands that swing them, and worse. The century's scientific outlook, stripped of the keynote speech, is this: more of the universe will become measurable, more of the body will become editable, and the method will survive only if someone is still paid to try to break the claim. That last job is the one the brochures forget. It is the one the ledger depends on.
+*Two questions this chapter raises and a history cannot settle — what all this physics is actually for, and why it has still not become a single theory — are taken up in the appendix at the back of the book, “What the Physics Is For.”*
 
 **Dolphin verdict:**
 
@@ -1397,8 +1495,6 @@ The promise delivered was real: information that had once required a library and
 The cost arrived on the same schedule as the promise, not after it. The same networks that connected people gave states and companies a capacity for surveillance with no earlier equivalent; the same platforms that spread information spread misinformation at the same speed and, by most measured accounts, rather more efficiently; and human attention became a resource harvested, sold, and optimized for in ways no earlier technology in this book had ever managed to monetize directly.
 
 *One of the era's most quoted corporate mottos was, for several years, “move fast and break things.” The things broken were not specified in advance. Critics have since argued that they included privacy, attention spans, and the conduct of elections.*
-
-**
 
 *“Dolphins communicate at the speed of sound through water and have done so for tens of millions of years,” dolphin historians noted, with what human readers may reasonably interpret as amusement. “It required fiber optic cable, geostationary satellites, and a global economy's worth of infrastructure for humans to do, at planetary scale, much what a pod already does by whistling.”*
 
@@ -1510,6 +1606,12 @@ The measured results were not a future prediction by the time this book was writ
 
 Most of the ice that matters sits at the two ends of the world, and the ends are different kinds of place. The Greenland ice sheet is thick enough that, if all of it reached the ocean, the seas would stand about seven meters higher; that will not happen in a human lifetime, but satellites that weigh the sheet from orbit show it losing mass, and some of the loss is now built in. Antarctica is governed by a piece of paper that has held better than most. The Antarctic Treaty of 1959 set territorial claims aside, barred military bases and nuclear dumps, and dedicated the continent to science, and stations from some thirty countries cooperate on the ice in ways their capitals often do not. Dolphin historians, who have watched flags turn into forts on every other coast, treat it as a rare adult document. The part the specialists watch is the western ice sheet, moored to bedrock below sea level, where a retreat would be measured in meters of sea level and nobody can say how fast.
 
+The island on top of that ice sheet has a government of its own. Greenland runs its own domestic affairs inside the Danish kingdom, and it has been priced before. In 1946 the United States secretly proposed buying it from Denmark for $100 million in gold. Denmark did not sell.
+
+In 2019 the American president said in public that he would like to buy it. Denmark's prime minister called the discussion absurd, and Greenland's foreign minister said the island was open for business but not for sale. In December 2024, about to return to office, the same president called American ownership and control of Greenland an absolute necessity, and in January he declined to rule out force. Greenland's prime minister answered in the island's own voice: "We are not for sale and we will not be for sale." A few weeks later he put it more plainly. Greenlanders did not want to be Danish, and they did not want to be American. They wanted to be Greenlandic.
+
+Dolphin historians file the episode under a familiar heading: a powerful country looking at a smaller country's land and seeing a transaction. The heading has many older entries. What changed was who answered. In 1946 Copenhagen replied for the island, in private. This time the island replied for itself, in public.
+
 Geologists have their own name for what all of this adds up to: the Anthropocene, a proposed new epoch defined not by ice or asteroid but by one species' own signature, layered permanently into the planet's rock and sediment. The term was popularized in 2000 by the chemist Paul Crutzen and the biologist Eugene Stoermer, and a working group of scientists spent the following two decades hunting for a single physical site where a future geologist, digging up this era millions of years from now, could point to an exact line and say the old epoch ended here. Their leading candidate was the mid-20th century, marked by a sudden, unmistakable layer of radioactive fallout from nuclear weapons testing, alongside plastic, concrete dust, and fly ash, all showing up in lake sediment worldwide within the same few years. In 2024, the body responsible for officially naming geological epochs voted the specific proposal down anyway, not because the evidence was wrong but because its members could not agree the change deserved a new epoch instead of a chapter inside the current one. The debate over the name continues; the sediment layer it was arguing about does not care either way.
 
 *“Humans spent two decades arguing over what to call the layer of rock they were leaving behind,” dolphin historians noted, “instead of the century arguing over whether to leave it. We note the committee vote changed nothing about the rock.”*
@@ -1578,7 +1680,17 @@ The reason is the one this book proposed at the start. Capability has a ratchet.
 
 It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk.
 
-**Humanity's Report Card**
+Several timelines ran underneath everything else in this book, changing the whole time, without ever getting a chapter of their own. The plainest is the simplest number in the whole record: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion, a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. This book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
+
+*“A species can spend six thousand years building empires on a planet with under a billion of itself on it,” dolphin historians observed, “and then spend the next two hundred years adding seven billion more. We would not call this planning. We would call it momentum.”*
+
+The second overlooked timeline is who, exactly, got to take part in the story this book has been telling. For most of the book's chapters, "citizen," "voter," and "person with legal standing" quietly meant men. New Zealand gave women the vote first among self-governing nations, in 1893. The United States managed it in 1920, after decades of suffragist organizing this book's civil rights chapter only partly covers. Most of the rest of the world followed across the twentieth century, at its own pace, and the line has not finished running yet. A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find endearingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
+
+*“Every chapter in this book about a great civilization,” the Society recorded, “was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened.”*
+
+A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero, but never paused on the throughline connecting it to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle, a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
+
+### Humanity's Report Card
 
 **Creativity: A+.** Humans painted caves, built cathedrals, composed symphonies, and walked on the Moon, and did a suspicious amount of it for no practical reason, which the committee considers the point.
 
@@ -1590,7 +1702,7 @@ It has, to be fair, sometimes arrived on time, and dolphin historians keep a sho
 
 **Treatment of Oceans: Needs Improvement.** See attached plastic.
 
-**Overall Assessment**
+### Overall Assessment
 
 *“Humans are neither the heroes nor the villains of Earth's story. They are a young, brilliant, chaotic species still deciding what kind of civilization they wish to become. Their greatest achievements came when they cooperated. Their worst disasters came when fear, greed, or tribalism overwhelmed reason. Whether they deserve a lasting place in history depends on what they do next.”*
 
@@ -1601,28 +1713,6 @@ The story is not finished. Two branch points, arriving at the same time, may be 
 **Dolphin verdict:**
 
 *A whole book of hands, fire, empires, faiths, dictatorships, wars, and wires points to one plain reading: this species keeps getting better at doing things, and keeps getting only intermittently better at deciding which things are worth doing. Dolphins have had tens of millions of years to watch this gap open and close, open and close, and have learned exactly one thing from the pattern worth stating outright. The gap does not close by itself. Someone with hands has to close it.*
-
-## 1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped
-
-Dolphin scholarship keeps an index of every timeline humans have bothered to write down about themselves: wars sorted by year, dynasties sorted by collapse, inventions sorted by patent. It is, by the Society's count, an enormous list. Reviewing it against this book's own table of contents turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in this book — counted the whole time, changing the whole time — never got a chapter of their own.
-
-This chapter is the dolphins going back for them.
-
-Start with the plainest number in the whole list: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion — a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927, a mere hundred-plus years later. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. Dolphin historians note that this book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
-
-*“A species can spend six thousand years building empires on a planet with under a billion of itself on it,” dolphin historians observed, “and then spend the next two hundred years adding seven billion more. We would not call this planning. We would call it momentum.”*
-
-The second overlooked timeline is who, exactly, got to take part in the story this book has been telling. For most of the book's chapters, “citizen,” “voter,” and “person with legal standing” quietly meant men. New Zealand gave women the vote first among self-governing nations, in 1893. The United States managed it in 1920, after decades of suffragist organizing this book's civil rights chapter only partly covers. Most of the rest of the world followed across the twentieth century, at its own pace, and the line has not finished running yet.
-
-*“Every chapter in this book about a great civilization,” the Society recorded, “was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened.”*
-
-A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find endearingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why.
-
-A fourth and final timeline belongs to the numbers themselves. This book has mentioned, in passing, that ancient India gave the world the mathematical zero, but never paused on the throughline connecting them to the physics and computing chapters near this book's end. The 9th-century Baghdad mathematician al-Khwarizmi, whose name gives us the word algorithm, wrote the treatise that gave the West the word algebra. Isaac Newton and Gottfried Leibniz independently developed calculus in the 17th century, arguing bitterly for the rest of their lives over who got there first. Alan Turing's 1936 paper on computable numbers, written before any computer existed to run on, defined what a computer could and could not do in principle — a piece of pure mathematics that this book's own digital chapter turns out to depend on entirely.
-
-**Dolphin verdict:**
-
-*Every chapter in this book told the story of a place, a war, or an idea, one at a time, in the order humans usually tell it. But underneath all of them, the same four things were running the entire time: there were more humans every year, and only slowly did more of them count; the world was slowly agreeing, on paper if not yet in practice, that its rules should apply to everyone; and the numbers themselves, invented quietly by people this book barely names, were doing more work than any king this book named twice. A history told only in nations and wars will always miss the timelines that do not stop at a border. This chapter exists because the dolphins went back and checked, and found the missing timelines were not minor. They were most of the ledger.*
 
 ## Epilogue: After Homo Sapiens — Superhumans and Androids
 
@@ -1651,6 +1741,352 @@ Signed,
 **The International Dolphin Historical Society**
 
 *“We were here the whole time.”*
+
+## A Timeline — For Humans Who Like Their History in Order
+
+Dolphin scholarship offers this chapter as a courtesy, not a confession. Dolphins experience time the way water experiences a current: continuously, without much need for a ruler. Humans, evidently, feel differently about it, hence this list. What follows is every date of consequence already used in this book, gathered into the one order humans seem to actually want them in, since scattering them across forty chapters in whatever order the subject demanded was, by several complaints received, its own kind of chaos. Dates before roughly 3000 BCE are approximate by tens of thousands of years or more; dates after that are increasingly exact, right up until the ones the dolphins have not seen the end of yet.
+
+### Deep Time
+
+**~50 million years ago.** An early hoofed land mammal wades into shallow water and does not come back out. Its descendants become whales and dolphins.
+
+**~7 million years ago.** A population of African apes splits in two. One branch becomes chimpanzees and bonobos; the other becomes the hominins.
+
+**~3.3 million years ago.** The earliest deliberately shaped stone tools yet found, at Lomekwi in Kenya, predate the genus Homo itself.
+
+**~1.7 million years ago.** Homo erectus starts shaping the Acheulean hand axe, a teardrop-shaped tool that goes on being made with little change for a million years and more.
+
+**~1 million years ago.** Controlled use of fire is in place at Wonderwerk Cave, South Africa.
+
+**~300,000 years ago.** Homo sapiens emerges in Africa; hearths at Qesem Cave, Israel, show fire in habitual, repeated use by then.
+
+**~164,000 years ago.** Toolmakers at Pinnacle Point, South Africa, learn to heat-treat stone before knapping it.
+
+**~75,000 years ago.** Engraved ochre and shell beads at Blombos Cave, South Africa, show humans making marks for meaning alone.
+
+**~70,000-50,000 years ago.** The wave of Homo sapiens whose descendants make up most of the world outside Africa leaves the continent.
+
+**~65,000-50,000 years ago.** Humans cross open water to reach Australia, certainly by 50,000 years ago and perhaps 15,000 years earlier (the older date is argued) — the first meeting, on the water, between humans and dolphins.
+
+**~40,000 years ago.** The last Neanderthals disappear as a distinct population.
+
+**~15,000 years ago.** Wolves and humans have struck their bargain. Humans are in the Americas by this date at the latest; footprints at White Sands, New Mexico, suggest they may have arrived by about 23,000 years ago.
+
+### The First Villages and the First Writing
+
+**~10,000 BCE.** Agriculture begins in the Fertile Crescent; similar shifts follow independently in China, Mesoamerica, and New Guinea.
+
+**~9600 BCE.** Hunter-gatherers raise the carved pillars of Göbekli Tepe, in today's Turkey, before any fully domesticated crop.
+
+**~7500 BCE.** Çatalhöyük, in Anatolia, houses several thousand people who enter their homes through the roof.
+
+**~3200 BCE.** Writing appears in Sumer as cuneiform, with Egyptian hieroglyphs close behind.
+
+**~3100 BCE.** Upper and Lower Egypt are unified under a single pharaoh.
+
+**~2600 BCE.** Caral, in Peru, and the pyramids of Giza rise at approximately the same time, on opposite sides of an ocean neither civilization knew the other existed across.
+
+**~2300 BCE.** Sargon of Akkad (traditionally dated 2334 BCE) conquers the Sumerian city-states and holds them as one state — arguably history's first empire.
+
+**~1754 BCE.** Hammurabi publishes his law code in public, in Babylon.
+
+### The Ancient World
+
+**~1600 BCE.** China's Shang dynasty begins; its oracle bones carry the earliest confirmed Chinese writing.
+
+**1259 BCE.** A treaty between Egypt and the Hittite empire, agreed by Ramesses II and Hattusili III, becomes the oldest peace agreement whose full text has survived.
+
+**1046 BCE.** China's Zhou dynasty introduces the Mandate of Heaven.
+
+**722 BCE.** The northern kingdom of Israel falls to Assyria.
+
+**586 BCE.** Babylon destroys Jerusalem's First Temple and exiles the kingdom of Judah.
+
+**~538 BCE.** Persia's Cyrus the Great lets the Jewish exiles return.
+
+**509 BCE.** Rome expels its last king and founds the Republic.
+
+**508 BCE.** Cleisthenes' reforms found Athenian democracy.
+
+**~450 BCE.** Rome publishes the Twelve Tables, its first written law.
+
+**431-404 BCE.** The Peloponnesian War ends with Athens defeated and its democracy briefly overthrown.
+
+**323 BCE.** Alexander the Great dies; his empire fractures into rival kingdoms within a generation.
+
+**321 BCE.** The Mauryan Empire is founded in India.
+
+**221 BCE.** Qin Shi Huang unifies China as its First Emperor.
+
+**49-27 BCE.** Julius Caesar crosses the Rubicon, is assassinated five years later, and Rome's Republic gives way to Octavian's empire as Augustus.
+
+**~30 CE.** Jesus of Nazareth is executed by Roman authority in Judea.
+
+**66-70 CE.** A Jewish revolt against Rome ends with the destruction of Jerusalem's Second Temple.
+
+**212 CE.** Roman citizenship is extended to close to every free person in the empire.
+
+**313 CE.** Constantine's Edict of Milan legalizes Christianity in the Roman Empire.
+
+**320-550 CE.** India's Gupta period. In 628 Brahmagupta lays down rules for sums and products involving zero.
+
+**330 CE.** The kingdom of Aksum, in the Horn of Africa, adopts Christianity under King Ezana.
+
+**380 CE.** Christianity becomes the Roman Empire's official religion.
+
+**395/476 CE.** Rome splits into Western and Eastern halves; the Western half's last emperor is deposed in 476. The Eastern half continues another thousand years as Byzantium.
+
+**581-605 CE.** China's Sui dynasty takes power, reunifies the country in 589, and introduces the imperial civil service examination.
+
+**632 CE.** The prophet Muhammad dies; within a century Islamic rule reaches from Iberia to the frontier of India.
+
+### The Medieval World
+
+**793 CE.** Norse raiders sack the monastery at Lindisfarne, opening three centuries of Viking raids and settlement.
+
+**800 CE.** Charlemagne is crowned Holy Roman Emperor on Christmas Day.
+
+**800-950 CE.** The great Maya cities are abandoned.
+
+**1054.** The Great Schism divides Catholic Rome from Orthodox Constantinople.
+
+**1095-1291.** The Crusades come in successive waves over almost two centuries; the last Crusader states fall by 1291.
+
+**c. 1138.** Maimonides is born in Córdoba; ten years later the Almohad conquest drives his family into exile.
+
+**1206.** Genghis Khan is proclaimed ruler of all the Mongols.
+
+**1258.** Baghdad falls to the Mongols.
+
+**1270s.** Marco Polo travels the Silk Roads to the Mongol court and back.
+
+**1299.** Osman founds a small frontier principality in northwestern Anatolia, the beginning of the Ottoman Empire.
+
+**1324.** Mansa Musa of Mali makes his pilgrimage to Mecca, giving away enough gold to depress its price in Cairo for a decade.
+
+**1347-1352.** The Black Death, which travels the Silk Roads, kills between a third and a half of the people in Europe.
+
+**1368.** China's Ming dynasty drives the Mongols out.
+
+**1405-1433.** Ming China sends Zheng He's treasure fleets as far as Africa and Arabia.
+
+**1450.** In Mainz, Gutenberg starts printing with movable metal type.
+
+**~1450.** Machu Picchu and Sacsayhuamán are built in the Inca Empire.
+
+**1453.** Constantinople falls to the Ottomans; the Byzantine Empire ends.
+
+**1488-1498.** Dias rounds Africa's southern tip; da Gama reaches India by sea, breaking the old overland spice monopoly.
+
+**1492.** Granada falls, completing the Reconquista; Spain expels its Jewish population; Columbus reaches the Caribbean.
+
+### Exploration to Revolution
+
+**1517.** Martin Luther posts his objections to the Church, launching the Protestant Reformation.
+
+**1519-1521.** Cortés conquers the Aztec capital, Tenochtitlan.
+
+**1522.** Magellan's expedition completes the first circumnavigation of the globe.
+
+**1532.** Pizarro captures the Inca emperor Atahualpa.
+
+**1543-1687.** Copernicus, Galileo, and Newton build the Scientific Revolution's method of testing claims against evidence.
+
+**1600-1607.** England's East India Company is chartered; Jamestown is founded.
+
+**1620-1630s.** The Pilgrims and the Puritan migration arrive in New England, seeking freedom to practice their own strict faith.
+
+**1681.** William Penn founds Pennsylvania, welcoming Quakers.
+
+**1769.** James Watt patents his improved steam engine.
+
+**1776.** The American colonies declare independence.
+
+**1789-1793.** The French Revolution begins, proclaims universal rights that mean, on close reading, men's rights, and ends the king's rule at the guillotine.
+
+**1793.** The cotton gin is invented; Olympe de Gouges, who had written a parallel declaration of women's rights, is guillotined.
+
+**1796.** Edward Jenner's smallpox vaccine grows out of a folk observation about milkmaids and cowpox.
+
+**1803.** The United States doubles in size with the Louisiana Purchase.
+
+**1808-1826.** Napoleon's seizure of the Spanish throne sets off the wars of independence in Spanish America, which end with the empire's mainland colonies free.
+
+**1825.** France forces Haiti, independent since 1804, to pay an indemnity for its former masters' lost property; the debt is still being serviced in the 1940s.
+
+**1830.** The Indian Removal Act forces the Trail of Tears; Joseph Smith founds the Latter Day Saint movement.
+
+### Industry and Empire
+
+**1843.** Ada Lovelace publishes an algorithm for Babbage's unfinished engine, widely counted as the first computer program.
+
+**1846-1854.** Ether anesthesia, Semmelweis's handwashing insight, and John Snow's cholera map transform medicine within one generation.
+
+**1848.** The Seneca Falls Convention drafts a declaration of women's equality.
+
+**1857.** An uprising ends East India Company rule; the British Crown takes direct control as the Raj.
+
+**1859.** Darwin publishes On the Origin of Species. Edwin Drake drills the first commercial oil well.
+
+**1861.** Italy becomes a single state.
+
+**1861-1865.** The American Civil War is fought; the Emancipation Proclamation takes effect in 1863, and the Thirteenth Amendment abolishes slavery in 1865.
+
+**1868.** The Meiji Restoration begins Japan's drive to industrialize in decades what Europe took a century to do.
+
+**1871.** Germany completes political unification as a single state.
+
+**1877.** US Reconstruction is abandoned; legal segregation follows.
+
+**1888.** Brazil, the last country in the Americas to do so, abolishes slavery.
+
+**1893-1920s.** Women's suffrage spreads through Western democracies, starting with New Zealand.
+
+**1895/1905.** Japan defeats China, then Russia, confirming its own status as a great power.
+
+**1896.** Theodor Herzl publishes The Jewish State, and the first Zionist Congress follows in 1897. Svante Arrhenius estimates on paper how much a doubling of atmospheric carbon dioxide would warm the Earth.
+
+### The World Wars and Their Aftermath
+
+**1905.** Einstein publishes special relativity.
+
+**1914-1918.** Archduke Franz Ferdinand's assassination triggers the First World War; it ends with four empires destroyed and ten million soldiers dead.
+
+**1915.** The Ottoman government begins deporting and killing Armenians, a genocide that kills about a million people.
+
+**1916-1923.** Britain and France divide the Ottoman Empire's Arab provinces; the sultanate ends in 1922, and the Turkish Republic is proclaimed in 1923.
+
+**1917-1924.** The Russian Revolution ends the czarist autocracy; Lenin's death in 1924 opens the succession struggle Stalin wins.
+
+**1918-1920.** An influenza pandemic, misnamed the Spanish flu, kills an estimated 17 to 50 million people, perhaps more.
+
+**1919.** The Treaty of Versailles is signed; Eddington's eclipse expedition confirms Einstein's general relativity.
+
+**1928.** Alexander Fleming accidentally discovers penicillin.
+
+**1931-1937.** Japan invades Manchuria, then China.
+
+**1933.** Adolf Hitler is appointed chancellor of Germany. The Soviet Union's early-1930s forced collectivization has, by now, brought it famine.
+
+**1936-1939.** The Spanish Civil War is fought; Franco's victory opens a dictatorship lasting until 1975.
+
+**1939-1945.** The Second World War is fought. The Holocaust murders an estimated six million Jews. Atomic bombs fall on Hiroshima and Nagasaki; Japan surrenders.
+
+**1945.** The wartime US-Soviet partnership curdles into open rivalry within two years.
+
+**1947-1948.** India and Pakistan gain independence; the UN proposes partitioning Palestine; Israel declares independence.
+
+**1947.** The transistor is invented at Bell Labs.
+
+**1949.** Mao Zedong's Communist Party wins China's civil war.
+
+### The Short Violent Peace
+
+**1950.** Over lunch, Enrico Fermi asks where everybody is, a puzzle later named the Fermi Paradox.
+
+**1950-1953.** The Korean War splits a peninsula still divided today.
+
+**1953.** British and American intelligence engineer the overthrow of Iran's elected prime minister, Mohammad Mosaddegh.
+
+**1957-1961.** Sputnik opens the Space Race; Gagarin becomes the first human in orbit in 1961.
+
+**1958-1961.** China's Great Leap Forward produces a famine among the deadliest in recorded history.
+
+**1958.** The Keeling Curve begins recording rising atmospheric carbon dioxide at Mauna Loa.
+
+**1959.** Fidel Castro's revolution takes power in Cuba.
+
+**1960.** Seventeen African countries gain independence in a single year, the crest of decolonization's wave.
+
+**1961.** The Berlin Wall goes up.
+
+**1962.** The Cuban Missile Crisis brings both superpowers to the edge of nuclear war.
+
+**1963-1965.** The US civil rights movement wins the March on Washington, the Civil Rights Act, and the Voting Rights Act.
+
+**1965.** Gordon Moore notes that chips are packing in twice the components every year, a pace he revises in 1975 to every two years.
+
+**1966-1976.** China's Cultural Revolution turns the state against its own institutions and culture.
+
+**1969.** Apollo 11 lands the first humans on the Moon. The Stonewall riots mark a turning point for gay rights. ARPANET, the internet's ancestor, connects its first four computers.
+
+**1973.** A military coup overthrows Chile's elected president, Salvador Allende; Augusto Pinochet's dictatorship lasts until 1990.
+
+**1975.** The Vietnam War ends. Spain's Franco dies, opening a transition to democracy.
+
+**1976-1983.** Argentina's junta disappears thousands of its citizens; its commanders are tried in 1985.
+
+**1977.** The Voyager Golden Record launches into interstellar space; a radio telescope in Ohio records the "Wow!" signal.
+
+**1978-1979.** Deng Xiaoping's reforms begin opening China's economy. The Soviet Union invades Afghanistan.
+
+**1979.** A revolution overthrows Iran's Shah and creates a clerical republic.
+
+**1980.** Smallpox is declared eradicated — the only human disease ever wiped from the wild on purpose.
+
+**1980-1988.** Iraq invades Iran; the eight-year war kills hundreds of thousands of people.
+
+**1986.** The Chernobyl nuclear plant explodes in Soviet Ukraine.
+
+**1988.** The Intergovernmental Panel on Climate Change is formed.
+
+**1989.** The Berlin Wall falls. China's government crushes the Tiananmen Square protests.
+
+**1990-1991.** Nelson Mandela is released after 27 years' imprisonment. The Soviet Union dissolves.
+
+**1994.** Over some three months, between half a million and 800,000 Tutsi and moderate Hutu are murdered in Rwanda's genocide.
+
+### The Wired World
+
+**1989-1991.** Tim Berners-Lee builds the World Wide Web.
+
+**1994.** Mandela is elected South Africa's first Black president.
+
+**2007.** The iPhone arrives, putting a computer in most of humanity's pockets within about fifteen years.
+
+**2010-2012.** The Arab Spring uses social media to organize protest movements across the Middle East.
+
+**2015.** The Paris Agreement brings practically every country into a single climate framework; China ends its one-child policy the same year.
+
+**2019-2021.** COVID-19 becomes a global pandemic. The US Capitol is stormed on January 6, 2021.
+
+**2022.** Russia launches a full-scale invasion of Ukraine.
+
+**2023.** India becomes the most populous country on Earth, overtaking China, and puts Chandrayaan-3 down near the lunar south pole.
+
+**2025.** A Chinese manufacturer, BYD, passes Tesla in full-year sales of battery-electric cars.
+
+**2026.** Artemis II carries four astronauts around the Moon, farther from Earth than any humans before them.
+
+*Dolphin scholarship notes, in closing, that the entries above cluster very heavily toward the list's own end — not because the recent past matters more, but because paperwork survives better the less time it has had to get lost. The dolphins were watching just as closely the whole way through. They simply had less of it written down for them to check against.*
+
+Everything above this line has happened. Everything below it has not, and dolphin scholarship adjusts its own confidence accordingly: the further this list reaches ahead, the less certainty it can honestly offer, and the more plainly it says so.
+
+### The Near Future
+
+**Early 2030s.** Voyager 1 and 2's plutonium power sources are expected to finally fail, ending transmissions that began in 1977. The record scratches. The Golden Record keeps drifting regardless, unaffected.
+
+**2061.** Halley's Comet returns to the inner solar system, on schedule, as it has for at least two thousand years of recorded human sightings.
+
+**2080s.** UN demographic projections put global human population at its historical peak, above ten billion, before beginning the first sustained decline the population curve has shown in this entire book.
+
+**2117 and 2125.** The next pair of transits of Venus across the face of the Sun — an alignment rare enough that the previous pair fell in 2004 and 2012 and the pair before that in 1874 and 1882. Nobody who watched the last one is likely to see the next.
+
+### The Far Future
+
+**~50,000 years.** Earth's orbital cycle would, left alone, bring the next glacial period at about this point. Modeling published in 2016 suggests the carbon dioxide humans have already added could push it back by another fifty thousand years or more — one of the only entries in this book where a side effect and an intention are difficult to tell apart.
+
+**~50,000 years.** Niagara Falls, eroding upstream at its measured rate, reaches Lake Erie and stops being a waterfall, barring further engineering — which, on this book's evidence, is not a safe assumption to rule out.
+
+**~250 million years.** Earth's drifting continents are projected to reassemble into a single landmass again. Geologists have proposed several competing shapes for it — Pangaea Proxima, Novopangaea, Amasia — and do not agree on which, a disagreement none of them will be present to resolve.
+
+**~5 billion years.** The Sun exhausts its hydrogen fuel and swells into a red giant, very likely engulfing Mercury and Venus. Earth's own fate — swallowed, or merely scorched from a closer orbit than it currently holds — remains a genuinely open question among astronomers still refining the models.
+
+**~5-10 billion years.** The Milky Way and the Andromeda galaxy, presently falling toward each other, may collide and merge; a 2025 re-analysis put the odds at roughly even within ten billion years. The distances involved are large enough that hardly a single star, including whatever the Sun has become by then, is expected to actually strike another.
+
+**Beyond that.** By the best current models, the universe's stars burn out one by one over trillions of years, galaxies drift beyond the reach of each other's light, and matter is eventually expected to decay — a state physicists call the heat death of the universe, the furthest entry any edition of this timeline has attempted, and the one verdict in this book that will never be updated to match what actually happens.
+
+*Every earlier entry in this list had a witness. This one does not, and will not. The dolphins, who have watched every other page of this book from somewhere nearby, close this one the way an earlier chapter closed its own account of leaving the solar system: taking it on faith, same as the reader, and no more certain of the ending than anyone else holding this book.*
 
 ## What the Physics Is For — An Appendix on Uses and the One Theory Not Yet Found
 
@@ -1942,7 +2378,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Numbers embarked and died in the Atlantic slave trade.* Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010.
 
-*The voyages database behind those numbers.* SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026).
+*The voyages database behind those numbers.* [SlaveVoyages: Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org) (consulted 2026).
 
 *Equiano’s account of the crossing.* Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789. Project Gutenberg ebook 15399.
 
@@ -2028,7 +2464,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The vaquita’s decline and its cause.* Taylor, Barbara L., et al. “Extinction Is Imminent for Mexico’s Endemic Porpoise unless Fishery Bycatch Is Eliminated.” Conservation Letters 10 (2017): 588–95.
 
-*The vaquita’s numbers now.* NOAA Fisheries. “Vaquita.” https://www.fisheries.noaa.gov/species/vaquita (consulted 2026).
+*The vaquita's numbers now.* NOAA Fisheries. "[Vaquita](https://www.fisheries.noaa.gov/species/vaquita)." (consulted 2026).
 
 *Brazil’s military regime, 1964–1985.* Skidmore, Thomas E. The Politics of Military Rule in Brazil, 1964–1985. New York: Oxford University Press, 1988.
 
@@ -2048,7 +2484,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Iguala case.* Hernández, Anabel. A Massacre in Mexico: The True Story behind the Missing 43 Students. London: Verso, 2018.
 
-*Mexico’s register of the missing.* Secretaría de Gobernación (Mexico). “Registro Nacional de Personas Desaparecidas y No Localizadas.” https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index (consulted 2026).
+*Mexico's register of the missing.* Secretaría de Gobernación (Mexico). "[Registro Nacional de Personas Desaparecidas y No Localizadas](https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index)." (consulted 2026).
 
 **1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left**
 
@@ -2170,6 +2606,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Hong Kong’s national-security law.* Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, promulgated June 30, 2020.
 
+*The Winnie-the-Pooh memes and their censorship.* McDonell, Stephen. "[Why China Censors Banned Winnie the Pooh](https://www.bbc.com/news/blogs-china-blog-40627855)." BBC News, July 17, 2017.
+
+*Little Bear Winnie on Weibo and WeChat; the 2013 and 2014 pairings.* Agence France-Presse. "'Oh, Bother': [Winnie the Pooh Falls Foul of Chinese Internet Censors](https://www.theguardian.com/world/2017/jul/17/winnie-the-pooh-chinese-internet-censors-xi-jinping)." The Guardian, July 17, 2017.
+
 **The 13th Century BCE to 1948 CE: The People Who Kept Their Story — A Complete History of the Jews**
 
 *The long history.* Schama, Simon. The Story of the Jews. 2 vols. London: Bodley Head, 2013 and 2017.
@@ -2196,7 +2636,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy**
 
-*Artemis II record distance and splashdown.* NASA. “NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth.” News release, April 10, 2026 (updated May 7, 2026). https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/
+*Artemis II record distance and splashdown.* NASA. "[NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth](https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/)." News release, April 10, 2026 (updated May 7, 2026).
 
 *Apollo.* Chaikin, Andrew. A Man on the Moon. New York: Viking, 1994.
 
@@ -2219,6 +2659,32 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
 
 *The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+*Mendeleev's table and the predicted elements.* Scerri, Eric R. [The Periodic Table: Its Story and Its Significance](https://openlibrary.org/works/OL8005621W). New York: Oxford University Press, 2006.
+
+*Ammonia synthesis and the food supply.* Erisman, Jan Willem, et al. "[How a Century of Ammonia Synthesis Changed the World](https://doi.org/10.1038/ngeo325)." Nature Geoscience 1 (2008): 636-39.
+
+*The double helix.* Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid](https://doi.org/10.1038/171737a0)." Nature 171 (1953): 737-38.
+
+*Franklin's X-ray evidence.* Franklin, Rosalind E., and R. G. Gosling. "[Molecular Configuration in Sodium Thymonucleate](https://doi.org/10.1038/171740a0)." Nature 171 (1953): 740-41.
+
+*The draft human genome.* International Human Genome Sequencing Consortium. "[Initial Sequencing and Analysis of the Human Genome](https://doi.org/10.1038/35057062)." Nature 409 (2001): 860-921.
+
+*The finished genome.* International Human Genome Sequencing Consortium. "[Finishing the Euchromatic Sequence of the Human Genome](https://doi.org/10.1038/nature03001)." Nature 431 (2004): 931-45.
+
+*The last gaps, 2022.* Nurk, Sergey, et al. "[The Complete Sequence of a Human Genome](https://doi.org/10.1126/science.abj6987)." Science 376 (2022): 44-53.
+
+*Seafloor magnetic stripes and plate tectonics.* Vine, F. J., and D. H. Matthews. "[Magnetic Anomalies over Oceanic Ridges](https://doi.org/10.1038/199947a0)." Nature 199 (1963): 947-49.
+
+*The predicted afterglow.* Alpher, Ralph A., and Robert Herman. "[Evolution of the Universe](https://doi.org/10.1038/162774b0)." Nature 162 (1948): 774-75.
+
+*The afterglow found.* Penzias, A. A., and R. W. Wilson. "[A Measurement of Excess Antenna Temperature at 4080 Mc/s](https://doi.org/10.1086/148307)." Astrophysical Journal 142 (1965): 419-21.
+
+*Cold fusion.* Fleischmann, Martin, and Stanley Pons. "[Electrochemically Induced Nuclear Fusion of Deuterium](https://doi.org/10.1016/0022-0728(89)80006-3)." Journal of Electroanalytical Chemistry 261 (1989): 301-08.
+
+*The arsenic bacterium (retracted 2025).* Wolfe-Simon, Felisa, et al. "[A Bacterium That Can Grow by Using Arsenic Instead of Phosphorus](https://doi.org/10.1126/science.1197258)." Science 332 (2011): 1163-66.
+
+*The arsenic claim refuted.* Reaves, Marshall Louis, et al. "[Absence of Detectable Arsenate in DNA from Arsenate-Grown GFAJ-1 Cells](https://doi.org/10.1126/science.1219861)." Science 337 (2012): 470-73.
 
 **The 1940s to the 1970s: Decolonization — The World Redraws Itself**
 
@@ -2274,7 +2740,7 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The case for a natural origin.* ‘Oumuamua ISSI Team. “The Natural History of ‘Oumuamua.” Nature Astronomy 3 (2019): 594–602.
 
-*The Arecibo message.* Staff at the National Astronomy and Ionosphere Center. “The Arecibo Message of November, 1974.” Icarus 26 (1975): 462–66.
+*The Arecibo message.* Staff at the National Astronomy and Ionosphere Center. "[The Arecibo Message of November, 1974](https://doi.org/10.1016/0019-1035(75)90116-5)." Icarus 26 (1975): 462-66.
 
 *The Pentagon’s review of UAP claims.* All-domain Anomaly Resolution Office (AARO). Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena, Volume I. U.S. Department of Defense, 2024.
 
@@ -2314,17 +2780,25 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *West Antarctica and marine ice-sheet retreat.* Joughin, Ian, Benjamin E. Smith, and Brooke Medley. “Marine Ice Sheet Collapse Potentially under Way for the Thwaites Glacier Basin, West Antarctica.” Science 344 (2014): 735–38.
 
-*The Antarctic Treaty.* Secretariat of the Antarctic Treaty. “The Antarctic Treaty.” Signed at Washington, December 1, 1959; in force June 23, 1961. https://www.ats.aq/e/antarctictreaty.html (consulted 2026).
+*The Antarctic Treaty.* Secretariat of the Antarctic Treaty. "[The Antarctic Treaty](https://www.ats.aq/e/antarctictreaty.html)." Signed at Washington, December 1, 1959; in force June 23, 1961 (consulted 2026).
+
+*The 1946 American offer for Greenland.* Office of the Historian, US Department of State. [Foreign Relations of the United States, 1947, Volume III](https://history.state.gov/historicaldocuments/frus1947v03/d414): The British Commonwealth; Europe, document 414.
+
+*Greenland not for sale, 2019.* "'Greenland Belongs to Greenland': [Denmark Says Selling World's Largest Island to US Is Absurd](https://www.cnbc.com/2019/08/18/greenland-belongs-to-greenland-denmark-says-selling-worlds-largest-island-to-us-is-absurd.html)." CNBC, August 18, 2019.
+
+*The renewed bid and Greenland's reply, December 2024.* BBC News. Report on [Greenland's reply to the renewed American bid](https://www.bbc.com/news/articles/c791xy4pllqo), December 23, 2024.
+
+*Force not ruled out; "We want to be Greenlandic".* BBC News. [Report from Greenland on the renewed American interest](https://www.bbc.co.uk/news/articles/c93qyky1gglo), January 12, 2025.
 
 **1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age**
 
 *Annual decline in global freedom.* Freedom House. Freedom in the World 2025. Washington, DC, 2025.
 
-*COVID-19 outcomes and trust.* COVID-19 National Preparedness Collaborators. “Pandemic Preparedness and COVID-19: An Exploratory Analysis of Infection and Fatality Rates, and Contextual Factors Associated with Preparedness in 177 Countries.” The Lancet 399 (2022): 1489–1512.
+*COVID-19 outcomes and trust.* COVID-19 National Preparedness Collaborators. "[Pandemic Preparedness and COVID-19: An Exploratory Analysis of Infection and Fatality Rates, and Contextual Factors Associated with Preparedness in 177 Countries](https://doi.org/10.1016/S0140-6736(22)00172-6)." The Lancet 399 (2022): 1489-1512.
 
 *Excess mortality.* Msemburi, William, et al. “The WHO Estimates of Excess Mortality Associated with the COVID-19 Pandemic.” Nature 613 (2023): 130–37.
 
-**1804 to 2022: Half the World, All the Time — The Timelines This Book Almost Skipped**
+**Seven Million Years to Today: The Dolphins' Long View — What a Non-Human Species Makes of Human History**
 
 *Population milestones and projections.* United Nations, Department of Economic and Social Affairs, Population Division. World Population Prospects 2024. New York, 2024.
 
@@ -2394,59 +2868,88 @@ Dolphin scholarship is obliged to disclose that it has not read any of the follo
 
 **The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979). **For the other dolphins, and for the general approach to explaining everything. The dolphins' farewell gives the fourth book of the series its title, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.
 
+*If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.*
+
+## About the Author
+
+Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+
+He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+
 ## Also by Lothar J. Musiol
 
 **Physics, Actually**
 
-- *Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity*
-- *Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime*
-- *Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge*
-- *Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere*
+*Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity*
+
+*Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime*
+
+*Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge*
+
+*Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere*
+
+**More Actually Books**
+
+*Gravity, Actually: Einstein's Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard*
+
+*The Universe, Actually: What Humanity Currently Understands About Reality*
 
 **Math, Actually**
 
-- *Math, Actually, Volume 1: From Arithmetic to Calculus*
-- *Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic*
-- *Math, Actually, Volume 3: From Differential Equations to Abstract Algebra*
-- *Math, Actually, Volume 4: From Category Theory to the Frontier*
+*Math, Actually, Volume 1: From Arithmetic to Calculus*
+
+*Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic*
+
+*Math, Actually, Volume 3: From Differential Equations to Abstract Algebra*
+
+*Math, Actually, Volume 4: From Category Theory to the Frontier*
 
 **Quantum, Actually**
 
-- *Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire*
-- *Quantum, Actually, Volume 2: A QED Course*
+*Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire*
+
+*Quantum, Actually, Volume 2: A QED Course*
 
 **Science Sparks**
 
-- *Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights*
+*Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights*
 
 **Look First**
 
-- *Look First, Volume 1: The Universe Has No Now*
-- *Look First, Volume 2: A Trip Is Not a New Life*
+*Look First, Volume 1: The Universe Has No Now*
+
+*Look First, Volume 2: A Trip Is Not a New Life*
 
 **Electrical Engineering Series**
 
-- *Foundations of Electronics (Book 1)*
-- *Circuits, Components, and Control (Book 2)*
-- *Semiconductor Physics and Devices (Book 3)*
-- *RF, Microwave, and Transceivers (Book 4)*
-- *Communications, Wireless, and SDR (Book 5)*
-- *Power and Energy (Book 6)*
-- *Packaging, Layout, EMC, and Test (Book 7)*
+*Foundations of Electronics (Book 1)*
 
-**History**
+*Circuits, Components, and Control (Book 2)*
 
-- *The Dolphins' View of History*
+*Semiconductor Physics and Devices (Book 3)*
+
+*RF, Microwave, and Transceivers (Book 4)*
+
+*Communications, Wireless, and SDR (Book 5)*
+
+*Power and Energy (Book 6)*
+
+*Packaging, Layout, EMC, and Test (Book 7)*
 
 **Fiction**
 
-- *The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)*
-- *The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)*
-- *Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)*
-- *The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)*
-- *Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine*
+*The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)*
 
-**How-To**
+*The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)*
 
-- *Your First Book That Sells*
-- *Your First YouTube Channel That Rocks*
+*Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)*
+
+*The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)*
+
+*Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine*
+
+*In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston*
+
+**In German**
+
+*Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland?*
