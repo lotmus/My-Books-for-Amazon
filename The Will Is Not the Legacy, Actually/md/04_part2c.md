@@ -133,6 +133,8 @@ The more subtle prevention would have been a conversation. Frank could have told
 
 **Why it was the car, not the money.** Disputes over estates are rarely about the largest asset. They are about the object that carries a story: the car, the ring, the piano, the cabin. Maria did not need the car. She wanted the afternoons she remembered sitting in it with her father, and the will seemed to give those afternoons to her brother-in-law. A gift with a story needs the story told, in the will or beside it, and if possible to the person who will be disappointed, while the giver is alive to tell it kindly.
 
+**Why boring signings win.** Lawyers who litigate wills say the same thing in different words: the strongest evidence for a will is an uneventful signing. A testator who arrives on their own, talks about the weather, reads the will, asks one sensible question, and signs in front of two people who will never benefit and will never be surprised by the result leaves almost nothing to argue about. Every departure from that picture, a beneficiary in the room, a witness with a stake, a signing at the kitchen table after dinner, becomes a thread someone can pull. Frank's will survived because Kevin had good evidence. It would have survived without a lawsuit if the signing had been dull.
+
 **What to do.**
 
 - Ask: does either witness, or a witness's spouse, receive anything? If so, find another witness.
@@ -158,7 +160,7 @@ Without proof, the statutory order applied. Elisabeth's two sons inherited equal
 
 Both sons were decent men. Both had mortgages. One wanted to sell the house and split the proceeds; the other wanted to let Lea stay. Lea, not wanting to be the cause of a quarrel, moved out within the year.
 
-**What would have prevented it.** The same handwritten will, deposited in official custody. German law requires the local court to accept a handwritten will into special official custody (*besondere amtliche Verwahrung*) if the testator asks (§ 2248). The will is then registered in the Central Register of Wills kept by the Federal Chamber of Notaries. When the death is registered, the register informs the court holding the will, which opens it and informs the people concerned. It cannot be lost in a flood, hidden by a disappointed relative, or thrown away with the old newspapers. The registration fee, according to the Chamber, is 12.50 or 15.50 euros depending on how it is billed; the court charges a fixed fee for the custody itself.
+**What would have prevented it.** The same handwritten will, deposited in official custody. German law requires the local court to accept a handwritten will into special official custody (*besondere amtliche Verwahrung*) if the testator asks (§ 2248). The will is then registered in the Central Register of Wills kept by the Federal Chamber of Notaries. When the death is registered, the register informs the court holding the will, which opens it and informs the people concerned. It cannot be lost in a flood, hidden by a disappointed relative, or thrown away with the old newspapers. The registration fee, according to the Chamber, is 12.50 or 15.50 euros depending on how it is billed; the court charges a one-off fee for the custody itself, 82 euros since June 2025 (GNotKG fee schedule, no. 12100). There is no annual charge.
 
 A notarial will would have been registered in the same way.
 
@@ -177,6 +179,8 @@ A notarial will would have been registered in the same way.
 - Where exactly is the original of my will?
 - Who knows where it is?
 - Would it survive a flood, a fire, or a well-meaning relative clearing the house?
+
+**The receipt is part of the plan.** When a German court accepts a will into official custody, it gives the testator a deposit receipt (*Hinterlegungsschein*). Keep it with your Family List: it tells your family at once which court holds the will, and it is what you show if you ever want the will back. The court returns a will from custody only to the testator in person, and a joint will only to both spouses together, which is another safeguard against a helpful relative "tidying up."
 
 **What to do.**
 
@@ -217,6 +221,8 @@ Undue influence is a different question. A person can have full capacity and sti
 **The German version.** German law has no exact equivalent, but wills often contain a so-called *Pflichtteilsstrafklausel* in a couple's joint will: a child who claims their compulsory share after the first parent's death is limited to the compulsory share after the second death too. It deters for the same reason as the California clause, and fails for the same reason: if the child has more to gain from claiming than from waiting, the clause will not stop them.
 
 **If it has already happened.** If you are the child left with a small gift and a no-contest clause, do not decide in anger. Get a lawyer's view on whether you have probable cause, and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter, and consider early mediation. Will contests are often settled in the end; settling them early saves the most.
+
+**The German version of the capacity question.** German law sets its own test: a person cannot make a valid will if, because of a mental disorder or impairment of consciousness, they cannot understand the significance of what they are declaring and act on that understanding (BGB § 2229). German notaries must satisfy themselves of capacity and record their impression in the deed, which is one reason a notarial will made after an illness is harder to attack than a handwritten one. In both countries the evidence that matters most is evidence gathered on the day, by someone neutral.
 
 **What to do.**
 
