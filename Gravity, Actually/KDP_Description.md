@@ -13,6 +13,7 @@ Rev10, 11 Oct 2026 (Rev9 renamed: title Gravity, Actually, subtitle Einstein’s
 ```html
 <p><b>Let go of an apple and nothing pulls it down.</b> It is already on the straightest path there is. The floor is what gets in the way.</p>
 <p>So why do astronauts float in a station where gravity is still 89 percent as strong as on the ground? Why would your phone’s map be kilometers off within a day if nobody corrected the satellite clocks for Einstein? Why does the sea rise twice a day, not once? And why is the edge of a black hole a door and not a wall?</p>
+<p>Einstein’s theory already has its masterpiece: <i>Gravitation</i> by Misner, Thorne, and Wheeler, nearly 1,300 pages written for graduate students. This book is for everyone else who wants the same ideas.</p>
 <p><i>Gravity, Actually</i> answers in ordinary words, and brings the story right up to what has actually been measured:</p>
 <ul>
 <li>Clocks in orbit that run fast by 38 microseconds a day, and the GPS correction that keeps them honest</li>
