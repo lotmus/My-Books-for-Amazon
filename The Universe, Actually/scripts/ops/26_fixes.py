@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+OPS = [
+('sub', 'N17', "What is secure is that by 50 000 years ago people with fully modern minds lived on several continents. Within the following millennia they reached Australia, crossed the Arctic and, later, the Pacific. They did it with the same bodies we have, and without any evidence that they were biologically different from us.", "What is secure is that by 50 000 years ago people with fully modern minds lived on several continents, and that Australia had been reached by then or earlier. Over the following tens of thousands of years their descendants crossed the Arctic into the Americas and, much later, settled the islands of the Pacific. They did it with the same bodies we have, and there is no evidence that they differed biologically from us."),
+]
+OPS.append(('fsub', 'note', "across seven parts: the universe, matter, life, the body and mind, the Earth, technology, and the history and future of the enterprise itself.", "across eight parts: the universe; space, time and gravity; matter and the quantum world; life; the body and mind; the Earth and planets; technology; and the history and future of the enterprise itself."))
