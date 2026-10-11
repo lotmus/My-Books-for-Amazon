@@ -282,7 +282,7 @@ def wrap(d, font, text, width):
 
 # ------------------------------------------------------------ front
 FEATURES = [
-    '87 lessons and 9 prologues, every exercise solved',
+    '87 lessons and 9 opening chapters, every exercise solved',
     'The Dirac equation, built from scratch',
     'Feynman rules derived, not assumed',
     'Renormalization and the running charge',
@@ -366,7 +366,7 @@ def front():
 # ------------------------------------------------------------ back
 ITEMS = [
     ('arrows', 'FROM ARROWS TO THE DIRAC EQUATION',
-     'Nine prologues start from Feynman\u2019s arrows; 38 lessons rebuild the mathematics, quantum mechanics, and relativity that QED needs.'),
+     'Nine opening chapters start from Feynman\u2019s arrows; 38 lessons rebuild the mathematics, quantum mechanics, and relativity that QED needs.'),
     ('vertex', 'FEYNMAN RULES, DERIVED',
      'Local U(1) symmetry gives the QED Lagrangian. The vertex and the propagators are read off it, not assumed.'),
     ('xsec', 'FIVE PROCESSES, CALCULATED',
