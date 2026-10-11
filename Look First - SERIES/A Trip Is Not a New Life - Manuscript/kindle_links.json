@@ -1,0 +1,304 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "NASA Identifies Cause of Artemis I Orion Heat Shield Char Loss” (2024): gas trapped in the Avcoat char, cracking, and loss; next flight’s entry profile changed. https://www.nasa.gov/missions/artemis/nasa-identifies-cause-of-artemis-i-orion-heat-shield-char-loss/",
+   "to": "[NASA Identifies Cause of Artemis I Orion Heat Shield Char Loss](https://www.nasa.gov/missions/artemis/nasa-identifies-cause-of-artemis-i-orion-heat-shield-char-loss/)” (2024): gas trapped in the Avcoat char, cracking, and loss; next flight’s entry profile changed."
+  },
+  {
+   "find": "NASA Outlines Preliminary Artemis III Mission Plans” (2026): Artemis III becomes a crewed Earth-orbit test with commercial landers; the first landing attempt moves to Artemis IV. https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
+   "to": "[NASA Outlines Preliminary Artemis III Mission Plans](https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/)” (2026): Artemis III becomes a crewed Earth-orbit test with commercial landers; the first landing attempt moves to Artemis IV."
+  },
+  {
+   "find": "Direct evidence of surface exposed water ice in the lunar polar regions,” PNAS 115 (2018), 8907–8912. https://doi.org/10.1073/pnas.1802345115",
+   "to": "[Direct evidence of surface exposed water ice in the lunar polar regions](https://doi.org/10.1073/pnas.1802345115),” PNAS 115 (2018), 8907–8912."
+  },
+  {
+   "find": "Outcome for the Smart Lander for Investigating Moon (SLIM)’s Moon Landing” (25 January 2024): landed about 55 m east of target after losing thrust from one main engine. https://global.jaxa.jp/press/2024/01/20240125-1_e.html",
+   "to": "[Outcome for the Smart Lander for Investigating Moon (SLIM)’s Moon Landing](https://global.jaxa.jp/press/2024/01/20240125-1_e.html)” (25 January 2024): landed about 55 m east of target after losing thrust from one main engine."
+  },
+  {
+   "find": "A sample of the Moon’s far side retrieved by Chang’e-6 contains 2.83-billion-year-old basalt,” Science 386 (2024), 1395–1399; and Q. W. L. Zhang and colleagues, “Lunar farside volcanism 2.8 billion years ago from Chang’e-6 basalts,” Nature 643 (2025; online 2024), 356–360. https://doi.org/10.1126/science.adt1093 https://doi.org/10.1038/s41586-024-08382-0",
+   "to": "[A sample of the Moon’s far side retrieved by Chang’e-6 contains 2.83-billion-year-old basalt](https://doi.org/10.1126/science.adt1093),” Science 386 (2024), 1395–1399; and Q. W. L. Zhang and colleagues, “[Lunar farside volcanism 2.8 billion years ago from Chang’e-6 basalts](https://doi.org/10.1038/s41586-024-08382-0),” Nature 643 (2025; online 2024), 356–360."
+  },
+  {
+   "find": "NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth” (10 April 2026): launch 1 April 2026; crew Reid Wiseman, Victor Glover, Christina Koch, Jeremy Hansen; splashdown off San Diego 10 April 2026. https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/",
+   "to": "[NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth](https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/)” (10 April 2026): launch 1 April 2026; crew Reid Wiseman, Victor Glover, Christina Koch, Jeremy Hansen; splashdown off San Diego 10 April 2026."
+  },
+  {
+   "find": "NASA halts work on Gateway to develop a lunar base,” SpaceNews (24 March 2026); NASA, “Moon Base Phases”; and Spaceflight Now, “NASA outlines ambitious $20 billion plan for moon base” (25 March 2026), for the cost, the first-phase landings, and the crew cadence. https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/ https://www.nasa.gov/moonbase-phases/ https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/",
+   "to": "[NASA halts work on Gateway to develop a lunar base](https://spacenews.com/nasa-halts-work-on-gateway-to-develop-a-lunar-base/),” SpaceNews (24 March 2026); NASA, “[Moon Base Phases](https://www.nasa.gov/moonbase-phases/)”; and Spaceflight Now, “[NASA outlines ambitious $20 billion plan for moon base](https://spaceflightnow.com/2026/03/25/nasa-outlines-ambitious-20-billion-plan-for-moon-base/)” (25 March 2026), for the cost, the first-phase landings, and the crew cadence."
+  },
+  {
+   "find": "The Artemis Accords.” https://www.nasa.gov/artemis-accords/",
+   "to": "[The Artemis Accords](https://www.nasa.gov/artemis-accords/).”"
+  },
+  {
+   "find": "Musk says SpaceX focus is on the moon rather than Mars,” SpaceNews (9 February 2026). https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/",
+   "to": "[Musk says SpaceX focus is on the moon rather than Mars](https://spacenews.com/musk-says-spacex-focus-is-on-the-moon-rather-than-mars/),” SpaceNews (9 February 2026)."
+  },
+  {
+   "find": "Mars Oxygen ISRU Experiment (MOXIE) — Preparing for human Mars exploration,” Science Advances 8 (2022), eabp8636. https://doi.org/10.1126/sciadv.abp8636",
+   "to": "[Mars Oxygen ISRU Experiment (MOXIE) — Preparing for human Mars exploration](https://doi.org/10.1126/sciadv.abp8636),” Science Advances 8 (2022), eabp8636."
+  },
+  {
+   "find": "Oxygen loss in Biosphere 2,” Eos, Transactions AGU 75 (1994), 33–37. https://doi.org/10.1029/94EO00285",
+   "to": "[Oxygen loss in Biosphere 2](https://doi.org/10.1029/94EO00285),” Eos, Transactions AGU 75 (1994), 33–37."
+  },
+  {
+   "find": "NASA Achieves Water Recovery Milestone on International Space Station” (June 2023): about 98 percent of water recovered on the U.S. segment. https://www.nasa.gov/missions/station/iss-research/nasa-achieves-water-recovery-milestone-on-international-space-station/",
+   "to": "[NASA Achieves Water Recovery Milestone on International Space Station](https://www.nasa.gov/missions/station/iss-research/nasa-achieves-water-recovery-milestone-on-international-space-station/)” (June 2023): about 98 percent of water recovered on the U.S. segment."
+  },
+  {
+   "find": "Technology Readiness Levels” (the nine-level scale). https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/",
+   "to": "[Technology Readiness Levels](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/technology-readiness-levels/)” (the nine-level scale)."
+  },
+  {
+   "find": "Collision frequency of artificial satellites: The creation of a debris belt,” Journal of Geophysical Research 83 (1978), 2637–2646. https://doi.org/10.1029/JA083iA06p02637",
+   "to": "[Collision frequency of artificial satellites: The creation of a debris belt](https://doi.org/10.1029/JA083iA06p02637),” Journal of Geophysical Research 83 (1978), 2637–2646."
+  },
+  {
+   "find": "First measurements of the radiation dose on the lunar surface,” Science Advances 6 (2020), eaaz1334. Chang’e-4’s lander dosimeter: about 1,369 microsieverts a day on the open surface. https://doi.org/10.1126/sciadv.aaz1334",
+   "to": "[First measurements of the radiation dose on the lunar surface](https://doi.org/10.1126/sciadv.aaz1334),” Science Advances 6 (2020), eaaz1334. Chang’e-4’s lander dosimeter: about 1,369 microsieverts a day on the open surface."
+  },
+  {
+   "find": "Global, regional, and national burden of osteoarthritis, 1990–2020 and projections to 2050,” The Lancet Rheumatology 5 (2023), e508–e522: 595 million people (95% uncertainty interval 535–656 million) had osteoarthritis in 2020. https://doi.org/10.1016/S2665-9913(23)00163-7",
+   "to": "[Global, regional, and national burden of osteoarthritis, 1990–2020 and projections to 2050](https://doi.org/10.1016/S2665-9913(23)00163-7),” The Lancet Rheumatology 5 (2023), e508–e522: 595 million people (95% uncertainty interval 535–656 million) had osteoarthritis in 2020."
+  },
+  {
+   "find": "The Real Facts Supporting Jeanne Calment as the Oldest Ever Human,” Journals of Gerontology: Series A 74 (2019), S13–S20. https://doi.org/10.1093/gerona/glz198",
+   "to": "[The Real Facts Supporting Jeanne Calment as the Oldest Ever Human](https://doi.org/10.1093/gerona/glz198),” Journals of Gerontology: Series A 74 (2019), S13–S20."
+  },
+  {
+   "find": "Hallmarks of aging: An expanding universe,” Cell 186 (2023), 243–278. https://doi.org/10.1016/j.cell.2022.11.001",
+   "to": "[Hallmarks of aging: An expanding universe](https://doi.org/10.1016/j.cell.2022.11.001),” Cell 186 (2023), 243–278."
+  },
+  {
+   "find": "Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age,” eLife 7 (2018), e31157. https://doi.org/10.7554/eLife.31157",
+   "to": "[Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age](https://doi.org/10.7554/eLife.31157),” eLife 7 (2018), e31157."
+  },
+  {
+   "find": "High-molecular-mass hyaluronan mediates the cancer resistance of the naked mole rat,” Nature 499 (2013), 346–349; and Z. Zhang and colleagues, “Increased hyaluronan by naked mole-rat Has2 improves healthspan in mice,” Nature 621 (2023), 196–205. https://doi.org/10.1038/nature12234 https://doi.org/10.1038/s41586-023-06463-0",
+   "to": "[High-molecular-mass hyaluronan mediates the cancer resistance of the naked mole rat](https://doi.org/10.1038/nature12234),” Nature 499 (2013), 346–349; and Z. Zhang and colleagues, “[Increased hyaluronan by naked mole-rat Has2 improves healthspan in mice](https://doi.org/10.1038/s41586-023-06463-0),” Nature 621 (2023), 196–205."
+  },
+  {
+   "find": "Eye lens radiocarbon reveals centuries of longevity in the Greenland shark,” Science 353 (2016), 702–704. https://doi.org/10.1126/science.aaf1703",
+   "to": "[Eye lens radiocarbon reveals centuries of longevity in the Greenland shark](https://doi.org/10.1126/science.aaf1703),” Science 353 (2016), 702–704."
+  },
+  {
+   "find": "Jonathan the Tortoise is Alive and Well” (2026). https://www.sainthelena.gov.sh/jonathan-the-tortoise-is-alive-and-well/",
+   "to": "[Jonathan the Tortoise is Alive and Well](https://www.sainthelena.gov.sh/jonathan-the-tortoise-is-alive-and-well/)” (2026)."
+  },
+  {
+   "find": "Exagamglogene Autotemcel for Severe Sickle Cell Disease,” New England Journal of Medicine 390 (2024), 1649–1662. https://doi.org/10.1056/NEJMoa2309676",
+   "to": "[Exagamglogene Autotemcel for Severe Sickle Cell Disease](https://doi.org/10.1056/NEJMoa2309676),” New England Journal of Medicine 390 (2024), 1649–1662."
+  },
+  {
+   "find": "Reprogramming in vivo produces teratomas and iPS cells with totipotency features,” Nature 502 (2013), 340–345. https://doi.org/10.1038/nature12586",
+   "to": "[Reprogramming in vivo produces teratomas and iPS cells with totipotency features](https://doi.org/10.1038/nature12586),” Nature 502 (2013), 340–345."
+  },
+  {
+   "find": "In Vivo Amelioration of Age-Associated Hallmarks by Partial Reprogramming,” Cell 167 (2016), 1719–1733. https://doi.org/10.1016/j.cell.2016.11.052",
+   "to": "[In Vivo Amelioration of Age-Associated Hallmarks by Partial Reprogramming](https://doi.org/10.1016/j.cell.2016.11.052),” Cell 167 (2016), 1719–1733."
+  },
+  {
+   "find": "Reprogramming to recover youthful epigenetic information and restore vision,” Nature 588 (2020), 124–129. https://doi.org/10.1038/s41586-020-2975-4",
+   "to": "[Reprogramming to recover youthful epigenetic information and restore vision](https://doi.org/10.1038/s41586-020-2975-4),” Nature 588 (2020), 124–129."
+  },
+  {
+   "find": "Lecanemab in Early Alzheimer’s Disease,” New England Journal of Medicine 388 (2023), 9–21. https://doi.org/10.1056/NEJMoa2212948",
+   "to": "[Lecanemab in Early Alzheimer’s Disease](https://doi.org/10.1056/NEJMoa2212948),” New England Journal of Medicine 388 (2023), 9–21."
+  },
+  {
+   "find": "Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial,” JAMA 330 (2023), 512–527. https://doi.org/10.1001/jama.2023.13239",
+   "to": "[Donanemab in Early Symptomatic Alzheimer Disease: The TRAILBLAZER-ALZ 2 Randomized Clinical Trial](https://doi.org/10.1001/jama.2023.13239),” JAMA 330 (2023), 512–527."
+  },
+  {
+   "find": "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission,” The Lancet 404 (2024), 572–628. https://doi.org/10.1016/S0140-6736(24)01296-0",
+   "to": "[Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),” The Lancet 404 (2024), 572–628."
+  },
+  {
+   "find": "Commemorating Smallpox Eradication — a legacy of hope” (2020), on the World Health Assembly’s declaration of 8 May 1980. https://www.who.int/news/item/08-05-2020-commemorating-smallpox-eradication-a-legacy-of-hope-for-covid-19-and-other-diseases",
+   "to": "[Commemorating Smallpox Eradication — a legacy of hope](https://www.who.int/news/item/08-05-2020-commemorating-smallpox-eradication-a-legacy-of-hope-for-covid-19-and-other-diseases)” (2020), on the World Health Assembly’s declaration of 8 May 1980."
+  },
+  {
+   "find": "The Cost of Sequencing a Human Genome”: about $2.7 billion in U.S. Human Genome Project funding over about thirteen years; a draft whole genome below $1,500 by late 2015. https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost",
+   "to": "[The Cost of Sequencing a Human Genome](https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost)”: about $2.7 billion in U.S. Human Genome Project funding over about thirteen years; a draft whole genome below $1,500 by late 2015."
+  },
+  {
+   "find": "Measurements of relativistic time dilatation for positive and negative muons in a circular orbit,” Nature 268 (1977), 301–305. https://doi.org/10.1038/268301a0",
+   "to": "[Measurements of relativistic time dilatation for positive and negative muons in a circular orbit](https://doi.org/10.1038/268301a0),” Nature 268 (1977), 301–305."
+  },
+  {
+   "find": "Around-the-World Atomic Clocks: Predicted Relativistic Time Gains,” Science 177 (1972), 166–168. https://doi.org/10.1126/science.177.4044.166",
+   "to": "[Around-the-World Atomic Clocks: Predicted Relativistic Time Gains](https://doi.org/10.1126/science.177.4044.166),” Science 177 (1972), 166–168."
+  },
+  {
+   "find": "Relativity in the Global Positioning System,” Living Reviews in Relativity 6 (2003), 1. https://doi.org/10.12942/lrr-2003-1",
+   "to": "[Relativity in the Global Positioning System](https://doi.org/10.12942/lrr-2003-1),” Living Reviews in Relativity 6 (2003), 1."
+  },
+  {
+   "find": "Optical Clocks and Relativity,” Science 329 (2010), 1630–1633. https://doi.org/10.1126/science.1192720",
+   "to": "[Optical Clocks and Relativity](https://doi.org/10.1126/science.1192720),” Science 329 (2010), 1630–1633."
+  },
+  {
+   "find": "Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest,” New England Journal of Medicine 384 (2021), 2283–2294; and J.-B. Lascarrou and colleagues, “Targeted Temperature Management for Cardiac Arrest with Nonshockable Rhythm,” New England Journal of Medicine 381 (2019), 2327–2337. https://doi.org/10.1056/NEJMoa2100591 https://doi.org/10.1056/NEJMoa1906661",
+   "to": "[Hypothermia versus Normothermia after Out-of-Hospital Cardiac Arrest](https://doi.org/10.1056/NEJMoa2100591),” New England Journal of Medicine 384 (2021), 2283–2294; and J.-B. Lascarrou and colleagues, “[Targeted Temperature Management for Cardiac Arrest with Nonshockable Rhythm](https://doi.org/10.1056/NEJMoa1906661),” New England Journal of Medicine 381 (2019), 2327–2337."
+  },
+  {
+   "find": "Physiological regulation of tau phosphorylation during hibernation,” Journal of Neurochemistry 105 (2008), 2098–2108. https://doi.org/10.1111/j.1471-4159.2008.05294.x",
+   "to": "[Physiological regulation of tau phosphorylation during hibernation](https://doi.org/10.1111/j.1471-4159.2008.05294.x),” Journal of Neurochemistry 105 (2008), 2098–2108."
+  },
+  {
+   "find": "It turns out that Orion’s much-maligned heat shield performed really well,” Ars Technica (September 2026), reporting the Aerospace Safety Advisory Panel: about nine char-loss sites on Artemis II against more than 100 on Artemis I. https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+   "to": "[It turns out that Orion’s much-maligned heat shield performed really well](https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/),” Ars Technica (September 2026), reporting the Aerospace Safety Advisory Panel: about nine char-loss sites on Artemis II against more than 100 on Artemis I."
+  },
+  {
+   "find": "NASA workforce memo details Artemis III launch delays” (September 2026): the administrator’s 20 September note, about 90 days behind a summer-2027 best case. https://www.fox35orlando.com/news/nasa-workforce-memo-details-artemis-iii-launch-delays",
+   "to": "[NASA workforce memo details Artemis III launch delays](https://www.fox35orlando.com/news/nasa-workforce-memo-details-artemis-iii-launch-delays)” (September 2026): the administrator’s 20 September note, about 90 days behind a summer-2027 best case."
+  },
+  {
+   "find": "Biological Versus Technical Reliability of Epigenetic Clocks and Implications for Disease Prognosis and Intervention Response,” Aging Cell 25 (2026), e70635 (posted as a preprint in 2025). https://doi.org/10.1111/acel.70635",
+   "to": "[Biological Versus Technical Reliability of Epigenetic Clocks and Implications for Disease Prognosis and Intervention Response](https://doi.org/10.1111/acel.70635),” Aging Cell 25 (2026), e70635 (posted as a preprint in 2025)."
+  },
+  {
+   "find": "TAME — Targeting Aging with Metformin” (trial still seeking funding as of October 2026). https://www.afar.org/tame-trial/",
+   "to": "[TAME — Targeting Aging with Metformin](https://www.afar.org/tame-trial/)” (trial still seeking funding as of October 2026)."
+  },
+  {
+   "find": "A Revolutionary Approach to Interplanetary Space Travel: Studying Torpor in Animals for Space-health in Humans (STASH),” a 2024 Phase I concept study. https://www.nasa.gov/general/studying-torpor-in-animals-for-space-health-in-humans/",
+   "to": "[A Revolutionary Approach to Interplanetary Space Travel: Studying Torpor in Animals for Space-health in Humans (STASH)](https://www.nasa.gov/general/studying-torpor-in-animals-for-space-health-in-humans/),” a 2024 Phase I concept study."
+  },
+  {
+   "find": "Report of the Presidential Commission on the Space Shuttle Challenger Accident (1986), NASA History Office edition. https://history.nasa.gov/rogersrep/genindex.htm",
+   "to": "[Report of the Presidential Commission on the Space Shuttle Challenger Accident](https://history.nasa.gov/rogersrep/genindex.htm) (1986), NASA History Office edition."
+  },
+  {
+   "find": "Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies",
+   "to": "[Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, including the Moon and Other Celestial Bodies](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html)",
+   "in": "no national appropriation"
+  },
+  {
+   "find": " https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/outerspacetreaty.html",
+   "to": ""
+  },
+  {
+   "find": "Actuarial Life Table",
+   "to": "[Actuarial Life Table](https://www.ssa.gov/oact/STATS/table4c6.html)",
+   "in": "table4c6"
+  },
+  {
+   "find": " https://www.ssa.gov/oact/STATS/table4c6.html",
+   "to": ""
+  },
+  {
+   "find": "ER-100 announcements",
+   "to": "[ER-100 announcements](https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/)",
+   "in": "lifebiosciences"
+  },
+  {
+   "find": "trial record NCT07290244.",
+   "to": "[trial record NCT07290244](https://clinicaltrials.gov/study/NCT07290244).",
+   "in": "lifebiosciences"
+  },
+  {
+   "find": " https://www.lifebiosciences.com/life-biosciences-announces-first-patient-dosed-in-phase-1-trial-of-er-100-for-optic-neuropathies/ https://clinicaltrials.gov/study/NCT07290244",
+   "to": ""
+  },
+  {
+   "find": "Global Polio Eradication Initiative, situation reports",
+   "to": "[Global Polio Eradication Initiative](https://polioeradication.org/), situation reports",
+   "in": "polioeradication"
+  },
+  {
+   "find": " https://polioeradication.org/",
+   "to": ""
+  },
+  {
+   "find": "Reasons and Persons",
+   "to": "[Reasons and Persons](https://doi.org/10.1093/019824908X.001.0001)",
+   "in": "019824908X"
+  },
+  {
+   "find": " https://doi.org/10.1093/019824908X.001.0001",
+   "to": ""
+  },
+  {
+   "find": "Chandrayaan-3 mission page",
+   "to": "[Chandrayaan-3 mission page](https://www.isro.gov.in/Chandrayaan3_Details.html)",
+   "in": "Chandrayaan3_Details"
+  },
+  {
+   "find": " https://www.isro.gov.in/Chandrayaan3_Details.html",
+   "to": ""
+  },
+  {
+   "find": "Collision frequency of artificial satellites: The creation of a debris belt",
+   "to": "[Collision frequency of artificial satellites: The creation of a debris belt](https://doi.org/10.1029/ja083ia06p02637)",
+   "in": "Donald J. Kessler and Burton G. Cour-Palais, “Collision freq",
+   "max": 1
+  },
+  {
+   "find": "Relativity in the Global Positioning System",
+   "to": "[Relativity in the Global Positioning System](https://doi.org/10.12942/lrr-2003-1)",
+   "in": "For Chapter 40 (clocks and relativity): Lewis Carroll Epstei",
+   "max": 1
+  },
+  {
+   "find": "Measurements of relativistic time dilation for positive and negative muons in a circular orbit",
+   "to": "[Measurements of relativistic time dilation for positive and negative muons in a circular orbit](https://doi.org/10.1038/268301a0)",
+   "in": "For Chapter 40 (clocks and relativity): Lewis Carroll Epstei",
+   "max": 1
+  },
+  {
+   "find": "Optical clocks and relativity",
+   "to": "[Optical clocks and relativity](https://doi.org/10.1126/science.1192720)",
+   "in": "For Chapter 40 (clocks and relativity): Lewis Carroll Epstei",
+   "max": 1
+  },
+  {
+   "find": "Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age",
+   "to": "[Naked mole-rat mortality rates defy Gompertzian laws by not increasing with age](https://doi.org/10.7554/elife.31157)",
+   "in": "For Chapter 30 (comparative biology): R. Ruby, M. Smith, and",
+   "max": 1
+  },
+  {
+   "find": "High-molecular-mass hyaluronan mediates the cancer resistance of the naked mole rat",
+   "to": "[High-molecular-mass hyaluronan mediates the cancer resistance of the naked mole rat](https://doi.org/10.1038/nature12234)",
+   "in": "For Chapter 30 (comparative biology): R. Ruby, M. Smith, and",
+   "max": 1
+  },
+  {
+   "find": "Increased hyaluronan by naked mole-rat Has2 improves healthspan in mice",
+   "to": "[Increased hyaluronan by naked mole-rat Has2 improves healthspan in mice](https://doi.org/10.1038/s41586-023-06463-0)",
+   "in": "For Chapter 30 (comparative biology): R. Ruby, M. Smith, and",
+   "max": 1
+  },
+  {
+   "find": "Reprogramming in vivo produces teratomas and iPS cells with totipotency features",
+   "to": "[Reprogramming in vivo produces teratomas and iPS cells with totipotency features](https://doi.org/10.1038/nature12586)",
+   "in": "For Chapter 32 (partial reprogramming): M. Abad and colleagu",
+   "max": 1
+  },
+  {
+   "find": "Physiological regulation of tau phosphorylation during hibernation",
+   "to": "[Physiological regulation of tau phosphorylation during hibernation](https://doi.org/10.1111/j.1471-4159.2008.05294.x)",
+   "in": "For Chapter 41 (torpor and slowed metabolism): Studying Torp",
+   "max": 1
+  },
+  {
+   "find": "(Kessler, 1978)",
+   "to": "([Kessler, 1978](#bib_kessler1978))"
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ],
+ "bookmarks": [
+  {
+   "name": "bib_kessler1978",
+   "para": "Donald J\\. Kessler and Burton G\\. Cour-Palais"
+  }
+ ]
+}

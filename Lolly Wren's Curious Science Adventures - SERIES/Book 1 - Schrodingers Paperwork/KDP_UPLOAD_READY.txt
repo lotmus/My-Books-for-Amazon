@@ -47,20 +47,23 @@ Contributor:            Quentin Edmund Darling (role: Author)
 Byline (cover, title):  Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
                         (decided 2 Oct 2026; KDP's name fields take names only)
 Language:               English
-Word Count:             ~82,000 words (raw text count, verified 9/28/2026; the ~95,000 figure
+Word Count:             ~90,000 words including the lessons and back matter (counted 10 Oct 2026); earlier figure: ~82,000 (raw text count, verified 9/28/2026; the ~95,000 figure
                         this used to say did not match the actual manuscript)
 
-Keywords (7):
-  1. quantum mechanics
-  2. science fiction satire
-  3. physics education
-  4. bureaucratic comedy
-  5. British humor
-  6. literary science fiction
-  7. absurdist fiction
+Keywords (7) (revised 10 Oct 2026: no single generic words, no other authors' names, none repeating the categories):
+  1. funny science fiction novel with British humour
+  2. quantum physics explained for beginners
+  3. Schrödinger's cat, many worlds and Bell's theorem
+  4. government bureaucracy satire
+  5. black hole and Hawking radiation story
+  6. woman scientist heroine in a London ministry
+  7. novel with real physics lessons at the back
 
-Primary Category:       Science Fiction › Adventure
-Secondary Category:     Science Fiction › Comedy (if available)
+Categories (KDP allows three):
+  1. Kindle eBooks > Science Fiction & Fantasy > Science Fiction > Humorous
+  2. Kindle eBooks > Literature & Fiction > Humor & Satire > Satire
+  3. Kindle eBooks > Science & Math > Physics > Quantum Theory
+  (Replaces Science Fiction > Adventure / Comedy, which fit the book less well.)
 
 Pricing Recommendation: $5.99–$6.99 USD
   (Maximizes Amazon algorithm visibility + captures 70% royalty bracket)
@@ -184,3 +187,12 @@ This package is publication-ready. All files are in your root directory.
 Go sell this book. It's 13/10.
 
 Q.E.D.
+
+================================================================================
+UPDATE 10 OCT 2026 (strict rescore)
+================================================================================
+Description: Mrs Chain's sister (not her house) is what the Ministry erased, so
+the blurb now says so; "eighteen short lessons" became "one for each chapter".
+Keywords and categories revised above. The manuscript now has no visible URLs:
+Further Reading titles link to the book (Open Library) or paper (DOI), the
+video list is linked by title, and everything was checked to resolve.

@@ -1,0 +1,25 @@
+# -*- coding: utf-8 -*-
+OPS = [
+# ---- ch79 future challenges lead
+('del', 3549, "In physics, dark matter, dark energy, the quantum behavior of gravity"),
+('del', 3549, "In biology, the origin of life, the full circuit diagram of a cell"),
+('del', 3549, "In Earth science, the rate of ice loss"),
+('del', 3549, "In technology, the alignment of powerful automated systems"),
+('sub', 3549, "Cancer is many diseases, some now treatable. These are not vague frontiers.", "Cancer is many diseases, some now treatable. Pandemic risk is permanent, because evolution is permanent, and preparedness is a choice. These are not vague frontiers."),
+# ---- ch80 possible futures lead
+('del', 3564, "Some trends are sturdy."),
+('del', 3564, "The far branches should be labeled as speculation."),
+('del', 3564, "The useful stance is the one the preface recommended."),
+# ---- ch67 cross-fix (population statement)
+('sub', 3415, "Population growth is slowing.", "Population growth is decelerating in most regions."),
+# ---- ch81 what would change in the guides: rewritten cleanly
+('replace', 3579, [
+ "The great one-volume guides to science of the twentieth century did a particular job. They told an educated reader what the sciences had established, in prose that did not sneer and did not flatter, and they separated fact from guess. A guide with the same job today would keep most of their structure. Mechanics, chemistry, the cell, evolution and the Solar System have not been repealed. It would replace chapters, and add chapters, where the world has changed under the book.",
+ "It would add chapters on subjects that had no stable form in the older books. CRISPR, because gene editing became cheap and specific. mRNA medicine, because a platform vaccine was designed from a sequence and deployed at global scale. The microbiome, because the microbial communities in and on the body moved from curiosity to organ. Gravitational waves, because they were detected and became a branch of astronomy. Exoplanets, because the census went from zero to thousands. Dark energy, because the acceleration was measured. Quantum information, because entanglement became a technology as well as a puzzle. Artificial intelligence, because learned systems became general tools. Climate science, because the warming and its cause became a detailed measurement. Synthetic biology, because genomes became files that can be ordered.",
+ "It would also rewrite chapters the older books already had. The universe chapter would gain a standard model, a precise age, and named tensions. The atom chapter would gain quarks, the Higgs boson, and a completed inventory of the Standard Model, with a clear statement of what the model does not contain. The gene, once a molecular discovery, is now a sequence that can be ordered, edited and interpreted in the clinic. The brain, once described anatomically, is now a system that can be recorded in large parts and perturbed cell by cell in animals, and the correlates of consciousness are separated from the unsolved hard problem. The periodic table is intact, and nanomaterials have been added to what the elements can be made to do.",
+ "The tone would change in places. Forecasts in the older books were sometimes early and sometimes late, so a later book would take more care with dates, and would say that a capability exists without saying when its consequences will arrive. Computers would be treated as scientific instruments, not curiosities. The unknown would be given more room, because the unknowns are sharper. Dark matter is a better mystery than the old question of whether other galaxies existed, because it is required by measurements already in hand. A sharp mystery is a sign that the subject has moved.",
+ "One more change is worth naming. The older guides were written by a single person who had read across the sciences and could present them in one voice. The sciences have since grown further apart in their techniques. A single voice is harder and more necessary: harder, because no one can be current at the frontier of every field, and more necessary, because the educated reader still needs the picture in one place, with the joints between fields visible. This book is an attempt at that place. It will be wrong in particulars. It will have succeeded if a reader finishes it knowing what is established, what is open, and how the two are told apart.",
+ "Updating is part of the form. A guide that cannot be revised is a monument; a guide revised whenever a result changes is a tool. The present book is dated by its figures, by its account of tensions, and by the state of technologies that move quickly. The dates are a feature. They tell a later reader what was known when the book was written, and they invite correction. A book about science that feared correction would have misunderstood its subject.",
+ "The aim is the aim of those guides: a single account, readable without a laboratory, of what an educated person should know about the world as the sciences currently describe it. Not a monument of certainty. A picture, dated, and open to correction. Actually.",
+]),
+]

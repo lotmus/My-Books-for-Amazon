@@ -1,0 +1,21 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "Source: NASA Image and Video Library, images.nasa.gov.",
+   "to": "Source: [NASA Image and Video Library](https://images.nasa.gov/details/iss038e043011)."
+  },
+  {
+   "find": "(CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.",
+   "to": "([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))."
+  },
+  {
+   "find": "Source: Wikimedia Commons, “Black hole - Messier 87 crop max res.jpg”",
+   "to": "Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87_crop_max_res.jpg), “Black hole - Messier 87 crop max res.jpg”"
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}

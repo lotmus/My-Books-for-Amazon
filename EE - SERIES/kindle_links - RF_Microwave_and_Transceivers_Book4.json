@@ -1,0 +1,69 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "An N-Way Hybrid Power Divider",
+   "to": "[An N-Way Hybrid Power Divider](https://doi.org/10.1109/tmtt.1960.1124668)",
+   "in": "E. J. Wilkinson, \"An N-Way Hybrid Power Divider,\" IRE Transa",
+   "max": 1
+  },
+  {
+   "find": "Equations for Microstrip Circuit Design",
+   "to": "[Equations for Microstrip Circuit Design](https://doi.org/10.1109/euma.1975.332206)",
+   "in": "E. O. Hammerstad, \"Equations for Microstrip Circuit Design,\"",
+   "max": 1
+  },
+  {
+   "find": "Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane",
+   "to": "[Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane](https://doi.org/10.1109/tmtt.1977.1129179)",
+   "in": "E. O. Hammerstad, \"Equations for Microstrip Circuit Design,\"",
+   "max": 1
+  },
+  {
+   "find": "Theoretical Limitations on the Broadband Matching of Arbitrary Impedances",
+   "to": "[Theoretical Limitations on the Broadband Matching of Arbitrary Impedances](https://doi.org/10.1016/s0016-0032(50)91101-x)",
+   "in": "R. M. Fano, \"Theoretical Limitations on the Broadband Matchi",
+   "max": 1
+  },
+  {
+   "find": "Physical Limitations of Omni-Directional Antennas",
+   "to": "[Physical Limitations of Omni-Directional Antennas](https://doi.org/10.1063/1.1715038)",
+   "in": "L. J. Chu, \"Physical Limitations of Omni-Directional Antenna",
+   "max": 1
+  },
+  {
+   "find": "Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers",
+   "to": "[Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers](https://doi.org/10.1109/jssc.1975.1050582)",
+   "in": "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
+   "max": 1
+  },
+  {
+   "find": "Maximum Efficiency and Output of Class-F Power Amplifiers",
+   "to": "[Maximum Efficiency and Output of Class-F Power Amplifiers](https://doi.org/10.1109/22.925511)",
+   "in": "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
+   "max": 1
+  },
+  {
+   "find": "High Power Outphasing Modulation",
+   "to": "[High Power Outphasing Modulation](https://doi.org/10.1109/jrproc.1935.227299)",
+   "in": "F. H. Raab et al., \"Power Amplifiers and Transmitters for RF",
+   "max": 1
+  },
+  {
+   "find": "A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA",
+   "to": "[A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA](https://doi.org/10.1109/tmtt.2009.2033295)",
+   "in": "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+   "max": 1
+  },
+  {
+   "find": "Single-Sideband Transmission by Envelope Elimination and Restoration",
+   "to": "[Single-Sideband Transmission by Envelope Elimination and Restoration](https://doi.org/10.1109/jrproc.1952.273844)",
+   "in": "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+   "max": 1
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}

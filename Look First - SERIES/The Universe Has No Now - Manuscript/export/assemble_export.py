@@ -428,6 +428,15 @@ def main() -> int:
         epub_n if epub_ok or os.path.isfile(OUT_EPUB) else None,
         skip_docx,
     )
+    # Kindle post-build (10 Oct 2026): photos 440 px wide (q80, mild colour boost), labelled figures 800 px,
+    # line art 256-colour PNG. One volume (about 2.5 MB). See kindle_postbuild.json and notes/FILE_SIZES.md.
+    post = os.path.join(SRC, "..", "..", "tools", "kindle_postbuild.py")
+    spec = os.path.join(SRC, "kindle_postbuild.json")
+    if os.path.isfile(post) and os.path.isfile(spec) and os.path.isfile(OUT_DOCX):
+        r = subprocess.run([sys.executable, post, spec], text=True)
+        if r.returncode != 0:
+            print("kindle post-build failed; the docx in export is not yet Kindle-sized")
+            return 1
     return 0
 
 

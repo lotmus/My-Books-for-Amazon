@@ -85,26 +85,33 @@ GLOSS_REF_RE = re.compile(r'\bChapter (\d+)\b')
 # 2 Oct 2026 from the title pages of the masters in the repository (one entry per real book; same
 # list in every book's Also-by page, see notes/ALSO_BY - canonical list.md at the repo root).
 # A search string of None means "title + author name".
+# Rebuilt 10 Oct 2026 from notes/ALSO_BY - canonical list.md. The book itself is left out; Kevin Drew
+# Peters books never appear on a Lothar J. Musiol page.
 ALSO_BY = [
     ('Physics, Actually', [
         ('Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity', None),
         ('Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime', None),
         ('Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge', None),
-        ('Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere', None)]),
+        ('Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere', None),
+    ]),
+    ('More Actually Books', [
+        ('Gravitation, Actually: A Short Book on Gravity', None),
+        ('The Universe, Actually: What Humanity Currently Understands About Reality', None),
+    ]),
     ('Math, Actually', [
         ('Math, Actually, Volume 1: From Arithmetic to Calculus', None),
         ('Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic', None),
         ('Math, Actually, Volume 3: From Differential Equations to Abstract Algebra', None),
-        ('Math, Actually, Volume 4: From Category Theory to the Frontier', None)]),
-    ('Quanta, Actually', [
-        ('Quanta, Actually, Volume 1: The Quantum World', None),
-        ('Quanta, Actually, Volume 2: The Quantum Conversation', None),
-        ('Quanta, Actually, Volume 3: Complete Quantum Electrodynamics Course', None)]),
-    ('Science Sparks', [
-        ('Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights', None)]),
+        ('Math, Actually, Volume 4: From Category Theory to the Frontier', None),
+    ]),
+    ('Quantum, Actually', [
+        ('Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire', None),
+        ('Quantum, Actually, Volume 2: A QED Course', None),
+    ]),
     ('Look First', [
         ('Look First, Volume 1: The Universe Has No Now', None),
-        ('Look First, Volume 2: A Trip Is Not a New Life', None)]),
+        ('Look First, Volume 2: A Trip Is Not a New Life', None),
+    ]),
     ('Electrical Engineering Series', [
         ('Foundations of Electronics (Book 1)', 'Foundations of Electronics'),
         ('Circuits, Components, and Control (Book 2)', 'Circuits, Components, and Control'),
@@ -112,18 +119,22 @@ ALSO_BY = [
         ('RF, Microwave, and Transceivers (Book 4)', 'RF, Microwave, and Transceivers'),
         ('Communications, Wireless, and SDR (Book 5)', 'Communications, Wireless, and SDR'),
         ('Power and Energy (Book 6)', 'Power and Energy'),
-        ('Packaging, Layout, EMC, and Test (Book 7)', 'Packaging, Layout, EMC, and Test')]),
+        ('Packaging, Layout, EMC, and Test (Book 7)', 'Packaging, Layout, EMC, and Test'),
+    ]),
     ('History', [
-        ("The Dolphins' View of History", None)]),
+        ("The Dolphins' View of History", None),
+    ]),
     ('Fiction', [
-        ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1)", "The Murder That Hadn't Happened Yet"),
-        ('The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2)', 'The Warning That Was Sent Too Late'),
-        ('Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1)', 'Schrödinger’s Paperwork'),
-        ('The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2)', 'The Permitted Options Lolly Wren'),
-        ('Protocol Flamingo (The Invasion Storybooks, Book 1), as George Herbert Fontaine', 'Protocol Flamingo George Herbert Fontaine')]),
-    ('How-To', [
-        ('Your First Book That Sells', None),
-        ('Your First YouTube Channel That Rocks', None)]),
+        ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", "The Murder That Hadn't Happened Yet"),
+        ('The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)', 'The Warning That Was Sent Too Late'),
+        ("Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", "Schrödinger's Paperwork"),
+        ("The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", 'The Permitted Options Lolly Wren'),
+        ('Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine', 'Protocol Flamingo George Herbert Fontaine'),
+        ('In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston', 'In Love with Murder, Actually Romuald Livingston'),
+    ]),
+    ('In German', [
+        ('Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?', None),
+    ]),
 ]
 
 # chapter number -> (png name, caption). Placed after the chapter's first paragraph.
@@ -811,8 +822,7 @@ WHO_FOR = [
     "five different interests.",
     "Where a topic deserves more room than an atlas can give it, a short note points to the "
     "deeper books in the same family: Physics, Actually (three volumes), Life, Actually, "
-    "Math, Actually (four volumes) and Quanta, Actually (The Quantum World, The Quantum "
-    "Conversation and the Complete Quantum Electrodynamics Course).",
+    "Math, Actually (four volumes) and Quantum, Actually (two volumes).",
     "*Updated through October 2026. Statements that are likely to change, such as mission "
     "schedules, drug approvals and the status of open measurements, are marked \"as of 2026\".*",
 ]
@@ -1142,7 +1152,22 @@ def build(out_path, volume=None):
           " Glossary terms:", len(INDEX_TERMS), " Index marks:", xe)
     if PRINT:
         update_with_word(out_path)
+    else:
+        _kindle_postbuild(out_path)
 
+
+
+def _kindle_postbuild(path):
+    """Kindle size pass (10 Oct 2026): photos 440 px wide (JPEG q80, mild colour boost), photo-like figures
+    with labels 800 px, embedded front cover about 1000x1600, line art 256-colour PNG. Spec: ../kindle_postbuild.json,
+    tool: tools/kindle_postbuild.py at the repo root. Without this a rebuild brings back the full-size images."""
+    import subprocess
+    book = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); d = book
+    while d and not os.path.isfile(os.path.join(d, "tools", "kindle_postbuild.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    tool = os.path.join(d, "tools", "kindle_postbuild.py"); spec = os.path.join(book, "kindle_postbuild.json")
+    if os.path.isfile(tool) and os.path.isfile(spec) and os.path.isfile(path):
+        subprocess.run([sys.executable, tool, spec, path], check=False)
 
 if __name__ == '__main__':
     args = sys.argv[1:]

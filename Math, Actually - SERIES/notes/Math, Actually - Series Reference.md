@@ -68,9 +68,9 @@ Volume 4 = 114. LibreOffice page counts of the 2 Oct 2026 rebuild (US Letter):
 
 - Chapter 26 Differential and Integro-Differential Equations. Picard iteration is built in Section 26.1. It is not inherited from Volume 2.
 - Chapter 27 Partial Differential Equations
-- Chapter 28 Optimization & Calculus of Variations
+- Chapter 28 Calculus of Variations
 - Chapter 29 Numerical Methods. The Bernoulli numbers are met here for the first time: 1, −1/2, 1/6, 0, −1/30, and every odd one after the second is 0.
-- Chapter 30 Optimization
+- Chapter 30 Optimization: Theory and Algorithms
 - Chapter 31 Differential Geometry
 - Chapter 32 Topology
 - Chapter 33 Integral Geometry (Advanced)
@@ -104,7 +104,7 @@ Volumes 1 and 2 do not introduce them.
 
 The manuscripts follow these. Match them.
 
-- American English (-ize, skeptical, rumor).
+- American English (-ize, skeptical, rumor, toward, disk).
 - Curly quotes and apostrophes. No straight ones in the prose.
 - Em dashes spaced — like this — on both sides.
 - A proper minus (−), not a hyphen, in arithmetic. The arrow is →.

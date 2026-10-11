@@ -1,0 +1,179 @@
+{
+ "title_xml": [
+  "<w:p><w:pPr><w:spacing w:before=\"1400\"/></w:pPr></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"80\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Liberation Serif\" w:cs=\"Liberation Serif\" w:eastAsia=\"Liberation Serif\" w:hAnsi=\"Liberation Serif\"/><w:color w:val=\"5C6B73\"/><w:spacing w:val=\"280\"/><w:sz w:val=\"20\"/><w:szCs w:val=\"20\"/></w:rPr><w:t xml:space=\"preserve\">A GUIDE TO REALITY</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:pBdr><w:bottom w:val=\"single\" w:color=\"1B3A4B\" w:sz=\"12\" w:space=\"1\"/></w:pBdr><w:spacing w:after=\"200\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:t xml:space=\"preserve\"/></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"0\" w:before=\"200\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Liberation Serif\" w:cs=\"Liberation Serif\" w:eastAsia=\"Liberation Serif\" w:hAnsi=\"Liberation Serif\"/><w:color w:val=\"2E5A88\"/><w:sz w:val=\"72\"/><w:szCs w:val=\"72\"/></w:rPr><w:t xml:space=\"preserve\">The Universe,</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"240\" w:before=\"0\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Liberation Serif\" w:cs=\"Liberation Serif\" w:eastAsia=\"Liberation Serif\" w:hAnsi=\"Liberation Serif\"/><w:i/><w:iCs/><w:color w:val=\"2E5A88\"/><w:sz w:val=\"72\"/><w:szCs w:val=\"72\"/></w:rPr><w:t xml:space=\"preserve\">Actually</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"80\" w:before=\"120\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Liberation Serif\" w:cs=\"Liberation Serif\" w:eastAsia=\"Liberation Serif\" w:hAnsi=\"Liberation Serif\"/><w:i/><w:iCs/><w:color w:val=\"333333\"/><w:sz w:val=\"24\"/><w:szCs w:val=\"24\"/></w:rPr><w:t xml:space=\"preserve\">What humanity currently understands</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"400\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Liberation Serif\" w:cs=\"Liberation Serif\" w:eastAsia=\"Liberation Serif\" w:hAnsi=\"Liberation Serif\"/><w:i/><w:iCs/><w:color w:val=\"333333\"/><w:sz w:val=\"24\"/><w:szCs w:val=\"24\"/></w:rPr><w:t xml:space=\"preserve\">about reality</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"200\" w:before=\"200\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:color w:val=\"1F4E79\"/><w:sz w:val=\"28\"/><w:szCs w:val=\"28\"/></w:rPr><w:t xml:space=\"preserve\">Lothar J. Musiol</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:pBdr><w:top w:val=\"single\" w:color=\"1B3A4B\" w:sz=\"6\" w:space=\"10\"/></w:pBdr><w:spacing w:before=\"200\"/><w:jc w:val=\"center\"/></w:pPr><w:r><w:rPr><w:rFonts w:ascii=\"Liberation Serif\" w:cs=\"Liberation Serif\" w:eastAsia=\"Liberation Serif\" w:hAnsi=\"Liberation Serif\"/><w:color w:val=\"5C6B73\"/><w:sz w:val=\"18\"/><w:szCs w:val=\"18\"/></w:rPr><w:t xml:space=\"preserve\">A guide to what is known</w:t></w:r></w:p>"
+ ],
+ "note": {
+  "title": "A Note on This Book",
+  "paras": [
+   "This book is written for the reader the earlier guides.",
+   "The model is his New Guide to Science, together with the shorter guides to physics, chemistry, and biology. Those books offered a single account of the natural sciences, updated as the account changed. The plan of the present book follows that ambition across seven parts: the universe, matter, life, the body and mind, the Earth, technology, and the history and future of the enterprise itself.",
+   "Compared with a guide finished in the 1980s, entire subjects had to be added. CRISPR and gene editing. mRNA medicine. The human microbiome. Gravitational waves as something heard, not merely predicted. Exoplanets as a catalog. Dark energy. Quantum information. Artificial intelligence in the form of learned systems. Climate science as a body of measurement. Synthetic biology. Those chapters are here because a guide that omitted them would no longer be a guide to the present.",
+   "The voice of the opening pages is kept throughout. Short claims. The evidence named. The uncertainty named beside it. Nothing in this book is offered as a final truth. It is offered as the picture a careful reader can hold in 2026, actually."
+  ]
+ },
+ "preface": {
+  "title": "Preface",
+  "paras": [
+   "Every child is born a scientist.",
+   "The evidence for this is plain enough. Children ask questions with a persistence that adults often find exhausting. Why is the sky blue? Why does rain fall? Why do people age? Why do stars shine? Why is there a Moon?",
+   "The questions arise naturally.",
+   "The answers do not.",
+   "Human history can be viewed as a series of attempts to answer such questions. Some answers were beautiful. Some were clever. Many were comforting.",
+   "Most were wrong.",
+   "This should not be taken as a criticism of our ancestors. The universe was under no obligation to make itself easy to understand. A species that evolved on a small world around an ordinary star could scarcely expect to discover the workings of atoms, galaxies, life, and time itself.",
+   "Yet that is exactly what happened.",
+   "Slowly, over thousands of years, humanity assembled a picture of reality.",
+   "The Earth was shown to be a planet. The stars were shown to be suns. Life was shown to evolve. Matter was shown to consist of atoms. Space and time themselves were shown to be parts of a larger structure called spacetime.",
+   "Each discovery displaced an older certainty. Each expanded the horizon of ignorance. For every mystery solved, ten new mysteries appeared.",
+   "Today we know more than all previous generations combined. We know the age of the universe to remarkable precision. We can watch galaxies billions of light-years away. We can read the genetic instructions that build living organisms. We can alter those instructions. We have observed black holes. We have detected gravitational waves. We have constructed machines capable of performing tasks once believed to require uniquely human intelligence.",
+   "And yet.",
+   "We do not know what dark matter is. We do not know what dark energy is. We do not know how life began. We do not know how consciousness arises. We do not know whether we are alone.",
+   "Science is not a monument of certainty. It is a process of reducing uncertainty.",
+   "The purpose of this book is therefore not to present final truths. No such book can be written.",
+   "Its purpose is simpler. To describe, as clearly as possible, what humanity currently understands about reality.",
+   "Actually."
+  ]
+ },
+ "epilogue": {
+  "title": "Epilogue: Actually",
+  "paras": [
+   "The child who asks why the sky is blue deserves a real answer.",
+   "The sky is blue because molecules in the air scatter short wavelengths of sunlight more than long ones. The explanation uses electromagnetism, the size of atoms, and the spectrum of the Sun. It can be checked. It connects a glance upward to the same physics that runs in a laboratory.",
+   "That is the pattern of this book. A question that looks local becomes a question about laws. The laws turn out to be few, old, and still incomplete. The incompleteness is not a flaw in the telling. It is the present edge of the subject.",
+   "We know the age of the observable universe to a precision our ancestors could not have defined. We do not know what most of it is made of. We know the code of life and can edit it. We do not know how the code started. We can detect the collision of black holes across a billion light-years. We do not know how a brain produces a point of view. We can light a city with a panel of silicon. We have not yet arranged to do so without spending the climate we inherited.",
+   "None of these sentences cancels another. Holding them together is the skill the sciences teach, more durable than any single result. Prefer the measurement. Name the uncertainty. Update the book.",
+   "The pattern of the book is the pattern of the sciences. A question that looks local becomes a question about laws. The laws turn out to be few, old in their operation, and still incomplete in our statement of them. The incompleteness is not a flaw in the telling. It is the present edge.",
+   "Holding established results and open problems in the same mind is the skill the sciences teach. The age of the universe and the identity of dark matter belong in the same head. The genetic code and the unsolved origin of life belong in the same head. The detection of gravitational waves and the absence of a quantum theory of gravity belong in the same head. None of these pairs is a contradiction. Each is a measurement beside a gap.",
+   "The child who asks why the sky is blue, or why people age, or whether we are alone, deserves the same treatment the sciences try to give one another. A real answer where a real answer exists. A clear statement of the limit where it does not. And the willingness to replace the answer when the measurement requires it.",
+   "That is the whole method. It has carried the picture this far. It is the reason the picture can still change.",
+   "The method has a cost. It withholds comfort. It refuses to fill gaps with preferred stories. It asks the reader to carry uncertainty without treating uncertainty as a reason to discard what is known. The cost is the price of a picture that can be improved. Pictures that cannot be improved are not pictures of the world. They are decorations.",
+   "The world, as far as the picture reaches, is lawful, old, large, and incompletely mapped. We are a recent species on a small planet, able to read a surprising fraction of the map, and unable, so far, to read the rest. The fraction is the achievement. The rest is the work. Both are real. Actually.",
+   "The invitation at the end is the invitation at the beginning. Ask the question. Prefer the answer that meets the measurement. Keep the uncertainty that the measurement does not resolve. Replace the answer when a better measurement arrives. The invitation is simple. Following it, across the subjects of this book, is the whole of the work. The work has produced the picture. The picture is not final. It is the best current compression of the world. Actually.",
+   "Nothing in the method requires a particular politics or a particular metaphysics beyond the willingness to let measurement correct belief. People who disagree about everything else can share the method in a laboratory. The sharing is the civilizational fact. It is why the picture in this book can be taught across boundaries. The picture will be revised. The method of revision is the inheritance. A reader who keeps the method can do without this book. A reader who keeps the book and loses the method has kept the less important thing. The method is the answer to the child’s question, applied again and again. It is slow. It is the reason the answers have improved."
+  ]
+ },
+ "sources": {
+  "title": "A Note on Sources",
+  "paras": [
+   "This book is an original account in the tradition of the earlier guides. Readers who want the predecessor guides can still find them: the earlier guides.",
+   "Figures given here are the working values of current science, rounded for a general reader: a universe about 13.8 billion years old; ordinary matter near five percent of the cosmic budget, dark matter near twenty-seven, dark energy near sixty-eight; a human genome of about three billion base pairs; atmospheric carbon dioxide near 420 parts per million, against about 280 before industrial burning. Where a result is disputed, including the Hubble tension and the causes of aging, the dispute is named."
+  ]
+ },
+ "bibliography": {
+  "paras": [
+   "Asimov, Isaac. Asimov’s New Guide to Science. Penguin, 1984.",
+   "Asimov, Isaac. Understanding Physics. Barnes & Noble, 1966.",
+   "Asimov, Isaac. A Short History of Biology. Natural History Press, 1964.",
+   "Asimov, Isaac. A Short History of Chemistry. Doubleday, 1965.",
+   "Asimov, Isaac. The Human Brain. Houghton Mifflin, 1964.",
+   "Barbour, Julian. The End of Time. Oxford University Press, 1999.",
+   "Barrow, John D. The Origin of the Universe. Weidenfeld & Nicolson, 1994.",
+   "Barrow, John D., and Frank J. Tipler. The Anthropic Cosmological Principle. Oxford University Press, 1986.",
+   "Dawkins, Richard. The Blind Watchmaker. W. W. Norton, 1986.",
+   "Epstein, Lewis Carroll. Relativity Visualized. Insight Press, 1985.",
+   "Everett, Hugh. “Relative State Formulation of Quantum Mechanics.” Reviews of Modern Physics 29 (1957): 454–462.",
+   "Feynman, Richard P. QED: The Strange Theory of Light and Matter. Princeton University Press, 1985.",
+   "Feynman, Richard P. Quantum Electrodynamics. W. A. Benjamin, 1961.",
+   "Hawking, Stephen W. A Brief History of Time. Bantam, 1988.",
+   "Hawking, Stephen W., and Roger Penrose. The Nature of Space and Time. Princeton University Press, 1996.",
+   "McFadden, Johnjoe. Quantum Evolution. HarperCollins, 2000.",
+   "McFadden, Johnjoe, and Jim Al-Khalili. Life on the Edge: The Coming of Age of Quantum Biology. Crown, 2014.",
+   "Mead, Carver A. Collective Electrodynamics: Quantum Foundations of Electromagnetism. MIT Press, 2000.",
+   "Musiol, Lothar J. Physics, Actually. Volumes 1–3. Independently published, 2026.",
+   "Musiol, Lothar J. Quantum, Actually. Volumes 1–2. Independently published, 2026.",
+   "Musiol, Lothar J. Science Sparks. Independently published, 2026.",
+   "Musiol, Lothar J. Foundations of Electronics. Independently published, 2026.",
+   "Tipler, Frank J. The Physics of Immortality. Doubleday, 1994.",
+   "Watson, James D. The Double Helix. Atheneum, 1968.",
+   "Watson, James D., and Francis H. C. Crick. “Molecular Structure of Nucleic Acids.” Nature 171 (1953): 737–738.",
+   "Wheeler, John Archibald. “Information, Physics, Quantum: The Search for Links.” In Complexity, Entropy and the Physics of Information, edited by W. H. Zurek. Addison-Wesley, 1990.",
+   "Wheeler, John Archibald, and Kenneth Ford. Geons, Black Holes, and Quantum Foam. W. W. Norton, 1998.",
+   "Penrose, Roger. Cycles of Time. Bodley Head, 2010.",
+   "Weinberg, Steven. The First Three Minutes. Basic Books, 1977.",
+   "Particle Data Group. Review of Particle Physics. Progress of Theoretical and Experimental Physics (biennial)."
+  ]
+ },
+ "appendix": {
+  "review": "If this book gave you something, a laugh, an idea, or a better question, I’d love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.",
+  "author": [
+   "Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany’s largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.",
+   "He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are."
+  ]
+ },
+ "alsoby_xml": [
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Physics, Actually</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity · Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime · Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge · Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">More Actually Books</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Gravitation, Actually: A Short Book on Gravity</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Math, Actually</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Math, Actually, Volume 1: From Arithmetic to Calculus · Math, Actually, Volume 2: From Multivariable Calculus to Set Theory &amp; Logic · Math, Actually, Volume 3: From Differential Equations to Abstract Algebra · Math, Actually, Volume 4: From Category Theory to the Frontier</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Quantum, Actually</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire · Quantum, Actually, Volume 2: A QED Course</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Science Sparks</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Look First</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Look First, Volume 1: The Universe Has No Now · Look First, Volume 2: A Trip Is Not a New Life</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Electrical Engineering Series</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Foundations of Electronics (Book 1) · Circuits, Components, and Control (Book 2) · Semiconductor Physics and Devices (Book 3) · RF, Microwave, and Transceivers (Book 4) · Communications, Wireless, and SDR (Book 5) · Power and Energy (Book 6) · Packaging, Layout, EMC, and Test (Book 7)</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">History</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · The Dolphins’ View of History</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">Fiction</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.) · The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.) · Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.) · The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.) · Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine · In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston</w:t></w:r></w:p>",
+  "<w:p><w:pPr><w:spacing w:after=\"120\" w:line=\"276\"/></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\">In German</w:t></w:r><w:r><w:rPr><w:rFonts w:ascii=\"Georgia\" w:cs=\"Georgia\" w:eastAsia=\"Georgia\" w:hAnsi=\"Georgia\"/><w:sz w:val=\"22\"/><w:szCs w:val=\"22\"/></w:rPr><w:t xml:space=\"preserve\"> · Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?</w:t></w:r></w:p>"
+ ],
+ "alsoby_title": "Also by Lothar J. Musiol",
+ "resources": {
+  "paras": [
+   "The links below point to reliable outside material for the main subjects in this book. They are starting points, not endorsements of every claim on the pages they lead to. The addresses are written out in full so that Kindle and other readers make them tappable.",
+   "**Quantum Mechanics** YouTube (Stanford, Leonard Susskind): https://www.youtube.com/watch?v=2h1E3YJMKfA  Wikipedia: https://en.wikipedia.org/wiki/Quantum_mechanics  MIT OpenCourseWare: https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/",
+   "**Black-Hole Information Paradox** Wikipedia: https://en.wikipedia.org/wiki/Black_hole_information_paradox  Scholarpedia: http://www.scholarpedia.org/article/Black_hole_information_paradox",
+   "**General Relativity** Wikipedia: https://en.wikipedia.org/wiki/General_relativity  Einstein Online: https://www.einstein-online.info/en/",
+   "**Cosmology / Big Bang** Wikipedia: https://en.wikipedia.org/wiki/Big_Bang  NASA: https://science.nasa.gov/universe/overview/",
+   "**Evolution** Wikipedia: https://en.wikipedia.org/wiki/Evolution  Understanding Evolution (Berkeley): https://evolution.berkeley.edu/",
+   "**Climate Science** Wikipedia: https://en.wikipedia.org/wiki/Climate_change  IPCC: https://www.ipcc.ch/",
+   "**Standard Model** Wikipedia: https://en.wikipedia.org/wiki/Standard_Model  CERN: https://home.cern/science/physics/standard-model",
+   "**Black Holes & Information Paradox** https://en.wikipedia.org/wiki/Black_hole_information_paradox  https://www.youtube.com/watch?v=HRAnQKrqG3k",
+   "**Cosmology** https://en.wikipedia.org/wiki/Big_Bang  https://science.nasa.gov/universe/overview/  Inflation: https://en.wikipedia.org/wiki/Inflation_(cosmology",
+   "**Evolution & Human Origins** https://en.wikipedia.org/wiki/Evolution  https://evolution.berkeley.edu/  https://en.wikipedia.org/wiki/Human_evolution",
+   "**Climate & Earth History** https://en.wikipedia.org/wiki/Climate_change  https://www.ipcc.ch/  https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+   "**Standard Model & Particle Physics** https://en.wikipedia.org/wiki/Standard_Model  https://home.cern/science/physics/standard-model",
+   "**Quantum Information & Computing** https://en.wikipedia.org/wiki/Quantum_information  https://www.youtube.com/watch?v=QuR969uMICM",
+   "**Neuroscience** https://en.wikipedia.org/wiki/Neuroscience  https://www.youtube.com/watch?v=kS9W8g7nY4s",
+   "**Materials Science** https://en.wikipedia.org/wiki/Materials_science",
+   "**Exoplanets** https://en.wikipedia.org/wiki/Exoplanet  https://exoplanets.nasa.gov/",
+   "**Gravitational Waves** https://en.wikipedia.org/wiki/Gravitational_wave  https://www.ligo.caltech.edu/",
+   "**Foundations & Mechanics** Newton’s laws: https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion  Least action: https://en.wikipedia.org/wiki/Principle_of_least_action  https://www.youtube.com/watch?v=2h1E3YJMKfA",
+   "**Relativity** Special relativity: https://en.wikipedia.org/wiki/Special_relativity  General relativity: https://en.wikipedia.org/wiki/General_relativity  https://www.einstein-online.info/en/",
+   "**Quantum Information** https://en.wikipedia.org/wiki/Quantum_information  https://www.youtube.com/watch?v=QuR969uMICM",
+   "**Particle Physics** Standard Model: https://en.wikipedia.org/wiki/Standard_Model  https://home.cern/science/physics/standard-model",
+   "**Black Holes** https://en.wikipedia.org/wiki/Black_hole  Information paradox: https://en.wikipedia.org/wiki/Black_hole_information_paradox",
+   "**Stars & Galaxies** Stellar evolution: https://en.wikipedia.org/wiki/Stellar_evolution  Galaxies: https://en.wikipedia.org/wiki/Galaxy",
+   "**Earth & Climate** Climate change: https://en.wikipedia.org/wiki/Climate_change  https://www.ipcc.ch/  Great Oxidation: https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+   "**Biology & Evolution** Evolution: https://en.wikipedia.org/wiki/Evolution  https://evolution.berkeley.edu/  Human evolution: https://en.wikipedia.org/wiki/Human_evolution",
+   "**Materials & Condensed Matter** https://en.wikipedia.org/wiki/Materials_science  Superconductivity: https://en.wikipedia.org/wiki/Superconductivity",
+   "**Information Theory & Computing** https://en.wikipedia.org/wiki/Information_theory  Machine learning: https://en.wikipedia.org/wiki/Machine_learning",
+   "**Thermodynamics & Statistical Mechanics** https://en.wikipedia.org/wiki/Laws_of_thermodynamics  https://en.wikipedia.org/wiki/Statistical_mechanics",
+   "**Electromagnetism** https://en.wikipedia.org/wiki/Maxwell%27s_equations  https://www.youtube.com/watch?v=SS4GkTqTA4I",
+   "**Optics** https://en.wikipedia.org/wiki/Optics",
+   "**Nuclear Physics** https://en.wikipedia.org/wiki/Nuclear_physics  https://en.wikipedia.org/wiki/Nuclear_fusion",
+   "**Chemistry** Periodic table: https://en.wikipedia.org/wiki/Periodic_table  Chemical bond: https://en.wikipedia.org/wiki/Chemical_bond",
+   "**Molecular Biology** DNA: https://en.wikipedia.org/wiki/DNA  CRISPR: https://en.wikipedia.org/wiki/CRISPR",
+   "**Ecology** https://en.wikipedia.org/wiki/Ecology",
+   "**Paleontology** Mass extinctions: https://en.wikipedia.org/wiki/Extinction_event  Cambrian explosion: https://en.wikipedia.org/wiki/Cambrian_explosion",
+   "**Planetary Science** Solar System: https://en.wikipedia.org/wiki/Solar_System  https://solarsystem.nasa.gov/",
+   "**Astrobiology** https://en.wikipedia.org/wiki/Astrobiology  https://astrobiology.nasa.gov/",
+   "**Consciousness** https://en.wikipedia.org/wiki/Consciousness  https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+   "**Gödel & Foundations** https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+   "**Time & Entropy** Arrow of time: https://en.wikipedia.org/wiki/Arrow_of_time  Entropy: https://en.wikipedia.org/wiki/Entropy",
+   "**Chaos** https://en.wikipedia.org/wiki/Chaos_theory",
+   "**Superconductivity** https://en.wikipedia.org/wiki/Superconductivity  https://www.youtube.com/watch?v=KIx0Y6u2x8A",
+   "**Topological Matter** https://en.wikipedia.org/wiki/Topological_insulator",
+   "**Neutrinos** https://en.wikipedia.org/wiki/Neutrino_oscillation",
+   "**Higgs Boson** https://en.wikipedia.org/wiki/Higgs_boson  https://home.cern/science/physics/higgs-boson",
+   "**Exoplanets & Habitability** https://exoplanets.nasa.gov/  https://en.wikipedia.org/wiki/Habitable_zone",
+   "**Human Microbiome** https://en.wikipedia.org/wiki/Human_microbiome",
+   "**CRISPR & Gene Editing** https://en.wikipedia.org/wiki/CRISPR",
+   "**Machine Learning** https://en.wikipedia.org/wiki/Machine_learning  https://www.youtube.com/watch?v=aircAruvnKk",
+   "**Quantum Computing** https://en.wikipedia.org/wiki/Quantum_computing  https://qiskit.org/"
+  ]
+ }
+}

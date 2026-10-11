@@ -1,0 +1,201 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+   "to": "[Observation of Gravitational Waves from a Binary Black Hole Merger](https://doi.org/10.1142/9789814699662_0011)",
+   "in": "Abbott, B. P., et al. (LIGO Scientific Collaboration and Vir",
+   "max": 1
+  },
+  {
+   "find": "The Meaning of Einstein’s Equation",
+   "to": "[The Meaning of Einstein’s Equation](https://doi.org/10.1119/1.1852541)",
+   "in": "Baez, John C., and Emory F. Bunn. “The Meaning of Einstein’s",
+   "max": 1
+  },
+  {
+   "find": "The Four Laws of Black Hole Mechanics",
+   "to": "[The Four Laws of Black Hole Mechanics](https://doi.org/10.1007/bf01645742)",
+   "in": "Bardeen, J. M., B. Carter, and S. W. Hawking. “The Four Laws",
+   "max": 1
+  },
+  {
+   "find": "Black Holes and Entropy",
+   "to": "[Black Holes and Entropy](https://doi.org/10.1103/physrevd.7.2333)",
+   "in": "Bekenstein, Jacob D. “Black Holes and Entropy.” Physical Rev",
+   "max": 1
+  },
+  {
+   "find": "Observation of a Neutrino Burst in Coincidence with Supernova 1987A in the Large Magellanic Cloud",
+   "to": "[Observation of a Neutrino Burst in Coincidence with Supernova 1987A in the Large Magellanic Cloud](https://doi.org/10.1103/physrevlett.58.1494)",
+   "in": "Bionta, R. M., et al. “Observation of a Neutrino Burst in Co",
+   "max": 1
+  },
+  {
+   "find": "Resolving the Gravitational Redshift across a Millimetre-Scale Atomic Sample",
+   "to": "[Resolving the Gravitational Redshift across a Millimetre-Scale Atomic Sample](https://doi.org/10.1038/s41586-021-04349-7)",
+   "in": "Bothwell, Tobias, et al. “Resolving the Gravitational Redshi",
+   "max": 1
+  },
+  {
+   "find": "The Maximum Mass of Ideal White Dwarfs",
+   "to": "[The Maximum Mass of Ideal White Dwarfs](https://doi.org/10.1086/143324)",
+   "in": "Chandrasekhar, S. “The Maximum Mass of Ideal White Dwarfs.” ",
+   "max": 1
+  },
+  {
+   "find": "Optical Clocks and Relativity",
+   "to": "[Optical Clocks and Relativity](https://doi.org/10.1126/science.1192720)",
+   "in": "Chou, C. W., D. B. Hume, T. Rosenband, and D. J. Wineland. “",
+   "max": 1
+  },
+  {
+   "find": "A Direct Empirical Proof of the Existence of Dark Matter",
+   "to": "[A Direct Empirical Proof of the Existence of Dark Matter](https://doi.org/10.1086/508162)",
+   "in": "Clowe, Douglas, Marusa Bradac, Anthony H. Gonzalez, Maxim Ma",
+   "max": 1
+  },
+  {
+   "find": "The Particle Problem in the General Theory of Relativity",
+   "to": "[The Particle Problem in the General Theory of Relativity](https://doi.org/10.1103/physrev.48.73)",
+   "in": "Einstein, Albert, and Nathan Rosen. “The Particle Problem in",
+   "max": 1
+  },
+  {
+   "find": "Théorème d’existence pour certains systèmes d’équations aux dérivées partielles non linéaires",
+   "to": "[Théorème d’existence pour certains systèmes d’équations aux dérivées partielles non linéaires](https://doi.org/10.1007/bf02392131)",
+   "in": "Fourès-Bruhat, Y. [Yvonne Choquet-Bruhat]. “Théorème d’exist",
+   "max": 1
+  },
+  {
+   "find": "Inflationary Universe: A Possible Solution to the Horizon and Flatness Problems",
+   "to": "[Inflationary Universe: A Possible Solution to the Horizon and Flatness Problems](https://doi.org/10.1103/physrevd.23.347)",
+   "in": "Guth, Alan H. “Inflationary Universe: A Possible Solution to",
+   "max": 1
+  },
+  {
+   "find": "Around-the-World Atomic Clocks: Observed Relativistic Time Gains",
+   "to": "[Around-the-World Atomic Clocks: Observed Relativistic Time Gains](https://doi.org/10.1126/science.177.4044.168)",
+   "in": "Hafele, J. C., and Richard E. Keating. “Around-the-World Ato",
+   "max": 1
+  },
+  {
+   "find": "Gravitational Radiation from Colliding Black Holes",
+   "to": "[Gravitational Radiation from Colliding Black Holes](https://doi.org/10.1103/physrevlett.26.1344)",
+   "in": "Hawking, S. W. “Gravitational Radiation from Colliding Black",
+   "max": 1
+  },
+  {
+   "find": "Particle Creation by Black Holes",
+   "to": "[Particle Creation by Black Holes](https://doi.org/10.1007/bf02345020)",
+   "in": "Hawking, S. W. “Particle Creation by Black Holes.” Communica",
+   "max": 1
+  },
+  {
+   "find": "The Singularities of Gravitational Collapse and Cosmology",
+   "to": "[The Singularities of Gravitational Collapse and Cosmology](https://doi.org/10.1098/rspa.1970.0021)",
+   "in": "Hawking, S. W., and R. Penrose. “The Singularities of Gravit",
+   "max": 1
+  },
+  {
+   "find": "Observation of a Neutrino Burst from the Supernova SN1987A",
+   "to": "[Observation of a Neutrino Burst from the Supernova SN1987A](https://doi.org/10.1103/physrevlett.58.1490)",
+   "in": "Hirata, K., et al. “Observation of a Neutrino Burst from the",
+   "max": 1
+  },
+  {
+   "find": "Discovery of a Pulsar in a Binary System",
+   "to": "[Discovery of a Pulsar in a Binary System](https://doi.org/10.1086/181708)",
+   "in": "Hulse, R. A., and J. H. Taylor. “Discovery of a Pulsar in a ",
+   "max": 1
+  },
+  {
+   "find": "Testing the Black-Hole Area Law with GW150914",
+   "to": "[Testing the Black-Hole Area Law with GW150914](https://doi.org/10.1103/physrevlett.127.011103)",
+   "in": "Isi, Maximiliano, Will M. Farr, Matthew Giesler, Mark A. Sch",
+   "max": 1
+  },
+  {
+   "find": "Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics",
+   "to": "[Gravitational Field of a Spinning Mass as an Example of Algebraically Special Metrics](https://doi.org/10.1103/physrevlett.11.237)",
+   "in": "Kerr, Roy P. “Gravitational Field of a Spinning Mass as an E",
+   "max": 1
+  },
+  {
+   "find": "Humanly Traversable Wormholes",
+   "to": "[Humanly Traversable Wormholes](https://doi.org/10.1103/physrevd.103.066007)",
+   "in": "Maldacena, Juan, and Alexey Milekhin. “Humanly Traversable W",
+   "max": 1
+  },
+  {
+   "find": "Cool Horizons for Entangled Black Holes",
+   "to": "[Cool Horizons for Entangled Black Holes](https://doi.org/10.1002/prop.201300020)",
+   "in": "Maldacena, Juan, and Leonard Susskind. “Cool Horizons for En",
+   "max": 1
+  },
+  {
+   "find": "On Continued Gravitational Contraction",
+   "to": "[On Continued Gravitational Contraction](https://doi.org/10.1103/physrev.56.455)",
+   "in": "Oppenheimer, J. R., and H. Snyder. “On Continued Gravitation",
+   "max": 1
+  },
+  {
+   "find": "Gravitational Collapse and Space-Time Singularities",
+   "to": "[Gravitational Collapse and Space-Time Singularities](https://doi.org/10.1103/physrevlett.14.57)",
+   "in": "Penrose, Roger. “Gravitational Collapse and Space-Time Singu",
+   "max": 1
+  },
+  {
+   "find": "Measurements of Ω and Λ from 42 High-Redshift Supernovae",
+   "to": "[Measurements of Ω and Λ from 42 High-Redshift Supernovae](https://doi.org/10.1086/307221)",
+   "in": "Perlmutter, S., et al. “Measurements of Ω and Λ from 42 High",
+   "max": 1
+  },
+  {
+   "find": "Apparent Weight of Photons",
+   "to": "[Apparent Weight of Photons](https://doi.org/10.1103/physrevlett.4.337)",
+   "in": "Pound, R. V., and G. A. Rebka Jr. “Apparent Weight of Photon",
+   "max": 1
+  },
+  {
+   "find": "Relativistic Cosmology. I",
+   "to": "[Relativistic Cosmology. I](https://doi.org/10.1103/physrev.98.1123)",
+   "in": "Raychaudhuri, Amalkumar. “Relativistic Cosmology. I.” Physic",
+   "max": 1
+  },
+  {
+   "find": "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant",
+   "to": "[Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant](https://doi.org/10.1086/300499)",
+   "in": "Riess, Adam G., et al. “Observational Evidence from Supernov",
+   "max": 1
+  },
+  {
+   "find": "Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions",
+   "to": "[Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions](https://doi.org/10.1086/150317)",
+   "in": "Rubin, Vera C., and W. Kent Ford Jr. “Rotation of the Androm",
+   "max": 1
+  },
+  {
+   "find": "Fourth Test of General Relativity",
+   "to": "[Fourth Test of General Relativity](https://doi.org/10.1103/physrevlett.13.789)",
+   "in": "Shapiro, Irwin I. “Fourth Test of General Relativity.” Physi",
+   "max": 1
+  },
+  {
+   "find": "Cosmological Limits to the Number of Massive Leptons",
+   "to": "[Cosmological Limits to the Number of Massive Leptons](https://doi.org/10.1016/0370-2693(77)90176-9)",
+   "in": "Steigman, G., D. N. Schramm, and J. E. Gunn. “Cosmological L",
+   "max": 1
+  },
+  {
+   "find": "A New Test of General Relativity: Gravitational Radiation and the Binary Pulsar PSR 1913+16",
+   "to": "[A New Test of General Relativity: Gravitational Radiation and the Binary Pulsar PSR 1913+16](https://doi.org/10.1086/159690)",
+   "in": "Taylor, J. H., and J. M. Weisberg. “A New Test of General Re",
+   "max": 1
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}

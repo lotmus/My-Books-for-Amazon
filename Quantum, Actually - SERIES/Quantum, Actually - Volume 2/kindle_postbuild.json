@@ -1,0 +1,5 @@
+{
+  "source": "Quantum, Actually - Volume 2.docx",
+  "note": "Kindle post-build defaults (10 Oct 2026): photos 440 px wide, q80, mild colour boost; labelled photo-like figures 800 px; embedded front cover up to 1600 px; line art 256-colour PNG up to 1600 px. Run by the build script after it saves the docx.",
+  "tables": true
+}

@@ -1,0 +1,17 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "Self-published and freely available at motionmountain.net.",
+   "to": "Self-published and [freely available online](https://www.motionmountain.net/)."
+  },
+  {
+   "find": "Self-published; freely available at motionmountain.net.",
+   "to": "Self-published; [freely available online](https://www.motionmountain.net/)."
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+# Verified facts (checked 10 Oct 2026)
+## California
+- Prob. Code 6110: will in writing, signed by testator; >=2 witnesses present at same time, understand it is the will; 6110(c)(2) clear-and-convincing harmless-error rescue. (leginfo via search index; page Cloudflare-blocked to direct fetch)
+- 6111: holographic valid if signature + material provisions in testator's handwriting; undated -> problems.
+- 6112: interested witness does not invalidate; creates presumption of duress/menace/fraud/undue influence unless 2 other disinterested witnesses.
+- 6240 statutory will form: two adult witnesses; "notarization alone is not sufficient" (selfhelp.courts.ca.gov/sites/default/files/2026-02/6240-Statutory-will-form.pdf)
+- 6132: separate writing for tangible personal property; total <= $25,000, single item > $5,000 excluded.
+- 6122: divorce revokes will provisions for ex-spouse; 5040: nonprobate transfer to ex fails (exceptions).
+- Egelhoff v. Egelhoff, 532 U.S. 141 (2001): ERISA preempts state auto-revocation statute (Washington).
+- 6401(c): spouse gets 1/2 of separate property w/ one child, 1/3 w/ more than one child; (community property to spouse: 6401(a)).
+- 21311: no-contest enforced only vs direct contest without probable cause (+ creditor/ownership claims if clause says so).
+- 21610 omitted spouse; 21620 omitted child born/adopted after docs.
+- 15212 pet trust.
+- 5600ff revocable TOD deed; Part 4 repealed 1 Jan 2032 unless extended; deeds executed before stay valid.
+- 8200: custodian delivers will to superior court clerk within 30 days after learning of death.
+- 9100: creditor claims: later of 4 months after letters or 60 days after notice.
+- 10810: statutory attorney fee 4% first 100k, 3% next 100k, 2% next 800k, 1% next 9M, 0.5% next 15M.
+- 870-884 RUFADAA; 873 online tool overrides will/trust/POA if tool allows changes.
+- Small estate (selfhelp.courts.ca.gov/probate/simple-transfer): deaths on/after 1 Apr 2025: $208,850 personal property affidavit (13100), 40 days wait; primary residence petition up to $750,000 (13151, AB 2016); small real property affidavit $69,625 (13200); family set-aside $107,900; next adjustment 1 Apr 2028 (Prob. Code 890).
+- AHCD: notary or two qualified adult witnesses; SOS AHCD Registry voluntary, $10 new registration (sos.ca.gov/registries/advance-health-care-directive-registry).
+## US federal (irs.gov)
+- Estate tax basic exclusion 2026: $15,000,000 (P.L. 119-21). Annual gift exclusion 2026: $19,000 per donee.
+## Germany (gesetze-im-internet.de)
+- BGB 2231 forms: notarial or 2247 handwritten. 2247: handwritten+signed; should state date & place; minors/unable to read can't. 2229: testamentary capacity from 16. 2064 personal.
+- 2232 notary will: declare orally or hand over a writing (need not be self-written).
+- 2249/2250 emergency wills (mayor + 2 witnesses; oral before 3 witnesses with written record); 2252 lapse after 3 months if testator survives.
+- 2265 joint will only spouses; 2269 Berliner Testament.
+- 2303 Pflichtteil = half statutory share; descendants, parents, spouse. 2325 gifts within 10 yrs, -1/10 per year. 2333 deprivation grounds.
+- 1924 descendants first order, per stirpes; 1931 spouse 1/4 alongside descendants; 1371 +1/4 Zugewinn (community of accrued gains).
+- 1922 universal succession; 1967 heir liable for estate debts; 1944 disclaimer 6 weeks (6 months if abroad).
+- 2259 duty to deliver will to Nachlassgericht. 2248 official custody of handwritten will on request.
+- 2353 Erbschein; GBO 35 notarial will + opening record can replace Erbschein for land registry.
+- 2077 divorce/pending divorce voids gift to spouse.
+- 2346/2348 renunciation contract, notarial.
+- 2276 Erbvertrag notarial, both present.
+- 1358 spouses' emergency health representation, max 6 months, not if separated etc.
+- 1827 Patientenverfügung written; 1820 Vorsorgevollmacht (written for certain measures).
+- ErbStG 16: allowances spouse 500k, child 400k, grandchild 200k, other class I 100k, class II/III 20k.
+- BGH 12.07.2018 III ZR 183/17: social network account inheritable (1922).
+- Zentrales Testamentsregister (BNotK): registers notarial wills & handwritten wills in official custody; not privately kept wills; fee 12.50 / 15.50 EUR.
+## EU
+- Reg. 650/2012 Art 21 habitual residence default; Art 22 choice of law of nationality (multiple nationals may choose any). European Certificate of Succession.
+## Video
+- Neither CA (6110 writing/witnesses; 6111 handwriting) nor DE (2231/2247) recognises video as a will form.
+- BGB 2270/2271: reciprocal provisions in joint will; right to revoke ends at other spouse's death (survivor can only escape by disclaiming).
+- BGB 1643: parents need family court approval for certain transactions for a child.
+- Zentrales Vorsorgeregister (BNotK, vorsorgeregister.de): register Vorsorgevollmacht; Betreuungsgerichte query; registration doesn't replace the document.
+- EU 650/2012 Art 83: deaths on/after 17 Aug 2015.
+- CA Prob 4401 Uniform Statutory Form POA, acknowledged (notary); financial only.
+- Telefonseelsorge 0800 111 0 111 / 0800 111 0 222 / 116 123 (telefonseelsorge.de); US 988.
+- CA Prob 10800 executor fee same scale as 10810. CA no estate/inheritance tax for deaths since 1 Jan 2005 (sco.ca.gov/ardtax_estate_tax.html). Prob 6100 age 18 sound mind; 1500 parent may nominate guardian in will.
+- BGB 1782 parents name Vormund by will; 1783 court may pass over only on listed grounds. 2233 minors: only notary. 2087 heir vs legacy; 2174 legacy claim; 2048 Teilungsanordnung. 2267 joint holographic: one writes, both sign. 2296 notarial revocation. LPartG 10(4) partners joint will.
+- BGB 331: benefit to third party on death acquired at death (life insurance etc.). ErbStG 14: gifts aggregated over 10 years.
+- BGH XI ZR 401/12 (8.10.2013): bank AGB requiring Erbschein invalid; BGH XI ZR 440/15 (5.4.2016): opened handwritten will can suffice if unambiguous.
+- CA unclaimed property: bank deposits reported to State Controller after >3 years inactivity; claimable (sco.ca.gov/upd_about_unclaimed_property.html). BGB 1936: state inherits if no relative/spouse/partner.
+- CA Penal Code 632: recording confidential communication requires consent of all parties.
+- StGB 201: unauthorised recording of non-public spoken word punishable. KUG 22: publishing a person's image needs consent; for 10 years after death, consent of relatives (spouse/partner & children, else parents). KUG 23 exceptions.
+- GDPR Art 2(2)(c): purely personal/household activity excluded; publication to the public is not household.
+- CA Prob 876: content disclosure if user consented or court directs; 877 catalogue only.
+- Copyright: US 17 USC 302 life+70 (works since 1978); DE UrhG 64 life+70.
+- ErbStG 30: report taxable acquisition to Finanzamt within 3 months (exceptions).
+- CA Prob 5301 joint account owned during life per net contributions; 5302 survivor takes at death unless clear and convincing evidence of different intent.
+- CA Prob 5600(c): TOD deed Part 4 sunsets 1 Jan 2032 unless extended (SB 315, Stats 2021 ch 215); covers 1-4 units, condo, ag ≤40 acres w/ house (5610).
+- CA Fam Code 770: inheritance/gift = separate property.
+- CA CCP 872.210: co-owner may bring partition action.
+- 26 USC 1014 inherited basis = FMV at death; gift basis = donor's adjusted basis (IRS Pub 551). Annual gift exclusion 2025 $19,000 (Pub 551 example).
+- BGB 311b notarisation of land contracts; 2042 any co-heir may demand partition at any time; 753 partition of land by forced auction.
+- CA Prob 100: at death, half of community property belongs to surviving spouse, half to decedent. Civ 682.1 community property with right of survivorship (instruments on/after 1 Jul 2001).
+- BGB 2325(3): ten-year period for gifts to spouse starts only on dissolution of marriage. 2057a care by descendant compensated among descendants; 2316 carries into Pflichtteil (testator may exclude; BGH IV ZR 269/20, 24.03.2021). 2346/2348 notarised Pflichtteil waiver.
+- ErbStG 16(1)(7): class III allowance 20,000 EUR (unmarried partner); class III rate from 30%; spouse 500,000.
+- CA Prob 6124: lost will last in testator's possession presumed revoked (rebuttable). 6454 stepchild intestate rule (minority, continued, clear and convincing evidence of intended adoption but for legal barrier). 6100.5 capacity elements. 21311(b) probable cause definition.
+- BGB 2256: return of notarial will from official custody = revocation; handwritten will withdrawn from 2248 custody is not revoked. 1925 second order: parents and their descendants.
+- CA Prob 4129 springing POA: principal may designate persons whose written declaration under penalty of perjury conclusively establishes the event. 4780 POLST (signed by patient/decisionmaker and physician/NP/PA; not an AHCD).
+- BGB 1814 Betreuer appointment; 1827 Patientenverfügung (since 2023); BGH XII ZB 61/16 (6 Jul 2016): "keine lebenserhaltenden Maßnahmen" alone not specific enough.
+- BGH III ZR 183/17 (12 Jul 2018): social network user contract passes to heirs (§1922); heirs may demand full account access incl. messages.
+- BGB 2287 applied by analogy to binding joint-will provisions: final heir can reclaim lifetime gifts made by survivor with intent to impair, absent legitimate lifetime self-interest; claim arises at survivor's death.
+- Pflichtteil claims: regular 3-year limitation (BGB 195), from end of year in which claimant learned of death and of the excluding disposition (199; 2332 since 2010 covers only claims vs donee).
+- CA Prob 5642 statutory TOD deed form: full names (not "my children"); notarised; two witnesses present together (for deeds signed since 2022, SB 315); record within 60 days of notarisation; no alternates/instructions. 5652: beneficiary must survive; lapsed share to other beneficiaries equally; all predecease = no effect. Joint tenancy/CPWROS: if transferor dies first, deed void.
+- VVG 159: revocable beneficiary acquires right only at insured event; irrevocable at designation. VVG 160(2): "heirs" as beneficiaries = those called as heirs at death, by inheritance shares; disclaiming the inheritance does not affect the insurance right.
+- IRS Pub 590-B: owner died after 2019 -> most individual non-spouse designated beneficiaries must empty inherited IRA by 31 Dec of year containing 10th anniversary (10-year rule); estate as beneficiary + owner died before required beginning date -> 5-year rule.
+- CA CCP 874.311ff Partition of Real Property Act (from 1 Jan 2023): applies to tenancy in common without binding written partition agreement; if a cotenant asks for sale, others may buy out at appraised value x fraction (elect within 45 days, 874.317).
+- GNotKG KV 12100: court custody fee for will 82 EUR (since 1 Jun 2025; previously 75); register 12.50/15.50.
+- EU 650/2012 Art 69: ECS effective in all Member States bound by the Regulation; Denmark and Ireland not bound.
+- German Oder-Konto: heirs step into deceased co-holder's position; internally equal shares presumed (BGB 430) unless a different agreement is shown.
+- Berlin court info: deposit receipt (Hinterlegungsschein) issued; return only to testator personally; joint wills only to all testators. BGB 1944: disclaimer within 6 weeks (6 months if abroad). BGB 2229(4) no testamentary capacity if unable to understand significance due to mental disorder. BGB 1827(2) treatment wishes / presumed will where no fitting advance directive. CA Fam 297.5 registered domestic partners have spousal rights.
+
+## Round 4 (10 Oct 2026): Case 11 (house for the son who pays the mortgage) and Other US states
+- CA Prob 5614/5630: TOD deed by definition remains revocable until transferor's death; revocable at any time with capacity. No irrevocable form exists. (leginfo)
+- CA Prob 5624 (since 1 Jan 2022, SB 315): signed + dated by transferor, two witnesses present at same time who witnessed signing or acknowledgment, acknowledged before notary. Witness signatures need not be notarised (form text).
+- CA Prob 5625: any competent person may witness; deed not invalid because signed by interested witness; if a beneficiary is also a subscribing witness -> presumption of duress/menace/fraud/undue influence, affecting burden of proof; not if beneficiary only in fiduciary capacity. Another child who is not a beneficiary: no presumption. Statutory form FAQ: "avoid using a beneficiary as a witness."
+- CA Prob 5626(a): not effective unless recorded on or before 60 days after the date it was acknowledged before a notary. => pasted chat's "60 days" correct, but runs from notarisation.
+- CA Prob 5600 / section notes: Part 4 repealed as of 1 Jan 2032. Prob 5642: statutory form in the code. Prob 5656: execution/recordation/revocation not a change in ownership; no documentary transfer tax, no PCOR (form cites R&T 11930, 480.3); transfer at death is a change in ownership. BOE LTA: change in ownership statement within 150 days of death (R&T 480(b)).
+- 26 USC 2036: retained life estate -> included in gross estate. 26 USC 1014(a),(b)(9): property included in gross estate gets FMV-at-death basis (reduced by depreciation the taxpayer deducted before death). A search synthesis claiming (b)(9) denies step-up was WRONG; statute text checked (LII).
+- IRS Form 709 instructions (2025/2026): future-interest gifts must be reported regardless of value. Annual exclusion 2026: 19,000 dollars (IRS gift tax FAQ).
+- BOE Rule 462.060: life estate retained by transferor not a change in ownership at creation; change when remainder vests in possession at termination. Rule 462.040: parent adding child as joint tenant, parent remains joint tenant = not a change in ownership (original transferor).
+- Prop 19 (BOE pub 801, Rule 462.520, boe.ca.gov/prop19): family home of transferor must become transferee's principal residence; homeowners'/disabled veterans' exemption within 1 year; BOE-19-P within 3 years; value cap factored base year value + 1,044,586 for transfers 16 Feb 2025 - 15 Feb 2027 (adjusted every two years).
+- Medi-Cal (DHCS Asset Limit FAQ): assets counted again from 1 Jan 2026 (65+, disability, nursing home etc.); limit 130,000 one person through 30 Jun 2027; long-term care look-back 30 months; transfers before 1 Jan 2026 not counted. => chat's "five-year look-back" wrong for California (60 months is the general federal figure, 42 USC 1396p(c)(1)(B)).
+- 42 USC 1396p(c)(2)(A)(iv): no transfer penalty for home transferred to son/daughter who resided there >= 2 years immediately before institutionalisation and provided care that let the parent stay home.
+- 12 USC 1701j-3(d) (Garn-St Germain): for <5-unit residential, lender may not exercise due-on-sale on (1) subordinate lien not transferring occupancy, (2) appliance PMSI, (3) devise/descent/operation of law on death of joint tenant, (4) lease <=3 yrs no option, (5) transfer to relative resulting from borrower's death, (6) spouse or children become owner, (7) divorce decree/separation, (8) inter vivos trust where borrower remains beneficiary, (9) other as regulated. 12 CFR 191.5(b): loan on home occupied by borrower; (v) family transfers only where transferee occupies or will occupy; (vi) trust: borrower is and remains beneficiary and occupant. (LII text.) 12 CFR 191.5(b)(4): assumption is a lender waiver option, not a requirement for exempt transfers.
+- 12 CFR 1024.31: successor in interest includes person receiving ownership when spouse or children become owner; confirmed successor treated as borrower for servicing rules.
+- Home equity contracts (CFPB Issue Spotlight, Jan 2025): lump sum now for share of future value; one large repayment at end of term or on triggers incl. sale and death; secured by lien on the home. Consent-to-transfer terms: contract-specific (not claimed as universal; book says "read the contract and ask in writing"). No "assumption agreement" makes the HEI obligation go away -> chat claim wrong.
+- CA Prob 21700(a): contract to make a will/devise established only by will provisions, express reference + extrinsic evidence, writing signed by decedent evidencing contract, or clear and convincing evidence of an agreement enforceable in equity.
+- Other states: ULC staff column (ABA, Sept 2025): URPTODA enacted in 19 states + DC + USVI; 32 US jurisdictions permit TOD deeds; earlier non-uniform states: MO 1989, KS 1997, OH 2000, NM 2001, AZ 2002, NV 2003, CO 2004, WI 2006, MT 2007, OK 2008, MN 2008, IN 2009. Enhanced life estate deeds "a handful of additional states, mainly in the South."
+- Enhanced life estate: VT statute 27 V.S.A. ch. 6 (§§ 651 ff.) with form - verified. TX: HHSC MEPD glossary recognises "Enhanced Life Estate Deeds (sometimes known as a Lady Bird Deed)" - verified. MI: Court of Appeals opinions (e.g. No. 304852, 2012) - verified. FL: 4th DCA No. 4D2025-2750 (23 Sep 2026) discusses one; no dedicated FL statute - verified. WV: TOD deed statute ch. 36 art. 12; NO official source found recognising enhanced life estate deeds -> book says so.
+- Cost claims ("under a hundred dollars"): not verifiable in general; recording fees vary by county; only the DTT/PCOR exemption (5656) is stated as fact.

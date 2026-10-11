@@ -1,0 +1,79 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "Gravitational effects on and of vacuum decay. Physical Review D 21, 3305–3315. doi:10.1103/PhysRevD.21.3305",
+   "to": "[Gravitational effects on and of vacuum decay](https://doi.org/10.1103/PhysRevD.21.3305). Physical Review D 21, 3305–3315."
+  },
+  {
+   "find": "Can quantum-mechanical description of physical reality be considered complete? Physical Review 47, 777–780. doi:10.1103/PhysRev.47.777",
+   "to": "[Can quantum-mechanical description of physical reality be considered complete?](https://doi.org/10.1103/PhysRev.47.777) Physical Review 47, 777–780."
+  },
+  {
+   "find": "New phenomenon in narrow germanium p-n junctions. Physical Review 109, 603–604. doi:10.1103/PhysRev.109.603",
+   "to": "[New phenomenon in narrow germanium p-n junctions](https://doi.org/10.1103/PhysRev.109.603). Physical Review 109, 603–604."
+  },
+  {
+   "find": "Quantum field theory constrains traversable wormhole geometries. Physical Review D 53, 5496–5507. doi:10.1103/PhysRevD.53.5496",
+   "to": "[Quantum field theory constrains traversable wormhole geometries](https://doi.org/10.1103/PhysRevD.53.5496). Physical Review D 53, 5496–5507."
+  },
+  {
+   "find": "Causality and multiply connected space-time. Physical Review 128, 919–929. doi:10.1103/PhysRev.128.919",
+   "to": "[Causality and multiply connected space-time](https://doi.org/10.1103/PhysRev.128.919). Physical Review 128, 919–929."
+  },
+  {
+   "find": "Demonstration of the Casimir force in the 0.6 to 6 μm range. Physical Review Letters 78, 5–8. doi:10.1103/PhysRevLett.78.5",
+   "to": "[Demonstration of the Casimir force in the 0.6 to 6 μm range](https://doi.org/10.1103/PhysRevLett.78.5). Physical Review Letters 78, 5–8."
+  },
+  {
+   "find": "Irreversibility and heat generation in the computing process. IBM Journal of Research and Development 5, 183–191. doi:10.1147/rd.53.0183",
+   "to": "[Irreversibility and heat generation in the computing process](https://doi.org/10.1147/rd.53.0183). IBM Journal of Research and Development 5, 183–191."
+  },
+  {
+   "find": "Wormholes in spacetime and their use for interstellar travel: a tool for teaching general relativity. American Journal of Physics 56, 395–412. doi:10.1119/1.15620",
+   "to": "[Wormholes in spacetime and their use for interstellar travel: a tool for teaching general relativity](https://doi.org/10.1119/1.15620). American Journal of Physics 56, 395–412."
+  },
+  {
+   "find": "Information in black hole radiation. Physical Review Letters 71, 3743–3746. doi:10.1103/PhysRevLett.71.3743",
+   "to": "[Information in black hole radiation](https://doi.org/10.1103/PhysRevLett.71.3743). Physical Review Letters 71, 3743–3746."
+  },
+  {
+   "find": "Forces between conducting surfaces due to spatial variations of surface potential. Physical Review Letters 90, 160403. doi:10.1103/PhysRevLett.90.160403",
+   "to": "[Forces between conducting surfaces due to spatial variations of surface potential](https://doi.org/10.1103/PhysRevLett.90.160403). Physical Review Letters 90, 160403."
+  },
+  {
+   "find": "The unreasonable effectiveness of mathematics in the natural sciences. Communications on Pure and Applied Mathematics 13, 1–14. doi:10.1002/cpa.3160130102",
+   "to": "[The unreasonable effectiveness of mathematics in the natural sciences](https://doi.org/10.1002/cpa.3160130102). Communications on Pure and Applied Mathematics 13, 1–14."
+  },
+  {
+   "find": "(Morris and Thorne, 1988)",
+   "to": "([Morris and Thorne, 1988](#bib_morris1988))"
+  },
+  {
+   "find": "(Speake and Trenkel, 2003)",
+   "to": "([Speake and Trenkel, 2003](#bib_speake2003))"
+  },
+  {
+   "find": "(Ford and Roman, 1996)",
+   "to": "([Ford and Roman, 1996](#bib_ford1996))"
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ],
+ "bookmarks": [
+  {
+   "name": "bib_morris1988",
+   "para": "Morris, M\\. S\\., and Thorne"
+  },
+  {
+   "name": "bib_speake2003",
+   "para": "Speake, C\\. C\\., and Trenkel"
+  },
+  {
+   "name": "bib_ford1996",
+   "para": "Ford, L\\. H\\., and Roman"
+  }
+ ]
+}

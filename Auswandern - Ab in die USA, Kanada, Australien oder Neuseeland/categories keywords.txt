@@ -1,0 +1,68 @@
+Sieben Keyword-Felder und drei Kategorien, zugeschnitten auf den deutschen Ratgeber. 
+Titel und Untertitel decken „Auswandern“, USA, Kanada, Australien und Neuseeland schon ab. Die Felder ergänzen die Suchbegriffe, die dort fehlen.
+
+## Keywords (je ein Feld, unter 50 Zeichen)
+
+1. Green Card H-1B Visum Wege
+2. Express Entry Kanada Einwanderung
+3. Skilled Migration Australien Punkte
+4. Wegzug Steuern Rente Krankenkasse
+5. Abmeldung Deutschland Umzug Checkliste
+6. Berufsanerkennung Visum Arbeitserlaubnis
+7. Leben Arbeiten Ankommen Kulturschock
+
+Nicht eintragen: Bestseller, kostenlos, Kindle, andere Autorennamen, und nicht noch einmal nur „Auswandern USA“. Amazon indexiert Titel und Kategorien ohnehin.
+
+## Kategorien im KDP-Menü (3 Slots)
+
+Primärmarktplatz Amazon.de, Sprache Deutsch, Zielgruppe allgemein / Erwachsene.
+
+1. Travel › Specialty Travel › Emigration & Immigration
+2. Travel › United States › General
+3. Reference › Consumer Guides
+
+Falls der dritte Pfad fehlt: 
+Travel › Canada › General oder Business & Money › Personal Finance › Budgeting. 
+Nicht 
+Politics › Social Sciences › Emigration & Immigration 
+— das ist die akademische Regalfläche, nicht der Ratgeber.
+
+## Amazon.de zusätzlich anfragen
+
+KDP vergibt auf .de oft andere Regale als die drei gewählten. Per KDP-Support (Contact Us › Amazon book page › Update categories) diese Pfade nennen, soweit sie im Katalog existieren:
+
+- Bücher › Ratgeber › Leben im Ausland / Auswandern
+- Bücher › Reisen › Reiseführer › USA
+- Bücher › Reisen › Reiseführer › Kanada
+- Bücher › Reisen › Reiseführer › Australien und Ozeanien
+- Bücher › Recht › Ausländer- und Asylrecht — nur wenn der Pfad als Ratgeber geführt wird, nicht als Fachjuristik
+
+Nach dem Livegang die Produktdetailseite prüfen: „Rang“ zeigt die tatsächlichen Regale. Unpassende über denselben Support entfernen lassen.
+
+============================================================================================================================================================
+
+Paste-ready English set for the same book. Use it on Amazon.com, or on Amazon.de only if the listing language is English. 
+The manuscript is German, so the German fields from the last reply stay the better match for Amazon.de.
+
+## Keywords (one box each, under 50 characters)
+
+1. Green Card H-1B visa paths
+2. Express Entry Canada immigration
+3. Australia skilled migration points
+4. Germany exit tax pension health cover
+5. deregister Germany move checklist
+6. foreign credential recognition work visa
+7. arrival culture shock first weeks
+
+Do not add bestseller, free, Kindle, or other author names. Title and subtitle already cover emigrating, USA, Canada, Australia, and New Zealand.
+
+## Categories (3 slots in the KDP menu)
+
+Primary marketplace Amazon.com, language English, audience General / Adult.
+
+1. Travel › Specialty Travel › Emigration & Immigration
+2. Travel › United States › General
+3. Reference › Consumer Guides
+
+If the third path is missing, use Travel › Canada › General or Business & Money › Personal Finance › Budgeting. 
+Skip Politics & Social Sciences › Emigration & Immigration. That shelf is academic, not a practical guide.
