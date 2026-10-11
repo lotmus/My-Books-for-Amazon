@@ -1,0 +1,229 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "online edition at feynmanlectures.caltech.edu.",
+   "to": "[online edition](https://www.feynmanlectures.caltech.edu/)."
+  },
+  {
+   "find": "Free online textbook, motionmountain.net.",
+   "to": "[Free online textbook](https://www.motionmountain.net/)."
+  },
+  {
+   "find": "“Relative State Formulation of Quantum Mechanics.”",
+   "to": "“[Relative State Formulation of Quantum Mechanics](https://doi.org/10.1103/RevModPhys.29.454).”"
+  },
+  {
+   "find": "“Molecular Structure of Nucleic Acids.”",
+   "to": "“[Molecular Structure of Nucleic Acids](https://doi.org/10.1038/171737a0).”"
+  },
+  {
+   "find": "Particle Data Group. Review of Particle Physics.",
+   "to": "Particle Data Group. [Review of Particle Physics](https://pdg.lbl.gov/)."
+  },
+  {
+   "find": "Quantum Mechanics YouTube (Stanford, Leonard Susskind): https://www.youtube.com/watch?v=2h1E3YJMKfA  Wikipedia: https://en.wikipedia.org/wiki/Quantum_mechanics  MIT OpenCourseWare: https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/",
+   "to": "Quantum Mechanics: [Stanford video lecture (Leonard Susskind)](https://www.youtube.com/watch?v=2h1E3YJMKfA) · [Wikipedia](https://en.wikipedia.org/wiki/Quantum_mechanics) · [MIT OpenCourseWare](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/)"
+  },
+  {
+   "find": "Black-Hole Information Paradox Wikipedia: https://en.wikipedia.org/wiki/Black_hole_information_paradox  Scholarpedia: http://www.scholarpedia.org/article/Black_hole_information_paradox",
+   "to": "Black-Hole Information Paradox: [Wikipedia](https://en.wikipedia.org/wiki/Black_hole_information_paradox)"
+  },
+  {
+   "find": "General Relativity Wikipedia: https://en.wikipedia.org/wiki/General_relativity  Einstein Online: https://www.einstein-online.info/en/",
+   "to": "General Relativity: [Wikipedia](https://en.wikipedia.org/wiki/General_relativity) · [Einstein Online](https://www.einstein-online.info/en/)"
+  },
+  {
+   "find": "Cosmology / Big Bang Wikipedia: https://en.wikipedia.org/wiki/Big_Bang  NASA: https://science.nasa.gov/universe/overview/",
+   "to": "Cosmology / Big Bang: [Wikipedia](https://en.wikipedia.org/wiki/Big_Bang) · [NASA](https://science.nasa.gov/universe/overview/)"
+  },
+  {
+   "find": "Evolution Wikipedia: https://en.wikipedia.org/wiki/Evolution  Understanding Evolution (Berkeley): https://evolution.berkeley.edu/",
+   "to": "Evolution: [Wikipedia](https://en.wikipedia.org/wiki/Evolution) · [Understanding Evolution (Berkeley)](https://evolution.berkeley.edu/)"
+  },
+  {
+   "find": "Climate Science Wikipedia: https://en.wikipedia.org/wiki/Climate_change  IPCC: https://www.ipcc.ch/",
+   "to": "Climate Science: [Wikipedia](https://en.wikipedia.org/wiki/Climate_change) · [IPCC](https://www.ipcc.ch/)"
+  },
+  {
+   "find": "Standard Model Wikipedia: https://en.wikipedia.org/wiki/Standard_Model  CERN: https://home.cern/science/physics/standard-model",
+   "to": "Standard Model: [Wikipedia](https://en.wikipedia.org/wiki/Standard_Model) · [CERN](https://home.cern/science/physics/standard-model)"
+  },
+  {
+   "find": "Black Holes & Information Paradox https://en.wikipedia.org/wiki/Black_hole_information_paradox  https://www.youtube.com/watch?v=HRAnQKrqG3k",
+   "to": "Black Holes & Information Paradox: [Wikipedia: Black hole information paradox](https://en.wikipedia.org/wiki/Black_hole_information_paradox)"
+  },
+  {
+   "find": "Cosmology https://en.wikipedia.org/wiki/Big_Bang  https://science.nasa.gov/universe/overview/  Inflation: https://en.wikipedia.org/wiki/Inflation_(cosmology",
+   "to": "Cosmology: [Wikipedia: Big Bang](https://en.wikipedia.org/wiki/Big_Bang) · [NASA Science: the universe](https://science.nasa.gov/universe/overview/) · [Inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology))"
+  },
+  {
+   "find": "Evolution & Human Origins https://en.wikipedia.org/wiki/Evolution  https://evolution.berkeley.edu/  https://en.wikipedia.org/wiki/Human_evolution",
+   "to": "Evolution & Human Origins: [Wikipedia: Evolution](https://en.wikipedia.org/wiki/Evolution) · [Understanding Evolution (UC Berkeley)](https://evolution.berkeley.edu/) · [Wikipedia: Human evolution](https://en.wikipedia.org/wiki/Human_evolution)"
+  },
+  {
+   "find": "Climate & Earth History https://en.wikipedia.org/wiki/Climate_change  https://www.ipcc.ch/  https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+   "to": "Climate & Earth History: [Wikipedia: Climate change](https://en.wikipedia.org/wiki/Climate_change) · [IPCC](https://www.ipcc.ch/) · [Wikipedia: Great Oxidation Event](https://en.wikipedia.org/wiki/Great_Oxidation_Event)"
+  },
+  {
+   "find": "Standard Model & Particle Physics https://en.wikipedia.org/wiki/Standard_Model  https://home.cern/science/physics/standard-model",
+   "to": "Standard Model & Particle Physics: [Wikipedia: Standard Model](https://en.wikipedia.org/wiki/Standard_Model) · [CERN: the Standard Model](https://home.cern/science/physics/standard-model)"
+  },
+  {
+   "find": "Quantum Information & Computing https://en.wikipedia.org/wiki/Quantum_information  https://www.youtube.com/watch?v=QuR969uMICM",
+   "to": "Quantum Information & Computing: [Wikipedia: Quantum information](https://en.wikipedia.org/wiki/Quantum_information) · [TED talk: A beginner’s guide to quantum computing](https://www.youtube.com/watch?v=QuR969uMICM)"
+  },
+  {
+   "find": "Neuroscience https://en.wikipedia.org/wiki/Neuroscience  https://www.youtube.com/watch?v=kS9W8g7nY4s",
+   "to": "Neuroscience: [Wikipedia: Neuroscience](https://en.wikipedia.org/wiki/Neuroscience)"
+  },
+  {
+   "find": "Materials Science https://en.wikipedia.org/wiki/Materials_science",
+   "to": "Materials Science: [Wikipedia: Materials science](https://en.wikipedia.org/wiki/Materials_science)"
+  },
+  {
+   "find": "Exoplanets https://en.wikipedia.org/wiki/Exoplanet  https://exoplanets.nasa.gov/",
+   "to": "Exoplanets: [Wikipedia: Exoplanet](https://en.wikipedia.org/wiki/Exoplanet) · [NASA Exoplanet Exploration](https://exoplanets.nasa.gov/)"
+  },
+  {
+   "find": "Gravitational Waves https://en.wikipedia.org/wiki/Gravitational_wave  https://www.ligo.caltech.edu/",
+   "to": "Gravitational Waves: [Wikipedia: Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave) · [LIGO (Caltech)](https://www.ligo.caltech.edu/)"
+  },
+  {
+   "find": "Foundations & Mechanics Newton’s laws: https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion  Least action: https://en.wikipedia.org/wiki/Principle_of_least_action  https://www.youtube.com/watch?v=2h1E3YJMKfA",
+   "to": "Foundations & Mechanics: [Newton’s laws](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion) · [Least action](https://en.wikipedia.org/wiki/Principle_of_least_action) · [Stanford video lecture: Modern Physics, Quantum Mechanics](https://www.youtube.com/watch?v=2h1E3YJMKfA)"
+  },
+  {
+   "find": "Relativity Special relativity: https://en.wikipedia.org/wiki/Special_relativity  General relativity: https://en.wikipedia.org/wiki/General_relativity  https://www.einstein-online.info/en/",
+   "to": "Relativity: [Special relativity](https://en.wikipedia.org/wiki/Special_relativity) · [General relativity](https://en.wikipedia.org/wiki/General_relativity) · [Einstein Online](https://www.einstein-online.info/en/)"
+  },
+  {
+   "find": "Quantum Information https://en.wikipedia.org/wiki/Quantum_information  https://www.youtube.com/watch?v=QuR969uMICM",
+   "to": "Quantum Information: [Wikipedia: Quantum information](https://en.wikipedia.org/wiki/Quantum_information) · [TED talk: A beginner’s guide to quantum computing](https://www.youtube.com/watch?v=QuR969uMICM)"
+  },
+  {
+   "find": "Particle Physics Standard Model: https://en.wikipedia.org/wiki/Standard_Model  https://home.cern/science/physics/standard-model",
+   "to": "Particle Physics: [Standard Model](https://en.wikipedia.org/wiki/Standard_Model) · [CERN: the Standard Model](https://home.cern/science/physics/standard-model)"
+  },
+  {
+   "find": "Black Holes https://en.wikipedia.org/wiki/Black_hole  Information paradox: https://en.wikipedia.org/wiki/Black_hole_information_paradox",
+   "to": "Black Holes: [Wikipedia: Black hole](https://en.wikipedia.org/wiki/Black_hole) · [Information paradox](https://en.wikipedia.org/wiki/Black_hole_information_paradox)"
+  },
+  {
+   "find": "Stars & Galaxies Stellar evolution: https://en.wikipedia.org/wiki/Stellar_evolution  Galaxies: https://en.wikipedia.org/wiki/Galaxy",
+   "to": "Stars & Galaxies: [Stellar evolution](https://en.wikipedia.org/wiki/Stellar_evolution) · [Galaxies](https://en.wikipedia.org/wiki/Galaxy)"
+  },
+  {
+   "find": "Earth & Climate Climate change: https://en.wikipedia.org/wiki/Climate_change  https://www.ipcc.ch/  Great Oxidation: https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+   "to": "Earth & Climate: [Climate change](https://en.wikipedia.org/wiki/Climate_change) · [IPCC](https://www.ipcc.ch/) · [Great Oxidation](https://en.wikipedia.org/wiki/Great_Oxidation_Event)"
+  },
+  {
+   "find": "Biology & Evolution Evolution: https://en.wikipedia.org/wiki/Evolution  https://evolution.berkeley.edu/  Human evolution: https://en.wikipedia.org/wiki/Human_evolution",
+   "to": "Biology & Evolution: [Evolution](https://en.wikipedia.org/wiki/Evolution) · [Understanding Evolution (UC Berkeley)](https://evolution.berkeley.edu/) · [Human evolution](https://en.wikipedia.org/wiki/Human_evolution)"
+  },
+  {
+   "find": "Materials & Condensed Matter https://en.wikipedia.org/wiki/Materials_science  Superconductivity: https://en.wikipedia.org/wiki/Superconductivity",
+   "to": "Materials & Condensed Matter: [Wikipedia: Materials science](https://en.wikipedia.org/wiki/Materials_science) · [Superconductivity](https://en.wikipedia.org/wiki/Superconductivity)"
+  },
+  {
+   "find": "Information Theory & Computing https://en.wikipedia.org/wiki/Information_theory  Machine learning: https://en.wikipedia.org/wiki/Machine_learning",
+   "to": "Information Theory & Computing: [Wikipedia: Information theory](https://en.wikipedia.org/wiki/Information_theory) · [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)"
+  },
+  {
+   "find": "Thermodynamics & Statistical Mechanics https://en.wikipedia.org/wiki/Laws_of_thermodynamics  https://en.wikipedia.org/wiki/Statistical_mechanics",
+   "to": "Thermodynamics & Statistical Mechanics: [Wikipedia: Laws of thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics) · [Wikipedia: Statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics)"
+  },
+  {
+   "find": "Electromagnetism https://en.wikipedia.org/wiki/Maxwell%27s_equations  https://www.youtube.com/watch?v=SS4GkTqTA4I",
+   "to": "Electromagnetism: [Wikipedia: Maxwell's equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations)"
+  },
+  {
+   "find": "Optics https://en.wikipedia.org/wiki/Optics",
+   "to": "Optics: [Wikipedia: Optics](https://en.wikipedia.org/wiki/Optics)"
+  },
+  {
+   "find": "Nuclear Physics https://en.wikipedia.org/wiki/Nuclear_physics  https://en.wikipedia.org/wiki/Nuclear_fusion",
+   "to": "Nuclear Physics: [Wikipedia: Nuclear physics](https://en.wikipedia.org/wiki/Nuclear_physics) · [Wikipedia: Nuclear fusion](https://en.wikipedia.org/wiki/Nuclear_fusion)"
+  },
+  {
+   "find": "Chemistry Periodic table: https://en.wikipedia.org/wiki/Periodic_table  Chemical bond: https://en.wikipedia.org/wiki/Chemical_bond",
+   "to": "Chemistry: [Periodic table](https://en.wikipedia.org/wiki/Periodic_table) · [Chemical bond](https://en.wikipedia.org/wiki/Chemical_bond)"
+  },
+  {
+   "find": "Molecular Biology DNA: https://en.wikipedia.org/wiki/DNA  CRISPR: https://en.wikipedia.org/wiki/CRISPR",
+   "to": "Molecular Biology: [DNA](https://en.wikipedia.org/wiki/DNA) · [CRISPR](https://en.wikipedia.org/wiki/CRISPR)"
+  },
+  {
+   "find": "Ecology https://en.wikipedia.org/wiki/Ecology",
+   "to": "Ecology: [Wikipedia: Ecology](https://en.wikipedia.org/wiki/Ecology)"
+  },
+  {
+   "find": "Paleontology Mass extinctions: https://en.wikipedia.org/wiki/Extinction_event  Cambrian explosion: https://en.wikipedia.org/wiki/Cambrian_explosion",
+   "to": "Paleontology: [Mass extinctions](https://en.wikipedia.org/wiki/Extinction_event) · [Cambrian explosion](https://en.wikipedia.org/wiki/Cambrian_explosion)"
+  },
+  {
+   "find": "Planetary Science Solar System: https://en.wikipedia.org/wiki/Solar_System  https://solarsystem.nasa.gov/",
+   "to": "Planetary Science: [Solar System](https://en.wikipedia.org/wiki/Solar_System) · [NASA Solar System Exploration](https://solarsystem.nasa.gov/)"
+  },
+  {
+   "find": "Astrobiology https://en.wikipedia.org/wiki/Astrobiology  https://astrobiology.nasa.gov/",
+   "to": "Astrobiology: [Wikipedia: Astrobiology](https://en.wikipedia.org/wiki/Astrobiology) · [NASA Astrobiology](https://astrobiology.nasa.gov/)"
+  },
+  {
+   "find": "Consciousness https://en.wikipedia.org/wiki/Consciousness  https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+   "to": "Consciousness: [Wikipedia: Consciousness](https://en.wikipedia.org/wiki/Consciousness) · [Wikipedia: Hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)"
+  },
+  {
+   "find": "Gödel & Foundations https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+   "to": "Gödel & Foundations: [Wikipedia: Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)"
+  },
+  {
+   "find": "Time & Entropy Arrow of time: https://en.wikipedia.org/wiki/Arrow_of_time  Entropy: https://en.wikipedia.org/wiki/Entropy",
+   "to": "Time & Entropy: [Arrow of time](https://en.wikipedia.org/wiki/Arrow_of_time) · [Entropy](https://en.wikipedia.org/wiki/Entropy)"
+  },
+  {
+   "find": "Chaos https://en.wikipedia.org/wiki/Chaos_theory",
+   "to": "Chaos: [Wikipedia: Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory)"
+  },
+  {
+   "find": "Superconductivity https://en.wikipedia.org/wiki/Superconductivity  https://www.youtube.com/watch?v=KIx0Y6u2x8A",
+   "to": "Superconductivity: [Wikipedia: Superconductivity](https://en.wikipedia.org/wiki/Superconductivity)"
+  },
+  {
+   "find": "Topological Matter https://en.wikipedia.org/wiki/Topological_insulator",
+   "to": "Topological Matter: [Wikipedia: Topological insulator](https://en.wikipedia.org/wiki/Topological_insulator)"
+  },
+  {
+   "find": "Neutrinos https://en.wikipedia.org/wiki/Neutrino_oscillation",
+   "to": "Neutrinos: [Wikipedia: Neutrino oscillation](https://en.wikipedia.org/wiki/Neutrino_oscillation)"
+  },
+  {
+   "find": "Higgs Boson https://en.wikipedia.org/wiki/Higgs_boson  https://home.cern/science/physics/higgs-boson",
+   "to": "Higgs Boson: [Wikipedia: Higgs boson](https://en.wikipedia.org/wiki/Higgs_boson) · [CERN: the Higgs boson](https://home.cern/science/physics/higgs-boson)"
+  },
+  {
+   "find": "Exoplanets & Habitability https://exoplanets.nasa.gov/  https://en.wikipedia.org/wiki/Habitable_zone",
+   "to": "Exoplanets & Habitability: [NASA Exoplanet Exploration](https://exoplanets.nasa.gov/) · [Wikipedia: Habitable zone](https://en.wikipedia.org/wiki/Habitable_zone)"
+  },
+  {
+   "find": "Human Microbiome https://en.wikipedia.org/wiki/Human_microbiome",
+   "to": "Human Microbiome: [Wikipedia: Human microbiome](https://en.wikipedia.org/wiki/Human_microbiome)"
+  },
+  {
+   "find": "CRISPR & Gene Editing https://en.wikipedia.org/wiki/CRISPR",
+   "to": "CRISPR & Gene Editing: [Wikipedia: CRISPR](https://en.wikipedia.org/wiki/CRISPR)"
+  },
+  {
+   "find": "Machine Learning https://en.wikipedia.org/wiki/Machine_learning  https://www.youtube.com/watch?v=aircAruvnKk",
+   "to": "Machine Learning: [Wikipedia: Machine learning](https://en.wikipedia.org/wiki/Machine_learning) · [3Blue1Brown video: But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)"
+  },
+  {
+   "find": "Quantum Computing https://en.wikipedia.org/wiki/Quantum_computing  https://qiskit.org/",
+   "to": "Quantum Computing: [Wikipedia: Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) · [Qiskit (IBM quantum computing)](https://qiskit.org/)"
+  },
+  {
+   "find": "In Love with Murder, Actually: A Comic Mystery",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}

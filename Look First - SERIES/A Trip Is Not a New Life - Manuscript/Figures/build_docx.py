@@ -1210,9 +1210,24 @@ def build():
     doc.core_properties.subject = SUBTITLE
     doc.core_properties.category = "Look First, Volume 2"
     doc.save(OUT)
+    _kindle_links(OUT)
     print("saved", OUT)
     print("chapters", len(chapters), "figures", len(figs))
     return OUT
+
+
+def _kindle_links(path):
+    """Kindle links (10 Oct 2026): sources and bibliography entries become clickable keywords with no visible
+    URL text. Rules: ../kindle_links.json next to the book; tool: tools/kindle_links.py at the repo root."""
+    import os, subprocess, sys
+    here = os.path.dirname(os.path.abspath(__file__)); rules = os.path.join(here, "..", "kindle_links.json"); d = here
+    while d and not os.path.isfile(os.path.join(d, "tools", "kindle_links.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    tool = os.path.join(d, "tools", "kindle_links.py")
+    if os.path.isfile(tool) and os.path.isfile(rules):
+        subprocess.run([sys.executable, tool, path, rules], check=True)
+    else:
+        print("kindle_links: tool or rules not found, links not applied")
 
 
 if __name__ == "__main__":

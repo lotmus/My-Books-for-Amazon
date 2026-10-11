@@ -1,0 +1,17 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "Chronology protection conjecture,\" Physical Review D 46, 603 (1992). https://doi.org/10.1103/PhysRevD.46.603",
+   "to": "[Chronology protection conjecture](https://doi.org/10.1103/PhysRevD.46.603),\" Physical Review D 46, 603 (1992)."
+  },
+  {
+   "find": "The Jinn of the time machine: nontrivial self-consistent solutions,\" Classical and Quantum Gravity 9, 2309 (1992). https://doi.org/10.1088/0264-9381/9/10/014",
+   "to": "[The Jinn of the time machine: nontrivial self-consistent solutions](https://doi.org/10.1088/0264-9381/9/10/014),\" Classical and Quantum Gravity 9, 2309 (1992)."
+  },
+  {
+   "find": "In Love with Murder, Actually: A Comic Mystery",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}

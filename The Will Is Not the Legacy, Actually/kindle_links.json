@@ -1,0 +1,57 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "via the California Legislative Information website (leginfo.legislature.ca.gov)",
+   "to": "via the [California Legislative Information website](https://leginfo.legislature.ca.gov/)"
+  },
+  {
+   "find": "Proposition 19 pages (boe.ca.gov/prop19)",
+   "to": "[Proposition 19 pages](https://www.boe.ca.gov/prop19/)"
+  },
+  {
+   "find": "Medi-Cal Asset Limit Frequently Asked Questions (dhcs.ca.gov)",
+   "to": "Medi-Cal Asset Limit Frequently Asked Questions ([Department of Health Care Services website](https://www.dhcs.ca.gov/))"
+  },
+  {
+   "find": "\"When formal probate may not be needed\" (selfhelp.courts.ca.gov/probate/simple-transfer)",
+   "to": "\"[When formal probate may not be needed](https://selfhelp.courts.ca.gov/probate/simple-transfer)\""
+  },
+  {
+   "find": "Advance Health Care Directive Registry (sos.ca.gov/registries/advance-health-care-directive-registry)",
+   "to": "[Advance Health Care Directive Registry](https://www.sos.ca.gov/registries/advance-health-care-directive-registry)"
+  },
+  {
+   "find": "California Estate Tax (sco.ca.gov/ardtax_estate_tax.html)",
+   "to": "[California Estate Tax](https://www.sco.ca.gov/ardtax_estate_tax.html)"
+  },
+  {
+   "find": "via the Office of the Law Revision Counsel (uscode.house.gov)",
+   "to": "via the [Office of the Law Revision Counsel](https://uscode.house.gov/)"
+  },
+  {
+   "find": "via the Electronic Code of Federal Regulations (ecfr.gov)",
+   "to": "via the [Electronic Code of Federal Regulations](https://www.ecfr.gov/current/title-12/chapter-I/part-191/section-191.5)"
+  },
+  {
+   "find": "via legislature.vermont.gov.",
+   "to": "via the [Vermont General Assembly website](https://legislature.vermont.gov/statutes/chapter/27/006)."
+  },
+  {
+   "find": "via Gesetze im Internet (gesetze-im-internet.de)",
+   "to": "via [Gesetze im Internet](https://www.gesetze-im-internet.de/bgb/)"
+  },
+  {
+   "find": "Zentrales Testamentsregister (testamentsregister.de)",
+   "to": "[Zentrales Testamentsregister](https://www.testamentsregister.de/)"
+  },
+  {
+   "find": "Zentrales Vorsorgeregister (vorsorgeregister.de)",
+   "to": "[Zentrales Vorsorgeregister](https://www.vorsorgeregister.de/)"
+  },
+  {
+   "find": "In Love with Murder, Actually: A Comic Mystery",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ]
+}
