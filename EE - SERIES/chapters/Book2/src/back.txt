@@ -1,0 +1,523 @@
+H1: Appendix A — Formula Reference
+P: Concept — Formula
+P: Noise margins — NMʜ = Vₒₕ(min) − Vᵢₕ(min)      NMʟ = Vᵢʟ(max) − Vₒʟ(max)
+P: Inverting amplifier — Vₒᵤₜ = −(R_f / Rᵢₙ) · Vᵢₙ
+P: Non-inverting amplifier — Vₒᵤₜ = (1 + R_f / Rᵢₙ) · Vᵢₙ
+P: RC filter corner frequency — fᴄ = 1 / (2πRC)
+P: Capacitor self-resonant frequency — SRF = 1 / (2π√(L_ESL · C))
+P: Inductor quality factor — Q = ωL / R
+P: Inductor self-resonant frequency — SRF = 1 / (2π√(L · C_wind))
+P: Feedback closed-loop gain — G = A / (1 + Aβ) ≈ 1/β
+P: Gain sensitivity — ΔG/G ≈ (ΔA/A) / (1 + T)
+P: Capacitive-load pole — f₂ = 1 / (2π r_o C_L)
+P: Closed-loop bandwidth — f_cl ≈ GBW / NG,  NG = 1 + R_f/Rᵢₙ
+P: Full-power bandwidth — f_FP = SR / (2π V_p)
+P: Johnson noise density — e_R = √(4kTR)
+P: Noise sum (uncorrelated) — e_total = √(e₁² + e₂² + …)
+P: Single-pole noise bandwidth — ENBW = (π/2) f₋₃dB
+P: Offset at output — V_out = V_os (1 + R_f/Rᵢₙ)
+P: Bias-current compensation — R_c = R_f ‖ Rᵢₙ; residual ≈ I_os R_f
+P: Schmitt threshold — V_th = V_ref R₂/(R₁+R₂) + V_out R₁/(R₁+R₂)
+P: Pull-up rise time (10–90%) — t_r = 2.2 R_pu C
+P: Closed-loop tracking — Y/R = CP/(1 + CP)
+P: First-order plant, P control — τ_cl = τ/(1 + K_p K); e_ss = 1/(1 + K_p K)
+P: PID law — u = K_p e + K_i ∫e dt + K_d de/dt
+P: Lead network maximum phase — φ_max = arcsin((α−1)/(α+1)) at √(ω_z ω_p)
+P: Sampled-loop delay — t_d ≈ T/2 + T_compute;  φ = ω_c t_d
+P: Discrete PI (backward Euler) — I[k] = I[k−1] + T e[k];  u[k] = K_p e[k] + K_i I[k]
+P: Buck inductor ripple — ΔI = (V_in − V_out) D / (L f_sw)
+P: Triangle-on-DC rms — I_rms = √(I_DC² + ΔI²/12)
+P: Second-order low-pass — H(s) = H₀ω₀²/(s² + (ω₀/Q)s + ω₀²)
+P: Unity-gain Sallen-Key, equal R — ω₀ = 1/(R√(C₁C₂)); Q = ½√(C₁/C₂)
+P: MFB low-pass, equal R — H₀ = −1; ω₀ = 1/(R√(C₁C₂)); Q = ⅓√(C₁/C₂)
+P: Linear power derating — P = P_rated (T_max − T_amb)/(T_max − T_knee)
+P: Self-heating — ΔT = P θ;  ΔR/R = TCR × ΔT
+P: Capacitor impedance — |Z| = √(ESR² + (ωL − 1/(ωC))²)
+P: Target impedance — Z_target = ΔV / ΔI
+P: Antiresonance (approx.) — f_ar ≈ 1/(2π√((L₁+L₂)C_small))
+P: Bulk capacitance — C ≥ I Δt / ΔV
+P: Differential and common mode — V_d = V₊ − V₋,  V_cm = (V₊ + V₋)/2
+P: Difference-amplifier CMRR (worst case) — CMRR ≈ (1 + G)/(4t)
+P: Three-op-amp INA gain — G = (1 + 2R/R_G)(R₂/R₁)
+P: INA rejection — CMRR_total ≈ G₁ · CMRR_diff
+P: State equation — ż = Az + Bu,  y = Cz
+P: State-feedback gains for a mass — k₁ = mωₙ²,  k₂ = 2ζωₙm
+P: Observer — dẑ/dt = Aẑ + Bu + L(y − Cẑ),  error poles: eig(A − LC)
+P: Acquisition to ½ LSB — t_acq = RC (N + 1) ln 2
+P: Sampled noise — v_n = √(kT/C)
+P: Jitter-limited SNR — SNR = −20 log₁₀(2πfσ_t)
+P: Pedestal and droop — ΔV = Q/C,   dV/dt = I_leak/C
+P: PTAT voltage — ΔV_BE = (kT/q) ln N
+P: Bandgap output — V_REF = V_BE + (R₂/R₁)ΔV_BE
+P: Box-method TC — TC = ΔV/(V_nom ΔT) × 10⁶ ppm/°C
+P: Shunt-reference resistor — R_s ≤ (V_s,min − V_REF)/(I_load,max + I_K,min)
+P: Bridge average voltage — Bipolar (2D − 1)V_s;  sign-magnitude D·V_s
+P: PWM current ripple — Bipolar 2V_sD(1 − D)/(Lf);  sign-magnitude V_sD(1 − D)/(Lf)
+P: DC motor — V = Ri + L di/dt + K_eω;  J dω/dt = K_ti − bω − T_L
+P: Motor time constants — τ_e = L/R,  τ_m = JR/(K_tK_e)
+P: PI current loop — K_i/K_p = R/L,  ω_c = K_p/L
+P: Root-locus asymptotes — angles (2k + 1)180°/(n − m);  centroid (Σp − Σz)/(n − m)
+P: Locus gain — K = 1/|G(s)| at a point satisfying ∠G(s) = 180°
+P: Second-order specs — overshoot exp(−πζ/√(1 − ζ²));  t_s(2%) ≈ 4/(ζω_n)
+P: Nyquist criterion — Z = N + P
+P: Margins — GM = 1/|L(jω₁₈₀)|;  PM = 180° + ∠L(jω_c);  τ_max = PM/ω_c
+P: Sensitivity bounds — GM ≥ M_s/(M_s − 1);  PM ≥ 2 arcsin(1/(2M_s))
+P: Wien bridge — f₀ = 1/(2πRC);  gain 3
+P: Relaxation oscillator — T = 2RC ln((1 + β)/(1 − β))
+P: 555 astable — f = 1.44/((R₁ + 2R₂)C);  duty (R₁ + R₂)/(R₁ + 2R₂)
+P: Setup and hold — T_clk ≥ t_cq + t_pd + t_su + t_skew;  t_cq + t_cd ≥ t_h + t_skew
+P: Synchronizer MTBF — e^(t_r/τ)/(T_w f_clk f_data)
+H1: Appendix B — Practice Problem Solutions
+H2: Chapter 1 Solutions
+P: 1. Headroom to the lower rail: 6 − 1 = 5 V. Headroom to the upper rail: 11 − 6 = 5 V. Both are equal, so the largest symmetric amplitude is 5 V, and either rail clips first if pushed further — a well-centered bias point.
+P: 2. Output headroom: min(2 − 0, 5 − 2) = min(2, 3) = 2 V. Input amplitude for that output swing: 2 V / 20 = 0.1 V = 100 mV.
+P: 3. A small-signal model linearizes a curved response around one specific point; move far enough from that point and the curve departs from its tangent line, so the linear approximation — and any gain figure derived from it — no longer applies.
+P: 4. Output headroom: min(4.5 − 0, 9 − 4.5) = 4.5 V (the bias point is centered, so both headrooms are equal). Maximum input amplitude: 4.5 V / 8 = 0.5625 V = 562.5 mV.
+P: 5. Headroom to the lower rail: 1 − 0 = 1 V. Headroom to the upper rail: 5 − 1 = 4 V. The lower rail limits, with only 1 V of headroom.
+P: 6. Doubling the gain does not change the output headroom, which is fixed entirely by the bias point and the rails. Since output amplitude = gain × input amplitude, reaching the same output headroom now takes only half the input amplitude — the maximum undistorted input amplitude is halved.
+H2: Chapter 2 Solutions
+P: 1. NMʜ = 3.5 − 2.0 = 1.5 V. NMʟ = 0.5 − 0.2 = 0.3 V.
+P: 2. 1011₂ = 8 + 0 + 2 + 1 = 11₁₀.
+P: 3. Each digital gate reads a noisy input and regenerates a fresh, full-strength output level, discarding whatever noise arrived with it. Each analog stage instead amplifies signal and noise together, so degradation accumulates rather than resets at every stage.
+P: 4. NMʜ = 4.4 − 3.15 = 1.25 V. NMʟ = 1.35 − 0.1 = 1.25 V.
+P: 5. 11010₂ = 16 + 8 + 0 + 2 + 0 = 26₁₀.
+P: 6. A published noise margin describes only how much steady, DC-like noise a signal can tolerate before a bit is misread — it says nothing about the actual noise environment a design sits in. An industrial setting can couple in transient spikes, ground bounce, or electromagnetic interference whose character (fast edges, repeated bursts) defeats a margin that would be perfectly adequate against ordinary thermal noise, so layout, shielding, and filtering still matter even with generous margins on paper.
+H2: Chapter 3 Solutions
+P: 1. F = A(A + B) = AA + AB = A + AB = A(1 + B) = A — the absorption law.
+P: 2. F = A′B + AB′: 00→0, 01→1, 10→1, 11→0. This is the XOR operation.
+P: 3. (A + B)′ = A′B′.
+P: 4. H = A + AB′C = A(1 + B′C) = A·1 = A — direct absorption: A OR (A AND anything) is always just A.
+P: 5. F = A′(B′C′ + B′C + BC′ + BC) = A′(B′(C′+C) + B(C′+C)) = A′(B′ + B) = A′·1 = A′ — the four terms cover every combination of B and C, so they sum to 1, leaving F = A′.
+P: 6. ((A + B)·C)′ = (A + B)′ + C′ (De Morgan's law on the outer AND) = A′B′ + C′ (De Morgan's law again, on (A + B)′).
+H2: Chapter 4 Solutions
+P: 1. S = 1 and R = 1 simultaneously is forbidden: both cross-coupled gates are driven to the same output state, so which stable state the latch settles into once both inputs release is not determined by the circuit.
+P: 2. Q = 1 — a D flip-flop copies D to Q at the clock edge.
+P: 3. Four — one flip-flop per bit.
+P: 4. S = A ⊕ B = 1 ⊕ 0 = 1. C = AB = 1·0 = 0.
+P: 5. Q = 1 afterward: S = 1 forces Q to 1, and once both inputs return to 0 the latch simply holds whatever it last stored.
+P: 6. Every flip-flop must change state at exactly the same instant for the shifted data to move correctly from one stage to the next; if even one flip-flop's clock arrived at a different time, that stage could read from (or write to) its neighbor before or after the intended instant, corrupting the shifted sequence.
+H2: Chapter 5 Solutions
+P: 1. Gain = −47 kΩ/4.7 kΩ = −10. Vₒᵤₜ = −10 × 0.2 = −2 V.
+P: 2. With R_f doubled to 20 kΩ and Rᵢₙ unchanged at 2 kΩ: gain = 1 + 20 kΩ/2 kΩ = 1 + 10 = 11 (up from 6).
+P: 3. No real current can flow into either input of an ideal op-amp (Golden Rule 2, infinite input impedance). Golden Rule 1's equality of voltage is enforced indirectly, by the feedback network continuously adjusting the output — not by any direct electrical connection between the two inputs.
+P: 4. Gain = −220 kΩ/22 kΩ = −10. Vₒᵤₜ = −10 × 0.15 = −1.5 V.
+P: 5. 4 = 1 + R_f/Rᵢₙ, so R_f/Rᵢₙ = 3, and Rᵢₙ = R_f/3 = 30 kΩ/3 = 10 kΩ.
+P: 6. The golden rules assume ideal, unlimited linear operation, but a real op-amp's output is physically bounded by its supply rails. Once the golden-rule formula predicts an output beyond those rails, the amplifier instead saturates and clips at the rail — exactly the same headroom limit Chapter 1 introduced for any analog stage.
+H2: Chapter 6 Solutions
+P: 1. fᴄ = 1/(2π × 2200 × 4.7×10⁻⁸) ≈ 1539 Hz, or about 1.54 kHz.
+P: 2. Four stages at −20 dB/decade each cascade to −80 dB/decade.
+P: 3. An active filter's op-amp output has near-zero (not literally zero) output impedance, so the load can barely interact with the filtering network's own transfer function. A passive filter's output is the filtering network itself, so any load forms a voltage divider with it and changes the actual response.
+P: 4. fᴄ = 1/(2π × 3300 × 1.5×10⁻⁸) ≈ 3215 Hz, or about 3.22 kHz.
+P: 5. −40 dB/decade ÷ 3.32 (the number of octaves in a decade) ≈ −12 dB/octave — the standard "6 dB/octave per order" rule, doubled for a second-order filter.
+P: 6. A first-order filter rolls off at only −20 dB/decade, and 60 Hz sits barely over a decade below 1 kHz. A single pole cannot attenuate 60 Hz meaningfully without also attenuating some of the nearby 1 kHz signal of interest — a higher-order filter, or a notch filter targeted specifically at 60 Hz, is needed for adequate rejection without touching the desired signal.
+P: 7. Gain at f₀ = Q × H₀ = 0.7071, which is −3.0 dB.
+P: 8. Q = ½√(C₁/C₂), so C₁/C₂ = 4Q² = 4 × 0.3333 ≈ 1.33.
+P: 9. f₀ = 1/(2π × 22k × √(6.8n × 3.3n)) ≈ 1/(2π × 22×10³ × 4.737×10⁻⁹) ≈ 1527 Hz. Q = ½√(6.8/3.3) ≈ 0.718.
+P: 10. Q = ⅓√(47/5.6) ≈ ⅓ × 2.897 ≈ 0.966.
+P: 11. 100 × 1 × 10 kHz = 1 MHz, times Q = 1.3066 gives about 1.3 MHz; choose a part with at least that, and preferably more.
+P: 12. Each Butterworth section is already 3 dB down at f₀, so two in series are 6 dB down there and the knee is rounded; a true fourth-order Butterworth uses two sections with different Q values (0.5412 and 1.3066) whose combined response is maximally flat and 3 dB down at f₀.
+H2: Chapter 7 Solutions
+P: 1. I = √(P/R) = √(0.25/100) = √0.0025 = 0.05 A = 50 mA.
+P: 2. A wirewound resistor is physically a coil of wire, which behaves as a real inductor at high frequency; its parasitic inductance dominates well before a film resistor's much smaller parasitic effects would.
+P: 3. At 10% tolerance, a 1 kΩ resistor's actual value can fall anywhere from 900 Ω to 1100 Ω.
+P: 4. Each resistor can independently fall between 2178 Ω and 2222 Ω (±1% of 2200 Ω). Worst-case series total: 3 × 2178 = 6534 Ω to 3 × 2222 = 6666 Ω.
+P: 5. With 50% margin, the resistor needs at least 0.3 × 1.5 = 0.45 W of rated capacity. The 1/4 W (0.25 W) rating is already below the actual dissipation, so it fails outright; the 1/2 W (0.5 W) rating is the smallest of the four that clears 0.45 W.
+P: 6. A precision measurement circuit needs the resistance to stay accurate throughout operation, since any temperature-driven drift directly corrupts the measurement. An LED current-limiter only needs current "close enough" — the LED's brightness tolerates modest current variation without any functional consequence, so a resistor's drift there is far less consequential.
+P: 7. P = 0.25 × (155 − 125)/(155 − 70) = 0.25 × 30/85 ≈ 0.088 W.
+P: 8. Each can change by ±50 × 40 = ±2000 ppm; in opposite directions the ratio changes by up to about 4000 ppm (0.4%).
+P: 9. ΔT = 0.020 × 400 = 8 °C; ΔR/R = 100 × 8 = 800 ppm (0.08%).
+P: 10. At least 600/150 = 4 in series, each then at its limit; use 5 or 6 so each sits well below its rating and so that tolerance in the voltage sharing does not overstress one part.
+P: 11. V = 20 × 0.005 = 100 mV; P = 20² × 0.005 = 2 W.
+P: 12. It senses the voltage directly across the resistive element through traces that carry no load current, so the voltage drop in the solder joints and current-carrying copper, which can rival the shunt's own resistance and drift strongly with temperature, is excluded from the measurement.
+H2: Chapter 8 Solutions
+P: 1. SRF = 1/(2π√(2×10⁻⁹ × 2.2×10⁻⁷)) ≈ 7.59 MHz.
+P: 2. No — the 16.5 V peak exceeds the part's 16 V rating outright, regardless of the nominal 12 V level. A higher-rated part (commonly 25 V) should be used instead.
+P: 3. A Class 2 dielectric's high permittivity comes from a ferroelectric-like material whose permittivity itself decreases as the applied DC field increases — a real, documented material property, which is why manufacturers publish DC-bias derating curves for these parts.
+P: 4. SRF = 1/(2π√(8×10⁻⁹ × 1×10⁻⁸)) ≈ 17.79 MHz.
+P: 5. No — 50% of the 10 V rating is 5 V, and the 6 V rail exceeds that recommended derated limit even though it is comfortably below the part's absolute 10 V rating. A higher-voltage-rated part would give proper reliability margin under the 50% guideline.
+P: 6. A film capacitor's capacitance does not shift with applied DC voltage the way a Class 2 ceramic's does, and it holds a more stable, predictable value over voltage and temperature generally — which matters directly in a timing circuit (such as an RC oscillator), where the actual capacitance must stay close to its nominal value for the timing to stay accurate.
+P: 7. SRF = 1/(2π√(0.8×10⁻⁹ × 1×10⁻⁶)) ≈ 5.63 MHz; at resonance |Z| = ESR = 10 mΩ.
+P: 8. ΔV = 0.05 × 3.3 = 0.165 V; Z_target = 0.165/0.5 = 0.33 Ω.
+P: 9. f_ar ≈ 1/(2π√((1.2 + 0.4)×10⁻⁹ × 22×10⁻⁹)) ≈ 26.8 MHz.
+P: 10. C ≥ 1 × 20×10⁻⁶/0.1 = 200 µF.
+P: 11. P = 2² × 0.03 = 0.12 W.
+P: 12. The C0G dielectric has very low dielectric absorption and its capacitance does not change with voltage, temperature, or time, so the held voltage does not creep toward earlier values and the hold step is predictable; an X7R part would add memory effects, voltage-dependent capacitance, and aging.
+H2: Chapter 9 Solutions
+P: 1. ωL = 2π × 5×10⁵ × 1×10⁻⁴ ≈ 314.2. Q = 314.2/2 ≈ 157.1.
+P: 2. Saturation reflects the core's magnetic domains running out of room to align further; once nearly all domains are aligned, additional current produces little additional flux, so inductance collapses rather than declining gradually from the start.
+P: 3. A toroid's closed magnetic loop confines nearly all of the field within the core, concentrating flux far more effectively per turn than an open air-core solenoid — boosting achievable inductance in a smaller package while minimizing stray field that could couple into nearby circuitry as EMI.
+P: 4. ωL = 2π × 2×10⁶ × 4.7×10⁻⁵ ≈ 590.6. Q = 590.6/1.2 ≈ 492.2.
+P: 5. Peak current = 1.0 + 0.6 = 1.6 A, which exceeds the 1.5 A rated saturation current — this design risks saturating and needs either a higher-Isat inductor or a reduction in ripple or bias current.
+P: 6. At high frequency, an inductor's effective series resistance R itself rises — from skin effect in the winding and from core losses (hysteresis and eddy currents) — growing faster than ω does. Eventually that rising R outpaces ωL's growth, so Q peaks and then falls, rather than climbing indefinitely as the idealized Q = ωL/R formula alone would suggest.
+P: 7. D = 1.8/5 = 0.36. ΔI = (5 − 1.8) × 0.36/(2.2×10⁻⁶ × 10⁶) = 1.152/2.2 ≈ 0.524 A. Peak = 3 + 0.262 ≈ 3.26 A.
+P: 8. I_rms = √(9 + 0.524²/12) ≈ 3.004 A. I_sat ≥ 1.2 × 3.26 ≈ 3.9 A.
+P: 9. P = 4² × 0.015 = 0.24 W.
+P: 10. The ripple is inversely proportional to L, so at 0.8 × 4.7 µH it rises by 1/0.8 = 1.25.
+P: 11. At least 200 MHz.
+P: 12. At low frequencies the bead is mostly inductive, and together with the decoupling capacitor after it, it forms an LC resonant circuit; near that resonance the circuit can amplify noise rather than attenuate it unless enough resistance damps it.
+H2: Chapter 10 Solutions
+P: 1. Period = 1/200 s = 5 ms. A language model is not answering a joint every five milliseconds; the classical loop is. 2. The independent safety controller. Digit-class machines are built that way. 3. The inverting buffer. Its source sees Rin. The follower's source sees the op-amp input.
+H2: Chapter 11 Solutions
+P: 1. β = 1k/50k = 0.02; ideal gain 1/β = 50. T = 200,000 × 0.02 = 4000. G = 200,000/4001 ≈ 49.988. Error ≈ 0.025%, which is about 1/T.
+P: 2. ΔG/G ≈ 30%/(1 + 2000) ≈ 0.015%.
+P: 3. The error is about 1/T, so T ≥ 1/0.0005 = 2000. With β = 1/20, A = T/β ≥ 2000 × 20 = 40,000 at that frequency.
+P: 4. R_out ≈ 100 Ω/(1 + 500) ≈ 0.2 Ω.
+P: 5. The inverting input is held at virtual ground by the loop, so the source sees Rᵢₙ connected to an effective 0 V node. The loop sums currents at that node rather than subtracting a voltage in series with the source, so it does not raise the input impedance.
+P: 6. The reduction factor needed is 2%/0.01% = 200, so 1 + T ≈ 200, or T ≈ 199, roughly 200, at the signal frequency and ideally at its harmonics as well.
+H2: Chapter 12 Solutions
+P: 1. Ratio = 4.7k/(47k + 4.7k) ≈ 0.0909; 20 log₁₀(0.0909) ≈ −20.8 dB, the same ratio as Worked Example 12.1 because both resistances scaled together.
+P: 2. Gain = A/(1 + A) = 250,000/250,001; error ≈ 1/250,001 ≈ 4 ppm.
+P: 3. 80 dB is a ratio of 10,000; error ≈ 3 V/10,000 = 300 µV.
+P: 4. Gain = −100k/(22k + 100k) ≈ −0.820.
+P: 5. f₂ = 1/(2π × 40 × 2.2×10⁻⁹) ≈ 1.81 MHz.
+P: 6. Above a few megahertz the resistor, not the capacitor, dominates the impedance the op-amp output sees, so the load no longer forms an extra pole inside the loop near crossover; the capacitor's pole now sits outside the loop and only slows the edge at the capacitor.
+H2: Chapter 13 Solutions
+P: 1. NG = 1 + 4 = 5; f_cl = 1 MHz/5 = 200 kHz.
+P: 2. Need f_cl ≥ 5 kHz/0.142 ≈ 35.2 kHz. GBW ≥ 25 × 35.2 kHz ≈ 880 kHz; in practice choose at least 1 MHz.
+P: 3. |A| ≈ GBW/f = 1 MHz/2 kHz = 500.
+P: 4. √(2^(1/3) − 1) = √0.260 ≈ 0.510, so the cascade reaches about 0.510 × 50 kHz ≈ 25.5 kHz.
+P: 5. f_FP = 13×10⁶/(2π × 5) ≈ 414 kHz.
+P: 6. Its feedback divider returns only half of the output to the inverting input (β = 0.5), so the noise gain is 2 and the bandwidth is GBW/2; the follower returns all of the output (β = 1) and keeps the full GBW.
+H2: Chapter 14 Solutions
+P: 1. √(4 × 1.380649×10⁻²³ × 290 × 4700) ≈ 8.68 nV/√Hz.
+P: 2. √(36 + 64 + 4) = √104 ≈ 10.2 nV/√Hz.
+P: 3. ENBW = 1.571 × 20 kHz ≈ 31.4 kHz; 50 nV × √31,400 ≈ 8.86 µV rms.
+P: 4. Rₛ = e_n/i_n = 5 nV/0.5 pA = 10 kΩ.
+P: 5. Flicker term 1000 × ln(100) ≈ 4605 Hz; white term 9.9 Hz; total 4615 Hz. e_rms = 8 nV × √4615 ≈ 543 nV rms.
+P: 6. The bipolar part's current noise, perhaps 1 pA/√Hz, flows through the 10 MΩ source and produces 10 µV/√Hz, far above both its own few nV/√Hz of voltage noise and the source's roughly 400 nV/√Hz of Johnson noise; a CMOS part with femtoamp current noise contributes almost nothing through the same resistance.
+H2: Chapter 15 Solutions
+P: 1. 3 mV × 50 = 150 mV.
+P: 2. R_c = 470k ‖ 4.7k ≈ 4.65 kΩ.
+P: 3. Without compensation, 50 nA × 470 kΩ = 23.5 mV. With compensation, 5 nA × 470 kΩ = 2.35 mV.
+P: 4. 3 µV/°C × 60 °C × 200 = 36 mV.
+P: 5. 90 dB is a ratio of about 31,600; 200 mV/31,600 ≈ 6.3 µV.
+P: 6. Current = 0.5 mV/1 MΩ = 0.5 nA; drift rate = 0.5 nA/100 nF = 5 mV/s.
+H2: Chapter 16 Solutions
+P: 1. Reference term 1.65 × 220k/230k ≈ 1.578 V. Output term 3.3 × 10k/230k ≈ 0.143 V. Thresholds ≈ 1.722 V (output high) and 1.578 V (output low); hysteresis ≈ 0.143 V.
+P: 2. Hysteresis = 5 × R₁/(R₁ + R₂) = 0.1, so R₁ + R₂ = 50 kΩ and R₂ = 49 kΩ; a standard 49.9 kΩ part gives about 98 mV.
+P: 3. τ = 10 kΩ × 100 pF = 1 µs; rise time ≈ 2.2 µs.
+P: 4. The current with the transistor on is (5 − 0.4)/R ≤ 4 mA, so R ≥ 1.15 kΩ; choose 1.2 kΩ.
+P: 5. A faster comparator responds to each brief noise excursion across the threshold before it reverses, producing an output edge for each; a slower one averages over some of them.
+P: 6. If one push-pull output drives high and another drives low, a low-impedance path connects the supply to ground through both output stages, drawing large current. Open-drain outputs can only pull low, so the worst case is several outputs pulling low together, which is harmless.
+H2: Chapter 17 Solutions
+P: 1. Loop gain K_p K = 10; error 1/11 ≈ 9.1%; τ_cl = 300/11 ≈ 27.3 s.
+P: 2. 1/(1 + 2K_p) = 0.01, so 2K_p = 99 and K_p = 49.5 V per rad/s.
+P: 3. The initial command is 49.5 × 5 ≈ 248 V, far beyond ±12 V; the driver saturates at 12 V until the error falls below about 12/49.5 ≈ 0.24 rad/s.
+P: 4. 3/(1 + 29) = 0.1 units.
+P: 5. A steady output requires a steady command; with an integrator, the command can stay constant only if its input, the error, is zero, because any nonzero error keeps the integral, and hence the command, changing.
+P: 6. Between about 1000/30 ≈ 33 Hz and 1000/10 = 100 Hz.
+H2: Chapter 18 Solutions
+P: 1. K_p in W/°C, K_i in W/(°C·s), and K_d in W·s/°C.
+P: 2. T_i = τ = 0.2 s. K_p = ω_c τ/K = 40 × 0.2/0.5 = 16 V per (m/s). K_i = K_p/T_i = 80 V per m.
+P: 3. α = 9, φ_max = arcsin(8/10) ≈ 53.1°, at √(10 × 90) = 30 rad/s.
+P: 4. (α − 1)/(α + 1) = sin 45° ≈ 0.707, so α = (1 + 0.707)/(1 − 0.707) ≈ 5.8.
+P: 5. Phase margin = 180° − 128° = 52°. That corresponds to a damping ratio near 0.5 and an overshoot near 16%, which is noticeable but usually acceptable.
+P: 6. A step in the reference makes the error jump instantly, and its derivative is a large spike that would slam the actuator; the measurement cannot jump, so differentiating it gives the same damping without the spike.
+H2: Chapter 19 Solutions
+P: 1. T = 2 ms. Hold delay 1 ms plus compute delay 2 ms gives 3 ms.
+P: 2. 60 × 0.003 = 0.18 rad ≈ 10.3°.
+P: 3. Allowed lag is 20° ≈ 0.349 rad. ω_c = 2π × 30 ≈ 188.5 rad/s, so the delay may be at most 0.349/188.5 ≈ 1.85 ms. With delay = 1.5 T, T ≤ 1.23 ms, so the sample rate must be at least about 810 Hz.
+P: 4. The accumulator becomes 0.10 + 0.001 × 0.5 = 0.1005. The command is 2 × 0.5 + 40 × 0.1005 = 1.0 + 4.02 = 5.02.
+P: 5. 3.3 V/1024 ≈ 3.22 mV.
+P: 6. The filter sits inside the loop, between the plant output and the controller, so any phase it adds at the crossover frequency subtracts directly from the phase margin, exactly as the hold and compute delays do.
+H2: Chapter 20 Solutions
+P: 1. V_d = 2.512 − 2.488 = 24 mV; V_cm = (2.512 + 2.488)/2 = 2.500 V.
+P: 2. CMRR ≈ (1 + 10)/(4 × 0.01) = 275, which is 20 log₁₀ 275 = 48.8 dB.
+P: 3. 49.4 kΩ/R_G = 49, so R_G = 1.008 kΩ; a 1.00 kΩ 0.1% part gives G = 50.4.
+P: 4. The front-end gain adds 20 log₁₀ 200 = 46.0 dB, so the total is about 106 dB.
+P: 5. The front-end outputs are 1.0 ± (50 × 0.030)/2 = 1.0 ± 0.75 V, which gives 0.25 V and 1.75 V. Both lie above the 0.1 V limit, so the design is within headroom, with 0.15 V to spare on the low side.
+P: 6. Each input's RC filter shifts the phase of whatever common-mode signal it carries. If the two time constants differ, a common-mode signal emerges from the filters with different phases on the two inputs, which is a differential signal the amplifier cannot reject. Matched components keep the common-mode signal common.
+H2: Chapter 21 Solutions
+P: 1. k₁ = 0.5 × 20² = 200 N/m; k₂ = 2 × 0.7 × 20 × 0.5 = 14 N·s/m.
+P: 2. Error = d/k₁ = 2/200 = 10 mm.
+P: 3. Target s² + 60s + 900. Kk₁/τ = 900 gives k₁ = 900 × 0.1/10 = 9.0 V/rad. (1 + 10k₂)/0.1 = 60 gives 10k₂ = 5 and k₂ = 0.5 V/(rad/s).
+P: 4. (s + 50)² = s² + 100s + 2500, so l₁ = 100 s⁻¹ and l₂ = 2500 s⁻².
+P: 5. k₁ × Δr = 200 × 0.03 = 6 N, within the 10 N rating, so the actuator does not saturate.
+P: 6. Differentiating position amplifies high-frequency noise in proportion to frequency, and with an encoder it turns each count of quantization into a spike of size one count per sample period. A tachometer or an observer gives a velocity whose bandwidth is chosen by design.
+H2: Chapter 22 Solutions
+P: 1. ln(2¹⁵) = 10.4; RC = 200 × 20 pF = 4 ns; t_acq = 41.6 ns.
+P: 2. √(4.00 × 10⁻²¹/5 × 10⁻¹²) = 28 µV rms.
+P: 3. 0.5 pC/50 pF = 10 mV.
+P: 4. 2πfσ_t = 10^(−86/20) = 5.0 × 10⁻⁵, so σ_t = 5.0 × 10⁻⁵/(2π × 5 × 10⁶) = 1.6 ps.
+P: 5. 1 nA/470 pF = 2.13 V/s; over 2 µs the change is 4.3 µV.
+P: 6. Acquisition time grows in proportion to C, and the driver must charge it, so a large capacitor limits the sample rate and burdens the driving amplifier; the best value is the smallest one that brings noise, pedestal, droop, and feedthrough below the error budget.
+H2: Chapter 23 Solutions
+P: 1. ln 24 = 3.178. ΔV_BE = 25.85 mV × 3.178 = 82.2 mV; the coefficient is 86.17 µV/K × 3.178 = 0.274 mV/K.
+P: 2. K = 2.0/0.274 = 7.30.
+P: 3. I = 53.8 mV/10.0 kΩ = 5.38 µA; R₂ = 11.16 × 10.0 kΩ = 112 kΩ.
+P: 4. TC = 0.8 × 10⁻³/(2.048 × 70) × 10⁶ = 5.6 ppm/°C.
+P: 5. Drift = 3 × 40 = 120 ppm. One LSB is 1/65,536 = 15.3 ppm, so the drift is 7.9 LSB.
+P: 6. The offset adds in series with ΔV_BE across R₁, so it changes the PTAT current in the same way ΔV_BE does, and the output picks it up through the same R₂/R₁ gain that multiplies ΔV_BE.
+H2: Chapter 24 Solutions
+P: 1. Δi_pp = 2 × 12 × 0.25/(0.5 × 10⁻³ × 25,000) = 0.48 A.
+P: 2. Δi_pp = 12 × 0.25/(0.5 × 10⁻³ × 25,000) = 0.24 A, at D = 0.5.
+P: 3. τ_e = 3 mH/2 Ω = 1.5 ms; τ_m = 5 × 10⁻⁴ × 2/(0.1 × 0.1) = 0.1 s; no-load speed 48/0.1 = 480 rad/s.
+P: 4. K_p = 2π × 500 × 3 × 10⁻³ = 9.42 V/A; K_i = K_p R/L = 9.42 × 2/0.003 = 6,283 V/(A·s).
+P: 5. V_s t_d f_sw = 48 × 10⁻⁶ × 16,000 = 0.77 V.
+P: 6. A battery accepts charging current, so regenerated energy simply recharges it; a diode rectifier cannot pass current back to the mains, so the energy accumulates on the bus capacitor and must be burned in a resistor or the voltage rises without limit.
+H2: Chapter 25 Solutions
+P: 1. s² + 6s + K: 2ζω_n = 6 gives ω_n = 4.24 rad/s and K = ω_n² = 18.
+P: 2. The poles meet midway, at s = −3, where K = 3 × 3 = 9.
+P: 3. σ = (0 − 1 − 5)/3 = −2; angles ±60° and 180°.
+P: 4. s³ + 6s² + 5s + K: the Routh s¹ entry (30 − K)/6 vanishes at K = 30, and 6s² + 30 = 0 gives ω = √5 = 2.24 rad/s.
+P: 5. exp(−πζ/√(1 − ζ²)) = exp(−1.814) = 16.3%.
+P: 6. Between 0 and −2, and to the left of −10, where an odd number of poles lies to the right.
+H2: Chapter 26 Solutions
+P: 1. Z is the number of unstable closed-loop poles, N the number of clockwise encirclements of −1, and P the number of unstable open-loop poles. With P = 0, stability requires N = 0: the curve must not encircle −1.
+P: 2. GM = 240/48 = 5, which is 14.0 dB.
+P: 3. τ_max = (π/4)/10 = 0.0785 s, about 79 ms.
+P: 4. GM ≥ 1.4/0.4 = 3.5 (10.9 dB); PM ≥ 2 arcsin(1/2.8) = 41.8°.
+P: 5. 51.7° = 0.903 rad; 0.903/1.217 = 0.74 s.
+P: 6. The integral of ln|S| over frequency is zero for most stable loops, so reducing |S| below 1 over some band forces it above 1 over another, like pressing down on a waterbed.
+H2: Chapter 27 Solutions
+P: 1. f₀ = 1/(2π × 4,700 × 22 × 10⁻⁹) = 1,539 Hz.
+P: 2. T = 2RC ln 2 = 2 × 10⁻⁴ × 0.693 = 138.6 µs, so f = 7.21 kHz.
+P: 3. f = 1.44/(30 kΩ × 100 nF) = 480 Hz; duty (10 + 10)/(10 + 20) = 66.7%.
+P: 4. The series capacitance is 500 pF, so f₀ = 1/(2π√(10⁻⁵ × 5 × 10⁻¹⁰)) = 2.25 MHz.
+P: 5. C_L = 33/2 + 4 = 20.5 pF.
+P: 6. The loop gain must be exactly one; with a fixed gain slightly above one the amplitude grows until the amplifier clips and distorts, and slightly below one it dies away. A gain that falls as the amplitude rises holds it at one.
+H2: Chapter 28 Solutions
+P: 1. T_clk ≥ 0.4 + 4.0 + 0.2 + 0.1 = 4.7 ns, so f_max = 212.8 MHz.
+P: 2. t_cq + t_cd = 0.40 ns, but t_h + t_skew = 0.45 ns, so it fails hold by 0.05 ns; add delay to the short path.
+P: 3. e^(30)/(2 × 10⁵) = 5.3 × 10⁷ s, about 1.7 years.
+P: 4. A factor of e, about 2.72.
+P: 5. Only one bit changes per increment, so a value captured during a change is either the old or the new pointer, never a value that never existed.
+P: 6. 10 − 7.0 = 3.0 ns of positive slack.
+H1: Appendix C — Glossary
+P: Absorption law — A + AB = A, or its dual A(A + B) = A; a term adding no new information can be removed from a Boolean expression.
+P: Acquisition time — The time a sample-and-hold needs, after a step, to track the input to within a stated error before it can hold.
+P: Active filter — A filter built around an op-amp, whose low output impedance largely isolates its frequency response from the load it drives, and whose gain can also make up for any signal loss the filtering network introduces.
+P: Aliasing — The folding of signal content above half the sample rate into the band below it.
+P: Angle condition — The requirement that ∠G(s) be an odd multiple of 180° for s to lie on the root locus.
+P: Antiresonance — A parallel-resonant impedance peak formed between two paralleled capacitors when one has become inductive while the other is still capacitive.
+P: Aperture jitter — Random variation in the sampling instant, which converts signal slope into voltage error.
+P: Asymptote centroid — The point on the real axis, (Σ poles − Σ zeros)/(n − m), from which the root-locus asymptotes radiate.
+P: Backward Euler — A discretization that approximates an integral by adding the present sample times the period to a running sum.
+P: Bandgap reference — A voltage reference that adds a PTAT voltage to a base-emitter voltage so that their temperature slopes cancel, producing about 1.2 V.
+P: Barkhausen condition — Loop gain of exactly one with a phase shift of zero (or 360°), the condition for a sustained oscillation.
+P: Bessel response — A response with nearly constant group delay and minimal step overshoot; Q = 0.5773 for a second-order section.
+P: Bias point (Q-point) — The fixed DC operating condition a circuit is set to before a smaller signal is applied on top of it.
+P: Bipolar PWM — H-bridge modulation that alternates between +V_s and −V_s each period, with average voltage (2D − 1)V_s.
+P: Boolean algebra — The algebra of AND, OR, and NOT, used to describe and simplify digital logic.
+P: Box method — Specifying a reference's temperature coefficient as total output variation divided by nominal voltage and temperature span.
+P: Breakaway point — A point on the real axis where two branches of the root locus meet and leave the axis.
+P: Buffer — A stage that provides current gain without voltage gain, isolating a weak source from a demanding load.
+P: Bus pumping — The rise of a drive's DC-bus voltage when regenerated energy cannot flow back into the supply.
+P: Butterworth response — The maximally flat passband response; Q = 0.7071 for a second-order section.
+P: Class 2 dielectric — A ceramic capacitor dielectric family (X7R, Y5V, and similar) that packs more capacitance into a given size than Class 1 types, at the cost of capacitance that decreases as DC bias voltage rises.
+P: Clipping — Distortion caused by a signal's peaks being cut flat at a circuit's output rail.
+P: Clock skew — The difference in arrival time of the same clock edge at two flip-flops.
+P: Combinational circuit — A circuit whose output depends only on its present inputs, with no memory of the past.
+P: Common-mode rejection ratio (CMRR) — The ratio of an op-amp's differential gain to its common-mode gain; it converts common-mode input swing into an input-referred error.
+P: Common-mode voltage — The average of the two input voltages of a differential amplifier, (V₊ + V₋)/2, which carries no information about the measurement.
+P: Comparator — A high-gain differential stage without internal compensation, used open-loop to produce a logic output from an analog comparison.
+P: Controllability — The property that the input can steer every state; tested by the rank of [B AB A²B …].
+P: CTAT — Complementary to absolute temperature; describes a quantity that falls as temperature rises, such as a base-emitter voltage at fixed current.
+P: De Morgan's laws — (A + B)′ = A′B′, and (AB)′ = A′ + B′.
+P: Dead time — A deliberate delay between turning off one switch of a leg and turning on its partner, during which body diodes carry the load current.
+P: Delay margin — The largest added time delay a loop can tolerate before instability, PM in radians divided by the crossover frequency.
+P: Derating curve — A plot of a component's allowed power (or other stress) versus ambient temperature.
+P: Desensitivity factor — The quantity 1 + T, by which feedback divides changes in forward gain, distortion, and output impedance.
+P: Dielectric absorption — The partial return of voltage on a capacitor after a brief discharge, caused by slowly relaxing charge in the dielectric.
+P: Difference amplifier — A single op-amp with four resistors whose output is proportional to the difference between two inputs; its common-mode rejection is set by resistor matching.
+P: Disturbance — An external input that pushes the plant's output away from the reference.
+P: Droop — The steady change in a held voltage caused by leakage current, at a rate I_leak/C.
+P: Equivalent noise bandwidth (ENBW) — The bandwidth of an ideal brick-wall filter that passes the same noise power as a real response; 1.571 times the −3 dB frequency for a single pole.
+P: ESR / ESL — Equivalent series resistance / equivalent series inductance — the real, non-ideal resistive and (for a capacitor) inductive components no ideal model includes; this book calls a real inductor's own series resistance its DCR instead, since an inductor's self-resonance comes from parasitic winding capacitance, not a parasitic inductance of its own.
+P: Excess noise — Current-dependent noise in a resistor, beyond its Johnson noise, larger in thick-film and carbon types.
+P: Ferrite bead — A lossy series component whose impedance becomes mostly resistive at high frequency, used to absorb noise.
+P: Flicker (1/f) noise — Low-frequency noise whose power density rises inversely with frequency below a corner frequency.
+P: Flip-flop — A clocked, edge-triggered bistable circuit that stores one bit, updating only at a clock transition.
+P: Full-power bandwidth — The highest frequency at which an op-amp can deliver a sine of a given peak amplitude without slew-rate distortion, SR/(2πV_p).
+P: Gain — The ratio of a circuit's output signal to its input signal.
+P: Gain margin — The factor by which loop gain could increase, at the frequency where its phase is −180 degrees, before the loop oscillates.
+P: Golden rules (op-amp) — V₊ = V₋ and I₊ = I₋ = 0; the two assumptions that make an ideal op-amp circuit with negative feedback solvable by algebra alone.
+P: H-bridge — Four switches in two legs that connect a load between two midpoints, allowing either polarity of applied voltage.
+P: Headroom — The distance from a circuit's bias point to the nearer of its two output rails, setting the largest signal it can pass undistorted.
+P: Heating current (I_rms) — The current that raises an inductor's temperature by a stated amount through winding loss.
+P: Hold time — The interval after a clock edge during which a flip-flop's input must remain stable.
+P: Hysteresis — The gap between the rising and falling thresholds of a Schmitt trigger.
+P: Input bias current (I_b) — The DC current that flows into each op-amp input.
+P: Input offset current (I_os) — The difference between the bias currents of the two inputs.
+P: Input offset voltage (V_os) — The DC voltage that must be applied between an op-amp's inputs to make its output zero; modeled as a source in series with one input.
+P: Instrumentation amplifier — A differential amplifier with buffered inputs and a single gain-setting resistor, usually built from three op-amps, whose rejection rises with gain.
+P: Integrator windup — Accumulation of error in an integrator while the actuator is saturated, causing overshoot when the saturation ends.
+P: Isolation resistor — A small resistor placed between an op-amp output and a capacitive load, outside the feedback loop, to preserve phase margin.
+P: Johnson noise — Thermal noise of a resistance, with density √(4kTR), flat with frequency.
+P: Karnaugh map — A grid arrangement of a truth table's outputs in which every adjacent cell differs in exactly one input bit, letting groups of adjacent 1s be read off directly as a simplified Boolean expression.
+P: Kelvin (four-terminal) connection — Separate current-carrying and voltage-sensing connections to a component, so that lead and joint resistance are excluded from the measurement.
+P: kT/C noise — The rms noise voltage √(kT/C) frozen onto a capacitor when it is disconnected from a resistive source.
+P: Lag compensator — A pole-zero pair, pole first, that adds low-frequency gain while leaving crossover nearly unchanged.
+P: Latch — An unclocked bistable circuit whose output can change at any time its inputs allow, unlike a flip-flop.
+P: Lead compensator — A zero-pole pair, zero first, that adds phase near the crossover frequency.
+P: Limit cycle — A small sustained oscillation in a digital loop caused by quantization or nonlinearity.
+P: Load capacitance — The capacitance a crystal must see across its terminals to oscillate at its marked frequency.
+P: Loop gain (T) — The product Aβ of forward gain and feedback fraction; the gain seen once around a feedback loop.
+P: Metastability — A flip-flop state between 0 and 1, caused by an input change inside the setup-hold window, that resolves after a random time.
+P: Microphonics — Conversion between mechanical vibration and voltage in a piezoelectric component, such as a Class 2 ceramic capacitor.
+P: Multiple-feedback (MFB) filter — An inverting active filter in which two feedback paths, one resistive and one capacitive, shape the response.
+P: Noise gain — The reciprocal of the feedback fraction, 1 + R_f/Rᵢₙ; the gain applied to the op-amp's own input noise and offset, and the divisor of GBW in the bandwidth calculation.
+P: Noise margin — The gap between a gate's guaranteed output level and the next gate's guaranteed input threshold, for a given logic level.
+P: Nyquist plot — The curve traced by L(jω) in the complex plane as ω runs over all frequencies.
+P: Observer — A software model of the plant corrected by the measured output, used to estimate states that are not measured.
+P: Open-collector (open-drain) output — An output stage that can only pull low; a pull-up resistor supplies the high level.
+P: Pedestal — The step in held voltage caused by charge injected from the switch as it turns off, ΔV = Q/C.
+P: Phase margin — 180 degrees plus the phase of the loop gain at the frequency where its magnitude equals 1.
+P: PID controller — A controller whose command is a weighted sum of the error, its integral, and its derivative.
+P: Plant — The physical system a controller acts on, such as a motor, heater, or joint.
+P: Power-supply rejection ratio (PSRR) — The ratio of a supply-voltage change to the resulting change in input-referred offset.
+P: PTAT — Proportional to absolute temperature; describes ΔV_BE between two junctions at different current densities.
+P: Quality factor (Q) — A measure of how efficiently a resonant circuit or reactive component stores energy versus dissipating it as heat; for an inductor, Q = ωL/R.
+P: Quality factor of a filter section (Q) — The parameter that sets the shape of a second-order response near its natural frequency; the gain at f₀ is Q times the passband gain.
+P: Reference pin (REF) — The terminal of an instrumentation or difference amplifier that sets the output level for zero differential input; it must be driven from a low impedance.
+P: Regeneration — A digital gate reading a noisy input and producing a fresh, full-strength output level, which is why noise does not accumulate through a long chain of gates.
+P: Relaxation oscillator — An oscillator that charges and discharges a capacitor between two thresholds rather than using a resonant network.
+P: Root locus — The paths of the closed-loop poles in the s-plane as a loop gain varies from zero to infinity.
+P: Sallen-Key filter — An active filter built around a non-inverting (often unity-gain) op-amp with two resistors, two capacitors, and positive feedback through one capacitor.
+P: Saturation current (I_sat) — The DC current at which an inductor's inductance has fallen by a stated percentage, commonly 20% or 30%.
+P: Schmitt trigger — A comparator with positive feedback that switches at two different thresholds depending on its present output state.
+P: Self-resonant frequency (SRF) — The frequency at which a real capacitor's or inductor's parasitic reactance cancels its intended reactance.
+P: Sensitivity function — S = 1/(1 + L), the factor by which feedback changes the effect of disturbances and plant variations at each frequency.
+P: Separation principle — For linear systems, the poles of a state-feedback controller with an observer are the union of the control poles and the observer poles.
+P: Sequential circuit — A circuit whose output depends on both its present inputs and its stored history.
+P: Setup time — The interval before a clock edge during which a flip-flop's input must be stable.
+P: Shoot-through — Simultaneous conduction of both switches in one bridge leg, which short-circuits the supply.
+P: Shunt reference — A two-terminal reference fed through a resistor that regulates by sinking the current the load does not take.
+P: Sign-magnitude PWM — H-bridge modulation that holds one leg to set direction and switches the other, with average voltage D·V_s.
+P: Slew rate — The maximum rate at which an op-amp output can change, in volts per microsecond.
+P: Small-signal analysis — Treating a circuit's response to a sufficiently small signal as linear, even when the underlying device is not linear over its full range.
+P: State — One of the minimum set of internal variables whose present values, with future inputs, determine a system's future behavior.
+P: State feedback — A control law that feeds every state back with its own gain, u = −Kz + k_r·r, placing the closed-loop poles at the eigenvalues of A − BK.
+P: Steady-state error — The difference between reference and output that remains after transients have died out.
+P: Synchronizer — A chain of flip-flops, usually two, that gives a metastable state time to resolve before the signal is used.
+P: Target impedance — The maximum supply-network impedance that keeps a rail within its voltage tolerance for a given load-current step, ΔV/ΔI.
+P: Tolerance — The manufacturer-specified range within which a real component's actual value may fall relative to its nominal, labeled value.
+P: Tracking coefficient — The temperature coefficient of the ratio between two resistors, typically in ppm/°C.
+P: Type-1 system — A control loop containing one integrator, which tracks a constant reference with zero steady-state error.
+P: Waterbed effect — The consequence of Bode's sensitivity integral that lowering |S| in one band raises it in another.
+P: Wien bridge — An RC network with zero phase shift and a gain of 1/3 at f = 1/(2πRC), used in low-distortion audio oscillators.
+P: Zero-order hold — An output stage that holds each computed value constant until the next update, producing a staircase.
+H1: Appendix D — Chapter Summaries
+H2: Chapter 1
+P: A circuit is biased to a fixed operating point before a smaller signal rides on top of it; the distance from that point to the nearer output rail is its headroom, and headroom sets the largest undistorted signal the stage can pass; gain and headroom trade against each other for a fixed pair of supply rails, and exceeding that limit produces distortion, most visibly as clipping.
+H2: Chapter 2
+P: Digital signals use two voltage ranges rather than a continuous one, separated by a forbidden gap. Noise margin measures how much of that gap protects against misread bits, and it is regeneration — each gate reading and re-outputting a fresh level — that keeps digital signals clean over long chains; binary place-value notation is how those two levels represent multi-bit numbers.
+H2: Chapter 3
+P: Boolean algebra's laws, especially De Morgan's, let a logic expression be simplified without a truth table; Karnaugh maps do the same visually for more variables than algebra alone easily handles.
+H2: Chapter 4
+P: Combinational circuits compute from present inputs alone; sequential circuits add memory via bistable elements — the SR latch and, far more commonly in practice, the clocked D flip-flop — that depend on their own history; chaining flip-flops together builds registers, counters, and shift registers.
+H2: Chapter 5
+P: The ideal op-amp's golden rules — equal input voltages, zero input current — hold only under negative feedback, and from them the inverting and non-inverting amplifier gain formulas follow directly by algebra; a real op-amp's output still saturates at its supply rails once the ideal formula predicts more than they can provide.
+H2: Chapter 6
+P: A filter's order sets its roll-off rate at −20 dB/decade per order; a band-pass or band-stop (notch) filter targets a range of frequencies rather than a single cutoff; an active filter adds an op-amp to isolate its response from the load and to add gain, something no passive network alone can do.
+P: Second-order sections are defined by H₀, f₀, and Q, with Butterworth (Q = 0.7071), Bessel (0.5773), and Chebyshev responses as named choices. The unity-gain Sallen-Key sets Q by C₁/C₂ = 4Q² and f₀ by R; the MFB inverts, sets Q by C₁/C₂ = 9Q² with equal resistors, and holds its stopband better. Higher orders cascade sections with tabulated, unequal Q values, low Q first. Use C0G or film capacitors and an op-amp with ample gain-bandwidth.
+H2: Chapter 7
+P: A real resistor departs from Book 1's ideal model through tolerance, power rating, temperature drift, and — at high frequency — parasitic inductance or capacitance, depending on its construction.
+P: A resistor's power rating is a temperature limit and derates above its knee ambient. Precision circuits depend on ratios, so tracking coefficients and shared temperature matter more than absolute temperature coefficients; unequal self-heating can still shift a ratio. Working voltage limits high-value parts independently of power. Pulses are limited by absorbed energy. Current-sense resistors need Kelvin connections and suitable amplifiers. Thick-film parts add excess noise, and all resistors age.
+H2: Chapter 8
+P: Every capacitor carries a maximum voltage rating, and for a polarized electrolytic that rating applies to the correct polarity only; a real capacitor's equivalent series resistance and inductance also give it a self-resonant frequency, above which it stops behaving like a capacitor, and Class 2 ceramic types lose capacitance as DC bias voltage rises.
+P: A real capacitor's impedance falls, bottoms at its ESR at the self-resonant frequency, then rises with its ESL; above resonance only mounting inductance matters. Decoupling is designed to a target impedance ΔV/ΔI over the band of the load's current steps. Paralleling unlike values creates antiresonant peaks near 1/(2π√((L₁+L₂)C_small)), tamed by equal values, close spacing, or damping. Bulk capacitance follows C ≥ IΔt/ΔV, with ESR drop added. Ripple heating shortens electrolytic life. Dielectric absorption, leakage, microphonics, and aging steer timing and sampling designs toward film and C0G parts.
+H2: Chapter 9
+P: Real inductor construction (air-core, ferrite- or iron-core, toroidal) trades off linearity, size, and stray field; a real inductor's core can also saturate, collapsing its inductance; its quality factor Q = ωL/R measures how efficiently it stores energy versus dissipating it, and it too has a self-resonant frequency above which it stops behaving like an inductor.
+P: A power inductor is selected against two different current checks: peak current against the saturation rating and rms current against the heating rating. The circuit sets the ripple, ΔI = (V_in − V_out)D/(L f_sw), and the peak and rms follow from it; checks should include the low-tolerance inductance. DC resistance sets copper loss. Cores saturate hard or soft; shielding limits stray field. Ferrite beads are lossy parts specified by impedance, not inductance, and can resonate with decoupling capacitors.
+H2: Chapter 10
+P: A 200 Hz joint tracker has a 5 ms period. The classical loop runs underneath any robot model, uses the same Bode habits as Chapter 5, and answers to an independent safety controller that has the final say over the joint.
+H2: Chapter 11
+P: A feedback amplifier's gain is A/(1 + Aβ), which approaches 1/β when the loop gain T = Aβ is large; its fractional gain error is about 1/T. Feedback divides gain variations and distortion by 1 + T, trades gain for bandwidth at a constant gain-bandwidth product, and moves input and output impedances in a direction set by how the loop connects. All of it depends on the returned signal being subtracted.
+H2: Chapter 12
+P: A buffer supplies current gain so a weak source is not loaded down. The follower has unity gain, an input impedance near that of the op-amp itself, and a gain error near 1/A, but it is limited by common-mode range and CMRR and has the least phase margin of any configuration when driving a capacitor. The inverting unity-gain stage loads its source with Rᵢₙ, avoids common-mode issues, and has half the follower's bandwidth. Capacitive loads are tamed with an isolation resistor, split feedback, or a part rated for the load.
+H2: Chapter 13
+P: Closed-loop bandwidth equals the gain-bandwidth product divided by the noise gain, 1 + R_f/Rᵢₙ, which equals the signal gain only for a non-inverting stage. Holding gain within 1% requires staying below about 0.14 of that bandwidth. Splitting gain across stages extends bandwidth. Slew rate is a separate large-signal limit; the full-power bandwidth SR/(2πV_p) falls as the output amplitude rises.
+H2: Chapter 14
+P: Resistors produce Johnson noise √(4kTR), 40 nV/√Hz for 100 kΩ at 290 K; op-amps add input-referred voltage and current noise. Uncorrelated sources add as root-sum-of-squares, so the largest dominates. Input-referred noise times noise gain gives output density, and density times the square root of the equivalent noise bandwidth (1.571 × f₋₃dB for one pole) gives rms voltage. Below the 1/f corner noise rises, which dominates precision DC work. The optimum source resistance e_n/i_n guides op-amp choice.
+H2: Chapter 15
+P: Offset voltage is amplified by the noise gain; bias current flowing through the feedback resistor produces an output error that a matched resistor at the non-inverting input reduces to the offset-current term. Drift remains after trimming and must be budgeted worst-case. PSRR and CMRR act as additional offsets. Integrators turn DC errors into ramps and need a reset, a DC feedback path, or an outer loop.
+H2: Chapter 16
+P: A comparator turns an analog voltage into a logic decision and must never be given linear feedback. Slow, noisy inputs make a single-threshold comparator chatter; positive feedback creates two thresholds whose gap, the hysteresis, rejects noise smaller than it. Open-collector and open-drain outputs need a pull-up that trades static current against rise time (2.2 RC), translate logic levels for free, and can share one line as wired logic.
+H2: Chapter 17
+P: A control loop applies Chapter 11's feedback to a physical plant: the output follows the reference as C P/(1 + C P), and disturbances are divided by 1 + C P. A first-order plant K/(τs + 1) under proportional control becomes faster and more accurate by the factor 1 + K_p K, but keeps a steady-state error; integral action removes it at the cost of phase lag. Actuator saturation, sensor noise, unmodeled dynamics, and the safety layer bound how aggressive a controller may be.
+H2: Chapter 18
+P: The PID controller combines proportional, integral, and derivative action, each with physical units. For a first-order plant, a PI controller whose zero cancels the plant pole gives a pure-integrator loop with 90 degrees of phase margin and a crossover set by K_p K/τ. Lead networks add phase near crossover (maximum arcsin((α − 1)/(α + 1)) at √(ω_z ω_p)); lag networks add low-frequency gain. Phase margin predicts overshoot. Anti-windup stops the integrator from accumulating while the actuator is saturated.
+H2: Chapter 19
+P: A digital controller samples, computes, and holds. The zero-order hold adds about half a period of delay and a one-period compute delay adds a full period; a delay costs ω_c × delay radians of phase at crossover without reducing gain. For the 5 ms tracker, a 100 rad/s crossover loses about 43° of margin, and halving the crossover or sampling faster restores it. The backward-Euler PI is a running sum with a clamp for anti-windup; Tustin matches the continuous response more closely. Aliasing, anti-alias filter lag, and quantization complete the picture.
+H2: Chapter 20
+P: A differential measurement separates V_d = V₊ − V₋ from V_cm = (V₊ + V₋)/2, and CMRR = A_d/A_cm measures how well the amplifier ignores the second. A one-op-amp difference amplifier's rejection is set by resistor matching, about (1 + G)/(4t) in the worst case, and its finite input resistance loads the source. The three-op-amp instrumentation amplifier buffers both inputs, sets its gain with one resistor through G = (1 + 2R/R_G)(R₂/R₁), and multiplies the difference stage's rejection by its front-end gain. Internal nodes at V_cm ± G₁V_d/2 must stay within their swing, and the REF pin must be driven from a low impedance, because resistance there adds directly to the matched network.
+H2: Chapter 21
+P: A plant's states determine its future; linear plants are written ż = Az + Bu, y = Cz, with open-loop poles at the eigenvalues of A. State feedback u = −Kz + k_r·r places the closed-loop poles at the eigenvalues of A − BK; for a mass, k₁ = mωₙ² and k₂ = 2ζωₙm, which is PD control with a measured derivative. Pole placement requires controllability. An observer dẑ/dt = Aẑ + Bu + L(y − Cẑ) estimates unmeasured states with error poles set by L, typically three to five times faster than the control poles, and the separation principle lets the two be designed independently. An integral state removes steady error from constant disturbances. Actuator limits and noise, not algebra, bound how fast the poles can be placed.
+H2: Chapter 22
+P: A sample-and-hold is a switch, a capacitor, and a buffer. Tracking settles as an RC network, needing (N + 1) ln 2 time constants to reach ½ LSB. The capacitor freezes kT/C noise independent of resistance. Opening the switch injects a pedestal Q/C, and aperture jitter limits SNR to −20 log₁₀(2πfσ_t). During hold, leakage causes droop I/C and the off-switch passes feedthrough. A larger capacitor improves every error except acquisition time. Switched-capacitor converters draw a charge-sharing kick each sample, so they need a driver amplifier with an isolating resistor and an external charge reservoir.
+H2: Chapter 23
+P: A base-emitter voltage falls about 2 mV/K (CTAT), while the difference between two junctions at different current densities, (kT/q) ln N, rises in exact proportion to temperature (PTAT). Weighting the PTAT term by K = |dV_BE/dT|/((k/q) ln N) and adding it to V_BE gives a reference near 1.2 V with zero slope at one temperature. An op-amp bandgap sets I = ΔV_BE/R₁ and V_REF = V_BE + (R₂/R₁)ΔV_BE, so only ratios matter, while op-amp offset is amplified by K. Datasheet temperature coefficients use the box method. In an error budget, initial accuracy is calibrated away, but temperature drift, hysteresis, and long-term drift remain. A shunt reference's resistor must supply full load plus minimum current at the lowest supply.
+H2: Chapter 24
+P: An H-bridge applies +V_s, −V_s, or zero to a motor through four switches, with dead time to prevent shoot-through. Bipolar PWM gives (2D − 1)V_s and ripple 2V_sD(1 − D)/(Lf_sw), which is largest at zero voltage; sign-magnitude PWM gives D·V_s and half the ripple. Dead time adds an error near V_s t_d f_sw per leg opposing the current. The DC motor obeys V = Ri + L di/dt + K_eω and J dω/dt = K_ti − bω − T_L, with τ_e = L/R and τ_m = JR/(K_tK_e). Drives nest a PI current loop, whose zero cancels R/L and whose crossover is limited by the sample delay, inside a speed loop a decade slower whose current command is clamped. Braking returns energy to the bus, which a rectified supply cannot absorb; a brake chopper sized for the peak regenerative power protects it.
+H2: Chapter 25
+P: The root locus traces the closed-loop poles as one gain varies. Branches start at the open-loop poles and end at the zeros or along asymptotes at (2k + 1)180°/(n − m) from the centroid. A second-order plant 1/(s(s + 4)) cannot settle faster than 2 s by gain alone; the third-order plant 1/(s(s + 2)(s + 10)) breaks away at −0.945, reaches ζ = 0.5 at K = 28.7, and goes unstable at K = 240 and 4.47 rad/s. Lead control bends the locus left; lag control raises low-frequency gain while leaving it nearly unchanged.
+H2: Chapter 26
+P: The Nyquist criterion counts encirclements of −1 by L(jω): Z = N + P. Gain margin is read where the phase is −180°, phase margin where |L| = 1, and the delay margin is PM/ω_c. For L = K/(s(s + 2)(s + 10)), K = 28.7 gives 18.4 dB, 51.7°, and 0.74 s; K = 60 gives 12.0 dB, 32.7°, and 0.28 s. The sensitivity peak M_s bounds both margins, GM ≥ M_s/(M_s − 1) and PM ≥ 2 arcsin(1/(2M_s)), and a value of 1.2 to 2 is a good target.
+H2: Chapter 27
+P: An oscillator satisfies the Barkhausen condition, Aβ = 1 at zero phase, at one frequency. The Wien bridge runs at 1/(2πRC) with a gain of 3; the phase-shift oscillator at 1/(2π√6RC) with a gain of 29; the Colpitts at the resonance of L with C₁ and C₂ in series. Relaxation oscillators charge a capacitor between two thresholds: T = 2RC ln((1 + β)/(1 − β)), and the 555 runs at 1.44/((R₁ + 2R₂)C). A crystal in a Pierce circuit needs its specified load capacitance, the series pair plus stray.
+H2: Chapter 28
+P: A path between flip-flops passes setup if T_clk ≥ t_cq + t_pd + t_su + t_skew and hold if t_cq + t_cd ≥ t_h + t_skew; a 7.0 ns path runs at 142.9 MHz, and a hold violation persists at any clock rate. An asynchronous input can leave a flip-flop metastable; MTBF = e^(t_r/τ)/(T_w f_clk f_data) rises from 40 minutes at 1.0 ns of resolution time to 10²⁶ years at 4.5 ns, which is why two-flip-flop synchronizers, Gray codes, and handshakes guard every clock-domain crossing.
+H1: Appendix E — Further Reading
+P: This book derives and verifies every result it uses from first principles, so none of the following is required to read it. They are listed for readers who want to go beyond a single chapter in a given area.
+P: Paul Horowitz and Winfield Hill, The Art of Electronics — the standard broad reference for practical, component-level electronics; touches nearly every topic in this book at greater depth, from op-amp circuits to real-component behavior.
+P: Sergio Franco, Design with Operational Amplifiers and Analog Integrated Circuits — a rigorous next step for Chapter 5, covering real op-amp non-idealities and analog IC design beyond the ideal golden-rule treatment given here.
+P: M. Morris Mano, Digital Design — the standard textbook for Chapters 2–4, extending Boolean algebra and sequential circuits into full digital system design.
+P: Don Lancaster, Active Filter Cookbook — a practical, design-oriented companion to Chapter 6, with many worked active-filter topologies beyond the single buffered stage introduced here.
+P: Paul Scherz and Simon Monk, Practical Electronics for Inventors — a broad, hands-on reference for Chapters 7–9's real components — tolerances, ratings, and how to actually choose a part for a design.
+P: Karl Johan Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers — the open-text companion to Chapters 17–19: loops, PID, frequency-domain margins, and their limits, at the next level of depth.
+P: Norman S. Nise, Control Systems Engineering — a standard undergraduate control text for Chapters 17 and 18, with many worked compensator designs.
+P: Gene F. Franklin, J. David Powell, and Michael Workman, Digital Control of Dynamic Systems — the reference for Chapter 19's sampling, hold, and discretization questions.
+P: Ron Mancini (editor), Op Amps for Everyone — a free Texas Instruments design reference covering feedback, noise, DC errors, and active filters (Chapters 11–16 and 6).
+P: Eric Bogatin, Signal and Power Integrity — Simplified — the natural next step after Chapter 8's decoupling and target-impedance discussion.
+P: Charles Kitchin and Lew Counts, A Designer's Guide to Instrumentation Amplifiers — a free Analog Devices guide that goes beyond Chapter 20 into input protection, RFI rectification, and single-supply operation.
+P: Walt Kester (editor), The Data Conversion Handbook — the Analog Devices reference behind Chapter 22: sample-and-hold architectures, jitter, and converter drive circuits.
+P: Ned Mohan, Electric Drives: An Integrative Approach — the next step after Chapter 24, from the DC motor drive to AC machines and their control.
+P: Karl Johan Åström and Richard M. Murray, Feedback Systems, 2nd edition — the source of Chapter 26's sensitivity-peak bounds and the Nyquist treatment, with the waterbed effect developed fully.
+P: Norman S. Nise, Control Systems Engineering, 8th edition — root-locus sketching rules and compensator design through the locus, the next step after Chapter 25.
+P: Paul Horowitz and Winfield Hill, The Art of Electronics, 3rd edition — oscillators, the 555, crystal circuits, and synchronizers in practice (Chapters 27 and 28).
+P: Clifford E. Cummings, Clock Domain Crossing (CDC) Design & Verification Techniques Using SystemVerilog — a widely used paper on synchronizers, Gray-coded FIFO pointers, and handshakes (Chapter 28).
+P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+H1: About the Author
+P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+H1: Also by Lothar J. Musiol
+P: Physics, Actually
+P: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+P: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+P: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+P: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+P: More Actually Books
+P: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+P: The Universe, Actually: What Humanity Currently Understands About Reality
+P: Math, Actually
+P: Math, Actually, Volume 1: From Arithmetic to Calculus
+P: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+P: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+P: Math, Actually, Volume 4: From Category Theory to the Frontier
+P: Quantum, Actually
+P: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+P: Quantum, Actually, Volume 2: A QED Course
+P: Science Sparks
+P: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+P: Look First
+P: Look First, Volume 1: The Universe Has No Now
+P: Look First, Volume 2: A Trip Is Not a New Life
+P: Electrical Engineering Series
+P: Foundations of Electronics (Book 1)
+P: Semiconductor Physics and Devices (Book 3)
+P: RF, Microwave, and Transceivers (Book 4)
+P: Communications, Wireless, and SDR (Book 5)
+P: Power and Energy (Book 6)
+P: Packaging, Layout, EMC, and Test (Book 7)
+P: History
+P: The Dolphins’ View of History
+P: Fiction
+P: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+P: In German
+P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?

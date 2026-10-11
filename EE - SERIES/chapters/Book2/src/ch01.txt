@@ -1,0 +1,35 @@
+H1: Chapter 1 — Analog Electronics
+P: Turn a guitar amplifier up until it growls and you are hearing this chapter's subject from the wrong side: a stage pushed out of the region where it behaves. Analog design is mostly the art of choosing an operating point and then staying away from the walls.
+P: Where you meet this: Audio amplifiers, sensor front ends, microphone preamps, and any circuit that has to pass a signal without bending it.
+P: Book 1 treated resistors, capacitors, and inductors as ideal mathematical objects and solved circuits built from them exactly, once and for all. Real electronic design adds two things that book did not need: signals that carry information rather than just power, and circuits deliberately biased into a particular operating condition so that a smaller signal riding on top of that bias behaves predictably. This chapter builds the vocabulary — bias point, small-signal behavior, gain, and distortion — that every later chapter in this book, and every book after it, assumes.
+H2: 1.1 Bias Points and Operating Conditions
+P: A real analog stage is almost never asked to handle a signal that swings all the way from its most negative to its most positive possible value. Instead, a designer first sets a DC operating point — also called a bias point or quiescent point (Q-point) — a fixed voltage or current the circuit sits at with no signal applied. The actual signal of interest is then a smaller variation superimposed on that fixed point. Choosing the bias point well is largely a matter of leaving enough room, in both directions, for the signal to move without running into a hard limit.
+P: Every real amplifying stage has such limits: an output that cannot go below its negative supply rail or above its positive one, no matter what the input asks for. The distance from the bias point to the nearer of these two rails is called headroom, and it sets the largest signal the stage can pass through undistorted.
+WE: Worked Example 1.1
+PROB: A DC bias sets an amplifier's output operating point at 8 V. The output stage can swing between 0 V and 10 V before it distorts. Find the largest symmetric AC signal amplitude the stage can pass without clipping, and state which half of the cycle clips first if the amplitude is pushed beyond that.
+SOL: The distance from the bias point to the upper rail is 10 − 8 = 2 V. The distance to the lower rail is 8 − 0 = 8 V. The smaller of the two headrooms sets the limit, so the largest undistorted amplitude is 2 V. Push the amplitude past 2 V and the positive peaks — the ones approaching the nearby upper rail — clip first, since that is the direction with less room to spare.
+FIG: fig1_1.png | Figure 1.1 — A 2 V amplitude stays within the 8 V bias point's 2 V headroom to the upper rail; a 3 V amplitude clips flat against it.
+WE: Worked Example 1.2
+PROB: A stage has a gain of 15 and is biased so its output sits at 3 V, with output rails at 0 V and 12 V. An input signal of amplitude 500 mV is applied. Will the output clip, and if so, on which side?
+SOL: The demanded output amplitude is gain × input amplitude = 15 × 0.5 = 7.5 V. The headroom to the lower rail is 3 − 0 = 3 V; the headroom to the upper rail is 12 − 3 = 9 V. Since 7.5 V exceeds the 3 V lower headroom but not the 9 V upper headroom, the output clips only on the negative excursions, against the lower rail — an asymmetric clip, unlike the symmetric case in Worked Example 1.1.
+H2: 1.2 Small-Signal Behavior
+P: Once a bias point is fixed, the circuit's response to a small additional signal can often be treated as linear even when the underlying device is not linear over its full range — a fact this book will not derive in full until Book 3 introduces the transistor, but the concept is worth having in hand now. Near any single operating point, a smooth curve looks approximately straight; the smaller the signal, the better that approximation holds. This is why the phrase “small-signal” appears constantly in analog design: it is a promise that the signal is small enough for the surrounding nonlinearity to be ignored, not a claim that the underlying device is actually linear.
+KEY: Headroom is the available signal range before a circuit hits a limiting mechanism such as clipping; push any real circuit far enough and it becomes nonlinear on its own, sometimes well before it reaches a rail — headroom and the small-signal linear approximation are related but not identical, and a circuit can leave the linear region without yet running out of headroom.
+H2: 1.3 Gain and Distortion
+P: Gain is the ratio of a stage's output signal to its input signal, and for a well-behaved linear stage it is a single number that does not depend on the size of the input. Distortion is what happens when that stops being true — typically because the signal has grown large enough to reach the edge of the stage's headroom (clipping) or because the underlying device's response was never quite linear to begin with, even for small signals. A clipped waveform is the most visible form of distortion: the peaks of the signal are simply cut flat at the rail voltage, and the output no longer resembles a scaled copy of the input.
+MIS: A higher-gain stage is not automatically a “better” one. Gain and headroom trade against each other for a fixed pair of supply rails: the more a stage amplifies a given input, the sooner an increase in that input drives the output into clipping. Selecting a gain is as much about how large the expected input signal is as it is about how much amplification the application needs.
+BENCH: Measure the bias point before you measure the signal. With no input applied, check the DC voltage at the output of every stage against your calculation; a stage sitting a volt from a rail will clip long before the datasheet says it should, and no amount of signal-chain tuning will fix a wrong bias.
+H2: Practice Problems
+LI: A bias point is set at 6 V; the output swings between 1 V and 11 V. Find the largest symmetric AC amplitude the stage can pass without clipping, and identify which rail sets the limit.
+LI: An amplifier stage has a gain of 20 and is biased so its output sits at 2 V, with output rails at 0 V and 5 V. Find the largest input signal amplitude that avoids clipping the output.
+LI: Explain, in one or two sentences, why a small-signal analysis is only trustworthy near the specific bias point it was derived around.
+LI: A stage has a gain of 8, output rails at 0 V and 9 V, and is biased at the center of that range. Find the maximum input amplitude before clipping.
+LI: An amplifier's bias point sits at 1 V, with output rails at 0 V and 5 V. Which rail limits the headroom, and by how much?
+LI: A designer doubles a stage's gain without changing its bias point or output rails. Explain what happens to the maximum undistorted input amplitude.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Bias point and headroom to each rail.
+LI: Small-signal gain as the slope at the operating point.
+LI: Clipping as the first sign of a stage leaving its region.
+P: Mostly for exams and deeper study
+LI: Formal small-signal models of every device type.

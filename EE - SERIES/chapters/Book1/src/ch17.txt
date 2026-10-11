@@ -1,0 +1,47 @@
+H1: Chapter 17 — Systems of Linear Equations
+P: A circuit with three loops hands you three equations in three unknowns, and nature insists that all three hold at once. This chapter is the bookkeeping that makes nodal and mesh analysis mechanical. It is also what circuit simulators do: they solve exactly these systems, only with thousands of unknowns.
+P: Where you meet this: Nodal and mesh analysis (Chapters 28 and 29), SPICE simulators, and calibration routines that fit several unknowns at once.
+P: Nodal and mesh analysis, introduced in Part III, turn any resistive circuit into a system of simultaneous linear equations. The circuit theory is the interesting part; solving the system is mechanical. This chapter supplies the mechanics so that Part III can concentrate on the circuits.
+H2: 17.1 What a Linear System Is
+P: A linear equation in several unknowns contains those unknowns only to the first power, multiplied by constants and added. No squares, no products of unknowns, no unknowns inside functions. Two equations in two unknowns look like this:
+FIG: fig17_1.png | Figure 17.1 — Two linear equations in two unknowns: each is a line, and the solution is where they cross.
+EQ: a₁x + b₁y = c₁     and     a₂x + b₂y = c₂
+P: Circuit equations from Kirchhoff's laws are always of this form when the components are resistors and the sources are independent, which is why the systematic methods work at all. Nonlinear elements — diodes, transistors — break linearity and require entirely different techniques, taken up later in the series.
+H2: 17.2 Substitution and Elimination
+P: For two equations, substitution is usually quickest: solve one equation for one unknown, put that expression into the other, solve the resulting single-variable equation, then back-substitute.
+P: Elimination scales better. Multiply the equations by whatever constants make the coefficients of one unknown equal in magnitude, then add or subtract to eliminate it. For three or more equations, elimination performed systematically becomes Gaussian elimination, which is what every circuit simulator does internally.
+WE: Worked Example 17.1
+P: Solve the system: 3x + 2y = 16 and 5x − y = 9.
+P: Elimination is convenient here because y has a coefficient of −1 in the second equation. Multiply the second equation by 2:
+P: 10x − 2y = 18
+P: Add this to the first equation, and the y terms cancel:
+P: (3x + 10x) + (2y − 2y) = 16 + 18, so 13x = 34, giving x = 2.6154.
+P: Back-substitute into the second original equation:
+P: 5(2.6154) − y = 9, so 13.0769 − y = 9, giving y = 4.0769.
+P: Always verify in the equation you did not use for back-substitution. First equation: 3(2.6154) + 2(4.0769) = 7.846 + 8.154 = 16.000. Correct.
+P: That verification step costs ten seconds and catches arithmetic slips reliably. In circuit work, where a sign error in one Kirchhoff equation propagates into every node voltage, it is time exceptionally well spent.
+H2: 17.3 Determinants and Cramer's Rule
+P: For a two-by-two system, the determinant is defined as
+EQ: D = a₁b₂ − a₂b₁
+P: and Cramer's rule gives the solution directly: x = Dₓ/D and y = D_y/D, where Dₓ is the determinant formed by replacing the x-coefficient column with the constants, and D_y likewise for y.
+P: Cramer's rule is not the fastest method for large systems — its cost grows factorially, which makes it useless beyond about three equations — but for two or three unknowns it is quick, mechanical, and hard to get lost in. Its real value is diagnostic. If D = 0, the system has no unique solution, and in a circuit context that almost always means a modeling error: two ideal voltage sources placed in parallel with different values, an ideal current source left in series with an open circuit, or a floating section with no reference to ground.
+KEY: A zero determinant is a physics error, not an arithmetic one. When the determinant of a circuit's node equations vanishes, treat it as a warning to examine the circuit model and equations carefully, not just the algebra — the equations may simply be redundant (as in a genuinely degenerate mathematical system), but in circuit analysis a vanishing determinant is most often a sign of something physically impossible, such as a node with no DC path to the reference node.
+H2: 17.4 Matrix Form and What Comes Later
+P: Any linear system can be written compactly as a matrix equation. For circuit work the standard arrangement is
+EQ: G·V = I
+P: where G is the conductance matrix, V is the vector of unknown node voltages, and I is the vector of source currents. This is exactly the form SPICE assembles and solves at every operating point, and recognizing it now will make the later book on simulation considerably less mysterious.
+P: The conductance matrix has a pleasant structure that makes it easy to write down by inspection: each diagonal entry is the sum of all conductances connected to that node, and each off-diagonal entry is the negative of the conductance directly between the two nodes it indexes. That structure is not a coincidence — it is Kirchhoff's current law, written in matrix form.
+BENCH: For more than three unknowns, let a tool do the arithmetic: a calculator's matrix mode, numpy.linalg.solve in Python, or a SPICE run. Your job is to set up the equations correctly and to check the answer, by substituting it back or by confirming that the currents at one node really do sum to zero.
+H3: Practice Problems
+LI: Solve by substitution: 2x + 3y = 12 and x − y = 1.
+LI: Solve by elimination: 4a + 5b = 22 and 3a − 2b = 5.
+LI: Evaluate the determinant of the system 6x + 2y = 10, 3x + y = 5, and explain what your result implies about the solution.
+LI: Two mesh equations for a circuit are 100I₁ − 40I₂ = 5 and −40I₁ + 90I₂ = 0. Solve for both currents using Cramer's rule, and state the physical meaning of the sign of each result.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Writing equations from a circuit.
+LI: Solving 2 × 2 and 3 × 3 systems by hand or by calculator.
+LI: Back-substitution as a check.
+P: Mostly for exams and deeper study
+LI: Determinants and Cramer's rule for larger systems by hand.
+LI: The conditions for no solution or infinitely many.

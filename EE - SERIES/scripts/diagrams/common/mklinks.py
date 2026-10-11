@@ -16,7 +16,9 @@ def rules_for(docx_path, reading_heading_prefix, out_json):
         if sty(ps[i]).startswith('Heading') or ' — ' not in t: continue
         pre = t.split(' — ')[0]
         if ', ' not in pre or len(pre) > 160: continue
-        segs = pre.split(', '); title = segs[-1].strip(); auth = segs[0]
+        segs = [x for x in pre.split(', ') if not re.match(r'(?i)^(\d+(st|nd|rd|th) edition|\w+ edition|\d{4}|vol\.? ?\d+)$', x.strip())]
+        if len(segs) < 2: continue
+        title = segs[-1].strip(); auth = segs[0]
         last = re.sub(r'\(.*?\)', '', auth).split(' and ')[0].strip().split()[-1]
         url = 'https://openlibrary.org/search?q=' + quote_plus(title + ' ' + last)
         rules.append({'find': title, 'to': '[%s](%s)' % (title, url), 'in': t[:60], 'max': 1})

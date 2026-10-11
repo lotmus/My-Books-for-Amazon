@@ -1,0 +1,60 @@
+H1: Chapter 21 — Complex Numbers
+P: Engineers use 'imaginary' numbers to calculate very real things, such as how hot a motor runs or how much current a building's wiring really carries. The trick is that one complex number holds an amplitude and a phase at once, which is exactly what an AC signal needs.
+P: Where you meet this: Impedance, filter design, the Smith chart (Chapter 37), S-parameters, and the I/Q signals of software radio in Book 5.
+P: Two AC voltages of the same frequency — say 5.0 V peak with no phase shift, and 3.0 V peak shifted 90° ahead of it — need to be added together, an entirely ordinary task, since real circuits combine signals like this all the time. Try to add them as plain numbers, though, and you get the wrong answer: the two waveforms peak at different moments, so treating it as “5 plus 3” overstates the combined peak, which actually lands somewhere between 3.0 V and 8.0 V. Written out in full using trigonometry, finding exactly where means grinding through a sum-of-cosines identity every single time — slow, easy to fumble, and disproportionate to how ordinary the task feels.
+P: The real difficulty is that a plain number only holds one piece of information, and a sinusoid of fixed frequency carries two: a magnitude and a phase. No single point on an ordinary number line can represent both a size and an angle at once.
+P: The way around it is to stop treating magnitude and phase as two separate numbers to juggle, and instead treat the pair of them as a single object — a point in a flat plane, with one coordinate carrying what an ordinary number would and a second, perpendicular coordinate carrying the rest. Adding two of these objects is then no harder than adding two points: add the corresponding coordinates.
+P: Picture the 5.0 V, no-shift signal as the point (5, 0), and the 3.0 V, 90°-ahead signal as the point (0, 3) — phase 90° landing entirely on the second, perpendicular coordinate. Add the pairs directly, coordinate by coordinate: (5, 0) + (0, 3) = (5, 3). That single addition already contains the answer a page of trigonometry would otherwise be needed to reach — §21.4 below shows exactly how to turn a point like (5, 3) back into the size and angle of the combined signal.
+P: That two-coordinate object, built exactly to make this kind of addition trivial, is what a complex number actually is. Complex numbers have an unfortunate name. There is nothing complicated about them, and nothing imaginary about the imaginary part — both terms are historical accidents from a period when mathematicians distrusted the objects they had just invented. What a complex number actually is, for our purposes, is a way of carrying two related pieces of information as a single quantity, and then doing arithmetic on the pair at once.
+P: For electrical engineering the two pieces of information are magnitude and phase. Chapter 20 established that two sinusoids of the same frequency can differ only in those two respects. Complex numbers are the tool that lets us manipulate both at once, which is why they took over AC analysis completely and never gave it back.
+H2: 21.1 Why j and Not i
+P: The imaginary unit is defined by j² = −1. Mathematicians write it i; electrical engineers write j, because i was already taken by current and reusing it would be intolerable. Every textbook in this series uses j. No other difference is implied.
+P: The defining property is worth stating plainly rather than treating as a mystery. There is no real number whose square is negative, so j is not a real number. That is the entire content of the word "imaginary" — it means "not on the real number line," not "fictitious." The number j is exactly as real, in the ordinary sense, as the number 3; it simply lives in a different direction.
+H2: 21.2 Rectangular Form
+P: A complex number in rectangular form is written z = a + jb, where a is the real part and b the imaginary part. Both a and b are ordinary real numbers. The whole object can be pictured as a point in a plane, with a measured along the horizontal axis and b along the vertical — the complex plane, or Argand diagram.
+P: That geometric picture is the useful one. A complex number is a point, or equivalently an arrow from the origin to that point. Its length is the magnitude and the angle it makes with the positive real axis is the phase, which connects directly to the sinusoid parameters of Chapter 20.
+FIG: fig21_1.png | Figure 21.1 — The Argand diagram: a complex number as a point, with magnitude and angle.
+P: Addition and subtraction in rectangular form are componentwise, exactly like adding vectors:
+EQ: (a + jb) + (c + jd) = (a + c) + j(b + d)
+P: Multiplication follows the ordinary distributive law, with the single extra rule that j² = −1:
+EQ: (a + jb)(c + jd) = (ac − bd) + j(ad + bc)
+P: The cross terms produce the imaginary part; the j² in the product of the two imaginary parts flips a sign and lands in the real part. There is nothing to memorize here beyond j² = −1 — the rest is expansion of brackets.
+H2: 21.3 The Complex Conjugate and Division
+P: The conjugate of z = a + jb, written z*, is a − jb: the same number with the sign of the imaginary part flipped, or geometrically, the point reflected across the real axis.
+P: Its usefulness comes from one fact: a number times its conjugate is always real.
+EQ: z·z* = (a + jb)(a − jb) = a² + b²
+P: This is what makes division possible. To divide by a complex number, multiply top and bottom by the conjugate of the denominator; the denominator becomes real, and the division reduces to dividing by an ordinary number.
+WE: Worked Example 21.1
+P: Evaluate (3 + j4)/(1 − j2).
+P: Multiply numerator and denominator by the conjugate of the denominator, which is (1 + j2):
+P: Numerator: (3 + j4)(1 + j2) = 3 + j6 + j4 + j²8 = 3 + j10 − 8 = −5 + j10.
+P: Denominator: (1 − j2)(1 + j2) = 1 + 4 = 5.
+P: So the quotient is (−5 + j10)/5 = −1 + j2.
+P: Check by multiplying back: (−1 + j2)(1 − j2) = −1 + j2 + j2 − j²4 = −1 + j4 + 4 = 3 + j4. Correct.
+P: Note that the denominator became 1² + 2² = 5 without any cross terms — that is the conjugate doing its work, and it always happens. If your denominator still has a j in it after multiplying by the conjugate, you have made an arithmetic error.
+H2: 21.4 Polar Form
+P: The same number can be described by its magnitude and angle instead of its two components. The magnitude is
+EQ: |z| = √(a² + b²)
+P: which is the Pythagorean identity from Chapter 20 doing exactly the job advertised, and the angle is
+EQ: θ = arctan(b/a)
+P: with a crucial caveat: the arctangent function returns values only between −90° and +90°, so it cannot distinguish the second quadrant from the fourth, or the third from the first. You must look at the signs of a and b to place the number in the correct quadrant and adjust by 180° if the real part is negative. Nearly every programming language provides an atan2 function that handles this; hand calculation does not, and this is a reliable source of answers that are exactly 180° wrong.
+P: Conversion back to rectangular form is straightforward trigonometry: a = |z|·cos θ and b = |z|·sin θ.
+MIS: Rectangular form is convenient for addition and subtraction; polar form is convenient for multiplication and division. Trying to multiply in rectangular form is possible but tedious, and trying to add in polar form is a genuine mistake — the magnitudes of a sum are not the sum of the magnitudes unless the two numbers happen to have the same angle. Convert to whichever form suits the operation, then convert back. The conversion is cheap; the error from adding polar magnitudes is not.
+H2: 21.5 Multiplication and Division in Polar Form
+P: In polar form the two operations become remarkably simple. To multiply, multiply the magnitudes and add the angles. To divide, divide the magnitudes and subtract the angles.
+EQ: |z₁z₂| = |z₁|·|z₂|,   ∠(z₁z₂) = ∠z₁ + ∠z₂
+P: This is the property that makes complex numbers indispensable in AC analysis, and it deserves a moment of attention. Multiplying by a complex number scales and rotates. Multiplying by a number of magnitude 1 and angle 90° — which is to say, multiplying by j — rotates by a quarter turn without changing size at all.
+KEY: Multiplying by j is a 90° rotation. Multiplying by j twice is a 180° rotation, which is multiplication by −1 — and that is exactly the statement j² = −1, seen geometrically. The defining property of j is not an arbitrary rule; it is what a quarter-turn does when you apply it twice.
+P: Once you see multiplication as rotation, the behavior of capacitors and inductors in AC circuits stops being a set of rules to memorize and becomes a single geometric statement, which is where Chapter 23 goes.
+BENCH: Calculators and software disagree about angles. Check whether yours is set to degrees or radians before converting between polar and rectangular form, and use atan2 rather than plain atan, or a vector in the second or third quadrant will come out pointing the wrong way. Many 'impossible' AC results turn out to be quadrant errors.
+H3: Practice Problems
+LI: Given z₁ = 4 + j3 and z₂ = 2 − j5, compute z₁ + z₂, z₁ − z₂, and z₁z₂ in rectangular form.
+LI: Convert 5 + j12 to polar form, and convert 10∠−60° to rectangular form.
+LI: Evaluate (2 + j3)/(4 − j) by the conjugate method, and verify your answer by multiplying back.
+LI: Compute j², j³, j⁴, and 1/j. Explain each result as a rotation in the complex plane, and state the general rule for jⁿ.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Converting between rectangular and polar form.
+LI: Adding in rectangular form, multiplying and dividing in polar.
+P: Mostly for exams and deeper study
+LI: Roots and powers of complex numbers.

@@ -1,0 +1,77 @@
+H1: Chapter 7 — Resistors
+P: The humblest part on the board is also the one most often blamed for nothing and guilty of plenty. A resistor that runs hot drifts, a resistor hit by a surge cracks, and a current-sense resistor wired the obvious way measures its own solder joints.
+P: Where you meet this: Pull-ups and dividers, gain-setting networks, current shunts in chargers and motor drives, and inrush limiters.
+P: Book 1's resistor was an ideal object obeying V = IR exactly, with no further qualification needed. A real resistor, the physical component a designer actually places on a board, is only an approximation of that ideal — a good one, most of the time, but one with limits worth knowing before they are discovered the hard way.
+H2: 7.1 Construction and Types
+P: Carbon film and metal film resistors are the ordinary through-hole and surface-mount workhorses, with metal film offering tighter tolerance and lower noise at a modest cost premium. Wirewound resistors, made from a coil of resistive wire, handle far more power than film types of the same size, at the cost of a real disadvantage explored in Section 7.4. Surface-mount chip resistors are a thick- or thin-film resistive layer on a small ceramic substrate, and dominate modern board designs simply on the basis of size.
+H2: 7.2 Tolerance and the E-Series
+P: No manufacturing process produces a resistor at exactly its labeled value; a tolerance, typically ±1%, ±5%, or ±10%, specifies how far the actual value may stray from nominal. Book 1's Chapter 15 introduced the E-series of standard values (E12, E24, E96) as a set of geometric progressions chosen so that adjacent standard values are spaced by roughly the tolerance band itself — the same logic explains why a 5%-tolerance parts line stocks noticeably fewer distinct values than a 1%-tolerance line.
+WE: Worked Example 7.1
+PROB: Two 1 kΩ resistors, each with 5% tolerance, are connected in series. Find the range of possible total resistance.
+SOL: Each resistor can independently fall anywhere between 950 Ω and 1050 Ω. In the worst case, both resistors are simultaneously at their low extreme or both at their high extreme, giving a total resistance anywhere from 1900 Ω to 2100 Ω.
+H2: 7.3 Power Rating and Derating
+P: A resistor dissipates power according to the same P = I²R = V²/R relations from Book 1, and every real resistor carries a maximum power rating — commonly 1/8 W, 1/4 W, or 1/2 W for small through-hole and surface-mount parts — set by how much heat its package can shed before overheating. Good design practice leaves real margin below that rating, since the rating itself typically assumes a specific ambient temperature and derates further as ambient temperature rises.
+WE: Worked Example 7.2
+PROB: An LED circuit runs from a 5 V supply, with the LED's forward voltage at 2 V and a desired current of 20 mA. Find the required series resistor and check whether a 1/8 W (125 mW) resistor is an adequate choice.
+SOL: R = (Vₛᵤₚₚₗᵧ − V_f)/I = (5 − 2)/0.02 = 150 Ω. Power dissipated in the resistor: P = I²R = (0.02)² × 150 = 0.06 W = 60 mW. That is within a 1/8 W part's 125 mW rating, but it uses about 48% of that rating, leaving a comparatively modest ~52% margin — a 1/4 W part would leave more comfortable headroom, especially at an elevated ambient temperature.
+H2: 7.4 Temperature Coefficient and High-Frequency Behavior
+P: A resistor's value drifts slightly with temperature, specified as a temperature coefficient in parts per million per degree Celsius (ppm/°C); metal film types are typically far better in this respect than carbon film. At sufficiently high frequency, no real resistor is purely resistive: a wirewound resistor's coiled construction gives it meaningful parasitic inductance, and any resistor's leads and internal geometry contribute a small parasitic capacitance in parallel with the intended resistance — which is exactly why a wirewound part, excellent for high-power DC and low-frequency AC use, is a poor choice for an RF circuit.
+FIG: fig7_1.png | Figure 7.1 — A real resistor: the intended resistance in series with a small parasitic inductance, shunted by a small parasitic capacitance.
+KEY: Every real component is, at a high enough frequency, secretly a little of the other two as well — a resistor has parasitic inductance and capacitance, precisely as the capacitors and inductors in the next two chapters carry a parasitic resistance of their own.
+H2: 7.5 Resistors in Practice: Heat, Drift, and Pulses
+P: Sections 7.1 to 7.4 gave the real resistor its tolerance, its power rating, its temperature coefficient, and its parasitic inductance and capacitance. Those are the properties that get a circuit working on the first day. This chapter is about the properties that decide whether it still works after a year in a hot enclosure: how a rating changes with ambient temperature, how two resistors that each drift a little can make a ratio drift a lot, how a resistor heats itself, and what happens when a short pulse delivers far more power than the rating allows.
+H2: 7.6 Power Rating Is a Temperature Statement
+P: A resistor's power rating is really a statement about temperature: it is the power that raises the resistive element to its maximum allowed temperature when the surroundings sit at a stated ambient, commonly 70 °C for chip resistors. Above that ambient, the allowed power falls, usually linearly, to zero at the element's maximum temperature, often 155 °C. The datasheet shows this as a derating curve.
+EQ: P_allowed = P_rated × (T_max − T_amb)/(T_max − T_knee)    for T_amb above T_knee
+WE: Worked Example 7.3
+PROB: A 0603 chip resistor is rated 0.1 W at 70 °C, derating linearly to zero at 155 °C. Find the allowed power at an ambient of 100 °C.
+SOL: P_allowed = 0.1 × (155 − 100)/(155 − 70) = 0.1 × 55/85 ≈ 0.065 W. The part has lost about a third of its rating. "Ambient" here means the temperature of the board and air immediately around the part, which near a regulator or a power transistor can be far above the temperature of the room.
+FIG: fig7_2.png | Figure 7.2 — A typical chip-resistor derating curve: full rated power to 70 °C, falling linearly to zero at 155 °C. The marked point is Worked Example 7.3.
+H2: 7.7 Temperature Coefficient and the Ratio That Matters
+P: Most precision circuits do not depend on the absolute value of any resistor. They depend on a ratio: the gain of an amplifier, the division of a voltage divider, the balance of a bridge. If every resistor in the ratio drifted by the same fraction, the ratio would not change at all. The danger is resistors that drift by different amounts.
+WE: Worked Example 7.4
+PROB: A divider made of R₁ = 30 kΩ (top) and R₂ = 10 kΩ (bottom) produces 2.5 V from a 10 V reference. Each resistor has a temperature coefficient of ±100 ppm/°C. Find the worst-case output change over a 50 °C temperature rise. Then repeat for a matched network whose resistors track within 5 ppm/°C of each other.
+SOL: Over 50 °C each resistor can change by up to ±100 × 50 = ±5000 ppm, or ±0.5%. The worst case has them move in opposite directions. With R₁ up 0.5% and R₂ down 0.5%, V_out = 10 × 9.95k/(30.15k + 9.95k) ≈ 2.4813 V; with the opposite signs, about 2.5188 V. The output can wander by about ±0.75%, or ±19 mV. For a tracking network, the ratio can change by at most 5 × 50 = 250 ppm; applied as a 250 ppm change in R₁ alone, V_out shifts by about 190 ppm, under 0.5 mV. A matched resistor network costs more than two discrete parts, but it improves this ratio's stability forty-fold.
+KEY: A precision circuit usually needs a stable ratio, not stable resistors. Specify the tracking coefficient between resistors that set a ratio, and place them close together so they share a temperature.
+H2: 7.8 Self-Heating
+P: Even matched resistors can drift apart if they dissipate different powers, because each one then sits at a different temperature above its surroundings. The temperature rise is the dissipated power times the part's thermal resistance to its surroundings, which for a small chip resistor on a board is often a few hundred degrees Celsius per watt.
+WE: Worked Example 7.5
+PROB: In the divider of Worked Example 7.4, R₁ and R₂ both have a temperature coefficient of +25 ppm/°C and a thermal resistance of about 500 °C/W. Find the power and temperature rise of each, and the resulting change in output.
+SOL: R₁ drops 7.5 V and dissipates 7.5²/30k = 1.875 mW, a rise of about 0.94 °C. R₂ drops 2.5 V and dissipates 2.5²/10k = 0.625 mW, a rise of about 0.31 °C. Their resistances increase by about 23 ppm and 8 ppm respectively, and the output falls by about 12 ppm. That is small, but in a high-resolution measurement it is a real error, and it appears every time the circuit is powered up, not just when the room warms. Using larger resistance values, or resistors that share one substrate, reduces it.
+H2: 7.9 Voltage Limits
+P: Every resistor has a maximum working voltage, separate from its power rating, set by the spacing between its terminals and the risk of arcing across or breaking down the resistive film. For a 0603 chip resistor it is commonly 50 V to 75 V; for an 1206 about 200 V. A high-value resistor can reach its voltage limit while dissipating very little power. A 10 MΩ resistor across 400 V dissipates only 16 mW, far below any rating, but the voltage exceeds what a small chip can hold. High-voltage dividers are therefore built from several resistors in series, each well within its voltage rating, or from parts specified for high voltage. Resistance values themselves also change slightly with applied voltage, a voltage coefficient, which matters in high-voltage measurement dividers.
+H2: 7.10 Pulses and Surges
+P: The steady power rating says little about a short pulse. During a pulse of a few microseconds, heat has no time to leave the resistive element, so the limit becomes the energy the element can absorb before it is damaged, and thin, small elements absorb little. Manufacturers publish pulse-load curves showing allowed peak power versus pulse duration. Thick-film chips tolerate pulses better than thin-film parts of the same size, and specialized anti-surge parts better still; wirewound and carbon-composition types, with their large thermal mass, tolerate surges best of all. Inrush limiters, snubbers, and the input resistors of protection circuits are the usual places this matters.
+H2: 7.11 Current-Sense Resistors
+P: A current-sense resistor, or shunt, converts a current into a small voltage that an amplifier measures. Its value is a compromise: large enough that the voltage stands well above the amplifier's offset, small enough that it wastes little power and drops little voltage.
+FIG: fig7_3.png | Figure 7.3 — A four-terminal (Kelvin) connection: wide traces carry the load current, thin traces from the inner pad edges carry the measurement.
+WE: Worked Example 7.6
+PROB: A 10 mΩ shunt measures a 10 A load current. Find the sense voltage and the dissipation. If the sense amplifier has an offset of 100 µV, what current error does that represent?
+SOL: The sense voltage is 10 A × 0.01 Ω = 100 mV, and the dissipation is 10² × 0.01 = 1 W, so a 2 W or larger part is appropriate. The 100 µV offset represents 100 µV/0.01 Ω = 10 mA, or 0.1% of full scale. At 100 mA of load current, however, the same 10 mA is a 10% error, which is why current measurement over a wide range often uses a zero-drift amplifier from Chapter 15.
+P: At such low resistances, the solder joints and copper leading to the resistor can have resistance comparable to the part itself, and copper's temperature coefficient is about +3900 ppm/°C. A four-terminal or Kelvin connection solves this: two pads carry the current, and two separate traces from the inner edges of the resistor's pads carry only the sensed voltage to the amplifier.
+H2: 7.12 Noise and Aging
+P: Chapter 14's Johnson noise depends only on resistance and temperature, but some resistor types add excess noise when current flows through them, caused by the granular structure of the resistive material. Thick-film and carbon-composition resistors have more of it than thin-film or metal-film parts, and it rises as 1/f, like the flicker noise of Chapter 14. In a low-noise amplifier's feedback network, a thin-film part is the safe choice.
+P: Resistors also age. Datasheets quote load-life stability, such as a maximum change of 0.5% after 1000 hours at rated power and 70 °C. Precision thin-film and foil resistors are specified to a few tens of parts per million under similar conditions. For a circuit calibrated once and expected to hold that calibration for years, this number belongs in the error budget alongside temperature coefficient.
+MIS: Operating a resistor well below its power rating does not, by itself, make it accurate. Rating margin prevents damage and slows aging, but it does nothing for temperature coefficient, tracking, voltage coefficient, or thermoelectric voltages at its terminals. Precision comes from choosing the right type and arranging the parts, not just from oversizing them.
+BENCH: For any shunt below about 100 mΩ, use a four-terminal (Kelvin) layout: route the sense traces from the inner edges of the pads, as a separate pair, to the amplifier. In a typical design the solder joints and pad copper add a few milliohms, which is a big error against a 10 mΩ shunt.
+H2: Practice Problems
+LI: A resistor is rated 1/4 W (250 mW). Find the maximum current it can safely carry if its resistance is 100 Ω.
+LI: Explain, in a sentence or two, why a wirewound resistor is a poor choice for a high-frequency RF circuit even though its DC resistance is perfectly accurate.
+LI: A batch of 1 kΩ resistors is manufactured with 10% tolerance instead of 5%. State the new range of individual resistor values.
+LI: Three 2.2 kΩ resistors, each with 1% tolerance, are connected in series. Find the range of possible total resistance.
+LI: A resistor must dissipate 0.3 W continuously. Standard power ratings available are 1/8 W, 1/4 W, 1/2 W, and 1 W. Which is the smallest rating that gives at least 50% margin above the actual dissipation?
+LI: Explain, in a sentence or two, why a resistor's temperature coefficient matters more in a precision measurement circuit than in a simple LED current-limiting application.
+LI: A 1206 resistor is rated 0.25 W at 70 °C, derating to zero at 155 °C. Find its allowed power at 125 °C.
+LI: Two resistors in a gain-setting ratio each have ±50 ppm/°C temperature coefficients. Over a 40 °C range, what is the worst-case change in their ratio, in ppm?
+LI: A resistor dissipates 20 mW and has a thermal resistance of 400 °C/W. Find its temperature rise and, with a temperature coefficient of 100 ppm/°C, its change in resistance.
+LI: A divider must handle 600 V using 0805 resistors rated 150 V each. What is the minimum number of resistors in series, and why should you use more?
+LI: A 5 mΩ shunt carries 20 A. Find the sense voltage and the dissipation.
+LI: Explain in a sentence or two why a Kelvin connection improves the accuracy of a low-value current-sense resistor.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: E-series values, tolerance and worst-case ranges.
+LI: Power derating with temperature.
+LI: Kelvin connections for current sensing.
+LI: Ratio tracking in precision dividers.
+P: Mostly for exams and deeper study
+LI: Resistor noise models and long-term aging statistics.

@@ -1,0 +1,38 @@
+H1: Chapter 27 — Equivalent Resistance and Dividers
+P: A thermostat, a potentiometer volume knob and the feedback network of a phone charger's regulator all use the same trick: two resistances in series, with the output taken from the middle. This chapter makes series, parallel and dividers second nature.
+P: Where you meet this: Sensor interfaces (thermistors, potentiometers), the feedback networks that set a regulator's output voltage, attenuators, and scaling signals for ADC inputs.
+H2: 27.1 Series and Parallel, Revisited
+P: Part I introduced the series and parallel combination rules for resistors: resistances add directly in series, and combine by reciprocal sum in parallel. This chapter treats those rules as tools for simplifying entire networks, not just pairs of resistors, and develops the two divider circuits — voltage and current — that follow directly from them and that appear, in some form, inside an enormous fraction of practical circuits.
+FIG: fig27_1.png | Figure 27.1 — Series and parallel resistor combinations, with their equivalent-resistance formulas.
+EQ: Rseries = R1 + R2 + … ,     1/Rparallel = 1/R1 + 1/R2 + …
+H2: 27.2 Reducing a Network by Combination
+P: Many practical circuits, though they may look complicated at first glance, can be fully solved by repeatedly identifying resistors that are purely in series or purely in parallel, combining them into a single equivalent resistor, and redrawing the (now simpler) circuit — repeating until only a single equivalent resistance remains between the source terminals. This is not a universal method (Chapters 28 and 29 introduce the systematic techniques needed once a network cannot be reduced this way, typically because of a “bridge” configuration with no purely series or parallel path), but it is the fastest method whenever it applies, and recognizing when it applies is itself a skill worth developing before reaching for heavier machinery.
+H2: 27.3 The Voltage Divider
+P: Two resistors in series across a voltage source V split that voltage in direct proportion to their resistances, since the same current flows through both:
+EQ: V1 = V · R1 / (R1 + R2) ,   V2 = V · R2 / (R1 + R2)
+P: The voltage divider generalizes immediately to any number of series resistors: the voltage across any one of them is the source voltage times that resistor's share of the total series resistance. It is worth noting explicitly what the voltage divider assumes: that whatever draws off the divided voltage (a downstream load) draws negligible current compared to the current already flowing through the divider itself. If that assumption fails — if the load draws a comparable or larger current — the simple divider formula no longer gives the correct output voltage, and the load's own resistance must be folded into the calculation as a resistor in parallel with whichever divider resistor it is connected across.
+FIG: fig27_2.png | Figure 27.2 — Voltage and current dividers, with their governing formulas.
+H2: 27.4 The Current Divider
+P: Two resistors in parallel across a current source (or a branch carrying a known total current) split that current inversely in proportion to their resistances — the larger resistor carries the smaller share, since current preferentially takes the path of least resistance:
+EQ: I1 = I · R2 / (R1 + R2) ,   I2 = I · R1 / (R1 + R2)
+P: Notice that each resistor's current formula uses the other resistor's value in the numerator — the reverse of the voltage divider's pattern, where each resistor's voltage formula uses its own value in the numerator. This inversion is easy to state and easy to forget under exam pressure; rederiving it once from Ohm's law and KCL (each resistor sees the same voltage V = IR_parallel, so I₁ = V/R₁ and I₂ = V/R₂, and substituting R_parallel confirms the pattern above) is a more reliable way to keep it straight than memorizing it as an isolated fact.
+KEY: Voltage dividers use each resistor's own value; current dividers use the other resistor's value. This asymmetry falls directly out of Ohm's law applied to series versus parallel configurations, and rederiving it once is more durable than memorizing the two formulas as unrelated facts.
+WE: Worked Example 27.1
+PROB: A 15 V source drives a series combination of a 5.0 kΩ and a 10 kΩ resistor. Find the voltage across the 10 kΩ resistor.
+SOL: V₁₀ₖ = 15 × 10/(5.0+10) = 15 × 10/15 = 10 V.
+WE: Worked Example 27.2
+PROB: A current source supplies 12 mA to a parallel combination of a 2.0 kΩ and a 6.0 kΩ resistor. Find the current through the 2.0 kΩ resistor.
+SOL: Using the current-divider formula (note the other resistor's value appears in the numerator): I₂ₖ = I × R₆ₖ/(R₂ₖ+R₆ₖ) = 12 × 6.0/(2.0+6.0) = 12 × 0.75 = 9.0 mA. Check: the smaller resistor should carry the larger share of the current, and 9.0 mA out of 12 mA total is indeed the larger share, confirming the arithmetic direction is right.
+MIS: It is a common shortcut error, once a network contains more than two resistors, to attempt to identify series and parallel groupings by eye without carefully tracing which nodes each resistor actually connects — two resistors that merely look adjacent on a drawn diagram are not necessarily in series or parallel with each other in the sense these rules require. A resistor is in series with another only if they share exactly one node with nothing else connected there (so the same current is forced through both), and two resistors are in parallel only if both of their endpoints connect to the same pair of nodes. When a network's diagram is drawn with resistors at odd angles or overlapping, redrawing it schematically, node by node, before attempting any combination is far more reliable than trying to judge series/parallel relationships from the picture's layout alone.
+BENCH: A divider only divides properly when its load draws much less current than the divider does. A 100 kΩ/100 kΩ divider feeding a 100 kΩ input gives one-third, not one-half. Rule of thumb: make the load at least ten times the divider's output resistance (the two resistors in parallel), or buffer the output with an op-amp.
+H3: Practice Problems
+LI: A 20 V source drives a series combination of a 3.0 kΩ, 5.0 kΩ, and 2.0 kΩ resistor. Find the voltage across the 5.0 kΩ resistor.
+LI: A current source supplies 30 mA to two parallel resistors, 4.0 kΩ and 12 kΩ. Find the current through each.
+LI: Reduce the following network to a single equivalent resistance: a 6.0 Ω resistor in series with the parallel combination of a 4.0 Ω and a 12 Ω resistor.
+LI: A voltage divider built from a 1.0 kΩ and a 9.0 kΩ resistor across a 10 V supply is loaded by a 9.0 kΩ resistor connected across the 9.0 kΩ divider resistor. Find the actual output voltage, and compare it to the unloaded divider prediction.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Series and parallel combination.
+LI: Voltage and current dividers, and the loading rule.
+P: Mostly for exams and deeper study
+LI: Long ladder networks reduced by hand.

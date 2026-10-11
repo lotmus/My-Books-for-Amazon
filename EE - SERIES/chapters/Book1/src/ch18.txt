@@ -1,0 +1,35 @@
+H1: Chapter 18 — Functions, Graphs, and Limiting Behavior
+P: A datasheet's graphs often tell you more than its tables: how a part behaves hot, cold, heavily loaded, or pushed past its limits. Engineers read graphs faster than equations, and this chapter is about reading them well, especially at the ends, where a curve flattens out or runs away.
+P: Where you meet this: Datasheet curves (capacitance against voltage, gain against frequency, efficiency against load), oscilloscope traces, and Bode plots.
+P: Engineers read graphs more often than they read equations. A frequency response, a transfer characteristic, a load line — each is a function drawn rather than written, and the skill being exercised is the ability to extract behavior from shape. This chapter is about that skill.
+H2: 18.1 Functions as Input-Output Relations
+P: A function assigns exactly one output to each input. In circuit terms, the input is often a frequency or an input voltage, and the output is a gain or an output voltage. The notation H(f) means "the value of H at frequency f" — it is not H multiplied by f, a confusion that causes real difficulty when the same letters are used for both quantities and functions.
+H2: 18.2 Linear Functions and Straight Lines
+P: A linear function has the form y = mx + c, with m the slope and c the intercept. Ohm's law is linear through the origin, which is why an ohmic resistor plots as a straight line through (0,0) on a current-versus-voltage graph, with slope 1/R.
+P: A load line is the same idea used in reverse. For a source of voltage V_s with internal resistance R_s driving an unknown element, Kirchhoff gives V = V_s − I·R_s: a straight line on the same axes as the device characteristic, with negative slope. Where the two curves cross is the operating point. This graphical technique is how transistor bias points were found before circuit simulators existed, and it remains the clearest way to understand what biasing actually means.
+H2: 18.3 Asymptotes and Limiting Behavior
+P: The fastest way to understand an unfamiliar transfer function is to ask what it does at the extremes. Consider the response of a simple low-pass filter:
+EQ: H(f) = 1 / √(1 + (f/f_c)²)
+P: At very low frequency, f/f_c is nearly zero, so the square root is nearly 1 and H ≈ 1: the filter passes the signal untouched. At very high frequency, the 1 becomes negligible next to (f/f_c)², so H ≈ f_c/f: the response falls in inverse proportion to frequency. At f = f_c exactly, H = 1/√2 ≈ 0.707, which is the definition of the corner frequency.
+P: Three numbers — the low-frequency asymptote, the high-frequency asymptote, and the value at the corner — sketch the entire curve to engineering accuracy, without evaluating the function anywhere else. This is the habit worth building: probe the extremes first, fill in the middle only if you need to.
+FIG: fig18_1.png | Figure 18.1 — Reading a function's limiting behavior: the value it approaches at each extreme.
+KEY: Read a transfer function at its limits before you plot it. What happens as the variable goes to zero, and as it goes to infinity? Those two answers plus the behavior at the corner give you the shape. Everything else is detail.
+WE: Worked Example 18.1
+P: A high-pass filter has transfer function H(f) = (f/f_c)/√(1+(f/f_c)²), with corner frequency f_c = 1.0 kHz. Find H at f = 100 Hz, f = 1.0 kHz, and f = 10 kHz, and state which asymptote each value sits closest to.
+P: At f = 100 Hz: f/f_c = 0.1, so H = 0.1/√1.01 ≈ 0.0995 — close to the low-frequency asymptote H ≈ 0 (a high-pass filter blocks low frequencies). At f = 1.0 kHz (the corner): H = 1/√2 ≈ 0.707, matching the general −3 dB corner value exactly. At f = 10 kHz: H = 10/√101 ≈ 0.995 — close to the high-frequency asymptote H ≈ 1 (a high-pass filter passes high frequencies essentially unattenuated). The same three numbers — the low-frequency limit, the high-frequency limit, and the corner value — sketch this curve exactly as they did for the low-pass example above, just with the roles of the two asymptotes reversed.
+H2: 18.4 Logarithmic Axes
+P: Electrical engineering plots almost everything on logarithmic axes, for a reason that follows directly from Chapter 14: the quantities span many orders of magnitude, and a linear axis cannot show a microvolt and a volt on the same picture.
+P: On log axes, a power-law relationship becomes a straight line, and the exponent becomes the slope. The high-frequency asymptote H ≈ f_c/f above is a power law with exponent −1, so on a log-log plot it is a straight line falling at a constant rate — the familiar 20 dB per decade rolloff. A second-order filter falls at exponent −2, giving 40 dB per decade. Reading the slope off a log-log plot tells you the order of the system directly, which is a genuinely useful diagnostic when looking at measured data.
+MIS: A logarithmic axis has no zero. It cannot: the logarithm of zero is undefined, tending to negative infinity. This surprises people the first time a plotting program refuses to display their data, or silently drops the DC point. It also means you cannot plot a signal that changes sign on a log axis without taking the magnitude first — which is exactly why frequency responses are conventionally plotted as magnitude and phase separately rather than as a single signed quantity.
+BENCH: Check the axes before the curve. Datasheet plots often use log scales, show a 'typical' part at 25 °C, and hide their test conditions in small print under the title. A part that looks comfortable at the typical point can be marginal at your temperature and supply voltage, which is why you design to the minimum and maximum tables, not to the typical graphs.
+H3: Practice Problems
+LI: A resistor obeys Ohm's law. Sketch its current-versus-voltage characteristic for R = 2 kΩ, and state the slope in siemens.
+LI: For the low-pass response H(f) = 1/√(1 + (f/f_c)²) with f_c = 1 kHz, evaluate H at 100 Hz, 1 kHz, and 10 kHz.
+LI: A 12 V source with 50 Ω internal resistance drives a load. Write the load-line equation and find the current when the load voltage is 8 V.
+LI: A measured response falls by a factor of 100 in magnitude when the frequency increases by a factor of 10. What is the slope on a log-log plot, what is the rolloff in dB per decade, and what order of filter does this suggest?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Reading linear and logarithmic axes.
+LI: Asymptotes and limiting behavior for quick estimates.
+P: Mostly for exams and deeper study
+LI: Formal limits and continuity.

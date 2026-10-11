@@ -1,0 +1,49 @@
+H1: Chapter 8 — Ohm's Law and a First Look at Circuits
+P: Plug a bare LED straight into a 5 V USB supply and it may flash once, brilliantly, and never again. One resistor and one line of Ohm's law would have saved it. This chapter is where electronics stops being physics and starts being circuits.
+P: Where you meet this: Every LED indicator, pull-up resistors on buttons and data lines, sensor voltage dividers, and the power rating printed on every resistor.
+H2: 8.1 Ohm's Law
+P: Georg Ohm found, in 1827, that for a large class of materials (now called ohmic materials, or resistors when packaged as discrete components), the current through the material is directly proportional to the voltage across it, at a fixed temperature:
+EQ: V = IR
+P: This is not a law of nature in the way Coulomb's law or Gauss's law are — it is an empirical approximation that happens to hold extremely well for metals and for manufactured resistors under normal operating conditions, and it fails outright for many devices you will meet later in this series, including diodes and transistors, whose entire usefulness stems from their current-voltage relationship being deliberately non-Ohmic.
+FIG: fig8_1.png | Figure 8.1 — An ohmic device has a straight-line I-V curve; a non-ohmic device (such as a diode) does not.
+KEY: Ohm's law relates three quantities — memorize the triangle, not just the formula. V = IR, so also I = V/R and R = V/I. Given any two of voltage, current, and resistance, the third follows immediately. This single relationship, together with the two Kirchhoff laws developed in Part III of this book (Chapter 26), is sufficient to analyze any resistive DC circuit, no matter how complex.
+H2: 8.2 Power in a Resistor
+P: Electrical power is the rate at which electrical energy is delivered or dissipated:
+EQ: P = IV
+P: Combined with Ohm's law, this yields two equally useful alternate forms:
+EQ: P = I2R = V2/R
+P: For a resistor, this power is dissipated as heat — this is Joule heating, the same physical mechanism (electrons scattering off the lattice, from Chapter 7) that gives rise to resistance in the first place, now viewed from an energy-accounting perspective rather than a current-impeding one. Every resistor in a real circuit has a maximum power rating, beyond which the resulting heat will damage or destroy it; checking that a resistor's power rating exceeds its expected dissipation is a standard, mandatory step in circuit design that this series will return to repeatedly.
+H2: 8.3 A First Circuit: Series and Parallel Resistors
+P: Two resistors are in series if the same current must flow through both, one after the other, with no branch point between them. Their combined resistance simply adds:
+EQ: Rseries = R1 + R2 + …
+P: Two resistors are in parallel if both are connected across the same pair of nodes, so the same voltage appears across each while the total current splits between them. Their combined resistance follows from the reciprocal sum:
+EQ: 1/Rparallel = 1/R1 + 1/R2 + …
+P: A useful special case, worth having memorized, is two resistors in parallel:
+EQ: Rparallel = R1R2 / (R1 + R2)
+P: Series resistance is always larger than the largest individual resistor (more obstacles, end to end); parallel resistance is always smaller than the smallest individual resistor (more parallel paths for current to take, so less overall opposition). This behavior — and the systematic method for analyzing arbitrary networks that do not reduce to simple series/parallel combinations — is developed in full in Part III of this book, which builds directly on the definitions in this chapter.
+H2: 8.4 A First Look at Voltage Division
+P: One immediate, practical consequence of the series-resistor rule is worth introducing here, ahead of its full treatment in Part III of this book, because it appears so often in practice: two resistors in series across a voltage source V split that voltage between them in direct proportion to their resistances, since the same current I flows through both:
+EQ: V1 = V · R1 / (R1 + R2) ,   V2 = V · R2 / (R1 + R2)
+P: This voltage divider is one of the single most common sub-circuits in all of electronics, used to derive a smaller reference voltage from a larger supply, and it is worth internalizing this chapter's result now, since it will reappear as a building block almost immediately in Part III of this book (Chapter 27).
+WE: Worked Example 8.1
+PROB: A 12 V battery is connected across a single 6.0 Ω resistor. Find the current drawn and the power dissipated.
+SOL: I = V/R = 12/6.0 = 2.0 A. Power: P = IV = (2.0)(12) = 24 W (equivalently P = I²R = (2.0)²(6.0) = 24 W, a useful cross-check).
+WE: Worked Example 8.2
+PROB: A 10 Ω resistor and a 30 Ω resistor are connected in series across a 20 V source. Find the current through the circuit and the voltage across each resistor.
+SOL: Total series resistance: R = 10 + 30 = 40 Ω. Current: I = V/R = 20/40 = 0.50 A, the same through both resistors since they are in series. Voltage across the 10 Ω resistor: V₁ = IR₁ = (0.50)(10) = 5.0 V. Voltage across the 30 Ω resistor: V₂ = IR₂ = (0.50)(30) = 15 V. Check: 5.0 + 15 = 20 V, matching the source voltage exactly, as it must for a single series loop.
+FIG: fig8_2.png | Figure 8.2 — The resistor that saves the LED: it takes the 3 V the LED doesn’t need and sets the current at about 9 mA, plenty for an indicator.
+MIS: A frequent error when first combining series and parallel resistors is to add parallel resistances directly, the way series resistances add — forgetting the reciprocal step entirely. Two equal 100 Ω resistors in parallel do not combine to 200 Ω; they combine to 50 Ω, half of either individual value, since two identical parallel paths each carry half the total current at the same voltage, doubling the effective conductance and therefore halving the effective resistance. If a “combined” parallel resistance ever comes out larger than the smallest resistor in the group, the reciprocal step has been dropped somewhere in the calculation.
+BENCH: Derate resistors. A 0.25 W resistor dissipating 0.25 W runs hot enough to discolor the board; a common rule is to keep dissipation at or below half the rating. And design with values you can actually buy: 300 Ω isn't in the common E12 series, so you choose 330 Ω and recheck the current.
+H3: Practice Problems
+LI: A 9.0 V battery drives a current of 0.30 A through a resistor. Find the resistor's value and the power it dissipates.
+LI: Two resistors, 4.0 Ω and 12 Ω, are connected in parallel. Find the equivalent resistance.
+LI: A resistor rated for a maximum power of 0.25 W is to be used with a 5.0 V source. What is the minimum resistance that keeps it within its rating?
+LI: A voltage divider is built from a 2.0 kΩ resistor and an 8.0 kΩ resistor in series across a 10 V supply. Find the voltage across the 8.0 kΩ resistor.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: V = IR and P = VI = I²R = V²/R, many times a day.
+LI: Series resistances add; for two in parallel, product over sum.
+LI: The voltage divider for references and sensor readout.
+P: Mostly for exams and deeper study
+LI: The distinction between ohmic and non-ohmic materials, stated formally.
+LI: The history of Ohm's measurements.

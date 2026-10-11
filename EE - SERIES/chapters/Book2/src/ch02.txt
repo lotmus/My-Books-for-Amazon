@@ -1,0 +1,35 @@
+H1: Chapter 2 — Digital Electronics
+P: Here is a puzzle. A logic gate is made of transistors, and transistors are analog parts. So why does a digital signal arriving slightly noisy leave the gate perfectly clean? The answer is noise margin, and it is the whole reason digital electronics works.
+P: Where you meet this: Microcontroller pins, logic-level translators between 1.8 V, 3.3 V and 5 V parts, I²C and SPI buses, and every 'it works on my desk but not in the car' bug.
+P: Every signal this book has discussed so far is continuous: it can take any value in a range, and that value itself carries the information. A digital signal takes a different approach entirely — it restricts itself to a small number of distinct states, almost always two, and accepts a cost in exchange for a considerable benefit. The cost is that a continuously varying real-world quantity must first be forced into one of those few states. The benefit is not that a digital signal is somehow immune to noise — no real signal is — but that its robustness comes from defining acceptable ranges for each state and regenerating a clean signal at every stage, rather than requiring every voltage to stay exact throughout. That is a strategy no analog signal, which must preserve its exact value all the way through, can fully share, and it is the reason nearly every modern system that can be built digitally, is.
+H2: 2.1 Logic Levels and the Two-State Idea
+P: A digital signal is defined by two ranges of voltage, not two exact voltages. Any value inside the “high” range is interpreted as a logic 1, and any value inside the “low” range is interpreted as a logic 0, regardless of exactly where within that range the voltage sits. A gap is deliberately left between the two ranges — a forbidden zone a valid signal is never supposed to occupy — and it is this gap that gives digital circuits their noise immunity.
+P: Four voltages define the boundaries a manufacturer guarantees for a given logic family: the minimum output voltage guaranteed to be recognized as high (Vₒₕ, min), the minimum input voltage that will still be read as high (Vᵢₕ, min), the maximum output voltage guaranteed to be recognized as low (Vₒʟ, max), and the maximum input voltage still read as low (Vᵢʟ, max).
+H2: 2.2 Noise Margin
+P: The noise margin is the gap between what a gate is guaranteed to output and what the next gate down the line is guaranteed to still accept correctly, for each logic level separately:
+EQ: NMʜ = Vₒₕ(min) − Vᵢₕ(min)         NMʟ = Vᵢʟ(max) − Vₒʟ(max)
+P: Any noise, ringing, or voltage drop smaller than the relevant noise margin can be added to a signal anywhere along its path without ever risking a misread bit. This is the source of digital electronics' most valuable property: a signal can pass through dozens of gates, each one imperfect and each one adding a little noise, and come out the other end exactly as clean as it went in — because each gate does not pass along the noisy analog voltage it received, it reads a bit and regenerates a fresh, full-strength output level.
+WE: Worked Example 2.1
+PROB: A logic family specifies Vₒₕ(min) = 2.4 V, Vᵢₕ(min) = 2.0 V, Vₒʟ(max) = 0.4 V, and Vᵢʟ(max) = 0.8 V. Find both noise margins.
+SOL: NMʜ = Vₒₕ(min) − Vᵢₕ(min) = 2.4 − 2.0 = 0.4 V. NMʟ = Vᵢʟ(max) − Vₒʟ(max) = 0.8 − 0.4 = 0.4 V. This circuit can tolerate up to 0.4 V of noise on either a high or a low signal without a single bit being misread — these are, in fact, the standard values for classic TTL logic.
+FIG: fig2_1.png | Figure 2.1 — The forbidden zone between Vᵢʟ(max) and Vᵢₕ(min), with the noise margins NMʜ and NMʟ on either side.
+WE: Worked Example 2.2
+PROB: A 3.3 V logic output (Vₒₕ(min) = 2.8 V, Vₒʟ(max) = 0.2 V) drives the input of a 5 V logic gate (Vᵢₕ(min) = 2.0 V, Vᵢʟ(max) = 0.8 V). Find both noise margins for this mixed-voltage connection.
+SOL: NMʜ = Vₒₕ(min) − Vᵢₕ(min) = 2.8 − 2.0 = 0.8 V. NMʟ = Vᵢʟ(max) − Vₒʟ(max) = 0.8 − 0.2 = 0.6 V. The two margins need not match, as they do for a single logic family — mixing families gives an asymmetric result, here more tolerant of high-side noise than low-side.
+H2: 2.3 Gates as Amplifiers Driven Hard
+P: A logic gate is, at the component level, built from the same amplifying devices Book 3 will introduce — it is not a fundamentally different kind of circuit from the analog stages in Chapter 1. What makes it digital is a design choice: rather than being biased for a well-behaved linear region the way an analog amplifier is, a gate is deliberately driven hard between its two extremes, spending as little time as possible in the in-between region where its behavior would be unpredictable and analog-like. Chapter 1's headroom concept still applies; a digital gate simply chooses to operate at the very edges of its available range instead of in the comfortable middle.
+KEY: Digital robustness comes from regeneration, not from the absence of noise. Every gate reads a fuzzy analog input and outputs a fresh, full-strength digital level — noise that entered one stage is thrown away, not carried forward, which is precisely what an analog stage cannot do.
+BENCH: Check thresholds whenever two logic families meet. A 3.3 V output driving a 5 V CMOS input may sit below that input's V_IH(min) of about 3.5 V (0.7 × 5 V) and work only on good days. 5 V TTL-compatible (HCT) inputs accept it; plain HC inputs at 5 V may not. The datasheet's V_IH and V_OH columns settle the question; the logo on the chip doesn't.
+H2: Practice Problems
+LI: A logic family specifies Vₒₕ(min) = 3.5 V, Vᵢₕ(min) = 2.0 V, Vₒʟ(max) = 0.2 V, and Vᵢʟ(max) = 0.5 V. Find both noise margins.
+LI: Convert the binary number 1011 to decimal.
+LI: Explain, in a sentence or two, why a long chain of analog amplifier stages degrades a signal while a long chain of digital gates does not.
+LI: A logic family specifies Vₒₕ(min) = 4.4 V, Vᵢₕ(min) = 3.15 V, Vₒʟ(max) = 0.1 V, and Vᵢʟ(max) = 1.35 V. Find both noise margins.
+LI: Convert the binary number 11010 to decimal.
+LI: Two logic families have identical noise margins on paper, but one is used in an electrically noisy industrial environment. Explain why matching noise margins alone doesn't guarantee reliable operation in practice.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: V_IL, V_IH, V_OL, V_OH and the noise margins between them.
+LI: Treating a gate as a high-gain amplifier driven hard.
+P: Mostly for exams and deeper study
+LI: Detailed transistor-level gate transfer curves.

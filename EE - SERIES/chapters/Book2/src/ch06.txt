@@ -1,0 +1,80 @@
+H1: Chapter 6 — Passive and Active Filters
+P: Your phone separates your voice from the wind noise, your car stereo keeps the bass out of the tweeters, and every ADC needs a fence against frequencies it can't handle. Filters are the quiet majority of analog design, and they mostly come down to a few capacitors and resistors in the right places.
+P: Where you meet this: Anti-aliasing filters before ADCs, audio crossovers and equalizers, power-supply ripple filters, and the reconstruction filter after every DAC.
+P: Book 1 introduced frequency response by way of a single RC low-pass stage and, separately, RLC resonance. This chapter generalizes both ideas into a single design discipline — filtering — and adds the one genuinely new idea an ideal resistor, capacitor, and inductor alone cannot provide: an active filter, built around an op-amp, that can add gain and isolate its response from whatever load it drives.
+H2: 6.1 First-Order Filters, Revisited
+P: A single-resistor, single-capacitor low-pass filter passes frequencies below its corner frequency largely unchanged and attenuates frequencies above it, with the corner (or cutoff) frequency set by
+EQ: fᴄ = 1 / (2πRC)
+P: Swapping the positions of the resistor and capacitor produces the complementary high-pass filter, with the identical formula for its corner frequency. Both are first-order filters, and a first-order filter's response falls off at a fixed rate of −20 dB per decade once past the corner — a fact Book 1's Chapter 18 introduced as an asymptote-reading exercise and this chapter now names properly.
+WE: Worked Example 6.1
+PROB: Find the corner frequency of an RC low-pass filter with R = 10 kΩ and C = 10 nF.
+SOL: fᴄ = 1/(2πRC) = 1/(2π × 10×10³ × 10×10⁻⁹) = 1/(2π × 1×10⁻⁴) ≈ 1591.5 Hz, or about 1.59 kHz.
+FIG: fig6_1.png | Figure 6.1 — The first-order low-pass response for Worked Example 6.1: flat below fᴄ, falling at −20 dB/decade above it.
+H2: 6.2 Filter Order and Roll-Off
+P: Cascading filter stages increases the order, and each additional order steepens the roll-off by another −20 dB per decade — a second-order filter falls at −40 dB/decade, a fourth-order filter at −80 dB/decade. Higher order buys a sharper transition between the passband and the stopband, at the cost of a more complex circuit and, for a passive design built from real inductors, often an impractically large or lossy component.
+WE: Worked Example 6.2
+PROB: The filter from Worked Example 6.1 has fᴄ ≈ 1.59 kHz. Find its attenuation, in dB, at 15.9 kHz — one decade above the corner.
+SOL: |H| = 1/√(1 + (f/fᴄ)²) = 1/√(1 + 10²) = 1/√101 ≈ 0.0995. In decibels: 20·log₁₀(0.0995) ≈ −20.0 dB. One decade above the corner, the exact response is already almost indistinguishable from the −20 dB/decade asymptote — confirming why the asymptote is such a reliable shortcut away from the corner itself.
+H2: 6.3 Band-Pass and Band-Stop Filters
+P: A band-pass filter passes a range of frequencies centered on some frequency of interest and attenuates everything outside that range; the series RLC resonant circuit from Book 1's Chapter 37 already behaves exactly this way, with its bandwidth set by its quality factor Q. A band-stop (or notch) filter does the opposite, rejecting a narrow range of frequencies while passing everything else — the same RLC circuit, connected differently, provides this too.
+H2: 6.4 Active Filters
+P: Every passive filter discussed so far has one practical drawback: its actual frequency response depends on whatever load impedance is connected to its output, since that load forms part of the circuit the filter's transfer function was derived from. An active filter places an op-amp between the filtering network and the output, using the op-amp's near-zero (though not literally zero) output impedance to strongly isolate the filter's response from the load, and its gain to make up for any signal loss the filtering network introduces — something no arrangement of passive components alone can do, since a real resistor, capacitor, and inductor can only remove energy from a signal, never add it.
+FIG: fig6_2.png | Figure 6.2 — A passive RC stage driving a load directly, versus the same stage buffered by an op-amp before the load.
+KEY: An active filter's frequency response is largely isolated from whatever load it drives; a passive filter's response is only correct for the specific load it was designed around, and changes — sometimes significantly — if that load changes. “Largely” matters here: a real op-amp's output impedance is small but not zero, and its finite bandwidth limits how well that isolation holds as frequency rises.
+MIS: “Active” does not mean “better” in every respect. An active filter needs a power supply and cannot process a signal outside its op-amp's operating voltage range, while a passive filter needs neither and can handle much larger signals — the right choice depends on the application, not a blanket preference for one over the other.
+WE: Worked Example 6.3
+PROB: Design an RC low-pass filter with a corner frequency of 2 kHz. Choose a practical resistor value first, then compute the capacitor needed, and round to the nearest standard (E12) value.
+SOL: Pick a convenient standard resistor value, R = 8.2 kΩ. Solving fᴄ = 1/(2πRC) for C: C = 1/(2π·fᴄ·R) = 1/(2π × 2000 × 8200) ≈ 9.70 nF. The nearest E12 standard capacitor value is 10 nF. Checking the actual corner frequency with the rounded value: fᴄ = 1/(2π × 8200 × 10×10⁻⁹) ≈ 1941 Hz — about 3% below the 2 kHz target, which is well within what a design normally tolerates once component tolerances are considered. Choosing component values is always this last step: solve for the exact value, then round to what a parts bin actually stocks and check the result is still close enough.
+H2: 6.5 Active Filter Design: Sallen-Key and Multiple Feedback
+P: The first half of this chapter built the vocabulary of filters: order, roll-off, corner frequency, and the reason an op-amp makes a filter independent of its load. It stopped at first-order stages. Real anti-aliasing filters, audio crossovers, and sensor conditioners usually need a sharper transition, which means second-order sections and cascades of them. This chapter designs those sections from a specification to standard part values, using the two circuits that account for most active filters ever built.
+H2: 6.6 The Second-Order Section
+P: Every second-order low-pass response, however it is built, has the same transfer function, set by three numbers: a passband gain H₀, a natural frequency ω₀ = 2πf₀, and a quality factor Q:
+EQ: H(s) = H₀ ω₀² / (s² + (ω₀/Q) s + ω₀²)
+P: Q controls the shape near the corner. At f₀ the gain is exactly Q × H₀. A low Q gives a gentle, droopy knee; a high Q gives a peak. Three values recur often enough to have names. Q = 0.7071 (1/√2) is the Butterworth response, as flat as possible in the passband, with its −3 dB point exactly at f₀. Q = 0.5773 (1/√3) is the second-order Bessel response, which gives up some sharpness in exchange for nearly constant time delay, so a step passes through it with almost no overshoot. Higher values, such as 0.9565 for a Chebyshev response with 1 dB of passband ripple, buy a steeper initial roll-off at the cost of ripple and ringing.
+FIG: fig6_3.png | Figure 6.3 — Second-order low-pass magnitude for Bessel (Q = 0.577), Butterworth (Q = 0.707), and 1 dB Chebyshev (Q = 0.957) sections with the same f₀.
+H2: 6.7 The Unity-Gain Sallen-Key Low-Pass
+P: The Sallen-Key low-pass uses two resistors in series from the input to the non-inverting input of an op-amp wired as a follower. A capacitor C₂ goes from the non-inverting input to ground, and a capacitor C₁ goes from the junction of the two resistors back to the output. That feedback capacitor is what lifts the response near the corner and makes Q larger than a passive RC-RC ladder could achieve. With R₁ and R₂ as the two resistors:
+EQ: ω₀ = 1/√(R₁R₂C₁C₂),    Q = √(R₁R₂C₁C₂) / (C₂(R₁ + R₂))
+FIG: fig6_4.png | Figure 6.4 — The unity-gain Sallen-Key low-pass: two resistors, two capacitors and a follower. C1 feeds the output back into the middle node, which is what gives the filter its Q.
+P: With equal resistors R₁ = R₂ = R, these simplify to ω₀ = 1/(R√(C₁C₂)) and Q = ½√(C₁/C₂). The capacitor ratio sets Q and the resistor sets the frequency, which is the cleanest way to design one. A Butterworth section needs C₁/C₂ = 2.
+WE: Worked Example 6.4
+PROB: Design a unity-gain Sallen-Key Butterworth low-pass filter with f₀ = 1 kHz, using E12 capacitors and E96 resistors. Find the resulting f₀ and Q.
+SOL: A Butterworth section wants C₁ = 2C₂. The nearest E12 pair is C₂ = 10 nF and C₁ = 22 nF, a ratio of 2.2, giving Q = ½√2.2 ≈ 0.742. The resistor then follows from R = 1/(2πf₀√(C₁C₂)) = 1/(2π × 1000 × √(22×10⁻⁹ × 10×10⁻⁹)) ≈ 10.73 kΩ, and the nearest E96 value is 10.7 kΩ. With those parts, f₀ ≈ 1003 Hz and Q ≈ 0.742. A numerical check of the circuit gives a −3 dB frequency of about 1049 Hz and a peak of only 0.04 dB above the passband, which no application that chose a 5% capacitor would ever notice.
+P: Because the op-amp is a follower, the passband gain is exactly one and the noise gain is one, so the op-amp has its full bandwidth to work with. That makes the unity-gain Sallen-Key the usual choice for low-noise, low-Q sections. A Sallen-Key with gain above one is possible, by adding a divider in the feedback path, but its Q then depends on the gain, and high-Q designs become sensitive to resistor tolerance.
+H2: 6.8 The Multiple-Feedback Low-Pass
+P: The multiple-feedback (MFB) circuit builds the same response around an inverting op-amp. An input resistor R₁ runs to a node with a capacitor C₁ to ground. From that node, R₂ goes to the output and R₃ goes to the inverting input, and a capacitor C₂ runs from the inverting input to the output. The non-inverting input is grounded.
+EQ: H₀ = −R₂/R₁,  ω₀ = 1/√(R₂R₃C₁C₂),  Q = √(R₂R₃C₁C₂) / (C₂(R₂ + R₃ + R₂R₃/R₁))
+P: With all three resistors equal, H₀ = −1 and Q = ⅓√(C₁/C₂), so a Butterworth section needs C₁/C₂ = 4.5. The MFB inverts the signal, which is harmless in most systems, and it has two practical advantages over the Sallen-Key: its inputs sit at a fixed voltage, so common-mode range is not a concern, and its stopband stays deep at high frequency, where a Sallen-Key's attenuation eventually degrades because signal leaks through C₁ into an op-amp output whose impedance is rising.
+WE: Worked Example 6.5
+PROB: Design an equal-resistor MFB Butterworth low-pass with f₀ = 1 kHz, using C₂ = 4.7 nF and the nearest E12 value for C₁. Find R, the resulting Q, and f₀ with an E96 resistor.
+SOL: The ideal C₁ is 4.5 × 4.7 nF ≈ 21.2 nF; the nearest E12 value is 22 nF. Then Q = ⅓√(22/4.7) ≈ 0.721. The resistor is R = 1/(2π × 1000 × √(22×10⁻⁹ × 4.7×10⁻⁹)) ≈ 15.65 kΩ; the nearest E96 value is 15.8 kΩ, giving f₀ ≈ 991 Hz. The passband gain is −1.
+H2: 6.9 Higher Orders by Cascading
+P: A fourth-order filter is not two identical second-order sections in series. Two identical Butterworth sections would give a response that is −6 dB at f₀, with a droopy knee. Instead, each order has its own table of section Q values that together produce the desired overall shape. For a fourth-order Butterworth, both sections share the same f₀ and have Q = 0.5412 and Q = 1.3066. For a sixth-order Butterworth there are three sections, with Q = 0.5176, 0.7071, and 1.9319. Bessel and Chebyshev tables also shift the f₀ of each section.
+P: The order of the sections in the cascade matters. A common practice puts the low-Q section first. The high-Q section has a gain peak near f₀, and if it came first, a strong signal near f₀ could clip at its output before the gentler section had a chance to attenuate anything; the low-Q section also filters some of the high-frequency noise before it reaches the high-gain region of the next stage.
+KEY: A second-order section is set by f₀, Q, and H₀; the Butterworth value Q = 0.7071 is the flat-passband choice. In an equal-resistor design, the capacitor ratio sets Q and the resistor sets the frequency: C₁/C₂ = 4Q² for unity-gain Sallen-Key and 9Q² for MFB.
+H2: 6.10 Tolerance, Parts, and the Op-Amp
+P: In the equal-resistor Sallen-Key, Q depends on the square root of the capacitor ratio, so a 5% error on each capacitor in opposite directions shifts Q by about 5%, and f₀ by about the same. For Butterworth sections that is harmless; for high-Q Chebyshev sections it is visible ripple. Chapter 8 already gave the parts rule: use C0G (NP0) ceramic or film capacitors in filters, never Class 2 types such as X7R, whose capacitance changes with DC bias and temperature and whose piezoelectric behavior can even add distortion.
+P: The op-amp must have enough loop gain at the frequencies where the filter is shaping the response, or it adds its own pole and distorts the intended Q. A common rule of thumb asks for a gain-bandwidth product at least 100 times the product of the section's gain and f₀, and more for high-Q sections. For the 1 kHz unity-gain sections above, that means at least 100 kHz, which the declared 1 MHz op-amp comfortably supplies. A 100 kHz anti-aliasing filter would need a much faster part.
+MIS: Doubling every capacitor and halving every resistor does not change the filter, but it is not a free choice. Lower resistances load the previous stage and the op-amp's output more heavily, while higher resistances add Johnson noise and bias-current error, as Chapters 14 and 15 showed. Resistor values between about 1 kΩ and 100 kΩ, with capacitors chosen to suit, keep both concerns small.
+BENCH: Use C0G (NP0) capacitors in active filters; the voltage and temperature dependence of X7R parts shifts the corner frequency and adds distortion. Pick the capacitors first, because they come in fewer values, and then scale the resistors, which come in many. And check that the op-amp's gain-bandwidth is at least ten times or so the filter's corner frequency multiplied by its Q, or the response won't match the textbook curve.
+H2: Practice Problems
+LI: Find the corner frequency of an RC filter with R = 2.2 kΩ and C = 47 nF.
+LI: A single first-order filter stage rolls off at −20 dB/decade. What is the roll-off of four such stages cascaded together?
+LI: Explain, in a sentence or two, why an active filter's frequency response stays largely unaffected if the load connected to it changes, while a passive filter's does not.
+LI: Find the corner frequency of a high-pass RC filter with R = 3.3 kΩ and C = 15 nF.
+LI: A second-order filter rolls off at −40 dB/decade. Express this same roll-off rate in dB per octave.
+LI: A designer wants to remove 60 Hz power-line hum from a signal of interest at 1 kHz, using only a single first-order high-pass filter. Explain the practical limitation this creates, given the filter's roll-off rate.
+LI: A second-order low-pass section has Q = 0.7071 and H₀ = 1. What is its gain at f₀, in decibels?
+LI: Design an equal-resistor unity-gain Sallen-Key Bessel section (Q = 0.5773). What capacitor ratio C₁/C₂ is required?
+LI: A unity-gain Sallen-Key uses R₁ = R₂ = 22 kΩ, C₁ = 6.8 nF, and C₂ = 3.3 nF. Find f₀ and Q.
+LI: An equal-resistor MFB section uses C₁ = 47 nF and C₂ = 5.6 nF. Find its Q.
+LI: A fourth-order Butterworth filter at 10 kHz is built from two unity-gain Sallen-Key sections. Using the rule of thumb in Section 6.10, find the minimum gain-bandwidth product, using the higher-Q section as the guide and allowing a further factor equal to its Q.
+LI: Explain in a sentence or two why two identical Butterworth second-order sections in cascade do not form a fourth-order Butterworth filter.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: First-order corner frequency f_c = 1/(2πRC).
+LI: Roll-off of 20 dB/decade per order.
+LI: Sallen-Key and multiple-feedback sections from design tables.
+P: Mostly for exams and deeper study
+LI: Deriving pole positions for Butterworth, Bessel and Chebyshev responses.
+LI: Filter approximation theory.

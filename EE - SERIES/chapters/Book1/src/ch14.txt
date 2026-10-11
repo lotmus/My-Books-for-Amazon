@@ -1,0 +1,52 @@
+H1: Chapter 14 — Prefixes, Scientific Notation, and Engineering Notation
+P: A phone's processor juggles capacitances measured in femtofarads while its charger handles watts and the grid behind the wall handles gigawatts. Electronics spans more than twenty powers of ten, and engineering notation is how engineers avoid drowning in zeros.
+P: Where you meet this: Part markings such as 4k7, 2R2 and 104, oscilloscope settings like 2 µs/div and 50 mV/div, and every datasheet table.
+P: Electrical engineering spans an absurd range of magnitudes. The gate capacitance of a modern transistor is measured in femtofarads; the capacitance of a power-factor correction bank is measured in millifarads. That is twelve orders of magnitude, in the same quantity, in the same field. This chapter is about writing such numbers without drowning in zeros.
+H2: 14.1 The SI Prefixes
+P: A prefix multiplies the unit it is attached to by a power of ten. The prefixes used routinely in electrical engineering are these.
+FIG: fig14_1.png | Figure 14.1 — SI prefixes from pico to tera, spaced by their power-of-ten exponent.
+P: Prefix — Symbol — Factor
+P: teraSymbol: TFactor: 10¹²
+P: gigaSymbol: GFactor: 10⁹
+P: megaSymbol: MFactor: 10⁶
+P: kiloSymbol: kFactor: 10³
+P: (none)Factor: 10⁰
+P: milliSymbol: mFactor: 10⁻³
+P: microSymbol: µFactor: 10⁻⁶
+P: nanoSymbol: nFactor: 10⁻⁹
+P: picoSymbol: pFactor: 10⁻¹²
+P: femtoSymbol: fFactor: 10⁻¹⁵
+P: Case is not decorative. A capital M is mega, a lower-case m is milli, and they differ by a factor of a billion. A capital K is not a valid prefix at all — kilo is always lower-case k — while a capital K is the symbol for the kelvin. Writing 5 KΩ instead of 5 kΩ is a small sin; writing 5 mA when you meant 5 MA is a career-defining one.
+P: Note also that the prefix binds tighter than the exponent. The expression mm² means (mm)², that is, 10⁻⁶ m², not 10⁻³ m². This catches people constantly in current-density and sheet-resistance calculations.
+H2: 14.2 Scientific Notation
+P: Scientific notation writes every number as a value between 1 and 10, multiplied by a power of ten: 47000 becomes 4.7 × 10⁴, and 0.00033 becomes 3.3 × 10⁻⁴. The mantissa always has exactly one digit before the decimal point.
+P: Its virtue is unambiguity. The number 4.70 × 10⁴ states plainly that three digits are meaningful, where the plain form 47000 leaves you guessing whether the trailing zeros are measured or merely placeholders — a question Chapter 15 takes up in earnest.
+H2: 14.3 Engineering Notation
+P: Engineering notation is a variant that restricts the exponent to multiples of three, so that the exponent always corresponds to an SI prefix. Instead of 4.7 × 10⁴ Ω you write 47 × 10³ Ω, and read it directly as 47 kΩ.
+P: This is what practicing engineers actually use, and it is what calculators mean by their "ENG" mode. The reason is entirely practical: component values, datasheet entries, and instrument displays are all expressed with prefixes, so a notation whose exponents map one-to-one onto those prefixes eliminates a translation step, and with it a class of error.
+WE: Worked Example 14.1
+P: A current of 0.0000047 A flows through a resistance of 2200000 Ω. Express both in engineering notation, then find the voltage.
+P: The current: 0.0000047 A = 4.7 × 10⁻⁶ A = 4.7 µA.
+P: The resistance: 2200000 Ω = 2.2 × 10⁶ Ω = 2.2 MΩ.
+P: Now the voltage, keeping the powers of ten explicit:
+P: V = IR = (4.7 × 10⁻⁶)(2.2 × 10⁶) = (4.7 × 2.2) × 10⁻⁶⁺⁶ = 10.34 × 10⁰ = 10.34 V.
+P: The exponents canceled exactly, which is the useful thing to notice: micro times mega is unity. Similar pairings are worth committing to memory — milli times kilo is unity, nano times giga is unity, pico times tera is unity. Once you internalize these, a great many circuit calculations can be done in your head, because the prefixes annihilate and you are left with a one-digit multiplication.
+KEY: Reciprocal prefix pairs cancel. µ×M = 1, m×k = 1, n×G = 1, p×T = 1. A resistance in kilohms times a current in milliamps gives a voltage in volts. A capacitance in microfarads times a resistance in megohms gives a time constant in seconds. Recognizing these pairings is the single biggest speed-up available in routine circuit arithmetic.
+H2: 14.4 Arithmetic With Powers of Ten
+P: Multiplication adds exponents; division subtracts them. Raising to a power multiplies the exponent. Taking a square root halves it — which is why square roots in engineering notation are awkward, since halving an exponent that is a multiple of three rarely lands on another multiple of three.
+P: Addition and subtraction are the operations that catch people. You cannot add mantissas unless the exponents match. To compute 4.7 × 10³ + 2.2 × 10², first rewrite the second term as 0.22 × 10³, then add mantissas: 4.92 × 10³. Attempting to add 4.7 and 2.2 directly gives an answer wrong by nearly a factor of two.
+MIS: A frequent error is to assume that because prefixes are convenient, they can be mixed freely inside a single expression. They cannot. Adding 4.7 kΩ to 220 Ω requires converting one to match the other — either 4.7 kΩ + 0.22 kΩ = 4.92 kΩ, or 4700 Ω + 220 Ω = 4920 Ω. Writing "4.7 k + 220" and reading off 4.92 works only because you performed the conversion silently in your head; write it out, because the day you do it silently and get it wrong is the day it costs you.
+BENCH: Learn the component shorthand. On schematics 4k7 means 4.7 kΩ and 2R2 means 2.2 Ω, with the letter standing in for a decimal point that a smudged print might lose. A ceramic capacitor marked 104 is 10 × 10⁴ pF, or 100 nF. And mind the case: 1 mΩ and 1 MΩ differ by a factor of a billion.
+H3: Practice Problems
+LI: Express the following in engineering notation with an appropriate prefix: 0.000000015 F, 68000 Ω, 0.0025 A, 1500000000 Hz.
+LI: A 4.7 kΩ resistor carries 3.2 mA. Find the voltage across it and the power dissipated in it, using prefix cancellation rather than long decimals.
+LI: Add the following capacitances, giving the result in nanofarads: 470 pF, 1.2 nF, and 0.01 µF.
+LI: A signal has a period of 20 ns. Find its frequency, and express the answer with an appropriate prefix. Then find the angular frequency ω in rad/s.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Engineering notation in steps of 10³.
+LI: Instant fluency with p, n, µ, m, k, M and G.
+LI: Reading part-marking codes.
+P: Mostly for exams and deeper study
+LI: Rarely used prefixes such as zepto and yotta.
+LI: Formal scientific-notation rules for very large calculations.
