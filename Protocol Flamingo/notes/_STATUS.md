@@ -158,4 +158,5 @@ Old master in `bak/Protocol_Flamingo_REV10 - 2026-10-10 pre-rescore.docx`.
 - Links (Lothar's rule): no visible URLs. Bibliography titles carry the links (18, all checked: 200, or bot-blocked publishers confirmed through the DOI resolver; ADS blocks fetchers). Every appendix citation is an internal link to a bookmarked bibliography entry (bib_*). The Rubin entry now cites Kurlander et al. 2025 properly.
 - Also by: the book no longer lists itself (canonical rule); the shelf paragraph is shorter.
 - KDP_LISTING.md: cover file names corrected, keywords rewritten without repeats, optional third category.
-- Still open: the two closing notes overlap; paperback spine.
+- Closing notes merged (same evening): A Note on the Cousins is folded into A Note to the Reader. The nine cousins are now named once, right after the note first mentions them; its closing lines ("This novel is the one that is finished. Look up anyway...") end the merged note; its repeats (AARO is real, every name checked, Douglas Adams) were already in the note. The contents entry and bookmark for the old section are gone; no link points to it. Pre-merge copy in bak/.
+- Still open: paperback spine.
