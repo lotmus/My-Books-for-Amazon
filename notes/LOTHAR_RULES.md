@@ -101,6 +101,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 - Score strictly and critically. Track everything in `SCORES.md` at the repo root.
 - Four angles for a general book: target reader, harsh critic, subject expert / fact-checker, Amazon market. Give each a score out of 10 and an issue list; put the overall score last; also give a sellability score out of 10.
+- Rubric: `notes/SCIENCE_BOOK_RUBRIC.md` (ten criteria scored 1-4, 40-point scale, plus a weighted version) is available for every science or other nonfiction book. Apply it alongside the four-angle score, and record the result in the book's `SCORES.md` row or its notes.
 - For science books the score areas are: physics (or subject) accuracy, exercises and solutions, clarity for non-physicists, structure and pacing, prose, pictures, sources and licences, Kindle formatting, KDP listing, and covers.
 - Covers are judged from the files in the book folder. A file that exists only under `bak/` counts as draft.
 - Status labels in `SCORES.md`: published = live on Amazon; ready = manuscript closed with an upload package or KDP description; draft = still being written or fixed.
