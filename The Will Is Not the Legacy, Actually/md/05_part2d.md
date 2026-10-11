@@ -275,10 +275,10 @@ Part Six and Chapter 38 describe how to set this up without writing passwords on
 
 **What to do.**
 
-- This week, turn on legacy-contact or inactive-account settings in your email, cloud storage, and main social accounts.
+- Tonight, ask yourself one question: if I died before morning, could anyone unlock my phone and my laptop? If the answer is no, start there.
 - Set up emergency access in a password manager for one trusted person, and store your device passcodes and two-factor recovery codes there.
 - Add a clause to your will consenting to disclosure of your electronic communications to your executor.
-- Back up work files and photographs to a place your executor can reach without your phone.
+- Put a list of your recurring charges in the Family List, so the subscriptions can be found and stopped.
 
 ### Case 24: The video will
 

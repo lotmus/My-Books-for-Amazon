@@ -236,7 +236,15 @@ A transfer-on-death deed, signed with two neutral witnesses and recorded within 
 
 ![Figure 1. A revocable transfer-on-death deed and a life estate deed, side by side.](src/diagrams/fig2_tod_vs_life_estate.png)
 
-**What the chat got wrong.** The 60-day recording deadline was right, but it runs from the notary's acknowledgment. The witness rule was half right: the son should not witness, because a beneficiary-witness creates a presumption of undue influence, but the deed would not be automatically invalid, and the daughter was not barred from witnessing. "Under a hundred dollars" left out county recording fees, the lawyer's time for the trust and agreement, and, above all, the home equity company's share of the house, which no deed reduces. The five-year look-back is the general federal Medicaid figure; California's Medi-Cal look-back for long-term care is 30 months, and only for transfers made since 2026. And there is no assumption agreement that makes a home equity investment disappear: the mortgage is protected from being called in by federal law if the son lives there, and the home equity investment has to be settled.
+!> **What the chat answer got wrong, in five lines.** The 60-day recording deadline runs from the notary's acknowledgment, not from signing.
+!>
+!> A beneficiary-witness does not void the deed; it shifts the burden of proving there was no undue influence onto the beneficiary. The daughter was not barred from witnessing.
+!>
+!> "Under a hundred dollars" left out the recording fees, the advice, and the home equity investor's share of the house, which no deed reduces.
+!>
+!> Five years is the general federal Medicaid look-back; California's Medi-Cal look-back for long-term care is 30 months, for transfers made since 2026.
+!>
+!> No "assumption agreement" makes a home equity investment disappear. Federal law keeps the lender from calling in the mortgage if the son lives there; the investor still has to be paid.
 
 **Questions to ask before you sign.**
 
