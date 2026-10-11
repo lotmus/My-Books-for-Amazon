@@ -75,7 +75,7 @@ ALSO_BY_LIST = [
         "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
         "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
         'Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine',
-        'In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston',
+        'In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston',
     ]),
     ('In German', [
         'Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?',

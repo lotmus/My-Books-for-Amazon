@@ -1753,7 +1753,7 @@ const alsoBy = [
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", italics: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston", italics: true })] }),
+  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston", italics: true })] }),
   new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "In German", bold: true })] }),
   new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?", italics: true })] }),
 ];
