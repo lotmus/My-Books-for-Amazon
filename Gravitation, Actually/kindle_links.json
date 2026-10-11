@@ -1,5 +1,5 @@
 {
- "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs. Rev9, 11 Oct 2026: Bullet Cluster credit linked to its Commons page.",
  "rules": [
   {
    "find": "Source: NASA Image and Video Library, images.nasa.gov.",
@@ -16,6 +16,10 @@
   {
    "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
    "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  },
+  {
+   "find": "Bullet Cluster credit: Source: Wikimedia Commons, resized.",
+   "to": "Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1e0657_scale.jpg), resized. (Applied directly in Rev9.)"
   }
  ]
 }
