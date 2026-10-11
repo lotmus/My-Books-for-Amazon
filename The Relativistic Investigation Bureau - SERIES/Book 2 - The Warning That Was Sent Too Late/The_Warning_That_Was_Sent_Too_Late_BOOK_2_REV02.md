@@ -160,7 +160,7 @@ Sophie’s brass railway clock had gone into drawer three at a quarter to ten. T
 
 At the outer door, Mrs Marsh, the building’s superintendent, received drawer three’s key back from Penny as if it were a hostage being returned in good condition. She did not come in. She never came in. She stood on the corridor side of the sill with her clipboard and said, “It will be filed by eleven,” and went downstairs, and the stairs reported her going.
 
-Derek closed the folder. He did it slowly, because it had been a long week, and a closed folder was the nearest thing the Bureau had to a holiday. He lifted Penny’s mug off it first. Then he slid the folder across to the out-tray.
+Derek closed the folder. He did it slowly, because it had been a long week, and a closed folder was the nearest thing the Bureau had to a holiday. He lifted the mug off it first. Then he slid the folder across to the out-tray.
 
 “That’s it,” he said.
 
@@ -324,7 +324,7 @@ Weinstein did not apologise for anything, which was his gift. “Let us be preci
 
 “Then we don’t inherit the last clerk.”
 
-“Last week’s photograph came off our own camera, through our own machine, from a phone nobody has named. Its share was revoked at half past one on Sunday morning, and it is still nobody we can name. Device three is still open, and it can stay open. This did not come from there. Different paper, different route, different lie. I do not want anybody in this room solving last week again because it was comfortable.”
+“Last week’s photograph came off our own camera, through our own machine, from a phone nobody has named. Its share was revoked at 01:33 on Sunday morning, in the second of the two one o’clocks, and it is still nobody we can name. Device three is still open, and it can stay open. This did not come from there. Different paper, different route, different lie. I do not want anybody in this room solving last week again because it was comfortable.”
 
 Trevor put his glasses back on. The platform failed to improve. “A person who has not been born cannot post a letter.”
 
@@ -334,7 +334,7 @@ Trevor put his glasses back on. The platform failed to improve. “A person who 
 
 Derek looked at the doorway. “That is the case.”
 
-The kettle clicked off in the corner. Somebody had boiled it for a closed file, out of habit, sometime before the sheet had appeared; it had taken this long to notice. Derek did not pour it. A kettle was for tea and for cases that had finished. He was not prepared to tell it which this was.
+The kettle ticked in the corner as it cooled. Penny had boiled it for a closed file before the sheet appeared, and the four mugs she had poured were going cold where she had left them. Derek did not touch his. A kettle was for tea and for cases that had finished. He was not prepared to tell it which this was.
 
 Instead he looked at the corridor clock again, because Trevor was looking at it, and Trevor looked like a man about to enjoy a subtraction.
 
@@ -376,7 +376,7 @@ Trevor did not deny it. “In special relativity the order of two events can dep
 
 Trevor did the sum. He did it on the envelope, under the capitals, and Derek watched the glasses come off again, slowly, the way a man takes his hat off at a funeral he had been hoping was somebody else’s.
 
-“The order only flips if nothing could get from one event to the other. Not even light. If the gap were seventeen minutes, light would cover about three hundred and six million kilometres in it.”
+“The order only flips if nothing could get from one event to the other. Not even light. If the gap were seventeen minutes, light would cover about three hundred and six million kilometres in it. That’s past the far side of the Sun.”
 
 “And the door?”
 
@@ -408,7 +408,7 @@ For the last week of Case 1047, on the evenings Tabitha had come by with the dog
 
 Derek rang Tabitha.
 
-He had not decided to. He found the phone in his hand and her name on the screen and the ring already going, and he let it, because it was the first thing all morning he had done on purpose. She answered on the third ring, from home, already on a different subject.
+He had not decided to. He found the phone in his hand and her name on the screen and the ring already going, and he let it, because it was the first thing all morning he had done on purpose. She answered on the third ring, from home, where she had a brief to read and was not reading it, already on a different subject.
 
 “I’m not discussing a train.”
 
@@ -880,7 +880,7 @@ She came in through the outer room without knocking, because the door was open a
 
 She studied it for perhaps two seconds. Then she looked at Derek.
 
-“The school rang me again. Twice in a morning. They said the father’s office had rung as well. The father’s office. They said it as if you were a department.”
+“The school rang me again. Twice in one day. They said the father’s office had rung as well. The father’s office. They said it as if you were a department.”
 
 “That was me,” Penny said.
 
@@ -894,9 +894,9 @@ She studied it for perhaps two seconds. Then she looked at Derek.
 
 “I’m not asking what it is.” It came out the way other people said good afternoon. “I am not interested in what it is. I have been not interested in what things are, in this office, for a long time, and it has saved me a great deal of reading. I’m asking what you’re doing about it.”
 
-Derek had imagined this conversation, on and off, for three years. In none of the versions had it taken place with a railway in the door, and in all of them he had said something clever. He found he did not have anything clever. He had what Penny had taught him on the stairs at ten o’clock: the order things were in.
+Derek had imagined this conversation, on and off, for three years. In none of the versions had it taken place with a railway in the door, and in all of them he had said something clever. He found he did not have anything clever. He had what Penny had made Trevor write on an envelope at twenty past ten: the order things were in.
 
-“A sheet of paper turned up this morning. Before the door opened. It said I wasn’t to board the train. I’m not boarding the train. At lunch a board in there showed her name for three seconds. She has nothing to do with it. She didn’t read the heading. She’s said she won’t write it down, and she’s right not to. I’m not going to the gates. I’m not ringing her again unless she rings me. And I’ll tell you when it’s over.”
+“A sheet of paper turned up this morning. Before the door opened. It said I wasn’t to board the train. I’m not boarding the train. At lunch a board in there showed her name for three seconds. She has nothing to do with it. She didn’t read the heading. She hasn’t fetched it back, and she’s right not to. I’m not going to the gates. I’m not ringing her again unless she rings me. And I’ll tell you when it’s over.”
 
 Tuppence did not say anything at once.
 
@@ -1038,7 +1038,7 @@ It came without preamble, looking at the board and not at him. Weinstein did not
 
 “Then I’ll send it.”
 
-She made it as she made most decisions, once, and put the itinerary back in her handbag under the face-down photograph, where it had lived since the old Tuesday. Neither of them looked surprised. Trevor, standing slightly to one side with his hands in his pockets, seemed to have been shown a second procedure he did not have, and was trying to work out where in the manual it had been all this time.
+She made it as she made most decisions, once, and put the itinerary back in her handbag, under the face-down photograph. Neither of them looked surprised. Trevor, standing slightly to one side with his hands in his pockets, seemed to have been shown a second procedure he did not have, and was trying to work out where in the manual it had been all this time.
 
 “Lost property,” said Derek.
 
@@ -1160,7 +1160,7 @@ Herbert Matkowski answered on the second ring, as if the telephone were a blackb
 
 “It’s Derek Gent. In London.”
 
-“I know where you are. Alfred told me on Saturday that he was staying in London to be polite for a week, and I told him he had never in his life been polite for a week, and that something would happen to rescue him. What has happened to rescue him?”
+“I know where you are. Alfred told me on Saturday that he was staying in London until Monday to be polite, and I told him he had never in his life been polite for three days together, and that something would happen to rescue him. What has happened to rescue him?”
 
 Derek told him. It came out in the order the morning had taught him: Sunday’s slip, the sheet, the door, the voice, and two seventeens that were not the same.
 
@@ -1592,7 +1592,7 @@ It was the quiet he went into himself, when a problem was too large to be looked
 
 “Mr Okafor is right.”
 
-“He’s right about most things except fractions. He’s frightened of fractions.” Another pause. “Good. Double maths was ordinary. The phone wasn’t. I’m going home. Julian’s hangers are in the hall, in case you were about to ask whose life is whose. I’m not discussing them. Bye.”
+“He’s right about most things except fractions. He’s frightened of fractions.” Another pause. “Good. Double maths was ordinary. The phone wasn’t. I’m going home. Julian’s hangers are in my wardrobe, in case you were about to ask whose life is whose. I’m not discussing them. Bye.”
 
 She hung up. She was twelve. She was not on a train.
 
@@ -2074,7 +2074,7 @@ BOARDING: REFUSED IN FACT.
 
 Further up the screen, under the line Trevor had typed at lunch from the back of his envelope, VOICE: DON’T OPEN THE DOOR. HEARD AFTER THE DOOR WAS OPEN, a line of the form’s soft grey had appeared, now that the form had a time of act to compare things with.
 
-PLEASE NOTE. THE PREVIOUS WARNING ARRIVED AFTER THE ACT.
+PLEASE NOTE. THE PREVIOUS WARNING WAS SENT TOO LATE.
 
 “It’s echoing the back of the sheet,” said Trevor.
 
@@ -2086,7 +2086,7 @@ Then the cursor moved, by itself, down the page, and stopped. It waited, blinkin
 
 NO FURTHER WARNING WILL BE SENT TO YOU.
 
-Nobody touched it. The board through the doorway held its one word. The train, behind it, held its breath, if trains had breath, which this one appeared to.
+Nobody touched it. The board through the doorway held its one word. The train, behind it, held its breath, if trains had breath, which this one appeared to. Under the new sentence, on the line Trevor had filled at lunch because the Bureau wrote down whatever a board said, the recipient field still read SOPHIE.
 
 Penny put her handbag down on the desk. She took out the photograph she had carried all day, and this time she turned it face-up and stood it against the monitor, where it could see. Derek saw it for a second, upside down, before he looked back at the screen. It was not a man on a floor. It was four people and a dog in a row in this office at half past one on Sunday morning, standing up, with Penny in the middle of them, furious. Then she leaned over his shoulder, put one finger on the delete key, and did not press it.
 
@@ -2152,7 +2152,7 @@ Tabitha was on the London side. She had come up the stairs while the form was sa
 
 She kissed him. It was brief. It was on the London side of a door that could not be shut, in full view of a railway, a stairwell, and a man at a keyboard who had immediately become fascinated by the font settings. The door stayed open because it could not do otherwise, and because he would not have shut her out if it could.
 
-Trevor, who had taken the chair back, stood up again, said nothing useful, and went to the kitchen. They heard the kettle go on. It was, by any reasonable reading, the correct kettle.
+Trevor, who had taken the chair back, stood up again, said nothing useful, and went to the kettle in the corner and switched it on. It was, by any reasonable reading, the correct kettle.
 
 Penny watched the itinerary, not them. She had taken it out of her bag and unfolded it on her knee, and was reading the flight times with great attention, in case they had changed since the morning. “Thursday week,” she said, to the itinerary. “He’ll get the number. You two can have the corridor. The corridor still contains a railway, so I’d keep it brief.”
 
@@ -2232,7 +2232,7 @@ Derek understood, then, what the stairwell had been. Not the lease. Not only the
 
 “Did anybody warn you at all?”
 
-“A slip at Paddington. Which I did not see. Which says it came seventeen minutes after.” She looked at the book. “At seventeen minutes past six I was in the kitchen downstairs with the kettle on. I had locked your door eight minutes before.”
+“A slip at Paddington. Which I did not see. Which says it came seventeen minutes after.” She looked at the book. “At seventeen minutes past six I was in the lodge downstairs with the kettle on. I had locked your door eight minutes before.”
 
 “Then you weren’t warned. You were recorded. There’s a difference. We learned it at the station this afternoon from a woman apologising for a train from Cardiff.” Penny came round the desk and stood beside Derek, not too close to Mrs Marsh, in the manner of somebody approaching a cat on a wall. “A warning that comes after an act can’t tell you not to do it. All it can do is say somebody wished it hadn’t been done. That’s not the same as saying you did wrong.”
 
@@ -2508,7 +2508,7 @@ Julian’s hands stopped on the sandpaper.
 
 “Are you going to ring him now?”
 
-“No.” She put the phone face-down on the table, next to the hanger. “Tomorrow. In the daytime. When it’s not the same day as the railway. If I ring tonight it’ll look like a reaction. I want it to be a decision.”
+“No.” She put the phone face-down on the table, next to the hanger. “Tomorrow. When it’s not the same day as the railway. If I ring tonight it’ll look like a reaction. I want it to be a decision.”
 
 Julian nodded slowly, and went back to the shoulder, and after a while held the hanger up to the kitchen light and turned it, and sighted along the curve with one eye shut.
 
@@ -2620,7 +2620,7 @@ Penny considered the ten and a half on the itinerary, and the x3 in the margin b
 
 “How do you know this?”
 
-“Somebody did it. Nineteen seventy-one. Two men took four atomic clocks round the world on ordinary airliners and bought them seats.” He sounded happy. “East, the clocks lost. West, they gained. Same planes, roughly the same heights. The only difference was which way they went round a planet that was already turning. Hafele and Keating. It’s two pages. It’s the best two pages in the world.”
+“Somebody did it. Nineteen seventy-one. Two men took four atomic clocks round the world on ordinary airliners and bought them seats.” He sounded happy. “East, the clocks lost. West, they gained. Same planes, roughly the same heights. The only difference was which way they went round a planet that was already turning. Hafele and Keating. It’s two short papers. The best few pages in the world.”
 
 Penny found that she was smiling at the itinerary, which was ridiculous, and stopped.
 
@@ -2710,7 +2710,7 @@ Then, after a moment, a fifth line, smaller:
 
 DO NOT SEND BEFORE.
 
-She put the itinerary back in the bag, on top of the photograph, and got up for the first time in two and a half hours, and took her coat off at last, and hung it on the back of the kitchen door, which was in the hall, where the builder had put it.
+She put the itinerary back in the bag, on top of the photograph, and got up for the first time in nearly three hours, and took her coat off at last, and hung it on the back of the kitchen door, which was in the hall, where the builder had put it.
 
 Rule: A number about an act that has not happened yet is a forecast. The record comes afterwards.
 
@@ -2792,7 +2792,7 @@ He wanted to know the date on that newspaper more than he had wanted anything al
 
 “No.”
 
-He said it to the platform in his own voice, the one for tea, as he had said it at sixteen forty-one with his feet on the yellow line. It was the word Sherlock had sent at lunch, he realised, the single word on Trevor’s screen, refusing a case before it was offered. He had thought at the time it meant the dolphin did not want it. He thought now that it might simply have been the correct reply to a railway, and that it needed saying more than once.
+He said it to the platform in his own voice, the one for tea, as he had said it at sixteen forty-one with his feet on the yellow line. It was the word Sherlock had sent that afternoon, he realised, the single word on Trevor’s screen, refusing a case before it was offered. He had thought at the time it meant the dolphin did not want it. He thought now that it might simply have been the correct reply to a railway, and that it needed saying more than once.
 
 He went back to his desk. He wrote a note on the Bureau’s paper, in his own handwriting, not as good as Trevor’s and nowhere near as good as Herbert’s, and he propped it against the kettle where whoever came in first would see it.
 
@@ -2892,7 +2892,7 @@ Weinstein thought about it. He thought about the barrier at Paddington, and turn
 
 He left. Weinstein sat for a while longer at the blotter, with Herbert’s diagram in front of him and the small pencilled question mark beside the word SHEET.
 
-Then he got out his phone and did Penny’s sum again, on the back of the dishwasher’s patent application, in ink, the textbook way: height makes a clock run fast, speed makes it run slow, and at airliner heights the height wins. About ten billionths of a second. He checked it twice. It was, he thought, the first number in the whole affair whose origin he knew exactly.
+Then he got out his pen and did Penny’s sum again, on the back of the dishwasher’s patent application, in ink, the textbook way: height makes a clock run fast, speed makes it run slow, and at airliner heights the height wins. About ten billionths of a second. He checked it twice. It was, he thought, the first number in the whole affair whose origin he knew exactly.
 
 He would not send it to her. It was her number. She would send it to him from the air, a week on Thursday, and he would be annoyed, and he was already looking forward to it.
 
@@ -3132,7 +3132,7 @@ Mrs Marsh came up at eleven with the clipboard and a letter from the landlord, w
 
 The surveyor came at a quarter past twelve.
 
-He was the landlord’s, not the building’s, and he made the distinction twice on the stairs, to Mrs Marsh, who had not asked for it. His name was Mr Quayle. He had a clipboard of his own, a laser measure in a holster on his belt, and the manner of someone sent to look at a great many damp patches and has never yet found one that was his fault.
+He was the landlord’s, not the building’s, and he made the distinction twice on the stairs, to Mrs Marsh, who had not asked for it. His name was Mr Quayle. He had a clipboard of his own, a laser measure in a holster on his belt, and the manner of someone who has been sent to look at a great many damp patches and has never yet found one that was his fault.
 
 “Unauthorised structural feature,” he read from the landlord’s letter, standing in the corridor with his back to the doorway. “I’m to assess it.”
 
@@ -3374,7 +3374,7 @@ He looked at the platform at once. It was what most distinguished him from his s
 
 “I know what my doors are.” Mr Haskett turned the ring. “I’m not here about the door. I’m here about the time.”
 
-Penny, at her desk, put down the guidebook. Trevor, who had been sitting on the floor by the filing cabinet doing something to a cable for reasons he had not explained, looked up with his glasses on and then, slowly, took them off.
+Penny, at her desk, put down her guidebook to Greece. Trevor, who had been sitting on the floor by the filing cabinet doing something to a cable for reasons he had not explained, looked up with his glasses on and then, slowly, took them off.
 
 Mr Haskett opened the leather folder on the corner of Derek’s desk, without asking, and took out two letters, and laid them side by side, as Weinstein had laid the Sunday slip next to the envelope at Paddington.
 
@@ -3538,7 +3538,7 @@ Mr Haskett read the statement.
 
 “The other times somebody wanted the field filled.”
 
-Mrs Marsh took the statement from the desk before he could pick it up, filed the original in drawer three, under Pending Geometry, behind Sunday, behind Case 1047, and came back from the photocopier on the landing with two copies, and gave them both to Mr Haskett. On her way past Derek’s desk she said, without stopping, “I shall want the rest of the case on paper before I lock that drawer at half past six. I do not file screens.”
+Mrs Marsh took the statement from the desk before he could pick it up, filed the original in drawer three, under Pending Geometry, behind Sunday, behind Case 1047, and came back from the photocopier on the landing with two copies, and gave them both to Mr Haskett. On her way past Derek’s desk she said, without stopping, “I shall want the rest of the case on paper before I lock that drawer at a quarter to seven. I do not file screens.”
 
 “One for each insurer.”
 
@@ -3592,7 +3592,7 @@ At sixteen minutes past six Derek did what Mrs Marsh had asked and put the case 
 
 The printer in the outer room cleared its throat, as it did, took a sheet from the tray and gave it back to him warm. He read it standing beside the printer. Then he went on standing there.
 
-RELATIVISTIC INVESTIGATION BUREAU. STATUS OF CASE: NOT YET OCCURRED.
+RELATIVISTIC INVESTIGATION BUREAU. CASE STATUS: NOT YET OCCURRED.
 
 Under it, the form told somebody not to allow DEREK GENT to board the MYSTERIOUS TRAIN.
 
@@ -3612,7 +3612,7 @@ THE MYSTERIOUS TRAIN came from Mr Pendleton’s incident report, which had boxes
 
 The date was the printer’s. NOT YET was an empty box. The apology on the back was the form’s own grey note under the line for the voice, which had appeared on Monday afternoon, when the field for the time of act came and the form could see at last that the voice had come after the door.
 
-He rang Penny before he touched the mug. She answered with the sound of a cupboard shutting.
+He rang Penny before he touched the mug. She answered over the sound of a bus pulling away.
 
 “The back means the voice,” he said. “Not Sunday. It prints the note under the voice field.”
 
@@ -3622,7 +3622,7 @@ He rang Penny before he touched the mug. She answered with the sound of a cupboa
 
 “Then leave it out of the explanation. Keep the slip. We still don’t know who made that.”
 
-He told her about the rest of the sheet. She asked him to check the date box once more, and the stripe, and whether the form had printed anything he could not trace to a field. He checked. Then she stayed on the line while he read the British Rail delivery instruction aloud. Neither of them called it an instruction to board.
+He told her about the rest of the sheet. She asked him to check the date box once more, and the stripe, and whether the form had printed anything he could not trace to a field. He checked. Nothing was left over. She stayed on the line a moment longer than either of them needed, and rang off.
 
 Nobody had written the sentence. Three people had each put a word in a box, for reasons of their own, over two days, a printer had supplied the date, and a form designed by a man who believed every problem was a name and a date had put the words in a row. On Monday afternoon Derek had typed NOT CASEBOOK into the record. It had been the line he was surest of.
 
@@ -3644,15 +3644,15 @@ If this sheet went, it would arrive. It would arrive as it was now: folded in fo
 
 And if it did not go, then nothing would have been on the blotter on Monday. Nothing would have stopped him, at ten past ten, from walking through his own door to see what the train was for. He thought about that honestly, as he would have thought about a client. He would have gone. He knew he would have gone. It was the only warning in the whole case that had arrived in time.
 
-The platform began at the sill. He had crossed onto it to refuse on Monday. Nobody had boarded. On Monday afternoon it had crept into the office while they were at Paddington, and it had gone back after he said no at its yellow line and Penny struck Sophie’s name, and since then he had treated the sill as the edge of the world.
+The platform began at the sill. On Monday he had stood on its yellow line, on his own carpet, to refuse. Nobody had boarded. On Monday afternoon it had crept into the office while they were at Paddington, and it had gone back after he said no at its yellow line and Penny struck Sophie’s name, and since then he had treated the sill as the edge of the world.
 
 The sheet did not say do not cross the sill. It said do not board.
 
 He put the old sheet back in his pocket. He held the new one in his left hand. He stepped over the sill.
 
-The slabs were colder than the carpet and slightly gritty underfoot. The air smelled of brake dust and of nothing else: no rain, no street, no buses, no London. The lamp hummed. The bench was wooden, bolted down, with a brass plate on the back polished blank by years of shoulders. He walked past it to the yellow line. Three paces. It felt much further.
+The slabs were colder than the carpet and slightly gritty underfoot. The air smelled of brake dust and of nothing else: no rain, no street, no buses, no London. The lamp hummed. The bench was wooden, bolted down, with a brass plate on the back polished blank by years of shoulders. He walked past it, along the yellow line, towards the leading carriage. Three paces. It felt much further.
 
-The three paces were along the platform, towards the leading carriage, not out across its width. The bench stood beside that route. Between the yellow line and the open doorway there was only the narrow strip he had faced on Monday. From here he could reach the end of the first seat. Reaching it would put his hand and shoulder inside. Boarding would put his feet there too.
+Between the yellow line and the carriage there was only the narrow gap he had faced across his own carpet on Monday. From here, with both feet on the slabs, he could reach the first seat. Reaching was not boarding. Boarding would put his feet in there too.
 
 The nearest door of the leading carriage opened. It slid back on its runners without any sound at all, as if it had been waiting for him to come close enough to be polite to. Inside, the carriage was lit and clean and empty, two rows of seats in a blue moquette he half remembered, a luggage rack, a strip of advertisements with nothing printed on them. The first seat was an arm’s length from the door.
 
@@ -3712,7 +3712,7 @@ WORDS: DEREK GENT, FROM THIS RECORD (D. GENT, REFUSING, MONDAY 16:41). DO NOT AL
 
 AUTHOR OF THE SENTENCE: NONE.
 
-CARRIER: D. GENT, UNDER FORM PL/9, NOTE 7. ROUTE: THE FIRST SEAT, TUESDAY 18:24; THE TRAIN; THIS DESK, MONDAY, BETWEEN 09:58:12 AND THE OPENING OF THE DOOR. ONCE.
+CARRIER: D. GENT, UNDER FORM PL/9, NOTE 7. ROUTE: THE FIRST SEAT, TUESDAY 18:24; THE TRAIN; THIS DESK, MONDAY MORNING, UNDER THE 1047 FOLDER, BEFORE THE DOOR OPENED. TIME UNKNOWN. ONCE.
 
 THE SHEET RECEIVED ON MONDAY: THE SAME SHEET, ABOUT THIRTY-TWO HOURS OLDER. FOR DRAWER THREE.
 
@@ -3758,7 +3758,7 @@ He came in. He stood in the middle of the room, tall enough that the doorframe b
 
 “It was simpler,” Tabitha said. “It was also a guess. Guessing is what got a name onto a board.”
 
-Trevor considered this, then regarded the kettle as though it had made the point, and went home. He went the long way, through the park, and did not look at any clocks, and told Derek on Wednesday that it had been the most relaxing walk of his adult life.
+Trevor considered this, then regarded the kettle as though it had made the point, and went home. He drove the long way, round the park, and did not look at any clocks, the one on the dashboard included, and told Derek on Wednesday that it had been the most relaxing walk of his adult life.
 
 At twenty-five to seven Mrs Marsh came up for the paper. Derek gave her the record, and then, after a moment, the sheet from his pocket. She looked at the ring on its corner, and at his mug, and did not ask.
 
@@ -3836,11 +3836,11 @@ He could have lied. He considered it, for a step or two, and decided that the we
 
 “Everybody wrote a word. Nobody wrote the sentence.”
 
-She thought about that for the length of a lamp-post. “That’s the worst answer I’ve ever heard. And you didn’t put the nearest name in.”
+She thought about that for the length of a lamp-post. “That’s the worst answer I’ve ever heard.”
 
-“Not even mine.”
+“It’s the true one.”
 
-“Good. I’d hate to be the nearest name.”
+“Mr Okafor says the true ones usually are.”
 
 “Mr Okafor sounds like a sensible man.”
 
@@ -3932,7 +3932,7 @@ Learning objective: Say why a later event in the same room cannot be the cause o
 
 Special relativity lets the time-order of some pairs flip. Those pairs are spacelike: nothing you can ride, light included, connects them. Two events in one office, minutes apart, are not that pair. They are timelike. Every inertial observer agrees which one happened first. Not even Munich can reverse them.
 
-The door was already open at 10:05. That is when they noticed. The opening is earlier, and nobody wrote the clock time. The sheet was already in the pocket, and the room’s order is sheet, then door, then the voice that said not to open it. Finishing the reading at 10:22 is not the time the sheet arrived. The voice is after the opening, so it is late for don’t open, and the size of that lateness is unknown. The reading cannot be given the sheet’s arrival, and it cannot be the cause of a door that was already open. Calling 10:05 the act is how you file a noticing as an event. That was the previous case’s mistake, under a different noun.
+The door was already open at 10:05. That is when they noticed. The opening is earlier, and nobody wrote the clock time. The sheet was already in Derek’s hand, and the room’s order is sheet, then door, then the voice that said not to open it. Finishing the reading at 10:22 is not the time the sheet arrived. The voice is after the opening, so it is late for don’t open, and the size of that lateness is unknown. The reading cannot be given the sheet’s arrival, and it cannot be the cause of a door that was already open. Calling 10:05 the act is how you file a noticing as an event. That was the previous case’s mistake, under a different noun.
 
 Keep this: same room, minutes apart, order fixed.
 
@@ -3950,7 +3950,7 @@ One Message, Two Acts
 
 Learning objective: Assign a separate tense to each act a warning names.
 
-A warning is not a single moment. It is a message paired with an act, and this file has two messages. Pair the voice with the door: the voice comes after, so that sign is late. Pair the front of the sheet with boarding: the sheet was already in the pocket before the door, and nobody has boarded, so that sign is early. An early sign is still only a forecast until somebody acts on it. In Chapter 12 Derek turns it into an act: he stands on the line, says no, and turns his back, and only then is there a refusal for the form to record. Nothing in that requires the two acts to be the same event. They are not. That was the other case.
+A warning is not a single moment. It is a message paired with an act, and this file has two messages. Pair the voice with the door: the voice comes after, so that sign is late. Pair the front of the sheet with boarding: the sheet was already in Derek’s hand before the door, and nobody has boarded, so that sign is early. An early sign is still only a forecast until somebody acts on it. In Chapter 12 Derek turns it into an act: he stands on the line, says no, and turns his back, and only then is there a refusal for the form to record. Nothing in that requires the two acts to be the same event. They are not. That was the other case.
 
 Keep this: tense belongs to the pair, not to the paper alone.
 
@@ -3980,7 +3980,7 @@ The Wrong Field
 
 Learning objective: Explain why a date of birth is the wrong datum for this author.
 
-The form asked for a birthday because it assumed a person. A person who has not been born is not in the past of the paper, so the form correctly refused tomorrow. Derek’s refusal at 16:41, made at the yellow line with the carriage door open, can author that record. It has a time, and the time is after the acts it does not claim to have caused. It is not the sender of the morning sheet. The morning sheet was already in the pocket. Acts have times. A sheet that arrived earlier still needs its own account. In this case the account, found in Chapter 22, was not a sender but a printer, a carrier and a route: the form printed the sheet on Tuesday evening from fields the office had filled for other reasons, Derek carried it to the train, and it arrived on Monday morning. Every word has a source. The sentence has no author.
+The form asked for a birthday because it assumed a person. A person who has not been born is not in the past of the paper, so the form correctly refused tomorrow. Derek’s refusal at 16:41, made at the yellow line with the carriage door open, can author that record. It has a time, and the time is after the acts it does not claim to have caused. It is not the sender of the morning sheet. The morning sheet was already in Derek’s hand before the door opened. Acts have times. A sheet that arrived earlier still needs its own account. In this case the account, found in Chapter 22, was not a sender but a printer, a carrier and a route: the form printed the sheet on Tuesday evening from fields the office had filled for other reasons, Derek carried it to the train, and it arrived on Monday morning. Every word has a source. The sentence has no author.
 
 Keep this: TIME OF ACT can be in the past of the record even when DATE OF BIRTH cannot.
 
@@ -3994,7 +3994,7 @@ The Loop You Don’t Need
 
 Learning objective: State the closed-curve trap, and why this file did not need a person inside the loop.
 
-If later Derek writes the warning, he learned the sentence from a life in which he boarded, or from a life in which he did not. The first makes the warning a record of failure. The second never teaches him the sentence. The book avoids that trap: Derek records his refusal without composing the warning. The paper has an ordinary origin, a printer on Tuesday evening; it travels back once and then ages normally, so on Tuesday evening the same sheet exists twice, once new and once about thirty-two hours older. Nothing about the paper needs repairing. What closes on itself is the information: the refusal the sheet provoked supplied the words the form printed. Novikov’s self-consistency principle says that if closed timelike curves exist, only histories that agree with themselves can happen on them. Lossev and Novikov called an object that circulates on such a curve with no maker a jinn, and noted that it would have to be restored to its exact earlier state each time round; the morning sheet is not a jinn, because it has a maker and goes round only once. Whether closed timelike curves can exist at all is open; Hawking’s chronology protection conjecture says the laws of physics forbid them. The railway in this book is fiction. The method Derek uses, asking each word where it came from, is not.
+If later Derek writes the warning, he learned the sentence from a life in which he boarded, or from a life in which he did not. The first makes the warning a record of failure. The second never teaches him the sentence. The book avoids that trap: Derek records his refusal without composing the warning. The paper has an ordinary origin, a printer on Tuesday evening; it travels back once and then ages normally, so on Tuesday evening the same sheet exists twice, once new and once about thirty-two hours older. Nothing about the paper needs repairing. What closes on itself is the information: the refusal the sheet provoked supplied the words the form printed. Novikov’s self-consistency principle says that if closed timelike curves exist, only histories that agree with themselves can happen on them. Lossev and Novikov called an object that circulates on such a curve with no maker a jinn, and noted that it would have to be restored to its exact earlier state each time round; the morning sheet is not a jinn, because it has a maker and goes round only once. Whether closed timelike curves can exist at all is open; Hawking’s chronology protection conjecture proposes that the laws of physics forbid them. The railway in this book is fiction. The method Derek uses, asking each word where it came from, is not.
 
 Keep this: a sheet with a maker does not need a jinn, and a sentence can close on itself without anybody having written it.
 
