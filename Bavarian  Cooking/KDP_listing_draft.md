@@ -1,15 +1,15 @@
 # KDP listing draft: Bavarian Cooking Made Simple
 
 **Title:** Bavarian Cooking Made Simple
-**Subtitle:** 120+ Delicious Recipes of Southern German Culinary Art, Beyond the Oktoberfest
-**Author:** Annette Tauber
+**Subtitle:** 120 Delicious Recipes of Southern German Culinary Art, Beyond the Oktoberfest
+**Author:** Anneliese Tauber (pen name; presented as a Bavarian mother of four)
 **Publisher (imprint):** 99 Luftballon Publishing
 
 ## Description (paste into KDP; basic HTML is allowed)
 
 <b>Taste Bavaria at your own table.</b>
 
-Roast pork with a crackling crust, golden Kaiserschmarrn, a proper Weißwurst breakfast: <i>Bavarian Cooking Made Simple</i> brings more than 120 classic recipes from Munich, the Alps, Franconia, and the Bavarian Forest into everyday kitchens. Every recipe is written for four people, with clear steps, ingredient lists in both US and metric units, and the German name of each dish.
+Roast pork with a crackling crust, golden Kaiserschmarrn, a proper Weißwurst breakfast: <i>Bavarian Cooking Made Simple</i> brings 120 classic recipes from Munich, the Alps, Franconia, and the Bavarian Forest into everyday kitchens. Most recipes serve four, with clear steps, ingredient lists in both US and metric units, and the German name of each dish.
 
 <b>Inside you will find:</b>
 <ul>
@@ -38,8 +38,8 @@ Whether you are cooking for family, planning an Oktoberfest party, or missing a 
 
 ## Upload checklist
 - **Manuscript:** upload the EPUB (`Bavarian Cooking Made Simple (Kindle).epub`) or the Word file. Check the preview in Kindle Previewer.
-- **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (2000 x 3000 px).
-- **AI-generated content:** answer "Yes" for the cover, the AI recipe pictures (Microsoft Copilot), and the AI-assisted text (new recipes and corrections prepared with Claude). Keep the original Copilot files in the `photos\ai_originals` folder.
+- **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (2000 x 3000 px). **Open (11 Oct):** the cover still reads ANNETTE TAUBER and "120+ Delicious Recipes". The first name must become ANNELIESE, and "120+" should become "120" (the book has exactly 120 recipes), before upload. Not redrawn, on Lothar's instruction.
+- **AI-generated content:** answer "Yes" for the cover, the AI recipe pictures (Microsoft Copilot), and the AI-assisted text (new recipes and corrections were AI-assisted). Keep the original Copilot files in the `photos\ai_originals` folder.
 - **Rights:** the other pictures are public domain, CC0, Pexels, Pixabay, or Unsplash images; see the Photo Credits page.
 - **Cooking disclaimers:** the "Before You Cook" page covers raw ingredients, alcohol, and allergens.
 - **Pricing:** with the 70% royalty option, the book must be priced between USD 2.99 and 9.99. Delivery cost is charged per MB of file size, which is why the images were reduced.
