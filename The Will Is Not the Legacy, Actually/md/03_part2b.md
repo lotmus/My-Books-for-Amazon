@@ -31,17 +31,7 @@ A note on the statute itself: the California law that authorises these deeds is 
 
 **What the form itself warns you about.** California prints the TOD deed form in the statute (Probate Code § 5642), and the form is unusually frank. It must be signed before a notary, and, for deeds signed since 2022, also in front of two witnesses who are present at the same time. It must be recorded with the county within 60 days of being notarised, or it has no effect. Beneficiaries must be named by full name; "my children" is not allowed. If a beneficiary dies before you, their share goes to the surviving beneficiaries, not to the dead beneficiary's own children (§ 5652). And if you own the house as a joint tenant or as community property with right of survivorship and die first, the deed is void: the house goes to the co-owner. The form tells you, in capitals, to provide only the information it asks for and to add no instructions of your own. The father's deed did everything the form required. It simply said something different from his will.
 
-**The plain-language version.** A transfer-on-death deed is a will for one house. If it says something different from your real will, it wins for that house. Most families never notice the difference until the house is the only thing that mattered.
-
 **The German version.** Germany has no transfer-on-death deed. Ownership of land passes at death only through inheritance, by will or by statute, and a lifetime transfer of land requires a notarised contract (BGB § 311b) and an entry in the land register. That makes the father's particular mistake impossible in Germany, but its cousin is common: a parent transfers the house to one child during life, by notarised gift, "so the others don't have to bother," and assumes the child will share. The other children may later have claims against the estate or, in some cases, against the child under the compulsory share rules, which add back gifts made within the last ten years (§ 2325). The moral is the same. If you want equality, put equality in the document.
-
-**Questions to ask before you sign a deed.**
-
-- Who will own this property the day after I die, and what document decides that?
-- Does that match my will, my trust, and what I have told my family?
-- What happens if the person I name dies before me? (On a California TOD deed, a beneficiary who dies first simply drops out: their share goes to the other named beneficiaries, and if all have died, the deed has no effect. The form has no space for alternates.)
-- What happens if the person I name is in debt, divorcing, or ill when I die?
-- Who gets a copy, and who knows it exists?
 
 **If it has already happened.** If a parent's deed named one sibling and the will named all of you, talk before anyone sells, borrows against, or moves into the house. The named sibling owns it, but may be willing to share, and the cleanest way to share is usually to sell and divide the proceeds by written agreement, with a tax adviser's view on how the sharing is reported. If the deed was signed when the parent was frail, or after pressure, a lawyer can tell you whether it can be challenged; California's TOD deed law has its own rules and deadlines for contests, so ask promptly.
 
@@ -54,100 +44,84 @@ A note on the statute itself: the California law that authorises these deeds is 
 
 ### Case 7: The son added to the title
 
-**The situation.** The mother was a retired nurse in Los Angeles, seventy-four, living in a two-bedroom condominium she had bought after her divorce. Her only son was forty-five, recently remarried, and running a small landscaping business with more ambition than capital.
+The mother was a retired nurse in Los Angeles, seventy-four, living in the two-bedroom condominium she had bought after her divorce. Her only son was forty-five, recently remarried, and running a small landscaping business with more ambition than capital. She wanted him to have the condominium one day without probate, which she had heard was slow and expensive.
 
-The mother wanted the son to inherit the condominium without going through probate, which she had heard was slow and expensive. At the title company, while refinancing, she asked a friendly employee how to do it. The employee, who was not a lawyer and said so, mentioned that many people simply add their child to the title as a joint tenant. "When you pass, it goes to him automatically. Simple." The mother signed a new deed adding the son as a joint tenant with right of survivorship.
+The idea came from the title company, while she was refinancing. A friendly employee, who was not a lawyer and said so, mentioned that many people simply add their child to the title as a joint tenant. "When you pass, it goes to him automatically. Simple." She signed a new deed adding her son as a joint tenant with right of survivorship and thought of his name on it as a sort of forwarding address for after her death. So, if he thought about it at all, did he.
 
-Three years later, one of the son's employees, driving a company truck, caused a serious accident. The injured driver sued the son and his business. The business's insurance was not enough.
+Joint tenancy is not a forwarding address. It is co-ownership, and it begins on the day the deed is recorded. The mother had made her son the present owner of an undivided half of her home. "Right of survivorship" means that when one joint tenant dies, the survivor owns the whole. It also means that while both are alive, both own it. Over the next four years, every consequence of that arrived in her lifetime, one at a time.
 
-A year after that, the mother's health declined, and she wanted to sell the condominium and move into an assisted living community. The son, under pressure from the lawsuit and a difficult patch in his new marriage, did not answer his phone for three weeks.
+The first was a lawsuit. Three years after the deed, one of the son's employees, driving a company truck, caused a serious accident. The injured driver sued the son and his business, and the business's insurance was not enough. The son's half of the condominium was his property, and the injured driver's lawyers noticed it. They recorded a lien against his interest. It did not force a sale while the mother lived there, but it sat on the title like a stone in a shoe.
 
-**What the family assumed.** The mother assumed she still owned her home, with the son's name attached as a sort of forwarding address for after her death. The son assumed the same, if he thought about it at all.
+The second was a signature. A year later the mother's health declined, and she wanted to sell and move into an assisted living community. To sell, she needed her son's signature, because he was an owner. Under pressure from the lawsuit and a difficult patch in his new marriage, he did not answer his phone for three weeks. When he finally signed, the lien had to be cleared at closing, and part of the price of her home went to her son's creditor instead of to her care.
 
-**What actually happened, and why.** Joint tenancy is not a forwarding address. It is co-ownership. When the mother added the son as a joint tenant, she made him a present owner of an undivided half of the property, today, not at her death. The "right of survivorship" means that when one joint tenant dies, the survivor owns the whole. It also means that, while both are alive, both own it.
+The third was the tax, and it came last because it was invisible until the accountant did the arithmetic. In the United States, property inherited at death usually receives a new tax basis equal to its value at the date of death, so an heir who sells soon afterwards owes little or no capital gains tax. Property given away during life generally keeps the giver's original basis for the part given. By adding her son, the mother had given him half the condominium with her old purchase price attached. Had he inherited the whole at her death, he would have received a basis close to its value for all of it. The accountant put the difference in tax on the eventual sale at several tens of thousands of dollars, and there may also have been a gift tax return to file for the year she added him, because the gift exceeded the annual exclusion.
 
-That had three consequences, all of which arrived in the mother's lifetime.
+The mother's goal had been modest: her son inherits, no probate. Two tools do exactly that without giving him anything while she is alive. A revocable transfer-on-death deed (Chapter 13) leaves her full ownership and control; her son has no interest until her death, his creditors cannot reach what he does not own, and he receives the property with a new basis. A revocable living trust (Chapter 19) does the same and adds a successor trustee who can step in if she becomes incapacitated. And for the practical problem of selling later, a durable power of attorney (Chapter 20) would have let a trusted agent sign for her.
 
-**Creditors.** The son's half-interest was his property, and in principle it was an asset his creditors could pursue. The injured driver's lawyers noticed it. They recorded a lien against the son's interest in the condominium. It did not force a sale while the mother lived there, but it complicated every later step.
+In Germany, putting a child on the land register as co-owner of the family home is a gift of a share of the land; it must be notarised (BGB § 311b) and registered. It can be a sound plan, because each parent can give each child up to 400,000 euros every ten years free of tax (ErbStG §§ 14 and 16), and using the allowance early can save tax at death. But the same consequences follow: the child is an owner now, and the parent can no longer sell or mortgage alone. A German notary will usually suggest protective clauses: a lifelong right for the parent to live in the house (*Wohnrecht*) or keep its income (*Nießbrauch*), and a right to take the share back if the child dies first, becomes insolvent, or tries to sell. Those clauses are the difference between a planned gift and an accident.
 
-**Control.** To sell or refinance the condominium, the mother needed the son's signature, because he was an owner. For three weeks she could not get it. When he finally signed, the lien had to be dealt with at closing, which meant part of the sale price went to the son's creditor instead of to the mother's care.
-
-**Tax.** In the United States, property inherited at death usually receives a new tax basis equal to its value at the date of death, so if the heir sells soon after, there is little or no capital gain. Property given away during life generally keeps the giver's original basis for the part given. By adding the son, the mother had given him half the condominium with her old basis attached. If he had inherited it all at her death instead, he would have received a basis close to its current value for the whole. Their accountant estimated the difference in tax on the eventual sale at several tens of thousands of dollars. There may also have been a gift tax return to file for the year she added him, since the gift exceeded the annual exclusion.
-
-**What would have prevented it.** The mother's goal was simple: the son inherits; no probate. The tools that achieve that without giving the son anything during her lifetime are:
-
-- **A revocable transfer-on-death deed** naming the son. The mother keeps full ownership and control; the son has no interest at all until her death; his creditors cannot reach what he does not own; and he receives the property with a new basis at her death.
-- **A revocable living trust** holding the condominium, with the son as beneficiary after her death. Same advantages, plus a successor trustee who can step in if the mother becomes incapacitated.
-
-For the practical problem of selling the property later, a durable power of attorney naming a trusted agent would have let someone sign on the mother's behalf if she could not.
-
-**The plain-language version.** Joint tenancy is not a probate shortcut that happens to involve ownership. It is ownership that happens to avoid probate. Everything that comes with owning something, creditors, divorces, signatures, taxes, comes with it.
-
-**The German version.** In Germany, putting a child on the land register as co-owner of the family home is a gift of a share of the land, and it must be notarised (BGB § 311b) and registered. It can make sense, especially for inheritance tax, because each parent can give each child up to 400,000 euros every ten years free of tax (ErbStG §§ 14 and 16), and gifts that use up the allowance early can save tax at death. That is a planning reason, not a mistake. But the same consequences follow as in California: the child becomes an owner now, with all the exposure that brings, and the parent can no longer sell or mortgage the house alone. A German notary will usually suggest protective clauses: a lifelong right for the parent to live in the house (*Wohnrecht*) or to keep its income (*Nießbrauch*), and a right to take the share back if the child dies first, becomes insolvent, or tries to sell. Those clauses are the difference between a planned gift and an accident.
-
-**Questions to ask before you add anyone to a title.**
-
-- Am I giving away ownership today, or only arranging who receives it at my death?
-- Could this person's creditors, spouse, or business partners reach the property?
-- Will I still be able to sell, refinance, or move without their signature?
-- What is the tax effect now, and what would it be if they inherited instead?
-- If I change my mind, can I undo it, and at what cost?
-
-**If it has already happened.** If you added a child to your title years ago, do not panic and do not sign a new deed in a hurry. Ask a lawyer and a tax adviser together what your options are: leaving it as it is, having the child transfer their share back (which is itself a gift, with its own reporting), or restructuring into a trust. The right answer depends on the value, the child's circumstances, and your health. If the child is already in debt or divorcing, the options narrow, which is one more reason to look now.
+!> **The takeaway.** Joint tenancy is not a probate shortcut that happens to involve ownership. It is ownership that happens to avoid probate, and everything that comes with owning something comes with it: the co-owner's creditors, their divorce, their signature, and the giver's old tax basis.
 
 **What to do.**
 
-- Before you add anyone to the title of your home, ask your tax adviser to compare the tax basis your heir would get by gift with the basis they would get by inheritance.
+- Before you add anyone to the title of your home, ask your tax adviser to compare the basis your heir would get by gift with the basis they would get by inheritance.
 - Ask whether a transfer-on-death deed or a revocable trust would do the same job without giving away ownership now.
 - If your child runs a business or has debts, assume their creditors could reach any share you put in their name.
-- If you have already added a child, do not sign a new deed to undo it until you have advice; the undoing is itself a transfer.
+- If you have already added a child, do not sign a new deed to undo it until a lawyer and a tax adviser have looked at it together; the undoing is itself a gift, with its own reporting.
 
 ### Case 8: Tenants in common, and a share nobody planned for
 
-**The situation.** Three siblings, an elder sister, a brother, and a younger sister, grew up spending summers at their parents' cabin in the Sierra Nevada: a wooden house with a sagging porch, a lake ten minutes' walk away, and a smell of pine and mothballs that each of them could summon from memory. When their mother died, the will left the cabin to the three of them equally. They took title as tenants in common, each owning one third. They agreed, over a bottle of wine on the porch, that the cabin would "stay in the family" forever.
+*A conversation on the porch of a cabin in the Sierra Nevada, six weeks after a funeral. Three siblings had spent their childhood summers here: a wooden house with a sagging porch, a lake ten minutes' walk away, and a smell of pine and mothballs each of them could summon from memory. When their mother died, her will left the cabin to the three of them equally. They took title as tenants in common, one third each, and agreed over a bottle of wine on this porch that it would stay in the family forever. Now the brother, the one who loved it most, who fixed the roof and kept the logbook, has died of a stroke at fifty. He had no will. He had always meant to make one "once the divorce is sorted." He and his wife had been separated for two years; neither had filed. He also had a son from an earlier relationship, now nineteen. The two sisters are on the porch with the logbook and a letter from a probate lawyer.*
 
-The brother was the one who loved it most. He came up every month, fixed the roof, cleared the gutters, and kept a logbook of who had used it. He married at forty-two; the marriage went badly, and by forty-eight he and his wife had separated, though neither had got round to filing for divorce. He also had a son from an earlier relationship, then nineteen.
+**The younger sister:** So his third comes back to us. That's how it works with family property, isn't it?
 
-The brother died suddenly at fifty, of a stroke, on a Tuesday. He had no will. He had always meant to make one "once the divorce is sorted."
+**The elder sister:** That's what I thought. The letter says no. Tenants in common have no survivorship. His share is part of his estate, like his car.
 
-**What the family assumed.** The elder sister and the younger sister assumed the brother's third would come back to them, because the cabin was the family's. The brother's son assumed his father's share would be his.
+**The younger sister:** He didn't have a will. So it goes to his son.
 
-**What actually happened, and why.** Tenancy in common has no right of survivorship. Each tenant in common owns a separate share that passes through their own estate when they die, by will or, without a will, under the intestacy rules. The brother's third was part of his estate.
+**The elder sister:** Half of it does. The other half goes to his wife.
 
-Because the brother had inherited his share from his mother, it was his separate property, not community property shared with his wife. With no will, California's intestacy statute decided who received his separate property. Under Probate Code § 6401(c), when the deceased leaves a surviving spouse and one child, the spouse takes one half of the separate property, and the child takes the other half. The brother was separated but still married. In the eyes of the statute, a separated spouse is a spouse.
+**The younger sister:** They were separated. She hasn't been up here since the wedding.
 
-So the brother's estranged wife received half of his third: one sixth of the cabin. The brother's son received the other sixth. The elder sister and the younger sister now co-owned the cabin with a woman neither had spoken to since the wedding, and with a nineteen-year-old nephew whose plans for the cabin involved friends, speakers, and long weekends.
+**The elder sister:** Separated isn't divorced. The lawyer quotes the statute. When someone dies without a will and leaves a spouse and one child, the spouse gets half of the separate property and the child gets the other half. The cabin share was his separate property, because he inherited it from Mom. But she's still his wife.
 
-The brother's widow wanted to sell her share, or have the cabin sold. In California, a co-owner who cannot agree with the others can ask a court to order a partition (Code of Civil Procedure § 872.210), which can mean a physical division (rarely practical for a cabin) or a sale with the proceeds divided. Since 2023, California's Partition of Real Property Act gives the other co-owners some protection when property is held as tenants in common without a written agreement: if one co-owner asks for a sale, the others can buy that co-owner out at the court-determined value, multiplied by that co-owner's fraction, if they elect to do so within 45 days of the court's notice (§§ 874.311, 874.317). That right is valuable. It is also only as good as the remaining co-owners' ability to raise the money quickly. The elder sister and the younger sister did not want to sell. They did not have the money to buy her out at the price she wanted. The negotiation took a year and ended with the two sisters taking out a loan against their own homes.
+**The younger sister:** So we own the cabin with a woman neither of us has spoken to in eight years, and a nineteen-year-old.
 
-**What would have prevented it.** Two documents, neither expensive.
+**The elder sister:** Who has already asked whether he can bring friends up for the long weekend. With speakers.
 
-- **A co-ownership agreement** among the three siblings, signed when they took title. It could have given the surviving siblings a right to buy a deceased sibling's share at a fair, agreed price (perhaps based on an appraisal), paid over a few years; set rules for use, costs, and repairs; and said what happens if one sibling wants out. Agreements like this are common for family property and are well worth a lawyer's time.
-- **A will from the brother.** If the brother had wanted his share to go to his son, or back to his sisters, a will would have done it. A lawyer drafting it would have asked about his marriage, and might also have advised him to finish the divorce, or to consider how a separated spouse would be treated in the meantime.
+**The younger sister:** What does she want?
 
-The siblings could also have held the cabin through a family limited liability company or a trust, which can carry built-in rules about who may own shares. That is more complicated and more expensive, and for a modest cabin, a co-ownership agreement and three wills would have been enough.
+**The elder sister:** To sell. Her lawyer says any co-owner can ask a court to partition the property. For a cabin, that means a sale.
 
-**The plain-language version.** Tenants in common means "my share goes wherever my estate goes." If you do not decide where your estate goes, the statute decides, and the statute has never been to the cabin and does not know which sibling fixed the roof.
+**The younger sister:** Can we stop her?
 
-**The German version.** In Germany, the same story would begin earlier. When the mother died, the three siblings would have become a community of heirs (*Erbengemeinschaft*), co-owning the whole estate together. Any co-heir can generally demand that the community be wound up at any time (BGB § 2042), and if they cannot agree how to divide a house, the default route is a forced sale by auction, among themselves or to outsiders (the partition auction, *Teilungsversteigerung*, under § 753). Many German families end up there, because a house is the one asset that cannot be cut into thirds. A will that leaves the cabin to one child, with the others compensated in money, or a binding agreement among the siblings, is the usual cure.
+**The elder sister:** We can buy her out. There's a newer California law for exactly this, for people who own as tenants in common without a written agreement. If she asks the court for a sale, we get the right to buy her share at the value the court sets. But we have to elect within forty-five days of the court's notice, and then actually find the money.
 
-**Why the porch agreement failed.** "It stays in the family forever" is a sentence with no legal content. It does not say what happens when one sibling dies, divorces, needs money, or wants out. It does not say who pays for the roof. Families who want to keep a shared property for a generation need rules, and the time to write them is while everyone still likes each other, on the porch, with the wine.
+**The younger sister:** We don't have that kind of money.
 
-**Questions to ask.**
+**The elder sister:** We could borrow against our houses.
 
-- How do we hold title, and what happens to each share at death?
-- If one of us wants to sell, how is the price set, and can the others buy first?
-- Who decides on repairs and who pays for them?
-- What happens if one co-owner's share passes to a spouse or child we have never met?
+It took a year. In the end the sisters did borrow against their own homes, and bought out the widow at a price that both of them still think was too high. The nephew kept his sixth. The logbook has a new handwriting in it.
 
-**If it has already happened.** If you now co-own family property with a sibling's widow, ex-spouse, or child, start by finding out what they want. Many new co-owners simply want fair value, and a buy-out at an appraised price, paid over time if necessary, is almost always cheaper than a partition lawsuit. Get an independent appraisal that everyone accepts in advance. Put the terms in writing. And then, before anything else, sign a co-ownership agreement among the people who remain, so it does not happen twice.
+Everything the elder sister read from the letter was correct. Tenancy in common has no right of survivorship: each co-owner's share passes through their own estate, by will or, without one, under the intestacy rules. With a surviving spouse and one child, California gives the spouse half of the separate property and the child the other half (Probate Code § 6401(c)), and for inheritance purposes a separated spouse is a spouse. Any co-owner can ask a court to partition (Code of Civil Procedure § 872.210), and since 2023 the Partition of Real Property Act gives the other co-owners a buy-out right at the court-determined value, multiplied by the departing owner's fraction, if they elect within 45 days of the court's notice (§§ 874.311, 874.317). That right is valuable. It is only as good as the remaining owners' ability to raise the money quickly.
+
+**What would have prevented it.** "It stays in the family forever" is a sentence with no legal content. It does not say what happens when one sibling dies, divorces, needs money, or wants out, or who pays for the roof. Two documents would have said it.
+
+- **A co-ownership agreement** signed when they took title, giving the surviving siblings the right to buy a deceased sibling's share at a price set by appraisal, paid over a few years, with rules for use, costs, and repairs, and a procedure for anyone who wants out.
+- **A will from each sibling,** saying where each share goes. A lawyer drafting the brother's would have asked about his marriage and pointed out that, until the divorce was final, his wife was still his heir.
+
+Holding the cabin through a family company or a trust, with rules about who may own shares, is the heavier version of the same idea. For a modest cabin, an agreement and three wills would have been enough.
+
+**In Germany,** the trouble would have started a generation earlier. When the mother died, the three siblings would have become a community of heirs (*Erbengemeinschaft*), co-owning the whole estate. Any co-heir can generally demand that the community be wound up at any time (BGB § 2042), and if they cannot agree how to divide a house, the default is a forced sale by partition auction (*Teilungsversteigerung*, § 753). A will leaving the cabin to one child, with the others compensated in money, or a binding agreement among the siblings, is the usual cure.
+
+**If you are on this porch now.** Find out what the new co-owner wants; many simply want fair value. Agree on one independent appraiser in advance. A buy-out at an appraised price, paid over time if necessary, is almost always cheaper than a partition lawsuit. Put the terms in writing, and then sign a co-ownership agreement among the people who remain, so it does not happen twice.
 
 **What to do.**
 
 - Look up how your co-owned property is titled. The deed will say joint tenancy or tenancy in common; if it says neither, ask.
 - If you hold as tenants in common, sign a co-ownership agreement with a buy-out price formula, a payment period, and rules for costs and use.
-- Make a will that says where your share goes, so the intestacy statute does not decide.
-- If you are separated but not divorced, update your will and your beneficiary forms now; for inheritance purposes, your spouse is still your spouse.
+- Make a will that says where your share goes.
+- If you are separated but not divorced, update your will and beneficiary forms now; for inheritance purposes, your spouse is still your spouse.
 
 ### Case 9: Half of it was never hers to give
 
@@ -175,66 +149,53 @@ They made an uneasy arrangement: the husband would stay, pay the taxes and repai
 
 **The German version.** Germany does not use community property by default. Most married couples live under the community of accrued gains, in which each spouse keeps their own property during the marriage and the gains are balanced at the end. A house in both names is usually simple co-ownership, each spouse owning a half. The wife's half would then pass under her will, just as in California, and the result could be very similar. That is why German couples in second marriages so often make a joint will or a notarised inheritance contract, and why German notaries ask, early and bluntly, "and what about the children from the first marriage?"
 
-**Questions to ask as a couple.**
-
-- Which of our assets are community, which are separate, and how is each one titled?
-- If one of us dies, where does the survivor live, and on what money?
-- After both of us die, who gets what, and do we both agree?
-- Can the survivor change the plan for the first spouse's half? Do we want that?
-
 **If it has already happened.** If you have inherited half of a house in which the deceased's spouse still lives, the worst move is a quick ultimatum. Get a valuation. Find out what the surviving spouse can afford: a buy-out, a rent, a life-long arrangement with the sale at the end. Put any arrangement in writing, with who pays taxes, insurance, and repairs, and what happens at the next death. A written co-ownership agreement among people who are not family is not a sign of mistrust. It is the only thing that keeps the peace.
-
-**Why couples skip the joint meeting.** In second marriages, people often prefer to see lawyers separately, out of tact. Nobody wants to discuss, in front of their spouse, how much they are leaving to their own children. That tact is exactly what produced the wife's will. A good estate lawyer can see a couple together, explain the conflicts openly, and help them reach a plan both can sign. If one spouse wants separate advice as well, that is fine. But the plan for the house they share should be made in the same room, with both of them reading the same draft.
 
 **What to do.**
 
 - List which of your assets are community and which are separate, and how each is titled. In California, your will controls only your half of community property.
-- If either of you has children from an earlier relationship, see one lawyer together and sign one coordinated plan.
+- If either of you has children from an earlier relationship, see one lawyer together and sign one coordinated plan. Tact about seeing lawyers separately is exactly what produced the wife's will; separate advice is fine as well, but the plan for the house you share should be read by both of you in the same room.
 - Decide in writing where the survivor will live, for how long, and who pays for the house in the meantime.
 - If the survivor is not to be free to change the plan for the first spouse's half, make sure the documents say so.
 
 ### Case 10: The house given away eight years before
 
-**The situation.** The father was a retired carpenter in a village near Regensburg, a widower with two children. His son, a quiet man who worked for the local water authority, had never moved far; he lived in the granny flat behind his father's house and, when the father's heart began to fail, became his carer. For the last six years the son did the shopping, drove his father to appointments, managed the medications, and sat up with him on bad nights. His sister lived in Hamburg, a successful architect with two children and a demanding job. She visited at Christmas and for the father's birthday and called every Sunday.
+*This case is told twice: once as it happened, and once as it could have gone, with one more appointment at the same notary.*
 
-Eight years before he died, while he still felt reasonably well, the father went to the notary and gave the son the house by notarial deed. He was proud of having done it. "My son has earned it," he told his friends, "and the rest will go to my daughter." The rest was a savings account worth about 60,000 euros. The house was worth about 480,000.
+**As it happened.** The father was a retired carpenter in a village near Regensburg, a widower with two children. His son, a quiet man who worked for the local water authority, lived in the granny flat behind the house and, when the father's heart began to fail, became his carer. For six years he did the shopping, drove his father to appointments, managed the medications, and sat up with him on bad nights. The daughter lived in Hamburg, an architect with two children and a demanding job. She visited at Christmas and on her father's birthday, and called every Sunday.
 
-Two years later the father made a handwritten will naming the son his sole heir, "to keep things simple," on the theory that the paperwork would be easier with one heir and the son would hand the daughter the savings.
+Eight years before he died, while he still felt reasonably well, the father went to the notary and gave the son the house by notarial deed. "My son has earned it," he told his friends, "and the rest will go to my daughter." The rest was a savings account of about 60,000 euros. The house was worth about 480,000. Two years later he wrote a will by hand naming the son as sole heir, "to keep things simple," on the theory that the son would hand his sister the savings.
 
-The father died at eighty-three.
+He died at eighty-three. The son assumed the house was his beyond question; he had been on the land register for eight years. The daughter, who had always known about the house and never complained, assumed she would receive the savings.
 
-**What the family assumed.** The son assumed the house was his, beyond question, since he had owned it for eight years and was on the land register. He assumed the daughter would receive the savings, as their father had said. The daughter, who had always known about the house and had never complained about it, assumed the same.
+German law saw it differently. A child excluded by a will, as naming the son sole heir excluded the daughter, has a compulsory share, the *Pflichtteil*: a money claim against the heir worth half of what the child would have received without a will (BGB § 2303). With two children and no surviving spouse, her statutory share would have been one half, so her compulsory share was one quarter.
 
-**What actually happened, and why.** In Germany, a testator cannot simply write a child out of the estate. A child who is excluded by a will (and naming the son sole heir excluded the daughter) has a compulsory share, the *Pflichtteil*: a money claim against the heir worth half of the share the child would have received without a will (BGB § 2303). With two children and no surviving spouse, the daughter's statutory share would have been one half. Her compulsory share was therefore one quarter of the value of the estate.
+A quarter of 60,000 euros is 15,000. But a parent cannot empty an estate by giving things away before death. Gifts made in the ten years before the death are added back for the calculation (§ 2325), shrinking by a tenth for each full year that has passed. The house had been given eight years earlier, so two tenths of its value, about 96,000 euros, was added back. (For gifts to a spouse, the clock does not start until the marriage ends; that exception did not apply.) The daughter's claim was a quarter of 156,000: about 39,000 euros, payable in cash by the son.
 
-The estate itself was only the savings account, 60,000 euros. A quarter of that was 15,000. If that had been the whole story, the daughter would have had a modest claim, and the son would have handed her the savings anyway.
+He did not have 39,000 euros. He had a house and a modest salary. German law can take long-term care by a child into account among the children (§ 2057a), and that can carry over into a sibling's compulsory share (§ 2316), but whether and how much it applied when the son was already sole heir, and what six years of nights were worth in money, are exactly the questions on which lawyers and courts disagree. Each sibling hired one. It took a year and a half. At the end, the daughter told her brother that she would have signed anything their father asked her to sign, if only he had asked.
 
-But German law does not let a parent empty the estate by giving things away shortly before death. Under § 2325, gifts made in the ten years before the death are added back to the estate for the purpose of calculating the compulsory share. The add-back shrinks over time: a gift in the last year counts in full, and for each year that passes, one tenth less counts. The house had been given eight years before the father's death, so two tenths of its value, about 96,000 euros, was added back. (There is an important exception that did not apply here: for gifts to a spouse, the ten-year clock does not start running until the marriage ends.)
+**As it could have gone.** Same father, same house, same notary, same day eight years before. This time the notary asks the question notaries are there to ask: "And your daughter? What does she receive, and does she know?"
 
-So the daughter's compulsory share was calculated on 60,000 plus 96,000: a quarter of 156,000, about 39,000 euros, payable in cash by the son.
+The father invites both children to a second appointment. At the notary's table the daughter hears, for the first time in her father's words, what her brother does every night. She signs a notarised waiver of her compulsory share, in return for the savings, left to her by name in a new will, and her father's workshop tools for her son, who wants to be a carpenter. German law allows exactly this: a relative can renounce a compulsory share by notarised contract with the person whose estate it is (§§ 2346 and 2348), during that person's lifetime. The deed records that the gift is partly in return for the son's care, which may count differently from a pure gift, and the father takes out a small life insurance policy for the son, so that if any claim does arise there will be cash to pay it.
 
-The son did not have 39,000 euros. He had a house and a modest salary. There was a further twist that could have helped him: German law can take long-term care by a child into account when shares among the children are calculated (BGB § 2057a), and that can carry over into the calculation of a sibling's compulsory share (§ 2316). Whether and how much it applied when the son was already the sole heir, and what his years of care were worth in money, are exactly the questions on which lawyers and courts disagree. The son and the daughter each hired one. It took a year and a half to settle.
+Eight years later the father dies. The son keeps the house. The daughter receives the savings and the tools. The siblings sit together at the funeral, and nobody hires anyone.
 
-The daughter, who had never wanted to take anything from her brother, told him at the end that she would have signed anything their father asked her to sign, if only he had asked.
+**The difference, line by line.**
 
-**What would have prevented it.** At the time of the gift, the notary could and should have discussed the compulsory share consequences with the father. Several options were available.
+- **What the father wanted:** the same in both versions.
+- **What the daughter was asked:** nothing, or the one question that mattered, at a table, with her father present.
+- **What the son owed:** about 39,000 euros and a year and a half of lawyers, or nothing.
+- **The clock:** had the father lived ten full years after the gift, it would have dropped out of the calculation entirely. That is a reason to make planned gifts early, not a plan in itself.
 
-- **A waiver of the compulsory share.** German law allows a relative to renounce their compulsory share by notarised contract with the person whose estate it is (§§ 2346 and 2348). The daughter could have waived her claim, perhaps in return for a payment or another asset, perhaps simply because she agreed that the son had earned the house. Such waivers are common in German family planning. They must be agreed during the parent's lifetime.
-- **Making the gift earlier.** After ten full years, the gift drops out of the calculation entirely.
-- **Writing the care into the documents.** The deed and the will could have recorded explicitly what the son's care was worth and that the gift was in part payment for it. A gift that is partly a payment for services may count differently from a pure gift.
-- **Planning for liquidity.** If a compulsory share claim was going to arise anyway, the father could have made sure there was cash to pay it: a life insurance policy for the son's benefit, for example.
+**The California version.** California has no compulsory share for children. A California parent can disinherit an adult child entirely, as long as the will makes the intention clear. That freedom is real, and it is also why left-out children in California more often challenge wills on other grounds, such as capacity or undue influence (Case 16). Freedom to disinherit is not freedom from family disputes.
 
-**The plain-language version.** In Germany, close family members have a floor under their inheritance. You can lower what they get, but you cannot take it below the floor without their agreement. Gifts in the last ten years are counted back in, a little less each year. If you want to treat children unequally, even for very good reasons, the time to sort it out is while you are alive and everyone can sit at the same table.
-
-**The California version.** California has no compulsory share for children. A California parent can disinherit an adult child entirely, as long as the will makes the intention clear. That freedom is real, and it is also why California wills are more often challenged on other grounds, such as lack of capacity or undue influence, by the children who were left out. Freedom to disinherit is not freedom from family disputes.
-
-**If it has already happened.** If you are the child who received a lifetime gift and now face a sibling's compulsory share claim, get the facts straight before the argument starts: the date of the gift, its value at the time, the value of the estate, and any evidence of care or payments you made. Ask a lawyer to calculate the claim, including any credit for care, before you negotiate. If you are the sibling with the claim, remember that the deadline matters: German compulsory share claims are generally subject to the regular three-year limitation period, running from the end of the year in which you learned of the death and of the will that excluded you. Neither of you benefits from waiting for the other to blink.
+**If it has already happened.** If you received a lifetime gift and now face a sibling's compulsory share claim, establish the facts before the argument starts: the date of the gift, its value then, the value of the estate, and any evidence of care you gave. Ask a lawyer to calculate the claim, including any credit for care, before you negotiate. If you are the sibling with the claim, mind the clock: German compulsory share claims are generally subject to the regular three-year limitation period, running from the end of the year in which you learned of the death and of the will that excluded you.
 
 **What to do.**
 
 - If you live in Germany and plan a large gift to one child, ask the notary to calculate the compulsory share consequences before you sign.
 - Ask the child who will receive less whether they would sign a notarised waiver, and what would make it fair to them.
-- If a child is caring for you, keep a simple log of the care: dates, hours, tasks. It may affect the shares later.
+- If a child is caring for you, keep a simple log of the care: dates, hours, tasks.
 - Make sure the child who keeps the house will have cash to pay a sibling's claim, for example through life insurance.
 
 ### Case 11: The house for the son who pays the mortgage

@@ -109,6 +109,16 @@ for f in md_files:
                 if not all(re.fullmatch(r':?-+:?',c) for c in cells if c): rows.append(cells)
                 i+=1
             blocks.append(('table',rows)); continue
+        if l.startswith('!>'):
+            q=[]
+            while i<len(lines) and lines[i].startswith('!>'):
+                q.append(lines[i][2:].strip()); i+=1
+            paras=[]; cur=[]
+            for x in q:
+                if x: cur.append(x)
+                elif cur: paras.append(' '.join(cur)); cur=[]
+            if cur: paras.append(' '.join(cur))
+            blocks.append(('box',paras)); continue
         if l.startswith('>'):
             q=[]
             while i<len(lines) and lines[i].startswith('>'):
@@ -170,6 +180,22 @@ for b in blocks:
         p.add_run().add_picture('/workspace/will/'+b[2],width=Inches(4.5))
         c=doc.add_paragraph(); c.alignment=WD_ALIGN_PARAGRAPH.CENTER
         r=c.add_run(b[1]); r.italic=True; r.font.size=Pt(9.5)
+    elif b[0]=='box':
+        # Takeaway box, Kindle-safe: ordinary paragraphs with a top/bottom rule and light shading (no text box, no table)
+        for k,t in enumerate(b[1]):
+            p=doc.add_paragraph(); pf=p.paragraph_format; pf.left_indent=Inches(0.15); pf.right_indent=Inches(0.15)
+            pf.space_before=Pt(8 if k==0 else 0); pf.space_after=Pt(8 if k==len(b[1])-1 else 3)
+            if k<len(b[1])-1: pf.keep_with_next=True
+            ppr=p._p.get_or_add_pPr(); bd=OxmlElement('w:pBdr')
+            for side in (['top'] if k==0 else [])+(['bottom'] if k==len(b[1])-1 else []):
+                e=OxmlElement('w:'+side); e.set(qn('w:val'),'single'); e.set(qn('w:sz'),'8'); e.set(qn('w:space'),'4'); e.set(qn('w:color'),'2A787A'); bd.append(e)
+            sh=OxmlElement('w:shd'); sh.set(qn('w:val'),'clear'); sh.set(qn('w:color'),'auto'); sh.set(qn('w:fill'),'EAF4F3')
+            later={qn('w:'+t) for t in ('tabs','suppressAutoHyphens','kinsoku','wordWrap','overflowPunct','topLinePunct','autoSpaceDE','autoSpaceDN','bidi','adjustRightInd','snapToGrid','spacing','ind','contextualSpacing','mirrorIndents','suppressOverlap','jc','textDirection','textAlignment','textboxTightWrap','outlineLvl','divId','cnfStyle','rPr','sectPr','pPrChange')}
+            anchor=next((c for c in ppr if c.tag in later),None)
+            for e in ([bd] if len(bd) else [])+[sh]:
+                if anchor is not None: anchor.addprevious(e)
+                else: ppr.append(e)
+            add_runs(p,t)
     elif b[0]=='quote':
         for t in b[1]:
             p=doc.add_paragraph(); p.paragraph_format.left_indent=Inches(0.3); p.paragraph_format.right_indent=Inches(0.2)
@@ -184,6 +210,8 @@ for b in blocks:
                 p.add_run('☐  ')
             add_runs(p,t)
     elif b[0]=='table':
+        raise SystemExit('Kindle rule: no tables in the docx; convert the markdown table to a list')
+    elif b[0]=='table_unused':
         rows=b[1]; ncol=max(len(r) for r in rows)
         t=doc.add_table(rows=len(rows),cols=ncol); t.style='Table Grid'
         for ri,row in enumerate(rows):
