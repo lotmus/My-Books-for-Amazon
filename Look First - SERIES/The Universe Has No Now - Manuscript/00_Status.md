@@ -347,3 +347,11 @@ Lothar’s decisions after the review revision: the Epistemic Map stays in the f
 | radio | 43 | 37 |
 | basil | 20 | 17 |
 | drawers | 34 | 33 |
+
+## 10 Oct 2026, strict rescore: 9.0 before the day's fixes, 9.2 after
+
+Sampled reread (front matter, Parts I-II, the notes and back matter), not a full reread. Prose 9.0, structure 9.3, facts 9.2 (endnotes and bibliography already linked as keywords on 10 Oct), formatting/KDP 9.3, covers done.
+
+Fixes: back cover made (`export/KINDLE_BACK_COVER_2560.jpg`, single colour, text only, matching the clock-ring front); Figure 9 is now the colour Planck map with a labelled cooler/warmer bar (ESA and the Planck Collaboration, CC BY 4.0; grayscale version in `bak/2026-10-10 rescore/`), caption changed in the docx, `Figures/build_docx.py` and Part Two; Also-by page added after About the Author from `notes/ALSO_BY - canonical list.md` (this book left out) with a Contents line; one straight apostrophe curled (Ch 19, "Chapter 24's"); copyright-page credit note no longer says "in this file"; KDP credits no longer say the photos are grayscale.
+
+Open: the markdown build is not a safe rebuild (see `export/KINDLE_BUILD.md`, 10 Oct 2026 section). Paperback wrap later.
