@@ -568,7 +568,7 @@ The arc of the story is short to state. EPR's challenge to quantum completeness 
 
 Particles themselves are now understood as excitations of underlying quantum fields, organized by the Standard Model, so the "particle zoo" is less a zoo than a set of temporary disturbances in a much larger landscape.
 
-Science self-corrects, and its dead ends show how. The nineteenth-century luminiferous aether hypothesis was ruled out by the null result of the 1887 Michelson-Morley experiment, which helped pave the way for special relativity. A 1924 proposal, co-authored by Bohr, argued that energy and momentum conservation might hold only statistically, on average over many events; it was disproven within two years by direct event-by-event measurements.
+Science self-corrects, and its dead ends show how. The nineteenth-century luminiferous aether hypothesis was ruled out by the null result of the 1887 Michelson–Morley experiment, which helped pave the way for special relativity. A 1924 proposal, co-authored by Bohr, argued that energy and momentum conservation might hold only statistically, on average over many events; it was disproven within two years by direct event-by-event measurements.
 
 Still unknown: whether spacetime and time themselves are fundamental or emergent, and how to unify quantum mechanics with gravity into one complete theory. We should probably avoid writing the user manual for the year 3026 just yet.
 
@@ -624,11 +624,11 @@ Collective Electrodynamics, a minority research program laid out in the 2000 boo
 
 A slogan for it is "electrons talking to electrons," with no separate field floating between them. The program is best held as a claim about levels of description. The field is no illusion: it survives as bookkeeping for the electrons' collective behavior, even without a separate existence of its own.
 
-This sits within a longer lineage of matter-first reasoning: the London equations for superconductivity from 1935, the Ginzburg-Landau description of a macroscopic quantum wave function, BCS theory, the Josephson effect, and Feynman and Wheeler's earlier exploration of direct particle-to-particle electromagnetic interaction.
+This sits within a longer lineage of matter-first reasoning: the London equations for superconductivity from 1935, the Ginzburg–Landau description of a macroscopic quantum wave function, BCS theory, the Josephson effect, and Feynman and Wheeler's earlier exploration of direct particle-to-particle electromagnetic interaction.
 
 "Collective" refers to large populations of electrons, as found in a superconductor, behaving as a single coherent macroscopic quantum state. That is what makes quantum coherence effects measurable at ordinary laboratory scale, beyond individual particles.
 
-The program elevates the electromagnetic potentials to a more fundamental role than the fields derived from them. It cites the Aharonov-Bohm effect, in which a quantum particle's phase is measurably affected by potentials even in a region where the magnetic field itself is exactly zero, as evidence that these potentials are physically meaningful in their own right and more than a convenient bookkeeping device.
+The program elevates the electromagnetic potentials to a more fundamental role than the fields derived from them. It cites the Aharonov–Bohm effect, in which a quantum particle's phase is measurably affected by potentials even in a region where the magnetic field itself is exactly zero, as evidence that these potentials are physically meaningful in their own right and more than a convenient bookkeeping device.
 
 The derivation runs roughly like this. Phase coherence among electrons along a current-carrying wire reproduces Ampere's law and ordinary magnetism. Propagating changes in these quantum interactions reproduce electromagnetic waves. Radiation itself becomes a matter of charged matter interacting with charged matter, with no mysterious fluid leaving the antenna. And electromagnetic energy, along with atomic emission and absorption, is likewise traced back to underlying quantum states.
 
@@ -646,7 +646,7 @@ At the edge of physics sit the open questions, above all whether spacetime itsel
 
 "Hidden" there has a specific meaning. A garden hose seen from a distance looks like a simple one-dimensional line, and only up close does it turn out to have a second, circular dimension curled around it. String theory's extra dimensions are proposed to be hidden in exactly that sense, curled up too small to notice, rather than tucked behind some wall or off in some inaccessible location.
 
-Time is its own puzzle. The long-running "arrow of time" debate weighs standard entropy-based explanations against a minority view that irreversibility is actually fundamental. The so-called "problem of time" arises in the Wheeler-DeWitt equation, which describes the quantum state of the entire universe without any time variable appearing in it at all. And CP violation, discovered in 1964, is direct experimental evidence that the laws of physics are not perfectly symmetric between matter and antimatter, a result relevant to the conditions theorized for how the universe ended up with more matter than antimatter in the first place.
+Time is its own puzzle. The long-running "arrow of time" debate weighs standard entropy-based explanations against a minority view that irreversibility is actually fundamental. The so-called "problem of time" arises in the Wheeler–DeWitt equation, which describes the quantum state of the entire universe without any time variable appearing in it at all. And CP violation, discovered in 1964, is direct experimental evidence that the laws of physics are not perfectly symmetric between matter and antimatter, a result relevant to the conditions theorized for how the universe ended up with more matter than antimatter in the first place.
 
 On black holes: an event horizon marks a boundary beyond which nothing, not even light, can escape. Stephen Hawking showed in 1974 and 1975, using quantum field theory applied near the horizon, that black holes nonetheless emit radiation and slowly evaporate over immense timescales. This Hawking radiation creates the black hole information paradox, since evaporation appears to destroy information outright, in direct conflict with quantum mechanics' rule that information is never truly lost.
 
@@ -729,7 +729,7 @@ Take two distant electrons. Move one, and the other responds after a light-speed
 
 Try a different question. Instead of asking what one electron does to "the field," ask what happens to the electron's own quantum description, its amplitude. An amplitude has two parts: a size and a phase.
 
-Two people hauling on the same ring, each on their own rope, show how such things combine. Haul together in the same direction and the ring lurches hard. Haul with equal strength in exactly opposite directions and the ring doesn't budge, even though neither rope ever went slack. Amplitudes combine the same way. Aligned, they reinforce; opposed with equal strength, they cancel outright, even though neither one alone was ever zero. Ordinary probabilities cannot do this. A probability is a plain percentage with no direction attached, and two of them can only add.
+Two people hauling on the same ring, each on their own rope, show how such things combine. Haul together in the same direction and the ring lurches hard. Haul with equal strength in exactly opposite directions and the ring doesn't budge, even though neither rope ever went slack. Amplitudes combine the same way: aligned, they reinforce; opposed with equal strength, they cancel outright, the same vanishing-act Chapter 158's needles already pulled off. Ordinary probabilities cannot do this. A probability is a plain percentage with no direction attached, and two of them can only add.
 
 The phase cannot be measured directly, yet it governs interference. When two possible routes lead to the same outcome, you add their phase-carrying arrows: aligned phases reinforce and opposite phases cancel. "A possibility that never happens can still change the odds of the possibilities that do."
 
@@ -2092,7 +2092,7 @@ Noether's theorem is the best bargain in physics: every continuous symmetry of t
 
 Conserved currents generalize the pattern: each symmetry yields a density with a flow obeying the same continuity rule as the conserved current above. Whatever leaves a small region must cross its boundary, and the total stays fixed as long as the fields politely die away at infinity.
 
-Global phase symmetry is the plainest symmetry going: shift the electron field's phase by the same amount everywhere at once. Think of moving every clock in a country forward one hour for daylight saving time. No train's schedule changes relative to any other train's; only the labels on the clocks do. Nothing measurable changes, so Noether hands over a conserved current, and it is the very current met earlier in this chapter.
+Global phase symmetry is the plainest symmetry going: shift the electron field's phase by the same amount everywhere at once, the same every-clock-on-Earth shift from Chapter 197, now applied to a field instead of a single particle. Nothing measurable changes, so Noether hands over a conserved current, and it is the very current met earlier in this chapter.
 
 Its total is electric charge. A real field has no phase to shift and stays neutral; a complex one can carry charge. Conservation of charge stops being bookkeeping and becomes a consequence of symmetry. Note the word global, though: the same shift, everywhere, no exceptions. Chapter 247 asks what happens once each point gets to choose its own shift, and the answer is QED.
 
@@ -2250,7 +2250,7 @@ Loops bring a second kind of infinity, at the opposite end of the energy scale f
 
 The resolution, soft photons, is refreshingly physical. No real detector can tell an electron that scattered without incident from one that scattered while shedding an undetectably faint photon, so the two must be added together as one measurable outcome, and the infinities from each piece cancel. The trick turns out to be a plain statement of what "detecting an electron" actually means.
 
-The last stretch turns loop corrections into the most stringent tests QED has ever passed. The anomalous magnetic moment asks how much stronger a spinning electron's little bar magnet is than Dirac's tidy tree-level equation predicts, once all the loop corrections, from Chapter 250 onward, are stacked up. Theory and experiment agree to somewhere past the ninth decimal place, a level of concord that borders on the unreasonable for a theory built out of infinite series that do not, strictly, even converge.
+The last stretch turns loop corrections into the most stringent tests QED has ever passed. The anomalous magnetic moment asks how much stronger a spinning electron's little bar magnet is than Dirac's tidy tree-level equation predicts, once all the loop corrections, from Chapter 250 onward, are stacked up. Theory and experiment agree to roughly one part in a trillion, a level of concord that borders on the unreasonable for a theory built out of infinite series that do not, strictly, even converge.
 
 The Lamb shift is the same style of triumph applied to hydrogen. Two atomic levels that the Dirac equation predicts should sit at exactly the same energy are nudged apart by loop effects, mostly the electron's self-energy. The splitting was measured in 1947, before the theory could compute it, and the push to explain it helped drive the renormalized QED of the late 1940s.
 

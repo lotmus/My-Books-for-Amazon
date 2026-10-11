@@ -348,7 +348,7 @@ In 1935, Einstein and Rosen noticed a curious mathematical feature in the fully 
 
 The classic way to picture such a shortcut: draw two distant points on a sheet of paper, fold the paper so the points nearly touch, and poke a pencil through both layers. The route owes nothing to the paper's flat surface and everything to bending the paper through a third dimension the surface knows nothing about. Here the picture breaks: spacetime has no outside dimension to fold through, so any real shortcut would have to be built entirely from directions already present in its own four dimensions, a stranger and far less pictureable feat.
 
-The classic Einstein-Rosen bridge is explicitly not something you could drive through. It pinches shut before anything has a chance to cross, so it offers no evidence of a usable shortcut between stars, let alone between universes.
+The classic Einstein–Rosen bridge is explicitly not something you could drive through. It pinches shut before anything has a chance to cross, so it offers no evidence of a usable shortcut between stars, let alone between universes.
 
 A "traversable" wormhole, one you could actually travel through, would need exotic matter with negative energy density to prop its throat open and keep it from collapsing. Such matter is permitted only in narrow, tightly restricted quantum contexts. This remains firmly speculative territory, with no evidence that any such wormhole exists in nature.
 
@@ -882,7 +882,7 @@ In plain English, a strange loop is a system complicated enough to build an inte
 
 The Big Bang was space itself getting roomier, everywhere at once. Forget the grenade in an empty warehouse. A better picture is a grid of dots printed on plastic wrap stretched evenly in every direction: every dot sees every other dot receding, no special dot is doing the pulling, and there's no edge anywhere to point to.
 
-The credit is spread across several people. A mathematician worked out the expanding solutions in 1922. A physicist put numbers on the actual expansion in a 1927 paper, and four years later, in 1931, in a separate paper of his own, proposed the "primeval atom": two ideas from the same person in two different papers, however often they get flattened into one. Edwin Hubble established the velocity-distance relationship observationally in 1929.
+The credit is spread across several people. A mathematician worked out the expanding solutions in 1922. Georges Lemaître put numbers on the actual expansion in a 1927 paper, and four years later, in 1931, in a separate paper of his own, proposed the "primeval atom": two ideas from the same person in two different papers, however often they get flattened into one. Edwin Hubble established the velocity-distance relationship observationally in 1929.
 
 Einstein had earlier bolted a cosmological constant onto his equations in 1917 specifically to avoid an expanding universe, and later called it his biggest blunder. History forgave him fairly quickly, since the constant came roaring back decades later for entirely different reasons.
 
@@ -908,7 +908,7 @@ As for what happened before all this, proposals like a "no-boundary" state, with
 
 Cosmic redshift was discovered in stages. Astronomers taking spectra of "spiral nebulae" between 1912 and 1917 noticed something odd. Separately, a researcher's 1912 discovery of the Cepheid period-luminosity relationship supplied the ruler needed to measure cosmic distances. Hubble combined the two in 1929 into the velocity-distance law of a stretching universe.
 
-The resulting Hubble-Lemaître law says that a galaxy's apparent recession speed increases in proportion to its distance: the farther away, the faster it appears to recede. The constant of proportionality, the Hubble constant, is where things get interesting. Measurements based on the cosmic microwave background give a value around 67 kilometers per second per megaparsec, while measurements based on nearby "distance ladder" objects give around 73. This mismatch, the "Hubble tension," is real and, as of 2026, still unresolved; distance-ladder results calibrated with the James Webb Space Telescope have not settled it, with one team confirming about 73 and another finding about 70. It is a puzzle about the expansion rate's precise value; expansion itself stands untouched.
+The resulting Hubble–Lemaître law says that a galaxy's apparent recession speed increases in proportion to its distance: the farther away, the faster it appears to recede. The constant of proportionality, the Hubble constant, is where things get interesting. Measurements based on the cosmic microwave background give a value around 67 kilometers per second per megaparsec, while measurements based on nearby "distance ladder" objects give around 73. This mismatch, the "Hubble tension," is real and, as of 2026, still unresolved; distance-ladder results calibrated with the James Webb Space Telescope have not settled it, with one team confirming about 73 and another finding about 70. It is a puzzle about the expansion rate's precise value; expansion itself stands untouched.
 
 Redshift, denoted by the letter z, is best understood as a stretch factor describing how much the universe has expanded since the light was emitted. The cosmic microwave background reaches us with a redshift of about 1,100, meaning the universe has stretched close to a thousandfold since that light set out.
 
@@ -1676,11 +1676,11 @@ Several mutually exclusive views of time compete, and none has won. The first tr
 
 The arrow of time, why eggs break and never reassemble, does not come from the laws of physics, which are time-symmetric. It comes from the universe's low-entropy initial condition: the "Past Hypothesis" of Chapter 66, an assumption the theory needs and cannot itself explain.
 
-Then there is the unresolved "problem of time" in quantum gravity. The Wheeler-DeWitt equation, one of the field's foundational tools, contains no explicit time variable at all, which suggests to many physicists that time might be emergent instead of fundamental.
+Then there is the unresolved "problem of time" in quantum gravity. The Wheeler–DeWitt equation, one of the field's foundational tools, contains no explicit time variable at all, which suggests to many physicists that time might be emergent instead of fundamental.
 
 Two proposals for how time might emerge stand side by side. The "heap of Nows" treats reality as a collection of static configurations linked only by pattern-correlations, with no flow between them. "Thermal time" treats time as something that emerges from thermodynamic systems instead of being built into the universe from the start.
 
-A flipbook is a workable way in. Each page is a complete, static picture, and motion exists only in how consecutive pages differ, never as an ingredient on any single page. A Wheeler-DeWitt equation with no time variable is like being handed the pages with no page numbers and no instructions for their order.
+A flipbook is a workable way in. Each page is a complete, static picture, and motion exists only in how consecutive pages differ, never as an ingredient on any single page. A Wheeler–DeWitt equation with no time variable is like being handed the pages with no page numbers and no instructions for their order.
 
 The heap of Nows takes that seriously: maybe there is no built-in flow, only unordered pages linked by which ones correlate with which, and "time passing" is the pattern you notice when you arrange them in a particular sequence. Thermal time suggests instead that direction and flow can be recovered from a system's thermodynamic and statistical properties, the way some orderings tell a far more coherent story than others (a glass shattering, never unshattering), and that coherent ordering is what we call time. Neither is confirmed. Both try to explain why a flipbook with no page numbers still feels, overwhelmingly, like it plays in one direction.
 
