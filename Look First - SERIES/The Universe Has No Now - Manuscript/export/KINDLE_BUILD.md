@@ -61,3 +61,9 @@ python Figures\build_docx.py "export\The_Universe_Has_No_Now.docx"
 ## 46 chapters (3 Oct 2026)
 
 Chapter 30 was split into 30 and 31, so the book has 46 chapters and appendix notes A0–A46. Printed figure numbers follow chapter numbers, but figure files kept their names: `fig31`–`fig45` print as Figures 32–46, and `fig46.png` (from `Figures\draw_spacetime_figs.py`) prints as Figure 31. The mapping is `CHAPTER_FIG` in `Figures\build_docx.py`; `assemble_export.py` takes the file from the image path, not the caption number.
+
+## 10 Oct 2026: the docx is the master; do not rebuild blind
+
+`export/The_Universe_Has_No_Now.docx` now carries back matter that the markdown build does not make: the review line, About the Author, and the Also-by page (canonical list, 10 Oct 2026), each in the Contents. A fresh `python export\assemble_export.py` on 10 Oct 2026 also came out at 3.10 MB (line-art PNGs larger than in the committed file), which is over the 3 MB limit. Edit the docx in place (see `scripts/rescore_2026-10-10.py`), or, if you must rebuild, re-add the back matter and shrink the line art below 3 MB before committing.
+
+Back cover: `KINDLE_BACK_COVER_2560.jpg` (1600x2560, the front's near-black, text only), drawn by `..\scripts\make_back_cover.py`.

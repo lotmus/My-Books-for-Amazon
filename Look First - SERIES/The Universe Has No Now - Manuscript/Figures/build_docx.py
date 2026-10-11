@@ -38,7 +38,7 @@ FIG = {
  6: ("diagram", "The block: a loaf of all events. One thick thread is you. Past and future are directions on the loaf, not a moving edge.", ""),
  7: ("diagram", "A grid of dots that grows. Every dot sees the others recede; no dot is the center.", ""),
  8: ("photo", "A handful of distant galaxies, each still sharp. Almost every one is receding.", "Credit: NASA/ESA/STScI"),
- 9: ("photo", "The microwave sky as a grayscale oval, warmer and cooler patches. This is a measurement, not a snapshot from a camera.", "Credit: ESA/Planck Collaboration"),
+ 9: ("photo", "The microwave sky as an oval map: blue patches are slightly cooler, red patches slightly warmer. This is a measurement, not a snapshot from a camera.", "Credit: ESA/Planck Collaboration"),
  10: ("diagram", "Four ticks on one line: one second, three minutes, 380,000 years, now. The temperature under each tick falls as the stretch grows.", ""),
  11: ("diagram", "A cubic meter of smoothed universe holds about one atom. Almost nothing, almost everywhere.", ""),
  12: ("diagram", "The last-scattering sky. Patches A and B on opposite sides never met in the plain hot bang, yet they match.", ""),

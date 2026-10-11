@@ -35,7 +35,7 @@ Cropped and contrast-boosted for a 6-inch grayscale Kindle. Meaning is shape and
 | 3 | `fig03.jpg` | The Sun, disk filling the frame (SDO / HMI continuum or AIA). | Credit: NASA/SDO |
 | 4 | `fig04.jpg` | Andromeda, cropped to the bright disk. | Credit: NASA/ESA/Hubble |
 | 8 | `fig08.jpg` | Deep-field crop: a handful of sharp galaxies (Hubble Ultra Deep Field). | Credit: NASA/ESA/STScI |
-| 9 | `fig09.jpg` | Planck microwave sky (Commons `Cosmic Microwave Background (CMB).jpeg`, CC BY 4.0), softened and grayscaled so patches read, words *warmer* / *cooler*. | Credit: ESA and the Planck Collaboration (CC BY 4.0) |
+| 9 | `fig09.jpg` | Planck microwave sky (Commons `Cosmic Microwave Background (CMB).jpeg`, CC BY 4.0), cropped to the sky oval, in colour, with a labelled cooler-to-warmer bar (10 Oct 2026; `scripts/make_fig09_colour.py`; the grayscale version is in `bak/2026-10-10 rescore/`). | Credit: ESA and the Planck Collaboration (CC BY 4.0) |
 | 14 | `fig14.jpg` | NGC 4414 (Hubble Heritage, opo9925a), disk filling the frame. Replaced 15 Sep 2026; the earlier file showed the interacting pair NGC 2207/IC 2163. | Credit: NASA/ESA/Hubble Heritage Team (STScI/AURA) |
 | 16 | `fig16.jpg` | 2MASS large-scale-structure chart of the whole sky (Commons `2MASS LSS chart-NEW Nasa.jpg`, public domain). Small cluster labels are part of the chart. | Credit: NASA/JPL-Caltech/IPAC (2MASS, T. Jarrett) |
 | 17 | `fig17.jpg` | Bullet Cluster composite: hot gas (X-ray) and lensing mass, with the words *hot gas* / *mass* burned in so it reads in grayscale. | Credit: NASA/CXC/CfA/M. Markevitch et al.; NASA/STScI; ESO WFI |
