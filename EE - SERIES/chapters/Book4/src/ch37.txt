@@ -1,0 +1,47 @@
+H1: Chapter 37. Measuring a Power Amplifier
+P: A data sheet says 62.5 % efficiency. Your stage has only 6 dB of gain, the drive power it needs comes off that number, and the power-added efficiency is 46.9 %. Measuring a power amplifier honestly means knowing which number you are quoting, and under what signal.
+P: Where you meet this: Load-pull benches, amplifier data sheets, certification reports, and the efficiency and ACLR numbers in every customer specification.
+P: The earlier chapters designed amplifiers from load lines and device models. The amplifier on the bench rarely matches the model exactly, and the numbers that go into a datasheet, a link budget, or a certification report must be measured. This chapter describes the four measurements that characterize a power amplifier: load-pull, which finds the best load; efficiency, which counts the watts; AM-AM and AM-PM, which describe the distortion; and adjacent-channel leakage, which tells the regulator how much of the signal leaks next door.
+H2: 37.1 Load-pull
+P: Chapter 21 found the optimum load resistance from the supply voltage, the knee voltage, and the output power. A real transistor has parasitic capacitance and package inductance, so the best load at the device's terminals is a complex impedance that the model only approximates. A load-pull system places a tuner, mechanical or active, at the transistor's output, sweeps the load impedance across the Smith chart, and records output power, efficiency, and gain at each point. The results form contours: closed curves of constant output power and of constant efficiency, whose optima are generally at different impedances. The designer chooses a compromise load and then designs a matching network of the kind built in Chapters 3 and 4 to present it.
+EQ: Ropt ≈ (VDD − Vknee)² / (2 Pout)
+H2: Worked Example 37.1
+P: Problem. A GaN transistor runs at VDD = 28 V with a knee of 3 V and must deliver 10 W. Find the load-line starting point for the load-pull sweep.
+P: Solution. Ropt = (28 − 3)²/(2 × 10) = 625/20 = 31.25 Ω. The load-pull sweep is centered near 31 Ω plus the conjugate of the output capacitance's susceptance, and the measured contours then show how far the true optimum lies from that estimate.
+H2: 37.2 Efficiency and power-added efficiency
+P: Drain efficiency is the ratio of RF output to DC input. Power-added efficiency subtracts the RF input power, which matters when the gain is modest, as it is at millimeter wave or near compression. Both must be measured with the amplifier's real signal, not only a continuous wave, because modulated signals spend most of their time below peak, where efficiency is lower, as Chapter 23 showed.
+EQ: ηD = Pout / PDC,   PAE = (Pout − Pin) / PDC
+FIG: fig37_1.png | Figure 37.1 — Power-added efficiency against stage gain, for a drain efficiency of 62.5 %. At 13 dB of gain PAE is 59.4 %; at 6 dB it falls to 46.9 %.
+H2: Worked Example 37.2
+P: Problem. An amplifier delivers 40 dBm with 13 dB of gain from a 16 W DC input. Find the drain efficiency and the PAE.
+P: Solution. Pout = 10 W and Pin = 40 − 13 = 27 dBm = 0.50 W. ηD = 10/16 = 62.5%, and PAE = (10 − 0.5)/16 = 59.4%. With only 6 dB of gain, PAE would fall to (10 − 2.5)/16 = 46.9%, which is why PAE is the honest figure for low-gain stages.
+H2: 37.3 AM-AM and AM-PM
+P: As the input rises toward compression, the gain falls (AM-AM conversion) and the phase of the output shifts (AM-PM conversion). Both are measured by sweeping the input power and recording the gain and phase, or, with a modulated signal, by comparing every output sample with the corresponding input sample. They are the curves digital predistortion, the subject of Chapter 38, must invert. Each contributes directly to the error vector magnitude of Book 5.
+H2: Worked Example 37.3
+P: Problem. At the peak of a signal, the amplifier is 1 dB compressed and shifts the phase by 5°. Estimate the error vector each causes at that peak.
+P: Solution. The amplitude error is 1 − 10^(−1/20) = 10.9% of the peak. The phase error is 5° = 0.087 rad, which displaces the vector by 8.7% of its length. Together they are far above the 1.26% that Book 5 quotes for high-order QAM, which is why such peaks must be corrected or backed off.
+P: Key idea. Load-pull measures the load that the model only estimates; PAE counts the drive power that drain efficiency ignores; AM-AM and AM-PM curves describe the distortion that predistortion must undo.
+H2: 37.4 Adjacent-channel leakage and intermodulation
+P: Distortion spreads the signal's spectrum into the neighboring channels. The adjacent-channel leakage ratio is the power in the wanted channel divided by the power in an adjacent channel of the same width, measured on a spectrum analyzer with channel-power integration. 3GPP requires about 45 dB for a base station and 30 dB for a handset in NR. A two-tone test gives a simpler figure, the third-order intercept, from which the third-order products follow: each output tone's product lies below the tone by twice the difference between the intercept and the tone power.
+EQ: ACLR = Pmain / Padjacent,   P_IM3 = 3Pout − 2 OIP3  (dBm)
+H2: Worked Example 37.4
+P: Problem. An amplifier with OIP3 = 50 dBm delivers two tones of 30 dBm each. Find the third-order products and their level relative to the tones.
+P: Solution. P_IM3 = 3 × 30 − 2 × 50 = −10 dBm, which is 40 dB below each tone. Every 1 dB of back-off improves that ratio by 2 dB, until other mechanisms, such as memory effects, dominate.
+P: Measure it yourself. Book 9, Test and Measurement Instruments, treats each measurement of this chapter as an instrument procedure: "Scalar Analysis, Amplifier Test, and Load Pull", "RF Power Meters and Sensors", and "Transmitter Spectrum: Channel Power, ACLR, Emission Masks, and CCDF". Scripting the sweeps is covered in its "SCPI, VISA, IVI, and Programming Instruments in Python and C#".
+BENCH: State the conditions with every number: signal type and PAPR, frequency, supply, temperature, and whether the efficiency is drain or PAE. Calibrate power meters and spectrum analyzers at the device's reference plane, and measure ACLR with the specified bandwidth and filter. On a load-pull bench the tuner's own loss limits how low an impedance it can present, so make sure the optimum you found isn't simply the edge of the tuner's range.
+P: On the Job
+P: PA characterization engineers measure what the designers promised: load-pull contours, efficiency and PAE across supply and temperature, AM-AM and AM-PM, ACLR and EVM with real signals, and ruggedness into high VSWR. Much of the work is automation, sequencing instruments in Python or a test executive, and much is skepticism, finding the cable loss or the calibration step that made a number look too good. The role sits at semiconductor companies, module makers, and base-station vendors, and it is a common route into PA design.
+H2: Practice
+P: 1. Find Ropt for VDD = 48 V, Vknee = 4 V, and 50 W.
+P: 2. Find the PAE of an amplifier delivering 20 W with 10 dB gain from 32 W DC.
+P: 3. Find the amplitude error at 2 dB compression.
+P: 4. Find the IM3 level for 25 dBm tones and OIP3 = 45 dBm.
+P: 5. A channel at 30 dBm has −16 dBm in the adjacent channel. Find the ACLR.
+P: 6. By how much does a 3 dB back-off improve the two-tone IM3 ratio?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: PAE = (Pout − Pin)/PDC.
+LI: AM-AM and AM-PM as contributors to EVM.
+LI: IM3 and ACLR, and how back-off changes them.
+P: Mostly for exams and deeper study
+LI: Behavioral model extraction from load-pull data.
