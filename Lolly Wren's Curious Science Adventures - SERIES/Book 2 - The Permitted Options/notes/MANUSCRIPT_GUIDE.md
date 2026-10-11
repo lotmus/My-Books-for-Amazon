@@ -590,3 +590,7 @@ Done by the round-5/6 revision agent on top of the uncommitted round-5 lectures/
 ## Separate review revision (2026-10-05)
 
 `The_Permitted_Options_BOOK_2_REVISION_20261005.docx` is a separate editorial review copy, made from the current draft without overwriting it. The canonical draft remains `The_Permitted_Options_BOOK_2_DRAFT.docx`. See `REVISION_20261005.md` for the 36 replacements, continuity corrections and verification limits. Both copies retain 2,306 paragraphs, 33 bookmarks and 54 hyperlinks. Do not reapply this pass to the canonical draft without choosing to promote the revision.
+
+## 10 Oct 2026 rescore (live master: The_Permitted_Options_BOOK_2_REVISION_20261005.docx)
+
+2354 paragraphs. Bibliography has 44 entries, each with a bookmark `bib_<name><year>` and its title as a keyword link; 41 first mentions in the lectures link to them. About the Author (`aboutAuthor`) and Also by (`alsoBy`) are Heading 2 chapters listed in the Contents. Covers: KINDLE_COVER_FINAL_2560.jpg and KINDLE_BACK_COVER_2560.jpg, built by scripts/make_front_cover.py and scripts/make_back_cover.py. Details in notes/_STATUS.md.
