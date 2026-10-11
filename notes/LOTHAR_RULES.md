@@ -149,6 +149,19 @@ Assistants follow this, and gently coach Lothar when the pattern slips.
 
 ---
 
+## Compacting and saving usage
+
+Keep chats and tokens cheap without losing the thread.
+
+- When a chat gets long, **first save the current state** (job queue, open items, decisions) into `SCORES.md` and this rules file, **then** compact or start a fresh chat that begins by reading `notes/LOTHAR_RULES.md` and `SCORES.md`.
+- Keep `SCORES.md` and this rules file **short**: move finished jobs and old notes to `notes/ARCHIVE.md`.
+- After each job, move temp worktrees and transfer folders to `D:\bak`, never deleting them.
+- **Read only the parts of files you need** instead of whole books when that is enough.
+- **Reuse existing scripts** instead of rewriting them.
+- Keep reports short: **results and open items only**.
+
+---
+
 ## Published books
 
 - Live on KDP and **do not edit unless asked**:
