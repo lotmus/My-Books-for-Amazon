@@ -2,7 +2,7 @@
 
 Most peoples in this book are attached to dolphin scholarship through a place: Sumer's rivers, Rome's roads, China's dynasties. This chapter is about a people the dolphins learned to track a different way, because for most of their history they were not reliably attached to any one place at all.
 
-Tradition begins with Abraham, a herder in Mesopotamia who, in the account his descendants would carry forward for four thousand years, made a covenant with a single god and moved to Canaan. Dolphin historians file Abraham the way they filed China's Xia dynasty: a founding tradition, not an archaeologically confirmed individual, and worth taking seriously as both at once.
+Tradition begins with Abraham, a herder in Mesopotamia who, in the account his descendants would carry forward for four thousand years, made a covenant with a single god and moved to Canaan. Abraham belongs in the same file as China's Xia dynasty: a founding tradition, not an archaeologically confirmed individual, and worth taking seriously as both at once.
 
 His grandson Jacob had a twin, Esau, and the two quarreled over a birthright before Jacob's line carried the story forward; Jacob's own name was changed, in the same tradition, to Israel. His twelve sons became the traditional twelve tribes.
 
@@ -14,7 +14,7 @@ A kingdom followed under Saul, then David, who made Jerusalem his capital, then 
 
 Persia's Cyrus the Great, having conquered Babylon, let the exiles return around 538 BCE. A Second Temple went up on the same site about two decades later.
 
-Physical evidence for this period exists in a way it does not for the patriarchal narratives that opened this chapter. The Dead Sea Scrolls, discovered in caves near Qumran starting in 1947 and dated from around the 3rd century BCE to the 1st century CE, include the oldest surviving copies of large portions of the Hebrew Bible by a margin of about a thousand years over anything previously known, and their text matches the version handed down through later tradition closely enough to satisfy dolphin scholarship's own standard for confirmed rather than merely traditional history.
+Physical evidence for this period exists in a way it does not for the patriarchal narratives that opened this chapter. The Dead Sea Scrolls, discovered in caves near Qumran starting in 1947 and dated from around the 3rd century BCE to the 1st century CE, include the oldest surviving copies of large portions of the Hebrew Bible by a margin of about a thousand years over anything previously known. Their text matches the version handed down through later tradition closely enough to meet this book's standard for confirmed rather than merely traditional history.
 
 By the time Rome absorbed the region, the Temple had been massively rebuilt under Herod the Great, a Roman client king remembered for both architectural ambition and paranoid brutality. It was in Herod's Judea, under Roman governance, that a Jewish teacher named Jesus of Nazareth was born and, around 30 CE, executed by Roman authority — the founding event of what would become, within four centuries, the Roman Empire's own state religion, and within two thousand years, the largest religious tradition on Earth.
 
@@ -22,7 +22,7 @@ His teaching, as the accounts have it, emphasized compassion, humility, forgiven
 
 Judea itself did not stay quiet under Rome. A major revolt from 66 to 73 CE ended with the Second Temple's destruction in 70 CE — only its western retaining wall still stands — and, by tradition, the mass suicide of the revolt's last holdouts at Masada. That account comes down from a single source, the historian Josephus, and its details are still debated by archaeologists, some of whom question how much of it happened as described. A second revolt, in 132-135 CE, was crushed even more completely; Rome barred Jews from Jerusalem and renamed the province Syria Palaestina.
 
-What followed was the diaspora: Jewish communities scattered across the Mediterranean, the Middle East, and eventually the whole of Europe and Asia, carrying identity for the next eighteen centuries not through a land or a state, which they mostly did not have, but through law, text, and memory — the Talmud, compiled across the centuries that followed, and an unbroken chain of communal practice.
+What followed was the diaspora: Jewish communities scattered across the Mediterranean, the Middle East, and eventually the whole of Europe and Asia. For the next eighteen centuries they carried their identity not through a land or a state, which they mostly did not have, but through law, text, and memory — the Talmud, compiled across the centuries that followed, and an unbroken chain of communal practice.
 
 *Dolphin historians note the parallel to their own condition without missing the difference: a pod's culture dies with the pod if the pod is lost. This people's culture, carried in writing, survived the loss of its land entirely.*
 
@@ -36,6 +36,6 @@ Zionism, a political movement for Jewish return to the historic homeland, had be
 
 Fighting between Jewish and Arab forces had begun after the UN vote; the day after independence, the armies of neighboring Arab states invaded. Israel prevailed and expanded beyond the UN's proposed borders; some 700,000 Palestinian Arabs fled or were driven out in the process, an event Palestinians call the Nakba, the catastrophe. Further wars followed in 1956, in 1967 (after which Israel held the West Bank, Gaza, the Golan Heights, and Sinai), and in 1973.
 
-Not every neighbor stayed an adversary. Egypt made peace with Israel in 1979, Jordan in 1994, and the 2020 Abraham Accords normalized relations with several more Arab states. The conflict with the Palestinians themselves, over land, statehood, and the unresolved status of Jerusalem, remains open as this book is written, and dolphin historians decline to award it a verdict for the same reason offered elsewhere in this book for still-unresolved arguments: the humans involved have not resolved it yet.
+Not every neighbor stayed an adversary. Egypt made peace with Israel in 1979, Jordan in 1994, and the 2020 Abraham Accords normalized relations with several more Arab states. The conflict with the Palestinians themselves, over land, statehood, and the unresolved status of Jerusalem, remains open as this book is written, and gets no verdict here for the same reason offered elsewhere in this book for still-unresolved arguments: the humans involved have not resolved it yet.
 
 The people who kept their story without a land for eighteen centuries built, in 1948, a state to hold it. In the same year about 700,000 other people lost their homes on the same strip of coast, and began carrying a story of their own: the keys to houses they could not return to, the names of villages that are no longer on the map. Both stories are true. The dolphins, who have known that coast longer than either people, have not yet seen how the two will share it.

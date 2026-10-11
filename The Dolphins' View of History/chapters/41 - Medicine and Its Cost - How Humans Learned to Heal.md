@@ -10,7 +10,7 @@ Vaccination predates germ theory itself. Edward Jenner's 1796 smallpox vaccine, 
 
 Alexander Fleming's accidental 1928 discovery of penicillin was not put into mass production until wartime urgency forced it in the 1940s, and it turned infections that had reliably killed throughout human history into treatable conditions within a single generation.
 
-Together with clean water and sanitation, these advances drove the sharpest rise in human life expectancy in the species' entire history — the global average roughly doubling within about a century, a capability jump dolphin historians rank among the most positive in this entire book.
+Together with clean water and sanitation, these advances drove the sharpest rise in human life expectancy in the species' entire history — the global average roughly doubling within about a century, a capability jump among the most positive in this book.
 
 The list did not end with penicillin. Polio, which paralyzed children in epidemics the early twentieth century could not stop, met two vaccines, Salk's and Sabin's, and has been cornered to a few districts, where finishing is now a matter of politics and logistics instead of ignorance. In 2020 a new virus sent the species indoors, and within a year vaccines built on messenger RNA, a platform that had been a research bet and not a product, were in arms. The speed was real. So was a distribution that followed purchase orders more closely than it followed need.
 
@@ -20,7 +20,7 @@ The turn, when it comes in this chapter, is toward cost and access rather than v
 
 *Selling a patent for one dollar to keep a medicine affordable is, dolphin scholarship concedes, a fine idea. It works only for as long as nobody patents an improved delivery device, a marginally different formulation, or the pen it comes in, all of which turned out to be exactly as patentable as the original molecule was not.*
 
-The opioid crisis, beginning in the late 1990s with the aggressive marketing of prescription painkillers by a pharmaceutical industry that downplayed their addiction risk, killed several hundred thousand people in the United States alone over the following decades — a rare case in this book of the same institution responsible for both the chapter's greatest triumph and one of its starkest, most avoidable harms.
+The opioid crisis, beginning in the late 1990s with the aggressive marketing of prescription painkillers by a pharmaceutical industry that downplayed their addiction risk, killed several hundred thousand people in the United States alone over the following decades. It is a rare case in this book of the same institution responsible for both the chapter's greatest triumph and one of its starkest, most avoidable harms.
 
 Antibiotic resistance, arising from decades of overuse in both medicine and livestock agriculture, now threatens to erode that very advance: a slow, largely self-inflicted countdown on one of the chapter's founding achievements.
 

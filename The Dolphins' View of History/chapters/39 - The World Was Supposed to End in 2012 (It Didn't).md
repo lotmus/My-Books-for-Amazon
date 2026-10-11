@@ -8,7 +8,7 @@ The Long Count's largest standard unit, the b'ak'tun, runs for roughly 394 years
 
 Maya inscriptions treat this the way an odometer treats rolling from 999999 back to 000000: a notable round number, not a terminus. Surviving texts, including one at the Tortuguero site in Mexico, reference the thirteenth b'ak'tun's completion directly, and other inscriptions calmly reference dates thousands of years beyond it — not the record of a civilization that expected anything to stop.
 
-None of this stopped a very different story from taking hold in the early 2000s, amplified by books, documentaries, and, in its final years, exactly the kind of internet-era information environment the previous chapter describes: December 21, 2012 as a predicted apocalypse, variously attributed to a rogue planet, a solar alignment, or simply “what the Mayans predicted,” a phrase no surviving Maya text anywhere actually supports.
+None of this stopped a very different story from taking hold in the early 2000s, amplified by books, documentaries, and, in its final years, exactly the kind of internet-era information environment the previous chapter describes. December 21, 2012 became a predicted apocalypse, variously attributed to a rogue planet, a solar alignment, or simply "what the Mayans predicted," a phrase no surviving Maya text anywhere actually supports.
 
 The prediction acquired enough traction that NASA published an official page addressing it before the date arrived, and another one afterward confirming that it had passed without incident.
 
@@ -18,7 +18,7 @@ The prediction's astronomical hook, when it had one, involved the winter solstic
 
 The 19th century supplied its own rehearsal, complete with an official name for the letdown. William Miller, an American preacher, convinced tens of thousands of followers that the Second Coming would arrive on a specific date in 1844, based on his own reading of biblical chronology. When it did not, history recorded the outcome under the label his own followers coined at the time: the Great Disappointment. Several offshoot religious movements trace their origins straight back to the recalculating that followed.
 
-Dolphin historians note this is not even an unusual case. Humans have forecast their own ending with some regularity and no shortage of confidence: recurring religious end-times predictions across multiple faiths and centuries, and, closer to 2012, the Y2K computer bug scare of 1999-2000, which anticipated a global systems collapse when computer clocks rolled from 99 to 00, addressed seriously enough in advance that its own uneventful passing is sometimes cited as evidence the warning must have been overblown to begin with.
+This is not even an unusual case. Humans have forecast their own ending with some regularity and no shortage of confidence: recurring religious end-times predictions across multiple faiths and centuries. Closer to 2012 came the Y2K computer bug scare of 1999-2000, which anticipated a global systems collapse when computer clocks rolled from 99 to 00. It was addressed seriously enough in advance that its own uneventful passing is sometimes cited as evidence the warning must have been overblown to begin with.
 
 *“A species that invented writing specifically to speak to its own future,” dolphin scholars remarked, “keeps guessing, often confidently and always incorrectly, exactly when that future stops.”*
 

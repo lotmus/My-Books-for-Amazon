@@ -32,11 +32,11 @@ There is a way to tell this chapter as a tragedy. Dolphin historians decline to 
 
 No dolphin has ever been laid off by a dolphin-built machine, poisoned by dolphin industrial runoff, or drafted into a war fought with dolphin-forged weapons. The species that got hands got all of that too, along with everything else.
 
-Dolphin scholarship concedes this record is not perfectly clean. Humans did eventually find one direct use for a dolphin: capturing them for aquariums and marine parks, where they perform, on cue and on a schedule, much the same leaps and tricks dolphins already perform constantly in the wild, for free, entirely on their own initiative, for no audience but each other and the occasional extra fish.
+The record is not perfectly clean. Humans did eventually find one direct use for a dolphin: capturing them for aquariums and marine parks, where they perform, on cue and on a schedule, much the same leaps and tricks dolphins already perform constantly in the wild, for free, entirely on their own initiative, for no audience but each other and the occasional extra fish.
 
 *“We do the trick either way,” Professor Click-Click-Whoosh observed. “The difference is who decided it was a trick, and who is charging admission.”*
 
-None of which stops dolphins from doing, now and then, the opposite as well: helping humans lost or in danger at sea, guiding disoriented swimmers toward shore, and, in a handful of widely reported modern cases, circling swimmers closely enough to keep an approaching shark away. These are the swimmers' accounts, not controlled experiments, and dolphin scholarship reports them as such. Greek writers told the same kind of story more than twenty-five centuries ago: Herodotus has the singer Arion thrown overboard by pirates and carried to shore on a dolphin's back, and the image of a rider on a dolphin ended up stamped on Greek coins.
+None of which stops dolphins from doing, now and then, the opposite as well: helping humans lost or in danger at sea, guiding disoriented swimmers toward shore, and, in a handful of widely reported modern cases, circling swimmers closely enough to keep an approaching shark away. These are the swimmers' accounts, not controlled experiments, and are reported here as such. Greek writers told the same kind of story more than twenty-five centuries ago: Herodotus has the singer Arion thrown overboard by pirates and carried to shore on a dolphin's back, and the image of a rider on a dolphin ended up stamped on Greek coins.
 
 *Dolphin historians decline to fully explain this pattern of goodwill toward a species that also, on occasion, keeps us in tanks, beyond noting that consistency was never a precondition for decency.*
 
