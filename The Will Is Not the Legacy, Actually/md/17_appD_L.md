@@ -238,7 +238,8 @@ All sources were consulted in October 2026. Statute section numbers are given in
 
 ### California
 
-- California Probate Code, via the California Legislative Information website (leginfo.legislature.ca.gov): §§ 870–884 (Revised Uniform Fiduciary Access to Digital Assets Act, including §§ 873, 876, 877); 890; 1500; 4401; 5040; 5600 and following (revocable transfer-on-death deed); 6100; 6110; 6111; 6112; 6122; 6132; 6240; 6401; 8200; 9100; 10800; 10810; 13100–13101; 13151–13154; 13200; 13600–13601; 15212; 21311; 21610; 21620.
+- California Probate Code, via the California Legislative Information website (leginfo.legislature.ca.gov): § 100; §§ 870–884 (Revised Uniform Fiduciary Access to Digital Assets Act, including §§ 873, 876, 877); 890; 1500; 4129; 4401; 4780 (POLST); 5040; 5301; 5302; 5600 and following (revocable transfer-on-death deed, including the statutory form in § 5642 and § 5652); 6100; 6100.5; 6110; 6111; 6112; 6122; 6124; 6132; 6240; 6401; 6454; 8200; 9100; 10800; 10810; 13100–13101; 13151–13154; 13200; 13600–13601; 15212; 21311; 21610; 21620.
+- California Family Code §§ 297.5, 770; Civil Code § 682.1; Code of Civil Procedure §§ 872.210 and 874.311–874.317 (Partition of Real Property Act).
 - California Penal Code § 632.
 - Judicial Council of California, California Courts Self-Help Guide: "When formal probate may not be needed" (selfhelp.courts.ca.gov/probate/simple-transfer), including the small-estate limits for deaths on or after 1 April 2025 and the note on Assembly Bill 2016; "Small estate affidavit to transfer personal property"; "Wills, estates, and advance care planning"; California Statutory Will form (Probate Code § 6240).
 - California Secretary of State, Advance Health Care Directive Registry (sos.ca.gov/registries/advance-health-care-directive-registry).
@@ -246,25 +247,28 @@ All sources were consulted in October 2026. Statute section numbers are given in
 
 ### United States (federal)
 
-- Internal Revenue Service: Frequently asked questions on estate taxes; Frequently asked questions on gift taxes; Instructions for Form 706 (Rev. July 2026); 2026 Instructions for Form 709.
+- Internal Revenue Service: Frequently asked questions on estate taxes; Frequently asked questions on gift taxes; Instructions for Form 706 (Rev. July 2026); 2026 Instructions for Form 709; Publication 551, Basis of Assets; Publication 590-B, Distributions from Individual Retirement Arrangements.
+- 26 U.S.C. § 1014 (basis of property acquired from a decedent).
 - *Egelhoff v. Egelhoff*, 532 U.S. 141 (2001).
 - 17 U.S.C. § 302 (copyright duration), U.S. Copyright Office.
 - 988 Suicide and Crisis Lifeline.
 
 ### Germany
 
-- Bürgerliches Gesetzbuch (BGB), via Gesetze im Internet (gesetze-im-internet.de), Federal Ministry of Justice: §§ 331, 1358, 1371, 1643, 1782, 1783, 1820, 1827, 1922, 1924, 1931, 1936, 1944, 1967, 2048, 2064, 2077, 2087, 2174, 2197, 2229, 2231, 2232, 2233, 2247, 2248, 2249, 2250, 2252, 2253, 2255, 2259, 2265, 2267, 2269, 2270, 2271, 2276, 2296, 2303, 2325, 2333, 2346, 2348, 2353.
-- Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG) §§ 14, 16, 30.
+- Bürgerliches Gesetzbuch (BGB), via Gesetze im Internet (gesetze-im-internet.de), Federal Ministry of Justice: §§ 311b, 331, 430, 753, 1358, 1371, 1643, 1782, 1783, 1814, 1820, 1827, 1922, 1924, 1925, 1931, 1936, 1944, 1967, 2042, 2048, 2057a, 2064, 2077, 2087, 2174, 2197, 2229, 2231, 2232, 2233, 2247, 2248, 2249, 2250, 2252, 2253, 2255, 2256, 2259, 2265, 2267, 2269, 2270, 2271, 2276, 2287, 2296, 2303, 2316, 2325, 2333, 2346, 2348, 2353.
+- Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG) §§ 2, 14, 16, 30.
+- Versicherungsvertragsgesetz (VVG) §§ 159, 160.
+- Gerichts- und Notarkostengesetz (GNotKG), fee schedule no. 12100.
 - Grundbuchordnung (GBO) § 35.
 - Lebenspartnerschaftsgesetz (LPartG) § 10.
 - Strafgesetzbuch (StGB) § 201.
 - Kunsturhebergesetz (KunstUrhG) §§ 22, 23.
 - Urheberrechtsgesetz (UrhG) § 64.
-- Bundesgerichtshof: judgment of 12 July 2018, III ZR 183/17, and press release of the same date; judgment of 8 October 2013, XI ZR 401/12; judgment of 5 April 2016, XI ZR 440/15.
+- Bundesgerichtshof: judgment of 12 July 2018, III ZR 183/17, and press release of the same date; judgment of 8 October 2013, XI ZR 401/12; judgment of 5 April 2016, XI ZR 440/15; decision of 6 July 2016, XII ZB 61/16; decision of 24 March 2021, IV ZR 269/20.
 - Bundesnotarkammer: Zentrales Testamentsregister (testamentsregister.de), including register contents and fees; Zentrales Vorsorgeregister (vorsorgeregister.de).
 - TelefonSeelsorge Deutschland (telefonseelsorge.de).
 
 ### European Union
 
-- Regulation (EU) No 650/2012 (Succession Regulation), Articles 21, 22, and 83, via EUR-Lex.
+- Regulation (EU) No 650/2012 (Succession Regulation), Articles 21, 22, 69, and 83, via EUR-Lex.
 - Regulation (EU) 2016/679 (General Data Protection Regulation), Article 2(2)(c), via EUR-Lex.
