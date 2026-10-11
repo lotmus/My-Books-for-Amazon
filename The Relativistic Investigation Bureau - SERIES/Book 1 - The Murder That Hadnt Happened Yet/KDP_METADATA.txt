@@ -4,7 +4,7 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Updated 3 Oct 2026 (PT). The manuscript is about 62,700 words: story about
+[Updated 10 Oct 2026 (PT): categories, keywords and three blurb lines revised; see notes in each section. Earlier update 3 Oct 2026 (PT). The manuscript is about 62,700 words: story about
 47,900 and course about 14,800 (REV10, revised, grown, line-edited and structurally revised 3 Oct). Every field except one is now filled and checked against the book.
 The one left open is the RELEASE DATE; only Lothar decides that. The AUTHOR
 NAME was decided on 2 Oct 2026 (see below). Website and newsletter lines are marked OPTIONAL: KDP does not
@@ -40,33 +40,40 @@ Series Name on KDP: "The Relativistic Investigation Bureau"
 CATEGORIES (KDP now allows 3)
 ================================================================================
 
+[Revised 10 Oct 2026 (PT). Time Travel dropped: nobody travels in time, and
+the book says so; readers who buy it for time travel would feel misled.
+Derek is a paid investigator, so Private Investigators fits better than
+Amateur Sleuth, and the humour earns its own shelf.]
 1. Fiction > Science Fiction > Hard Science Fiction
-2. Fiction > Mystery, Thriller & Suspense > Mystery > (Amateur Sleuth or
-   Police Procedural; pick whichever the KDP picker offers)
-3. Fiction > Science Fiction > Time Travel
+2. Fiction > Mystery, Thriller & Suspense > Mystery > Private Investigators
+3. Fiction > Science Fiction > Humorous
 (Category names in the picker change from time to time; choose the nearest match.)
 
 ================================================================================
 KEYWORDS (7 keywords/phrases - comma separated for KDP)
 ================================================================================
 
-time travel mystery, physics mystery, hard science fiction, relativity fiction, british detective fiction, murder investigation, time anomaly
+[Revised 10 Oct 2026 (PT): no keyword repeats a category or the title
+(KDP indexes those already), no "time travel" (the book is not), each under
+50 characters.]
+
+physics mystery novel, einstein relativity fiction, funny british detective agency, time paradox whodunit, father daughter mystery london, clever comic science fiction, mystery with a dolphin detective
 
 [INDIVIDUAL KEYWORDS FOR RESEARCH:]
-1. time travel mystery
-2. physics mystery
-3. hard science fiction
-4. relativity fiction
-5. british detective fiction
-6. murder investigation
-7. time anomaly
+1. physics mystery novel
+2. einstein relativity fiction
+3. funny british detective agency
+4. time paradox whodunit
+5. father daughter mystery london
+6. clever comic science fiction
+7. mystery with a dolphin detective
 
 ================================================================================
 KINDLE BLURB (Book Description for KDP Store Page)
-[About 260 words, under KDP's 4,000-character limit. COPY EXACTLY.]
+[About 290 words, under KDP's 4,000-character limit. COPY EXACTLY.]
 ================================================================================
 
-[Same text as kdp_description.docx (checked 1 Oct 2026). That file now holds
+[Same text as kdp_description.docx (checked 1 Oct 2026; three accuracy edits 10 Oct 2026: no "doom her" since the daughter is never in danger, the photo shows a clock rather than a timestamp, and the story needs no equations). That file now holds
 only the sales description; its old title/byline/"ABOUT THE BOOK" header lines
 were removed. Checked against the book: 9:17 email, 11:03 timestamp, Sophie
 twelve, Penny/Trevor/Barbarian, the cucumber. All true to Chapter 1 onward.
@@ -74,9 +81,9 @@ Keep the two copies identical.]
 
 A MURDER THAT HASN'T HAPPENED YET.
 A photograph from tomorrow.
-And a bureaucratic error that might save his daughter — or doom her.
+And a filing error that has put his daughter in the picture.
 
-At 9:17 on a Tuesday morning, investigator Derek Gent receives an email informing him that he has been murdered. The message is polite, precise, and signed by Derek himself. Worse, the attached photograph shows him face-down on his own office floor, timestamped tomorrow at 11:03 a.m. — and frozen in the doorway behind him, mid-step, is his twelve-year-old daughter.
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email informing him that he has been murdered. The message is polite, precise, and signed by Derek himself. Worse, the attached photograph shows him face-down on his own office floor, a brass clock on the desk reading 11:03 — the email says tomorrow — and frozen in the doorway behind him, mid-step, is his twelve-year-old daughter.
 
 The clocks in the room disagree.
 The universe disagrees.
@@ -88,7 +95,7 @@ For readers who loved the "wait, WHAT" of Arrival or Tenet, but wanted it funnie
 
 A mystery that asks the only question that ever really mattered: if you can't trust time, can you trust what you think already happened to the people you love?
 
-The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau — a mystery where the physics is real, the jokes are dry, and the only way out is through the equations.
+The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau — a mystery where the physics is real, the jokes are dry, and the only way out is to read the clocks properly. No physics needed to follow the case; sixteen short lessons at the back explain the real relativity behind every clue, for readers who want it.
 
 ================================================================================
 PRICING & ENROLLMENT
@@ -172,13 +179,15 @@ COVER REQUIREMENTS (checked 1 Oct 2026 on Kindle Front Cover.jpg):
 ☑ Byline on the cover matches the KDP Author field: "Lothar J. Musiol / writing as
   Spezala Genara Relavi (S.G.R.)" (cover redone 2 Oct 2026; see AUTHOR NAME)
 
-MANUSCRIPT (FINAL_REV10_..._KINDLE_READY.docx, rebuilt 1 Oct 2026):
+MANUSCRIPT (FINAL_REV11_..._KINDLE_READY.docx, revised 10 Oct 2026; about 0.4 MB):
 ☑ .docx (KDP no longer accepts .mobi for ebooks)
 ☑ Front matter: title page, copyright, linked table of contents
 ☑ Back matter: author bio, Book 2 tease, further reading, bibliography
 ☑ Formatting: every section heading is a real Word Heading 1 (so Kindle
   builds its navigation), with a page break before each chapter/lesson;
-  22-entry front TOC is hyperlinked; 0 dead internal links; 5 images.
+  48-entry front TOC is hyperlinked (every chapter, lesson, appendix item,
+  About the Author, Also by); 0 dead internal links; 0 Word tables; 6 inline
+  diagrams with alt text; typographic (curly) quotes throughout.
 
 SERIES SETUP:
 ☑ Series name: "The Relativistic Investigation Bureau"
