@@ -234,7 +234,19 @@ for rpr in doc.element.body.iter(qn('w:rPr')):
         for k in kids: rpr.append(k)
 doc.core_properties.title=TITLE; doc.core_properties.subject=SUB; doc.core_properties.author=AUTHOR
 out='/workspace/will/out/The_Will_Is_Not_the_Legacy_Actually_MASTER.docx'
-doc.save(out); print(out, len(heads), 'headings;', len(USED_LINKS), 'in-text links resolved')
+def _kindle_links(path):
+    """Kindle links (10 Oct 2026): sources and bibliography entries become clickable keywords with no visible
+    URL text. Rules: ../kindle_links.json next to the book; tool: tools/kindle_links.py at the repo root."""
+    import os, subprocess, sys
+    here = os.path.dirname(os.path.abspath(__file__)); rules = os.path.join(here, "..", "kindle_links.json"); d = here
+    while d and not os.path.isfile(os.path.join(d, "tools", "kindle_links.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    tool = os.path.join(d, "tools", "kindle_links.py")
+    if os.path.isfile(tool) and os.path.isfile(rules):
+        subprocess.run([sys.executable, tool, path, rules], check=True)
+    else:
+        print("kindle_links: tool or rules not found, links not applied")
+doc.save(out); _kindle_links(out); print(out, len(heads), 'headings;', len(USED_LINKS), 'in-text links resolved')
 import zipfile as _z
 _x=_z.ZipFile(out).read('word/document.xml').decode()
 print('w:tbl count:', _x.count('<w:tbl>')+_x.count('<w:tbl '), '| inline pictures:', _x.count('<wp:inline'), '| anchored:', _x.count('<wp:anchor'), '| textboxes:', _x.count('txbx'))

@@ -1,0 +1,347 @@
+{
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "rules": [
+  {
+   "find": "Significance of Electromagnetic Potentials in the Quantum Theory\" (Physical Review 115, 485, 1959), https://doi.org/10.1103/PhysRev.115.485",
+   "to": "[Significance of Electromagnetic Potentials in the Quantum Theory](https://doi.org/10.1103/PhysRev.115.485)\" (Physical Review 115, 485, 1959)"
+  },
+  {
+   "find": "On a Heuristic Point of View Concerning the Production and Transformation of Light\" (Annalen der Physik, 1905), https://doi.org/10.1002/andp.19053220607",
+   "to": "[On a Heuristic Point of View Concerning the Production and Transformation of Light](https://doi.org/10.1002/andp.19053220607)\" (Annalen der Physik, 1905)"
+  },
+  {
+   "find": "Space-Time Approach to Non-Relativistic Quantum Mechanics\" (Reviews of Modern Physics 20, 367, 1948), https://doi.org/10.1103/RevModPhys.20.367",
+   "to": "[Space-Time Approach to Non-Relativistic Quantum Mechanics](https://doi.org/10.1103/RevModPhys.20.367)\" (Reviews of Modern Physics 20, 367, 1948)"
+  },
+  {
+   "find": "Interaction with the Absorber as the Mechanism of Radiation\" (Reviews of Modern Physics 17, 157, 1945), https://doi.org/10.1103/RevModPhys.17.157",
+   "to": "[Interaction with the Absorber as the Mechanism of Radiation](https://doi.org/10.1103/RevModPhys.17.157)\" (Reviews of Modern Physics 17, 157, 1945)"
+  },
+  {
+   "find": "Classical Electrodynamics in Terms of Direct Interparticle Action\" (Reviews of Modern Physics 21, 425, 1949), https://doi.org/10.1103/RevModPhys.21.425",
+   "to": "[Classical Electrodynamics in Terms of Direct Interparticle Action](https://doi.org/10.1103/RevModPhys.21.425)\" (Reviews of Modern Physics 21, 425, 1949)"
+  },
+  {
+   "find": "Fine Structure of the Hydrogen Atom by a Microwave Method\" (Physical Review 72, 241, 1947), https://doi.org/10.1103/PhysRev.72.241",
+   "to": "[Fine Structure of the Hydrogen Atom by a Microwave Method](https://doi.org/10.1103/PhysRev.72.241)\" (Physical Review 72, 241, 1947)"
+  },
+  {
+   "find": "Invariant Variation Problems,\" appeared in Transport Theory and Statistical Physics 1, 186 (1971), https://doi.org/10.1080/00411457108231446",
+   "to": "[Invariant Variation Problems](https://doi.org/10.1080/00411457108231446),\" appeared in Transport Theory and Statistical Physics 1, 186 (1971)"
+  },
+  {
+   "find": "Demonstration of the Casimir Force in the 0.6 to 6 μm Range\" (Physical Review Letters 78, 5, 1997), https://doi.org/10.1103/PhysRevLett.78.5",
+   "to": "[Demonstration of the Casimir Force in the 0.6 to 6 μm Range](https://doi.org/10.1103/PhysRevLett.78.5)\" (Physical Review Letters 78, 5, 1997)"
+  },
+  {
+   "find": "Quantised Singularities in the Electromagnetic Field\" (Proceedings of the Royal Society A 133, 60, 1931), https://doi.org/10.1098/rspa.1931.0130",
+   "to": "[Quantised Singularities in the Electromagnetic Field](https://doi.org/10.1098/rspa.1931.0130)\" (Proceedings of the Royal Society A 133, 60, 1931)"
+  },
+  {
+   "find": "Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter\" (Europhysics Letters 1, 173, 1986), https://doi.org/10.1209/0295-5075/1/4/004",
+   "to": "[Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter](https://doi.org/10.1209/0295-5075/1/4/004)\" (Europhysics Letters 1, 173, 1986)"
+  },
+  {
+   "find": "On Quantum-Electrodynamics and the Magnetic Moment of the Electron\" (Physical Review 73, 416, 1948), https://doi.org/10.1103/PhysRev.73.416",
+   "to": "[On Quantum-Electrodynamics and the Magnetic Moment of the Electron](https://doi.org/10.1103/PhysRev.73.416)\" (Physical Review 73, 416, 1948)"
+  },
+  {
+   "find": "Measurement of the Electron Magnetic Moment\" (Physical Review Letters 130, 071801, 2023), https://doi.org/10.1103/PhysRevLett.130.071801",
+   "to": "[Measurement of the Electron Magnetic Moment](https://doi.org/10.1103/PhysRevLett.130.071801)\" (Physical Review Letters 130, 071801, 2023)"
+  },
+  {
+   "find": "Possible New Effects in Superconductive Tunnelling\" (Physics Letters 1, 251, 1962), https://doi.org/10.1016/0031-9163(62)91369-0",
+   "to": "[Possible New Effects in Superconductive Tunnelling](https://doi.org/10.1016/0031-9163(62)91369-0)\" (Physics Letters 1, 251, 1962)"
+  },
+  {
+   "find": "Quantum 2030.\" IBM Technology Atlas, updated March 2026. ibm.com/roadmaps/quantum/2030/",
+   "to": "[Quantum 2030](https://ibm.com/roadmaps/quantum/2030/).\" IBM Technology Atlas, updated March 2026."
+  },
+  {
+   "find": "Introducing Majorana 2.\" June 2, 2026. news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/",
+   "to": "[Introducing Majorana 2](https://news.microsoft.com/source/features/innovation/majorana-2-microsoft-discovery-agentic-ai/).\" June 2, 2026."
+  },
+  {
+   "find": "Microsoft upgrades controversial quantum chip - researchers are still sceptical.\" Nature, June 3, 2026. doi:10.1038/d41586-026-01788-y",
+   "to": "[Microsoft upgrades controversial quantum chip - researchers are still sceptical](https://doi.org/10.1038/d41586-026-01788-y).\" Nature, June 3, 2026."
+  },
+  {
+   "find": "On the robustness of topological gap detection via transport.\" Nature 654 (2026): E22-E26. doi:10.1038/s41586-026-10567-8",
+   "to": "[On the robustness of topological gap detection via transport](https://doi.org/10.1038/s41586-026-10567-8).\" Nature 654 (2026): E22-E26."
+  },
+  {
+   "find": "Reply to: On the robustness of topological gap detection via transport.\" Nature 654 (2026): E27-E28. doi:10.1038/s41586-026-10568-7",
+   "to": "[Reply to: On the robustness of topological gap detection via transport](https://doi.org/10.1038/s41586-026-10568-7).\" Nature 654 (2026): E27-E28."
+  },
+  {
+   "find": "A milestone in our quantum journey.\" Microsoft Source, September 23, 2026. news.microsoft.com/source/exec/satya-nadella/",
+   "to": "[A milestone in our quantum journey](https://news.microsoft.com/source/exec/satya-nadella/).\" Microsoft Source, September 23, 2026."
+  },
+  {
+   "find": "Experimental Genuine Quantum Nonlocality in the Triangle Network.” Physical Review Letters 136, 180202 (2026). https://doi.org/10.1103/5hhc-rw3t",
+   "to": "[Experimental Genuine Quantum Nonlocality in the Triangle Network](https://doi.org/10.1103/5hhc-rw3t).” Physical Review Letters 136, 180202 (2026)."
+  },
+  {
+   "find": "Entangling Quantum Memories through a 420 km Long Fiber.” Physical Review Letters 137, 070801 (2026). https://doi.org/10.1103/ccd6-rf1s",
+   "to": "[Entangling Quantum Memories through a 420 km Long Fiber](https://doi.org/10.1103/ccd6-rf1s).” Physical Review Letters 137, 070801 (2026)."
+  },
+  {
+   "find": "Quantum entanglement distribution coexisting with high-rate, broadband classical optical communications over a real-world fiber connecting remote, synchronized nodes.” Optica Quantum 4 (2026). https://doi.org/10.1364/OPTICAQ.592786",
+   "to": "[Quantum entanglement distribution coexisting with high-rate, broadband classical optical communications over a real-world fiber connecting remote, synchronized nodes](https://doi.org/10.1364/OPTICAQ.592786).” Optica Quantum 4 (2026)."
+  },
+  {
+   "find": "Circuit quantum electrodynamics\" (Reviews of Modern Physics 93, 025005, 2021), https://doi.org/10.1103/RevModPhys.93.025005",
+   "to": "[Circuit quantum electrodynamics](https://doi.org/10.1103/RevModPhys.93.025005)\" (Reviews of Modern Physics 93, 025005, 2021)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator",
+   "to": "[the companion double-slit simulation](https://lotmus.github.io/quantum-world-simulator/)",
+   "in": "two plain bands"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/zeno.html",
+   "to": "[the companion quantum Zeno simulation](https://lotmus.github.io/quantum-world-simulator/zeno.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/tunneling.html",
+   "to": "[the companion tunneling simulation](https://lotmus.github.io/quantum-world-simulator/tunneling.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/cat.html",
+   "to": "[the companion Schrödinger’s cat simulation](https://lotmus.github.io/quantum-world-simulator/cat.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/bellchsh.html",
+   "to": "[the companion CHSH game simulation](https://lotmus.github.io/quantum-world-simulator/bellchsh.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/confinement.html",
+   "to": "[the companion quark confinement simulation](https://lotmus.github.io/quantum-world-simulator/confinement.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/glasstrick.html",
+   "to": "[the companion glass reflection simulation](https://lotmus.github.io/quantum-world-simulator/glasstrick.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/bb84.html",
+   "to": "[the companion BB84 simulation](https://lotmus.github.io/quantum-world-simulator/bb84.html)"
+  },
+  {
+   "find": "lotmus.github.io/quantum-world-simulator/blochsphere.html",
+   "to": "[the companion Bloch sphere simulation](https://lotmus.github.io/quantum-world-simulator/blochsphere.html)"
+  },
+  {
+   "find": "Akira Tonomura and colleagues (Physical Review Letters 56, 792, 1986), https://doi.org/10.1103/PhysRevLett.56.792",
+   "to": "[Akira Tonomura and colleagues](https://doi.org/10.1103/PhysRevLett.56.792) (Physical Review Letters 56, 792, 1986)"
+  },
+  {
+   "find": "The academy's scan of that paper is at https://dwc.knaw.nl/DL/publications/PU00018547.pdf.",
+   "to": "[The academy's scan of that paper](https://dwc.knaw.nl/DL/publications/PU00018547.pdf) is online."
+  },
+  {
+   "find": "The journal's English PDF is at https://jetp.ras.ru/cgi-bin/dn/e_005_06_1174.pdf.",
+   "to": "[The journal's English PDF](https://jetp.ras.ru/cgi-bin/dn/e_005_06_1174.pdf) is online."
+  },
+  {
+   "find": "Significance of Electromagnetic Potentials in the Quantum Theory",
+   "to": "[Significance of Electromagnetic Potentials in the Quantum Theory](https://doi.org/10.1103/physrev.115.485)",
+   "in": "Aharonov, Yakir, and David Bohm. “Significance of Electromag",
+   "max": 1
+  },
+  {
+   "find": "Wave–Particle Duality of C60 Molecules",
+   "to": "[Wave–Particle Duality of C60 Molecules](https://doi.org/10.1038/44348)",
+   "in": "Arndt, Markus, Olaf Nairz, Julian Vos-Andreae, Claudia Kelle",
+   "max": 1
+  },
+  {
+   "find": "Experimental Test of Bell’s Inequalities Using Time-Varying Analyzers",
+   "to": "[Experimental Test of Bell’s Inequalities Using Time-Varying Analyzers](https://doi.org/10.1103/physrevlett.49.1804)",
+   "in": "Aspect, Alain, Jean Dalibard, and Gérard Roger. “Experimenta",
+   "max": 1
+  },
+  {
+   "find": "Black Holes and Entropy",
+   "to": "[Black Holes and Entropy](https://doi.org/10.1103/physrevd.7.2333)",
+   "in": "Bekenstein, Jacob D. “Black Holes and Entropy.” Physical Rev",
+   "max": 1
+  },
+  {
+   "find": "On the Einstein Podolsky Rosen Paradox",
+   "to": "[On the Einstein Podolsky Rosen Paradox](https://doi.org/10.1103/physicsphysiquefizika.1.195)",
+   "in": "Bell, John S. “On the Einstein Podolsky Rosen Paradox.” Phys",
+   "max": 1
+  },
+  {
+   "find": "Teleporting an Unknown ￼Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels",
+   "to": "[Teleporting an Unknown ￼Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels](https://doi.org/10.1103/physrevlett.70.1895)",
+   "in": "Bennett, Charles H., Gilles Brassard, Claude Crépeau, Richar",
+   "max": 1
+  },
+  {
+   "find": "Circuit Quantum Electrodynamics",
+   "to": "[Circuit Quantum Electrodynamics](https://doi.org/10.1103/revmodphys.93.025005)",
+   "in": "Blais, Alexandre, Arne L. Grimsmo, S. M. Girvin, and Andreas",
+   "max": 1
+  },
+  {
+   "find": "Experimental Quantum Teleportation",
+   "to": "[Experimental Quantum Teleportation](https://doi.org/10.1038/37539)",
+   "in": "Bouwmeester, Dik, Jian-Wei Pan, Klaus Mattle, Manfred Eibl, ",
+   "max": 1
+  },
+  {
+   "find": "Quantum Theory of Gravity. I. The Canonical Theory",
+   "to": "[Quantum Theory of Gravity. I. The Canonical Theory](https://doi.org/10.1103/physrev.160.1113)",
+   "in": "DeWitt, Bryce S. “Quantum Theory of Gravity. I. The Canonica",
+   "max": 1
+  },
+  {
+   "find": "Quantised Singularities in the Electromagnetic Field",
+   "to": "[Quantised Singularities in the Electromagnetic Field](https://doi.org/10.1098/rspa.1931.0130)",
+   "in": "Dirac, P. A. M. “Quantised Singularities in the Electromagne",
+   "max": 1
+  },
+  {
+   "find": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+   "to": "[Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt](https://doi.org/10.1002/andp.19053220607)",
+   "in": "Einstein, Albert. “Über einen die Erzeugung und Verwandlung ",
+   "max": 1
+  },
+  {
+   "find": "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete",
+   "to": "[Can Quantum-Mechanical Description of Physical Reality Be Considered Complete](https://doi.org/10.1103/physrev.47.777)",
+   "in": "Einstein, Albert, Boris Podolsky, and Nathan Rosen. “Can Qua",
+   "max": 1
+  },
+  {
+   "find": "Quantum Cryptography Based on Bell’s Theorem",
+   "to": "[Quantum Cryptography Based on Bell’s Theorem](https://doi.org/10.1103/physrevlett.67.661)",
+   "in": "Ekert, Artur K. “Quantum Cryptography Based on Bell’s Theore",
+   "max": 1
+  },
+  {
+   "find": "Measurement of the Electron Magnetic Moment",
+   "to": "[Measurement of the Electron Magnetic Moment](https://doi.org/10.1103/physrevlett.130.071801)",
+   "in": "Fan, X., T. G. Myers, B. A. D. Sukra, and G. Gabrielse. “Mea",
+   "max": 1
+  },
+  {
+   "find": "Quantum Superposition of Molecules Beyond 25 kDa",
+   "to": "[Quantum Superposition of Molecules Beyond 25 kDa](https://doi.org/10.1038/s41567-019-0663-9)",
+   "in": "Fein, Yaakov Y., Philipp Geyer, Patrick Zwick, Filip Kiałka,",
+   "max": 1
+  },
+  {
+   "find": "Space-Time Approach to Non-Relativistic Quantum Mechanics",
+   "to": "[Space-Time Approach to Non-Relativistic Quantum Mechanics](https://doi.org/10.1103/revmodphys.20.367)",
+   "in": "Feynman, Richard P. “Space-Time Approach to Non-Relativistic",
+   "max": 1
+  },
+  {
+   "find": "A Schematic Model of Baryons and Mesons",
+   "to": "[A Schematic Model of Baryons and Mesons](https://doi.org/10.1016/s0031-9163(64)92001-3)",
+   "in": "￼Gell-Mann, Murray. “A Schematic Model of Baryons and Mesons",
+   "max": 1
+  },
+  {
+   "find": "Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter: A New Light on Single-Photon Interferences",
+   "to": "[Experimental Evidence for a Photon Anticorrelation Effect on a Beam Splitter: A New Light on Single-Photon Interferences](https://doi.org/10.1209/0295-5075/1/4/004)",
+   "in": "Grangier, P., G. Roger, and A. Aspect. “Experimental Evidenc",
+   "max": 1
+  },
+  {
+   "find": "Ultraviolet Behavior of Non-Abelian Gauge Theories",
+   "to": "[Ultraviolet Behavior of Non-Abelian Gauge Theories](https://doi.org/10.1103/physrevlett.30.1343)",
+   "in": "Gross, David J., and Frank Wilczek. “Ultraviolet Behavior of",
+   "max": 1
+  },
+  {
+   "find": "Particle Creation by Black Holes",
+   "to": "[Particle Creation by Black Holes](https://doi.org/10.1007/bf02345020)",
+   "in": "Hawking, Stephen W. “Particle Creation by Black Holes.” Comm",
+   "max": 1
+  },
+  {
+   "find": "Possible New Effects in Superconductive Tunnelling",
+   "to": "[Possible New Effects in Superconductive Tunnelling](https://doi.org/10.1016/0031-9163(62)91369-0)",
+   "in": "Josephson, B. D. “Possible New Effects in Superconductive Tu",
+   "max": 1
+  },
+  {
+   "find": "Acceleration of Quantum Decay Processes by Frequent Observations",
+   "to": "[Acceleration of Quantum Decay Processes by Frequent Observations](https://doi.org/10.1038/35014537)",
+   "in": "Kofman, Abraham G., and Gershon Kurizki. “Acceleration of Qu",
+   "max": 1
+  },
+  {
+   "find": "Fine Structure of the Hydrogen Atom by a Microwave Method",
+   "to": "[Fine Structure of the Hydrogen Atom by a Microwave Method](https://doi.org/10.1103/physrev.72.241)",
+   "in": "Lamb, Willis E., Jr., and Robert C. Retherford. “Fine Struct",
+   "max": 1
+  },
+  {
+   "find": "Invariant Variation Problems",
+   "to": "[Invariant Variation Problems](https://doi.org/10.1080/00411457108231446)",
+   "in": "Noether, Emmy. “Invariante Variationsprobleme.” Nachrichten ",
+   "max": 1
+  },
+  {
+   "find": "Reliable Perturbative Results for Strong Interactions",
+   "to": "[Reliable Perturbative Results for Strong Interactions](https://doi.org/10.1103/physrevlett.30.1346)",
+   "in": "Politzer, H. David. “Reliable Perturbative Results for Stron",
+   "max": 1
+  },
+  {
+   "find": "On Quantum-Electrodynamics and the Magnetic Moment of the Electron",
+   "to": "[On Quantum-Electrodynamics and the Magnetic Moment of the Electron](https://doi.org/10.1103/physrev.73.416)",
+   "in": "Schwinger, Julian. “On Quantum-Electrodynamics and the Magne",
+   "max": 1
+  },
+  {
+   "find": "Simple Proof of Security of the BB84 Quantum Key Distribution Protocol",
+   "to": "[Simple Proof of Security of the BB84 Quantum Key Distribution Protocol](https://doi.org/10.1103/physrevlett.85.441)",
+   "in": "Shor, Peter W., and John Preskill. “Simple Proof of Security",
+   "max": 1
+  },
+  {
+   "find": "The World as a Hologram",
+   "to": "[The World as a Hologram](https://doi.org/10.1063/1.531249)",
+   "in": "Susskind, Leonard. “The World as a Hologram.” Journal of Mat",
+   "max": 1
+  },
+  {
+   "find": "Demonstration of Single-Electron Buildup of an Interference Pattern",
+   "to": "[Demonstration of Single-Electron Buildup of an Interference Pattern](https://doi.org/10.1119/1.16104)",
+   "in": "Tonomura, A., J. Endo, T. Matsuda, T. Kawasaki, and H. Ezawa",
+   "max": 1
+  },
+  {
+   "find": "Evidence for Aharonov-Bohm Effect with Magnetic Field Completely Shielded from Electron Wave",
+   "to": "[Evidence for Aharonov-Bohm Effect with Magnetic Field Completely Shielded from Electron Wave](https://doi.org/10.1103/physrevlett.56.792)",
+   "in": "Tonomura, Akira, Nobuyuki Osakabe, Tsuyoshi Matsuda, Takeshi",
+   "max": 1
+  },
+  {
+   "find": "Classical Electrodynamics in Terms of Direct Interparticle Action",
+   "to": "[Classical Electrodynamics in Terms of Direct Interparticle Action](https://doi.org/10.1103/revmodphys.21.425)",
+   "in": "Wheeler, John Archibald, and Richard P. Feynman. “Classical ",
+   "max": 1
+  },
+  {
+   "find": "Interaction with the Absorber as the Mechanism of Radiation",
+   "to": "[Interaction with the Absorber as the Mechanism of Radiation](https://doi.org/10.1103/revmodphys.17.157)",
+   "in": "Wheeler, John Archibald, and Richard P. Feynman. “Interactio",
+   "max": 1
+  },
+  {
+   "find": "\"The Quantum Echoes Algorithm Breakthrough.\" October 22, 2025. blog.google/innovation-and-ai/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/.",
+   "to": "\"[The Quantum Echoes Algorithm Breakthrough](https://blog.google/innovation-and-ai/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/).\" October 22, 2025."
+  },
+  {
+   "find": "In Love with Murder, Actually: A Comic Mystery",
+   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  }
+ ],
+ "fields": true
+}

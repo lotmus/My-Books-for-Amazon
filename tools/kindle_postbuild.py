@@ -13,6 +13,8 @@ The spec (JSON, paths relative to the spec's folder):
   tables         true: no Word tables in the Kindle file (tools/kindle_tables.py): tables become headed
                  text, or an inline PNG (~800 px, text kept as alt text) when they need columns;
                  floating pictures become inline
+  links          optional: "<rules json>" (tools/kindle_links.py): sources and bibliography entries become
+                 clickable keywords with no visible URL text; in-text citations link to bookmarked entries
   split          optional: {"unsplit_to": "<bak path>", "parts": [...]} (see split_part below)
 Nothing is deleted. The unsplit build is moved to split.unsplit_to (overwritten on each build).
 Written for the 10 Oct 2026 Kindle size pass; see notes/FILE_SIZES.md.
@@ -337,6 +339,14 @@ def main(spec_path, src_override=None):
         tl = kindle_tables.detable(doc); changed = changed or bool(tl)
         print('  tables: %d as text, %d as image; %d floating pictures made inline' % (
             sum(1 for x in tl if x[1] == 'text'), sum(1 for x in tl if x[1] in ('image', 'matrix')), sum(1 for x in tl if x[0] == 'anchor')))
+    if spec.get('links'):
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); import kindle_links
+        doc.data['word/document.xml'] = etree.tostring(doc.tree, xml_declaration=True, encoding='UTF-8', standalone=True)
+        lspec = json.load(open(os.path.join(base, spec['links']), encoding='utf8'))
+        rep = kindle_links.linkify_data(doc.data, lspec)
+        doc.tree = etree.fromstring(doc.data['word/document.xml']); doc.body = doc.tree.find(q('body')); changed = True
+        print('  links: %d rules applied, %d matched nothing, %d fields converted; visible URLs left %d' % (
+            sum(r[1] for r in rep['rules']), sum(1 for r in rep['rules'] if r[1] == 0), rep['fields'], len(rep['left'])))
     lg = shrink_media(doc, spec.get('photo_width', 440), spec.get('diagram_width', 800), spec.get('cover_max', 1600), spec.get('jpeg_quality', 80), spec.get('lineart_max', 1600))
     print('  images recompressed:', len(lg))
     sp = spec.get('split')
