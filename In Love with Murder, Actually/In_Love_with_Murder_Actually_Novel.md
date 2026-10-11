@@ -554,6 +554,14 @@ It arrived at the jetty on the fourth evening of the game, a large white bird th
 
 Madame Fournier, consulted over the garden wall, shrugged with the whole of her waistcoat. "He has been here since the summer before last. He escaped from a bird park near Montpellier, and the bird park has not asked for him back. He likes the jetty, and he does not pay rent." She considered the bird. "He is the only honest tenant I have."
 
+He was not the only one who had left the bird park. On the Thursday Tobias went over the garden wall to return a colander, and found, under an apple tree in Madame Fournier's orchard, a large grey animal standing upright with its forearms folded, regarding him with the patient disdain of a nightclub doorman.
+
+"That is Skippy," said Madame Fournier. "The park had also an outback. A very small outback. He left the same night as the pelican, and he came here, and I did not ask why. He guards the apples."
+
+"Does he box?"
+
+"Only men in expensive coats," said Madame Fournier. "It is a quality I respect."
+
 The pelican stayed. It fished at dawn, stood about at noon looking gravely at nothing, and bobbed its enormous beak whenever Tobias went by, as if it knew exactly what he was writing and had notes.
 
 He would think about those evenings later, in a courtroom in Aix-en-Provence, listening to lawyers describe the lake. It was very quiet, they said. It was very beautiful. Nobody had noticed anything sinister about it at all.
@@ -2910,6 +2918,16 @@ The second Gaston looked at him with the deep, wounded wariness of a man who has
 
 "You shouldn't eat evidence," said Hugo. "It's in all the books."
 
+"And on the way in," said the second Gaston, with the flat voice of a man who had stopped expecting to be believed, "before the gong, in the lane, by the orchard wall, I was hit. By something. At the height of my chest. A very large man in a fur coat, with a pouch. He took my legs out from under me and then he stood over me, with his arms folded, until I got up and went away."
+
+Mara looked at Madame Fournier, who had come in with the blankets.
+
+"That will be Skippy," said Madame Fournier. "He has always had very strong views about people in dark coats."
+
+"You have a kangaroo," said Mara.
+
+"I have an orchard," said Madame Fournier. "What lives in it is its own affair."
+
 The Gastons were taken away at half past midnight in the back of the gendarmes' car, still in the army blankets, which Madame Fournier said they could keep, as they had been bought for a war and had finally seen action. As the car went down the lane with its blue light turning, she stood at the gate with her secateurs and watched it go with an expression of deep satisfaction.
 
 "Henri bought that gong in 1987," she said. "It has never once been rung for dinner."
@@ -3661,6 +3679,32 @@ The Gastons got eighteen months each, suspended, and an order not to come within
 "From what?" said the second Gaston, and the door closed on them.
 
 ---
+
+The summons had come in January, on pale lilac paper, in an envelope with no stamp and no sender. It required Monsieur Tobias Lind to present himself at the tribunal in Aix, Room 14, on the first Monday of March, at nine o'clock. It did not say why.
+
+He rang the number at the bottom. A woman answered, said "It is being clarified," and put the phone down. A man answered, said the same, and did the same. A recorded voice, pleasant, said that his call was important to them, and that the matter was being clarified, and that he should please hold, and he held for forty minutes while a violin played, and at the end the voice thanked him for waiting and hung up.
+
+"What have I done?" he asked Catarina.
+
+"Perhaps something," said Catarina, who had been brought up Catholic and believed in being charged first. "You will find out."
+
+He found out nothing. In Room 14, on the first Monday of March, he sat for three hours on a bench among a number of silent, well-dressed strangers, each of whom appeared to be waiting for a verdict on something. At noon a clerk read a name from a list and nobody got up. At one he read it again. At two he read it a third time, and Tobias, who could not in his whole life sit quietly while a name was read, put up his hand.
+
+"Lind," said the clerk. "Tobias."
+
+"Yes?"
+
+"It is not you."
+
+"It's my name."
+
+"It is a different Tobias Lind." The clerk consulted a document that turned out, on closer inspection, to be a restaurant menu. "Tobias Lindt. With a *t*. A chocolatier from Zurich. He is accused of being too good at chocolate."
+
+"That isn't a crime."
+
+"In the Canton of Vaud it is. It is a very old law." The clerk looked distressed. "You were never accused of anything, monsieur. It was a clerical error. The paper was put in the wrong envelope, and the envelope in the wrong post, and the post sent in the wrong year. It has been clarified."
+
+Tobias came out into the light at half past two, having missed, as he learned that evening from Inês, who had sat through all of it with a notebook and gave him a full account with commentary, only the first morning of the larger trial, which had consisted mostly of the reading of lists. At the foot of the steps a small, tearful man in a chocolatier's apron pressed a large, beautifully wrapped box into his arms, said "Thank you, I will never forget you," and ran off among the plane trees. It contained thirty-six hand-made truffles. They were the best Tobias had ever tasted. He never found out why.
 
 The larger trial began in March, one year almost to the day after Elise Marchetti died, at the Cour d'assises in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, still bare that early in the year, where on market mornings stalls sold lavender, old postcards, saucisson and cheese of a tragic ripeness.
 
