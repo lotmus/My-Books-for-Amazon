@@ -59,4 +59,4 @@ These avoid author names, other authors' titles and claims such as "bestseller",
 - **Price:** proposal $3.99, the same as Book 1, with the 70% royalty and KDP Select for the launch window. Lothar decides.
 - **Cover:** none yet, by decision.
 - **AI disclosure:** KDP asks whether any text, images or translations were AI-generated. Lothar answers that on the KDP form.
-- **Cross-sell:** Book 2's Also-by already lists Book 1, and Book 1's Coming Next already names Book 2. Book 2's Also-by also lists Book 2 itself under Fiction. That is harmless, but you may want it removed before upload.
+- **Cross-sell:** Book 2's Also-by lists Book 1, and Book 1's Coming Next names Book 2. Book 2's Also-by no longer lists Book 2 itself (checked 10 Oct 2026).

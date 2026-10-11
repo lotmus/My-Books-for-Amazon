@@ -1,17 +1,57 @@
 {
- "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs. Quotes are curly since the 10 Oct 2026 typography pass; Open Library title links added the same day.",
  "rules": [
   {
-   "find": "Chronology protection conjecture,\" Physical Review D 46, 603 (1992). https://doi.org/10.1103/PhysRevD.46.603",
-   "to": "[Chronology protection conjecture](https://doi.org/10.1103/PhysRevD.46.603),\" Physical Review D 46, 603 (1992)."
+   "find": "Chronology protection conjecture,” Physical Review D 46, 603 (1992).",
+   "to": "[Chronology protection conjecture](https://doi.org/10.1103/PhysRevD.46.603),” Physical Review D 46, 603 (1992)."
   },
   {
-   "find": "The Jinn of the time machine: nontrivial self-consistent solutions,\" Classical and Quantum Gravity 9, 2309 (1992). https://doi.org/10.1088/0264-9381/9/10/014",
-   "to": "[The Jinn of the time machine: nontrivial self-consistent solutions](https://doi.org/10.1088/0264-9381/9/10/014),\" Classical and Quantum Gravity 9, 2309 (1992)."
+   "find": "The Jinn of the time machine: nontrivial self-consistent solutions,”",
+   "to": "[The Jinn of the time machine: nontrivial self-consistent solutions](https://doi.org/10.1088/0264-9381/9/10/014),”"
   },
   {
    "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
    "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  },
+  {
+   "find": "Black Holes and Time Warps: Einstein’s Outrageous Legacy",
+   "to": "[Black Holes and Time Warps: Einstein’s Outrageous Legacy](https://openlibrary.org/works/OL3902081W)",
+   "in": "Thorne"
+  },
+  {
+   "find": "The River of Time",
+   "to": "[The River of Time](https://openlibrary.org/works/OL2734517W)",
+   "in": "Novikov"
+  },
+  {
+   "find": "From Eternity to Here: The Quest for the Ultimate Theory of Time",
+   "to": "[From Eternity to Here: The Quest for the Ultimate Theory of Time](https://openlibrary.org/works/OL5752308W)",
+   "in": "Carroll"
+  },
+  {
+   "find": "The Fabric of Reality",
+   "to": "[The Fabric of Reality](https://openlibrary.org/works/OL2635835W)",
+   "in": "Deutsch"
+  },
+  {
+   "find": "Time Travel in Einstein’s Universe: The Physical Possibilities of Travel Through Time",
+   "to": "[Time Travel in Einstein’s Universe: The Physical Possibilities of Travel Through Time](https://openlibrary.org/works/OL8074339W)",
+   "in": "Gott"
+  },
+  {
+   "find": "Time Machines: Time Travel in Physics, Metaphysics, and Science Fiction",
+   "to": "[Time Machines: Time Travel in Physics, Metaphysics, and Science Fiction](https://openlibrary.org/works/OL1907388W)",
+   "in": "Nahin"
+  },
+  {
+   "find": "Time’s Arrow and Archimedes’ Point: New Directions for the Physics of Time",
+   "to": "[Time’s Arrow and Archimedes’ Point: New Directions for the Physics of Time](https://openlibrary.org/works/OL2939060W)",
+   "in": "Price, Huw."
+  },
+  {
+   "find": "Time’s Arrow and Archimedes’ Point, Oxford",
+   "to": "[Time’s Arrow and Archimedes’ Point](https://openlibrary.org/works/OL2939060W), Oxford",
+   "in": "Huw Price, Time"
   }
  ]
 }
