@@ -53,6 +53,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - On this PC the usual setup is: work tree `D:\My Books for Amazon`, git dir `C:\Users\lomus\git-dirs\My-Books-for-Amazon.git`.
 - Several agents may edit at once. Stage and commit only the files for the book you are working on. Re-read the file and the git log before writing; do not trust a status snapshot from the start of a conversation.
 - Pull `origin/main` (or the branch you were told to use) before you start shared work. Do not commit another session's `.docx`.
+- Heavy or parallel work: use a **temp git worktree**. Never `reset --hard` (or otherwise reset) the `D:\My Books for Amazon` checkout while other jobs may have uncommitted edits there; sync that checkout with a fast-forward only.
 
 ---
 
@@ -115,6 +116,21 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ---
 
+
+## Working efficiently (coach Lothar on this)
+
+When you see Lothar falling into these patterns, remind him gently — once, briefly, without lecturing:
+
+- **Batch asks.** Put several decisions or fixes in one message instead of a stream of small follow-ups. Each extra turn costs context and RAM.
+- **Settle decisions first.** Pen names, taglines, cover style, and similar choices should be fixed before a job starts, not changed mid-job.
+- **Rescore after a big pass.** Do a full critical rescore only after a substantial edit pass, not after every small tweak.
+- **At most two heavy jobs at a time** on this low-RAM PC. Queue the rest.
+- **Rely on this file.** Point at `notes/LOTHAR_RULES.md` instead of repeating standing rules in chat.
+- **Ship before polishing.** Get books to *ready* and uploaded before chasing higher 9.x scores.
+
+For assistants: do heavy or parallel work in temp worktrees, and never reset the `D:\My Books for Amazon` checkout while other jobs may have uncommitted edits there.
+
+---
 ## Published books
 
 - Live on KDP and **do not edit unless asked**:
