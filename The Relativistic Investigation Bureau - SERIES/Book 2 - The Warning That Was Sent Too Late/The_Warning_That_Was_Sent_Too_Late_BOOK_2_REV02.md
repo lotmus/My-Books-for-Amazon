@@ -2002,7 +2002,7 @@ The lights changed. They crossed. By the time they reached the street door of th
 
 The platform was still in the doorway.
 
-Derek had known it would be. He had known it all the way back, on foot, with Tabitha’s hand in his. He had known it on the stairs, and on the landing, where Mrs Marsh rose from her step at their approach with the clipboard raised and Penny and Trevor stood behind her, not going in. He knew it, and then he came into his office and saw it, and found that knowing a thing and seeing it were still, after all this, two separate events.
+Derek had known it would be. He had known it all the way back, with Tabitha’s hand in his, and on the landing, where Mrs Marsh rose from her step with the clipboard raised and Penny and Trevor stood behind her, not going in. Then he came into his office and saw it, and knowing a thing and seeing it were still, after all this, two separate events.
 
 The amber board read YESTERDAY. The yellow tape still lay across the sill with its case pinned under the fire extinguisher, but the yellow line had come over the sill. It lay on the carpet, a finger’s width of paint on wool, and it was no longer thirty-one millimetres inside the office. Trevor knelt and read the marks beside the tape and said forty-four. The bench was that much nearer the desk. And the nearest door of the carriage was open. It stood back on its runners, lit, with nothing beeping, as if the train had worked out that beeping only hurried people and had decided to try patience instead.
 
@@ -2340,7 +2340,7 @@ What Time It Counts From
 
 Tuppence got home at ten past seven, which was forty minutes later than she had told Julian and twenty minutes earlier than he had planned for, and so supper was exactly on time.
 
-She had sat through a second meeting after Marylebone. She had chaired it. Nobody in the room would have known that her daughter’s name had been on a railway board at lunchtime, because she had made sure nobody would, and because the minutes of a meeting about the refurbishment of a community hall are not the place for it. She had approved a quote for new radiators. She had declined a quote for a mural. She had driven home through the ordinary Monday traffic with her hands at ten to two on the wheel and had not once looked at her phone, because there was nothing on it she needed to read while moving.
+She had chaired a second meeting after Marylebone, about the refurbishment of a community hall, and nobody in the room would have known that her daughter’s name had been on a railway board at lunchtime. She had approved a quote for new radiators and declined one for a mural, on the grounds that a mural is a forecast. She had driven home with her hands at ten to two and had not once looked at her phone.
 
 Julian was in the kitchen, standing at the hob with a wooden spoon in one hand and a clothes hanger in the other. It was his first Monday in the house. He had moved in on Sunday afternoon, after spending the extra hour at his old flat deciding which hangers deserved to come with him; the boxes in the hall still said BOOKS on two sides. This hanger was beech, unfinished, with a shoulder he did not like yet. He put the spoon down when she came in and the hanger down a moment after, which was the correct order of priorities, and which she had noticed, the first year, as the thing about him that was entirely unlike Derek: when Julian put things down, he put them down in the order he had picked them up.
 
@@ -2354,7 +2354,7 @@ Julian was in the kitchen, standing at the hob with a wooden spoon in one hand a
 
 “It was data. Which I gather is different.”
 
-Tuppence took her coat off. He held out a hanger for it, one of his own, a good one with the curve right, and she put the coat on it and hung it on the back of the kitchen door, where her coat had hung every evening for three years, and stood for a moment with her hand on the shoulder of it.
+Tuppence took her coat off. He held out one of his own hangers for it, a good one with the curve right, and she hung it on the back of the kitchen door and stood for a moment with her hand on its shoulder.
 
 “Derek told me what happened. At lunch. Before it was over. In the right order.”
 
@@ -2384,7 +2384,7 @@ The page had a date at the top in Sophie’s square capitals, underlined once wi
 
 Julian, at the sink, had stopped running the tap.
 
-Tuppence had chaired committees for twenty years. She knew what a minute was for. A minute recorded a decision, and the time of the decision, and who moved it, so that afterwards nobody could pretend the decision had been made at a different meeting by different people. She had spent a large part of her adult life making sure that the time on a decision was the time the decision was made, and not the time somebody found out about it, or the time somebody first wished it had gone the other way.
+Tuppence had chaired committees for twenty years. A minute recorded a decision and the time it was made: not the time somebody found out about it, and not the time somebody first wished it had gone the other way.
 
 “When did you decide?”
 
@@ -2400,7 +2400,7 @@ It was, Tuppence thought, exactly what Derek would put, and the thought did not 
 
 “I’m not sure I want to put anything. If I put ‘after twelve forty-nine’ it still looks like I’m saying the time matters. And it doesn’t. The time of the heading belongs to the heading. If somebody reads my notebook later they’ll copy the twelve forty-nine across onto me, because it’s the only number on the page.” She tapped the shiny crossed-out place. “Numbers do that. They go where there’s a space.”
 
-Julian turned the tap back on, quietly, and then off again, and came and sat down at the end of the table with the beech hanger, which he had picked up again on his way past the worktop. He turned it over in his hands. He did not offer an opinion. He had a rule about not offering opinions on Sophie’s notebook unless asked, and he had never once been asked, and he kept the rule anyway.
+Julian came and sat at the end of the table with the beech hanger, turning it over in his hands. He had a rule about not offering opinions on Sophie’s notebook unless asked, and he had never once been asked, and he kept the rule anyway.
 
 “Can I say something about hangers?”
 
@@ -2494,7 +2494,7 @@ She had been told at lunch, in the right order, before it was over.
 
 Downstairs, Julian had washed up and was sitting at the kitchen table with the beech hanger and a strip of fine sandpaper, working at the shoulder he did not like. He looked up when she came in, and did not ask, because he did not need to; he had heard the promise through the floor, as you hear most things in a house that size.
 
-Tuppence took her phone out of her bag. There was the message she had sent at twenty past one, School told. You’re staying put. Good girl. Mum., which had not been answered and had not needed to be, and nothing since from Derek, because he had said he would not ring Sophie unless Sophie rang him, and he had evidently decided that the same rule covered her.
+Tuppence took her phone out of her bag. Nothing from Derek. He had said he would not ring Sophie unless Sophie rang him, and had evidently decided that the same rule covered her.
 
 She contemplated Derek’s name for some time. Then she took the clipboard out of her bag, the one she chaired things with, and turned back two pages to a line in her own hand, written at twenty to two on Sunday morning, in the second of the two one o’clocks: WEDNESDAYS: D., AFTER SCHOOL. She had told Sophie at tea on Sunday, in the voice. She had not told Derek.
 
@@ -2530,7 +2530,7 @@ Penny Gent did the sum at a quarter past nine, on the back of the itinerary, bec
 
 She lived on the top floor of a narrow house divided in the 1970s by a builder with strong views about where a kitchen should not go. The kitchen was in the hall, and so was the table, and she sat at it with her coat still on, because she had come in at seven and sat down and not got up again, apart from once, to put the kettle on and forget it.
 
-She had taken out the itinerary, and her phone, and a biro from the Bureau that said nothing on the side, and the photograph she had taken back off Derek’s monitor at five. She stood it against the sugar bowl, face-up. Four of them and a dog, at half past one on Sunday morning, standing in a row in the office because she had told them to, and herself in the middle, looking furious. She had looked at it a good many times since Sunday. It was still the right way up.
+She had taken out the itinerary, her phone, a biro from the Bureau that said nothing on the side, and the photograph she had taken back off Derek’s monitor at five, and stood the photograph against the sugar bowl, face-up: four of them and a dog at half past one on Sunday morning, in a row because she had told them to, and herself in the middle, looking furious. It was still the right way up.
 
 The itinerary said London Heathrow to Athens, Thursday week, departing 07:40, arriving 13:05 local. Three hours twenty-five, once you took off the two hours Greece was ahead. Weinstein had looked at it upside down under the departure board at Paddington, with his ticket barely in his pocket, and had said, without any appearance of effort, “Ten billionths of a second. Older. You will come back older than Derek by about ten nanoseconds, and I shall want to hear about it from the air, because if you tell me on the ground it will merely be arithmetic.”
 
@@ -2724,7 +2724,7 @@ What had changed was the office. With the overhead light off and only the desk l
 
 He sat with that for a long time.
 
-It was, he thought, almost the whole lecture. The light came across the sill without being asked, and reached him, and nothing of his had to go back the other way for that to happen. Seeing was not boarding. Being lit by a thing was not being on it. What reaches you is in your past; what you reach is in your future; and a man sitting still in a chair can be reached by a thing all night without once reaching back, for as long as he likes.
+It was, he thought, almost the whole lecture. The light came across the sill without being asked, and nothing of his had to go back the other way. Seeing was not boarding. What reaches you is in your past; what you reach is in your future; and a man sitting still in a chair can be reached by a thing all night without once reaching back, for as long as he likes.
 
 For as long as he likes, Derek thought. That was the part that frightened him.
 
@@ -2736,7 +2736,7 @@ It came back. YESTERDAY. A shade brighter, as though it had double-checked.
 
 “I know,” he said aloud.
 
-It was the first thing he had said since Penny left. His own voice in the empty office sounded exactly as it always sounded, the voice for murders and for tea, and it occurred to him that this was the voice the carriage had used, that morning, through three soft knocks. The same register. The same flat calm. Something worn smooth, like a step.
+It was the first thing he had said since Penny left. His own voice in the empty office sounded as it always did, the voice for murders and for tea, and it occurred to him that this was the voice the carriage had used that morning, through three soft knocks. The same flat calm, worn smooth, like a step.
 
 The voice had said he already knew what was inside.
 
@@ -2924,9 +2924,9 @@ Barbarian opened the door before he had knocked.
 
 “Then come in quickly, before you improve it.”
 
-The room Barbarian took him into had always been the room it was, and Herbert did not look at it. He looked at the table. He could not have done otherwise. It had been cleared, which in that house was itself an event, and on it, in four rows of five, stood twenty clocks.
+Herbert did not look at the room. He looked at the table, which had been cleared, an event in that house, and on which, in four rows of five, stood twenty clocks.
 
-They were not a collection in the ordinary sense. There was a kitchen timer shaped like a tomato, a small station clock with its cable cut, a ship’s chronometer in a box, a child’s alarm clock with bells, two wristwatches lying on their backs, an hourglass, a candle marked in rings, a metronome, and others Herbert did not stop to catalogue. Every one that told the time told a different one. The station clock said twenty past nine. The chronometer said a quarter to five. The tomato said nothing, because it did not believe in the hour at all, only in how long until the next thing.
+There was a kitchen timer shaped like a tomato, a small station clock with its cable cut, a ship’s chronometer in a box, a child’s alarm clock with bells, two wristwatches lying on their backs, an hourglass, a candle marked in rings, a metronome, and others Herbert did not stop to catalogue. Every one that told the time told a different one. The tomato said nothing, because it did not believe in the hour at all, only in how long until the next thing.
 
 “I set them this morning,” said Barbarian, sitting down. “After Alfred telephoned. Each one to a different time. None of them agrees with any of the others. None of them agrees with your watch.”
 
@@ -2944,9 +2944,7 @@ Herbert sat down across the table from twenty disagreements and laid his drawing
 
 Herbert turned it round: the same squared sheet he had shown Alfred that morning, the ruled line, the labelled marks, and beside SHEET the small pencilled question mark.
 
-Barbarian studied it for a long time. He did not touch it.
-
-“It is beautiful.” He did not look up. “And it has a ruler in it.”
+“It is beautiful,” said Barbarian, without looking up. “And it has a ruler in it.”
 
 “It has a world line in it. The office’s history. One line, because the office did not go anywhere.”
 
@@ -2970,15 +2968,13 @@ Herbert did not need to think.
 
 “Seventeen minutes. A duration. A length of your wire. The office spent half a day trying to make it mean something because it looked like Sunday’s seventeen, and it was how long four people took to read a sheet of paper. The case was solved by order. It was nearly ruined by duration.”
 
-Herbert took a pencil out of his inside pocket, because he found it easier to think with a pencil in his hand than with twenty clocks in his ear.
-
 “Herr Barbarian. I shall put the objection in steps.”
 
 “Put it in leaps. I am old.”
 
-“In steps. One.” He laid the pencil beside the drawing, parallel to the ruled line, exactly. “Between the door and the reading there is a quantity every good clock at rest in that office would agree on, whatever it said at the start: the difference between its readings. It is not a convention. It is geometry. Two—”
+“In steps. One.” He took a pencil from his inside pocket and laid it beside the drawing, parallel to the ruled line, exactly. “Two good clocks at rest side by side in that office agree on the count between the door and the reading, whatever each said at the start. That is not a convention. It is geometry. Two—”
 
-“Stop. Before two. How would they agree?” said Barbarian. “By counting. Each clock counts its own motion. A pendulum counts swings. Braunschweig counts caesium atoms, because a committee in Paris told it to. Every second there has ever been is one motion counted against another.” He spread his hands over the twenty clocks. “These do not measure time. They measure each other.”
+“Stop. Before two.” Barbarian spread his hands over the twenty clocks. “They agree because they count. A pendulum counts swings. Braunschweig counts caesium, because a committee in Paris told it to. These do not measure time. They measure each other.”
 
 “You interrupted me.”
 
@@ -2990,27 +2986,13 @@ Herbert took a pencil out of his inside pocket, because he found it easier to th
 
 Herbert breathed in through his nose. The pain behind his left eye had moved slightly to the right.
 
-“Two. Two good clocks together at the door and together at the reading agree on the count between,” said Herbert. “The world enforces that.”
+“Two. The world enforces that agreement, whatever you call it.”
 
-“I give you that the world is extraordinarily well behaved about which counts agree. What I do not give you is the wire.” Barbarian tapped the ruled line once with the end of a finger, the only time he touched the paper. “You have the events. You have the order. You have the counts, if anybody counted, which that office mostly did not. Where in any of that is the line?”
+“I give you the counts. I do not give you the wire.” Barbarian waved at the ruled line without touching it. “The line is where you put it. It is the best convenience in physics, so good that people forget they put it there. Then a sheet arrives before a door, and they look at the wire for the answer, and the wire says nothing. YESTERDAY. Not a date; a direction. The most honest railway in Europe. It has never once promised to arrive.”
 
-Herbert regarded the line he had drawn.
+Barbarian’s eyes went to the question mark beside SHEET.
 
-“It is where I put it.”
-
-“Yes.”
-
-“It is a convenience.”
-
-“It is the best convenience in physics. It is so good that people forget they put it there.” Barbarian sat back. “Then a sheet arrives before a door, and they look at the wire for the answer, and the wire says nothing. YESTERDAY. Not a date; a direction. The most honest railway in Europe. It has never once promised to arrive. I should like to meet whoever designed it.”
-
-“So should Mr Gent.”
-
-“No. Mr Gent should like to know who sent the sheet. That is a different wish.” Barbarian’s eyes went to the question mark beside SHEET. “And it is the wrong question.”
-
-“It is not a wrong question. It is an unanswerable one, at present.”
-
-“It is wrong in the form he asks it. Who sent it. Sent is a verb with a before inside it. He wants a person standing at the before, holding the sheet out. But you cannot get a sender out of an order. You can only get one out of a mechanism, and he has no mechanism.” Barbarian considered. “Alfred thinks it was himself, I suppose.”
+“Mr Gent wants to know who sent it. That is the wrong question. Sent is a verb with a before inside it. He wants a person standing at the before, holding the sheet out. But you cannot get a sender out of an order. You can only get one out of a mechanism, and he has no mechanism.” Barbarian considered. “Alfred thinks it was himself, I suppose.”
 
 Herbert did not answer, which was an answer.
 
@@ -3054,7 +3036,7 @@ Barbarian looked at him across the twenty clocks with an expression Herbert had 
 
 “In forty years you have never let me finish one.”
 
-“Excellent,” said Julius Barbarian. “Oh, excellent.” He leaned forward. “A partial order. Not a wire. A shape with holes in it where we do not know the places yet. I can live in that. I have always lived in that. You have simply never said it to me without a ruler in your hand.” He reached out, and for the second time touched the drawing, and this time he turned it face-down. “May I have this? For the collection.”
+“Excellent,” said Julius Barbarian. “Oh, excellent.” He leaned forward. “A partial order. Not a wire. A shape with holes in it where we do not know the places yet. I can live in that. I have always lived in that. You have simply never said it to me without a ruler in your hand.” He reached out and, for the first time, touched the drawing, turning it face-down. “May I have this? For the collection.”
 
 “No.”
 
@@ -3064,7 +3046,7 @@ Barbarian looked at him across the twenty clocks with an expression Herbert had 
 
 “Then draw me one that is not.”
 
-Herbert considered refusing, and found that he did not want to. He asked for a clean sheet, which took some time to find, because the papers in that house were where they had been put for reasons, and he took his ruler out of his inside pocket and then, after a moment’s thought, put it back. He drew the five events freehand, as small circles, without a line between them. He joined the ones that could be ordered with short arrows: sheet to door, door to voice, voice to reading, reading to refusal. He drew the train, out to one side, as a sixth circle, and an arrow from the sheet to the train, and nothing at all from the train back. He drew Sunday’s radiator as a seventh circle, lower down, and an arrow from it to the door, and wrote on the arrow, in his immaculate hand: POSSIBLE. NOT SHOWN. And off on its own, unconnected to anything, an eighth circle, empty, with a question mark inside it, and no arrow either way.
+Herbert considered refusing, and found that he did not want to. He took his ruler out of his inside pocket and, after a moment’s thought, put it back. On a clean sheet he drew the five events freehand, as small circles, and joined the ones that could be ordered with short arrows: sheet to door, door to voice, voice to reading, reading to refusal. The train went out to one side, with an arrow from the sheet to it and nothing at all coming back. Sunday’s radiator went lower down, with an arrow to the door on which he wrote, in his immaculate hand, POSSIBLE. NOT SHOWN. And off on its own, unconnected to anything, an empty circle with a question mark inside it.
 
 He turned it round.
 
@@ -3076,7 +3058,7 @@ Barbarian looked at it.
 
 “Leave it anyway.”
 
-Herbert left it. He stood, and put on his coat, and buttoned it, and looked at his watch, which said a quarter to four, because Braunschweig said so; and he found, to his own surprise, that he looked at it as one more clock on a table of twenty and did not mind.
+Herbert left it. He put on his coat and looked at his watch, which said a quarter to four because Braunschweig said so, and found, to his own surprise, that he looked at it as one more clock on a table of twenty and did not mind.
 
 “I am going to telephone Mr Gent. There is a question about a form.”
 
@@ -4003,6 +3985,8 @@ Write the earlier act first, and if you do not have its time, write that the tim
 The control is a real departure: a passenger on the platform before the doors shut, a train that leaves after the boarding. If your own record cannot be put in that order, you have not finished. The printer of the Sunday slip is a different question, and it may stay open.
 
 Keep this: earlier opening left in the past, boarding refused while it was still future, no name invented for the morning sheet. When the evidence showed a printer and a route, they went in the record, and the author field stayed empty.
+
+Behind the case: what Herbert and Barbarian argue about over twenty clocks in Chapter 18. Every clock is a counter. A pendulum counts swings; since 1967 the SI second has been defined as 9,192,631,770 periods of the radiation from a caesium-133 atom, so every second ever recorded is one motion counted against another. Two good clocks at rest side by side in the office, set to different readings, still agree on the count between the door and the reading. That count, the proper time, is geometry, not convention. The ruled line on Herbert’s squared paper, the office’s world line, is a drawing aid: what the evidence supplies is events, their order, and counts where anybody counted. The light cone turns that into a partial order. Pairs that a signal could connect are ordered for every observer. Pairs that no signal could connect are neither before nor after. An event with no known place, like the sender of the morning sheet, cannot be ordered at all, which is why that field stays blank.
 
 Common trap: congratulating yourself for not boarding, calling 10:05 the opening, and leaving a child’s name in the recipient line because the board was frightening.
 
