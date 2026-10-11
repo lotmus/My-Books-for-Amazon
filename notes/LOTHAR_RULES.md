@@ -131,6 +131,23 @@ When you see Lothar falling into these patterns, remind him gently — once, bri
 For assistants: do heavy or parallel work in temp worktrees, and never reset the `D:\My Books for Amazon` checkout while other jobs may have uncommitted edits there.
 
 ---
+## Job management
+
+Assistants follow this, and gently coach Lothar when the pattern slips.
+
+- **At most two heavy book jobs at once** on LOTHAR-HP (low RAM). Queue everything else.
+- Keep a short **Job queue** at the top of `SCORES.md` (book, task, status, who). Update it when a job starts, finishes, or is blocked.
+- **Never run two jobs on the same book**, or on the same `SCORES.md` rows, at the same time.
+- Each job works in its **own temp worktree**, commits in small batches, pushes normally, and **fast-forwards** the `D:\My Books for Amazon` checkout only — never resets it.
+- Each job edits **only its own book** and **only its own SCORES row**.
+- Give a job **one complete brief up front** (all fixes, decisions settled). Do not redirect it mid-run.
+- **Finish and report one job** before starting the next on the same book.
+- After a job, record the outcome in `SCORES.md` (score before and after, open items).
+- Clean up temp worktrees and transfer folders afterwards by **moving them to `D:\bak`**, never deleting them.
+- If a job stalls or the connection drops, **resume from its last pushed commit** instead of starting over.
+
+---
+
 ## Published books
 
 - Live on KDP and **do not edit unless asked**:
