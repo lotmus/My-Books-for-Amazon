@@ -1,5 +1,17 @@
 ﻿Standing rules for every assistant: see `notes/LOTHAR_RULES.md`.
 
+## Job queue
+
+At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes, or is blocked. See `notes/LOTHAR_RULES.md` (Job management).
+
+| Book | Task | Status | Who |
+|---|---|---|---|
+| EE Books 1–7 | Diagrams, voice, and "What you'll actually use" pass | running | agent |
+| Physics Vol 1; Physics Vol 3; A Trip Is Not a New Life; Science Sparks; Life, Actually; Physics Vol 2 | Weak-books improvement pass | running | agent |
+| Bavarian Cooking Made Simple | Cover blend softening; replace 11 weak dish photos | queued | — |
+| Quantum, Actually, Volume 1 | Part Two tightening | queued | — |
+
+
 # Scores and release plan
 
 Updated 10 Oct 2026 (PT). One row per book. Covers are judged from the files in each book folder on 10 Oct 2026; a file that exists only under `bak/` counts as draft. Status: published = live on Amazon; ready = manuscript closed with an upload package or KDP description; draft = still being written or fixed.
