@@ -10,6 +10,9 @@ The spec (JSON, paths relative to the spec's folder):
                  labels (large flat background) use diagram_width (800); portrait covers use cover_max (1600)
   jpeg_quality   default 80; line art becomes a 256-colour PNG, longest side lineart_max (1600)
   drawings       {"<regex on the picture's alt text>": "<png>"}: replaces that picture's bytes
+  tables         true: no Word tables in the Kindle file (tools/kindle_tables.py): tables become headed
+                 text, or an inline PNG (~800 px, text kept as alt text) when they need columns;
+                 floating pictures become inline
   split          optional: {"unsplit_to": "<bak path>", "parts": [...]} (see split_part below)
 Nothing is deleted. The unsplit build is moved to split.unsplit_to (overwritten on each build).
 Written for the 10 Oct 2026 Kindle size pass; see notes/FILE_SIZES.md.
@@ -47,7 +50,7 @@ class Doc:
         """images_only: keep document.xml bytes and every part as they were (only media and rels changed)."""
         if images_only: return self._write(out, set())
         xml = etree.tostring(self.tree, xml_declaration=True, encoding='UTF-8', standalone=True); self.data['word/document.xml'] = xml
-        sx = xml.decode('utf8'); used = set(re.findall(r'r:(?:embed|id|link)="([^"]+)"', sx))
+        used = {v for e in self.tree.iter() for k, v in e.attrib.items() if k.startswith('{%s}' % RNS)}  # any prefix (some masters write ns7:embed)
         relx = self.data['word/_rels/document.xml.rels'].decode('utf8'); drop = set(); keep = []
         for r in re.findall(r'<Relationship [^>]*/>', relx):
             rid = re.search(r'Id="([^"]+)"', r).group(1); tgt = re.search(r'Target="([^"]+)"', r).group(1)
@@ -328,12 +331,18 @@ def main(spec_path, src_override=None):
     print('postbuild:', src, 'est %.2f MB' % (est(src) / 1e6))
     doc = Doc(src)
     if spec.get('drawings'): print('  drawings swapped:', len(swap_drawings(doc, spec['drawings'], base)))
+    changed = bool(spec.get('credits'))
+    if spec.get('tables'):
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__))); import kindle_tables
+        tl = kindle_tables.detable(doc); changed = changed or bool(tl)
+        print('  tables: %d as text, %d as image; %d floating pictures made inline' % (
+            sum(1 for x in tl if x[1] == 'text'), sum(1 for x in tl if x[1] in ('image', 'matrix')), sum(1 for x in tl if x[0] == 'anchor')))
     lg = shrink_media(doc, spec.get('photo_width', 440), spec.get('diagram_width', 800), spec.get('cover_max', 1600), spec.get('jpeg_quality', 80), spec.get('lineart_max', 1600))
     print('  images recompressed:', len(lg))
     sp = spec.get('split')
     if not sp:
-        if spec.get('credits'): apply_credits(list(doc.body), spec['credits']); doc.save(src)
-        else: doc.save(src, images_only=True)
+        if spec.get('credits'): apply_credits(list(doc.body), spec['credits'])
+        doc.save(src, images_only=not changed)
         print('  est after %.2f MB' % (est(src) / 1e6)); return
     allb = {k: part_bookmarks(doc, p) for k, p in enumerate(sp['parts'])}
     for k, p in enumerate(sp['parts']): split_part(doc, p, allb, k, base)
