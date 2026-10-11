@@ -1,3 +1,5 @@
+> **Paste these 7 keywords into KDP on re-upload.** One phrase per box, without the numbers; they are in the Keywords section below.
+
 # KDP listing — How to Publish Your First Kindle Book
 
 Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platform facts in the manuscript were checked against KDP Help on 6 October 2026 (see the Notes in the book). Master: `How to Publish Your First Kindle Book_REV41_2026-10-10.docx` (REV41, 10 October 2026: remaining Oct 6 audit fixes, Sponsored Products glossary entry, source links named instead of visible URLs; REV40 is in the local bak folder).
@@ -35,19 +37,21 @@ Claims are labelled: a platform rule with a dated note, a worked example, field 
 
 This book is not an advanced Amazon Ads manual, a writing-craft course, a store-by-store guide to going wide, or a system for publishing many books quickly. It promises no income. It gives you an ordered route and a way to check the file.
 
-## Keywords (seven boxes; reader phrases; no program names, no title words, nothing misleading)
+## Keywords (seven boxes; reader phrases; no title, subtitle, or category words; no program or brand names; nothing misleading)
 
 Title words to keep out of these boxes: how, publish, your, first, Kindle, book.
 
-1. self publishing for beginners
+1. beginner indie author step by step
 2. ebook royalties and pricing
-3. honest reviews for new authors
+3. advance reader copies arc team
 4. metadata categories and keywords
-5. launch plan for a debut ebook
-6. advertising a book on a budget
-7. writing a second novel or guide
+5. debut novel launch checklist
+6. advertising on a small budget
+7. formatting a manuscript for ereaders
 
-Keyword rules followed: no “Kindle Unlimited”, “KDP Select”, or other program names; no words already in the title; no other authors’ names, ranks, or “bestseller” claims.
+Keyword rules followed (KDP Help, “Make Your Book More Discoverable with Keywords,” checked 10 October 2026): no word from the title or subtitle (how, publish, your, first, Kindle, book, request, honest, reviews, build, practical, plan, comes, next); no word from the three categories below (reference, writing, research, publishing, guides, books, business, money, marketing, sales); no meaningful word used in two boxes; no “Kindle Unlimited”, “KDP Select”, Amazon, or other program or brand names; no other authors’ names, ranks, “bestseller”, quality or time-sensitive claims.
+
+Changed 10 October 2026: box 1 (“self publishing for beginners”) and box 7 (“writing a second novel or guide”) repeated the category words Publishing and Writing. The same check also caught box 3 (“honest reviews” is in the subtitle), box 5 (“plan” is in the subtitle, and “ebook” was already in box 2) and box 6 (“book” is in the title), so those were replaced too.
 
 ## Categories (three; choose the closest accurate shelves in KDP’s category picker)
 
