@@ -1,0 +1,625 @@
+{
+ "source": "export/The_Universe_Has_No_Now.docx",
+ "photo_max": 1000,
+ "jpeg_quality": 82,
+ "drawings": {
+  "^Figure 0\\.": "Figures/kindle_drawings/fig00_clock.png",
+  "^Figure 1\\.": "Figures/kindle_drawings/fig01_kitchen.png",
+  "^Figure 25\\.": "Figures/kindle_drawings/fig25_rover.png",
+  "^Figure 32\\.": "Figures/kindle_drawings/fig32_tractor.png",
+  "^Figure 33\\.": "Figures/kindle_drawings/fig33_vault.png",
+  "^Figure 35\\.": "Figures/kindle_drawings/fig35_dish.png"
+ },
+ "split": {
+  "unsplit_to": "bak/The_Universe_Has_No_Now - last unsplit build.docx",
+  "parts": [
+   {
+    "out": "export/The Universe Has No Now - Book 1 - No Now, No Centre.docx",
+    "ranges": [
+     [
+      "START",
+      "bm_037"
+     ],
+     [
+      "bm_064",
+      "bm_091"
+     ],
+     [
+      "bm_112",
+      "END"
+     ]
+    ],
+    "replace": [
+     [
+      "The Universe Has No Now: Time, Origins, and Whether We Can Get Somewhere Else",
+      "The Universe Has No Now, Book 1: No Now, No Centre. Time, Origins, and Whether We Can Get Somewhere Else"
+     ],
+     [
+      "Look First, Volume 1.",
+      "Look First, Volume 1, Book 1 of 2."
+     ],
+     [
+      "It is a complete book. The crew that can wait, and the library that crew would carry, are taught here. You are not sent to another volume to finish this argument.",
+      "It comes in two books. This is Book 1, No Now, No Centre: Parts I to V, from the missing universal now to the one-way membranes. Book 2, Getting There Anyway, carries Parts VI to X: the crew that can wait, the library that crew would carry, loops, copies, the filter, and what the future is allowed to be."
+     ]
+    ],
+    "credits": {
+     "para_startswith": "Photographs.",
+     "figs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+     ],
+     "drawn": [
+      0,
+      1
+     ]
+    },
+    "insert": [
+     {
+      "after": "text:^The Universe Has No Now$",
+      "paras": [
+       {
+        "like": "style:TitleSub",
+        "text": "Book 1: No Now, No Centre"
+       }
+      ]
+     },
+     {
+      "after": "text:^The part that began with Schwarzschild",
+      "paras": [
+       {
+        "like": "text:^So: no transit",
+        "text": "Continued in Book 2, Getting There Anyway. Part VI picks up exactly here: a greenhouse on a dead world, a delay, a launch window, and a crew that can wait. Parts VI to X follow it out to loops, copies, the filter, and the honest ending."
+       }
+      ]
+     },
+     {
+      "after": "END",
+      "page_break": true,
+      "paras": [
+       {
+        "like": "sty:Heading1:^ABOUT THE AUTHOR$",
+        "text": "ALSO BY LOTHAR J. MUSIOL",
+        "bookmark": "also_by"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Physics, Actually",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "More Actually Books",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Gravitation, Actually: A Short Book on Gravity"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Universe, Actually: What Humanity Currently Understands About Reality"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Math, Actually",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 1: From Arithmetic to Calculus"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 3: From Differential Equations to Abstract Algebra"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 4: From Category Theory to the Frontier"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Quantum, Actually",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Quantum, Actually, Volume 2, Part 1: A QED Course — From Light to Classical Fields"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Quantum, Actually, Volume 2, Part 2: A QED Course — From Quantum Fields to Deep QED"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Science Sparks",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Look First",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Look First, Volume 1, Book 2: The Universe Has No Now — Getting There Anyway"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Look First, Volume 2: A Trip Is Not a New Life"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Electrical Engineering Series",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Foundations of Electronics (Book 1)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Circuits, Components, and Control (Book 2)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Semiconductor Physics and Devices (Book 3)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  RF, Microwave, and Transceivers (Book 4)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Communications, Wireless, and SDR (Book 5)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Power and Energy (Book 6)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Packaging, Layout, EMC, and Test (Book 7)"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "History",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Dolphins' View of History"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Fiction",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "In German",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?"
+       }
+      ]
+     }
+    ],
+    "notes": {
+     "bookmark": "^note_\\d+$"
+    },
+    "biblio": {
+     "start": "bm_118",
+     "stop": "^If this book gave you something",
+     "item_style": "ListItem"
+    },
+    "toc": {
+     "start": "toc",
+     "end": "bm_007",
+     "add": [
+      {
+       "text": "ALSO BY LOTHAR J. MUSIOL",
+       "anchor": "also_by",
+       "after_anchor": "_TocAll0001"
+      }
+     ]
+    },
+    "other_suffix": " (in Book 2)"
+   },
+   {
+    "out": "export/The Universe Has No Now - Book 2 - Getting There Anyway.docx",
+    "ranges": [
+     [
+      "START",
+      "bm_006"
+     ],
+     [
+      "toc",
+      "bm_007"
+     ],
+     [
+      "bm_037",
+      "bm_067"
+     ],
+     [
+      "bm_091",
+      "END"
+     ]
+    ],
+    "replace": [
+     [
+      "The Universe Has No Now: Time, Origins, and Whether We Can Get Somewhere Else",
+      "The Universe Has No Now, Book 2: Getting There Anyway. Time, Origins, and Whether We Can Get Somewhere Else"
+     ],
+     [
+      "Look First, Volume 1.",
+      "Look First, Volume 1, Book 2 of 2."
+     ],
+     [
+      "It is a complete book. The crew that can wait, and the library that crew would carry, are taught here. You are not sent to another volume to finish this argument.",
+      "It comes in two books. This is Book 2, Getting There Anyway: Parts VI to X. The crew that can wait, and the library that crew would carry, are taught here. Book 1, No Now, No Centre, carries Parts I to V; the Previously page before Part VI gives you what this book borrows from it."
+     ]
+    ],
+    "credits": {
+     "para_startswith": "Photographs.",
+     "figs": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+     ],
+     "drawn": [
+      25,
+      32,
+      33,
+      35
+     ]
+    },
+    "insert": [
+     {
+      "after": "text:^The Universe Has No Now$",
+      "paras": [
+       {
+        "like": "style:TitleSub",
+        "text": "Book 2: Getting There Anyway"
+       }
+      ]
+     },
+     {
+      "before": "bm_037",
+      "paras": [
+       {
+        "like": "text:^A Note on the Series$",
+        "text": "Previously, in Book 1",
+        "bookmark": "prev_book1"
+       },
+       {
+        "like": "style:FirstParagraph",
+        "text": "Book 1, No Now, No Centre, ran from a kitchen to a black hole. Part I took away the universal now: two people in one room slice events differently, light is always late, and what is left is a block of events with your life as one path through it. Part II rebuilt the past we can check: an expansion that happened everywhere at once, a baby picture in microwaves, and the first three minutes."
+       },
+       {
+        "like": "text:^Copyright © 2026",
+        "text": "Part III added a burst, inflation, with its quantum seeds and its untested bubbles. Part IV counted the missing most: the extra pull of dark matter and the shove of dark energy, and why neither hands anyone a forever-mind. Part V met one-way membranes: horizons are facts about events, black holes are not doors, and nothing in this universe hands you a shortcut."
+       },
+       {
+        "like": "text:^Copyright © 2026",
+        "text": "One habit carries over. Every claim wears a temperature: hot for measured, warm for working theory, cold for allowed but not selected by data. This book keeps the same map, the same Notes and Sources, and the same refusal to call a membrane a door. Part VI starts where Book 1 stopped: since you cannot cut through, can you get somewhere anyway?"
+       }
+      ]
+     },
+     {
+      "before": "bm_037",
+      "page_break": true,
+      "paras": []
+     },
+     {
+      "after": "END",
+      "page_break": true,
+      "paras": [
+       {
+        "like": "sty:Heading1:^ABOUT THE AUTHOR$",
+        "text": "ALSO BY LOTHAR J. MUSIOL",
+        "bookmark": "also_by"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Physics, Actually",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "More Actually Books",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Gravitation, Actually: A Short Book on Gravity"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Universe, Actually: What Humanity Currently Understands About Reality"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Math, Actually",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 1: From Arithmetic to Calculus"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 3: From Differential Equations to Abstract Algebra"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Math, Actually, Volume 4: From Category Theory to the Frontier"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Quantum, Actually",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Quantum, Actually, Volume 2, Part 1: A QED Course — From Light to Classical Fields"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Quantum, Actually, Volume 2, Part 2: A QED Course — From Quantum Fields to Deep QED"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Science Sparks",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Look First",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Look First, Volume 1, Book 1: The Universe Has No Now — No Now, No Centre"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Look First, Volume 2: A Trip Is Not a New Life"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Electrical Engineering Series",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Foundations of Electronics (Book 1)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Circuits, Components, and Control (Book 2)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Semiconductor Physics and Devices (Book 3)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  RF, Microwave, and Transceivers (Book 4)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Communications, Wireless, and SDR (Book 5)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Power and Energy (Book 6)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Packaging, Layout, EMC, and Test (Book 7)"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "History",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Dolphins' View of History"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "Fiction",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine"
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston"
+       },
+       {
+        "like": "text:^Lothar J. Musiol is a graduate",
+        "text": "In German",
+        "bold": true
+       },
+       {
+        "like": "style:ListItem",
+        "text": "•  Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?"
+       }
+      ]
+     }
+    ],
+    "notes": {
+     "bookmark": "^note_\\d+$"
+    },
+    "biblio": {
+     "start": "bm_118",
+     "stop": "^If this book gave you something",
+     "item_style": "ListItem"
+    },
+    "toc": {
+     "start": "toc",
+     "end": "prev_book1",
+     "add": [
+      {
+       "text": "Previously, in Book 1",
+       "anchor": "prev_book1",
+       "before_anchor": "bm_037",
+       "like_style": "TOCPart"
+      },
+      {
+       "text": "ALSO BY LOTHAR J. MUSIOL",
+       "anchor": "also_by",
+       "after_anchor": "_TocAll0001"
+      }
+     ]
+    },
+    "other_suffix": " (in Book 1)"
+   }
+  ]
+ }
+}
