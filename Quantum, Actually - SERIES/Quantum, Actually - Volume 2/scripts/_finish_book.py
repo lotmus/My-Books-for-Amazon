@@ -25,8 +25,9 @@ BOOKMARK_TOC = "QEDCourseTOC"
 KEEP_H1 = re.compile(
     r"^(Lesson \d+[: ]|Part [IVX0]|Prologue \d+|Interlude[: ]|Table of Contents|Copyright|"
     r"How to read this book|Also in This Series|Glossary of symbols|Course capstone|"
-    r"Consolidated formula index|Bibliography|Also by Lothar J\. Musiol$|"
-    r"Complete Quantum Electrodynamics Course$|Volume \d+ - .*$)"
+    r"Consolidated formula index|Bibliography|About the Author$|Also by Lothar J\. Musiol$|"
+    r"Prologue$|Epilogue$|Opening Chapter \d+[: ]|"
+    r"Complete Quantum Electrodynamics Course$|Volume \d+[ :-]+.*$)"
 )
 LESSON_H1 = re.compile(r"^Lesson (\d+)[: ]")
 
@@ -47,62 +48,28 @@ ALSO_IN_SERIES = [
     "This book: the calculation course.",
 ]
 
-# Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
-# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
+# Back matter is read from the canonical files, not copied here: notes/ABOUT_THE_AUTHOR - canonical.md (Version B)
+# and notes/ALSO_BY - canonical list.md, through tools/canonical_text.py at the repo root. Change those files,
+# not this script. The book itself is left out of its own Also-by page; Kevin Drew Peters books never appear
+# on a Lothar J. Musiol page. This book sets curly apostrophes, so the canonical straight ones are curled.
 ALSO_BY_HEADING = "Also by Lothar J. Musiol"
-# Rebuilt 10 Oct 2026 from notes/ALSO_BY - canonical list.md. The book itself is left out; Kevin Drew
-# Peters books never appear on a Lothar J. Musiol page.
-ALSO_BY = [
-    ('Physics, Actually', [
-        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
-        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
-        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
-        'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
-    ]),
-    ('More Actually Books', [
-        'Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard',
-        'The Universe, Actually: What Humanity Currently Understands About Reality',
-    ]),
-    ('Math, Actually', [
-        'Math, Actually, Volume 1: From Arithmetic to Calculus',
-        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
-        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
-        'Math, Actually, Volume 4: From Category Theory to the Frontier',
-    ]),
-    ('Quantum, Actually', [
-        'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
-    ]),
-    ('Science Sparks', [
-        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
-    ]),
-    ('Look First', [
-        'Look First, Volume 1: The Universe Has No Now',
-        'Look First, Volume 2: A Trip Is Not a New Life',
-    ]),
-    ('Electrical Engineering Series', [
-        'Foundations of Electronics (Book 1)',
-        'Circuits, Components, and Control (Book 2)',
-        'Semiconductor Physics and Devices (Book 3)',
-        'RF, Microwave, and Transceivers (Book 4)',
-        'Communications, Wireless, and SDR (Book 5)',
-        'Power and Energy (Book 6)',
-        'Packaging, Layout, EMC, and Test (Book 7)',
-    ]),
-    ('History', [
-        "The Dolphins' View of History",
-    ]),
-    ('Fiction', [
-        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)",
-        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)',
-        "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
-        "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
-        'Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine',
-        'In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston',
-    ]),
-    ('In German', [
-        'Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?',
-    ]),
-]
+ABOUT_HEADING = "About the Author"
+REVIEW_PREFIX = "If this book gave you"
+REVIEW_INVITATION = ("If this book gave you something, a laugh, an idea, or a better question, I\u2019d love to hear about it. "
+                     "A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.")
+
+
+def _canonical():
+    d = os.path.dirname(os.path.abspath(__file__))
+    while not os.path.isfile(os.path.join(d, "tools", "canonical_text.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    sys.path.insert(0, os.path.join(d, "tools"))
+    import canonical_text
+    return canonical_text
+
+
+def also_by_groups():
+    return _canonical().also_by(exclude=["Quantum, Actually, Volume %d:" % bl.SERIES_VOLUME], typographic=True)
 
 
 def normalize_numbering(doc):
@@ -208,6 +175,8 @@ def _is_body_start(text):
         LESSON_H1.match(t) is not None and LESSON_H1.match(t).group(1) == "1"
         or t.startswith("Part 0")
         or t.startswith("Prologue 1")
+        or t == "Prologue"
+        or t.startswith("Opening Chapter 1:")
     )
 
 
@@ -424,10 +393,16 @@ def bookmark_lessons(doc):
             _bookmark_p(child, "FormulaIndex", 3003)
         elif text == "Bibliography":
             _bookmark_p(child, "Bibliography", 3004)
-        elif text.startswith("Prologue "):
-            pm = re.match(r"^Prologue (\d+)", text)
+        elif text.startswith("Prologue ") or text.startswith("Opening Chapter "):
+            pm = re.match(r"^(?:Prologue|Opening Chapter) (\d+)", text)
             if pm:
                 _bookmark_p(child, "Prologue%s" % pm.group(1), 4000 + int(pm.group(1)))
+        elif text == "Prologue":
+            _bookmark_p(child, "TruePrologue", 3010)
+        elif text == "Epilogue":
+            _bookmark_p(child, "Epilogue", 3011)
+        elif text == ABOUT_HEADING:
+            _bookmark_p(child, "AboutAuthor", 3009)
         elif text.startswith("Interlude"):
             _bookmark_p(child, "Mead", 4010)
         elif text == "How to read this book":
@@ -449,9 +424,14 @@ def collect_toc_entries(doc):
         if m:
             entries.append(("Lesson%d" % int(m.group(1)), text, False))
             continue
-        pm = re.match(r"^Prologue (\d+)", text)
+        pm = re.match(r"^(?:Prologue|Opening Chapter) (\d+)", text)
         if pm:
             entries.append(("Prologue%s" % pm.group(1), text, False))
+            continue
+        if text in ("Prologue", "Epilogue"):
+            sub = child.getnext()
+            label = text + ": " + _text(sub).strip() if sub is not None and _p_style(sub) == "Heading2" else text
+            entries.append(("TruePrologue" if text == "Prologue" else "Epilogue", label, False))
             continue
         if text.startswith("Interlude"):
             entries.append(("Mead", text, False))
@@ -473,6 +453,8 @@ def collect_toc_entries(doc):
             entries.append(("FormulaIndex", text, False))
         elif text == "Bibliography":
             entries.append(("Bibliography", text, False))
+        elif text == ABOUT_HEADING:
+            entries.append(("AboutAuthor", text, False))
         elif text == ALSO_BY_HEADING:
             entries.append(("AlsoBy", text, False))
     return entries
@@ -631,32 +613,39 @@ def insert_front_matter(doc):
 
 
 def also_by_page(doc):
-    """'Also by Lothar J. Musiol' as the last page, after the Bibliography (idempotent:
-    an earlier copy, with its page break, is replaced)."""
+    """Back matter after the Bibliography: review invitation, About the Author, Also by Lothar J. Musiol.
+    Idempotent: an earlier copy of the three (from the review line or either heading to the end) is replaced.
+    Texts come from the canonical files."""
     body = doc.element.body
-    old = None
+    start = None
     for child in body:
-        if _p_style(child) == "Heading1" and _text(child).strip() == ALSO_BY_HEADING:
-            old = child
+        if child.tag != qn("w:p"):
+            continue
+        t = _text(child).strip()
+        if t.startswith(REVIEW_PREFIX) or (_p_style(child) == "Heading1" and t in (ABOUT_HEADING, ALSO_BY_HEADING)):
+            start = child
             break
-    if old is not None:
-        start = old
-        prev = old.getprevious()
+    if start is not None:
+        prev = start.getprevious()
         if prev is not None and prev.tag == qn("w:p") and not _text(prev).strip() and any(
                 br.get(qn("w:type")) == "page" for br in prev.iter(qn("w:br"))):
             start = prev
         cur = start
         while cur is not None and cur.tag != qn("w:sectPr"):
-            if cur is not old and cur is not start and _p_style(cur) == "Heading1":
-                break
             nxt = cur.getnext()
             body.remove(cur)
             cur = nxt
     b = bl.Builder(doc)
+    r = b.para()
+    r.paragraph_format.page_break_before = True
+    r.add_run(REVIEW_INVITATION).italic = True
     b.pagebreak()
+    b.heading(ABOUT_HEADING, 1)
+    for text in _canonical().about_paragraphs("B", typographic=True):
+        b.para(text)
     h = b.heading(ALSO_BY_HEADING, 1)
     _bookmark_p(h._p, "AlsoBy", 3008)
-    for group, titles in ALSO_BY:
+    for group, titles in also_by_groups():
         p = b.para()
         p.paragraph_format.space_before = Pt(8)
         p.paragraph_format.space_after = Pt(2)
@@ -669,7 +658,7 @@ def also_by_page(doc):
             q.paragraph_format.space_before = Pt(0)
             q.paragraph_format.space_after = Pt(1)
             q.add_run(title)
-    # b.para appends at the end of the body, which is where this page belongs
+    # b.para appends at the end of the body, which is where this back matter belongs
 
 
 def link_lesson_mentions(doc):
