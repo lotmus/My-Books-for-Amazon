@@ -126,11 +126,7 @@ Pläne führen eine Arzneimittelliste (*Formulary*) mit Preisstufen. Die Zuzahlu
 
 Zahn- und Augenleistungen für Erwachsene sind in der Krankenversicherung meist nicht enthalten. Dafür gibt es eigene Pläne (*Dental* und *Vision*), oft über den Arbeitgeber gegen einen kleinen Zusatzbeitrag. Dental-Pläne haben eine Jahreshöchstleistung (*Annual Maximum*). Darüber zahlst du selbst. Die Höhe nennt der Plan. Kontrolle und Reinigung werden häufig voll erstattet, Füllungen und Kronen zu einem geringeren Anteil. Bei Einzelverträgen gelten für größere Leistungen oft sechs bis zwölf Monate Wartefrist. Kieferorthopädie hat oft ein Lebenszeit-Maximum. Den Betrag nennt der Plan.
 
-Ohne Versicherung liegen die Preise so (Spannen laut Verbraucherportalen 2026, regional stark schwankend):
-
-| Leistung | Preis ohne Versicherung |
-|---|---|
-Eine Preisliste für Kontrolle, Füllung, Krone, Augenuntersuchung und Brille druckt dieses Kapitel nicht. Die Praxis und der Optiker nennen den Betrag. Frag nach einem Selbstzahler-Nachlass. Aufwendige Zahnbehandlungen und die Brille erledigst du besser noch in Deutschland (Kapitel 18).
+Ohne Versicherung schwanken die Preise regional stark. Eine Preisliste für Kontrolle, Füllung, Krone, Augenuntersuchung und Brille druckt dieses Kapitel nicht. Die Praxis und der Optiker nennen den Betrag. Frag nach einem Selbstzahler-Nachlass. Aufwendige Zahnbehandlungen und die Brille erledigst du besser noch in Deutschland (Kapitel 18).
 
 ### Kinder, Impfungen und Vorsorge
 

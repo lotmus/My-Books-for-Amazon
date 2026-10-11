@@ -60,7 +60,7 @@ seems worth touching, say so and wait to be asked — don't go do it.
   "Questions This Book Answers" follows the contents, QUESTION AND ANSWER boxes
   sit in Chapters 12, 15, 19, 20, 26, 30, each Part ends with a COMMON
   QUESTIONS box, and Appendix 2 is a narrator Q&A. Everything cut is kept in
-  `..\QED Course\notes\Unused from merge for QED Course.docx`. The old
+  `..\Quantum, Actually - Volume 2\notes\Unused from merge for QED Course.docx`. The old
   masters and the whole Quantum Conversation folder are in
   `D:\bak\2026-10-03 quanta merge\`.
 - Part Two working copies: `chapters\ch10.md`–`ch31.md` (md, the source used
