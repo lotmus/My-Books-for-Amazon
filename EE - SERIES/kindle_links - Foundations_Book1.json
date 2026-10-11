@@ -1,0 +1,251 @@
+{
+ "note": "EE series link rules (11 Oct 2026): Further Reading titles -> Open Library search, Also-by titles -> Amazon Kindle search; keyword links, hidden URLs.",
+ "rules": [
+  {
+   "find": "Introduction to Electrodynamics",
+   "to": "[Introduction to Electrodynamics](https://openlibrary.org/search?q=Introduction+to+Electrodynamics+Griffiths)",
+   "in": "David J. Griffiths, Introduction to Electrodynamics — the st",
+   "max": 1
+  },
+  {
+   "find": "A Student's Guide to Maxwell's Equations",
+   "to": "[A Student's Guide to Maxwell's Equations](https://openlibrary.org/search?q=A+Student%27s+Guide+to+Maxwell%27s+Equations+Fleisch)",
+   "in": "Daniel Fleisch, A Student's Guide to Maxwell's Equations — a",
+   "max": 1
+  },
+  {
+   "find": "Fundamentals of Physics",
+   "to": "[Fundamentals of Physics](https://openlibrary.org/search?q=Fundamentals+of+Physics+Halliday)",
+   "in": "David Halliday, Robert Resnick, and Jearl Walker, Fundamenta",
+   "max": 1
+  },
+  {
+   "find": "Advanced Engineering Mathematics",
+   "to": "[Advanced Engineering Mathematics](https://openlibrary.org/search?q=Advanced+Engineering+Mathematics+Kreyszig)",
+   "in": "Erwin Kreyszig, Advanced Engineering Mathematics — the stand",
+   "max": 1
+  },
+  {
+   "find": "Engineering Mathematics",
+   "to": "[Engineering Mathematics](https://openlibrary.org/search?q=Engineering+Mathematics+Stroud)",
+   "in": "K. A. Stroud (with Dexter J. Booth), Engineering Mathematics",
+   "max": 1
+  },
+  {
+   "find": "Fundamentals of Electric Circuits",
+   "to": "[Fundamentals of Electric Circuits](https://openlibrary.org/search?q=Fundamentals+of+Electric+Circuits+Alexander)",
+   "in": "Charles K. Alexander and Matthew N. O. Sadiku, Fundamentals ",
+   "max": 1
+  },
+  {
+   "find": "The Art of Electronics",
+   "to": "[The Art of Electronics](https://openlibrary.org/search?q=The+Art+of+Electronics+Horowitz)",
+   "in": "Paul Horowitz and Winfield Hill, The Art of Electronics — no",
+   "max": 1
+  },
+  {
+   "find": "Microwave Engineering",
+   "to": "[Microwave Engineering](https://openlibrary.org/search?q=Microwave+Engineering+Pozar)",
+   "in": "David M. Pozar, Microwave Engineering — the standard graduat",
+   "max": 1
+  },
+  {
+   "find": "Electronic Applications of the Smith Chart",
+   "to": "[Electronic Applications of the Smith Chart](https://openlibrary.org/search?q=Electronic+Applications+of+the+Smith+Chart+Smith)",
+   "in": "Phillip H. Smith, Electronic Applications of the Smith Chart",
+   "max": 1
+  },
+  {
+   "find": "RF Circuit Design",
+   "to": "[RF Circuit Design](https://openlibrary.org/search?q=RF+Circuit+Design+Bowick)",
+   "in": "Chris Bowick, RF Circuit Design — a shorter, design-oriented",
+   "max": 1
+  },
+  {
+   "find": "Microwave Transistor Amplifiers: Analysis and Design",
+   "to": "[Microwave Transistor Amplifiers: Analysis and Design](https://openlibrary.org/search?q=Microwave+Transistor+Amplifiers%3A+Analysis+and+Design+Gonzalez)",
+   "in": "Guillermo Gonzalez, Microwave Transistor Amplifiers: Analysi",
+   "max": 1
+  },
+  {
+   "find": "RF/Microwave Circuit Design for Wireless Applications",
+   "to": "[RF/Microwave Circuit Design for Wireless Applications](https://openlibrary.org/search?q=RF%2FMicrowave+Circuit+Design+for+Wireless+Applications+Rohde)",
+   "in": "Ulrich L. Rohde and David P. Newkirk, RF/Microwave Circuit D",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity",
+   "to": "[Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+1%3A+Motion%2C+Forces%2C+Time%2C+and+Relativity+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 1: Motion, Forces, Time, and Relat",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime",
+   "to": "[Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+2%3A+Gravity%2C+Cosmology%2C+and+the+Limits+of+Spacetime+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 2: Gravity, Cosmology, and the Lim",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge",
+   "to": "[Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+3%3A+The+Standard+Model%2C+Chaos%2C+and+the+Edge+of+Knowledge+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 3: The Standard Model, Chaos, and ",
+   "max": 1
+  },
+  {
+   "find": "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere",
+   "to": "[Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere](https://www.amazon.com/s?k=Life%2C+Actually%3A+From+the+First+Cell+to+the+Edited+Genome+and+the+Search+for+Life+Elsewhere+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Life, Actually: From the First Cell to the Edited Genome and",
+   "max": 1
+  },
+  {
+   "find": "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard",
+   "to": "[Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard](https://www.amazon.com/s?k=Gravity%2C+Actually%3A+Einstein%E2%80%99s+Relativity+in+Plain+Words%3A+Falling%2C+Time%2C+Black+Holes%2C+and+the+Waves+We+Finally+Heard+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Gravity, Actually: Einstein’s Relativity in Plain Words: Fal",
+   "max": 1
+  },
+  {
+   "find": "The Universe, Actually: What Humanity Currently Understands About Reality",
+   "to": "[The Universe, Actually: What Humanity Currently Understands About Reality](https://www.amazon.com/s?k=The+Universe%2C+Actually%3A+What+Humanity+Currently+Understands+About+Reality+Lothar+J.+Musiol&i=digital-text)",
+   "in": "The Universe, Actually: What Humanity Currently Understands ",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 1: From Arithmetic to Calculus",
+   "to": "[Math, Actually, Volume 1: From Arithmetic to Calculus](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+1%3A+From+Arithmetic+to+Calculus+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 1: From Arithmetic to Calculus",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic",
+   "to": "[Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+2%3A+From+Multivariable+Calculus+to+Set+Theory+%26+Logic+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 2: From Multivariable Calculus to Set",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 3: From Differential Equations to Abstract Algebra",
+   "to": "[Math, Actually, Volume 3: From Differential Equations to Abstract Algebra](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+3%3A+From+Differential+Equations+to+Abstract+Algebra+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 3: From Differential Equations to Abs",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 4: From Category Theory to the Frontier",
+   "to": "[Math, Actually, Volume 4: From Category Theory to the Frontier](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+4%3A+From+Category+Theory+to+the+Frontier+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 4: From Category Theory to the Fronti",
+   "max": 1
+  },
+  {
+   "find": "Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire",
+   "to": "[Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+1%3A+Questions+and+Answers+from+the+Double+Slit+to+the+Superconducting+Wire+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Quantum, Actually, Volume 1: Questions and Answers from the ",
+   "max": 1
+  },
+  {
+   "find": "Quantum, Actually, Volume 2: A QED Course",
+   "to": "[Quantum, Actually, Volume 2: A QED Course](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+2%3A+A+QED+Course+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Quantum, Actually, Volume 2: A QED Course",
+   "max": 1
+  },
+  {
+   "find": "Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights",
+   "to": "[Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights](https://www.amazon.com/s?k=Science+Sparks%3A+Physics%2C+Life%2C+and+Mathematics+%E2%80%94+The+Same+Few+Rules%2C+Told+in+Highlights+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Science Sparks: Physics, Life, and Mathematics — The Same Fe",
+   "max": 1
+  },
+  {
+   "find": "Look First, Volume 1: The Universe Has No Now",
+   "to": "[Look First, Volume 1: The Universe Has No Now](https://www.amazon.com/s?k=Look+First%2C+Volume+1%3A+The+Universe+Has+No+Now+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Look First, Volume 1: The Universe Has No Now",
+   "max": 1
+  },
+  {
+   "find": "Look First, Volume 2: A Trip Is Not a New Life",
+   "to": "[Look First, Volume 2: A Trip Is Not a New Life](https://www.amazon.com/s?k=Look+First%2C+Volume+2%3A+A+Trip+Is+Not+a+New+Life+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Look First, Volume 2: A Trip Is Not a New Life",
+   "max": 1
+  },
+  {
+   "find": "Circuits, Components, and Control",
+   "to": "[Circuits, Components, and Control](https://www.amazon.com/s?k=Circuits%2C+Components%2C+and+Control+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Circuits, Components, and Control (Book 2)",
+   "max": 1
+  },
+  {
+   "find": "Semiconductor Physics and Devices",
+   "to": "[Semiconductor Physics and Devices](https://www.amazon.com/s?k=Semiconductor+Physics+and+Devices+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Semiconductor Physics and Devices (Book 3)",
+   "max": 1
+  },
+  {
+   "find": "RF, Microwave, and Transceivers",
+   "to": "[RF, Microwave, and Transceivers](https://www.amazon.com/s?k=RF%2C+Microwave%2C+and+Transceivers+Lothar+J.+Musiol&i=digital-text)",
+   "in": "RF, Microwave, and Transceivers (Book 4)",
+   "max": 1
+  },
+  {
+   "find": "Communications, Wireless, and SDR",
+   "to": "[Communications, Wireless, and SDR](https://www.amazon.com/s?k=Communications%2C+Wireless%2C+and+SDR+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Communications, Wireless, and SDR (Book 5)",
+   "max": 1
+  },
+  {
+   "find": "Power and Energy",
+   "to": "[Power and Energy](https://www.amazon.com/s?k=Power+and+Energy+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Power and Energy (Book 6)",
+   "max": 1
+  },
+  {
+   "find": "Packaging, Layout, EMC, and Test",
+   "to": "[Packaging, Layout, EMC, and Test](https://www.amazon.com/s?k=Packaging%2C+Layout%2C+EMC%2C+and+Test+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Packaging, Layout, EMC, and Test (Book 7)",
+   "max": 1
+  },
+  {
+   "find": "The Dolphins’ View of History",
+   "to": "[The Dolphins’ View of History](https://www.amazon.com/s?k=The+Dolphins%E2%80%99+View+of+History+Lothar+J.+Musiol&i=digital-text)",
+   "in": "The Dolphins’ View of History",
+   "max": 1
+  },
+  {
+   "find": "The Murder That Hadn’t Happened Yet",
+   "to": "[The Murder That Hadn’t Happened Yet](https://www.amazon.com/s?k=The+Murder+That+Hadn%E2%80%99t+Happened+Yet+Spezala+Genara+Relavi&i=digital-text)",
+   "in": "The Murder That Hadn’t Happened Yet (The Relativistic Invest",
+   "max": 1
+  },
+  {
+   "find": "The Warning That Was Sent Too Late",
+   "to": "[The Warning That Was Sent Too Late](https://www.amazon.com/s?k=The+Warning+That+Was+Sent+Too+Late+Spezala+Genara+Relavi&i=digital-text)",
+   "in": "The Warning That Was Sent Too Late (The Relativistic Investi",
+   "max": 1
+  },
+  {
+   "find": "Schrödinger’s Paperwork",
+   "to": "[Schrödinger’s Paperwork](https://www.amazon.com/s?k=Schr%C3%B6dinger%E2%80%99s+Paperwork+Quentin+Edmund+Darling&i=digital-text)",
+   "in": "Schrödinger’s Paperwork (Lolly Wren’s Curious Science Advent",
+   "max": 1
+  },
+  {
+   "find": "The Permitted Options",
+   "to": "[The Permitted Options](https://www.amazon.com/s?k=The+Permitted+Options+Quentin+Edmund+Darling&i=digital-text)",
+   "in": "The Permitted Options (Lolly Wren’s Curious Science Adventur",
+   "max": 1
+  },
+  {
+   "find": "Protocol Flamingo",
+   "to": "[Protocol Flamingo](https://www.amazon.com/s?k=Protocol+Flamingo+George+Herbert+Fontaine&i=digital-text)",
+   "in": "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar ",
+   "max": 1
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "[In Love with Murder, Actually: A Derailed Mystery in Provence](https://www.amazon.com/s?k=In+Love+with+Murder%2C+Actually%3A+A+Derailed+Mystery+in+Provence+Romuald+Livingston&i=digital-text)",
+   "in": "In Love with Murder, Actually: A Derailed Mystery in Provenc",
+   "max": 1
+  },
+  {
+   "find": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?",
+   "to": "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
+   "max": 1
+  }
+ ]
+}
