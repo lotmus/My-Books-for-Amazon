@@ -56,15 +56,15 @@ touching, say so and wait to be asked — don't go do it.
     Theory Not Yet Found" (2026-10-01) holds the two essay sections that
     used to close the physics chapter ("What the physics is for", "One theory, not
     yet"); the physics chapter now ends on a one-line pointer and its verdict. It
-    has an `.md` counterpart in `chapters/`. The `.md` physics chapter still
-    carries two sections the build never had ("The rest of the ledger",
-    "The outlook, without a trumpet"); Lothar decides whether they go into
-    the build or are cut.
+    has an `.md` counterpart in `chapters/`. The physics chapter's two former `.md`-only
+    sections were decided on 2026-10-11: "The rest of the ledger" is in the
+    build (sourced); "The outlook, without a trumpet" is in the Held Back note,
+    with the reasons.
   - 2026-10-04 coverage pass: the chapter `.md` files match the build again, except for the physics chapter's two
     documented sections. Chapters 21 and 22 are new (Latin America; the Ottoman Empire and the Middle East), so
     everything after them moved up by two. `notes/Held Back - Sections Written but Not in the Build.md` keeps the
     text of the sections that had been written for the `.md` track on 2026-10-01 and never ported, including two
-    held for Lothar's decision (the Xi/Winnie-the-Pooh passage and the Greenland purchase-offer passage). Never add
+    held for Lothar's decision (the Xi/Winnie-the-Pooh passage and the Greenland purchase-offer passage), both INCLUDED on 2026-10-11. Never add
     a section to a chapter `.md` without adding it to `_generate.js` in the same change, and give every new factual
     section matching entries in "Notes and Sources" (`chapters/Notes and Sources.md` and the `notes` array in
     `_generate.js`), each checked against Open Library, Crossref, or the publisher before it goes in.
@@ -142,3 +142,11 @@ touching, say so and wait to be asked — don't go do it.
 - Text: "the 2010s and 2020s" (Fractured Present); the Long View's seam into the four folded timelines now reads "Several timelines ran underneath everything else in this book…".
 - **Covers (new):** `KINDLE_COVER_FINAL_2560.jpg` (1600×2560: parchment and sea, a navy dolphin leaping across a gold timeline, Cinzel title) and `KINDLE_BACK_COVER_2560.jpg` (single-colour navy, text only), from `scripts/make_front_cover.py` (+ `dolphin.py`) and `scripts/make_back_cover.py`.
 - Known gap, not fixed here: the `.md` track has drifted from the build in places (the Complete Manuscript `.md` and chapter 44's `.md` do not carry the folded population, suffrage, UDHR and mathematics timelines in their current wording). The build is authoritative.
+
+## Held-back pass, 11 October 2026
+
+- **Both held passages are INCLUDED** (Lothar, 2026-10-11). Winnie-the-Pooh: two paragraphs in the China chapter after the Xi paragraph; the passage says "the leader the internet nicknamed Pooh" and does not name him. Greenland purchase offers: three paragraphs in the Climate chapter after the polar paragraph (1946, 2019, 2024-25). Both rewritten neutral and factual; sources in Notes and Sources (BBC, AFP/The Guardian, Foreign Relations of the United States, CNBC, BBC), linked by keyword, no printed URLs.
+- **The current American president is never named:** the Greenland passage is a one-off exception for the subject only. The name never appears anywhere in this book or its notes; write "the American president", "Washington" or "the US government". Check with a search for the name before every commit (the word "trumpet" in a physics heading is not the name).
+- **Physics chapter:** "The rest of the ledger" ported (trimmed, corrected, 13 sourced notes); "The outlook, without a trumpet" HELD in the Held Back note (repeats the appendix, Epilogue and Fractured Present chapter; dated claims; unsourced).
+- **The `.md` track matches the build again.** The changed chapter `.md` files and the Complete Manuscript `.md` were regenerated from the built `.docx` (unchanged paragraphs kept verbatim; new ones written with straight quotes; source links as Markdown links). The Long View `.md` now has the four folded timelines; the Complete Manuscript `.md` now has the Timeline, the review line, About the Author and the current Also-by. The known gap noted on 10 October is closed. `chapters/Also by Lothar J. Musiol.md` is kept by the Also-by process and matches the build in content.
+- Old master and old `.md` files: `bak/2026-10-11 pre-held-back/`.
