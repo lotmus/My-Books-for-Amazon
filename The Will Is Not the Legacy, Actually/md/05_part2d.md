@@ -42,10 +42,10 @@ California's Uniform Statutory Form Power of Attorney (Probate Code § 4401), si
 
 **What to do.**
 
-- If you trust the person enough to name them, consider making the power effective now.
-- If you do not trust them enough for that, name someone else.
-- Name a backup agent, and consider requiring the agent to report to a second person.
-- Ask your bank which forms it accepts, and get its answer in writing.
+- Read your power of attorney and find the sentence that says when it takes effect. If it springs, ask who decides and how quickly they can.
+- If you trust the agent, make the power effective now and keep control through accountability, such as monthly statements sent to a second person.
+- Name a successor agent in case the first cannot act.
+- Ask your bank and your insurer in writing whether they will accept your power.
 
 ### Case 17: No power at all
 
@@ -89,12 +89,14 @@ Robert might also have considered a will, since Denise would have inherited noth
 
 **The documents in practice.** An advance health care directive in California does two jobs: it names an agent, and it lets you write down instructions. The statutory form takes about half an hour to complete, and a notary or two qualified adult witnesses complete it. Some restrictions apply to who may witness; the form explains them. Keep the original at home, give copies to your agent and your doctor, and ask the doctor to put a copy in your medical record. A financial power of attorney is longer, needs a notary, and is worth having a lawyer review if you own a business or real estate. Together, they are the most valuable afternoon most adults will ever spend on paperwork.
 
+**Why marriage, or registration, changes the defaults.** In California, registered domestic partners have the same rights and duties as spouses under state law (Family Code § 297.5), including priority to be appointed conservator and inheritance rights without a will. Robert and Denise did not have to marry to become visible to the default rules; registering would have done much of the same work. Either is a decision about a relationship, not about paperwork, and nobody should marry or register only to fix a gap that two documents can fill. But it is worth knowing that the defaults are built around those two statuses.
+
 **What to do.**
 
-- Sign a durable power of attorney and an advance health care directive now, whatever your age.
-- If you are not married, treat these documents as essential, not optional.
-- If you run a business alone, make sure your agent's power covers it, and write a one-page continuity note.
-- Tell your relatives whom you have named, so they hear it from you and not from a hospital.
+- Sign a durable power of attorney and an advance health care directive this month, whatever your age.
+- If you are not married, name your partner explicitly as agent in both, and say in the directive that you want them involved in your care.
+- If you are self-employed, make sure the power covers your business accounts, and put a one-page business continuity note in your Family List.
+- Give copies to your doctor and your agent, and tell any relative who might object whom you have chosen.
 
 ### Case 18: The German spouse who could decide, but only for a while
 
@@ -134,12 +136,14 @@ German law requires the power of attorney to be in writing, and to mention expre
 
 **Why the six-month limit exists.** The German legislature chose a narrow emergency right on purpose. A spouse is often the right person to decide in the first days after an accident, but marriages differ, and the law did not want to give every spouse sweeping long-term power by default. For anything longer or wider, it expects either a power of attorney chosen by the person themselves or a guardian appointed and supervised by a court. Seen that way, the six-month limit is not a trap. It is the law telling married couples, politely, to make their own arrangements.
 
+**How the register helps.** The Central Register of Lasting Powers of Attorney exists so that a guardianship court, before it appoints anyone, can check whether the person has already chosen an agent. If a registered *Vorsorgevollmacht* names Petra, the court will generally not appoint a guardian at all, because the power makes one unnecessary. Registration does not make a power valid; an unregistered power is just as valid. It makes the power findable, which, in a hospital corridor, is the same thing.
+
 **What to do.**
 
-- In Germany, sign a *Vorsorgevollmacht* and a *Patientenverfügung*, even if you are married.
-- Notarise or certify the power if you own property, and register it.
-- Ask your bank whether it accepts your power, or whether you also need its own form.
-- Review it every few years, and when circumstances change.
+- If you are married in Germany, do not rely on the spouse's emergency right. Each of you should sign a *Vorsorgevollmacht* covering health and money.
+- If you own property, have the powers notarised or officially certified so the land registry will accept them.
+- Register the powers in the Central Register of Lasting Powers of Attorney.
+- Carry a card in your wallet saying that a power exists and where the original is.
 
 ### Case 19: "No heroic measures"
 
@@ -186,12 +190,14 @@ Write the answers down in your own words. Then take them to the form. Appendix F
 
 **What Joan wishes she had asked.** Years later, Joan said the hardest part was not the decision but the loneliness of it. She wished she had asked her mother one question while she could: "If you got pneumonia and could not tell us what you wanted, would you want antibiotics?" It is not a morbid question. It is the kind of question a daughter can ask over lunch, and the answer would have been worth more than any form.
 
+**When the directive does not fit.** German law has a fallback for exactly Edith's situation. Where a written advance directive does not fit the actual situation, the agent must work out the patient's treatment wishes or presumed wishes, from earlier statements, ethical or religious beliefs, and personal values, and decide on that basis (BGB § 1827). California's rule for agents is similar in spirit. In both countries, a vague document does not leave the agent free to decide as they like. It leaves them with the harder job of reconstructing what the patient would have wanted, which is exactly why the conversation matters more than the form.
+
 **What to do.**
 
-- Write your wishes as situations and treatments, not slogans.
-- Discuss them with your agent and with everyone else who will be in the room.
-- If you are seriously ill or frail, ask your doctor about a POLST (in California) or a detailed *Patientenverfügung* (in Germany).
-- Review the directive every few years, and after any major diagnosis.
+- Rewrite any one-line directive as situations and treatments: infections, ventilation, feeding tubes, resuscitation, place of care.
+- Add one sentence about your values, such as whether being at home matters more to you than living longer.
+- Go through it with your agent and with everyone else likely to be at the bedside, at the same time.
+- If you are frail or seriously ill, ask your doctor about a POLST in California, or a detailed *Patientenverfügung* in Germany.
 
 ## Chapter 7. Families, Borders, and the Digital Locker
 
@@ -231,12 +237,14 @@ Once Ingrid had died without such a clause, Hans had one more option: a notarise
 
 **Why the Berliner Testament is so popular anyway.** It is simple, it protects the surviving spouse, and it postpones the children's inheritance until both parents have died, which is what many parents want. Its binding effect is a feature as well as a risk: it protects the children from a survivor who might otherwise be persuaded to change everything. The trouble arises only when life after the first death turns out differently from what the couple imagined. A change clause costs a sentence. Most couples who later need one would have written it gladly, if anyone had asked.
 
+**Hans's other way out, and why he did not take it.** A surviving spouse who wants to escape a binding joint will can, in principle, disclaim what the first spouse left them. The time limit is short: generally six weeks from learning of the inheritance and the reason for it (BGB § 1944), longer if the deceased lived abroad. A disclaimer must be declared formally to the probate court. Hans, in the grief of 2015, did not know he would remarry five years later, and disclaiming would have meant giving up Ingrid's half of the flat. By 2020 the window had long closed. That is why the decision belongs in the will itself.
+
 **What to do.**
 
-- Before you write a joint will in Germany, decide whether the survivor should be free to change the final heirs. Write that decision into the will.
-- Ask a notary about remarriage, stepchildren, and compulsory shares.
-- If you are a widow or widower bound by an old joint will and are thinking of remarrying, see a notary before the wedding.
-- If you are marrying someone bound by an old joint will, ask to see it.
+- Before you sign a joint will in Germany, decide whether the survivor may change the final heirs, and write a change clause or a deliberate "no changes" into the will.
+- Decide what should happen if the survivor remarries, and put that in the will too.
+- If you are a survivor bound by a joint will, see a notary before you remarry or make any large gift.
+- If you are marrying someone bound by an old joint will, ask to see it before you give up your own home.
 
 ### Case 21: Two passports, two homes, one estate
 
@@ -270,13 +278,14 @@ So the two systems pulled in different directions. Helga, as heir in Germany, fa
 
 **Living between countries, honestly.** Many people move abroad in retirement without thinking of themselves as emigrants. They keep a house, a bank, and a doctor in the old country and treat the new country as a long holiday. The law does not see it that way. After a few years, habitual residence usually follows your daily life, not your sentiment. If you have moved, assume your succession will be governed by the law of where you now live, unless you choose otherwise in writing, and plan accordingly.
 
+**The European Certificate of Succession.** One document did help. A European Certificate of Succession, issued by the German probate court, proves who the heirs are and what powers they have, and takes effect in every member state bound by the Succession Regulation without any further procedure (Article 69). It does not reach Denmark or Ireland, which are not bound by the regulation, and it has no automatic effect in the United States. For the German and other European assets it was the key that opened every bank. For the Sunnyvale side, Ben's trust certificate did the same job in California. Two keys, two systems, one estate.
+
 **What to do.**
 
-- If you move countries, review your whole estate plan within a year.
-- If you have more than one nationality, ask whether an express choice of law in your will would help.
-- Make sure your documents in each country know about each other.
-- Keep a Family List that includes every country's assets, advisers, and originals.
-- See Chapter 39 for the questions to ask in any other jurisdiction.
+- Within a year of moving to another country, have your whole plan reviewed by advisers who know both countries.
+- If you have two nationalities, ask whether a choice of law in your will would protect what you want.
+- Make each country's documents refer to the other's, so that no document claims more than it should.
+- Ask a cross-border tax adviser how each country will tax your estate, before you die rather than after.
 
 ### Case 22: The phone nobody could open
 
@@ -320,13 +329,14 @@ Part Six and Chapter 38 describe how to set this up without writing passwords on
 
 **Why this case grows more common every year.** A generation ago, a family clearing out a house found the important papers in a drawer: bank statements, insurance policies, photographs, letters. Today, for many people, the drawer is a phone. The documents still exist, but behind a passcode, inside encrypted storage, linked to accounts that require a code sent to the same phone. Each layer of security protects you while you are alive. Each one becomes a locked door for your family after your death, unless you leave a key with someone you trust.
 
+**The accounts that keep charging.** A locked phone has one more cost families rarely expect. Subscriptions keep running: software, cloud storage, streaming, domain names, membership fees. In Germany, contracts generally pass to the heirs along with everything else, so the heirs both inherit the subscriptions and are entitled to cancel them; in California, the executor deals with them as debts and contracts of the estate. Either way, someone has to find them first, usually by reading months of bank or card statements line by line. A one-page list of recurring charges in the Family List saves that afternoon, and some money.
+
 **What to do.**
 
-- Turn on legacy-contact or inactive-account settings in your main accounts today.
-- Use a password manager with emergency access, and name a trusted person.
-- Store device passcodes and recovery codes securely, where your executor can get them.
-- Add a digital-assets clause to your will, after advice.
-- Back up anything that matters to a place someone else can reach.
+- This week, turn on legacy-contact or inactive-account settings in your email, cloud storage, and main social accounts. In California, those settings outrank your will.
+- Set up emergency access in a password manager for one trusted person, and store your device passcodes and two-factor recovery codes there.
+- Add a clause to your will consenting to disclosure of your electronic communications to your executor.
+- Back up work files and photographs to a place your executor can reach without your phone.
 
 ### Case 23: The video will
 
@@ -362,12 +372,14 @@ Daniel and Luis, who had nodded at every word, discovered after their father's d
 
 **Why a video feels like a will.** It has everything a will seems to need: the person, the words, the date, witnesses who heard it. What it lacks is the one thing both legal systems insist on: a document whose integrity can be checked and which shows that the person meant this, finally, as their will, by signing or by writing it out. Videos can be edited, cut, and recorded in many takes. Paper with a signature and witnesses, or a whole page in one's own hand, is old technology, but it is the technology the law trusts.
 
+**The German emergency will, and its limits.** People in Germany sometimes believe that a dying person can make a will by telling three witnesses. There is such a form (BGB § 2250), but it is narrow: it applies when death is feared so imminent that a notary cannot be reached, the witnesses must record the declaration in writing, and the will lapses automatically if the person is still alive three months later (§ 2252). It is a lifeboat, not a ferry. A three-sentence handwritten will is simpler, safer, and does not expire.
+
 **What to do.**
 
-- If you are seriously ill and want to change your will, call a lawyer today; many will come to you.
-- If you cannot wait, write a short will entirely by hand and sign it.
-- Record a video too, if you want, as a message and as evidence, but never instead of a valid will.
-- If you have a stepchild you want to inherit, name them in a valid will. The law will not assume it.
+- If you are seriously ill and want to change your will, call a lawyer today and ask for a home or hospital visit.
+- If you cannot wait, write three sentences by hand, sign them, and date them. That can be a valid will in both California and Germany.
+- Record your video after the will is signed, without the main beneficiary in the room, and say in it that a written will exists.
+- If you want a stepchild to inherit, name them in that written will.
 
 ### Case 24: The seed phrase in the will
 
@@ -410,9 +422,11 @@ Chapter 24 describes the general pattern: secrets go in secure storage; document
 
 **The family conversation.** Priya was not a developer. When the lawyer asked whether she would know what to do with a hardware wallet if Oliver died, she laughed and said she did not know what one looked like. That was the most useful moment of the meeting. A plan for digital assets that only its author understands is not a plan. Oliver spent a Sunday afternoon showing her the device, the storage, and the instructions, and rewrote the instructions twice until she could follow them on her own. He described it as the most humbling code review of his career.
 
+**Digital assets are still assets.** In Germany, everything the deceased owned passes to the heirs as a whole at the moment of death (BGB § 1922), including cryptocurrency, and in California a digital asset is part of the estate the executor must collect and account for. The law treats the coins exactly like a bank balance. The only difference is practical: a bank can be ordered to pay; a wallet without its key cannot. That makes the access plan the most important estate document a crypto holder owns.
+
 **What to do.**
 
-- Never put passwords, PINs, or recovery phrases in a will, a trust, or any document that may be copied or filed.
-- Write instructions for digital assets separately, store them securely, and tell your executor where they are.
-- Test the instructions while you are alive.
-- Make sure the person who will inherit, or the trustee, can actually use what you leave them.
+- Search your will drafts and any notes kept with them for passwords, PINs, or recovery phrases, and remove them.
+- In the will, say who receives your digital assets. Keep how to reach them in a separate, sealed set of instructions.
+- Test the instructions with the person who will use them, by recovering a small amount together.
+- If a trustee may have to manage digital assets for a child, make sure the trust lets them hire expert help.

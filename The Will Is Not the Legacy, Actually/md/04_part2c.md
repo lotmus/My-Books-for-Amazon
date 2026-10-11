@@ -46,10 +46,10 @@ None of this replaces advice. It does make the difference between a document a c
 
 **What to do.**
 
-- In Germany: handwrite every word, or see a notary. Never type and sign.
-- In California: a typed will needs two witnesses, or use the statutory form with two witnesses.
-- If you are not married or registered, assume your partner receives nothing without a valid will, and ask about inheritance tax before you rely on the will alone.
-- Tell your partner where the original is, and consider official custody so it cannot be lost.
+- In Germany, never sign a typed will. Write every word by hand, or take the typed text to a notary.
+- If you are not married or in a registered partnership, ask a German adviser what your partner would pay in inheritance tax before you decide how to leave them your home.
+- Consider a right of residence for your partner as an alternative to ownership, and ask how each would be taxed.
+- Deposit the handwritten will in official custody so it is found (Case 14).
 
 ### Case 12: The California form will, half filled in
 
@@ -92,10 +92,10 @@ That is all. Ten minutes, two neighbours, one pen. It is the most underused free
 
 **What to do.**
 
-- Use the California statutory will form or a lawyer-drafted will, and sign it in front of two adult witnesses who are present together.
-- Choose witnesses who receive nothing under the will (Case 13).
-- If you want a stepchild, a partner's child, or a friend to inherit, name them explicitly in a valid will. Do not rely on the intestacy rules.
-- If you have only a handwritten or form will, ask a lawyer to look at it. A short consultation now is far cheaper than a court's interpretation later.
+- Download the California statutory will form and read its signing page before you fill in anything.
+- Book two disinterested adult witnesses before you start, and sign in front of both at the same time.
+- If you want a stepchild to inherit, name them in the will. The intestacy rules include stepchildren only in narrow cases.
+- If you already have a fill-in form will without witnesses, re-sign a proper will now rather than hoping a court will rescue the old one.
 
 ### Case 13: The witness who was also the heir
 
@@ -133,12 +133,14 @@ The more subtle prevention would have been a conversation. Frank could have told
 
 **Why it was the car, not the money.** Disputes over estates are rarely about the largest asset. They are about the object that carries a story: the car, the ring, the piano, the cabin. Maria did not need the car. She wanted the afternoons she remembered sitting in it with her father, and the will seemed to give those afternoons to her brother-in-law. A gift with a story needs the story told, in the will or beside it, and if possible to the person who will be disappointed, while the giver is alive to tell it kindly.
 
+**Why boring signings win.** Lawyers who litigate wills say the same thing in different words: the strongest evidence for a will is an uneventful signing. A testator who arrives on their own, talks about the weather, reads the will, asks one sensible question, and signs in front of two people who will never benefit and will never be surprised by the result leaves almost nothing to argue about. Every departure from that picture, a beneficiary in the room, a witness with a stake, a signing at the kitchen table after dinner, becomes a thread someone can pull. Frank's will survived because Kevin had good evidence. It would have survived without a lawsuit if the signing had been dull.
+
 **What to do.**
 
-- Choose witnesses who receive nothing under the will and are not married to anyone who does.
-- If a gift might surprise someone, tell them while you are alive, and write a short letter explaining why (Chapter 34).
-- For a gift to someone who helped you, describe the help in the will or the letter. "Because he helped me rebuild it" was a good line. A few more sentences would have been better.
-- Keep the will boring. Boring wills are the ones that survive.
+- Ask: does either witness, or a witness's spouse, receive anything? If so, find another witness.
+- For a gift to someone who helped you, say in the will what the help was.
+- Tell the person who will be disappointed about the gift while you are alive, and tell them why.
+- Sign at a lawyer's office with staff witnesses if you can. Their memory of an ordinary signing is the best evidence you can leave.
 
 ### Case 14: The original that nobody could find
 
@@ -158,7 +160,7 @@ Without proof, the statutory order applied. Elisabeth's two sons inherited equal
 
 Both sons were decent men. Both had mortgages. One wanted to sell the house and split the proceeds; the other wanted to let Lea stay. Lea, not wanting to be the cause of a quarrel, moved out within the year.
 
-**What would have prevented it.** The same handwritten will, deposited in official custody. German law requires the local court to accept a handwritten will into special official custody (*besondere amtliche Verwahrung*) if the testator asks (§ 2248). The will is then registered in the Central Register of Wills kept by the Federal Chamber of Notaries. When the death is registered, the register informs the court holding the will, which opens it and informs the people concerned. It cannot be lost in a flood, hidden by a disappointed relative, or thrown away with the old newspapers. The registration fee, according to the Chamber, is 12.50 or 15.50 euros depending on how it is billed; the court charges a fixed fee for the custody itself.
+**What would have prevented it.** The same handwritten will, deposited in official custody. German law requires the local court to accept a handwritten will into special official custody (*besondere amtliche Verwahrung*) if the testator asks (§ 2248). The will is then registered in the Central Register of Wills kept by the Federal Chamber of Notaries. When the death is registered, the register informs the court holding the will, which opens it and informs the people concerned. It cannot be lost in a flood, hidden by a disappointed relative, or thrown away with the old newspapers. The registration fee, according to the Chamber, is 12.50 or 15.50 euros depending on how it is billed; the court charges a one-off fee for the custody itself, 82 euros since June 2025 (GNotKG fee schedule, no. 12100). There is no annual charge.
 
 A notarial will would have been registered in the same way.
 
@@ -178,12 +180,14 @@ A notarial will would have been registered in the same way.
 - Who knows where it is?
 - Would it survive a flood, a fire, or a well-meaning relative clearing the house?
 
+**The receipt is part of the plan.** When a German court accepts a will into official custody, it gives the testator a deposit receipt (*Hinterlegungsschein*). Keep it with your Family List: it tells your family at once which court holds the will, and it is what you show if you ever want the will back. The court returns a will from custody only to the testator in person, and a joint will only to both spouses together, which is another safeguard against a helpful relative "tidying up."
+
 **What to do.**
 
-- In Germany: deposit your handwritten will in official custody at the local court, or make a notarial will. Keep the receipt with your Family List.
-- In California: keep the original somewhere safe that your executor knows about. Give your lawyer or executor a copy and tell them where the original is.
-- Never keep the only original in a cellar, an attic, or anywhere that floods, burns, or gets cleared out.
-- Tell the people who matter that a will exists and where it is. You do not have to tell them what it says.
+- In Germany, take your handwritten will to the local court for official custody, and keep the receipt in your binder.
+- In California, keep the original with your lawyer or in a fireproof place your executor knows about, and keep a copy marked "copy" in your binder.
+- Write the location of the original on the first page of your Family List.
+- Check the location every year when you review the list. Floods and house clearances do not announce themselves.
 
 ### Case 15: The no-contest clause that scared nobody
 
@@ -218,9 +222,11 @@ Undue influence is a different question. A person can have full capacity and sti
 
 **If it has already happened.** If you are the child left with a small gift and a no-contest clause, do not decide in anger. Get a lawyer's view on whether you have probable cause, and on what you would realistically recover after costs. If you are the main beneficiary of a will signed in doubtful circumstances, take a challenge seriously from the first letter, and consider early mediation. Will contests are often settled in the end; settling them early saves the most.
 
+**The German version of the capacity question.** German law sets its own test: a person cannot make a valid will if, because of a mental disorder or impairment of consciousness, they cannot understand the significance of what they are declaring and act on that understanding (BGB § 2229). German notaries must satisfy themselves of capacity and record their impression in the deed, which is one reason a notarial will made after an illness is harder to attack than a handwritten one. In both countries the evidence that matters most is evidence gathered on the day, by someone neutral.
+
 **What to do.**
 
-- Do not rely on a no-contest clause to prevent a challenge. Rely on good process.
-- If you change your will after an illness, ask your lawyer about documenting capacity, and meet the lawyer alone.
-- If you leave someone much less than they expect, give them enough to make a challenge costly, and explain your reasons in writing.
-- Make big changes while you are well. The best evidence of capacity is a will signed long before anyone could doubt it.
+- If you plan a large change to your will after an illness, ask your lawyer how to document your capacity, and meet the lawyer alone.
+- Do not arrange a will appointment for a parent from whom you will benefit. Let them arrange it, or ask someone neutral to.
+- If you leave someone much less than they expect, leave them enough that a no-contest clause would actually cost them something.
+- Explain an unequal plan in a calm letter written while you are well (Chapter 34).

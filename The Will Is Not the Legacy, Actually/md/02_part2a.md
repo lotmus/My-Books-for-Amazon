@@ -48,11 +48,10 @@ If you are the former spouse who has been named, you may be legally entitled to 
 
 **What to do.**
 
-- List every retirement account you have ever had, including the forgotten ones from old employers. Appendix D has a beneficiary audit for exactly this.
-- Ask each plan administrator for written confirmation of the beneficiary on file. Do not rely on memory.
-- After a divorce, change every form the same week. Do not rely on state law to do it for you; for many employer plans, it cannot.
-- After a marriage, a birth, or a death, check again.
-- Bring the printouts to your lawyer. The will never sees the 401(k). The form does.
+- Ask the administrator of every employer plan you have ever belonged to for a printout of the beneficiary on file. Appendix D has a beneficiary audit sheet.
+- The week a divorce is final, file new designations with each plan. For employer plans, the state's automatic revocation may not protect you.
+- If you remarry, ask each plan whether your new spouse now has rights that need their written consent to change.
+- Bring the printouts, not your memory, to the lawyer who drafts your will.
 
 ### Case 2: The life insurance that paid "my heirs"
 
@@ -76,6 +75,8 @@ Karin, in her first year of widowhood, found herself in correspondence with a co
 
 Second, a will. Many German couples with children use a joint will in which each spouse names the other as sole heir and the children as heirs after the second death, the so-called *Berliner Testament* (Chapter 11). That would have made Karin sole heir of everything else Thomas owned too. The children would still have had a compulsory share (*Pflichtteil*) they could claim, worth half of their statutory share, but children rarely claim against a parent in practice, and a well-drafted will can discourage it.
 
+**What the insurance law actually says.** The German Insurance Contract Act has a rule for exactly Thomas's wording. If a policy says the money goes to "the heirs," then, unless the contract says otherwise, the people who are heirs at the moment of death receive it in proportion to their shares of the inheritance (VVG § 160). It also has a useful twist: an heir who disclaims the inheritance, perhaps because the estate is in debt, keeps the insurance money anyway, because the policy treats "the heirs" only as a way of naming people. And a beneficiary named in the ordinary, revocable way acquires the right to the money only when the insured person dies (§ 159), which is why Thomas could have changed the name on the form at any time, by a simple letter to the insurer.
+
 **The plain-language version of the German rules.** Without a will, German law makes the family a team of co-owners of everything the deceased left, called a community of heirs (*Erbengemeinschaft*). Nobody owns a particular thing; everyone owns a share of everything, and important decisions need agreement. When some of the co-owners are children, a parent acts for them, but only within limits the family court supervises. That is not a punishment. It is the system's way of making sure that a widow who is struggling, or a widower who remarries, does not spend the children's inheritance on the household by accident. It is also, from the inside, exhausting.
 
 **What it cost.** Karin estimated later that the correspondence, the advice, and the delay cost her about three months of evenings and a modest fee. The real cost was something else. Every time she wanted to make a decision about the house in that first year, she had to ask whether it was hers to make. Thomas had wanted to protect her. One word on a form, "Karin" instead of "my heirs," would have done it.
@@ -90,10 +91,10 @@ Second, a will. Many German couples with children use a joint will in which each
 
 **What to do.**
 
-- Never write "my heirs" or "my estate" on a life insurance or pension form unless a lawyer has told you why that is what you want.
-- Name a person as primary beneficiary and at least one contingent.
-- If you have young children, think about what happens if both parents die. A contingent beneficiary that is a minor child brings the same management and court questions. A trust (in the United States) or a carefully drafted will with an executor (in Germany) may be better; ask.
-- Make a will even if you are young. Especially if you are young and have children.
+- Replace "my heirs" or "my estate" on every insurance and pension form with named people, unless an adviser has given you a reason to keep it.
+- In Germany, ask the insurer whether your nomination is revocable and whether the policy follows your will or overrides it.
+- If your children are minors, decide who should manage their money, and say so in a will.
+- Sit down with your partner and check both of your policies on the same evening. Couples usually make this mistake in pairs.
 
 ### Case 3: The account with the daughter's name on it
 
@@ -119,7 +120,7 @@ Ellen offered to share. Her husband, who had views about how many Tuesdays and F
 
 If Margaret had also wanted the accounts to skip probate at death, she could have added a payable-on-death designation naming all three children in equal shares. That would have matched her will.
 
-**The German version.** In Germany, joint accounts between spouses are common, and joint accounts with adult children exist too. Whether the money in a joint account belongs to the survivor after a death is a question of the bank contract and of what the account holders agreed between themselves, and it can be argued about in the same way. Separately, any amount that counts as a gift to the child may be added back when a disinherited sibling calculates a compulsory share (BGB § 2325). The safe tool for help with bills is the same: a power of attorney (*Vollmacht*), ideally on the bank's own form or a lasting power of attorney (Chapter 20), which gives authority without ownership.
+**The German version.** In Germany, the usual joint account is the *Oder-Konto*, on which each holder can act alone. It has no automatic survivorship in the American sense. When one holder dies, that holder's heirs step into the dead holder's position, and between the holders the balance is presumed to belong to them in equal shares (BGB § 430) unless a different arrangement can be shown. The surviving holder can usually still withdraw from the bank's point of view, which is convenient, but may then owe the heirs their half. If Margaret had lived in Bavaria, Ellen would probably have had to account to the estate for half of the balance, and the family argument would have been about whether Margaret meant it as a gift. Separately, any amount that counts as a gift to the child may be added back when a disinherited sibling calculates a compulsory share (BGB § 2325). The safe tool for help with bills is the same: a power of attorney (*Vollmacht*), ideally on the bank's own form or a lasting power of attorney (Chapter 20), which gives authority without ownership.
 
 **A conversation worth having.** The deeper failure here was silence. Margaret never told her sons what she had done, because she did not think she had done anything. Ellen never told her brothers, because she thought of herself as the one who paid the bills. A ten-minute family phone call, "I've given Ellen access to my accounts so she can help; the will still divides everything three ways," would have exposed the problem while Margaret could still fix it.
 
@@ -129,11 +130,10 @@ If you are the sibling on the account, remember that what you do now will define
 
 **What to do.**
 
-- Never add someone to an account "for convenience" without asking: does this make them an owner? Does it give them the account when I die?
-- For help with bills, use a power of attorney or a signer-only arrangement.
-- If you want accounts to pass outside probate, use payable-on-death designations that match your will.
-- If you have already added a child as joint owner, ask a lawyer whether to change it. The longer it stays, the more it looks like a gift.
-- Tell the other children what you have done and why. Surprise is the fuel of family disputes.
+- Before you add anyone to an account, ask the bank in writing: will this person become an owner, and will they take the balance when I die?
+- For help with bills, use a power of attorney (Chapter 20) or a signer-only arrangement, not joint ownership.
+- If a child is already a joint owner for convenience, write a dated note saying so and stating that the money is to be shared under your will, and ask a lawyer whether the account itself should change.
+- Keep a record of who paid in. In California, that is what decides who owns a joint account while everyone is alive.
 
 ### Case 4: The forgotten IRA and the beneficiary who died first
 
@@ -153,7 +153,7 @@ Helmut died in 2026.
 
 That sounds fine: the estate went to Lena. In practice it meant that an American financial institution had to be satisfied about who was entitled to act for the estate of a man who died in Germany. American custodians are used to American documents: letters of administration from a probate court, a small-estate affidavit, or a trust certificate. Lena had a German certificate of inheritance (*Erbschein*), issued by the probate court under BGB § 2353, which states who the heirs are and in what shares. It is an official document. It is also written in German, by a court the custodian's compliance department had never heard of.
 
-The months that followed involved certified translations, an apostille to authenticate the German court's document internationally, forms designed for American estates, and a great deal of waiting on hold to a call centre in a time zone nine hours behind. There were also tax consequences. American retirement accounts get favourable treatment when they pass to a named individual beneficiary. Paid to an estate, the money generally has to come out faster, which can mean more tax sooner. And the estate, as the owner of a payment from an American account, raised questions for both the American and German tax authorities that Lena needed an adviser to answer.
+The months that followed involved certified translations, an apostille to authenticate the German court's document internationally, forms designed for American estates, and a great deal of waiting on hold to a call centre in a time zone nine hours behind. There were also tax consequences. American retirement accounts get favourable treatment when they pass to a named individual beneficiary. Since 2020, most individuals who inherit an IRA as named beneficiaries must empty it by the end of the tenth year after the death, which lets them spread the income tax over up to ten years. When the beneficiary is the estate and the owner died before the age at which withdrawals had to begin, the account generally has to be emptied within five years instead (IRS Publication 590-B), which can mean more tax sooner. And the estate, as the owner of a payment from an American account, raised questions for both the American and German tax authorities that Lena needed an adviser to answer.
 
 It took most of a year. Lena eventually received the money. She estimated that the fees took about a fifth of it.
 
@@ -179,11 +179,10 @@ Third, a line on the Family List. If Lena had known the IRA existed, the custodi
 
 **What to do.**
 
-- Name a contingent beneficiary on every form. Every one.
-- When a beneficiary dies, update the form within weeks.
-- Keep foreign accounts on your Family List with the institution, the account type, the last four digits of the number, and a phone number that works from abroad.
-- If you live in one country and have accounts in another, ask an adviser whether it is simpler to consolidate. Fewer accounts in fewer countries make life easier for everyone, including you.
-- Update your email address with every institution. A statement that goes to a dead inbox is a reminder that never arrives.
+- After a beneficiary dies, update every form that names them within the month. Put a reminder in the Family List under that person's name.
+- For accounts abroad, record the institution, account type, last four digits, and an international phone number on the Family List.
+- Ask each foreign institution what papers it would want from heirs living in another country, and file the answer with the account details.
+- Change the email and postal address on every old account when you move. An unread statement is a warning that never arrives.
 
 ### Case 5: The twelve-year-old beneficiary
 
@@ -225,8 +224,7 @@ On the money, there were several better options.
 
 **What to do.**
 
-- If you have children under eighteen, nominate a guardian in writing, today, and ask the person first. Name a backup.
-- Do not name a minor child directly as beneficiary of life insurance or retirement accounts. Name a trust, a custodian, or an adult, after advice.
-- Choose an age at which the child should receive money outright, and make sure your documents actually say it.
-- Write a guardian brief (Appendix E) for the person you name: the child's routines, health, friends, and the things only you know.
-- Tell the child, if they are old enough, who would look after them. Children worry about this more than adults think.
+- Nominate a guardian for your children in writing, and a backup, after asking both.
+- Name a trust or a custodian, not the child, as beneficiary of insurance and retirement accounts, and choose the age at which the child gets control.
+- Write a guardian brief (Appendix E) and give it to the person you name.
+- If the other parent is absent or unsuitable, put the facts in a calm letter kept with the nomination.

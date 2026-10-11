@@ -40,10 +40,29 @@ def add_internal_link(p,text,anchor):
     r.append(rpr); t=OxmlElement('w:t'); t.text=text; t.set(qn('xml:space'),'preserve'); r.append(t); h.append(r); p._p.append(h)
 
 INL=re.compile(r'(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`)')
+LINK=re.compile(r'\[([^\]]+)\]\(#([^)]+)\)')
+LINKB=re.compile(r'(\*\*)?\[([^\]]+)\]\(#([^)]+)\)(\*\*)?')
+HEADMAP={}; USED_LINKS=[]
 def add_runs(p,text,italic=False,bold=False):
+    # internal links [label](#Heading text) -> hyperlink to that heading's bookmark
+    if LINK.search(text):
+        pos=0
+        for m in LINKB.finditer(text):
+            if m.start()>pos: add_runs(p,text[pos:m.start()],italic,bold)
+            target=m.group(3).strip()
+            if target not in HEADMAP: raise SystemExit('unresolved link target: '+target)
+            add_internal_link(p,m.group(2),HEADMAP[target]); USED_LINKS.append(HEADMAP[target])
+            rpr=p._p[-1].find(qn('w:r')).find(qn('w:rPr'))
+            u=OxmlElement('w:u'); u.set(qn('w:val'),'single'); rpr.append(u)
+            if bold or (m.group(1) and m.group(4)): rpr.append(OxmlElement('w:b'))
+            pos=m.end()
+        if pos<len(text): add_runs(p,text[pos:],italic,bold)
+        return
     for part in INL.split(text):
         if not part: continue
-        if part.startswith('**') and part.endswith('**'): r=p.add_run(part[2:-2]); r.bold=True; r.italic=italic
+        if part.startswith('**') and part.endswith('**'):
+            if LINK.search(part): add_runs(p,part[2:-2],italic,True); continue
+            r=p.add_run(part[2:-2]); r.bold=True; r.italic=italic
         elif part.startswith('*') and part.endswith('*') and len(part)>2: r=p.add_run(part[1:-1]); r.italic=not italic; r.bold=bold
         elif part.startswith('`'): r=p.add_run(part[1:-1]); r.font.name='Consolas'; r.font.size=Pt(9.5)
         else: r=p.add_run(part); r.italic=italic; r.bold=bold
@@ -118,6 +137,8 @@ for b in blocks:
     if b[0]=='h':
         n+=1; heads.append((b[1],b[2],f'_sec{n:04d}'))
 EXTRA=[(1,'About the Author','_secabout'),(1,'Also by Lothar J. Musiol','_secalso')]
+for lvl,text,anc in heads+EXTRA:
+    HEADMAP.setdefault(text,anc)
 
 # TOC
 tp=doc.add_paragraph(style='Heading 1'); tp.add_run('Contents')
@@ -134,8 +155,8 @@ hi=0; first_h1=True
 for b in blocks:
     if b[0]=='h':
         lvl,text,anc=heads[hi]; hi+=1
-        if lvl==1 or (lvl==2 and text.startswith(('Chapter','Appendix'))): page_break()
         p=doc.add_paragraph(style=f'Heading {lvl}'); add_runs(p,text); add_bookmark(p,anc)
+        if lvl==1 or (lvl==2 and text.startswith(('Chapter','Appendix'))): p.paragraph_format.page_break_before=True
     elif b[0]=='p':
         p=doc.add_paragraph(); t=b[1]
         if t.startswith('*') and t.endswith('*') and t.count('*')==2: add_runs(p,t[1:-1],italic=True)
@@ -194,6 +215,14 @@ fp=sec.footer.paragraphs[0]; fp.alignment=WD_ALIGN_PARAGRAPH.CENTER
 r=fp.add_run(); f1=OxmlElement('w:fldChar'); f1.set(qn('w:fldCharType'),'begin'); r._r.append(f1)
 it=OxmlElement('w:instrText'); it.text='PAGE'; r._r.append(it)
 f2=OxmlElement('w:fldChar'); f2.set(qn('w:fldCharType'),'end'); r._r.append(f2)
+# keep w:rPr children in schema order (Word is strict about it)
+ORDER=['rStyle','rFonts','b','bCs','i','iCs','caps','smallCaps','strike','dstrike','outline','shadow','emboss','imprint','noProof','snapToGrid','vanish','webHidden','color','spacing','w','kern','position','sz','szCs','highlight','u','effect','bdr','shd','fitText','vertAlign','rtl','cs','em','lang','eastAsianLayout','specVanish','oMath']
+for rpr in doc.element.body.iter(qn('w:rPr')):
+    kids=list(rpr)
+    if all(k.tag.startswith('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}') for k in kids):
+        kids.sort(key=lambda k: ORDER.index(k.tag.split('}')[1]) if k.tag.split('}')[1] in ORDER else 99)
+        for k in kids: rpr.remove(k)
+        for k in kids: rpr.append(k)
 doc.core_properties.title=TITLE; doc.core_properties.subject=SUB; doc.core_properties.author=AUTHOR
 out='/workspace/will/out/The_Will_Is_Not_the_Legacy_Actually_MASTER.docx'
-doc.save(out); print(out, len(heads), 'headings')
+doc.save(out); print(out, len(heads), 'headings;', len(USED_LINKS), 'in-text links resolved')
