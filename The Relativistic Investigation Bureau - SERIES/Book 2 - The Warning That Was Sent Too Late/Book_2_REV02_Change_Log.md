@@ -91,3 +91,16 @@ Story words: 48,807 → 48,516.
   - **Repeat descriptions:** Sherlock's mackerel accounting (already given a sentence earlier), the board's city list (it comes again later in the chapter), Tabitha's "where London is" (already said), the doubled school-phone logistics, and several padded clauses.
   - **Size:** the docx is now 52,629 words and 123 Letter pages. All 52 internal links resolve.
 - **`SERIES_SEAM.md`** (series notes) now names REV02 as Book 2's master and records that DRAFT, REV01 and the old `manuscript_text.txt` export were retired. The worktree copy was identical to `origin/main`, so there were no uncommitted changes from another agent.
+
+## 10 Oct 2026, strict rescore: 8.4 before the day's fixes, 8.7 after
+
+Sampled reread (front matter, Prologue, Chapters 1 and 12, the course and back matter). Prose 8.8, plot 8.4, characters 8.8, humour 8.6, pacing 8.3, facts 9.2, formatting/KDP 9.0. Cover not scored: none yet, by decision.
+
+- Typography: every straight quote is now curly (1,312 paragraphs, 2,856 double and 1,219 single marks), matching Book 1; three nested single quotes checked by eye. The "->" lesson arrows and " - " in the Contents stay, as in Book 1.
+- Link rule: the seven Bibliography books and the three Further Reading books now carry their titles as keyword links to Open Library (each checked to resolve); the two papers already had DOI links. No visible URLs.
+- The Also-by page already leaves this book out; KDP.md no longer says otherwise.
+- `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.md` regenerated from the docx (`scripts/docx_to_md.py`); it had fallen behind by the lesson lines in the Contents and the review line. The docx stays the master.
+- Script: `scripts/rescore_2026-10-10.py`. Old docx and md in `bak/2026-10-10 pre-rescore/`.
+
+Still open: covers (none yet, by decision; Lothar decides), release date and price.
+
