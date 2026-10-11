@@ -85,3 +85,29 @@ Gravitation, Actually: ISS cabin photo, Bullet Cluster and M87 photos, which tea
 ## Caveat for script-built books
 
 The Universe Has No Now (export/build_docx.py), and possibly Life, Math, Quantum 2 and Science Sparks, are built from scripts. A rebuild re-embeds the full-size source images unless the build also downsizes them.
+
+## Update, 10 Oct 2026 evening: photos at 440 px, no drawings, no splits
+
+Lothar's later decisions replace the drawing and split proposals above.
+
+- Photos inside the books are 440 px wide, JPEG quality 80, with a mild colour boost (saturation x1.10, contrast x1.04). Never upscaled.
+- Photo-like images that carry labels or text (large flat background) are 800 px wide so the text stays legible. The Physics chapter openers are kept as the original photos at 800 px.
+- The embedded front cover (first picture of the book) stays at up to 1000x1600. Line art is a 256-colour PNG, up to 1600 px.
+- Decorative photos are kept as photos, not drawings: Life, Actually (10), The Universe Has No Now (6), Physics Vols 1-2 (30 openers). Only the broken one was fixed: the garbled caption painted into the Vol 1 "What Is Time Anyway?" opener now reads "...But in physics, past, present, and future all exist in a four-dimensional stage called spacetime."
+- No splits. The Universe Has No Now is 2.51 MB as one book. Quantum, Actually Vol 2 is 3.40 MB, almost all of it text, and stays one book by decision. The split files, cover variants and drawings are in each book's bak\ ("split withdrawn 2026-10-10", "drawings withdrawn 2026-10-10").
+- Rebuilds: `tools/kindle_postbuild.py` applies these rules. It runs from Life `scripts/build_book.py`, Science Sparks `scripts/build_almanac.py` (not for --print), Quantum Vol 2 `scripts/_finish_book.py` and The Universe Has No Now `export/assemble_export.py`, each with a `kindle_postbuild.json` in the book folder. Math, Actually has no docx build script (`ma_text.py` is text only), so nothing to hook there.
+
+| Book | Kindle MB now |
+|---|---|
+| Physics, Actually Vol 1 | 2.80 |
+| Physics, Actually Vol 2 | 1.99 |
+| Life, Actually | 1.74 |
+| The Universe Has No Now | 2.51 |
+| Quantum, Actually Vol 1 | 2.22 |
+| Quantum, Actually Vol 2 | 3.40 |
+| Math, Actually Vols 1-4 | 2.06 / 2.76 / 2.56 / 2.98 |
+| A Trip Is Not a New Life | 1.93 |
+| Schrodinger's Paperwork | 2.50 |
+| The Murder That Hadn't Happened Yet | 0.39 |
+| Gravitation, Actually | 0.90 |
+| Science Sparks | 0.97 |
