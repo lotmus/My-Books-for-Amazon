@@ -1,4 +1,5 @@
 {
- "source": "export/The_Universe_Has_No_Now.docx",
- "note": "Kindle post-build, 10 Oct 2026: photos 440 px wide (q80, mild colour boost), photo-like figures with labels 800 px, line art 256-colour PNG. Est. about 2.4 MB, so the book stays one volume (a split was tried and withdrawn)."
+  "source": "export/The_Universe_Has_No_Now.docx",
+  "note": "Kindle post-build, 10 Oct 2026: photos 440 px wide (q80, mild colour boost), photo-like figures with labels 800 px, line art 256-colour PNG. Est. about 2.4 MB, so the book stays one volume (a split was tried and withdrawn).",
+  "tables": true
 }
