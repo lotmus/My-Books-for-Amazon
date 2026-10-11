@@ -586,3 +586,37 @@ back cover match the volumes as last counted (1,573, section 12).
   top-floor balcony, and on the back cover a tower with floor lines). No Tower,
   floor or building wording is on any cover; whether the picture itself should
   change is an art decision, and it would mean new illustrations.
+
+## 16. 10 Oct 2026: strict rescore of all four volumes, back covers, link rule
+
+One session (Grok Bot, release-order pass), with git. Scores from a careful sampled reread
+(front matter, one chapter opening per volume, several worked examples and tables
+re-computed, the back matter), not a full read: V1 8.6 -> 9.1, V2 8.5 -> 9.0, V3 8.7 -> 9.1,
+V4 8.8 -> 9.1. Old masters in `bak\2026-10-10 pre-rescore\`. Script:
+`scripts\ma_rescore_2026-10-10.py VOL IN OUT` (only `word/document.xml` and its rels change).
+
+- Contents: the Word page numbers (PAGEREF fields and dot leaders) are gone; Kindle has no
+  pages and the stale numbers read as wrong. Every entry is still a link.
+- A Note Before You Go now comes before About the Author and carries the review request
+  (house rule: review line before the bio); its Contents entry moved with it.
+- Further Reading: all 24 titles link to their Open Library records (no visible URLs),
+  each record checked.
+- Chapter names in plain English: Logarithms & Powers (was Potencies), Differential
+  Calculus, Integral Calculus (were Differential, Integral), in headings, Contents and
+  cross-references (V1, V4).
+- Title page "Volume N - X" -> "Volume N: X", as on the covers and in KDP.
+- V1 Preface no longer says the author spent a career teaching undergraduates (he did not;
+  the tenure jokes elsewhere are humour and stay). V2: colourings, coloured, colours,
+  neighbouring -> American; six spaced hyphens used as dashes -> em dashes.
+- Empty hyperlinks unwrapped (V1 8, V2 31, V3 9), trailing spaces.
+- Covers: the 2 Oct Math, Actually fronts for V1-V3 had been moved out of the repo on
+  3d8224c; they are back in the folder from git history (same files). New text-only back
+  covers for all four volumes (`Back Cover  Volume N.jpg`, 1600 x 2560) by
+  `scripts\make_ma_back_covers.py`, in the fronts' navy and gold.
+- `KDP_Description.md` is back in the folder (it went out with 3d8224c), with the counts
+  recounted from the masters (V2 435 examples, V3 105 sections, V4 118 sections and 359
+  examples; 1,585 in all, as the volumes say) and 7 keywords and 3 categories per volume
+  (no title words; "math" replaced by "mathematics").
+- Exercises: none cut or changed.
+- Still open: the cover pictures still draw a building (Lothar's art call, section 15);
+  "Section N.M" cross-volume references stay plain text by design.
