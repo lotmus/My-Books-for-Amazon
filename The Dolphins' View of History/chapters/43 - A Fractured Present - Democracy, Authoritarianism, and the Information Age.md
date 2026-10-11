@@ -2,7 +2,7 @@
 
 The Soviet Union's 1991 dissolution produced a mood, widely shared among Western observers at the time, that history's central argument over how societies should be governed had been settled in democracy's favor, more or less for good. The following three decades did not confirm that mood.
 
-A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 2020s: independent courts and press curtailed, elections held but their fairness eroded. Power was concentrated in ways that stopped well short of the outright dictatorships examined earlier in this book but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters.
+A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 2020s: independent courts and press curtailed, elections held but their fairness eroded. Power was concentrated in ways that stopped well short of the outright dictatorships examined earlier but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters.
 
 Freedom House, the organization most often cited for these annual surveys, recorded a net decline in global political rights and civil liberties every single year from 2006 onward. The streak, unbroken for close to two decades at the time of writing, is long enough that an entire generation of political scientists has spent its career studying backsliding instead of the steady consolidation the 1990s mood assumed would be the field's real subject.
 
@@ -26,4 +26,4 @@ The ratchet, meanwhile, has not paused. The same decades produced machine learni
 
 **Dolphin verdict:**
 
-*Nearly every earlier chapter in this book describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This one closes without any, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*
+*Nearly every earlier chapter describing a struggle over how power should be organized reached some kind of resolution in the end, however costly or incomplete. This one closes without any, because the argument it describes is still being had, in real time, in the same news cycles the argument itself runs on. History has not finished grading this chapter's outcome, and neither, honestly, have the dolphins.*

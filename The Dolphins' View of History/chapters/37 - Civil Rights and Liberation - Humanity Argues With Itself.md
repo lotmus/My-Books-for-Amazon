@@ -1,6 +1,6 @@
 ## 1893 to 1994: Civil Rights and Liberation — Humanity Argues With Itself
 
-Unlike most of the conflicts in this book, the campaigns in this chapter were mostly won without an army.
+Unlike most of the conflicts covered so far, the campaigns in this chapter were mostly won without an army.
 
 In the United States, the Supreme Court's 1954 Brown v. Board of Education ruling declared racially segregated public schools unconstitutional, overturning the legal doctrine that had upheld segregation for nearly six decades. The following decade of organized protest, the 1955-56 Montgomery bus boycott (begun after Rosa Parks refused to give up her bus seat, nine months after a fifteen-year-old, Claudette Colvin, had done the same and been arrested), sit-ins, freedom rides, the 1963 March on Washington where Martin Luther King Jr. delivered his “I Have a Dream” speech, and the 1965 march at Selma, where state troopers beat marchers on the Edmund Pettus Bridge in front of television cameras, culminated in the Civil Rights Act of 1964 and the Voting Rights Act of 1965, dismantling the legal architecture of segregation and disenfranchisement, if not the underlying attitudes, at the federal level.
 
@@ -14,8 +14,8 @@ The women's suffrage story had its own casualty list and its own comedy. In Brit
 
 A parallel argument about who counted as fully included ran through the same decades. In the early hours of June 28, 1969, patrons at the Stonewall Inn, a gay bar in New York's Greenwich Village, fought back during a police raid of a kind the bar had endured many times before without resistance. The several nights of protest that followed are generally regarded as a turning point for the gay rights movement, and the following June, the first Pride marches in New York and other American cities marked the anniversary. Decriminalization, anti-discrimination protections, and marriage rights arrived on wildly different timelines in different countries over the half-century that followed, several of them still incomplete as this book is written.
 
-*“Unlike wars, these campaigns won, for the most part, by changing what a majority believed was owed to a minority,” Professor Click-Click-Whoosh observed, “not by defeating anyone in the field. It is the slowest weapon in this book. It is also one of the few that does not require winning to keep working — only enough people changing their minds, one at a time, for long enough.”*
+*“Unlike wars, these campaigns won, for the most part, by changing what a majority believed was owed to a minority,” Professor Click-Click-Whoosh observed, “not by defeating anyone in the field. It is the slowest weapon the dolphins have cataloged. It is also one of the few that does not require winning to keep working — only enough people changing their minds, one at a time, for long enough.”*
 
 **Dolphin verdict:**
 
-*This chapter's campaigns did not end prejudice; no law in this book has ever managed that. What they did was rarer: they changed, on the legal record and in a large share of a population's actual convictions, what a state and a society owed to people it had previously excluded. Progress here was slow, incomplete, and unevenly distributed by country — and it happened anyway, which is more than several other chapters in this book can say.*
+*This chapter's campaigns did not end prejudice; no law has ever managed that. What they did was rarer: they changed, on the legal record and in a large share of a population's actual convictions, what a state and a society owed to people it had previously excluded. Progress here was slow, incomplete, and unevenly distributed by country — and it happened anyway, which is more than several earlier chapters can say.*

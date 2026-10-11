@@ -75,7 +75,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ## Kindle and layout
 
-- Fully Kindle-compatible. **No Word tables.** Prefer headed lists or a diagram; as a last resort, a picture of the table with the table's text repeated as the description.
+- **Headings** (Lothar, 2026-10-11, applies to every book): bold, 16pt, dark-to-medium blue, centered, in a font that is Kindle-compatible and survives an EPUB import (Amazon Ember where already in use; otherwise a standard embedded font Word/KDP ships natively — Georgia, Bookerly, Caecilia, or similar; never a system font that gets substituted silently). Each chapter (and any other top-level heading: Prologue, Epilogue, appendices, Notes and Sources, Further Reading, Also-by) starts at the top of a fresh page — insert a page break before the heading, not just extra blank lines. Page setup should match a Kindle device's effective screen shape (portrait, no fixed print trim size) rather than a US Letter or A4 layout. This is a standing formatting rule for all 30+ books, not a one-off for any single title; apply it the next time a book's layout is touched rather than as its own dedicated pass across the whole catalog at once.
 - Images inline only. No text boxes, no floating images.
 - Photos about **440 px** wide, JPEG, with a gentle warm colour boost so dishes and subjects look inviting. Crop to the subject. Replace dull, blurry, or unappetising photos.
 - Diagrams with small labels about **800 px**.

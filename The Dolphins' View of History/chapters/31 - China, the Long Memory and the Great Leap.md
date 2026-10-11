@@ -2,7 +2,7 @@
 
 This chapter returns to a civilization logged several chapters ago as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in.
 
-The 19th century interrupted that tide more severely than any dynasty's collapse had. Defeat in the Opium Wars, unequal treaties forced on China by European powers, and foreign concessions carved out of Chinese port cities opened what Chinese historians call the Century of Humiliation — a period that shaped the political movements of the century that followed as directly as any single event in this book shapes the chapter after it.
+The 19th century interrupted that tide more severely than any dynasty's collapse had. Defeat in the Opium Wars, unequal treaties forced on China by European powers, and foreign concessions carved out of Chinese port cities opened what Chinese historians call the Century of Humiliation — a period that shaped the political movements of the century that followed as directly as any single event shapes the chapter after it.
 
 Decades of civil war and Japanese occupation, covered in this part of the book's earlier chapter on Japan, ended in 1949 with the Communist Party's victory under Mao Zedong, arriving with genuine popular exhaustion and hope behind it after so much foreign and internal violence.
 
@@ -32,4 +32,4 @@ Dolphin scholarship registers one further complaint alongside the economic ledge
 
 **Dolphin verdict:**
 
-*China supplies this part of the book's only case where the course correction was economic but not political. Hundreds of millions of people rose out of poverty within living memory, an achievement with few rivals anywhere in this book, produced by a state that has still not fully answered for the famine or the Cultural Revolution it also produced. Capability and wisdom, once again, on separate schedules — and, as this chapter closes, not yet fully reconciled.*
+*China supplies this part of the book's only case where the course correction was economic but not political. Hundreds of millions of people rose out of poverty within living memory, an achievement with few rivals in this history, produced by a state that has still not fully answered for the famine or the Cultural Revolution it also produced. Capability and wisdom, once again, on separate schedules — and, as this chapter closes, not yet fully reconciled.*

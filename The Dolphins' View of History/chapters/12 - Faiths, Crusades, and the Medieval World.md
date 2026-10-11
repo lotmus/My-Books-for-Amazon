@@ -1,6 +1,6 @@
 ## The 5th Century BCE to 1291 CE: Faiths, Crusades, and the Medieval World
 
-Of everything covered in this book so far, nothing moved as much material as quickly, or grew as tightly bound to power, as belief did once it went looking for followers who owed it nothing in the way of birth or citizenship.
+Of everything covered so far, nothing moved as much material as quickly, or grew as tightly bound to power, as belief did once it went looking for followers who owed it nothing in the way of birth or citizenship.
 
 Dolphin scholarship, which has always been content to enjoy the ocean and find fish, regards the human urge to develop extensive theories about the meaning of existence as this species' most distinctive hobby, and on the whole respects it.
 
