@@ -2,9 +2,52 @@ const fs = require("fs");
 // Lives in scripts/; build from the book root so "chapters/" and the manuscript land where they always did.
 process.chdir(require("path").join(__dirname, ".."));
 const {
-  Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType,
-  TableOfContents, PageBreak,
+  Document, Packer, Paragraph, TextRun: DocxTextRun, HeadingLevel, AlignmentType,
+  PageBreak, ExternalHyperlink, InternalHyperlink, Bookmark,
 } = require("docx");
+
+// Typography for every run (2026-10-10): curly apostrophes and single quotes, en dashes in number ranges
+// (1914-1918 -> 1914–1918; identifiers such as SP-2000-4408 are left alone). The text below is typed with
+// straight apostrophes for convenience; this class is the one place they are converted, so keep typing them.
+function typo(s) {
+  if (typeof s !== "string") return s;
+  s = s.replace(/(?<![\w-])(\d{2,4})-(\d{2,4})(?![\w-])/g, "$1\u2013$2");
+  if (s.indexOf("'") < 0) return s;
+  return s
+    .replace(/'(?=\d0s\b)/g, "\u2019")
+    .replace(/(\w)'(?=\w)/g, "$1\u2019")
+    .replace(/(^|[\s(\u201C\u2014\[])'/g, "$1\u2018")
+    .replace(/'/g, "\u2019");
+}
+class TextRun extends DocxTextRun {
+  constructor(o) {
+    if (typeof o === "string") o = typo(o);
+    else if (o && typeof o.text === "string") o = { ...o, text: typo(o.text) };
+    super(o);
+  }
+}
+
+// Kindle needs a static, linked contents list (a Word TOC field stays empty until Word updates it),
+// so every heading() gets a bookmark and the contents page is built from them in reading order.
+const HEADING_BOOKMARKS = new Map();
+let headingCount = 0;
+const LINK_STYLE = { color: "0563C1", underline: {} };
+function linkRun(text, extra) { return new TextRun({ text, ...LINK_STYLE, ...(extra || {}) }); }
+
+// Verified source links (Crossref DOI or Open Library record, or the publisher's page), keyed by the
+// citation text. The title is the link text; no URL is printed. Missing key = no link (never invent one).
+const SOURCE_LINKS = require("./source_links.json");
+function linked(text, extra) {
+  const L = SOURCE_LINKS[text];
+  if (!L) return [new TextRun({ text, ...(extra || {}) })];
+  const i = text.indexOf(L.phrase);
+  if (i < 0) throw new Error("source link phrase not found: " + L.phrase);
+  const out = [];
+  if (i > 0) out.push(new TextRun({ text: text.slice(0, i), ...(extra || {}) }));
+  out.push(new ExternalHyperlink({ link: L.url, children: [linkRun(L.phrase, extra)] }));
+  if (i + L.phrase.length < text.length) out.push(new TextRun({ text: text.slice(i + L.phrase.length), ...(extra || {}) }));
+  return out;
+}
 
 const PAGE = { size: { width: 12240, height: 15840 } }; // US Letter
 
@@ -13,16 +56,19 @@ const HEADLINE_SIZE = 36; // half-points => 18pt
 const HEADLINE_COLOR = "0000FF";
 
 function heading(text) {
-  return new Paragraph({
+  const id = "_Chapter" + String(++headingCount).padStart(3, "0");
+  const p = new Paragraph({
     heading: HeadingLevel.HEADING_1,
     outlineLevel: 0,
     alignment: AlignmentType.CENTER,
     spacing: { after: 300 },
-    children: [new TextRun({
+    children: [new Bookmark({ id, children: [new TextRun({
       text, bold: true,
       font: HEADLINE_FONT, size: HEADLINE_SIZE, color: HEADLINE_COLOR,
-    })],
+    })] })],
   });
+  HEADING_BOOKMARKS.set(p, { id, text });
+  return p;
 }
 
 function body(text) {
@@ -89,6 +135,18 @@ function minutes(label, text) {
   ];
 }
 
+// One Further Reading entry: the label is bold, with its book title linked when verified.
+function reading(label, comment) {
+  return new Paragraph({
+    spacing: { after: 200 },
+    children: [
+      ...linked(label, { bold: true }),
+      new TextRun({ text: ". ", bold: true }),
+      new TextRun({ text: comment }),
+    ],
+  });
+}
+
 // One endnote: what it supports (italic), then the source. Hanging indent.
 function note(supports, citation) {
   return new Paragraph({
@@ -96,7 +154,7 @@ function note(supports, citation) {
     indent: { left: 360, hanging: 360 },
     children: [
       new TextRun({ text: supports + ". ", italics: true }),
-      new TextRun({ text: citation }),
+      ...linked(citation),
     ],
   });
 }
@@ -718,7 +776,7 @@ const chapter23 = [
 const chapter24 = [
   heading("1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age"),
   body("The Soviet Union's 1991 dissolution produced a mood, widely shared among Western observers at the time, that history's central argument over how societies should be governed had been settled in democracy's favor, more or less for good. The following three decades did not confirm that mood."),
-  body("A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 20s: independent courts and press curtailed, elections held but their fairness eroded, and power concentrated in ways that stopped well short of the outright dictatorships examined earlier in this book but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters."),
+  body("A number of countries that had appeared to be consolidating democratic institutions in the 1990s and 2000s instead saw those institutions weakened from within during the 2010s and 2020s: independent courts and press curtailed, elections held but their fairness eroded, and power concentrated in ways that stopped well short of the outright dictatorships examined earlier in this book but moved unmistakably in that direction. Political scientists gave this pattern a name, democratic backsliding, distinct from the sudden coups that had ended democracies in earlier chapters."),
   body("Freedom House, the organization most often cited for these annual surveys, recorded a net decline in global political rights and civil liberties every single year from 2006 onward, a streak unbroken for close to two decades at the time of writing — long enough that an entire generation of political scientists has spent its career studying backsliding instead of the steady consolidation the 1990s mood assumed would be the field's real subject."),
   body("Hungary supplied the clearest self-description of the trend. Viktor Orbán, in power since 2010, announced in a 2014 speech that he intended to build an “illiberal state” within the European Union, a label most of the leaders this chapter describes have preferred not to apply to themselves."),
   italic("Saying the strategy's name out loud in advance did not appear to blunt its effectiveness in the slightest, which dolphin scholarship considers the most unsettling detail in this chapter."),
@@ -747,7 +805,7 @@ const chapter25 = [
   body("What dolphin scholarship can say, having watched the entire record rather than any single chapter of it, is this: capability has compounded in this species faster than in any other lineage this book, or the fossil record behind it, has ever recorded. Wisdom has arrived unevenly, late, and often only after the capability it was meant to guide had already been used once, badly, first."),
   body("The reason is the one this book proposed at the start. Capability has a ratchet. Every tool, every technique, every written instruction is kept and built upon, so each generation starts where the last one stopped. Wisdom has no ratchet. It cannot be written down in a form that works on the next reader the way a formula does; each generation has to acquire it again, mostly the hard way."),
   body("It has, to be fair, sometimes arrived on time, and dolphin historians keep a short list: a Christmas truce organized by soldiers who then had to be ordered to stop, a naval officer in a submarine who declined to vote for war, a watch officer who distrusted his own machine. Every entry on it is one person or a few, acting against expectation and occasionally against orders. It has never yet arrived in bulk."),
-  body("Reviewing this chapter against the rest of the book turned up an uncomfortable fact: several of the timelines that actually ran underneath everything else in it, counted the whole time, changing the whole time, never got a mention of their own. The plainest is the simplest number in the whole record: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion, a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. This book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history."),
+  body("Several timelines ran underneath everything else in this book, changing the whole time, without ever getting a chapter of their own. The plainest is the simplest number in the whole record: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion, a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. This book's own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history."),
   italic("“A species can spend six thousand years building empires on a planet with under a billion of itself on it,” dolphin historians observed, “and then spend the next two hundred years adding seven billion more. We would not call this planning. We would call it momentum.”"),
   body("The second overlooked timeline is who, exactly, got to take part in the story this book has been telling. For most of the book's chapters, “citizen,” “voter,” and “person with legal standing” quietly meant men. New Zealand gave women the vote first among self-governing nations, in 1893. The United States managed it in 1920, after decades of suffragist organizing this book's civil rights chapter only partly covers. Most of the rest of the world followed across the twentieth century, at its own pace, and the line has not finished running yet. A third timeline, easy to lose inside chapters about wars and empires, is the slow construction of a single idea: that some rules should apply to every human regardless of which empire they were born under. The Universal Declaration of Human Rights, adopted by the newly formed United Nations in 1948, in the wreckage of the war this book covers at length, was the first attempt at a document meant to bind everyone rather than one nation's own citizens. It has no army and no court that can force compliance, a fact dolphin historians find endearingly naive and also, on the evidence of the eight decades since, not nothing: nations that ignore it still feel obliged to explain why."),
   italic("“Every chapter in this book about a great civilization,” the Society recorded, “was, for most of its length, a chapter about roughly half of that civilization deciding things for the other half. We mention this now because a book that never mentioned it would be telling a shorter story than the one that actually happened.”"),
@@ -1350,7 +1408,9 @@ const physicsAppendix = [
 // ---------------------------------------------------------------------
 // Appendix: Notes and Sources (every entry checked against Crossref, Open Library, or the publisher, 2026-10-03; keep in sync with chapters/Notes and Sources.md)
 // ---------------------------------------------------------------------
-const notes = [
+// A function, not a constant: docx registers a link's relationship only in the first document an
+// ExternalHyperlink object is saved into, so the manuscript needs fresh copies of the linked paragraphs.
+const makeNotes = () => [
   heading("Notes and Sources"),
   body("This book makes a great many factual claims in a light voice. The voice is the dolphins'; the facts are meant to be checkable. The notes below list, chapter by chapter, the sources behind the dates, the numbers, and the arguments that are still open, so that any reader can follow a claim back to the scholarship it rests on."),
   body("Each entry names what it supports, in italics, and then the source. Where historians disagree, both sides are listed. Where a figure is an estimate, the note points to the work that made it, and the text gives a range rather than a single number. Classical and medieval texts are cited by their standard book and section numbers, so any translation will do. Web addresses were checked in October 2026."),
@@ -1478,7 +1538,7 @@ const notes = [
   note("The high estimate of 1966", "Dobyns, Henry F. “Estimating Aboriginal American Population: An Appraisal of Techniques with a New Hemispheric Estimate.” Current Anthropology 7 (1966): 395–416."),
   subhead("The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age"),
   note("Numbers embarked and died in the Atlantic slave trade", "Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010."),
-  note("The voyages database behind those numbers", "SlaveVoyages: Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org (consulted 2026)."),
+  note("The voyages database behind those numbers", "SlaveVoyages: Trans-Atlantic Slave Trade Database (consulted 2026)."),
   note("Equiano’s account of the crossing", "Equiano, Olaudah. The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African. London, 1789. Project Gutenberg ebook 15399."),
   note("The dispute over Equiano’s birthplace", "Carretta, Vincent. Equiano, the African: Biography of a Self-Made Man. Athens: University of Georgia Press, 2005."),
   note("Kossola (Cudjo Lewis) and the Clotilda", "Hurston, Zora Neale. Barracoon: The Story of the Last “Black Cargo.” Edited by Deborah G. Plant. New York: Amistad, 2018."),
@@ -1521,7 +1581,7 @@ const notes = [
   note("Guatemala, 1954", "Schlesinger, Stephen, and Stephen Kinzer. Bitter Fruit: The Untold Story of the American Coup in Guatemala. Garden City, NY: Doubleday, 1982."),
   note("The boto in Amazonian folklore", "Slater, Candace. Dance of the Dolphin: Transformation and Disenchantment in the Amazonian Imagination. Chicago: University of Chicago Press, 1994."),
   note("The vaquita’s decline and its cause", "Taylor, Barbara L., et al. “Extinction Is Imminent for Mexico’s Endemic Porpoise unless Fishery Bycatch Is Eliminated.” Conservation Letters 10 (2017): 588–95."),
-  note("The vaquita’s numbers now", "NOAA Fisheries. “Vaquita.” https://www.fisheries.noaa.gov/species/vaquita (consulted 2026)."),
+  note("The vaquita’s numbers now", "NOAA Fisheries. “Vaquita.” (consulted 2026)."),
   note("Brazil’s military regime, 1964–1985", "Skidmore, Thomas E. The Politics of Military Rule in Brazil, 1964–1985. New York: Oxford University Press, 1988."),
   note("Argentina: the disappeared and the commission’s count", "Comisión Nacional sobre la Desaparición de Personas. Nunca más: Informe de la CONADEP. Buenos Aires: EUDEBA, 1984."),
   note("Argentina: the trial of the commanders in 1985", "Nino, Carlos Santiago. Radical Evil on Trial. New Haven: Yale University Press, 1996."),
@@ -1531,7 +1591,7 @@ const notes = [
   note("Cuba and the embargo", "LeoGrande, William M., and Peter Kornbluh. Back Channel to Cuba: The Hidden History of Negotiations between Washington and Havana. Chapel Hill: University of North Carolina Press, 2014."),
   note("Tlatelolco, 1968", "Poniatowska, Elena. Massacre in Mexico. Translated by Helen R. Lane. New York: Viking, 1975."),
   note("The Iguala case", "Hernández, Anabel. A Massacre in Mexico: The True Story behind the Missing 43 Students. London: Verso, 2018."),
-  note("Mexico’s register of the missing", "Secretaría de Gobernación (Mexico). “Registro Nacional de Personas Desaparecidas y No Localizadas.” https://versionpublicarnpdno.segob.gob.mx/Dashboard/Index (consulted 2026)."),
+  note("Mexico’s register of the missing", "Secretaría de Gobernación (Mexico). “Registro Nacional de Personas Desaparecidas y No Localizadas.” (consulted 2026)."),
   subhead("1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left"),
   note("The empire as a whole, and the Janissary levy", "Finkel, Caroline. Osman’s Dream: The Story of the Ottoman Empire, 1300–1923. New York: Basic Books, 2005."),
   note("The fall of Constantinople", "Crowley, Roger. 1453: The Holy War for Constantinople and the Clash of Islam and the West. New York: Hyperion, 2005."),
@@ -1605,7 +1665,7 @@ const notes = [
   note("The bomb", "Rhodes, Richard. The Making of the Atomic Bomb. New York: Simon & Schuster, 1986."),
   note("The people of Bikini", "Niedenthal, Jack. For the Good of Mankind: A History of the People of Bikini and Their Islands. 2nd ed. Majuro: Bravo Publishers, 2001."),
   subhead("1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy"),
-  note("Artemis II record distance and splashdown", "NASA. “NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth.” News release, April 10, 2026 (updated May 7, 2026). https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/"),
+  note("Artemis II record distance and splashdown", "NASA. “NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth.” News release, April 10, 2026 (updated May 7, 2026)."),
   note("Apollo", "Chaikin, Andrew. A Man on the Moon. New York: Viking, 1994."),
   note("The Soviet program", "Siddiqi, Asif A. Challenge to Apollo: The Soviet Union and the Space Race, 1945–1974. Washington, DC: NASA History Division, 2000 (NASA SP-2000-4408)."),
   note("Water in the LCROSS plume", "Colaprete, Anthony, et al. “Detection of Water in the LCROSS Ejecta Plume.” Science 330 (2010): 463–68."),
@@ -1664,7 +1724,7 @@ const notes = [
   note("Greenland’s ice and its sea-level equivalent", "Morlighem, Mathieu, et al. “BedMachine v3: Complete Bed Topography and Ocean Bathymetry Mapping of Greenland from Multibeam Echo Sounding Combined with Mass Conservation.” Geophysical Research Letters 44 (2017): 11051–61."),
   note("Greenland’s mass loss", "IMBIE Team. “Mass Balance of the Greenland Ice Sheet from 1992 to 2018.” Nature 579 (2020): 233–39."),
   note("West Antarctica and marine ice-sheet retreat", "Joughin, Ian, Benjamin E. Smith, and Brooke Medley. “Marine Ice Sheet Collapse Potentially under Way for the Thwaites Glacier Basin, West Antarctica.” Science 344 (2014): 735–38."),
-  note("The Antarctic Treaty", "Secretariat of the Antarctic Treaty. “The Antarctic Treaty.” Signed at Washington, December 1, 1959; in force June 23, 1961. https://www.ats.aq/e/antarctictreaty.html (consulted 2026)."),
+  note("The Antarctic Treaty", "Secretariat of the Antarctic Treaty. “The Antarctic Treaty.” Signed at Washington, December 1, 1959; in force June 23, 1961 (consulted 2026)."),
   subhead("1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age"),
   note("Annual decline in global freedom", "Freedom House. Freedom in the World 2025. Washington, DC, 2025."),
   note("COVID-19 outcomes and trust", "COVID-19 National Preparedness Collaborators. “Pandemic Preparedness and COVID-19: An Exploratory Analysis of Infection and Fatality Rates, and Contextual Factors Associated with Preparedness in 177 Countries.” The Lancet 399 (2022): 1489–1512."),
@@ -1682,34 +1742,49 @@ const notes = [
   note("The Higgs boson", "ATLAS Collaboration. “Observation of a New Particle in the Search for the Standard Model Higgs Boson with the ATLAS Detector at the LHC.” Physics Letters B 716 (2012): 1–29."),
   note("Fusion ignition at the National Ignition Facility", "Abu-Shawareb, H., et al. (Indirect Drive ICF Collaboration). “Achievement of Target Gain Larger than Unity in an Inertial Fusion Experiment.” Physical Review Letters 132 (2024): 065102."),
 ];
+const notes = makeNotes();
 
 // ---------------------------------------------------------------------
 // Appendix: Further Reading
 // ---------------------------------------------------------------------
-const furtherReading = [
+// A function, not a constant: docx registers a link's relationship only in the first document an
+// ExternalHyperlink object is saved into, so the manuscript needs fresh copies of the linked paragraphs.
+const makeFurtherReading = () => [
   heading("Further Reading — For Humans"),
   body("Dolphin scholarship is obliged to disclose that it has not read any of the following, dolphins being unable to read. It has had them read aloud, at some length, by sailors, and offers them as the humans' own best accounts of themselves. Each contains arguments the dolphins have not settled, and one is a comedy."),
-  grade("The Origin of Our Species, by Chris Stringer (2011)", "For the African chapters, by a man who has spent his career among the actual bones."),
-  grade("Guns, Germs, and Steel, by Jared Diamond (1997)", "Why some societies got the tools first. Argued over ever since, and still the best book to start an argument with."),
-  grade("Sapiens, by Yuval Noah Harari (English edition 2014)", "The species' summary of itself, at speed, with opinions."),
-  grade("1491, by Charles C. Mann (2005)", "The Americas before Columbus, and how much of what humans thought they knew about them was wrong."),
-  grade("Simón Bolívar: A Life, by John Lynch (2006)", "The liberator without the marble, and the sea he said he was plowing."),
-  grade("The Silk Roads, by Peter Frankopan (2015)", "The caravans, the Mongols, and the argument that history has been facing the wrong way."),
-  grade("Osman's Dream, by Caroline Finkel (2005)", "The Ottoman Empire from the inside, all six centuries of it, with the gate's own paperwork for company."),
-  grade("A Fistful of Shells, by Toby Green (2019)", "West African history told from West Africa."),
-  grade("SPQR, by Mary Beard (2015)", "Rome, with the myths taken out and the jokes left in."),
-  grade("The Story of the Jews, by Simon Schama (two volumes, 2013 and 2017)", "The long thread this book gives a chapter of its own, at the length it deserves."),
-  grade("The Anarchy, by William Dalrymple (2019)", "How a company with a private army acquired a subcontinent."),
-  grade("The Sleepwalkers, by Christopher Clark (2012)", "How Europe walked into 1914, in slow motion, with its eyes open."),
-  grade("The Guns of August, by Barbara Tuchman (1962)", "The first month of the First World War, told as tragedy, and the standard popular history still tries to meet."),
-  grade("The Fall of the Ottomans, by Eugene Rogan (2015)", "The First World War as it looked from Gallipoli, Baghdad, and Mecca, the front most Western histories skip."),
-  grade("The Coming of the Third Reich, by Richard J. Evans (2003)", "How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford."),
-  grade("Gulag: A History, by Anne Applebaum (2003)", "The camps, in full."),
-  grade("Mao's Great Famine, by Frank Dikötter (2010)", "The famine the summary chapters could only name."),
-  grade("The Making of the Atomic Bomb, by Richard Rhodes (1986)", "The science, the scientists, and the moment the apex predator learned physics."),
-  grade("A Short History of Nearly Everything, by Bill Bryson (2003)", "For the parts of nature that history rests on."),
-  grade("1066 and All That, by W. C. Sellar and R. J. Yeatman (1930)", "The British comic history, and the model for treating the past with affection and no respect. The dolphins consider it the most honest history in this list."),
-  grade("The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979)", "For the other dolphins, and for the general approach to explaining everything. The dolphins' farewell gives the fourth book of the series its title, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins."),
+  reading("The Origin of Our Species, by Chris Stringer (2011)", "For the African chapters, by a man who has spent his career among the actual bones."),
+  reading("Guns, Germs, and Steel, by Jared Diamond (1997)", "Why some societies got the tools first. Argued over ever since, and still the best book to start an argument with."),
+  reading("Sapiens, by Yuval Noah Harari (English edition 2014)", "The species' summary of itself, at speed, with opinions."),
+  reading("1491, by Charles C. Mann (2005)", "The Americas before Columbus, and how much of what humans thought they knew about them was wrong."),
+  reading("Simón Bolívar: A Life, by John Lynch (2006)", "The liberator without the marble, and the sea he said he was plowing."),
+  reading("The Silk Roads, by Peter Frankopan (2015)", "The caravans, the Mongols, and the argument that history has been facing the wrong way."),
+  reading("Osman's Dream, by Caroline Finkel (2005)", "The Ottoman Empire from the inside, all six centuries of it, with the gate's own paperwork for company."),
+  reading("A Fistful of Shells, by Toby Green (2019)", "West African history told from West Africa."),
+  reading("SPQR, by Mary Beard (2015)", "Rome, with the myths taken out and the jokes left in."),
+  reading("The Story of the Jews, by Simon Schama (two volumes, 2013 and 2017)", "The long thread this book gives a chapter of its own, at the length it deserves."),
+  reading("The Anarchy, by William Dalrymple (2019)", "How a company with a private army acquired a subcontinent."),
+  reading("The Sleepwalkers, by Christopher Clark (2012)", "How Europe walked into 1914, in slow motion, with its eyes open."),
+  reading("The Guns of August, by Barbara Tuchman (1962)", "The first month of the First World War, told as tragedy, and the standard popular history still tries to meet."),
+  reading("The Fall of the Ottomans, by Eugene Rogan (2015)", "The First World War as it looked from Gallipoli, Baghdad, and Mecca, the front most Western histories skip."),
+  reading("The Coming of the Third Reich, by Richard J. Evans (2003)", "How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford."),
+  reading("Gulag: A History, by Anne Applebaum (2003)", "The camps, in full."),
+  reading("Mao's Great Famine, by Frank Dikötter (2010)", "The famine the summary chapters could only name."),
+  reading("The Making of the Atomic Bomb, by Richard Rhodes (1986)", "The science, the scientists, and the moment the apex predator learned physics."),
+  reading("A Short History of Nearly Everything, by Bill Bryson (2003)", "For the parts of nature that history rests on."),
+  reading("1066 and All That, by W. C. Sellar and R. J. Yeatman (1930)", "The British comic history, and the model for treating the past with affection and no respect. The dolphins consider it the most honest history in this list."),
+  reading("The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979)", "For the other dolphins, and for the general approach to explaining everything. The dolphins' farewell gives the fourth book of the series its title, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins."),
+];
+const furtherReading = makeFurtherReading();
+
+// Review invitation, then About the Author (bio B, as in the author's other books), before Also by.
+const reviewLine = new Paragraph({
+  spacing: { before: 400, after: 200 },
+  children: [new TextRun({ text: "If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.", italics: true })],
+});
+const aboutAuthor = [
+  heading("About the Author"),
+  body("Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume."),
+  body("He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are."),
 ];
 
 // ---------------------------------------------------------------------
@@ -1813,10 +1888,9 @@ const alsoBy = [
   await save("chapters/Also by Lothar J. Musiol.docx", alsoBy);
 
   // -----------------------------------------------------------------
-  // Full manuscript, assembled in reading order, with a hyperlinked
-  // Word table of contents at the front. Word will populate the TOC
-  // field (and its page numbers) the first time the file is opened,
-  // or on a manual "update field" if the reader's settings require it.
+  // Full manuscript, assembled in reading order, with a static linked
+  // contents list at the front (one link per chapter heading, no page
+  // numbers, Kindle-safe; no Word TOC field to update).
   // -----------------------------------------------------------------
   const pageBreak = () => new Paragraph({ children: [new PageBreak()] });
 
@@ -1827,7 +1901,7 @@ const alsoBy = [
     chapter17, chapter18, chapter18a, chapter19, chapter23space,
     chapter24physics, chapter20, chapter21, chapter22, chapter28maya,
     chapter29aliens, chapter30medicine, chapter23, chapter24, chapter25,
-    epilogue, timeline, physicsAppendix, notes, furtherReading, alsoBy,
+    epilogue, timeline, physicsAppendix, makeNotes(), [...makeFurtherReading(), reviewLine], aboutAuthor, alsoBy,
   ];
 
   const titlePage = [
@@ -1872,9 +1946,9 @@ const alsoBy = [
         font: HEADLINE_FONT, size: HEADLINE_SIZE, color: HEADLINE_COLOR,
       })],
     }),
-    new TableOfContents("Table of Contents", {
-      hyperlink: true,
-      headingStyleRange: "1-1",
+    ...orderedChapters.flat().filter((p) => HEADING_BOOKMARKS.has(p)).map((p) => {
+      const h = HEADING_BOOKMARKS.get(p);
+      return new Paragraph({ spacing: { after: 80 }, children: [new InternalHyperlink({ anchor: h.id, children: [linkRun(h.text)] })] });
     }),
     pageBreak(),
   ];

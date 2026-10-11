@@ -130,3 +130,15 @@ touching, say so and wait to be asked — don't go do it.
   `bak/scratch 2026-10-01/`. `bak/` is gitignored.
 - Build/deps: `node scripts/_generate.js` (only dependency is `docx`;
   `node_modules/` is already present; `scripts/check_repeats.js` also uses `jszip`, which `docx` installs).
+
+## Rescore and Kindle pass, 10 October 2026
+
+- **Score 7.8 → 8.7** (sampled reread of about a fifth of the book, front and back matter in full; see `SCORES.md`).
+- **The build is the master again.** About the Author (bio B) and the review invitation had been added to the shipped `.docx` by hand and were missing from `_generate.js`; both are now in the build (`reviewLine`, `aboutAuthor`), so `node scripts/_generate.js` reproduces the deliverable.
+- **Contents page:** a static list of links to every chapter heading (each `heading()` gets a bookmark), built in reading order. No Word TOC field any more, so nothing has to be updated in Word before upload.
+- **Typography in one place:** `_generate.js` wraps `TextRun` so every run gets curly apostrophes and single quotes and an en dash in number ranges (1914–1918). Keep typing straight apostrophes in the source; identifiers like SP-2000-4408 are left alone.
+- **Linked sources:** `scripts/source_links.json` maps a citation (Notes and Sources) or a Further Reading label to a verified link: Crossref DOI, Open Library work, or the official page. The title is the link text; no URL is printed. 254 of 278 notes and 20 of 21 Further Reading entries are linked; the rest (classical texts, constitutions and laws, reports with no stable record, A Fistful of Shells) stay plain. Never add an entry without checking that it resolves. `notes` and `furtherReading` are built by functions (`makeNotes`, `makeFurtherReading`) because docx records a link's relationship only in the first document an `ExternalHyperlink` is saved into.
+- The five web sources no longer print their URLs; the titles link instead.
+- Text: "the 2010s and 2020s" (Fractured Present); the Long View's seam into the four folded timelines now reads "Several timelines ran underneath everything else in this book…".
+- **Covers (new):** `KINDLE_COVER_FINAL_2560.jpg` (1600×2560: parchment and sea, a navy dolphin leaping across a gold timeline, Cinzel title) and `KINDLE_BACK_COVER_2560.jpg` (single-colour navy, text only), from `scripts/make_front_cover.py` (+ `dolphin.py`) and `scripts/make_back_cover.py`.
+- Known gap, not fixed here: the `.md` track has drifted from the build in places (the Complete Manuscript `.md` and chapter 44's `.md` do not carry the folded population, suffrage, UDHR and mathematics timelines in their current wording). The build is authoritative.
