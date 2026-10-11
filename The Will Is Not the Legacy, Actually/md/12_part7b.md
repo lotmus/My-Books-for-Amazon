@@ -35,11 +35,11 @@ A hundred recordings on a phone that nobody can open are not a legacy. They are 
 
 Rename each file when you copy it off the device, using a consistent pattern:
 
-> `2026-10-10 Margaret - for Leo - wedding message.mp4`
+> `2026-10-10 Grandma - for grandson - wedding message.mp4`
 >
-> `2026-10-12 Margaret - diary - the plum tree.mp4`
+> `2026-10-12 Grandma - diary - the plum tree.mp4`
 >
-> `2026-11-02 Margaret - story - how we bought the house.m4a`
+> `2026-11-02 Grandma - story - how we bought the house.m4a`
 
 The date first, in year-month-day order, so the files sort in time order on any computer. Then who, what, and for whom. Avoid special characters other than hyphens and spaces.
 
@@ -48,8 +48,8 @@ The date first, in year-month-day order, so the files sort in time order on any 
 A simple structure:
 
 - `Recordings/Diary/2026/`
-- `Recordings/Messages/For Leo/`
-- `Recordings/Messages/For Anna/`
+- `Recordings/Messages/For grandson/`
+- `Recordings/Messages/For granddaughter/`
 - `Recordings/Messages/Occasions/` (weddings, births, graduations)
 - `Recordings/Stories/`
 - `Recordings/Practical/` (recipes, how the house works)
@@ -57,7 +57,7 @@ A simple structure:
 
 ### Keep an index
 
-A single document, `Recordings - index`, listing each file: date, title, who it is for, a one-line summary, and any instructions ("play at Leo's wedding," "open on Anna's 30th birthday," "private: Anna only"). This index is what your archive-keeper will use. Without it, they will have to watch everything to find anything, and many will stop after the first ten files because it is too painful.
+A single document, `Recordings - index`, listing each file: date, title, who it is for, a one-line summary, and any instructions ("play at my grandson's wedding," "open on my granddaughter's 30th birthday," "private: granddaughter only"). This index is what your archive-keeper will use. Without it, they will have to watch everything to find anything, and many will stop after the first ten files because it is too painful.
 
 ### Choose formats that will still open
 
@@ -76,7 +76,7 @@ A common rule of thumb for anything precious:
 
 - **Three copies** of every recording.
 - On at least **two different kinds** of storage (for example, a computer and an external drive, or a drive and a cloud service).
-- With at least **one copy away from home**, so that a fire or flood does not take everything (Case 14 lost a will to a flooded cellar; recordings drown just as easily).
+- With at least **one copy away from home**, so that a fire or flood does not take everything (Case 15 lost a will to a flooded cellar; recordings drown just as easily).
 
 In practice, many people use: the original on the computer; a copy on an external drive kept at home; and a copy in a cloud storage account. Some also give a drive to a family member in another city.
 
@@ -95,12 +95,12 @@ This is where most video legacies fail. The recordings exist; nobody can get to 
 
 ### Sealed and timed messages
 
-For messages meant to be opened later ("for Leo on his wedding day," "for Anna at thirty"):
+For messages meant to be opened later ("for my grandson on his wedding day," "for my granddaughter at thirty"):
 
 - Put them in the `Sealed` folder, with the opening instruction in the file name and the index.
 - Tell the archive-keeper, in writing, what the instructions are.
 - If you use a service that promises to release messages on a future date, keep a copy elsewhere as well. Companies close, change their terms, and are bought. A twenty-year promise from a five-year-old company deserves a backup.
-- Consider that the circumstances may change. A wedding message assumes a wedding. Add a line to the index: "If Leo does not marry, give him this on his thirtieth birthday instead," or simply, "Use your judgment."
+- Consider that the circumstances may change. A wedding message assumes a wedding. Add a line to the index: "If my grandson does not marry, give him this on his thirtieth birthday instead," or simply, "Use your judgment."
 
 ### Transcripts
 
@@ -122,7 +122,7 @@ German law allows a will in ordinary form only before a notary or entirely handw
 
 ### What happens to the video, then
 
-If you leave only a video, your estate passes as if you had no will, or under your last valid written will, whatever the video says (Case 23). Your family may agree to honour the video voluntarily, if every heir is an adult and willing. Often they will not, or not all of them will, and the ones who benefit from the statute have no legal obligation to give anything up.
+If you leave only a video, your estate passes as if you had no will, or under your last valid written will, whatever the video says (Case 24). Your family may agree to honour the video voluntarily, if every heir is an adult and willing. Often they will not, or not all of them will, and the ones who benefit from the statute have no legal obligation to give anything up.
 
 ### How video helps a valid will
 
@@ -158,7 +158,7 @@ For children, ask the parents, and think about the child as a future adult who m
 Decide, and write it down. Appendix H is a permission sheet. The main choices:
 
 - **Family only.** Shared among named people; never posted publicly.
-- **Specific people only.** "The message for Anna is for Anna."
+- **Specific people only.** "The message for my granddaughter is for her alone."
 - **Wider sharing allowed.** May be shown at a memorial, posted on a family website, or used in a family history.
 - **Destroy.** Some clips you may want deleted after your death, or after a certain time. Say which.
 

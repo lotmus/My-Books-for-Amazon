@@ -30,6 +30,8 @@ The **testament style** is deliberate: messages recorded for a specific purpose,
 
 You do not need special equipment. You need a device you already own, a quiet room, a window, and the willingness to look slightly foolish for twenty minutes. Here is how to make the recordings good enough that people will actually want to watch them.
 
+![Figure 4. A simple video-diary setup, seen from above: face the light, prop the phone at eye level, sit about an arm's length away in a quiet room.](src/diagrams/fig5_video_diary_setup.png)
+
 ### The device
 
 **A phone** is the best camera most people own. Use the rear camera if someone else is filming you, because it is usually better. If you are alone, use the front camera so you can see yourself, or the rear camera with the phone propped up and a test recording first.
@@ -102,7 +104,7 @@ Start every testament-style recording the same way. Say:
 - where you are, and
 - who the message is for.
 
-"This is Margaret Example. It's the tenth of October 2026, I'm at home in Sacramento, and this message is for my grandson Leo." This takes ten seconds and saves your family hours of guessing later. It also matters if anyone ever asks when and where a recording was made.
+"This is [your full name]. It's the tenth of October 2026, I'm at home in Sacramento, and this message is for my grandson [his name]." This takes ten seconds and saves your family hours of guessing later. It also matters if anyone ever asks when and where a recording was made.
 
 ## Chapter 28. What to Say: Prompts That Work
 

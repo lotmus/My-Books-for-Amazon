@@ -40,7 +40,7 @@ Book a lawyer (in California) or a notary (in Germany) if you can, especially if
 
 #### Day 6: The ethical will and the letters
 
-Two to five pages: what you believe, what you want understood, apologies that are specific, hopes that are not orders. Separate letters to named people. Label anything that should be opened later ("for Maya, at eighteen"). This document should not try to give away the house. If it conflicts with the will, the will (or the beneficiary form) wins, and the letter becomes evidence in a family argument rather than a comfort.
+Two to five pages: what you believe, what you want understood, apologies that are specific, hopes that are not orders. Separate letters to named people. Label anything that should be opened later ("for my granddaughter, at eighteen"). This document should not try to give away the house. If it conflicts with the will, the will (or the beneficiary form) wins, and the letter becomes evidence in a family argument rather than a comfort.
 
 #### Day 7: The handoff
 
@@ -56,12 +56,10 @@ If you have more than a week, Appendix A turns the same work into a now / this m
 
 People use one word for four different deposits. Mixing them up is why plans fail.
 
-| Deposit | What it is | What carries it |
-|---|---|---|
-| Property | Money, house, accounts, business, debts. | Will, trust, beneficiary forms, titles, contracts. |
-| Authority | Who decides while you are alive but unable to. | Powers of attorney, healthcare directives. |
-| Access | Passwords, devices, photos, recordings, subscriptions. | The Family List, a password manager's emergency access, legacy-contact settings. |
-| Meaning | Beliefs, stories, apologies, reasons, unfinished work, your voice and face. | Ethical will, letters, audio, video. Not the legal will. |
+- **Property.** What it is: Money, house, accounts, business, debts; What carries it: Will, trust, beneficiary forms, titles, contracts.
+- **Authority.** What it is: Who decides while you are alive but unable to; What carries it: Powers of attorney, healthcare directives.
+- **Access.** What it is: Passwords, devices, photos, recordings, subscriptions; What carries it: The Family List, a password manager's emergency access, legacy-contact settings.
+- **Meaning.** What it is: Beliefs, stories, apologies, reasons, unfinished work, your voice and face; What carries it: Ethical will, letters, audio, video. Not the legal will.
 
 ### Property
 

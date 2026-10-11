@@ -35,11 +35,11 @@ Marriage, divorce, a birth, a move across a border, and large gifts can change w
 
 ## Chapter 9. A Sample Will, Annotated
 
-What follows is a fictional will for a fictional Californian, Susan Example, a widow with two adult children and one grandchild. It is written in plain English to show what each clause does. Real wills drafted by lawyers are usually longer, because they handle more contingencies. The annotations explain why each clause is there and what can go wrong. For a German will, the same ideas apply, but the form is different: see Chapter 11.
+What follows is a fictional will for a fictional Californian widow with two adult children and one grandchild. Square brackets mark where a real will would give full names. It is written in plain English to show what each clause does. Real wills drafted by lawyers are usually longer, because they handle more contingencies. The annotations explain why each clause is there and what can go wrong. For a German will, the same ideas apply, but the form is different: see Chapter 11.
 
 ### Article 1: Declaration and revocation
 
-> I, Susan Example, of Sacramento County, California, declare this to be my will. I revoke all earlier wills and codicils.
+> I, [full name], of Sacramento County, California, declare this to be my will. I revoke all earlier wills and codicils.
 
 **Why it is there.** The first sentence identifies the testator and states testamentary intent: this document is meant to be a will. The second cancels every earlier will. Without it, an older will might be read together with the new one, and the courts would have to work out which parts survive.
 
@@ -47,7 +47,7 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 ### Article 2: Family
 
-> I am not married. My husband, Michael Example, died in 2019. I have two children, Laura Example and David Example. My son Peter Example died in 2010 and is survived by his daughter, Emma Example. All references to "my children" are to Laura and David.
+> I am not married. My husband, [full name], died in 2019. I have two children, my daughter [full name] and my son [full name]. My son [full name] died in 2010 and is survived by his daughter, [full name]. All references to "my children" are to my living daughter and son named above.
 
 **Why it is there.** It lets the court see who the natural heirs are and confirms you have not forgotten anyone. Naming a deceased child and his descendant shows you considered them.
 
@@ -55,7 +55,7 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 ### Article 3: Executor
 
-> I nominate my daughter, Laura Example, as executor. If she is unable or unwilling to serve, I nominate my son, David Example. No bond shall be required of any executor named in this will. My executor may administer my estate under the Independent Administration of Estates Act.
+> I nominate my daughter, [full name], as executor. If she is unable or unwilling to serve, I nominate my son, [full name]. No bond shall be required of any executor named in this will. My executor may administer my estate under the Independent Administration of Estates Act.
 
 **Why it is there.** The executor gathers assets, pays debts and taxes, and distributes the rest. A backup protects against the first choice dying, moving, or refusing. Waiving the bond saves the cost of an insurance-like guarantee the court would otherwise require. Authorising independent administration allows the executor to take many actions (selling property, for example) with less court supervision.
 
@@ -63,7 +63,7 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 ### Article 4: Specific gifts
 
-> I give my wedding ring to my granddaughter, Emma Example, if she survives me. I give my piano to my son, David Example, if he survives me. If either gift fails, the item becomes part of my residuary estate.
+> I give my wedding ring to my granddaughter, [full name], if she survives me. I give my piano to my son, [full name], if he survives me. If either gift fails, the item becomes part of my residuary estate.
 
 **Why it is there.** Specific gifts settle the objects people care about most, which are often worth the least.
 
@@ -73,7 +73,7 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 ### Article 5: Cash gifts
 
-> I give 10,000 dollars to the Sacramento Public Library Foundation. I give 5,000 dollars to my neighbour, Jane Neighbour, if she survives me. If my estate is not large enough to pay all cash gifts in full, they shall be reduced in proportion.
+> I give 10,000 dollars to [full legal name of charity, with its registered address]. I give 5,000 dollars to my neighbour, [full name], if she survives me. If my estate is not large enough to pay all cash gifts in full, they shall be reduced in proportion.
 
 **Why it is there.** Cash gifts are simple to understand and easy to carry out.
 
@@ -81,7 +81,7 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 ### Article 6: Residuary estate
 
-> I give the rest of my estate, including all property not effectively disposed of above, in equal shares to my children who survive me, and one equal share to the descendants of any child who does not survive me, by right of representation. I give an equal share to my granddaughter, Emma Example, in place of her deceased father.
+> I give the rest of my estate, including all property not effectively disposed of above, in equal shares to my children who survive me, and one equal share to the descendants of any child who does not survive me, by right of representation. I give an equal share to my granddaughter, [full name], in place of her deceased father.
 
 **Why it is there.** The residue is everything left after debts, expenses, and specific and cash gifts. In most estates the residue is the main event. Most will disputes are really disputes about this clause and about the forms the will never sees.
 
@@ -95,9 +95,9 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 ### Article 8: Gifts to young people
 
-> If any property passes under this will to a person under 25, my executor may hold it in a separate trust for that person, with my daughter Laura as trustee, and may use income and principal for the person's health, education, and support. The trustee shall distribute the remaining property to the person at age 25.
+> If any property passes under this will to a person under 25, my executor may hold it in a separate trust for that person, with my daughter [full name] as trustee, and may use income and principal for the person's health, education, and support. The trustee shall distribute the remaining property to the person at age 25.
 
-**Why it is there.** Emma is fourteen. Without this clause, a court might need to appoint someone to manage her inheritance, and she would receive it outright at eighteen.
+**Why it is there.** The granddaughter is fourteen. Without this clause, a court might need to appoint someone to manage her inheritance, and she would receive it outright at eighteen.
 
 **What goes wrong.** Choosing an age without thinking about the beneficiary. Twenty-five is common; thirty is not unusual; some trusts distribute in thirds at different ages. And a child with a disability who receives means-tested public benefits may lose them if they inherit outright; that needs a special-needs trust, not this clause (Chapter 19).
 
@@ -123,15 +123,15 @@ What follows is a fictional will for a fictional Californian, Susan Example, a w
 
 > I sign this will on 10 October 2026 at Sacramento, California.
 >
-> [Signature of Susan Example]
+> [Signature]
 >
-> On the date written above, Susan Example declared to us that this document is her will and asked us to act as witnesses. She signed it in our presence, all of us being present at the same time. We now sign as witnesses in her presence and in the presence of each other. Each of us is over 18 and is not a beneficiary under this will. We declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
+> On the date written above, [full name of the testator] declared to us that this document is her will and asked us to act as witnesses. She signed it in our presence, all of us being present at the same time. We now sign as witnesses in her presence and in the presence of each other. Each of us is over 18 and is not a beneficiary under this will. We declare under penalty of perjury under the laws of the State of California that the foregoing is true and correct.
 >
 > [Signatures, names, and addresses of two witnesses]
 
 **Why it is there.** California requires at least two witnesses, present at the same time, who understand that the document is the testator's will (Probate Code § 6110). The declaration under penalty of perjury lets the will be proved later without the witnesses appearing in court in many cases.
 
-**What goes wrong.** Witnesses who arrive one at a time. Witnesses who are beneficiaries (Case 13). Signing pages out of order, stapling and unstapling, or adding handwritten notes after signing. Keep the signing ceremonial and boring.
+**What goes wrong.** Witnesses who arrive one at a time. Witnesses who are beneficiaries (Case 14). Signing pages out of order, stapling and unstapling, or adding handwritten notes after signing. Keep the signing ceremonial and boring.
 
 ## Chapter 10. One Estate, Three Plans
 
@@ -139,21 +139,21 @@ Here is a fictional estate, planned three ways. The point is not that one plan i
 
 ### The estate
 
-Robert and Helen Sample, married, live in San Diego. They have two adult children, Chris and Jordan. Jordan has a teenage son, Sam. Their assets:
+A married couple live in San Diego. They have two adult children, a daughter and a son. The son has a teenage son of his own. Their assets:
 
 - A house worth 1.2 million dollars, community property, no mortgage.
 - Two 401(k)/IRA accounts, together about 900,000 dollars.
 - A joint brokerage account, 250,000 dollars.
 - Checking and savings, 60,000 dollars.
-- Life insurance on Robert, 500,000 dollars.
+- Life insurance on the husband, 500,000 dollars.
 - Two cars.
 - A small rental condominium in Arizona, worth 350,000 dollars.
 
-Their goal: everything to the survivor; after both deaths, equal shares to Chris and Jordan, with Jordan's share going to Sam if Jordan dies first, held in trust until Sam is twenty-five.
+Their goal: everything to the survivor; after both deaths, equal shares to the two children, with the son's share going to the grandson if the son dies first, held in trust until the grandson is twenty-five.
 
 ### Plan one: simple wills plus correct forms
 
-Each spouse signs a will leaving everything to the other, then to the children equally, with a trust for any grandchild under twenty-five. Each updates the 401(k)/IRA beneficiary forms: primary beneficiary, the spouse; contingent, the two children equally. Robert's life insurance: primary Helen; contingent, the children.
+Each spouse signs a will leaving everything to the other, then to the children equally, with a trust for any grandchild under twenty-five. Each updates the 401(k)/IRA beneficiary forms: primary beneficiary, the spouse; contingent, the two children equally. The husband's life insurance: primary, the wife; contingent, the children.
 
 **How it works.** At the first death, the retirement accounts and life insurance pass to the survivor by form. The house, as community property, can pass to the surviving spouse through a simplified spousal property petition rather than full probate, as the California courts' self-help pages describe. At the second death, the forms send the retirement money to the children.
 
@@ -167,28 +167,26 @@ The same wills, but with every asset that can carry a beneficiary given one: pay
 
 **How it works.** Almost everything passes outside probate at the second death. The will catches only the cars and stray items, which may fit under California's small-estate procedures.
 
-**Where it fails.** Coordination. Each designation is a separate document with separate rules, and each must name contingent beneficiaries correctly. None of them can hold Sam's share in trust if Jordan dies first; a TOD designation to a minor creates exactly the problem in Case 5. Some designations may not allow per-stirpes ("by family line") options. And the California TOD deed statute is set to expire on 1 January 2032 unless extended, although deeds signed before then stay valid. Every new account must be set up correctly. It is a plan that works perfectly on the day it is finished and then decays.
+**Where it fails.** Coordination. Each designation is a separate document with separate rules, and each must name contingent beneficiaries correctly. None of them can hold the grandson's share in trust if the son dies first; a TOD designation to a minor creates exactly the problem in Case 5. Some designations may not allow per-stirpes ("by family line") options. And the California TOD deed statute is set to expire on 1 January 2032 unless extended, although deeds signed before then stay valid. Every new account must be set up correctly. It is a plan that works perfectly on the day it is finished and then decays.
 
 **When it is good.** Moderate estates, simple families, and people who are organised enough to update forms.
 
 ### Plan three: a funded revocable trust with pour-over wills
 
-Robert and Helen create a joint revocable living trust, naming themselves as trustees and Chris as successor trustee. They retitle the house, the brokerage account, the bank accounts, and the Arizona condominium into the trust. The trust says: while both are alive, they control everything; after the first death, the survivor controls everything; after the second death, divide equally between Chris and Jordan, with Jordan's share going into a continuing trust for Sam if Jordan has died. The retirement accounts name the spouse as primary beneficiary and, after careful advice about tax, either the children or the trust as contingent. Each spouse signs a short "pour-over" will that leaves anything outside the trust to the trust.
+The couple create a joint revocable living trust, naming themselves as trustees and their daughter as successor trustee. They retitle the house, the brokerage account, the bank accounts, and the Arizona condominium into the trust. The trust says: while both are alive, they control everything; after the first death, the survivor controls everything; after the second death, divide equally between the daughter and the son, with the son's share going into a continuing trust for the grandson if the son has died. The retirement accounts name the spouse as primary beneficiary and, after careful advice about tax, either the children or the trust as contingent. Each spouse signs a short "pour-over" will that leaves anything outside the trust to the trust.
 
-**How it works.** At the second death, Chris, as successor trustee, administers everything in the trust privately, without court supervision, in both California and Arizona. Sam's share is held in trust automatically.
+**How it works.** At the second death, the daughter, as successor trustee, administers everything in the trust privately, without court supervision, in both California and Arizona. The grandson's share is held in trust automatically.
 
-**Where it fails.** Funding. A trust controls only what it owns. If Robert buys a new brokerage account in his own name and forgets to title it to the trust, that account goes through probate under the pour-over will before it reaches the trust. Plan three also costs more to set up, and someone has to keep it funded.
+**Where it fails.** Funding. A trust controls only what it owns. If the husband opens a new brokerage account in his own name and forgets to title it to the trust, that account goes through probate under the pour-over will before it reaches the trust. Plan three also costs more to set up, and someone has to keep it funded.
 
 **When it is good.** Larger estates, real estate in more than one state, minor or vulnerable beneficiaries, families who value privacy, and anyone who expects incapacity (a successor trustee can step in without a court if the trust provides for it).
 
 ### The lesson of three plans
 
-| | Plan one | Plan two | Plan three |
-|---|---|---|---|
-| Set-up cost | Low | Low | Higher |
-| Probate at second death | Yes, plus Arizona | Mostly avoided | Avoided for funded assets |
-| Holds a minor's share in trust | Yes, via will | No | Yes |
-| Main failure mode | Probate cost and delay | Forms drift out of date | Assets left outside the trust |
-| Privacy | Low | Medium | High |
+- **Set-up cost.** Plan one: Low; Plan two: Low; Plan three: Higher.
+- **Probate at second death.** Plan one: Yes, plus Arizona; Plan two: Mostly avoided; Plan three: Avoided for funded assets.
+- **Holds a minor's share in trust.** Plan one: Yes, via will; Plan two: No; Plan three: Yes.
+- **Main failure mode.** Plan one: Probate cost and delay; Plan two: Forms drift out of date; Plan three: Assets left outside the trust.
+- **Privacy.** Plan one: Low; Plan two: Medium; Plan three: High.
 
 The best plan is the one you will keep up to date.

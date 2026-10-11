@@ -7,7 +7,7 @@ Paste the HTML block below into the KDP "Description" field. It uses only tags K
 ```html
 <p><b>Most families assume the will decides who gets what. Often it does not.</b></p>
 <p>A retirement form signed twenty years ago still names an ex-spouse. A house deed names one child and forgets the other two. A joint account set up "just to help with the bills" quietly passes to one sibling. A life insurance policy that says "my heirs" lands in court. These documents decide first, and the will gets what is left.</p>
-<p><i>The Will Is Not the Legacy, Actually</i> follows twenty-four invented families into the real rules of California and Germany. For each one you see what the family assumed, what actually happened and why, what would have prevented it, and what to do now, including what to do if it has already happened in your family.</p>
+<p><i>The Will Is Not the Legacy, Actually</i> follows twenty-five invented families into the real rules of California and Germany. For each one you see what the family assumed, what actually happened and why, what would have prevented it, and what to do now, including what to do if it has already happened in your family.</p>
 <p><b>Inside you will find:</b></p>
 <ul>
 <li>A sample will annotated clause by clause, and one estate planned three different ways</li>

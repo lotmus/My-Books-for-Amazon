@@ -91,7 +91,7 @@ def front():
 
 BLURB=[
 "Most families assume the will decides who gets what. Often it does not. A retirement form signed twenty years ago, a deed, a joint account, an insurance policy that says \u201cmy heirs\u201d: these decide first, and the will gets what is left.",
-"This book follows twenty-four invented families into the real rules of California and Germany: what they assumed, what actually happened, what would have prevented it, and what to do now, including what to do if it has already happened to you.",
+"This book follows twenty-five invented families into the real rules of California and Germany: what they assumed, what actually happened, what would have prevented it, and what to do now, including what to do if it has already happened to you.",
 "It also covers what a will cannot carry: powers of attorney and healthcare wishes for the long middle, one family list of every account and the safe route to every password, video messages and diaries recorded on an ordinary phone, and the letters that explain why.",
 "With printable to-do lists for you and for your family, worksheets with filled examples, and California and Germany side by side.",
 ]
