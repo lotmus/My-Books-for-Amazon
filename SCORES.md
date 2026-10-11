@@ -1,4 +1,4 @@
-Standing rules for every assistant: see `notes/LOTHAR_RULES.md`.
+﻿Standing rules for every assistant: see `notes/LOTHAR_RULES.md`.
 
 ## Job queue
 
