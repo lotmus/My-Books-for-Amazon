@@ -24,13 +24,13 @@ Their own story starts in the water, heading the opposite direction.
 
 About fifty million years ago, an early four-legged land mammal, from the same broad family that today includes hippos, waded into shallow water and did not come back out.
 
+The fossil record calls the first of these test cases Pakicetus — four legs, hooves, a long snout, built rather like a hairy dog that had made some very specific life choices. Its next of kin, once it had committed a little further to the bit, was filed under Ambulocetus, which is Latin for "the walking whale." Dolphin historians did not choose that name. They have simply had fifty million years to get used to it.
+
+*“Our closest living land relative, confirmed independently more than once, is the hippopotamus,” the Society noted. “We did not select this family. We were assigned it, and we have decided to be gracious about it in public.”*
+
 Over tens of millions of years that choice reshaped the whole animal. Legs became flippers. Nostrils migrated to the top of the skull. Hearing adapted for water instead of air.
 
 Dolphins gave up solid ground. In exchange they got something almost no land animal has: three-dimensional hearing precise enough to find a single fish in total darkness, and, once diving and breathing stopped using all of it, some intelligence left over. Watching, for instance.
-
-Dolphin scholarship is willing to name names on the way. The fossil record calls the first of these test cases Pakicetus — four legs, hooves, a long snout, built rather like a hairy dog that had made some very specific life choices. Its next of kin, once it had committed a little further to the bit, was filed under Ambulocetus, which is Latin for “the walking whale.” Dolphin historians did not choose that name. They have simply had fifty million years to get used to it.
-
-*“Our closest living land relative, confirmed independently more than once, is the hippopotamus,” the Society noted. “We did not select this family. We were assigned it, and we have decided to be gracious about it in public.”*
 
 While the dolphin line was finishing that trade, on the other side of the world, a different set of mammals was still in the trees — and had wasted no time getting there. The first small, tree-dwelling creature recognizable as a primate shows up in the fossil record a little over sixty million years ago, a few million years after the asteroid: on a timescale of tens of millions of years, essentially the same week. Dolphin scholarship notes this is a very fast start for a family that would go on to need another sixty million years just to invent the wheel.
 
@@ -44,9 +44,9 @@ The other side became the hominins: apes that would, in time, leave most of the 
 
 Dolphin historians regard this as a terrible mistake. They are careful to add that it is also the only reason they have anything to write about.
 
-*A species congratulating its own arrival as the point of the story is, dolphin scholarship notes, rarely in a position to notice that it is also the only witness for the defense.*
+*A species congratulating its own arrival as the point of the story is rarely in a position to notice that it is also the only witness for the defense.*
 
-Dolphin historians are careful about one detail. Walking upright came first. Australopithecus was standing and walking on two legs more than three million years ago, with a brain not much larger than a chimpanzee's. The big brain came later, and came slowly.
+One detail matters here. Walking upright came first. Australopithecus was standing and walking on two legs more than three million years ago, with a brain not much larger than a chimpanzee's. The big brain came later, and came slowly.
 
 *“This was not a ladder,” dolphin historians noted. “It was a branch. Most branches on that tree went extinct. This one did not.”*
 

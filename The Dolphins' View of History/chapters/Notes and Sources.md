@@ -664,6 +664,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Force not ruled out; "We want to be Greenlandic".* BBC News. [Report from Greenland on the renewed American interest](https://www.bbc.co.uk/news/articles/c93qyky1gglo), January 12, 2025.
 
+*Greenland's population, about 57,000.* Statistics Greenland. "[Population Estimates, January 1st 2026](https://stat.gl/publ/en/BE/202601/contents/Population%20estimates.htm)." Statistics Greenland, 2026 (56,740 residents on January 1, 2026; 56,948 on April 1, 2026).
+
 **1991 to Today: A Fractured Present — Democracy, Authoritarianism, and the Information Age**
 
 *Annual decline in global freedom.* Freedom House. Freedom in the World 2025. Washington, DC, 2025.

@@ -1,6 +1,6 @@
 ## Medieval Córdoba to 1981: Spain, Convivencia and the General
 
-Dolphin historians open this chapter earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely.
+This chapter opens earlier than its 20th-century subject, because Spain's pattern of genius and catastrophe has already run once before, on a different set of terms entirely.
 
 Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustained long periods of coexistence and shared scholarship among Muslim, Christian, and Jewish communities, called convivencia, with Córdoba and Toledo among the era's great centers of translation and learning. Greek philosophy, mathematics, and medicine were preserved and extended there at a time when much of Christian Europe had little access to them.
 

@@ -1,6 +1,6 @@
 ## 1949 to Today: China, the Long Memory and the Great Leap
 
-This chapter returns to a civilization dolphin scholarship already logged, several chapters ago, as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in.
+This chapter returns to a civilization logged several chapters ago as among the deepest cultural inheritances in the book: millennia of continuous writing, philosophy, and administration, surviving dynasty after dynasty like a tide that always came back in.
 
 The 19th century interrupted that tide more severely than any dynasty's collapse had. Defeat in the Opium Wars, unequal treaties forced on China by European powers, and foreign concessions carved out of Chinese port cities opened what Chinese historians call the Century of Humiliation — a period that shaped the political movements of the century that followed as directly as any single event in this book shapes the chapter after it.
 
@@ -8,7 +8,7 @@ Decades of civil war and Japanese occupation, covered in this part of the book's
 
 The Great Leap Forward, launched in 1958, aimed to industrialize China's economy at a speed the Soviet Union had once attempted with its own five-year plans. The policies it imposed on agriculture instead produced a famine, running from roughly 1959 to 1961, that killed somewhere between fifteen and forty-five million people; most demographers put the figure near thirty million, which would make it the deadliest famine on record. The cause was overwhelmingly policy, not drought.
 
-The Cultural Revolution, launched in 1966 and continuing in various forms until Mao's death in 1976, turned the state's organizing power against its own institutions, culture, and people: intellectuals persecuted, historical and religious sites destroyed, education disrupted for a generation, and between several hundred thousand and about two million people killed — a direct, painful echo of the very cultural memory dolphin scholarship admired several chapters earlier.
+The Cultural Revolution, launched in 1966 and continuing in various forms until Mao's death in 1976, turned the state's organizing power against its own institutions, culture, and people: intellectuals persecuted, historical and religious sites destroyed, education disrupted for a generation, and between several hundred thousand and about two million people killed. It was a direct, painful assault on the very cultural memory admired several chapters earlier.
 
 *“A civilization that kept its own memory for three thousand years,” one senior dolphin scholar added, “spent a decade of the twentieth century trying to erase pieces of it on purpose. The tide, this time, did not simply come back in on its own.”*
 
