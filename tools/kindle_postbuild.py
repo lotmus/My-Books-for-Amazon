@@ -1,4 +1,4 @@
-﻿"""Kindle post-build step: shrink images, swap decorative pictures for drawings, split a book.
+"""Kindle post-build step: shrink images, swap decorative pictures for drawings, split a book.
 
 Run after a book's own build script has written its docx:
 
@@ -6,8 +6,9 @@ Run after a book's own build script has written its docx:
 
 The spec (JSON, paths relative to the spec's folder):
   source         docx written by the build (required)
-  photo_max      longest side for photos, px (default 1200); portrait covers use cover_max (1600)
-  jpeg_quality   default 82; line art becomes a 256-colour PNG, longest side lineart_max (1600)
+  photo_width    photos are scaled to this width, px (default 440, never upscaled); photo-like images with
+                 labels (large flat background) use diagram_width (800); portrait covers use cover_max (1600)
+  jpeg_quality   default 80; line art becomes a 256-colour PNG, longest side lineart_max (1600)
   drawings       {"<regex on the picture's alt text>": "<png>"}: replaces that picture's bytes
   split          optional: {"unsplit_to": "<bak path>", "parts": [...]} (see split_part below)
 Nothing is deleted. The unsplit build is moved to split.unsplit_to (overwritten on each build).
@@ -81,7 +82,17 @@ def scale(im, mx):
     w, h = im.size
     if max(w, h) > mx: r = mx / max(w, h); im = im.resize((max(1, round(w * r)), max(1, round(h * r))), Image.LANCZOS)
     return im
-def shrink_media(doc, photo_max=1200, cover_max=1600, quality=82, lineart_max=1600, skip=()):
+def labelled(im):
+    """A 'photo' that is really a labelled diagram: large flat background areas."""
+    t = im.convert('L'); t.thumbnail((200, 200)); h = t.histogram(); mode = max(range(256), key=lambda i: h[i])
+    flat = sum(h[max(0, mode - 6):mode + 7]) / max(1, sum(h))
+    return flat > 0.35
+def scale_w(im, w):
+    if im.width > w: im = im.resize((w, max(1, round(im.height * w / im.width))), Image.LANCZOS)
+    return im
+def shrink_media(doc, photo_width=440, diagram_width=800, cover_max=1600, quality=80, lineart_max=1600, skip=()):
+    """Photos: 440 px wide (never upscaled), JPEG q80. Photo-like images with labels: 800 px wide.
+    Portrait covers: longest side 1600. Line art: 256-colour PNG, longest side 1600."""
     log = []
     for name in [n for n in doc.data if n.startswith('word/media/')]:
         if name in skip: continue
@@ -91,10 +102,13 @@ def shrink_media(doc, photo_max=1200, cover_max=1600, quality=82, lineart_max=16
         if getattr(im, 'n_frames', 1) > 1: continue
         if ext in ('jpg', 'jpeg'): im = ImageOps.exif_transpose(im)
         if ext in ('jpg', 'jpeg') or is_photo(im):
-            mx = cover_max if im.height > im.width * 1.4 else photo_max
-            b = io.BytesIO(); scale(flatten(im), mx).save(b, 'JPEG', quality=quality, optimize=True); nd = b.getvalue(); nn = name.rsplit('.', 1)[0] + '.jpg' if ext not in ('jpg', 'jpeg') else name
+            f = flatten(im)
+            if im.height > im.width * 1.4 and im.height >= 1200: f = scale(f, cover_max); kind = 'cover'
+            elif labelled(f): f = scale_w(f, diagram_width); kind = 'labelled'
+            else: f = scale_w(f, photo_width); kind = 'photo'
+            b = io.BytesIO(); f.save(b, 'JPEG', quality=quality, optimize=True); nd = b.getvalue(); nn = name.rsplit('.', 1)[0] + '.jpg' if ext not in ('jpg', 'jpeg') else name
         else:
-            im2 = scale(im, lineart_max)
+            im2 = scale(im, lineart_max); kind = 'lineart'
             qi = im2.convert('RGBA').quantize(colors=256, method=Image.Quantize.FASTOCTREE) if (im2.mode in ('RGBA', 'LA') or 'transparency' in im2.info) else im2.convert('RGB').quantize(colors=256, method=Image.Quantize.MEDIANCUT)
             b = io.BytesIO(); qi.save(b, 'PNG', optimize=True); nd = b.getvalue(); nn = name.rsplit('.', 1)[0] + '.png'
         if len(nd) < len(data) * 0.92:
@@ -102,9 +116,8 @@ def shrink_media(doc, photo_max=1200, cover_max=1600, quality=82, lineart_max=16
             if nn != name:
                 if nn in doc.data: nn = nn.rsplit('.', 1)[0] + '_k.' + nn.rsplit('.', 1)[1]
                 doc.rename_media(name, nn)
-            log.append((name, len(data), len(nd)))
+            log.append((name, len(data), len(nd), kind))
     return log
-
 def swap_drawings(doc, drawings, base):
     rels = doc.rels(); done = []
     WP = 'http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing'; A = 'http://schemas.openxmlformats.org/drawingml/2006/main'
@@ -173,6 +186,20 @@ def find_like(els, like):
         st, rx = v.split(':', 1); return next(e for e in els if style(e) == st and re.search(rx, text(e)))
     raise ValueError(like)
 
+def apply_credits(els, cr):
+    """Photo credit line 'Photographs. Fig N: ... .': keep figures in cr['figs'], drop those redrawn (cr['drawn'])."""
+    if not cr: return
+    p = next((e for e in els if text(e).startswith(cr['para_startswith'])), None)
+    if p is None: return
+
+    full = text(p); head, rest = full.split(' ', 1)
+    items = re.findall(r'(Fig (\d+): .*?\.)(?= Fig \d+:| Diagrams| *$)', rest)
+    tail = rest[rest.rfind('Diagrams'):] if 'Diagrams' in rest else ''
+    kept = [t for t, n in items if int(n) in cr['figs'] and int(n) not in cr.get('drawn', [])]
+    drawn = [n for n in cr.get('drawn', []) if n in cr['figs']]
+    extra = (' Figures %s are simple drawings made for this edition.' % ', '.join(str(n) for n in drawn)) if drawn else ''
+    set_text(p, head + ' ' + ' '.join(kept) + (' ' if kept else '') + tail + extra)
+
 def split_part(src_doc, part, all_bms_by_part, me, base):
     doc = copy.deepcopy(src_doc); doc.tree = copy.deepcopy(src_doc.tree); doc.body = doc.tree.find(q('body'))
     els = list(doc.body); keep = set()
@@ -186,17 +213,7 @@ def split_part(src_doc, part, all_bms_by_part, me, base):
         hit = sum(replace_in(p, old, new) for p in doc.body.iter(q('p')))
         if not hit: print('  WARN replace not found:', old[:60])
     # credits: keep only the named figures
-    cr = part.get('credits')
-    if cr:
-        p = next(e for e in els if text(e).startswith(cr['para_startswith']))
-        full = text(p); head, rest = full.split(' ', 1)
-        items = re.findall(r'(Fig (\d+): .*?\.)(?= Fig \d+:| Diagrams| *$)', rest)
-        tail = rest[rest.rfind('Diagrams'):] if 'Diagrams' in rest else ''
-        kept = [t for t, n in items if int(n) in cr['figs'] and int(n) not in cr.get('drawn', [])]
-        drawn = [n for n in cr.get('drawn', []) if n in cr['figs']]
-        extra = (' Figures %s are simple drawings made for this edition.' % ', '.join(str(n) for n in drawn)) if drawn else ''
-        set_text(p, head + ' ' + ' '.join(kept) + (' ' if kept else '') + tail + extra)
-    # inserts
+    apply_credits(els, part.get('credits'))    # inserts
     for ins in part.get('insert', []):
         els = list(doc.body)
         at = locate(els, ins['before']) if 'before' in ins else locate(els, ins['after']) + 1
@@ -286,10 +303,11 @@ def main(spec_path, src_override=None):
     print('postbuild:', src, 'est %.2f MB' % (est(src) / 1e6))
     doc = Doc(src)
     if spec.get('drawings'): print('  drawings swapped:', len(swap_drawings(doc, spec['drawings'], base)))
-    lg = shrink_media(doc, spec.get('photo_max', 1200), spec.get('cover_max', 1600), spec.get('jpeg_quality', 82), spec.get('lineart_max', 1600))
+    lg = shrink_media(doc, spec.get('photo_width', 440), spec.get('diagram_width', 800), spec.get('cover_max', 1600), spec.get('jpeg_quality', 80), spec.get('lineart_max', 1600))
     print('  images recompressed:', len(lg))
     sp = spec.get('split')
     if not sp:
+        apply_credits(list(doc.body), spec.get('credits'))
         doc.save(src); print('  est after %.2f MB' % (est(src) / 1e6)); return
     allb = {k: part_bookmarks(doc, p) for k, p in enumerate(sp['parts'])}
     for k, p in enumerate(sp['parts']): split_part(doc, p, allb, k, base)

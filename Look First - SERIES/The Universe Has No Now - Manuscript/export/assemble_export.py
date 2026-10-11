@@ -435,7 +435,7 @@ def main() -> int:
     if os.path.isfile(post) and os.path.isfile(spec) and os.path.isfile(OUT_DOCX):
         r = subprocess.run([sys.executable, post, spec], text=True)
         if r.returncode != 0:
-            print("kindle post-build failed; the unsplit docx is still in export")
+            print("kindle post-build failed; the docx in export is not yet Kindle-sized")
             return 1
     return 0
 
