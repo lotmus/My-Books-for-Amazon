@@ -374,6 +374,8 @@ P: RF, Microwave, and Transceivers (Book 4)
 P: Communications, Wireless, and SDR (Book 5)
 P: Power and Energy (Book 6)
 P: Packaging, Layout, EMC, and Test (Book 7)
+P: Firmware and Software for Electronics (Book 8)
+P: Test and Measurement Instruments (Book 9)
 P: History
 P: The Dolphins’ View of History
 P: Fiction

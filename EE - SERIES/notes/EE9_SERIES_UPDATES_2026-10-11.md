@@ -1,6 +1,6 @@
-# EE Series updates for Book 9 (proposed, 11 Oct 2026 PT)
+# EE Series updates for Book 9 (retrofit status, 11 Oct 2026 PT)
 
-Book 9 did not edit these shared files. Apply by hand (or by the agent that owns them).
+The canonical Also-by list, Book 9 score row, and Books 1–7 Also-by entries and Book 7 pointers have been updated. Book 8's manuscript was not present under `D:\My Books for Amazon`, so its own Also-by page and instrument-control pointer remain pending.
 
 ## 1. notes/ALSO_BY - canonical list.md
 Under **Electrical Engineering Series**, after line 57 ("- Firmware and Software for Electronics (Book 8)"), add:
