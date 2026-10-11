@@ -136,6 +136,7 @@ For assistants: do heavy or parallel work in temp worktrees, and never reset the
 Assistants follow this, and gently coach Lothar when the pattern slips.
 
 - **At most two heavy book jobs at once** on LOTHAR-HP (low RAM). Queue everything else.
+- When Lothar asks for **more than two heavy jobs at once**, hold the extras in the Job queue, tell him plainly what is queued, and start them as slots free up. (Lothar approved this rule.)
 - Keep a short **Job queue** at the top of `SCORES.md` (book, task, status, who). Update it when a job starts, finishes, or is blocked.
 - **Never run two jobs on the same book**, or on the same `SCORES.md` rows, at the same time.
 - Each job works in its **own temp worktree**, commits in small batches, pushes normally, and **fast-forwards** the `D:\My Books for Amazon` checkout only — never resets it.
