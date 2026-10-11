@@ -26,7 +26,8 @@ for op in ops:
         p = orig[k][op[2]]; p.getparent().remove(p); s['paras'].remove(p)
     elif kind == 'replace_p':
         p = orig[k][op[2]]; n = newpara(p, op[3]); p.addprevious(n); p.getparent().remove(p)
-        s['paras'][s['paras'].index(p)] = n
+        for ss in secs:
+            if p in ss['paras']: ss['paras'][ss['paras'].index(p)] = n; break
     elif kind == 'insert_p':   # insert new paragraph after original paragraph index op[2] (-1 = at start)
         ref = orig[k][op[2]] if op[2] >= 0 else None
         n = newpara(tpl, op[3])

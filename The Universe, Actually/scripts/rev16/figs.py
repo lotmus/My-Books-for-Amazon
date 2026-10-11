@@ -14,7 +14,7 @@ ladder(1.7,[(-18,'quark\n(<10⁻¹⁸ m)'),(-15,'proton\n10⁻¹⁵ m'),(-10,'at
 ladder(0.45,[(-9,'DNA\n2 nm wide'),(-6,'cell\n10⁻⁶–10⁻⁴ m'),(-1,'brain\n0.15 m'),(0.2,'body\n1.7 m'),(4,'forest,\nreef'),(7,'living planet\n10⁷ m'),(11,'technology reaching\nother worlds')],'#2e7d32','Second arc (Parts VII–XI): life, from the first cell to civilization')
 ax.text(4.5,-0.15,'size in meters on a powers-of-ten scale; each tick is a factor of 1 000',ha='center',fontsize=8,style='italic',color='#555')
 for x in range(-18,28,3): ax.plot([x,x],[1.66,1.74],color='#999',lw=0.8); ax.plot([x,x],[0.41,0.49],color='#999',lw=0.8)
-plt.tight_layout(); plt.savefig('figures/fig1_two_arcs.png',dpi=100); plt.close()
+plt.tight_layout(); plt.savefig('fig/fig1_two_arcs.png',dpi=100); plt.close()
 # 2 cosmic timeline
 import numpy as np
 fig,(ax,bx)=plt.subplots(2,1,figsize=(8,5.6),dpi=100)
@@ -38,7 +38,7 @@ for i,(t,l) in enumerate(ev2):
 bx.set_yticks([]); bx.set_xticks(range(0,15,2)); bx.tick_params(labelsize=8)
 bx.set_xlabel('the rest of the story: billions of years after the Big Bang (linear scale)',fontsize=9)
 for sp in ['top','right','left']: bx.spines[sp].set_visible(False)
-plt.tight_layout(); plt.savefig('figures/fig2_cosmic_timeline.png',dpi=100); plt.close()
+plt.tight_layout(); plt.savefig('fig/fig2_cosmic_timeline.png',dpi=100); plt.close()
 # 3 Standard Model chart
 fig,ax=plt.subplots(figsize=(8,5.2),dpi=100); ax.set_xlim(0,8); ax.set_ylim(0,5.2); ax.axis('off')
 cells=[('u','up','2.2 MeV',0,3,'#f3c99a'),('c','charm','1.27 GeV',1,3,'#f3c99a'),('t','top','173 GeV',2,3,'#f3c99a'),
@@ -56,4 +56,4 @@ ax.text(1.95,5.05,'three generations of matter (fermions)',ha='center',fontsize=
 ax.text(4.86,5.05,'force carriers',ha='center',fontsize=9); ax.text(6.4,3.35,'Higgs boson',ha='center',fontsize=9)
 ax.text(0.15,3.5,'quarks',color='#a0522d',fontsize=9,rotation=90,ha='center',va='center'); ax.text(0.15,1.4,'leptons',color='#1f4e9c',fontsize=9,rotation=90,ha='center',va='center')
 ax.text(5.9,0.5,'masses: particle-data values, rounded;\nneutrino limit from direct measurement',fontsize=7,style='italic')
-plt.tight_layout(); plt.savefig('figures/fig3_standard_model.png',dpi=100); plt.close()
+plt.tight_layout(); plt.savefig('fig/fig3_standard_model.png',dpi=100); plt.close()

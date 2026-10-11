@@ -1,0 +1,8 @@
+OPS = [
+('replace_p', 622, 1, "The delay is not mysterious. Institutions, textbooks and habits have inertia, and individuals have reputations; both resist revision until the cost of keeping the error exceeds the cost of abandoning it. The change is rarely graceful, but it is more reliable than hoping an error will vanish the moment it is pointed out. Pointing out is necessary. Replacement finishes the job."),
+('replace_p', 623, 1, "The pattern is reliable and slow. The slowness is not a defect of the method but a consequence of requiring every new idea to survive contact with observation, which is often inconvenient. The inconvenience is the point. Ideas that cannot be inconvenienced are not scientific; they may be comforting, but they are not progress."),
+('replace_p', 624, 1, "The retention is therefore not an error but a calculation, and calculations can be wrong. When this one is, the theory is eventually discarded, though rarely at once: it goes when a better calculation is available and the institutions that teach the old one have been persuaded to teach the new. The persuasion takes time, measurable in textbooks."),
+('sub', 629, 'During a brief interval near the middle of that history', 'During a brief interval near the beginning of that history'),
+('replace_p', 630, 1, "A re-reading, if undertaken, will be shorter. The map and the territory will be the same; only the reader’s location on the map will have shifted, and that shift is the whole practical effect of the book. The atoms continue their arrangements regardless. For a short interval the reader holds a slightly more accurate description of them, finite and provisional, and both limits are acknowledged."),
+('sub', 633, 'near 420 parts per million', 'above 420 parts per million'),
+]

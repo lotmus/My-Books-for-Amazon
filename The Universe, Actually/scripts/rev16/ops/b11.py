@@ -1,0 +1,14 @@
+OPS = [
+('replace_p', 381, 2, "The rule does not say what happens in a single run; it gives the distribution of outcomes over many runs. That is what has been tested, to high precision, and every alternative reading has to reproduce it."),
+('sub', 382, 'The structures of thousands of biological macromolecules have been obtained.', 'More than two hundred thousand structures of biological molecules are now on file.'),
+('sub', 382, ' The conversion is complete.', ''),
+('delp', 385, 7), ('delp', 385, 14),
+('replace_p', 385, 10, "What would count as a solution? A laboratory system that starts from plausible early-Earth materials, builds a compartment, a metabolism and a copying molecule, and then evolves without further intervention. No such system exists. RNA molecules have been evolved to perform new reactions, and protocells have been made to grow and divide, but nothing yet closes the loop. A headline announcing that life has been made in the laboratory should be checked against the actual system, which will be impressive and incomplete. The origin of life is a scientific problem with constraints: neither a mystery closed to investigation nor a solved problem in costume."),
+('replace_p', 390, 1, "The resolution is that the search is not random. The energy landscape is shaped like a funnel, and local interactions guide the chain toward its native state, helped by folding intermediates and by chaperone proteins. Misfolding happens, but as the exception, and the exception can cause disease."),
+('replace_p', 390, 2, "Folding shows that a search through a vast space can be fast when the landscape is structured. The structure is written in the sequence, the sequence in the genome, and the genome is the product of selection, which kept the chains that fold. The reader is built from them."),
+('replace_p', 393, 1, "The germ theory, described in the next section, states that many diseases are caused by microorganisms. It does not claim that every illness is infectious, only that infectious illnesses have microbial causes that can be demonstrated."),
+('sub', 395, 'Their DNA is a circular chromosome in the cytoplasm', 'Their DNA is usually a circular chromosome in the cytoplasm'),
+('sub', 399, 'and once for the primary chloroplast, in the ancestor of the Archaeplastida.', 'and once for the primary chloroplast, in the ancestor of the Archaeplastida; a second, much later primary event gave the amoeba Paulinella its own photosynthetic organelle.'),
+('replace_p', 404, 8, "Human evolution, the subject of {ch44}, is the same process applied to one lineage, plus the cultural inheritance that lineage eventually produced. The genetic difference between humans and chimpanzees is small in percentage and large in consequence, much of it in gene regulation rather than in protein-coding sequence."),
+('delp', 404, 13), ('delp', 404, 14), ('delp', 404, 15),
+]
