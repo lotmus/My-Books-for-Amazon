@@ -101,6 +101,46 @@ def replace_in_p(p, old, new):
             t.text = txt[:s0] + txt[s1:]
         t.set('{http://www.w3.org/XML/1998/namespace}space', 'preserve')
 
+
+def mu_fix(body):
+    """Restore Greek mu/nu that an earlier conversion turned into u/v in Chapter 22 and the back matter."""
+    n = 0
+    for r in list(body.iter(qn('w:r'))):
+        ts = list(r.iter(qn('w:t')))
+        if not ts: continue
+        t = ''.join(x.text or '' for x in ts)
+        rpr = r.find(qn('w:rPr'))
+        va = rpr.find(qn('w:vertAlign')) if rpr is not None else None
+        def clone(text, sup=None):
+            nr = copy.deepcopy(r)
+            for x in list(nr):
+                if x.tag != qn('w:rPr'): nr.remove(x)
+            npr = nr.find(qn('w:rPr'))
+            if npr is not None:
+                for v in npr.findall(qn('w:vertAlign')): npr.remove(v)
+            if sup:
+                if npr is None:
+                    npr = etree.SubElement(nr, qn('w:rPr')); nr.insert(0, npr)
+                v = etree.SubElement(npr, qn('w:vertAlign')); v.set(qn('w:val'), sup)
+            tt = etree.SubElement(nr, qn('w:t')); tt.text = text
+            tt.set('{http://www.w3.org/XML/1998/namespace}space', 'preserve')
+            return nr
+        if va is not None and t in ('u', 'uv', 'uvF', 'uψ'):
+            ts[0].text = {'u': 'μ', 'uv': 'μν', 'uvF': 'μν', 'uψ': 'μ'}[t]
+            for x in ts[1:]: x.text = ''
+            if t == 'uvF': r.addnext(clone('F'))
+            if t == 'uψ': r.addnext(clone('ψ'))
+            n += 1
+        elif 'ᵘ' in t and va is None:
+            a, b = t.split('ᵘ', 1)
+            ts[0].text = a
+            ts[0].set('{http://www.w3.org/XML/1998/namespace}space', 'preserve')
+            for x in ts[1:]: x.text = ''
+            after = clone(b); r.addnext(after)
+            r.addnext(clone('μ', 'superscript'))
+            n += 1
+    return n
+
 def build(batches, out_path):
     d = docx.Document(SRC)
     body = d.element.body
@@ -154,6 +194,8 @@ def build(batches, out_path):
             for b in blk:
                 els[end_idx].addprevious(b)
             nE += len(spec['ex'])
+    if any(getattr(importlib.import_module(b), 'MUFIX', False) for b in batches):
+        log.append(f'mu_fix {mu_fix(body)}')
     d.save(out_path)
     return nT, nE, log
 
