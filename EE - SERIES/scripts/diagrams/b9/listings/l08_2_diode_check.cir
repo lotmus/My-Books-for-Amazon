@@ -1,0 +1,9 @@
+* Validation of the fitted diode model of Listing 8.1 against the measured forward curve (ngspice or LTspice)
+* Model valid 1 uA..20 mA forward at 25 C and 0..20 V reverse (C-V); not for leakage, breakdown, or temperature.
+.model DFIT D(IS=6.38e-15 N=1.046 RS=0.323 CJO=3.99p VJ=0.61 M=0.452)
+I1 0 a DC 1m
+D1 a 0 DFIT
+.temp 25
+.dc I1 10u 20m 10u
+.print dc v(a)
+.end

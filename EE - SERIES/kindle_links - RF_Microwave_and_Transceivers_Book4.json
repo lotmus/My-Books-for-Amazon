@@ -1,69 +1,531 @@
 {
- "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
- "rules": [
-  {
-   "find": "An N-Way Hybrid Power Divider",
-   "to": "[An N-Way Hybrid Power Divider](https://doi.org/10.1109/tmtt.1960.1124668)",
-   "in": "E. J. Wilkinson, \"An N-Way Hybrid Power Divider,\" IRE Transa",
-   "max": 1
-  },
-  {
-   "find": "Equations for Microstrip Circuit Design",
-   "to": "[Equations for Microstrip Circuit Design](https://doi.org/10.1109/euma.1975.332206)",
-   "in": "E. O. Hammerstad, \"Equations for Microstrip Circuit Design,\"",
-   "max": 1
-  },
-  {
-   "find": "Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane",
-   "to": "[Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane](https://doi.org/10.1109/tmtt.1977.1129179)",
-   "in": "E. O. Hammerstad, \"Equations for Microstrip Circuit Design,\"",
-   "max": 1
-  },
-  {
-   "find": "Theoretical Limitations on the Broadband Matching of Arbitrary Impedances",
-   "to": "[Theoretical Limitations on the Broadband Matching of Arbitrary Impedances](https://doi.org/10.1016/s0016-0032(50)91101-x)",
-   "in": "R. M. Fano, \"Theoretical Limitations on the Broadband Matchi",
-   "max": 1
-  },
-  {
-   "find": "Physical Limitations of Omni-Directional Antennas",
-   "to": "[Physical Limitations of Omni-Directional Antennas](https://doi.org/10.1063/1.1715038)",
-   "in": "L. J. Chu, \"Physical Limitations of Omni-Directional Antenna",
-   "max": 1
-  },
-  {
-   "find": "Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers",
-   "to": "[Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers](https://doi.org/10.1109/jssc.1975.1050582)",
-   "in": "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
-   "max": 1
-  },
-  {
-   "find": "Maximum Efficiency and Output of Class-F Power Amplifiers",
-   "to": "[Maximum Efficiency and Output of Class-F Power Amplifiers](https://doi.org/10.1109/22.925511)",
-   "in": "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
-   "max": 1
-  },
-  {
-   "find": "High Power Outphasing Modulation",
-   "to": "[High Power Outphasing Modulation](https://doi.org/10.1109/jrproc.1935.227299)",
-   "in": "F. H. Raab et al., \"Power Amplifiers and Transmitters for RF",
-   "max": 1
-  },
-  {
-   "find": "A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA",
-   "to": "[A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA](https://doi.org/10.1109/tmtt.2009.2033295)",
-   "in": "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
-   "max": 1
-  },
-  {
-   "find": "Single-Sideband Transmission by Envelope Elimination and Restoration",
-   "to": "[Single-Sideband Transmission by Envelope Elimination and Restoration](https://doi.org/10.1109/jrproc.1952.273844)",
-   "in": "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
-   "max": 1
-  },
-  {
-   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
-   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
-  }
- ]
+    "note":  "EE Book 4 link rules (11 Oct 2026): papers -\u003e DOI (curated 10 Oct) or Crossref search, Appendix C books -\u003e Open Library search, Also-by -\u003e Amazon Kindle search; keyword links, hidden URLs. Pass 2 (11 Oct 2026): Appendix C additions for Chapters 42-52 (books -\u003e Open Library, papers -\u003e Crossref search, Touchstone spec and scikit-rf docs).",
+    "rules":  [
+                  {
+                      "find":  "An N-Way Hybrid Power Divider",
+                      "to":  "[An N-Way Hybrid Power Divider](https://doi.org/10.1109/tmtt.1960.1124668)",
+                      "in":  "E. J. Wilkinson, \"An N-Way Hybrid Power Divider,\" IRE Transa",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Equations for Microstrip Circuit Design",
+                      "to":  "[Equations for Microstrip Circuit Design](https://doi.org/10.1109/euma.1975.332206)",
+                      "in":  "E. O. Hammerstad, \"Equations for Microstrip Circuit Design,\"",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane",
+                      "to":  "[Transmission-Line Properties of a Strip on a Dielectric Sheet on a Plane](https://doi.org/10.1109/tmtt.1977.1129179)",
+                      "in":  "E. O. Hammerstad, \"Equations for Microstrip Circuit Design,\"",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Theoretical Limitations on the Broadband Matching of Arbitrary Impedances",
+                      "to":  "[Theoretical Limitations on the Broadband Matching of Arbitrary Impedances](https://doi.org/10.1016/s0016-0032(50)91101-x)",
+                      "in":  "R. M. Fano, \"Theoretical Limitations on the Broadband Matchi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Physical Limitations of Omni-Directional Antennas",
+                      "to":  "[Physical Limitations of Omni-Directional Antennas](https://doi.org/10.1063/1.1715038)",
+                      "in":  "L. J. Chu, \"Physical Limitations of Omni-Directional Antenna",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers",
+                      "to":  "[Class E: A New Class of High-Efficiency Tuned Single-Ended Switching Power Amplifiers](https://doi.org/10.1109/jssc.1975.1050582)",
+                      "in":  "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Maximum Efficiency and Output of Class-F Power Amplifiers",
+                      "to":  "[Maximum Efficiency and Output of Class-F Power Amplifiers](https://doi.org/10.1109/22.925511)",
+                      "in":  "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
+                      "max":  1
+                  },
+                  {
+                      "find":  "High Power Outphasing Modulation",
+                      "to":  "[High Power Outphasing Modulation](https://doi.org/10.1109/jrproc.1935.227299)",
+                      "in":  "F. H. Raab et al., \"Power Amplifiers and Transmitters for RF",
+                      "max":  1
+                  },
+                  {
+                      "find":  "A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA",
+                      "to":  "[A Methodology for Realizing High Efficiency Class-J in a Linear and Broadband PA](https://doi.org/10.1109/tmtt.2009.2033295)",
+                      "in":  "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Single-Sideband Transmission by Envelope Elimination and Restoration",
+                      "to":  "[Single-Sideband Transmission by Envelope Elimination and Restoration](https://doi.org/10.1109/jrproc.1952.273844)",
+                      "in":  "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "In Love with Murder, Actually: A Derailed Mystery in Provence",
+                      "to":  "In Love with Murder, Actually: A Derailed Mystery in Provence"
+                  },
+                  {
+                      "find":  "RF Circuit Design",
+                      "to":  "[RF Circuit Design](https://openlibrary.org/search?q=RF+Circuit+Design+Bowick)",
+                      "in":  "Chris Bowick, RF Circuit Design, 2nd edition, for the practi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave Engineering",
+                      "to":  "[Microwave Engineering](https://openlibrary.org/search?q=Microwave+Engineering+Pozar)",
+                      "in":  "David M. Pozar, Microwave Engineering, 4th edition; Michael ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave and RF Design",
+                      "to":  "[Microwave and RF Design](https://openlibrary.org/search?q=Microwave+and+RF+Design+Steer)",
+                      "in":  "David M. Pozar, Microwave Engineering, 4th edition; Michael ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave Transistor Amplifiers",
+                      "to":  "[Microwave Transistor Amplifiers](https://openlibrary.org/search?q=Microwave+Transistor+Amplifiers+Gonzalez)",
+                      "in":  "Guillermo Gonzalez, Microwave Transistor Amplifiers, for sta",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave Filters, Impedance-Matching Networks, and Coupling Structures",
+                      "to":  "[Microwave Filters, Impedance-Matching Networks, and Coupling Structures](https://openlibrary.org/search?q=Microwave+Filters%2C+Impedance-Matching+Networks%2C+and+Coupling+Structures+Matthaei)",
+                      "in":  "George Matthaei, Leo Young, and E. M. T. Jones, Microwave Fi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microstrip Filters for RF/Microwave Applications",
+                      "to":  "[Microstrip Filters for RF/Microwave Applications](https://openlibrary.org/search?q=Microstrip+Filters+for+RF%2FMicrowave+Applications+Hong)",
+                      "in":  "George Matthaei, Leo Young, and E. M. T. Jones, Microwave Fi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Antenna Theory",
+                      "to":  "[Antenna Theory](https://openlibrary.org/search?q=Antenna+Theory+Balanis)",
+                      "in":  "Constantine Balanis, Antenna Theory, 4th edition, and John V",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Antenna Engineering Handbook",
+                      "to":  "[Antenna Engineering Handbook](https://openlibrary.org/search?q=Antenna+Engineering+Handbook+Volakis)",
+                      "in":  "Constantine Balanis, Antenna Theory, 4th edition, and John V",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Phased Array Antenna Handbook",
+                      "to":  "[Phased Array Antenna Handbook](https://openlibrary.org/search?q=Phased+Array+Antenna+Handbook+Mailloux)",
+                      "in":  "Constantine Balanis, Antenna Theory, 4th edition, and John V",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave Ferrites and Ferrimagnetics",
+                      "to":  "[Microwave Ferrites and Ferrimagnetics](https://openlibrary.org/search?q=Microwave+Ferrites+and+Ferrimagnetics+Lax)",
+                      "in":  "Benjamin Lax and Kenneth J. Button, Microwave Ferrites and F",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Antenna Measurement Techniques",
+                      "to":  "[Antenna Measurement Techniques](https://openlibrary.org/search?q=Antenna+Measurement+Techniques+Evans)",
+                      "in":  "Benjamin Lax and Kenneth J. Button, Microwave Ferrites and F",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave Mixers",
+                      "to":  "[Microwave Mixers](https://openlibrary.org/search?q=Microwave+Mixers+Maas)",
+                      "in":  "Jia-Sheng Hong, Microstrip Filters for RF/Microwave Applicat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "RF Power Amplifiers for Wireless Communications",
+                      "to":  "[RF Power Amplifiers for Wireless Communications](https://openlibrary.org/search?q=RF+Power+Amplifiers+for+Wireless+Communications+Cripps)",
+                      "in":  "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Advanced Techniques in RF Power Amplifier Design",
+                      "to":  "[Advanced Techniques in RF Power Amplifier Design](https://openlibrary.org/search?q=Advanced+Techniques+in+RF+Power+Amplifier+Design+Cripps)",
+                      "in":  "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Switchmode RF and Microwave Power Amplifiers",
+                      "to":  "[Switchmode RF and Microwave Power Amplifiers](https://openlibrary.org/search?q=Switchmode+RF+and+Microwave+Power+Amplifiers+Grebennikov)",
+                      "in":  "Andrei Grebennikov, Nathan O. Sokal, and Marc J. Franco, Swi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "High-Linearity RF Amplifier Design",
+                      "to":  "[High-Linearity RF Amplifier Design](https://openlibrary.org/search?q=High-Linearity+RF+Amplifier+Design+Kenington)",
+                      "in":  "Peter B. Kenington, High-Linearity RF Amplifier Design, for ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Wireless Receiver Design for Digital Communications",
+                      "to":  "[Wireless Receiver Design for Digital Communications](https://openlibrary.org/search?q=Wireless+Receiver+Design+for+Digital+Communications+McClaning)",
+                      "in":  "Kevin McClaning, Wireless Receiver Design for Digital Commun",
+                      "max":  1
+                  },
+                  {
+                      "find":  "RF Microelectronics",
+                      "to":  "[RF Microelectronics](https://openlibrary.org/search?q=RF+Microelectronics+Razavi)",
+                      "in":  "Kevin McClaning, Wireless Receiver Design for Digital Commun",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Phaselock Techniques",
+                      "to":  "[Phaselock Techniques](https://openlibrary.org/search?q=Phaselock+Techniques+Gardner)",
+                      "in":  "Floyd M. Gardner, Phaselock Techniques, 3rd edition, and Rol",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Phase-Locked Loops",
+                      "to":  "[Phase-Locked Loops](https://openlibrary.org/search?q=Phase-Locked+Loops+Best)",
+                      "in":  "Floyd M. Gardner, Phaselock Techniques, 3rd edition, and Rol",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Introduction to Radar Systems",
+                      "to":  "[Introduction to Radar Systems](https://openlibrary.org/search?q=Introduction+to+Radar+Systems+Skolnik)",
+                      "in":  "Merrill I. Skolnik, Introduction to Radar Systems, 3rd editi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Fundamentals of Radar Signal Processing",
+                      "to":  "[Fundamentals of Radar Signal Processing](https://openlibrary.org/search?q=Fundamentals+of+Radar+Signal+Processing+Richards)",
+                      "in":  "Merrill I. Skolnik, Introduction to Radar Systems, 3rd editi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Practical RF Circuit Design for Modern Wireless Systems",
+                      "to":  "[Practical RF Circuit Design for Modern Wireless Systems](https://openlibrary.org/search?q=Practical+RF+Circuit+Design+for+Modern+Wireless+Systems+Besser)",
+                      "in":  "Les Besser and Rowan Gilmore, Practical RF Circuit Design fo",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Power Vacuum Tubes Handbook",
+                      "to":  "[Power Vacuum Tubes Handbook](https://openlibrary.org/search?q=Power+Vacuum+Tubes+Handbook+Whitaker)",
+                      "in":  "Jerry C. Whitaker, Power Vacuum Tubes Handbook, and A. S. Gi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Klystrons, Traveling Wave Tubes, Magnetrons, Crossed-Field Amplifiers, and Gyrotrons",
+                      "to":  "[Klystrons, Traveling Wave Tubes, Magnetrons, Crossed-Field Amplifiers, and Gyrotrons](https://openlibrary.org/search?q=Klystrons%2C+Traveling+Wave+Tubes%2C+Magnetrons%2C+Crossed-Field+Amplifiers%2C+and+Gyrotrons+Gilmour)",
+                      "in":  "Jerry C. Whitaker, Power Vacuum Tubes Handbook, and A. S. Gi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "RF Power Amplifiers",
+                      "to":  "[RF Power Amplifiers](https://openlibrary.org/search?q=RF+Power+Amplifiers+Kazimierczuk)",
+                      "in":  "N. O. Sokal and A. D. Sokal, \"Class E: A New Class of High-E",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Behavioral Modeling and Predistortion of Wideband Wireless Transmitters",
+                      "to":  "[Behavioral Modeling and Predistortion of Wideband Wireless Transmitters](https://openlibrary.org/search?q=Behavioral+Modeling+and+Predistortion+of+Wideband+Wireless+Transmitters+Ghannouchi)",
+                      "in":  "Steve C. Cripps, RF Power Amplifiers for Wireless Communicat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "PLL Performance, Simulation, and Design",
+                      "to":  "[PLL Performance, Simulation, and Design](https://openlibrary.org/search?q=PLL+Performance%2C+Simulation%2C+and+Design+Banerjee)",
+                      "in":  "Dean Banerjee, PLL Performance, Simulation, and Design, and ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Accurate Models for Microstrip Computer-Aided Design",
+                      "to":  "[Accurate Models for Microstrip Computer-Aided Design](https://search.crossref.org/?q=Accurate+Models+for+Microstrip+Computer-Aided+Design)",
+                      "in":  "E. Hammerstad and Ø. Jensen, \"Accurate Models for Microstrip",
+                      "max":  1
+                  },
+                  {
+                      "find":  "A Simple Model of Feedback Oscillator Noise Spectrum",
+                      "to":  "[A Simple Model of Feedback Oscillator Noise Spectrum](https://search.crossref.org/?q=A+Simple+Model+of+Feedback+Oscillator+Noise+Spectrum)",
+                      "in":  "Floyd M. Gardner, Phaselock Techniques, 3rd edition, and Rol",
+                      "max":  1
+                  },
+                  {
+                      "find":  "A New High Efficiency Power Amplifier for Modulated Waves",
+                      "to":  "[A New High Efficiency Power Amplifier for Modulated Waves](https://search.crossref.org/?q=A+New+High+Efficiency+Power+Amplifier+for+Modulated+Waves)",
+                      "in":  "W. H. Doherty, \"A New High Efficiency Power Amplifier for Mo",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Power Amplifiers and Transmitters for RF and Microwave",
+                      "to":  "[Power Amplifiers and Transmitters for RF and Microwave](https://search.crossref.org/?q=Power+Amplifiers+and+Transmitters+for+RF+and+Microwave)",
+                      "in":  "F. H. Raab et al., \"Power Amplifiers and Transmitters for RF",
+                      "max":  1
+                  },
+                  {
+                      "find":  "mm-Wave Silicon Power Amplifiers and Transmitters",
+                      "to":  "[mm-Wave Silicon Power Amplifiers and Transmitters](https://openlibrary.org/search?q=mm-Wave+Silicon+Power+Amplifiers+and+Transmitters+Hashemi)",
+                      "in":  "Ali M. Niknejad and colleagues\u0027 papers on CMOS power amplifi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "RF and Microwave Power Amplifier Design",
+                      "to":  "[RF and Microwave Power Amplifier Design](https://openlibrary.org/search?q=RF+and+Microwave+Power+Amplifier+Design+Grebennikov)",
+                      "in":  "Ali M. Niknejad and colleagues\u0027 papers on CMOS power amplifi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Radio Frequency Integrated Circuits and Technologies",
+                      "to":  "[Radio Frequency Integrated Circuits and Technologies](https://openlibrary.org/search?q=Radio+Frequency+Integrated+Circuits+and+Technologies+Ellinger)",
+                      "in":  "Frank Ellinger, Radio Frequency Integrated Circuits and Tech",
+                      "max":  1
+                  },
+                  {
+                      "find":  "RF MEMS: Theory, Design, and Technology",
+                      "to":  "[RF MEMS: Theory, Design, and Technology](https://openlibrary.org/search?q=RF+MEMS%3A+Theory%2C+Design%2C+and+Technology+Rebeiz)",
+                      "in":  "GlobalFoundries and STMicroelectronics RF SOI process briefs",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Surface Acoustic Wave Devices in Telecommunications",
+                      "to":  "[Surface Acoustic Wave Devices in Telecommunications](https://openlibrary.org/search?q=Surface+Acoustic+Wave+Devices+in+Telecommunications+Hashimoto)",
+                      "in":  "Ken-ya Hashimoto, Surface Acoustic Wave Devices in Telecommu",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Analog Optical Links",
+                      "to":  "[Analog Optical Links](https://openlibrary.org/search?q=Analog+Optical+Links+Cox)",
+                      "in":  "Charles H. Cox III, Analog Optical Links; Jianping Yao, \"Mic",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The ARRL Handbook for Radio Communications",
+                      "to":  "[The ARRL Handbook for Radio Communications](https://openlibrary.org/search?q=The+ARRL+Handbook+for+Radio+Communications+ARRL)",
+                      "in":  "The ARRL Handbook for Radio Communications; 47 CFR Part 97 (",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Radio Astronomy",
+                      "to":  "[Radio Astronomy](https://openlibrary.org/search?q=Radio+Astronomy+Kraus)",
+                      "in":  "IS-GPS-200 for the L1 C/A signal level; Semtech SX1276 data ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "On the Continuity of High Efficiency Modes in Linear RF Power Amplifiers",
+                      "to":  "[On the Continuity of High Efficiency Modes in Linear RF Power Amplifiers](https://search.crossref.org/?q=On+the+Continuity+of+High+Efficiency+Modes+in+Linear+RF+Power+Amplifiers)",
+                      "in":  "Frank Ellinger, Radio Frequency Integrated Circuits and Tech",
+                      "max":  1
+                  },
+                  {
+                      "find":  "First Demonstration of Amplification at 1 THz Using 25-nm InP High Electron Mobility Transistor Process",
+                      "to":  "[First Demonstration of Amplification at 1 THz Using 25-nm InP High Electron Mobility Transistor Process](https://search.crossref.org/?q=First+Demonstration+of+Amplification+at+1+THz+Using+25-nm+InP+High+Electron+Mobility+Transistor+Process)",
+                      "in":  "GlobalFoundries and STMicroelectronics RF SOI process briefs",
+                      "max":  1
+                  },
+                  {
+                      "find":  "5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate",
+                      "to":  "[5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate](https://search.crossref.org/?q=5+GHz+Laterally-Excited+Bulk-Wave+Resonators+%28XBARs%29+Based+on+Thin+Platelets+of+Lithium+Niobate)",
+                      "in":  "Ken-ya Hashimoto, Surface Acoustic Wave Devices in Telecommu",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The Fundamentals of Millimeter Wave Sensors",
+                      "to":  "[The Fundamentals of Millimeter Wave Sensors](https://search.crossref.org/?q=The+Fundamentals+of+Millimeter+Wave+Sensors)",
+                      "in":  "Texas Instruments IWR6843 and IWR1843 data sheets and the wh",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar",
+                      "to":  "[Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar](https://search.crossref.org/?q=Soli%3A+Ubiquitous+Gesture+Sensing+with+Millimeter+Wave+Radar)",
+                      "in":  "Texas Instruments IWR6843 and IWR1843 data sheets and the wh",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Microwave Photonics",
+                      "to":  "[Microwave Photonics](https://search.crossref.org/?q=Microwave+Photonics)",
+                      "in":  "Charles H. Cox III, Analog Optical Links; Jianping Yao, \"Mic",
+                      "max":  1
+                  },
+                  {
+                      "find":  "A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation",
+                      "to":  "[A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation](https://search.crossref.org/?q=A+Legacy+in+Orbit%3A+NOAA+Decommissions+the+POES+Satellite+Constellation)",
+                      "in":  "IS-GPS-200 for the L1 C/A signal level; Semtech SX1276 data ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Touchstone File Format Specification, Version 2.0",
+                      "to":  "[Touchstone File Format Specification, Version 2.0](https://ibis.org/touchstone_ver2.0/)",
+                      "in":  "Touchstone File Format Specification, Version 2.0, IBIS Open",
+                      "max":  1
+                  },
+                  {
+                      "find":  "scikit-rf documentation",
+                      "to":  "[scikit-rf documentation](https://scikit-rf.readthedocs.io/)",
+                      "in":  "Touchstone File Format Specification, Version 2.0, IBIS Open",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity",
+                      "to":  "[Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+1%3A+Motion%2C+Forces%2C+Time%2C+and+Relativity+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Physics, Actually, Volume 1: Motion, Forces, Time, and Relat",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime",
+                      "to":  "[Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+2%3A+Gravity%2C+Cosmology%2C+and+the+Limits+of+Spacetime+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Physics, Actually, Volume 2: Gravity, Cosmology, and the Lim",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge",
+                      "to":  "[Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+3%3A+The+Standard+Model%2C+Chaos%2C+and+the+Edge+of+Knowledge+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Physics, Actually, Volume 3: The Standard Model, Chaos, and ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere",
+                      "to":  "[Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere](https://www.amazon.com/s?k=Life%2C+Actually%3A+From+the+First+Cell+to+the+Edited+Genome+and+the+Search+for+Life+Elsewhere+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Life, Actually: From the First Cell to the Edited Genome and",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard",
+                      "to":  "[Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard](https://www.amazon.com/s?k=Gravity%2C+Actually%3A+Einstein%E2%80%99s+Relativity+in+Plain+Words%3A+Falling%2C+Time%2C+Black+Holes%2C+and+the+Waves+We+Finally+Heard+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Gravity, Actually: Einstein’s Relativity in Plain Words: Fal",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The Universe, Actually: What Humanity Currently Understands About Reality",
+                      "to":  "[The Universe, Actually: What Humanity Currently Understands About Reality](https://www.amazon.com/s?k=The+Universe%2C+Actually%3A+What+Humanity+Currently+Understands+About+Reality+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "The Universe, Actually: What Humanity Currently Understands ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Math, Actually, Volume 1: From Arithmetic to Calculus",
+                      "to":  "[Math, Actually, Volume 1: From Arithmetic to Calculus](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+1%3A+From+Arithmetic+to+Calculus+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Math, Actually, Volume 1: From Arithmetic to Calculus",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Math, Actually, Volume 2: From Multivariable Calculus to Set Theory \u0026 Logic",
+                      "to":  "[Math, Actually, Volume 2: From Multivariable Calculus to Set Theory \u0026 Logic](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+2%3A+From+Multivariable+Calculus+to+Set+Theory+%26+Logic+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Math, Actually, Volume 2: From Multivariable Calculus to Set",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Math, Actually, Volume 3: From Differential Equations to Abstract Algebra",
+                      "to":  "[Math, Actually, Volume 3: From Differential Equations to Abstract Algebra](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+3%3A+From+Differential+Equations+to+Abstract+Algebra+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Math, Actually, Volume 3: From Differential Equations to Abs",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Math, Actually, Volume 4: From Category Theory to the Frontier",
+                      "to":  "[Math, Actually, Volume 4: From Category Theory to the Frontier](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+4%3A+From+Category+Theory+to+the+Frontier+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Math, Actually, Volume 4: From Category Theory to the Fronti",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire",
+                      "to":  "[Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+1%3A+Questions+and+Answers+from+the+Double+Slit+to+the+Superconducting+Wire+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Quantum, Actually, Volume 1: Questions and Answers from the ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Quantum, Actually, Volume 2: A QED Course",
+                      "to":  "[Quantum, Actually, Volume 2: A QED Course](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+2%3A+A+QED+Course+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Quantum, Actually, Volume 2: A QED Course",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights",
+                      "to":  "[Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights](https://www.amazon.com/s?k=Science+Sparks%3A+Physics%2C+Life%2C+and+Mathematics+%E2%80%94+The+Same+Few+Rules%2C+Told+in+Highlights+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Science Sparks: Physics, Life, and Mathematics — The Same Fe",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Look First, Volume 1: The Universe Has No Now",
+                      "to":  "[Look First, Volume 1: The Universe Has No Now](https://www.amazon.com/s?k=Look+First%2C+Volume+1%3A+The+Universe+Has+No+Now+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Look First, Volume 1: The Universe Has No Now",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Look First, Volume 2: A Trip Is Not a New Life",
+                      "to":  "[Look First, Volume 2: A Trip Is Not a New Life](https://www.amazon.com/s?k=Look+First%2C+Volume+2%3A+A+Trip+Is+Not+a+New+Life+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Look First, Volume 2: A Trip Is Not a New Life",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Foundations of Electronics",
+                      "to":  "[Foundations of Electronics](https://www.amazon.com/s?k=Foundations+of+Electronics+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Foundations of Electronics (Book 1)",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Circuits, Components, and Control",
+                      "to":  "[Circuits, Components, and Control](https://www.amazon.com/s?k=Circuits%2C+Components%2C+and+Control+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Circuits, Components, and Control (Book 2)",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Semiconductor Physics and Devices",
+                      "to":  "[Semiconductor Physics and Devices](https://www.amazon.com/s?k=Semiconductor+Physics+and+Devices+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Semiconductor Physics and Devices (Book 3)",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Communications, Wireless, and SDR",
+                      "to":  "[Communications, Wireless, and SDR](https://www.amazon.com/s?k=Communications%2C+Wireless%2C+and+SDR+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Communications, Wireless, and SDR (Book 5)",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Power and Energy",
+                      "to":  "[Power and Energy](https://www.amazon.com/s?k=Power+and+Energy+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Power and Energy (Book 6)",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Packaging, Layout, EMC, and Test",
+                      "to":  "[Packaging, Layout, EMC, and Test](https://www.amazon.com/s?k=Packaging%2C+Layout%2C+EMC%2C+and+Test+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Packaging, Layout, EMC, and Test (Book 7)",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The Dolphins’ View of History",
+                      "to":  "[The Dolphins’ View of History](https://www.amazon.com/s?k=The+Dolphins%E2%80%99+View+of+History+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "The Dolphins’ View of History",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The Murder That Hadn’t Happened Yet",
+                      "to":  "[The Murder That Hadn’t Happened Yet](https://www.amazon.com/s?k=The+Murder+That+Hadn%E2%80%99t+Happened+Yet+Spezala+Genara+Relavi\u0026i=digital-text)",
+                      "in":  "The Murder That Hadn’t Happened Yet (The Relativistic Invest",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The Warning That Was Sent Too Late",
+                      "to":  "[The Warning That Was Sent Too Late](https://www.amazon.com/s?k=The+Warning+That+Was+Sent+Too+Late+Spezala+Genara+Relavi\u0026i=digital-text)",
+                      "in":  "The Warning That Was Sent Too Late (The Relativistic Investi",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Schrödinger’s Paperwork",
+                      "to":  "[Schrödinger’s Paperwork](https://www.amazon.com/s?k=Schr%C3%B6dinger%E2%80%99s+Paperwork+Quentin+Edmund+Darling\u0026i=digital-text)",
+                      "in":  "Schrödinger’s Paperwork (Lolly Wren’s Curious Science Advent",
+                      "max":  1
+                  },
+                  {
+                      "find":  "The Permitted Options",
+                      "to":  "[The Permitted Options](https://www.amazon.com/s?k=The+Permitted+Options+Quentin+Edmund+Darling\u0026i=digital-text)",
+                      "in":  "The Permitted Options (Lolly Wren’s Curious Science Adventur",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Protocol Flamingo",
+                      "to":  "[Protocol Flamingo](https://www.amazon.com/s?k=Protocol+Flamingo+George+Herbert+Fontaine\u0026i=digital-text)",
+                      "in":  "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar ",
+                      "max":  1
+                  },
+                  {
+                      "find":  "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?",
+                      "to":  "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol\u0026i=digital-text)",
+                      "in":  "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
+                      "max":  1
+                  }
+              ]
 }

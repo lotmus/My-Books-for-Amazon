@@ -1,0 +1,15 @@
+* 1N4148 library model (LTspice standard.dio form) checked against datasheet limits
+.model D1N4148 D(Is=2.52n Rs=0.568 N=1.752 Cjo=4p M=0.4 Tt=20n)
+.options TNOM=27
+.temp 27
+I1 0 a 1m
+D1 a 0 D1N4148
+.control
+foreach i 1e-4 1e-3 5e-3 1e-2 1e-1
+  alter I1 dc = $i
+  op
+  print v(a)
+end
+quit
+.endc
+.end

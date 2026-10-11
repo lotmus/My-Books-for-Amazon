@@ -1,0 +1,126 @@
+H1: Appendix A. Quick Reference: Formulas, Spec Cheat Sheets, Checklists, and SCPI Basics
+H2: A.1 Formulas used in this book
+P: Accuracy (Chapter 1): error = ±(% of reading × reading + % of range × range), or ±(% of reading + counts × resolution).
+P: Uncertainty (Chapter 2): combine independent standard uncertainties as the root sum of squares; a rectangular limit ±a has u = a/√3; expanded U = k u with k = 2 for about 95 %. Test uncertainty ratio = tolerance/U, 4:1 or better.
+P: Loading (Chapter 3): a source Rs read by a meter Rin reads Rin/(Rs + Rin) of the true value; a probe's capacitance has a reactance 1/(2πfC).
+P: Remote sense (Chapter 5): the load voltage error without sense is I × (R_lead+ + R_lead−).
+P: Diode from the log plot (Chapter 7): n = slope per decade/(Vt ln 10), Vt ln 10 = 59.5 mV at 300 K; Rs = excess voltage/I at high current; Zener rz = ΔV/ΔI.
+P: Early voltage (Chapter 7): VA = Ic/slope − VCE at the point used; ro = 1/slope.
+P: MOSFET (Chapter 7): subthreshold slope S = ΔVgs per decade, slope factor n = S/(Vt ln 10); gm = ΔId/ΔVgs; Rds(on) = Vds/Id at small Vds, four-wire.
+P: Capacitances (Chapter 8): Cgd = Crss, Cgs = Ciss − Crss, Cds = Coss − Crss. Junction: Cj = Cjo/(1 + Vr/Vj)^M.
+P: Gate charge and double pulse (Chapter 8): Q = Ig t at constant gate current; first pulse t₁ = L I/V; E = ∫ v i dt; Qrr ≈ ½ Irrm trr for a triangle; Zth = ΔT/P with ΔT = ΔV/K.
+P: Integrating converters (Chapter 12): rejection |sin(πfT)/(πfT)| for aperture T; noise ∝ 1/√T; true RMS of a square wave equals its peak, of a triangle peak/√3; average-responding meters read 1.111 × the rectified average.
+P: Impedance (Chapter 13): D = ESR/X = 1/Q; Cs = Cp(1 + D²); SRF = 1/(2π√(LC)).
+P: Low level (Chapter 14): Johnson noise √(4kTRB), 4.07 nV for 10 kΩ in 0.1 Hz at 300 K; delta method V = (V₊ − V₋)/2; settling to 0.1 % takes 6.9 τ.
+P: Counters (Chapter 15): reciprocal resolution = clock period (or interpolator resolution)/gate time; trigger jitter = noise/slew rate.
+P: Oscilloscopes (Chapter 16): rise time ≈ 0.35/bandwidth; displayed rise time = √(signal² + scope² + probe²); capture time = memory/sample rate; SINAD = 6.02 ENOB + 1.76 dB.
+P: Probes (Chapter 17): ground-lead inductance about 1 nH/mm, ringing at 1/(2π√(LC)); a 10× passive probe loads with 10 MΩ and 10 to 15 pF.
+P: TDR (Chapter 18): ρ = (Z − Z0)/(Z + Z0); distance d = v t/2; resolution about v tr/2.
+P: Generators (Chapters 19 and 20): DDS f_out = M f_clk/2^N; 0 dBm on 50 Ω = 0.224 V rms; AWG sinc(f/fs) roll-off and images at fs ± f; mismatch uncertainty 20 log(1 ± |Γs||Γl|); φrms = √(2 × 10^(dBc/10)), jitter = φrms/(2πf).
+P: Spectrum analyzers (Chapter 21): DANL = −174 dBm/Hz + NF + 10 log(RBW); sweep time ≈ 2 to 3 × span/RBW²; optimum mixer level (2 TOI + DANL)/3; dynamic range 2/3 (TOI − DANL).
+P: FFT and EMI (Chapter 22): bin = fs/N; RBW = ENBW × fs/N; dBµV = dBm + 107; field E = V + AF + cable loss.
+P: Power (Chapter 23): pulse power = average/duty cycle; mismatch 20 log(1 ± |Γs||Γl|).
+P: Noise (Chapter 24): F = ENR/(Y − 1) in linear terms; Friis F = F1 + (F2 − 1)/G1; L(f) = noise in RBW − carrier − 10 log(RBW); cross-correlation gains 5 log10(N) dB.
+P: Network analysis (Chapters 25 to 27): Γ = (Z − Z0)/(Z + Z0); RL = −20 log|Γ|; VSWR = (1 + |Γ|)/(1 − |Γ|); group delay = −dφ/dω; time-domain range = 1/Δf, resolution ≈ 1/span; OIP3 = Pout + ΔIM3/2; PAE = (Pout − Pin)/Pdc.
+P: Analog modulation (Chapter 28): AM sidebands 20 log(m/2) dBc; FM β = Δf/fm, Carson 2(Δf + fm); carrier nulls at β = 2.405, 5.520, 8.654.
+P: Digital modulation (Chapter 29): EVM from noise 1/√SNR, from phase noise φrms in radians, from gain imbalance half the split, combined as a root sum of squares; MER = −20 log(EVM) with average normalization; device EVM = √(measured² − residual²); BER = ½ erfc(Q/√2); occupied bandwidth Rs(1 + α).
+P: Transmitter spectrum (Chapter 30): ACLR = P_adjacent/P_main; noise in a channel = N(dBm/Hz) + 10 log(BW); uncorrelated contributions add in power, correlated ones in voltage; mask integration + 10 log(limit BW/RBW); backoff ≥ CCDF value at 0.01 %.
+P: OFDM (Chapter 31): subcarrier spacing 15 × 2^µ kHz; symbol and CP scale by 1/2^µ; NR occupied bandwidth = RBs × 12 × spacing; path covered by the CP = c × CP.
+P: Chirps and pulses (Chapter 32): LoRa symbol 2^SF/B, bit rate SF × B/2^SF × CR; FMCW beat fb = 2RS/c, resolution c/(2B); duty = τ × PRF; average = peak × duty; lines 20 log(duty) below the peak.
+P: Optical, thermal, and EMC (Chapter 33): Δf = cΔλ/λ²; OTDR resolution ≈ cτ/(2n); spot = IFOV × distance, three pixels per target; common-mode radiation E ≈ 1.257e−6 × I f L/d.
+P: Automation (Chapters 34 and 36): block header #<n><length>; time per reading = integration + round trip unless buffered; Cpk = min(USL − μ, μ − LSL)/(3σ); GR&R = 6σ_ms/tolerance; UPH = 3600 × sites/(test + handling).
+P: Threshold voltage (Chapter 35): by linear extrapolation, Vth = Vgs(gm,max) − Id/gm,max − Vds/2; by constant current, the Vgs at which Id reaches the stated current (often 250 µA or 1 mA) with the drain tied to the gate. Name the method with the number.
+P: Temperature soak (Chapter 35): after a step ΔT with time constant τ, the error falls to a band b after t = τ ln(ΔT/b); 300 s × ln(50/0.2) = 1656 s, plus the stability window.
+P: Budget bench (Chapters 37 and 38): a VNA proves a match only to about 10 dB short of its S11 floor (|Γ| ± floor); 8-bit SNR 49.9 dB plus 10 log(Nyquist bandwidth/bin); mini tracer current resolution = ADC LSB/R_sense; test uncertainty ratio = tolerance/reference uncertainty.
+H2: A.2 Safe limits before every curve-tracer sweep
+BOXCOPY: ch07.txt | Safe limits
+H2: A.3 Reading a VI you did not write
+BOXCOPY: ch35.txt | Reading a VI
+H2: A.4 Specification cheat sheets
+P: Power supply: ranges and power envelope, programming and readback accuracy, load and line regulation, ripple and noise (rms and peak-to-peak, with bandwidth), transient recovery, remote sense, output impedance; ask for the current-limit behavior.
+P: SMU: quadrants and power envelope, lowest current range and its noise, force and measure accuracy per range, settling time, pulse width, guard and triax; ask for the speed at the needed accuracy.
+P: DMM: digits and counts, accuracy ±(% of reading + % of range) for each function and period, NMRR at NPLC ≥ 1, input resistance (10 MΩ or above 10 GΩ), true-rms bandwidth and crest factor, CAT rating.
+P: LCR meter: frequency range and resolution, test signal level, basic accuracy and its dependence on impedance, frequency, and level, DC bias, fixture compensation.
+P: Counter: single-shot resolution (ps), digits per second, timebase aging and temperature stability, input sensitivity and bandwidth, burst and pulse modes.
+P: Oscilloscope: bandwidth and rise time, sample rate per channel when all are on, memory, ADC bits and noise floor (µV rms at a stated bandwidth), ENOB, trigger jitter, waveform rate, probe bandwidth and loading.
+P: Generators: frequency range and resolution, amplitude accuracy and flatness, harmonics and spurs (dBc), phase noise at the offsets that matter, modulation bandwidth, AWG sample rate and memory, residual EVM for a VSG.
+P: Spectrum analyzer: frequency range, DANL (with and without preamplifier), TOI, phase noise, RBW range, amplitude accuracy, analysis bandwidth and real-time POI, EMI detectors.
+P: Power meter and sensors: frequency and power range, linearity, zero and drift, calibration factor uncertainty, sensor match (SWR), video bandwidth for peak sensors.
+P: VNA: frequency range, dynamic range at a stated IFBW, trace noise, source power range, receiver compression, calibrated directivity and source match for the kit used, number of ports, time-domain option.
+P: Signal and modulation analysis: analysis bandwidth, residual EVM for the standard, supported standards and their licenses, capture memory, ACLR dynamic range.
+H2: A.5 SCPI basics
+P: Syntax: keywords separated by colons, short forms in capitals (MEASure:VOLTage:DC? as MEAS:VOLT:DC?), parameters after a space, queries ending in ?, several commands separated by semicolons; numbers in SI units with an optional suffix (10E-3 or 10 mV where supported).
+P: IEEE 488.2 common commands: *IDN? identify; *RST reset; *CLS clear status and errors; *OPC? wait and reply 1; *OPC set the operation-complete bit; *WAI wait before the next command; *ESE and *ESR? event status enable and register; *SRE and *STB? service request enable and status byte; *TST? self-test; *TRG software trigger.
+P: Errors: SYST:ERR? returns the oldest error (0,"No error" when empty); −100 to −199 command errors (−113 undefined header), −200 to −299 execution errors (−222 data out of range), −300 to −399 device errors, −400 to −499 query errors (−410 query interrupted).
+P: Data: FORM ASC or FORM REAL,32; FORM:BORD NORM or SWAP; binary blocks #<n><length><bytes>; a terminating newline after the block.
+P: Triggers and buffers: TRIG:SOUR, TRIG:COUN, SAMP:COUN, INIT, then FETC? for buffered readings; READ? = INIT + FETC?; MEAS? = CONF + READ? with default settings.
+ANSWERS: Appendix B. Worked Solutions to the Practice Problems
+H1: Appendix C. Sources
+P: The specifications, commands, and facts quoted in this book were checked against the documentation below, current in October 2026; the books listed go deeper. Instrument datasheets and firmware are revised often, so check the version you own.
+SRC: JCGM 100:2008, Evaluation of measurement data: Guide to the expression of uncertainty in measurement (GUM), and JCGM 200:2012, the International vocabulary of metrology (VIM), for accuracy, precision, uncertainty, and traceability (Chapters 1 and 2). ILAC-G8:09/2019, Guidelines on decision rules and statements of conformity, for guard bands (Chapter 2).
+SRC: IEC 61010-1 and IEC 61010-031, safety requirements for measuring equipment and hand-held probe assemblies, for measurement categories (Chapter 4).
+SRC: Keithley (Tektronix), Low Level Measurements Handbook, 7th edition, for guarding, thermal EMF, the delta method, and picoampere technique (Chapters 3, 6, 14).
+SRC: Keithley (Tektronix), Model 2450 SourceMeter Reference Manual and User's Manual, and the application note on I-V characterization of diodes with the 2450, for the SCPI commands and specifications (Chapters 6, 7, 35). The npTDMS documentation, for reading TDMS files in Python (Chapter 35).
+SRC: Keysight Technologies, B1500A and B1505A data sheets and the Parametric Measurement Handbook, for SMU, curve-tracer, C-V, and power-device characterization methods (Chapters 6 to 8). Tektronix 576 curve tracer instruction manual, for the classic tracer (Chapter 7).
+SRC: Infineon, Toshiba, and Nexperia application notes on MOSFET datasheet parameters, gate charge, double-pulse testing, and thermal impedance, and JEDEC JESD24 and JESD51 series, for the test definitions of Chapter 8. ngspice user's manual, for the diode model parameters (Chapter 8).
+SRC: Markus Frejek and Karl-Heinz Kübbeler, the open-source AVR transistor tester (documentation on mikrocontroller.net), for the hobby component tester (Chapter 7).
+SRC: Keysight Technologies, 34465A and 3458A data sheets, the Fluke 8588A specifications, and the Keithley DMM7510 data sheet, for multimeter architecture, apertures, and specifications (Chapter 12).
+SRC: Keysight Technologies, Impedance Measurement Handbook, 6th edition, and the E4980A and E4990A data sheets, for LCR and impedance analyzer methods and ranges (Chapter 13).
+SRC: Keysight Technologies, 53230A data sheet and the application note Fundamentals of Time Interval Measurements; NIST Special Publication 1065, Handbook of Frequency Stability Analysis (W. J. Riley), for counters and the Allan deviation (Chapter 15).
+SRC: NI, LabVIEW manual and LabVIEW API reference (Python Node, .NET, TDMS, and VISA functions), the LabVIEW 2026 Q3 release notes, the Integrating Python Code in LabVIEW compatibility table, and the Community Edition usage details page, checked in October 2026 (Chapter 35).
+SRC: NI, TestStand help (process models, step types, module adapters, reports, and database logging), and the NI-DAQmx documentation with the nidaqmx Python API reference, including the DAQmx buffer size allocation article (Chapter 35).
+SRC: IVI Foundation, VISA specification (VPP-4.3) and SCPI-1999; PyVISA documentation, for remote control (Chapters 11, 34, 35).
+SRC: Tektronix, ABCs of Probes Primer, and the oscilloscope and probe data sheets of Keysight, Rohde & Schwarz, Tektronix, Rigol, and Siglent, for scope architecture, probe loading, and specifications (Chapters 16 to 18, 37).
+SRC: Keysight Technologies, Spectrum Analysis Basics (Application Note 150), and the X-Series signal analyzer and N9038B EMI receiver documentation; Rohde & Schwarz FSW and ESR documentation; CISPR 16-1-1 and CISPR 32, for spectrum, EMI, and limit values (Chapters 21, 22, 33).
+SRC: Keysight Technologies, Noise Figure Measurement Accuracy: The Y-Factor Method (Application Note 57-2), and phase-noise analyzer documentation, for noise figure and phase noise (Chapter 24).
+SRC: Keysight Technologies, Understanding the Fundamental Principles of Vector Network Analysis (Application Note 1287-1), and VNA calibration and de-embedding application notes from Keysight, Rohde & Schwarz, Anritsu, and Copper Mountain, for network analysis (Chapters 25 to 27).
+SRC: 3GPP TS 38.104 (NR base station radio transmission and reception), TS 36.104 (LTE), IEEE 802.11ax and 802.11be, and the Bluetooth RF-PHY test specification on the Bluetooth specifications page, for EVM, ACLR, and modulation limits (Chapters 29 to 32).
+SRC: IVI Foundation specifications (IVI-C, IVI.NET, VISA.NET) on the IVI Foundation specifications page; PyMeasure documentation; OpenHTF documentation, for drivers and test frameworks (Chapters 34 and 36).
+SRC: tinySA wiki (specifications of the tinySA Ultra); NanoVNA and LiteVNA documentation at nanovna.com; RTL-SDR Blog V4 datasheet; HackRF One documentation, for the budget instruments (Chapter 37).
+SRC: Microchip MCP4728 and Texas Instruments ADS1115 data sheets, and the MicroPython documentation for the RP2040 and ESP32 ports, for the mini curve tracer (Chapter 38).
+REVIEW: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+H1: About the Author
+P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+H1: Also by Lothar J. Musiol
+ALSOG: Physics, Actually
+ALSOT: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+ALSOT: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+ALSOT: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+ALSOT: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+ALSOG: More Actually Books
+ALSOT: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+ALSOT: The Universe, Actually: What Humanity Currently Understands About Reality
+ALSOG: Math, Actually
+ALSOT: Math, Actually, Volume 1: From Arithmetic to Calculus
+ALSOT: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+ALSOT: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+ALSOT: Math, Actually, Volume 4: From Category Theory to the Frontier
+ALSOG: Quantum, Actually
+ALSOT: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+ALSOT: Quantum, Actually, Volume 2: A QED Course
+ALSOG: Science Sparks
+ALSOT: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+ALSOG: Look First
+ALSOT: Look First, Volume 1: The Universe Has No Now
+ALSOT: Look First, Volume 2: A Trip Is Not a New Life
+ALSOG: Electrical Engineering Series
+ALSOT: Foundations of Electronics (Book 1)
+ALSOT: Circuits, Components, and Control (Book 2)
+ALSOT: Semiconductor Physics and Devices (Book 3)
+ALSOT: RF, Microwave, and Transceivers (Book 4)
+ALSOT: Communications, Wireless, and SDR (Book 5)
+ALSOT: Power and Energy (Book 6)
+ALSOT: Packaging, Layout, EMC, and Test (Book 7)
+ALSOT: Firmware and Software for Electronics (Book 8)
+ALSOG: History
+ALSOT: The Dolphins’ View of History
+ALSOG: Fiction
+ALSOT: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+ALSOT: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+ALSOT: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+ALSOT: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+ALSOT: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+ALSOT: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+ALSOG: In German
+ALSOT: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?

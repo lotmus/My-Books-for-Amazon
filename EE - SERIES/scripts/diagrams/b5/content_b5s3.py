@@ -1,0 +1,105 @@
+# -*- coding: utf-8 -*-
+"""Book 5 pass 2 (11 Oct 2026): full worked solutions, Chapters 14-21."""
+S = {}
+S[14] = {
+1: "Idea: pure ALOHA throughput is S = G e^(−2G), maximized where dS/dG = 0, at G = 0.5. S = 0.5 × e^(−1) = 0.184, 18.4 %. Check: slotted ALOHA, which halves the vulnerable period, doubles the peak to 36.8 %. The usual mistake is to put the peak at G = 1.",
+2: "Idea: slotted ALOHA throughput is S = G e^(−G). At G = 1, S = e^(−1) = 0.368. Check: this is the slotted peak. The usual mistake is to use the pure-ALOHA formula, giving 0.135.",
+3: "Idea: a resource block is 12 subcarriers. 12 × 15 kHz = 180 kHz. Check: at 30 kHz spacing it is 360 kHz. The usual mistake is to count 14 subcarriers, confusing them with the 14 symbols of a slot.",
+4: "Idea: efficiency = payload time/(payload + overhead). 1500 × 8/1.2 × 10⁹ = 10 µs, so 10/195.5 = 5.1 %. Check: Worked Example 14.2's 600 Mbit/s link had 20 µs of payload and 9.7 %; doubling the rate halves the payload time and nearly halves the efficiency. The usual mistake is to divide by the overhead alone.",
+5: "Idea: see which times scale with the rate. The payload time shrinks as the rate rises, but the preamble, interframe spaces, backoff, and acknowledgment are fixed, so they take a growing share. Check: Problem 4's 5.1 % against Worked Example 14.2's 9.7 %. The usual mistake is to blame collisions.",
+6: "Idea: proportional fair serves a user when its rate is high relative to its own average. Each user is served near its own fading peaks, and with many users someone is usually near a peak, so the sum rate exceeds any fixed assignment. Check: with one user, or no fading, there is no gain. The usual mistake is to think the scheduler serves only the strongest user, which is max-rate scheduling.",
+7: "Idea: P = P0 + 10 log₁₀M + α PL. −95 + 10 log₁₀20 + 0.7 × 110 = −95 + 13.0 + 77 = −5 dBm. Check: within a handset's 23 dBm maximum. The usual mistake is to apply α to P0 as well.",
+8: "Idea: a 20 MHz 802.11ax channel has 242 usable tones, divided into 52-tone units plus small leftovers. Four units, 208 tones, fit, with the remaining tones forming a 26-tone unit and guards. Check: nine 26-tone units also fit. The usual mistake is 242/52 = 4.65 rounded up to 5.",
+9: "Idea: compare edge users' effect on neighbors. With α < 1 distant users arrive weaker than near ones, which lowers the interference they cause in neighboring cells, whose base stations they are close to; cell-wide throughput rises although edge rates fall a little. Check: α = 1 equalizes received power, α = 0 equalizes transmit power. The usual mistake is to think α < 1 saves handset battery.",
+10: "Idea: a handset collides if any of the other 19 picks its preamble. 1 − (63/64)¹⁹ = 1 − 0.742 = 26 %. Check: 19/64 = 30 % is the first-order estimate, slightly higher. The usual mistake is to use 20 instead of 19.",
+11: "Idea: count downlink symbols over the 10-slot period. 7 downlink slots × 14 + 6 symbols of the special slot = 104 of 140, 74 %. Check: uplink gets 2 × 14 + 4 = 32, guard 4, total 140. The usual mistake is to count the special slot as downlink.",
+}
+S[15] = {
+1: "Idea: a practical code needs the SNR raised by the gap, so η = log₂(1 + SNR/Γ). 25 dB = 316.2, Γ = 2, log₂(159.1) = 7.32 bit/s/Hz against log₂(317.2) = 8.31 for Shannon. Check: at high SNR a 3 dB gap costs about 1 bit/s/Hz. The usual mistake is to subtract 3 dB from the result.",
+2: "Idea: chase combining adds identical copies, so the SNR multiplies by the number of copies. 10 log₁₀3 = 4.8 dB. Check: two copies give 3 dB. The usual mistake is to expect coding gain on top; chase combining has none.",
+3: "Idea: delivered rate = efficiency × (1 − BLER). C: 5.0 × 0.80 = 4.00; D: 4.5 × 0.92 = 4.14. D delivers more. Check: HARQ would recover part of C's failures, narrowing the gap. The usual mistake is to pick the higher nominal rate.",
+4: "Idea: in steady state, up steps × BLER = down steps × (1 − BLER). Down = 1 × 0.01/0.99 = 0.0101 dB. Check: for a 10 % target it would be 0.111 dB. The usual mistake is 0.01 dB exactly, close but not the balance.",
+5: "Idea: incremental redundancy adds new parity, so the combined rate is information bits over all bits sent. Two equal transmissions of a rate-2/3 code send three halves of the information twice: rate 2/3 ÷ 2 = 1/3. Check: the decoder then sees a stronger rate-1/3 code, not a repetition. The usual mistake is to quote 2/3 again.",
+6: "Idea: weigh throughput against failures. An MCS that never fails is too slow all the time, while HARQ repairs occasional failures cheaply, so a moderate error rate with a faster MCS gives more average throughput. Check: Problem 3's comparison shows the optimum near 10 % for typical curves. The usual mistake is to think errors are always bad.",
+7: "Idea: apply the 38.306 formula for the uplink. 2 layers × 6 bits × 0.926 × 3276 subcarriers/35.7 µs × 0.92 = 0.94 Gbit/s. Check: the downlink with 4 layers of 256-QAM is about 2.3 Gbit/s, far higher. The usual mistake is to omit the overhead factor.",
+8: "Idea: the bandwidth-delay product. 3 × 10⁸ × 0.04/8 = 1.5 MB. Check: the old 64 kB TCP window would fill only 13 Mbit/s at 40 ms. The usual mistake is to forget the conversion from bits to bytes.",
+9: "Idea: compare the timescales and the reactions. TCP retransmits only after a full end-to-end round trip and reads the loss as congestion, halving its window; HARQ repairs the error within milliseconds below TCP, so TCP sees a clean link. Check: a 1 % radio loss rate would cap a single TCP flow far below the link rate without HARQ. The usual mistake is to call HARQ redundant.",
+10: "Idea: in Rayleigh fading the SNR falls below x times its mean with probability 1 − e^(−x). x = −ln(0.99) = 0.01005, so the 1 % SNR is 1000 × 0.01005 = 10.05, and C = log₂(11.05) = 3.47 bit/s/Hz. Check: the mean SNR alone would give 9.97 bit/s/Hz. The usual mistake is to use 0.01 × 1000 = 10 and get 3.46; close, but the method matters at higher outage.",
+11: "Idea: add 16 packet times to the fixed overhead of Worked Example 15.7. Each 1500-byte packet takes 12 000/1201 Mbit/s = 9.99 µs, 159.9 µs for 16, plus 201.5 µs of overhead gives 361.4 µs; 192 000 bits/361.4 µs = 531 Mbit/s. Check: Figure 15.1 shows 531 Mbit/s at 16 packets. The usual mistake is to multiply the single-packet throughput by 16.",
+}
+S[16] = {
+1: "Idea: distance = c × t. 2.998 × 10⁸ × 10⁻⁷ = 30.0 m. Check: 1 ns is 30 cm. The usual mistake is to halve it as a round trip; the question is one way.",
+2: "Idea: σd = c/(2π β √(2 SNR)) with β = B/√12 for a flat spectrum. β = 28.9 MHz, SNR = 100, so σd = 2.998 × 10⁸/(2π × 2.89 × 10⁷ × 14.1) = 0.117 m. Check: ten times the bandwidth gives 1.2 cm. The usual mistake is to use B instead of β, giving 3.4 cm.",
+3: "Idea: single-sided ranging error ≈ δ Treply/2. 5 × 10⁻⁶ × 200 µs/2 = 0.5 ns, 0.15 m. Check: double-sided ranging cancels most of it. The usual mistake is to forget the factor of 2.",
+4: "Idea: position error ≈ DOP × range error. 2.5 × 1 m = 2.5 m. Check: good open-sky geometry has HDOP near 1. The usual mistake is to add rather than multiply.",
+5: "Idea: correlation peak width is about 1/B. A wide-band signal's narrow peaks let the receiver separate the direct path from reflections arriving nanoseconds later. Check: 500 MHz gives a 2 ns, 60 cm, peak. The usual mistake is to credit higher power.",
+6: "Idea: count unknowns. The receiver's clock offset is a fourth unknown alongside three coordinates, so four ranges are needed. Check: a receiver with a perfect clock would need three. The usual mistake is to cite geometry alone.",
+7: "Idea: ionospheric delay = 40.3 TEC/f² meters. 40.3 × 10¹⁸/(1.57542 × 10⁹)² = 16.2 m. Check: at L5 the delay is (1575.42/1176.45)² = 1.79 times larger. The usual mistake is to forget to square the frequency.",
+8: "Idea: λ = c/f. 2.998 × 10⁸/1.17645 × 10⁹ = 25.5 cm. Check: L1's wavelength is 19.0 cm. The usual mistake is to use 3 × 10⁸ exactly and report 25.50 as if precise; the third figure is the same.",
+9: "Idea: differencing cancels errors only when they are common. Atmospheric and orbit errors cancel only if both receivers see a satellite through nearly the same atmosphere; beyond a few tens of kilometers the errors decorrelate and the integer cycle counts can no longer be fixed reliably. Check: network RTK interpolates between bases to extend that. The usual mistake is to blame radio range for the corrections link.",
+10: "Idea: round-trip phase difference Δφ = 4π d Δf/c. 4π × 1 × 2 × 10⁶/2.998 × 10⁸ = 0.084 rad, 4.8°. Check: the unambiguous range is c/(2Δf) = 75 m. The usual mistake is to use 2π, the one-way case.",
+11: "Idea: σd ∝ 1/√SNR. A tenfold SNR improves it by √10 = 3.16. Check: the bandwidth term is unchanged. The usual mistake is to expect a factor of 10.",
+}
+S[17] = {
+1: "Idea: a random error pattern passes an r-bit CRC with probability 2^−r. 2^−16 = 1.5 × 10⁻⁵. Check: a 24-bit CRC gives 6 × 10⁻⁸. The usual mistake is to think a CRC catches every error.",
+2: "Idea: rate = information/transmitted. To go from 1/3 to 1/2, keep 2 of every 3 coded bits, a fraction of 2/3. Check: 1 information bit/(3 × 2/3) = 1/2. The usual mistake is to keep 1/2.",
+3: "Idea: from rate 1/3, rate 3/4 needs 4/3 coded bits per information bit, 4/9 of the 3. 1 − 4/9 = 5/9, 55.6 %, punctured. Check: 1/(3 × 4/9) = 3/4. The usual mistake is 1/4.",
+4: "Idea: bits lost = fade duration × rate. 2 ms × 10⁷ = 20 000 bits. Check: an interleaver must spread codewords over much more than 20 000 bits. The usual mistake is to use symbols.",
+5: "Idea: the receiver must collect a whole codeword before decoding. Its bits are spread across the interleaver's span, so the decoder waits for the full span. Check: a 20 ms interleaver adds about 20 ms each way. The usual mistake is to blame processing time.",
+6: "Idea: spread in frequency instead of time. Each codeword covers subcarriers separated by more than the coherence bandwidth, so one fade hits only some bits. Check: a slow fade in a static channel would defeat a time interleaver anyway. The usual mistake is to think OFDM removes fading.",
+7: "Idea: a maximal-length n-bit LFSR cycles through every nonzero state. 2¹⁵ − 1 = 32 767 bits. Check: the all-zero state is excluded because it would stay zero. The usual mistake is 2¹⁵.",
+8: "Idea: 5G uses base graph 2 for small blocks and low rates, base graph 1 for large blocks and high rates. A 300-bit block at rate 1/5 uses base graph 2. Check: base graph 2 serves blocks up to 3840 bits and rates down to 1/5. The usual mistake is to choose by rate alone.",
+9: "Idea: undetected errors per second = failed blocks × 2^−16. 1000 × 1.53 × 10⁻⁵ = 0.0153 per second, × 86 400 = about 1320 per day. Check: a 24-bit CRC would let through about 5 per day. The usual mistake is to forget that a CRC failure rate applies to every failed block.",
+10: "Idea: the link stays busy if processes cover the round trip. 4/0.5 = 8 processes. Check: LTE uses 8 for its 8 ms round trip at 1 ms. The usual mistake is to add one for the current slot when the round trip already includes it.",
+11: "Idea: RS(n, k) corrects (n − k)/2 symbols. (255 − 223)/2 = 16 bytes. Check: up to 128 consecutive bit errors within 16 bytes. The usual mistake is to correct n − k = 32.",
+}
+S[18] = {
+1: "Idea: array gain = 10 log₁₀M. 10 log₁₀256 = 24.1 dB. Check: 64 elements give 18.1 dB. The usual mistake is 20 log.",
+2: "Idea: zero-forcing gain ≈ M − K + 1. 32 − 4 + 1 = 29, 14.6 dB. Check: with one user it equals the array gain, 15.1 dB. The usual mistake is M/K.",
+3: "Idea: overhead = pilots/coherence block. 16/500 = 3.2 %. Check: overhead scales with users, not antennas, in TDD. The usual mistake is to use antennas.",
+4: "Idea: channel hardening makes the variance of the normalized gain fall as 1/M. 64/4 = 16 times. Check: the standard deviation falls by 4. The usual mistake is to answer 4.",
+5: "Idea: who must learn which channels. In TDD, reciprocity lets the base station learn all antennas' channels from uplink pilots, with overhead proportional to users; FDD would need downlink pilots per antenna and feedback. Check: Problem 3's 3.2 % would grow with the antenna count in FDD. The usual mistake is to cite spectrum efficiency alone.",
+6: "Idea: count the cost per chain. Each digital chain needs its own converters and mixers, whose power and cost at millimeter wave are too high for every element. Check: a 256-element array with 4 chains uses phase shifters for the rest. The usual mistake is to think digital beamforming is impossible at millimeter wave.",
+7: "Idea: M − K + 1. 32 − 12 + 1 = 21, 13.2 dB. Check: compare 14.6 dB with 4 users. The usual mistake is to forget the +1.",
+8: "Idea: what dominates at low SNR. Noise dominates interference, so spending array gain to null interference wastes signal; regularization relaxes the nulls and moves the precoder toward maximum-ratio transmission. Check: at high SNR regularized ZF converges to ZF. The usual mistake is to think regularization only adds numerical stability.",
+9: "Idea: one burst per beam. 16 bursts, 320 ms at a 20 ms period. Check: hierarchical search cuts it. The usual mistake is 16 × 16 for both ends when only the handset sweeps here.",
+10: "Idea: gain loss ≈ e^(−σ²). e^(−σ²) = 10^(−0.05) = 0.891, σ² = 0.115, σ = 0.34 rad = 19°. Check: 1 dB costs 0.48 rad, 28°. The usual mistake is to use degrees in the exponent.",
+}
+S[19] = {
+1: "Idea: SIR = (D/r)^n for one interferer. (1/0.5)⁴ = 16, 12.0 dB. Check: n = 2 would give 6 dB. The usual mistake is to use r/D.",
+2: "Idea: add interference and noise in milliwatts. 10^(−8.5) + 10^(−9.5) = 3.48 × 10⁻⁹ mW, −84.6 dBm, so SINR = −80 − (−84.6) = 4.6 dB. Check: noise adds 0.4 dB to the interference. The usual mistake is to add the dB values.",
+3: "Idea: Shannon with the SINR. 10.5 dB = 11.2, log₂(12.2) = 3.61 bit/s/Hz. Check: 10 dB gives 3.46. The usual mistake is to use decibels in the logarithm.",
+4: "Idea: invert SIR = (D/r)^n. (D/r) = 10^(1/3.5) = 1.93. Check: 1.93^3.5 = 10. The usual mistake is 10^(10/3.5).",
+5: "Idea: ratios are unchanged when everything scales. Signal and interference both scale with transmit power, so SIR stays the same and only noise shrinks. Check: an interference-limited user gains only the small noise share. The usual mistake is to think the edge user benefits.",
+6: "Idea: bandwidth beats SINR in Shannon's formula. Using the full bandwidth everywhere gives most users more throughput than a fraction of it at higher SINR, and edge users are protected by coordination. Check: reuse 3 gives a third of the bandwidth for a few decibels. The usual mistake is to think reuse 1 maximizes SINR.",
+7: "Idea: 1/ACIR = 1/ACLR + 1/ACS in linear terms. 10⁻³ + 5.01 × 10⁻⁴ = 1.50 × 10⁻³, ACIR = 28.2 dB. Check: below the weaker term, 30 dB. The usual mistake is to take the smaller dB value.",
+8: "Idea: noise rise = −10 log₁₀(1 − η). −10 log₁₀0.4 = 4.0 dB. Check: 50 % load gives 3 dB. The usual mistake is to use η directly.",
+9: "Idea: in a parallel sum the weaker term dominates. The base station's ACLR, 45 dB, far exceeds the handset's ACS, 33 dB, so the ACIR is near 33 dB. Check: 1/ACIR = 3.2 × 10⁻⁵ + 5.0 × 10⁻⁴, 32.7 dB. The usual mistake is to blame the transmitter.",
+10: "Idea: capacity per area scales with cells per area, the inverse square of spacing. (400/100)² = 16. Check: SINR stays the same in an interference-limited network. The usual mistake is to answer 4.",
+11: "Idea: deferral radius ∝ threshold^(−1/n). 10^(10/30) = 2.15 times smaller. Check: n = 2 would give 3.16. The usual mistake is to divide by 10.",
+}
+S[20] = {
+1: "Idea: slant range d = √((R + h)² − (R cos e)²) − R sin e. With R = 6371 km, h = 550 km, e = 10°: √(6921² − 6274²) − 1106 = 2921 − 1106 = 1815 km. Check: at zenith it is 550 km. The usual mistake is to use h/sin e, 3170 km, the flat-earth answer.",
+2: "Idea: delay = distance/c. 1815 km/2.998 × 10⁵ km/s = 6.05 ms. Check: about 3.3 ms per 1000 km. The usual mistake is to double it.",
+3: "Idea: Doppler scales with carrier frequency. Worked Example 20.2's radial velocity of 6986 m/s gives 12 × 10⁹ × 6986/2.998 × 10⁸ = 280 kHz. Check: 46.6 kHz at 2 GHz × 6 = 280 kHz. The usual mistake is to use the orbital speed.",
+4: "Idea: GEO is 35 786 km up. Round trip user to satellite and back, 2 × 35 786/2.998 × 10⁵ = 239 ms. Check: a full user-to-user hop through the satellite is twice that. The usual mistake is to use the slant range at the edge without saying so.",
+5: "Idea: the satellite receives many users at once. Each has different Doppler; precompensation aligns them in frequency so their subcarriers stay orthogonal. Check: Doppler of tens of kilohertz is several subcarrier spacings. The usual mistake is to think the satellite can correct each user separately before the FFT.",
+6: "Idea: compare path loss and delay. LEO's path loss is about 36 dB lower and its delay milliseconds, not a quarter second, which a handset can tolerate. Check: 20 log₁₀(35 786/550) = 36.3 dB. The usual mistake is to cite only coverage.",
+7: "Idea: C/N0 = EIRP − L + G/T − k, with −k = 228.6 dB. 40 − 190 + 5 + 228.6 = 83.6 dB-Hz. Check: a 10 MHz channel would see 13.6 dB of SNR. The usual mistake is to subtract 228.6.",
+8: "Idea: precompensation needs geometry. The handset must precompensate the satellite's delay and Doppler, and to compute them it needs its own position as well as the satellite's ephemeris. Check: the Doppler varies by tens of kilohertz across a pass. The usual mistake is to think GNSS is for timing only.",
+9: "Idea: trade footprint against slant range. A lower minimum elevation enlarges each footprint, so fewer satellites cover the Earth, but edge users see a longer slant range, more atmosphere, and more obstructions. Check: 550 km at 10° is 1815 km, at 30° about 1000 km. The usual mistake is to think elevation affects only coverage.",
+10: "Idea: specific attenuation γ = k R^α. 0.09 × 25^1.06 = 0.09 × 30.3 = 2.7 dB/km. Check: 5 km of rain path costs 14 dB. The usual mistake is to multiply 25 by 1.06.",
+}
+S[21] = {
+1: "Idea: average current = active current × duty cycle + sleep current. 8 mA × 2 ms/10 s = 1.6 µA, plus 2 µA = 3.6 µA; × 3 V = 10.8 µW. Check: the sleep current is more than half the total. The usual mistake is to ignore sleep.",
+2: "Idea: life = energy/power. 2430 J/10.8 µW = 2.25 × 10⁸ s, about 7.1 years. Check: self-discharge limits coin cells near 10 years. The usual mistake is to use mAh and forget the voltage.",
+3: "Idea: BLE has 40 channels at 2 MHz; three are for advertising, 37, 38, and 39. Check: they sit between the busy Wi-Fi channels 1, 6, and 11. The usual mistake is 37, the data channels.",
+4: "Idea: S = 8 coding sends 8 symbols per bit, 8 times the energy per bit. 10 log₁₀8 = 9.0 dB. Check: the rate falls to 125 kbit/s. The usual mistake is to expect more from coding gain.",
+5: "Idea: processing gain = chip rate/bit rate. 2 × 10⁶/250 × 10³ = 8, 9.0 dB. Check: 802.15.4 maps 4 bits to 32 chips. The usual mistake is to use symbol rate.",
+6: "Idea: repetition gain = 10 log₁₀N. 10 log₁₀32 = 15.1 dB. Check: 16 repetitions give 12 dB. The usual mistake is 20 log.",
+7: "Idea: Tsym = 2^SF/B. 1024/125 000 = 8.19 ms. Check: as in Problem 12.3. The usual mistake is SF/B.",
+8: "Idea: life = capacity/current. 225 mAh/0.01 mA = 22 500 h, about 2.6 years. Check: 10 µA × 3 V = 30 µW, and 2430 J/30 µW = 2.6 years. The usual mistake is to use 1 mA.",
+9: "Idea: airtime is the shared resource. A device moved to a smaller spreading factor occupies the channel for much less time, so the gateway receives more messages before collisions rise, and different spreading factors are nearly orthogonal. Check: SF7 is 28 times shorter than SF12 in Worked Example 21.4. The usual mistake is to see only battery life.",
+10: "Idea: free-space range scales as 10^(ΔdB/20). 10^(6/20) = 2.0 times. Check: 6 dB is a factor of 4 in power, and power falls as distance squared. The usual mistake is 10^(6/10) = 4.",
+}
+S[16][12] = "Idea: FMCW range resolution is c/(2B), and the beat frequency is the sweep slope times the round-trip delay. ΔR = 2.998 × 10⁸/(2 × 4 × 10⁹) = 3.75 cm. The slope is 4 GHz/40 µs = 10¹⁴ Hz/s, the delay 2 × 6/2.998 × 10⁸ = 40.0 ns, so fb = 10¹⁴ × 40.0 × 10⁻⁹ = 4.00 MHz. Check: Worked Example 16.8 uses the same sweep. The usual mistake is to use the one-way delay and get 2.00 MHz."
