@@ -1,5 +1,5 @@
 {
- "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs.",
+ "note": "Kindle link rules (tools/kindle_links.py), 10 Oct 2026: sources as clickable keywords, no visible URLs. 10 Oct 2026 rescore: 39 more source links (Open Library for books, DOI/arXiv/archive PDFs for papers), each checked to resolve.",
  "rules": [
   {
    "find": "Significance of Electromagnetic Potentials in the Quantum Theory\" (Physical Review 115, 485, 1959), https://doi.org/10.1103/PhysRev.115.485",
@@ -341,6 +341,240 @@
   {
    "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
    "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+  },
+  {
+   "find": "Collective Electrodynamics: Quantum Foundations of Electromagnetism",
+   "to": "[Collective Electrodynamics: Quantum Foundations of Electromagnetism](https://openlibrary.org/works/OL9170810W)",
+   "in": "2. The flux-quantization argument",
+   "max": 1
+  },
+  {
+   "find": "QED: The Strange Theory of Light and Matter",
+   "to": "[QED: The Strange Theory of Light and Matter](https://openlibrary.org/works/OL271752W)",
+   "in": "Accessible. Richard Feynman",
+   "max": 1
+  },
+  {
+   "find": "Collective Electrodynamics: Quantum Foundations of Electromagnetism",
+   "to": "[Collective Electrodynamics: Quantum Foundations of Electromagnetism](https://openlibrary.org/works/OL9170810W)",
+   "in": "Intermediate. Carver Mead",
+   "max": 1
+  },
+  {
+   "find": "Introduction to Electrodynamics",
+   "to": "[Introduction to Electrodynamics](https://openlibrary.org/works/OL1999763W)",
+   "in": "Intermediate. Carver Mead",
+   "max": 1
+  },
+  {
+   "find": "An Introduction to Quantum Field Theory",
+   "to": "[An Introduction to Quantum Field Theory](https://openlibrary.org/works/OL4790920W)",
+   "in": "Advanced. Michael E. Peskin",
+   "max": 1
+  },
+  {
+   "find": "Quantum Field Theory and the Standard Model",
+   "to": "[Quantum Field Theory and the Standard Model](https://openlibrary.org/works/OL26347833W)",
+   "in": "Advanced. Michael E. Peskin",
+   "max": 1
+  },
+  {
+   "find": "Collective Electrodynamics: Quantum Foundations of Electromagnetism",
+   "to": "[Collective Electrodynamics: Quantum Foundations of Electromagnetism](https://openlibrary.org/works/OL9170810W)",
+   "in": "Collective Electrodynamics: Quantum Foundations of Electromagnetism, by Carver Mead",
+   "max": 1
+  },
+  {
+   "find": "On the Einstein Podolsky Rosen Paradox",
+   "to": "[On the Einstein Podolsky Rosen Paradox](https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195)",
+   "in": "On the Einstein Podolsky Rosen Paradox, by John S. Bell",
+   "max": 1
+  },
+  {
+   "find": "QED: The Strange Theory of Light and Matter",
+   "to": "[QED: The Strange Theory of Light and Matter](https://openlibrary.org/works/OL271752W)",
+   "in": "QED: The Strange Theory of Light and Matter, by Richard Feynman",
+   "max": 1
+  },
+  {
+   "find": "Quantum Computing for Everyone",
+   "to": "[Quantum Computing for Everyone](https://openlibrary.org/works/OL20156617W)",
+   "in": "Quantum Computing for Everyone, by Chris Bernhardt",
+   "max": 1
+  },
+  {
+   "find": "Quantum Mechanics: The Theoretical Minimum",
+   "to": "[Quantum Mechanics: The Theoretical Minimum](https://openlibrary.org/works/OL19333423W)",
+   "in": "Quantum Mechanics: The Theoretical Minimum, by Leonard Susskind",
+   "max": 1
+  },
+  {
+   "find": "Something Deeply Hidden",
+   "to": "[Something Deeply Hidden](https://openlibrary.org/works/OL20128006W)",
+   "in": "Something Deeply Hidden, by Sean Carroll",
+   "max": 1
+  },
+  {
+   "find": "Spooky Action at a Distance",
+   "to": "[Spooky Action at a Distance](https://openlibrary.org/works/OL19655016W)",
+   "in": "Spooky Action at a Distance, by George Musser",
+   "max": 1
+  },
+  {
+   "find": "The Anthropic Cosmological Principle",
+   "to": "[The Anthropic Cosmological Principle](https://openlibrary.org/works/OL865340W)",
+   "in": "The Anthropic Cosmological Principle, by John D. Barrow",
+   "max": 1
+  },
+  {
+   "find": "The Black Hole War",
+   "to": "[The Black Hole War](https://openlibrary.org/works/OL5827350W)",
+   "in": "The Black Hole War, by Leonard Susskind",
+   "max": 1
+  },
+  {
+   "find": "The Fabric of the Cosmos",
+   "to": "[The Fabric of the Cosmos](https://openlibrary.org/works/OL1909291W)",
+   "in": "The Fabric of the Cosmos, by Brian Greene",
+   "max": 1
+  },
+  {
+   "find": "The Theory of Almost Everything",
+   "to": "[The Theory of Almost Everything](https://openlibrary.org/works/OL7954525W)",
+   "in": "The Theory of Almost Everything, by Robert Oerter",
+   "max": 1
+  },
+  {
+   "find": "On the Magnetic Properties of Superconductors of the Second Group",
+   "to": "[On the Magnetic Properties of Superconductors of the Second Group](https://jetp.ras.ru/cgi-bin/dn/e_005_06_1174.pdf)",
+   "in": "Abrikosov, A. A.",
+   "max": 1
+  },
+  {
+   "find": "The Anthropic Cosmological Principle",
+   "to": "[The Anthropic Cosmological Principle](https://openlibrary.org/works/OL865340W)",
+   "in": "Barrow, John D., and Frank J. Tipler",
+   "max": 1
+  },
+  {
+   "find": "Quantum Cryptography: Public Key Distribution and Coin Tossing",
+   "to": "[Quantum Cryptography: Public Key Distribution and Coin Tossing](https://doi.org/10.1016/j.tcs.2014.05.025)",
+   "in": "Bennett, Charles H., and Gilles Brassard",
+   "max": 1
+  },
+  {
+   "find": "On the Attraction Between Two Perfectly Conducting Plates",
+   "to": "[On the Attraction Between Two Perfectly Conducting Plates](https://dwc.knaw.nl/DL/publications/PU00018547.pdf)",
+   "in": "Casimir, H. B. G.",
+   "max": 1
+  },
+  {
+   "find": "Evidence for the 2π Decay of the K₂⁰ Meson",
+   "to": "[Evidence for the 2π Decay of the K₂⁰ Meson](https://doi.org/10.1103/PhysRevLett.13.138)",
+   "in": "Christenson, J. H.",
+   "max": 1
+  },
+  {
+   "find": "The Cosmic Onion: Quarks and the Nature of the Universe",
+   "to": "[The Cosmic Onion: Quarks and the Nature of the Universe](https://openlibrary.org/works/OL4082416W)",
+   "in": "Close, Frank.",
+   "max": 1
+  },
+  {
+   "find": "QED: The Strange Theory of Light and Matter",
+   "to": "[QED: The Strange Theory of Light and Matter](https://openlibrary.org/works/OL271752W)",
+   "in": "Feynman, Richard P. QED",
+   "max": 1
+  },
+  {
+   "find": "A Student’s Guide to Maxwell’s Equations",
+   "to": "[A Student’s Guide to Maxwell’s Equations](https://openlibrary.org/works/OL281805W)",
+   "in": "Fleisch, Daniel A.",
+   "max": 1
+  },
+  {
+   "find": "Introduction to Electrodynamics",
+   "to": "[Introduction to Electrodynamics](https://openlibrary.org/works/OL1999763W)",
+   "in": "Griffiths, David J. Introduction to Electrodynamics",
+   "max": 1
+  },
+  {
+   "find": "Introduction to Quantum Mechanics",
+   "to": "[Introduction to Quantum Mechanics](https://openlibrary.org/works/OL1999759W)",
+   "in": "Griffiths, David J., and Darrell F. Schroeter",
+   "max": 1
+  },
+  {
+   "find": "Demonstration of the Casimir Force in the 0.6 to 6 μm Range",
+   "to": "[Demonstration of the Casimir Force in the 0.6 to 6 μm Range](https://doi.org/10.1103/PhysRevLett.78.5)",
+   "in": "Lamoreaux, S. K.",
+   "max": 1
+  },
+  {
+   "find": "Collective Electrodynamics: Quantum Foundations of Electromagnetism",
+   "to": "[Collective Electrodynamics: Quantum Foundations of Electromagnetism](https://openlibrary.org/works/OL9170810W)",
+   "in": "Mead, Carver A.",
+   "max": 1
+  },
+  {
+   "find": "Quantum Computation and Quantum Information",
+   "to": "[Quantum Computation and Quantum Information](https://openlibrary.org/works/OL13301633W)",
+   "in": "Nielsen, Michael A., and Isaac L. Chuang",
+   "max": 1
+  },
+  {
+   "find": "An Introduction to Quantum Field Theory",
+   "to": "[An Introduction to Quantum Field Theory](https://openlibrary.org/works/OL4790920W)",
+   "in": "Peskin, Michael E., and Daniel V. Schroeder",
+   "max": 1
+  },
+  {
+   "find": "Philosophic Foundations of Quantum Mechanics",
+   "to": "[Philosophic Foundations of Quantum Mechanics](https://openlibrary.org/works/OL70836W)",
+   "in": "Reichenbach, Hans. Philosophic",
+   "max": 1
+  },
+  {
+   "find": "The Philosophy of Space and Time",
+   "to": "[The Philosophy of Space and Time](https://openlibrary.org/works/OL18432059W)",
+   "in": "Reichenbach, Hans. The Philosophy",
+   "max": 1
+  },
+  {
+   "find": "The Direction of Time",
+   "to": "[The Direction of Time](https://openlibrary.org/works/OL70835W)",
+   "in": "Reichenbach, Hans. The Direction",
+   "max": 1
+  },
+  {
+   "find": "Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge",
+   "to": "[Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge](https://openlibrary.org/works/OL70840W)",
+   "in": "Reichenbach, Hans. Experience",
+   "max": 1
+  },
+  {
+   "find": "Quantum Field Theory and the Standard Model",
+   "to": "[Quantum Field Theory and the Standard Model](https://openlibrary.org/works/OL26347833W)",
+   "in": "Schwartz, Matthew D.",
+   "max": 1
+  },
+  {
+   "find": "Algorithms for Quantum Computation: Discrete Logarithms and Factoring",
+   "to": "[Algorithms for Quantum Computation: Discrete Logarithms and Factoring](https://doi.org/10.1109/SFCS.1994.365700)",
+   "in": "Shor, Peter W. “Algorithms",
+   "max": 1
+  },
+  {
+   "find": "Dimensional Reduction in Quantum Gravity",
+   "to": "[Dimensional Reduction in Quantum Gravity](https://arxiv.org/abs/gr-qc/9310026)",
+   "in": "’t Hooft, Gerard.",
+   "max": 1
+  },
+  {
+   "find": "Introduction to Superconductivity",
+   "to": "[Introduction to Superconductivity](https://openlibrary.org/works/OL2931765W)",
+   "in": "Tinkham, Michael.",
+   "max": 1
   }
  ],
  "fields": true
