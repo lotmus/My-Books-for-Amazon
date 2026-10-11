@@ -18,6 +18,7 @@ Markdown conventions
   | table |, - list item, **bold**, *italic*
   %%TITLEPAGE%% %%COPYRIGHT%% %%TOC%% %%ALSO%% %%INDEX%% %%ALSOBY%%   generated blocks
 """
+import sys
 import io, os, re, sys, glob, json
 from docx import Document
 from docx.shared import Pt, Inches, RGBColor, Emu
@@ -425,9 +426,23 @@ def build():
     cp.comments = f"{TITLE}. A volume in the {SERIES} series by {AUTHOR}."
     stamp = datetime(2026, 10, 2, tzinfo=timezone.utc); cp.created = stamp; cp.modified = stamp
     doc.save(OUT)
+    _kindle_postbuild(OUT)
     nfig = [f for f in figs if isinstance(f, int)]
     print("saved", OUT); print("chapters:", sum(1 for b in blocks if b[0] == "chapter"), "figures:", len(nfig), "missing:", [f for f in figs if not isinstance(f, int)])
     if nfig != list(range(1, len(nfig) + 1)): print("WARNING figure numbers not continuous:", nfig)
+
+
+def _kindle_postbuild(path):
+    """Kindle size pass (10 Oct 2026): photos 440 px wide (JPEG q80, mild colour boost), photo-like figures
+    with labels 800 px, embedded front cover about 1000x1600, line art 256-colour PNG. Spec: ../kindle_postbuild.json,
+    tool: tools/kindle_postbuild.py at the repo root. Without this a rebuild brings back the full-size images."""
+    import subprocess
+    book = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); d = book
+    while d and not os.path.isfile(os.path.join(d, "tools", "kindle_postbuild.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    tool = os.path.join(d, "tools", "kindle_postbuild.py"); spec = os.path.join(book, "kindle_postbuild.json")
+    if os.path.isfile(tool) and os.path.isfile(spec) and os.path.isfile(path):
+        subprocess.run([sys.executable, tool, spec, path], check=False)
 
 if __name__ == "__main__":
     build()

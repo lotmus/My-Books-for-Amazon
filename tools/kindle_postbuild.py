@@ -16,7 +16,7 @@ Written for the 10 Oct 2026 Kindle size pass; see notes/FILE_SIZES.md.
 """
 import zipfile, io, os, sys, re, json, copy, shutil
 from lxml import etree
-from PIL import Image, ImageOps
+from PIL import Image, ImageOps, ImageEnhance
 Image.MAX_IMAGE_PIXELS = None
 W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 RNS = 'http://schemas.openxmlformats.org/officeDocument/2006/relationships'
@@ -43,7 +43,9 @@ class Doc:
         if not re.search(r'Extension="%s"' % ext, ct, re.I):
             ct = ct.replace('</Types>', '<Default Extension="%s" ContentType="%s"/></Types>' % (ext, 'image/jpeg' if ext in ('jpg', 'jpeg') else 'image/png'))
         self.data['[Content_Types].xml'] = ct.encode('utf8')
-    def save(self, out):
+    def save(self, out, images_only=False):
+        """images_only: keep document.xml bytes and every part as they were (only media and rels changed)."""
+        if images_only: return self._write(out, set())
         xml = etree.tostring(self.tree, xml_declaration=True, encoding='UTF-8', standalone=True); self.data['word/document.xml'] = xml
         sx = xml.decode('utf8'); used = set(re.findall(r'r:(?:embed|id|link)="([^"]+)"', sx))
         relx = self.data['word/_rels/document.xml.rels'].decode('utf8'); drop = set(); keep = []
@@ -55,6 +57,8 @@ class Doc:
         self.data['word/_rels/document.xml.rels'] = (head + ''.join(keep) + '</Relationships>').encode('utf8')
         other = b''.join(v for k, v in self.data.items() if k.endswith('.rels') and k != 'word/_rels/document.xml.rels')
         drop = {d for d in drop if d[5:].encode() not in other}
+        return self._write(out, drop)
+    def _write(self, out, drop):
         tmp = out + '.tmp'
         with zipfile.ZipFile(tmp, 'w') as o:
             for i in self.infos:
@@ -90,10 +94,24 @@ def labelled(im):
 def scale_w(im, w):
     if im.width > w: im = im.resize((w, max(1, round(im.height * w / im.width))), Image.LANCZOS)
     return im
-def shrink_media(doc, photo_width=440, diagram_width=800, cover_max=1600, quality=80, lineart_max=1600, skip=()):
+def front_cover_media(doc):
+    """The embedded front cover: the first picture in the document, or any picture whose name/alt text says cover."""
+    rels = doc.rels(); out = set(); A = 'http://schemas.openxmlformats.org/drawingml/2006/main'
+    WP = 'http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing'
+    for k, dr in enumerate(doc.tree.iter(q('drawing'))):
+        blip = dr.find('.//{%s}blip' % A); pr = dr.find('.//{%s}docPr' % WP)
+        if blip is None: continue
+        alt = ((pr.get('name') or '') + ' ' + (pr.get('descr') or '') + ' ' + (pr.get('title') or '')).lower() if pr is not None else ''
+        rid = blip.get('{%s}embed' % RNS)
+        if rid in rels and (k == 0 or re.search(r'front cover|\bcover\b', alt)) and 'back' not in alt:
+            out.add('word/' + rels[rid].replace('/word/', '').lstrip('/'))
+        if k > 0 and not out: break
+    return out
+def shrink_media(doc, photo_width=440, diagram_width=800, cover_max=1600, quality=80, lineart_max=1600, skip=(), boost=True):
     """Photos: 440 px wide (never upscaled), JPEG q80. Photo-like images with labels: 800 px wide.
+    Photos get a mild colour boost (saturation x1.10, contrast x1.04) because small JPEGs look flat.
     Portrait covers: longest side 1600. Line art: 256-colour PNG, longest side 1600."""
-    log = []
+    log = []; covers = front_cover_media(doc)
     for name in [n for n in doc.data if n.startswith('word/media/')]:
         if name in skip: continue
         ext = name.rsplit('.', 1)[-1].lower()
@@ -103,9 +121,11 @@ def shrink_media(doc, photo_width=440, diagram_width=800, cover_max=1600, qualit
         if ext in ('jpg', 'jpeg'): im = ImageOps.exif_transpose(im)
         if ext in ('jpg', 'jpeg') or is_photo(im):
             f = flatten(im)
-            if im.height > im.width * 1.4 and im.height >= 1200: f = scale(f, cover_max); kind = 'cover'
+            if name in covers and im.height > im.width * 1.3: f = scale(f, cover_max); kind = 'cover'
             elif labelled(f): f = scale_w(f, diagram_width); kind = 'labelled'
-            else: f = scale_w(f, photo_width); kind = 'photo'
+            else:
+                f = scale_w(f, photo_width); kind = 'photo'
+                if boost: f = ImageEnhance.Contrast(ImageEnhance.Color(f).enhance(1.10)).enhance(1.04)
             b = io.BytesIO(); f.save(b, 'JPEG', quality=quality, optimize=True); nd = b.getvalue(); nn = name.rsplit('.', 1)[0] + '.jpg' if ext not in ('jpg', 'jpeg') else name
         else:
             im2 = scale(im, lineart_max); kind = 'lineart'
@@ -298,6 +318,11 @@ def part_bookmarks(doc, part):
 
 def main(spec_path, src_override=None):
     base = os.path.dirname(os.path.abspath(spec_path)); spec = json.load(open(spec_path, encoding='utf8'))
+    if isinstance(spec.get('source'), list):
+        for s in spec['source']:
+            one = dict(spec, source=s); tmp = spec_path + '.one.json'
+            json.dump(one, open(tmp, 'w', encoding='utf8')); main(tmp); os.replace(tmp, tmp + '.last')
+        return
     src = src_override or os.path.join(base, spec['source'])
     if not os.path.exists(src): print('postbuild: nothing to do, no', src); return
     print('postbuild:', src, 'est %.2f MB' % (est(src) / 1e6))
@@ -307,8 +332,9 @@ def main(spec_path, src_override=None):
     print('  images recompressed:', len(lg))
     sp = spec.get('split')
     if not sp:
-        apply_credits(list(doc.body), spec.get('credits'))
-        doc.save(src); print('  est after %.2f MB' % (est(src) / 1e6)); return
+        if spec.get('credits'): apply_credits(list(doc.body), spec['credits']); doc.save(src)
+        else: doc.save(src, images_only=True)
+        print('  est after %.2f MB' % (est(src) / 1e6)); return
     allb = {k: part_bookmarks(doc, p) for k, p in enumerate(sp['parts'])}
     for k, p in enumerate(sp['parts']): split_part(doc, p, allb, k, base)
     dst = os.path.join(base, sp['unsplit_to']); os.makedirs(os.path.dirname(dst), exist_ok=True)

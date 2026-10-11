@@ -767,11 +767,25 @@ def main():
             time.sleep(2 + attempt)
     if last is not None:
         raise last
+    _kindle_postbuild(COMPLETE)
     print(
         "finish_book: renumbered %d headings, demoted %d headings, bookmarks %d, TOC %d, links %d"
         % (renumbered, demoted, n_bm, len(entries), n_links)
     )
 
+
+
+def _kindle_postbuild(path):
+    """Kindle size pass (10 Oct 2026): photos 440 px wide (JPEG q80, mild colour boost), photo-like figures
+    with labels 800 px, embedded front cover about 1000x1600, line art 256-colour PNG. Spec: ../kindle_postbuild.json,
+    tool: tools/kindle_postbuild.py at the repo root. Without this a rebuild brings back the full-size images."""
+    import subprocess
+    book = os.path.dirname(os.path.dirname(os.path.abspath(__file__))); d = book
+    while d and not os.path.isfile(os.path.join(d, "tools", "kindle_postbuild.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    tool = os.path.join(d, "tools", "kindle_postbuild.py"); spec = os.path.join(book, "kindle_postbuild.json")
+    if os.path.isfile(tool) and os.path.isfile(spec) and os.path.isfile(path):
+        subprocess.run([sys.executable, tool, spec, path], check=False)
 
 if __name__ == "__main__":
     main()
