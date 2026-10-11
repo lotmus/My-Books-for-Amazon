@@ -4164,7 +4164,7 @@ The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar 
 
 Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
 
-In Love with Murder, Actually: A Comic Mystery, Lothar J. Musiol writing as Romuald Livingston
+In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
 
 In German
 
