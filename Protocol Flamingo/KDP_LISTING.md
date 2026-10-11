@@ -9,22 +9,25 @@ Title: Protocol Flamingo
 Subtitle: Earth. This year. Somebody left the sky unlocked.
 Price: $2.99
 Trim (paperback): 5.5 x 8.5 in
-Cover file: Protocol_Flamingo_cover_front.jpg (front only, 1650 x 2550 px, 300 dpi). A paperback wrap needs a spine once the print PDF has a final page count.
+Cover file: kdp front cover for Protocol Flamingo.jpg (front); kdp back cover for Protocol  Flamingo.jpg (back). A paperback wrap needs a spine once the print PDF has a final page count.
 
 ## Categories
 
 - Science Fiction > Alien Contact
 - Science Fiction > Humorous
+- Science Fiction > Genetic Engineering (optional third; the hybrids and the foundlings are the plot)
 
 ## Keywords
 
-1. alien invasion
-2. first contact
-3. humorous science fiction
+Revised 10 Oct 2026: no repeats of words already in the categories or title, no other authors' names.
+
+1. first contact comedy
+2. alien abduction
+3. UFO cover-up
 4. generation ship
-5. UFO fiction
-6. first contact comedy
-7. wedding mystery
+5. solar eclipse
+6. government conspiracy satire
+7. small town wedding mystery
 
 ## Description
 

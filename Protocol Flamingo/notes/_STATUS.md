@@ -1,6 +1,6 @@
 # STATUS — Protocol Flamingo
 
-Last updated: 2026-10-10. The live book is the expanded manuscript, not the generator.
+Last updated: 2026-10-10 (late evening). The live book is `Protocol_Flamingo_REV10.docx` (about 75,000 words of story; the Rev2 and 26,647-word notes below are history), not the generator.
 
 ## Live file
 
@@ -146,3 +146,16 @@ Curly apostrophes and curly quotes. American spelling. The British lean is voice
 ## Still true, and not a defect
 
 Mabs hears “he was a little drunk” and knows it is wrong. That is the scene. The Handbook is fiction and says so. The appendix and the bibliography are the citations. Handbook epigraphs stay. The book does not add a second paragraph that explains Mabs’s line.
+
+## Strict rescore, 10 Oct 2026 (late evening): 8.7 to 9.2
+
+Old master in `bak/Protocol_Flamingo_REV10 - 2026-10-10 pre-rescore.docx`.
+
+- Title page byline restored: Lothar J. Musiol writing as George Herbert Fontaine (it had lost the pen name; the listing and the canonical Also-by use it).
+- Light-time fixed to the real 2026 geometry (checked with an ephemeris): on 12 August the L4 Trojan point is about 6.0 AU from Earth, 50 light-minutes; on 1 August about 49. The text said "a little under five AU" and "forty minutes"; the Boat chapter, the stadium-night paragraph, the trailer countdown and the glossary now agree. The Zaragoza eclipse figures were rechecked and are right (totality 1 min 24 s, Sun 5.9 degrees up at azimuth 285, Wednesday 12 August). The Texas question in SCORES is closed: the story uses the real Zaragoza eclipse.
+- Continuity: Nora's forty-one weddings (narration said forty once); the camera that saw the light is the B-camera (packing line said A); the Boat has kept station since 1979 (one line said forty-six years, which is the hybrids' count from 1980).
+- Facts: Biosphere 2 was sealed (not built) in 1991; the radar-leakage line now says what the 2025 Manchester study says (detectable to about 200 light-years with a Green Bank-class telescope) instead of "a startling amount of the galaxy"; Sullivan 1978 covers television and radar. The YouTube film "Generation Ships" credited to Kurzgesagt is not theirs (the channel is Genius Night Science, title "Generation Ships: How Long Could Humans Survive Inside One?"), so the sentence and the bibliography entry are gone. The Note to the Reader no longer claims what allied intelligence liaisons do near NATO.
+- Links (Lothar's rule): no visible URLs. Bibliography titles carry the links (18, all checked: 200, or bot-blocked publishers confirmed through the DOI resolver; ADS blocks fetchers). Every appendix citation is an internal link to a bookmarked bibliography entry (bib_*). The Rubin entry now cites Kurlander et al. 2025 properly.
+- Also by: the book no longer lists itself (canonical rule); the shelf paragraph is shorter.
+- KDP_LISTING.md: cover file names corrected, keywords rewritten without repeats, optional third category.
+- Still open: the two closing notes overlap; paperback spine.
