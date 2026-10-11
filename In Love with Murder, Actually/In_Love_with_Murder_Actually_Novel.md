@@ -1376,11 +1376,7 @@ Catarina did not say anything. She stood beside him a moment longer. Then she we
 
 She stopped stirring. She tapped the spoon twice on the rim of the pot, exactly as Madame Fournier had tapped the gatepost with her secateurs, and laid it across the top.
 
-"Good," she said. "Then we will not buy it with this. We will put this," she picked up Hale's contract between finger and thumb, as if it were something the pelican had brought in, "in the biscuit tin, with Odile. And the other one, from your wife, you will answer later, when you are not hungry. A man should never sell a house when he is hungry. My grandmother says this. She sold a house once before lunch and it was a disaster."
-
-"What happened?"
-
-"She bought it back after lunch," said Catarina, "for more money." She put a bowl in front of him. "Eat."
+"Good," she said. "Then we will not buy it with this. We will put this," she picked up Hale's contract between finger and thumb, as if it were something the pelican had brought in, "in the biscuit tin, with Odile. And the other one, from your wife, you will answer later, when you are not hungry. A man should never sell a house when he is hungry." She put a bowl in front of him. "Eat."
 
 He ate. The soup was green and tasted of something he could not name, and of garlic, and of the kind of patience that is not the same thing as waiting. After a while Catarina sat down opposite him with her own bowl, and they ate in a silence that was not uncomfortable, and when he looked up she was watching him, and did not look away, and neither did he.
 
@@ -1448,11 +1444,11 @@ Hugo considered them both with real pity. "I'll take the scorpion back," he said
 
 ---
 
-They sent it on Tuesday morning, in a brown envelope, from the post office in the village, where the postmistress weighed it as if it might contain explosives and then, when she saw the address on the envelope, gave Tobias a look of such profound disappointment that he nearly asked for it back. Tobias paid the sixty pounds by card, from his own account, with his own name, which was Mara's idea, by telephone, from the ladies', because, she said, if this was going to be evidence it ought to be clean evidence, and nothing is cleaner than a writer paying to be lied to.
+They sent it on Tuesday morning, in a brown envelope, from the post office in the village, where the postmistress weighed it as if it might contain explosives and then, when she saw the address, gave Tobias a look of such profound disappointment that he nearly asked for it back. He paid the sixty pounds by card, from his own account, in his own name. That was Mara's idea, delivered by telephone from the ladies': if this was going to be evidence, it ought to be clean evidence, and nothing is cleaner than a writer paying to be lied to.
 
 Then they waited. It was the first time they had waited for anything together, and they did it badly.
 
-Tobias waited by rewriting chapter seven three times. Catarina waited by cleaning the oven, which had not been cleaned since Henri Fournier's lifetime, and which turned out, at the back, to contain a small cast-iron saucepan that Madame Fournier said she had been accusing her sister of stealing since 1998. They walked to the village every morning to meet the post van. The postman came to expect them. On the fourth day he began, without being asked, to shake his head from the end of the lane, so that they would not have to walk all the way.
+Tobias waited by rewriting chapter seven three times. Catarina waited by cleaning the oven, which had not been cleaned since Henri Fournier's lifetime. They walked to the village every morning to meet the post van. On the fourth day the postman began, without being asked, to shake his head from the end of the lane, so that they would not have to walk all the way.
 
 On the ninth day the envelope came.
 
@@ -1640,7 +1636,7 @@ There were no other people. There had never been any other people. The hundred v
 
 Raymond Coste looked at Tobias. He looked at Catarina. Then, to their great surprise, he sat down heavily in one of the two chairs, put his face in his large hands, and began to laugh, a deep, helpless, rumbling laugh that went on for some time and shook his shoulders and ended in a cough.
 
-"The gull," he said, when he could. "The gull who is the keeper. And the lighthouse, his mother. Mon Dieu. I read it. I read it to my wife. She cried. She cried laughing, monsieur." He wiped his eyes. "I read the first page of every one. Yours, monsieur, is the worst thing I have ever read in my life, and I have been in a television series about a fisherman for eleven years." The laugh went out of his face. "And then I put it in the sack, "with the others. And I write the letter. *Highly Commended.* The same letter. Every one. I print it in the morning, five hundred at a time." He gestured at the postal sacks, which, Tobias now saw, were full of envelopes, thousands of them, with stamps from everywhere, opened and stuffed back in. "Everyone is Highly Commended. Every one. Nine years."
+"The gull," he said, when he could. "The gull who is the keeper. And the lighthouse, his mother. Mon Dieu. I read it. I read it to my wife. She cried. She cried laughing, monsieur." He wiped his eyes. "I read the first page of every one. Yours, monsieur, is the worst thing I have ever read in my life, and I have been in a television series about a fisherman for eleven years." The laugh went out of his face. "And then I put it in the sack, with the others. And I write the letter. *Highly Commended.* The same letter. Every one. I print it in the morning, five hundred at a time." He gestured at the postal sacks, which, Tobias now saw, were full of envelopes, thousands of them, with stamps from everywhere, opened and stuffed back in. "Everyone is Highly Commended. Every one. Nine years."
 
 The room was very quiet. The tape went round. *Where every writer is a winner.*
 
@@ -1782,9 +1778,7 @@ They telephoned them all, on the grandson's laptop, which kept asking to update 
 
 The Dutch couple had paid three thousand a month in August. They had found the house on a holiday-letting website, where it was listed by a company called *Hale Retreats* with a photograph of the jetty taken at dawn by a professional. They had paid the money to an account in the Channel Islands. They were delighted to hear from Tobias. They asked after the heron.
 
-The Belgian schoolmaster had paid three thousand two hundred, because October was "peak season for writers", the listing had said. He said what he thought of that in a long, beautiful, furious paragraph of French that made Madame Fournier nod slowly throughout, as at a sermon with which she was in complete agreement.
-
-The family from Surrey had paid two thousand eight hundred, because they had haggled. The mother was very proud of this until Tobias told her what Madame Fournier was paid, at which point there was a pause on the line and then the sound of a woman in Surrey calling her husband into the room in the voice of somebody who has found a mouse.
+The Belgian schoolmaster had paid three thousand two hundred, because October was "peak season for writers", the listing had said, and he said what he thought of that in a long, beautiful, furious paragraph of French that made Madame Fournier nod throughout, as at a sermon. The family from Surrey had paid two thousand eight hundred, because they had haggled, and the mother was very proud of this until Tobias told her what Madame Fournier was paid.
 
 The woman from Copenhagen did not answer. She sent an email two hours later, very short, which said that she had paid three thousand euros and that she would be happy to provide the bank statement to anybody who needed it, and asked whether Inês was well, because Inês had not answered her letters since the spring.
 
@@ -1850,7 +1844,7 @@ Later, when Mara had gone, and Madame Fournier had put the exercise books back i
 
 Neither of them spoke for a while. It was very cold for the first time that autumn, and over the pond the three stars in a line hung low above the reeds, waiting for their ship.
 
-"She paid three thousand," said Tobias, at last, to the dark. "Elise. For the house. She came here to find out what Hale had done, and she paid him three thousand euros a month to do it, so he wouldn't suspect. She signed his visitors' book. She made a joke about a heron." He stopped by the gate. "I didn't know any of that. I wrote two years of a book about the night she died and I didn't know any of that."
+"I wrote two years of a book about the night she died," said Tobias at last, to the dark, stopping by the gate, "and I didn't know any of that."
 
 Catarina stopped beside him. She said nothing for a moment.
 
@@ -1976,7 +1970,7 @@ Monsieur Bacri wrote his statement on the hotel's notepaper, at his workbench, i
 
 There were no rooms.
 
-They had not planned to stay. They had planned to take the last train home. But Monsieur Bacri wrote slowly, and carefully, and twice started a page again because a word had come out crooked, and neither of them had the heart to hurry a carpenter, and by the time the envelope was sealed the last train had gone, and every hotel in Lyon was full of cardiologists, and it was nine o'clock at night, and raining, for the first time in ten days, as if the city had been saving it.
+They had not planned to stay. But Monsieur Bacri wrote slowly, and twice started a page again because a word had come out crooked, and neither of them had the heart to hurry a carpenter. By the time the envelope was sealed the last train had gone, every hotel in Lyon was full of cardiologists, and it was raining, for the first time in ten days, as if the city had been saving it.
 
 In the end it was Dona Graça who found them a room, at a small hotel near the Perrache station run by a cousin of the woman at *O Cantinho*, and it was one room, under the eaves, with two narrow single beds, a bedside table between them, and a small laminated card asking guests in four languages not to smoke.
 
@@ -2096,7 +2090,7 @@ When they came out, Mara had a smear of oil on her cheek and gravel in her hair,
 
 "Rubber doesn't wear in a straight line," said Monsieur Pons, in French, almost exactly as Monsieur Bacri had said it in Lyon about the bolt, and Tobias felt the hair rise on his arms. "This is a knife. A good one. Somebody who knows cars." He put the cigar back in his mouth and chewed it. "Forty years I take apart cars, madame. I have seen everything. A man who cuts a brake hose like that has done it before."
 
-Mara did not touch it yet. She walked away between the towers of Renaults and rang Aix, because a hose taken off a car by an officer on her day off, without an order, is a hose that a defence lawyer throws out of the window. Juge Sarrazin, who already had an inquiry open on the rent, extended Mara's commission to the Giraud car by telephone, and had her clerk send the order to the gendarmerie at Cavaillon, and told Mara to wait for the two gendarmes from Cavaillon to arrive and witness it. They came in forty minutes, in a blue van, and stood in the gravel looking at Fangio.
+Mara did not touch it yet. A hose taken off a car by an officer on her day off, without an order, is a hose that a defence lawyer throws out of the window. She rang Aix instead. Juge Sarrazin, who already had an inquiry open on the rent, extended Mara's commission to the Giraud car by telephone and sent two gendarmes from Cavaillon to witness the removal. They came in forty minutes, in a blue van, and stood in the gravel looking at Fangio.
 
 Then Mara photographed it, with Monsieur Pons in the picture, and his newspaper, and Fangio, at Monsieur Pons's insistence, because Fangio had been present. Then she put on gloves, took the hose off in front of all three of them, sealed it, and had Monsieur Pons and both gendarmes sign the seal, which Monsieur Pons did with the solemnity of a man at a wedding.
 
@@ -2146,9 +2140,7 @@ The kitchen was very quiet. Madame Fournier, who had been knitting something lon
 
 ---
 
-Catarina said nothing during any of this. Once, when Mara said *it would be a pity if your career were the only thing you lost*, she closed her eyes.
-
-Later, walking back along the wall in the dark, she stopped by the gate, as she had stopped there on the night of the kiss on the cheek, and stood with her hand on the cold iron.
+Catarina had said nothing all evening. Later, walking back along the wall in the dark, she stopped by the gate, as she had stopped there on the night of the kiss on the cheek, and stood with her hand on the cold iron.
 
 "Tobias," she said.
 
@@ -2304,9 +2296,7 @@ The first delay was a stall at the side of the road, run by a woman in a straw h
 
 "Then the lawyer can wait."
 
-The second delay was a goat farm, because there was a sign. The third was a ruined abbey on a hill, because Tobias remarked that it looked Romanesque, and Catarina said "Românico," and they both spent twenty minutes standing in an empty nave where the roof had fallen in and the sky had come to live, whispering because it seemed to demand it. The fourth was an olive mill, where an old man in a blue apron poured them a thimble of oil so green and peppery that Catarina coughed, wiped her eyes, and bought six litres.
-
-"It is for the restaurant," she said defensively. "Fernanda will say it is too expensive. Then she will use all of it."
+The second delay was a goat farm, because there was a sign. The third was a ruined abbey on a hill, where they stood whispering in an empty nave whose roof had fallen in and let the sky come to live. The fourth was an olive mill, where an old man in a blue apron poured them a thimble of oil so green and peppery that Catarina coughed, wiped her eyes, and bought six litres for Fernanda's restaurant.
 
 The fifth delay was a flat tyre.
 
@@ -2436,10 +2426,6 @@ He opened his own photograph. The same bird, wings spread, bending its long neck
 
 "He escaped from a bird park," said Tobias. "He does not pay rent."
 
-Brunner looked out of the window at the lawn, where in the rain, on a sun lounger left by the last tenants, a vast white bird sat motionless on one leg. A long silence stretched out. The former officer of the Swiss Guard, who had stood in the presence of cardinals without moving an eyelid, took out a clean white handkerchief and blew his nose.
-
-"I am sorry," he said. "It has been a long journey."
-
 Inspector Mara Quill, who had driven over with a copy of the bank inventory and stayed, eyed him across the kitchen table the way a cat eyes a different breed of cat.
 
 "You've no jurisdiction here, Mr Brunner."
@@ -2544,47 +2530,9 @@ They picked them that afternoon, the three of them, into Madame Fournier's laund
 
 ---
 
-The roofers arrived on the Monday, in a white van with a Cavaillon number plate and a sticker on the back window that said, in English, WE FIX THINGS. WE DO NOT TALK ABOUT IT.
+The roofers arrived on the Monday: three Poles in a white van with a Cavaillon number plate and a sticker on the back window that said, in English, WE FIX THINGS. WE DO NOT TALK ABOUT IT. They did not talk about it. Marek, the foreman, looked up at the roof the way a doctor looks at a patient who has not followed his advice, said "Dach jest chory," which meant that the roof was sick, and went up the ladder. For two days, in the clean cold light after the storm, they passed tiles hand to hand in a chain of such precision that Catarina watched them for an hour from the garden with her arms folded, and then paid them the highest compliment she had. "They work like Portuguese. No talking. Many sandwiches."
 
-There were three of them, Poles who had come to Provence for one summer twelve years earlier and stayed because, the foreman said, the roofs here were very bad and the bread was very good. Marek, the foreman, was fifty, broad as a door and nearly as talkative, with forearms like cured hams and a moustache that expressed opinions on his behalf. Tomasz was thirty-five, bald and cheerful, and sang all day, in a deep and mournful voice, something that sounded like a hymn and turned out to be an advertisement for washing powder. And Pawel, the youngest, was twenty-three, very tall, shy and fair, with the face of a startled choirboy and the manners of a person raised by his grandmother.
-
-"Dzień dobry," said Marek, to the house. He looked up at the roof the way a doctor looks at a patient who has not followed his advice. "Dach jest chory."
-
-"What did he say?"
-
-"He says," said Tomasz, who had some English, "that the roof is sick."
-
-"Can you cure it?"
-
-Marek appeared to consider the question very deeply. "Yes," he said, in English, and nothing else, and went up the ladder.
-
-They worked for two days in the clean cold light after the storm, tearing off broken tiles and passing new ones hand to hand along the ladder in a chain of such precision that Catarina stood and watched them for an hour from the garden with her arms folded, quietly approving. They ate lunch on the lawn: enormous sandwiches of dark bread, sausage and pickled cucumber, unwrapped from silver foil with great ceremony, and a thermos of black tea so strong it could have held up the roof on its own.
-
-"They work like Portuguese," said Catarina, in tones of the highest praise. "No talking. Many sandwiches."
-
-It was on the second afternoon that Pawel fell in love.
-
-It happened with great suddenness. Chloe, the Pemberton-Hayeses' babysitter, had been sent down the lane by Priscilla with a plate of shortbread, *since those poor men must be famished*. She walked up the garden path in a yellow coat with the plate in both hands, looked up the ladder, and said, in her clear, bright, nineteen-year-old voice:
-
-"Hello! Would anyone like a biscuit?"
-
-Pawel, at the top, turned his head. A tile slipped from his fingers, whistled past Tomasz's ear, and broke into eleven pieces on the gravel.
-
-"*Pawel!*" said Marek, from the ridge.
-
-"Przepraszam," said Pawel faintly. Sorry. He was staring at Chloe. He had gone entirely red, from the collar of his work shirt to the tips of his ears. "I... hello. Yes. Biscuit."
-
-"I'm Chloe."
-
-"Pawel."
-
-"Pavel?"
-
-"*Pa-vel.*"
-
-"Pa-vel," said Chloe, and smiled so brightly that Tomasz put his hand on his heart and began to sing again, and it was, once again, the washing powder.
-
-What followed was the most stately courtship Tobias had ever witnessed, conducted in three languages, none of which anyone fully spoke. Chloe had school French and a little Spanish. Pawel had Polish, some German from his mother's side, and English he had learned from American films. They met on the lawn at four, with the shortbread. He told her, in carefully built sentences, that Poland had many trees. She told him, in the same tone, that she liked horses. He said, "Very nice." She said, "Very nice." There was a long silence, filled with the sweetest tension, and then she said, in desperation, "Do you like tea?" and he answered, with the whole of his heart, "I like tea very much."
+On the second afternoon Chloe, the Pemberton-Hayeses' babysitter, came up the garden path in a yellow coat with a plate of shortbread and called up the ladder to ask whether anyone would like a biscuit, and Pawel, the youngest, who was twenty-three and had the face of a startled choirboy, dropped a tile from the top of the ladder and went red from his collar to the tips of his ears. The courtship that followed was conducted in three languages, none of which anybody fully spoke, and consisted mainly of the information that Poland had many trees and that Chloe liked horses. On the last evening, as the van was loaded, Pawel took three steps down the path with extraordinary courage and gave her a note in careful block capitals: SATURDAY? I HAVE A VAN. IT IS CLEAN. I DO NOT HAVE MANY WORDS. THESE ARE THE BEST ONES.
 
 "They are in love," said Catarina, watching from the kitchen window with her chin in her hand.
 
@@ -2592,25 +2540,13 @@ What followed was the most stately courtship Tobias had ever witnessed, conducte
 
 "Is plenty." She did not look round. "We said fewer."
 
-By the Tuesday evening the roof was done, red and new and tight as a drum, and the nine pots were emptied and stacked in the cupboard, and Catarina, standing in the kitchen at dusk with the empty copper pot in her arms, was surprised to find that she minded.
+When they had gone, leaving the roof red and new and tight as a drum, the nine pots were emptied and stacked in the cupboard, and Catarina, standing in the kitchen at dusk with the empty copper pot in her arms, was surprised to find that she minded.
 
 "I miss the fado," she said.
 
 "I know."
 
 "It was a terrible roof," said Catarina. "But it had a very good voice."
-
-Marek loaded the van at six. He shook Tobias's hand once, firmly, and said in English, "Roof will not leak. You will not thank me. This is correct." Tomasz kissed Catarina's hand, which she permitted. Pawel, standing a little apart, held something in his hands, rolled and rolled again, and finally, at the last moment, with extraordinary courage, took three steps down the path and gave it to Chloe, who had come to say goodbye in a different yellow coat.
-
-It was a note, in careful block capitals, with a telephone number.
-
-SATURDAY? I HAVE A VAN. IT IS CLEAN. I DO NOT HAVE MANY WORDS. THESE ARE THE BEST ONES. KOCHAM CIĘ (MAYBE).
-
-"What does the last one mean?" said Chloe.
-
-Tomasz leaned out of the van window with a wide, delighted smile.
-
-"It means," he said, "that he likes tea very much."
 
 ## Chapter 27: Not Only Paper
 
@@ -2834,17 +2770,13 @@ He had been left at the lake house for the night, because Nigel and Priscilla we
 
 At half past nine Tobias and Catarina went over the garden wall to Madame Fournier's kitchen, forty metres away, with the lit window of Hugo's room in plain sight, because Odile had telephoned to say that the biscuit tin had been moved an inch on its shelf and she wished to know by whom. They left Hugo asleep upstairs, or apparently asleep, which with Hugo is a different state. The pelican was on the porch. At ten past ten, a van with no lights pulled up at the bottom of the lane.
 
-Two men got out. They wore dark coats, balaclavas and the stiff, hunted air of the professionally unlucky.
+Two men got out. They wore dark coats and balaclavas, and one of them carried a crowbar.
 
 "Gaston," whispered the first one.
 
-"Oui?"
+"Oui?" whispered the other, who was also called Gaston.
 
-"Not you. The other one."
-
-"There is no other one, Gaston! It is only the two of us!"
-
-The gate was locked. They climbed it, which is how a locked gate announces itself to the unlucky, and the first Gaston, swinging his leg over, kicked the brass gong that Henri Fournier had hung on the gatepost in 1987 instead of a bell, because he said bells were for people who expected visitors. The sound went round the valley like the end of the world. Over the wall, in Madame Fournier's kitchen, three heads came up from the biscuit tin at once.
+The gate was locked. They climbed it, and the first Gaston, swinging his leg over, kicked the brass gong that Henri Fournier had hung on the gatepost in 1987 instead of a bell, because he said bells were for people who expected visitors. The sound went round the valley like the end of the world. Over the wall, in Madame Fournier's kitchen, three heads came up from the biscuit tin at once, and Catarina, who had understood before either of the others what a gong at night meant with a child alone in the house, was already running.
 
 The Gastons, who had come too far to go home, went in by the kitchen door, which Tobias, in his hurry to get over the wall to the biscuit tin, had left on the latch, and stood in the dark hall breathing.
 
@@ -2874,11 +2806,11 @@ Hugo turned a page of his book.
 
 "It hisses when it's angry," he said, without looking up. "Quite loudly. Like a tyre."
 
-It was at this moment that the pelican, who had been asleep on the porch and had been woken by the gong and had come in through the open kitchen door to see who was responsible, put its enormous head round the hall door behind the two Gastons in the dark and, finding nobody with bread, opened its beak to its fullest extent and let out the long, low, wheezing hiss of a large bird that has been disturbed for nothing.
+It was at this moment that the pelican, woken on the porch by the gong, came in through the open kitchen door to see who was responsible, put its enormous head round the hall door behind the two Gastons in the dark, and let out the long, low, wheezing hiss of a large bird that has been disturbed for nothing.
 
-The Gastons left by the nearest exit, which was the hall window. It was not open. That was a matter for the insurance. They went across the lawn at a speed that did them great credit, and the first one, looking back over his shoulder for the snake, ran straight off the end of the garden into the shallows of the pond, and the second, who had been holding onto the first one's coat, followed him in, and they stood up to their waists among the reeds in the black water, gasping, while a heron rose out of the dark beside them with a cry of complete disgust.
+The Gastons left by the nearest exit, which was the hall window, and which was not open. They went across the lawn in the dark, and the first, looking back over his shoulder for the snake, ran straight off the end of the garden into the shallows of the pond, and the second, who had been holding onto his coat, followed him in.
 
-Hugo came down to the jetty with his torch, in his pyjamas and a coat, and sat on the end of it with his legs crossed and his notebook open, and took their statement.
+Hugo did not come down. He had more sense than that, and now that nobody could see him his hands had begun to shake. He stood at the open study window with his torch on the two men in the pond and his notebook on the sill, and took their statement from there.
 
 "Names," he said.
 
@@ -2886,13 +2818,15 @@ Hugo came down to the jetty with his torch, in his pyjamas and a coat, and sat o
 
 "I'll put *the one who shouts* and *the one who falls*," said Hugo, writing. "What were you sent for?"
 
-They told him. They told a nine-year-old with a torch everything, standing in a pond in the cold, because the pelican was walking up and down the jetty behind him, and because, the first Gaston said later, in court, there are moments in a man's life when he needs very badly to explain himself to somebody, and the somebody is not always the one he would have chosen.
+They told him. They told a nine-year-old with a torch everything, standing in a pond in the cold, because the pelican was walking up and down the jetty above them, and because, the first Gaston said later, in court, there are moments in a man's life when he needs very badly to explain himself to somebody, and the somebody is not always the one he would have chosen.
 
-By the time Tobias and Catarina had got back over the wall, which took longer than it should have, because Madame Fournier had insisted on coming too, with her secateurs, in case of emergencies, it was more or less over. They found a white van abandoned in the lane, a broken hall window, two men up to their waists in the pond, a pelican patrolling the jetty above them with the air of a bird who had not been asked and did not intend to give a statement, and Hugo, at the end of the planks, with a notebook, reading their own words back to them to make sure he had got it right.
+Tobias got there first, over the wall and up the garden faster than he had moved in twenty years, with Catarina at his shoulder and Madame Fournier, with her secateurs, some way behind. They found a white van abandoned in the lane, a broken hall window, two men up to their waists in the pond, a pelican patrolling the jetty above them, and Hugo at the study window, reading the men's own words back to them to make sure he had got it right. Catarina went straight up the stairs and put her arms round him, and he let her, which he had never let anybody do in front of witnesses.
 
 "I rang the Inspector," said Hugo, not looking up. "She's on her way. I did my father's voice. She's very cross. There isn't a snake, by the way. Well, there is, but it's a different one, and it's harmless, and I've never actually found it." He turned a page. "Also I ate your biscuits."
 
-Mara arrived at a quarter to midnight in a dressing gown, wellington boots and a raincoat, with her service card in one hand and a torch in the other, followed by two gendarmes from Saint-Martin who had been playing cards and had brought the cards. She looked at the pond. She looked at the pelican. She looked at Hugo.
+Tobias stood in the hall with broken glass round his feet and thought about the man who had sent them: a man who had already killed three people and had never once needed to raise his voice. And he thought about a boy of nine, alone in this house, because two grown-ups had gone over a wall to look at a biscuit tin. It did not feel like a story to tell at dinner. It never did, afterwards, however many times other people told it for him.
+
+Mara arrived at a quarter to midnight in a dressing gown, wellington boots and a raincoat, with her service card in one hand and a torch in the other, followed by two gendarmes from Saint-Martin. She looked at the pond. She looked at the pelican. She looked at Hugo.
 
 "Did you do all this?"
 
@@ -2918,25 +2852,13 @@ The second Gaston looked at him with the deep, wounded wariness of a man who has
 
 "You shouldn't eat evidence," said Hugo. "It's in all the books."
 
-"And on the way in," said the second Gaston, with the flat voice of a man who had stopped expecting to be believed, "before the gong, in the lane, by the orchard wall, I was hit. By something. At the height of my chest. A very large man in a fur coat, with a pouch. He took my legs out from under me and then he stood over me, with his arms folded, until I got up and went away."
-
-Mara looked at Madame Fournier, who had come in with the blankets.
-
-"That will be Skippy," said Madame Fournier. "He has always had very strong views about people in dark coats."
-
-"You have a kangaroo," said Mara.
-
-"I have an orchard," said Madame Fournier. "What lives in it is its own affair."
-
 The Gastons were taken away at half past midnight in the back of the gendarmes' car, still in the army blankets, which Madame Fournier said they could keep, as they had been bought for a war and had finally seen action. As the car went down the lane with its blue light turning, she stood at the gate with her secateurs and watched it go with an expression of deep satisfaction.
 
 "Henri bought that gong in 1987," she said. "It has never once been rung for dinner."
 
-Mara took Hugo home herself, in her own car, in her dressing gown, with his rucksack and his torch and his copy of *Poisonous Plants of the Mediterranean*, and delivered him to Priscilla and Nigel, who had come back from their rehearsal to a message on the answering machine, in Hugo's own voice, that said, in full, *It's Hugo. Burglars. Fine. Don't come,* and who were standing in the drive in their coats, Priscilla still in half her Dame's make-up and Nigel still in the back legs of a horse.
+Mara took Hugo home herself, in her own car, in her dressing gown, with his rucksack and his torch and his copy of *Poisonous Plants of the Mediterranean*, and delivered him to Priscilla and Nigel, who had come back from their rehearsal to a message on the answering machine, in Hugo's own voice, that said, in full, *It's Hugo. Burglars. Fine. Don't come,* and who were standing in the drive in their coats, Priscilla still in half her Dame's make-up.
 
-"He was magnificent," Mara told them, in the drive, in her dressing gown. "I want you to know that. He was magnificent, and he did everything wrong, and if he ever does anything like it again I'll arrest him myself."
-
-"Yes," said Priscilla, looking at her son. "That's rather how we feel about his father."
+"He was magnificent," Mara told them, in the drive, in her dressing gown. "I want you to know that. He was magnificent, and he did everything wrong, and if he ever does anything like it again I'll arrest him myself." Then, because they had a right to know, she told them quietly who had paid for the van, and what that man had already done, and Priscilla knelt down on the gravel in her coat and held her son, and did not let go for some time.
 
 ## Chapter 29: The Far Shore
 
@@ -3656,13 +3578,13 @@ At two minutes past three, the fourth stair creaked, on purpose, and she was the
 
 The Gastons were dealt with first, in February, on a Monday, in a small room of the tribunal correctionnel in Aix, with a radiator that knocked and a clerk who had a cold.
 
-They were charged with breaking and entering, attempted theft, criminal damage to a hall window, and, at the particular insistence of the prosecutor, who had a nine-year-old of her own, wilful ignorance of the ways of a child. Their lawyer was a tired young woman from the duty roster who had been given the file on the Friday and had read it, she told the court with some feeling, three times, in the hope that it would make more sense the third time, which it had not.
+They were charged with breaking and entering, attempted theft and criminal damage to a hall window. Their lawyer was a tired young woman from the duty roster who had been given the file on the Friday and had read it, she told the court with some feeling, three times, in the hope that it would make more sense the third time, which it had not.
 
 Hugo Pemberton-Hayes, nine and three-quarters, in a school blazer and a tie his mother had tied twice, took the stand on two cushions and took the case to pieces with great politeness.
 
-He corrected the spelling of *Malpolon monspessulanus* in the police report. He explained, with diagrams he had prepared in advance on squared paper, the difference between a Montpellier snake, which is back-fanged and bad-tempered, and a ladder snake, which is neither, and why a man who believes the first is under a cushion will leave a house by a window that is not open. He read out, from his notebook, the statement both defendants had given him from the pond, and both Gastons, from the dock, nodded, because it was accurate, and because he had read it back to them at the time. He identified the first Gaston as "the one who shouts" and the second Gaston as "the one who falls." When the duty lawyer asked him, gently, whether he had not been frightened, alone in a dark house at night with two grown men breaking in, Hugo considered the question with real seriousness.
+He explained, with diagrams prepared in advance on squared paper, the difference between a Montpellier snake, which is back-fanged and bad-tempered, and a ladder snake, which is neither, and why a man who believes the first is under a cushion will leave a house by a window that is not open. He read out, from his notebook, the statement both defendants had given him from the pond, and both Gastons, from the dock, nodded, because it was accurate. When the duty lawyer asked him, gently, whether he had not been frightened, alone in a dark house at night with two grown men breaking in, Hugo considered the question with real seriousness.
 
-"No," he said. "I'd read the file."
+"Yes," he said. "Afterwards. But I'd read the file."
 
 "Which file?"
 
@@ -3680,31 +3602,7 @@ The Gastons got eighteen months each, suspended, and an order not to come within
 
 ---
 
-The summons had come in January, on pale lilac paper, in an envelope with no stamp and no sender. It required Monsieur Tobias Lind to present himself at the tribunal in Aix, Room 14, on the first Monday of March, at nine o'clock. It did not say why.
-
-He rang the number at the bottom. A woman answered, said "It is being clarified," and put the phone down. A man answered, said the same, and did the same. A recorded voice, pleasant, said that his call was important to them, and that the matter was being clarified, and that he should please hold, and he held for forty minutes while a violin played, and at the end the voice thanked him for waiting and hung up.
-
-"What have I done?" he asked Catarina.
-
-"Perhaps something," said Catarina, who had been brought up Catholic and believed in being charged first. "You will find out."
-
-He found out nothing. In Room 14, on the first Monday of March, he sat for three hours on a bench among a number of silent, well-dressed strangers, each of whom appeared to be waiting for a verdict on something. At noon a clerk read a name from a list and nobody got up. At one he read it again. At two he read it a third time, and Tobias, who could not in his whole life sit quietly while a name was read, put up his hand.
-
-"Lind," said the clerk. "Tobias."
-
-"Yes?"
-
-"It is not you."
-
-"It's my name."
-
-"It is a different Tobias Lind." The clerk consulted a document that turned out, on closer inspection, to be a restaurant menu. "Tobias Lindt. With a *t*. A chocolatier from Zurich. He is accused of being too good at chocolate."
-
-"That isn't a crime."
-
-"In the Canton of Vaud it is. It is a very old law." The clerk looked distressed. "You were never accused of anything, monsieur. It was a clerical error. The paper was put in the wrong envelope, and the envelope in the wrong post, and the post sent in the wrong year. It has been clarified."
-
-Tobias came out into the light at half past two, having missed, as he learned that evening from Inês, who had sat through all of it with a notebook and gave him a full account with commentary, only the first morning of the larger trial, which had consisted mostly of the reading of lists. At the foot of the steps a small, tearful man in a chocolatier's apron pressed a large, beautifully wrapped box into his arms, said "Thank you, I will never forget you," and ran off among the plane trees. It contained thirty-six hand-made truffles. They were the best Tobias had ever tasted. He never found out why.
+The summons had come in January, on pale lilac paper, with no stamp and no sender, requiring Monsieur Tobias Lind to present himself in Room 14 of the tribunal in Aix on the first Monday of March. Every number he rang told him that the matter was being clarified. In Room 14 he sat for five hours among silent, well-dressed strangers, until a clerk, consulting what turned out on closer inspection to be a restaurant menu, informed him that the summons was meant for a Tobias Lindt, with a t, a chocolatier from Zurich, and had been put in the wrong envelope, in the wrong post, in the wrong year. It had been clarified. Tobias came out into the light having missed only the first morning of the larger trial, which had consisted mostly of the reading of lists, with the feeling that he had been told something about French justice and did not yet know what.
 
 The larger trial began in March, one year almost to the day after Elise Marchetti died, at the Cour d'assises in the Palais de Justice at Aix-en-Provence: a handsome, pale, pillared building facing a square of plane trees, still bare that early in the year, where on market mornings stalls sold lavender, old postcards, saucisson and cheese of a tragic ripeness.
 
@@ -3840,7 +3738,9 @@ The judge did not thank the pelican, because the pelican was sixty kilometres aw
 
 ## Chapter 36: The Courthouse Steps
 
-Afterwards, on the courthouse steps, in the cold spring sun, Tobias met the third Vidal sister.
+Afterwards, Madame Giraud came down the courthouse steps first, on her own, in the enormous cardigan. She stopped beside them long enough to take Catarina's hand in both of hers. She did not say anything, and nobody else did either. Then she went on across the square, under the bare plane trees, a small grey woman going home to a flat with a chair in it that nobody sat in, and Tobias watched her until she turned the corner. Three names had been read out in that court every morning for three weeks. For the length of the square, none of the rest of it seemed very funny.
+
+A few minutes later, on the same steps, in the cold spring sun, Tobias met the third Vidal sister.
 
 Fernanda was the eldest. She had driven fifteen hours from Porto in a van that said RESTAURANTE VIDAL on the side, and she filled the doorway of it as she filled most rooms: broad, warm, loud, in a flowered dress and a coat the colour of a tomato, carrying a cool-box the size of a small child. She kissed Inês on both cheeks, Catarina on both cheeks and then once more for luck, and turned to Tobias with the look of a customs officer.
 
@@ -3870,21 +3770,7 @@ She sat him on the steps and fed him until he could not speak. By the third tart
 
 It was the longest conversation Tobias had ever had in which he was only allowed to say yes.
 
-Through the crowd, in a brown tweed jacket that was rather better than anything Tobias owned, came a tall, sheepish man with a golf umbrella and a woman in a very large hat. Gerald, and Camilla.
-
-"Tobias. Ah. What a coincidence. We're on a short break. Together. Again." Gerald coughed. "My wife took me back for a month. Then she didn't. She said thirty years was a sufficient sample."
-
-"Hello, Gerald."
-
-"About the duvet. And the springs. They were rather loud."
-
-"I know," said Tobias. "I could hear them from the hall. I thought it was the pipes."
-
-"It was not the pipes," said Camilla, from under the hat.
-
-Fernanda, who had seen a thin man and a pale woman standing near a cool-box, sat them down. "TOO. THIN. I FEED YOU." Gerald was fed chicken, rice and three custard tarts before he could draw breath. Camilla was fed the rest. They left with a Tupperware and the impression that they were somehow engaged to Portugal. They did not mention the duvet again. Camilla, as far as anyone knows, still has it.
-
-When Fernanda had finished with them, Tobias wiped his hands, took Catarina a little apart, and held out a thin bound manuscript.
+When Fernanda had finished with him, Tobias wiped his hands, took Catarina a little apart, and held out a thin bound manuscript.
 
 "It's finished. I rewrote the lost chapters from your notes and Inês's, and the tape, and everything we found. Nobody slips. Nobody in it slips at all."
 
