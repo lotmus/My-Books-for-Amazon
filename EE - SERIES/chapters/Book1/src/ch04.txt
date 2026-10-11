@@ -3,7 +3,7 @@ P: Why does a car protect you from lightning? Largely because of a consequence o
 P: Where you meet this: Metal enclosures and shielded cables, coaxial cable (whose field Gauss's law gives in one line), and the fact that a capacitor's charge sits on the facing surfaces of its plates.
 H2: 4.1 Electric Flux
 P: Hold a window screen out in falling rain, facing the rain squarely, and count how many drops pass through it in a few seconds. Now tilt the same screen, in the same rain, so it faces more sideways: fewer drops get through, even though the rain itself has not changed at all — only how squarely the screen meets it has. Tilt the screen far enough, edge-on to the rain, and essentially no drops pass through it, however heavy the actual rainfall.
-P: So a useful measure of “how much rain gets through” cannot be just the rain’s intensity, or just the screen’s size — it has to combine how heavy the rain is, how large the screen is, and how squarely the screen faces it. Electric field lines behave exactly the same way: a surface sitting in a field has no way around dealing with its own tilt, once the field is actually there to pass through it.
+P: So a useful measure of “how much rain gets through” cannot be only the rain’s intensity, or only the screen’s size — it has to combine how heavy the rain is, how large the screen is, and how squarely the screen faces it. Electric field lines behave exactly the same way: a surface sitting in a field has no way around dealing with its own tilt, once the field is actually there to pass through it.
 P: Electric flux is exactly that combined measure: how much field passes through a given surface, once the surface’s own orientation is accounted for. A flat surface facing squarely into a field gets the full effect; the same surface tilted gets less, scaled down by the same cosine factor a tilted rain-screen would use.
 P: A uniform field of 100 N/C passing through a flat surface of area 0.50 m², facing the field squarely, carries a flux of 50 N·m²/C. Tilt that same surface to 60° from facing the field, and the flux drops to 25 N·m²/C — exactly half. Tilt it all the way to 90°, edge-on to the field, and the flux drops to zero, however strong the field actually is.
 P: That combined quantity — field strength times area times the cosine of the tilt angle — is the electric flux through the surface, the field-line-counting intuition from Chapter 3 made precise. For a flat surface of area A in a uniform field E, with the surface oriented so its normal (the perpendicular direction) makes angle θ with the field, the flux is:
@@ -38,7 +38,7 @@ BENCH: A shield only shields if it is closed and connected. Seams and slots leak
 H3: Practice Problems
 LI: A Gaussian sphere of radius 3.0 cm encloses a net charge of +2.0 nC. What is the total electric flux through the sphere?
 LI: An infinite sheet carries a uniform surface charge density of +4.0 µC/m². Find the field 2.0 cm from the sheet.
-LI: Explain, using Gauss's law, why the electric field just outside the surface of a charged conductor is always perpendicular to that surface.
+LI: Explain, using Gauss's law, why the electric field immediately outside the surface of a charged conductor is always perpendicular to that surface.
 LI: An infinitely long straight wire carries a uniform linear charge density of +5.0 nC/m. Find the electric field at a perpendicular distance of 4.0 cm from the wire.
 H3: What You’ll Actually Use
 P: Everyday working tools

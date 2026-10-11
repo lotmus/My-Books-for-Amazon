@@ -40,13 +40,14 @@ WE: Worked Example 22.5
 PROB: A 16-bit SAR converter spanning 5 V has a 30 pF sampling array. An external 2.7 nF capacitor sits at its input. Find the worst-case charge-sharing kick and how many time constants the driver network needs to recover it to ½ LSB.
 SOL: In the worst case the array held 0 V and the input is at 5 V. Sharing charge drops the input by 5 × 30/(2700 + 30) = 55 mV, which is about 1,440 times the ½-LSB level of 38 µV. Recovering requires ln(1,440) = 7.3 time constants of the external RC and driver within the acquisition window. A larger external capacitor reduces the kick but slows recovery and loads the op-amp's output, and Chapter 12 showed what a capacitive load does to the phase margin; the series resistor exists to isolate it. Datasheets of precision converters recommend specific values because the trade is particular to each array.
 MIS: Sampling a slow signal does not make the input-driving problem go away. A 1 Hz thermocouple voltage still meets the switched capacitor's charge kick once every conversion. A high-impedance source without a driver amplifier and input capacitor cannot recover from it, and the result is a gain error that looks like a calibration problem.
+BENCH: An ADC with a switched-capacitor input needs a driver that can recharge the sampling capacitor within the acquisition time. A small RC 'charge bucket' filter between op-amp and ADC, often tens of ohms and a capacitor much larger than the sampling capacitor, is common; the ADC datasheet usually recommends values. Skipping it is a classic cause of readings that depend on the previous channel.
+H2: Practice Problems
 LI: A 14-bit converter's hold capacitor is charged through 200 Ω total and is 20 pF. Find the acquisition time to ½ LSB.
 LI: Find the kT/C noise of a 5 pF capacitor at 290 K.
 LI: A switch injects 0.5 pC into a 50 pF hold capacitor. Find the pedestal.
 LI: A 14-bit converter (ideal SNR 86.0 dB) samples a 5 MHz full-scale sine. Find the largest rms jitter that keeps the jitter-limited SNR at 86 dB.
 LI: A 470 pF hold capacitor has 1 nA of leakage. Find the droop in V/s and the change during a 2 µs conversion.
 LI: Explain in a sentence or two why a larger hold capacitor is not always better.
-BENCH: An ADC with a switched-capacitor input needs a driver that can recharge the sampling capacitor within the acquisition time. A small RC 'charge bucket' filter between op-amp and ADC, often tens of ohms and a capacitor much larger than the sampling capacitor, is common; the ADC datasheet usually recommends values. Skipping it is a classic cause of readings that depend on the previous channel.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Acquisition time and settling.

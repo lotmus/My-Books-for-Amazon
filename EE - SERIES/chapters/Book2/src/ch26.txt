@@ -5,7 +5,7 @@ P: The root locus of Chapter 25 asks where the poles are. The frequency-response
 H2: 26.1 The Nyquist Criterion in Words
 P: Plot the loop transfer function L(jω) = KG(jω) as ω runs from −∞ to +∞; the curve is the Nyquist plot. The closed loop 1/(1 + L) has a pole wherever L = −1, so the point −1 is critical. Nyquist's theorem counts: the number of unstable closed-loop poles Z equals the number of clockwise encirclements N of −1 plus the number of unstable open-loop poles P. For the usual stable plant, P = 0, and the loop is stable exactly when the curve does not encircle −1. For an unstable plant, such as an inverted pendulum, the curve must encircle −1 counterclockwise once for each unstable pole.
 EQ: Z = N + P   (closed-loop RHP poles = clockwise encirclements of −1 + open-loop RHP poles)
-P: The theorem's practical value is that it works from measured frequency response. A loop whose model is uncertain but whose L(jω) has been measured with a network analyzer, as Chapter 13 measured op-amp loops, can be judged without ever writing its poles.
+P: The theorem's practical value is that it works from measured frequency response. A loop whose model is uncertain but whose L(jω) has been measured with a network analyzer, as Section 18.6 described, can be judged without ever writing its poles.
 H2: 26.2 Gain, Phase, and Delay Margins
 P: The gain margin is the factor by which the gain could rise before the curve passes through −1; it is read at the phase-crossover frequency, where the phase is −180°. The phase margin is the extra phase lag that would bring the curve through −1 at the gain-crossover frequency ω_c, where |L| = 1. Because a pure time delay τ adds phase lag ωτ without changing the gain, the phase margin also sets how much unmodeled delay the loop can tolerate: the delay margin is the phase margin in radians divided by ω_c.
 EQ: GM = 1/|L(jω₁₈₀)|,   PM = 180° + ∠L(jω_c),   τ_max = PM(rad)/ω_c
@@ -24,13 +24,14 @@ KEY: The sensitivity peak is the margin that matters. Gain and phase margins eac
 H2: 26.4 Delay in Digital Loops
 P: Chapter 19 showed that a sampled controller adds about 1.5 sample periods of delay. The delay margin turns that into a design rule: the loop's phase margin, in radians, divided by its crossover frequency must exceed the total delay of sampling, computation, filtering, and the actuator, with room to spare. A loop with 45° of phase margin at 10 rad/s tolerates 79 ms of delay; at 100 rad/s it tolerates 7.9 ms. The faster the loop, the faster the sample rate it needs, which is why the current loop of Chapter 24 runs at the switching frequency and the speed loop above it can run slower.
 MIS: A large gain margin does not by itself mean a robust loop. A loop can have a gain margin of 20 dB and still pass close to −1 at some other frequency, with a small phase margin or a large M_s, especially when the plant has lightly damped resonances. Always look at the closest approach to −1, not only at the two crossover frequencies.
+BENCH: Measure loop gain on the real hardware by injecting a small signal into the loop through a resistor (often 10 to 50 Ω) and comparing the signal on either side with a network or frequency-response analyzer. Simulations miss parasitic delays and component tolerances that a measurement catches.
+H2: Practice Problems
 LI: What do Z, N, and P stand for in the Nyquist relation, and what must hold for a stable plant?
 LI: Find the gain margin of L(s) = K/(s(s + 2)(s + 10)) at K = 48, in decibels.
 LI: A loop has a phase margin of 45° at ω_c = 10 rad/s. Find its delay margin.
 LI: Find the gain and phase margins guaranteed by M_s = 1.4.
 LI: Find the delay margin for the K = 28.7 loop of Worked Example 26.1.
 LI: Why does the Bode sensitivity integral imply a waterbed effect?
-BENCH: Measure loop gain on the real hardware by injecting a small signal into the loop through a resistor (often 10 to 50 Ω) and comparing the signal on either side with a network or frequency-response analyzer. Simulations miss parasitic delays and component tolerances that a measurement catches.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Gain and phase margin from a Bode plot.

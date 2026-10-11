@@ -21,7 +21,7 @@ FIG: fig16_2.png | Figure 16.2 — Top: a slow, noisy input with the two thresho
 KEY: Hysteresis trades a small, known threshold error for immunity to noise smaller than the gap. Size the gap larger than the peak-to-peak noise on the input and smaller than the error the application can tolerate.
 P: Positive feedback is entirely legitimate here. The golden rules do not apply; the two inputs are not at the same voltage except at the instant of switching, and nothing in the circuit is trying to make them so. This is the same sign change Chapter 11 warned about, used deliberately to make the circuit decisive.
 H2: 16.4 The Open-Collector Output
-P: Many comparators, including the long-lived LM311 and LM339 families, have an open-collector output: a single transistor that can pull the output pin low, and nothing that can pull it high. The high level is supplied by an external pull-up resistor to whatever supply the next circuit needs. That one feature makes the part a level translator for free: a comparator powered from 12 V can drive a 3.3 V logic input simply by returning its pull-up to 3.3 V. CMOS parts with the same arrangement are called open-drain.
+P: Many comparators, including the long-lived LM311 and LM339 families, have an open-collector output: a single transistor that can pull the output pin low, and nothing that can pull it high. The high level is supplied by an external pull-up resistor to whatever supply the next circuit needs. That one feature makes the part a level translator for free: a comparator powered from 12 V can drive a 3.3 V logic input by returning its pull-up to 3.3 V. CMOS parts with the same arrangement are called open-drain.
 P: The pull-up resistor sets two competing quantities. When the transistor is on, the resistor wastes a current V_pu/R_pu. When it turns off, the resistor alone must charge the capacitance of the wire and the inputs on it, so the rising edge is an RC exponential with time constant R_pu C, and its 10% to 90% rise time is 2.2 R_pu C. Falling edges are fast, because the transistor sinks current actively.
 WE: Worked Example 16.2
 PROB: An open-drain output pulls up to 3.3 V through 4.7 kΩ into a line with 50 pF of total capacitance. Find the rise time and the low-state current. What largest pull-up gives a 100 ns rise time, and what current does it draw?
@@ -31,6 +31,53 @@ P: Several open-collector or open-drain outputs can share one pull-up resistor a
 P: The arrangement is common far beyond comparators. Interrupt lines shared by several chips use it, and the I²C bus uses it for both its clock and data lines, so any device can hold the clock low to stretch it. The rise-time arithmetic of Worked Example 16.2 is exactly what limits how fast such a bus can run and how many devices it can carry.
 H2: 16.6 The Window Comparator
 P: Two comparators with open-collector outputs tied together make a window comparator: one fires when the input exceeds an upper limit, the other when it falls below a lower limit, and the shared line goes low if either fires. A supply monitor that flags both overvoltage and undervoltage on one pin is built exactly this way, with the two thresholds set by a single resistor ladder from a reference.
+H2: 16.7 Debouncing a Switch: the Refrigerator Door
+P: A mechanical switch does not close once. Its contacts bounce for a few milliseconds, and a logic input or a microcontroller interrupt sees a burst of edges. The Smart Refrigerator Monitor of Book 1 counts door openings, and every bounce would count as one. The analog-first cure is an RC filter feeding a Schmitt-trigger input such as a 74HC14: the capacitor smooths the bounces, and the hysteresis of this chapter turns the slow, smoothed edge into one clean transition.
+P: With the switch to ground and a pull-up R to V_DD, closing the switch discharges C almost at once through the contacts, and each bounce open lets it recharge only slowly through R. The output must not change until the capacitor charges from near 0 V to the Schmitt input's upper threshold. With that threshold at a fraction k of V_DD, the time is t = RC ln(1/(1 − k)), and it must exceed the longest bounce. Schmitt inputs typically put the upper threshold between about 0.6 and 0.7 of V_DD; design with the lower value, which gives the shorter time.
+WE: Worked Example 16.3
+PROB: The refrigerator door switch bounces for up to 5 ms. It pulls a 10 kΩ pull-up low, and the Schmitt input's upper threshold lies between 0.6 and 0.7 of V_DD. Choose C.
+SOL: With k = 0.6, t = RC ln(1/0.4) = 0.916 RC, so RC ≥ 5 ms/0.916 = 5.46 ms and C ≥ 5.46 ms/10 kΩ = 546 nF. Choose 680 nF: RC = 6.8 ms and t = 6.2 ms. Check: at k = 0.7, t = 6.8 ms × ln(1/0.3) = 8.2 ms; both exceed 5 ms, and a response delay under 10 ms is invisible for a door counter. A microcontroller can debounce in code instead (Book 8, Chapter 6, GPIO, Buttons, and Interrupts), but the RC and Schmitt version needs no code and spares the interrupt input a burst of edges.
+KEY: Debounce with an RC that outlasts the bounce and a Schmitt input that turns the slow edge into one clean transition: t = RC ln(1/(1 − k)) must exceed the longest bounce.
+H2: 16.8 Reading a Comparator Datasheet and Its Model
+P: The LM393 of the reader lab, read from the TI datasheet (SLCS005AH, LM393 without suffix) at V_CC = 5 V and 25 °C, has a shorter list than an op-amp, and almost every line matters:
+LI: Input offset voltage V_IO: 2 mV typical, 5 mV maximum, and 9 mV maximum over 0 °C to 70 °C. It is the threshold error before anything else.
+LI: Input bias current I_IB: −25 nA typical, −250 nA maximum, −400 nA over temperature. The minus sign means the current flows out of the pin, from the PNP input stage, into whatever resistance drives it. Input offset current: 5 nA typical, 50 nA maximum.
+LI: Common-mode input range: 0 V to V_CC − 1.5 V, and V_CC − 2 V over temperature. Only one input needs to be inside it for a correct output.
+LI: Voltage gain A_VD: 50 V/mV minimum, 200 V/mV typical, so a millivolt of input is enough to switch the output.
+LI: Output: an open collector. Leakage when off: 0.1 nA typical at 5 V and 1 µA maximum at 30 V over temperature. Low level V_OL: 130 mV typical and 400 mV maximum at 4 mA; at least 6 mA of sink current at V_OL = 1.5 V.
+LI: Supply current: 0.45 mA typical, 1 mA maximum, for the package.
+LI: Response time: 1.3 µs typical for a 100 mV input step with 5 mV of overdrive, and 0.3 µs for a TTL-level step, with 5.1 kΩ to 5 V and 15 pF, measured to the moment the output crosses 1.4 V. There is no maximum.
+P: Overdrive is how far the input goes past the threshold. A small overdrive drives the internal stages with a small current, so they take longer to swing; a large one saturates them, and the delay stops improving. A single response time is one point on that curve, valid at its own overdrive and load.
+WE: Worked Example 16.4
+PROB: An LM393 compares a sensor voltage with a reference made by a 100 kΩ/100 kΩ divider from 5 V. Find the worst-case threshold error from offset and bias current at 25 °C and over 0 °C to 70 °C, and repeat at 25 °C for a 10 kΩ/10 kΩ divider.
+SOL: The divider's Thévenin resistance is 100 kΩ ∥ 100 kΩ = 50 kΩ. Up to 250 nA flows out of the pin into it, raising the reference by 250 nA × 50 kΩ = 12.5 mV. Adding the 5 mV offset gives 17.5 mV of worst-case threshold error at 25 °C. Over 0 °C to 70 °C it is 400 nA × 50 kΩ + 9 mV = 29 mV. With 10 kΩ/10 kΩ the Thévenin resistance is 5 kΩ, the bias term falls to 1.25 mV, and the total is 6.25 mV, set mostly by the offset. Hysteresis (Section 16.3) deals with noise; accuracy comes from these two lines.
+P: A comparator macromodel has the same input sources as an op-amp model, a gain stage whose current is limited and whose capacitor is clamped, and an output switch whose on-resistance is fitted to V_OL: 130 mV/4 mA = 32.5 Ω. Its timing has two parameters, the current limit I_max and the capacitor C, and the datasheet gives exactly two timing points. Fitting both, with ngspice, gives the model below. Figure 16.3 shows the result: the model meets 1.30 µs at 5 mV of overdrive and 0.30 µs for the TTL step, and predicts 3.2 µs at 2 mV. That prediction is the model extrapolating; no datasheet line constrains it, and it should be checked against the datasheet's response-time curves or measured (Book 9) before a design depends on it.
+P: * CMPFIT: a datasheet-fitted behavioral comparator macromodel (Book 2, Section 16.8).
+P: * Fitted to TYPICAL values of the TI LM393 datasheet (SLCS005AH, LM393 without suffix, VCC = 5 V, 25 C):
+P: *   VIO 2 mV typ (5 mV max), IIB 25 nA typ flowing out of the inputs, response time 1.3 us
+P: *   (100 mV step, 5 mV overdrive) and 0.3 us (TTL step), RL = 5.1k to 5 V, CL = 15 pF,
+P: *   VOL 130 mV at 4 mA, output leakage 0.1 nA, ICC 0.45 mA.
+P: * Two timing parameters (IMAX, C) are fitted to the two response times; nothing else about timing is known.
+P: .subckt CMPFIT inp inn vcc gnd out params: VIO=0 GM=0.470m IMAX=10u C=5.66p
+P: Vio inp inp1 DC {VIO}
+P: Iop inp1 vcc DC 25n
+P: Ion inn vcc DC 25n
+P: * integrating stage: limited transconductance into C, clamped at +-0.5 V
+P: Bgm 0 n1 I = {IMAX}*tanh({GM}*V(inp1,inn)/{IMAX})
+P: Cint n1 0 {C}
+P: Rint n1 0 425Meg
+P: Dcl1 n1 cp DCL
+P: Vcp cp 0 0.5
+P: Dcl2 cm n1 DCL
+P: Vcm cm 0 -0.5
+P: .model DCL D(IS=1e-15 N=0.05)
+P: * open-collector output: switch on when n1 < 0 (output low), Ron fitted to VOL = 130 mV at 4 mA
+P: Sout out gnd 0 n1 SOC
+P: .model SOC SW(VT=0 VH=0 RON=32.5 ROFF=50G)
+P: Icc vcc gnd DC 0.45m
+P: .ends CMPFIT
+FIG: fig16_3.png | Figure 16.3 — Response time against overdrive for the fitted LM393 macromodel (ngspice), with the two datasheet points it was fitted to. Between and beyond them the curve is the model's prediction, not a datasheet value.
+KEY: Two datasheet points can fit two model parameters, and no more. Everything else the model says is a prediction, as good as the model's equations and no better.
 BENCH: Don't use an op-amp as a comparator unless its datasheet allows it. Many op-amps recover slowly from saturation, and some have input clamp diodes that misbehave with large differential voltages. Comparators are cheap and much faster out of saturation. And always add some hysteresis; a few millivolts stops chatter on slow, noisy edges.
 H2: Practice Problems
 LI: A Schmitt trigger has a 0 V to 3.3 V output, V_ref = 1.65 V, R₁ = 10 kΩ, and R₂ = 220 kΩ, connected as in Worked Example 16.1. Find the two thresholds and the hysteresis.
@@ -39,9 +86,14 @@ LI: An open-collector line has a 10 kΩ pull-up and 100 pF of capacitance. Find 
 LI: The output transistor of a comparator can sink 4 mA while meeting V_OL ≤ 0.4 V. What is the smallest pull-up allowed to a 5 V rail?
 LI: Explain in a sentence or two why a faster comparator chatters more readily than a slower one on a slow, noisy input.
 LI: Explain why two push-pull outputs must not be tied together, while two open-drain outputs may be.
+LI: A rain-gauge reed switch on the Smart Weather Station bounces for up to 2 ms. With a 47 kΩ pull-up and a worst-case Schmitt threshold of 0.6 V_DD, find the smallest capacitor and choose a standard value with margin.
+LI: An LM393's reference comes from a 47 kΩ/47 kΩ divider on 5 V. Find the worst-case threshold error at 25 °C from V_IO and I_IB, using the datasheet maxima of 5 mV and 250 nA.
+LI: An LM393 output is pulled up to 3.3 V. Using the datasheet's 1 µA maximum output leakage and its 400 mV maximum V_OL at 4 mA, find the range of pull-up resistance that keeps the high level within 0.1 V of 3.3 V and the low level at or below 0.4 V.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Hysteresis thresholds from a resistor divider.
 LI: Open-drain outputs with pull-ups and wired logic.
+LI: RC plus Schmitt debouncing, t = RC ln(1/(1 − k)).
+LI: Comparator datasheet lines: offset, bias current through the divider, and response time at your overdrive.
 P: Mostly for exams and deeper study
 LI: Comparator propagation-delay modeling.

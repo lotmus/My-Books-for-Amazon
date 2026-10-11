@@ -1,5 +1,5 @@
 H1: Chapter 14 — Noise in Op-Amp Circuits
-P: Turn an audio amplifier all the way up with nothing plugged in and you hear a hiss. That hiss is physics, not bad workmanship: resistors and transistors generate noise simply by being warm. The engineer's job is to keep it below the signal.
+P: Turn an audio amplifier all the way up with nothing plugged in and you hear a hiss. That hiss is physics, not bad workmanship: resistors and transistors generate noise by being warm. The engineer's job is to keep it below the signal.
 P: Where you meet this: Microphone and sensor preamps, precision measurement, medical front ends (ECG, EEG), and radio receivers.
 P: Turn the gain of a quiet amplifier all the way up with nothing connected and you will still hear a hiss, and an oscilloscope set to its most sensitive range will show a fuzzy band instead of a flat line. That is noise: random fluctuations produced by the components themselves, present even in a circuit that is perfectly designed and perfectly built. Noise sets the smallest signal a circuit can resolve. This chapter shows where it comes from in an op-amp stage, how to add the pieces together, and how to turn a datasheet's noise densities into the microvolts you will actually see.
 H2: 14.1 Three Sources

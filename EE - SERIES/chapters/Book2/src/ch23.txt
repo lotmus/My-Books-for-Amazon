@@ -41,13 +41,14 @@ EQ: R_s ≤ (V_s,min − V_REF) / (I_load,max + I_K,min)
 WE: Worked Example 23.6
 PROB: A 2.5 V shunt reference needs at least 0.5 mA to regulate. The supply ranges from 4.5 V to 5.5 V, and the load draws 0 to 1 mA. Choose the series resistor and find the maximum reference current and resistor dissipation.
 SOL: R_s ≤ (4.5 − 2.5)/(1.0 + 0.5) mA = 1.33 kΩ; choose 1.30 kΩ. At 4.5 V and full load the reference receives 2.0/1.30 kΩ − 1 mA = 0.54 mA, above its minimum. At 5.5 V with no load it must sink 3.0/1.30 kΩ = 2.31 mA, dissipating 2.5 × 2.31 = 5.8 mW, and the resistor dissipates 3.0²/1300 = 6.9 mW. Shunt references are simple and tolerate any supply, but they waste the full current at all times, which is why battery equipment prefers series references.
+BENCH: Read the reference datasheet for temperature coefficient, long-term drift and thermal hysteresis, not only initial accuracy. Initial error can be calibrated out; drift after soldering and thermal hysteresis usually can't. Many references also need a specific output capacitor to stay stable, sometimes within a range.
+H2: Practice Problems
 LI: Two transistors with an area ratio of 24 carry equal currents at 300 K. Find ΔV_BE and its temperature coefficient.
 LI: For the pair of the previous problem, find the gain K that cancels a V_BE slope of −2.0 mV/K.
 LI: In the circuit of Section 23.3 with N = 8 and R₁ = 10.0 kΩ, find the branch current at 300 K and the R₂ that gives K = 11.16.
 LI: A 2.048 V reference changes by 0.8 mV between 0 °C and 70 °C. Find its box-method temperature coefficient.
 LI: A 16-bit converter uses a 4.096 V reference rated at 3 ppm/°C. Find the drift in LSB over a 40 °C temperature change.
 LI: Explain in a sentence or two why an op-amp offset inside a bandgap circuit is multiplied by roughly K at the output.
-BENCH: Read the reference datasheet for temperature coefficient, long-term drift and thermal hysteresis, not just initial accuracy. Initial error can be calibrated out; drift after soldering and thermal hysteresis usually can't. Many references also need a specific output capacitor to stay stable, sometimes within a range.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Reading a reference datasheet: accuracy, tempco, drift, noise.

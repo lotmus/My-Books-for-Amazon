@@ -32,7 +32,18 @@ SOL: For 10 V peak, f_FP = 0.5×10⁶/(2π × 10) ≈ 7.96 kHz. For 1 V peak, f_
 MIS: Raising the closed-loop bandwidth does not raise the slew rate. Slew rate is a large-signal property of the op-amp's internal circuitry, independent of the feedback network. Lowering the noise gain helps small signals; only a different op-amp, or a smaller output swing, helps a slew-limited one.
 H2: 13.6 A Short Design Procedure
 P: Given a gain, a signal frequency range, an accuracy, and an output amplitude, the selection runs in four steps. First compute the noise gain from the resistor values, not from the signal gain. Second, divide the required accuracy into a minimum f_cl using the factor from Section 13.3, and multiply by the noise gain to get a minimum GBW. Third, compute 2πf_max V_p and require a slew rate comfortably above it, commonly by a factor of two. Fourth, check that the chosen op-amp is stable at the noise gain in use, since some fast parts are "decompensated" and are stable only above a minimum noise gain.
-BENCH: Slew rate catches people out on large signals. Full-power bandwidth is SR/(2πV_peak): a 0.5 V/µs part can deliver a 10 V peak sine only up to about 8 kHz. Above that the output turns into a triangle wave whatever the small-signal bandwidth says. Test with a full-amplitude signal, not just a small one.
+H2: 13.7 The Transimpedance Amplifier for Photodiodes
+P: A photodiode turns light into current, about 0.6 A per watt of near-infrared light for a silicon part such as the BPW34, proportional to the light over many decades. It is the eye in the human-senses picture of Book 1's reader lab. The right circuit for a current source is a transimpedance amplifier (TIA): the photodiode feeds the inverting input of an op-amp, a feedback resistor R_f carries the photocurrent to the output, and V_out = I_ph R_f (Figure 13.2). The virtual ground holds the photodiode at 0 V, so its capacitance never charges and its response stays linear.
+P: That capacitance returns inside the loop. The photodiode's capacitance, about 70 pF for a BPW34 at zero bias, plus the op-amp's input capacitance, forms the total input capacitance C_in, and with R_f it makes the noise gain 1 + sR_fC_in climb with frequency until it meets the open-loop gain falling from the GBW. Where the two meet, the phase margin is close to zero, and a bare TIA rings or oscillates. A small capacitor C_f across R_f fixes it. Two results cover most designs: the usable bandwidth is about f₋₃dB ≈ √(GBW/(2πR_fC_in)), and C_f ≈ √(C_in/(2πR_f·GBW)) places the feedback pole at that same frequency for a nearly flat response.
+FIG: fig13_2.png | Figure 13.2 — A photodiode transimpedance amplifier. The virtual ground holds the photodiode at 0 V; the photocurrent flows through R_f, so V_out = I_ph R_f, and C_f across R_f keeps the loop stable against the photodiode's capacitance.
+WE: Worked Example 13.4
+PROB: A BPW34 (C_d ≈ 70 pF) feeds a TIA with R_f = 100 kΩ on an op-amp with GBW = 10 MHz and 5 pF of input capacitance. Find the output for 10 µW of light at 0.6 A/W, the usable bandwidth, and the feedback capacitor.
+SOL: I_ph = 0.6 A/W × 10 µW = 6 µA, so V_out = 6 µA × 100 kΩ = 0.60 V. C_in = 70 + 5 = 75 pF. f₋₃dB ≈ √(10⁷/(2π × 10⁵ × 75 × 10⁻¹²)) = √(2.12 × 10¹¹) ≈ 461 kHz. C_f ≈ √(75 × 10⁻¹²/(2π × 10⁵ × 10⁷)) ≈ 3.45 pF; use 3.3 pF. Check: the feedback pole 1/(2πR_fC_f) = 1/(2π × 10⁵ × 3.45 pF) ≈ 461 kHz, the same frequency, as the design intends. Reverse-biasing the photodiode cuts its capacitance several times and buys bandwidth, at the cost of more dark current.
+P: The Smart Weather Station of Book 1 uses the same circuit slowly, to log daylight. A BPW34 in full sun delivers on the order of 100 µA; at dusk, a fraction of a microamp. One R_f cannot serve five decades of light on a 12-bit converter, so the station either switches R_f between two or three ranges or replaces the resistor with a diode, making a logarithmic amplifier whose output rises by a fixed step for each decade of light.
+KEY: A TIA turns current into voltage at a virtual ground. Its input capacitance makes it ring unless a small C_f across R_f, sized from the GBW, restores the phase margin.
+BENCH: Slew rate catches people out on large signals. Full-power bandwidth is SR/(2πV_peak): a 0.5 V/µs part can deliver a 10 V peak sine only up to about 8 kHz. Above that the output turns into a triangle wave whatever the small-signal bandwidth says. Test with a full-amplitude signal, not only a small one.
+P: On the Job
+P: Analog and mixed-signal engineers spend days on what this chapter does in minutes: they simulate the loop with the vendor's SPICE model, build it, and measure the step response and noise on the bench. At work a photodiode front end is usually a precision op-amp chosen with this chapter's arithmetic, or an integrated optical sensor with the TIA built in. Learn it here, buy the IC at work, and use the numbers to check the datasheet's claims.
 H2: Practice Problems
 LI: Using the declared op-amp, find the closed-loop bandwidth of an inverting amplifier with gain −4.
 LI: A non-inverting amplifier with gain 25 must keep its gain within 1% up to 5 kHz. Find the minimum gain-bandwidth product.
@@ -40,9 +51,12 @@ LI: Find the open-loop gain of the declared op-amp at 2 kHz.
 LI: Three identical single-pole stages each have f_cl = 50 kHz. Estimate the −3 dB bandwidth of the cascade, using f_cl √(2^(1/n) − 1).
 LI: An op-amp with SR = 13 V/µs must deliver a 5 V peak sine. Find its full-power bandwidth.
 LI: Explain in a sentence or two why an inverting amplifier with gain −1 has half the bandwidth of a follower built on the same op-amp.
+LI: Redesign the TIA of Worked Example 13.4 with R_f = 1 MΩ, keeping C_in = 75 pF and GBW = 10 MHz. Find the usable bandwidth and C_f.
+LI: A weather-station light sensor delivers up to 80 µA. Choose R_f so full sun gives 90% of a 3.3 V converter's range, pick the nearest E24 value, and find the output at 80 µA and at 0.5 µA.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Closed-loop bandwidth ≈ GBW / noise gain.
 LI: Full-power bandwidth = SR/(2πV_peak).
+LI: The photodiode TIA: V_out = I_ph R_f, with C_f sized from the GBW.
 P: Mostly for exams and deeper study
 LI: Second-pole effects and detailed frequency-compensation theory.

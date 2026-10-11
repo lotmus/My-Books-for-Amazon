@@ -80,24 +80,6 @@
    "max": 1
   },
   {
-   "find": "Feedback Systems",
-   "to": "[Feedback Systems](https://openlibrary.org/search?q=Feedback+Systems+%C3%85str%C3%B6m)",
-   "in": "Karl Johan Åström and Richard M. Murray, Feedback Systems, 2",
-   "max": 1
-  },
-  {
-   "find": "Control Systems Engineering",
-   "to": "[Control Systems Engineering](https://openlibrary.org/search?q=Control+Systems+Engineering+Nise)",
-   "in": "Norman S. Nise, Control Systems Engineering, 8th edition — r",
-   "max": 1
-  },
-  {
-   "find": "The Art of Electronics",
-   "to": "[The Art of Electronics](https://openlibrary.org/search?q=The+Art+of+Electronics+Horowitz)",
-   "in": "Paul Horowitz and Winfield Hill, The Art of Electronics, 3rd",
-   "max": 1
-  },
-  {
    "find": "Clock Domain Crossing (CDC) Design & Verification Techniques Using SystemVerilog",
    "to": "[Clock Domain Crossing (CDC) Design & Verification Techniques Using SystemVerilog](https://openlibrary.org/search?q=Clock+Domain+Crossing+%28CDC%29+Design+%26+Verification+Techniques+Using+SystemVerilog+Cummings)",
    "in": "Clifford E. Cummings, Clock Domain Crossing (CDC) Design & V",
@@ -275,6 +257,18 @@
    "find": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?",
    "to": "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol&i=digital-text)",
    "in": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
+   "max": 1
+  },
+  {
+   "find": "Getting Started in Electronics",
+   "to": "[Getting Started in Electronics](https://openlibrary.org/search?q=Getting+Started+in+Electronics+Mims)",
+   "in": "Forrest M. Mims III, Getting Started in Electronics",
+   "max": 1
+  },
+  {
+   "find": "Macromodeling of Integrated Circuit Operational Amplifiers",
+   "to": "[Macromodeling of Integrated Circuit Operational Amplifiers](https://doi.org/10.1109/JSSC.1974.1050528)",
+   "in": "G. R. Boyle, B. M. Cohn, D. O. Pederson, and J. E. Solomon",
    "max": 1
   }
  ]

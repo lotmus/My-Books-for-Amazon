@@ -1,7 +1,7 @@
 H1: Chapter 20 — Trigonometry and the Sinusoid
 P: The wall socket delivers a sine wave because a generator turns at constant speed, and a coil rotating in a magnetic field produces a sine, not a square or a triangle. Nearly every signal you will meet can be built from sines, so this chapter is less about triangles than about waves.
 P: Where you meet this: Mains power (60 Hz in North America, 50 Hz in most of the world), audio tones, clock jitter, and every phase measurement on an oscilloscope.
-P: Alternating current is sinusoidal, and so is every signal that can be built from alternating currents — which, as a later book on Fourier analysis shows, is every signal whatsoever. The sinusoid is therefore not one waveform among many; it is the waveform, and the trigonometry describing it is worth genuine fluency.
+P: Alternating current is sinusoidal, and Fourier analysis shows that practically every signal an engineer meets, from a square clock to a voice, can be built as a sum of sinusoids; the later books in this series lean on that fact constantly. The sinusoid is therefore not one waveform among many; it is the waveform, and the trigonometry describing it is worth genuine fluency.
 H2: 20.1 Angles, Degrees, and Radians
 P: An angle in radians is the arc length subtended divided by the radius. A full circle is 2π radians, so 180° = π rad, and the conversion is a simple proportion. Radians are used throughout analysis because the calculus of trigonometric functions is clean only in radians — the derivative of sin x is cos x only when x is in radians, picking up an awkward factor of π/180 otherwise.
 P: Degrees survive in practice because they are convenient for phase, where quarter and half cycles matter and 90° reads more naturally than π/2. Both appear constantly, sometimes in the same equation, and the single most common cause of an inexplicably wrong answer in phase calculations is a calculator left in the wrong angular mode.
@@ -31,13 +31,13 @@ P: The average value of a sinusoid over a whole number of cycles is zero, since 
 P: The root-mean-square value is defined as the square root of the mean of the square. Squaring makes everything positive, so nothing cancels, and the definition is chosen so that the RMS value of an AC waveform is exactly the DC value that would dissipate the same power in a resistor. For a sinusoid the result is
 EQ: V_rms = V_m/√2 ≈ 0.707·V_m
 P: When a supply is described as 230 V AC, that is an RMS figure; its peak is 325 V, and the peak-to-peak swing is 650 V. Insulation must survive the peak while power calculations use the RMS, and confusing the two has consequences at both ends — under-specified insulation on one side, power estimates wrong by a factor of two on the other.
-KEY: RMS is defined by equal heating, not by averaging. V_rms = V_m/√2 holds for sinusoids only. A square wave has V_rms = V_m; a triangle wave has V_m/√3. Applying the 0.707 factor to a non-sinusoidal waveform is simply wrong, and the error grows with how far the waveform departs from a sinusoid.
+KEY: RMS is defined by equal heating, not by averaging. V_rms = V_m/√2 holds for sinusoids only. A square wave has V_rms = V_m; a triangle wave has V_m/√3. Applying the 0.707 factor to a non-sinusoidal waveform is wrong, and the error grows with how far the waveform departs from a sinusoid.
 BENCH: To measure phase on a scope, trigger on one channel, use matched probes and settings on both, and time the gap between zero crossings: phase = 360° × Δt / T. Probe compensation and unequal cable lengths add phase shifts of their own, which matter more as frequency rises.
 H3: Practice Problems
 LI: Convert to radians: 45°, 90°, 120°, 270°. Convert to degrees: π/6, 2π/3, 3π/2 rad.
 LI: A current is i(t) = 2.5·sin(2π·1000·t − 45°) A. State its amplitude, frequency, period, and phase, and find its value at t = 0.
 LI: A sinusoidal voltage has a peak-to-peak value of 10 V. Find its amplitude and its RMS value.
-LI: Two sinusoids of the same frequency have amplitudes 3 V and 4 V and are 90° apart in phase. Use the Pythagorean identity to find the amplitude of their sum, and explain why you may not simply add 3 and 4.
+LI: Two sinusoids of the same frequency have amplitudes 3 V and 4 V and are 90° apart in phase. Use the Pythagorean identity to find the amplitude of their sum, and explain why you may not add 3 and 4.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Amplitude, frequency, period and phase: v(t) = A sin(ωt + φ).

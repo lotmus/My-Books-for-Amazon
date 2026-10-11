@@ -34,7 +34,7 @@ P: Magnetic fluxUnit: weberSymbol: WbIn base units: V·s
 P: FrequencyUnit: hertzSymbol: HzIn base units: 1/s
 P: PowerUnit: wattSymbol: WIn base units: J/s
 P: EnergyUnit: jouleSymbol: JIn base units: W·s
-P: Two entries deserve comment. The hertz is defined as one per second, and so is the becquerel, and so — dimensionally — is the radian per second; they are dimensionally identical and semantically distinct, which is why you cannot simply cancel Hz against rad/s without thinking. And the siemens is the reciprocal ohm; you will occasionally still meet its charming obsolete name, the mho, written with an upside-down omega.
+P: Two entries deserve comment. The hertz is defined as one per second, and so is the becquerel, and so — dimensionally — is the radian per second; they are dimensionally identical and semantically distinct, which is why you cannot cancel Hz against rad/s without thinking. And the siemens is the reciprocal ohm; you will occasionally still meet its charming obsolete name, the mho, written with an upside-down omega.
 H2: 13.4 Dimensional Analysis as an Error Check
 P: Because units multiply and divide algebraically, any equation you write must balance dimensionally: the units on the left must reduce to the same combination of base units as the units on the right. If they do not, the equation is wrong, and you have found the error without knowing anything about the physics.
 P: This is the cheapest debugging tool in engineering and it is badly underused. Consider the time constant of an RC circuit, τ = RC. Is that dimensionally sensible? Resistance is V/A and capacitance is C/V, so

@@ -31,7 +31,7 @@ P: Integrated instrumentation amplifiers laser-trim the difference stage, so the
 KEY: An instrumentation amplifier rejects common-mode voltage by amplifying the difference before it subtracts. The front end raises the signal against an untouched common-mode level, so every factor of gain placed in the front end multiplies the rejection of the imperfect difference stage that follows.
 FIG: fig20_2.png | Figure 20.2 — Total CMRR of a three-op-amp instrumentation amplifier versus front-end gain, for difference stages built from 1%, 0.1%, and 0.01% resistors.
 H2: 20.4 Headroom Inside the Amplifier
-P: The front-end outputs carry the common-mode level plus half the amplified difference each, V_cm ± G₁V_d/2. Those internal nodes are invisible on the package, but they clip like any other op-amp output. A part can show a perfectly legal output voltage while one of its internal amplifiers is saturated, and the output is then simply wrong. Datasheets publish the allowed region as a plot of common-mode voltage against output voltage, usually a hexagon or diamond, and that plot, not the input common-mode specification alone, is the test of a design.
+P: The front-end outputs carry the common-mode level plus half the amplified difference each, V_cm ± G₁V_d/2. Those internal nodes are invisible on the package, but they clip like any other op-amp output. A part can show a perfectly legal output voltage while one of its internal amplifiers is saturated, and the output is then wrong. Datasheets publish the allowed region as a plot of common-mode voltage against output voltage, usually a hexagon or diamond, and that plot, not the input common-mode specification alone, is the test of a design.
 WE: Worked Example 20.4
 PROB: A 5 V single-supply instrumentation amplifier with rail-to-rail front-end outputs (allow 0.1 V from each rail) is set to a front-end gain of 100. It senses a 20 mV differential signal at a common-mode level of 4.0 V. Check the internal headroom.
 SOL: The front-end outputs are 4.0 ± (100 × 0.020)/2 = 4.0 ± 1.0 V, so one internal node must reach 5.0 V. The allowed maximum is 4.9 V, so that amplifier saturates. Three fixes are possible: lower the front-end gain and take the remaining gain later, bring the common-mode level toward mid-supply, or run the part from a higher supply. With the common-mode level at 2.5 V the nodes span 1.5 to 3.5 V and the design is comfortable.
@@ -43,17 +43,43 @@ SOL: A_cm = 10/(20,000 + 10) = 5.0 × 10⁻⁴, and with unity differential gain
 MIS: The REF pin is not a ground connection that can be returned anywhere. Its current is the output current of the difference stage divided among the resistors, and any resistance or ground-return voltage between REF and the point the load measures from appears directly in the output.
 H2: 20.6 Choosing Between Them
 P: Use a difference amplifier when the signal source is low impedance, the common-mode voltage may exceed the supply rails (high-side current sensing, where an integrated difference amplifier with a divider ahead of its inputs tolerates tens of volts), and the required CMRR is modest. Use an instrumentation amplifier when the source is high impedance or unbalanced, the signal is small, or the rejection must exceed about 70 dB. In both, keep the two input paths symmetrical: equal source resistances, equal filter components, and matched layout, because any asymmetry converts common-mode voltage into a differential error before the amplifier can reject it.
+H2: 20.7 Sensor Front Ends and the Human Senses
+P: Book 1's reader lab paired each sensor with a human sense. Each sense needs a front end that matches what the sensor delivers, a voltage, a current, or a charge, and most of them are in this book:
+LI: Sight: a photodiode, a current source, read by the transimpedance amplifier of Section 13.7.
+LI: Touch, pressure, and weight: a strain-gauge bridge or load cell, a small differential voltage, read by the instrumentation amplifier of this chapter.
+LI: Feeling a knock or a vibration: a piezoelectric sensor, a charge source, read by the charge amplifier of Section 20.8.
+LI: Warmth: a thermistor bridge with a comparator (Book 1, Chapter 27) or an instrumentation amplifier; at a distance, a PIR sensor, whose pyroelectric element is another charge source.
+LI: Hearing: a microphone, read by a low-noise preamplifier designed with the noise budget of Chapter 14.
+LI: A sense people lack, electricity itself: a current transformer or a shunt, read for the Home Energy Dashboard in Section 20.9.
+H2: 20.8 The Charge Amplifier for Piezoelectric Sensors
+P: A piezoelectric sensor (an accelerometer, a knock sensor, a hydrophone, a guitar's under-saddle pickup) produces charge, not voltage: q = S·a, where S is its sensitivity in picocoulombs per unit of input. Read with a voltage amplifier, that charge divides between the sensor's own capacitance and the cable's, so the reading changes whenever the cable is moved or replaced. A charge amplifier removes the dependence. The sensor feeds the inverting input, and the feedback element is a capacitor C_f (Figure 20.3). The virtual ground keeps the sensor and cable at 0 V, so their capacitance never charges, and all of q flows onto C_f: V_out = −q/C_f. A large resistor R_f across C_f gives the op-amp's bias current a path and sets a low-frequency corner f_L = 1/(2πR_fC_f); below it the amplifier forgets, which is why piezo sensors cannot measure a static force.
+FIG: fig20_3.png | Figure 20.3 — A charge amplifier. The piezo sensor is a charge source in parallel with its own and the cable's capacitance; the virtual ground keeps that capacitance at 0 V, so V_out = −q/C_f, and R_f sets the low-frequency corner.
+WE: Worked Example 20.6
+PROB: An accelerometer has S = 10 pC/g. The charge amplifier uses C_f = 1 nF and R_f = 1 GΩ. Find the sensitivity in mV/g, the output for a 5 g shock, and the low-frequency corner.
+SOL: V/a = S/C_f = 10 pC/1 nF = 10 mV/g, so a 5 g shock gives 50 mV (inverted). f_L = 1/(2π × 10⁹ Ω × 10⁻⁹ F) = 0.159 Hz. Check: a longer cable adds capacitance at the inverting input, which changes the noise gain but not V_out = −q/C_f; with a voltage amplifier, doubling the total capacitance would halve the reading. The op-amp must be a low-bias-current FET-input or CMOS part, because 1 pA through 1 GΩ is already 1 mV of offset.
+H2: 20.9 Measuring Mains Current: the Home Energy Dashboard
+P: The Home Energy Dashboard of Book 1 reads the current into a house with a clip-on current transformer (CT), which needs no break in the wiring and isolates the mains from the electronics. A CT with N secondary turns delivers I_p/N into a burden resistor R_b, and the burden turns that current into a voltage. A single-supply converter cannot read a negative voltage, so the burden's other end sits at a mid-supply bias of V_DD/2, made by a resistor divider and a capacitor or, better, by the follower of Chapter 12.
+WE: Worked Example 20.7
+PROB: A 100 A : 50 mA CT (N = 2000) feeds a 3.3 V converter biased at 1.65 V. The largest current to measure is 100 A rms. Choose the burden resistor, and find the primary current per count of a 12-bit converter.
+SOL: The peak primary current is 100√2 = 141.4 A, so the peak secondary current is 141.4/2000 = 70.7 mA. The swing must stay within ±1.65 V, so R_b ≤ 1.65/0.0707 = 23.3 Ω; choose 22 Ω, which gives ±1.56 V at 100 A. One count of a 12-bit converter is 3.3/4096 = 0.81 mV, which is 0.81 mV/22 Ω = 36.6 µA of secondary current, or 73 mA of primary current. Check: at 100 A rms the burden dissipates (0.050 A)² × 22 Ω = 55 mW, comfortable for a 0.25 W part. Never unclip the burden while the CT sits on a live conductor: an open secondary can rise to a dangerous voltage.
+KEY: Match the front end to what the sensor delivers: a voltage to an instrumentation amplifier, a current to a transimpedance amplifier, a charge to a charge amplifier.
+BENCH: Check the internal headroom, not only the input range. In a three-op-amp in-amp, the first-stage outputs carry the common-mode voltage plus the amplified difference, and they can clip while the output looks fine. Many manufacturers publish 'diamond plot' tools for exactly this. And drive the reference pin from a low impedance; a resistor divider there spoils CMRR.
+P: On the Job
+P: Test and measurement engineers live in this chapter. A production tester, a strain-gauge rig, or a sensor qualification lab is a row of instrumentation amplifiers, references, and converters, and the daily work is chasing a reading that is a few counts wrong to a ground loop, a common-mode problem, or an unmatched filter. At work the instrumentation amplifier is a single chip with laser-trimmed resistors; this chapter is how you know what its CMRR figure will and will not protect you from.
+H2: Practice Problems
 LI: An instrumentation amplifier's inputs sit at 2.512 V and 2.488 V. Find the differential and common-mode voltages.
 LI: A difference amplifier with a gain of 10 uses 1% resistors. Find its worst-case CMRR in decibels.
 LI: An integrated instrumentation amplifier has a gain equation G = 1 + 49.4 kΩ/R_G. Find R_G for a gain of 50.
 LI: A difference stage gives 60 dB of CMRR. It follows a front end with gain 200. Estimate the total CMRR in decibels.
 LI: A front end with gain 50 sees V_d = 30 mV at V_cm = 1.0 V on a 0–5 V supply with 0.1 V output limits. Is the design within its internal headroom?
 LI: Explain in a sentence or two why an RC filter placed ahead of an instrumentation amplifier should use matched capacitors on both inputs.
-BENCH: Check the internal headroom, not just the input range. In a three-op-amp in-amp, the first-stage outputs carry the common-mode voltage plus the amplified difference, and they can clip while the output looks fine. Many manufacturers publish 'diamond plot' tools for exactly this. And drive the reference pin from a low impedance; a resistor divider there spoils CMRR.
+LI: A piezo accelerometer of 10 pC/g feeds a charge amplifier with C_f = 470 pF. Find the sensitivity in mV/g and the R_f that puts the low-frequency corner at 1 Hz.
+LI: The CT of Worked Example 20.7 is used to measure up to 30 A rms. Choose the burden from E12 values and find the peak burden voltage at 30 A.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Gain = 1 + 2R/R_G for the three-op-amp form.
 LI: Common-mode rejection and resistor matching.
 LI: Internal headroom checks.
+LI: Charge amplifiers for piezo sensors; CT burden resistors for mains current.
 P: Mostly for exams and deeper study
 LI: Deriving CMRR as a function of each resistor's mismatch.

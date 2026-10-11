@@ -54,6 +54,7 @@ Rules
 - Communications, Wireless, and SDR (Book 5)
 - Power and Energy (Book 6)
 - Packaging, Layout, EMC, and Test (Book 7)
+- Firmware and Software for Electronics (Book 8)
 
 **History**
 

@@ -35,7 +35,7 @@ P: The voltage is the integral of current divided by capacitance:
 P: v(t) = (1/C)·∫₀^t kt dt = (1/C)·k·t²/2
 P: Evaluating at t = 5 ms:
 P: v = (1/4.7 × 10⁻⁶)(2)(0.005²/2) = (1/4.7 × 10⁻⁶)(2)(1.25 × 10⁻⁵) = (2.5 × 10⁻⁵)/(4.7 × 10⁻⁶) = 5.32 V
-P: A useful cross-check: the average current over the ramp is half the peak, or 5 mA, sustained for 5 ms, giving a total charge of 25 µC. Then v = Q/C = 25 × 10⁻⁶ / 4.7 × 10⁻⁶ = 5.32 V. The two routes agree, and the second is often quicker — for a linear ramp, the area under the curve is just a triangle, and you do not need the integral at all.
+P: A useful cross-check: the average current over the ramp is half the peak, or 5 mA, sustained for 5 ms, giving a total charge of 25 µC. Then v = Q/C = 25 × 10⁻⁶ / 4.7 × 10⁻⁶ = 5.32 V. The two routes agree, and the second is often quicker — for a linear ramp, the area under the curve is a triangle, and you do not need the integral at all.
 KEY: In sinusoidal steady state, d/dt becomes ×jω and ∫dt becomes ÷jω. This is the whole reason Chapter 23 works. Once you accept it, no differential equation ever needs to be solved to analyze a linear circuit at a single frequency — the calculus has been done in advance, once, and packaged into the factor jω.
 H2: 24.4 Differential Equations, Briefly
 P: A differential equation relates a quantity to its own derivatives. The RC circuit produces the simplest interesting example. Kirchhoff's voltage law around a charging loop gives

@@ -12,7 +12,8 @@ Author: Lothar J. Musiol
 <li><b>Part III, the circuits:</b> Kirchhoff's laws, dividers, nodal and mesh analysis, Thevenin and Norton, transients, AC analysis, power factor, resonance, transformers, and a practical first look at the Smith chart and impedance matching.</li>
 </ul>
 <p>Every chapter ends with a section called <b>What You'll Actually Use</b>, an honest list that separates the everyday working tools from the theory you mainly need for exams or deeper study. <b>From the Bench</b> notes add what textbooks tend to leave out: probing and scope-ground pitfalls, capacitor DC-bias derating, resistor derating, trace sizing, and the rules of thumb engineers use to sanity-check a design.</p>
-<p>Inside: 48 diagrams, dozens of worked examples, practice problems with full solutions, a formula reference, a glossary and a circuit-analysis checklist.</p>
+<p>You also build things. A ten-part <b>reader lab</b> (an ESP32-S3 board, an OLED display, ultrasonic, motion, weather and GPS sensors, a LoRa radio, a servo, an 18650 cell and a camera) is introduced here and used through the whole series, always analog first: a thermistor and a Wheatstone bridge make a thermostat with no code before twenty lines on the ESP32 do the same job. Three projects run through the book: a Smart Weather Station, a Home Energy Dashboard and a Smart Refrigerator Monitor.</p>
+<p>Inside: 56 diagrams, more than 70 worked examples, 156 practice problems with every solution worked in full, On the Job notes from working engineers' roles, a formula reference, a glossary and a circuit-analysis checklist.</p>
 <p>This is a textbook, not a popular-science tour: it uses equations and expects you to work problems. If you want a readable, rigorous foundation that tells you what matters in practice, for a first EE course, a career change or a refresher, start here. Book 1 of the seven-book Electrical Engineering Series.</p>
 
 ## Keywords (7)

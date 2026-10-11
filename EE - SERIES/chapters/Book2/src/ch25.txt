@@ -7,7 +7,7 @@ P: With a controller gain K in series with a plant G(s) and unity feedback, the 
 EQ: 1 + K G(s) = 0  ⇔  D(s) + K N(s) = 0
 P: A point s lies on the locus if the angle of G(s) is 180° (an odd multiple of it). The gain that places a pole there is then K = 1/|G(s)|. Those two conditions, angle and magnitude, are all the rules below encode.
 H2: 25.2 Sketching Rules
-P: Five rules give a sketch good enough for design. First, the locus has as many branches as the plant has poles, starting at the poles and ending at the zeros or at infinity. Second, on the real axis the locus lies to the left of an odd number of real poles and zeros. Third, the branches that go to infinity follow asymptotes at angles (2k + 1)180°/(n − m), where n and m are the numbers of poles and zeros, and the asymptotes meet at the centroid σ = (Σ poles − Σ zeros)/(n − m). Fourth, where two branches meet on the real axis and leave it, the breakaway point is a root of dK/ds = 0. Fifth, the crossing of the imaginary axis, if any, is found from the Routh array of Chapter 17 or by substituting s = jω.
+P: Five rules give a sketch good enough for design. First, the locus has as many branches as the plant has poles, starting at the poles and ending at the zeros or at infinity. Second, on the real axis the locus lies to the left of an odd number of real poles and zeros. Third, the branches that go to infinity follow asymptotes at angles (2k + 1)180°/(n − m), where n and m are the numbers of poles and zeros, and the asymptotes meet at the centroid σ = (Σ poles − Σ zeros)/(n − m). Fourth, where two branches meet on the real axis and leave it, the breakaway point is a root of dK/ds = 0. Fifth, the crossing of the imaginary axis, if any, is found from the Routh-Hurwitz test, as in Worked Example 25.2, or by substituting s = jω.
 EQ: asymptote angles = (2k + 1)·180°/(n − m),   σ = (Σp − Σz)/(n − m)
 WE: Worked Example 25.1
 PROB: A position loop has the plant G(s) = 1/(s(s + 4)). Sketch the locus, find the gain at the breakaway point, and find K for a damping ratio of 0.707.
@@ -25,13 +25,14 @@ KEY: The locus shows what gain can and cannot do. If the desired closed-loop pol
 H2: 25.4 Bending the Locus
 P: Adding a zero pulls the locus toward it. A lead compensator places a zero closer to the origin than its pole, so the net effect near the dominant poles is a zero, and the asymptotes move left. In the plant of Worked Example 25.2, a compensator zero at −2 cancels the pole there, leaving the poles at 0 and −10 and the compensator's own pole, placed here at −20; the dominant branches then break away at −4.23, the root of 3s² + 60s + 200 = 0, instead of −0.945 and the settling time can fall several-fold. A lag compensator places a pole and zero close together near the origin, which leaves the locus almost unchanged but raises the low-frequency gain, reducing the steady-state error of Chapter 17. These are the same compensators Chapter 18 introduced through the Bode plot, now seen through the poles they move.
 MIS: Cancelling a plant pole with a compensator zero does not remove the pole from the system. The cancelled pole still governs how the plant responds to disturbances that enter at its input, and an exact cancellation is never achieved in practice. Cancelling a slow, stable pole is common and safe; cancelling an unstable or lightly damped one is not, because the hidden mode remains and grows or rings.
+BENCH: Today the locus is drawn by software, so the value of the sketching rules is judgment: knowing that adding a pole bends the locus toward instability and adding a zero pulls it back. Use the plot to choose gain ranges, then confirm on the real system with a step test.
+H2: Practice Problems
 LI: For G(s) = 1/(s(s + 6)), find the gain that gives ζ = 0.707.
 LI: For the same plant, find the breakaway point and the gain there.
 LI: Find the asymptote centroid and angles for G(s) = 1/(s(s + 1)(s + 5)).
 LI: Find the gain and frequency at which the loop of the previous problem becomes unstable.
 LI: What overshoot does a second-order system with ζ = 0.5 have?
 LI: On what parts of the real axis does the locus of G(s) = 1/(s(s + 2)(s + 10)) lie?
-BENCH: Today the locus is drawn by software, so the value of the sketching rules is judgment: knowing that adding a pole bends the locus toward instability and adding a zero pulls it back. Use the plot to choose gain ranges, then confirm on the real system with a step test.
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Reading a computed root locus.

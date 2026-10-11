@@ -11,8 +11,8 @@ H1: Preface — How to Use This Book
 P: This is the first book in a series that walks through electrical engineering from the ground up, and it is the longest, because it carries the largest load. Everything in every later volume — devices, radio, power, control, signal processing — rests on the three subjects gathered here.
 P: The book is in three parts, meant to be read in order. Part I covers the physics: charge, fields, potential, current, magnetism, and induction. Part II covers the mathematical language that physics is written in, from SI units and dimensional analysis through logarithms, trigonometry, complex numbers, phasors, and first-order calculus. Part III brings the two together into circuit theory, DC and AC, ending with resonance, frequency response, and a first look at the Smith chart and impedance matching.
 P: You need not read all of it before moving on. A reader comfortable with secondary-school physics can skim Part I; a reader already fluent with complex numbers can skim Part II. But the parts are cross-referenced throughout, and a chapter reference anywhere in this book points to a chapter in this book — the numbering runs continuously from 1 to 38 across all three parts.
-P: Each chapter follows the same shape. It opens with the question the chapter answers, builds the picture in words first, then introduces the mathematics needed to make that picture precise, and closes with worked examples and practice problems. Three kinds of boxed panel appear throughout. "Key Idea" panels flag the handful of facts in each chapter worth memorizing outright. "Worked Example" panels take a representative problem all the way to a number, showing the reasoning at each step rather than just the arithmetic. "Common Misconception" panels address specific wrong turns that show up reliably among people meeting the material for the first time, before those wrong turns calcify.
-P: Almost every chapter ends with a short set of practice problems — usually four, occasionally three or five — and full solutions to all 149 of them are collected in Appendix B. The three bridging chapters that close each part (12, 25, and 38) carry review questions instead, or none at all. The solutions are worth more than the answers, so resist looking until you have made a real attempt: the value of a worked solution lies almost entirely in comparing it against your own reasoning and noticing where the two diverged.
+P: Each chapter follows the same shape. It opens with the question the chapter answers, builds the picture in words first, then introduces the mathematics needed to make that picture precise, and closes with worked examples and practice problems. Three kinds of boxed panel appear throughout. "Key Idea" panels flag the handful of facts in each chapter worth memorizing outright. "Worked Example" panels take a representative problem all the way to a number, showing the reasoning at each step rather than only the arithmetic. "Common Misconception" panels address specific wrong turns that show up reliably among people meeting the material for the first time, before those wrong turns calcify.
+P: Almost every chapter ends with a short set of practice problems — usually four, sometimes three, five, or six — and full worked solutions to all 156 of them are collected in Appendix B. The bridging chapters that close Parts I and III (12 and 38) carry review questions instead, and Chapter 25, which closes Part II, has none. The solutions are worth more than the answers, so resist looking until you have made a real attempt: the value of a worked solution lies almost entirely in comparing it against your own reasoning and noticing where the two diverged. The lab notes and project examples use a small kit of parts, introduced once in The Reader Lab, after About This Series.
 P: A note on units and notation. SI units are used exclusively — no cgs, no mixed systems. Vectors are written in bold and their magnitudes in italics. The imaginary unit is written j rather than i, because i denotes current; Part II explains this properly when the time comes.
 H1: How This Book Is Organized
 H2: Part I — The Physics of Electricity and Magnetism (Chapters 1-12)
@@ -33,11 +33,31 @@ P: 4. RF, Microwave, and Transceivers — Lines, matching, antennas, PAs, receiv
 P: 5. Communications, Wireless, and SDR — Modulation, band plans, DSP and software radio
 P: 6. Power and Energy — Regulators, magnetics, the grid, the rack
 P: 7. Packaging, Layout, EMC, and Test — Boards, packages, cooling, emissions, the accredited lab, robots
-KEY: You do not need the other six books to use this one. This book, and each book after it, is written to stand on its own given its stated prerequisites — almost always just the books before it in the list above. Treat the table as a map of where you have been and where a given later interest can take you, not as a syllabus you must complete in order.
+KEY: You do not need the other six books to use this one. This book, and each book after it, is written to stand on its own given its stated prerequisites — almost always only the books before it in the list above. Treat the table as a map of where you have been and where a given later interest can take you, not as a syllabus you must complete in order.
+H1: The Reader Lab
+P: Electronics is learned with the hands as much as the head, so this series asks you to build things. Every book uses the same small kit, the reader lab, and this is the one place it is introduced; the later books refer back here. Nothing in this book requires it: every worked example stands on paper. But a divider you have measured, or an LED you have burned out, stays learned in a way a formula alone does not.
+P: The kit is ten parts, all sold as small modules with pin headers, so they plug into a breadboard with jumper wires. Each one typically costs a few dollars to about fifteen.
+LI: An ESP32-S3 development board: the controller. Two processor cores at up to 240 MHz, 2.4 GHz Wi-Fi and Bluetooth LE 5, a 12-bit analog-to-digital converter, and 3.3 V input and output pins. It is the brain of every project.
+LI: A 0.96-inch OLED display (128 × 64 pixels, I²C or SPI): the face, where the projects show what they measure.
+LI: An HC-SR04 ultrasonic ranger: the bat's sense. It times a 40 kHz echo and measures 2 cm to 4 m. The classic version runs from 5 V and returns a 5 V pulse, which Chapter 27 brings down safely to 3.3 V.
+LI: A PIR (passive infrared) motion sensor: the sense of warmth at a distance, the same sensor that switches porch lights.
+LI: A BME280 environmental sensor: temperature, humidity, and air pressure, the skin and inner ear of the kit, read over I²C.
+LI: A GPS receiver module: the sense of place, sending position and time over a serial line once a second.
+LI: A LoRa radio module (868 or 915 MHz, depending on region): the voice that carries several kilometers on tens of milliwatts.
+LI: A small hobby servo: the muscle. It turns to an angle set by a pulse about 1 to 2 ms long, repeated every 20 ms.
+LI: An 18650 lithium-ion cell in a holder with a charge and protection module: the stomach. A full cell sits at 4.2 V, its nominal voltage is about 3.6 to 3.7 V, and it stores roughly 3000 mAh.
+LI: A camera module (an OV2640 or OV5640 on an ESP32-S3 camera board, or a camera that plugs into the main board): the eye.
+P: Add a breadboard, jumper wires, a handful of resistors, capacitors, LEDs, and push buttons, a few thermistors and light-dependent resistors, and a multimeter, and you have everything this book's lab notes use. Figure L.1 shows the kit as a body: each part stands in for a sense or an organ, and each connects to the controller over one of a few kinds of wire.
+FIG: image18.png | Figure L.1 — The reader lab as a body. The ESP32-S3 is the brain; the sensors are its senses, the servo its muscle, the OLED its face, the LoRa radio its voice, and the 18650 cell its stomach. The labels on the links name the wiring each part uses.
+P: If you buy only one controller, buy an ESP32-S3 board. It has the wireless radios the later books need, enough analog inputs for the sensing chapters, and enough speed for the camera. An Arduino Uno R4 or a Raspberry Pi Pico 2 W will also do most of the projects; where a difference matters, such as the Uno's 5 V pins against the ESP32-S3's 3.3 V pins, the text says so.
+P: The series follows one rule with the lab: analog first. Where a few resistors, a capacitor, and a comparator can do a job, you build that first, because that is where the physics lives. Then you do the same job in about twenty lines of code on the ESP32-S3 and compare. The analog version teaches why the circuit works and needs no software; the code version adds Wi-Fi, logging, and a display. Real products usually combine the two, and so do the projects.
+P: In this book the lab appears in Chapter 8 (an LED and a light sensor), Chapter 15 (what an ADC reading is worth, and an ultrasonic range corrected for temperature), Chapter 18 (a pressure trend), Chapter 27 (thermistors, bridges, a load cell, and safe 5 V to 3.3 V connections), Chapter 33 (a debounced button and the I²C bus), and Chapter 35 (an energy dashboard). Three small projects run through those chapters: a Smart Weather Station, a Home Energy Dashboard, and a Smart Refrigerator Monitor. The camera, GPS, LoRa radio, and servo wait for the later books, and Book 7 closes with a robot that draws on every book in the series.
+KEY: Treat the 18650 cell with respect. A shorted lithium-ion cell can deliver tens of amperes and start a fire. Use a holder with a protection module, never solder directly to a cell, never charge one without a charger made for lithium-ion, and keep its wires covered.
 H1: Table of Contents
 P: Preface — How to Use This Book
 P: How This Book Is Organized
 P: About This Series
+P: The Reader Lab
 H2: Part I — The Physics of Electricity and Magnetism
 P: Chapter 1 — Electric Charge
 P: Chapter 2 — Coulomb's Law and the Electric Force
@@ -87,10 +107,3 @@ P: Appendix E — A Practical Circuit-Analysis Checklist
 P: Appendix F — Further Reading
 P: About the Author
 P: Also by Lothar J. Musiol
-H2: Appendices
-P: Appendix A — Formula Reference
-P: Appendix B — Practice Problem Solutions
-P: Appendix C — Glossary
-P: Appendix D — Chapter Summaries
-P: Appendix E — A Practical Circuit-Analysis Checklist
-P: Appendix F — Further Reading

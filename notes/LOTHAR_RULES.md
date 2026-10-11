@@ -1,4 +1,4 @@
-﻿# Lothar's standing rules for every book
+# Lothar's standing rules for every book
 
 This is the handbook for any assistant working on Lothar J. Musiol's books, on any account. Read it before you edit. Prefer this file over memory, chat history, or an older book note when they disagree. Book-specific notes (each book's `notes/` or `CLAUDE.md`) still win for details that apply only inside that book. Canonical bio and Also-by text live in the sibling files named below; do not invent a second copy.
 
@@ -9,7 +9,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 ## Identity
 
 - Author name is always **Lothar J. Musiol** (with the J.).
-- Household facts: Lothar has four children, a wife, and a grumpy Teacup Pomeranian named **Gucci**. When the published bio wording needs to change, edit `notes/ABOUT_THE_AUTHOR - canonical.md` first, then propagate.
+- Household facts: Lothar has four children, a wife, and a grumpy Teacup Pomeranian named **Gucci**. The four children are two daughters and two sons. One daughter is married and lives in Passau, the other daughter is at medical school in Hamburg, and both sons live in San Clemente. That's why the bio says the household includes "one married daughter". This is correct, so don't flag it as a conflict (Lothar confirmed, 11 Oct 2026). When the published bio wording needs to change, edit `notes/ABOUT_THE_AUTHOR - canonical.md` first, then propagate.
 - Pen-name rules:
   - **Kevin Drew Peters** alone (no real name anywhere on the book, listing, or Also-by): *How to Publish Your First Kindle Book* (also known under the older title *Your First Book That Sells*) and *Your First YouTube Channel That Rocks*. A Kevin Drew Peters Also-by page lists only Kevin Drew Peters books. Never put those titles on a Lothar J. Musiol Also-by page.
   - **Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)**: The Relativistic Investigation Bureau books.
