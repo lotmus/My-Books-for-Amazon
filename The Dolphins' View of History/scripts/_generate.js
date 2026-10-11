@@ -1812,56 +1812,57 @@ const reviewLine = new Paragraph({
   spacing: { before: 400, after: 200 },
   children: [new TextRun({ text: "If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.", italics: true })],
 });
+// About the Author and Also by are read from the canonical files, not copied here:
+// notes/ABOUT_THE_AUTHOR - canonical.md (Version B) and notes/ALSO_BY - canonical list.md at the repo root.
+// Change those files, not this script. The text is typed with straight apostrophes there; typo() above curls them.
+function canonicalLines(name) {
+  let d = __dirname;
+  while (!fs.existsSync(require("path").join(d, "notes", name))) {
+    const up = require("path").dirname(d);
+    if (up === d) throw new Error("canonical file not found: notes/" + name);
+    d = up;
+  }
+  return fs.readFileSync(require("path").join(d, "notes", name), "utf8").replace(/^\uFEFF/, "").split(/\r?\n/);
+}
+function canonicalAbout(version) {
+  const out = []; let cur = []; let inside = false;
+  for (const line of canonicalLines("ABOUT_THE_AUTHOR - canonical.md").concat([""])) {
+    if (line.startsWith("## ")) { if (inside) break; inside = line.trim() === "## Version " + version; continue; }
+    if (!inside) continue;
+    if (line.trim()) cur.push(line.trim());
+    else if (cur.length) { out.push(cur.join(" ")); cur = []; }
+  }
+  return out.filter((p) => !p.startsWith("Plain-text copies"));
+}
+function canonicalAlsoBy(excludePrefixes) {
+  const groups = []; let group = null; let inside = false;
+  for (const line of canonicalLines("ALSO_BY - canonical list.md")) {
+    if (line.startsWith("## ")) { if (inside) break; inside = line.trim() === "## Also by Lothar J. Musiol"; continue; }
+    if (!inside) continue;
+    const t = line.trim();
+    if (t.startsWith("**") && t.endsWith("**") && t.length > 4) { group = { name: t.slice(2, -2), titles: [] }; groups.push(group); }
+    else if (t.startsWith("- ") && group) {
+      const title = t.slice(2).trim();
+      if (!excludePrefixes.some((x) => title.startsWith(x))) group.titles.push(title);
+    }
+  }
+  return groups.filter((g) => g.titles.length);
+}
+
 const aboutAuthor = [
   heading("About the Author"),
-  body("Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume."),
-  body("He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are."),
+  ...canonicalAbout("B").map((t) => body(t)),
 ];
 
 // ---------------------------------------------------------------------
-// Back matter: Also by
+// Back matter: Also by (this book is left out of its own list)
 // ---------------------------------------------------------------------
-// Canonical list (rebuilt 10 Oct 2026): notes/ALSO_BY - canonical list.md at the repo root; this book is left out.
 const alsoBy = [
   heading("Also by Lothar J. Musiol"),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Physics, Actually", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "More Actually Books", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Universe, Actually: What Humanity Currently Understands About Reality", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Math, Actually", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 1: From Arithmetic to Calculus", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 3: From Differential Equations to Abstract Algebra", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Math, Actually, Volume 4: From Category Theory to the Frontier", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Quantum, Actually", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Quantum, Actually, Volume 2: A QED Course", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Science Sparks", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Look First", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Look First, Volume 1: The Universe Has No Now", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Look First, Volume 2: A Trip Is Not a New Life", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Electrical Engineering Series", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Foundations of Electronics (Book 1)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Circuits, Components, and Control (Book 2)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Semiconductor Physics and Devices (Book 3)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "RF, Microwave, and Transceivers (Book 4)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Communications, Wireless, and SDR (Book 5)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Power and Energy (Book 6)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Packaging, Layout, EMC, and Test (Book 7)", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "Fiction", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine", italics: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston", italics: true })] }),
-  new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: "In German", bold: true })] }),
-  new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?", italics: true })] }),
+  ...canonicalAlsoBy(["The Dolphins' View of History"]).flatMap((g) => [
+    new Paragraph({ spacing: { before: 200, after: 80 }, keepNext: true, children: [new TextRun({ text: g.name, bold: true })] }),
+    ...g.titles.map((title) => new Paragraph({ spacing: { after: 60 }, indent: { left: 360 }, children: [new TextRun({ text: title, italics: true })] })),
+  ]),
 ];
 
 (async () => {
