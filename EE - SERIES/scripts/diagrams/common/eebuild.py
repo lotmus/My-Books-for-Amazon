@@ -9,10 +9,11 @@ def bullet_numid(doc):
     for n in x.findall(W('num')):
         if fmt.get(n.find(W('abstractNumId')).get(W('val'))) == 'bullet': return int(n.get(W('numId')))
     raise SystemExit('no bullet list definition')
+CHRX = r'Chapter (\d+)(?: —|\.\s)'   # Books 1-2 use 'Chapter N — Title', Books 3-7 'Chapter N. Title'
 def chapters(doc):
     ps = body_ps(doc); H1 = [i for i, p in enumerate(ps) if sty(p) == 'Heading1']; out = {}
     for k, i in enumerate(H1):
-        m = re.match(r'Chapter (\d+) —', ptext(ps[i]))
+        m = re.match(CHRX, ptext(ps[i]))
         if m: out[int(m.group(1))] = (ps[i], ps[H1[k+1]] if k+1 < len(H1) else None)
     return out
 def seg(h, nxt):
@@ -38,13 +39,21 @@ def warm(doc, C, chap_map=None, fill='E8F1E4'):
     for n, (h, nxt) in chapters(doc).items():
         c = C.get(n)
         if not c: continue
-        new = [mkpara([mkrun(c['hook'])], spacing={'after': 160})]; counts['hook'] += 1
+        if c.get('replace'):  # the new hook replaces the old opening paragraph
+            old = h.getnext()
+            while not ptext(old).strip(): old = old.getnext()
+            old.getparent().remove(old)
+        new = []; at = h
+        if c.get('hook'): new.append(mkpara([mkrun(c['hook'])], spacing={'after': 160})); counts['hook'] += 1
+        else:  # keep the book's own opening paragraph as the hook; the meet line follows it
+            at = h.getnext()
+            while not ptext(at).strip(): at = at.getnext()
         if c.get('meet'): new.append(mkpara([mkrun('Where you meet this: ', bold=True), mkrun(c['meet'])], spacing={'after': 200}))
-        insert_after(h, new)
+        insert_after(at, new)
         s = [x for x in seg(h, nxt) if x.tag == W('p')]
         last = s[-1]
         while not ptext(last).strip() and not last.findall('.//' + qn('w:drawing')): last = last.getprevious()
-        pp = next((x for x in s if sty(x) in ('Heading2', 'Heading3') and ptext(x).strip() in ('Practice Problems', 'Review Questions', 'Exercises')), None)
+        pp = next((x for x in s if sty(x) in ('Heading2', 'Heading3') and ptext(x).strip() in ('Practice Problems', 'Review Questions', 'Exercises', 'Practice')), None)
         if c.get('bench'):
             b = [mkpara([mkrun('From the Bench', bold=True)], shade=fill, spacing={'after': 80, 'before': 120}),
                  mkpara([mkrun(c['bench'])], shade=fill, spacing={'after': 120})]
@@ -69,7 +78,7 @@ def anchor(doc, a):
     """'H:<text>' = heading containing text; 'C:<n>' = chapter heading. Returns the paragraph to insert after:
     the first body paragraph after it, moved past any equations or figures that follow."""
     ps = body_ps(doc)
-    if a.startswith('C:'): hits = [i for i, p in enumerate(ps) if sty(p) == 'Heading1' and ptext(p).startswith('Chapter %s —' % a[2:])]
+    if a.startswith('C:'): hits = [i for i, p in enumerate(ps) if sty(p) == 'Heading1' and re.match(CHRX, ptext(p)) and re.match(CHRX, ptext(p)).group(1) == a[2:]]
     else: hits = [i for i, p in enumerate(ps) if sty(p).startswith('Heading') and a[2:] in ptext(p)]
     if len(hits) != 1: raise SystemExit('anchor %r matched %d' % (a, len(hits)))
     i = hits[0] + 1
@@ -81,7 +90,7 @@ def renumber_figures(doc):
     ps = body_ps(doc); cur = None; k = 0; mp = {}; caps = set()
     for p in ps:
         t = ptext(p)
-        m = re.match(r'Chapter (\d+) —', t) if sty(p) == 'Heading1' else None
+        m = re.match(CHRX, t) if sty(p) == 'Heading1' else None
         if m: cur = int(m.group(1)); k = 0; continue
         if sty(p) == 'Heading1': cur = None
         m = re.match(r'Figure (\d+)\.(\d+|\?) —', t)

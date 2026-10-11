@@ -1,0 +1,277 @@
+H1: Appendix A. Constants Used in This Book
+P: Thermal voltage VT: 26 mV. Declared room-temperature hand value.
+P: Intrinsic concentration ni of silicon: 1.0×10¹⁰ cm⁻³. Declared hand value.
+P: Elementary charge q: 1.602×10⁻¹⁹ C.
+P: Relative permittivity of silicon: 11.7.
+P: Working mobilities, when a problem states none: μn = 1000 cm²/V·s, μp = 480 cm²/V·s.
+P: Einstein, from those values: Dn = 26.0 cm²/s, Dp = 12.48 cm²/s.
+P: Voltage per decade of ideal forward current: 59.9 mV.
+P: Worked-diode saturation current: IS = 1.0×10⁻¹⁵ A.
+P: Silicon bandgap cited in Chapter 1 is about 1.12 eV. Germanium about 0.66 eV. Gallium arsenide about 1.42 eV. Those three are orientation numbers, not inputs to the worked arithmetic.
+P: Declared bipolar transistor (Part II): β = 100, IS = 1 fA, VA = 100 V, operating point IC = 1 mA, which gives VBE = 0.718 V, gm = 38.5 mS, rπ = 2.60 kΩ, ro = 100 kΩ.
+P: VBE temperature coefficient at constant IC, hand value: −2 mV/°C.
+P: Oxide permittivity εox = 3.9 ε0 = 3.45×10⁻¹³ F/cm (Part III).
+P: Electron saturation velocity in silicon, hand value: vsat = 1.0×10⁷ cm/s.
+P: Symbol note: VT is the thermal voltage; the MOSFET threshold is Vth.
+P: Noise temperature for Part IV: 290 K, so 4kT = 1.60×10⁻²⁰ J (the same reference as Book 2). Device equations keep VT = 26 mV.
+P: Channel-noise factor of a long-channel MOSFET: γ = 2/3.
+P: Pelgrom matching constant, working value for a recent process: AVt = 3 mV·µm.
+P: Critical field for avalanche, hand values: silicon 3×10⁵ V/cm, 4H-SiC 2.5×10⁶ V/cm, GaN 3.3×10⁶ V/cm.
+P: Photon energy and wavelength: λ (nm) ≈ 1240 / E (eV).
+P: Human-body ESD model: 100 pF through 1.5 kΩ.
+P: Boron diffusion in silicon, hand values: D = D0 exp(−Ea/kT), D0 = 1.0 cm²/s, Ea = 3.5 eV; diffusion length ≈ 2√(Dt).
+P: Lithography: half-pitch R = k1λ/NA (k1 ≥ 0.25 for one exposure); DOF ≈ k2λ/NA². ArF 193 nm, EUV 13.5 nm.
+P: Acoustic: AlN longitudinal velocity ≈ 11,350 m/s, kt² ≈ 6.5%, εr ≈ 9.5, TCF ≈ −25 ppm/K. BAW f ≈ v/(2t); kt² ≈ (π²/4)(fp − fs)/fp.
+P: Statistics: one-sided Q(3) = 1.35×10⁻³, Q(6) = 9.9×10⁻¹⁰; ±3σ holds 99.73%.
+P: Thermal energy kT = 25.9 meV at 300 K. Boltzmann constant k = 8.617×10⁻⁵ eV/K.
+P: Silicon lattice constant a = 0.5431 nm; atom density 4.99×10²² cm⁻³. Effective densities of states at 300 K: Nc ≈ 2.8×10¹⁹ cm⁻³, Nv ≈ 1.04×10¹⁹ cm⁻³.
+P: Measured silicon mobilities at 300 K (cm²/V·s), electrons / holes: lightly doped 1350 / 480; 10¹⁶ cm⁻³ 1200 / 440; 10¹⁷ cm⁻³ 800 / 320; 10¹⁸ cm⁻³ 280 / 150. Lattice-limited mobility ∝ T^(−2.4).
+P: Dopant ionization energies in silicon: P 45 meV, As 54 meV, B 45 meV.
+P: Four-point probe on a thin layer: Rs = 4.532 V/I. Hall voltage VH = I B/(q n t).
+P: Schottky thermionic emission: JS = A* T² e^(−φB/VT), A* ≈ 112 A/(cm²·K²) for n-type silicon.
+P: AlGaN/GaN 2DEG: ns ≈ 1×10¹³ cm⁻², practical current density about 1 A per mm of gate.
+P: Poisson die yield Y = e^(−A D0); 300 mm wafer area ≈ 707 cm².
+P: Soft errors: 3.6 eV per electron-hole pair in silicon; FIT = failures per 10⁹ device-hours.
+H1: Appendix B. Answers to the Practice Problems
+H2: Chapter 1
+P: 1. p = ni²/n = 1.0×10⁵ cm⁻³. σ = q n μn = 0.1602 (Ω·cm)⁻¹. ρ = 6.242 Ω·cm. Ten times fewer electrons, ten times the resistivity.
+P: 2. A wider gap means fewer bonds broken at a given temperature, so ni is smaller. Reverse current of a junction tracks that minority population, so the leakage falls.
+P: 3. σ = q ni (μn + μp) = 2.371×10⁻⁶ (Ω·cm)⁻¹. The hole term is μp/(μn+μp) = 0.32 of the total, about a third. It is not ignorable. It was ignorable in the worked example only because doping had made n huge and p tiny.
+P: 4. 4.99×10²² / 10¹⁶ ≈ 5×10⁶, about five million silicon atoms per dopant atom.
+P: 5. Ei − EF = 0.026 × ln(10¹⁷/10¹⁰) = 0.026 × 16.12 = 0.419 eV. EF is below midgap, toward the valence band, as it must be for p-type material.
+P: 6. 45 °C is five doublings, so ni rises about 2⁵ = 32 times, and an ni² leakage about 1,000 times. The hand model gives 22 and 470; the doubling rule is a slightly generous estimate.
+P: 7. Multiplying n = Nc e^(−(Ec − EF)/kT) by p = Nv e^(−(EF − Ev)/kT) adds the exponents, and EF appears once with each sign, leaving only Ec − Ev = Eg.
+H2: Chapter 2
+P: 1. n ≈ 1.0×10¹⁵ cm⁻³. p = ni²/n = 1.0×10⁵ cm⁻³.
+P: 2. The hole concentration is ni²/ND, not zero. At ND = 10¹⁶ cm⁻³ it is 1.0×10⁴ cm⁻³.
+P: 3. Donors exceed acceptors by 9.0×10¹⁵ cm⁻³, so the material is n-type. The majority electron concentration is approximately ND − NA = 9.0×10¹⁵ cm⁻³. The minority hole concentration is ni² divided by that majority, about 1.1×10⁴ cm⁻³. The subtraction is charge neutrality with the small carrier terms dropped. Dropping them is fair here because both are far below the doping difference.
+P: 4. Both have the same carrier concentration, but the compensated region has many more ionized impurities to scatter the carriers, so its mobility is lower.
+P: 5. n-type. n = I B/(q |VH| t) = (0.5×10⁻³)(0.40)/[(1.602×10⁻¹⁹)(1.0×10⁻³)(2.5×10⁻⁴)] = 5.0×10²¹ m⁻³ = 5.0×10¹⁵ cm⁻³.
+P: 6. 1000/25 = 40 squares; 40 µm long at 1 µm wide.
+H2: Chapter 3
+P: 1. Dn = 26.0 cm²/s. Dp = 12.48 cm²/s.
+P: 2. |Jp| = q Dp |dp/dx| = 199.952 A/cm². Conventional current points the same way the holes are spreading.
+P: 3. Jn,drift = q n μn E = 16.022 A/cm². The diffusion example was 374.909 A/cm². A modest field of 10 V/cm in this doping already beats that particular one-micron gradient. Steeper gradients, the kind inside a junction, put diffusion back in front.
+P: 4. R rises as 1/μ, by (350/300)^2.4 = 1.45, to about 14.5 kΩ.
+P: 5. σ = 0.1 (Ω·cm)⁻¹, so τd = 1.04×10⁻¹²/0.1 = 10.4 ps.
+P: 6. t = 5×10⁻⁶ cm / 10⁷ cm/s = 0.5 ps.
+H2: Chapter 4
+P: 1. NA ND / ni² = 1.0×10³⁴ / 1.0×10²⁰ = 1.0×10¹⁴. Vbi = 0.026 × ln(10¹⁴) = 0.026 × 32.236 = 0.838 V.
+P: 2. Only somewhat larger. Width follows the square root of (Vbi − V). A few volts of reverse bias increases the term inside the root by a factor of several, and the width by the square root of that factor, not by the factor itself.
+P: 3. Vbi depends on ln(1/ni²). A larger ni shrinks the argument of the logarithm, so Vbi falls.
+P: 4. Vbi = 0.026 × ln(10³⁴/10²⁰) = 0.838 V. W = sqrt(2 × 1.036×10⁻¹² × 0.838 × 2×10⁻¹⁷/1.602×10⁻¹⁹) = 0.147 µm.
+P: 5. Vbi − V = εs Emax²/(2 q ND) = 1.036×10⁻¹² × 9×10¹⁰/(2 × 1.602×10⁻¹⁹ × 10¹⁶) = 29.1 V, so a reverse bias of about 28 V. Avalanche needs a little more because breakdown requires multiplication over a distance, so the measured breakdown of such a junction is about 50 to 60 V; the simple estimate is conservative.
+P: 6. 1 − V/Vbi = 15.3. For m = 0.5 the capacitance falls by √15.3 = 3.9 times; for m = 1.0 by 15.3 times. Hyperabrupt doping is how tuning varactors get a wide range from a modest voltage swing.
+H2: Chapter 5
+P: 1. I(0.65 V) = 7.200×10⁻⁵ A = 72.00 μA.
+P: 2. One decade is 59.9 mV, so the rule says 59.9 mV. Exact voltages: 0.6585 V at 0.1 mA and 0.7184 V at 1 mA, a difference of 59.9 mV. The rule is the exact ideal-diode result once I is far above IS, which it is.
+P: 3. I(−0.2 V) = -9.995×10⁻¹⁶ A, which is −IS times (1 − e^(−0.2/VT)). e^(−0.2/VT) is about 4.56×10⁻⁴, so the factor in parentheses is already indistinguishable from 1 at three significant figures, and I ≈ −IS. A real diode adds surface leakage and generation inside the depletion layer, both missing from the ideal law.
+P: 4. 60 °C × (−1.8 mV/°C) = −108 mV, so about 0.54 V. The coefficient changes slightly with temperature, but the estimate is within a few millivolts.
+P: 5. n = 0.118/(0.026 × ln 10) = 1.97, about 2: recombination in the depletion layer dominates at such low current.
+P: 6. rd = 0.026/10⁻⁴ = 260 Ω at 0.1 mA and 0.026/10⁻² = 2.6 Ω at 10 mA.
+H2: Chapter 6
+P: 1. 1 − V/Vbi = 3.784. Cj = 20 / 1.945 = 10.28 pF.
+P: 2. The time is waiting on minority charge stored by the forward current. A Schottky junction does not store that minority population in the same way, so the recovery tail is largely absent.
+P: 3. The resistor sets the current through the knee. The junction sets the voltage. Without the resistor the supply would try to hold 12 V across a 5.1 V knee.
+P: 4. JS = 112 × 9×10⁴ × e^(−0.6/0.02585) = 8.4×10⁻⁴ A/cm², so IS = 84 nA and V = 0.02585 × ln(10⁻³/8.4×10⁻⁸) = 0.24 V.
+P: 5. Heavy doping makes the depletion layer under the metal only nanometers thick, so electrons tunnel through the barrier in both directions and the contact is resistive instead of rectifying.
+P: 6. About 6.4 + 30 × 0.043 = 7.7 V, somewhat higher in practice because the breakdown voltage itself rises as the junction heats.
+H2: Chapter 7
+P: 1. Ropt = 40 / 0.50 = 80 Ω. P = (40)(0.50)/2 = 10 W.
+P: 2. Open an InP HEMT first. Do not open a GaN power switch, and do not open a handset HBT. A survivable limiter in front of that LNA can be GaN. The noise-figure deficit of 0.4 dB is an InP problem.
+P: 3. The 650 V part is a GaN-on-silicon power HEMT. InP is a small, fragile, poorly heat-spreading substrate with a 1 to 5 V RF habit. It is not in that market.
+P: 4. (56 − 3) × 0.8/8 = 5.3 W/mm; 25/5.3 = 4.7 mm of gate.
+P: 5. The electrons are supplied by polarization charge, not by dopant atoms inside the channel, so there are no ionized impurities in the well to scatter them.
+H2: Chapter 8
+P: 1. IS doubles to 3.2×10⁻¹⁶ A, because IS is inversely proportional to WB. The transit time WB²/(2Dn) falls by a factor of four, to 1.25 ps.
+P: 2. α = 150/151 = 0.993. IE = IC/α = 2.0 × 151/150 = 2.013 mA.
+P: 3. VBE = 0.026 ln(10⁻⁴/10⁻¹⁵) = 0.659 V and 0.026 ln(10⁻²/10⁻¹⁵) = 0.778 V, a difference of 120 mV. Two decades of current at about 60 mV per decade.
+P: 4. β is proportional to NE, so the ratio predicts three times the gain. A real device gains less because heavier doping narrows the emitter bandgap and lowers the hole diffusion constant, both of which increase backward injection.
+P: 5. In saturation the forward-biased collector junction stores excess minority charge in the base and collector, and that charge must be removed or recombine before the collector junction can block; in forward-active mode that excess charge was never stored.
+P: 6. Solve (2 + x)/(1 − x/100) = e^(0.1/0.026) = 46.8: 2 + x = 46.8 − 0.468x, so x = 30.5.
+P: 7. It conducts before the collector junction forward-biases deeply, diverting excess base current so little minority charge is stored, and there is less charge to remove at turn-off.
+H2: Chapter 9
+P: 1. gm = 0.25 mA/26 mV ≈ 9.62 mS; rπ = 120/0.00962 ≈ 12.5 kΩ.
+P: 2. ro = 60 V/0.5 mA = 120 kΩ; gm ro = VA/VT = 60/0.026 ≈ 2310, about 67 dB.
+P: 3. RE = (4.0 − 0.718)/0.986 mA ≈ 3.33 kΩ. ΔIE = 0.100/3330 ≈ 30 µA, about 3.0% instead of 7.8%.
+P: 4. gm = 76.9 mS; Cπ = 0.0769 × 10 ps + 50 fF ≈ 819 fF; fT = 0.0769/(2π × 839 fF) ≈ 14.6 GHz.
+P: 5. gm is proportional to IC and ro is inversely proportional to IC, so their product VA/VT contains no current at all.
+P: 6. −0.0385 × 3.47 kΩ = −134.
+P: 7. So that the base current, which varies with β and temperature, changes the divider's output voltage only slightly; otherwise the bias point follows β.
+H2: Chapter 10
+P: 1. Cox = 3.45×10⁻¹³/1.0×10⁻⁷ ≈ 3.45×10⁻⁶ F/cm² ≈ 34.5 fF/µm².
+P: 2. ID = ½ × 200 µA/V² × 10 × 0.16 = 160 µA; gm = 2 × 160 µA/0.4 V = 0.80 mS; gm/ID = 5 V⁻¹. Doubling Vov quadrupled the current but only doubled gm.
+P: 3. VDS < Vov, so it is in triode, where it behaves as a gate-controlled resistor; in bipolar vocabulary this corresponds to saturation.
+P: 4. 120/80 = 1.5 decades, a factor of 10^1.5 ≈ 32.
+P: 5. Once carriers move at a fixed saturated velocity, the current is the channel charge per unit width times that velocity, which does not involve L; shortening the channel only raises the field in a region where velocity can no longer increase.
+P: 6. Vth = 0.45 + 0.40 × (√1.0 − √0.7) = 0.45 + 0.40 × 0.163 = 0.515 V.
+P: 7. The fin is thin and fully depleted, and the gate wraps three sides, so the gate controls the channel charge and the substrate potential has little electrostatic coupling to it.
+H2: Chapter 11
+P: 1. 3 × (2 × 42 + 6) = 3 × 90 = 270 nm.
+P: 2. 4 × 2 × (25 + 6) = 248 nm.
+P: 3. 50 mV/0.70 V ≈ 71 mV/V.
+P: 4. In a thin channel, every point is close to a gate electrode, so the gate's field sets the potential throughout the channel; the drain's field, which must reach in from the far end, has little channel left to influence.
+P: 5. 4 × (2 × 52 + 7) = 444 nm.
+P: 6. The width is set by the number of fins, each a fixed lithographic structure, so it comes in multiples of the per-fin width.
+H2: Chapter 12
+P: 1. IOUT = 200 µA/(1 + 2/50) = 192.3 µA.
+P: 2. 2 × 2 mV/0.15 V = 2.7%.
+P: 3. √(WL) = 4/0.5 = 8 µm, so WL = 64 µm².
+P: 4. gm = 200 µA/26 mV = 7.69 mS; gain = 7.69 mS × 20 kΩ = 154.
+P: 5. VT ln(1.02) = 26 mV × 0.0198 = 0.51 mV.
+P: 6. Edge effects such as diffusion under the gate edge and corner rounding scale with perimeter, not area, so one wide device does not carry exactly four times the current of a narrow one; four copies of the same unit device reproduce every edge effect four times.
+P: 7. Rout ≈ 40 × 100 kΩ = 4 MΩ.
+P: 8. Both stacked transistors must stay in saturation, so the output must stay at least two overdrive voltages (or a threshold plus two overdrives for the basic bias) above the rail instead of one.
+H2: Chapter 13
+P: 1. 180 × 220 = 39,600, which is 92.0 dB.
+P: 2. Cc = 0.25 mS/(2π × 5 MHz) = 7.96 pF.
+P: 3. SR = 40 µA/30 pF = 1.33 V/µs.
+P: 4. SR = 2π × 10 MHz × 0.15 V = 9.4 V/µs.
+P: 5. CL = 4 mS/(2π × 6.6 MHz) = 96 pF.
+P: 6. Each stage's gain gm ro is independent of current because gm rises and ro falls in proportion, but the second pole gm6/(2πCL) moves up with gm6, so a larger load capacitance keeps the same pole frequency.
+P: 7. SR = 20 µA/10 pF = 2 V/µs; f = 2×10⁶/(2π × 5) = 64 kHz.
+P: 8. A JFET has much less transconductance per unit current, so reaching the same gm1, and hence the same GBW, requires more tail current, and slew rate is tail current divided by Cc.
+H2: Chapter 14
+P: 1. √(2 × 1.602 × 10⁻¹⁹ × 10⁻⁴) = 5.7 pA/√Hz.
+P: 2. en = 26 mV × √(3.20 × 10⁻¹⁹/10⁻⁴) = 1.47 nV/√Hz.
+P: 3. rπ = 200 × 26 Ω = 5.2 kΩ; rπ/√β = 5.2 kΩ/14.1 = 368 Ω.
+P: 4. √(1.60 × 10⁻²⁰ × 0.667/0.004) = 1.6 nV/√Hz.
+P: 5. 8 × √(1 + 100) = 80 nV/√Hz.
+P: 6. At 10 MΩ, a bipolar input's current noise of order 1 pA/√Hz produces 10 µV/√Hz in the source resistance, far above any voltage noise, while a CMOS input's femtoampere current noise produces only nanovolts; the source resistance's own thermal noise, about 400 nV/√Hz, then dominates.
+P: 7. Ropt = 3×10⁻⁹/0.4×10⁻¹² = 7.5 kΩ.
+P: 8. in Rs = 0.7 pA × 1 MΩ = 700 nV/√Hz, far above en = 5 nV/√Hz and the source's own √(1.6×10⁻²⁰ × 10⁶) = 126 nV/√Hz; the current noise dominates.
+H2: Chapter 15
+P: 1. (W/L)p/(W/L)n = 2.5.
+P: 2. tp = 3 fF × 0.75 V/(2 × 60 µA) = 18.8 ps.
+P: 3. 0.15 × 5 × 10⁻⁹ × 0.81 × 1.5 × 10⁹ = 0.91 W.
+P: 4. (0.7/1.0)² = 0.49, so 51% is saved.
+P: 5. 150/75 = 2 decades, so leakage falls to 0.5/100 = 5 mW.
+P: 6. Charging a capacitor to VDD through any resistance dissipates ½CV² in that resistance, because a smaller resistance carries a larger current for a shorter time and the product is fixed; the resistance sets the speed, not the energy.
+P: 7. P = 5×10⁻⁹ × 0.64 × 1.5×10⁹ = 4.8 W; the energy per cycle is unchanged at 3.2 nJ.
+P: 8. The cycle time grows exponentially below threshold, and the leakage current flows for the whole longer cycle, so leakage energy per operation grows until it outweighs the CV² savings.
+H2: Chapter 16
+P: 1. ΔVbl = 0.55 × 15/105 = 78.6 mV.
+P: 2. I = 15 fF × 0.2 V/32 ms = 94 fA.
+P: 3. N = 0.2 × 10⁻¹⁵ × 0.5/1.602 × 10⁻¹⁹ = 624 electrons.
+P: 4. Four levels have three spaces, so 5/3 = 1.67 V.
+P: 5. 0.9 × 0.2/1.2 = 0.15 V.
+P: 6. Charge sharing with the bit line leaves the DRAM cell at nearly the bit-line voltage, so its stored value is lost and must be restored; an SRAM cell's latch actively holds its state through a correctly sized read and restores its own nodes.
+P: 7. 64 ms/8192 = 7.8 µs, the standard tREFI interval.
+P: 8. It is nonvolatile like flash but writes much faster, has far higher endurance, and is built in the back-end metal layers of a logic process with only a few added masks.
+H2: Chapter 17
+P: 1. 8000/1500 = 5.33 A.
+P: 2. ½ × 100 pF × (4000)² = 0.8 mJ.
+P: 3. 0.5/0.025 = 20 Ω.
+P: 4. exp((0.7/8.617 × 10⁻⁵)(1/358.15 − 1/378.15)) = 3.3, so the life falls to about 30%.
+P: 5. 5 × 10^0.2 = 7.9 mV.
+P: 6. The protection clamp holds the pin at a few volts while the capacitor starts at kilovolts, so almost all of the voltage, and therefore almost all of the I²R energy, appears across the 1.5 kΩ resistor in series.
+P: 7. Q = 0.8 fC, or 0.8×10⁻¹⁵/1.602×10⁻¹⁹ ≈ 5,000 electrons.
+P: 8. 16 × 500 × 10 = 80,000 FIT, one upset about every 12,500 hours.
+H2: Chapter 18
+P: 1. L = √(12.48 × 10⁻⁷) cm = 1.12 × 10⁻³ cm = 11.2 µm.
+P: 2. 1240/625 = 1.98 eV.
+P: 3. No. 1550 nm corresponds to 1240/1550 = 0.80 eV, below silicon's 1.12 eV gap, so the photons pass through without creating carriers; InGaAs or germanium is used.
+P: 4. R = 0.8 × 850/1240 = 0.55 A/W; I = 5.5 µA.
+P: 5. hν = 1240/630 = 1.97 eV; Popt = 0.35 × 0.030 × 1.97 = 20.7 mW; input 63 mW; ηwall = 33%.
+P: 6. Voc rises by VT ln 10 = 60 mV, to 0.68 V.
+P: 7. Cin = 75 pF, so f ≈ √(10⁷/(2π × 10⁵ × 75×10⁻¹²)) = 460 kHz.
+P: 8. Negative feedback keeps the inverting input at the same voltage as the non-inverting input, so the photodiode's terminal voltage stays constant and its capacitance carries almost no signal current.
+H2: Chapter 19
+P: 1. ND = 2.9 × 10¹⁵ cm⁻³; W = 6.7 µm; Ron,sp = 1.43 mΩ·cm².
+P: 2. Ron,sp ∝ BV², so it rises by 2² = 4.
+P: 3. Ron,sp ∝ 1/Ec³, so material A has 1/27 of the resistance of material B.
+P: 4. α₁ + α₂ = 0.85 < 1, so it is not latched. A gate current, or a current rise that increases both gains, must bring the sum to 1.
+P: 5. 0.9 × 40 + 0.015 × 1600 = 36 + 24 = 60 W.
+P: 6. The IGBT conducts by flooding its drift region with injected holes, which must recombine or be swept out after the channel turns off, while a MOSFET's current is carried by majority electrons alone, which stop when the channel closes.
+P: 7. Si 225 × 0.126 = 28.4 W; SiC 225 × 0.075 = 16.9 W; GaN 225 × 0.080 = 18.0 W.
+P: 8. Its body diode stores a large minority charge and recovers slowly, so when the opposite switch turns on and forces the diode off, the recovery current causes large losses and stress.
+H2: Chapter 20
+P: 1. About 8.8 nm.
+P: 2. 1.42 × 10⁻¹³ cm²/s.
+P: 3. 2√(1.42 × 10⁻¹³ × 3600) cm = 0.45 µm.
+P: 4. 10¹⁸ cm⁻³.
+P: 5. 0.3 × 13.5/0.33 = 12.3 nm.
+P: 6. 193 nm immersion lithography could not print features below about 40 nm half-pitch in one exposure, so smaller pitches were split across several aligned exposures until EUV tools reached production.
+P: 7. Y = e^(−0.4) = 0.67.
+P: 8. Yield falls exponentially with area, so small dice each have a much higher chance of being defect-free, and the defective ones are discarded individually before assembly instead of taking a whole large die with them.
+H2: Chapter 21
+P: 1. 1.62 µm.
+P: 2. 0.5 µm.
+P: 3. About 148 MHz.
+P: 4. √1.05 = 1.0247.
+P: 5. Sound in these materials travels tens of thousands of times slower than light, so its wavelength at the same frequency is that much shorter.
+P: 6. It raises the piezoelectric coupling, which increases the spacing between the series and parallel resonances that bounds the filter bandwidth.
+P: 7. 0.0263 × 1900 = 50 MHz.
+P: 8. At 24 % fractional bandwidth it is roughly ten times wider than the resonance spacing a BAW material provides, so a ladder cannot pass it; wider-coupling resonators or lumped filters are used instead.
+H2: Chapter 22
+P: 1. 0.06/(0.026 × ln 10) = 1.00.
+P: 2. 3/√0.1 = 9.5 mV.
+P: 3. 9 µm².
+P: 4. 99.73%.
+P: 5. The simulator solves the circuit by Newton iteration, which fails to converge if currents or their derivatives jump between regions.
+P: 6. A memory has millions or billions of identical cells, and all must work, so the per-cell failure probability must be extremely small.
+P: 7. 2Q(3) = 0.27 %.
+P: 8. Four times the area, since σ scales as 1/√(WL).
+H1: Appendix C. Where This Book Hands Off
+P: This book runs from the crystal to the chip: carriers and junctions (Part I), the bipolar transistor (Part II), the MOSFET to the nanosheet (Part III), the amplifier built from them (Part IV), CMOS as a chip (Part V), the junction as a source and detector of light and as a high-voltage switch (Part VI), and how devices are made, modeled, and extended to piezoelectric films (Part VII). Each later book of the series starts from a device this one has explained and stops explaining it.
+P: Book 4 takes the transistor's small-signal model, the GaAs, GaN, and InP devices and the load line of Chapter 7, the noise of Chapter 14, the power-device limits of Chapter 19, and the acoustic filters of Chapter 21 into matching networks, power amplifiers, receivers, and synthesizers. Book 5 uses the converters and sample-and-hold circuits of Book 2 and the noise of Chapter 14 to build modems and software-defined radios. Book 6 takes the Schottky and fast-recovery diodes of Chapter 6 and the power MOSFET, superjunction, SiC, GaN, and IGBT of Chapter 19 into converters, magnetics, and the grid. Book 7 picks up the chip of Part V at the package: interposers and chiplets (Chapter 20's yield argument), high-bandwidth memory built from the DRAM cells of Chapter 16, the 875 A of a modern accelerator, MEMS on the films of Chapter 21, and the ESD and latch-up of Chapter 17 as system-level immunity.
+P: Two habits travel with the reader. First, every quantity in this book was computed from a declared hand value; when a vendor model or a process design kit gives a different number, the vendor number wins for that part. Second, below about 20 nm the PDK outranks every textbook, including this one.
+H1: Appendix D. Sources and Further Reading
+P: The prose of this book is its own. The sources below are the shelf it was checked against, grouped by part; none replaces a foundry's process design kit or a vendor's data sheet.
+H2: Part I: Carriers, Junctions, and Compound Semiconductors
+P: Sze and Ng, Physics of Semiconductor Devices, 3rd edition; Pierret, Semiconductor Device Fundamentals; Streetman and Banerjee, Solid State Electronic Devices, for Chapters 1 to 6. Schroder, Semiconductor Material and Device Characterization, for the four-point probe, Hall, and C-V measurements. Vendor data sheets for the 1N4148, 1N4007, BAT54, SS34, BZX84C5V1, and SMBJ5.0A.
+P: Chapter 7: Cripps, RF Power Amplifiers for Wireless Communications, and Advanced Techniques in RF Power Amplifier Design; Grebennikov, RF and Microwave Transmitter Design, and Grebennikov, Sokal, and Franco, Switchmode RF and Microwave Power Amplifiers; Quay, Gallium Nitride Electronics; Mishra and Rajan, and Morkoç, on the nitride heterostructure; Vendelin, Pavio, and Rohde for GaAs-era microwave circuits; Gonzalez, Microwave Transistor Amplifiers, and Maas, Nonlinear Microwave and RF Circuits; Rodwell's InP HBT and HEMT papers; Wolfspeed and Qorvo application notes, including the CGH40010F data sheet. For millimeter-wave InP, the foundry kits from Teledyne, WIN, Northrop Grumman, and Fraunhofer IAF matter more than any textbook. For power-conversion GaN, Erickson and Maksimović, Fundamentals of Power Electronics.
+H2: Parts II and III: The Bipolar Transistor and the MOSFET
+P: Tietze, Schenk, and Gamm, Halbleiter-Schaltungstechnik, 16th edition (2019); Sedra and Smith, Microelectronic Circuits; Gray, Hurst, Lewis, and Meyer, Analysis and Design of Analog Integrated Circuits; Taur and Ning, Fundamentals of Modern VLSI Devices, 3rd edition; Veendrick, Nanometer CMOS ICs; Saha on FinFET; the 2N3904 data sheet.
+H2: Part IV: Inside the Amplifier
+P: Razavi, Design of Analog CMOS Integrated Circuits; Johns and Martin, Analog Integrated Circuit Design; Pelgrom, Duinmaijer, and Welbers, "Matching Properties of MOS Transistors" (IEEE JSSC, 1989); Motchenbacher and Connelly, Low-Noise Electronic System Design; the μA741, TL072, NE5532, and OPA1612 data sheets.
+H2: Part V: CMOS as a Chip
+P: Rabaey, Chandrakasan, and Nikolić, Digital Integrated Circuits; Weste and Harris, CMOS VLSI Design; Jacob, Ng, and Wang, Memory Systems; Amerasekera and Duvvury, ESD in Silicon Integrated Circuits; the JEDEC/ESDA JS-001 (HBM), JS-002 (CDM), JESD78 (latch-up), and JESD89 (soft errors) standards; Black's 1969 electromigration papers.
+H2: Part VI: Light and Power
+P: Sze and Ng for recombination, photodetectors, and solar cells; Schubert, Light-Emitting Diodes; Graeme, Photodiode Amplifiers; Baliga, Fundamentals of Power Semiconductor Devices; Infineon, Wolfspeed (C3M0060065D), and GaN Systems/Infineon (GS66508T) data sheets.
+H2: Part VII: Making, Modeling, and New Materials
+P: Plummer, Deal, and Griffin, Silicon VLSI Technology; Lakin, "Thin Film Resonator Technology" (IEEE UFFC, 2005); Akiyama et al., "Enhancement of Piezoelectric Response in Scandium Aluminum Nitride Alloy Thin Films" (Advanced Materials, 2009); Hashimoto, RF Bulk Acoustic Wave Filters for Communications; Chauhan et al., FinFET Modeling for IC Simulation and Design: Using the BSIM-CMG Standard; Gummel and Poon, "An Integral Charge Control Model of Bipolar Transistors" (Bell System Technical Journal, 1970).
+P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+H1: About the Author
+P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+H1: Also by Lothar J. Musiol
+P: Physics, Actually
+P: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+P: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+P: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+P: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+P: More Actually Books
+P: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+P: The Universe, Actually: What Humanity Currently Understands About Reality
+P: Math, Actually
+P: Math, Actually, Volume 1: From Arithmetic to Calculus
+P: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+P: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+P: Math, Actually, Volume 4: From Category Theory to the Frontier
+P: Quantum, Actually
+P: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+P: Quantum, Actually, Volume 2: A QED Course
+P: Science Sparks
+P: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+P: Look First
+P: Look First, Volume 1: The Universe Has No Now
+P: Look First, Volume 2: A Trip Is Not a New Life
+P: Electrical Engineering Series
+P: Foundations of Electronics (Book 1)
+P: Circuits, Components, and Control (Book 2)
+P: RF, Microwave, and Transceivers (Book 4)
+P: Communications, Wireless, and SDR (Book 5)
+P: Power and Energy (Book 6)
+P: Packaging, Layout, EMC, and Test (Book 7)
+P: History
+P: The Dolphins’ View of History
+P: Fiction
+P: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+P: In German
+P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?

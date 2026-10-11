@@ -1,0 +1,47 @@
+EQ: Semiconductor Physics and Devices
+EQ: Book 3 of the Electrical Engineering Series
+EQ: Parts I–VII  —  From the Crystal to the Chip
+EQ: Lothar J. Musiol
+EQ: Copyright © 2026 Lothar J. Musiol. Kindle edition.
+H1: How to Use This Book
+P: Book 1 taught the circuit laws and the passive parts. Book 2 treated a diode, a transistor, and an op-amp as blocks you could drop into a schematic. This book opens those blocks. By the end of Part I you can say, with a number, how many free carriers a piece of doped silicon has, how that number moves with temperature, how a Hall voltage or a capacitance measurement checks it, why a pn junction grows a built-in voltage with nobody applying a battery, and why the phrase "the diode turns on at 0.7 volts" is a useful sketch and a bad physical claim.
+P: Two numbers are fixed for the whole book, so that a later chapter cannot quietly adopt a different room temperature. Thermal voltage VT is 26 mV. The intrinsic carrier concentration of silicon, ni, is 1.0×10¹⁰ per cubic centimeter. Real tables scatter a little around both of those, because the bandgap model and the exact temperature move them. Hand work in this book uses the declared pair. When a vendor model quotes a different ni, use the vendor number for that part and keep this pair for the teaching problems.
+P: Electron and hole mobilities depend on doping and temperature. Whenever a problem in this book does not hand you a mobility, use μn = 1000 cm²/V·s and μp = 480 cm²/V·s. Those are round working values for lightly doped silicon near room temperature, not a promise about a particular wafer.
+P: Part II takes up the bipolar transistor and Part III the MOSFET, down to the fin and the nanosheet. Part IV builds the op-amp of Book 2 from those transistors and derives the noise they make. Part V treats CMOS as a chip: gate delay and power, memory cells, and the failures that end a chip's life. Part VI turns the junction into a source and detector of light and into a high-voltage switch. Part VII follows a transistor through the fab, builds the piezoelectric thin films and acoustic resonators behind every phone's filters, and explains the compact models and process design kits that carry all of these devices into a simulator. The circuit check for Parts II to IV is Tietze, Schenk, and Gamm, Halbleiter-Schaltungstechnik, 16th edition (2019), whose op-amp chapter was rewritten for that edition. High-speed boards, radio layout, switching regulators, and software-defined radio are later books in this series, named in Appendix C so this book does not pretend to cover them.
+P: Each chapter opens with the question it answers, develops the physics in words, and then works it through with declared numbers and, where it helps, a real part: the 1N4148 and SS34 diodes, the 2N3904 transistor, the μA741 and OPA1612 op-amps, the BPW34 photodiode, and the 650 V switches of 2026. Every chapter ends with practice problems, and every answer is in Appendix B. Appendix A collects the declared constants; Appendix D lists the sources the prose was checked against.
+H1: Contents
+P: Part I. Carriers and Junctions
+P: Chapter 1. A Crystal That Can Be Talked Into Conducting
+P: Chapter 2. Doping, and the Partner That Gets Scarce
+P: Chapter 3. Two Ways Charge Moves
+P: Chapter 4. The Junction Sits There with a Voltage Already On It
+P: Chapter 5. The Diode Law Is a Crowd Crossing a Barrier
+P: Chapter 6. The Diode You Can Buy
+P: Chapter 7. GaAs, GaN, and InP Are Not One Transistor
+P: Part II. The Bipolar Transistor
+P: Chapter 8. Two Junctions, One Current
+P: Chapter 9. Bias, Early Effect, and the Hybrid-π
+P: Part III. The MOSFET, From Square Law to Below 20 nm
+P: Chapter 10. The MOSFET From the Capacitor Up
+P: Chapter 11. The Fin, Then the Sheet
+P: Part IV. Inside the Amplifier
+P: Chapter 12. Mirrors, Pairs, and Matching
+P: Chapter 13. The Two-Stage Op-Amp From Its Transistors
+P: Chapter 14. The Noise a Device Makes
+P: Part V. CMOS as a Chip
+P: Chapter 15. The CMOS Inverter: Threshold, Delay, and Power
+P: Chapter 16. How a Transistor Remembers: SRAM, DRAM, and Flash
+P: Chapter 17. What Breaks a Chip: ESD, Latch-up, and Aging
+P: Part VI. Light and Power
+P: Chapter 18. Recombination and Light: LEDs, Photodiodes, and Solar Cells
+P: Chapter 19. Breakdown and the Power Devices
+P: Part VII. Making, Modeling, and New Materials
+P: Chapter 20. How a Transistor Is Made
+P: Chapter 21. Piezoelectric Films and Acoustic Resonators
+P: Chapter 22. Compact Models and the Process Design Kit
+P: Appendix A. Constants Used in This Book
+P: Appendix B. Answers to the Practice Problems
+P: Appendix C. Where This Book Hands Off
+P: Appendix D. Sources and Further Reading
+P: About the Author
+P: Also by Lothar J. Musiol
