@@ -255,9 +255,9 @@ Access (no passwords here):
 
 | Bank | Type | Last 4 | Title | POD beneficiary | Online? | Notes |
 |---|---|---|---|---|---|---|
-| Example Savings Bank | Checking | 4417 | Sole | Anna Example, Paul Example equally | Yes | Bills paid from here |
-| Example Bank (Germany) | Girokonto | 0932 | Sole | none | Yes | German pension paid here; heirs need certificate or notarial will |
+| [Bank name] | Checking | 4417 | Sole | Daughter and son equally (full names on the form) | Yes | Bills paid from here |
+| [Bank name] (Germany) | Girokonto | 0932 | Sole | none | Yes | German pension paid here; heirs need certificate or notarial will |
 
 | Insurer | Type | Policy no. | Insured | Beneficiaries | Contact |
 |---|---|---|---|---|---|
-| Example Life Co. | Term life to 2031 | ...7781 | Me | Primary: spouse. Contingent: Anna, Paul equally | Agent: J. Sample, phone on file |
+| [Insurer name] | Term life to 2031 | ...7781 | Me | Primary: spouse. Contingent: daughter and son equally | Agent: name and phone on file |

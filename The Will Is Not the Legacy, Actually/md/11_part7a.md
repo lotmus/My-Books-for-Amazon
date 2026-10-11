@@ -102,7 +102,7 @@ Start every testament-style recording the same way. Say:
 - where you are, and
 - who the message is for.
 
-"This is Margaret Example. It's the tenth of October 2026, I'm at home in Sacramento, and this message is for my grandson Leo." This takes ten seconds and saves your family hours of guessing later. It also matters if anyone ever asks when and where a recording was made.
+"This is [your full name]. It's the tenth of October 2026, I'm at home in Sacramento, and this message is for my grandson [his name]." This takes ten seconds and saves your family hours of guessing later. It also matters if anyone ever asks when and where a recording was made.
 
 ## Chapter 28. What to Say: Prompts That Work
 

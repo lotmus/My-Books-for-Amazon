@@ -55,8 +55,8 @@ For parents of minor children. The legal nomination belongs in your will (Califo
 
 ### Filled example (one line each)
 
-- **Why I chose them:** "My sister Clara has known the children since birth, lives ten minutes from their school, and has said yes twice, once sober."
-- **Comforts:** "Ben sleeps with the blue rabbit. If the rabbit is lost, do not substitute; tell him the truth and buy a new one together."
+- **Why I chose them:** "My sister has known the children since birth, lives ten minutes from their school, and has said yes twice, once sober."
+- **Comforts:** "Our son sleeps with the blue rabbit. If the rabbit is lost, do not substitute; tell him the truth and buy a new one together."
 - **Relationships:** "Please keep them in touch with their father's parents, even though we disagreed about almost everything."
 
 ## Appendix F. Healthcare Wishes in Ordinary Language
@@ -121,7 +121,7 @@ Fill in one line per recording, folder, or letter. Keep it with the recording in
 | Item | Who | Memorial? | Publish? | When | Destroy? |
 |---|---|---|---|---|---|
 | Diary/2026 | Family | Selected clips, archive-keeper chooses | No | After my death | No |
-| Messages/For Anna | Anna only | No | No | Anna's 30th birthday | Anna decides |
+| Messages/For granddaughter | Granddaughter only | No | No | Her 30th birthday | She decides |
 | Stories/ | Anyone in the family; extended family on request | Yes | Family website only | Any time | No |
 | Diary clip "2026-03-04 neighbours" | Nobody | No | No | Never | **Yes, delete after my death** |
 
@@ -266,7 +266,7 @@ All sources were consulted in October 2026. Statute section numbers are given in
 - Urheberrechtsgesetz (UrhG) § 64.
 - Bundesgerichtshof: judgment of 12 July 2018, III ZR 183/17, and press release of the same date; judgment of 8 October 2013, XI ZR 401/12; judgment of 5 April 2016, XI ZR 440/15; decision of 6 July 2016, XII ZB 61/16; decision of 24 March 2021, IV ZR 269/20.
 - Bundesnotarkammer: Zentrales Testamentsregister (testamentsregister.de), including register contents and fees; Zentrales Vorsorgeregister (vorsorgeregister.de).
-- TelefonSeelsorge Deutschland (telefonseelsorge.de).
+- TelefonSeelsorge Deutschland, crisis line numbers as published by the service.
 
 ### European Union
 

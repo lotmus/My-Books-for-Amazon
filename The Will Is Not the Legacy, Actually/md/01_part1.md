@@ -40,7 +40,7 @@ Book a lawyer (in California) or a notary (in Germany) if you can, especially if
 
 #### Day 6: The ethical will and the letters
 
-Two to five pages: what you believe, what you want understood, apologies that are specific, hopes that are not orders. Separate letters to named people. Label anything that should be opened later ("for Maya, at eighteen"). This document should not try to give away the house. If it conflicts with the will, the will (or the beneficiary form) wins, and the letter becomes evidence in a family argument rather than a comfort.
+Two to five pages: what you believe, what you want understood, apologies that are specific, hopes that are not orders. Separate letters to named people. Label anything that should be opened later ("for my granddaughter, at eighteen"). This document should not try to give away the house. If it conflicts with the will, the will (or the beneficiary form) wins, and the letter becomes evidence in a family argument rather than a comfort.
 
 #### Day 7: The handoff
 

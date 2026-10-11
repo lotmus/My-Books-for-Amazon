@@ -73,7 +73,7 @@ In Germany, gifts are taxed under the same law as inheritances (the Inheritance 
 - **You may need the money.** Long illnesses are expensive. A gift you cannot take back is gone.
 - **Tax basis (United States).** Inherited property usually gets a new basis at death; a gift generally carries over the giver's basis, which can mean a larger capital gains tax later for the recipient (Case 7).
 - **Compulsory shares (Germany).** Gifts made within ten years before death can be counted when calculating a disinherited relative's compulsory share, at a value that falls by one tenth each year (BGB § 2325, Case 10). Gifts to a spouse do not start that clock until the marriage ends.
-- **Fairness.** Unrecorded gifts to one child become disputes after death. "I helped Alex with the deposit on the flat" needs to be on paper if you want it counted.
+- **Fairness.** Unrecorded gifts to one child become disputes after death. "I helped my son with the deposit on the flat" needs to be on paper if you want it counted.
 
 ### What to do
 

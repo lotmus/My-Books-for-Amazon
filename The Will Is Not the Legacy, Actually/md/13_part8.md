@@ -45,7 +45,7 @@ Two pages that are true will be reread. Twenty pages of advice will not.
 
 > **Weak:** "I am grateful for my wonderful family and all the blessings in my life."
 
-> **Strong:** "I am grateful that your mother laughed at my jokes for forty-one years, including the bad ones, which was most of them. I am grateful to Mr Huber, who taught physics at my school and let me stay after class to break things. I am grateful for the winter of 1996, when we had no money and went sledding every evening because it was free, and you two still talk about it as the best winter."
+> **Strong:** "I am grateful that your mother laughed at my jokes for forty-one years, including the bad ones, which was most of them. I am grateful to the physics teacher at my school who let me stay after class to break things. I am grateful for the winter of 1996, when we had no money and went sledding every evening because it was free, and you two still talk about it as the best winter."
 
 **Prompt: What do you hope for them?**
 
@@ -59,7 +59,7 @@ The strong answers have names, dates, places, and the occasional admission. They
 
 The following is fictional and offered as a model of tone and length.
 
-> *To Sarah, Michael, and whoever comes after,*
+> *To my daughter, my son, and whoever comes after,*
 >
 > *This letter is not my will. My will is dated 4 March 2026 and is with our lawyer, whose details are on the family list. This letter is just me.*
 >
@@ -67,11 +67,11 @@ The following is fictional and offered as a model of tone and length.
 >
 > *So get up early, occasionally, for the people you love.*
 >
-> *The hardest choice I made was to move us to California in 2004. Michael, you were eleven and you hated it, and you told me so every day for a year. I want you to know I heard you. I did it because the job meant we could pay for both of you to go to university without debt, and because I was afraid of being my father, asleep by seven. I don't know if it was right. I know you made good friends there and that you still call the Pacific "my ocean."*
+> *The hardest choice I made was to move us to California in 2004. You were eleven, son, and you hated it, and you told me so every day for a year. I want you to know I heard you. I did it because the job meant we could pay for both of you to go to university without debt, and because I was afraid of being my father, asleep by seven. I don't know if it was right. I know you made good friends there and that you still call the Pacific "my ocean."*
 >
-> *I am sorry, Sarah, for missing your recital in 2007. I said it was work. It was not work. I was afraid of hearing you play the piece your grandmother used to play, three months after she died. I should have told you that then. I'm telling you now.*
+> *To my daughter: I am sorry for missing your recital in 2007. I said it was work. It was not work. I was afraid of hearing you play the piece your grandmother used to play, three months after she died. I should have told you that then. I'm telling you now.*
 >
-> *I am grateful for your mother, for thirty-eight years of her patience; for the dog, Bruno, who was a terrible dog and a wonderful friend; and for both of you, every day, including the days you did not speak to me.*
+> *I am grateful for your mother, for thirty-eight years of her patience; for the dog, who was a terrible dog and a wonderful friend; and for both of you, every day, including the days you did not speak to me.*
 >
 > *I don't want either of you to feel you have to keep the house. Sell it if it's a burden. Keep the bread knife, though. It was my father's.*
 >
@@ -89,9 +89,9 @@ Notice what it does: it states that it is not a will and where the will is; tell
 
 You are usually free to treat your children differently in California. (Germany's compulsory shares limit how far you can go, Chapter 8.) If you do, explain it, but not in the will itself, where an explanation can be twisted into evidence in a challenge. Use a separate letter, factual and kind.
 
-> **Usable:** "I am leaving the house to Sam because Sam has lived in it and maintained it since 2019, and because I helped Alex with tuition and with the deposit on the flat in 2021, which together came to about the value of Sam's extra share. I love you both equally. The money is not a measure of that."
+> **Usable:** "I am leaving the house to my younger son because he has lived in it and maintained it since 2019, and because I helped my elder son with tuition and with the deposit on the flat in 2021, which together came to about the value of his brother's extra share. I love you both equally. The money is not a measure of that."
 
-> **Fuel:** "Alex never appreciated anything I did, so Sam gets the house."
+> **Fuel:** "My elder son never appreciated anything I did, so his brother gets the house."
 
 Show the letter to your lawyer, so it does not contradict the will or create an argument that you were confused or pressured. If you also record a video (Chapter 31), keep the two consistent.
 
@@ -103,7 +103,7 @@ Whatever the will does, a letter can do something the will cannot: speak to the 
 
 ### Timed messages
 
-Letters, like videos, can be labelled for a future moment: "for Jonah, high-school graduation," "for the business, if it is sold," "for whoever finds the box in the attic." Label by recipient and trigger, not by your mood. Tell your archive-keeper in writing where the letters are and when to deliver them. Allow for change: "If this moment never comes, give it to him at thirty, or use your judgment."
+Letters, like videos, can be labelled for a future moment: "for my grandson, high-school graduation," "for the business, if it is sold," "for whoever finds the box in the attic." Label by recipient and trigger, not by your mood. Tell your archive-keeper in writing where the letters are and when to deliver them. Allow for change: "If this moment never comes, give it to him at thirty, or use your judgment."
 
 ### Letters to people outside the family
 

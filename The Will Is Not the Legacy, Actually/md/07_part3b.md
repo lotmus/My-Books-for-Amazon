@@ -48,21 +48,21 @@ This matters more than it sounds. A German will that says "my house to my daught
 
 ### A short handwritten will in German, with a gloss
 
-Here is a fictional example, kept deliberately simple, to show the shape. It is not a template for your situation.
+Here is a fictional example, kept deliberately simple, to show the shape. Square brackets mark where the real text would give names, dates, and places; in a real handwritten will, every word, including those details, is written out by hand. It is not a template for your situation.
 
 > *Testament*
 >
-> *Ich, Maria Beispiel, geboren am 3. Mai 1950 in Passau, setze hiermit meine beiden Kinder, Anna Beispiel und Paul Beispiel, zu gleichen Teilen als meine Erben ein. Ersatzerben sind jeweils deren Abkömmlinge.*
+> *Ich, [Vorname Nachname], geboren am [Datum] in [Ort], setze hiermit meine beiden Kinder, [Vorname Nachname] und [Vorname Nachname], zu gleichen Teilen als meine Erben ein. Ersatzerben sind jeweils deren Abkömmlinge.*
 >
-> *Meine Nichte Lea Muster erhält als Vermächtnis meinen Ring mit dem blauen Stein.*
+> *Meine Nichte [Vorname Nachname] erhält als Vermächtnis meinen Ring mit dem blauen Stein.*
 >
 > *Alle früheren Verfügungen von Todes wegen widerrufe ich.*
 >
 > *Passau, den 10. Oktober 2026*
 >
-> *Maria Beispiel*
+> *[Vorname Nachname, als Unterschrift]*
 
-Gloss: Maria names her two children as heirs in equal shares, with their descendants as substitute heirs; leaves her niece a ring as a legacy; revokes earlier wills; and dates, places, and signs with first name and surname. All of it in her own handwriting, on paper, in ink.
+Gloss: The testator names her two children as heirs in equal shares, with their descendants as substitute heirs; leaves her niece a ring as a legacy; revokes earlier wills; and dates, places, and signs with first name and surname. All of it in her own handwriting, on paper, in ink.
 
 ### What neither system accepts
 
