@@ -18,7 +18,7 @@ Every fact Hopsi the elf states is true, and every bit of magic is marked as mag
 Includes ten experiments to try and a guide for parents and teachers.
 
 ## What is in the book (use in A+ or the look-inside)
-- 11 chapters, about 10,400 words, about 62 painted illustrations (the pictures tell the whole story, so non-readers from age 5 can follow it); read-aloud for ages 5 to 9, or a first chapter book for ages 8 to 10.
+- 11 chapters, about 10,400 words, about 63 painted illustrations (the pictures tell the whole story, so non-readers from age 5 can follow it); read-aloud for ages 5 to 9, or a first chapter book for ages 8 to 10.
 - "Hopsi's True Things": 15 short fact and experiment notes.
 - "For Parents and Teachers": the scientist's habits the story models, what each chapter teaches, a safety section, and discussion questions.
 
@@ -44,7 +44,7 @@ Includes ten experiments to try and a guide for parents and teachers.
 - The book ends with a "Coming Next" page announcing Book 2, Scally and the Sleepless Stream (no date promised). Series naming idea: later books follow the pattern "Scally and the ..." under the series name The Step Stories. Change the wording to a real title and date once Book 2 is scheduled.
 
 ## Upload checklist
-- Format: the docx is the master and the EPUB is the upload. File names carry the version (for example ..._Book1_v12.epub). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
+- Format: the docx is the master and the EPUB is the upload. File names carry the version (for example ..._Book1_v13.epub). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer the question accordingly and truthfully. Do not put tool names in the book (rule in LOTHAR_RULES).
 - Back cover: text only on a single colour (not made yet).
 - Also-by: "Also by Anneliese Tauber" lists Bavarian Cooking Made Simple (Lothar, 11 Oct 2026). CHECK: that book is still a draft, so the page has no live link yet.

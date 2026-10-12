@@ -12,7 +12,7 @@ SERIES = "The Step Stories"
 TITLE1, TITLE2 = "The Wee Scallywag", "and the Gentle Elf"
 AUTHOR = "Anneliese Tauber"
 
-STORY_FILE = "Book1_Story_v12.txt"
+STORY_FILE = "Book1_Story_v13.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 raw = open(os.path.join(B, "Step_Stories_Texts", STORY_FILE), encoding="utf-8").read()
 body = raw[raw.index("Chapter 1."):]
@@ -71,6 +71,7 @@ place = {
     'It was the same mill, and it was the wrong way round.': '12_mirror_mill.jpg',
     'In front of the door stood a pair of boots with a tag.': 'c09d_mirror_tag.jpg',
     'Scally came out backwards': '13_pull_bag.jpg',
+    'The pond went dark.': 'c09f_dark_pond.jpg',
     'Out came a hundred years of boiled sweets': '14_stranger_flour.jpg',
     'The stones glowed, a thin white light': 'c09e_stones_stop.jpg',
     'It was past midnight when the third day closed.': '15_stay_step.jpg',
