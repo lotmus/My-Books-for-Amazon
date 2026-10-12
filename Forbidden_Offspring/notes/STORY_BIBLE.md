@@ -194,9 +194,11 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - Reality: the training years up to 2026 are private and ordinary; cure research and any public result fall after 2026.
 
 ## Telling the parents (settled 12 Oct 2026)
-- The main offspring hesitates to tell his parents. It is a running thread, not a single scene: he starts to tell them several times and stops (a birthday, a hospital visit after his father's fall, the day he gets his MD), each time for a reason that is half kindness and half cowardice.
+- The main offspring hesitates to tell his parents, and he keeps trying (12 Oct 2026). It is a running thread, not a single scene: he starts to tell them again and again and stops (a birthday, a hospital visit after his father's fall, the day he gets his MD), each time for a reason that is half kindness and half cowardice.
 - Whether he finally tells them, and which of them first, stays open until the late chapters.
 - Keeps faith with the earlier rule that parents never find out in childhood and that adult disclosure is the investigator's own choice.
+
+- Ch 7 "The Cohort": `drafts/ch07_the_cohort_Stone_v1.md`. Stone's field notes on invented families (Okafor, Brandt, Lindqvist, Duval) and the friction pattern; four he watched closely: a quiet boy who rebuilds a radio (the future laureate), two inseparable girls (a future couple, the LGBT thread), and Julian (placeholder name of the future senator, 'the easiest child to like', Stone's note 'no concerns'). Stone insists Julian's turn was bad luck, not his design. Fewer than sixty people made over eleven years.
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
