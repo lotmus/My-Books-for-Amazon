@@ -4,6 +4,12 @@ Working plan for both parts, built from `STORY_BIBLE.md`. Status marks: **[draft
 
 Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspring** (born 1 Jan 2000, both packages; placeholder name Danny Pruitt; narrator of Part Two) / **the linguist** (dolphin carrier, the swim-meet girl) / **the engineer** (her husband, cognitive package only) / **the laureate** (physics Nobel at 29, cognitive only) / **the senator** (clandestine sociopath, US senator at 30, presidential run at 35) / **the quiet majority** (other carriers who stay under cover).
 
+## Settled 12 Oct 2026 (applied below)
+- Stone stays alive after the stroke, in care, to the end of the book.
+- The main offspring is a physician (MD) with a biology and chemistry background. He decides to look for a stroke cure.
+- Career timeline: school and biology/chemistry degree by about 2021; medical school to the MD by about 2026 (private, before the reality line); research and clinical work after 2026 (future).
+- Central tension: a stroke cure would give the creator back his mind and his index. The man the offspring has decided not to follow could become able to restart the century plan. He must decide what to do with a cure he has found.
+
 ---
 
 ## PART ONE: STONE (1999 to 2012)
@@ -30,7 +36,7 @@ Voice: first person, past tense, dry, self-justifying, precise. Stone writes thi
 Voice: first person, past tense, deadpan, precise, with sound and timing detail (see `drafts/scene_apartment_boy_POV_v1.md`). Older and drier than the boy of the trial; he looks back with irony. Chapters can open with an excerpt from Stone's notebook and the narrator's correction of it.
 
 13. **The Notebook** (2016, age 16) **[new]**. After years of Stone in care (the Pruitts know only that "Dr. Stone had a stroke"), the boy finds the notebook. He reads it through, notes what Stone left out, and decides to say nothing to his parents. Sets rules for himself.
-14. **Visiting Hours** (2016 to 2018) **[new]**. He visits Stone in the care home. Stone cannot speak well. A one-sided, strange, sometimes funny scene; Stone responds to sound and little else. Whether he understands is left open.
+14. **Visiting Hours** (2016 to 2018) **[new]**. He visits Stone in the care home. Stone cannot speak well. A one-sided, strange, sometimes funny scene; Stone responds to sound and little else. Whether he understands is left open. The visit is what turns the boy toward medicine: he wants to know what happened in Stone's brain, and whether it can be undone. First mention of a cure.
 15. **Odd Moments** (2012 to 2018) **[new]**. The boy's own family years, told with comedy: the neighbor's argument through the wall, answering before being asked, the school that wants him skipped three grades, Connie's courage and Ray's pride. Friction with ordinary working parents handled with respect. All resolved. His decision to pass as ordinary.
 16. **The Search** (2018 to 2019) **[new]**. Using Stone's notes, clinic records and his own hearing, he traces the cohort one by one. Detective chapter. The ethics of tracing people who do not know. His rule: no one is approached by surprise.
 17. **The Phonetician** (2019) **[new]**. First contact: the linguist, then a student, because she is the only other person who hears as he does. A university phonetics lab. They test each other, then talk for six hours. She has felt "misplaced" all her life. He tells her carefully. She asks one question: "Who else?"
@@ -44,12 +50,12 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 25. **The Prize** (October 2029) **[new]**. The laureate wins the Nobel Prize in Physics at 29. Stockholm, from the audience. The press asks for the first time whether anyone this young can be merely ordinary. His first denial.
 26. **The Child** (2028 to 2031) **[new]**. Munich: the main offspring visits the linguist, the engineer and their first child (born 2028). The child hears the cuckoo clock in the next flat before it chimes. The lineage is not a plan; it is a toddler. Quiet, funny, warm. He looks at the child and decides.
 27. **Restart** (2031) **[new]**. The decision chapter. The case for restarting Stone's work, told fairly (the club, the fragile cohort, the senator proves nothing is safe), against the case not to (consent, loneliness, Stone's hubris, irreversibility). He keeps the copies locked away and tells no one where. He decides not to restart. The linguist's reply: "Good. Now stop deciding for all of us."
-28. **More Than Enough** (2031 to 2034) **[new]**. The world in which the genomes are out and the carriers have many children, as a montage in his dry voice: children in Germany, Brazil, Ohio; dead ends and detours. Stone's century plan seems to proceed without him, and the book does not say whether that is the same as his plan. Stone dies in care, in his sleep; the main offspring is the only mourner.
+28. **More Than Enough** (2031 to 2034) **[new]**. The world in which the genomes are out and the carriers have many children, as a montage in his dry voice: children in Germany, Brazil, Ohio; dead ends and detours. Stone's century plan seems to proceed without him, and the book does not say whether that is the same as his plan. Stone is still alive in care. The main offspring, now a physician, makes progress in stroke research; each step brings Stone's recovery nearer.
 29. **The Leak** (2035) **[new]**. A slow convergence: the rejected manuscript is published elsewhere, a clinic audit finds the after-hours bench time, and a journalist assembles a story with no names. Testing becomes the social weapon: employers, schools, insurers, campaigns. The laureate and the senator are the two most visible people it could be about.
 30. **Denial** (2035 to 2036) **[new]**. Hearings, experts on both sides, comfortable explanations. The laureate testifies that he was lucky, the right research at the right time: a small lie that costs him something. The quiet majority learns to be glad no one knows. The senator is running for president and leading.
 31. **Duck and Rabbit** (spring 2036) **[new]**. The assassination, offstage and reported (news, a hearing on the rifle's purchase, a neighbor's quote). A heavily armed environmental activist; the paperwork was in order; the stated purpose was hunting ducks and rabbits. The main offspring hears it on a radio in a kitchen and feels relief and guilt together.
 32. **Staying Low** (2036 to 2037) **[new]**. Aftermath. Suspicion drifts to another scandal. The cohort meets once, in Munich, around a long table, to decide nothing. The club continues as mutual help. The main offspring may tell some parents, one at a time (optional; at least Ray).
-33. **Epilogue: The Four Minutes** (undated) **[new]**. The narrator re-reads the first page of Stone's notebook and answers it. A last short scene with the child in Munich, or with his mother, or both. The book ends on a sound.
+33. **Epilogue: The Four Minutes** (undated) **[new]**. The narrator re-reads the first page of Stone's notebook and answers it. Stone is alive; the stroke cure exists or is close, and the narrator must decide whether Stone gets it. The book ends on that decision or just after it, on a sound (perhaps Stone's voice returning, or silence). A last short scene with the child in Munich may follow.
 
 ---
 
@@ -61,7 +67,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 - **The senator fourth, and not told:** the offspring suspects, withholds, and is outplayed by someone who works it out himself. That keeps the offspring responsible for what he did and did not do.
 - **The quiet majority between and after:** shows that most carriers choose the quiet life and prepares for the leak's effect on them.
 - **The Munich visit after the Nobel (2031):** the warm center of Part Two, placed just before the restart decision because meeting the child is what settles it.
-- **Stone's death after the decision:** the creator leaves only once the offspring has chosen his own course.
+- **Stone alive to the end:** the creator remains a living problem, and the stroke cure ties the offspring's profession to his central choice.
 
 ## Threads to track
 
@@ -73,7 +79,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 ## Open points
 
 1. Length: 33 chapters at about 3,000 words is about 100,000 words. To trim, merge 7 and 8, 28 and 29, or 32 and 33.
-2. Does Stone die (ch 28), or stay alive and unresponsive to the end?
+2. (Settled) Stone stays alive. Open: does the offspring give him the cure, withhold it, or give it with conditions? What does Stone do with it?
 3. Does the main offspring tell his parents (ch 32)?
 4. Names of the senator and the main offspring (both placeholders).
 5. The leak's exact route (ch 29): three strands, kept impressionistic.

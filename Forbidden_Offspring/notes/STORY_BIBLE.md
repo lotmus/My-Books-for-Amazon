@@ -186,6 +186,13 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 
 - Ch 6 "The Ledger": `drafts/ch06_the_ledger_Stone_v1.md`. Stone states his aim (replace us, politely, over a century), the four stages (seeding, long dull generations kept heterozygous, the turn when the odds flip, arithmetic), three risks (detection, the children, being wrong about himself), and why the paper index in a vault is his single point of failure. No methods or numbers. Established: a grandchild-like generation is a 'bank' figure of speech, since he has no children.
 
+## Stone alive; the offspring is a physician (settled 12 Oct 2026)
+- Stone stays alive after the stroke, in care, to the end of the book.
+- The main offspring is an MD with a biology and chemistry background and decides to look for a stroke cure.
+- Why it works: it links his profession to the central dilemma. A cure would restore the man who planned to replace humanity, and with him the lost index and the century plan. The offspring must decide whether, and on what terms, Stone gets it. It also echoes the restart decision: he declines to restart Stone's work, yet may be the one who gives Stone back his mind.
+- Possible resolutions to keep open: he withholds it; he gives it with conditions (Stone must stay silent, or must help the cohort); he gives it and Stone's recovered mind turns out to be changed; the cure is public and not his to withhold.
+- Reality: the training years up to 2026 are private and ordinary; cure research and any public result fall after 2026.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
