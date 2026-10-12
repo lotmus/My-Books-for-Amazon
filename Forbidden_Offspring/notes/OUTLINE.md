@@ -36,7 +36,7 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 17. **More Than Enough** = old 28 (genomes out, the cure research).
 18. **The Leak** = old 29 + 30 (the leak, the denial).
 19. **Duck and Rabbit** = old 31 + 32 (the assassination, staying low).
-20. **The Four Minutes** = old 33 (the cure given, the old man, the sound).
+20. **The Four Minutes** = old 33 (the cure given, the old man, the sound). Epilogue caveat (settled 12 Oct 2026): scientists in China have independently come up with the same method Stone used, so the work no longer depends on him, the cohort or the offspring's restraint.
 
 - Existing trial drafts `ch01` to `ch07` keep their file names for now; they will be merged into the new chapters when the manuscript file is built. Expand each scene by adding detail, not plot.
 - No chapter numbers inside the text beyond the chapter headings.

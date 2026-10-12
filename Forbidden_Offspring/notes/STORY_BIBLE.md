@@ -202,6 +202,12 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 
 - Ch 7 "The Cohort": `drafts/ch07_the_cohort_Stone_v1.md`. Stone's field notes on invented families (Okafor, Brandt, Lindqvist, Duval) and the friction pattern; four he watched closely: a quiet boy who rebuilds a radio (the future laureate), two inseparable girls (a future couple, the LGBT thread), and Julian (placeholder name of the future senator, 'the easiest child to like', Stone's note 'no concerns'). Stone insists Julian's turn was bad luck, not his design. Fewer than sixty people made over eleven years.
 
+## Epilogue caveat: independent discovery (settled 12 Oct 2026)
+- In the epilogue it emerges that scientists in China have independently come up with the same method Stone used. His work is no longer unique or secret to him, and the offspring's decision not to restart it is overtaken again, as the genomes-are-out thread already suggests.
+- It pays off Stone's fear in ch 4/5 ('I was not the only person who had ever done this') and the Singapore manuscript, and it answers the question of whether it is the same as his plan with: the world is going there regardless.
+- Handling: an unnamed research team, invented, not a real group or person. Frame it as parallel invention, not as a hostile state project, and do not turn a real country into a villain; the senator and the assassin already carry the book's American irony, so keep the tone even-handed. It can be reported flatly (a preprint, a news item, a line from the laureate). Future event, so no reality-rule problem. Nothing technical about the method.
+- Possible final beat: the narrator reads the announcement beside Stone's bed; Stone, half-remembering, says one small thing.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
