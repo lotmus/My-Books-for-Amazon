@@ -116,6 +116,14 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Refinement (settled 12 Oct 2026): Stone does get occasional tests when the parents consent. They are framed as routine follow-ups for corrected-condition families (growth, hearing, development), so the parents agree in good faith and are told nothing else. He keeps them rare because each one leaves a record and frightens him. Outside those tests he only watches from afar. Ch 3 needs a light edit: he withdraws from the standing quarterly checks but still accepts a consented test when a family asks or agrees.
 - He does not run the deep sequencing that would show everything, because that is the one test that would expose him. His one real activity in the twelve years is the bench time that makes the rest of the cohort (ch 3).
 
+## Stone's real aim (settled 12 Oct 2026)
+- Stone continues until the stroke, always trying to improve his method, aiming for mass production: to replace mankind within a century. The "refine embryo correction methods" memo (ch 3) was a cover story that was also true in a way he never said aloud.
+- Fits and conflicts: the heterozygous design was described as a limit on automatic generational fixation. Reconcile by making it a stage: Stone keeps the early generations heterozygous for safety and secrecy, and plans to make the lineage dominant once methods scale. His private ledger of the century plan is among the things lost with the master index.
+- Hubris and self-image: he calls himself a corrector of disease, and privately a successor of the species. Voice the aim in his own dry, reasonable tone, without ranting. It should be chilling because it sounds like a project plan.
+- Stakes for the offspring: restarting Stone's work (Part Two) now means taking up a program whose stated end is the replacement of the human species. His refusal is therefore firmer and more significant, and the club's "change the world for the better" contrasts with Stone's "replace it."
+- Consequence: the genomes being out and the carriers having plenty of offspring means Stone's century plan is, in part, proceeding without him, by ordinary reproduction. The book can leave open whether that is the same thing as his plan.
+- Keep it impressionistic: scale, ambition and moral weight, with no methods, numbers or procedures that could work as instructions.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
