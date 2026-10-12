@@ -177,7 +177,8 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - Use an invented employer, no real firm. Real city is fine as setting.
 - Settled 12 Oct 2026: it is the married pair (best fit), and both are electrical engineers. Their field suits the cohort's strengths (signal timing, systems, acoustics if one carries the dolphin package), and a Munich engineering employer, invented, is plausible work for two EEs.
 - Settled 12 Oct 2026: the main offspring does visit them in Munich, but later in the story (not early in Part Two).
-- Still to settle: the year of the move (after 2026 for any public detail), which of them carries which package, and the timing of the visit.
+- Settled 12 Oct 2026: the couple moves to Munich in 2027. It is a private move by fictional people, so it breaks no public record.
+- Still to settle: which of them carries which package, and the timing of the visit.
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
