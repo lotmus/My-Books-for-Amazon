@@ -370,7 +370,7 @@ What farming lacked in individual health it made up in sheer output. A patch of 
 
 **From the minutes of the Society, on the question of farming:**
 
-*Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The motion was carried, narrowly, by the half of the quorum that was awake.*
+*Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The anthropologist James C. Scott presses a sharper version of the same complaint: that it was not the wheat but what grew up around the wheat, the taxman, the wall, and the ledger, that first made humans unfree in ways worth voting on. The motion was carried, narrowly, by the half of the quorum that was awake.*
 
 Villages could not be un-invented once the population had grown to fit them. There was no more room upstream to walk back to.
 
@@ -384,7 +384,7 @@ Start with one tablet. It is a square of baked clay about three inches across, m
 
 Until this point, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same evidence they would use on any other animal. With the Kushim tablet, the sources start talking back, and the first thing they say is how much barley is owed.
 
-Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently.
+Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time. Whether Egypt invented the idea on its own or picked it up from contact with Mesopotamian traders and then built an entirely different script around it is still argued; the two systems share a moment, not a form.
 
 Neither system started as literature. The earliest Sumerian tablets are receipts: so many sheep, so much grain, so much beer, owed to or by so-and-so.
 
@@ -462,7 +462,7 @@ The Zhou dynasty, succeeding the Shang around 1046 BCE, introduced an idea unusu
 
 *“This is a theory of legitimate power with a built-in excuse for every future revolution,” Professor Click-Click-Whoosh observed. “Whoever wins next did not usurp anything. Heaven had already decided.”*
 
-Out of the Zhou dynasty's long, fractious decline came two of history's most durable answers to the question of how a person should live. Confucius, in the 6th to 5th century BCE, argued for social harmony through defined roles, ritual, and respect for hierarchy and family. The Analects, the collection of his sayings that carried his ideas forward, was compiled by his disciples after his death rather than written by Confucius himself, another instance of a founder's words outliving him only because someone else wrote them down. Laozi, in the philosophy that became Daoism, argued closer to the opposite: harmony through yielding, simplicity, and not forcing outcomes.
+Out of the Zhou dynasty's long, fractious decline came two of history's most durable answers to the question of how a person should live. Confucius, in the 6th to 5th century BCE, argued for social harmony through defined roles, ritual, and respect for hierarchy and family. The Analects, the collection of his sayings that carried his ideas forward, was compiled by his disciples after his death rather than written by Confucius himself, another instance of a founder's words outliving him only because someone else wrote them down. Laozi is an even shakier figure: the Daodejing credited to him looks, on the manuscript evidence, more like the layered work of several hands over the 4th and 3rd centuries BCE than the output of one sage, and “Laozi” may serve the tradition as a convenient name more than a verified biography. Whoever actually held the brush argued closer to the opposite of Confucius: harmony through yielding, simplicity, and not forcing outcomes.
 
 Both answers outlasted every dynasty that came after them, which is a more interesting fact than either answer's specific content.
 
@@ -502,7 +502,7 @@ Dolphin scholarship extends the Jains the same warm professional regard it will 
 
 Political unity came in the 4th century BCE. The Mauryan Empire, founded by Chandragupta around 321 BCE, a few years after Alexander's weary army turned back at the edge of the subcontinent, ruled most of it. Its chief minister, traditionally Kautilya, is credited with the Arthashastra, a manual of statecraft so cheerfully ruthless, with careful chapters on spies, poisoners, and economic warfare, that it reads as Machiavelli, nearly two thousand years early and with a better index. (Chandragupta's grandson Ashoka turns up again, in a considerably better mood, in the chapter on the great faiths.)
 
-The Gupta period, from about 320 to 550 CE, is what historians call India's golden age, and the dolphins, for once, agree with them, chiefly on account of numbers. Indian mathematicians perfected a place-value system in which ten symbols, including a zero, can write any number there is. A dot marking an empty place appears in Indian manuscripts within the first few centuries CE, and by 628 CE Brahmagupta was writing out rules for arithmetic with zero treated as a number in its own right. Aryabhata, working in the 5th century, calculated pi to four decimal places and proposed that the apparent turning of the heavens was caused by the Earth turning on its axis. The Gupta era also gave the world chaturanga, the ancestor of chess, a game in which armies fight on a small board, presumably in the hope that people would keep it there.
+The Gupta period, from about 320 to 550 CE, is what an older generation of historians called India's golden age, a label current scholarship treats with some suspicion, since it mostly describes a flowering of Sanskrit court culture for a literate elite in the north rather than a uniform experience across a subcontinent this chapter has otherwise insisted on treating as too varied for one label. The dolphins, who have no court and no capital, sidestep the politics of the label and agree only on the numbers. Indian mathematicians perfected a place-value system in which ten symbols, including a zero, can write any number there is. A dot marking an empty place appears in Indian manuscripts within the first few centuries CE, and by 628 CE Brahmagupta was writing out rules for arithmetic with zero treated as a number in its own right. Aryabhata, working in the 5th century, calculated pi to four decimal places and proposed that the apparent turning of the heavens was caused by the Earth turning on its axis. The Gupta era also gave the world chaturanga, the ancestor of chess, a game in which armies fight on a small board, presumably in the hope that people would keep it there.
 
 The system traveled west through the Islamic world, where al-Khwarizmi's writings helped spread it, and reached Europe through merchants and, in 1202, Fibonacci's book on calculation. Europeans called the result Arabic numerals and have been slightly wrong about it ever since.
 
@@ -732,7 +732,7 @@ Elsewhere the inventory changed and the direction of the ships did not. Palm oil
 
 ### Still rich
 
-Oil made the twentieth century's version of the goldfields. The Niger delta, Angola's offshore fields, the wells of North Africa and the Gulf of Guinea, poured wealth out of the ground and, in too many cases, past the people standing on it. The pattern is familiar enough that economists gave it a soft name, the resource curse, as if the oil itself were unlucky. The superstition does not survive the evidence. Oil does not curse a village. A contract does, and a government does, and a foreign treasury does, when the money is routed around the village on purpose. Where the money was spent on roads, schools, and a state that could audit itself, the oil behaved like oil. Where it was spent on palaces and weapons, it behaved like a bribe that had learned to flow. The geology was neutral. The politics were not.
+Oil made the twentieth century's version of the goldfields. The Niger delta, Angola's offshore fields, the wells of North Africa and the Gulf of Guinea, poured wealth out of the ground and, in too many cases, past the people standing on it. The pattern is familiar enough that economists gave it a soft name, the resource curse, as if the oil itself were unlucky. Economists still argue over how much of the curse is the geology and how much is the deal struck over the geology; this book is not the place to settle it. What the cases in this chapter show, case by case, is politics doing most of the visible work. Where the money was spent on roads, schools, and a state that could audit itself, the oil behaved like oil. Where it was spent on palaces and weapons, it behaved like a bribe that had learned to flow. The geology was neutral. The politics, in these specific cases, were not.
 
 In the present the inventory has shrunk to things small enough to hide in a pocket. Cobalt for batteries. Coltan for the capacitors in a phone. Gold still, in pits dug by hand in the east of the Congo, funding militias who understood the same arithmetic Leopold did, on a worse road. The device that plays this century's music contains a small piece of a war. Most of the people holding the device do not know the name of the province. Dolphin historians, who do not own phones and do not intend to, nevertheless recommend learning the name. A rich continent is still being emptied by the handful. The handfuls add up. They always have.
 
@@ -818,7 +818,7 @@ Before the method came the mood. Beginning in fourteenth-century Italy and sprea
 
 Around 1450, in the German city of Mainz, Johannes Gutenberg's press with movable metal type made books cheap enough that ideas could begin to travel faster than the authorities who disliked them. Movable type had been invented in China and Korea centuries earlier; Gutenberg's version, built around an alphabet of a few dozen letters rather than thousands of characters, was the one that scaled. By 1500, by common estimates, more than ten million volumes had been printed in Europe, and within a generation the press was carrying Martin Luther's objections to the Church across the continent faster than the Church could answer them.
 
-In the century and a half after Copernicus proposed, in 1543, that the Earth orbited the sun, not the other way around, a working method had crystallized out of arguments like his: test a claim against observation and evidence, not against who holds the authority to state it. Galileo, Kepler, and finally Isaac Newton, whose 1687 laws of motion and gravitation unified the falling apple and the orbiting moon under one set of equations, gave the method its proof of concept.
+In the century and a half after Copernicus proposed, in 1543, that the Earth orbited the sun, not the other way around, a habit took hold among a scattered and quarrelsome set of thinkers: test a claim against observation and evidence, not against who holds the authority to state it. Historians of science now warn there was no single, tidy Scientific Revolution to tell this as — Galileo's mathematics, Kepler's astrology-laced astronomy, and Newton's long private detours into alchemy and biblical chronology were not one method perfecting itself by relay, whatever the textbook version implies. What they share, in hindsight, is only the result: Newton's 1687 laws of motion and gravitation unified the falling apple and the orbiting moon under one set of equations, proof that the habit, however messily arrived at, worked.
 
 Over the following two centuries the method swallowed most of nature: electricity, chemistry, and, in 1859, biology, when Charles Darwin published On the Origin of Species and told humans, in print and at length, what the dolphins had been privately assuming since the Prologue: that they were apes. Reception among humans was mixed. Dolphin scholarship approved of the whole period without reservation, and would like the record to show that it does not say that often.
 
@@ -1046,7 +1046,7 @@ Religious minorities were governed through what came to be called the millet sys
 
 The capital sat on the Bosphorus, the strait between the Black Sea and the Sea of Marmara, where dolphins still swim alongside the commuter ferries, and the commuters, like the citizens of every capital this book has watched, do not look up.
 
-The decline took two centuries and acquired a nickname. Defeats by Austria and Russia cost the empire the Balkans piece by piece, Greece won independence in the 1820s, and by the 1850s Europe's diplomats were calling it the sick man of Europe, a phrase attributed to Tsar Nicholas I. The empire defaulted on its debts in 1875 and handed part of its revenue to European creditors. A first constitution, proclaimed in 1876, was suspended within two years. In 1908 a group of officers, the Young Turks, restored it and then discovered the era's favorite remedy for an empire of many peoples, which was nationalism, in this case Turkish.
+What Europe's diplomats called two centuries of decline looked less tidy from inside the empire, which spent that time adapting rather than simply falling. Defeats by Austria and Russia cost it the Balkans piece by piece, Greece won independence in the 1820s, and by the 1850s Europe's diplomats were calling it the sick man of Europe, a phrase attributed to Tsar Nicholas I, a rival with every reason to write the obituary early. The empire defaulted on its debts in 1875 and handed part of its revenue to European creditors. A first constitution, proclaimed in 1876, was suspended within two years. In 1908 a group of officers, the Young Turks, restored it and then discovered the era's favorite remedy for an empire of many peoples, which was nationalism, in this case Turkish.
 
 The empire entered the First World War in late 1914 on Germany's side. It beat a British and French landing at Gallipoli in 1915, a victory that made a young commander named Mustafa Kemal famous, and in the same year its government began deporting the Armenians of Anatolia. On April 24, 1915, Armenian leaders in Constantinople were arrested; over the following months hundreds of thousands of people were marched into the Syrian desert, where they died of thirst, starvation, and massacre. The toll is usually put near a million, out of an Armenian population of perhaps two million, and Assyrians and Greeks were killed in large numbers as well. The word is genocide, as most scholars of the subject agree, and the word was coined in the 1940s by Raphael Lemkin with this case partly in mind. The Turkish state disputes the term. More than thirty countries, the United States among them, have formally recognized it.
 
@@ -1292,7 +1292,7 @@ His grandson Jacob had a twin, Esau, and the two quarreled over a birthright bef
 
 One of those sons, Joseph, was sold into slavery in Egypt by his own brothers, then rose through Pharaoh's court on the strength of interpreting dreams. When famine struck Canaan, the same brothers who had sold him came to Egypt for grain and found him in charge of distributing it. The family reunited there and stayed.
 
-Generations later, per the account handed down, their descendants had grown numerous enough to worry a different Pharaoh, who enslaved them. Moses led them out — an event Exodus dates to roughly the 13th century BCE and Egyptian records do not independently confirm — followed by forty years in the wilderness, a body of law delivered at Sinai, and eventual settlement in Canaan.
+Generations later, per the account handed down, their descendants had grown numerous enough to worry a different Pharaoh, who enslaved them. Moses led them out — an event Exodus dates to roughly the 13th century BCE. Archaeology has done more than fail to confirm it: Egyptian records, which logged lesser disruptions, say nothing of it, and Canaan's own settlement pattern shows a gradual, mostly local emergence of highland villages, not the sudden conquest the text describes. Something in the tradition may still trace back to a smaller, harder-to-detect departure, but the Exodus as written did not happen as written, followed in the account by forty years in the wilderness, a body of law delivered at Sinai, and eventual settlement in Canaan.
 
 A kingdom followed under Saul, then David, who made Jerusalem his capital, then Solomon, who built the First Temple in the 10th century BCE. The kingdom split in two after Solomon's death; the northern kingdom of Israel fell to Assyria in 722 BCE, its ten tribes scattered into the record as the “lost tribes.” The southern kingdom of Judah fell to Babylon in 586 BCE, the First Temple destroyed, its people exiled.
 
@@ -1350,7 +1350,7 @@ The Berlin Wall, raised by East Germany in 1961 to stop the outflow of its own p
 
 **Dolphin verdict:**
 
-*This is a rare chapter in the book where the frightening technology and the restraint arrived on roughly the same schedule. Two powers built weapons capable of ending organized civilization on short notice, fought each other everywhere except face to face, and, after four decades, one side's system gave out without either side using the weapons that had defined the entire era. Dolphins record this as evidence, still rare enough to be worth recording, that capability and wisdom can occasionally travel together when the alternative is unthinkable enough.*
+*This is a rare chapter in the book where the frightening technology and the restraint arrived on roughly the same schedule, at least between the two capitals. The fighting Washington and Moscow avoided with each other, they ran instead through Korea, Vietnam, and Afghanistan, in other people's countries, at a cost measured in millions of other people's lives, which makes the two superpowers' own restraint a narrower achievement than it looks from this close to the bomb. And whether the bomb itself was the thing keeping the peace between them, or whether two exhausted empires would have avoided a direct war regardless, is a question historians still argue and this chapter does not pretend to settle. Dolphins record the restraint that did happen as evidence, still rare enough to be worth recording, that capability and wisdom can occasionally travel together when the alternative is unthinkable enough.*
 
 ## 1957 to 2026: Leaving the Cradle — Space Travel, the Moon, Mars, and (Maybe) the Galaxy
 
@@ -1438,7 +1438,7 @@ The entries in the ledger are not seriously in dispute; their weighting is. Rail
 
 Gandhi's campaign of nonviolent resistance had its most famous episode about salt. In 1930 the British-run government taxed salt, a commodity that lies free on any coast, and forbade Indians to make their own. In March, Gandhi set out to walk some 240 miles from his ashram to the sea at Dandi, gathering thousands of followers on the way, and on April 6 he picked up a lump of natural salt from the beach, which was against the law. Some sixty thousand people were arrested in the campaign that followed. Dolphin historians, who have never paid for salt, note that it is a curious empire that can be shaken by something the ocean gives away for free.
 
-India's independence in 1947, achieved substantially through that campaign of organized nonviolent resistance led by Mohandas Gandhi, offered one model: mass noncooperation aimed at making continued colonial rule too costly to sustain politically rather than militarily. Independence arrived alongside Partition, dividing British India into India and Pakistan along religious lines, and the mass displacement and violence that followed killed somewhere between several hundred thousand and two million people, by different estimates, and displaced about fifteen million within months.
+India's independence in 1947 is often credited to that campaign of organized nonviolent resistance led by Mohandas Gandhi, which offered one model: mass noncooperation aimed at making continued colonial rule too costly to sustain politically rather than militarily. How much of the credit the campaign deserves is itself argued; a rival school of historians weights the ledger toward a Britain left financially exhausted by the Second World War, a 1946 mutiny within its own Royal Indian Navy, and a colonial administration that had concluded, on its own calculations, that it could no longer govern the subcontinent at an acceptable cost — a transfer of power as much as a surrender to one. Independence arrived alongside Partition, dividing British India into India and Pakistan along religious lines, and the mass displacement and violence that followed killed somewhere between several hundred thousand and two million people, by different estimates, and displaced about fifteen million within months.
 
 Independent India kept its democracy through nearly everything that followed (the exception was a two-year suspension of civil liberties, the Emergency, in 1975-77), and in 2023 passed China as the world's most populous country by United Nations estimate, a piece of arithmetic the mathematicians of the Gupta period would presumably have found unsurprising.
 
@@ -2166,6 +2166,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Blombos Cave engraved ochre.* Henshilwood, Christopher S., et al. “Emergence of Modern Human Behavior: Middle Stone Age Engravings from South Africa.” Science 295 (2002): 1278–80.
 
+*Blombos Cave shell beads.* Henshilwood, Christopher S., et al. “Middle Stone Age Shell Beads from South Africa.” Science 304 (2004): 404.
+
 **The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture**
 
 *Controlled fire at Wonderwerk Cave about a million years ago.* Berna, Francesco, et al. “Microstratigraphic Evidence of In Situ Fire in the Acheulean Strata of Wonderwerk Cave, Northern Cape Province, South Africa.” PNAS 109 (2012): E1215–20.
@@ -2255,6 +2257,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The civil service examinations.* Elman, Benjamin A. A Cultural History of Civil Examinations in Late Imperial China. Berkeley: University of California Press, 2000.
 
 *The archaeology behind the dynasties, including the Xia debate.* Liu, Li, and Xingcan Chen. The Archaeology of China. Cambridge: Cambridge University Press, 2012.
+
+*The Daodejing's composite authorship and the Guodian manuscripts.* Boltz, William G. “The Fourth-Century B.C. Guodian Manuscripts from Jingmen and Their Place in the Lao-tzu Tradition.” Journal of the American Oriental Society 119 (1999): 590–608.
 
 **2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity**
 
@@ -2360,6 +2364,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String**
 
+*The Spanish soldiers wondering if they were dreaming.* Díaz del Castillo, Bernal. The Conquest of New Spain. c. 1568. Translated by J. M. Cohen. London: Penguin, 1963.
+
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
 
 *A single domestication of maize.* Matsuoka, Yoshihiro, et al. “A Single Domestication for Maize Shown by Multilocus Microsatellite Genotyping.” PNAS 99 (2002): 6080–84.
@@ -2402,6 +2408,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry**
 
+*Why historians no longer speak of one unified Scientific Revolution.* Shapin, Steven. The Scientific Revolution. Chicago: University of Chicago Press, 1996.
+
 *Printing and its consequences.* Eisenstein, Elizabeth L. The Printing Press as an Agent of Change. Cambridge: Cambridge University Press, 1979.
 
 *Why industrialization began in Britain.* Allen, Robert C. The British Industrial Revolution in Global Perspective. Cambridge: Cambridge University Press, 2009.
@@ -2419,10 +2427,6 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Reconstruction and its abandonment.* Foner, Eric. Reconstruction: America’s Unfinished Revolution, 1863–1877. New York: Harper & Row, 1988.
 
 *Indian removal.* Saunt, Claudio. Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory. New York: Norton, 2020.
-
-*The Haitian Revolution.* Dubois, Laurent. Avengers of the New World: The Story of the Haitian Revolution. Cambridge, MA: Harvard University Press, 2004.
-
-*American whaling and its decline.* Dolin, Eric Jay. Leviathan: The History of Whaling in America. New York: Norton, 2007.
 
 *Jamestown, tobacco, and 1619.* Horn, James. A Land as God Made It: Jamestown and the Birth of America. New York: Basic Books, 2005.
 
@@ -2702,6 +2706,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Partition.* Khan, Yasmin. The Great Partition: The Making of India and Pakistan. New Haven: Yale University Press, 2007.
 
+*The “transfer of power” reading of 1947.* Moore, R. J. Escape from Empire: The Attlee Government and the Indian Problem. Oxford: Clarendon Press, 1983.
+
 *Kenya and the detention camps.* Elkins, Caroline. Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya. New York: Henry Holt, 2005.
 
 *Decolonization as a whole.* Jansen, Jan C., and Jürgen Osterhammel. Decolonization: A Short History. Princeton: Princeton University Press, 2017.
@@ -2719,6 +2725,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Emmett Till.* Tyson, Timothy B. The Blood of Emmett Till. New York: Simon & Schuster, 2017.
 
 *Mandela.* Mandela, Nelson. Long Walk to Freedom. Boston: Little, Brown, 1994.
+
+*Apartheid's end as a multi-factor negotiation, not a single memoir's account.* Dubow, Saul. Apartheid, 1948–1994. Oxford: Oxford University Press, 2014.
 
 *Stonewall.* Carter, David. Stonewall: The Riots That Sparked the Gay Revolution. New York: St. Martin’s Press, 2004.
 
