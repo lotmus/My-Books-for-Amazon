@@ -1,9 +1,9 @@
-# The Edit (working title)
+# Forbidden Offspring
 
 **Pen name:** Frank Stone (set by Lothar, 12 Oct 2026). Not yet recorded in `notes/LOTHAR_RULES.md`. The scientist character is also named Frank Stone.
 **Scientist:** Frank Stone
 **Spelling:** American English
-**Status:** story bible only, no manuscript yet (12 Oct 2026)
+**Status:** story bible only, no manuscript yet (12 Oct 2026). Title settled: Forbidden Offspring (formerly "The Edit")
 
 ## Premise
 Frank Stone, a geneticist at a fertility clinic, illegally edits fertilized eggs. Officially he corrects lethal mutations. Secretly he runs a second protocol aimed at producing exceptional cognitive ability (an Einstein-level intellect) plus, on at least two eggs, a package of rewritten dolphin (*Tursiops truncatus*) auditory-spatial circuits. The dolphin inserts are non-phenotypic: no external changes, only cortical timing, echo-resolution, multi-object acoustic mapping, and social-prediction loops driven by human promoters. All edits are kept heterozygous to limit automatic generational fixation. The work is a felony. Eleven years later the primary subject (the boy) has reconstructed much of what was done, located other edited children, and begun acting on his own timeline. Stone suffers a stroke that destroys his complete indexed notes and design logic. A married pair among the edited cohort becomes pregnant. Containment collapses.
@@ -54,7 +54,7 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
-2. Final title and folder name.
+2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
 3. POV: boy first person, close third, or mixed.
 4. A concrete external threat or deadline (the Singapore papers, a regulator, a leak) to give the quiet plot a clock.
 5. One specific want or fear for the boy, so his coldness is a character and not a trait.
