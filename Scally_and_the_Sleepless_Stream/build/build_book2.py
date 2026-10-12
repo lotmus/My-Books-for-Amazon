@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v4.txt"
+STORY_FILE = "Book2_Story_v5.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -22,6 +22,21 @@ body = raw[raw.index("Chapter 1."):]
 blocks = [b.strip("\n") for b in re.split(r"\n\s*\n", body) if b.strip()]
 
 place = {
+    'Scally, at the back of the crowd, had not spoken.': 'b49_box_scheme.jpg',
+    'Before they left, Walt gave out his own rules': 'b50_walt_rules.jpg',
+    'Hal wrote the plan on his slate': 'b51_slate_plan.jpg',
+    'Scally began to laugh, and could not stop.': 'b53_laughing_blanket.jpg',
+    'Walt took out his whistle.': 'b54_whistle_fog.jpg',
+    'They ate Titch’s crusts': 'b55_supper_stew.jpg',
+    'Before dawn Hal crept down': 'b56_hal_dawn.jpg',
+    'In the morning they came to the Falls.': 'b57_the_falls.jpg',
+    '“Listen,” shouted Hal.': 'b58_hello_echo.jpg',
+    '“Everyone all right?” said Walt': 'b59_count_heads.jpg',
+    'Titch had already done it.': 'b60_dumpling_pulls.jpg',
+    '“I’m scared,” said Scally.': 'b61_scally_scared.jpg',
+    '“Walter,” he said.': 'b62_mayor_hat.jpg',
+    'Old Walt took on an apprentice.': 'b63_walt_apprentice.jpg',
+    'In the morning, the miller fell asleep in the flour hopper': 'b64_black_buns.jpg',
     "Hal Millersen lay on his back": "b01_hum_night.jpg",
     "By ten o" + A + "clock a hand-painted sign": "b02_draught_sale.jpg",
     "He scooped up the tin.": "b03_pennies_back.jpg",
