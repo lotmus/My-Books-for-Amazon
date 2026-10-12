@@ -50,7 +50,7 @@ Dolphin historians regard this as a terrible mistake. They are careful to add th
 
 One detail matters here. Walking upright came first. Australopithecus was standing and walking on two legs more than three million years ago, with a brain not much larger than a chimpanzee's. The big brain came later, and came slowly.
 
-*“This was not a ladder,” dolphin historians noted. “It was a branch. Most branches on that tree went extinct. This one did not.”*
+*“This was not a ladder,” the Society recorded. “It was a branch. Most branches on that tree went extinct. This one did not.”*
 
 For a long stretch after that, the dolphins paid this branch no special notice. An ape walking upright on a savanna was not obviously more interesting than any other animal finding its niche. Dolphins had seen plenty of niches found.
 

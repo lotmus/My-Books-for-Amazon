@@ -174,7 +174,7 @@ Dolphin historians regard this as a terrible mistake. They are careful to add th
 
 One detail matters here. Walking upright came first. Australopithecus was standing and walking on two legs more than three million years ago, with a brain not much larger than a chimpanzee's. The big brain came later, and came slowly.
 
-*“This was not a ladder,” dolphin historians noted. “It was a branch. Most branches on that tree went extinct. This one did not.”*
+*“This was not a ladder,” the Society recorded. “It was a branch. Most branches on that tree went extinct. This one did not.”*
 
 For a long stretch after that, the dolphins paid this branch no special notice. An ape walking upright on a savanna was not obviously more interesting than any other animal finding its niche. Dolphins had seen plenty of niches found.
 
@@ -414,7 +414,7 @@ The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held t
 
 The far more famous Library of Alexandria, founded in Egypt under the Ptolemaic dynasty in the early 3rd century BCE, took the same idea and multiplied its ambition: not merely a collection, but an attempt to gather a copy of every text in the known world, reportedly by searching every ship that docked in Alexandria's harbor for scrolls worth transcribing. Its actual end is more mundane than its popular legend. There was no single dramatic burning by a single villain — a fire during Julius Caesar's visit in 48 BCE damaged part of the collection. Further decline followed political instability and reduced funding over the following centuries. The destruction of the associated Serapeum temple in 391 CE, under an edict against pagan sites, finished off what direct evidence can still trace. By the time of the Arab conquest in the 7th century, the library had already ceased to exist as a major institution for hundreds of years, which is why most historians reject the later, popular story blaming that conquest for its loss.
 
-*“We pass down what we know only by living demonstration,” dolphin historians noted. “A calf learns to hunt by watching its mother hunt, generation after generation, and if a pod is lost, its particular hunting culture is lost with it. Humans built a version of memory that survives the death of everyone who held it. After this chapter, they stop forgetting on our clock, and start forgetting, if at all, on their own.”*
+*“We pass down what we know only by living demonstration,” the Society recorded. “A calf learns to hunt by watching its mother hunt, generation after generation, and if a pod is lost, its particular hunting culture is lost with it. Humans built a version of memory that survives the death of everyone who held it. After this chapter, they stop forgetting on our clock, and start forgetting, if at all, on their own.”*
 
 This is the moment the ratchet from the first chapter acquires a memory. A tool can be copied only by someone who sees it; a written instruction can be copied by someone born three centuries later on another continent. Everything from a legal code to a shipping manifest to, eventually, dolphin scholarship's own subject matter, depends on this one invention holding.
 
@@ -466,7 +466,7 @@ The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — t
 
 The Zhou dynasty, succeeding the Shang around 1046 BCE, introduced an idea unusually self-aware for its era: the Mandate of Heaven, the claim that a ruler holds power only as long as heaven approves, and that heaven's approval can be read backward from a ruler's success. A dynasty that fell, by this logic, had simply proven it never truly had the mandate to begin with.
 
-*“This is a theory of legitimate power with a built-in excuse for every future revolution,” dolphin historians noted. “Whoever wins next did not usurp anything. Heaven had already decided.”*
+*“This is a theory of legitimate power with a built-in excuse for every future revolution,” Professor Click-Click-Whoosh observed. “Whoever wins next did not usurp anything. Heaven had already decided.”*
 
 Out of the Zhou dynasty's long, fractious decline came two of history's most durable answers to the question of how a person should live. Confucius, in the 6th to 5th century BCE, argued for social harmony through defined roles, ritual, and respect for hierarchy and family. The Analects, the collection of his sayings that carried his ideas forward, was compiled by his disciples after his death rather than written by Confucius himself, another instance of a founder's words outliving him only because someone else wrote them down. Laozi, in the philosophy that became Daoism, argued closer to the opposite: harmony through yielding, simplicity, and not forcing outcomes.
 
@@ -594,7 +594,7 @@ Each faith, once established, did two jobs at the same time: it organized how be
 
 Christianity's own version of that second job produced a fight over who, exactly, was in charge of it. The Investiture Controversy, running from 1076 to 1122, pitted the Holy Roman Emperor against the Pope over whether a king or the Church got to appoint bishops, and therefore who ultimately answered to whom. In 1077, Emperor Henry IV, excommunicated and politically cornered, walked to the Italian castle of Canossa and stood barefoot in the snow for three days until Pope Gregory VII agreed to receive him; the phrase "going to Canossa" entered several European languages as shorthand for public humiliation. The underlying argument, settled by compromise in 1122, never really ended; it only changed which century's crown and which century's clergy were having it.
 
-While Western Europe, after Rome's western half fell, entered the fragmented centuries the next chapter discusses, the Islamic world entered what historians call its Golden Age: Baghdad's House of Wisdom, from the 8th century onward, translated and extended Greek philosophy and mathematics (algebra takes its name from al-Khwarizmi's 9th-century treatise). Scholars across the Islamic world advanced medicine, optics, and astronomy well beyond what Rome had left behind, among them the Persian polymath Avicenna, whose medical encyclopedia remained a standard European medical school text for roughly six centuries, and the Andalusian philosopher Averroes, whose commentaries on Aristotle reintroduced Greek philosophy to a Western Europe that had largely lost direct access to it.
+While Western Europe, after Rome's western half fell, entered the fragmented centuries the next chapter discusses, the Islamic world entered what historians call its Golden Age: Baghdad's House of Wisdom, founded in the 8th century, employed scholars to systematically translate Greek, Persian, and Indian works into Arabic, preserving texts Europe had largely lost access to and would not fully recover for centuries. Scholars across the Islamic world advanced medicine, optics, and astronomy well beyond what Rome had left behind, among them the Persian polymath Avicenna, whose medical encyclopedia remained a standard European medical school text for roughly six centuries, and the Andalusian philosopher Averroes, whose commentaries on Aristotle reintroduced Greek philosophy to a Western Europe that had largely lost direct access to it. (This book's chapter on the century that followed Rome's fall picks up the one figure from this Golden Age whose own name became a unit of modern computing.)
 
 The Crusades, beginning in 1095 when Pope Urban II called for a military campaign to reclaim Jerusalem, ran in waves for close to two centuries. Without euphemism, they were religious conviction, real and widely shared among participants, fused to land claims, trade route control, and, in the notorious Fourth Crusade of 1204, the outright sack of Constantinople, a Christian city, by a Christian army meant to be fighting someone else entirely.
 
@@ -672,7 +672,7 @@ Numbers that size stop meaning anything, so here is one man. In Siena, where the
 
 Much of the Black Death's itinerary was maritime, as dolphins watching a great many Genoese ships go by could have told anyone. Rats have always made excellent passengers and terrible guests, though recent studies suggest that in many European outbreaks the disease spread more through human fleas and lice than through rats.
 
-*“Humans built the first genuinely continental trade network,” dolphin historians noted, “and were unpleasantly surprised to learn that a market open to silk is also open to everything else that hitches a ride.”*
+*“Humans built the first genuinely continental trade network,” one dolphin scholar observed, “and were unpleasantly surprised to learn that a market open to silk is also open to everything else that hitches a ride.”*
 
 The Mongol empire itself broke into rival khanates within a few generations, and China's Ming dynasty drove the Mongols out in 1368. The connections survived both. Within a century the same goods, and the same germs, were finding faster ways to travel, by sea.
 
@@ -1006,7 +1006,7 @@ It kept happening. The 20th century added Pentecostalism, dated to the 1906 Azus
 
 Few countries in this book have generated new, homegrown religious movements at this rate (Japan, with its many postwar new religions, is a serious rival), owing less to any special American piety than to the same structural decision that also produced the country's endless proliferation of political factions. There was no established state church, ever, and so no single religious authority a new movement had to unseat, only an open field to found one in.
 
-*“A country with no state religion,” dolphin historians noted, “did not therefore get less religion. It got more religions, competing the way the country's businesses compete, and about as ruthlessly.”*
+*“A country with no state religion,” the Society noted, “did not therefore get less religion. It got more religions, competing the way the country's businesses compete, and about as ruthlessly.”*
 
 **Dolphin verdict:**
 
@@ -1090,7 +1090,7 @@ A second catastrophe, spread by troop ships and crowded camps, was under way at 
 
 The Treaty of Versailles, signed on June 28, 1919, five years to the day after the assassination, imposed heavy reparations and a war-guilt clause on Germany. The economist John Maynard Keynes, who had attended the conference as a British Treasury official and resigned in protest, wrote a bestselling book arguing that the settlement would do more harm than good. Marshal Foch, the French commander, is reported to have said of it that it was not a peace but an armistice for twenty years. It was, almost exactly, twenty years and sixty-five days. History rarely grants a forecast this precise, and the intervening years were spent by most of the parties involved rearming rather than proving him wrong.
 
-*“A treaty can end a war on paper,” dolphin historians noted, “without ending whatever made the war feel necessary to the people who lost it.”*
+*“A treaty can end a war on paper,” dolphin scholars noted, “without ending whatever made the war feel necessary to the people who lost it.”*
 
 **Dolphin verdict:**
 
@@ -1174,7 +1174,7 @@ Political unification arrived astonishingly late relative to that inheritance: I
 
 The regime's decisive turn came earlier than the invasion of Ethiopia. In June 1924, Giacomo Matteotti, a socialist member of parliament who had just delivered a speech accusing the fascists of election fraud, was kidnapped and murdered by men with close ties to Mussolini. The killing produced a genuine political crisis; Mussolini used it to strip away what independent press and opposition remained, instead of stepping down, and on January 3, 1925, told parliament that he alone assumed “the political, moral, and historical responsibility” for all that had happened, and dared it to act. It did not.
 
-*“The claim that Mussolini made the trains run on time,” dolphin historians noted, “is, by most transport historians' account, largely a myth the regime encouraged on its own behalf. Dolphin scholarship treats a dictatorship's own press office as a source of last resort.”*
+*“The claim that Mussolini made the trains run on time,” dolphin scholars noted, “is, by most transport historians' account, largely a myth the regime encouraged on its own behalf. Dolphin scholarship treats a dictatorship's own press office as a source of last resort.”*
 
 The regime's foreign ambitions ran ahead of its actual military strength for most of its life. The 1935-36 invasion of Ethiopia, one of the last independent states in Africa, used chemical weapons against a population with no air force and little modern weaponry to answer with, a one-sided brutality that does not belong under "war" in the sense the word implies in the chapters on the century's two world wars.
 
@@ -1244,7 +1244,7 @@ The same state apparatus that ran the purges and the camps also drove rapid indu
 
 A shorter accounting would flatten out the other half: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany. Estimates of Soviet dead in the Second World War run from around 20 million to as high as 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
 
-*“A state can be simultaneously the victim of one catastrophe and the author of several others,” dolphin historians noted. “This chapter is where that fact is hardest to look away from.”*
+*“A state can be simultaneously the victim of one catastrophe and the author of several others,” Professor Click-Click-Whoosh observed. “This chapter is where that fact is hardest to look away from.”*
 
 Unlike postwar Germany, Japan, and Italy, the Soviet Union's course correction did not arrive on the heels of external defeat. It came gradually, unevenly, and only after decades: Nikita Khrushchev's 1956 speech denouncing Stalin's crimes before the party's own congress; a slow, incomplete thaw through the following decades; and finally Mikhail Gorbachev's reforms of glasnost and perestroika in the 1980s, which loosened the state's grip faster than the state itself could survive the loosening. The Soviet Union dissolved in 1991, nearly seventy years after its founding.
 
@@ -1560,7 +1560,7 @@ More recently, US military encounters with unidentified aerial phenomena, offici
 
 The evidence settles none of this, but the shape of the underlying hope is plain: across religion, mythology, and now astrophysics, this species keeps reaching for the idea that something larger, wiser, or simply other is paying attention.
 
-*“Humans have proposed gods, ancestors, angels, and now radio-quiet aliens as the audience for their own story,” dolphin historians noted. “Dolphin scholarship can confirm exactly one item on that list with any confidence. We have, in fact, been watching. We would gently note that we are considerably less impressive than most of the other candidates.”*
+*“Humans have proposed gods, ancestors, angels, and now radio-quiet aliens as the audience for their own story,” the Society recorded. “Dolphin scholarship can confirm exactly one item on that list with any confidence. We have, in fact, been watching. We would gently note that we are considerably less impressive than most of the other candidates.”*
 
 **Dolphin verdict:**
 
@@ -2840,47 +2840,47 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 Dolphin scholarship is obliged to disclose that it has not read any of the following, dolphins being unable to read. It has had them read aloud, at some length, by sailors, and offers them as the humans' own best accounts of themselves. Each contains arguments the dolphins have not settled, and one is a comedy.
 
-**The Origin of Our Species, by Chris Stringer (2011). **For the African chapters, by a man who has spent his career among the actual bones.
+**The Origin of Our Species, by Chris Stringer (2011).** For the African chapters, by a man who has spent his career among the actual bones.
 
-**Guns, Germs, and Steel, by Jared Diamond (1997). **Why some societies got the tools first. Argued over ever since, and still the best book to start an argument with.
+**Guns, Germs, and Steel, by Jared Diamond (1997).** Why some societies got the tools first. Argued over ever since, and still the best book to start an argument with.
 
-**Sapiens, by Yuval Noah Harari (English edition 2014). **The species' summary of itself, at speed, with opinions.
+**Sapiens, by Yuval Noah Harari (English edition 2014).** The species' summary of itself, at speed, with opinions.
 
-**1491, by Charles C. Mann (2005). **The Americas before Columbus, and how much of what humans thought they knew about them was wrong.
+**1491, by Charles C. Mann (2005).** The Americas before Columbus, and how much of what humans thought they knew about them was wrong.
 
-**Simón Bolívar: A Life, by John Lynch (2006). **The liberator without the marble, and the sea he said he was plowing.
+**Simón Bolívar: A Life, by John Lynch (2006).** The liberator without the marble, and the sea he said he was plowing.
 
-**The Silk Roads, by Peter Frankopan (2015). **The caravans, the Mongols, and the argument that history has been facing the wrong way.
+**The Silk Roads, by Peter Frankopan (2015).** The caravans, the Mongols, and the argument that history has been facing the wrong way.
 
-**Osman's Dream, by Caroline Finkel (2005). **The Ottoman Empire from the inside, all six centuries of it, with the gate's own paperwork for company.
+**Osman's Dream, by Caroline Finkel (2005).** The Ottoman Empire from the inside, all six centuries of it, with the gate's own paperwork for company.
 
-**A Fistful of Shells, by Toby Green (2019). **West African history told from West Africa.
+**A Fistful of Shells, by Toby Green (2019).** West African history told from West Africa.
 
-**SPQR, by Mary Beard (2015). **Rome, with the myths taken out and the jokes left in.
+**SPQR, by Mary Beard (2015).** Rome, with the myths taken out and the jokes left in.
 
-**The Story of the Jews, by Simon Schama (two volumes, 2013 and 2017). **The long thread this book gives a chapter of its own, at the length it deserves.
+**The Story of the Jews, by Simon Schama (two volumes, 2013 and 2017).** The long thread this book gives a chapter of its own, at the length it deserves.
 
-**The Anarchy, by William Dalrymple (2019). **How a company with a private army acquired a subcontinent.
+**The Anarchy, by William Dalrymple (2019).** How a company with a private army acquired a subcontinent.
 
-**The Sleepwalkers, by Christopher Clark (2012). **How Europe walked into 1914, in slow motion, with its eyes open.
+**The Sleepwalkers, by Christopher Clark (2012).** How Europe walked into 1914, in slow motion, with its eyes open.
 
-**The Guns of August, by Barbara Tuchman (1962). **The first month of the First World War, told as tragedy, and the standard popular history still tries to meet.
+**The Guns of August, by Barbara Tuchman (1962).** The first month of the First World War, told as tragedy, and the standard popular history still tries to meet.
 
-**The Fall of the Ottomans, by Eugene Rogan (2015). **The First World War as it looked from Gallipoli, Baghdad, and Mecca, the front most Western histories skip.
+**The Fall of the Ottomans, by Eugene Rogan (2015).** The First World War as it looked from Gallipoli, Baghdad, and Mecca, the front most Western histories skip.
 
-**The Coming of the Third Reich, by Richard J. Evans (2003). **How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford.
+**The Coming of the Third Reich, by Richard J. Evans (2003).** How a cultured country handed power to Hitler, in the detail a summary chapter cannot afford.
 
-**Gulag: A History, by Anne Applebaum (2003). **The camps, in full.
+**Gulag: A History, by Anne Applebaum (2003).** The camps, in full.
 
-**Mao's Great Famine, by Frank Dikötter (2010). **The famine the summary chapters could only name.
+**Mao's Great Famine, by Frank Dikötter (2010).** The famine the summary chapters could only name.
 
-**The Making of the Atomic Bomb, by Richard Rhodes (1986). **The science, the scientists, and the moment the apex predator learned physics.
+**The Making of the Atomic Bomb, by Richard Rhodes (1986).** The science, the scientists, and the moment the apex predator learned physics.
 
-**A Short History of Nearly Everything, by Bill Bryson (2003). **For the parts of nature that history rests on.
+**A Short History of Nearly Everything, by Bill Bryson (2003).** For the parts of nature that history rests on.
 
-**1066 and All That, by W. C. Sellar and R. J. Yeatman (1930). **The British comic history, and the model for treating the past with affection and no respect. The dolphins consider it the most honest history in this list.
+**1066 and All That, by W. C. Sellar and R. J. Yeatman (1930).** The British comic history, and the model for treating the past with affection and no respect. The dolphins consider it the most honest history in this list.
 
-**The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979). **For the other dolphins, and for the general approach to explaining everything. The dolphins' farewell gives the fourth book of the series its title, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.
+**The Hitchhiker's Guide to the Galaxy, by Douglas Adams (1979).** For the other dolphins, and for the general approach to explaining everything. The dolphins' farewell gives the fourth book of the series its title, So Long, and Thanks for All the Fish (1984). The dolphins here wish it noted that they are not the same dolphins.
 
 *If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.*
 

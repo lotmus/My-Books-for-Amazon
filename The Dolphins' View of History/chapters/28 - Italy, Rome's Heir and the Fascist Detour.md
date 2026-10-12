@@ -8,7 +8,7 @@ Political unification arrived astonishingly late relative to that inheritance: I
 
 The regime's decisive turn came earlier than the invasion of Ethiopia. In June 1924, Giacomo Matteotti, a socialist member of parliament who had just delivered a speech accusing the fascists of election fraud, was kidnapped and murdered by men with close ties to Mussolini. The killing produced a genuine political crisis; Mussolini used it to strip away what independent press and opposition remained, instead of stepping down, and on January 3, 1925, told parliament that he alone assumed “the political, moral, and historical responsibility” for all that had happened, and dared it to act. It did not.
 
-*“The claim that Mussolini made the trains run on time,” dolphin historians noted, “is, by most transport historians' account, largely a myth the regime encouraged on its own behalf. Dolphin scholarship treats a dictatorship's own press office as a source of last resort.”*
+*“The claim that Mussolini made the trains run on time,” dolphin scholars noted, “is, by most transport historians' account, largely a myth the regime encouraged on its own behalf. Dolphin scholarship treats a dictatorship's own press office as a source of last resort.”*
 
 The regime's foreign ambitions ran ahead of its actual military strength for most of its life. The 1935-36 invasion of Ethiopia, one of the last independent states in Africa, used chemical weapons against a population with no air force and little modern weaponry to answer with, a one-sided brutality that does not belong under "war" in the sense the word implies in the chapters on the century's two world wars.
 

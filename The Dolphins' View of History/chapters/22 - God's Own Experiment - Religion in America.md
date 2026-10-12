@@ -16,7 +16,7 @@ It kept happening. The 20th century added Pentecostalism, dated to the 1906 Azus
 
 Few countries in this book have generated new, homegrown religious movements at this rate (Japan, with its many postwar new religions, is a serious rival), owing less to any special American piety than to the same structural decision that also produced the country's endless proliferation of political factions. There was no established state church, ever, and so no single religious authority a new movement had to unseat, only an open field to found one in.
 
-*“A country with no state religion,” dolphin historians noted, “did not therefore get less religion. It got more religions, competing the way the country's businesses compete, and about as ruthlessly.”*
+*“A country with no state religion,” the Society noted, “did not therefore get less religion. It got more religions, competing the way the country's businesses compete, and about as ruthlessly.”*
 
 **Dolphin verdict:**
 

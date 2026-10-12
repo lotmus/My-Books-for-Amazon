@@ -24,7 +24,7 @@ A second catastrophe, spread by troop ships and crowded camps, was under way at 
 
 The Treaty of Versailles, signed on June 28, 1919, five years to the day after the assassination, imposed heavy reparations and a war-guilt clause on Germany. The economist John Maynard Keynes, who had attended the conference as a British Treasury official and resigned in protest, wrote a bestselling book arguing that the settlement would do more harm than good. Marshal Foch, the French commander, is reported to have said of it that it was not a peace but an armistice for twenty years. It was, almost exactly, twenty years and sixty-five days. History rarely grants a forecast this precise, and the intervening years were spent by most of the parties involved rearming rather than proving him wrong.
 
-*“A treaty can end a war on paper,” dolphin historians noted, “without ending whatever made the war feel necessary to the people who lost it.”*
+*“A treaty can end a war on paper,” dolphin scholars noted, “without ending whatever made the war feel necessary to the people who lost it.”*
 
 **Dolphin verdict:**
 

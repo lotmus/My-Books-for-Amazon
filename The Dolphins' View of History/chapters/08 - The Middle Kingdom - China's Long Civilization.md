@@ -8,7 +8,7 @@ The Shang dynasty, from around 1600 BCE, is not a legend. Its oracle bones — t
 
 The Zhou dynasty, succeeding the Shang around 1046 BCE, introduced an idea unusually self-aware for its era: the Mandate of Heaven, the claim that a ruler holds power only as long as heaven approves, and that heaven's approval can be read backward from a ruler's success. A dynasty that fell, by this logic, had simply proven it never truly had the mandate to begin with.
 
-*“This is a theory of legitimate power with a built-in excuse for every future revolution,” dolphin historians noted. “Whoever wins next did not usurp anything. Heaven had already decided.”*
+*“This is a theory of legitimate power with a built-in excuse for every future revolution,” Professor Click-Click-Whoosh observed. “Whoever wins next did not usurp anything. Heaven had already decided.”*
 
 Out of the Zhou dynasty's long, fractious decline came two of history's most durable answers to the question of how a person should live. Confucius, in the 6th to 5th century BCE, argued for social harmony through defined roles, ritual, and respect for hierarchy and family. The Analects, the collection of his sayings that carried his ideas forward, was compiled by his disciples after his death rather than written by Confucius himself, another instance of a founder's words outliving him only because someone else wrote them down. Laozi, in the philosophy that became Daoism, argued closer to the opposite: harmony through yielding, simplicity, and not forcing outcomes.
 
