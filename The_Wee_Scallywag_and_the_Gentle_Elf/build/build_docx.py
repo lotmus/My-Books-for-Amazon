@@ -476,7 +476,7 @@ centered("Typeface in the e-book edition: Comic Neue, © The Comic Neue Project 
 d.core_properties.title = TITLE1 + " " + TITLE2
 d.core_properties.author = AUTHOR
 import datetime
-now = datetime.datetime.now()
+now = datetime.datetime.now(datetime.timezone.utc)
 d.core_properties.created = now
 d.core_properties.modified = now
 d.core_properties.last_modified_by = AUTHOR
