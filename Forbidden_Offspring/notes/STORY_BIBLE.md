@@ -88,6 +88,10 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - The book starts with the four minutes (4 min 11 s window), told by Stone. Trial draft: `drafts/ch01_four_minutes_Stone_v1.md`.
 - Rule for all lab scenes: never give followable procedure. Stone says so himself in the text, which also characterizes him.
 
+## Chapter drafts
+- Ch 1 "Four Minutes": `drafts/ch01_four_minutes_Stone_v1.md`
+- Ch 2 "The Transfer": `drafts/ch02_the_transfer_Stone_v1.md`. Introduces the boy's parents, placeholders: Ray Pruitt (bakery-supply delivery driver) and Connie Pruitt (school cafeteria line cook). A modest-income, low-education home, to seed the friction pattern. Stone adds an unneeded follow-up visit; the six-week-old turns toward a rattling cart in the corridor before it passes (first sign of the dolphin hearing), and Stone feels his first real fear.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
