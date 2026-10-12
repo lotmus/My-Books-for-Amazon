@@ -202,6 +202,23 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 
 - Ch 7 "The Cohort": `drafts/ch07_the_cohort_Stone_v1.md`. Stone's field notes on invented families (Okafor, Brandt, Lindqvist, Duval) and the friction pattern; four he watched closely: a quiet boy who rebuilds a radio (the future laureate), two inseparable girls (a future couple, the LGBT thread), and Julian (placeholder name of the future senator, 'the easiest child to like', Stone's note 'no concerns'). Stone insists Julian's turn was bad luck, not his design. Fewer than sixty people made over eleven years.
 
+## Epilogue caveat: independent discovery (settled 12 Oct 2026)
+- In the epilogue it emerges that scientists in China have independently come up with the same method Stone used. His work is no longer unique or secret to him, and the offspring's decision not to restart it is overtaken again, as the genomes-are-out thread already suggests.
+- It pays off Stone's fear in ch 4/5 ('I was not the only person who had ever done this') and the Singapore manuscript, and it answers the question of whether it is the same as his plan with: the world is going there regardless.
+- Handling: an unnamed research team, invented, not a real group or person. Frame it as parallel invention, not as a hostile state project, and do not turn a real country into a villain; the senator and the assassin already carry the book's American irony, so keep the tone even-handed. It can be reported flatly (a preprint, a news item, a line from the laureate). Future event, so no reality-rule problem. Nothing technical about the method.
+- Decided 12 Oct 2026: no American scientist is linked to the Chinese team, and no individual villain is added. The China mention stays short and flat (a line or two); its force comes from leaving it unexplained.
+- Possible final beat: the narrator reads the announcement beside Stone's bed; Stone, half-remembering, says one small thing.
+
+- Ch 5 "The Apartment": `drafts/ch05_the_apartment_Stone_v1.md` (outline chapter 5 = old items 8 + 9). June 2010 clinic picnic: Ray and Connie tell Stone the flat-B fire alarm story and that Danny says Stone has 'a nervous heart'; Ray says 'He's real patient with me about it.' Autumn 2011: a note in Stone's mailbox invites him to the apartment; Danny, 11, says he has read it all, including the copy of the Singapore review Stone kept in the vault (found in March, worked out by summer). Consistency: the boy's hearing works within a room or through a wall, not across miles; he finds the vault by reading and reasoning, not by eavesdropping. Ends with Mrs. Aldana knocking at 41 seconds.
+
+## From The Double Helix (James Watson, 1968), used as idea only (12 Oct 2026)
+- Voice: a vain, candid, gossipy first-person scientist who shows more than he admits; a model for Stone's account.
+- Rivalry and secrecy: the race for a result and who sees whose data; echoes Stone's fear of the Singapore team.
+- Credit and consent: Rosalind Franklin's X-ray image was shown to Watson without her knowledge; background to the prologue's consent form and the theme of who owns what is done to people.
+- Appendix gets one sentence of real history. No quotes, and none of these people appear as characters. Watson's name stays out of the book text; credit the 1953 structure to the paper. Re-check the facts.
+
+- Ch 6 "The Bargain": `drafts/ch06_the_bargain_Stone_v1.md` (outline chapter 6 = old items 10 + 11). Over Mrs. Aldana's lentils the boy sets four terms: Stone never returns to the building; no contact with the parents; no more edited children without telling him; Stone writes down the why. The boy holds four copies of the index in separate places. He hears Stone's pulse jump at 'agreed' and knows he lies, but cannot tell anyone without exposing the cohort and his family: 'I'm going to have to watch.' That evening Stone makes one more batch from three reserved embryos (a couple waiting seven years), breaking his word, and starts writing the answer to the fourth term: 'I was afraid of being ordinary.' Continuity note: the boy is a monitor, not a stopper, so later cohort members may exist that he never found.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)

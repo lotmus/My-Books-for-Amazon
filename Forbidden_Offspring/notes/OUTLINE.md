@@ -10,13 +10,42 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 - Career timeline: school and biology/chemistry degree by about 2021; medical school to the MD by about 2026 (private, before the reality line); research and clinical work after 2026 (future).
 - Central tension: a stroke cure would give the creator back his mind and his index. The man the offspring has decided not to follow could become able to restart the century plan. He must decide what to do with a cure he has found.
 
-## Length target (settled 12 Oct 2026): 180 pages
+## Length and chapter count (settled 12 Oct 2026): 180 pages, 20 chapters
 - At about 300 words per 6x9 page, 180 pages is about 54,000 words (a rough guide; the final page count depends on font, spacing and chapter breaks, and Kindle shows its own page numbers). Aim for 55,000 words.
-- The 33-chapter plan below is about 100,000 words at its original sizes, so for 180 pages it is condensed to **26 chapters of about 2,100 words**. Original chapter numbers are kept in the text below; the merge map is:
-  - Part One (9 chapters): 1, 2, 3, 4, 5, 6, 7 (carries the Pruitts-at-dinner material from 8), 8 = old 9 + 10 (the apartment and the bargain), 9 = old 11 + 12 (last week and the stroke).
-  - Part Two (17 chapters): 10 = old 13 + 14 (the notebook and visiting hours), 11 = old 15, 12 = old 16, 13 = old 17, 14 = old 18 + 19 (engineer and laureate), 15 = old 20, 16 = old 21, 17 = old 22, 18 = old 23 + 24, 19 = old 25, 20 = old 26, 21 = old 27, 22 = old 28 (genomes out, the cure research), 23 = old 29 + 30 (the leak and denial), 24 = old 31, 25 = old 32, 26 = old 33.
-- The existing trial drafts (ch 1 to 7) run about 1,300 to 1,600 words each; expand most to about 2,100, by adding scene and sensory detail, not plot.
-- Earlier idea to expand beyond 100,000 words is superseded by this page target.
+- Lothar wants fewer chapter numbers than the 33 first planned, and chose 20 (15 was proposed first). The book therefore has **20 chapters of about 2,750 words each**, with unnumbered scene breaks inside a chapter. The detailed 33-item list below is a **scene list**, grouped into the 20 chapters here.
+
+**Part One: Stone** (7 chapters)
+1. **Four Minutes** = old 1 + 2 (the window, the transfer, the birth, the first sign).
+2. **Test Time** = old 3 (watching from afar, consented tests, the bench time).
+3. **The Ledger** = old 6 + 7 (the century plan, the cohort).
+4. **The Second Listener** = old 4 + 5 (the swim meet, the tremor, the Singapore manuscript, the notebook begins).
+5. **The Apartment** = old 8 + 9 (the Pruitts at dinner, the confrontation).
+6. **The Bargain** = old 10 + 11 (the terms, the last batch).
+7. **The Stroke** = old 12 (the clinic floor, the lost index, Part One ends).
+
+**Part Two: The Offspring** (13 chapters)
+8. **The Notebook** = old 13 + 14 (finding it, visiting hours, the turn toward medicine, the first attempt to tell his parents).
+9. **Odd Moments** = old 15 (the family years).
+10. **The Search** = old 16 (tracing the cohort).
+11. **The Phonetician** = old 17 + 18 (the linguist and the engineer).
+12. **Under Cover** = old 19 + 20 + 21 (the laureate, the senator, the quiet majority, the club).
+13. **Munich** = old 22 + 23 (the move in 2027, the laureate's published breakthrough).
+14. **The Prize** = old 24 + 25 (the senator works it out, the Nobel in 2029).
+15. **The Child** = old 26 (the visit to Munich).
+16. **Restart** = old 27 (the decision).
+17. **More Than Enough** = old 28 (genomes out, the cure research).
+18. **The Leak** = old 29 + 30 (the leak, the denial).
+19. **Duck and Rabbit** = old 31 + 32 (the assassination, staying low).
+20. **The Four Minutes** = old 33 (the cure given, the old man, the sound). Epilogue caveat (settled 12 Oct 2026): scientists in China have independently come up with the same method Stone used, so the work no longer depends on him, the cohort or the offspring's restraint.
+
+- Existing trial drafts `ch01` to `ch07` keep their file names for now; they will be merged into the new chapters when the manuscript file is built. Expand each scene by adding detail, not plot.
+- No chapter numbers inside the text beyond the chapter headings.
+
+## Front and back matter (settled 12 Oct 2026)
+- **Prologue: Consent.** A one-page clinic consent form signed by Ray and Connie Pruitt (1999), authorizing one named correction; 'Other procedures authorized: none.' Draft: `drafts/prologue_consent_v1.md`. The epilogue echoes it with a question of consent (Stone and the cure).
+- **Appendix: The Science Behind the Story.** Inheritance rules, germline versus body cells, gene technology, intelligence and the dolphin package, detection, and a fact-versus-fiction table. Draft: `drafts/appendix_genetics_v1.md`. Facts to re-check are listed at its end. Counts toward the 180 pages (about 5 to 6 pages).
+- **Notes and Further Reading (bibliography).** Names Watson and the other real authors and works; the story text itself does not. Draft: `drafts/bibliography_v1.md`. All entries still need checking against publisher pages, Crossref or Open Library; use keyword hyperlinks with hidden URLs, linked from the appendix's in-text citations.
+- Then About the Author and Also-by, once the pen name and its rules are settled (Frank Stone is the pen name; its bio and Also-by treatment are still open).
 
 ---
 
@@ -86,7 +115,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 
 ## Open points
 
-1. Length: settled at 180 pages (see Length target); merge map above.
+1. Length: settled at 180 pages and 20 chapters (see the section above).
 2. (Settled) Stone stays alive. The cure works but Stone is old, fragile and forgetful (settled), so the plan cannot return. Open: does the offspring give him the cure freely, and what does Stone say first?
 3. (Settled) He hesitates to tell his parents: a running thread across ch 13, 15, 21 (the MD day), 26 and 32. Open: whether he finally tells them, and which one first.
 4. Names of the senator and the main offspring (both placeholders).
