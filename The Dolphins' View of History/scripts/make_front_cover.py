@@ -38,8 +38,8 @@ ctext(480,'VIEW OF',fs,GOLD,track=22)
 ctext(590,'HISTORY',fb,NAVY,track=6)
 d.line([(300,900),(1300,900)],fill=GOLD,width=1); d.line([(300,912),(1300,912)],fill=GOLD,width=4)
 fi=font('EB Garamond/EBGaramond-Italic-VariableFont_wght.ttf',66)
-ctext(960,'A Non-Human, Non-Building Species',fi,NAVY)
-ctext(1040,'Delivers Its Verdicts',fi,NAVY)
+ctext(960,'Fifty Million Years of',fi,NAVY)
+ctext(1040,'Watching You Mess This Up',fi,NAVY)
 # --- timeline along the horizon
 ft=font('Marcellus SC/MarcellusSC-Regular.ttf',38)
 marks=[(150,'3200 BCE'),(390,'776 BCE'),(940,'1492'),(1135,'1789'),(1300,'1969'),(1470,'2026')]
