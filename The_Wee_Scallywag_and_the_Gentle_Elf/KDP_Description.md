@@ -6,7 +6,7 @@ Draft written 11 Oct 2026. Claims are limited to what the book actually does. It
 - **Title:** The Wee Scallywag and the Gentle Elf
 - **Subtitle (suggestion):** A Fantasy Adventure with Real Science, for Curious Children Ages 5 to 9
 - **Series:** The Step Stories, Book 1
-- **Author field:** Anneliese Tauber (pen name; same persona as Bavarian Cooking Made Simple, a Bavarian mother of four). Lothar's real name appears nowhere in the book or listing, as for Bavarian Cooking. CHECK: KDP will want the legal name on the account only.
+- **Author field:** Anneliese Tauber (pen name; same persona as Bavarian Cooking Made Simple, a mother of four who read her children many fairy tales). Lothar's real name appears nowhere in the book or listing, as for Bavarian Cooking. CHECK: KDP will want the legal name on the account only.
 
 ## Description (about 170 words)
 **The wheel has stopped. The village has no flour. And the cheekiest boy in the valley has just stolen Hal's boots.**
@@ -44,7 +44,7 @@ Includes ten experiments to try and a guide for parents and teachers.
 - The book ends with a "Coming Next" page announcing Book 2, Scally and the Sleepless Stream (no date promised). Series naming idea: later books follow the pattern "Scally and the ..." under the series name The Step Stories. Change the wording to a real title and date once Book 2 is scheduled.
 
 ## Upload checklist
-- Format: the docx is the master and the EPUB is the upload. File names carry the version (for example ..._Book1_v13.epub). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
+- Format: the docx is the master and the EPUB is the upload. File names carry the version (for example ..._Book1_v14.epub). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer the question accordingly and truthfully. Do not put tool names in the book (rule in LOTHAR_RULES).
 - Back cover: text only on a single colour (not made yet).
 - Also-by: "Also by Anneliese Tauber" lists Bavarian Cooking Made Simple (Lothar, 11 Oct 2026). CHECK: that book is still a draft, so the page has no live link yet.

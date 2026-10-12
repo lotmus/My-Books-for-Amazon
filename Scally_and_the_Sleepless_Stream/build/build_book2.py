@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v2.txt"
+STORY_FILE = "Book2_Story_v3.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -362,7 +362,7 @@ para("The science here is simplified for ages 5 to 9: a stream's bends come from
 toc_link()
 pagebreak()
 heading("About the Author", 1, "about")
-para("Anneliese Tauber grew up in Bavaria, where the old stories have mills in them and the mills have ghosts. Today she is a mother of four, and her children have taught her that the best bedtime stories answer the questions they ask, and keep the real answers true. The Step Stories are for curious children and the grown-ups who read to them.")
+para("Anneliese Tauber is a mother of four. When her children were small she read them a great many fairy tales, and she noticed that the best ones answered the questions children ask, and never needed to bend the truth. The Step Stories are for curious children and the grown-ups who read to them.")
 centered("If your child enjoyed this book, a short, kind review on Amazon helps other curious families find it. Thank you.", 13, italic=True)
 toc_link()
 pagebreak()
