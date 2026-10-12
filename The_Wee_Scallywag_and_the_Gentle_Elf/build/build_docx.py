@@ -19,14 +19,14 @@ blocks = [b.strip("\n") for b in re.split(r"\n\s*\n", body) if b.strip()]
 place = {
     '“Since the porridge,”': '02_wall_run.jpg',
     'They bowed. The scallywag bowed deeper.': '03_log_launch.jpg',
-    'The scallywag opened the lid.': '05_ghost_trap.jpg',
+    'Scally opened the lid.': '05_ghost_trap.jpg',
     'They got out on the far bank': '06_toad_ford.jpg',
     'Under the willow, a little way off': '07_pike_gucci.jpg',
     'It was a thin, wavering howl': '08_howl_moon.jpg',
     'Hal borrowed the ghost’s lantern': '09_moon_model.jpg',
     'A tall figure stood at the end of the road.': '10_fog_stranger.jpg',
     'It was the same mill, and it was the wrong way round.': '12_mirror_mill.jpg',
-    'The scallywag came out backwards': '13_pull_bag.jpg',
+    'Scally came out backwards': '13_pull_bag.jpg',
     'There was a soft, enormous whumph.': '19_flour_flash.jpg',
     'Out came a hundred years of boiled sweets': '14_stranger_flour.jpg',
     'There was a small, bright, interested sound': '18_fire_night.jpg',
@@ -49,7 +49,7 @@ place = {
     'Hal guessed that the grasshoppers': 'c04b_counting_hoppers.jpg',
     'The toad took it with great care': 'c04c_toad_crust.jpg',
     '“A stick stays straight,': 'c05a_bent_stick.jpg',
-    'The scallywag went straight across': 'c05b_puddle_race.jpg',
+    'Scally went straight across': 'c05b_puddle_race.jpg',
     'They caught the pike at dusk.': 'c05c_supper_bonfire.jpg',
     'Hal looked at the rectangular eggs': 'c06a_eggs_moon.jpg',
     'Afterwards he sat apart': 'c07a_apology.jpg',
@@ -67,7 +67,7 @@ place = {
     '“He sent me.': 'd01_the_deal.jpg',
     'That evening Hal tried the wheel.': 'd02_jamming_the_wheel.jpg',
     '“A bag,” said the ghost.': 'd03_miller_falls.jpg',
-    '“It’s mine,” said the scallywag.': 'd05_stamp_bonfire.jpg',
+    '“It’s mine,” said Scally.': 'd05_stamp_bonfire.jpg',
     '“I did it,”': 'd06_confession.jpg',
     '“No,” said Hal.': 'd07_hal_says_no.jpg',
     'Behind the mill, in the long grass, a rectangular egg': 'd08_egg_hatching.jpg',
@@ -103,6 +103,13 @@ def make_cover():
     cv.save(out, quality=88)
     return out
 
+
+# ANCHOR CHECK: every picture anchor must match exactly one story paragraph
+_ps = [x for x in blocks]
+for _k, _v in place.items():
+    _n = sum(1 for x in _ps if x.startswith(_k))
+    if _n != 1:
+        print("ANCHOR PROBLEM", _n, _v, repr(_k[:50]))
 
 COVER = make_cover()
 
