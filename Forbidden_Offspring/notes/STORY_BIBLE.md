@@ -193,6 +193,11 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - Possible resolutions to keep open: he withholds it; he gives it with conditions (Stone must stay silent, or must help the cohort); he gives it and Stone's recovered mind turns out to be changed; the cure is public and not his to withhold.
 - Reality: the training years up to 2026 are private and ordinary; cure research and any public result fall after 2026.
 
+## Telling the parents (settled 12 Oct 2026)
+- The main offspring hesitates to tell his parents. It is a running thread, not a single scene: he starts to tell them several times and stops (a birthday, a hospital visit after his father's fall, the day he gets his MD), each time for a reason that is half kindness and half cowardice.
+- Whether he finally tells them, and which of them first, stays open until the late chapters.
+- Keeps faith with the earlier rule that parents never find out in childhood and that adult disclosure is the investigator's own choice.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)

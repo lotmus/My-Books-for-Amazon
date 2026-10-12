@@ -80,7 +80,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 
 1. Length: 33 chapters at about 3,000 words is about 100,000 words. To trim, merge 7 and 8, 28 and 29, or 32 and 33.
 2. (Settled) Stone stays alive. Open: does the offspring give him the cure, withhold it, or give it with conditions? What does Stone do with it?
-3. Does the main offspring tell his parents (ch 32)?
+3. (Settled) He hesitates to tell his parents: a running thread across ch 13, 15, 21 (the MD day), 26 and 32. Open: whether he finally tells them, and which one first.
 4. Names of the senator and the main offspring (both placeholders).
 5. The leak's exact route (ch 29): three strands, kept impressionistic.
 6. How much of Stone's account appears as quoted text in Part Two.
