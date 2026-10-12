@@ -19,7 +19,7 @@ Includes ten experiments to try and a guide for parents and teachers.
 
 ## What is in the book (use in A+ or the look-inside)
 - 11 chapters, about 10,500 words, 20 painted illustrations; read-aloud for ages 6 to 9, or a first chapter book for ages 8 to 10.
-- "Hopsi's True Things": 18 short fact and experiment notes.
+- "Hopsi's True Things": 17 short fact and experiment notes.
 - "For Parents and Teachers": the scientist's habits the story models, what each chapter teaches, a safety section, and discussion questions.
 
 ## Age and reading
