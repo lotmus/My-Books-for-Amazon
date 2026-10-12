@@ -20,7 +20,7 @@ PROB: A capacitor has C = 100 nF and an equivalent series inductance of 5 nH. Fi
 SOL: SRF = 1/(2π√(LC)) = 1/(2π√(5×10⁻⁹ × 1×10⁻⁷)) = 1/(2π√(5×10⁻¹⁶)) = 1/(2π × 2.236×10⁻⁸) ≈ 7.12 MHz. Above roughly 7 MHz, this part's parasitic inductance, not its 100 nF rating, dominates its behavior.
 FIG: fig8_2.png | Figure 8.2 — A real capacitor's ESR/ESL model, and the characteristic V-shaped impedance curve with its self-resonant frequency.
 H2: 8.4 Capacitors in Practice: Decoupling and Real Impedance
-P: Section 8.3 showed that a real capacitor has an equivalent series resistance and inductance, and that above its self-resonant frequency it behaves like an inductor. The rest of this chapter puts that model to work on the job capacitors are asked to do more than any other: holding a supply rail steady while the circuit on it draws sudden, fast-changing current. It ends with the quieter imperfections, dielectric absorption, leakage, ripple heating, and aging, that decide whether a capacitor is right for timing, sampling, or long life.
+P: This section applies the series model from Section 8.3 to supply decoupling, then considers dielectric absorption, leakage, ripple heating, and aging that determine whether a capacitor is suitable for timing, sampling, or long life.
 H2: 8.5 The Impedance Curve
 P: The series model of Section 8.3 gives a capacitor's impedance magnitude at any frequency:
 EQ: |Z| = √( ESR² + (ωL_ESL − 1/(ωC))² )

@@ -16,7 +16,7 @@ Author: Lothar J. Musiol
 <li><b>Materials, light, sensing and the chip:</b> SOI, SiGe, InP, GaAs, GaN, gallium oxide, diamond and AlN compared by figure of merit; lasers, VCSELs, APDs, SPADs, image and event pixels; MEMS, Hall, gas and quantum sensors; and the ASIC-versus-FPGA decision with an NRE break-even.</li>
 </ul>
 <p>Every chapter ends with <b>What You'll Actually Use</b>, an honest list that separates the everyday working tools from the theory you mainly need for exams or deeper study. <b>From the Bench</b> notes add the practical layer: forced beta, bias that ignores β, ESD at the connector, flash wear, hot on-resistance and running corners early.</p>
-<p>Inside: 33 diagrams, worked examples with declared values, practice problems with every solution worked in full, parameter lists for datasheet-to-SPICE work, and a linked source list. Written for engineering students and working engineers who want the device physics behind their circuits. Book 3 of the seven-book Electrical Engineering Series; builds on <i>Foundations of Electronics</i> and <i>Circuits, Components, and Control</i>.</p>
+<p>Inside: 33 diagrams, worked examples with declared values, practice problems with every solution worked in full, parameter lists for datasheet-to-SPICE work, and a linked source list. Written for engineering students and working engineers who want the device physics behind their circuits. Book 3 of the nine-book Electrical Engineering Series; builds on <i>Foundations of Electronics</i> and <i>Circuits, Components, and Control</i>.</p>
 
 ## Keywords (7)
 

@@ -276,6 +276,18 @@
    "to": "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol&i=digital-text)",
    "in": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
    "max": 1
+  },
+  {
+   "find": "Test and Measurement Instruments",
+   "to": "[Test and Measurement Instruments](https://www.amazon.com/s?k=Test+and+Measurement+Instruments+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Test and Measurement Instruments (Book 9)",
+   "max": 1
+  },
+  {
+   "find": "Firmware and Software for Electronics",
+   "to": "[Firmware and Software for Electronics](https://www.amazon.com/s?k=Firmware+and+Software+for+Electronics+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Firmware and Software for Electronics (Book 8)",
+   "max": 1
   }
  ]
 }

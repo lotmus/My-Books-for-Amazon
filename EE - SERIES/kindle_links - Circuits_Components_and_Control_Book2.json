@@ -270,6 +270,18 @@
    "to": "[Macromodeling of Integrated Circuit Operational Amplifiers](https://doi.org/10.1109/JSSC.1974.1050528)",
    "in": "G. R. Boyle, B. M. Cohn, D. O. Pederson, and J. E. Solomon",
    "max": 1
+  },
+  {
+   "find": "Test and Measurement Instruments",
+   "to": "[Test and Measurement Instruments](https://www.amazon.com/s?k=Test+and+Measurement+Instruments+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Test and Measurement Instruments (Book 9)",
+   "max": 1
+  },
+  {
+   "find": "Firmware and Software for Electronics",
+   "to": "[Firmware and Software for Electronics](https://www.amazon.com/s?k=Firmware+and+Software+for+Electronics+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Firmware and Software for Electronics (Book 8)",
+   "max": 1
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Also by: canonical list
 
-Rebuilt 10 Oct 2026 from the title page of every master in this repo, one entry per real book, current titles only. Replaces the 2 to 4 Oct 2026 version.
+Updated 12 Oct 2026 to add Test and Measurement Instruments (Book 9) after Book 8; the remaining entries retain the 10 Oct 2026 canonical order.
 
 Rules
 
@@ -55,6 +55,7 @@ Rules
 - Power and Energy (Book 6)
 - Packaging, Layout, EMC, and Test (Book 7)
 - Firmware and Software for Electronics (Book 8)
+- Test and Measurement Instruments (Book 9)
 
 **History**
 

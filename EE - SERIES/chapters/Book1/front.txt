@@ -23,17 +23,19 @@ H2: Part III — DC and AC Circuit Theory (Chapters 26-38)
 P: Kirchhoff's laws, equivalent resistance and dividers, nodal and mesh analysis, Thevenin and Norton equivalents, superposition, then capacitors and inductors as circuit elements and the first-order transients they produce. The remainder is sinusoidal steady state: phasor analysis, AC power and power factor, resonance, frequency response, and transformers, and finally the Smith chart, impedance matching, and bias networks.
 KEY: Chapter numbering is continuous across the three parts. A reference to "Chapter 20" means Chapter 20 of this book, which happens to sit in Part II. The part boundaries fall between chapters 12 and 13, and between 25 and 26.
 H1: About This Series
-P: This book is the first of seven, together covering the full breadth of electrical engineering from first principles through to its specialized and emerging edges. Each of the seven books corresponds to one tier of a single master topic list, built so that each tier's material is gathered into one volume rather than scattered across a shelf of disconnected textbooks, and so that each book assumes only the books before it — never the ones after.
-P: The overall arc runs from foundations (this book) through circuits, components, and control, and through semiconductor devices, out into RF, microwave, and millimeter-wave engineering, across the communication and wireless systems built from them, through power and energy, and finally into the physical product: packaging, layout, electromagnetic compatibility, and test, where every earlier book meets the others. The full list:
-P: Book — Covers
-P: 1. Foundations (this book) — Physics, mathematics, and circuit theory
-P: 2. Circuits, Components, and Control — Analog and digital, op-amps, passives, the classical loop
-P: 3. Semiconductor Physics and Devices — Diodes, BJTs, MOSFETs, FinFET, compound semiconductors
-P: 4. RF, Microwave, and Transceivers — Lines, matching, antennas, PAs, receivers, PLLs, radar
-P: 5. Communications, Wireless, and SDR — Modulation, band plans, DSP and software radio
-P: 6. Power and Energy — Regulators, magnetics, the grid, the rack
-P: 7. Packaging, Layout, EMC, and Test — Boards, packages, cooling, emissions, the accredited lab, robots
-KEY: You do not need the other six books to use this one. This book, and each book after it, is written to stand on its own given its stated prerequisites — almost always only the books before it in the list above. Treat the table as a map of where you have been and where a given later interest can take you, not as a syllabus you must complete in order.
+P: This book is the first of nine, covering the foundations on which the rest of the Electrical Engineering Series builds. Each volume gathers one tier of the master topic list into a single book and assumes only the books before it, never those that follow.
+P: The series runs from foundations through circuits, semiconductor devices, RF, communications, power, and embedded software, then into the physical product: packaging, layout, electromagnetic compatibility, and test. The full list:
+P: Book - Covers
+P: 1. Foundations (this book) - Physics, mathematics, and circuit theory
+P: 2. Circuits, Components, and Control - Analog and digital, op-amps, passives, the classical loop
+P: 3. Semiconductor Physics and Devices - Diodes, BJTs, MOSFETs, FinFET, compound semiconductors
+P: 4. RF, Microwave, and Transceivers - Lines, matching, antennas, PAs, receivers, PLLs, radar
+P: 5. Communications, Wireless, and SDR - Modulation, band plans, DSP and software radio
+P: 6. Power and Energy - Regulators, magnetics, the grid, the rack
+P: 7. Packaging, Layout, EMC, and Test - Boards, packages, cooling, emissions, the accredited lab, robots
+P: 8. Firmware and Software for Electronics - Embedded firmware, software tools, and code-driven electronics
+P: 9. Test and Measurement Instruments - Oscilloscopes, analyzers, calibration, and device characterization
+KEY: You do not need the other eight books to use this one. Each volume stands on its own with its stated prerequisites, which are almost always limited to earlier books in the list. Treat the table as a map of where you have been and where a later interest can take you, not as a syllabus you must complete in order.
 H1: The Reader Lab
 P: Electronics is learned with the hands as much as the head, so this series asks you to build things. Every book uses the same small kit, the reader lab, and this is the one place it is introduced; the later books refer back here. Nothing in this book requires it: every worked example stands on paper. But a divider you have measured, or an LED you have burned out, stays learned in a way a formula alone does not.
 P: The kit is ten parts, all sold as small modules with pin headers, so they plug into a breadboard with jumper wires. Each one typically costs a few dollars to about fifteen.
@@ -51,7 +53,7 @@ P: Add a breadboard, jumper wires, a handful of resistors, capacitors, LEDs, and
 FIG: image18.png | Figure L.1 — The reader lab as a body. The ESP32-S3 is the brain; the sensors are its senses, the servo its muscle, the OLED its face, the LoRa radio its voice, and the 18650 cell its stomach. The labels on the links name the wiring each part uses.
 P: If you buy only one controller, buy an ESP32-S3 board. It has the wireless radios the later books need, enough analog inputs for the sensing chapters, and enough speed for the camera. An Arduino Uno R4 or a Raspberry Pi Pico 2 W will also do most of the projects; where a difference matters, such as the Uno's 5 V pins against the ESP32-S3's 3.3 V pins, the text says so.
 P: The series follows one rule with the lab: analog first. Where a few resistors, a capacitor, and a comparator can do a job, you build that first, because that is where the physics lives. Then you do the same job in about twenty lines of code on the ESP32-S3 and compare. The analog version teaches why the circuit works and needs no software; the code version adds Wi-Fi, logging, and a display. Real products usually combine the two, and so do the projects.
-P: In this book the lab appears in Chapter 8 (an LED and a light sensor), Chapter 15 (what an ADC reading is worth, and an ultrasonic range corrected for temperature), Chapter 18 (a pressure trend), Chapter 27 (thermistors, bridges, a load cell, and safe 5 V to 3.3 V connections), Chapter 33 (a debounced button and the I²C bus), and Chapter 35 (an energy dashboard). Three small projects run through those chapters: a Smart Weather Station, a Home Energy Dashboard, and a Smart Refrigerator Monitor. The camera, GPS, LoRa radio, and servo wait for the later books, and Book 7 closes with a robot that draws on every book in the series.
+P: In this book the lab appears in Chapter 8 (an LED and a light sensor), Chapter 15 (what an ADC reading is worth, and an ultrasonic range corrected for temperature), Chapter 18 (a pressure trend), Chapter 27 (thermistors, bridges, a load cell, and safe 5 V to 3.3 V connections), Chapter 33 (a debounced button and the I²C bus), and Chapter 35 (an energy dashboard). Three small projects run through those chapters: a Smart Weather Station, a Home Energy Dashboard, and a Smart Refrigerator Monitor. The camera, GPS, LoRa radio, and servo wait for the later books, and Book 7 closes with a robot that draws on every book in the series. These six activities also form an optional build-first route; follow them in chapter order and return to any earlier explanation when a term or equation is new.
 KEY: Treat the 18650 cell with respect. A shorted lithium-ion cell can deliver tens of amperes and start a fire. Use a holder with a protection module, never solder directly to a cell, never charge one without a charger made for lithium-ion, and keep its wires covered.
 H1: Table of Contents
 P: Preface — How to Use This Book

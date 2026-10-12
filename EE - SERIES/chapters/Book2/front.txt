@@ -10,18 +10,21 @@ P: The firmware for these circuits lives in one place, Book 8, Firmware and Soft
 H1: How This Book Is Organized
 P: Chapters 1–2 build the vocabulary shared by every later chapter: bias points, headroom, and small-signal behavior for analog circuits, and logic levels and noise margins for digital ones. Chapters 3–4 develop digital design specifically, from Boolean algebra through sequential circuits with memory. Chapter 5 introduces the operational amplifier as an ideal building block, in the same spirit Book 1 used for the resistor, capacitor, and inductor. Chapter 6 generalizes Book 1's filter and resonance results into a full filter-design vocabulary, passive and active, and carries it through to Sallen-Key and multiple-feedback designs built from standard parts. Chapters 7–9 return to the resistor, capacitor, and inductor themselves as real, physical parts: first their types, tolerances, ratings, and parasitics, then the practical side, from heat, drift, and pulse ratings to decoupling, real impedance, and reading an inductor datasheet.
 P: Chapter 10 introduces the control loop itself, through the smart thermostat of Book 1 and a robot joint. Chapters 11–16 return to the op-amp with real numbers: feedback as a quantitative tool, followers and capacitive loads, bandwidth and slew rate, noise, DC errors, and comparators. Chapters 17–19 build classical control on that foundation, from plant and controller through PID and lead-lag compensation to the digital loop and its sampling delay. Chapters 20–24 add five building blocks that join the book's two halves: the instrumentation amplifier, state feedback with observers, the sample-and-hold circuit, the voltage reference, and the H-bridge motor drive written as a plant for the loops of Chapters 17–19. Chapters 25–28 complete both halves: the root locus and the stability margins and sensitivity peak on the control side, and oscillators and digital timing with metastability on the circuit side. Along the way, bench sections put the theory to work: logic you can build and the FPGA (Chapter 4), LED and optocoupler drivers (Chapter 12), the photodiode amplifier (Chapter 13), switch debouncing (Chapter 16), PID on a Pico or a Teensy (Chapter 19), piezo and mains-current front ends (Chapter 20), relays, servos, and steppers (Chapter 24), and projects that need no controller at all (Chapter 27).
+P: Advanced control path: Chapters 21 and 25-26 extend the classical loop with state-space feedback and frequency-domain stability. Before these chapters, review matrix multiplication and simultaneous equations from Book 1, plus transfer functions, poles, and Bode plots from Chapters 17-19. Chapter 21 introduces state-space notation but expects you to follow matrix calculations.
 KEY: This book does not re-teach Book 1's Part III. Network analysis (Thévenin, Norton, nodal, mesh) and transient analysis are assumed throughout — if a technique from those chapters feels unfamiliar, that is the place to go back to, not this book.
 H1: About This Series
-P: This book is the second of seven, covering circuits, components, and the classical control loop that later sits under a robot model. Each book assumes only the books before it in the list below — never the ones after.
-P: Book — Covers
-P: 1. Foundations — Physics, mathematics, and circuit theory
-P: 2. Circuits, Components, and Control (this book) — Analog and digital, op-amps, passives, the classical loop
-P: 3. Semiconductor Physics and Devices — Diodes, BJTs, MOSFETs, FinFET, compound semiconductors
-P: 4. RF, Microwave, and Transceivers — Lines, matching, antennas, PAs, receivers, PLLs, radar
-P: 5. Communications, Wireless, and SDR — Modulation, band plans, DSP and software radio
-P: 6. Power and Energy — Regulators, magnetics, the grid, the rack
-P: 7. Packaging, Layout, EMC, and Test — Boards, packages, cooling, emissions, the accredited lab, robots
-KEY: You do not need the other six books to use this one. This book is written to stand on Book 1's foundation alone — treat the table as a map of where you have been and where a later interest can take you, not a syllabus you must complete in order.
+P: This book is the second of nine. It covers circuits, components, and the classical control loop that later sits under a robot model. Each volume assumes only the books before it in the list below, never the ones after.
+P: Book - Covers
+P: 1. Foundations - Physics, mathematics, and circuit theory
+P: 2. Circuits, Components, and Control (this book) - Analog and digital, op-amps, passives, the classical loop
+P: 3. Semiconductor Physics and Devices - Diodes, BJTs, MOSFETs, FinFET, compound semiconductors
+P: 4. RF, Microwave, and Transceivers - Lines, matching, antennas, PAs, receivers, PLLs, radar
+P: 5. Communications, Wireless, and SDR - Modulation, band plans, DSP and software radio
+P: 6. Power and Energy - Regulators, magnetics, the grid, the rack
+P: 7. Packaging, Layout, EMC, and Test - Boards, packages, cooling, emissions, the accredited lab, robots
+P: 8. Firmware and Software for Electronics - Embedded firmware, software tools, and code-driven electronics
+P: 9. Test and Measurement Instruments - Oscilloscopes, analyzers, calibration, and device characterization
+KEY: You do not need the other eight books to use this one. This book is written to stand on Book 1's foundation alone; treat the table as a map of where you have been and where a later interest can take you, not as a syllabus you must complete in order.
 H1: Table of Contents
 P: Preface — How to Use This Book
 P: How This Book Is Organized

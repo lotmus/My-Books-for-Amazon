@@ -16,7 +16,7 @@ Author: Lothar J. Musiol
 </ul>
 <p>Every chapter ends with <b>What You'll Actually Use</b>, an honest list that separates the everyday working tools from the theory you mainly need for exams or deeper study. <b>From the Bench</b> notes add the practical layer: Kelvin connections, isolation resistors, dead time, synchronizers, error budgets and how to measure a loop on real hardware. <b>On the Job</b> notes show where this material is used at work.</p>
 <p>You also build things, analog first, with the series reader lab: circuits that work with no controller at all, robotics and RC builds, and three running projects (a Smart Weather Station, a Home Energy Dashboard and a Smart Refrigerator Monitor).</p>
-<p>Inside: 59 diagrams, 108 worked examples, 215 practice problems with every solution worked in full, a formula reference and a glossary. A textbook that expects you to work problems; it builds on Book 1, <i>Foundations of Electronics</i>. Book 2 of the seven-book Electrical Engineering Series.</p>
+<p>Inside: 59 diagrams, 108 worked examples, 215 practice problems with every solution worked in full, a formula reference and a glossary. A textbook that expects you to work problems; it builds on Book 1, <i>Foundations of Electronics</i>. Book 2 of the nine-book Electrical Engineering Series.</p>
 
 ## Keywords (7)
 
