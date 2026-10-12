@@ -95,6 +95,13 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Ch 4 "The Second Listener": `drafts/ch04_the_second_listener_Stone_v1.md`. At a county swim meet Stone sees the second dolphin carrier, an 8-year-old girl (placeholder, unnamed) who turns a hand's width short of the wall with her eyes shut. Her parents are a professor and an engineer, so a high-education home with no friction: the contrast to the Pruitts. The last line plants the first tremor in Stone's left hand.
 - Timeline (settled 12 Oct 2026): Stone is already handicapped by the time the cohort is adult. The stroke happens during childhood or adolescence of the cohort (the ch 4 tremor seeds it); Part Two, when the offspring is an adult, finds Stone already disabled. The boy-aged-11 apartment scene remains in Part One, before the stroke. Reconcile the "eleven years to the day" line at the end of ch 1 with the final timeline when the stroke date is fixed.
 
+## Part Two: the restart decision (settled 12 Oct 2026)
+- The main offspring (the dolphin carrier) contemplates restarting Stone's work, meaning making more edited people with Stone's materials and his own knowledge. After much ado, he decides it is better not to.
+- Why this is strong: it is the book's central choice, and it mirrors Stone's four minutes with the opposite outcome. He has the means and the justification (the club wants to change the world for the better) and he declines. It also answers the theme "responsibility after the creator is diminished."
+- Show the ado, not a quick no: the argument for (good people, better world, the cohort is small and fragile, the senator proves the cohort is not safe from bad luck anyway), the argument against (consent, the children's isolation, the families, bad luck cuts both ways, Stone's hubris, irreversibility). Voices to use: Stone's account, the other carriers, the families.
+- Consequence to keep: the existing edits still propagate on their own (the married pair's child), so declining to restart is not the same as stopping the lineage. His restraint covers only what he himself chooses to start.
+- To settle: whether anyone else in the club wants to restart, and whether the senator or someone else tries to do it without him.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
