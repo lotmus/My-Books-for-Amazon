@@ -56,8 +56,9 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - **Part One: Stone.** Stone narrates. His voice: arrogant, self-justifying, precise, unreliable about his own motives.
 - **The stroke** ends Part One. His full index and design logic are destroyed, but his narrative account survives (written before the stroke, or dictated after).
 - **Part Two: the offspring.** The boy, now a teen or adult, finds Stone's account and carries on. He can read, correct and answer Stone, and can only know what Stone wrote plus what he found himself. Reconstruction replaces omniscience, which solves the limit of a boy narrator who cannot witness the lab.
-- Continuity point: the story notes say the *index* is lost, not Stone's account. The account is narrative and can omit or distort the design, so it can be the boy's source without restoring the map.
-- The trial apartment scene (`drafts/scene_apartment_boy_POV_v1.md`) is an 11-year-old narrating live. Under this structure it would be retold by Stone in Part One, or by the older narrator in Part Two looking back.
+- The offspring finds a lot: Stone's account plus much of his material, and holds copies. No one else knows. Secrecy is his, and later the cohort's, to keep or break.
+- Continuity point: what is lost in the stroke is Stone's own master index and design logic (his ability to predict or stop anything). The offspring's copies are fragments and do not restore the full map.
+- The apartment confrontation fits Stone best in Part One: he narrates what he cannot perceive, while the reader watches the boy out-hear him. Trial drafts: `drafts/scene_apartment_Stone_POV_v1.md` (chosen direction) and `drafts/scene_apartment_boy_POV_v1.md` (voice test for Part Two).
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
