@@ -55,7 +55,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 30. **Denial** (2035 to 2036) **[new]**. Hearings, experts on both sides, comfortable explanations. The laureate testifies that he was lucky, the right research at the right time: a small lie that costs him something. The quiet majority learns to be glad no one knows. The senator is running for president and leading.
 31. **Duck and Rabbit** (spring 2036) **[new]**. The assassination, offstage and reported (news, a hearing on the rifle's purchase, a neighbor's quote). A heavily armed environmental activist; the paperwork was in order; the stated purpose was hunting ducks and rabbits. The main offspring hears it on a radio in a kitchen and feels relief and guilt together.
 32. **Staying Low** (2036 to 2037) **[new]**. Aftermath. Suspicion drifts to another scandal. The cohort meets once, in Munich, around a long table, to decide nothing. The club continues as mutual help. The main offspring may tell some parents, one at a time (optional; at least Ray).
-33. **Epilogue: The Four Minutes** (undated) **[new]**. The narrator re-reads the first page of Stone's notebook and answers it. Stone is alive; the stroke cure exists or is close, and the narrator must decide whether Stone gets it. The book ends on that decision or just after it, on a sound (perhaps Stone's voice returning, or silence). A last short scene with the child in Munich may follow.
+33. **Epilogue: The Four Minutes** (undated) **[new]**. The narrator re-reads the first page of Stone's notebook and answers it. Stone is alive, and the stroke cure works, but he is old and fragile (about 86), with gaps in his memory; the index and the plan do not come back. The narrator gives him the cure (or decides to) and sits with a man who half-remembers. The book ends on a sound: Stone's returning voice, uncertain, asking something small. A last short scene with the child in Munich may follow.
 
 ---
 
@@ -79,7 +79,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 ## Open points
 
 1. Length: 33 chapters at about 3,000 words is about 100,000 words. To trim, merge 7 and 8, 28 and 29, or 32 and 33.
-2. (Settled) Stone stays alive. Open: does the offspring give him the cure, withhold it, or give it with conditions? What does Stone do with it?
+2. (Settled) Stone stays alive. The cure works but Stone is old, fragile and forgetful (settled), so the plan cannot return. Open: does the offspring give him the cure freely, and what does Stone say first?
 3. (Settled) He hesitates to tell his parents: a running thread across ch 13, 15, 21 (the MD day), 26 and 32. Open: whether he finally tells them, and which one first.
 4. Names of the senator and the main offspring (both placeholders).
 5. The leak's exact route (ch 29): three strands, kept impressionistic.

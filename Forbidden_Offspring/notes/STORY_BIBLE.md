@@ -190,7 +190,9 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - Stone stays alive after the stroke, in care, to the end of the book.
 - The main offspring is an MD with a biology and chemistry background and decides to look for a stroke cure.
 - Why it works: it links his profession to the central dilemma. A cure would restore the man who planned to replace humanity, and with him the lost index and the century plan. The offspring must decide whether, and on what terms, Stone gets it. It also echoes the restart decision: he declines to restart Stone's work, yet may be the one who gives Stone back his mind.
-- Possible resolutions to keep open: he withholds it; he gives it with conditions (Stone must stay silent, or must help the cohort); he gives it and Stone's recovered mind turns out to be changed; the cure is public and not his to withhold.
+- Outcome (settled 12 Oct 2026): the cure succeeds, but Stone is by then old and fragile (about 86 in the mid-2030s, since he was 61 in 2011), with gaps in his memory. He recovers speech and some of his mind but not the index, the design logic or the century plan, which stay lost. The dilemma therefore resolves gently and ironically: the man who wanted to replace humanity is handed back a kind of life, but as a frail old man who cannot remember how.
+- What remains open: the offspring still chooses whether to give it, and Stone's recovered fragments can still surprise (a half-remembered detail, a name, a moment of the old arrogance, or something like remorse).
+- Earlier options, kept for reference: he withholds it; he gives it with conditions (Stone must stay silent, or must help the cohort); he gives it and Stone's recovered mind turns out to be changed; the cure is public and not his to withhold.
 - Reality: the training years up to 2026 are private and ordinary; cure research and any public result fall after 2026.
 
 ## Telling the parents (settled 12 Oct 2026)
