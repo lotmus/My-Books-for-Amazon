@@ -61,6 +61,13 @@ place = {
     "Then, one by one, they cracked.": "b39_gosling_boots.jpg",
     Q + "Right," + R + " said Scally, and got up.": "b40_long_way.jpg",
     "The first drop fell, round and heavy": "b41_rain.jpg",
+    '“Shelter!” said Scally.': 'b42_dry_seat.jpg',
+    '“I know that voice,” he said.': 'b43_walt_story.jpg',
+    'But Walt had turned to look at Dumpling': 'b44_scouting.jpg',
+    '“Hal,” he said. “Come here.”': 'b45_brown_water.jpg',
+    'Hal’s mother crouched in front of him': 'b46_mother_rules.jpg',
+    'Walt sat down on the grass beside him.': 'b47_walt_sack.jpg',
+    'Tabitha had said nothing all morning.': 'b48_counting_notes.jpg',
 }
 
 for _k, _v in place.items():
