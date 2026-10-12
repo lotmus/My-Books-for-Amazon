@@ -41,6 +41,10 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 - Existing trial drafts `ch01` to `ch07` keep their file names for now; they will be merged into the new chapters when the manuscript file is built. Expand each scene by adding detail, not plot.
 - No chapter numbers inside the text beyond the chapter headings.
 
+## Status (12 Oct 2026)
+- Working manuscript assembled: `manuscript/Forbidden_Offspring_working_v1.md` (about 15,700 words, roughly 52 pages at 300 words per page). Chapters 1 to 6 are expanded trial drafts (about 1,300 to 2,000 words each); chapters 7 to 20 are short first drafts of 230 to 520 words each, to be expanded later. Target remains 180 pages (about 55,000 words).
+- Source drafts live in `drafts/`; the manuscript is rebuilt from them by a script, so edit the drafts and rebuild.
+
 ## Front and back matter (settled 12 Oct 2026)
 - **Prologue: Consent.** A one-page clinic consent form signed by Ray and Connie Pruitt (1999), authorizing one named correction; 'Other procedures authorized: none.' Draft: `drafts/prologue_consent_v1.md`. The epilogue echoes it with a question of consent (Stone and the cure).
 - **Appendix: The Science Behind the Story.** Inheritance rules, germline versus body cells, gene technology, intelligence and the dolphin package, detection, and a fact-versus-fiction table. Draft: `drafts/appendix_genetics_v1.md`. Facts to re-check are listed at its end. Counts toward the 180 pages (about 5 to 6 pages).
