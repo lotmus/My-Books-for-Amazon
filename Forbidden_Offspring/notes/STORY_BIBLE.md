@@ -91,6 +91,7 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 ## Chapter drafts
 - Ch 1 "Four Minutes": `drafts/ch01_four_minutes_Stone_v1.md`
 - Ch 2 "The Transfer": `drafts/ch02_the_transfer_Stone_v1.md`. Introduces the boy's parents, placeholders: Ray Pruitt (bakery-supply delivery driver) and Connie Pruitt (school cafeteria line cook). A modest-income, low-education home, to seed the friction pattern. Stone adds an unneeded follow-up visit; the six-week-old turns toward a rattling cart in the corridor before it passes (first sign of the dolphin hearing), and Stone feels his first real fear.
+- Ch 3 "Test Time": `drafts/ch03_test_time_Stone_v1.md`. Stone stops visiting (the ch 2 follow-up was a one-off) and watches from far through public records, school newsletters and screeners. Key setting: Stone asks the clinic director for protected after-hours bench time "to refine embryo correction methods" as a cover (settled 12 Oct 2026). This is how the rest of the cohort is made over about eleven years, each with its own parents. The boy is named Danny Pruitt (placeholder). Odd moments are absorbed by the family (tuning flat piano notes, correcting a bakery cashier).
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
