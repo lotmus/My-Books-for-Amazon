@@ -26,17 +26,17 @@ CREAM = (250, 244, 232)
 img = Image.new('RGB', (W, H), CREAM)
 d = ImageDraw.Draw(img)
 
-def ctext(y, txt, f, fill, track=0):
+def ctext(y, txt, f, fill, track=0, stroke=0, stroke_fill=None):
     if track:
         ws = [d.textlength(c, font=f) for c in txt]
         tw = sum(ws) + track * (len(txt) - 1)
         x = (W - tw) / 2
         for c, w in zip(txt, ws):
-            d.text((x, y), c, font=f, fill=fill)
+            d.text((x, y), c, font=f, fill=fill, stroke_width=stroke, stroke_fill=stroke_fill)
             x += w + track
     else:
         tw = d.textlength(txt, font=f)
-        d.text(((W - tw) / 2, y), txt, font=f, fill=fill)
+        d.text(((W - tw) / 2, y), txt, font=f, fill=fill, stroke_width=stroke, stroke_fill=stroke_fill)
 
 # --- flat color block behind the title, instead of a horizon gradient
 d.rectangle([0, 0, W, 980], fill=MUSTARD)
@@ -44,8 +44,10 @@ d.rectangle([0, 0, W, 980], fill=MUSTARD)
 fb = font('Baloo2/Baloo2-VariableFont_wght.ttf', 190, 'Bold')
 fm = font('Baloo2/Baloo2-VariableFont_wght.ttf', 100, 'Bold')
 ctext(120, 'THE DOLPHINS’', fm, NAVY, track=2)
-ctext(250, 'VIEW OF', fm, CREAM, track=6)
-ctext(430, 'HISTORY', fb, CORAL, track=2)
+# was cream-on-mustard, the weakest-contrast line on the page at thumbnail size; now navy like the line above it
+ctext(250, 'VIEW OF', fm, NAVY, track=6)
+# coral with a navy stroke so HISTORY still reads at grayscale/thumbnail size, not just in full color
+ctext(430, 'HISTORY', fb, CORAL, track=2, stroke=4, stroke_fill=NAVY)
 
 fi = font('Nunito/Nunito-Italic-VariableFont_wght.ttf', 56, 'SemiBold')
 ctext(760, 'Fifty Million Years of', fi, NAVY)
@@ -71,14 +73,14 @@ ex, ey = 0.845, 0.035
 X = (ex - 0.5) * L; Y = ey * L
 gx, gy = cx + X * c - Y * s_, cy - (X * s_ + Y * c)
 # lens centers set back along the body axis (local -x), offset slightly for a jaunty tilt
-d1 = (-0.085 * L, 0.0); d2 = (-0.16 * L, 0.012 * L)
+d1 = (-0.085 * L, 0.0); d2 = (-0.177 * L, 0.012 * L)
 def rot(vx, vy):
     return (gx + vx * c - vy * s_, gy - (vx * s_ + vy * c))
 l1 = rot(*d1); l2 = rot(*d2)
-r = 34
+r = 47  # was 34 - too small to read as glasses at Amazon thumbnail size; scaled up ~38%
 for lx, ly in (l1, l2):
-    d.ellipse([lx - r, ly - r, lx + r, ly + r], outline=CREAM, width=9)
-d.line([l1[0] - r, l1[1], l2[0] + r, l2[1]], fill=CREAM, width=7)
+    d.ellipse([lx - r, ly - r, lx + r, ly + r], outline=CREAM, width=13)
+d.line([l1[0] - r, l1[1], l2[0] + r, l2[1]], fill=CREAM, width=10)
 
 # --- author block
 fa = font('Baloo2/Baloo2-VariableFont_wght.ttf', 92, 'Bold')
