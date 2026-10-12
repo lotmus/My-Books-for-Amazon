@@ -10,31 +10,36 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 - Career timeline: school and biology/chemistry degree by about 2021; medical school to the MD by about 2026 (private, before the reality line); research and clinical work after 2026 (future).
 - Central tension: a stroke cure would give the creator back his mind and his index. The man the offspring has decided not to follow could become able to restart the century plan. He must decide what to do with a cure he has found.
 
-## Length and chapter count (settled 12 Oct 2026): 180 pages, 15 chapters
+## Length and chapter count (settled 12 Oct 2026): 180 pages, 20 chapters
 - At about 300 words per 6x9 page, 180 pages is about 54,000 words (a rough guide; the final page count depends on font, spacing and chapter breaks, and Kindle shows its own page numbers). Aim for 55,000 words.
-- Lothar wants fewer chapter numbers. The book therefore has **15 chapters of about 3,600 words each**, with unnumbered scene breaks inside a chapter. The detailed 33-item list below is now a **scene list**: each old item is a scene, grouped into the 15 chapters here.
+- Lothar wants fewer chapter numbers than the 33 first planned, and chose 20 (15 was proposed first). The book therefore has **20 chapters of about 2,750 words each**, with unnumbered scene breaks inside a chapter. The detailed 33-item list below is a **scene list**, grouped into the 20 chapters here.
 
-**Part One: Stone** (5 chapters)
+**Part One: Stone** (7 chapters)
 1. **Four Minutes** = old 1 + 2 (the window, the transfer, the birth, the first sign).
-2. **Test Time** = old 3 + 6 + 7 (watching from afar, the bench time, the ledger of the century plan, the cohort).
-3. **The Second Listener** = old 4 + 5 (the swim meet, the tremor, the Singapore manuscript, the notebook begins).
-4. **The Apartment** = old 8 + 9 + 10 (the Pruitts at dinner, the confrontation, the bargain).
-5. **The Stroke** = old 11 + 12 (the last batch, the stroke, Part One ends).
+2. **Test Time** = old 3 (watching from afar, consented tests, the bench time).
+3. **The Ledger** = old 6 + 7 (the century plan, the cohort).
+4. **The Second Listener** = old 4 + 5 (the swim meet, the tremor, the Singapore manuscript, the notebook begins).
+5. **The Apartment** = old 8 + 9 (the Pruitts at dinner, the confrontation).
+6. **The Bargain** = old 10 + 11 (the terms, the last batch).
+7. **The Stroke** = old 12 (the clinic floor, the lost index, Part One ends).
 
-**Part Two: The Offspring** (10 chapters)
-6. **The Notebook** = old 13 + 14 (finding it, visiting hours, first attempt to tell his parents, the turn toward medicine).
-7. **Odd Moments** = old 15 + 16 (the family years, the search for the cohort).
-8. **The Phonetician** = old 17 + 18 (the linguist and the engineer).
-9. **Under Cover** = old 19 + 20 + 21 (the laureate, the senator, the quiet majority, the club).
-10. **Munich** = old 22 + 23 (the move in 2027, the laureate's published breakthrough).
-11. **The Prize** = old 24 + 25 (the senator works it out, the Nobel in 2029).
-12. **The Child** = old 26 + 27 (the visit to Munich, the restart decision).
-13. **More Than Enough** = old 28 + 29 + 30 (genomes out, the cure research, the leak, the denial).
-14. **Duck and Rabbit** = old 31 + 32 (the assassination, staying low).
-15. **The Four Minutes** = old 33 (the cure given, the old man, the sound).
+**Part Two: The Offspring** (13 chapters)
+8. **The Notebook** = old 13 + 14 (finding it, visiting hours, the turn toward medicine, the first attempt to tell his parents).
+9. **Odd Moments** = old 15 (the family years).
+10. **The Search** = old 16 (tracing the cohort).
+11. **The Phonetician** = old 17 + 18 (the linguist and the engineer).
+12. **Under Cover** = old 19 + 20 + 21 (the laureate, the senator, the quiet majority, the club).
+13. **Munich** = old 22 + 23 (the move in 2027, the laureate's published breakthrough).
+14. **The Prize** = old 24 + 25 (the senator works it out, the Nobel in 2029).
+15. **The Child** = old 26 (the visit to Munich).
+16. **Restart** = old 27 (the decision).
+17. **More Than Enough** = old 28 (genomes out, the cure research).
+18. **The Leak** = old 29 + 30 (the leak, the denial).
+19. **Duck and Rabbit** = old 31 + 32 (the assassination, staying low).
+20. **The Four Minutes** = old 33 (the cure given, the old man, the sound).
 
 - Existing trial drafts `ch01` to `ch07` keep their file names for now; they will be merged into the new chapters when the manuscript file is built. Expand each scene by adding detail, not plot.
-- Chapter titles may repeat a sound or object as a motif; no chapter numbers inside the text beyond the chapter headings.
+- No chapter numbers inside the text beyond the chapter headings.
 
 ---
 
@@ -104,7 +109,7 @@ Voice: first person, past tense, deadpan, precise, with sound and timing detail 
 
 ## Open points
 
-1. Length: settled at 180 pages and 15 chapters (see the section above).
+1. Length: settled at 180 pages and 20 chapters (see the section above).
 2. (Settled) Stone stays alive. The cure works but Stone is old, fragile and forgetful (settled), so the plan cannot return. Open: does the offspring give him the cure freely, and what does Stone say first?
 3. (Settled) He hesitates to tell his parents: a running thread across ch 13, 15, 21 (the MD day), 26 and 32. Open: whether he finally tells them, and which one first.
 4. Names of the senator and the main offspring (both placeholders).
