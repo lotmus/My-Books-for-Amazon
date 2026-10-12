@@ -134,12 +134,13 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Tone: dry and understated; the violence is offstage and reported, not staged.
 - Fits the existing line: secrecy survives only while every carrier chooses it, and the leak now tests that choice.
 
-## Timeline (proposed 12 Oct 2026, pending approval)
+## Timeline (start settled 12 Oct 2026: option 1, fictional leap; the senator-age fix is still pending)
 - Stone's work begins around 1999; the first subject is born on 1 January 2000 (proposed; ch 2 currently says spring and three weeks early, so it needs a light edit). IVF conception would fall around April 1999.
 - Boy at 8: 2008 (tremor, ch 4). At 11: 2011 (apartment scene; ch 1 closing line). At about 12: 2012 (major stroke, ends Part One).
 - Nobel at 25: 2025. State senator at 27: 2027. US senator at 30 or later: 2030+. Presidential run at 35 or later: 2035+. The leak and the assassination: about 2035-2038.
 - Problem to decide: precise multi-locus embryo editing in 1999 is far ahead of real science (CRISPR editing in human embryos was first reported in 2015). Options: (a) accept it as a fictional leap, since Stone is a secret genius and the science stays vague; (b) make it a deliberate alternate history; (c) move the start to about 2015-2018 and shift every later date by 15-18 years (the senator, president and assassination then fall around 2050+).
-- The senator is invented, so the dates stay fictional whichever option is chosen.
+- Decided: option (a). Stone's work is secret, so he can use CRISPR-like methods years before the public science exists. The book never names or explains the method. If the secrecy is ever questioned, Stone can say that nothing he did was ever published, and that is part of why it was a felony. The first subject is born 1 January 2000 (pending the ch 2 edit).
+- The senator is invented, so the dates stay fictional.
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
