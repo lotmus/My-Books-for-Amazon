@@ -6,7 +6,7 @@ Draft written 11 Oct 2026. Claims are limited to what the book actually does. It
 - **Title:** The Wee Scallywag and the Gentle Elf
 - **Subtitle (suggestion):** A Fantasy Adventure with Real Science, for Curious Children Ages 6 to 9
 - **Series:** The Step Stories, Book 1
-- **Author field:** CHECK. The cover and title page say Otis Umberlight. Other pen-name books use "Lothar J. Musiol writing as X" (Q.E.D. pattern, decided 2 Oct 2026). Suggested: Author = Lothar J. Musiol; Contributor = Otis Umberlight. The About the Author page already says "Otis Umberlight is a pen name of Lothar J. Musiol".
+- **Author field:** Anneliese Tauber (pen name; same persona as Bavarian Cooking Made Simple, a Bavarian mother of four). Lothar's real name appears nowhere in the book or listing, as for Bavarian Cooking. CHECK: KDP will want the legal name on the account only.
 
 ## Description (about 170 words)
 **The wheel has stopped. The village has no flour. And the cheekiest boy in the valley has just stolen Hal's boots.**
