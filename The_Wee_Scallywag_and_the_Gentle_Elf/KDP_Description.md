@@ -4,7 +4,7 @@ Draft written 11 Oct 2026. Claims are limited to what the book actually does. It
 
 ## Title and series
 - **Title:** The Wee Scallywag and the Gentle Elf
-- **Subtitle (suggestion):** A Fantasy Adventure with Real Science, for Curious Children Ages 6 to 9
+- **Subtitle (suggestion):** A Fantasy Adventure with Real Science, for Curious Children Ages 5 to 9
 - **Series:** The Step Stories, Book 1
 - **Author field:** Anneliese Tauber (pen name; same persona as Bavarian Cooking Made Simple, a Bavarian mother of four). Lothar's real name appears nowhere in the book or listing, as for Bavarian Cooking. CHECK: KDP will want the legal name on the account only.
 
@@ -18,16 +18,16 @@ Every fact Hopsi the elf states is true, and every bit of magic is marked as mag
 Includes ten experiments to try and a guide for parents and teachers.
 
 ## What is in the book (use in A+ or the look-inside)
-- 11 chapters, about 10,500 words, 20 painted illustrations; read-aloud for ages 6 to 9, or a first chapter book for ages 8 to 10.
+- 11 chapters, about 10,600 words, 51 painted illustrations (the pictures tell the whole story, so non-readers from age 5 can follow it); read-aloud for ages 5 to 9, or a first chapter book for ages 8 to 10.
 - "Hopsi's True Things": 17 short fact and experiment notes.
 - "For Parents and Teachers": the scientist's habits the story models, what each chapter teaches, a safety section, and discussion questions.
 
 ## Age and reading
-- Age range: 6 to 9 (read-aloud); grade 1 to 4. CHECK against KDP's options.
+- Age range: 5 to 9 (read-aloud from 5; the pictures tell the whole story without reading); grade K to 4. CHECK against KDP's options.
 - Language: English (British spelling).
 
 ## Keywords (7 slots, suggestions)
-1. children's science fantasy book ages 6 to 9
+1. children's science fantasy picture and chapter book ages 5 to 9
 2. STEM adventure story for kids read aloud
 3. elf and ghost chapter book for children
 4. kids book about stranger danger and fire safety
