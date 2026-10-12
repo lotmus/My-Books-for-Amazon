@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v1.txt"
+STORY_FILE = "Book2_Story_v2.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -369,6 +369,7 @@ pagebreak()
 heading("Also by Anneliese Tauber", 1, "alsoby")
 centered("The Wee Scallywag and the Gentle Elf", 15, True, after=4)
 centered("The Step Stories, Book 1. Where Scally first met Hal, Hopsi and a ghost in a mill.", 12, italic=True, after=14)
+centered("Book 3 of The Step Stories is coming soon.", 12, italic=True, after=14)
 centered("Bavarian Cooking Made Simple", 15, True, after=4)
 centered("Classic dishes from a Bavarian kitchen, written so that any cook can enjoy a taste of Bavaria.", 12, italic=True)
 toc_link()

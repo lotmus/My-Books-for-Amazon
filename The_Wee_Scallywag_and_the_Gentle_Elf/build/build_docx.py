@@ -12,7 +12,7 @@ SERIES = "The Step Stories"
 TITLE1, TITLE2 = "The Wee Scallywag", "and the Gentle Elf"
 AUTHOR = "Anneliese Tauber"
 
-STORY_FILE = "Book1_Story_v11.txt"
+STORY_FILE = "Book1_Story_v12.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 raw = open(os.path.join(B, "Step_Stories_Texts", STORY_FILE), encoding="utf-8").read()
 body = raw[raw.index("Chapter 1."):]
@@ -278,7 +278,7 @@ def add_text_with_links(par, text):
 
 chapters = [b.split("\n")[0] for b in blocks if b.startswith("Chapter ")]
 TOC = [("Meet the Characters", "cast")] + [(c, "ch%d" % (i + 1)) for i, c in enumerate(chapters)] + [
-    ("Coming Next: Book 2", "next"), ("Hopsi\u2019s True Things", "true"), ("For Parents and Teachers", "guide"), ("About the Author", "about"), ("Also by Anneliese Tauber", "alsoby")]
+    ("Next in the Series", "next"), ("Hopsi\u2019s True Things", "true"), ("For Parents and Teachers", "guide"), ("About the Author", "about"), ("Also by Anneliese Tauber", "alsoby")]
 
 # cover (inline, ~1000x1600)
 sec.top_margin = sec.bottom_margin = Inches(0.2)
@@ -346,16 +346,15 @@ for b in blocks:
         centered("The End", 18, True).paragraph_format.space_before = Pt(18)
         toc_link()
         pagebreak()
-        heading("Coming Next", 1, "next")
-        centered("The Step Stories, Book 2", 14, italic=True, after=6)
+        heading("Next in the Series", 1, "next")
+        centered("The Step Stories, Book 2: out now", 14, italic=True, after=6)
         centered("Scally and the Sleepless Stream", 26, True, color=RGBColor(0xA8, 0x4B, 0x2A), after=18)
         for line in [
-            "The mill wheel is turning. The three white stones still keep their line. The way back to the step is open.",
-            "But a boy in the pond winked. A small brown bird will not leave. And the rectangular eggs in the long grass are not all hatched.",
+            "The mill wheel is turning. The three white stones still keep their line. But a boy in the pond winked, a small brown bird will not leave, and the rectangular eggs in the long grass are not all hatched.",
             "Hal, Scally, Hopsi, Titch, Tabitha and Gucci set out along the stream, on a path none of them has walked before, to find where the water goes and what else is true.",
-            "Coming soon.",
+            "Book 2 is ready for you now. Book 3 is coming soon.",
         ]:
-            centered(line, 14, italic=(line == "Coming soon."), after=12)
+            centered(line, 14, italic=(line.startswith("Book 2 is ready")), after=12)
         toc_link()
         pagebreak()
         continue
@@ -477,6 +476,8 @@ centered("If your child enjoyed this book, a short, kind review on Amazon helps 
 toc_link()
 pagebreak()
 heading("Also by Anneliese Tauber", 1, "alsoby")
+centered("Scally and the Sleepless Stream", 15, True, after=4)
+centered("The Step Stories, Book 2. Hal, Scally and Hopsi follow the stream to find where the water goes.", 12, italic=True, after=14)
 centered("Bavarian Cooking Made Simple", 15, True, after=6)
 centered("Classic dishes from a Bavarian kitchen, written so that any cook can enjoy a taste of Bavaria.", 12, italic=True)
 toc_link()
