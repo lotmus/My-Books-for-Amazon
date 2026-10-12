@@ -12,7 +12,7 @@ SERIES = "The Step Stories"
 TITLE1, TITLE2 = "The Wee Scallywag", "and the Gentle Elf"
 AUTHOR = "Anneliese Tauber"
 
-STORY_FILE = "Book1_Story_v8.txt"
+STORY_FILE = "Book1_Story_v9.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 raw = open(os.path.join(B, "Step_Stories_Texts", STORY_FILE), encoding="utf-8").read()
 body = raw[raw.index("Chapter 1."):]
@@ -58,7 +58,7 @@ place = {
     'Afterwards Hal could not sleep.': 'c07a_apology.jpg',
     'She had slept on a pile of sacks': 'c08b_gucci_crust.jpg',
     '“They are all different,” said Hopsi at last.': '22_flowers_welcome.jpg',
-    '“She is right,” said Hopsi. “Think of a bath': 'c08c_tides.jpg',
+    '“Gran says the Moon pulls on the sea': 'c08c_tides.jpg',
     'A tall figure stood at the end of the road.': '10_fog_stranger.jpg',
     '“I did it,” said Scally.': 'd06_confession.jpg',
     '“You tell the truth when it’s funny,” said Hopsi quietly.': 'd09_bog_fall.jpg',
@@ -223,11 +223,11 @@ LINKS = [  # (item number, exact phrase in the story, first occurrence only)
     (2, 'That is sunlight coming apart'),
     (3, 'Think of a recipe'),
     (4, 'A green grasshopper on green grass'),
-    (5, 'Push a barrow off the path'),
+    (5, 'It is like a barrow'),
     (6, 'A lifeguard on the beach'),
     (7, 'Walls are not as solid as they look'),
     (8, 'The Moon makes no light of its own'),
-    (9, 'Think of a bath full of water'),
+    (9, 'The sea piles up under it'),
     (10, 'A mirror turns writing round'),
     (11, 'Sunlight is eight minutes old'),
     (12, 'a fire needs three things'),
