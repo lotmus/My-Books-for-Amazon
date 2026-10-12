@@ -124,6 +124,14 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Consequence: the genomes being out and the carriers having plenty of offspring means Stone's century plan is, in part, proceeding without him, by ordinary reproduction. The book can leave open whether that is the same thing as his plan.
 - Keep it impressionistic: scale, ambition and moral weight, with no methods, numbers or procedures that could work as instructions.
 
+## Ending movement: the leak (settled 12 Oct 2026)
+- The story leaks: the world learns that edited people exist, without names. Then the senator is assassinated. The public never learns that he was one of them.
+- The other carriers are glad that no one knows. Public suspicion spreads: people wonder whether anyone exceptional could be one of them. Staying low is therefore better, and the quiet majority is confirmed in its choice.
+- The laureate (male) denies it, says he was just lucky, doing the right research at the right time. His denial is both protective and a small lie that costs him something.
+- Open and needing care: (1) who assassinates the senator (unknown, a lone actor, an opponent, a carrier, or never solved); it should not be the main offspring, to keep his restraint theme intact, unless that is a deliberate twist; (2) the carriers' gladness is morally uncomfortable, and the main offspring may feel it too, which is a good note for his final chapters (relief and guilt together); (3) what exactly leaks, and how, kept impressionistic; (4) whether the leak comes from Stone's account, the Singapore-type findings, or a carrier's slip.
+- Tone: dry and understated; the violence is offstage and reported, not staged.
+- Fits the existing line: secrecy survives only while every carrier chooses it, and the leak now tests that choice.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
