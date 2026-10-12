@@ -134,6 +134,8 @@ This is their story, as told by the neighbors.
 
 A note on sources, for readers wondering how a dolphin knows anything about the Roman Senate. Dolphins have no libraries. They have coastlines, and coastlines are where humans do their loudest talking. Sailors read aloud, harbors gossip, and for several thousand years nearly everything the species knew about itself was, at some point, shouted across water. More recently there has been the habit of playing the radio on deck. Where the record is thin, the dolphins say so. Where it is disputed, they say that too, and try not to pick a side merely to sound decisive. Where the evidence runs out entirely, they have been known to guess, and to label the guess as one.
 
+A harder question, which several members of the Society raised and none could fully answer, is how a species with no libraries ends up footnoting a 2017 paper in Nature. The honest account is less romantic than radios on deck: once the Society started writing this down properly, it did what any institution does when it wants to be taken seriously, and went and read the journals, same as anyone else with an ocean's worth of patience and nothing else scheduled. The harbor gossip got them interested. It did not, on its own, get them a citation for the encephalization quotient.
+
 Such matters are settled by the International Dolphin Historical Society, which the reader will meet from time to time as the Society, and whose votes are complicated by the fact that dolphins sleep one half of the brain at a time, so that any decision is technically taken by a quorum of the half-awake.
 
 The dolphins have been watching the land for a very long time.
@@ -584,15 +586,19 @@ Buddhism, arising in the 5th or 6th century BCE from the teachings of Siddhartha
 
 Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a persecuted minority faith before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-persecuted movement had, within seventy years of being legalized, become the state's own faith.
 
+The faith did not stay one thing for long. Centuries of accumulated disagreement over doctrine, ritual, and who answered to whom came to a formal head in 1054, when the churches of Rome and Constantinople excommunicated each other's leaders in what historians call the Great Schism, splitting Christianity into its Western Catholic and Eastern Orthodox halves, a division the two sides would not formally revoke until 1965 and have still not fully healed. A faith organized enough to convert an empire was also, it turned out, organized enough to split one.
+
 Islam, founded in the 7th century CE following the teachings of the prophet Muhammad in Mecca and Medina, spread with even greater speed: within a century of Muhammad's death in 632 CE, Islamic rule extended from the Iberian Peninsula to the borders of India. The expansion combined religious conviction, military organization, and, in many conquered regions, terms that were tolerant by the standards of the age: Christians and Jews could keep their faith as protected, subordinate communities if they paid a special tax. The Quran itself was compiled into a single standardized written text under Caliph Uthman around 650 CE, about two decades after Muhammad's death, drawing on both memorized recitation and scattered written fragments. It is the same pattern this book keeps finding underneath its founding scriptures: a period of spoken transmission, then a deliberate, human act of writing it down before living memory of the source could fade.
 
 Each faith, once established, did two jobs at the same time: it organized how believers should live, and it organized armies, tax systems, and successions in the believers' names. This is not cynicism.
 
-While Western Europe, after Rome's western half fell, entered the fragmented centuries the next chapter discusses, the Islamic world entered what historians call its Golden Age: Baghdad's House of Wisdom, from the 8th century onward, translated and extended Greek philosophy and mathematics (algebra takes its name from al-Khwarizmi's 9th-century treatise). Scholars across the Islamic world advanced medicine, optics, and astronomy well beyond what Rome had left behind.
+Christianity's own version of that second job produced a fight over who, exactly, was in charge of it. The Investiture Controversy, running from 1076 to 1122, pitted the Holy Roman Emperor against the Pope over whether a king or the Church got to appoint bishops, and therefore who ultimately answered to whom. In 1077, Emperor Henry IV, excommunicated and politically cornered, walked to the Italian castle of Canossa and stood barefoot in the snow for three days until Pope Gregory VII agreed to receive him; the phrase "going to Canossa" entered several European languages as shorthand for public humiliation. The underlying argument, settled by compromise in 1122, never really ended; it only changed which century's crown and which century's clergy were having it.
+
+While Western Europe, after Rome's western half fell, entered the fragmented centuries the next chapter discusses, the Islamic world entered what historians call its Golden Age: Baghdad's House of Wisdom, from the 8th century onward, translated and extended Greek philosophy and mathematics (algebra takes its name from al-Khwarizmi's 9th-century treatise). Scholars across the Islamic world advanced medicine, optics, and astronomy well beyond what Rome had left behind, among them the Persian polymath Avicenna, whose medical encyclopedia remained a standard European medical school text for roughly six centuries, and the Andalusian philosopher Averroes, whose commentaries on Aristotle reintroduced Greek philosophy to a Western Europe that had largely lost direct access to it.
 
 The Crusades, beginning in 1095 when Pope Urban II called for a military campaign to reclaim Jerusalem, ran in waves for close to two centuries. Without euphemism, they were religious conviction, real and widely shared among participants, fused to land claims, trade route control, and, in the notorious Fourth Crusade of 1204, the outright sack of Constantinople, a Christian city, by a Christian army meant to be fighting someone else entirely.
 
-Jerusalem changed hands several times across the Crusading period; none of the Crusader states it produced lasted much past 1291.
+Jerusalem changed hands several times across the Crusading period. Its most consequential loss, for the Crusader side, came in 1187, when the Kurdish Muslim general Saladin defeated the Crusader army at the Battle of Hattin and retook the city after eighty-eight years of Crusader rule; accounts on both sides noted that he spared the Christian population rather than repeating the massacre the First Crusade had inflicted on Jerusalem's residents in 1099. None of the Crusader states the campaigns produced lasted much past 1291.
 
 What outlasted the fighting was the contact: increased trade, translated texts, and exposure to Islamic scholarship's advances flowing back into a Western Europe that would draw on them heavily once its own universities began forming in the 12th and 13th centuries.
 
@@ -2294,9 +2300,15 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The early Islamic conquests.* Kennedy, Hugh. The Great Arab Conquests. London: Weidenfeld & Nicolson, 2007.
 
-*The translation movement in Baghdad.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+*The translation movement in Baghdad; Avicenna and Averroes reaching Europe.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+
+*The Great Schism of 1054.* Chadwick, Henry. East and West: The Making of a Rift in the Church. Oxford: Oxford University Press, 2003.
+
+*The Investiture Controversy and Canossa.* Blumenthal, Uta-Renate. The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century. Philadelphia: University of Pennsylvania Press, 1988.
 
 *The Crusades.* Riley-Smith, Jonathan. The Crusades: A History. 3rd ed. London: Bloomsbury, 2014.
+
+*Saladin's retaking of Jerusalem, 1187.* Phillips, Jonathan. The Life and Legend of the Sultan Saladin. New Haven: Yale University Press, 2019.
 
 *The sack of Constantinople, 1204.* Phillips, Jonathan. The Fourth Crusade and the Sack of Constantinople. New York: Viking, 2004.
 
