@@ -18,7 +18,7 @@ Numbers that size stop meaning anything, so here is one man. In Siena, where the
 
 Much of the Black Death's itinerary was maritime, as dolphins watching a great many Genoese ships go by could have told anyone. Rats have always made excellent passengers and terrible guests, though recent studies suggest that in many European outbreaks the disease spread more through human fleas and lice than through rats.
 
-*“Humans built the first genuinely continental trade network,” dolphin historians noted, “and were unpleasantly surprised to learn that a market open to silk is also open to everything else that hitches a ride.”*
+*“Humans built the first genuinely continental trade network,” one dolphin scholar observed, “and were unpleasantly surprised to learn that a market open to silk is also open to everything else that hitches a ride.”*
 
 The Mongol empire itself broke into rival khanates within a few generations, and China's Ming dynasty drove the Mongols out in 1368. The connections survived both. Within a century the same goods, and the same germs, were finding faster ways to travel, by sea.
 

@@ -18,7 +18,7 @@ The same state apparatus that ran the purges and the camps also drove rapid indu
 
 A shorter accounting would flatten out the other half: the Soviet Union also paid the highest cost, by a wide margin, of any Allied power in defeating Nazi Germany. Estimates of Soviet dead in the Second World War run from around 20 million to as high as 27 million, military and civilian combined, a scale that shaped the postwar Soviet state's own self-image for the rest of its existence.
 
-*“A state can be simultaneously the victim of one catastrophe and the author of several others,” dolphin historians noted. “This chapter is where that fact is hardest to look away from.”*
+*“A state can be simultaneously the victim of one catastrophe and the author of several others,” Professor Click-Click-Whoosh observed. “This chapter is where that fact is hardest to look away from.”*
 
 Unlike postwar Germany, Japan, and Italy, the Soviet Union's course correction did not arrive on the heels of external defeat. It came gradually, unevenly, and only after decades: Nikita Khrushchev's 1956 speech denouncing Stalin's crimes before the party's own congress; a slow, incomplete thaw through the following decades; and finally Mikhail Gorbachev's reforms of glasnost and perestroika in the 1980s, which loosened the state's grip faster than the state itself could survive the loosening. The Soviet Union dissolved in 1991, nearly seventy years after its founding.
 

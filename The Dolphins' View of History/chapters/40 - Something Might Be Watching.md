@@ -22,7 +22,7 @@ More recently, US military encounters with unidentified aerial phenomena, offici
 
 The evidence settles none of this, but the shape of the underlying hope is plain: across religion, mythology, and now astrophysics, this species keeps reaching for the idea that something larger, wiser, or simply other is paying attention.
 
-*“Humans have proposed gods, ancestors, angels, and now radio-quiet aliens as the audience for their own story,” dolphin historians noted. “Dolphin scholarship can confirm exactly one item on that list with any confidence. We have, in fact, been watching. We would gently note that we are considerably less impressive than most of the other candidates.”*
+*“Humans have proposed gods, ancestors, angels, and now radio-quiet aliens as the audience for their own story,” the Society recorded. “Dolphin scholarship can confirm exactly one item on that list with any confidence. We have, in fact, been watching. We would gently note that we are considerably less impressive than most of the other candidates.”*
 
 **Dolphin verdict:**
 
