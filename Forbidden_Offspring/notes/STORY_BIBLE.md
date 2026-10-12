@@ -1,6 +1,6 @@
 # The Edit (working title)
 
-**Author (working):** Gene Crisp. Pen name not yet settled in `notes/LOTHAR_RULES.md`.
+**Pen name:** Frank Stone (set by Lothar, 12 Oct 2026). Not yet recorded in `notes/LOTHAR_RULES.md`. The scientist character is also named Frank Stone.
 **Scientist:** Frank Stone
 **Spelling:** American English
 **Status:** story bible only, no manuscript yet (12 Oct 2026)
@@ -53,7 +53,7 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Twist extension: staged loss, second unindexed pair, boy already holding the missing map fragment.
 
 ## Open decisions
-1. Pen name and Also-by/About the Author treatment.
+1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. Final title and folder name.
 3. POV: boy first person, close third, or mixed.
 4. A concrete external threat or deadline (the Singapore papers, a regulator, a leak) to give the quiet plot a clock.
