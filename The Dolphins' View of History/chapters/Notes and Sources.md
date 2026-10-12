@@ -168,9 +168,15 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The early Islamic conquests.* Kennedy, Hugh. The Great Arab Conquests. London: Weidenfeld & Nicolson, 2007.
 
-*The translation movement in Baghdad.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+*The translation movement in Baghdad; Avicenna and Averroes reaching Europe.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+
+*The Great Schism of 1054.* Chadwick, Henry. East and West: The Making of a Rift in the Church. Oxford: Oxford University Press, 2003.
+
+*The Investiture Controversy and Canossa.* Blumenthal, Uta-Renate. The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century. Philadelphia: University of Pennsylvania Press, 1988.
 
 *The Crusades.* Riley-Smith, Jonathan. The Crusades: A History. 3rd ed. London: Bloomsbury, 2014.
+
+*Saladin's retaking of Jerusalem, 1187.* Phillips, Jonathan. The Life and Legend of the Sultan Saladin. New Haven: Yale University Press, 2019.
 
 *The sack of Constantinople, 1204.* Phillips, Jonathan. The Fourth Crusade and the Sack of Constantinople. New York: Viking, 2004.
 

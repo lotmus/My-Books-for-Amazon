@@ -10,6 +10,8 @@ This is their story, as told by the neighbors.
 
 A note on sources, for readers wondering how a dolphin knows anything about the Roman Senate. Dolphins have no libraries. They have coastlines, and coastlines are where humans do their loudest talking. Sailors read aloud, harbors gossip, and for several thousand years nearly everything the species knew about itself was, at some point, shouted across water. More recently there has been the habit of playing the radio on deck. Where the record is thin, the dolphins say so. Where it is disputed, they say that too, and try not to pick a side merely to sound decisive. Where the evidence runs out entirely, they have been known to guess, and to label the guess as one.
 
+A harder question, which several members of the Society raised and none could fully answer, is how a species with no libraries ends up footnoting a 2017 paper in Nature. The honest account is less romantic than radios on deck: once the Society started writing this down properly, it did what any institution does when it wants to be taken seriously, and went and read the journals, same as anyone else with an ocean's worth of patience and nothing else scheduled. The harbor gossip got them interested. It did not, on its own, get them a citation for the encephalization quotient.
+
 Such matters are settled by the International Dolphin Historical Society, which the reader will meet from time to time as the Society, and whose votes are complicated by the fact that dolphins sleep one half of the brain at a time, so that any decision is technically taken by a quorum of the half-awake.
 
 The dolphins have been watching the land for a very long time.
