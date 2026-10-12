@@ -206,6 +206,7 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - In the epilogue it emerges that scientists in China have independently come up with the same method Stone used. His work is no longer unique or secret to him, and the offspring's decision not to restart it is overtaken again, as the genomes-are-out thread already suggests.
 - It pays off Stone's fear in ch 4/5 ('I was not the only person who had ever done this') and the Singapore manuscript, and it answers the question of whether it is the same as his plan with: the world is going there regardless.
 - Handling: an unnamed research team, invented, not a real group or person. Frame it as parallel invention, not as a hostile state project, and do not turn a real country into a villain; the senator and the assassin already carry the book's American irony, so keep the tone even-handed. It can be reported flatly (a preprint, a news item, a line from the laureate). Future event, so no reality-rule problem. Nothing technical about the method.
+- Decided 12 Oct 2026: no American scientist is linked to the Chinese team, and no individual villain is added. The China mention stays short and flat (a line or two); its force comes from leaving it unexplained.
 - Possible final beat: the narrator reads the announcement beside Stone's bed; Stone, half-remembering, says one small thing.
 
 ## Open decisions
