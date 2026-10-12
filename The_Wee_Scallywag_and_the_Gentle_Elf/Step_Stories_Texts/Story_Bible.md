@@ -8,7 +8,8 @@ Rule for pictures: describe each character exactly as below every time, with the
 
 ## The children
 
-### Hal Millersen (8, human boy)
+### Hal (Halbert) Millersen (8, human boy)
+- **Name:** Halbert, called Hal by everyone. Only the ghost uses the full name.
 - **Looks:** Brown, tousled hair that never lies flat. Freckles. A slate in the crook of one arm. Patched blue jacket, brown trousers, sturdy old boots (he lost these in the bargain, and wears mended ones after).
 - **Voice:** Level and dry. Short sentences. He says "Acceptable" when things are bad and "Done" when they are good.
 - **Smell:** Flour dust, chalk and wet wool.
