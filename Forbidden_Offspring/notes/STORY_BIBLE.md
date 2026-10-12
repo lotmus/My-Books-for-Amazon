@@ -184,6 +184,8 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - The earlier voice-test scene (`drafts/scene_apartment_boy_POV_v1.md`) said two others hear what he hears; corrected to one.
 - Still to settle: the timing of the visit to Munich.
 
+- Ch 6 "The Ledger": `drafts/ch06_the_ledger_Stone_v1.md`. Stone states his aim (replace us, politely, over a century), the four stages (seeding, long dull generations kept heterozygous, the turn when the odds flip, arithmetic), three risks (detection, the children, being wrong about himself), and why the paper index in a vault is his single point of failure. No methods or numbers. Established: a grandchild-like generation is a 'bank' figure of speech, since he has no children.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
