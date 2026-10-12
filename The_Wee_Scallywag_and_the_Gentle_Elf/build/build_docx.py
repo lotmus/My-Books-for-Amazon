@@ -282,7 +282,7 @@ def add_text_with_links(par, text):
 
 chapters = [b.split("\n")[0] for b in blocks if b.startswith("Chapter ")]
 TOC = [("Meet the Characters", "cast")] + [(c, "ch%d" % (i + 1)) for i, c in enumerate(chapters)] + [
-    ("Hopsi\u2019s True Things", "true"), ("For Parents and Teachers", "guide"), ("About the Author", "about"), ("Also by Anneliese Tauber", "alsoby")]
+    ("Coming Next: Book 2", "next"), ("Hopsi\u2019s True Things", "true"), ("For Parents and Teachers", "guide"), ("About the Author", "about"), ("Also by Anneliese Tauber", "alsoby")]
 
 # cover (inline, ~1000x1600)
 sec.top_margin = sec.bottom_margin = Inches(0.2)
@@ -348,6 +348,18 @@ for b in blocks:
         continue
     if b == "The End":
         centered("The End", 18, True).paragraph_format.space_before = Pt(18)
+        toc_link()
+        pagebreak()
+        heading("Coming Next", 1, "next")
+        centered("The Step Stories, Book 2", 14, italic=True, after=6)
+        centered("A New Path", 30, True, color=RGBColor(0xA8, 0x4B, 0x2A), after=18)
+        for line in [
+            "The mill wheel is turning. The three white stones still keep their line. The way back to the step is open.",
+            "But a boy in the pond winked. A small brown bird will not leave. And the rectangular eggs in the long grass are not all hatched.",
+            "Hal, Scally, Hopsi, Titch, Tabitha and Gucci set out along the stream, on a path none of them has walked before, to find where the water goes and what else is true.",
+            "Coming soon.",
+        ]:
+            centered(line, 14, italic=(line == "Coming soon."), after=12)
         toc_link()
         pagebreak()
         continue

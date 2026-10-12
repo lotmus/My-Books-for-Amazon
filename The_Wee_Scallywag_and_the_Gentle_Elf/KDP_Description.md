@@ -40,6 +40,9 @@ Includes ten experiments to try and a guide for parents and teachers.
 - Children's Books > Science, Nature & How It Works > Science
 - Children's Books > Education & Reference > Science (or a safety category if offered)
 
+## Book 2 announcement
+- The book ends with a "Coming Next" page announcing Book 2, A New Path (no date promised). Change the wording to a real title and date once Book 2 is scheduled.
+
 ## Upload checklist
 - Format: docx only (Kindle). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer the question accordingly and truthfully. Do not put tool names in the book (rule in LOTHAR_RULES).
