@@ -70,6 +70,13 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Parents' knowledge (settled 12 Oct 2026): the parents never find out during the children's childhood. Possibly, once the children are adults, a parent learns because the offspring who holds Stone's paperwork investigates (so the reveal is the investigator's act, not an accident). Treat adult disclosure as optional and late, and decide parent by parent.
 - Open: does the married pair's pregnancy count as the first generation born outside Stone's clinic, with no doctor involved at all?
 
+## The club and politics (settled 12 Oct 2026)
+- Eventually the cohort forms a secret club, and its members also go into politics.
+- Fits the existing ending: all authority sits with the edited people, and secrecy survives only while every carrier chooses it. The club is how that choice is organized.
+- Keep invented: fictional parties, offices and places only, no real politicians or parties (and never the name barred by `notes/LOTHAR_RULES.md`).
+- Questions to settle later: what the club wants (protection, advantage, or something more ambitious); whether members influence each other or the public; who inside is uneasy; whether the dolphin carriers' hearing (reading a room, catching a lie in a pulse) is the political edge; what Stone's account says the club should become.
+- Tone: dry and understated. The danger is quiet competence, not a coup.
+
 ## Opening (settled 12 Oct 2026)
 - The book starts with the four minutes (4 min 11 s window), told by Stone. Trial draft: `drafts/ch01_four_minutes_Stone_v1.md`.
 - Rule for all lab scenes: never give followable procedure. Stone says so himself in the text, which also characterizes him.
