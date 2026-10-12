@@ -35,7 +35,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ## Files and folders
 
-- Deliverable format is **docx only**. Markdown working copies are fine. Never build, offer, or ship PDF or EPUB.
+- Working format is **docx**: every book is written, reviewed and kept as a Word master during development. Markdown working copies are fine. The file uploaded to KDP is an **EPUB** built from the docx (clarified by Lothar 11 Oct 2026; the earlier wording "docx only, never EPUB" was a misreading). Keep the docx as the master and rebuild the EPUB from it. Do not build or offer PDF unless asked.
 - Never delete anything. Move old files into the book's `bak\` subfolder, or into a dated folder under `D:\bak\`.
 - Only the current master, its md working copy, and notes stay at the top of each book folder. Older versions go into that book's `bak\`.
 - Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
