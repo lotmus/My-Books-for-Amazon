@@ -16,7 +16,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
   - **Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)**: Lolly Wren's Curious Science Adventures books.
   - **Lothar J. Musiol writing as Romuald Livingston**: *In Love with Murder, Actually*.
   - **Lothar J. Musiol writing as George Herbert Fontaine**: *Protocol Flamingo*.
-  - **Anneliese Tauber** (a Bavarian mother of four): *Bavarian Cooking Made Simple* and *The Wee Scallywag and the Gentle Elf* (The Step Stories, children’s STEM fantasy; decided 11 Oct 2026 to build one family-friendly brand). Never list her books in Lothar's Also-by, and never mention Lothar’s name in her books. Her books have no Also-by page until The Step Stories Book 2 is out; then her Also-by page lists only Anneliese Tauber books. Her About the Author is two or three warm sentences in the same voice (see the Bavarian Cooking and Step Stories docx).
+  - **Anneliese Tauber** (a Bavarian mother of four): *Bavarian Cooking Made Simple* and *The Wee Scallywag and the Gentle Elf* (The Step Stories, children’s STEM fantasy; decided 11 Oct 2026 to build one family-friendly brand). Never list her books in Lothar's Also-by, and never mention Lothar’s name in her books. Her Also-by page (from 11 Oct 2026, now that she has two books) lists only Anneliese Tauber books: Bavarian Cooking Made Simple and The Step Stories as they appear. It never lists Lothar’s books. Her About the Author is two or three warm sentences in the same voice (see the Bavarian Cooking and Step Stories docx).
 - Do not bring back retired titles or series names on any Also-by page. The retired list lives in `notes/ALSO_BY - canonical list.md`.
 
 ---
@@ -28,7 +28,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
   - **Version B** (without Colin): every other book under Lothar's name. Both versions mention Gucci.
   - **Never** put either version on the Kevin Drew Peters books, on Auswandern, on Bavarian Cooking, or on The Wee Scallywag and the Gentle Elf.
 - Placement: replace an existing About the Author section; otherwise add one just before the Also-by page. If a book has no back matter, put About the Author at the end.
-- Every book gets a nice, inviting review line and an Also-by page, except where Identity forbids it (the Anneliese Tauber books: no Also-by until Step Stories Book 2 is out; Kevin Drew Peters books use only their own short list).
+- Every book gets a nice, inviting review line and an Also-by page, except where Identity forbids it (the Anneliese Tauber books: Also-by lists only Anneliese Tauber books; Kevin Drew Peters books use only their own short list).
 - Canonical Also-by list and order: `notes/ALSO_BY - canonical list.md`. Every Lothar-name book's Also-by page uses that list, leaves out the book itself, and keeps that book's own layout. Keep "Also in This Series" pages separate. Auswandern is listed under In German; its own docx has no Also-by page.
 
 ---

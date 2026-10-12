@@ -44,6 +44,6 @@ Includes ten experiments to try and a guide for parents and teachers.
 - Format: docx only (Kindle). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer the question accordingly and truthfully. Do not put tool names in the book (rule in LOTHAR_RULES).
 - Back cover: text only on a single colour (not made yet).
-- Also-by: none until Book 2 is out (Lothar, 11 Oct 2026).
+- Also-by: "Also by Anneliese Tauber" lists Bavarian Cooking Made Simple (Lothar, 11 Oct 2026). CHECK: that book is still a draft, so the page has no live link yet.
 - Science check by a teacher or physicist (tunnelling, tides, genes), and a safety read by a teacher or parent, before upload.
 - Do not claim exam results or curriculum coverage in the listing. The standards codes in `Parent_Teacher_Guide.md` are unverified and are not in the book.
