@@ -52,10 +52,17 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Stroke aftermath and pregnancy news.
 - Twist extension: staged loss, second unindexed pair, boy already holding the missing map fragment.
 
+## Structure (settled 12 Oct 2026)
+- **Part One: Stone.** Stone narrates. His voice: arrogant, self-justifying, precise, unreliable about his own motives.
+- **The stroke** ends Part One. His full index and design logic are destroyed, but his narrative account survives (written before the stroke, or dictated after).
+- **Part Two: the offspring.** The boy, now a teen or adult, finds Stone's account and carries on. He can read, correct and answer Stone, and can only know what Stone wrote plus what he found himself. Reconstruction replaces omniscience, which solves the limit of a boy narrator who cannot witness the lab.
+- Continuity point: the story notes say the *index* is lost, not Stone's account. The account is narrative and can omit or distort the design, so it can be the boy's source without restoring the map.
+- The trial apartment scene (`drafts/scene_apartment_boy_POV_v1.md`) is an 11-year-old narrating live. Under this structure it would be retold by Stone in Part One, or by the older narrator in Part Two looking back.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
-3. POV: trial in progress (12 Oct 2026): the boy with the dolphin genes, first person past tense. See `drafts/scene_apartment_boy_POV_v1.md`. Limit to watch: he cannot witness the lab, the stroke, or the pair's private scenes, so those must come as prologue, reports or other devices.
+3. POV (settled 12 Oct 2026): two-part structure. Part One is told by Frank Stone (his account: the four minutes, the clinic, raising the boy, Singapore, his attempt to flee). The stroke is the hinge. Part Two is told by the edited offspring, now a teen or adult, who finds Stone's account and continues the story. Open sub-questions: narrator's age and first vs third person in Part Two; what Stone's surviving account is (see below).
 4. A concrete external threat or deadline (the Singapore papers, a regulator, a leak) to give the quiet plot a clock.
 5. One specific want or fear for the boy, so his coldness is a character and not a trait.
 
