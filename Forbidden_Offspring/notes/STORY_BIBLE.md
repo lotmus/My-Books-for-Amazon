@@ -170,6 +170,13 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 
 - Ch 5 v2 (12 Oct 2026): `drafts/ch05_the_singapore_paper_Stone_v2.md` replaces v1. The Singapore study is an unpublished manuscript sent to Stone as an anonymous reviewer. He recommends rejection to buy time, knowing it will go to another reviewer. v1 is moved to `bak/` (not committed, per the rules; it remains in git history).
 
+## The couple in Munich (settled 12 Oct 2026)
+- One couple, both of them edited, emigrates to Munich for work. Which couple is open: the married pair (the first propagation node, now having children abroad) or the second pair.
+- Uses: it takes the lineage out of the American setting and into a country where the legal and cultural climate around embryos and genetics is strict (Germany regulates embryo and germline work tightly; check the details before stating any law in the text). Their children are born and raised in Germany, so the lineage spreads across borders, and the leak and the 'plenty of offspring' idea become international.
+- Tone and detail: keep the move ordinary (a job offer, a flat, German bureaucracy, a mother-in-law's visit), with the odd moments handled dryly. The couple stay under cover, like most carriers.
+- Use an invented employer, no real firm. Real city is fine as setting.
+- To settle: their jobs, their ages and year of the move (after 2026 for any public detail), and whether the main offspring visits them.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
