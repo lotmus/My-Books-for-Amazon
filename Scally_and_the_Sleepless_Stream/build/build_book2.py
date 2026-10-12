@@ -12,7 +12,9 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY = os.path.join(B, "Step_Stories_Texts", "Book2_Story_v1.txt")
+STORY_FILE = "Book2_Story_v1.txt"
+VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
+STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
 
 raw = open(STORY, encoding="utf-8").read()
@@ -377,6 +379,6 @@ now = datetime.datetime.now(datetime.timezone.utc)
 d.core_properties.created = now
 d.core_properties.modified = now
 d.core_properties.last_modified_by = AUTHOR
-dst = os.environ.get("OUTDOCX") or os.path.join(B, "Scally_and_the_Sleepless_Stream_Book2.docx")
+dst = os.environ.get("OUTDOCX") or os.path.join(B, "Scally_and_the_Sleepless_Stream_Book2_%s.docx" % VERSION)
 d.save(dst)
 print(dst, os.path.getsize(dst) // 1024, "KB")
