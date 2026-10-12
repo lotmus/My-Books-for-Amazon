@@ -24,11 +24,11 @@ Fourpence was the little brown bird that had hatched from the last square egg at
 
 Nobody in the valley slept that night.
 
-In the morning, the miller fell asleep in the flour hopper and came up white to the eyebrows. Mrs Crumb the baker, who had dozed off beside her oven, sent out forty-one buns as black as boots. The village cockerel crowed at midnight, at two, at half past three, and then gave up and sat on a wall looking offended.
+In the morning, the miller fell asleep in the flour hopper and came up white to the eyebrows. Mrs Crumb the baker, who had dozed off beside her oven, sent out forty-one buns as black as boots. The village cockerel crowed at midnight, at two, and at half past three, and then gave up and sat on a wall looking offended.
 
-On the mill step Hal found the rest of them. Titch had her red cap over her eyes and a crust in each hand, not eating either. Tabitha Smoke sat with her chin on her knees, holding one apple that she had been looking at for a long time. Hopsi sat very upright, with her needle in her fingers and a green look about her. She was nine, with pointed ears and long wavy light-brown hair and a wreath of hops. Elves are not at their best without sleep.
+On the mill step Hal found the rest of them. Titch had her red cap over her eyes and a crust in each hand, not eating either. Tabitha Smoke sat with her chin on her knees, holding one apple that she had been looking at for a long time. Hopsi sat very upright, with her needle in her fingers and a green look about her. She was nine and a half, with pointed ears and long wavy light-brown hair and a wreath of hops. Elves are not at their best without sleep.
 
-And Scally lay on his back across the top step, one arm over his face. He was eight, with spiky black hair, pointed ears, and a leaf in the hair. His true name was a word his mother had given him, and he had told them it, and they used it on special occasions. The rest of the time he was Scally.
+And Scally lay on his back across the top step, one arm over his face. He was eight and a half, with spiky black hair, pointed ears, and a leaf in the hair. His true name was a word his mother had given him, and he had told them it, and they used it on special occasions. The rest of the time he was Scally.
 
 “Well,” said Scally, without moving his arm. “That’s the end of the world.”
 
@@ -60,7 +60,7 @@ Hopsi had been watching, with her lips pressed together. At last she walked up t
 
 “It is,” said Scally, “a specially treated water.”
 
-“It is stream water, with mud in it,” said Hopsi, “and nothing in it that makes anybody sleep. Hops can help a little, if you are already tired, and you have put in a pinch. It will not cure the hum.” She did not raise her voice. She never did. “Mrs Crumb has paid a penny for a cup of mud, because she thought it was medicine.”
+“It is stream water, with mud in it,” said Hopsi, “and it will not cure the hum.” She did not raise her voice. She never did. “Mrs Crumb has paid a penny for a cup of mud, because she thought it was medicine.”
 
 Scally went red from the ears inwards. “It makes them feel better.”
 
@@ -90,11 +90,11 @@ Tabitha had said nothing all morning. Now she lifted her head, the way she did w
 
 On the roof, Fourpence sang its four notes. Then it waited.
 
-Hal went to the pond, to think. He knelt on the bank, and his reflection looked up at him from the water. It had dark rings under its eyes, and its hair stood up like a hedge. It looked as tired as he felt.
+Hal went to the pond, to think. He knelt on the bank, and his reflection looked up at him, with dark rings under its eyes and its hair standing up like a hedge.
 
 Then it winked.
 
-It had not winked since the summer. It winked, and its mouth shaped one word, over and over, in a way that Hal could read quite well, because it was the same word in either direction.
+It had not winked since the summer. Its mouth shaped one word, over and over, that Hal could read quite well, because it was the same word in either direction.
 
 UP.
 
@@ -114,7 +114,7 @@ The Mayor stood on a barrel. His name was Mr Pomfrey, he had a chain and a waist
 
 “A small price,” said the Mayor, “for a night’s sleep.”
 
-There was a murmur. A lot of people had had no sleep for two nights. It was a murmur of people thinking that two hundred sandbags did not sound too bad.
+There was a murmur of people who had not slept for two nights, thinking that two hundred sandbags did not sound too bad.
 
 Scally, at the back of the crowd, had not spoken. He had been thinking. He tugged Hal’s sleeve and whispered. “The Mayor’s offering a reward. Ten pounds to anyone who stops the hum. If I said I could do it, and showed them a nice noise-proof box…”
 
@@ -158,7 +158,7 @@ The Mayor went pink. “Then what, Walter, do you propose?”
 
 “Two days up, and one back,” said Walt. “If my knee holds. And a donkey, and a pair of strong arms.” He looked round the yard. His eyes stopped on the children, one by one, as if he was weighing them, the way you weigh an apple. “Children notice things,” he said. “Grown-ups talk. I would take them.”
 
-There was a short, loud argument. Hal’s mother said no. Mrs Crumb said certainly not. The Mayor said he forbade it. Old Walt waited until they were done and then said one thing.
+There was a short, loud argument. Hal’s mother said no, Mrs Crumb said certainly not, and the Mayor said he forbade it. Old Walt waited until they were done and then said one thing.
 
 “I’ll be responsible.”
 
@@ -192,7 +192,7 @@ They set out at dawn.
 
 The path ran beside the water, through bracken still wet with night. Old Walt rode the donkey, whose name turned out to be Dumpling, and who walked as though she was being paid by the hour. Behind her came Gucci, nose down, and then Titch, with a bag of crusts, and Hal with his slate. Tabitha walked beside Walt with one hand on the donkey, asking him questions. Hopsi came last, with her hops. And Scally, in front, kicked pebbles.
 
-All morning the stream hummed beside them. It had grown louder in the night. Sometimes it sounded like a word and sometimes like a cat in a barrel.
+All morning the stream hummed beside them, louder than in the night. Sometimes it sounded like a word and sometimes like a cat in a barrel.
 
 At the top of the first hill the path stopped.
 
@@ -268,7 +268,7 @@ The raft slid out. The current found it at once. The middle of the pool drew it 
 
 “Rope!” shouted Titch, and heaved. The rope came taut, and the raft swung in a long slow arc, scraping the bank. Scally, who had stepped on at the last moment to steady it, missed his footing. He went over the side in a perfect flat splash.
 
-For one long, awful second there was only a hole in the water.
+For one awful second there was only a hole in the water.
 
 “Reach or throw!” roared Walt.
 
@@ -284,7 +284,7 @@ Four of them hauled, with Gucci hanging on to the end by his teeth, and Scally c
 
 Scally began to laugh, and could not stop. After a minute, all of them were laughing, even Walt, even Dumpling, who gave a low hee-haw. It was the shaky laughing of people who have been frightened and found it was all right.
 
-“Cold water,” said Walt, when the laughing had run out. “That is what takes the breath out of a person. It squeezes the chest and you gasp before you know it. A strong swimmer drowns that way. You do not go in alone. You do not go in at all, if you can reach or throw. Do you see why?”
+“Cold water,” said Walt, when the laughing had run out, “squeezes the chest and you gasp before you know it. A strong swimmer drowns that way. You do not go in at all, if you can reach or throw. Do you see why?”
 
 “Yes,” said Scally, quietly. He was blue about the mouth. “Yes, Walt.”
 
@@ -300,7 +300,7 @@ Chapter 4. The Wandering Stream
 
 After the Green Pool, the stream began to wander.
 
-It had been straight for the first morning. Now, as they came up into a wide, flat valley with tall grass, it started to loop. It curled one way, and then the other, like a dropped rope, in great lazy bends, so that the path beside it followed along, and along, and along, and never seemed to get anywhere.
+It had been straight for the first morning. Now, as they came up into a wide, flat valley with tall grass, it started to loop. It curled one way, and then the other, like a dropped rope, in great lazy bends, and the path beside it followed along and never seemed to get anywhere.
 
 “It’s mad,” said Titch. “Look. It goes right, then left, then right, and it’s all the same grass.”
 
@@ -342,7 +342,7 @@ There was a pause.
 
 “Of course he is,” said Hopsi.
 
-They stood up. They did not shout, because shouting does nothing. They followed, along the edge, along the firm bank, the long way round. At the second bend the grass came up high, and a mist rose off the wet ground, and it turned, in the space of a few minutes, into a white, soft, thick fog.
+They stood up. They followed along the firm bank, the long way round. At the second bend a mist rose off the wet ground and turned, in a few minutes, into a thick white fog.
 
 “Walt,” called Hal.
 
@@ -364,7 +364,7 @@ Walt took out his whistle. He blew three blasts, long and short. They hung in th
 
 “There,” said Walt. “Left of the big willow. Slowly. Along the bank, Titch, tie that rope to the tree. Hopsi, lie flat.”
 
-They found him. He was in clay, up to the knees, in the middle of the neck, and the other boot was gone. The soil had held him for six steps and let go on the seventh. He had stopped struggling, which was clever, because struggling sinks you. He was standing perfectly still, in the fog, with his arms out. He was green about the face.
+They found him in clay up to the knees, in the middle of the neck, and the other boot was gone. The soil had held him for six steps and let go on the seventh. He had stopped struggling, which was clever, because struggling sinks you. He stood perfectly still in the fog, with his arms out, green about the face.
 
 “It’s — it’s not firm,” he said, in a very small voice. “It’s — Hop, I said it was firm.”
 
@@ -386,7 +386,7 @@ Scally opened one eye. “I’m a liar,” he said, in a hoarse, flat voice. “
 
 Nobody said anything for a long time.
 
-Walt sat down on the grass beside him. He was rubbing his bad leg, absently, in the way of a man who has done it for fifty years. “I know that neck,” he said. “I took it once, when I was your age. I was in a hurry. A voice said it would be quicker.”
+Walt sat down on the grass beside him, rubbing his bad leg. “I know that neck,” he said. “I took it once, when I was your age. I was in a hurry. A voice said it would be quicker.”
 
 “A voice?” said Hal.
 
@@ -420,7 +420,7 @@ Walt looked at him for a moment. “Somebody taught you well.”
 
 “A lot of people,” said Hal, “and one bonfire.”
 
-They ate Titch’s crusts, and apples, and a hard yellow cheese, and Walt’s stew, which was mostly turnip. Gucci lay with his chin on Hal’s knee, trying to look as though he was not watching the cheese. Dumpling stood behind them, chewing, with one ear turned toward the stream.
+They ate Titch’s crusts, and apples, and a hard yellow cheese, and Walt’s stew, which was mostly turnip. Gucci lay with his chin on Hal’s knee, trying to look as though he was not watching the cheese.
 
 Scally had his back against a rock. His feet were wrapped in two of Walt’s spare socks, and he was not saying much. He had a large bite of cheese in one hand. And under his jacket, if anyone had looked, there was a second large bite, wrapped in a cloth, from Titch’s bag.
 
@@ -464,7 +464,7 @@ It stopped. A pause, a long breath, a gurgle.
 
 Nobody moved.
 
-Hopsi’s face had gone white as paper. Hal, who had once stood on the mill step and been spoken to by it in the fog, felt his scalp tighten from the top of his head to the base of his spine. Gucci growled, low, like a kettle, at the water.
+Hopsi’s face had gone white as paper. Hal felt his scalp tighten. Gucci growled, low, like a kettle, at the water.
 
 “That’s him,” whispered Titch. “That’s the soft voice. That’s the sweet-man. That’s his last—”
 
@@ -498,7 +498,7 @@ Nobody had an answer. In the silence, Hopsi got up. She went to the edge of the 
 
 “In case,” she said, to nobody.
 
-They lay down in their blankets. They did not talk much. The stream sang on in the dark, “A shortcut is only…” and nobody slept, and nobody expected to.
+They lay down in their blankets. The stream sang on in the dark, “A shortcut is only…” and nobody slept, and nobody expected to.
 
 Before dawn Hal crept down to the pool by the camp, to wash his face. The water was black, and still, and the stars lay in it. His reflection looked up at him, thin and yellow in the starlight. It had its mouth open. It was yawning, enormously, and trying not to.
 
@@ -510,7 +510,7 @@ Chapter 6. The Count Between
 
 In the morning they came to the Falls.
 
-The Falls were a wall of grey water, as high as a church, coming down from a lip of black rock into a pool that boiled white. The air around them was full of fine wet spray. It roared so loudly that a person could not hear himself think. And, under the roar, the hum went on.
+The Falls were a wall of grey water, as high as a church, coming down from a lip of black rock into a pool that boiled white. The air was full of fine wet spray, and the roar was so loud that a person could not hear himself think. Under it, the hum went on.
 
 “The path goes up the left side,” shouted Walt. “It’s steep, and it’s wet. Nobody goes anywhere alone. Nobody leaves the path. Hold the rope!”
 
@@ -558,7 +558,7 @@ Hal wrote it on his slate. ECHO: COUNT TO IT. HALF OF THE COUNT IS THE WAY THERE
 
 It was just as he finished that the sky began to change.
 
-It happened quickly. One minute there was a bright blue lid over the gorge. The next, a dark wall of cloud had slid over it from the west, and the spray at the Falls turned from white to grey, and the first big drops fell, one by one, with a thump, on the stones.
+It happened quickly. One minute there was a bright blue lid over the gorge. The next, a dark wall of cloud had slid over it from the west, and the first big drops fell, one by one, with a thump, on the stones.
 
 “Weather,” said Walt, looking up. “Off the ridge. Right now.”
 
@@ -594,7 +594,7 @@ The flash came again. This time the thunder followed hard on its heels. “Two!�
 
 The next came without any count at all. It was a white, tearing flash, and a clap that shook the stones in their sockets, and a smell of burnt air, and a sound like a giant tearing a sheet. They saw it hit. It struck the oak square on the crown, in a bright blue tree of fire, and the great old tree split from the top to the roots with a crack that numbed their ears. Half of it fell, slowly, right across the rock where Scally had been sitting.
 
-There was a long, long silence, full of ringing.
+There was a long silence, full of ringing.
 
 “Everyone all right?” said Walt, in a cracked voice. “Count heads.”
 
@@ -646,7 +646,7 @@ At first Hal could hear nothing but the Falls. Then, under it, far away, he hear
 
 They ran.
 
-It was the longest minute of Hal’s life. The path up the side of the gorge was steep and slick with rain. Titch went first, hauling Dumpling by the halter, with Tabitha pushing from behind. Hopsi had Gucci under one arm, which was a great deal like carrying a cushion with a motor. Hal turned and looked back.
+It was the longest minute of Hal’s life. The path was steep and slick with rain. Titch went first, hauling Dumpling by the halter, with Tabitha pushing from behind. Hopsi had Gucci under one arm, which was a great deal like carrying a cushion with a motor. Hal turned and looked back.
 
 Walt was not coming.
 
@@ -686,7 +686,7 @@ Scally turned. “Hal,” he said. “I’m scared. I can’t do it alone. Will 
 
 “Yes,” said Hal. “I’ll hold the rope. Titch! Dumpling!”
 
-The next minutes were a blur of brown water and shouting. Hal sat down hard on a boulder with the rope round his middle and dug in his heels. The rope ran down to Scally, who ran down the bank to the very edge of the rising water, where the path was already a river, and held out his hand.
+The next minutes were a blur of brown water and shouting. Hal sat down hard on a boulder with the rope round his middle and dug in his heels. Scally ran down the bank to the very edge of the rising water and held out his hand.
 
 “Walt!” he yelled. “Take it!”
 
@@ -712,7 +712,7 @@ They all got up, at last, on a ledge forty feet above the stream, in a heap, gas
 
 “She did,” said Walt, “and so did you. Next time, throw the rope and stay on the bank. But I thank you, and I mean it.”
 
-They watched the flood. It was brown and ugly and roaring, and it swept away the lower path, the place where they had been, the stones, the whole of the grass they had crossed that morning. Where the Falls had been a column, there was now a tower of foam. And far under the thunder, in a dark gap between two notes of it, the stream said, thin and cold and calm:
+They watched the flood. It was brown and ugly and roaring, and it swept away the lower path and the whole of the grass they had crossed that morning. And far under the thunder, in a dark gap between two notes of it, the stream said, thin and cold and calm:
 
 “A shortcut is only…”
 
@@ -734,13 +734,13 @@ They crossed in single file, slowly. Gucci went ahead, nose down, picking his ro
 
 It was the Source. The stream began here, welling up from underground in the middle of a black round pool as wide as a barn. Round and round, in the middle, the water was turning.
 
-It turned slowly, in one great smooth spiral, so slowly it seemed like a dream. In the centre there was a deep, dark funnel, and a faint sucking noise. From the whirl there rose a pale thin mist, shaped, if you did not look straight at it, like a very tall man in a long coat.
+It turned slowly, in one great smooth spiral. In the centre there was a deep, dark funnel, and a faint sucking noise. From the whirl rose a pale thin mist, shaped, if you did not look straight at it, like a very tall man in a long coat.
 
 “A shortcut is only…” said the mist.
 
 Nobody breathed.
 
-It was a voice, but it was no longer a stranger’s voice. It was worn down, and thin, and stuck like a needle in a groove. It was the voice of one sentence, said ten thousand times. And under it, in the water, you could hear the stream, straining at the leash, to be allowed to go on.
+It was a voice, but no longer a stranger’s. It was worn thin, and stuck like a needle in a groove, the voice of one sentence said ten thousand times.
 
 “Right,” said Tabitha. She was whispering. “So it’s a whirlpool.”
 
@@ -764,7 +764,7 @@ For one long second, nothing happened. The whole bog held its breath. Then the w
 
 And the whirl began to turn faster.
 
-The water ran up the bank. It slapped at their feet. The stream, which had been talking quietly in the dark, roared. Fourpence flew up from Dumpling’s ear, singing four notes, wildly, and fluttered back.
+The water ran up the bank and slapped at their feet. The stream roared. Fourpence flew up from Dumpling’s ear, singing four notes, wildly, and fluttered back.
 
 “It’s not working,” said Hal. “Scally, what did you do?”
 
@@ -786,7 +786,7 @@ Titch went after him. She did not think. She threw herself flat, the way Hopsi h
 
 “Chain!” roared Walt. “All of you! Hold! Nobody lets go!”
 
-They held. Titch, on her stomach, with Gucci’s scruff in her fist, was sliding inch by inch to the edge. Hal, at the end of the line, felt the rope burn through his palms. His arms were turning to wood.
+They held. Titch, on her stomach, with Gucci’s scruff in her fist, was sliding inch by inch to the edge. Hal felt the rope burn through his palms.
 
 “Lever!” shouted Tabitha, behind him. “Hal! Use the log!”
 
@@ -821,7 +821,7 @@ Chapter 9. The Long Way Round
 
 They sat on the bank in the dusk, in a ring, with their backs to the whirl, and nobody talked for a while.
 
-Titch was wrapping Gucci in her coat. Tabitha held a canteen to Walt’s lips. Dumpling lay with her knees folded and her nose in Hal’s pocket, looking for the last apple. And Scally sat apart, with his arms round his knees and his hair in his eyes, as quiet as a stone.
+Titch was wrapping Gucci in her coat. Tabitha held a canteen to Walt’s lips. Dumpling lay with her nose in Hal’s pocket, looking for the last apple. And Scally sat apart, with his arms round his knees, as quiet as a stone.
 
 “Hal,” said Hopsi.
 
@@ -841,15 +841,15 @@ Hal took it out. It was soggy, and the chalk had run, but he rubbed his sleeve a
 
 “And long ways?” said Tabitha.
 
-“We went the long way round the bend,” said Hal. “Along the bank. Safe. We built a raft, and crossed the long way, with a rope. Safe. We climbed the Falls on the rope. Safe. We got through the bog on the green path, in single file, and nobody put a foot wrong.” He looked at his slate. “Every long way has got us here. And every shortcut has been the longest of all.”
+“We went the long way round the bend,” said Hal. “We crossed the pool on a raft, with a rope. We climbed the Falls on the rope. We got through the bog on the green path, in single file. All safe.” He looked at his slate. “Every long way has got us here. And every shortcut has been the longest of all.”
 
 “Because a shortcut is only quicker if it works,” said Tabitha.
 
 They all stopped.
 
-Tabitha said it again, half to herself, in her slow way. “A shortcut is only quicker if it works. If it doesn’t, you’re lost. And then it’s the slowest way of all.”
+Tabitha said it again, half to herself. “If it doesn’t, you’re lost. And then it’s the slowest way of all.”
 
-There was a long silence. The whirlpool went round in the dusk, turning, with its mist like a coat on a nail, and as they listened, it said, in a low, uncertain voice:
+There was a long silence. The whirlpool went round in the dusk, with its mist like a coat on a nail, and as they listened, it said, in a low, uncertain voice:
 
 “A shortcut is only…”
 
@@ -871,7 +871,7 @@ She was sitting very straight, on a stone, with her hands in her lap. Her face w
 
 The whirl slowed.
 
-It was not much. It was a small thing. But the water, which had turned for fifty years without a rest, hesitated, like a wheel when someone puts a hand to it. The mist wavered. The thread of the voice stopped, in the middle of its loop.
+It was not much. But the water, which had turned for fifty years without a rest, hesitated, like a wheel when someone puts a hand to it. The mist wavered. The thread of the voice stopped, in the middle of its loop.
 
 “It is listening,” whispered Tabitha.
 
@@ -885,7 +885,7 @@ Nobody knew.
 
 And then Scally stood up.
 
-He had not spoken for a long time. He had sat with his chin on his knees, looking at his hands. He stood now, in his two socks, on the bank, with the wind in his black hair. He did not look clever. He did not look sly. He looked like a boy who has been very frightened, and has just been told it is all right, and has found out that it is true.
+He had not spoken for a long time. He stood now, in his two socks, on the bank, with the wind in his black hair. He did not look clever. He did not look sly. He looked like a boy who has been very frightened, and has just been told it is all right, and has found out that it is true.
 
 “I think,” said Scally, “that the long way always gets you home.”
 
@@ -903,7 +903,7 @@ It was a small, round, clear note, like a drop of water falling into a still poo
 
 The whirlpool stopped.
 
-It did not stop all at once. It slowed, and slowed, and eased, like a great wheel that has been pushed for fifty years, and at last has been allowed to rest. The funnel in the middle filled. The black water went smooth. And the stranger’s mist, which had been standing for so long, with its coat on a nail, unbuttoned itself, and thinned, and lifted away in long soft rags, into the dark.
+It did not stop all at once. It slowed, and eased, like a great wheel that has been pushed for fifty years and at last allowed to rest. The funnel in the middle filled. The black water went smooth. And the stranger’s mist, which had been standing for so long, with its coat on a nail, unbuttoned itself, and thinned, and lifted away in long soft rags, into the dark.
 
 Just before it went, they all saw, quite plainly, a face. It was a thin, pale face, with a smile that was no longer a size too big. It looked, for the first time, rather tired, and rather relieved. It said nothing. It only bowed, once, to Scally.
 
@@ -911,7 +911,7 @@ Then it was gone, and there was only the bog, and the first star.
 
 And the stream was quiet.
 
-It was the quietest thing any of them had ever heard. It was a silence like a long breath let go. They sat in it. Nobody could speak. Then, slowly, from the black, still water, came a different sound, so soft that at first they were not sure it was there. It was a sound of water moving, quite gently, over stones, like a child breathing in its sleep.
+It was the quietest thing any of them had ever heard, a silence like a long breath let go. Then, slowly, from the black, still water, came a different sound, so soft that at first they were not sure it was there. It was a sound of water moving, quite gently, over stones, like a child breathing in its sleep.
 
 “Listen,” said Walt. He had tears running down his beard. “Do you hear it? It’s sleeping. It’s only — it’s only sleeping.”
 
@@ -933,7 +933,7 @@ They went home the long way.
 
 It took the whole of the next day. The stream ran beside them, low and clear and slow, humming nothing, and the grass on its banks was already green again where the flood had passed. Old Walt rode Dumpling most of the way, with his stiff leg stuck out and his eel-skin hat over his eyes, saying nothing and smiling a great deal. As the sun dropped red behind the mill, they came down through the bracken to the yard and found the whole village waiting.
 
-They had been there since dawn. They had not slept. They had not needed to. The Mayor was at the front, in his waistcoat, with his chain on crooked, and when he saw them, he took off his hat.
+They had been there since dawn. The Mayor was at the front, in his waistcoat, with his chain on crooked, and when he saw them, he took off his hat.
 
 “Walter,” he said. “And children.” He seemed to be having difficulty with the next sentence. “The hum stopped last night. At a quarter to eleven. Mrs Crumb says she woke up this morning, and for a moment she didn’t know what was wrong. And then she knew. It was the quiet.” He cleared his throat. “I said sandbags. I said it was a small price. I would like to say that I was wrong. I did not check.”
 
@@ -967,15 +967,15 @@ RARE SQUARE EGGS
 SEE THE STRANGE EGGS OF THE MILL
 ONE PENNY EACH
 
-There were nine of them, in the long grass behind the mill, where they had lain all summer. Square eggs, with sharp corners, like small cream-coloured boxes. Nobody had ever been able to explain them. And Scally, who had been given a pair of boots and a life and a gift, was crouching over the board with a brush, quite happily, with his tongue between his teeth.
+There were nine of them, in the long grass behind the mill, where they had lain all summer. Square eggs, with sharp corners, like small cream-coloured boxes. Nobody had ever been able to explain them. And Scally was crouching over the board with a brush, quite happily, with his tongue between his teeth.
 
 He got as far as the second E in PENNY.
 
 Then he stopped.
 
-He looked at the sign. He looked at the eggs, over the fence, in the sun. They were nothing to do with him. They were not his. They were not for sale. He had found a penny in them, that was all, as he had found a penny in Mrs Crumb’s hands, and in the Mayor’s ten pounds, and in a box of moss. He held the brush for a long moment, dripping.
+He looked at the sign. He looked at the eggs, over the fence, in the sun. They were not his, and they were not for sale. He had only found a penny in them, as he had in Mrs Crumb’s hands, and in the Mayor’s ten pounds, and in a box of moss. He held the brush for a long moment, dripping.
 
-Nobody was watching. Hopsi was away in the garden. Hal was inside.
+Nobody was watching.
 
 “No,” said Scally, aloud, to nobody. “That’s a cheat.”
 
@@ -1017,7 +1017,7 @@ Chapter 11. Rain
 
 That autumn the stream slept soundly.
 
-In the village, everybody slept soundly too, for the first time in weeks, and woke each morning rather surprised. Mrs Crumb’s buns came out golden. The cockerel crowed at dawn and at no other time. The Mayor was seen on the bank on Sundays, with a very small notebook, writing down the colour of the water.
+In the village, everybody slept soundly too, and woke each morning rather surprised. Mrs Crumb’s buns came out golden. The cockerel crowed at dawn and at no other time. The Mayor was seen on the bank on Sundays, with a very small notebook, writing down the colour of the water.
 
 Old Walt took on an apprentice. The apprentice had spiky black hair, a goose that followed him, and a pair of boots too big for him, and he asked a great many questions. Every one of them began, “How do you know?” Walt had to admit he did not know the answer to quite a number. He found that, to his surprise, he did not mind.
 
@@ -1045,9 +1045,9 @@ Nobody said anything at all.
 
 “I know,” said Scally. “That’s the point.”
 
-He set off down the lane, in the big brown boots, with the goose behind him, and did not look back. They watched him go. The long road bent, and the willow showed gold at the end of it. And above them, very slowly, the grey sky had begun to come down.
+He set off down the lane, in the big brown boots, with the goose behind him, and did not look back. The long road bent, and the willow showed gold at the end of it. And above them, very slowly, the grey sky had begun to come down.
 
-Hopsi had her head tilted back. She was looking at the cloud, and at the line of the hills, and at a small bird that was flying low over the mill roof. She had her needle in her hand, and a bowl of hops in her lap.
+Hopsi had her head tilted back, looking at the cloud, and at the line of the hills, and at a small bird flying low over the mill roof.
 
 She was quiet for a while. Then she said it, easily, the way a person says a thing she has been practising.
 

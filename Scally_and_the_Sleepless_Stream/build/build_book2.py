@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v5.txt"
+STORY_FILE = "Book2_Story_v7.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -22,6 +22,24 @@ body = raw[raw.index("Chapter 1."):]
 blocks = [b.strip("\n") for b in re.split(r"\n\s*\n", body) if b.strip()]
 
 place = {
+    'Hal had been timing the echo.': 'b65_echo_count.jpg',
+    'And then Scally stood up.': 'b66_scally_stands.jpg',
+    'She said it flatly, the way she said it when she meant it.': 'b67_hopsi_dont_know.jpg',
+    'They crossed in single file, slowly.': 'b68_bog_crossing.jpg',
+    'Hopsi had been watching, with her lips pressed together.': 'b69_hopsi_in_pot.jpg',
+    '“The tree is the tallest thing for a mile,”': 'b70_hopsi_warns.jpg',
+    '“One,” whispered Titch. “Two.”': 'b71_counting_storm.jpg',
+    'Scally had been scratching his head.': 'b72_scally_pitches.jpg',
+    'It was the longest minute of Hal’s life.': 'b73_run_high_ground.jpg',
+    'They went home the long way.': 'b74_going_home.jpg',
+    '“GUCCI!” screamed Titch.': 'b75_gucci_dragged.jpg',
+    'There was a short, loud argument.': 'b76_the_argument.jpg',
+    'That night every light in the valley went out early': 'b77_village_sleeps.jpg',
+    'Hal put one in his palm and spun it on the step.': 'b78_egg_spin.jpg',
+    'One grey afternoon at the end of October': 'b79_step_buns.jpg',
+    '“Wade it,” said Scally.': 'b80_wade_it.jpg',
+    'They launched the raft at noon.': 'b81_launch_raft.jpg',
+    'In the morning Scally sat on the mill step': 'b82_painting_sign.jpg',
     'Scally, at the back of the crowd, had not spoken.': 'b49_box_scheme.jpg',
     'Before they left, Walt gave out his own rules': 'b50_walt_rules.jpg',
     'Hal wrote the plan on his slate': 'b51_slate_plan.jpg',
@@ -53,7 +71,7 @@ place = {
     "Four of them hauled": "b14_rescue_pool.jpg",
     "Walt sat down on a rock, in sections.": "b15_meander.jpg",
     "Hal knelt at the water. On the inside of the bend": "b16_pebbles.jpg",
-    "They found him. He was in clay": "b17_clay_rescue.jpg",
+    "They found him in clay": "b17_clay_rescue.jpg",
     "He built the fire himself": "b18_campfire.jpg",
     Q + "Scally," + R + " said Titch.": "b19_cheese_split.jpg",
     "They listened. And in the dark, under the stars": "b20_voice_in_water.jpg",
@@ -70,7 +88,7 @@ place = {
     "She was sitting very straight, on a stone": "b31_hopsi_i_think.jpg",
     "It sang. It sang four notes": "b32_fifth_note.jpg",
     "Just before it went, they all saw": "b33_mist_bows.jpg",
-    "It was the quietest thing any of them had ever heard.": "b34_stream_sleeps.jpg",
+    "It was the quietest thing any of them had ever heard,": "b34_stream_sleeps.jpg",
     "They had been there since dawn.": "b35_homecoming.jpg",
     "He had Walt" + A + "s boots on.": "b36_walt_boots.jpg",
     "He got as far as the second E in PENNY.": "b37_sign_facedown.jpg",
@@ -83,7 +101,7 @@ place = {
     'But Walt had turned to look at Dumpling': 'b44_scouting.jpg',
     '“Hal,” he said. “Come here.”': 'b45_brown_water.jpg',
     'Hal’s mother crouched in front of him': 'b46_mother_rules.jpg',
-    'Walt sat down on the grass beside him.': 'b47_walt_sack.jpg',
+    'Walt sat down on the grass beside him,': 'b47_walt_sack.jpg',
     'Tabitha had said nothing all morning.': 'b48_counting_notes.jpg',
 }
 
