@@ -22,7 +22,7 @@ I withdrew the catheter, and the screen showed a small bright smear in the dark,
 
 ---
 
-He was born in the spring, three weeks early, in a county hospital forty minutes from my clinic. I was not there. Doctors who have no business in a delivery room stay out of it. I read the discharge summary the following Thursday: seven pounds one ounce, Apgar nine and nine, no complications, a mother "in good spirits." I read it three times, and I did not know what I was looking for, and I found nothing.
+He was born on the first morning of the new century, 1 January 2000, three weeks early, in a county hospital forty minutes from my clinic. I was not there. Doctors who have no business in a delivery room stay out of it. I read the discharge summary the following Thursday: seven pounds one ounce, Apgar nine and nine, no complications, a mother "in good spirits." I read it three times, and I did not know what I was looking for, and I found nothing.
 
 At six weeks I did something I had told myself I would not do. I arranged a follow-up that was not required. A program like ours had a quarterly check for the first year, a courtesy for the families who had no pediatrician of their own; I made myself the physician on the day the Pruitts were scheduled and I told the front desk I wanted to see the corrected-condition cases personally. Nobody questioned this. Nobody does, if you say it with enough tiredness.
 

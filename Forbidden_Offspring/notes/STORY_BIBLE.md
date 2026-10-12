@@ -135,19 +135,19 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Fits the existing line: secrecy survives only while every carrier chooses it, and the leak now tests that choice.
 
 ## Timeline (start settled 12 Oct 2026: option 1, fictional leap; the senator-age fix is still pending)
-- Stone's work begins around 1999; the first subject is born on 1 January 2000 (proposed; ch 2 currently says spring and three weeks early, so it needs a light edit). IVF conception would fall around April 1999.
+- Stone's work begins around 1999; the first subject is born on 1 January 2000 (settled; ch 2 edited to match). IVF conception would fall around April 1999.
 - Boy at 8: 2008 (tremor, ch 4). At 11: 2011 (apartment scene; ch 1 closing line). At about 12: 2012 (major stroke, ends Part One).
 - Nobel at 29: 2029. US senator at 30: 2030-2031 (see reality rule). Presidential campaign 2035-2036. The leak and the assassination: about 2035-2036.
 - Problem to decide: precise multi-locus embryo editing in 1999 is far ahead of real science (CRISPR editing in human embryos was first reported in 2015). Options: (a) accept it as a fictional leap, since Stone is a secret genius and the science stays vague; (b) make it a deliberate alternate history; (c) move the start to about 2015-2018 and shift every later date by 15-18 years (the senator, president and assassination then fall around 2050+).
-- Decided: option (a). Stone's work is secret, so he can use CRISPR-like methods years before the public science exists. The book never names or explains the method. If the secrecy is ever questioned, Stone can say that nothing he did was ever published, and that is part of why it was a felony. The first subject is born 1 January 2000 (pending the ch 2 edit).
+- Decided: option (a). Stone's work is secret, so he can use CRISPR-like methods years before the public science exists. The book never names or explains the method. If the secrecy is ever questioned, Stone can say that nothing he did was ever published, and that is part of why it was a felony. The first subject is born 1 January 2000 (ch 2 edited).
 - The senator is invented, so the dates stay fictional.
 
-- Edits made 12 Oct 2026: ch 1 now hints at the hundred-year schedule; ch 3 adds the consented-test line and the hint that the methods were for a scale and century he never mentioned. Still pending: ch 2 birth date (1 January 2000 vs spring), awaiting a yes.
+- Edits made 12 Oct 2026: ch 1 now hints at the hundred-year schedule; ch 3 adds the consented-test line and the hint that the methods were for a scale and century he never mentioned. Ch 2 birth date changed to 1 January 2000 (done).
 
 ## Reality rule (settled 12 Oct 2026)
 - Nothing may contradict current reality before 2029. Anything dated before today (12 Oct 2026) that is public or checkable must match real history, so the secret work stays secret, and published events are placed after 2026 or kept private.
 - Safe: private scenes (labs, homes, swim meets, clinic memos), Stone's secret methods, the children's private lives, unpublished work, invented people and clinics, invented parties and offices.
-- Unsafe as written: ch 5's Singapore study (a published 4,000-person sequencing study around 2011-12 would be a checkable fiction). Proposed fix, pending approval: Stone receives it privately as an anonymous peer reviewer of an unpublished manuscript (or hears of an unpublished dataset), so nothing public exists. Same idea for any later 'external papers' before 2029.
+- Unsafe as written: ch 5's Singapore study (a published 4,000-person sequencing study around 2011-12 would be a checkable fiction). Fix applied 12 Oct 2026 (see `drafts/ch05_the_singapore_paper_Stone_v2.md`): Stone receives it privately as an anonymous peer reviewer of an unpublished manuscript (or hears of an unpublished dataset), so nothing public exists. Same idea for any later 'external papers' before 2029.
 - The laureate: no public record before the breakthrough. His work is published in 2027-2028 (the future), and the prize follows in 2029. He is an unknown until then.
 - The senator: born 1 January 2000, he is 30 on 1 January 2030. Senate seats are filled by election or appointment, and the earliest regular election he could take office from is November 2030 (seated January 2031), unless an appointment or special election puts him in earlier in 2030. The presidency requires age 35 by inauguration: he turns 35 on 1 January 2035, so he can run in the 2036 election (campaign 2035-2036). The assassination falls in about 2035-2036.
 - Use invented clinics, hospitals, universities, parties and offices; no real institutions, politicians or events.
@@ -167,6 +167,8 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 3. From *Oryx and Crake*: a surviving narrator tells how a genius's private project reached its end, and sorts out what to believe. Here Stone's account is the document the offspring reads and corrects, and Part Two's voice answers it.
 4. From *Darwin's Radio*: officialdom is slow, split and in denial when told humanity is changing from within. Here the leak triggers hearings, experts on both sides and a public that prefers a comfortable explanation, which helps the carriers stay hidden.
 5. From *Blood Music*: a project escapes its maker's control. Already the book's engine (the stroke, the lost index, the carriers who keep going).
+
+- Ch 5 v2 (12 Oct 2026): `drafts/ch05_the_singapore_paper_Stone_v2.md` replaces v1. The Singapore study is an unpublished manuscript sent to Stone as an anonymous reviewer. He recommends rejection to buy time, knowing it will go to another reviewer. v1 is moved to `bak/` (not committed, per the rules; it remains in git history).
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
