@@ -175,7 +175,8 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - Uses: it takes the lineage out of the American setting and into a country where the legal and cultural climate around embryos and genetics is strict (Germany regulates embryo and germline work tightly; check the details before stating any law in the text). Their children are born and raised in Germany, so the lineage spreads across borders, and the leak and the 'plenty of offspring' idea become international.
 - Tone and detail: keep the move ordinary (a job offer, a flat, German bureaucracy, a mother-in-law's visit), with the odd moments handled dryly. The couple stay under cover, like most carriers.
 - Use an invented employer, no real firm. Real city is fine as setting.
-- To settle: their jobs, their ages and year of the move (after 2026 for any public detail), and whether the main offspring visits them.
+- Settled 12 Oct 2026: it is the married pair (best fit), and both are electrical engineers. Their field suits the cohort's strengths (signal timing, systems, acoustics if one carries the dolphin package), and a Munich engineering employer, invented, is plausible work for two EEs.
+- Still to settle: the year of the move (after 2026 for any public detail), which of them carries which package, and whether the main offspring visits them.
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
