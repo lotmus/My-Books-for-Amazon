@@ -6,12 +6,12 @@ Draft for the back of the book. Written to be honest and checkable: it promises 
 A fantasy adventure for ages 6–9 to read aloud (ages 8–10 can read it alone). Every fact the elf Hopsi states is true, and every piece of magic is marked as magic. The children test things before they believe them.
 
 ## The habits of a scientist the story models
-- **"How do we know?"** Wilf asks it. The answer is always: Look. Count. Test.
-- **Write it down.** Wilf’s slate is a lab notebook: lever test, grasshopper counts, the bent stick.
+- **"How do we know?"** Hal asks it. The answer is always: Look. Count. Test.
+- **Write it down.** Hal’s slate is a lab notebook: lever test, grasshopper counts, the bent stick.
 - **Appearance is not always reality.** The fish is deeper than it looks. The stick looks bent. The mirror swaps left and right.
 - **Fair tests and honest results.** Hopsi says only what is true, and a true "I don't know" counts.
 - **Notice what others miss.** Tabitha spots the firm path from the reeds.
-- **Being wrong is part of it.** Sparefunk’s fake fly fails. Wilf’s first lever try needed ten fingers.
+- **Being wrong is part of it.** Sparefunk’s fake fly fails. Hal’s first lever try needed ten fingers.
 
 ## What each chapter teaches
 1. **The Stuck Wheel:** forces and a problem to solve; the idea of a bargain with small print.
@@ -40,7 +40,7 @@ These are links, not claims of coverage.
 **Beyond the syllabus on purpose:** tunnelling, how fast things change time. They are seed ideas to make children curious, not things to be tested.
 
 ## Discussion questions
-- Why did Wilf write his results down? What would have happened if he hadn't?
+- Why did Hal write his results down? What would have happened if he hadn't?
 - Why is a fish deeper than it looks? What else looks different from how it is?
 - If the shortest way is the slowest, how would you plan a journey?
 - Which chapter did you believe and which did you test? How could you test it?
@@ -68,6 +68,6 @@ The ten experiments are on the "Hopsi’s True Things" page at the back of the b
 - A physics teacher or physicist to check the tunnelling and refraction passages, and a biology teacher for the genes passage.
 
 ## Draft blurb (replaces the old keyword-heavy one)
-When the mill wheel stops, Wilf has three days to bargain, fight and think his way to a full flour sack. He has a quick-tempered scallywag who steals his boots, a gentle elf who only says what is true, and a wolf pup who will not leave his foot. Then a soft voice offers a shortcut.
+When the mill wheel stops, Hal has three days to bargain, fight and think his way to a full flour sack. He has a quick-tempered scallywag who steals his boots, a gentle elf who only says what is true, and a wolf pup who will not leave his foot. Then a soft voice offers a shortcut.
 
 A fantasy adventure for ages 6–9 with real science at its heart: levers, rainbows, genes, light and the secrets of the Sun. Every fact is checked and every bit of magic is marked. Ten easy experiments and a parent and teacher guide at the back. For curious children and the grown-ups who read to them.

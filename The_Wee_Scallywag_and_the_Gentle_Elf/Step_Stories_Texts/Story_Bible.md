@@ -8,7 +8,7 @@ Rule for pictures: describe each character exactly as below every time, with the
 
 ## The children
 
-### Wilf Millersen (8, human boy)
+### Hal Millersen (8, human boy)
 - **Looks:** Brown, tousled hair that never lies flat. Freckles. A slate in the crook of one arm. Patched blue jacket, brown trousers, sturdy old boots (he lost these in the bargain, and wears mended ones after).
 - **Voice:** Level and dry. Short sentences. He says "Acceptable" when things are bad and "Done" when they are good.
 - **Smell:** Flour dust, chalk and wet wool.
@@ -54,13 +54,13 @@ Rule for pictures: describe each character exactly as below every time, with the
 - **Habit:** Shares her last apple. Watches first, then stays.
 - **Wants:** To belong. Fears being the stranger at the step. She belongs by the end of the third day.
 
-### Boot (wolf baby)
-- **Looks:** A grey wolf pup, thin when found, filling out now. Silver-grey coat with a darker saddle and a pale belly. Blue eyes that will turn amber. Big paws it has not grown into, a long soft muzzle, and one ear that flops. Found sleeping in the spare boot, which it has outgrown; now it chooses Wilf’s foot. A wolf, not a dog: longer legs, a narrower chest, a straight tail held low.
+### Gucci (wolf baby)
+- **Looks:** A grey wolf pup, thin when found, filling out now. Silver-grey coat with a darker saddle and a pale belly. Blue eyes that will turn amber. Big paws it has not grown into, a long soft muzzle, and one ear that flops. Found sleeping in the spare boot, which it has outgrown; now it chooses Hal’s foot. A wolf, not a dog: longer legs, a narrower chest, a straight tail held low.
 - **Voice:** It does not bark so much as cough. A tiny growl that sounds like a kettle coming to the boil. A thin, wavering howl at the moon that Sparefunk imitates badly.
 - **Smell:** Warm fur, damp pup, old leather and a little woodsmoke. After rain, wet dog.
 - **Touch:** A soft belly, rough tongue, needle-sharp milk teeth that nip but never bite. A cold wet nose in your palm.
 - **Sound:** Paws on stone, claws on the step, a sneeze when excited, a thump of the tail, a sigh when it settles on a foot.
-- **Habit:** Takes its crust and declines hops. Lies across Wilf’s foot. Runs when they run and comes back when they sit. Chases anything that moves, then stops when it realises how big the moving thing is.
+- **Habit:** Takes its crust and declines hops. Lies across Hal’s foot. Runs when they run and comes back when they sit. Chases anything that moves, then stops when it realises how big the moving thing is.
 - **Wants:** Warmth, crusts and the foot. Fears nothing yet, which is the danger. Only afraid of the stranger’s shadow, and of the one thing it can smell and nobody else can.
 - **Behavior in the story:** It nearly gets eaten by the pike, growls at the Soft Voice, and sits on the pile of children after the run. It does not talk, and does not need to.
 
@@ -68,7 +68,7 @@ Rule for pictures: describe each character exactly as below every time, with the
 
 ## The pointy-eared folk (new, my invention: please check)
 
-Only two kinds of people in the book have pointed ears: the elves and the little devils. Humans (Wilf, Titch, Tabitha, the messengers) never do. Every elf or little devil in a picture has the ears of their kind, so nobody has to ask which is which.
+Only two kinds of people in the book have pointed ears: the elves and the little devils. Humans (Hal, Titch, Tabitha, the messengers) never do. Every elf or little devil in a picture has the ears of their kind, so nobody has to ask which is which.
 
 ### The elves (Hopsi’s kind)
 - **Looks:** Slender and light-boned. Long ears, swept up and back like a leaf, with a soft curved point. Wavy hair in woodland colours (brown, gold, red-brown), often with leaves or hops woven in. Eyes green, grey or hazel. Soft greens, purples and moss colours; mended clothes, never new.
