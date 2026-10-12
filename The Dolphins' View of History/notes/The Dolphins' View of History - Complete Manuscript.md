@@ -238,12 +238,6 @@ They got, instead, the rest of this book's worth of time to watch the species th
 
 *Intelligence without a hand to hold anything stays a private matter — an animal can be as clever as it likes and still leave no mark on the world beyond its own lifetime. Humans got the hand. Everything from the first chipped stone to the last chapter of this book is the record of what a clever species does once cleverness stops being private.*
 
-A short note before the book goes any further, one dolphin scholarship insists on adding itself.
-
-*Readers expecting the dolphins of a certain British science fiction series — secretly the most intelligent species on the planet, quietly aware of Earth's approaching demolition, departing by spacecraft with a dry farewell about fish — will be disappointed, or possibly relieved. These are ordinary Earth dolphins, arrived at the ordinary way, with no advance warning of anything and no spacecraft on order. What follows is biology's account, not science fiction's.*
-
-*That said, dolphin scholarship sees no reason to let a good line go to waste on a technicality. So: thanks for all the fish.*
-
 ## 7 Million to 300,000 Years Ago: Where Everyone Is From — Africa and the Making of Humans
 
 Every human being alive today descends from people who lived in Africa. This is not a metaphor or a courtesy to a continent. It is the best-supported conclusion in the study of human origins, and it rests on three independent witnesses that agree: bones, tools, and DNA.
