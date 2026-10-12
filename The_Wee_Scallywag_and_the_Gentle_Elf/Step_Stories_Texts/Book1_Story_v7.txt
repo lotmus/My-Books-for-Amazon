@@ -140,7 +140,7 @@ The scallywag opened the lid. The ghost climbed out, grew back to its size, brus
 
 “How did you do that?” said Hal. “Go through the wall?”
 
-Hopsi had arrived with a pot of hop tea and four cups. She poured one for the ghost, who held it in both hands and looked at it sadly. It could not drink. But nobody had put a cup in its hand for a very long time.
+Hopsi had arrived with a pot of hop tea and four cups. She set the hot pot down with its handle turned in toward the wall, away from small hands, and she did not let anyone near it. She poured one for the ghost, who held it in both hands and looked at it sadly. It could not drink. But nobody had put a cup in its hand for a very long time.
 
 “Real walls,” said Hopsi, “are not quite as solid as they look, if you are very, very small. Roll a marble at a hill and it rolls back. But the smallest marbles in the world, much smaller than a speck of flour, sometimes turn up on the far side with the hill still standing. That is called tunnelling. It does not happen to boys. It does not happen to ghosts. A ghost is magic. Tunnelling is only very small.”
 
@@ -237,7 +237,7 @@ The toad took it with great care, with its tongue, and chewed for a long time. T
 
 “The soft voice goes by the shortest road. Remember it. And do not let the boy walk in the other boots.”
 
-They reached the village lane at last, hungry and wet. A woman stood by a covered cart at the corner with a basket on her arm. She had a bonnet, an apron, a round kind face, and a warm voice, and in her arms was a tiny, wriggling puppy.
+They reached the village lane at last, hungry and wet. The scallywag ran straight out across it without looking. A cart came round the bend with a snort and a clatter, and Tabitha grabbed him by the hood and yanked him back so hard that they both sat down. “Stop. Look. Listen,” she said, with her heart going like a drum. “Then cross.” A woman stood by a covered cart at the corner with a basket on her arm. She had a bonnet, an apron, a round kind face, and a warm voice, and in her arms was a tiny, wriggling puppy.
 
 “Oh, you poor wet things,” she said. “I have sweet buns in the basket, and I have a puppy for every one of you in my cart, just round the corner. It is a surprise. Come along quickly, and do not tell your mothers, or it will spoil it. Your mother sent me, Hal.”
 
@@ -269,7 +269,7 @@ By afternoon they were hungry enough to eat grasshoppers. Hopsi would not allow 
 
 At the mill pond a shadow slid beneath the surface, long as a canoe. It was a pike, old and enormous, with a head like a hatchet.
 
-A small grey shape came padding down the bank. It was a wolf pup, thin and sleepy, with a darker saddle and one ear that flopped. It had been living in the scallywag’s spare boots by the door, and nobody had noticed until it woke up and followed them. It pressed its wet nose to the water.
+A small grey shape came padding down the bank. It was a wolf pup, thin and sleepy, with a darker saddle and one ear that flopped. It had been living in the scallywag’s spare boots by the door, and nobody had noticed until it woke up and followed them. It pressed its wet nose to the water. Hopsi did not grab it. She crouched, held out her hand flat, and let it sniff her first, because a strange animal, even a small one, bites when it is frightened, and you never reach for one that does not know you.
 
 “Gucci,” said Titch. It was the first thing that came into her head.
 
@@ -281,7 +281,7 @@ The pup looked at them both with the expression of a very small, very grumpy duc
 
 Under the willow, a little way off, a ripple broke. The pike seemed to be lying just under the surface, a hand’s breadth from the pup’s nose. Gucci lunged for it. Its jaws closed on water, and its whole body went in with a splash.
 
-“It’s deeper,” said Hopsi, hauling it out by the scruff. “A fish is always deeper than it looks.”
+“It’s deeper,” said Hopsi. She had not stepped into the pond. She had lain flat on the bank while Titch held her ankles, and reached, and hauled it out by the scruff. “Reach or throw,” she said. “Never go in after a friend. Water is deeper and colder than it looks, and two in the water is worse than one.” “A fish is always deeper than it looks.”
 
 “A stick stays straight,” said Hal, who had been thinking. “Everyone knows that.” He pushed a straight stick into the pond. Under the water it bent. He pulled it out, and it was straight. He did this four times, and wrote on his slate: I WAS WRONG. IT LOOKS BENT IN WATER, EVERY TIME.
 
@@ -567,7 +567,7 @@ Beyond the stones the stream ran into a stone culvert under the road, a low, bla
 
 Gucci would not go in. He planted all four big paws at the mouth of the culvert, flattened his ears, and showed his small white teeth to the dark. Behind them, along the straight road, the fog was beginning to hum. “Pick him up,” said the scallywag. “No,” said Tabitha. She crouched down, put her hand flat on the cold stone, and waited, because she had been the new one on the step and she remembered what it felt like to be pushed. It cost them a long, held breath of time. Then Gucci sniffed her palm, sneezed, and went in first, with his tail up, as if the whole idea had been his.
 
-They went in single file with the lantern in front, bent double, in the cold and the dripping and the echo. Halfway through, a single thin beam of daylight found a crack in the roof and drew a bright coin on the wall ahead. Tabitha stopped. The coin of light trembled on the wet stone, and her face, which had been watching everything so carefully, opened all at once, like a window.
+“Pairs,” said Hal. “Nobody goes anywhere in the dark alone.” Tabitha took Titch’s hand, and Hopsi took the scallywag’s, and Hal kept Gucci at his heel. They went in single file with the lantern in front, bent double, in the cold and the dripping and the echo. Halfway through, a single thin beam of daylight found a crack in the roof and drew a bright coin on the wall ahead. Tabitha stopped. The coin of light trembled on the wet stone, and her face, which had been watching everything so carefully, opened all at once, like a window.
 
 “It got through the earth,” she whispered. “Is that tunnelling?”
 
@@ -801,4 +801,6 @@ Everything Hopsi says in this book is true, and when she does not know, she says
 
 16. Plants you cannot name. Never taste berries, leaves or mushrooms unless a grown-up who knows has said it is safe. Some pretty ones, like foxglove, are poisonous. Wash your hands after touching wild plants.
 
-17. “I do not know” is a scientist’s sentence. Hopsi says it about the square eggs. Real scientists say it every day, and then they go and find out.
+17. Safe habits, short list. Reach or throw, never go in after a friend (water is deeper and colder than it looks). Stop, look and listen before you cross a road. Turn pot handles inward and keep small hands away from hot things. Let a strange animal sniff your flat hand first, and never grab it, or ask the owner. Go in pairs in the dark, and always tell someone where you are going and when you will be back. Never taste medicines, cleaning things or wild berries unless a grown-up says so.
+
+18. “I do not know” is a scientist’s sentence. Hopsi says it about the square eggs. Real scientists say it every day, and then they go and find out.
