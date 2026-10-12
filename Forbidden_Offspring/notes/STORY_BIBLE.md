@@ -55,7 +55,7 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
-3. POV: boy first person, close third, or mixed.
+3. POV: trial in progress (12 Oct 2026): the boy with the dolphin genes, first person past tense. See `drafts/scene_apartment_boy_POV_v1.md`. Limit to watch: he cannot witness the lab, the stroke, or the pair's private scenes, so those must come as prologue, reports or other devices.
 4. A concrete external threat or deadline (the Singapore papers, a regulator, a leak) to give the quiet plot a clock.
 5. One specific want or fear for the boy, so his coldness is a character and not a trait.
 
