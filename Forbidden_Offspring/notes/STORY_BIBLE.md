@@ -60,6 +60,10 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Continuity point: what is lost in the stroke is Stone's own master index and design logic (his ability to predict or stop anything). The offspring's copies are fragments and do not restore the full map.
 - The apartment confrontation fits Stone best in Part One: he narrates what he cannot perceive, while the reader watches the boy out-hear him. Trial drafts: `drafts/scene_apartment_Stone_POV_v1.md` (chosen direction) and `drafts/scene_apartment_boy_POV_v1.md` (voice test for Part Two).
 
+## Opening (settled 12 Oct 2026)
+- The book starts with the four minutes (4 min 11 s window), told by Stone. Trial draft: `drafts/ch01_four_minutes_Stone_v1.md`.
+- Rule for all lab scenes: never give followable procedure. Stone says so himself in the text, which also characterizes him.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
