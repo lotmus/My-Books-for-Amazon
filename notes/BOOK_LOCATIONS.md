@@ -1,0 +1,30 @@
+# Where every book lives
+
+Under `D:\My Books for Amazon\` (repo root). Created 12 Oct 2026 from the folders as they are today; `CLAUDE.md` points here. Folders ending in SERIES hold several volumes (one subfolder each). Masters are Word files (docx); the file uploaded to KDP is an EPUB built from the docx. Older versions live in each book's `bak\`. Scratch goes in `junk\`.
+
+| Folder | What it is | Current master file(s) (newest first) |
+|---|---|---|
+| .claude |  | worktrees/youthful-wilson-76f830/History/chapters/Further Reading - For Humans.docx; worktrees/youthful-wilson-76f830/History/chapters/Epilogue - After Homo Sapiens - Superhumans and Androids.docx; worktrees/youthful-wilson-76f830/History/chapters/A Timeline - For Humans Who Like Their History in Order.docx |
+| .codex-worktrees |  | rev73_audit_2026-10-08/Your First YouTube Channel That Rocks/_source/YouTube Tricks (chat transcript).docx; rev73_audit_2026-10-08/Your First YouTube Channel That Rocks/_source/YouTube Tips (chat transcript).docx; rev73_audit_2026-10-08/Your First YouTube Channel That Rocks/_source/Making YouTube Videos Cheaply with Online Tools.docx |
+| .github |  | (no docx at the top levels) |
+| Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland |  | KDP_Beschreibung_REV115.docx; Auswandern_REV75_korrigiert_2026-10-08.docx; Auswandern_REV115_KINDLE_upload.docx |
+| Bavarian  Cooking | Bavarian Cooking Made Simple (pen name Anneliese Tauber). Note the two spaces in the folder name. | Bavarian Cooking Made Simple (Kindle).docx; build/docx_tmp/raw.docx; source/docx_resaved_2026-10-11_backup.docx |
+| EE - SERIES |  | bak/2026-10-11 pre-ch48-noise-fit-clarification/RF_Microwave_and_Transceivers_Book4_CANDIDATE.docx; bak/2026-10-11 pre-ch48-noise-fit-clarification/RF_Microwave_and_Transceivers_Book4_REVIEW2.docx; bak/2026-10-11 pre-ch48-noise-fit-clarification/RF_Microwave_and_Transceivers_Book4_REVIEW.docx |
+| Gravity, Actually |  | bak/Gravitation, Actually - Rev8.docx; bak/2026-10-11 pre-rename-gravity/Gravitation, Actually - Rev9.docx; Gravity, Actually - Rev10.docx |
+| How to Publish Your First Kindle Book |  | How to Publish Your First Kindle Book_REV41_2026-10-10.docx; bak/from main 2026-10-06 Your First Book That Sells audit/Your First Book That Sells.docx; bak/How to Publish Your First Kindle Book_REV40_2026-10-10.docx |
+| In Love with Murder, Actually |  | In_Love_with_Murder_Actually.docx; bak/2026-10-11 pre-cover/In_Love_with_Murder_Actually.docx; bak/2026-10-11 pre-fix/In_Love_with_Murder_Actually.docx |
+| Life, Actually |  | Life, Actually.docx; bak/2026-10-11 pre-also-by-gravitation/Life, Actually.docx; bak/Life, Actually - 2026-10-10 pre-links.docx |
+| Lolly Wren's Curious Science Adventures - SERIES |  | Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx; Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx; Book 2 - The Permitted Options/bak/2026-10-11 pre-also-by-gravitation/The_Permitted_Options_BOOK_2_REVISION_20261005.docx |
+| Look First - SERIES |  | The Universe Has No Now - Manuscript/export/The_Universe_Has_No_Now.docx; A Trip Is Not a New Life - Manuscript/A Trip Is Not a New Life - Kindle.docx; The Universe Has No Now - Manuscript/bak/2026-10-11 pre-also-by-gravitation/The_Universe_Has_No_Now.docx |
+| Math, Actually - SERIES |  | Math, Actually - Volume 4.docx; Math, Actually - Volume 3.docx; Math, Actually - Volume 2.docx |
+| Physics, Actually - SERIES |  | Volume 1/bak/2026-10-11 pre-improve/Chapter 17 - The Omega Point (moved out 2026-10-11).docx; Volume 1/Physics Vol 1 - Motion, Forces, Time, and Relativity (KDP UPLOAD).docx; Volume 1/Physics Vol 1 - Motion, Forces, Time, and Relativity (KDP UPLOAD - KINDLE EBOOK).docx |
+| Protocol Flamingo |  | Protocol_Flamingo_REV10.docx; bak/2026-10-11 pre-also-by-gravitation/Protocol_Flamingo_REV10.docx; bak/Protocol_Flamingo_REV10 - 2026-10-10 pre-notes-merge.docx |
+| Quantum, Actually - SERIES |  | Quantum, Actually - Volume 2/Quantum, Actually - Volume 2.docx; Quantum, Actually - Volume 1/Quantum, Actually - Volume 1_REV03_2026-10-11.docx; Quantum, Actually - Volume 1/bak/2026-10-11 pre-also-by-gravitation/Quantum, Actually - Volume 1_REV03_2026-10-11.docx |
+| Science Sparks |  | Science Sparks.docx; bak/2026-10-11 pre-also-by-gravitation/Science Sparks.docx; bak/Science Sparks - 2026-10-10 pre-shrink.docx |
+| The Digital Twin |  | (no docx at the top levels) |
+| The Dolphins' View of History |  | chapters/What the Physics Is For - An Appendix on Uses and the One Theory Not Yet Found.docx; chapters/Notes and Sources.docx; chapters/Further Reading - For Humans.docx |
+| The Relativistic Investigation Bureau - SERIES |  | Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx; Book 1 - The Murder That Hadnt Happened Yet/kdp_description.docx; Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV11_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx |
+| The Universe, Actually |  | The_Universe_Actually__REV18.docx; bak/The_Universe_Actually__REV17.docx; bak/The_Universe_Actually__REV14.docx |
+| The Will Is Not the Legacy, Actually |  | The_Will_Is_Not_the_Legacy_Actually_MASTER.docx; bak/2026-10-11 pre-also-by-gravitation/The_Will_Is_Not_the_Legacy_Actually_MASTER.docx; bak/2026-10-11 The_Will_Is_Not_the_Legacy_Actually_MASTER (63.3k, before Case 11 shortening, rebalanced Part Two and If-you-live-elsewhere chapter).docx |
+| The_Wee_Scallywag_and_the_Gentle_Elf | The Step Stories, Book 1 (pen name Anneliese Tauber). Story master `Step_Stories_Texts\Book1_Story_v7.txt`; pictures `Step_Stories_Pics_Final\`; also an EPUB and KDP_Description.md. | The_Wee_Scallywag_and_the_Gentle_Elf_Book1.docx; bak/Story_previous_versions/Book1_docx_v7i.docx; bak/Story_previous_versions/Book1_docx_v7h.docx |
+| Your First YouTube Channel That Rocks |  | Your_First_YouTube_Channel_REV22_sources.docx; bak/from main 2026-10-05 audit/Your First YouTube Channel That Rocks.docx; bak/Your_First_YouTube_Channel_REV21_sources.docx |

@@ -7,7 +7,7 @@ Rules
 - Every book's "Also by Lothar J. Musiol" page uses the list below, in this order, and leaves out the book itself. Keep each book's own layout (heading style, group lines, bullets); only the titles change. Keep "Also in This Series" pages separate.
 - Every science book is listed under Lothar J. Musiol. Pen-name books carry "Lothar J. Musiol writing as X", matching their title pages.
 - Kevin Drew Peters books are a separate list. They never appear on a Lothar J. Musiol page, and a Kevin Drew Peters page lists only Kevin Drew Peters books, so nothing ties that pen name to Lothar's real name. (The 4 Oct list put both under How-To on Lothar-name pages; that is withdrawn.)
-- Not listed: Bavarian Cooking Made Simple (in progress with Claude) and The Will Is Not the Legacy, Actually (draft). Add Bavarian Cooking when it is finished.
+- Not listed: Bavarian Cooking Made Simple and The Wee Scallywag and the Gentle Elf (pen name Anneliese Tauber; never in Lothar J. Musiol Also-by lists; her books carry a separate Also-by page listing only Anneliese Tauber books, decided 11 Oct 2026) and The Will Is Not the Legacy, Actually (draft). Add Bavarian Cooking when it is finished.
 - Auswandern (published) is listed under In German; its own docx has no Also-by page and was not changed.
 
 ## Also by Lothar J. Musiol
