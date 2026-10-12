@@ -111,6 +111,10 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Ch 5 "The Singapore Paper": `drafts/ch05_the_singapore_paper_Stone_v1.md`. Stone has a transient episode (the first sign of his decline, explaining the limp seen in the apartment scene), then reads a Singapore population study that notes 11 participants with an unannotated region of unclear origin ("likely artifact"). He realizes someone else may have done similar work, or the overlap will lead back to him. His left-field vision is failing. He begins writing the account that Part Two will find (this is the origin of the account, settled in the draft). Open: the Singapore overlap's origin (a rival, or a carrier's descendant, or something else) and who the 11 are.
 - Stroke sequence now (settled 12 Oct 2026): tremor (ch 4, kids about 8) -> transient episode (ch 5, about 10-11) -> apartment confrontation at 11 -> the major stroke when the kids are about 12, which destroys the master index and ends Part One. Ch 1's closing line ("eleven years to the day") fits the apartment scene at age 11, so it stays; the stroke comes within the following year.
 
+## Why Stone does so little after the births (settled 12 Oct 2026)
+- Fear of detection (the six-week visit scared him; any sampling or tracking of the children leaves a record), hubris (he believes the design needs no follow-up), and not wanting to know (an unmonitored result cannot incriminate him). He calls this discipline.
+- He never tests or tracks the children; he only watches from afar. His one real activity in the twelve years is the bench time that makes the rest of the cohort (ch 3).
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
