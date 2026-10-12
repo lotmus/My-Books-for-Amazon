@@ -74,7 +74,9 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Eventually the cohort forms a secret club, and its members also go into politics.
 - Fits the existing ending: all authority sits with the edited people, and secrecy survives only while every carrier chooses it. The club is how that choice is organized.
 - Keep invented: fictional parties, offices and places only, no real politicians or parties (and never the name barred by `notes/LOTHAR_RULES.md`).
-- Questions to settle later: what the club wants (protection, advantage, or something more ambitious); whether members influence each other or the public; who inside is uneasy; whether the dolphin carriers' hearing (reading a room, catching a lie in a pulse) is the political edge; what Stone's account says the club should become.
+- Purpose (settled 12 Oct 2026): the club aims to change the world for the better. Benevolent in intent, which makes the story a moral question and not a villain plot.
+- Tensions this opens: who decides what "better" means; whether a hidden group steering public life is itself a harm however good the aims; consent (the public never chose them); the gap between what they intend and what edited, emotionally atypical people can judge; secrecy versus accountability. Stone's account can supply a counter-voice (his own hubris about "improving" people).
+- Questions to settle later: whether members influence each other or the public; who inside is uneasy; whether the dolphin carriers' hearing (reading a room, catching a lie in a pulse) is the political edge; what Stone's account says the club should become.
 - Tone: dry and understated. The danger is quiet competence, not a coup.
 
 ## Opening (settled 12 Oct 2026)
