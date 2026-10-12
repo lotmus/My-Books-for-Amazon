@@ -6,7 +6,7 @@
 
 I should say at the outset that I knew about the doorman. I took the stairs from the lobby to the second floor because a man who is about to be difficult with a child should arrive having already done something difficult. I would not call that vanity. I would call it preparation, which is the opposite, although I have been told by people with less to prepare for that the two look alike from outside.
 
-The boy opened the door before I knocked.
+His parents were at work, which I had also checked. The boy opened the door before I knocked.
 
 He was eleven that autumn. I will not pretend he looked like anything other than an eleven-year-old, because that was the point of the work: the changes were not on the surface. He had a gray sweater with a hole at one cuff and he held a book he was not reading, and he stood to one side of the doorway at an angle that I understood later was geometry. He was keeping me where the room would tell him what I did.
 

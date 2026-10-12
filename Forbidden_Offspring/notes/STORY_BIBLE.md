@@ -60,6 +60,13 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Continuity point: what is lost in the stroke is Stone's own master index and design logic (his ability to predict or stop anything). The offspring's copies are fragments and do not restore the full map.
 - The apartment confrontation fits Stone best in Part One: he narrates what he cannot perceive, while the reader watches the boy out-hear him. Trial drafts: `drafts/scene_apartment_Stone_POV_v1.md` (chosen direction) and `drafts/scene_apartment_boy_POV_v1.md` (voice test for Part Two).
 
+## Birth and parentage (settled 12 Oct 2026)
+- The edited embryos go to the intended parents, the couple who came to the clinic for IVF. The mother always carries and gives birth, by standard embryo transfer (replacement). No surrogates, no secret second household.
+- Each child is genetically the couple's own child plus Stone's inserts, so the edits stay heterozygous and the child is raised by ordinary parents.
+- This replaces the earlier phrase "raised off-books." What is off the books is the second protocol: the parents consented to disease correction only and do not know about the rest. Stone is a clinic doctor in the background, not a guardian.
+- Consequences to use: the parents are betrayed too, and the boy's secret includes hiding the truth from them. The cohort children are scattered across ordinary families, so finding each other means tracing clinic records and shared performance anomalies. Stone's cover is the clinic file.
+- Open: do any parents ever learn? Does the married pair's pregnancy count as the first generation born outside Stone's clinic, with no doctor involved at all?
+
 ## Opening (settled 12 Oct 2026)
 - The book starts with the four minutes (4 min 11 s window), told by Stone. Trial draft: `drafts/ch01_four_minutes_Stone_v1.md`.
 - Rule for all lab scenes: never give followable procedure. Stone says so himself in the text, which also characterizes him.
