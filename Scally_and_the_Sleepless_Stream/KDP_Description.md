@@ -4,7 +4,7 @@ Draft written 12 Oct 2026. Claims are limited to what the book does. Items marke
 
 ## Title and series
 - **Title:** Scally and the Sleepless Stream
-- **Subtitle (suggestion):** A Fantasy Adventure with Real Science for Curious Kids Ages 6 to 9 (KDP subtitle field only)
+- **Subtitle (suggestion):** A Fantasy Adventure with Real Science for Curious Kids Ages 7 to 10 (KDP subtitle field only)
 - **Series:** The Step Stories, Book 2. Book 1 is The Wee Scallywag and the Gentle Elf. Add the series on KDP so the two link.
 - **Author:** Anneliese Tauber (the same pen name as Bavarian Cooking Made Simple and Book 1). Lothar's real name appears nowhere in the book or listing.
 - **Cover files:** `Cover_Front_1600x2560.jpg` (front), `Cover_Back_1600x2560.jpg` (text-only back, for a print wrap if wanted). The embedded cover in the EPUB is 1000x1600.
@@ -19,16 +19,16 @@ So Hal, Scally the cheeky little devil, Hopsi the elf who only says what is true
 Children see how floating works, why streams wander and pebbles go round, how an echo measures a cliff, how to count a storm, and why a scientist says "I think". Water, fire, storm and flood safety are woven in, and 48 painted pictures tell the whole story, so even non-readers from age 5 can follow it. Includes experiments and a guide for parents and teachers.
 
 ## What is in the book
-- 11 chapters, about 13,300 words, 81 painted illustrations (read-aloud for ages 5 to 9; a first chapter book for ages 8 to 10).
-- "Hal's Slate: What We Found Out": 16 short fact and experiment notes.
+- 11 chapters, about 13,500 words, 81 painted illustrations (read-aloud from age 6; a first chapter book for ages 7 to 10).
+- "Hal's Slate: What We Found Out": 17 short fact and experiment notes.
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
 ## Age and reading
-- Age range: lead with 6 to 9 (read-aloud from 5; the pictures tell the story without reading); grade 1 to 4. Choose the closest option in the KDP form.
+- Age range: lead with 7 to 10 (read-aloud from 6; the pictures tell the story without reading); grade 2 to 5. Choose the closest option in the KDP form.
 - Language: English (British spelling).
 
 ## Keywords (7 slots, suggestions)
-1. children's adventure book with science ages 5 to 9
+1. children's adventure book with science ages 7 to 10
 2. kids book about streams water and floods
 3. STEM story for kids read aloud
 4. fantasy chapter book with elf and wolf cub
