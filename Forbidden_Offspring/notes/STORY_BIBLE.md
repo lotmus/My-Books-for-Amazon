@@ -178,7 +178,11 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - Settled 12 Oct 2026: it is the married pair (best fit), and both are electrical engineers. Their field suits the cohort's strengths (signal timing, systems, acoustics if one carries the dolphin package), and a Munich engineering employer, invented, is plausible work for two EEs.
 - Settled 12 Oct 2026: the main offspring does visit them in Munich, but later in the story (not early in Part Two).
 - Settled 12 Oct 2026: the couple moves to Munich in 2027. It is a private move by fictional people, so it breaks no public record.
-- Still to settle: which of them carries which package, and the timing of the visit.
+- Packages (settled 12 Oct 2026): the wife carries the dolphin package; her husband does not (he carries the cognitive package). So there are exactly two dolphin carriers in the cohort: the main offspring and her. The main offspring carries both packages (cognitive and dolphin).
+- Link to ch 4: the 8-year-old girl who turns short of the wall with her eyes shut is this woman (professor and engineer parents; she becomes an electrical engineer). Her husband is another cohort member with a cognitive-only profile.
+- Consequence: the pair's children have about a 50% chance each of inheriting her dolphin insert, and the cognitive inserts, present in both parents, can come from either or both. Their first child is the first test of reassembly outside Stone's hands.
+- The earlier voice-test scene (`drafts/scene_apartment_boy_POV_v1.md`) said two others hear what he hears; corrected to one.
+- Still to settle: the timing of the visit to Munich.
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.

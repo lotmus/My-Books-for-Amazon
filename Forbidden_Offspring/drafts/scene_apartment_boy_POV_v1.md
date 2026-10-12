@@ -42,7 +42,7 @@ I let him have that for a while. I wanted to see where it landed on his face, an
 
 "How many," he said.
 
-"Eleven. Two of them can hear what I hear. One cannot, but her husband can, and they have the sense not to talk about it."
+"Eleven. One of them can hear what I hear, and she has the sense not to talk about it."
 
 "They shouldn't be finding each other."
 
