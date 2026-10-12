@@ -51,9 +51,3 @@ They got, instead, the rest of this book's worth of time to watch the species th
 **Dolphin verdict:**
 
 *Intelligence without a hand to hold anything stays a private matter — an animal can be as clever as it likes and still leave no mark on the world beyond its own lifetime. Humans got the hand. Everything from the first chipped stone to the last chapter of this book is the record of what a clever species does once cleverness stops being private.*
-
-A short note before the book goes any further, one dolphin scholarship insists on adding itself.
-
-*Readers expecting the dolphins of a certain British science fiction series — secretly the most intelligent species on the planet, quietly aware of Earth's approaching demolition, departing by spacecraft with a dry farewell about fish — will be disappointed, or possibly relieved. These are ordinary Earth dolphins, arrived at the ordinary way, with no advance warning of anything and no spacecraft on order. What follows is biology's account, not science fiction's.*
-
-*That said, dolphin scholarship sees no reason to let a good line go to waste on a technicality. So: thanks for all the fish.*
