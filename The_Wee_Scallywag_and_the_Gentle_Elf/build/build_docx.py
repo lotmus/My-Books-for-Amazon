@@ -12,7 +12,7 @@ SERIES = "The Step Stories"
 TITLE1, TITLE2 = "The Wee Scallywag", "and the Gentle Elf"
 AUTHOR = "Anneliese Tauber"
 
-STORY_FILE = "Book1_Story_v17.txt"
+STORY_FILE = "Book1_Story_v18.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 raw = open(os.path.join(B, "Step_Stories_Texts", STORY_FILE), encoding="utf-8").read()
 body = raw[raw.index("Chapter 1."):]
@@ -30,6 +30,7 @@ place = {
     'He laid the log across a stone': 'c02b_lever_test.jpg',
     'A small girl with dark brown hair': 'c02c_storm_carriage.jpg',
     'Ten minutes later the sun came out': 'c02d_rainbow.jpg',
+    'Scally decided to help.': 'c02e_butter_slip.jpg',
     'That evening Hal tried the wheel.': 'd02_jamming_the_wheel.jpg',
     'Hal followed the sound across the yard.': '04_ghost_wheel.jpg',
     'Scally opened the lid.': '05_ghost_trap.jpg',
@@ -56,6 +57,7 @@ place = {
     'They made the line.': '18_fire_night.jpg',
     '“It was a fire,” said the miller, quite gently.': 'd15_miller_scolds.jpg',
     'Afterwards Hal could not sleep.': 'c07a_apology.jpg',
+    'The night before had been the kind you only get once.': 'c08a_loft_stories.jpg',
     'She had slept on a pile of sacks': 'c08b_gucci_crust.jpg',
     '“They are all different,” said Hopsi at last.': '22_flowers_welcome.jpg',
     '“Gran says the Moon pulls on the sea': 'c08c_tides.jpg',
@@ -235,6 +237,7 @@ LINKS = [  # (item number, exact phrase in the story, first occurrence only)
     (13, 'That is the sign. That is enough.'),
     (14, 'Reach or throw'),
     (15, 'That counts'),
+    (16, 'When two things rub, they pull against each other'),
 ]
 linked_done = set()
 
@@ -430,13 +433,13 @@ for lead, t in [
 heading("What each chapter teaches", 2, center=False)
 for lead, t in [
     ("The Stuck Wheel:", "a problem to solve against the clock, and what it feels like to break a rule you were given."),
-    ("The Lord of the Riverbank:", "levers, with a seesaw, a fair test, why a trick catches up with you, and why a rainbow needs the sun behind you."),
+    ("The Lord of the Riverbank:", "levers, with a seesaw, a fair test, friction (butter cures a squeak, not a jam), why a trick catches up with you, and why a rainbow needs the sun behind you."),
     ("The Ghost in the Wall:", "tunnelling, with a marble and a hill (very, very small things only), and why the sun shines."),
     ("The Toad of the Ford:", "genes as a recipe, variation, counting data, why the colour that fits becomes common, and what to do when a friendly stranger asks you to go with them: No, Go, Yell, Tell."),
     ("The Pike and the Torn Tag:", "reach or throw, why light bends in water (a barrow and a lifeguard), a stick test, a puddle race, and why a promise matters."),
     ("The Howl and the Moon:", "why the moon changes shape, with an apple and a lantern, why wolves really howl, and a scientist" + "\u2019" + "s \u201cI do not know\u201d."),
     ("The Hot Night:", "what a fire needs, shouting first, why children let grown-ups put out a fire, and why a bonfire must be put out properly."),
-    ("The Girl with the Apples:", "welcome when the words are not allowed, careful observation, and tides: how the Moon pulls the sea."),
+    ("The Girl with the Apples:", "welcome when the words are not allowed, careful observation, the difference between a story and a lie, and tides: how the Moon pulls the sea."),
     ("The Quick Way and the True Way:", "reading evidence, being brave enough to say no, a crack of light that is not tunnelling, and writing that a mirror turns round."),
     ("The True Name:", "reading mirror writing, and telling the truth when it is hard."),
     ("Sunday:", "saying sorry and mending what you broke, and sunlight that is eight minutes old."),
@@ -467,7 +470,7 @@ for q in [
 ]:
     para(q)
 heading("Words to grow", 2, center=False)
-para("lever, rainbow, inherit, variation, camouflage, bend (refraction), reflection, tunnelling, phase, tide.")
+para("lever, friction, rainbow, inherit, variation, camouflage, bend (refraction), reflection, tunnelling, phase, tide.")
 heading("A note for adults", 2, center=False)
 para("Light travels about three-quarters as fast in water as in air, so \u201ca quarter slower\u201d is a child-sized number. A fish is deeper than it looks when you look into the water from above. Sunlight takes about eight minutes and twenty seconds to reach Earth. The recipe picture of genes is an analogy: real genes are made of DNA. Tunnelling is real quantum behaviour of very small particles, and it matters in how the Sun releases energy; the marble picture is only a way in, and the story is clear that it does not happen to people or ghosts. The moon\u2019s phases come from how much of its sunlit half we can see, not from the Earth\u2019s shadow. Tides come from the Moon\u2019s gravity pulling more strongly on the near side of the Earth than the far side, with the Sun adding to it at full and new moon; the bath-water picture is a simple way in. A mirror swaps front and back, which is why writing reads the wrong way round in a mirror; the Mirror Mill itself is magic. Stranger safety is not about looks: a stranger can be a man or a woman and can seem kind. The signs are a request to keep a secret, offers of sweets or pets, a claim that a parent sent them, or a child being asked for help. Please agree a family code word, like marmalade in the story. In the fire scene the adults put the fire out and the children stay back; please make a family escape plan together. A bonfire must be drowned, stirred and drowned again until the ashes are cold to the hand. These are seed ideas, meant to make children curious, not to be tested at school yet.")
 toc_link()
