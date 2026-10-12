@@ -160,6 +160,14 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Lighter relevance: *Darwin's Radio* (Greg Bear) for the idea of humanity changing from within; *Brave New World*, *The Windup Girl* and *Schismatrix* for background.
 - Differentiators to lean on: Stone's own account then the offspring's, the ordinary families and their resolved odd moments, the senator's bad-luck sociopathy and the American-gun irony, the dolphin-hearing detail, and the decision not to restart.
 
+## Ideas to borrow, adapted (settled 12 Oct 2026)
+Ideas only, transformed into this book's own situation; no borrowed scenes, names or phrasing.
+1. From *Beggars in Spain*: the club argues over what the enhanced owe everyone else (give, trade, withdraw, hide). Here it becomes the debate behind 'change the world for the better', with the quiet majority answering 'owe nothing, stay low'.
+2. From *Gattaca*: after the leak, testing becomes the social weapon. Employers, schools, insurers and campaigns start asking for samples, and carriers must dodge ordinary tests. Here the pressure is rumor and suspicion, and the laureate's denial is the sharpest example. No borrowed trick of swapping samples.
+3. From *Oryx and Crake*: a surviving narrator tells how a genius's private project reached its end, and sorts out what to believe. Here Stone's account is the document the offspring reads and corrects, and Part Two's voice answers it.
+4. From *Darwin's Radio*: officialdom is slow, split and in denial when told humanity is changing from within. Here the leak triggers hearings, experts on both sides and a public that prefers a comfortable explanation, which helps the carriers stay hidden.
+5. From *Blood Music*: a project escapes its maker's control. Already the book's engine (the stroke, the lost index, the carriers who keep going).
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
