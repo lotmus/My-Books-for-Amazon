@@ -4,7 +4,7 @@ Draft written 12 Oct 2026. Claims are limited to what the book does. Items marke
 
 ## Title and series
 - **Title:** Scally and the Sleepless Stream
-- **Subtitle (suggestion):** A Fantasy Adventure with Real Science, for Curious Children Ages 5 to 9
+- **Subtitle (suggestion):** A Fantasy Adventure with Real Science for Curious Kids Ages 6 to 9 (KDP subtitle field only)
 - **Series:** The Step Stories, Book 2. Book 1 is The Wee Scallywag and the Gentle Elf. Add the series on KDP so the two link.
 - **Author:** Anneliese Tauber (the same pen name as Bavarian Cooking Made Simple and Book 1). Lothar's real name appears nowhere in the book or listing.
 - **Cover files:** `Cover_Front_1600x2560.jpg` (front), `Cover_Back_1600x2560.jpg` (text-only back, for a print wrap if wanted). The embedded cover in the EPUB is 1000x1600.
@@ -24,7 +24,7 @@ Children see how floating works, why streams wander and pebbles go round, how an
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
 ## Age and reading
-- Age range: 5 to 9 (read-aloud from 5; the pictures tell the story without reading); grade K to 4. CHECK against KDP's options.
+- Age range: lead with 6 to 9 (read-aloud from 5; the pictures tell the story without reading); grade 1 to 4. Choose the closest option in the KDP form.
 - Language: English (British spelling).
 
 ## Keywords (7 slots, suggestions)

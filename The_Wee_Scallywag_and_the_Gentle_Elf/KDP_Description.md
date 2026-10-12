@@ -4,7 +4,7 @@ Draft written 11 Oct 2026. Claims are limited to what the book actually does. It
 
 ## Title and series
 - **Title:** The Wee Scallywag and the Gentle Elf
-- **Subtitle (suggestion):** A Fantasy Adventure with Real Science, for Curious Children Ages 5 to 9
+- **Subtitle (suggestion):** A Fantasy Adventure with Real Science for Curious Kids Ages 6 to 9 (put it in the KDP subtitle field; the file title stays as is)
 - **Series:** The Step Stories, Book 1
 - **Author field:** Anneliese Tauber (pen name; same persona as Bavarian Cooking Made Simple, a mother of four who read her children many fairy tales). Lothar's real name appears nowhere in the book or listing, as for Bavarian Cooking. CHECK: KDP will want the legal name on the account only.
 
@@ -23,7 +23,7 @@ Includes ten experiments to try and a guide for parents and teachers.
 - "For Parents and Teachers": the scientist's habits the story models, what each chapter teaches, a safety section, and discussion questions.
 
 ## Age and reading
-- Age range: 5 to 9 (read-aloud from 5; the pictures tell the whole story without reading); grade K to 4. CHECK against KDP's options.
+- Age range: lead with 6 to 9 (read-aloud from 5; the pictures tell the story without reading); grade 1 to 4. Choose the closest option in the KDP form.
 - Language: English (British spelling).
 
 ## Keywords (7 slots, suggestions)
@@ -50,3 +50,9 @@ Includes ten experiments to try and a guide for parents and teachers.
 - Also-by: "Also by Anneliese Tauber" lists Bavarian Cooking Made Simple (Lothar, 11 Oct 2026). CHECK: that book is still a draft, so the page has no live link yet.
 - Science check by a teacher or physicist (tunnelling, tides, genes), and a safety read by a teacher or parent, before upload.
 - Do not claim exam results or curriculum coverage in the listing. The standards codes in `Parent_Teacher_Guide.md` are unverified and are not in the book.
+
+## Checks done (12 Oct 2026)
+- Kindle Previewer 3 converted the EPUB with 0 errors and 0 quality issues (Book 1 v14 and Book 2 v3). Not yet looked at on a phone or an e-ink screen.
+- Cover tested at thumbnail size (100 x 160 px): title and author stay readable.
+- Look Inside: Chapter 1 begins after only the title, copyright, contents and a short cast list, so the first 10% is story.
+- Still for the author: final price, categories, and the AI-illustration answer in the KDP form.
