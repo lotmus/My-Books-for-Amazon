@@ -113,7 +113,8 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 
 ## Why Stone does so little after the births (settled 12 Oct 2026)
 - Fear of detection (the six-week visit scared him; any sampling or tracking of the children leaves a record), hubris (he believes the design needs no follow-up), and not wanting to know (an unmonitored result cannot incriminate him). He calls this discipline.
-- He never tests or tracks the children; he only watches from afar. His one real activity in the twelve years is the bench time that makes the rest of the cohort (ch 3).
+- Refinement (settled 12 Oct 2026): Stone does get occasional tests when the parents consent. They are framed as routine follow-ups for corrected-condition families (growth, hearing, development), so the parents agree in good faith and are told nothing else. He keeps them rare because each one leaves a record and frightens him. Outside those tests he only watches from afar. Ch 3 needs a light edit: he withdraws from the standing quarterly checks but still accepts a consented test when a family asks or agrees.
+- He does not run the deep sequencing that would show everything, because that is the one test that would expose him. His one real activity in the twelve years is the bench time that makes the rest of the cohort (ch 3).
 
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
