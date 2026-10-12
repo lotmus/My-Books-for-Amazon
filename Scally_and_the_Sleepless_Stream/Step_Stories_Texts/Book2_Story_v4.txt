@@ -244,6 +244,8 @@ Hal found, in his surprise, that he was smiling. He pushed the apple into the po
 
 “It floats,” said Hal. “The boot floats. I was wrong.” He wrote on the slate, WRONG, in capitals.
 
+“I thought it would sink as well,” said Hopsi. “I was wrong too. That is what a test is for.”
+
 “A boat is only a hollow boot,” said Walt, behind them, “that has got ideas. It floats because, for its size, it is lighter than the water it pushes aside. A hollow thing full of air is light for its size. A stone is heavy for its size, so it sinks. That’s all there is to it.” He took up an axe. “Now. Logs.”
 
 It took all morning. They cut six logs, tied them with Walt’s rope, and laid a deck of planks across the top. Titch tied the knots, and did it faster than anybody, with her tongue between her teeth. Tabitha stood at the edge and watched the water.
@@ -314,7 +316,9 @@ Hal knelt at the water. On the inside of the bend, where it was slow, the stones
 
 “Walt. Why are these two so different?”
 
-“Ah,” said Walt, smiling slowly. “That one’s fresh from the mountain. It’s been in the stream a week. And that one’s been in it a thousand years. The water rolls them, and rolls them, along the bottom, and every roll takes a speck off the corners. Given enough time, a stream will turn a boulder into a pebble.” He turned the round stone in his hand. “The long way makes everything smooth. That’s all it does. It takes time.”
+Hal turned the two stones over in his hands. “I think the round one has been rolled,” he said. “Like a biscuit crumb that has been in my pocket all week.”
+
+“Ah,” said Walt, smiling slowly. “You have it already. That one’s fresh from the mountain. It’s been in the stream a week. And that one’s been in it a thousand years. The water rolls them, and rolls them, along the bottom, and every roll takes a speck off the corners. Given enough time, a stream will turn a boulder into a pebble.” He turned the round stone in his hand. “The long way makes everything smooth. That’s all it does. It takes time.”
 
 Scally had been scratching his head. He sat, one-booted, on a log, a short way off. “It’s miles round these bends,” he said, loudly. “The whole thing is a waste. Look.” He pointed across the grass. “The next three loops come back so close to here, you could throw a stone across. Walt, I’m telling you, there’s a neck of land, just there, ten steps wide. We could cut across, and be at the top of the bend before you’ve had your lunch.”
 
@@ -706,7 +710,7 @@ They all got up, at last, on a ledge forty feet above the stream, in a heap, gas
 
 “It was Dumpling,” said Scally. He could not seem to stop his hands. “She did it.”
 
-“She did,” said Walt, “and so did you.”
+“She did,” said Walt, “and so did you. Next time, throw the rope and stay on the bank. But I thank you, and I mean it.”
 
 They watched the flood. It was brown and ugly and roaring, and it swept away the lower path, the place where they had been, the stones, the whole of the grass they had crossed that morning. Where the Falls had been a column, there was now a tower of foam. And far under the thunder, in a dark gap between two notes of it, the stream said, thin and cold and calm:
 
@@ -795,6 +799,12 @@ They fell in a heap on the bank.
 “I’ve got him,” gasped Titch, “I’ve — oh, Gucci!”
 
 Gucci was sodden, grey as a rat, and furious. He sneezed twice. Then he put his head in Titch’s lap and shook all over.
+
+“You went to the very edge,” said Walt, and his voice was not quite steady. “That is the thing I told you never to do. You lay flat, you held on, and the others held you. That is the only reason this ended well. Next time, shout for the rope first, and let the rope go in, not you.”
+
+“I know,” said Titch, very small. “I did not think. He is my Gucci.”
+
+“That is a good reason,” said Walt, “and still not an excuse. But nobody is hurt, and we all know it now.” Tabitha put her coat round Titch’s shoulders and sat there until the shaking stopped.
 
 “A lever,” said Hal, panting. “The long end goes down a long way and the short end lifts. Told you.”
 
@@ -1059,7 +1069,7 @@ The End
 
 Hal’s Slate: What We Found Out
 
-Hal looked, counted and tested, and wrote it all on his slate. Here it is, with things you can try. Where Hopsi is not sure, she says, “I think.” The magic is marked as magic.
+Hal looked, counted and tested, and wrote it all on his slate. Here it is, with things you can try. Where Hopsi is not sure, she says, “I think.” You do not have to read them all at once: one a night is plenty. The magic is marked as magic.
 
 1. Water runs downhill. Everything falls toward the ground, and a stream is only water on its way to the lowest place it can find. Try it: pour a little water on a tray and tilt the tray.
 
