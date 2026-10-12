@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v10.txt"
+STORY_FILE = "Book2_Story_v11.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -275,11 +275,12 @@ pagebreak()
 
 heading("Meet the Characters", 1, "cast")
 cast = [
-    ("Hal (Halbert) Millersen", "8 and a bit. The miller" + A + "s son, with a slate for his notes. Looks, counts, tests, and writes WRONG when he is."),
-    ("Scally, the wee scallywag", "8. A little devil with pointed ears and a leaf in his hair. He can never resist a scam, a lie or a shortcut. His true name is for special occasions."),
-    ("Hopsi (Elfie Didlhop)", "9. An elf with long swept-back ears. She only says what is true, and this time she has to learn to say “I think”."),
-    ("Titch Mitchel", "8. Red cap, quick fingers and a crust in each hand. The best knot-tier in the valley."),
-    ("Tabitha Smoke", "8. Curly black hair in a bun. Watches carefully and notices what nobody else did."),
+    ("Hal (Halbert) Millersen", "Almost 9. The miller" + A + "s son, with a slate for his notes. Looks, counts, tests, and writes WRONG when he is."),
+    ("Scally, the wee scallywag", "A little devil with pointed ears and a leaf in his hair. He can never resist a scam, a lie or a shortcut. His true name is for special occasions."),
+    ("Hopsi (Elfie Didlhop)", "An elf with long swept-back ears. She only says what is true, and this time she has to learn to say “I think”."),
+    ("Titch Mitchel", "Almost 9. Red cap, quick fingers and a crust in each hand. The best knot-tier in the valley."),
+    ("Tabitha Smoke", "Nearly 8. Curly black hair in a bun. Watches carefully and notices what nobody else did."),
+    ("Pip", "6 and three-quarters. Titch" + A + "s little brother, who guards the mill step while the others are away."),
     ("Gucci", "A wolf cub, now the size of a cushion, who still thinks he is the size of a boot."),
     ("Fourpence", "A small brown bird who hatched from the last square egg. It sings four notes, exactly four."),
     ("Old Walt", "The stream-keeper, with a stiff leg, a hat made of eel-skin and fifty years of listening to water."),

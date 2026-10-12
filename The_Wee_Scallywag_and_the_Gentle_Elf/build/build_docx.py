@@ -12,7 +12,7 @@ SERIES = "The Step Stories"
 TITLE1, TITLE2 = "The Wee Scallywag", "and the Gentle Elf"
 AUTHOR = "Anneliese Tauber"
 
-STORY_FILE = "Book1_Story_v16.txt"
+STORY_FILE = "Book1_Story_v17.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 raw = open(os.path.join(B, "Step_Stories_Texts", STORY_FILE), encoding="utf-8").read()
 body = raw[raw.index("Chapter 1."):]
@@ -313,8 +313,9 @@ cast = [
     ("Hal (Halbert) Millersen", "8. The miller\u2019s son. Brown, tousled hair, chalk on his fingers, a slate under his arm. Dry and steady. Says \u201cAcceptable\u201d when things are bad."),
     ("Titch Mitchel", "8. Dark brown hair under a red knitted cap. Quick, practical, always has a crust. Tears bread into even pieces."),
     ("Scally, the wee scallywag", "A little devil: short sharp pointed ears, messy hair with a leaf in it, a grin like a lit match. Makes bargains and runs up walls. His true name is the puzzle of the book."),
-    ("Hopsi (Elfie Didlhop)", "9. An elf: long swept-back ears, long wavy light-brown hair, a needle and a bowl of hops. Only says what is true."),
-    ("Tabitha Smoke", "8. Curly black hair in a bun. Warm and watchful. Asks the one question nobody else thought of."),
+    ("Hopsi (Elfie Didlhop)", "An elf: long swept-back ears, long wavy light-brown hair, a needle and a bowl of hops. Only says what is true."),
+    ("Tabitha Smoke", "7. Curly black hair in a bun. Warm and watchful. Asks the one question nobody else thought of."),
+    ("Pip", "6. Titch\u2019s little brother. Small, solemn and always one step behind his sister."),
     ("Gucci", "A baby wolf with a grumpy face and a very big appetite for crusts."),
     ("Old Miller Millersen", "A ghost, with a flour-sack cloak and a dusty hat. Polite, lonely, and Hal\u2019s great-great-grandfather."),
     ("The Soft Voice", "A tall thin stranger with sweets, a smile too wide and a quicker way. Never take it."),
