@@ -19,7 +19,7 @@ So Hal, Scally the cheeky little devil, Hopsi the elf who only says what is true
 Children see how floating works, why streams wander and pebbles go round, how an echo measures a cliff, how to count a storm, and why a scientist says "I think". Water, fire, storm and flood safety are woven in, and 48 painted pictures tell the whole story, so even non-readers from age 5 can follow it. Includes experiments and a guide for parents and teachers.
 
 ## What is in the book
-- 11 chapters, about 13,500 words, 81 painted illustrations (read-aloud from age 6; a first chapter book for ages 7 to 10).
+- 11 chapters, about 14,000 words, 83 painted illustrations (read-aloud from age 6; a first chapter book for ages 7 to 10).
 - "Hal's Slate: What We Found Out": 17 short fact and experiment notes.
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
