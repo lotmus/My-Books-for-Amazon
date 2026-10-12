@@ -211,6 +211,12 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 
 - Ch 5 "The Apartment": `drafts/ch05_the_apartment_Stone_v1.md` (outline chapter 5 = old items 8 + 9). June 2010 clinic picnic: Ray and Connie tell Stone the flat-B fire alarm story and that Danny says Stone has 'a nervous heart'; Ray says 'He's real patient with me about it.' Autumn 2011: a note in Stone's mailbox invites him to the apartment; Danny, 11, says he has read it all, including the copy of the Singapore review Stone kept in the vault (found in March, worked out by summer). Consistency: the boy's hearing works within a room or through a wall, not across miles; he finds the vault by reading and reasoning, not by eavesdropping. Ends with Mrs. Aldana knocking at 41 seconds.
 
+## From The Double Helix (James Watson, 1968), used as idea only (12 Oct 2026)
+- Voice: a vain, candid, gossipy first-person scientist who shows more than he admits; a model for Stone's account.
+- Rivalry and secrecy: the race for a result and who sees whose data; echoes Stone's fear of the Singapore team.
+- Credit and consent: Rosalind Franklin's X-ray image was shown to Watson without her knowledge; background to the prologue's consent form and the theme of who owns what is done to people.
+- Appendix gets one sentence of real history. No quotes, and none of these people appear as characters. Watson's name stays out of the book text; credit the 1953 structure to the paper. Re-check the facts.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)

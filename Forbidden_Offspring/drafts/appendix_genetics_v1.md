@@ -8,6 +8,8 @@ This book is fiction, and its central scientific premise is invented. The rules 
 
 ## 1. How inheritance works
 
+DNA is a double helix: two strands twisted around each other, held together by pairs of chemical "letters." James Watson and Francis Crick proposed this structure in 1953, building on X-ray images made by others, notably Rosalind Franklin. Franklin died in 1958 and was not among the three men who shared the 1962 Nobel Prize for the discovery. That history of credit, and of whose data was used with or without consent, is a quiet background to this book's own questions.
+
 Every person has two copies of most genes, one from each parent. A version of a gene is called an *allele*. A person who carries a particular variant on one chromosome copy only is *heterozygous* for it. A person who carries it on both copies is *homozygous*.
 
 When a heterozygous parent has a child, each egg or sperm cell carries one of the parent's two copies, chosen by chance. So each child has a **50 percent chance** of receiving the variant from that parent. That is the rule behind Stone's design: every insert travels by a coin toss.
@@ -59,4 +61,4 @@ Whole-genome sequencing reads a person's DNA and compares it to a reference. Str
 
 ---
 
-**Facts to re-check before publication:** the dates and descriptions in section 3 (2012 paper, 2015 report, 2018 announcement, sentence), the German and US legal summaries, the figure for human timing sensitivity, and the heritability range.
+**Facts to re-check before publication:** the 1953 structure, the Franklin and 1962 Nobel statements in section 1, the dates and descriptions in section 3 (2012 paper, 2015 report, 2018 announcement, sentence), the German and US legal summaries, the figure for human timing sensitivity, and the heritability range.
