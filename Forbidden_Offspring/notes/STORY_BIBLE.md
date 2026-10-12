@@ -152,6 +152,14 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - The senator: born 1 January 2000, he is 30 on 1 January 2030. Senate seats are filled by election or appointment, and the earliest regular election he could take office from is November 2030 (seated January 2031), unless an appointment or special election puts him in earlier in 2030. The presidency requires age 35 by inauguration: he turns 35 on 1 January 2035, so he can run in the 2036 election (campaign 2035-2036). The assassination falls in about 2035-2036.
 - Use invented clinics, hospitals, universities, parties and offices; no real institutions, politicians or events.
 
+## Comparable works (12 Oct 2026)
+- Use for Amazon categories, keywords and the listing's 'for readers of' line. Do not borrow plot, names or phrasing.
+- Closest: *Beggars in Spain* (Nancy Kress): a small enhanced group, secrecy, resentment, the question of what society owes them. Most useful comparison for the cohort and the club.
+- *Gattaca* (1997): genetic discrimination and detection by sequencing, and quiet drama over action. Parallel to the book's 'permanent sequence-detectability'. Difference: here the enhanced people hide, and the threat is exposure and the creator's plan, not a caste system.
+- *Oryx and Crake* (Margaret Atwood): a brilliant scientist designs a replacement for humanity. This is the closest overlap with Stone's aim of replacing mankind within a century, so keep the difference sharp: Stone's replacement happens through ordinary families and ordinary reproduction, not a plague or a designed species, and the offspring decline to continue it.
+- Lighter relevance: *Darwin's Radio* (Greg Bear) for the idea of humanity changing from within; *Brave New World*, *The Windup Girl* and *Schismatrix* for background.
+- Differentiators to lean on: Stone's own account then the offspring's, the ordinary families and their resolved odd moments, the senator's bad-luck sociopathy and the American-gun irony, the dolphin-hearing detail, and the decision not to restart.
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
