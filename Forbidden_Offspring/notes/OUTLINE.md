@@ -41,6 +41,11 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 - Existing trial drafts `ch01` to `ch07` keep their file names for now; they will be merged into the new chapters when the manuscript file is built. Expand each scene by adding detail, not plot.
 - No chapter numbers inside the text beyond the chapter headings.
 
+## Front and back matter (settled 12 Oct 2026)
+- **Prologue: Consent.** A one-page clinic consent form signed by Ray and Connie Pruitt (1999), authorizing one named correction; 'Other procedures authorized: none.' Draft: `drafts/prologue_consent_v1.md`. The epilogue echoes it with a question of consent (Stone and the cure).
+- **Appendix: The Science Behind the Story.** Inheritance rules, germline versus body cells, gene technology, intelligence and the dolphin package, detection, and a fact-versus-fiction table. Draft: `drafts/appendix_genetics_v1.md`. Facts to re-check are listed at its end. Counts toward the 180 pages (about 5 to 6 pages).
+- Then About the Author and Also-by, once the pen name and its rules are settled (Frank Stone is the pen name; its bio and Also-by treatment are still open).
+
 ---
 
 ## PART ONE: STONE (1999 to 2012)
