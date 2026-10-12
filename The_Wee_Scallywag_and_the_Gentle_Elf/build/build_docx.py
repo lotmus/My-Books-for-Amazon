@@ -352,7 +352,7 @@ for b in blocks:
         pagebreak()
         heading("Coming Next", 1, "next")
         centered("The Step Stories, Book 2", 14, italic=True, after=6)
-        centered("A New Path", 30, True, color=RGBColor(0xA8, 0x4B, 0x2A), after=18)
+        centered("Scally and the Sleepless Stream", 26, True, color=RGBColor(0xA8, 0x4B, 0x2A), after=18)
         for line in [
             "The mill wheel is turning. The three white stones still keep their line. The way back to the step is open.",
             "But a boy in the pond winked. A small brown bird will not leave. And the rectangular eggs in the long grass are not all hatched.",
