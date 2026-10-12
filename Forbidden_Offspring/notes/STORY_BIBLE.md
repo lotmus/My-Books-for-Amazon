@@ -65,6 +65,7 @@ Scene text itself is not in the repo yet. Known drafts, per the author:
 - Each child is genetically the couple's own child plus Stone's inserts, so the edits stay heterozygous and the child is raised by ordinary parents.
 - This replaces the earlier phrase "raised off-books." What is off the books is the second protocol: the parents consented to disease correction only and do not know about the rest. Stone is a clinic doctor in the background, not a guardian.
 - Consequences to use: the parents are betrayed too, and the boy's secret includes hiding the truth from them. The cohort children are scattered across ordinary families, so finding each other means tracing clinic records and shared performance anomalies. Stone's cover is the clinic file.
+- Family life (settled 12 Oct 2026): there are odd moments in the families (a child who hears the neighbor's argument through a wall, answers a question before it is asked, reacts to a sound no one else notices). Each one gets resolved; none festers into a break. Families stay intact. Tone: warm and slightly comic, with the dry understatement of the rest of the book, and no menace from the parents.
 - Open: do any parents ever learn? Does the married pair's pregnancy count as the first generation born outside Stone's clinic, with no doctor involved at all?
 
 ## Opening (settled 12 Oct 2026)
