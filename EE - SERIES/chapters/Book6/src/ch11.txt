@@ -48,7 +48,7 @@ P: The series' professional reference product, a smart thermostat, is a sensor, 
 H2: Practice
 P: 1. A buck converts 5 V to 3.3 V at 1 MHz with a 1 µH inductor. Find the load at which it enters DCM.
 P: 2. For a buck with L = 1 µH, R = 10 Ω, fs = 1 MHz, and D = 0.3, find K and the DCM conversion ratio.
-P: 3. A converter's per-cycle losses are 0.3 W at 1 MHz. What are they at an average burst rate of 20 kHz?
+P: 3. A converter's switching loss is 0.3 W at a 1 MHz switching rate. If burst mode reduces its average switching rate to 20 kHz and the energy lost per switching cycle stays constant, what is its average switching loss? Ignore controller quiescent and burst-transition losses.
 P: 4. Why does a multiphase regulator shed phases at light load?
 P: 5. What is the cost of burst-mode operation?
 P: 6. Why does the output voltage rise above D × Vin in DCM if the duty cycle is held fixed?
