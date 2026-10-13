@@ -544,7 +544,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
 
+*The word “sonar” coined at Harvard's wartime Underwater Sound Laboratory.* Pestorius, Frederick M., and David T. Blackstock. “Contributions to the Development of Underwater Acoustics at the Harvard Underwater Sound Laboratory (HUSL).” Proceedings of Meetings on Acoustics 23 (2015): 070008.
+
 *The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+*Gordon Gould's 1957 coinage of “laser.”* Hecht, Jeff. “Short History of Laser Development.” Optical Engineering 49, no. 9 (2010): 091002.
 
 *Mendeleev's table and the predicted elements.* Scerri, Eric R. [The Periodic Table: Its Story and Its Significance](https://openlibrary.org/works/OL8005621W). New York: Oxford University Press, 2006.
 
@@ -613,6 +617,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Colossus and Bletchley Park.* Copeland, B. Jack, ed. Colossus: The Secrets of Bletchley Park’s Codebreaking Computers. Oxford: Oxford University Press, 2006.
 
 *From Lovelace to the web.* Isaacson, Walter. The Innovators. New York: Simon & Schuster, 2014.
+
+*“Google” added as a verb in 2006.* Harris, Scott D. “Dictionary Adds Verb: To Google.” San Jose Mercury News, July 7, 2006.
+
+*Google’s trademark surviving a genericide challenge.* Elliott v. Google, Inc., 860 F.3d 1151 (9th Cir. 2017).
 
 *False news spreads faster than true.* Vosoughi, Soroush, Deb Roy, and Sinan Aral. “The Spread of True and False News Online.” Science 359 (2018): 1146–51.
 

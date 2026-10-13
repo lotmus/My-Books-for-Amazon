@@ -1396,6 +1396,8 @@ Special relativity, published by Einstein in 1905, showed that simultaneity is n
 
 Dolphin intuition does not. Every dolphin has spent its entire life aware, in a way no human's unaided senses are, that a signal takes a real, measurable amount of time to leave, bounce off something, and return — and that where an object is right now and where its echo says it is are two different questions with two different answers depending on distance. Echolocation is not relativity, which concerns light and very high speeds, but it trains the intuition relativity begins from, and echolocating animals have been living with that intuition since long before Einstein needed a train and a lightning bolt to explain the idea to everyone else.
 
+Humans, impressed enough by the trick to copy it, spent the early 1940s building a machine that could do artificially what a dolphin's own biology already did for free. The result, developed at Harvard's wartime Underwater Sound Laboratory, was sonar, an acronym for sound navigation and ranging, coined in deliberate imitation of radar, the land-and-sky version of the same idea already in military use. Dolphin historians, informed that reverse-engineering the trick took a world war and a university laboratory, decline to gloat about it loudly.
+
 Einstein's general theory, which in 1915 extended the special one to gravity, got its most famous public test in 1919. Arthur Eddington led an expedition to the island of Príncipe, off West Africa, and a second British team set up at Sobral, in Brazil, to photograph a total solar eclipse and measure whether starlight passing near the sun bent by the amount Einstein's equations predicted. It did, and the announcement made Einstein an overnight celebrity in a way no physicist before him had been. Dolphin historians note, with the faintest trace of smugness, that confirming this took a ship, an island, a rare eclipse, and a great deal of careful photography, whereas any dolphin confirms the same underlying point about delayed, non-instantaneous signals every time it clicks.
 
 This was not idle abstraction for long. The same mass-energy relationship Einstein's paper implied, E=mc², became, within four decades, the physics behind the atomic bomb, and the century's arms race and Cold War, covered in the chapters that follow, are unthinkable without it. Relativity also turned out to have a mundane, everyday payoff nobody in 1905 could have predicted: satellite clocks in the Global Positioning System drift out of sync with clocks on the ground by measurable amounts because of both their speed and their weaker gravity. The satellite clocks are therefore deliberately set to tick slow before launch, by about 38 microseconds a day, and receivers apply a further relativistic correction for each orbit. Without it, every phone that gives directions would drift off by roughly ten kilometers a day. A theory built to explain light near the sun ended up steering cars down city streets.
@@ -1411,6 +1413,8 @@ The holographic principle, a serious and still-unresolved research program in th
 None of this is offered as a claim that dolphins secretly anticipated theoretical physics, or that intuition is a substitute for the difficult mathematics humans spent a century building. That work deserves genuine compliments specifically because it was hard, and done without the sensory head start dolphins happened to be born with.
 
 Quantum mechanics, in particular, did not stay confined to physics departments. Understanding how electrons behave in materials made the transistor possible in 1947, and the transistor made every computer, phone, and network described in later chapters possible in turn. A century's strangest ideas about light and matter ended up, by a fairly direct chain of consequences, sitting in every reader's pocket.
+
+The same quantum behavior gave the dictionary a second new word. In 1957 the physicist Gordon Gould coined laser as shorthand for light amplification by stimulated emission of radiation, a literal description of the process this paragraph has just explained, predicted by Einstein himself in 1917 and finally put to engineering use four decades later. Gould's own notarized notebook entry later settled a patent fight that ran for decades after the word itself had stopped needing one.
 
 ### The rest of the ledger
 
@@ -1491,6 +1495,8 @@ The war made the theory into machinery. At Bletchley Park, Alan Turing, whose 19
 The transistor, invented at Bell Labs in 1947, replaced the bulky, failure-prone vacuum tube and made a smaller, faster, and dramatically cheaper computer possible. The integrated circuit followed by the late 1950s, packing multiple transistors onto a single chip. Gordon Moore's 1965 observation that the number of components on a chip was doubling every year, revised in 1975 to every two years, held, with adjustments, for decades. It was a compounding rate of improvement with no real precedent among the physical technologies covered earlier.
 
 ARPANET, a US Department of Defense research network, went live in 1969 connecting four university computers. It grew, through the 1970s and 80s, into the modern internet, and the World Wide Web, built by Tim Berners-Lee in 1989-91, gave that network a form ordinary people could actually navigate. The smartphone, arriving commercially with the iPhone in 2007, put a computer more capable than anything in the earlier chapters into a majority of human pockets within about fifteen years — essentially one human generation, start to finish, from four connected computers to several billion.
+
+The same restless habit that renamed British spelling renamed brand names into verbs. Xerox spent decades on an advertising campaign, including the line “you can't Xerox a Xerox on a Xerox,” fighting to keep its own name from settling into the language as the plain word for photocopying, and won. Google tried the same fight once “to google” crossed into the Oxford English Dictionary and Merriam-Webster's, both in 2006, as a lowercase verb for searching the internet on any engine at all; a federal court later rejected an attempt to use that very popularity to cancel Google's trademark outright, ruling that calling an act “googling” does not by itself make the name generic. Dolphin historians, who have no trademark department and nothing to defend, find it tidy that the more completely an American company wins, the faster the language eats its name and dares the company to take it back.
 
 The promise delivered was real: information that had once required a library and a train ticket became available in seconds, coordination across a planet's distance became close to instantaneous, and connection with people whose ancestors had parted ways with one's own tens of thousands of years earlier became, for the first time in this history, recoverable.
 
@@ -2672,7 +2678,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
 
+*The word “sonar” coined at Harvard's wartime Underwater Sound Laboratory.* Pestorius, Frederick M., and David T. Blackstock. “Contributions to the Development of Underwater Acoustics at the Harvard Underwater Sound Laboratory (HUSL).” Proceedings of Meetings on Acoustics 23 (2015): 070008.
+
 *The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+*Gordon Gould's 1957 coinage of “laser.”* Hecht, Jeff. “Short History of Laser Development.” Optical Engineering 49, no. 9 (2010): 091002.
 
 *Mendeleev's table and the predicted elements.* Scerri, Eric R. [The Periodic Table: Its Story and Its Significance](https://openlibrary.org/works/OL8005621W). New York: Oxford University Press, 2006.
 
@@ -2741,6 +2751,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Colossus and Bletchley Park.* Copeland, B. Jack, ed. Colossus: The Secrets of Bletchley Park’s Codebreaking Computers. Oxford: Oxford University Press, 2006.
 
 *From Lovelace to the web.* Isaacson, Walter. The Innovators. New York: Simon & Schuster, 2014.
+
+*“Google” added as a verb in 2006.* Harris, Scott D. “Dictionary Adds Verb: To Google.” San Jose Mercury News, July 7, 2006.
+
+*Google’s trademark surviving a genericide challenge.* Elliott v. Google, Inc., 860 F.3d 1151 (9th Cir. 2017).
 
 *False news spreads faster than true.* Vosoughi, Soroush, Deb Roy, and Sinan Aral. “The Spread of True and False News Online.” Science 359 (2018): 1146–51.
 
