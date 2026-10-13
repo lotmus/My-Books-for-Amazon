@@ -1,15 +1,15 @@
-Sieben Keyword-Felder und drei Kategorien, zugeschnitten auf den deutschen Ratgeber. 
+Sieben Keyword-Felder und drei Kategorien, zugeschnitten auf den deutschen Ratgeber. Die Suchphrasen unten sind Kandidaten: vor der nächsten KDP-Eingabe mit Suchvorschlägen und Ergebnisqualität auf Amazon.de abgleichen; KDP empfiehlt präzise, lesernahe Begriffe und bis zu sieben Felder.
 Titel und Untertitel decken „Auswandern“, USA, Kanada, Australien und Neuseeland schon ab. Die Felder ergänzen die Suchbegriffe, die dort fehlen.
 
-## Keywords (je ein Feld, unter 50 Zeichen)
+## Keywords (je ein Feld; Vorschläge unter 50 Zeichen)
 
-1. Green Card H-1B Visum Wege
-2. Express Entry Kanada Einwanderung
-3. Skilled Migration Australien Punkte
-4. Wegzug Steuern Rente Krankenkasse
-5. Abmeldung Deutschland Umzug Checkliste
-6. Berufsanerkennung Visum Arbeitserlaubnis
-7. Leben Arbeiten Ankommen Kulturschock
+1. USA Arbeitsvisum Green Card Wege
+2. Kanada Express Entry Einwanderung
+3. Australien Skilled Migration Punkte
+4. Neuseeland Arbeitsvisum Einwanderung
+5. Auswandern mit Familie Schule Gesundheit
+6. Abmeldung Steuer Rente Ausland
+7. Planung Auslandsumzug Beruf Wohnkosten
 
 Nicht eintragen: Bestseller, kostenlos, Kindle, andere Autorennamen, und nicht noch einmal nur „Auswandern USA“. Amazon indexiert Titel und Kategorien ohnehin.
 

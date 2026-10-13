@@ -21,3 +21,11 @@ Target reader: **9.5/10** — unusually practical planning sequence; size and co
 ## Release boundary
 
 REV122 is an editorial and production candidate, not a blanket guarantee that every changing immigration, tax, healthcare, or cost claim has been freshly verified. The master and KDP listing are aligned; the live Amazon listing has not been replaced from this workspace.
+
+## REV123 Sales Copy Pass — 13 October 2026
+
+Created `KDP_Beschreibung_REV123.docx` without changing the REV122 manuscript or upload EPUB. The description now opens on the reader's decision before resignation or booking, makes the navigable Schnellstart and country paths a clear benefit, lists the book's concrete planning tools, and discloses that US visa coverage is deepest. Audience, source/stand convention, and professional-advice boundary remain explicit. Refined the German keyword candidates in `categories keywords.txt`; they remain suggestions pending Amazon.de search-result validation.
+
+**Sales review:** KDP description quality 9.4/10; package sellability 8.4/10 (up from 7.8). Strengths: clear audience, a strong decision-stage hook, usable navigation promise, concrete German and destination-specific coverage, and reasonable expectation setting. Remaining limits to a 10: Amazon.de search terms/categories have not been tested in the live interface; no conversion or reader-response data is available; the cover is attractive but the image is not a literal four-country visual; and the guide's broad scope makes concise positioning difficult. The live product page has not been changed.
+
+KDP's current guidance recommends a simple, compelling, professional description, a 4,000-character maximum, and up to seven relevant keywords: https://kdp.amazon.com/en_US/help/topic/G201189630 and https://kdp.amazon.com/en_US/help/topic/G201298500. The REV123 description is 1,243 characters of body copy (160 words), before any KDP formatting.
