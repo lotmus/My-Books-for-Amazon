@@ -193,7 +193,7 @@ P: 9. An ideal LCL filter has an undamped resonance at f_res = (1/(2 pi)) sqrt((
 H2: Chapter 17
 P: 1. Three-phase rated line current is I = S/(sqrt(3)*VLL) = 1500 kVA/(sqrt(3)*480 V) = 1804 A, using 480 V line-to-line.
 P: 2. With Zpu = 5.5% = 0.055, the transformer-limited bolted three-phase fault estimate is Ifault is approximately 1804/0.055 = 32.8 kA rms symmetrical. This assumes a stiff primary source and omits upstream and feeder impedance; determine actual available current and its X/R-dependent peak for equipment selection.
-P: 3. √(2/18) = 0.333.
+P: 3. Using the loss balance in §17.2, set rated-load copper loss times load fraction squared equal to core loss: 18x² = 2. Thus x = √(2/18) = 0.333, or about 33% of rated load, assuming core loss is constant and copper loss scales as x².
 P: 4. 2 + 0.5625 × 18 = 12.1 kW.
 P: 5. The downstream breaker is selected or adjusted to clear faults on its branch before the upstream breaker reaches its trip point, using time-current curves and, where needed, short-time delay or zone-selective interlocking. At high fault currents, use the manufacturers selectivity tables; current ratings alone do not prove discrimination. The upstream device still provides backup for faults outside the downstream zone or if its breaker fails. Confirm coordination at the actual available fault current and keep interrupting and withstand ratings adequate.
 P: 6. The incident energy is roughly proportional to the time the arc burns, so clearing faster releases less energy.
