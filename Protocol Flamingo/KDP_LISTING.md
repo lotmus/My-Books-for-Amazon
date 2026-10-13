@@ -37,7 +37,9 @@ The office that answers the phone is a basement under a passport line. The compa
 
 Protocol Flamingo is a science-fiction novel about a wedding video, a committee that has been meeting since 1947, and the difference between a broadcast and a question. It is the first of the Invasion Storybooks.
 
-For readers who want first contact without a speech from a hangar, and a joke that knows it is also a filing problem.
+The book pairs comic small-town characters and bureaucratic satire with an escalating first-contact mystery, eclipse-scale spectacle, and an emotional resolution built around consent.
+
+Recommended for adult and older teen readers (ages 16+). Includes infant abduction, nonconsensual medical experimentation, involuntary mind control, and brief, non-graphic violence and injury.
 
 ## What is not on the shelf yet
 
