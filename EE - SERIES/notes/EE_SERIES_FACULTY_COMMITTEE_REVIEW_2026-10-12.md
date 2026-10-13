@@ -143,3 +143,13 @@ Book 6 Chapter 1 answer-key follow-up (13 Oct 2026): Problem 5 now states the 1 
 Book 6 answer-key follow-up (13 Oct 2026): expanded Chapter 7 Problem 3 to explain zero-sequence addition of balanced third harmonics and qualify the neutral-current figure; corrected Chapter 11 Problem 3's power/energy units and made its constant-per-cycle-energy and excluded-loss assumptions explicit. With the prior Chapter 1 Problem 5 expansion, these revisions improve three selected answers. Fresh mirror extraction, page renders (141, 144, 146), and hash-matched current KPF/Previewer checks pass. The complete concise-key depth review remains open; committee score unchanged.
 
 Book 6 answer-key follow-up (13 Oct 2026): Chapter 17 Problem 3 now derives the 33% maximum-efficiency load from equal core and load-dependent copper losses and states the modeling assumptions. Page 150 was inspected, the 52-file mirror matches fresh extraction, and Book 6's new KPF plus all nine current-master packages verify. The wider answer-key depth pass and independent specialist review remain open; committee score unchanged.
+
+
+## Book 6 technical follow-up (13 October 2026)
+
+Chapter 8 now models transformer flat-top droop with the effective resistance R_L' || R_PFN, distinguishes the exact exponential from its small-droop approximation, states matching assumptions, and corrects both primary/secondary inductance results. The faculty score remains 8.0/10: this evidence-backed correction improves one worked example and one practice answer but does not close the broader answer-key, independent-review, hardware, or full-layout gates.
+
+
+A fresh 162-page PDF was rendered; pages 51, 54, and 145 were inspected for the revised Section 8.4 model, Practice 8.5 assumptions, and answer. The material fits and reads clearly. The current-master Kindle package verification is still pending.
+
+The final Book 6 master was reconverted after this edit. Previewer reports Supported/Success, zero errors/issues, and "No issues found"; the embedded DOCX hash matches the master. A nine-book current-master KPF/hash/report check passes. These checks do not substitute for external power-engineering peer review or complete device inspection. The Book 6 score remains 8.0/10.

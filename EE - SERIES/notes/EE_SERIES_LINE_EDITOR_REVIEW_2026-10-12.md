@@ -109,3 +109,15 @@ Book 6 answer-depth follow-up (13 Oct 2026): expanded Appendix B Chapter 1 Probl
 Book 6 answer-key follow-up (13 Oct 2026): expanded Chapter 7 Problem 3 with the 360° third-harmonic phase relation and corrected Chapter 11 Problem 3's power-versus-energy units, assumptions, and calculation. Alongside the Chapter 1 savings derivation, these are three localized answer-depth corrections; selected pages 141, 144, and 146 were inspected. This does not close the broader concise-key review or change the line-edit score.
 
 Book 6 answer-key follow-up (13 Oct 2026): expanded Chapter 17 Problem 3 from a result-only answer to the loss-balance relation and its assumptions. The answer is readable on page 150; extraction and current package checks pass. This is a localized completeness improvement, not closure of the broader answer-key review; line-editor score unchanged.
+
+
+## Book 6 equation and answer clarity follow-up (13 October 2026)
+
+Chapter 8 now defines the source and primary-referred load resistances before giving the exact droop relation; the worked answer shows the effective resistance, logarithmic solution, and turns-ratio referral. This improves reproducibility and keeps the approximation visible. No score increase; the current rendered PDF and KPF still need refresh and inspection.
+
+
+The revised Chapter 8 page and answer-key page were visually checked in a fresh PDF (pages 51, 54, and 145); all new notation and assumptions fit cleanly. Kindle package verification remains in progress.
+
+Book 6 Previewer conversion now matches the final master hash and reports Supported/Success with no errors or quality issues. All nine current-master KPFs pass the same exact-hash and clean-report check. Visual review remains limited to selected pages.
+
+The final PDF Appendix A formula summary was also checked on page 139; the effective-resistance definition wraps cleanly and remains readable.
