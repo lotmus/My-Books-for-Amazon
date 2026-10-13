@@ -75,3 +75,6 @@ The Book 6 quad example's 6-minute figure is now presented as an ideal capacity 
 
 
 Book 7 buyer-note refresh (13 Oct 2026): corrected the stale instruction to verify a prior, unspecified repetition trim. The documented Book 7/9 TDR/VNA boundary is already revised, and the current structural audit pairs all 227 counted prompts with answer entries. The revised note explicitly limits what answer-count matching proves and leaves broader fact and solution-depth reviews open. The buyer score remains 7/10; no score increase is supported by these structural checks alone.
+
+
+Book 7 solution-depth follow-up (13 Oct 2026): expanded Chapter 12 Practice Problem 5. With the dielectric constant and other dimensions fixed, the answer explains that a wider trace increases 0.8w + t in the formula denominator, reducing the logarithm and estimated characteristic impedance. The first render exposed unsupported Greek glyphs and body-wide bold; the final answer uses plain-text wording, bolds only the number, and keeps the explanation regular. The DOCX master and regenerated mirror agree. LibreOffice PDF page 166 was inspected and is legible. This local correction does not complete the 227-solution review or change the 7/10 buyer score.
