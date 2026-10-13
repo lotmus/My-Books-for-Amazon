@@ -296,6 +296,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1776–1865: The Republic, With Exceptions — America**
 
+*Noah Webster's dictionary and the American spelling reform.* Kendall, Joshua. The Forgotten Founding Father: Noah Webster's Obsession and the Creation of an American Culture. New York: G. P. Putnam's Sons, 2010.
+
 *The Civil War death toll.* Hacker, J. David. “A Census-Based Count of the Civil War Dead.” Civil War History 57 (2011): 307–48.
 
 *Reconstruction and its abandonment.* Foner, Eric. Reconstruction: America’s Unfinished Revolution, 1863–1877. New York: Harper & Row, 1988.

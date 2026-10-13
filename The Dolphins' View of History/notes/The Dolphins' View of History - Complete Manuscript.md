@@ -884,6 +884,8 @@ Jefferson, once in office, purchased Louisiana from Napoleon in 1803, a deal alr
 
 Britain, still at war with France and still short of sailors, stopped American ships and took men off them. The United States declared war in 1812, invaded Canada without much success, and watched British troops burn the public buildings in Washington in 1814. A lawyer watching a fort hold out overnight wrote a poem that became the national anthem, a song about a flag that dolphin historians find long and, on the evidence of the war, a little ahead of the military situation. Andrew Jackson's victory at New Orleans in January 1815 was real and also late: the peace treaty had already been signed, and the news had not arrived. The country decided it had won anyway. Countries often do.
 
+The new country was arguing itself into a vocabulary as well as a government. Noah Webster's 1783 spelling book taught generations of American schoolchildren to read from the same primer, and his An American Dictionary of the English Language, finished after roughly two decades of work and 26 self-taught languages pressed into service for word origins, appeared in 1828. Webster trimmed British spellings he judged redundant, colour to color, theatre to theater, travelled to traveled, on a mix of simplifying principle and plain nationalism: a country that had just finished arguing its way out of a king, he thought, had no further use for the king's spelling either. Dolphin historians, who settle every linguistic dispute they will ever have with one whistle per individual, rate two decades and twenty-six languages a thorough way to argue about which letters to keep.
+
 ### Removal, cotton, and the bargain coming apart
 
 Jackson's presidency made the democratic claim louder and the racial claim uglier at the same time. More white men could vote. The national bank was destroyed because Jackson said it served the rich, which it partly did. And when the Supreme Court, in Worcester v. Georgia, said the state could not simply seize Cherokee land, Jackson declined to enforce the decision. The Indian Removal Act had already passed. The Trail of Tears followed. "The spirit of the age" is not an alibi. The age had a court, and the president had a choice.
@@ -2421,6 +2423,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Deaths in the London smog of 1952.* Bell, Michelle L., and Devra Lee Davis. “Reassessment of the Lethal London Fog of 1952.” Environmental Health Perspectives 109, suppl. 3 (2001): 389–94.
 
 **1776–1865: The Republic, With Exceptions — America**
+
+*Noah Webster's dictionary and the American spelling reform.* Kendall, Joshua. The Forgotten Founding Father: Noah Webster's Obsession and the Creation of an American Culture. New York: G. P. Putnam's Sons, 2010.
 
 *The Civil War death toll.* Hacker, J. David. “A Census-Based Count of the Civil War Dead.” Civil War History 57 (2011): 307–48.
 
