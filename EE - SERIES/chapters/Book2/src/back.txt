@@ -461,7 +461,7 @@ P: Wien bridge — An RC network with zero phase shift and a gain of 1/3 at f = 
 P: Zero-order hold — An output stage that holds each computed value constant until the next update, producing a staircase.
 H1: Appendix D — Chapter Summaries
 H2: Chapter 1
-P: A circuit is biased to a fixed operating point before a smaller signal rides on top of it; the distance from that point to the nearer output rail is its headroom, and headroom sets the largest undistorted signal the stage can pass; gain and headroom trade against each other for a fixed pair of supply rails, and exceeding that limit produces distortion, most visibly as clipping.
+P: A circuit is biased at an operating point, around which a smaller signal varies. Headroom is the distance from that point to the nearer output rail; it limits the largest undistorted signal. For fixed supply rails, gain and headroom trade off. A signal distorts when it exceeds the stage's linear range; clipping at a rail is one common cause.
 H2: Chapter 2
 P: Digital signals use two voltage ranges rather than a continuous one, separated by a forbidden gap. Noise margin measures how much of that gap protects against misread bits, and it is regeneration — each gate reading and re-outputting a fresh level — that keeps digital signals clean over long chains; binary place-value notation is how those two levels represent multi-bit numbers.
 H2: Chapter 3
