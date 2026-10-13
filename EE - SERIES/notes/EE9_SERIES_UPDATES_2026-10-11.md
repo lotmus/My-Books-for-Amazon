@@ -21,4 +21,4 @@ This extracts `front.txt`, one `src/chNN.txt` per chapter, `src/back.txt`, and t
 
 ## Shared series files
 
-The canonical list and `SCORES.md` live in the parent workspace; both now include Book 9. This repository has no live Book 8 master to update. No cover files are maintained here.
+The canonical list and `SCORES.md` live in the parent workspace; both include Book 9. Book 8's master has since been restored and reviewed; see `notes/EE8_REVIEW_2026-10-12.md`. Book 9's review and safety corrections are recorded in `notes/EE9_REVIEW_2026-10-12.md`. No cover files are maintained here.

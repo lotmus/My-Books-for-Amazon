@@ -16,6 +16,8 @@ Subtitle: From Bits to Waveforms: Sampling, Modulation, Fading, OFDM, MIMO, and 
 <p>Every chapter ends with <b>What You'll Actually Use</b>, an honest list that separates the everyday working tools from the theory you mainly need for exams or deeper study. <b>From the Bench</b> notes add the practical layer: chasing aliases, reading eye diagrams and constellations, protecting an SDR from overload, debugging Wi-Fi throughput, and measuring sleep currents.</p>
 <p>Inside: 34 diagrams, including capacity curves, eye diagrams, error-rate curves, OFDM spectra, LoRa chirps, coin-cell lifetimes, range-Doppler maps, and fiber link budgets, all computed from the worked examples; 256 practice problems, each worked in full with a check and the usual mistake; On the Job notes on who uses each topic; and a linked source list. Written for engineering students and working engineers moving into wireless and SDR. Book 5 of the nine-book Electrical Engineering Series; builds on <i>RF, Microwave, and Transceivers</i> (Book 4).</p>
 
+
+<p><b>Reader level:</b> Recommended for ages 18 and up: engineering students and adults comfortable with algebra, complex numbers, probability, and basic signals. Prior RF and circuit foundations from Books 1 and 4 make the progression smoother. Age is a guide; preparation matters more.</p>
 ## Keywords (7)
 
 1. digital communications textbook
@@ -26,7 +28,9 @@ Subtitle: From Bits to Waveforms: Sampling, Modulation, Fading, OFDM, MIMO, and 
 6. synchronization and equalization
 7. LoRa Bluetooth IoT radio
 
-## Categories (2)
+## Suggested category directions
+
+Choose the closest accurate options currently shown in KDP. Category names and availability vary by format and marketplace; these subject directions are not fixed browse-path guarantees.
 
 1. Kindle Store > Kindle eBooks > Engineering & Transportation > Engineering > Electrical & Electronics > Telecommunications
 2. Kindle Store > Kindle eBooks > Computers & Technology > Networking & Cloud Computing > Wireless Networks

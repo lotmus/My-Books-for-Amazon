@@ -12,7 +12,7 @@ P: Any noise, ringing, or voltage drop smaller than the relevant noise margin ca
 WE: Worked Example 2.1
 PROB: A logic family specifies Vₒₕ(min) = 2.4 V, Vᵢₕ(min) = 2.0 V, Vₒʟ(max) = 0.4 V, and Vᵢʟ(max) = 0.8 V. Find both noise margins.
 SOL: NMʜ = Vₒₕ(min) − Vᵢₕ(min) = 2.4 − 2.0 = 0.4 V. NMʟ = Vᵢʟ(max) − Vₒʟ(max) = 0.8 − 0.4 = 0.4 V. This circuit can tolerate up to 0.4 V of noise on either a high or a low signal without a single bit being misread — these are, in fact, the standard values for classic TTL logic.
-FIG: fig2_1.png | Figure 2.1 — The forbidden zone between Vᵢʟ(max) and Vᵢₕ(min), with the noise margins NMʜ and NMʟ on either side.
+FIG: fig2_1.png | Figure 2.1 — The forbidden zone between Vᵢʟ(max) and Vᵢₕ(min), with the noise margins NMʜ and NMʟ on either side. | A vertical logic-level diagram marks guaranteed output and input high/low thresholds, with noise-margin gaps and a shaded undefined zone.
 WE: Worked Example 2.2
 PROB: A 3.3 V logic output (Vₒₕ(min) = 2.8 V, Vₒʟ(max) = 0.2 V) drives the input of a 5 V logic gate (Vᵢₕ(min) = 2.0 V, Vᵢʟ(max) = 0.8 V). Find both noise margins for this mixed-voltage connection.
 SOL: NMʜ = Vₒₕ(min) − Vᵢₕ(min) = 2.8 − 2.0 = 0.8 V. NMʟ = Vᵢʟ(max) − Vₒʟ(max) = 0.8 − 0.2 = 0.6 V. The two margins need not match, as they do for a single logic family — mixing families gives an asymmetric result, here more tolerant of high-side noise than low-side.

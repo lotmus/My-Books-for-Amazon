@@ -12,7 +12,7 @@ EQ: C = Q / V
 P: Capacitance is a purely geometric property of a given pair of conductors — it depends on their shape, size, separation, and the material between them, but not on Q or V individually, since doubling Q doubles V proportionally, leaving the ratio fixed. Its SI unit is the farad (F), equal to one coulomb per volt; a farad is an enormous unit for practical components, so real capacitors are almost always specified in microfarads (µF, 10⁻⁶ F), nanofarads (nF, 10⁻⁹ F), or picofarads (pF, 10⁻¹² F).
 H2: 6.3 The Parallel-Plate Capacitor
 P: The parallel-plate capacitor is the simplest and most instructive geometry, and its capacitance can be derived directly from the tools already built in this book. Two plates of area A, separated by distance d, carry charges +Q and −Q with surface charge density σ = Q/A on each. From Chapter 4, each charged sheet produces a field σ/(2ε₀) on either side; between the two plates, these fields add (they point the same direction there), while outside the plates they cancel. The field between the plates is therefore:
-FIG: fig6_1.png | Figure 6.1 — A parallel-plate capacitor with a dielectric filling the gap between the plates.
+FIG: fig6_1.png | Figure 6.1 — A parallel-plate capacitor with a dielectric filling the gap between the plates. | Two parallel capacitor plates hold opposite charges, with a dielectric filling the gap and a uniform field drawn between them.
 EQ: E = σ / ε0 = Q / (ε0A)
 P: Combining this with V = Ed from Chapter 5 and C = Q/V gives:
 EQ: C = ε0 A / d

@@ -1,5 +1,5 @@
 H1: Chapter 2. Doping, and the Partner That Gets Scarce
-P: Soup tastes salty after a pinch of salt, not after you have replaced the water. A semiconductor is the same kind of trick. You leave the crystal almost entirely silicon, and you swap in about one foreign atom per million, or per billion. That pinch decides whether the free charges are electrons or holes, and about how many of them there are.
+P: Soup tastes salty after a pinch of salt, not after you have replaced the water. A semiconductor is the same kind of trick. You leave the crystal almost entirely silicon, and you swap in about one dopant atom per million, or per billion. That pinch decides whether the free charges are electrons or holes, and about how many of them there are.
 P: Where you meet this: Sheet-resistance tables in a process manual, the resistivity on a wafer specification, and any data sheet that quotes a doping level or a Hall measurement.
 H2: 2.1 Donors and acceptors
 P: A column-V atom such as phosphorus has one more valence electron than silicon. Sitting on a silicon site, it completes the four bonds and has one electron left, loosely held. A little thermal energy frees that electron into the conduction band. The phosphorus atom, now positive, stays put. It donated an electron. Call its concentration ND. The material is n-type, and the electrons are the majority carriers.
@@ -8,7 +8,7 @@ H2: 2.2 Mass action
 P: In equilibrium, generation and recombination balance. The product of the two carrier concentrations is fixed by the crystal and the temperature, not by how you doped it:
 EQ: n p = ni²
 P: Add donors and you raise n. The product cannot rise with it, so p falls. Add acceptors and the mirror happens. This is why a heavily doped n-type region is full of electrons and starved of holes. The starved population is still real, and it will matter as soon as a junction sweeps those minorities across a boundary.
-FIG: fig2_1.png | Figure 2.1 — Doping raises one carrier population and starves the other. At 10¹⁶ donors per cm³ there are 10¹⁶ electrons and only 10⁴ holes; their product stays 10²⁰.
+FIG: fig2_1.png | Figure 2.1 — Doping raises one carrier population and starves the other. At 10¹⁶ donors per cm³ there are 10¹⁶ electrons and only 10⁴ holes; their product stays 10²⁰. | Log-log plot of carrier concentration against donor doping from 10 to the 8 to 10 to the 18 per cubic centimeter. Electrons, blue, stay at the intrinsic 10 to the 10 until the doping passes it, then rise along the doping. Holes, red, fall as the doping rises, mirror image of the electrons about the 10 to the 10 line. Marked points at a doping of 10 to the 16: electrons 10 to the 16, holes 10 to the 4.
 H2: 2.3 Charge neutrality, the short form
 P: A lump of semiconductor on the bench is not charged up like a capacitor plate. In the bulk, away from surfaces,
 EQ: n + NA = p + ND

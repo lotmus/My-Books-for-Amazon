@@ -1,0 +1,39 @@
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.exe
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.deps.json
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.runtimeconfig.json
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\l22_3_MainWindow.baml
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\l22_3_MainWindow.g.cs
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf_MarkupCompile.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.g.resources
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.AssemblyInfoInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.AssemblyInfo.cs
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.csproj.CoreCompileInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\refint\wpf.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.genruntimeconfig.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\ref\wpf.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.exe
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.deps.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.runtimeconfig.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\bin\Debug\net10.0-windows\wpf.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\l22_3_MainWindow.baml
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\l22_3_MainWindow.g.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\App.g.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf_MarkupCompile.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.g.resources
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.AssemblyInfoInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.AssemblyInfo.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.csproj.CoreCompileInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.sourcelink.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\refint\wpf.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\wpf.genruntimeconfig.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\wpf\obj\Debug\net10.0-windows\ref\wpf.dll

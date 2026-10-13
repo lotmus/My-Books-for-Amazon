@@ -14,14 +14,14 @@ P: The negative sign is the defining feature of this configuration: the output i
 WE: Worked Example 5.1
 PROB: An inverting amplifier has R_f = 100 kΩ and Rᵢₙ = 10 kΩ. Find the output for an input of 0.5 V, and verify the result directly from the golden rules.
 SOL: Gain = −R_f/Rᵢₙ = −100k/10k = −10. Vₒᵤₜ = −10 × 0.5 = −5 V. Checking directly: the inverting input sits at 0 V (virtual ground), so the current into Rᵢₙ is I = (0.5 − 0)/10k = 50 µA. That current has nowhere to go but through R_f, so Vₒᵤₜ = 0 − (50 µA)(100k) = −5 V — matching the formula exactly.
-FIG: fig5_1.png | Figure 5.1 — The inverting amplifier: Rᵢₙ from the source to the virtual-ground inverting input, R_f feeding back from the output.
+FIG: fig5_1.png | Figure 5.1 — The inverting amplifier: Rᵢₙ from the source to the virtual-ground inverting input, R_f feeding back from the output. | An op-amp inverting amplifier has its noninverting input grounded, an input resistor to the inverting node, and a feedback resistor from output.
 H2: 5.3 The Non-Inverting Amplifier
 P: Applying the input directly to the non-inverting terminal, and feeding the output back to the inverting terminal through a voltage divider (R_f from output to the inverting input, Rᵢₙ from the inverting input to ground), gives a gain that is always at least 1 and never inverts the signal:
 EQ: Vₒᵤₜ = (1 + R_f / Rᵢₙ) · Vᵢₙ
 WE: Worked Example 5.2
 PROB: A non-inverting amplifier must provide a gain of exactly 6. If Rᵢₙ = 2 kΩ, find R_f.
 SOL: 6 = 1 + R_f/Rᵢₙ, so R_f/Rᵢₙ = 5, and R_f = 5 × 2k = 10 kΩ.
-FIG: fig5_2.png | Figure 5.2 — The non-inverting amplifier: the signal drives the non-inverting input directly; R_f and Rᵢₙ form the feedback divider.
+FIG: fig5_2.png | Figure 5.2 — The non-inverting amplifier: the signal drives the non-inverting input directly; R_f and Rᵢₙ form the feedback divider. | An op-amp noninverting amplifier applies the signal to the plus input; two resistors form the feedback divider at the minus input.
 H2: 5.4 Real Limitations
 P: A real op-amp's open-loop gain is large but finite, and it falls off with frequency — the gain-bandwidth product (GBW) is roughly constant, so a design that needs high gain at high frequency runs out of available gain sooner than one that needs only modest gain. Slew rate limits how fast the output can move at all, regardless of gain, and becomes a hard ceiling on the largest undistorted signal amplitude at high frequency — a close cousin of Chapter 1's headroom limit, but caused by a rate-of-change constraint rather than a voltage constraint. A small input offset voltage, ideally zero, in practice means the output is not exactly zero even when both inputs are nominally at the same voltage.
 WE: Worked Example 5.3

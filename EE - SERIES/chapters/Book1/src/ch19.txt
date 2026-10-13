@@ -8,7 +8,7 @@ P: The standard forms are decay and growth toward a limit:
 EQ: v(t) = V₀·e^(−t/τ)     and     v(t) = V_f·(1 − e^(−t/τ))
 P: where τ is the time constant, equal to RC for a resistor-capacitor pair and L/R for a resistor-inductor pair — both of which you verified dimensionally in Chapter 13.
 P: The numbers worth memorizing are these: after one time constant, a decaying quantity has fallen to 37% of its initial value, and a rising one has reached 63% of its final value. After three time constants, 95%. After five, 99.3%, which is why "five time constants" is the conventional engineering definition of settled.
-FIG: fig19_1.png | Figure 19.1 — Charging and discharging exponentials, marked at one, three, and five time constants.
+FIG: fig19_1.png | Figure 19.1 — Charging and discharging exponentials, marked at one, three, and five time constants. | Charging and discharging exponential curves are plotted against time, with vertical markers at one, three, and five time constants.
 WE: Worked Example 19.1
 P: A 10 µF capacitor charges through a 47 kΩ resistor toward 5 V. How long until it reaches 4 V?
 P: First the time constant: τ = RC = (47 × 10³)(10 × 10⁻⁶) = 0.47 s. Note the prefix cancellation from Chapter 14 — kilo times micro is milli, so 47 × 10 = 470 ms directly.
@@ -16,7 +16,7 @@ P: The charging equation: v(t) = 5(1 − e^(−t/τ)).
 P: Set v = 4 and solve. Divide by 5: 0.8 = 1 − e^(−t/τ), so e^(−t/τ) = 0.2.
 P: Take natural logarithms of both sides: −t/τ = ln(0.2) = −1.609.
 P: So t = 1.609τ = 1.609 × 0.47 = 0.756 s.
-P: Sanity check: 4 V is 80% of the final value, which should fall between one time constant (63%) and three (95%), and closer to the lower end. It does — 1.6 time constants. That kind of rough check catches sign errors in the logarithm, which are easy to make and otherwise invisible.
+P: Reasonableness check: 4 V is 80% of the final value, which should fall between one time constant (63%) and three (95%), and closer to the lower end. It does — 1.6 time constants. That kind of rough check catches sign errors in the logarithm, which are easy to make and otherwise invisible.
 H2: 19.2 Logarithms
 P: The logarithm answers the question "to what power?" If 10³ = 1000, then log₁₀(1000) = 3. Two bases matter in engineering: base 10, written log, and base e ≈ 2.71828, written ln. Exponential circuit behavior requires ln; decibels and log-frequency axes use log.
 P: The three properties that do all the work convert multiplication into addition, division into subtraction, and powers into multiplication:
@@ -25,7 +25,7 @@ P: The first of these is the entire reason decibels exist. Cascaded stages multi
 H2: 19.3 The Decibel
 P: The decibel expresses a power ratio logarithmically:
 EQ: G(dB) = 10·log₁₀(P_out/P_in)
-FIG: fig19_2.png | Figure 19.2 — A decibel cheat sheet worth memorizing: +3 dB is about double the power, +10 dB is ten times, and because power goes as voltage squared, +6 dB doubles the voltage.
+FIG: fig19_2.png | Figure 19.2 — A decibel cheat sheet worth memorizing: +3 dB is about double the power, +10 dB is ten times, and because power goes as voltage squared, +6 dB doubles the voltage. | A ladder of decibel values, not to scale, from minus 30 to plus 30 dB, with the matching power ratio above and voltage ratio below: minus 30 dB, power 1/1000, voltage 0.032; minus 20, 1/100, 0.1; minus 10, 1/10, 0.32; minus 6, 1/4, 0.5; minus 3, 1/2, 0.71; 0 dB, 1, 1; plus 3, 2, 1.41; plus 6, 4, 2; plus 10, 10, 3.16; plus 20, 100, 10; plus 30, 1000, 31.6. Formula: dB equals 10 log of the power ratio, equals 20 log of the voltage ratio.
 P: For voltage or current ratios, the factor is 20 rather than 10, because power is proportional to the square of voltage and the square becomes a factor of two in front of the logarithm — strictly, this equivalence between the voltage-ratio and power-ratio forms of the decibel holds only when input and output are measured across the same impedance, which is the common case this book assumes unless stated otherwise:
 EQ: G(dB) = 20·log₁₀(V_out/V_in)
 P: The values worth memorizing are few. 3 dB is a factor of 2 in power. 6 dB is a factor of 2 in voltage. 10 dB is a factor of 10 in power. 20 dB is a factor of 10 in voltage. Negative values are the reciprocals: −3 dB is half the power, which is why the corner frequency of a filter — where the response is 1/√2 in voltage, and therefore half in power — is called the 3 dB point.

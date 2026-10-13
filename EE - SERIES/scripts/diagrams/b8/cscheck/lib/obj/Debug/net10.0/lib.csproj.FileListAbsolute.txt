@@ -1,0 +1,23 @@
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\bin\Debug\net10.0\lib.deps.json
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\bin\Debug\net10.0\lib.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\bin\Debug\net10.0\lib.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.AssemblyInfoInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.AssemblyInfo.cs
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.csproj.CoreCompileInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\refint\lib.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\ref\lib.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\bin\Debug\net10.0\lib.deps.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\bin\Debug\net10.0\lib.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\bin\Debug\net10.0\lib.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.AssemblyInfoInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.AssemblyInfo.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.csproj.CoreCompileInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.sourcelink.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\refint\lib.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\lib.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\lib\obj\Debug\net10.0\ref\lib.dll

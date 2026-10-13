@@ -16,6 +16,8 @@ Author: Lothar J. Musiol
 <p>Inside: 56 diagrams, more than 70 worked examples, 156 practice problems with every solution worked in full, On the Job notes from working engineers' roles, a formula reference, a glossary and a circuit-analysis checklist.</p>
 <p>This is a textbook, not a popular-science tour: it uses equations and expects you to work problems. If you want a readable, rigorous foundation that tells you what matters in practice, for a first EE course, a career change or a refresher, start here. Book 1 of the nine-book Electrical Engineering Series.</p>
 
+
+<p><b>Reader level:</b> Recommended for ages 16 and up, including advanced high-school students and adults. Algebra and trigonometry are helpful; calculus is introduced gently and is not required in every chapter. Age is a guide; readiness for the stated math matters more.</p>
 ## Keywords (7)
 
 1. electronics textbook for beginners
@@ -26,7 +28,9 @@ Author: Lothar J. Musiol
 6. electromagnetism for engineers
 7. engineering math decibels
 
-## Categories (2)
+## Suggested category directions
+
+Choose the closest accurate options currently shown in KDP. Category names and availability vary by format and marketplace; these subject directions are not fixed browse-path guarantees.
 
 1. Kindle Store > Kindle eBooks > Engineering & Transportation > Engineering > Electrical & Electronics > Circuits
 2. Kindle Store > Kindle eBooks > Science & Math > Physics > Electromagnetism

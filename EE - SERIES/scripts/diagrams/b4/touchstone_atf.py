@@ -1,6 +1,6 @@
-"""Book 4, Chapter 48: a minimal Touchstone 1.1 reader for a 2-port file with a noise block,
-and the stability, gain and noise calculations of Worked Examples 48.1-48.5.
-Standard library only. Check against scikit-rf with check_skrf() if it is installed."""
+"""Book 4, Chapter 48: minimal legacy Touchstone 1.x two-port S-parameter reader with a noise block.
+It does not parse sectioned Touchstone 2.0 or 2.1 files. Calculates stability, gain and noise for Examples 48.1-48.5.
+Standard library only. Run check_touchstone_formats.py beside this file to exercise MA/DB/RI, Hz/kHz/MHz/GHz, and 50/75-ohm references against the included sample. This is not an automated scikit-rf comparison; compare the parsed values separately for an independent cross-check."""
 import cmath, math
 def read_s2p(path):
     unit, fmt, z0 = 1e9, 'MA', 50.0

@@ -29,16 +29,18 @@ def run(src, outdir):
         if cur == 'pending_part': cur = order[-1]
         L = buf[cur]
         if blips:
-            names = []
-            for b in blips:
+            names = []; alts = []
+            docprs = p.findall('.//' + qn('wp:docPr'))
+            for i, b in enumerate(blips):
                 part = rels[b.get(qn('r:embed'))].target_part
                 cap = ptext(ps[k+1]).strip() if k + 1 < len(ps) else ''
                 m = re.match(r'Figure (\d+)\.(\d+)', cap)
                 fn = 'fig%s_%s.png' % m.groups() if m else os.path.basename(part.partname)
                 open(outdir + '/fig/' + fn, 'wb').write(part.blob); names.append(fn)
+                alts.append((docprs[i].get('descr') or '').strip() if i < len(docprs) else '')
             cap = ptext(ps[k+1]).strip() if k + 1 < len(ps) else ''
             if cap.startswith('Figure'): skip = True
-            L.append('FIG: ' + ', '.join(names) + ' | ' + cap); continue
+            L.append('FIG: ' + ', '.join(names) + ' | ' + cap + ' | ' + ' / '.join(alts)); continue
         if not t: continue
         if s in ('Heading2', 'Heading3'): L.append(('H2: ' if s == 'Heading2' else 'H3: ') + t); continue
         if t in ('Key Idea', 'Common Misconception', 'From the Bench'): pending = {'Key Idea': 'KEY', 'Common Misconception': 'MIS', 'From the Bench': 'BENCH'}[t]; continue

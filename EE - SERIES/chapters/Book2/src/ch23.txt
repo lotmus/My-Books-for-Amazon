@@ -15,7 +15,7 @@ EQ: V_REF = V_BE + K (kT/q) ln N,    K = |dV_BE/dT| / ((k/q) ln N)
 WE: Worked Example 23.2
 PROB: Using V_BE = 0.65 V with a slope of −2.0 mV/K and the N = 8 pair of Worked Example 23.1, find the gain K that gives zero slope at 300 K and the resulting reference voltage.
 SOL: K = 2.0/0.179 = 11.16. The PTAT term contributes 11.16 × 53.8 mV = 0.600 V, so V_REF = 0.65 + 0.60 = 1.25 V. A larger area ratio reduces the gain needed but costs silicon area; N = 24 would need K = 7.30.
-FIG: fig23_1.png | Figure 23.1 — V_BE falling at about 2 mV/K, the scaled PTAT term K·ΔV_BE rising at the same rate, and their sum, which is flat near 1.25 V at 300 K.
+FIG: fig23_1.png | Figure 23.1 — V_BE falling at about 2 mV/K, the scaled PTAT term K·ΔV_BE rising at the same rate, and their sum, which is flat near 1.25 V at 300 K. | Temperature plot shows V_BE falling, the scaled PTAT term rising, and their sum staying nearly flat around 1.25 V at 300 K.
 H2: 23.3 A Working Circuit
 P: One common arrangement uses an op-amp to force equal voltages at the top of two equal resistors R₂, so that both branches carry the same current I. The left branch ends in a unit transistor Q₁. The right branch passes through a resistor R₁ and then an N-times transistor Q₂. Because the op-amp holds the two branches at the same voltage, the extra V_BE of Q₁ appears across R₁: I·R₁ = ΔV_BE. The current is therefore PTAT, and the output, measured at the top of the left branch, is V_BE₁ + I·R₂.
 EQ: I = ΔV_BE / R₁,    V_REF = V_BE₁ + (R₂/R₁) ΔV_BE

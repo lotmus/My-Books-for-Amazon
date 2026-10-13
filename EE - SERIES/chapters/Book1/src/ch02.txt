@@ -12,7 +12,7 @@ EQ: F = k q1q2 / r2
 P: where q₁ and q₂ are the magnitudes of the two charges, r is the distance between them, and k is the Coulomb constant:
 EQ: k = 8.99 × 109 N·m2/C2
 P: The force is directed along the line connecting the two charges. If the charges have the same sign, the force is repulsive; if opposite, attractive. This is a vector equation in disguise — vector, meaning a quantity carrying both a size and a direction, unlike the plain numbers used so far — writing it as a magnitude is convenient, but you must always track direction separately, especially once more than two charges are involved.
-FIG: fig2_1.png | Figure 2.1 — Coulomb's law: like charges repel, with equal and opposite forces along the line joining them.
+FIG: fig2_1.png | Figure 2.1 — Coulomb's law: like charges repel, with equal and opposite forces along the line joining them. | Two positive point charges sit on a horizontal line. Equal force arrows point away from each charge, showing repulsion.
 P: The Coulomb constant is often written in terms of a more fundamental quantity, the permittivity of free space, ε₀:
 EQ: k = 1 / (4πε0) ,   ε0 = 8.85 × 10−12 C2/(N·m2)
 P: This looks like an unnecessary complication when you are only dealing with two point charges, but the 4π factor is there so that later results — Gauss's law in particular — come out clean. You will see the payoff in Chapter 4.
@@ -31,7 +31,7 @@ SOL: By symmetry, the force from each of the other two charges has the same magn
 H2: 2.4 When Coulomb's Law Stops Being Enough
 P: Coulomb's law as stated applies exactly to point charges (or equivalently, spherically symmetric charge distributions, measured from outside the sphere) that are not accelerating. Real charge distributions — a charged rod, a charged disk, the electron cloud of an atom — must be handled by dividing the distribution into infinitesimal point charges and integrating. That machinery is exactly what Gauss's law, introduced in Chapter 4, is built to avoid having to do by brute force whenever the charge distribution has enough symmetry.
 MIS: Students frequently write Coulomb's law with the separation r substituted as if it were always measured from a fixed origin, rather than the actual distance between the two charges in question. Once you move beyond a single pair of charges arranged conveniently on an axis, r for any given pair is always the straight-line distance between that specific pair, recomputed freshly for each pair under consideration — not a coordinate borrowed from somewhere else in the problem.
-BENCH: Sanity-check the exponent before you question the physics. With k ≈ 9 × 10⁹ N·m²/C², two 1 nC charges a millimeter apart push with about 9 mN. If your answer for small charges comes out in kilonewtons, a nano or micro went missing somewhere, which is by far the most common mistake in this chapter.
+BENCH: Check the exponent before you question the physics. With k ≈ 9 × 10⁹ N·m²/C², two 1 nC charges a millimeter apart push with about 9 mN. If your answer for small charges comes out in kilonewtons, a nano or micro went missing somewhere, which is by far the most common mistake in this chapter.
 H3: Practice Problems
 LI: Two point charges of +4.0 µC and −6.0 µC are separated by 30 cm. Find the magnitude and direction of the force each exerts on the other.
 LI: At what separation would two identical charges of +1.0 µC repel each other with a force of exactly 1.0 N?

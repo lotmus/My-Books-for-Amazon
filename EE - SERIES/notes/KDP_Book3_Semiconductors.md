@@ -18,6 +18,8 @@ Author: Lothar J. Musiol
 <p>Every chapter ends with <b>What You'll Actually Use</b>, an honest list that separates the everyday working tools from the theory you mainly need for exams or deeper study. <b>From the Bench</b> notes add the practical layer: forced beta, bias that ignores β, ESD at the connector, flash wear, hot on-resistance and running corners early.</p>
 <p>Inside: 33 diagrams, worked examples with declared values, practice problems with every solution worked in full, parameter lists for datasheet-to-SPICE work, and a linked source list. Written for engineering students and working engineers who want the device physics behind their circuits. Book 3 of the nine-book Electrical Engineering Series; builds on <i>Foundations of Electronics</i> and <i>Circuits, Components, and Control</i>.</p>
 
+
+<p><b>Reader level:</b> Recommended for ages 18 and up, including advanced engineering students and adults. Readers should know basic circuit analysis and be comfortable with algebra, complex numbers, and introductory calculus; Books 1 and 2 provide the intended foundation. Age is a guide; preparation matters more.</p>
 ## Keywords (7)
 
 1. semiconductor device physics
@@ -28,7 +30,9 @@ Author: Lothar J. Musiol
 6. SPICE models from datasheets
 7. electronics engineering textbook
 
-## Categories (2)
+## Suggested category directions
+
+Choose the closest accurate options currently shown in KDP. Category names and availability vary by format and marketplace; these subject directions are not fixed browse-path guarantees.
 
 1. Kindle Store > Kindle eBooks > Engineering & Transportation > Engineering > Electrical & Electronics > Semiconductors
 2. Kindle Store > Kindle eBooks > Science & Math > Physics > Solid-State Physics

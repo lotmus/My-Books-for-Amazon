@@ -8,7 +8,7 @@ P: A physical quantity is written as a numerical value multiplied by a unit. Whe
 P: Because the multiplication is real, units obey ordinary algebraic rules. They multiply, they divide, they cancel. If a current of 2 A flows through a resistance of 3 Ω, then
 EQ: V = IR = (2 A)(3 Ω) = 6 A·Ω = 6 V
 P: and the last step is not a convention but an identity: the volt is defined so that one ampere times one ohm is one volt. Every derived SI unit works this way. Learning to carry units through a calculation, rather than dropping them and reattaching them at the end, converts a whole class of silent errors into loud ones.
-FIG: fig13_1.png | Figure 13.1 — Four SI base units combine to form the derived electrical units.
+FIG: fig13_1.png | Figure 13.1 — Four SI base units combine to form the derived electrical units. | Four SI base-unit boxes feed into a diagram of derived electrical units, showing how combinations of base units form them.
 H2: 13.2 The Seven Base Units
 P: The SI system defines seven base quantities and gives each a base unit. Everything else is built from them by multiplication and division.
 P: Quantity — Unit — Symbol
@@ -46,7 +46,7 @@ P: The constant 2π is dimensionless, so we need only the units of 1/√(LC).
 P: Inductance: H = Wb/A = (V·s)/A. Capacitance: F = C/V = (A·s)/V.
 P: Their product: LC = [(V·s)/A]·[(A·s)/V] = s². The volts cancel, the amperes cancel, and we are left with seconds squared.
 P: Therefore √(LC) has units of seconds, and 1/√(LC) has units of 1/s, which is the hertz. The formula is dimensionally sound.
-P: Notice what this check does and does not tell you. It confirms the structure of the formula. It cannot confirm the factor of 2π, because 2π is dimensionless — dimensional analysis is blind to every dimensionless constant. A formula can be dimensionally perfect and still numerically wrong by a factor of 2π, which is in fact one of the more common errors in resonance calculations.
+P: Notice the limit of this check: dimensional analysis confirms the formula's units but cannot verify dimensionless factors. A formula can have the right units and still miss 2π, a common error in resonance calculations.
 KEY: Carry units through every calculation. Do not strip them at the start and reattach them at the end. Units that fail to cancel correctly are telling you the equation is wrong, and they are telling you before you have wasted an hour on the arithmetic.
 H2: 13.5 Units That Are Not Really Units
 P: Some quantities are ratios of two quantities with the same units, and therefore dimensionless. Gain, efficiency, power factor, reflection coefficient — how much of a signal bounces back when impedances do not match, made precise in Chapter 37 — and the Q factor of a resonant circuit — a single number describing how sharply it rings, made precise in Chapter 36 — are all pure numbers. They are often given a pseudo-unit anyway — "dB", "%", "dimensionless" — as a reminder of what kind of ratio they are.

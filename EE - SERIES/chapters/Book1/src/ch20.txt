@@ -9,7 +9,7 @@ H2: 20.2 The Sinusoid and Its Parameters
 P: A general sinusoid is written
 EQ: v(t) = V_m·sin(ωt + φ)
 P: with three independent parameters. V_m is the amplitude, the peak departure from zero. ω is the angular frequency in radians per second, related to ordinary frequency by ω = 2πf and to the period by ω = 2π/T. φ is the phase, which shifts the waveform along the time axis; a positive φ advances the waveform, moving it earlier.
-FIG: fig20_1.png | Figure 20.1 — A sinusoid's amplitude, period, and phase, shown on a single cycle.
+FIG: fig20_1.png | Figure 20.1 — A sinusoid's amplitude, period, and phase, shown on a single cycle. | A single sinusoidal cycle is labeled with its peak amplitude, period, and phase angle.
 P: Only these three numbers are needed. Two sinusoids of the same frequency can differ only in amplitude and phase, and that observation is the seed of the entire phasor method developed in Chapter 23.
 H2: 20.3 Sine, Cosine, and the Relationship Between Them
 P: Cosine is sine shifted by a quarter cycle: cos θ = sin(θ + 90°). Which one you use as the reference is arbitrary, and different textbooks choose differently, but you must be consistent within a single problem. This series follows the common convention of taking cosine as the reference for phasor work, for reasons that Chapter 22 makes clear.

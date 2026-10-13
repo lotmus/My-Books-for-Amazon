@@ -17,7 +17,7 @@ H2: 23.3 Impedance
 P: With signals represented as phasors, the relationship between voltage and current across any passive component becomes a simple ratio, and that ratio is called impedance:
 EQ: Z = V/I
 P: Impedance is a complex number measured in ohms. Its real part is resistance, which dissipates power; its imaginary part is reactance, which stores and returns energy without dissipating it. Deriving the three basic impedances is now a short exercise, using the result from Chapter 22 that differentiation becomes multiplication by jω.
-FIG: fig23_1.png | Figure 23.1 — A phasor diagram and its corresponding impedance triangle.
+FIG: fig23_1.png | Figure 23.1 — A phasor diagram and its corresponding impedance triangle. | A phasor diagram sits beside a right-triangle impedance diagram, linking voltage phase to resistance and reactance.
 P: For a resistor, v = iR with no derivative involved, so
 EQ: Z_R = R
 P: For an inductor, v = L·di/dt. Replacing the derivative with jω gives V = jωL·I, so
@@ -28,7 +28,7 @@ P: Three differential relationships have become three algebraic ones. Read the s
 KEY: Impedance turns AC circuit analysis into DC circuit analysis with complex numbers. Series impedances add. Parallel impedances combine by product-over-sum. Voltage dividers, current dividers, Thevenin equivalents — every technique from resistive circuit analysis carries over unchanged, with R replaced by Z and real arithmetic replaced by complex arithmetic. Nothing new needs to be learned; the old methods work.
 H2: 23.4 Reading Phase From Impedance
 P: The angle of the impedance is the phase by which voltage leads current. For a pure resistor the impedance is real, its angle is zero, and voltage and current are in phase. For a pure inductor, Z = jωL has angle +90°, so voltage leads current by a quarter cycle. For a pure capacitor, angle −90°, so voltage lags current.
-P: The traditional mnemonic is "ELI the ICE man": in an inductor (L), voltage E leads current I; in a capacitor (C), current I leads voltage E. It is a silly device and it works.
+P: A common mnemonic is ELI for an inductor (L), where voltage E leads current I, and ICE for a capacitor (C), where current I leads voltage E.
 P: Real components are never pure, and the impedance angle tells you how far from ideal a component is. A capacitor whose measured impedance angle is −88° rather than −90° has a small resistive component, and that two-degree discrepancy is precisely the loss mechanism quantified later in the series as equivalent series resistance.
 WE: Worked Example 23.1
 P: A 1 kΩ resistor is in series with a 0.1 µF capacitor across a 10 V RMS, 1 kHz supply. Find the total impedance, the current, and the voltage across each component.

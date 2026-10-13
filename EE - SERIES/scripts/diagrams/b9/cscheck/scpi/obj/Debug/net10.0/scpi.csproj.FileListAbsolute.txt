@@ -1,0 +1,15 @@
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\bin\Debug\net10.0\scpi.exe
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\bin\Debug\net10.0\scpi.deps.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\bin\Debug\net10.0\scpi.runtimeconfig.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\bin\Debug\net10.0\scpi.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\bin\Debug\net10.0\scpi.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.AssemblyInfoInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.AssemblyInfo.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.csproj.CoreCompileInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.sourcelink.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\refint\scpi.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\scpi.genruntimeconfig.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b9\cscheck\scpi\obj\Debug\net10.0\ref\scpi.dll

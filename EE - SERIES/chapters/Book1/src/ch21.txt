@@ -13,7 +13,7 @@ P: The defining property is worth stating plainly rather than treating as a myst
 H2: 21.2 Rectangular Form
 P: A complex number in rectangular form is written z = a + jb, where a is the real part and b the imaginary part. Both a and b are ordinary real numbers. The whole object can be pictured as a point in a plane, with a measured along the horizontal axis and b along the vertical — the complex plane, or Argand diagram.
 P: That geometric picture is the useful one. A complex number is a point, or equivalently an arrow from the origin to that point. Its length is the magnitude and the angle it makes with the positive real axis is the phase, which connects directly to the sinusoid parameters of Chapter 20.
-FIG: fig21_1.png | Figure 21.1 — The Argand diagram: a complex number as a point, with magnitude and angle.
+FIG: fig21_1.png | Figure 21.1 — The Argand diagram: a complex number as a point, with magnitude and angle. | A vector from the origin to a point in the complex plane is labeled with its real and imaginary components, magnitude, and angle.
 P: Addition and subtraction in rectangular form are componentwise, exactly like adding vectors:
 EQ: (a + jb) + (c + jd) = (a + c) + j(b + d)
 P: Multiplication follows the ordinary distributive law, with the single extra rule that j² = −1:

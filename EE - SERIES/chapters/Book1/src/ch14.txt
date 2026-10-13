@@ -4,7 +4,7 @@ P: Where you meet this: Part markings such as 4k7, 2R2 and 104, oscilloscope set
 P: Electrical engineering spans an absurd range of magnitudes. The gate capacitance of a modern transistor is measured in femtofarads; the capacitance of a power-factor correction bank is measured in millifarads. That is twelve orders of magnitude, in the same quantity, in the same field. This chapter is about writing such numbers without drowning in zeros.
 H2: 14.1 The SI Prefixes
 P: A prefix multiplies the unit it is attached to by a power of ten. The prefixes used routinely in electrical engineering are these.
-FIG: fig14_1.png | Figure 14.1 — SI prefixes from pico to tera, spaced by their power-of-ten exponent.
+FIG: fig14_1.png | Figure 14.1 — SI prefixes from pico to tera, spaced by their power-of-ten exponent. | A horizontal scale places SI prefixes from pico through tera at successive powers of ten around the base unit.
 P: Prefix — Symbol — Factor
 P: teraSymbol: TFactor: 10¹²
 P: gigaSymbol: GFactor: 10⁹

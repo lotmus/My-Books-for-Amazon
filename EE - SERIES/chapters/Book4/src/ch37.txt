@@ -11,7 +11,7 @@ P: Solution. Ropt = (28 − 3)²/(2 × 10) = 625/20 = 31.25 Ω. The load-pull sw
 H2: 37.2 Efficiency and power-added efficiency
 P: Drain efficiency is the ratio of RF output to DC input. Power-added efficiency subtracts the RF input power, which matters when the gain is modest, as it is at millimeter wave or near compression. Both must be measured with the amplifier's real signal, not only a continuous wave, because modulated signals spend most of their time below peak, where efficiency is lower, as Chapter 23 showed.
 EQ: ηD = Pout / PDC,   PAE = (Pout − Pin) / PDC
-FIG: fig37_1.png | Figure 37.1 — Power-added efficiency against stage gain, for a drain efficiency of 62.5 %. At 13 dB of gain PAE is 59.4 %; at 6 dB it falls to 46.9 %.
+FIG: fig37_1.png | Figure 37.1 — Power-added efficiency against stage gain, for a drain efficiency of 62.5 %. At 13 dB of gain PAE is 59.4 %; at 6 dB it falls to 46.9 %. | Efficiency in percent against stage gain from 3 to 25 decibels. A dashed gray line at 62.5 percent for drain efficiency. A blue curve for power-added efficiency rises toward it, passing 46.9 percent at 6 decibels and 59.4 percent at 13 decibels.
 H2: Worked Example 37.2
 P: Problem. An amplifier delivers 40 dBm with 13 dB of gain from a 16 W DC input. Find the drain efficiency and the PAE.
 P: Solution. Pout = 10 W and Pin = 40 − 13 = 27 dBm = 0.50 W. ηD = 10/16 = 62.5%, and PAE = (10 − 0.5)/16 = 59.4%. With only 6 dB of gain, PAE would fall to (10 − 2.5)/16 = 46.9%, which is why PAE is the honest figure for low-gain stages.

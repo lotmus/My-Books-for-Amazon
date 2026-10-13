@@ -7,7 +7,7 @@ P: Euler's formula states that
 EQ: e^(jθ) = cos θ + j·sin θ
 P: The left-hand side is an exponential — the function from Chapter 19 whose rate of change equals its own value. The right-hand side is a pair of sinusoids — the functions from Chapter 20. The formula asserts they are the same thing, provided the exponent is imaginary.
 P: Geometrically the statement is transparent. The right-hand side is a complex number with real part cos θ and imaginary part sin θ, so by the Pythagorean identity its magnitude is √(cos²θ + sin²θ) = 1, and its angle is θ. So e^(jθ) is the point on the unit circle at angle θ. As θ increases steadily, the point travels around the circle at a constant rate.
-FIG: fig22_1.png | Figure 22.1 — Euler's formula: steady rotation around the unit circle traces out a sinusoid.
+FIG: fig22_1.png | Figure 22.1 — Euler's formula: steady rotation around the unit circle traces out a sinusoid. | A point rotates around the unit circle while a linked sinusoid shows the corresponding cosine and sine components over angle.
 P: That last observation is the whole reason the formula matters to engineers. Steady rotation around a circle, projected onto an axis, is a sinusoid. Euler's formula is the bridge between rotation and oscillation, and AC circuit theory lives on that bridge.
 KEY: e^(jθ) is a unit-length arrow at angle θ. Nothing more mysterious than that. Multiplying any complex number by e^(jθ) rotates it by θ without changing its length, which is the generalization of "multiplying by j rotates by 90°" from the previous chapter — since j itself is e^(j90°).
 H2: 22.2 Polar Form, Properly Written

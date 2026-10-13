@@ -1,4 +1,4 @@
-"""Front covers for EE Series Books 1-7 and back covers for Books 2-7, in the design of cover_book2.png.
+"""Front and back cover drafts for all nine Electrical Engineering Series books.
 
 Canvas 1600 x 2560 px (KDP Kindle ideal, 1:1.6), same as cover_book2.png.
 Measured from cover_book2.png: gold band 0-169, title cap height 93 px with a
@@ -37,8 +37,13 @@ SERIES_MIXED = 'Electrical Engineering Series'
 BOOKS = {
     1: dict(title=['FOUNDATIONS', 'OF ELECTRONICS'],
             tags='PHYSICS · MATHEMATICS · CIRCUIT THEORY',
-            accent=(120, 170, 235), motif='found', back=None,
-            front_name='cover for book 1.jpg'),
+            accent=(120, 170, 235), motif='found',
+            front_name='cover_Book1_front.jpg', back_name='cover_Book1_back.jpg',
+            back=[
+                "Start with the ideas every electronics engineer uses: charge, fields, voltage, current, magnetism, and induction. Then learn the mathematics that makes those ideas precise, from units and complex numbers to phasors and first-order calculus.",
+                "The final section builds circuit theory step by step: Kirchhoff's laws, network theorems, capacitors and inductors, transients, AC power, resonance, frequency response, and impedance matching. Worked examples show each calculation and its limits.",
+                "A practical foundation for students, makers, and engineers moving into electronics, with a clear path to the other books in the Electrical Engineering Series.",
+            ]),
     2: dict(title=['CIRCUITS,', 'COMPONENTS,', 'AND CONTROL'],
             tags='ANALOG · DIGITAL · REAL COMPONENTS',
             accent=(215, 161, 59), motif='circ',
@@ -47,7 +52,7 @@ BOOKS = {
                 "This book is built around the op-amp and the feedback loop.",
                 "It covers analog and digital electronics, logic, op-amps, and active filters, and the real resistors, capacitors, and inductors behind every schematic. Then comparators, instrumentation amplifiers, sample-and-hold circuits, voltage references, oscillators, and digital timing and metastability.",
                 "The control thread runs underneath it all: plant and sensor, PID and lead-lag design, digital control, state feedback and observers, the H-bridge and motor as a plant, the root locus, and the Nyquist criterion with its stability margins.",
-                "Thirty-two chapters. Every number in a worked example was computed, and every practice answer is in the back of the book.",
+                "Worked examples connect the equations to real components and design choices. Practice problems and solutions help you check each step.",
             ]),
     3: dict(title=['SEMICONDUCTOR', 'PHYSICS AND', 'DEVICES'],
             tags='CARRIERS · JUNCTIONS · TRANSISTORS',
@@ -55,7 +60,7 @@ BOOKS = {
             back=[
                 "Why does a diode \u201cturn on\u201d at 0.7 V, and why is that a useful sketch but a bad physical claim? This book opens the blocks that Book 2 dropped into schematics and explains, with numbers, why devices behave the way their data sheets say.",
                 "It starts with the silicon crystal, doping, and the pn junction, then the diode you can actually buy, and on to GaAs, GaN, and InP. From there: the bipolar transistor, the MOSFET from the capacitor up to FinFET and gate-all-around, an op-amp built from its own transistors, CMOS as a chip, LEDs and power devices, and finally how a transistor is made and modeled.",
-                "Twenty-two chapters. More than 80 worked examples. Over 150 practice problems, every answer in the back of the book.",
+                "Worked examples connect device physics to data sheets, models, and measured behavior. Practice problems reinforce the reasoning in each part.",
             ]),
     4: dict(title=['RF, MICROWAVE,', 'AND TRANSCEIVERS'],
             tags='LINES · ANTENNAS · THE ACTIVE RADIO',
@@ -64,7 +69,7 @@ BOOKS = {
                 "This book follows a radio from the copper to the air.",
                 "Part I is the passive structure: transmission lines, the Smith chart, S-parameters, filters, cavities, antennas and arrays, couplers, circulators, and propagation. Part II is the active radio: load lines, amplifier classes and the Doherty, receiver noise, the LNA, mixers, the PLL and synthesizers, radar, the link budget, and digital predistortion.",
                 "The last chapter sets the power amplifier classes side by side and shows how envelope tracking and supply modulation raise average efficiency with real OFDM signals.",
-                "Forty-one chapters, from 1 GHz to millimeter wave. More than 120 worked examples, every practice answer in the back of the book.",
+                "Worked examples carry the analysis from equations to real RF design decisions, with practice problems and solutions throughout.",
             ]),
     5: dict(title=['COMMUNICATIONS,', 'WIRELESS, AND SDR'],
             tags='MODULATION · OFDM · MIMO · SDR',
@@ -72,7 +77,7 @@ BOOKS = {
             back=[
                 "How many bits can a radio channel carry, and how does a receiver written largely in software pull them back out of noise, echoes, and Doppler? This book answers with numbers, from Shannon's limit to a sensor on a coin cell.",
                 "Part I builds a complete link: modulation, sampling and complex baseband, pulse shaping, constellations and EVM, fading, OFDM, coding, MIMO, and the SDR hardware you can buy. Part II opens the modem: filters, synchronization, equalization, pilots, and scheduling. Part III applies it to positioning, massive MIMO, cellular interference, satellites, and IoT radios.",
-                "Twenty-one chapters. More than 120 worked examples. Over 200 practice problems, every answer in the back of the book.",
+                "Worked examples connect communication theory to link budgets, measured signals, and implementation trade-offs. Practice problems and solutions appear throughout.",
             ]),
     6: dict(title=['POWER AND', 'ENERGY'],
             tags='CONVERTERS · MAGNETICS · THE GRID',
@@ -80,7 +85,7 @@ BOOKS = {
             back=[
                 "Every conversion wastes power. This book follows electrical energy from the grid to the processor and the battery, and shows, with numbers, where each watt goes and how to keep it.",
                 "Part I builds the converters: linear regulators, buck, boost, flyback, and LLC, magnetics, power-factor correction, and high voltage. Part II goes inside: losses, loop compensation, light load, batteries, and motor drives. Part III covers the data center, UPS, and the grid. Part IV treats multiphase regulators, gate drivers, pulsed power, solar MPPT, and wireless power.",
-                "Twenty-two chapters. More than 120 worked examples. Nearly 200 practice problems, every answer in the back of the book.",
+                "Worked examples connect converter theory to thermal limits, efficiency, components, and real power systems. Practice problems and solutions appear throughout.",
             ]),
     7: dict(title=['PACKAGING, LAYOUT,', 'EMC, AND TEST'],
             tags='PACKAGES · BOARDS · EMC · TEST',
@@ -88,7 +93,25 @@ BOOKS = {
             back=[
                 "This is where the series meets the physical product.",
                 "Part I covers packages, chiplets, and HBM, power delivery at 875 amperes, board materials and stack-up, decoupling, crosstalk, loss and the eye, optical interconnect, heat, MEMS, reliability, antenna-in-package, design for test, and TDR and VNA measurement. Part II covers EMC: why boards and cables radiate, limits and detectors, chambers and LISNs, filters, immunity, and the day in the lab.",
-                "The book closes with a robot that uses nearly every book in the series at once. Twenty-nine chapters, 110 worked examples, and 221 practice problems, every answer in the back of the book.",
+                "The book closes with a robot that brings all nine subject areas together. Worked examples and practice problems connect package, board, thermal, EMC, and test decisions.",
+            ]),
+    8: dict(title=['FIRMWARE AND', 'SOFTWARE FOR', 'ELECTRONICS'],
+            tags='EMBEDDED | REAL-TIME | TEST | FPGA',
+            accent=(163, 145, 235), motif='firm',
+            front_name='cover_Book8_front.jpg', back_name='cover_Book8_back.jpg',
+            back=[
+                "Electronics products depend on software for timing, sensing, communication, control, and test. This book teaches a practical method for writing firmware that can be reviewed, tested, and trusted on real hardware.",
+                "Work from embedded C and MicroPython through timers, buses, state machines, real-time scheduling, low-power design, sensor fusion, wireless links, updates, security, and edge AI. Then use Python and C# for PC tools, debugging, and automated instrument tests, and Verilog for FPGA logic.",
+                "Examples name their target platforms and distinguish PC simulation from board-dependent behavior. A practical guide for students, makers with circuit experience, and engineers who need software to behave predictably on electronics.",
+            ]),
+    9: dict(title=['TEST AND', 'MEASUREMENT', 'INSTRUMENTS'],
+            tags='MEASURE | CALIBRATE | INTERPRET',
+            accent=(232, 190, 84), motif='measure',
+            front_name='cover_Book9_front.jpg', back_name='cover_Book9_back.jpg',
+            back=[
+                "A measurement is only useful when the instrument is appropriate, connected safely, and understood. Learn how accuracy, resolution, uncertainty, calibration, grounding, and circuit loading shape the number on the display.",
+                "Choose and use supplies, meters, oscilloscopes, probes, logic analyzers, generators, spectrum analyzers, network analyzers, power sensors, and instrument-control software. Examples show how to set up a measurement, interpret its limits, and preserve enough data to reproduce it.",
+                "Written for engineering students, technicians, makers, and working engineers who need bench measurements they can trust, from first checks to characterization and production test.",
             ]),
 }
 
@@ -482,7 +505,52 @@ def motif_circ(A, acc):
     arrow_end(A, 1292, y, w=4)
 
 
-MOTIFS = dict(found=motif_found, circ=motif_circ, semi=motif_semi, rf=motif_rf, comms=motif_comms, power=motif_power, pkg=motif_pkg)
+def motif_firm(A, acc):
+    # microcontroller, signal path, and reviewed code panel
+    A.rect(350, 1240, 760, 1480, w=5)
+    A.rect(470, 1300, 640, 1420, w=4)
+    for x in range(385, 730, 46):
+        A.line([(x, 1205), (x, 1240)], col=acc, w=4)
+        A.line([(x, 1480), (x, 1515)], col=acc, w=4)
+    for y in range(1275, 1450, 44):
+        A.line([(315, y), (350, y)], col=acc, w=4)
+        A.line([(760, y), (795, y)], col=acc, w=4)
+    # reviewed code panel and a timing waveform
+    A.rect(900, 1235, 1370, 1415, w=4)
+    for i, length in enumerate((310, 390, 250, 350)):
+        y = 1270 + i * 34
+        A.circle(935, y, 5, col=acc, w=2)
+        A.line([(955, y), (955 + length, y)], col=acc, w=3, a=0.85)
+    A.line([(900, 1510), (1000, 1510), (1000, 1450), (1080, 1450),
+            (1080, 1510), (1180, 1510), (1180, 1450), (1260, 1450),
+            (1260, 1510), (1390, 1510)], col=acc, w=4)
+    arrow_end(A, 1390, 1510, col=acc, w=4)
+
+
+def motif_measure(A, acc):
+    # oscilloscope trace and probe connected to a device under test
+    A.rect(240, 1235, 980, 1500, w=5)
+    A.rect(300, 1285, 920, 1430, w=3)
+    for x in range(330, 901, 95):
+        A.line([(x, 1285), (x, 1430)], col=TRACE, w=2, a=0.8)
+    for y in range(1310, 1420, 36):
+        A.line([(300, y), (920, y)], col=TRACE, w=2, a=0.8)
+    pts = []
+    for i in range(621):
+        x = 310 + i
+        y = 1357 - 42 * math.sin(i / 78 * 2 * math.pi) * (0.72 + 0.18 * math.sin(i / 180))
+        pts.append((x, y))
+    A.line(pts, col=acc, w=4, a=0.98)
+    # probe, ground clip, and device under test
+    A.line([(1050, 1225), (1190, 1360), (1260, 1360)], col=acc, w=5)
+    A.line([(1050, 1225), (1015, 1190)], w=5)
+    A.line([(1260, 1360), (1260, 1440)], w=4)
+    A.rect(1150, 1440, 1370, 1510, w=4)
+    A.line([(1100, 1510), (1420, 1510)], w=4)
+    ground(A, 1260, 1510, w=4)
+
+
+MOTIFS = dict(found=motif_found, circ=motif_circ, semi=motif_semi, rf=motif_rf, comms=motif_comms, power=motif_power, pkg=motif_pkg, firm=motif_firm, measure=motif_measure)
 
 
 # ---------------------------------------------------------------- canvases
@@ -545,7 +613,7 @@ def front(n, b):
     rf = _load('reg', 46)
     k = 571 / rf.getlength(SERIES_MIXED)
     rf = _load('reg', max(10, int(round(46 * k))))
-    for text, yt in ((f'Book {n} of the', 2217), (SERIES_MIXED, 2274)):
+    for text, yt in ((f'Book {n} of 9 in the', 2217), (SERIES_MIXED, 2274)):
         bb = d.textbbox((0, 0), text, font=rf)
         d.text((W / 2 - (bb[2] - bb[0]) / 2 - bb[0], yt - bb[1]), text, font=rf, fill=MUTED)
     return im.convert('RGB')
@@ -611,7 +679,7 @@ def back(n, b):
 
     d.rectangle((480, 1940, 1090, 1945), fill=GOLD)
     mf = _load('reg', 40)
-    for text, yt in ((f'Book {n} of 7 in the', 2005), (SERIES_MIXED, 2057)):
+    for text, yt in ((f'Book {n} of 9 in the', 2005), (SERIES_MIXED, 2057)):
         bb = d.textbbox((0, 0), text, font=mf)
         d.text((785 - (bb[2] - bb[0]) / 2 - bb[0], yt - bb[1]), text, font=mf, fill=MUTED)
     A = Art((0, 2100, W, H))
@@ -630,7 +698,10 @@ def back(n, b):
 def main():
     out = sys.argv[1] if len(sys.argv) > 1 else '.'
     nums = [int(a) for a in sys.argv[2:]] or sorted(BOOKS)
+    os.makedirs(out, exist_ok=True)
     for n in nums:
+        if n not in BOOKS:
+            raise SystemExit('unknown book number: %s' % n)
         b = BOOKS[n]
         f = front(n, b)
         p = os.path.join(out, b.get('front_name', f'cover_book{n}.jpg'))

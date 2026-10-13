@@ -1,0 +1,23 @@
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\bin\Debug\net10.0\nano.deps.json
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\bin\Debug\net10.0\nano.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\bin\Debug\net10.0\nano.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.AssemblyInfoInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.AssemblyInfo.cs
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.csproj.CoreCompileInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\refint\nano.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\ref\nano.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\bin\Debug\net10.0\nano.deps.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\bin\Debug\net10.0\nano.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\bin\Debug\net10.0\nano.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.AssemblyInfoInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.AssemblyInfo.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.csproj.CoreCompileInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.sourcelink.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\refint\nano.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\nano.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\nano\obj\Debug\net10.0\ref\nano.dll

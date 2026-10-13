@@ -3,7 +3,7 @@ P: Faced with a tangle of resistors and sources, nodal analysis gives you a reci
 P: Where you meet this: Circuit simulators (which use modified nodal analysis), op-amp circuit analysis, and bias calculations.
 H2: 28.1 The Idea Behind Nodal Analysis
 P: Series/parallel reduction (Chapter 27) fails as soon as a circuit contains a configuration where no two resistors are purely in series or purely in parallel with each other — a bridge circuit is the classic example. Nodal analysis is the first of two systematic methods (mesh analysis, Chapter 29, is the second) that handles any resistive circuit whatsoever, however tangled its topology, by turning the circuit into a system of simultaneous algebraic equations solved once, together, rather than reduced step by step.
-FIG: fig28_1.png | Figure 28.1 — A node voltage and the branch currents leaving it: KCL sets currents out equal to currents in.
+FIG: fig28_1.png | Figure 28.1 — A node voltage and the branch currents leaving it: KCL sets currents out equal to currents in. | A central node voltage connects to several branches; current arrows point outward, illustrating the node equation.
 P: The method treats every node's voltage (relative to a chosen reference node) as an unknown, writes one KCL equation per non-reference node, and solves the resulting system.
 H2: 28.2 Choosing a Reference Node
 P: Since only voltage differences are ever physically meaningful (Chapter 5), one node in the circuit is designated the reference node, arbitrarily assigned a voltage of exactly 0 V, usually chosen to be the node with the most connections (often literally labeled “ground” on a circuit diagram). Every other node's voltage is then understood to mean its voltage relative to this reference.

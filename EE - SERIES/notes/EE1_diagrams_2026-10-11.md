@@ -4,7 +4,7 @@ Old master: bak/2026-10-11 pre-diagrams/Foundations_Book1.docx (MD5 EC15EC72247A
 
 Rebuild (from scripts/diagrams/b1): `python3 figs_b1.py`, then `python3 build_b1.py <old master> t1.docx`, then
 `python3 kindle_links.py t1.docx "kindle_links - Foundations_Book1.json" --out Foundations_Book1.docx`.
-The docx is the master. Note: chapters/Book1 sources predate this pass and no longer match the master.
+The docx is the master. The chapter source mirror was regenerated from the current master on 12 Oct 2026 after the series audit.
 
 What changed
 - Smith chart, impedance matching and bias networks moved out of Part II (math) to the end of Part III as Chapter 37; old Chapters 25-37 renumbered 24-36. Every chapter, section, figure, worked-example and § reference renumbered; TOC, Appendix A (Smith formulas now under Part III), Appendix B solutions, Appendix D summaries, preface and part descriptions updated. Odd heading "38.1a" now 38.2.

@@ -371,7 +371,7 @@ P: Decibel — a logarithmic ratio. 10·log₁₀ for power ratios, 20·log₁�
 P: Derivative — the instantaneous rate of change of a quantity, written dv/dt.
 P: Determinant — a scalar computed from a square matrix. A zero determinant signals that a system has no unique solution.
 P: Dielectric — An insulating material placed between a capacitor's plates to increase its capacitance.
-P: Dimensional analysis — checking that both sides of an equation reduce to the same combination of base units. Blind to dimensionless constants.
+P: Dimensional analysis — checking that both sides of an equation reduce to the same combination of base units. It cannot detect missing dimensionless factors.
 P: Drift velocity — The average velocity of charge carriers in the direction of current flow, superimposed on much larger random thermal motion.
 P: Electric field (E) — Force per unit charge at a point in space; the physical condition set up by charge that a second charge responds to.
 P: Electric flux — A measure of the electric field passing through a given surface.
@@ -467,7 +467,7 @@ P: A changing magnetic flux through a loop induces an electromotive force, by Fa
 H2: Chapter 12 — Toward Maxwell's Equations
 P: Maxwell's four equations — two versions of Gauss's law, Faraday's law, and a corrected Ampere's law — unify everything in this book into one self-consistent system. Maxwell's own addition, the displacement current, completes a symmetry that predicts self-sustaining electromagnetic waves, propagating at a speed computable from ε₀ and μ₀ alone, that turns out to match the measured speed of light exactly — revealing light itself as an electromagnetic wave, and setting up every later book in this series as, in one way or another, a special case of these same four equations.
 H2: Chapter 13 — Quantities, Units, and the SI System
-P: A quantity is a number times a unit, and the multiplication is real, so units obey algebra. Seven SI base units; the electrical derived units are built from four of them. Dimensional analysis catches structural errors for free but is blind to dimensionless constants, including the 2π that separates hertz from radians per second.
+P: A quantity is a number times a unit, and the multiplication is real, so units obey algebra. Seven SI base units; the electrical derived units are built from four of them. Dimensional analysis catches structural errors for free but cannot detect a missing dimensionless factor such as 2π, which distinguishes hertz from radians per second.
 H2: Chapter 14 — Prefixes, Scientific Notation, and Engineering Notation
 P: Prefixes multiply by powers of ten and case is significant. Engineering notation restricts exponents to multiples of three so they map onto prefixes. Reciprocal prefix pairs cancel: micro times mega is one, milli times kilo is one. Exponents must match before mantissas can be added.
 H2: Chapter 15 — Precision, Significant Figures, and Uncertainty
@@ -495,7 +495,7 @@ P: Part III uses Chapters 16, 17, 19, and 24 for transients and Chapters 20 to 2
 H2: Chapter 26 — Circuit Elements and Kirchhoff's Laws
 P: KCL (charge conservation at a node) and KVL (potential as a well-defined function of position, applied around a loop) are the two laws sufficient, together with each element's own v-i relationship, to solve any circuit. The passive sign convention fixes voltage polarity relative to assumed current direction so that power calculations come out with a consistent, interpretable sign.
 H2: Chapter 27 — Equivalent Resistance and Dividers
-P: Series/parallel reduction, whenever it applies, is the fastest path to a solution. The voltage divider splits voltage in proportion to each resistor's own value; the current divider splits current in proportion to the other resistor's value — an inversion worth rederiving rather than memorizing. Most sensors are dividers: a thermistor or LDR changes a resistance and a divider turns it into a voltage. A Wheatstone bridge removes the large common voltage so a small change can be compared or amplified, which is how an analog thermostat and a load cell work, and a divider also brings a 5 V signal safely down to 3.3 V.
+P: Series/parallel reduction, whenever it applies, is the fastest path to a solution. The voltage divider splits voltage in proportion to each resistor's own value; the current divider splits current in proportion to the other resistor's value — an inversion worth rederiving rather than memorizing. A common sensor interface is a divider: a thermistor or LDR changes resistance, and the divider turns that change into a voltage. A Wheatstone bridge removes the large common voltage so a small change can be compared or amplified, which is how an analog thermostat and a load cell work, and a divider also brings a 5 V signal safely down to 3.3 V.
 H2: Chapter 28 — Nodal Analysis
 P: Treating node voltages as unknowns and applying KCL at each non-reference node produces a system solvable for any resistive network, planar or not. Voltage sources between two non-reference nodes require the supernode technique.
 H2: Chapter 29 — Mesh Analysis
@@ -547,6 +547,7 @@ P: David Halliday, Robert Resnick, and Jearl Walker, Fundamentals of Physics —
 H2: Part II — Mathematics and Measurement
 P: Erwin Kreyszig, Advanced Engineering Mathematics — the standard engineering-mathematics reference; it covers every topic in this part in more depth and continues into differential equations, transforms, and vector calculus.
 P: K. A. Stroud (with Dexter J. Booth), Engineering Mathematics — a gentler, more example-driven companion if Kreyszig's pace feels too fast.
+P: Espressif Systems, "ESP32-S3 Series Datasheet," section 5.5 (ADC Characteristics), and ESP-IDF "ADC Calibration Driver" guide: primary references for the input range, calibrated error limit, and correction method used in Chapters 15 and 27.
 H2: Part III — DC and AC Circuit Theory
 P: Charles K. Alexander and Matthew N. O. Sadiku, Fundamentals of Electric Circuits — the standard next-level circuits textbook, with far more worked problems and a treatment of Laplace-domain circuit analysis that this book only opens the door to in Chapter 25.
 P: Paul Horowitz and Winfield Hill, The Art of Electronics — not a substitute for a formal circuits course, but the standard reference for the practical, component-level electronics that the next book in this series builds on.

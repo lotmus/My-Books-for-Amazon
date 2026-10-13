@@ -16,6 +16,8 @@ Author: Lothar J. Musiol
 <p>Every chapter ends with <b>What You'll Actually Use</b>, an honest list that separates the everyday working tools from the theory you mainly need for exams or deeper study. <b>From the Bench</b> notes add the practical layer: self-resonance, stack-ups from the fabricator, LNA placement, ruggedness testing, spur charts and coupler directivity.</p>
 <p>Inside: 54 diagrams, including Smith-chart matching and noise circles, filter and antenna responses, load lines, class waveforms, a simulated acoustic ladder filter, noise cascades and link budgets, all computed from the worked examples; 319 practice problems, each worked in full with a check and the usual mistake; <b>On the Job</b> notes on the RF careers behind the chapters; and a linked source list. Written for engineering students and working engineers moving into RF. Book 4 of the nine-book Electrical Engineering Series; builds on <i>Foundations of Electronics</i>, and Book 5, <i>Communications, Wireless, and SDR</i>, builds on it.</p>
 
+
+<p><b>Reader level:</b> Recommended for ages 18 and up: engineering students and adults with circuit-analysis, phasor, and complex-number foundations. The material is advanced and equation-heavy; Book 1 is the recommended starting point. Age is a guide; preparation matters more.</p>
 ## Keywords (7)
 
 1. RF and microwave engineering
@@ -28,7 +30,9 @@ Author: Lothar J. Musiol
 
 (Pass 2, 11 Oct 2026: keywords unchanged; candidates if one is swapped: "GaN Doherty and CMOS PA design", "SAW BAW filter and FMCW radar". Series wording "nine-book Electrical Engineering Series" left as is for the end-of-series retrofit.)
 
-## Categories (2)
+## Suggested category directions
+
+Choose the closest accurate options currently shown in KDP. Category names and availability vary by format and marketplace; these subject directions are not fixed browse-path guarantees.
 
 1. Kindle Store > Kindle eBooks > Engineering & Transportation > Engineering > Electrical & Electronics > Telecommunications
 2. Kindle Store > Kindle eBooks > Engineering & Transportation > Engineering > Electrical & Electronics > Circuits

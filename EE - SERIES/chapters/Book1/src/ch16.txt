@@ -1,6 +1,6 @@
 H1: Chapter 16 — Algebra for Circuit Analysis
 P: Most circuit problems are not hard because of physics. They are hard because someone solved for the wrong variable on line two. An engineer who can rearrange a formula quickly and check it with units will beat a slower one with a fancier simulator on most days.
-P: Where you meet this: Choosing a resistor for a target gain, solving a divider for an unknown, picking a time constant, and sanity-checking a simulator's output.
+P: Where you meet this: Choosing a resistor for a target gain, solving a divider for an unknown, picking a time constant, and checking a simulator's output.
 P: Circuit analysis produces equations, and equations must be rearranged. The algebra involved is not difficult, but a few specific manipulations recur so often in electrical engineering that they are worth practicing until they are automatic — because an engineer who has to stop and think about them loses the thread of the circuit while doing so.
 H2: 16.1 Rearranging for Any Variable
 P: Ohm's law, V = IR, is three formulas in one. Solving for each in turn gives I = V/R and R = V/I. Every constitutive relation in this series works the same way, and you should be able to move between forms without hesitation.
@@ -14,7 +14,7 @@ P: 1/R₂ = (R₁ − R)/(R·R₁)
 P: Now invert both sides — and this is the step people rush:
 P: R₂ = (R·R₁)/(R₁ − R)
 P: Inverting both sides of an equation is legitimate provided neither side is zero, but note that you must invert each side as a whole. A frequent error is to invert term by term, turning 1/R − 1/R₁ into R − R₁, which is wrong. The reciprocal of a difference is not the difference of the reciprocals.
-P: Sanity check the result: if R₁ = R, the denominator vanishes and R₂ is infinite, which is correct — if the parallel combination already equals one of the resistors, the other must be an open circuit.
+P: Check the result: if R₁ = R, the denominator vanishes and R₂ is infinite, which is correct — if the parallel combination already equals one of the resistors, the other must be an open circuit.
 MIS: The reciprocal of a sum is not the sum of the reciprocals. 1/(a + b) ≠ 1/a + 1/b. This is the single most common algebraic error in parallel-impedance work, and it is worth testing yourself on numbers once: 1/(2 + 2) = 0.25, while 1/2 + 1/2 = 1. The two are not close. The parallel-resistance formula is stated as 1/R = 1/R₁ + 1/R₂ precisely because it is the reciprocals that add, not the resistances.
 H2: 16.2 The Product-Over-Sum Shortcut
 P: For exactly two resistors in parallel, the formula above rearranges to a form worth memorizing:
@@ -33,7 +33,7 @@ H2: 16.4 Quadratics and Where They Come From
 P: Quadratic equations appear in circuit work whenever power is involved, since power is proportional to the square of voltage or current, and whenever a second-order system's characteristic equation is written down. The solution is the familiar formula:
 EQ: x = [−b ± √(b² − 4ac)] / 2a
 P: The discriminant b² − 4ac carries the physical meaning. Positive discriminant gives two distinct real roots — in a second-order circuit, the overdamped case. Zero gives one repeated root, the critically damped case. Negative gives two complex conjugate roots, the underdamped case, which oscillates. Chapters 21 and 22 make the last of these tractable; for now, note only that a negative discriminant is not an error but a signal that the system rings.
-FIG: fig16_1.png | Figure 16.1 — The sign of the discriminant sets the number of real roots of a quadratic.
+FIG: fig16_1.png | Figure 16.1 — The sign of the discriminant sets the number of real roots of a quadratic. | Three parabolas show a quadratic with no real roots, one repeated root, and two real roots as the discriminant changes sign.
 H2: 16.5 Approximations Worth Knowing
 P: Engineers approximate constantly, and two approximations do most of the work. The first is the binomial approximation: for small x,
 EQ: (1 + x)ⁿ ≈ 1 + nx

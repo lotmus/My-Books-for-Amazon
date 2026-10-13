@@ -1,0 +1,29 @@
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.exe
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.deps.json
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.runtimeconfig.json
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.AssemblyInfoInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.AssemblyInfo.cs
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.csproj.CoreCompileInputs.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\refint\timer.dll
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.pdb
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.genruntimeconfig.cache
+C:\Users\lomus\b8xfer\stage\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\ref\timer.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.exe
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.deps.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.runtimeconfig.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\bin\Debug\net10.0\timer.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.AssemblyInfoInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.AssemblyInfo.cs
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.csproj.CoreCompileInputs.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.sourcelink.json
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\refint\timer.dll
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.pdb
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\timer.genruntimeconfig.cache
+D:\My Books for Amazon\EE - SERIES\scripts\diagrams\b8\cscheck\timer\obj\Debug\net10.0\ref\timer.dll

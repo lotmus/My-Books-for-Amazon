@@ -7,7 +7,7 @@ P: Every negative-feedback amplifier, whatever its circuit details, reduces to t
 P: Writing the three relations down and eliminating the error signal gives the closed-loop gain:
 EQ: G = Vₒᵤₜ / Vᵢₙ = A / (1 + Aβ)
 P: The product T = Aβ is the loop gain. It is the gain a signal would see if you broke the loop at any point and traveled once around it. When T is large, the 1 in the denominator hardly matters, and G approaches 1/β. That limit is the whole trick. The closed-loop gain then depends on the feedback network, which is made of resistors you can buy to 0.1%, and hardly at all on A, which may be specified only as "at least 50,000."
-FIG: fig11_1.png | Figure 11.1 — The feedback loop: forward gain A, feedback fraction β, and the subtracting node that forms the error.
+FIG: fig11_1.png | Figure 11.1 — The feedback loop: forward gain A, feedback fraction β, and the subtracting node that forms the error. | Feedback block diagram routes the output through beta to a subtracting node; the resulting error enters forward gain A.
 WE: Worked Example 11.1
 PROB: A non-inverting amplifier uses R_f = 99 kΩ and Rᵢₙ = 1 kΩ around an op-amp with open-loop gain A = 100,000. Find β, the ideal gain, the actual closed-loop gain, and the gain error in percent.
 SOL: The feedback divider returns β = Rᵢₙ/(Rᵢₙ + R_f) = 1k/100k = 0.01 of the output. The ideal gain is 1/β = 100. The loop gain is T = Aβ = 100,000 × 0.01 = 1000. The actual gain is G = A/(1 + T) = 100,000/1001 ≈ 99.90. The error is (100 − 99.90)/100 ≈ 0.0999%, or about 1/T. That last observation generalizes: the fractional gain error of a feedback amplifier is roughly one over its loop gain.

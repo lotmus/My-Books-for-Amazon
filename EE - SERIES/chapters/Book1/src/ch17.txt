@@ -4,7 +4,7 @@ P: Where you meet this: Nodal and mesh analysis (Chapters 28 and 29), SPICE simu
 P: Nodal and mesh analysis, introduced in Part III, turn any resistive circuit into a system of simultaneous linear equations. The circuit theory is the interesting part; solving the system is mechanical. This chapter supplies the mechanics so that Part III can concentrate on the circuits.
 H2: 17.1 What a Linear System Is
 P: A linear equation in several unknowns contains those unknowns only to the first power, multiplied by constants and added. No squares, no products of unknowns, no unknowns inside functions. Two equations in two unknowns look like this:
-FIG: fig17_1.png | Figure 17.1 — Two linear equations in two unknowns: each is a line, and the solution is where they cross.
+FIG: fig17_1.png | Figure 17.1 — Two linear equations in two unknowns: each is a line, and the solution is where they cross. | Two straight lines cross at one point on an x-y graph; the intersection is the solution shared by both equations.
 EQ: a₁x + b₁y = c₁     and     a₂x + b₂y = c₂
 P: Circuit equations from Kirchhoff's laws are always of this form when the components are resistors and the sources are independent, which is why the systematic methods work at all. Nonlinear elements — diodes, transistors — break linearity and require entirely different techniques, taken up later in the series.
 H2: 17.2 Substitution and Elimination

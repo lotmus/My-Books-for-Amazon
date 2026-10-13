@@ -7,7 +7,7 @@ P: The derivative of a quantity with respect to time is its rate of change: how 
 P: Circuit theory is full of derivatives because two of the three basic components are defined by them. A capacitor's current is proportional to the rate of change of its voltage, and an inductor's voltage is proportional to the rate of change of its current:
 EQ: i = C·dv/dt     and     v = L·di/dt
 P: Read these as physical statements rather than formulas. A capacitor passes current only while its voltage is changing — hold the voltage constant and the current stops, which is why a capacitor blocks DC. An inductor develops voltage only while its current is changing — hold the current constant and the voltage vanishes, which is why an inductor is a short circuit to DC.
-FIG: fig24_1.png | Figure 24.1 — Differentiating a sinusoid shifts its phase by 90 degrees; integrating shifts it by -90 degrees.
+FIG: fig24_1.png | Figure 24.1 — Differentiating a sinusoid shifts its phase by 90 degrees; integrating shifts it by -90 degrees. | A sinusoid, its derivative, and its integral are plotted together; the derivative leads by 90 degrees and the integral lags by 90 degrees.
 P: The derivatives you need are few:
 LI: A constant has derivative zero. Nothing changing means no rate of change.
 LI: A straight line v = kt has derivative k, the constant slope.
