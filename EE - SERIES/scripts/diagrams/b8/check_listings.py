@@ -10,7 +10,7 @@
 
 Usage: python3 check_listings.py [listings_dir]     Exit code 0 when every check passes.
 """
-import csv, os, py_compile, subprocess, sys, tempfile, xml.etree.ElementTree as ET
+import configparser, csv, os, py_compile, re, subprocess, sys, tempfile, xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.dont_write_bytecode = True
@@ -136,6 +136,50 @@ for f in sorted(x for x in os.listdir(L) if os.path.isfile(os.path.join(L, x))):
     elif ext == '.csv':
         rows = [r for r in csv.reader(l for l in open(p) if l.strip() and not l.startswith('#'))]
         rec(f, 'csv parse (5 columns per row)', all(len(r) >= 5 for r in rows), '%d rows' % len(rows))
+    elif f == 'l02_2_platformio.ini':
+        try:
+            config = configparser.ConfigParser(interpolation=None, strict=True)
+            with open(p, encoding='utf-8-sig') as source:
+                config.read_file(source)
+            section = 'env:esp32-s3-devkitc-1'
+            required = ('platform', 'board', 'framework')
+            ok = section in config and all(config[section].get(k, '').strip() for k in required)
+            rec(f, 'INI parse (PlatformIO environment)', ok,
+                'required platform/board/framework present' if ok else 'required environment fields missing')
+        except (configparser.Error, OSError) as e:
+            rec(f, 'INI parse (PlatformIO environment)', False, str(e))
+    elif f == 'l26_6_tangnano9k.cst':
+        loc_re = re.compile(r'^\s*IO_LOC\s+"([A-Za-z_][A-Za-z0-9_]*)"\s+(\d+)\s*;\s*(?://.*)?$')
+        port_re = re.compile(r'^\s*IO_PORT\s+"([A-Za-z_][A-Za-z0-9_]*)"\s+IO_TYPE=(LVCMOS(?:18|25|33))'
+                             r'((?:\s+[A-Z][A-Z0-9_]*=[A-Za-z0-9_]+)*)\s*;\s*(?://.*)?$')
+        locs, ports, pins, errors = {}, {}, set(), []
+        try:
+            with open(p, encoding='utf-8-sig') as source:
+                for line_no, line in enumerate(source, 1):
+                    line = line.rstrip('\r\n')
+                    if not line.strip() or line.lstrip().startswith('//'):
+                        continue
+                    loc = loc_re.fullmatch(line)
+                    port = port_re.fullmatch(line)
+                    if loc:
+                        name, pin = loc.groups()
+                        if name in locs or pin in pins:
+                            errors.append('line %d: duplicate signal or pin' % line_no)
+                        locs[name] = pin
+                        pins.add(pin)
+                    elif port:
+                        name = port.group(1)
+                        if name in ports:
+                            errors.append('line %d: duplicate IO_PORT for %s' % (line_no, name))
+                        ports[name] = port.group(2)
+                    else:
+                        errors.append('line %d: invalid constraint syntax' % line_no)
+            if not locs or set(locs) != set(ports):
+                errors.append('IO_LOC and IO_PORT signal names must match')
+            rec(f, 'CST syntax and assignment consistency', not errors,
+                '; '.join(errors) if errors else '%d signals, unique pins' % len(locs))
+        except OSError as e:
+            rec(f, 'CST syntax and assignment consistency', False, str(e))
     elif ext == '.xaml':
         try:
             ET.parse(p); ok, out = True, ''
@@ -144,7 +188,7 @@ for f in sorted(x for x in os.listdir(L) if os.path.isfile(os.path.join(L, x))):
         rec(f, 'XML well-formed', ok, out)
     elif ext == '.cs':
         cs_files.append(f)
-    elif ext in ('.cst', '.ini', '.txt'):
+    elif ext == '.txt':
         rec(f, 'text (not compiled)', None, '')
     else:
         rec(f, 'unknown type', False, '')
