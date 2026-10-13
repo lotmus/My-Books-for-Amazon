@@ -1,6 +1,6 @@
 ## Kapitel 26: Das US-Gesundheitssystem für Neuankömmlinge
 
-Es ist Samstagabend, du bist seit drei Wochen in den USA, und dein Kind hat hohes Fieber. Einen amerikanischen Kinderarzt hast du noch nicht, und die Krankenversicherung deines Arbeitgebers beginnt erst in sieben Wochen. Das ist kein Pech, sondern eine Folge des Systems: In den USA hängt die Krankenversicherung am Job, und zwischen Landung und Versicherungsbeginn liegt oft eine Lücke.
+Samstagabend, drei Wochen nach deiner Ankunft in den USA: Dein Kind hat hohes Fieber. Du kennst noch keinen Kinderarzt, und die Versicherung deines Arbeitgebers beginnt erst in sieben Wochen. Solche Lücken sind im US-System möglich, weil der Versicherungsschutz oft erst nach dem Arbeitsbeginn einsetzt.
 
 > **Kein Rechtsrat:** Stand 30. September 2026. Dieses Kapitel bietet eine Orientierung, keine individuelle Beratung. Prämien, Selbstbehalte und Eigenanteile unterscheiden sich je nach Plan; prüfe vor Abschluss oder Kündigung die Leistungsübersicht deines Plans und die aktuellen Angaben der genannten Behörden.
 
@@ -22,16 +22,14 @@ Verbreiteter Irrtum: „Krankenversicherung“ klinge nach einem System wie der 
 
 Eine bundesweite Versicherungspflicht mit Strafzahlung gibt es seit 2019 nicht mehr; einzelne Staaten wie Massachusetts und New Jersey haben eigene Vorgaben. Unversichert zu sein bleibt für Neuankömmlinge dennoch riskant: Notaufnahmen von Krankenhäusern mit Medicare-Zulassung müssen dich nach dem Bundesgesetz EMTALA untersuchen und stabilisieren, unabhängig von deiner Zahlungsfähigkeit — kostenlos ist das nicht, die Rechnung kommt später. Vorbereitung in Deutschland (GKV-Austritt, Anwartschaft): Kapitel 18; der Weg zurück in die GKV: Kapitel 42.
 
-### Plantypen: HMO, PPO, HDHP und HSA
+**Plantypen: HMO, PPO, HDHP und HSA**
 
-Dein Arbeitgeber bietet oft mehrere Pläne an. Sie unterscheiden sich im Netzwerk (*Network*: die Ärzte und Kliniken, mit denen der Versicherer Preise vereinbart hat) und in der Kostenverteilung. Die Tabelle zeigt die vier häufigsten Typen und ihren Anteil bei Arbeitgeberplänen 2025 (KFF).
+Dein Arbeitgeber bietet oft mehrere Pläne an. Sie unterscheiden sich im Netzwerk (*Network*: die Ärzte und Kliniken, mit denen der Versicherer Preise vereinbart hat) und in der Kostenverteilung. 2025 entfielen laut KFF folgende Anteile der Arbeitgeberpläne auf die vier häufigsten Typen:
 
-| Plantyp | So funktioniert er | Anteil |
-|---|---|---|
-| *PPO* (Preferred Provider Organization) | Netzwerk günstiger; Ärzte außerhalb möglich, aber teurer; Facharzt ohne Überweisung | 46 % |
-| *HDHP* (High Deductible Health Plan) mit Sparoption | Niedrigere Prämie, hoher Selbstbehalt, meist mit HSA | 33 % |
-| *HMO* (Health Maintenance Organization) | Meist nur Netzwerkärzte (außer im Notfall); der Hausarzt steuert Überweisungen | 12 % |
-| *POS* (Point of Service) | Mischform: Netzwerk günstiger, Facharzt per Überweisung des Hausarztes | 9 % |
+- ***PPO* (Preferred Provider Organization), 46 %:** Im Netzwerk günstiger; außerhalb sind Ärzte meist ebenfalls zugänglich, aber teurer. Für Fachärzte brauchst du keine Überweisung.
+- ***HDHP* (High Deductible Health Plan) mit Sparoption, 33 %:** Niedrigere Prämie, hoher Selbstbehalt, meist mit HSA.
+- ***HMO* (Health Maintenance Organization), 12 %:** Meist auf Netzwerkärzte beschränkt (außer im Notfall); der Hausarzt steuert Überweisungen.
+- ***POS* (Point of Service), 9 %:** Mischform: Das Netzwerk ist günstiger; für Fachärzte brauchst du eine Überweisung des Hausarztes.
 
 Dazu kommt der *EPO* (Exclusive Provider Organization), der wie ein HMO nur das Netzwerk bezahlt. HMO-Pläne sind meist günstiger, bei 47 % ihrer Versicherten gibt es keinen Selbstbehalt; dafür schränken sie die Arztwahl ein. Beim PPO zahlst du für die Freiheit mehr Prämie.
 
@@ -43,18 +41,16 @@ Ein HDHP kann günstiger sein, wenn du voraussichtlich wenig Leistungen brauchst
 
 ### Die Begriffe im Überblick
 
-Ein guter Teil des amerikanischen Krankenversicherungsalltags besteht aus acht Wörtern. Die konkreten Beträge unterscheiden sich je nach Arbeitgeber, Tarif und Haushalt. Nutze deshalb die Leistungsübersicht (*Summary of Benefits and Coverage*) deines Plans als Rechengrundlage.
+Bei Arztbesuchen begegnen dir immer wieder dieselben acht Begriffe. Die konkreten Beträge unterscheiden sich je nach Arbeitgeber, Tarif und Haushalt. Nutze deshalb die Leistungsübersicht (*Summary of Benefits and Coverage*) deines Plans als Rechengrundlage.
 
-| Begriff | Bedeutung |
-|---|---|
-| *Premium* | Monatsbeitrag; fällt immer an, auch ohne Arztbesuch. Den Betrag findest du in den Planunterlagen |
-| *Deductible* | Selbstbehalt: der Betrag pro Jahr, den du zuerst selbst zahlst |
-| *Copay* | Zuzahlung als Festbetrag pro Besuch oder Rezept |
-| *Coinsurance* | dein Anteil in Prozent, nachdem der Selbstbehalt erreicht ist. Den Satz nennt der Plan |
-| *Out-of-Pocket Maximum* | Jahreshöchstgrenze deiner Eigenkosten; danach zahlt der Plan im Netzwerk, ohne den Beitrag |
-| *In-Network* / *Out-of-Network* | Anbieter mit bzw. ohne Preisvertrag deines Plans; außerhalb zahlst du mehr oder alles |
-| *EOB* (*Explanation of Benefits*) | Abrechnungsübersicht des Versicherers, ausdrücklich keine Rechnung. Aufschrift „This is not a bill“ |
-| *Prior Authorization* | Vorab-Genehmigung des Versicherers für bestimmte Leistungen, etwa MRT oder Operation. Ohne sie kann der Plan die Zahlung ablehnen |
+- ***Premium*:** Der Monatsbeitrag fällt auch dann an, wenn du keine ärztliche Behandlung brauchst. Den Betrag findest du in den Planunterlagen.
+- ***Deductible*:** Der Selbstbehalt, den du pro Jahr zunächst selbst zahlst.
+- ***Copay*:** Ein fester Betrag pro Arztbesuch oder Rezept.
+- ***Coinsurance*:** Dein prozentualer Anteil, nachdem du den Selbstbehalt erreicht hast. Den Satz nennt der Plan.
+- ***Out-of-Pocket Maximum*:** Die jährliche Obergrenze deiner gedeckten Eigenkosten im Netzwerk. Danach übernimmt der Plan diese Kosten; der Beitrag zählt nicht dazu.
+- ***In-Network* / *Out-of-Network*:** Anbieter innerhalb oder außerhalb des Vertragsnetzes deines Plans. Außerhalb zahlst du mehr oder die Kosten selbst.
+- ***EOB* (*Explanation of Benefits*):** Die Abrechnungsübersicht des Versicherers, keine Rechnung. Sie ist oft mit „This is not a bill“ gekennzeichnet.
+- ***Prior Authorization*:** Eine Vorabgenehmigung des Versicherers für bestimmte Leistungen, etwa MRT oder Operation. Fehlt sie, kann der Plan die Zahlung ablehnen.
 
 Der typische Ablauf: Du zahlst zunächst die Prämie und – je nach Leistung – den Selbstbehalt. Danach übernimmt der Plan einen Teil, während du Copay oder Coinsurance zahlst, bis du die Grenze für gedeckte Eigenkosten erreichst. Die Leistungsübersicht (*Summary of Benefits and Coverage*) nennt die konkreten Werte. Eine EOB („This is not a bill“) ist dagegen nur die Abrechnungsübersicht des Versicherers, keine Zahlungsaufforderung.
 
@@ -66,15 +62,13 @@ Als Orientierung: Laut KFF-Arbeitgeberumfrage 2025 betrug die durchschnittliche 
 
 Der Vergleich mit der GKV ist nicht eins zu eins möglich: Die Beiträge der GKV richten sich grundsätzlich nach dem Einkommen, während US-Arbeitgeberpläne je Tarif einen festen Beitrag verlangen und zusätzlich Eigenbeteiligungen vorsehen.
 
-| Kriterium | GKV (Deutschland) | US-Arbeitgeberplan |
-|---|---|---|
-| Beitrag | Einkommensabhängig, bis zu den geltenden Beitragsgrenzen | Fester Beitrag je Tarif; Höhe und Arbeitgeberanteil stehen im Angebot |
-| Selbstbeteiligung | Nur kleine Zuzahlungen, kein Selbstbehalt | Deductible, Copays und Coinsurance bis zum Out-of-Pocket-Maximum |
-| Arztwahl | Freie Wahl unter allen Kassenärzten | Nur Netzwerk; außerhalb teurer oder ungedeckt |
-| Wartezeit auf Termine | Je nach Fachgebiet und Region unterschiedlich | Je nach Stadt, Fachgebiet und Netzwerk unterschiedlich |
-| Familie | Kinder und nicht erwerbstätige Partner beitragsfrei mitversichert | Familientarif; Partner und Kinder müssen angemeldet und bezahlt werden |
-| Bürokratie | Gesundheitskarte, kaum Rechnungen | EOBs, mehrere Rechnungen, Netzwerkprüfung, Vorabgenehmigungen |
-| Kosten im Notfall | Rettungsdienst und Klinik über die Karte | Notaufnahme oft bis zum Selbstbehalt aus eigener Tasche; Krankenwagen extra |
+- **Beitrag:** In der GKV einkommensabhängig bis zu den geltenden Grenzen; im US-Arbeitgeberplan ein fester Tarifbeitrag, dessen Höhe und Arbeitgeberanteil im Angebot stehen.
+- **Selbstbeteiligung:** In der GKV meist kleine Zuzahlungen, kein Selbstbehalt; im US-Plan Selbstbehalt, Festbeträge und prozentuale Anteile bis zur jährlichen Eigenkostengrenze.
+- **Arztwahl:** In der GKV freie Wahl unter den Kassenärzten; im US-Plan ist die Behandlung im Netzwerk günstiger, außerhalb oft teurer oder ungedeckt.
+- **Wartezeit auf Termine:** In beiden Ländern abhängig von Fachgebiet und Region; beim US-Plan zusätzlich vom Netzwerk.
+- **Familie:** In der GKV sind Kinder und nicht erwerbstätige Partner beitragsfrei mitversichert; im US-Plan müssen Partner und Kinder im Familientarif angemeldet werden.
+- **Bürokratie:** In der GKV meist Gesundheitskarte und wenige Rechnungen; im US-Plan EOBs, mehrere Rechnungen, Netzwerkprüfung und Vorabgenehmigungen.
+- **Notfallkosten:** In der GKV laufen Rettungsdienst und Klinik über die Karte; im US-Plan können Notaufnahme und Krankenwagen erhebliche Eigenkosten verursachen.
 
 Die Pflegeversicherung kommt in Deutschland hinzu. In den USA hängen Beiträge und Eigenanteile eines Familientarifs vom Arbeitgeber und vom gewählten Plan ab.
 
@@ -86,7 +80,7 @@ Die Einschreibefrist (*Enrollment Window*) legt der Plan fest; üblich sind 30 T
 
 > **Achtung:** Melde dich und deine Familie in der ersten Arbeitswoche an und notiere die Frist. Ein verpasster Stichtag kostet dich im schlimmsten Fall Monate ohne Arbeitgeberplan.
 
-Rechne die Lücke ehrlich durch: Landung, Arbeitsbeginn (oft einige Wochen später), Wartefrist, Deckung meist zum Monatsersten — zusammen können bis zu drei oder vier Monate ohne US-Deckung entstehen, Partner und Kinder folgen derselben Frist. Viele Pläne laufen zudem im Kalenderjahr: Am 1. Januar beginnen Deductible und Out-of-Pocket-Maximum von vorn, wer im Oktober startet, kann zwei Selbstbehalte in drei Monaten zahlen.
+Rechne die Lücke ehrlich durch: Landung, Arbeitsbeginn (oft einige Wochen später), Wartefrist und Deckungsbeginn zum Monatsersten können zusammen drei oder vier Monate ohne US-Deckung ergeben. Für Partner und Kinder gelten dieselben Fristen. Viele Pläne laufen zudem im Kalenderjahr. Am 1. Januar beginnen Selbstbehalt und *Out-of-Pocket Maximum* von vorn. Wer im Oktober startet, kann innerhalb von drei Monaten zweimal den Selbstbehalt zahlen.
 
 So überbrückst du die Lücke:
 
@@ -104,13 +98,11 @@ Suche Ärzte über das Verzeichnis deines Versicherers (*Find a Doctor*), verlas
 
 > **Achtung:** „We accept your insurance“ heißt nicht, dass die Praxis in deinem Netzwerk ist. Frage nach dem genauen Plannamen und lass dir das „in-network“ bestätigen. Auch in Netzwerk-Krankenhäusern können einzelne Ärzte (Anästhesie, Labor, Radiologie) außerhalb des Netzwerks arbeiten.
 
-Der Hausarzt (*Primary Care Physician*, PCP) ist die erste Anlaufstelle für Vorsorge, Impfungen, Rezepte und Überweisungen. Im HMO und POS brauchst du ihn, im PPO ist er ratsam. Neupatienten warten oft Wochen (siehe Tabelle oben) — buche früh, auch ohne akuten Anlass. Der jährliche Check-up (*Annual Physical*) zählt zur Vorsorge (*Preventive Care*) und ist im Netzwerk meist ohne Zuzahlung. Viele Pläne bieten Telemedizin (*Telehealth*) als günstigen Erstkontakt.
+Der Hausarzt (*Primary Care Physician*, PCP) ist die erste Anlaufstelle für Vorsorge, Impfungen, Rezepte und Überweisungen. Im HMO und POS brauchst du ihn, im PPO ist er ratsam. Neupatienten warten oft Wochen — buche früh, auch ohne akuten Anlass. Der jährliche Check-up (*Annual Physical*) zählt zur Vorsorge (*Preventive Care*) und ist im Netzwerk meist ohne Zuzahlung. Viele Pläne bieten Telemedizin (*Telehealth*) als günstigen Erstkontakt.
 
-| Situation | Wohin | Preisrahmen |
-|---|---|---|
-| Lebensbedrohlich: Brustschmerz, Atemnot, Schlaganfallzeichen, starke Blutung | 911 anrufen, Notaufnahme (*Emergency Room*, ER) | Notfallversorgung kann teuer sein; Eigenanteil hängt von Plan, Netzwerk und Behandlung ab |
-| Akut, nicht lebensbedrohlich: Fieber, Verstauchung, kleine Wunde, Harnwegsinfekt | Urgent Care, ohne Termin | Eigenanteil hängt vom Plan ab; frage Klinik und Versicherer nach einer Schätzung |
-| Beratung, Rezept, leichter Infekt | Hausarzt oder Telemedizin | Copay oder Coinsurance laut Leistungsübersicht |
+- **Lebensbedrohlich: Brustschmerz, Atemnot, Schlaganfallzeichen, starke Blutung:** Wohin: 911 anrufen, Notaufnahme (*Emergency Room*, ER); Preisrahmen: Notfallversorgung kann teuer sein; Eigenanteil hängt von Plan, Netzwerk und Behandlung ab
+- **Akut, nicht lebensbedrohlich: Fieber, Verstauchung, kleine Wunde, Harnwegsinfekt:** Wohin: Urgent Care, ohne Termin; Preisrahmen: Eigenanteil hängt vom Plan ab; frage Klinik und Versicherer nach einer Schätzung
+- **Beratung, Rezept, leichter Infekt:** Wohin: Hausarzt oder Telemedizin; Preisrahmen: Copay oder Coinsurance laut Leistungsübersicht
 
 Die tatsächliche Rechnung und dein Eigenanteil hängen von Behandlung, Klinik, Netzwerk und Versicherungsplan ab. Frage den Versicherer nach dem geschätzten Eigenanteil, wenn die Behandlung planbar ist. Ohne Versicherung gibt es keine planmäßige Jahreshöchstgrenze; erkundige dich bei der Klinik nach Selbstzahlerpreisen, Zahlungsplan und möglicher Kostenhilfe.
 
@@ -206,15 +198,23 @@ Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindes
 
 ### Plus und Minus
 
-| Plus | Minus |
-|---|---|
-| Der Arbeitgeber übernimmt oft einen Teil der Prämie; die Höhe variiert laut KFF-Umfrage | Deckung hängt am Job. Bei COBRA zahlst du die volle Prämie zuzüglich Verwaltungsaufschlag |
-| Das Out-of-Pocket-Maximum begrenzt das Jahresrisiko im Netzwerk | Lücke zwischen Ankunft und Deckungsbeginn von bis zu drei oder vier Monaten |
-| Vorsorge und empfohlene Impfungen meist ohne Zuzahlung | Selbstbehalt und Zuzahlungen kommen zur Prämie hinzu |
-| Urgent Care und Telemedizin decken Alltagsfälle ohne Notaufnahmepreis ab | Netzwerkgrenzen, Vorabgenehmigungen, mehrere Rechnungen |
-| HSA: steuerbegünstigtes Gesundheitskonto, das dir gehört | Zahn und Augen getrennt, mit Jahreshöchstleistung |
-| Beim PPO Facharzt ohne Überweisung | Boden-Rettungswagen nicht durch den No Surprises Act geschützt |
-| Wahl zwischen mehreren Plänen | Plan-Jahr oft ab 1. Januar: Der Selbstbehalt beginnt von vorn |
+**Plus:**
+- Der Arbeitgeber übernimmt oft einen Teil der Prämie; die Höhe variiert laut KFF-Umfrage
+- Das Out-of-Pocket-Maximum begrenzt das Jahresrisiko im Netzwerk
+- Vorsorge und empfohlene Impfungen meist ohne Zuzahlung
+- Urgent Care und Telemedizin decken Alltagsfälle ohne Notaufnahmepreis ab
+- HSA: steuerbegünstigtes Gesundheitskonto, das dir gehört
+- Beim PPO Facharzt ohne Überweisung
+- Wahl zwischen mehreren Plänen
+
+**Minus:**
+- Deckung hängt am Job. Bei COBRA zahlst du die volle Prämie zuzüglich Verwaltungsaufschlag
+- Lücke zwischen Ankunft und Deckungsbeginn von bis zu drei oder vier Monaten
+- Selbstbehalt und Zuzahlungen kommen zur Prämie hinzu
+- Netzwerkgrenzen, Vorabgenehmigungen, mehrere Rechnungen
+- Zahn und Augen getrennt, mit Jahreshöchstleistung
+- Boden-Rettungswagen nicht durch den No Surprises Act geschützt
+- Plan-Jahr oft ab 1. Januar: Der Selbstbehalt beginnt von vorn
 
 > **Checkliste:**
 > - [ ] Vor der Zusage beim HR schriftlich klären: Deckungsbeginn, Wartefrist, Einschreibefrist, Familienprämie, HSA-Beitrag
