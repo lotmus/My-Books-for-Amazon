@@ -429,7 +429,7 @@ Some paid courses may sell information that KDP’s own help pages give away. **
 
 # Part VI — Playing the Long Game
 
-## Chapter 30: From One Book to a Catalog
+## Chapter 30: Build a Catalog
 
 Chapter 10 has the book-two sum; this chapter assumes it and adds the other ways a catalog earns more than its books do separately.
 

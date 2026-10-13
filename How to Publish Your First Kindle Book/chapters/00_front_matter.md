@@ -4,7 +4,7 @@
 
 **Kevin Drew Peters**
 
-Updated 10 October 2026
+Updated 13 October 2026
 
 Copyright © 2026 Kevin Drew Peters. All rights reserved.
 
@@ -42,13 +42,13 @@ Parts II to VIII are the full guide. They do not repeat Part I. Each chapter poi
 
 ## The five labels
 
-Every claim that could cost you money carries one of five labels.
+The book distinguishes platform rules, legal guidance, worked examples, recommendations, and tests you can run yourself. An unlabeled observation is neither a rule nor a guarantee.
 
-**Platform rule [n].** Something Amazon or another authority publishes, with a numbered note giving the page and the date it was checked. Rules change; the note tells you where to look.
+**Platform rule [n].** A published platform requirement with a numbered source note. Rules change; check the live source before acting.
 
-**Worked example.** Hypothetical arithmetic with stated assumptions, usually a 2 MB file and no VAT. It shows how the sum works. It is not anyone’s result.
+**Legal guidance [n].** A general legal principle linked to a numbered source. It is not legal advice; consult a qualified professional for your situation.
 
-**Field practice.** What many authors report doing. It is common, not guaranteed, and not published by Amazon.
+**Worked example.** Hypothetical arithmetic with stated assumptions, usually a 2 MB file and no VAT. It shows how the sum works. It is not anyone's result.
 
 **Recommendation.** What this book advises, and why. You may disagree.
 

@@ -2,7 +2,7 @@
 
 ## Project Structure & Manuscript Organization
 
-This repository contains the source and production files for *How to Publish Your First Kindle Book*. Edit the Markdown chapters in `chapters/`; their `00_`–`04_` prefixes define reading order. `scripts/build_master.py` assembles those files into a Word manuscript at the repository root. `visuals/` contains image assets, `bak/` holds prior working copies, and the root also contains the current REV41 DOCX and KDP description. Keep source edits in Markdown and treat generated manuscripts as build outputs. The Markdown and builder still need synchronization with the REV41 master before treating a new build as release-ready.
+This repository contains the source and production files for *How to Publish Your First Kindle Book*. Edit the Markdown chapters in `chapters/`; their `00_`–`04_` prefixes define reading order. `scripts/build_master.py` assembles those files into a Word manuscript at the repository root. `visuals/` contains image assets, `bak/` holds prior working copies, and the root also contains the current REV42 DOCX and KDP description. Keep source edits in Markdown and treat generated manuscripts as build outputs. The Markdown and builder still need synchronization with the REV42 master before treating a new build as release-ready.
 
 ## Build, Test, and Development Commands
 
