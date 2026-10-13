@@ -55,3 +55,7 @@ Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.4/10 overall
 ## Addicted-reader review (13 Oct 2026)
 
 Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.7/10**; plot/payoff 9.7, pace/suspense 9.6, character/dialogue 9.7, humour/satire 9.7, prose/clarity 9.7, science/continuity 10, Kindle mechanics 10. No new story edit was indicated; the satirical ending and optional-lesson boundary work as intended. EPUB rebuilt and package/internal links validated.
+
+## Image and visual-accessibility review (13 Oct 2026)
+
+Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.8/10**; covers, illustrations, and image placement/accessibility each score 10/10. The back-cover panel is the final page. Added alt descriptions to the title illustration, all 19 lesson diagrams, and the back-cover panel. Rebuilt and validated the Kindle EPUB; every image has alt text and internal links resolve.
