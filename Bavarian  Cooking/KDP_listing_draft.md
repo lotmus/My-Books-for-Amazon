@@ -1,23 +1,25 @@
 # KDP listing: Bavarian Cooking Made Simple
 
 **Title:** Bavarian Cooking Made Simple
-**Subtitle:** 120 Delicious Recipes of Southern German Culinary Art, Beyond the Oktoberfest
-**Author:** Anneliese Tauber (pen name; presented as a Bavarian mother of four)
+**Subtitle:** 121 Photographed Recipes Inspired by Bavaria & Southern Germany: Beyond the Oktoberfest
+**Author:** Anneliese Tauber (pen name)
 **Imprint:** 99 Luftballon Publishing
 **Language:** English | **Edition:** 1st | **Series:** none
 
 ## Description (paste into KDP; the HTML tags below are accepted)
 
-<b>120 Bavarian recipes you can actually cook on a weeknight.</b>
+<b>121 photographed recipes inspired by Bavarian and Southern German home cooking.</b>
 
-<p>Crackling roast pork. Fluffy bread dumplings. Creamy Kässpätzle. Golden Kaiserschmarrn. The food of Bavaria is hearty, comforting, and far easier than its German names suggest. <i>Bavarian Cooking Made Simple</i> shows you how, one dish at a time, with a photo to aim for on every page.</p>
+<p>Crackling roast pork. Fluffy bread dumplings. Creamy Kässpätzle. Golden Kaiserschmarrn. Bavarian and Southern German cooking is hearty and comforting. <i>Bavarian Cooking Made Simple</i> brings these regional favorites to your kitchen, with a photo for every dish.</p>
 
-<p><b>Why home cooks love this book</b></p>
+<p>The regional range includes Franconian roast pork, Munich's mustard-and-horseradish schnitzel, and Allgäuer Cordon Bleu, alongside broader German home cooking, neighboring Alpine traditions, and modern adaptations for the everyday table.</p>
+
+<p><b>What you will find inside</b></p>
 <ul>
 <li><b>A photo for every dish</b>, so you know what you are cooking toward</li>
-<li><b>Written for four people</b>, with cakes and bakes showing their yield</li>
-<li><b>US and metric measurements</b> in every ingredient list, with °C and °F for the oven</li>
-<li><b>The German name of every dish</b>, to shop, order, and cook like a local</li>
+<li><b>Serving sizes and yields listed</b>, with most main dishes written for four</li>
+<li><b>US and metric measures</b> throughout, with °C and °F oven temperatures</li>
+<li><b>German dish names and ingredient terms</b> to help with menus and shopping</li>
 <li><b>Clear step-by-step instructions</b> for beginners and confident cooks alike</li>
 </ul>
 
@@ -30,14 +32,14 @@
 <li><b>Winter drinks:</b> Glühwein, Jägertee, and more</li>
 </ul>
 
-<p><b>Perfect for</b> Oktoberfest parties at home, cozy Sunday dinners, anyone who misses Bavaria, and cooks who want hearty German food without the guesswork. A "Before You Cook" page covers oven temperatures, raw ingredients, alcohol, and allergens.</p>
+<p><b>Who this book is for:</b> Adult home cooks and older teens (about 16+) who can cook independently. Younger teens can use the recipes with an adult's guidance; younger children should help only with age-appropriate tasks under close supervision. Recipes involve knives, ovens, hot oil, raw ingredients, and some alcoholic drinks. The "Before You Cook" page covers cooking temperatures, raw ingredients, alcohol, and allergens.</p>
 
 <p><b>Scroll up and tap Buy Now to bring the beer garden home. Guten Appetit!</b></p>
 
 ## Keywords (7 slots)
 1. bavarian german cookbook for beginners
 2. oktoberfest party food recipes
-3. authentic german schnitzel spaetzle dumplings
+3. german schnitzel spaetzle dumplings
 4. southern german baking strudel pretzel
 5. traditional bavarian dishes roast pork bratwurst
 6. german comfort food family dinner recipes
@@ -49,14 +51,14 @@
 3. Kindle eBooks > Cookbooks, Food & Wine > Baking (request via Author Support if only two are offered)
 
 ## In-book texts (already in the book)
-**About This Book (blurb):** Bring the beer garden home. Crackling roast pork, fluffy bread dumplings, creamy Kässpätzle, golden Kaiserschmarrn: Bavarian food is hearty, comforting, and much easier to cook than its German names suggest. This book collects 120 southern German classics, from the Alpine hut to the Sunday table, and not only the dishes of the Oktoberfest. Every dish comes with a photo, its German name, ingredient lists in US and metric units, and clear step-by-step instructions. All recipes are written for four people, and they work for beginners and confident cooks alike. Soups and starters, hearty mains, dumplings and sides, strudels, cakes, and winter drinks: cook it, share it, enjoy it. Guten Appetit!
+**About This Book (blurb):** Bring the beer garden home. Crackling roast pork, fluffy bread dumplings, creamy Kässpätzle, and golden Kaiserschmarrn: Bavarian food is hearty and comforting. This collection brings together 121 recipes inspired by Bavarian and Southern German home cooking, from beer gardens and Alpine huts to the family table. Alongside regional favorites, you will find broader German home cooking, neighboring Alpine traditions, and modern adaptations. Every dish comes with a photo and clear step-by-step instructions. German dish names and ingredient terms appear throughout. Ingredient lists use familiar US measures alongside metric weights and volumes. Serving sizes and yields are listed with each recipe. Soups and starters, hearty mains, dumplings and sides, strudels, cakes, and winter drinks: cook it, share it, enjoy it. Guten Appetit!
 
-**Author note:** Anneliese Tauber grew up in Bavaria, and she still misses the Oktoberfest: the roasting chickens, the warm pretzels, the music and the laughter. In her own kitchen, she brings those flavors home for her husband and four children, who look forward to every family meal. *Bavarian Cooking Made Simple* collects the dishes she loves, written so that any cook can enjoy a taste of Bavaria.
+**Author note:** Anneliese Tauber writes about Bavarian and Southern German home cooking. *Bavarian Cooking Made Simple* brings together beer-garden favorites, family meals, bakes, and seasonal drinks in a format designed for home cooks.
 
 ## Upload checklist
 - **Manuscript:** `Bavarian Cooking Made Simple (Kindle).epub`; check it in Kindle Previewer first.
 - **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (1600 x 2560 px).
-- **AI-generated content:** answer "Yes" for the cover (if made with AI), the Copilot recipe pictures, and the AI-assisted text (new recipes, corrections, intros). Keep the original Copilot files in `photos\ai_originals`.
+- **AI-generated content:** answer "Yes" for the AI-assisted text, AI recipe pictures (Copilot, Grok, and OpenAI ImageGen), and AI artwork used in the cover. Keep the original Copilot files in `photos\ai_originals`.
 - **Rights:** the other pictures are public-domain, CC0, Pexels, Pixabay, or Unsplash images; see the Photo Credits page and `photos\photo_credits_full.md`.
-- **Pricing:** with the 70% royalty option, price between USD 2.99 and 9.99. The file is about 2.4 MB, so the delivery fee is small.
+- **Pricing:** with the 70% royalty option, price between USD 2.99 and 9.99. The current EPUB is about 2.6 MB; confirm current delivery pricing in KDP before setting the price.
 - **Cooking disclaimers:** the "Before You Cook" page covers raw ingredients, alcohol, and allergens.

@@ -120,3 +120,4 @@
 * Bavarian Lemon Sorbet: AI-generated image (xAI Grok Imagine)
 * Bavarian Plum Cake: AI-generated image (xAI Grok Imagine)
 * Sirloin Steak with Fried Onions and Gravy: AI-generated image (xAI Grok Imagine)
+* Münchner Schnitzel: AI-generated image (OpenAI ImageGen)
