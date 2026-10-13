@@ -1,6 +1,6 @@
 # KDP: The Warning That Was Sent Too Late (Book 2)
 
-Written 9 Oct 2026 (PT) against the master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx`. That file is about 52,900 words: the story (Prologue to Epilogue) is about 48,500, and the front matter, Coming Next, course and back matter make up the rest. It renders to about 124 Letter pages in LibreOffice. Covers made 11 Oct 2026 (PT): `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
+Prepared 9 Oct 2026 (PT) against REV02; checked 13 Oct 2026 against the release master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx` (52,282 words) and active line-edit draft `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx` (52,343 words). Covers made 11 Oct 2026 (PT): `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
 
 The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides** are left open on purpose.
 
@@ -15,7 +15,7 @@ The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides**
 
 ## Description (paste into KDP)
 
-About 300 words, well under KDP's 4,000-character limit. Every fact is checked against the book: the sheet, the NOT YET box, the instruction, the door, YESTERDAY, the late voice, Monday to Wednesday, and the cast.
+About 330 words, well under KDP's 4,000-character limit. Every fact is checked against the book: the sheet, the NOT YET box, the instruction, the door, YESTERDAY, the late voice, Monday to Wednesday, and the cast.
 
 > A WARNING DATED TOMORROW.
 > A DOOR THAT OPENED ONTO A RAILWAY.
@@ -32,6 +32,8 @@ About 300 words, well under KDP's 4,000-character limit. Every fact is checked a
 > With his cousin Penny, who will not let anybody reorder what has already happened; Trevor, armed with a tape measure; a visiting patent attorney from Munich who has been lied to by railways in four countries; and a building superintendent who regards the platform as a breach of the lease, Derek has until Wednesday to put one morning in the right order, before a landlord, two insurance companies and a very patient train do it for him.
 >
 > The Warning That Was Sent Too Late is Book 2 of the Relativistic Investigation Bureau, and it can be read on its own: a British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it.
+>
+> Recommended for readers aged 14 and up. Strong readers aged 12 to 13 may also enjoy the mystery, with adult support for the denser physics discussions.
 
 ## Keywords (7, comma-separated for KDP)
 

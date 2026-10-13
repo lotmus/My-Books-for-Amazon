@@ -1,3 +1,7 @@
+## 12 October 2026 reader-clarity pass
+
+- **How to Read This Book:** revised the promise so it accurately distinguishes the explained morning-sheet mechanism from the unexplained platform and the unresolved Sunday slip and voice. No case clues or story events changed.
+
 # Book Two REV02 change log (2026-10-09)
 
 Base: `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV01.docx` (REV01 = the DRAFT master plus the REV01 fixes). DRAFT and REV01 are unchanged. Backup of the whole Book 2 folder before this pass: `D:\bak\2026-10-09 RIB2 integrate\` (19 files, SHA-256 verified).
