@@ -58,5 +58,5 @@ Never touch a bat or any wild animal that seems tame or hurt, and tell a grown-u
 ## Open questions (ASK)
 1. Title: pick one of the three, or another.
 2. (Decided: a boy, nicknamed Biscuit by Pip.) What is his real name, the quieter one his parents give him?
-3. How much of the pregnancy do we show? (Suggested: gentle and honest, no medical detail beyond the scan.)
+3. (Decided by Lothar: we do not need to explain it; show it only where it makes the story better, and then lightly.) The scan lesson stays as a gentle picture, with no medical detail.
 4. Should Hal's mother's pregnancy be hinted from chapter 1 or a surprise? (Suggested: hinted.)
