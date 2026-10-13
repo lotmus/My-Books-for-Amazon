@@ -1,25 +1,28 @@
 ﻿# Electrical Engineering Series: Reader-Readiness Audit
 
-**Audit date:** 12 October 2026  
-**Scope:** Current Books 1-9 masters, available source mirrors, Kindle-link data, and checks executable on this host.
+**Initial audit date:** 12 October 2026
+**Current status updated:** 13 October 2026
+**Scope:** Current Books 1-9 masters, extracted source mirrors, Kindle-link data, Kindle packages, selected PDF renders, and checks executable on this host.
 
-## Verdict
+## Current status snapshot — 13 October 2026
 
-**Reader readiness is not yet established for all nine books.** All nine DOCX files pass ZIP integrity and XML/document parsing, and all nine Kindle-link JSON files parse. These are useful file-health checks, not proof that every claim is correct or that the final Kindle layout is sound.
+**The books have substantial editorial and conversion evidence, but the series is not yet established as fully reader-ready.** A fresh extraction from the nine masters on `main` matched all text and figure files in their mirrors (96, 89, 63, 108, 61, 51, 66, 82, and 90 files for Books 1-9). A scan of 193 retained Kindle packages found byte-matching packages for all nine current masters; the recorded Previewer reports show Supported/Success, zero errors, and zero quality issues. Selected rendered pages were inspected; this is not a full-device review. The answer-coverage scan found 2,022 prompts and 2,022 numbered answer entries, but did not verify every solution's correctness.
 
-| Book | Evidence completed | Work still required before reader-ready |
+| Book | Current evidence | Material open gate |
 |---|---|---|
-| 1 | Current master includes the nine-book map; structural check passes. | Fresh final fact/reference read, review the current cover/listing drafts, then render the final reader file. |
-| 2 | Distinction checked for the flagged resistor and capacitor section pairs; structural check passes. | Final reference sweep, review the current cover/listing drafts, then render the final reader file. |
-| 3 | 83 numeric assertions pass; structural check passes. | Full specialist read, final cross-reference sweep, review the current cover/listing drafts, then render the final reader file. |
-| 4 | 87 numeric assertions pass; current standards/service caveats added; structural check passes. | Publication-date standards/vendor/service refresh, specialist read, review the current cover/listing drafts, then render the final reader file. |
-| 5 | Current review records 256 worked solutions; structural check passes. | Final fact/reference read, standards refresh, review the current cover/listing drafts, then render the final reader file. |
-| 6 | Concise answer-key disclosure added; Chapter 4 Problems 5 and 10 and Chapter 6 Problems 3 and 8 now show key assumptions, loaded-output or magnetic-design calculations, and practical limits; structural check passes. | Broader answer-key and prose fact-read, link check, review the current cover/listing drafts, then render the final reader file. |
-| 7 | Series-finale wording fixed; Chapter 29 maps all nine subjects; structural check passes. | Final overlap/reference read, review the current cover/listing drafts, then render the final reader file. |
-| 8 | 30 of 87 listing checks passed; 57 unavailable here and zero failed. .NET tests pass 13/13. | Run remaining compiler checks on a Linux/tool-equipped host; validate board-dependent examples on hardware; cover/listing and rendered review. |
-| 9 | SCPI C# build passes with zero warnings/errors; simulations and Python checks are recorded in the Book 9 review; Chapter 38 now specifies a passive current limit. | Build and validate the current-limited mini tracer on the specified hardware, refresh vendor data, approve the cover/listing drafts and render the final reader file. |
+| 1 | ADC/sensor claims revised; lab assumptions clarified; master and mirror checks and selected-page renders recorded. | Independent electronics review; validate representative reader-lab setups; full Kindle/device and accessibility review. |
+| 2 | Brake-chopper calculation corrected and bounded; mirror and selected-page render checked; current KPF verified. | Validate the drive/resistor design externally; full device/layout review and independent circuit review. |
+| 3 | Technical wording and references revised; all 63 extracted mirror files match; selected pages rendered and inspected. | Semiconductor-specialist peer review and device-specific validation; full Kindle/device review. |
+| 4 | 87 numerical assertions and 24 parser format/unit cases pass; independent scikit-rf comparison recorded; Touchstone 1.x parser scope is explicit. | RF-specialist review; publication-time product/service checks; no Touchstone 2.x conformance is claimed; full device review. |
+| 5 | 6 GHz jurisdiction and ambient-IoT scope corrected; mirror and current KPF checked. | Publication-time standards/vendor refresh and independent communications review; full device review. |
+| 6 | Broad answer-key, protection, high-voltage, and engineering-boundary corrections recorded; selected pages and mirror checked. | Independent power/safety review and appropriate hardware validation; full device review. |
+| 7 | Series boundaries and Book 7/9 test responsibilities clarified; current master and selected layout checks recorded. | Independent packaging/EMC review and publication-time vendor-data refresh; full device review. |
+| 8 | 75/87 listing checks pass, 12 are not applicable, none failed; .NET tests 13/13; ring-buffer checks 413/413; current KPF verified. | Run the unavailable compiler checks on a suitable host; validate board/ISR-dependent examples; full device review. |
+| 9 | SCPI build, simulation, all 90 extracted mirror files, selected PDF page, and current KPF checks recorded. | Build and test the mini-tracer with dummy load and representative DUTs, including pulse/SOA/temperature checks; independent instrumentation review; full device review. |
 
-## Work Completed During This Pass
+Across the series, the remaining release gates are a complete Kindle-device/navigation/accessibility pass, live KDP metadata and upload acceptance, and independent specialist/target-reader review appropriate to each volume. Bench-dependent claims require real hardware evidence where the text invites practical use. No book receives a 10/10 readiness claim from conversion checks or editorial review alone. Cover drafts and description HTML have local checks, not final KDP approval or print-wrap validation.
+
+## Initial audit work (12 October 2026)
 
 - Corrected stale continuity statements about Book 7 ending the series and Book 6's solution-depth promise; the current wording and boundaries are recorded in the masters and mirrors.
 - Updated Book 4's Touchstone-version and NOAA/Meteor service caveats.
