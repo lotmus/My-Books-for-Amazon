@@ -19,7 +19,7 @@ First frost in November to the first warm evening in April. The pregnancy starts
 ## New characters
 - **Wen Liang** (boy, about 9). New to the village. Careful, quiet, a tinkerer who mends clocks and gears. Afraid of the dark and of bats at first. Never takes a shortcut or a risk, so he is the opposite of Scally and they argue happily. He is welcomed with a present, as Hopsi welcomed Tabitha in Book 1.
 - **Dr Liang**, Wen's mother, the new village doctor. Brisk, kind and funny; carries a black bag and a small ultrasound scanner (a storybook gadget; say so in the notes).
-- **The newborn**: Titch and Pip's baby sibling (Pip chooses the name).
+- **The newborn**: Titch and Pip's baby brother (decided by Lothar, 12 Oct 2026). Pip chooses his nickname (a silly one such as "Biscuit" that sticks).
 - (Book 4, not now: the red-haired girl.)
 
 ## The two pregnancy threads (Lothar's note)
@@ -39,7 +39,7 @@ A mystery in the hill, a conflict with the Mayor, and a winter storm that needs 
 7. **The Picture of the Baby.** Dr Liang gives a sound lesson. She scans Titch's mother first so the children can see: black and white grains on a screen. Sound goes in, echoes come back, and the machine makes a picture. It is the same trick as the bats and as Hal's echo in Book 2. Then she scans Hal's mother, privately, and keeps the news to herself. Hal sees that his mother and the doctor share a secret.
 8. **The Sledging Day.** A Bullerby-spirit chapter of pure fun: sledges, a snow fort, a very bad snowman, Pip's first jump. Road safety: stop and look at the lane crossing; no sledging near the water or the road. Scally's tall tale about the biggest snowball ever; Hopsi says "That is a story, and I like it."
 9. **The Night of the Big Snow.** Titch's mother's baby is coming early, and Dr Liang is at the far hill farm in the blizzard. Hal, Titch, Wen, Scally and Gucci must fetch her. Safety: tell a grown-up (the baker's wife), go in pairs, keep the whistle, stay on the road, stop if lost and blow three blasts. Wen's caution and Scally's speed finally work together. Hopsi is wrong about the path and says so.
-10. **The Baby.** Dr Liang gets back in time with Wen's help and the baby is born. Pip names the baby (a silly name that sticks). Scally holds the baby for a moment and is very quiet. For Hopsi, no true sentence is big enough, so she gives the baby a small present.
+10. **The Baby.** Dr Liang gets back in time with Wen's help and the baby is born. Pip names the baby brother (a silly nickname that sticks; Pip is now a big brother, with two brothers' worth of pride). Scally holds the baby for a moment and is very quiet. For Hopsi, no true sentence is big enough, so she gives the baby a small present.
 11. **The First Warm Evening.** The snow melts. The children bring the Mayor to the cave at dusk and the bats stream out in a great cloud, hunting. The Mayor changes his mind and moves his cheeses. Hal's mother tells Hal about the baby. Hal says "Acceptable" and then, for the first time, something else. The last line opens Book 4: a girl with red hair arrives.
 
 ## Science (for Hal's Slate or Hopsi's True Things)
@@ -57,6 +57,6 @@ Never touch a bat or any wild animal that seems tame or hurt, and tell a grown-u
 
 ## Open questions (ASK)
 1. Title: pick one of the three, or another.
-2. Is the newborn a boy or a girl? Name ideas from Pip.
+2. (Decided: a boy.) Which silly nickname does Pip give him, and what is his real name?
 3. How much of the pregnancy do we show? (Suggested: gentle and honest, no medical detail beyond the scan.)
 4. Should Hal's mother's pregnancy be hinted from chapter 1 or a surprise? (Suggested: hinted.)
