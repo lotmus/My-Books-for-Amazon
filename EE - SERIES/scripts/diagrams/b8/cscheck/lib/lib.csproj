@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net10.0</TargetFramework><OutputType>Library</OutputType><Nullable>enable</Nullable><ImplicitUsings>disable</ImplicitUsings><TreatWarningsAsErrors>true</TreatWarningsAsErrors><NoWarn>CS7022</NoWarn></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../stubs/SerialPortStub.cs" />
+    <Compile Include="../../listings/l05_1_SerialConsole.cs" />
+    <Compile Include="../../listings/l22_1_ReadingParser.cs" />
+    <Compile Include="../../listings/l22_4_TestBench.cs" />
+  </ItemGroup>
+</Project>

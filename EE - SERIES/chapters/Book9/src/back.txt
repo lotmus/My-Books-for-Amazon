@@ -33,9 +33,17 @@ P: Threshold voltage (Chapter 35): by linear extrapolation, Vth = Vgs(gm,max) �
 P: Temperature soak (Chapter 35): after a step ΔT with time constant τ, the error falls to a band b after t = τ ln(ΔT/b); 300 s × ln(50/0.2) = 1656 s, plus the stability window.
 P: Budget bench (Chapters 37 and 38): a VNA proves a match only to about 10 dB short of its S11 floor (|Γ| ± floor); 8-bit SNR 49.9 dB plus 10 log(Nyquist bandwidth/bin); mini tracer current resolution = ADC LSB/R_sense; test uncertainty ratio = tolerance/reference uncertainty.
 H2: A.2 Safe limits before every curve-tracer sweep
-BOXCOPY: ch07.txt | Safe limits
+LI: Voltage below the part's absolute maximum (or the breakdown you intend to find, with the current limited).
+LI: Current compliance or series resistance below the maximum continuous current; a low limit for breakdown sweeps (100 µA to 1 mA).
+LI: Peak power below what the package survives for the pulse width; pulsed sweeps for anything above about 0.5 W.
+LI: Gate drive within the gate's ±V rating; a gate resistor (10 to 100 Ω) at the socket against oscillation.
+LI: High-voltage interlock closed; never touch the fixture with the sweep enabled.
 H2: A.3 Reading a VI you did not write
-BOXCOPY: ch35.txt | Reading a VI
+LI: Open the front panel first and run the VI with its default values on a simulated or disconnected setup, if the VI allows it.
+LI: On the block diagram, follow the error wire from left to right; it gives the real order of the instrument calls.
+LI: Use Highlight Execution (the light bulb) to watch the data move, and probes on wires to see values.
+LI: Open each subVI's help and connector pane; read its icon text, then its diagram, one level at a time.
+LI: Before you change anything, save a copy and commit it to version control with a note of what the VI does today.
 H2: A.4 Specification cheat sheets
 P: Power supply: ranges and power envelope, programming and readback accuracy, load and line regulation, ripple and noise (rms and peak-to-peak, with bandwidth), transient recovery, remote sense, output impedance; ask for the current-limit behavior.
 P: SMU: quadrants and power envelope, lowest current range and its noise, force and measure accuracy per range, settling time, pulse width, guard and triax; ask for the speed at the needed accuracy.
@@ -54,73 +62,346 @@ P: IEEE 488.2 common commands: *IDN? identify; *RST reset; *CLS clear status and
 P: Errors: SYST:ERR? returns the oldest error (0,"No error" when empty); −100 to −199 command errors (−113 undefined header), −200 to −299 execution errors (−222 data out of range), −300 to −399 device errors, −400 to −499 query errors (−410 query interrupted).
 P: Data: FORM ASC or FORM REAL,32; FORM:BORD NORM or SWAP; binary blocks #<n><length><bytes>; a terminating newline after the block.
 P: Triggers and buffers: TRIG:SOUR, TRIG:COUN, SAMP:COUN, INIT, then FETC? for buffered readings; READ? = INIT + FETC?; MEAS? = CONF + READ? with default settings.
-ANSWERS: Appendix B. Worked Solutions to the Practice Problems
+H1: Appendix B. Worked Solutions to the Practice Problems
+P: Each solution shows the working and, where one is common, the usual mistake. Problems are numbered as in their chapter.
+H2: Chapter 1
+P: 1. A 3.5-digit meter shows 0 to 1999, so it has 2000 counts. On the 2 V range one count is 2 V/2000 = 1 mV. The usual mistake is to read "3.5 digits" as 3500 counts.
+P: 2. Reading term: 0.0035 % × 1 V = 35 µV. Range term: 0.0005 % × 10 V = 50 µV. Error band ±85 µV, or ±0.0085 % of the reading, almost twice the percentage of Worked Example 1.1, because the fixed range term now dominates. The usual mistake is to quote only 0.0035 %.
+P: 3. Precise but not accurate: it repeats within 0.1 kg but has a systematic offset of +2.0 kg. Fix it by calibration: zero it with nothing on it, or subtract 2.0 kg from every reading. The usual mistake is to call a repeatable instrument accurate.
+P: 4. The standard error is s/√n, so n = (s/2 µV)² = (21.7/2)² = 117.7, which rounds up to 118 readings. Ten times as many readings improve the result by only √10 = 3.2 times. The usual mistake is to expect a ten-fold improvement from ten-fold averaging.
+P: 5. On the 2 V range: 0.05 % × 0.0123 V = 6.2 µV plus 3 counts of 100 µV = 300 µV, so ±0.31 mV, which is 2.5 % of the reading. On the 200 mV range, 3 counts are 30 µV, so the band is 6.2 µV + 30 µV = ±36 µV, or 0.3 % of the reading. A small reading on a large range is dominated by the counts term; use the lowest range that holds the signal. The usual mistake is to leave the meter on a high range because autorange "knows best", when a manual or slow autorange may sit on the wrong range.
+P: 6. 10 V range: 3.5 µV + 50 µV = 53.5 µV. 1 V range: 4 µV + 7 µV = 11 µV. 100 mV range (0.1 V is the full-scale value, inside the 120 % overrange): 5 µV + 3.5 µV = 8.5 µV. The 100 mV range is best, about six times better than the 10 V range. The usual mistake is to compare only the percent-of-reading terms, which favor the 10 V range, and ignore the range terms, which decide the result.
+H2: Chapter 2
+P: 1. The half-width is 0.02 % × 2.5000 V = 0.5 mV. With no other information treat it as rectangular: u = 0.5 mV/√3 = 0.289 mV. The usual mistake is to use the half-width itself as the standard uncertainty, which overstates it by √3.
+P: 2. u_c = √(0.3² + 0.4² + 1.2²) = √1.69 = 1.3 µV; U = 2 × 1.3 = 2.6 µV. The usual mistake is to add the three linearly (1.9 µV), which overstates the combined uncertainty of independent contributions.
+P: 3. A measurement is traceable when its result is linked to the SI units by an unbroken, documented chain of calibrations, each with a stated uncertainty. The usual mistake is to think a calibration sticker or the word "traceable" alone is enough.
+P: 4. TUR = 0.5/0.2 = 2.5:1, below the common 4:1. Guard-banded limits: ±(0.5 − 0.2) = ±0.3 %. The usual mistake is to accept the low TUR without guard banding, which ships parts that may be out of tolerance.
+P: 5. P = 25/10 = 2.500 W. Relative sensitivities: P depends on V squared, so u_rel from V is 2 × (1 mV/5 V) = 0.04 %; from R it is 2 mΩ/10 Ω = 0.02 %. Combined relative: √(0.04² + 0.02²) = 0.0447 %, so u(P) = 2.5 W × 0.000447 = 1.12 mW. The usual mistake is to forget the factor 2 from the square, which gives 0.028 % and 0.71 mW.
+P: 6. Simple acceptance: 1000.8 Ω is inside 999 to 1001 Ω, so it passes. Guard-banded: the limits shrink to 1000 ± 0.4 Ω, and 1000.8 Ω is outside, so it fails. The standard uncertainty is 0.3 Ω; the upper limit is (1001 − 1000.8)/0.3 = 0.67 standard deviations above the reading, and the probability that a normal variable exceeds +0.67 σ is about 25 %. So there is roughly a one-in-four chance the part is out of tolerance. The usual mistake is to believe that "inside the limits" means "in tolerance" when the uncertainty is comparable to the margin.
+H2: Chapter 3
+P: 1. Error = −R_th/(R_in + R_th) = −100 k/10.1 M = −0.99 %. The usual mistake is to think a 10 MΩ input is "infinite" compared with 100 kΩ; it is only 100 times larger, which costs 1 %.
+P: 2. A ground loop: the two instruments' protective earths and the cable shields form a loop in which mains-frequency current flows, and its drop in the shield adds to the signal. Cures: power the circuit or one instrument from a floating source, use a differential input, or isolate the PC link if the loop goes through the computer. The usual mistake, and a dangerous one, is to remove the earth pin from one instrument.
+P: 3. 80 dB = 10^(80/20) = 10 000:1. The usual mistake is to divide by 10 instead of 20 and get 10⁸, which treats a voltage ratio as a power ratio.
+P: 4. The drop is 100 mA × 1.1 Ω = 0.11 V, so the board sees 3.19 V, and during Wi-Fi transmit bursts of several hundred milliamperes the drop is several times larger and may trip the brownout detector. Measure current with a lower-burden method: a small shunt and a differential measurement, a current probe, or a dedicated low-burden current meter. The usual mistake is to blame the board's firmware for resets the meter caused.
+P: 5. The Thevenin source is 5 V behind 5 MΩ, so the meter reads 5 × 10/(10 + 5) = 3.333 V, a third low. Use the meter's high-impedance mode (above 10 GΩ) on a range that has it, an electrometer, or a unity-gain buffer with a low-bias-current op-amp. The usual mistake is to blame the resistors' tolerance for a 33 % error.
+P: 6. V_th = V_read × (1 + R_th/R_in) = 4.762 × 1.05 = 5.000 V. The correction is 5 % of the reading; a 1 % uncertainty in R_th changes the correction by 1 % of 5 %, that is 0.05 % of the reading (about 2.5 mV), plus a similar share from the tolerance of the meter's 10 MΩ, typically also about 1 %. The usual mistake is to apply the correction with full confidence and forget that it inherits the tolerances of the two resistances.
+H2: Chapter 4
+P: 1. Appliance at an outlet: CAT II. Breaker panel: CAT III. Utility meter and service entrance: CAT IV. ESP32-S3 on an 18650 cell: not mains, outside the categories (CAT I in older editions, O in the current one). The usual mistake is to rate a measurement by its voltage alone instead of its location.
+P: 2. E = ½ × 100 µF × 400² = 8 J. The usual mistake is to forget the ½, giving 16 J, or to use V instead of V², giving 0.02 J and a false sense of safety.
+P: 3. CAT IV 600 V. The service entrance is a CAT IV location, and a CAT III rating, whatever its voltage, does not cover it; 240 V is well within 600 V. The usual mistake is to pick the higher voltage number.
+P: 4. τ = 10 kΩ × 470 µF = 4.7 s; t = 4.7 s × ln(400/50) = 4.7 × 2.079 = 9.77 s. The usual mistake is to wait one or two time constants, which leaves 147 V or 54 V on the capacitor.
+P: 5. I = 3.7 V/(40 mΩ + 10 mΩ) = 74 A; power in the wiring 74² × 0.01 Ω = 55 W, and 219 W inside the cell, enough to melt insulation and start a thermal runaway. A protected cell or module disconnects within milliseconds. The usual mistake is to think a 3.7 V source is harmless because it cannot shock you.
+P: 6. 40 dB is a factor of 100, so 400 V of common-mode step leaks through as up to 4 V of apparent signal, more than a quarter of the 15 V gate drive, exactly during the switching edge you want to see. Use an optically isolated probe or an isolated-channel scope with high CMRR at high frequency, and keep its capacitance to earth low (Worked Example 4.2). The usual mistake is to trust the probe's low-frequency CMRR from the first line of its datasheet.
+H2: Chapter 5
+P: 1. At 5 V the 4 Ω load would draw 1.25 A, above the 0.5 A limit, so the supply runs in CC: 0.5 A and 0.5 × 4 = 2 V. The usual mistake is to assume the set voltage appears and calculate 1.25 A.
+P: 2. 24 V/2 A = 12 Ω. Loads below 12 Ω run the supply in CC. The usual mistake is to invert the ratio.
+P: 3. The current limit caps the output current; it protects the circuit from drawing too much. OVP shuts the output down when the terminal voltage exceeds a threshold; it protects against a wrong setting, a failure of the supply's regulator, or an external source back-driving the output. Only OVP covers a failure inside the supply. The usual mistake is to rely on the current limit alone.
+P: 4. The drop is 3 A × 0.05 Ω = 0.15 V, so the load sees 1.05 V, 12.5 % low, far outside the usual ±5 % rail tolerance. The usual mistake is to ignore lead drop because it is "only milliohms".
+P: 5. Dissipation (20 − 3.3) × 2 = 33.4 W; delivered 6.6 W; efficiency 6.6/40 = 16.5 %. The usual mistake is to compute efficiency from the voltages alone without noticing that the input current equals the output current in a linear regulator, which is the same answer here, and then to apply the same shortcut to a switching supply, where it is wrong.
+P: 6. With a sense lead open, the regulation loop loses its feedback from that side. Most supplies have internal resistors from each sense terminal to its output terminal, so the output falls back to local regulation and the load sees the set value minus the lead drop; without them, or with a sense lead shorted to the wrong point, the output can rise toward its maximum. OVP is the protection: set it a little above the highest terminal voltage you expect with compensation (set value plus both lead drops), not at the rail value, which would trip during normal compensation. The usual mistake is to set OVP before thinking about the compensation, then disable it after it trips.
+H2: Chapter 6
+P: 1. Positive voltage, current flowing into the SMU: quadrant 4, a sink quadrant. The usual mistake is to think an instrument can only deliver power.
+P: 2. At 5 V the resistor would draw 50 mA, above the 10 mA compliance, so the SMU limits at 10 mA, and the voltage is 10 mA × 100 Ω = 1 V; it reports compliance. The usual mistake is to report 5 V, the programmed value.
+P: 3. The guard is the inner shield, driven at the same potential as the center conductor, so no current flows across the cable insulation from the signal to the guard; leakage goes from guard to outer shield instead and is not measured. The cable capacitance also does not need to charge through the measurement. The usual mistake is to use ordinary coax for picoamperes and measure the cable.
+P: 4. 0.060 % × 50 nA = 30 pA plus 100 pA = 130 pA, ±0.26 % of the reading. The usual mistake is to use the 1 µA range because autorange chose it, which gives 300 pA, more than twice the error.
+P: 5. Seven decades × 10 + 1 = 71 points. The usual mistake is to forget the endpoint (70) or to count decades wrong (1 nA to 10 mA is 10⁷).
+P: 6. End of pulse: 10 W × 1 K/W = 10 K. Average power 10 W × 200 µs/100 ms = 20 mW, × 40 K/W = 0.8 K. DC: 10 W × 40 K/W = 400 K, which no silicon device survives. The usual mistake is to multiply the average power by the transient impedance or the peak power by the steady-state resistance.
+H2: Chapter 7
+P: 1. n = 70 mV/(Vt ln 10) = 70/59.5 = 1.18. The usual mistake is to divide by 26 mV, forgetting the ln 10 of a per-decade slope, which gives 2.7.
+P: 2. rz = (6.29 − 6.20) V/(8 − 2) mA = 0.09/0.006 = 15 Ω. The usual mistake is to divide the voltage by one of the currents (V/I), which gives the static resistance of about 3 kΩ.
+P: 3. At breakdown the current rises steeply with voltage, and the voltage across the junction is high, so even a few milliamperes dissipate a lot of power in a small area; an unlimited sweep destroys the junction in microseconds. A 100 µA to 1 mA limit finds the breakdown voltage without damage. The usual mistake is to sweep breakdown with the forward-test compliance.
+P: 4. Slope (11.4 − 10.6) mA/10 V = 80 µS, ro = 12.5 kΩ. Extrapolating from 2 V: 10.6 mA/80 µS = 132.5 V, so the line meets zero at 2 − 132.5 = −130.5 V, VA ≈ 130 V. The usual mistake is to compute VA as ro × Ic at one point without the voltage offset, which gives 132.5 V; close here, but not in general.
+P: 5. 8 + 2 × 15 = 38 mΩ, a 375 % error, almost five times the true value. The usual mistake is to believe a short lead is "zero ohms"; at milliohms only Kelvin connections work.
+P: 6. Not necessarily. The datasheet's limit applies to its own method, the constant-current method at 250 µA, which for this kind of device typically reads lower than the √Id extrapolation (Worked Example 7.5 shows 0.14 V). Measure at 250 µA with drain tied to gate before you reject it. The usual mistake is to compare thresholds from different methods.
+P: 7. Self-heating (mobility falls with temperature at high gate drive) or an oscillation or measurement artifact (a gate oscillating at high current, or a sense lead drop that grows with current). Repeat the sweep pulsed with short pulses at low duty: if the pulsed curve stays flat, it was heating; if it still falls, check the gate with a resistor at the socket and the Kelvin connections. The usual mistake is to report the drooping curve as the device's output characteristic.
+P: 8. Sweep VCE from 0 to about 20 V (half the rating, enough to see the active region). Base steps of 100 µA give Ic steps of about 20 mA at hFE 200, so five steps reach about 100 mA. Compliance or series resistance limiting Ic to about 150 mA, below the 200 mA rating. Power: 20 V × 100 mA = 2 W, three times the 625 mW rating, so pulse: 300 µs pulses at 1 % duty keep the average at 20 mW, or limit the DC sweep to VCE × Ic below about 0.3 W (for example only to 3 V at 100 mA). The usual mistake is to set the voltage and current limits from the ratings and forget that their product exceeds the power rating.
+H2: Chapter 8
+P: 1. Cgd = Crss = 60 pF; Cgs = 2400 − 60 = 2340 pF; Cds = 380 − 60 = 320 pF. The usual mistake is to take Coss as Cds and forget that it includes Cgd.
+P: 2. Qg = 2 mA × 25 µs = 50 nC. The usual mistake is to integrate the voltage instead of using Q = I t at constant current.
+P: 3. t₁ = L I/V = 200 µH × 30 A/600 V = 10 µs. The usual mistake is to use V/L × I, which has the wrong units.
+P: 4. Qrr ≈ ½ × 12 A × 80 ns = 480 nC; Tt ≈ 480 nC/30 A = 16 ns, as a starting value only, valid near this di/dt. The usual mistake is to forget the ½ for the triangle (960 nC).
+P: 5. ΔT = 330 mV/2.2 mV/K = 150 K; Zth = 150 K/25 W = 6 K/W at that pulse length. The usual mistake is to drop the sign of the K-factor and get a temperature fall.
+P: 6. C = 10 pF/(1 + 6.3/0.7)^0.5 = 10/√10 = 3.16 pF. The usual mistake is to forget the 1 + and compute (9)^0.5 = 3, giving 3.33 pF.
+P: 7. 2 ns caused 13.3 %, so 1 % allows about 2 ns × 1/13.3 = 150 ps. The usual mistake is to think the scope's sample interval sets the limit; deskew can be set much finer than one sample with interpolation, and it must be.
+P: 8. Over which range was the fit made, and what are the residuals in the subthreshold part (a fit dominated by the many points above threshold can bend the subthreshold slope to reduce the error there)? Was the model validated against measured data at the currents the sensor bias will use? At what temperature and drain voltage was it measured, and does the circuit operate there? The usual mistake is to read a fitted parameter as a physical property of the device, outside the range where it was fitted.
+H2: Chapter 9
+P: 1. 12 V × 3 A = 36 W. The usual mistake is to forget that all of it becomes heat in the load, which must be within its power rating.
+P: 2. I = 12 V/4 Ω = 3 A. The usual mistake is to confuse CR with CC and set 4 A.
+P: 3. CP draws I = P/V, so at the low voltage during start-up it demands a current far above the converter's limit, and the converter stalls in current limit. The usual mistake is to blame the converter's soft-start.
+P: 4. (3 − 1) A/(0.25 A/µs) = 8 µs. The usual mistake is to divide the final current by the slew rate (12 µs).
+P: 5. At 12 V the power limit sets 150/12 = 12.5 A. At 3.3 V the current limit sets 30 A (99 W). The usual mistake is to take 30 A at any voltage, which at 12 V would be 360 W.
+P: 6. Dip 2 A × 80 mΩ = 0.16 V, to 3.54 V. A bench supply has milliohms of output resistance, so it would show almost no dip and hide a brownout; its control loop also undershoots and overshoots on the step in a way no battery does. The simulator's programmed resistance reproduces the cell. The usual mistake is to validate battery operation on a bench supply.
+H2: Chapter 10
+P: 1. 8 × 16 = 128 crosspoints. The usual mistake is to add rows and columns (24).
+P: 2. A moment in which the old and the new path are both closed, which would connect two instruments (or an instrument and a source) together, possibly damaging an input or disturbing the device. The usual mistake is to assume the switch driver always does it in a custom sequence.
+P: 3. Switching under current draws an arc that erodes the contacts and shortens their life, and discharging a capacitor through reed contacts can weld them. Turning the source off first costs milliseconds and saves relays. The usual mistake is to optimize test time by hot switching.
+P: 4. 1 µV/1 mV = 0.1 %. The usual mistake is to ignore microvolts because the meter's resolution is finer.
+P: 5. 0.01 % is a factor of 10⁴; ln(10⁴) = 9.21; 9.21 × 50 µs = 0.46 ms. The usual mistake is to wait five time constants, which settles only to 0.7 %.
+P: 6. Per channel 2 ms + 16.7 ms = 18.7 ms; 40 channels take 0.75 s. Halving: a shorter integration loses mains rejection (Chapter 12), so instead scan two halves with two meters or a dual-channel instrument, or reduce the channel delay if the settling calculation allows it (for thermocouples with low source resistance it can be well under 1 ms). The usual mistake is to drop to 0.1 power-line cycles and let 60 Hz pickup into the reading.
+H2: Chapter 11
+P: 1. Up to 15 devices including the controller. The usual mistake is to answer 31, the number of primary addresses.
+P: 2. GPIB0::22::INSTR and TCPIP0::192.168.1.20::5025::SOCKET. With a socket, you must also set the read termination character, because a raw socket has no end-of-message signal. The usual mistake is to omit the termination and see the read time out.
+P: 3. So that all modules share one frequency reference (their sample clocks and synthesizers do not drift apart) and can trigger each other with known, short delays, which a software command over a bus cannot guarantee. The usual mistake is to think the chassis only provides power and a PC connection.
+P: 4. 2 million × 2 bytes = 4 MB; 4 MB/30 MB/s = 0.13 s. The usual mistake is to forget that 16-bit samples are 2 bytes each.
+P: 5. One by one: 200 × (15 + 10) ms = 5.0 s; list mode stays 2.01 s; the saving grows from 1 s to 3 s. The usual mistake is to think list mode only helps with fast measurements; it helps more when latency is worse.
+P: 6. The 0.1 µs synchronization needs a hardware trigger between the load and the scope: in PXI that is a backplane trigger line; with box instruments it is a BNC trigger cable from the load's trigger output to the scope's external trigger, which works equally well for one pair. PXI wins when the system is dense (the 64-channel matrix and several instruments in one chassis), when throughput and synchronization across many modules matter, and when the line builds many identical stations. Box instruments win on reuse at the bench, front panels for debugging, and lower software dependence. The usual mistake is to treat synchronization as a software problem.
+H2: Chapter 12
+P: 1. 20 ms at 50 Hz and 16.67 ms at 60 Hz. The usual mistake is to assume the meter knows the grid; most must be told.
+P: 2. 0.5 + 2 × 0.1 = 0.7 Ω, 40 % high. The usual mistake is to subtract a lead resistance measured once; it changes with temperature and contact pressure, so four wires are the cure.
+P: 3. The meter shows 1.111 × average; for a square wave the rectified average equals the peak, so the average is 2.22/1.111 = 2.0 V, the peak is 2.0 V, and the RMS is 2.0 V. The usual mistake is to take 2.22 V as the RMS.
+P: 4. Noise scales as 1/√aperture, so 2/0.5 = 4 needs 16 times the aperture: 16 PLC = 320 ms at 50 Hz, about 3 readings per second. The usual mistake is to scale the aperture by 4.
+P: 5. π × 60 × 0.020 = 3.770 rad, |sin(3.770)/3.770| = 0.588/3.770 = 0.156, a rejection of 16.1 dB. The usual mistake is to expect a null because 20 ms is "a whole cycle"; it is a whole cycle only of 50 Hz.
+P: 6. Four-wire (0.05 K is 19 mΩ, far below any lead resistance), 1 mA current (0.1 mW self-heating). Resolution: 19 mΩ in 100 Ω is 190 ppm, easily met at 1 PLC (about 1 ppm noise). Time: 40 channels × (one 20 ms reading at 1 PLC on 50 Hz, doubled by offset compensation, plus about 5 ms relay settling and switching) ≈ 40 × 45 ms = 1.8 s, well inside 10 s; 2 PLC with offset compensation (85 ms per channel, 3.4 s) is affordable and halves the hum sensitivity. The usual mistake is to forget relay settling and the doubling by offset compensation in the time budget.
+H2: Chapter 13
+P: 1. Xc = 1/(2π × 1000 × 4.7 µF) = 33.9 Ω; D = 0.2/33.9 = 0.0059. The usual mistake is to divide ESR by the capacitance instead of the reactance.
+P: 2. Open for the 2 pF capacitor (the stray capacitance is in parallel and comparable); short for the 100 nH inductor (the residual inductance is in series). The usual mistake is to do only one of them for all parts; do both, always.
+P: 3. Cs = Cp(1 + D²) = 100 × 1.09 = 109 pF. The usual mistake is to think the two models only differ in the resistor, not the capacitance.
+P: 4. 1/(2π√(0.8 nH × 100 nF)) = 17.8 MHz. The usual mistake is to use nH and nF without converting units.
+P: 5. 10/9 = 1.11, so two in parallel (18 µF at 5 V). The usual mistake is to choose one, from the 0 V value.
+P: 6. An LCR meter with a DC bias current source or an external bias fixture rated for 10 A (a bias unit in series with the meter, blocking capacitors protecting the meter), four-terminal-pair connections, short compensation with the bias off, and a series model (L with series R), measured at a frequency near the converter's ripple frequency. The inductance falls as the core saturates with current; record L against bias current from 0 to 10 A, and the temperature, because the DC resistance and the saturation both change with heat. The usual mistake is to measure the inductance at 0 A and 1 kHz and use it at 10 A and 500 kHz.
+H2: Chapter 14
+P: 1. √(4 × 1.381 × 10⁻²³ × 300 × 10⁶ × 1) = 129 nV rms. The usual mistake is to forget the square root and get a number that is far too small.
+P: 2. 3 µV/K × 0.5 K = 1.5 µV, per pair of unbalanced joints. The usual mistake is to assume the two joints of a loop cancel; they cancel only if they are at the same temperature.
+P: 3. The guard is held at the signal's potential, so there is no voltage across the insulation between signal and guard and no current flows in it; the leakage flows from the guard (driven by a low-impedance source) to ground, outside the measured path. The usual mistake is to connect the guard to ground, which turns it into a shield and the leakage back on.
+P: 4. τ = 10¹¹ × 200 × 10⁻¹² = 20 s; ln(100) τ = 4.6 × 20 = 92 s. The usual mistake is to wait one time constant.
+P: 5. R = (25.4 − (−24.6))/2/1 mA = 25.0 µV/1 mA = 25.0 mΩ; the EMF is (25.4 + (−24.6))/2 = 0.4 µV. The usual mistake is to average the magnitudes without the signs, which hides the EMF.
+P: 6. An electrometer with a 500 V source (or a dedicated high-resistance meter), the connector in a shielded, guarded fixture with triaxial cables, 500 V applied and the current read after a fixed electrification time (often 60 s, following the connector standard), so the result is about 50 pA at 10 TΩ. Control humidity (below about 50 % RH, logged) and temperature, clean the part with the specified solvent and handle it with gloves, measure the open fixture first, and discharge the part through the instrument after the test (Chapter 4). The usual mistake is to report the reading at an arbitrary time, while dielectric absorption is still decaying.
+H2: Chapter 15
+P: 1. ±1 count in 0.1 s = ±10 Hz, 20 % of 50 Hz. The usual mistake is to use a conventional counter at low frequencies at all; switch to period or reciprocal mode.
+P: 2. 5 ns/0.1 s = 5 × 10⁻⁸. The usual mistake is to multiply by the input frequency; reciprocal resolution does not depend on it.
+P: 3. Each instrument's frequency is only as accurate as its own timebase; with a shared reference, a generator's 1 GHz and an analyzer's 1 GHz are the same frequency, so offsets and drifts between them disappear. The usual mistake is to blame a modulation analyzer's frequency error on the device under test when the two instruments' timebases disagree.
+P: 4. Slew rate 3.3 V/10 ns = 3.3 × 10⁸ V/s; 5 mV/3.3 × 10⁸ V/s = 15 ps rms. The usual mistake is to use the period, 100 µs, instead of the edge time.
+P: 5. 2/0.5 = 4, exactly 4:1, so it meets the rule, provided the timebase is within its calibration interval. The usual mistake is to include the counter's resolution but forget its timebase.
+P: 6. A reciprocal counter with interpolation (resolution far below 0.1 ppm in 1 s: 20 ps/1 s = 2 × 10⁻¹¹), locked to a GPSDO or calibrated OCXO (better than 0.01 ppm, a 10:1 ratio), a gate time of 1 to 5 s with averaging, and an active low-capacitance probe (below 1 pF) or a buffered test output, because a 10× passive probe's 10 pF would pull the crystal by several ppm. Check the measurement with the probe moved and removed. The usual mistake is to probe the crystal pin with a passive probe and measure the probe's loading.
+H2: Chapter 16
+P: 1. 0.35/200 MHz = 1.75 ns. The usual mistake is to take 1/bandwidth (5 ns).
+P: 2. Scope 0.35/350 MHz = 1.0 ns; displayed √(5² + 1²) = 5.10 ns. The usual mistake is to add the rise times linearly (6 ns).
+P: 3. 1 Mpoint/10 ms = 100 MS/s. The usual mistake is to assume the maximum sample rate applies at every time base.
+P: 4. 6.02 × 6.5 + 1.76 = 40.9 dB. The usual mistake is to forget the 1.76 dB.
+P: 5. Need exp(−(f/B)² ln √2) ≥ 0.97: (f/B)² ≤ ln(1/0.97)/ln √2 = 0.0879, f/B ≤ 0.296, B ≥ 25/0.296 = 84 MHz, so a 100 MHz scope. The usual mistake is to choose a 25 MHz or 50 MHz scope because "the signal is below the bandwidth."
+P: 6. Edges of 3 ns need a system rise time of about 1 ns or less: 350 MHz to 500 MHz, with at least 2.5 GS/s; the start-up at full detail needs 10 ms × 2.5 GS/s = 25 Mpoints, or segmented memory; ripple of 5 mV calls for a 10- or 12-bit scope or high-resolution mode with a 20 MHz limit. Probes: an isolated or high-CMRR differential probe for the high-side gate and switch node (Chapter 17), a low-inductance passive probe with a ground spring for the low side, a 1:1 power-rail probe for ripple, and a current probe for the inductor. The usual mistake is to buy for bandwidth alone and then measure the switch node with a long ground lead.
+H2: Chapter 17
+P: 1. 1/(2π × 50 MHz × 12 pF) = 265 Ω. The usual mistake is to look at the 10 MΩ and ignore the capacitance.
+P: 2. The probe's 9 MΩ resistor and its capacitor must form the same time constant as the scope input's 1 MΩ and capacitance, or the division ratio changes with frequency; on the calibrator square wave, corners that are neither rounded nor overshooting mean it is right. The usual mistake is to compensate once and move the probe to another channel or scope.
+P: 3. 50 dB is a factor of 316: 200/316 = 0.63 V. The usual mistake is to use the DC CMRR from the front page of the datasheet.
+P: 4. 1/(2π√(80 nH × 9.5 pF)) = 182 MHz. The usual mistake is to blame the circuit for ringing at the probe's resonance.
+P: 5. 2.2 × 100 Ω × 11 pF = 2.42 ns. The usual mistake is to assume the probe is fast because its bandwidth is high; the source impedance sets the RC.
+P: 6. An optically isolated probe (or an isolated-channel scope) with a tip adapter or MMCX connector soldered directly at the gate and Kelvin source of the device, bandwidth of at least 500 MHz to 1 GHz. Checks: (a) connect both inputs to the source (common mode only) and switch the bridge: the trace must stay flat within a few hundred millivolts; (b) compare with a known gate drive waveform with the bridge off; (c) move the probe cables and check nothing changes. The usual mistake is to trust a differential probe's DC CMRR at a 2 ns edge.
+H2: Chapter 18
+P: 1. The runt trigger. The usual mistake is to use an edge trigger with a mid level, which treats the runt as a normal edge or misses it.
+P: 2. Z = 50 × (1 − 0.2)/(1 + 0.2) = 33.3 Ω. The usual mistake is to compute 50 × 0.8 = 40 Ω.
+P: 3. 10 samples per bit. The usual mistake is to rely on a decode at 2 samples per bit, which mis-decodes on jitter.
+P: 4. d = v t/2 = 0.8 × 3.0 × 10⁸ × 250 ns/2 = 30 m. The usual mistake is to forget the factor 2 of the round trip (60 m).
+P: 5. 50 µs × 1 GS/s = 50 000 points per segment; 10 M/50 k = 200 segments. The usual mistake is to ignore the per-segment overhead, which makes the real number slightly smaller.
+P: 6. An MSO or scope with two analog channels on SDA and SCL (to see levels and rise times) and a decode; sample rate 20 to 50 MS/s or more (rise times are hundreds of nanoseconds); trigger on SDA held low longer than a timeout (for example 1 ms with the pulse-width or timeout trigger) or on a NACK, with 90 % pre-trigger and a window of tens of milliseconds. Measurements: the decoded last address before the hang (which target device), whether SCL keeps toggling while SDA stays low (a target device in mid-transfer, fixed by nine clock pulses at start-up), and the rise time against the 300 ns limit of 400 kHz I2C (too slow means the pull-ups are too weak for the bus capacitance). The usual mistake is to look only at the decoded bytes without the analog waveforms.
+H2: Chapter 19
+P: 1. The open-circuit voltage is twice the display: 4 Vpp. The usual mistake is to report a fault in the generator.
+P: 2. P = 10 mW: V = √(0.01 × 50) = 0.707 V rms, 2.0 Vpp. The usual mistake is to compute with 1 W.
+P: 3. 250 MHz/2⁴⁸ = 0.89 µHz. The usual mistake is to think the resolution equals the frequency accuracy, which the timebase sets.
+P: 4. f/fs = 0.4: sinc(0.4) = 0.757, −2.42 dB. The usual mistake is to forget that the roll-off depends on f/fs, not on f alone.
+P: 5. 10 ms/1 ns = 10 million points. The usual mistake is to forget that sequencing (a short segment repeated) can reduce this when the waveform is mostly flat.
+P: 6. A generator alone cannot deliver 2 A; use a programmable power supply with a list or arbitrary mode fast enough for the edges, or a generator driving a power amplifier (a bipolar power supply or a four-quadrant amplifier). Program the profile as a list: 12 V, a ramp down to 4.5 V in about 1 ms, 4.5 V for 15 ms, 6.5 V for 1 s, a 100 ms ramp back to 12 V; verify with a scope and a current probe at the ECU terminals, using remote sense (Chapter 5). The usual mistake is to drive the ECU from a function generator's 50 Ω output.
+H2: Chapter 20
+P: 1. P = 1 µW: V = √(10⁻⁶ × 50) = 7.07 mV rms. The usual mistake is to use 1 µW with 1 Ω.
+P: 2. |Γs| = 1/3 = 0.333, |Γl| = 0.2/2.2 = 0.0909; product 0.0303: +0.26 dB/−0.27 dB. The usual mistake is to add the VSWRs.
+P: 3. The I/Q modulator multiplies I by cos and Q by sin of the carrier; a DC offset in I or Q multiplies the carrier itself, which appears at the carrier frequency. The usual mistake is to blame the LO's isolation alone; a calibration of the I/Q offsets usually removes most of it.
+P: 4. Integrated: −110 + 10 log(9.99 MHz) = −40.0 dBc; φrms = √(2 × 10⁻⁴) = 0.0141 rad = 0.81°; jitter = 0.0141/(2π × 2.4 GHz) = 0.94 ps. The usual mistake is to forget the factor 2 for the two sidebands.
+P: 5. With g = 1: IRR = (2 + 2 cos φ)/(2 − 2 cos φ) = cot²(φ/2) = cot²(1°) = 3282, 35.2 dB. The usual mistake is to use the formula with degrees inside a cosine in radians mode.
+P: 6. Mismatch: |Γ| = 0.167 and 0.286, product 0.0476: about ±0.41 dB; generator ±0.7 dB; cable loss known only as well as it was measured. Combined as independent (Chapter 2) about √(0.7² + 0.41²) ≈ ±0.8 dB plus the cable. Reduce it with a path calibration using a power sensor at a higher level at the module's connector (removing the generator's level error and the cable loss) plus a step attenuator of known value, and a 6 dB pad at the module to cut the mismatch. The usual mistake is to subtract the cable loss from a datasheet and trust the generator's display at −100 dBm.
+H2: Chapter 21
+P: 1. −174 + 22 + 10 log 300 = −174 + 22 + 24.8 = −127.2 dBm. The usual mistake is to use 10 log of the RBW in kHz.
+P: 2. 3 dB (power addition of equal powers). The usual mistake is to read the displayed level as the tone's level.
+P: 3. 2.5 × 10 MHz/(3 kHz)² = 2.78 s. The usual mistake is to scale with 1/RBW instead of 1/RBW².
+P: 4. DANL in 100 Hz = −150 + 20 = −130 dBm; range = 2/3 × (20 + 130) = 100 dB. The usual mistake is to use the 1 Hz DANL with a 100 Hz measurement.
+P: 5. A third-order product generated in the analyzer's mixer: a 10 dB lower mixer level lowers it by 30 dB, while the attenuator also raises the display by 10 dB, a net change of 20 dB. The usual mistake is to report it as the device's spur.
+P: 6. Carrier +20 dBm: use at least 30 dB of attenuation, or better a high-pass or notch filter at 2.4 GHz to remove the carrier for the harmonic search (calibrating the filter's loss at each harmonic), so the analyzer can run with low attenuation and a low floor. RBW 100 kHz for the spurious limit (as the standard specifies), peak detector for the search and RMS where the standard requires it, and a span split into ranges up to 12.75 GHz with a preselector. Checks: the attenuator test for each finding, the reference locked, the cable losses calibrated (Chapter 20). The usual mistake is to look for −40 dBm harmonics with the full +20 dBm carrier into the mixer, measuring the analyzer's own harmonics.
+H2: Chapter 22
+P: 1. 51.2 MHz/2048 = 25 kHz. The usual mistake is to divide by N/2.
+P: 2. −60 + 107 = 47 dBµV. The usual mistake is to use 120 (that converts dBV to dBµV).
+P: 3. Limits were set to protect broadcast reception, and the annoyance of interference grows with its repetition rate; the QP detector weights impulsive noise by repetition rate, so rare pulses count less than continuous signals of the same peak. The usual mistake is to think QP is "more accurate" than peak; it measures a different quantity.
+P: 4. 25 + 14 + 2 = 41 dBµV/m. The usual mistake is to subtract the antenna factor.
+P: 5. Frame 2048/500 MS/s = 4.096 µs; hop at 75 % overlap is 25 % of the frame, 1.024 µs; minimum 5.12 µs. The usual mistake is to take the frame length alone.
+P: 6. A LISN (CISPR 16 type, 50 µH/50 Ω) in the supply line, the spectrum analyzer with the 9 kHz bandwidth and a transient limiter at its input, a ground plane under the setup, and the cable lengths as in the standard. Diagnose with a current probe around both supply wires together (common mode) and around one (differential mode), or with a CM/DM separator on the LISN outputs: differential-mode noise is fixed with more input capacitance and a differential filter, common-mode noise with a common-mode choke and by reducing the switch node's capacitance to the chassis (Book 7). The usual mistake is to add filtering at random before knowing which mode fails.
+H2: Chapter 23
+P: 1. 10 log 0.95 = −0.22 dB. The usual mistake is to apply the factor twice (meter and spreadsheet).
+P: 2. 0.02 is −17.0 dB: 10 + 17.0 = 27.0 dBm (0.5 W). The usual mistake is to multiply by the duty cycle instead of dividing.
+P: 3. At +10 dBm the diode is no longer in its square-law region and responds to the peaks of the envelope; its CW calibration does not apply to a signal with a different peak-to-average ratio. The usual mistake is to trust a reading that looks stable.
+P: 4. |Γs| = 0.3/2.3 = 0.130, |Γl| = 0.1/2.1 = 0.0476; product 0.0062: ±0.054 dB. The usual mistake is to forget that two good matches still leave a small term.
+P: 5. 50 dBm − 30 dB = 20 dBm at the sensor, at its maximum for many sensors; the attenuator must dissipate almost 100 W but is rated 10 W, so it fails. Use a high-power attenuator or a directional coupler rated for 100 W and add attenuation so the sensor sees about 0 dBm. The usual mistake is to check only the sensor's level and not the attenuator's power rating.
+P: 6. Terms: attenuator ±0.1 dB (rectangular, u = 0.058 dB); mismatch amplifier to attenuator |Γ| 0.333 × 0.0476 = 0.0159 (±0.14 dB, U-shaped, u = 0.097 dB); attenuator to sensor 0.0476 × 0.0698 = 0.0033 (±0.03 dB, u = 0.02 dB); sensor CF and linearity from its datasheet (for example u = 0.05 dB). Combined u ≈ √(0.058² + 0.097² + 0.02² + 0.05²) = 0.125 dB; U = 0.25 dB (k = 2). The usual mistake is to forget the mismatch between the amplifier and the attenuator, the largest term here.
+H2: Chapter 24
+P: 1. ENR = 3.162, Y = 1.995: F = 3.162/0.995 = 3.18, NF = 5.0 dB. The usual mistake is to subtract dB values (5 − 3 = 2 dB).
+P: 2. A passive loss at room temperature has a noise figure equal to its loss: total ≈ 0.3 + 1.0 = 1.3 dB. The usual mistake is to think a short cable is free.
+P: 3. 5 log10(1000) = 15 dB of floor improvement, at the cost of a long measurement time. The usual mistake is to expect 10 log10(N).
+P: 4. F_analyzer = 6.31; F_DUT = 2.0 − 5.31/31.6 = 2.0 − 0.168 = 1.832, NF = 2.63 dB. The usual mistake is to subtract the analyzer's NF in dB.
+P: 5. L = −90 − 5 − 10 log 100 = −115 dBc/Hz. The usual mistake is to forget that the carrier is +5 dBm, not 0 dBm.
+P: 6. A smart noise source with a low ENR (about 5 to 6 dB, which reduces the hot-cold mismatch change and the device's input level), connected directly to the LNA; an analyzer with a preamplifier (NF about 5 dB or less) for good second-stage correction; a calibration with the source on the analyzer; a shielded room. Uncertainty drivers: ENR uncertainty (about ±0.1 to ±0.2 dB), the mismatch between the noise source and the LNA input (often the largest for low-NF LNAs with poor input match), the second-stage correction (analyzer NF and the device gain), jitter of the measurement (averaging), and temperature of the source. Uncertainty calculators from the analyzer vendors combine these; typical results are ±0.1 to ±0.2 dB for a 0.5 dB LNA. The usual mistake is to use a 15 dB ENR source on a low-NF device, which increases mismatch and linearity errors.
+H2: Chapter 25
+P: 1. RL = −20 log 0.2 = 14.0 dB; VSWR = 1.2/0.8 = 1.5. The usual mistake is to give RL as −14 dB.
+P: 2. S21, the transmission from port 1 to port 2. The usual mistake is to use S12, the reverse isolation.
+P: 3. Γ = (100 − 50)/(100 + 50) = 0.333, VSWR 2.0. The usual mistake is to compute 50/100.
+P: 4. Delay = 720°/(360° × 1 GHz) = 2 ns. The usual mistake is to read the wrapped phase on screen, which hides the full turns.
+P: 5. The noise floor must be 110 dB below the passband for 20 dB of margin below a 90 dB stopband: exactly the 110 dB available at 1 kHz, so use 1 kHz or less; at 100 Hz the floor drops 10 dB for 30 dB of margin. The reading of a stopband close to the noise floor is the noise floor, not the filter. The usual mistake is to measure the stopband at the default IFBW and report the noise as rejection.
+P: 6. Calibrate at the end of the cable that will connect to the board (SOLT with a calibration kit or an ECal module), use a phase-stable cable that does not move during the measurement, and include the board's SMA and launch as part of the antenna or remove them by port extension (Chapter 26). Check by moving the cable and watching the trace (a stable result means the cable is not radiating or detuning), and add a ferrite on the cable to suppress common-mode currents on its shield, which otherwise make the cable part of the antenna. The usual mistake is to calibrate at the analyzer's ports and blame the antenna for the cable.
+H2: Chapter 26
+P: 1. Open, short, and load; they solve directivity, source match, and reflection tracking. The usual mistake is to think the load alone fixes directivity without the other two.
+P: 2. No: the error vector of 0.0178 is comparable to the device's 0.0316, so the reading can lie between about 26 dB and 37 dB. The usual mistake is to quote the reading to a tenth of a decibel.
+P: 3. The frequency step Δf: range = 1/Δf. The usual mistake is to think the span sets it; the span sets the resolution.
+P: 4. λ/4 = 3.0 × 10⁸/(4 × 2 GHz × 2.608) = 14.4 mm. The usual mistake is to use the substrate's εr instead of εeff.
+P: 5. Δf = 2 GHz/400 = 5 MHz; range 200 ns; distance 0.66 × 3.0 × 10⁸ × 200 ns/2 = 19.8 m. The usual mistake is to forget the round trip.
+P: 6. Either an on-board TRL calibration (through, a reflect, and lines on the same board, covering 6 GHz with two lines) that places the plane at the capacitor's pads, or a coaxial calibration followed by 2x-thru de-embedding of the launch and traces. Measure the capacitor in series (S21) for low impedance and extract its ESL, ESR, and capacitance by fitting a series RLC (Chapter 13's model, now at RF). Verify: the de-embedded through (0 dB, 0°), a known load or a short on the board, repeatability over several boards and capacitors, and agreement with an impedance analyzer at the low end. The usual mistake is to measure the capacitor's "self-resonance" including the board's via inductance.
+H2: Chapter 27
+P: 1. OIP3 = 5 + 55/2 = 32.5 dBm. The usual mistake is to add the full ΔIM3.
+P: 2. 21.0 dB. The usual mistake is to take P1dB at the point where the output is 1 dB below the input plus 22 dB at some arbitrary drive, rather than where the gain has dropped by 1 dB.
+P: 3. Without isolation, each generator's output enters the other's output stage and mixes there, producing intermodulation products in the generators that look like the amplifier's. Isolators, a hybrid combiner with good port isolation, or attenuators fix it. The usual mistake is to combine two generators with a simple tee.
+P: 4. Pout = 2.0 W, Pin = 0.1 W, Pdc = 6 W: PAE = (2.0 − 0.1)/6 = 31.7 %; drain efficiency = 2.0/6 = 33.3 %. The usual mistake is to report drain efficiency as PAE.
+P: 5. Γ = (5 − 50)/(5 + 50) = −0.818; behind 0.3 dB (0.6 dB round trip) the tuner must make 0.818 × 10^(0.6/20) = 0.877. The usual mistake is to count the loss once.
+P: 6. A driver amplifier after the VNA's port 1 to reach the needed drive (about +20 dBm for a 5 W amplifier with 17 dB gain), a coupler at the driver output feeding the VNA's reference receiver (or a calibrated source power), a 30 dB high-power attenuator at the amplifier output before port 2 (so the receiver sees below 0 dBm), a source power calibration with a power meter at the amplifier input plane and a receiver calibration at the output plane through the attenuator. Power sweep at 2.4 GHz from small signal to beyond P1dB; read the gain against output power. Protections: compute worst-case powers, use an attenuator rated for 5 W or more, pulsed RF if the amplifier overheats, bias sequencing. The usual mistake is to drive the VNA receiver directly with the amplifier's output.
+H2: Chapter 28
+P: 1. m = 2 × 10^(−6/20) = 1.00, 100 %. The usual mistake is to forget the factor 2 (each sideband carries m/2).
+P: 2. 2(5 + 3) = 16 kHz. The usual mistake is to use 2Δf only.
+P: 3. Δf = 2.405 × 2.000 = 4.81 kHz. The usual mistake is to stop at the second null (5.520), which gives 11.04 kHz.
+P: 4. PM with β = 0.5 rad at 10 kHz has instantaneous frequency deviation β × fm = 5 kHz peak. The usual mistake is to report 0.5 as a frequency deviation.
+P: 5. T = 1/10 Hz = 100 ms; 1.25 × 200 kHz = 250 kS/s, so 25 000 complex samples. The usual mistake is to forget that the resolution comes from the record length, not the span.
+P: 6. Set the generator to a CW carrier at the frequency of interest, put the analyzer in FM demodulation with a 0.3 to 3 kHz post-detection filter and rms detection, average over at least 1 s, and read the residual FM in Hz rms. To prove the analyzer is not the limit, measure a source known to be about 10 dB quieter (an OCXO-referenced low-noise generator) or switch to a phase-noise analyzer and integrate L(f) over 0.3 to 3 kHz (residual FM rms = √(2 ∫ f² 10^(L(f)/10) df)). The usual mistake is to report the analyzer's own residual.
+H2: Chapter 29
+P: 1. 20 log(0.05) = −26.0 dB. The usual mistake is to use 10 log, giving −13 dB.
+P: 2. 1/√316 = 5.62 %. The usual mistake is to use 1/SNR (0.32 %).
+P: 3. Corner power 7² + 7² = 98 against an average of 42: ratio 2.33, 3.68 dB. Peak-normalized: 2.0/√2.33 = 1.31 %. The usual mistake is to divide by the power ratio instead of its square root.
+P: 4. √(1.2² − 0.5²) = 1.09 %. The usual mistake is to subtract linearly (0.7 %).
+P: 5. ½ erfc(6/√2) = 9.9e−10, about 1e−9. The usual mistake is to use erfc without the factor ½ or without √2.
+P: 6. (a) Phase noise: the synthesizer's loop and reference. (b) I/Q gain imbalance: the modulator's or DAC's I and Q gain, or a baseband filter mismatch. (c) Quadrature error: the LO's 90° splitter. (d) LO leakage or DC offset: modulator DC offsets and LO isolation. (e) Compression: the PA's or driver's operating point (back off, or check the predistortion). The usual mistake is to blame noise for everything that is not a round cloud.
+H2: Chapter 30
+P: 1. 10 log(10^(−5.5)/10^(−1)) = −45 dB, an ACLR of 45 dB. The usual mistake is to quote the adjacent power in dBm as the ACLR.
+P: 2. 10 log(1e6/30e3) = 15.2 dB. The usual mistake is to compare the RBW-reading directly against the 1 MHz limit, passing a device that is 15 dB too high.
+P: 3. −155 + 10 log(18e6) = −82.4 dBm; ACLR floor −8 − (−82.4) = 74.4 dB. The usual mistake is to use the noise in 1 Hz.
+P: 4. 10 log(10^(−4.8) − 10^(−5.8)) = −48.5 dBc. If the analyzer's contribution is correlated, the correction is uncertain; report the measured value with the analyzer limit. The usual mistake is to subtract dB values (−48 − (−58)).
+P: 5. 46 − 9.7 = 36.3 dBm, 4.3 W. The usual mistake is to use the CCDF value at 1 % (about 6.6 dB), which clips 1 % of the time.
+P: 6. Set the analyzer's NR ACLR personality for a 100 MHz channel (adjacent channels per TS 38.104), an analysis bandwidth or sweep that covers ±250 MHz, rms detector, noise correction on. Use an attenuator after the amplifier so the analyzer input is in its optimum range; sweep the analyzer attenuation to find the best reading. Establish the floor by measuring the NR test-model waveform from a vector generator directly at the same level. Report main-channel power, both adjacent ACLRs, the analyzer floor, attenuation, averaging, and uncertainty. The usual mistake is to report a value within 5 dB of the analyzer's own floor as the device's.
+H2: Chapter 31
+P: 1. 1/60 kHz = 16.7 µs; CP 4.69/4 = 1.17 µs. The usual mistake is to scale the CP by the spacing in the wrong direction.
+P: 2. 50 × 180 kHz = 9 MHz. The usual mistake is to use the 10 MHz channel width.
+P: 3. 160 MHz/78.125 kHz = 2048 positions (a 2048-point FFT); fewer are used for data. The usual mistake is to forget that guard and DC subcarriers are among them.
+P: 4. −30 dB = 3.16 %; margin 20 log(3.5/3.16) = 0.9 dB. The usual mistake is to compare the dB value against −35 dB (1.78 %) from a different standard.
+P: 5. √(2.0² − 0.8²) = 1.83 %. The usual mistake is to subtract linearly.
+P: 6. Edges: amplitude or group-delay droop of a filter (the IF or RF channel filter, or the PA's matching), reducing edge SNR after equalization; measure the spectral flatness trace and the filter's S21 and group delay with a VNA. First symbol: a transient (the PA or bias settling at burst start, or the PLL settling after a frequency change); measure the power and phase against time at the burst start, and check the PA enable timing. The usual mistake is to tweak the PA bias for a problem that is in a filter or in timing.
+H2: Chapter 32
+P: 1. 2^12/125 kHz = 32.8 ms; 12 × 125e3/4096 × 0.8 = 293 bit/s. The usual mistake is to forget the coding rate.
+P: 2. S = 1 GHz/50 µs = 2e13 Hz/s; fb = 2 × 30 × 2e13/3e8 = 4.0 MHz; resolution 3e8/(2 × 1e9) = 15 cm. The usual mistake is to drop the factor 2 for the round trip.
+P: 3. Duty 2 µs × 10 kHz = 0.02; average 2 W; line 20 log(0.02) = −34 dB below peak. The usual mistake is to use 10 log(duty) (−17 dB) for the line, which is the average power, not a line.
+P: 4. 214/262 = 0.817, at least 0.8: pass (and Δf1avg is inside 225 to 275 kHz). The usual mistake is to invert the ratio.
+P: 5. About 1/10 kHz = 100 µs window; the time resolution is then about 100 µs too. The usual mistake is to expect both fine time and fine frequency from one window.
+P: 6. A peak power sensor and meter for peak and average power, pulse width, rise and fall time, droop, and PRI; a signal analyzer for the spectrum (envelope nulls, spurious, and harmonics, with a waveguide or 18 GHz front end and preselection); a VSA with enough analysis bandwidth for intrapulse frequency and phase, pulse-to-pulse stability; a frequency counter with burst mode for the carrier frequency. Protections: a high-power attenuator or a directional coupler rated for the peak power, followed by further attenuation; compute the peak level at each instrument; radiation safety for the open waveguide. The usual mistake is to size the attenuator for the average power.
+H2: Chapter 33
+P: 1. −60 + 107 = 47 dBµV. The usual mistake is to use +90 (dBm to dBmV is +47).
+P: 2. Δf = cΔλ/λ² = 3e8 × 0.1e−9/(1550e−9)² = 12.5 GHz. The usual mistake is to use the wavelength instead of its square.
+P: 3. Distance per pulse length: 3e8/1.468 × 100e−9/2 = 10.2 m. The usual mistake is to forget the factor 2 (round trip).
+P: 4. Bare copper has ε of about 0.05 to 0.1 and reflects the surroundings; with ε set to 0.95, the camera interprets the reflected room radiation as the object's own and reads close to the room, even if the copper is at 60 °C. The usual mistake is to conclude that the copper is cool.
+P: 5. Target field 40 − 6 = 34 dBµV/m; reading 34 − 9 − 1.5 = 23.5 dBµV = 23.5 − 107 = −83.5 dBm. The usual mistake is to subtract the antenna factor with the wrong sign.
+P: 6. Morning: ambient scans (radiated and conducted, product off), then the reference product if one exists. Conducted emissions with the LISN from 150 kHz to 30 MHz, peak and average, product in its worst mode. Radiated at 3 m (antenna height and polarization fixed and recorded), 30 MHz to 1 GHz, peak. Afternoon: near-field probe the regulator's switching loop and the USB-C area, and clamp the cables to find the common-mode currents behind the worst peaks; try fixes one at a time and rescan. Record the setup (photos, cable routing, antenna position, analyzer settings, firmware and operating mode) and save traces with names, so the next spin repeats the same conditions. The usual mistake is to move the cables between scans and attribute the change to a fix.
+H2: Chapter 34
+P: 1. SENS:VOLT:DC:NPLC 10. The usual mistake is to abbreviate keywords freely (SEN:VOL); only the capitalized short forms are valid.
+P: 2. The character 1, after all pending operations started before it have finished; until then the query blocks (and can time out). The usual mistake is to use *OPC (no question mark), which sets a status bit and returns nothing.
+P: 3. One digit 6 gives a 6-digit length field: 100000 bytes follow. The usual mistake is to read 6100000 as the length.
+P: 4. Binary: 20 MB/40 MB/s = 0.5 s; ASCII: 130 MB/40 MB/s = 3.25 s plus parsing. The usual mistake is to use the sample count instead of bytes.
+P: 5. NPLC 0.1 = 1.67 ms. Per point: 500 × (1.67 + 1.5) = 1.58 s. Buffered: 500 × 1.67 ms + 1.5 ms = 0.835 s, about twice as fast. The usual mistake is to forget the integration time when comparing.
+P: 6. The calibration (an alignment of the analyzer) takes longer than the VISA timeout, and a query sent meanwhile waits in the queue until the timeout expires. Fix: either disable automatic alignment during the test and run it at a defined time, or start long operations with *OPC, enable the operation-complete bit in *ESE and the event bit in *SRE, and wait for SRQ (or poll *STB? with short timeouts) before sending the next query; raise the timeout only for the one operation known to be long. The usual mistake is to raise the global timeout to minutes, which hides real hangs.
+H2: Chapter 35
+P: 1. Dataflow decides: a node runs when all its inputs have arrived, and its position on the page does not matter. Two nodes with no wire between them have no defined order and may run in parallel; to force an order, wire the error cluster (or another output) from one to the other. The usual mistake is to assume left-to-right order because the diagram reads that way.
+P: 2. GPIB0::18::INSTR; USB0::0x05E6::0x2450::04512345::INSTR; TCPIP0::192.168.1.50::hislip0::INSTR. The usual mistake is to write the USB vendor and product IDs in decimal (1510 and 9296) instead of the hexadecimal form that VISA lists.
+P: 3. (4 − (−1))/0.025 = 200 steps, so 201 points. The usual mistake is to answer 200, counting the steps instead of the points; the For Loop's N must be 201.
+P: 4. A shift register. Initialize the left terminal with 0 from outside the loop, add each reading to the value from the left terminal, wire the sum to the right terminal, and divide by i + 1 for the mean. The usual mistake is to leave the shift register uninitialized, so that the sum continues from the previous run of the VI.
+P: 5. gm = (5.3800 − 3.9554) mA/0.10 V = 14.246 mS. The tangent crosses zero at 2.15 − 4.6677/14.246 = 2.15 − 0.3277 = 1.8223 V, and Vth = 1.8223 − 0.05 = 1.772 V. The coefficient is (1.772 − 2.084)/(125 − 25) = −3.1 mV/K. The usual mistake is to forget the Vds/2 correction, which reports 1.822 V and makes every threshold 50 mV high.
+P: 6. 465 × 4 × 8 = 14 880 bytes, so CSV takes 25 371/14 880 = 1.7 times as much. For 200 parts at three temperatures, 600 runs: about 8.9 MB of binary values (plus a small amount of TDMS metadata) against 15.2 MB of CSV. Both are small for a modern disk; the reasons to choose TDMS are speed for streaming and structured properties, not this size. The usual mistake is to choose the format on size alone, at sizes where it does not matter.
+P: 7. 50 000/5000 = 10 blocks per second, so a 4 s stall leaves 40 blocks: 40 × 5000 × 8 = 1 600 000 bytes, 1.6 MB, in the queue. A single loop would not survive: the default buffer of 100 kS holds 100 000/50 000 = 2 s, so after 2 s of the stall unread samples are overwritten and the read fails. The usual mistake is to enlarge the DAQmx buffer and stop there; it works until the next, longer stall, while producer-consumer keeps the acquisition independent of the writer.
+P: 8. For characterization, Python with PyVISA (or PyMeasure's 2450 class) and the structure of Listings 35.2 and 35.3: the team knows it, it costs nothing, and the bench needs only two SMUs and a chuck, all with SCPI. For production, a test of 4 × 23.7 ms + 6 s = 6.1 s per part gives 2 × 7.5 × 3600/6.1 = about 8850 parts per day per station, so one station covers 2000 parts with room for retests and downtime; a second station is worth having as a spare. The test should be a small, version-controlled Python or C# program with limits in a configuration file, unless the contract manufacturer already runs TestStand, in which case the Python modules become TestStand steps through its Python adapter and the manufacturer's reports and databases come for free. The recommendation changes if NI data acquisition hardware is needed, if the manufacturer standardizes on LabVIEW, or if many product variants and sockets make TestStand's process models worth their license cost. The usual mistake is to pick the tool before counting the readings: the measurement time is about 1.6 % of the test time here, so handling, not software speed, sets the number of stations.
+H2: Chapter 36
+P: 1. min(5.10 − 5.02, 5.02 − 4.90)/(3 × 0.03) = 0.08/0.09 = 0.89. The usual mistake is to use the distance to the far limit.
+P: 2. 3600/35 = 103 UPH. The usual mistake is to leave out the handling time.
+P: 3. 0.98 × 0.95 × 0.99 = 92.2 %. The usual mistake is to average the yields.
+P: 4. 6 × 0.5/30 = 10 %: at the boundary between good and acceptable. The usual mistake is to use 1σ instead of the 6σ spread.
+P: 5. 9 of 20, 45 %. Here all recovered failures are Vout contact faults, a test problem. A retest is wrong when the failure is in the unit (a marginal parameter that passes on a second, noisy reading): the retest then lets marginal units through. Policy: one retest, both results logged, and a review of steps where retests often pass. The usual mistake is to allow retests until pass.
+P: 6. Tables: product (product_id, name, revision); limit_set (limit_set_id, product_id, version, approved_by, date); limit (limit_set_id, step, lo, hi, guard, unit); station (station_id, line, instruments with calibration dates); run (run_id, station_id, sequence_version, limit_set_id, operator, start_utc); unit_test (run_id, serial, start_utc, result); step_result (run_id, serial, step, attempt, value, pass). Index serial, step, and start time. Questions: "Show every result for serial SN001234 across all stations," and "Cpk and FPY per step per station for product X last week." The usual mistake is to store pass/fail without the value and limits, which makes later questions unanswerable.
+H2: Chapter 37
+P: 1. Γ = 0.0562; floor 0.0100: −20 log(0.0662) = 23.6 dB to −20 log(0.0462) = 26.7 dB. The usual mistake is to assume a symmetric error in dB.
+P: 2. −174 + 5 + 30 = −139 dBm. The usual mistake is to forget the 10 log(RBW) term.
+P: 3. 6.02 × 8 + 1.76 = 49.9 dB in 1.2 MHz; in a 1 kHz bin the noise falls by 10 log(1.2e6/1e3) = 30.8 dB, so 80.7 dB (processing gain, Chapter 22). The usual mistake is to think 8 bits limits every measurement to 50 dB.
+P: 4. 1e−6 × 1.5e9 = 1.5 kHz. The usual mistake is to forget that ppm scales with frequency.
+P: 5. 2 × (15 − (−15)) = 60 dB below the tones, at −75 dBm. The usual mistake is to take a single factor (30 dB).
+P: 6. Calibrate SOLT with the LiteVNA's SMA kit at the ends of the two test cables over 2.0 to 2.8 GHz with 401 points and a narrow IFBW (Chapter 25); verify the calibration by measuring the through (S21 within ±0.1 dB of 0 dB, S11 below −35 dB) and the load. Measure S11 and S21; turn the filter around for S22 and S12. Check the stopband against the instrument's dynamic range (above 70 dB is not measurable below 3 GHz) and report stopband attenuation as "more than X dB" where the trace reaches the noise floor. Report the calibration date, cables, IFBW, the floor-limited uncertainty of return loss, and that the kit standards are not characterized. The usual mistake is to report a 90 dB stopband that is the analyzer's noise.
+H2: Chapter 38
+P: 1. 125 µV/4.7 Ω = 26.6 µA, with a higher current range (up to about 0.2 A before the drive runs out). The usual mistake is to think a smaller sense resistor improves resolution.
+P: 2. The conservative whole-path bound is 5.25 V/(118.8 ohm + 46.53 ohm) = 31.8 mA. Ignoring the sense resistor gives the looser ballast-only bound 5.25/118.8 = 44.2 mA. The passive resistor caps current independently of firmware, but the DUT can still exceed its pulse SOA or overheat; verify pulse width, voltage, current, and temperature on the specified hardware. The usual mistake is to treat a current ceiling as proof of safe pulse energy.
+P: 3. A variac is an autotransformer: its output is connected to its input, so the circuit is still referenced to the mains neutral and earth, and a grounded scope probe still shorts whatever it touches to earth. A variac does not provide galvanic isolation, so do not use it as scope protection. Keep the oscilloscope protective-earth connected and use a correctly rated differential probe or isolated-input scope for a non-earth-referenced measurement. An isolation transformer on the device under test is only for a controlled setup and does not make exposed live circuitry safe to touch. The usual mistake is to treat "adjustable" as "isolated."
+P: 4. 23 Hz in 10 MHz is +2.3 ppm; at 433.92 MHz the reading is 2.3e−6 × 433.92e6 = 998 Hz high, about 1 kHz. The usual mistake is to apply the 23 Hz offset at every frequency.
+P: 5. R = (4.73 + 4.71)/2/1.000 A = 4.72 mΩ; thermal EMF (4.73 − 4.71)/2 = 10 µV. The usual mistake is to report the forward reading only.
+P: 6. First: a CAT III true-rms DMM, a 12-bit 70 MHz scope with 10:1 probes, a 0 to 30 V, 3 A linear supply with current limit, an isolation transformer for amplifier repair, a GFCI outlet strip, and an ESD mat. Second: a function generator (audio distortion and frequency response), a dummy load for amplifiers (resistive, rated for the power), a tinySA and a NanoVNA for the 433 MHz work, an RTL-SDR for watching transmissions. Third: references (a voltage reference module and, for the IoT radios' frequency accuracy, a GPSDO), and a handheld LCR meter. Keep a spreadsheet of checks. The usual mistake is to buy a 200 MHz scope and no dummy load or isolation transformer.
 H1: Appendix C. Sources
 P: The specifications, commands, and facts quoted in this book were checked against the documentation below, current in October 2026; the books listed go deeper. Instrument datasheets and firmware are revised often, so check the version you own.
-SRC: JCGM 100:2008, Evaluation of measurement data: Guide to the expression of uncertainty in measurement (GUM), and JCGM 200:2012, the International vocabulary of metrology (VIM), for accuracy, precision, uncertainty, and traceability (Chapters 1 and 2). ILAC-G8:09/2019, Guidelines on decision rules and statements of conformity, for guard bands (Chapter 2).
-SRC: IEC 61010-1 and IEC 61010-031, safety requirements for measuring equipment and hand-held probe assemblies, for measurement categories (Chapter 4).
-SRC: Keithley (Tektronix), Low Level Measurements Handbook, 7th edition, for guarding, thermal EMF, the delta method, and picoampere technique (Chapters 3, 6, 14).
-SRC: Keithley (Tektronix), Model 2450 SourceMeter Reference Manual and User's Manual, and the application note on I-V characterization of diodes with the 2450, for the SCPI commands and specifications (Chapters 6, 7, 35). The npTDMS documentation, for reading TDMS files in Python (Chapter 35).
-SRC: Keysight Technologies, B1500A and B1505A data sheets and the Parametric Measurement Handbook, for SMU, curve-tracer, C-V, and power-device characterization methods (Chapters 6 to 8). Tektronix 576 curve tracer instruction manual, for the classic tracer (Chapter 7).
-SRC: Infineon, Toshiba, and Nexperia application notes on MOSFET datasheet parameters, gate charge, double-pulse testing, and thermal impedance, and JEDEC JESD24 and JESD51 series, for the test definitions of Chapter 8. ngspice user's manual, for the diode model parameters (Chapter 8).
-SRC: Markus Frejek and Karl-Heinz Kübbeler, the open-source AVR transistor tester (documentation on mikrocontroller.net), for the hobby component tester (Chapter 7).
-SRC: Keysight Technologies, 34465A and 3458A data sheets, the Fluke 8588A specifications, and the Keithley DMM7510 data sheet, for multimeter architecture, apertures, and specifications (Chapter 12).
-SRC: Keysight Technologies, Impedance Measurement Handbook, 6th edition, and the E4980A and E4990A data sheets, for LCR and impedance analyzer methods and ranges (Chapter 13).
-SRC: Keysight Technologies, 53230A data sheet and the application note Fundamentals of Time Interval Measurements; NIST Special Publication 1065, Handbook of Frequency Stability Analysis (W. J. Riley), for counters and the Allan deviation (Chapter 15).
-SRC: NI, LabVIEW manual and LabVIEW API reference (Python Node, .NET, TDMS, and VISA functions), the LabVIEW 2026 Q3 release notes, the Integrating Python Code in LabVIEW compatibility table, and the Community Edition usage details page, checked in October 2026 (Chapter 35).
-SRC: NI, TestStand help (process models, step types, module adapters, reports, and database logging), and the NI-DAQmx documentation with the nidaqmx Python API reference, including the DAQmx buffer size allocation article (Chapter 35).
-SRC: IVI Foundation, VISA specification (VPP-4.3) and SCPI-1999; PyVISA documentation, for remote control (Chapters 11, 34, 35).
-SRC: Tektronix, ABCs of Probes Primer, and the oscilloscope and probe data sheets of Keysight, Rohde & Schwarz, Tektronix, Rigol, and Siglent, for scope architecture, probe loading, and specifications (Chapters 16 to 18, 37).
-SRC: Keysight Technologies, Spectrum Analysis Basics (Application Note 150), and the X-Series signal analyzer and N9038B EMI receiver documentation; Rohde & Schwarz FSW and ESR documentation; CISPR 16-1-1 and CISPR 32, for spectrum, EMI, and limit values (Chapters 21, 22, 33).
-SRC: Keysight Technologies, Noise Figure Measurement Accuracy: The Y-Factor Method (Application Note 57-2), and phase-noise analyzer documentation, for noise figure and phase noise (Chapter 24).
-SRC: Keysight Technologies, Understanding the Fundamental Principles of Vector Network Analysis (Application Note 1287-1), and VNA calibration and de-embedding application notes from Keysight, Rohde & Schwarz, Anritsu, and Copper Mountain, for network analysis (Chapters 25 to 27).
-SRC: 3GPP TS 38.104 (NR base station radio transmission and reception), TS 36.104 (LTE), IEEE 802.11ax and 802.11be, and the Bluetooth RF-PHY test specification on the Bluetooth specifications page, for EVM, ACLR, and modulation limits (Chapters 29 to 32).
-SRC: IVI Foundation specifications (IVI-C, IVI.NET, VISA.NET) on the IVI Foundation specifications page; PyMeasure documentation; OpenHTF documentation, for drivers and test frameworks (Chapters 34 and 36).
-SRC: tinySA wiki (specifications of the tinySA Ultra); NanoVNA and LiteVNA documentation at nanovna.com; RTL-SDR Blog V4 datasheet; HackRF One documentation, for the budget instruments (Chapter 37).
-SRC: Microchip MCP4728 and Texas Instruments ADS1115 data sheets, and the MicroPython documentation for the RP2040 and ESP32 ports, for the mini curve tracer (Chapter 38).
-REVIEW: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+P: JCGM 100:2008, Evaluation of measurement data: Guide to the expression of uncertainty in measurement (GUM), and JCGM 200:2012, the International vocabulary of metrology (VIM), for accuracy, precision, uncertainty, and traceability (Chapters 1 and 2). ILAC-G8:09/2019, Guidelines on decision rules and statements of conformity, for guard bands (Chapter 2).
+P: IEC 61010-1 and IEC 61010-031, safety requirements for measuring equipment and hand-held probe assemblies, for measurement categories (Chapter 4).
+P: Keithley (Tektronix), Low Level Measurements Handbook, 7th edition, for guarding, thermal EMF, the delta method, and picoampere technique (Chapters 3, 6, 14).
+P: Keithley (Tektronix), Model 2450 SourceMeter Reference Manual and User's Manual, and the application note on I-V characterization of diodes with the 2450, for the SCPI commands and specifications (Chapters 6, 7, 35). The npTDMS documentation, for reading TDMS files in Python (Chapter 35).
+P: Keysight Technologies, B1500A and B1505A data sheets and the Parametric Measurement Handbook, for SMU, curve-tracer, C-V, and power-device characterization methods (Chapters 6 to 8). Tektronix 576 curve tracer instruction manual, for the classic tracer (Chapter 7).
+P: Infineon, Toshiba, and Nexperia application notes on MOSFET datasheet parameters, gate charge, double-pulse testing, and thermal impedance, and JEDEC JESD24 and JESD51 series, for the test definitions of Chapter 8. ngspice user's manual, for the diode model parameters (Chapter 8).
+P: Markus Frejek and Karl-Heinz Kübbeler, the open-source AVR transistor tester (documentation on mikrocontroller.net), for the hobby component tester (Chapter 7).
+P: Keysight Technologies, 34465A and 3458A data sheets, the Fluke 8588A specifications, and the Keithley DMM7510 data sheet, for multimeter architecture, apertures, and specifications (Chapter 12).
+P: Keysight Technologies, Impedance Measurement Handbook, 6th edition, and the E4980A and E4990A data sheets, for LCR and impedance analyzer methods and ranges (Chapter 13).
+P: Keysight Technologies, 53230A data sheet and the application note Fundamentals of Time Interval Measurements; NIST Special Publication 1065, Handbook of Frequency Stability Analysis (W. J. Riley), for counters and the Allan deviation (Chapter 15).
+P: NI, LabVIEW manual and LabVIEW API reference (Python Node, .NET, TDMS, and VISA functions), the LabVIEW 2026 Q3 release notes, the Integrating Python Code in LabVIEW compatibility table, and the Community Edition usage details page, checked in October 2026 (Chapter 35).
+P: NI, TestStand help (process models, step types, module adapters, reports, and database logging), and the NI-DAQmx documentation with the nidaqmx Python API reference, including the DAQmx buffer size allocation article (Chapter 35).
+P: IVI Foundation, VISA specification (VPP-4.3) and SCPI-1999; PyVISA documentation, for remote control (Chapters 11, 34, 35).
+P: Tektronix, ABCs of Probes Primer, and the oscilloscope and probe data sheets of Keysight, Rohde & Schwarz, Tektronix, Rigol, and Siglent, for scope architecture, probe loading, and specifications (Chapters 16 to 18, 37).
+P: Keysight Technologies, Spectrum Analysis Basics (Application Note 150), and the X-Series signal analyzer and N9038B EMI receiver documentation; Rohde & Schwarz FSW and ESR documentation; CISPR 16-1-1 and CISPR 32, for spectrum, EMI, and limit values (Chapters 21, 22, 33).
+P: Keysight Technologies, Noise Figure Measurement Accuracy: The Y-Factor Method (Application Note 57-2), and phase-noise analyzer documentation, for noise figure and phase noise (Chapter 24).
+P: Keysight Technologies, Understanding the Fundamental Principles of Vector Network Analysis (Application Note 1287-1), and VNA calibration and de-embedding application notes from Keysight, Rohde & Schwarz, Anritsu, and Copper Mountain, for network analysis (Chapters 25 to 27).
+P: 3GPP TS 38.104 (NR base station radio transmission and reception), TS 36.104 (LTE), IEEE 802.11ax and 802.11be, and the Bluetooth RF-PHY test specification on the Bluetooth specifications page, for EVM, ACLR, and modulation limits (Chapters 29 to 32).
+P: IVI Foundation specifications (IVI-C, IVI.NET, VISA.NET) on the IVI Foundation specifications page; PyMeasure documentation; OpenHTF documentation, for drivers and test frameworks (Chapters 34 and 36).
+P: tinySA wiki (specifications of the tinySA Ultra); NanoVNA and LiteVNA documentation at nanovna.com; RTL-SDR Blog V4 datasheet; HackRF One documentation, for the budget instruments (Chapter 37).
+P: Texas Instruments OPA310-Q1 and ADS1115 data sheets, Microchip MCP4728 data sheet, and the MicroPython documentation for the RP2040 and ESP32 ports, for the mini curve tracer (Chapter 38).
+P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
 H1: About the Author
 P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
 P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
 H1: Also by Lothar J. Musiol
-ALSOG: Physics, Actually
-ALSOT: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
-ALSOT: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
-ALSOT: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
-ALSOT: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
-ALSOG: More Actually Books
-ALSOT: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
-ALSOT: The Universe, Actually: What Humanity Currently Understands About Reality
-ALSOG: Math, Actually
-ALSOT: Math, Actually, Volume 1: From Arithmetic to Calculus
-ALSOT: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
-ALSOT: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
-ALSOT: Math, Actually, Volume 4: From Category Theory to the Frontier
-ALSOG: Quantum, Actually
-ALSOT: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
-ALSOT: Quantum, Actually, Volume 2: A QED Course
-ALSOG: Science Sparks
-ALSOT: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
-ALSOG: Look First
-ALSOT: Look First, Volume 1: The Universe Has No Now
-ALSOT: Look First, Volume 2: A Trip Is Not a New Life
-ALSOG: Electrical Engineering Series
-ALSOT: Foundations of Electronics (Book 1)
-ALSOT: Circuits, Components, and Control (Book 2)
-ALSOT: Semiconductor Physics and Devices (Book 3)
-ALSOT: RF, Microwave, and Transceivers (Book 4)
-ALSOT: Communications, Wireless, and SDR (Book 5)
-ALSOT: Power and Energy (Book 6)
-ALSOT: Packaging, Layout, EMC, and Test (Book 7)
-ALSOT: Firmware and Software for Electronics (Book 8)
-ALSOG: History
-ALSOT: The Dolphins’ View of History
-ALSOG: Fiction
-ALSOT: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
-ALSOT: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
-ALSOT: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
-ALSOT: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
-ALSOT: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
-ALSOT: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
-ALSOG: In German
-ALSOT: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
+P: Physics, Actually
+P: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+P: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+P: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+P: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+P: More Actually Books
+P: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+P: The Universe, Actually: What Humanity Currently Understands About Reality
+P: Math, Actually
+P: Math, Actually, Volume 1: From Arithmetic to Calculus
+P: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+P: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+P: Math, Actually, Volume 4: From Category Theory to the Frontier
+P: Quantum, Actually
+P: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+P: Quantum, Actually, Volume 2: A QED Course
+P: Science Sparks
+P: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+P: Look First
+P: Look First, Volume 1: The Universe Has No Now
+P: Look First, Volume 2: A Trip Is Not a New Life
+P: Electrical Engineering Series
+P: Foundations of Electronics (Book 1)
+P: Circuits, Components, and Control (Book 2)
+P: Semiconductor Physics and Devices (Book 3)
+P: RF, Microwave, and Transceivers (Book 4)
+P: Communications, Wireless, and SDR (Book 5)
+P: Power and Energy (Book 6)
+P: Packaging, Layout, EMC, and Test (Book 7)
+P: Firmware and Software for Electronics (Book 8)
+P: History
+P: The Dolphins’ View of History
+P: Fiction
+P: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+P: In German
+P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?

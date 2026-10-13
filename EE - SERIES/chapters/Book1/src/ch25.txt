@@ -1,0 +1,21 @@
+H1: Chapter 25 — Where This Book Leads Next
+P: Every toolbox needs a label on the lid. Before the circuits start, this short chapter says which Part II tools you will reach for constantly and which can stay in the drawer for a while.
+P: Where you meet this: Part III of this book, and Books 2, 4 and 5 of the series.
+P: The mathematics is now in place. It is worth a short chapter to say explicitly where each piece gets used, both so the effort feels justified and so you know where to return when a later book assumes something you have half-forgotten.
+H2: 25.1 Immediately: Part III, Circuit Theory
+P: Part III opens with Kirchhoff's laws and resistive networks, which need only Chapters 16 and 17 — rearrangement and simultaneous equations. It then introduces capacitors and inductors, at which point Chapter 24's derivatives become necessary to state what those components do. First-order transients use the exponentials of Chapter 19 directly, including the 63% and five-time-constant rules.
+P: The second half of Part III is sinusoidal steady-state analysis, and it uses Chapters 20 through 23 continuously and without further explanation. The phasor and impedance material of Chapter 23 is assumed knowledge from the moment AC appears. If one chapter of this book is worth revisiting before starting Part III, it is that one.
+H2: 25.2 Soon: Filters, Frequency Response, and Bode Plots
+P: Frequency response is the impedance of Chapter 23 evaluated across a range of frequencies rather than at one. The asymptotic reading of transfer functions and logarithmic axes from Chapter 18, combined with the decibels of Chapter 19, is precisely the skill set the Bode plot demands. An engineer fluent in those two chapters can sketch the response of a filter from its component values in a few seconds, without computing a single point.
+H2: 25.3 Later: RF, Noise, and Communications
+P: The RF books lean on this material harder than any others. The Smith chart is a conformal map of the complex plane, and it is unusable without genuine comfort with complex arithmetic. S-parameters are complex ratios, quoted in magnitude and phase. Link budgets are sums of decibel quantities, and the dBm conventions of Chapter 19 are used on every page. Noise figure is a ratio of ratios, expressed logarithmically, and the uncertainty reasoning of Chapter 15 governs how precisely any of it can be measured.
+P: Modulation theory rests on the sum-of-angles identity from Chapter 20 — multiplying two sinusoids produces sum and difference frequencies, which is what a mixer does and what every superheterodyne receiver is built around.
+H2: 25.4 Eventually: Transforms
+P: The Fourier and Laplace transforms, which arrive later in the series, are direct generalizations of what you have already done. The phasor represents a signal at one frequency; the Fourier transform represents a signal as a continuous superposition of all frequencies at once. The jω of Chapter 23 becomes the more general complex variable s = σ + jω of the Laplace transform, where the real part σ describes growth or decay and the imaginary part describes oscillation.
+P: Both transforms turn differential equations into algebraic ones, exactly as the phasor method did — they are the same trick, applied more broadly. Having understood why jω works, you will find the transforms considerably less alien than students who meet them without this grounding.
+KEY: Nothing later in this series depends on a fundamentally unfamiliar mathematical foundation. Later books extend these tools — complex arithmetic, logarithms, sinusoids, first-order calculus — and combine them in more demanding ways, and some topics (Fourier and Laplace transforms, probability and noise, feedback and control) can genuinely feel harder in their own right. But none of it requires a fundamentally different mathematical starting point than what this book has already built. If this book is solid, the rest of the series is about applying that foundation, not relearning it.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Algebra, linear equations, decibels, complex numbers and phasors, constantly.
+P: Mostly for exams and deeper study
+LI: Calculus beyond simple derivatives and integrals, mostly in later and more theoretical work.

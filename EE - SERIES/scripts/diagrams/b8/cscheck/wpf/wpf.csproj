@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><TargetFramework>net10.0-windows</TargetFramework><OutputType>WinExe</OutputType><UseWPF>true</UseWPF><Nullable>enable</Nullable><ImplicitUsings>disable</ImplicitUsings><TreatWarningsAsErrors>true</TreatWarningsAsErrors></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../stubs/SerialPortStub.cs" />
+    <Compile Include="../../listings/l22_1_ReadingParser.cs" />
+    <Compile Include="../../listings/l25_4_FirstDraftWindow.cs" />
+    <Page Include="../../listings/l22_3_MainWindow.xaml" Link="MainWindow.xaml" />
+    <Compile Include="../../listings/l22_3_MainWindow.xaml.cs" Link="MainWindow.xaml.cs" DependentUpon="MainWindow.xaml" />
+  </ItemGroup>
+</Project>

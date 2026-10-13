@@ -16,13 +16,13 @@ The second camera in the lab had a blind arc of its own. The facilities people c
 
 I will say what I did in the order I did it, and I will say it plainly, because plainness is a kind of honesty and I would like to be credited with some.
 
-There were nine embryos in the incubator that week, from four couples. Six were exactly what the paperwork said they were. For two of the others, I had written the paperwork myself, and the lines on it were true in the way a good lie is true: every individual word was accurate, and the sentence they made was not. Officially I was correcting a lethal mutation, one of those errors in a single place that would take a child at six or at nine and leave a family with a photograph and a very clean house. That part was real. I did that part well. I would do it again.
+There were nine embryos in the incubator that week, from four couples. Seven were exactly what the paperwork said they were. For the other two, I had written the paperwork myself, and the lines on it were true in the way a good lie is true: every individual word was accurate, and the sentence they made was not. Officially I was correcting a lethal mutation, one of those errors in a single place that would take a child at six or at nine and leave a family with a photograph and a very clean house. That part was real. I did that part well. I would do it again.
 
 A sensible reader distrusts any sentence that begins with the word *officially*. Officially, I was correcting errors. Unofficially, I kept a schedule, and the schedule was not measured in embryos or in years. It ran a hundred of them.
 
 The second part is the part you have come for.
 
-I will not set it down in a way that anyone could follow, and I want that understood now, at the start, in case you were hoping. It is not modesty. I have a daughter somewhere, or I did, and a man who writes the recipe for something like this is a man who has not thought about the person who reads it. What I will say is that it was fewer steps than people imagine and more than the law would forgive. It took a steady hand and a pair of eyes that never once looked up at the clock, because I had set the clock behind me, where I could hear it and not see it.
+I will not set it down in a way that anyone could follow, and I want that understood now, at the start, in case you were hoping. It is not modesty. A man who writes the recipe for something like this has not thought about the person who reads it. What I will say is that it was fewer steps than people imagine and more than the law would forgive. It took a steady hand and a pair of eyes that never once looked up at the clock, because I had set the clock behind me, where I could hear it and not see it.
 
 At three minutes and a little, the embryo that would become the boy went quiet in the dish. They do not do anything, of course. They are a small clear arrangement of cells that look like nothing at all. But I had spent two decades looking at them, and I had learned to feel when a thing had been done to them that could not be undone, the same way you feel a door close in a house you thought was empty.
 
@@ -42,4 +42,4 @@ That is how it began. I have thought many times since about what I would say to 
 
 *Burning the midnight oil.*
 
-It is eleven years to the day since, as I write this, and the boy has just told me what he can hear through my chest.
+It is twelve years since, as I write this, and the boy has just told me what he can hear through my chest.

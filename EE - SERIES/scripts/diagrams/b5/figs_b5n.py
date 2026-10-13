@@ -1,5 +1,7 @@
 """Book 5 pass 2 new figures. Every marked number is recomputed and asserted against the text."""
-import sys; sys.path.insert(0, '/workspace/ee1/common')
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'common'))
 from eestyle import *
 import numpy as np, json
 from math import ceil, log10, sqrt, atan, exp

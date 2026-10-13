@@ -38,7 +38,7 @@ I was trying to say *pen.*
 
 I was sixteen when I found it, and I want to say at once that I was not looking for it.
 
-For four years I had known Stone was in a care home forty minutes from our apartment. My parents knew it too, in the way they knew about a distant cousin's operation: with a kind sentence and no follow-up. *Poor Dr. Stone. He was so good to us.* My mother sent a card each Christmas, signed by all three of us. I signed mine with a full stop after my name, which I thought was funny.
+For four years I had known Stone was in a care home forty minutes from our apartment. My parents knew it too, in the way they knew about a distant cousin's operation: with a kind sentence and no follow-up. *Poor Dr. Stone. He was so good to us.* My mother sent a card each Christmas, signed by all three of us. I signed mine with a period after my name, which I thought was funny.
 
 I went in the spring of 2016 because my mother's card had come back marked *undeliverable*, and I thought, with the logic of an adolescent, that someone had better find out.
 

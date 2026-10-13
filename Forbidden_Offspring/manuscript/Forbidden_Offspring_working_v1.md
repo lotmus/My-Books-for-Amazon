@@ -49,13 +49,13 @@ The second camera in the lab had a blind arc of its own. The facilities people c
 
 I will say what I did in the order I did it, and I will say it plainly, because plainness is a kind of honesty and I would like to be credited with some.
 
-There were nine embryos in the incubator that week, from four couples. Six were exactly what the paperwork said they were. For two of the others, I had written the paperwork myself, and the lines on it were true in the way a good lie is true: every individual word was accurate, and the sentence they made was not. Officially I was correcting a lethal mutation, one of those errors in a single place that would take a child at six or at nine and leave a family with a photograph and a very clean house. That part was real. I did that part well. I would do it again.
+There were nine embryos in the incubator that week, from four couples. Seven were exactly what the paperwork said they were. For the other two, I had written the paperwork myself, and the lines on it were true in the way a good lie is true: every individual word was accurate, and the sentence they made was not. Officially I was correcting a lethal mutation, one of those errors in a single place that would take a child at six or at nine and leave a family with a photograph and a very clean house. That part was real. I did that part well. I would do it again.
 
 A sensible reader distrusts any sentence that begins with the word *officially*. Officially, I was correcting errors. Unofficially, I kept a schedule, and the schedule was not measured in embryos or in years. It ran a hundred of them.
 
 The second part is the part you have come for.
 
-I will not set it down in a way that anyone could follow, and I want that understood now, at the start, in case you were hoping. It is not modesty. I have a daughter somewhere, or I did, and a man who writes the recipe for something like this is a man who has not thought about the person who reads it. What I will say is that it was fewer steps than people imagine and more than the law would forgive. It took a steady hand and a pair of eyes that never once looked up at the clock, because I had set the clock behind me, where I could hear it and not see it.
+I will not set it down in a way that anyone could follow, and I want that understood now, at the start, in case you were hoping. It is not modesty. A man who writes the recipe for something like this has not thought about the person who reads it. What I will say is that it was fewer steps than people imagine and more than the law would forgive. It took a steady hand and a pair of eyes that never once looked up at the clock, because I had set the clock behind me, where I could hear it and not see it.
 
 At three minutes and a little, the embryo that would become the boy went quiet in the dish. They do not do anything, of course. They are a small clear arrangement of cells that look like nothing at all. But I had spent two decades looking at them, and I had learned to feel when a thing had been done to them that could not be undone, the same way you feel a door close in a house you thought was empty.
 
@@ -75,11 +75,7 @@ That is how it began. I have thought many times since about what I would say to 
 
 *Burning the midnight oil.*
 
-It is eleven years to the day since, as I write this, and the boy has just told me what he can hear through my chest.
-
-* * *
-
-*Expansion scene, Stone, first person. Inserted into chapter 1 after the four minutes.*
+It is twelve years since, as I write this, and the boy has just told me what he can hear through my chest.
 
 * * *
 
@@ -95,9 +91,9 @@ I told them what I could. I screened. I explained what a screen could and could 
 
 They had a boy. He was born at term. He was perfect. For eleven months he was perfect, a fat, solemn, black-haired child with a furious laugh, and they came to the clinic on his first birthday to bring me a cake.
 
-He died on the fourteenth of March. It was the same condition, the one the screen had not caught, because it lived in a region of the genome that nobody had yet thought to look at. His mother rang to tell me. She said it quite calmly. She said: "I wanted you to know. I didn't want you to hear it from someone else."
+He died on the fourteenth of March. It was the same condition, the one the screen had not caught, because it lived in a region of the genome that nobody had yet thought to look at. His mother called to tell me. She said it quite calmly. She said: "I wanted you to know. I didn't want you to hear it from someone else."
 
-I said I was sorry. She said she knew. She said she was not ringing to blame me. She said it a second time, so that I would believe it, and I did, and it did not help.
+I said I was sorry. She said she knew. She said she was not calling to blame me. She said it a second time, so that I would believe it, and I did, and it did not help.
 
 I put the telephone down. I went into the laboratory and shut the door and sat on the stool at my bench for four hours. I did not weep. I thought. I thought about regions of the genome, and about windows, and about the particular, intolerable asymmetry of a profession in which a thing can be known and not done.
 
@@ -170,10 +166,6 @@ I kept the handshake a good while longer than I needed to.
 
 ## 2. Test Time
 
-*Expansion scene, Stone, first person. Prepended to chapter 2.*
-
-* * *
-
 The century turned over on a Saturday, and I spent it in the laboratory, which I do not recommend.
 
 The clinic was empty. The staff had gone home to their families and their champagne, and the building made the small, ticking, cooling sounds of a large animal asleep. I sat at my bench and listened to the radio, which had been predicting the end of civilization for three weeks and now sounded faintly disappointed. At midnight, nothing failed. The lights stayed on. The incubators hummed. Somewhere a few miles away a firework went up, a single green one, and burst without a sound.
@@ -237,10 +229,6 @@ I read it twice. It is a remarkable thing to be trusted. It is a remarkable thin
 In the end I used the four hours for eleven years, though not always the same four, and not always the same incubator. The cameras, I will note, were never repaired.
 
 I will tell you only this about the eleven years: Danny was not alone.
-
-* * *
-
-*Expansion scene, Stone, first person. Appended to chapter 2.*
 
 * * *
 
@@ -315,7 +303,7 @@ I am aware of how that sentence sounds. I have tried it in a dozen other ways. *
 
 I did not hate anyone. I want that understood, since it is the thing most readers get wrong. People who imagine a project of this kind imagine a man in a cold room with a grievance. I had no grievance. I had a clinic, a parking space, and a drawer full of children who would have died at seven. What I had was a spreadsheet of how often we fail, and I had read it every morning for twenty years.
 
-**Schedule.** A century, in four stages.
+**Schedule.** A century, in four stages. At the top of the page, in capitals, I had written one word as an instruction to myself, and it was not *quickly.* It was SLOWLY.
 
 The first was the one I was living in: a small number of people, a few dozen, made quietly and given to ordinary families. Nothing about it could be allowed to look like anything. I called it *seeding*, which is what a gardener says to explain why the beds look empty.
 
@@ -345,7 +333,7 @@ Most colleagues keep a backup. Most colleagues also have a department, and a men
 
 I want to be fair to the man I was. He believed this because it had always been true. The index had never been read by anyone but him. It had never been discovered, never lost, never been wrong. It is easy to take the record of a thing for the nature of it. I did, for eleven years, with the settled confidence of a man who has been right so often that being right has stopped feeling like an event.
 
-I locked it every Thursday. I locked it on the Thursday before the boy opened my vault, though I did not yet know there was a boy who could, and I took my coat from the hook, and I went home, to a house where no one waited, and I slept very well.
+I opened and locked it on the first Thursday of every month. I did it on the first Thursday before the boy opened my vault, though I did not yet know there was a boy who could, and I took my coat from the hook, and I went home, to a house where no one waited, and I slept very well.
 
 * * *
 
@@ -392,10 +380,6 @@ I want to be careful about this, because I have been tempted since to tell a dif
 That was the cohort. A few dozen people I mostly never met, in homes I mostly never entered, each carrying a little less or a little more of what I had put in them, each one growing up inside the ordinary difficulty of being a child, which I had not prevented and could not have.
 
 I used to read the notes at night, in my kitchen, like a man reading letters. I told myself that I was auditing them. I believe now that I was keeping them company.
-
-* * *
-
-*Expansion scene, Stone, first person. Appended to chapter 3.*
 
 * * *
 
@@ -448,10 +432,6 @@ That was a Tuesday. I remember because the following Monday my left hand began t
 
 * * *
 
-*Expansion scene, Stone, first person. Inserted into chapter 4 between the swim meet and the manuscript.*
-
-* * *
-
 I called her B. in the notes. Danny was A. It was neat, and it spared me from using names, which have a way of attaching themselves to things.
 
 I did not follow her. I want that understood, because a man in my position might be expected to. I had given up following the first month. What I did was subscribe, in the name of the clinic, to the quarterly bulletin of the school district, and to the county library's newsletter, and to a small magazine for parents that listed prizes. There is a great deal to be learned from prize lists. They are the only public record in the country of what children can do.
@@ -476,7 +456,7 @@ I now think I stopped because I was afraid of how much I liked them.
 
 The tremor was a small thing, and I treated it as one. Small things, I have found, are the ones that kill you, because you are busy with the large ones.
 
-For two years it came and went. A cup rattled in its saucer. A signature wandered off the line. My neurologist, a tidy woman with an unfashionable fondness for the phrase "let's keep an eye on that," ordered scans, and the scans showed what scans show, which is that the brain is a soft machine with an unreliable power supply. In March of that year I had what she called a transient episode. For twenty minutes the left side of my face refused to take instructions, and the word for a pen deserted me. I sat in the parking lot of the clinic with my hands in my lap and said "pen" aloud, over and over, until it returned. It came back with a limp, as if it had been somewhere unpleasant.
+For three years it came and went. A cup rattled in its saucer. A signature wandered off the line. My neurologist, a tidy woman with an unfashionable fondness for the phrase "let's keep an eye on that," ordered scans, and the scans showed what scans show, which is that the brain is a soft machine with an unreliable power supply. In March of 2011 I had what she called a transient episode. For twenty minutes the left side of my face refused to take instructions, and the word for a pen deserted me. I sat in the parking lot of the clinic with my hands in my lap and said "pen" aloud, over and over, until it returned. It came back with a limp, as if it had been somewhere unpleasant.
 
 I told no one. I did not tell her, either. I said I had been tired.
 
@@ -523,47 +503,11 @@ That was the first night of the account you are reading.
 
 ## 5. The Apartment
 
-*Expansion scene, Stone, first person. Prepended to chapter 5.*
-
-* * *
-
 I want to set down one thing about the picnics before I go further, because it is the only truthful thing I have to say about them.
 
 I never saw the boy's face at a picnic. I saw his back, his shoulder, the angle of a head, a yellow sleeve at the edge of a crowd. In eleven years I had made it a point never to stand where he might turn and meet my eyes. It was not shyness. It was a kind of superstition, of the sort that attaches to men who work alone. I believed that if I looked him in the face while he looked at me, something would be said that could not be unsaid.
 
 I was not wrong about that. I was only wrong about the date.
-
-* * *
-
-By the autumn of 2011 I had begun to sleep badly. The doctors had a word for the cause, a long and sensible one, and I took the tablets and slept badly anyway.
-
-I woke at four on most mornings. I made tea, and stood at the kitchen window while it cooled, and looked at the dark garden. There was a fox that crossed the lawn at ten past four, with a trotting, insolent gait. I took an absurd comfort in it. I think it was the only creature in my life that arrived on time and wanted nothing.
-
-I did not tell myself what I was waiting for. I told myself it was the weather.
-
-The note had come on a Monday. I have said that I should have stopped there. What I did not say was that I read it standing in the hall, in my coat, and the first thing I felt was not fear. It was something much closer to relief, the plain physical relief of a man who has carried a case for eleven years and has at last been told where to put it down.
-
-I did not sleep that night. At four I stood at the window and the fox did not come.
-
-* * *
-
-The building was an old brick block of six floors on a street I knew by sight. The lobby had black and white tiles and a ceiling with plaster rosettes. It smelled of floor polish and of somebody's soup. A doorman sat behind a small desk with a newspaper, a heavyset man in a navy blazer with a name tag that said **WALT**, and he looked up as I came in with the weary courtesy of one who has seen every kind of visitor and prefers none.
-
-"Help you?"
-
-"I'm visiting the Pruitts. Four C. Or four D. I'm sorry, I've forgotten."
-
-He glanced at a ledger. "Four C is Aldana. Pruitt is two B." He made a mark. "Name?"
-
-I gave it. He wrote it down, in a square, laborious hand, and underneath it, in smaller figures, the time: **1:52.**
-
-"Second floor," he said. "Stairs on your left. Elevator's slow."
-
-"I'll take the stairs."
-
-He looked at me. It was the lightest of glances, up and down, taking in the coat and the limp and the expression of a man preparing to be sensible. "You're the first visitor for the Pruitts since Easter," he said. "Usually nobody comes." He shrugged and returned to his paper. "The kid's popular with the old ladies, though. Soup."
-
-I went up the stairs, one flight, with my hand on the rail.
 
 * * *
 
@@ -607,10 +551,6 @@ I waited that night for the punishment. It did not come. I have since come to th
 
 * * *
 
-*Expansion scene, Stone, first person. Inserted into chapter 5 after the picnic.*
-
-* * *
-
 The hearing check in March, which I did not attend, left a note.
 
 It was on my desk when I came back from a meeting, a half sheet of the clinic's pale blue paper, in the round hand of the nurse who had been covering. I read such notes as I read the weather, for what they could not tell me. This one said:
@@ -647,11 +587,41 @@ The appointment was set for a Tuesday. On the Monday evening I received a messag
 
 I should have stopped there. I did not. I wish I could tell you that I did not know what the note meant. I knew precisely what it meant, in the way you know a sound in your own house at night, and I thought: *I will go, and I will be calm, and I will find out how much he knows.*
 
-I took the stairs.
+* * *
+
+By the autumn of 2011 I had begun to sleep badly. The doctors had a word for the cause, a long and sensible one, and I took the tablets and slept badly anyway.
+
+I woke at four on most mornings. I made tea, and stood at the kitchen window while it cooled, and looked at the dark garden. There was a fox that crossed the lawn at ten past four, with a trotting, insolent gait. I took an absurd comfort in it. I think it was the only creature in my life that arrived on time and wanted nothing.
+
+I did not tell myself what I was waiting for. I told myself it was the weather.
+
+The note had come on a Monday. I have said that I should have stopped there. What I did not say was that I read it standing in the hall, in my coat, and the first thing I felt was not fear. It was something much closer to relief, the plain physical relief of a man who has carried a case for eleven years and has at last been told where to put it down.
+
+I did not sleep that night. At four I stood at the window and the fox did not come.
 
 * * *
 
-His parents were at work, which I had also checked, from the clinic's records, which was one of the things I should not have been able to do. I went up one flight to the second floor, because I had decided that I would arrive having done something difficult but not something ridiculous.
+The building was an old brick block of six floors on a street I knew by sight. The lobby had black and white tiles and a ceiling with plaster rosettes. It smelled of floor polish and of somebody's soup. A doorman sat behind a small desk with a newspaper, a heavyset man in a navy blazer with a name tag that said **WALT**, and he looked up as I came in with the weary courtesy of one who has seen every kind of visitor and prefers none.
+
+"Help you?"
+
+"I'm visiting the Pruitts. Four C. Or four D. I'm sorry, I've forgotten."
+
+He glanced at a ledger. "Four C is Aldana. Pruitt is two B." He made a mark. "Name?"
+
+I gave it. He wrote it down, in a square, laborious hand, and underneath it, in smaller figures, the time: **1:52.**
+
+"Second floor," he said. "Stairs on your left. Elevator's slow."
+
+"I'll take the stairs."
+
+He looked at me. It was the lightest of glances, up and down, taking in the coat and the limp and the expression of a man preparing to be sensible. "You're the first visitor for the Pruitts since Easter," he said. "Usually nobody comes." He shrugged and returned to his paper. "The kid's popular with the old ladies, though. Soup."
+
+I went up the stairs, one flight, with my hand on the rail.
+
+* * *
+
+His parents were at work, which I had also checked, from the clinic's records, which was one of the things I should not have been able to do.
 
 The boy opened the door before I knocked.
 
@@ -816,10 +786,6 @@ I do not know if it is true. It is the first thing I have ever written that I co
 
 * * *
 
-*Expansion scene, Stone, first person. Appended to chapter 6.*
-
-* * *
-
 It was three weeks before I understood how he had done it.
 
 I had gone through the possibilities in order, as I go through everything. A copied key: no, the cabinet had a combination lock, an old brass one with a dial and a spindle, and there was no key to copy. A confederate: no, I had no confederate, and neither, so far as I could tell, had he. A flaw in the cabinet itself: I had the locksmith up, on a pretext, and he spent twenty minutes on his knees and went away saying that it was *a very honest lock.*
@@ -883,17 +849,13 @@ It was the first time I had ever thought of it as an accident.
 
 ## 7. The Stroke
 
-*Expanded draft v1. Stone, first person, past tense. Part One ends. Placeholders throughout.*
-
-* * *
-
 It happened on a Thursday, which I mention only because I have mentioned the Thursdays before, and I should like the record to show that I noticed the irony and did not enjoy it.
 
 It was the second week of April. The windows of the lab were open an inch, for the first time since October, and the air that came in smelled of wet earth and bus exhaust. I had arrived at six, as I always did, and put the kettle on, and sat down at my bench with the three-by-five cards for the next batch spread in front of me like a patient hand of solitaire.
 
 I should say what else was on the desk, since it is part of the picture.
 
-On the left was a folded sheet of paper from the front office, which had come up with the morning post. It was a routine confirmation, in the dull language of such forms, that a patient of the clinic had returned a positive result. The patient was a woman in her late thirties, from the other side of the county. She and her husband had waited seven years. In November I had taken three embryos out of an incubator and done something to them that I had promised a child I would not do, and in March I had placed one of them in her, with a steady hand and a firm voice, and told her, with a smile, that it was a good embryo.
+On the left was a folded sheet of paper from the front office, which had come up with the morning mail. It was a routine confirmation, in the dull language of such forms, that a patient of the clinic had returned a positive result. The patient was a woman in her late thirties, from the other side of the county. She and her husband had waited seven years. In November I had taken three embryos out of an incubator and done something to them that I had promised a child I would not do, and in March I had placed one of them in her, with a steady hand and a firm voice, and told her, with a smile, that it was a good embryo.
 
 It had held. I looked at the sheet for a long time. I did not feel guilt. I want to be honest: I felt something I can only describe as tenderness, of the kind a man feels for a thing he has made and has not yet met.
 
@@ -951,7 +913,7 @@ I could not say so. I could only listen to the machines.
 
 The clinic's director came on the eighth day.
 
-She stood at the foot of the bed in a good coat, with a bunch of flowers wrapped in paper, and the expression of a person who has been told to say something kind. She was a competent, courteous, harassed woman whom I had known for fifteen years and had never once told the truth. She said that everyone at the clinic sent their love. She said the program was in good hands. She said that Dr. Okonjo, who had taken over my cases, was *a very safe pair of hands,* and I thought, from the way she said it, that she meant it as a reproach.
+She stood at the foot of the bed in a good coat, with a bunch of flowers wrapped in paper, and the expression of a person who has been told to say something kind. She was a competent, courteous, harassed woman whom I had known for twenty-four years and had never once told the truth. She said that everyone at the clinic sent their love. She said the program was in good hands. She said that Dr. Okonjo, who had taken over my cases, was *a very safe pair of hands,* and I thought, from the way she said it, that she meant it as a reproach.
 
 She said she had been to my lab.
 
@@ -1005,10 +967,6 @@ I am trying to
 
 ## 8. The Notebook
 
-*Expanded draft v1. The main offspring, first person, past tense. Part Two opens. Placeholders throughout.*
-
-* * *
-
 You have just read Stone's account. I should say that I have not changed a word of it.
 
 I have been tempted. There are places where I could have improved him: made him kinder, or crueler, or simply less in love with the sound of his own sentences. There are places where I know he is wrong, and I could have said so in a footnote. I have not. A man's account of himself is a piece of evidence, and the only honest thing to do with evidence is to hand it over whole. What follows is my own account, which he would have corrected, and which I have tried to keep as plain as his.
@@ -1017,7 +975,7 @@ I was sixteen when I found it, and I want to say at once that I was not looking 
 
 * * *
 
-For four years I had known that Stone was in a care home forty minutes from our apartment. My parents knew it too, in the way they knew about a distant cousin's operation: with a kind sentence and no follow-up. *Poor Dr. Stone. He was so good to us.* My mother sent him a card each Christmas, signed by all three of us. I signed mine with a full stop after my name, which I thought was funny.
+For four years I had known that Stone was in a care home forty minutes from our apartment. My parents knew it too, in the way they knew about a distant cousin's operation: with a kind sentence and no follow-up. *Poor Dr. Stone. He was so good to us.* My mother sent him a card each Christmas, signed by all three of us. I signed mine with a period after my name, which I thought was funny.
 
 I had kept the terms of the bargain. I had not gone near him. I had written no letters. When the stroke came, in the spring of 2012, I learned about it from the clinic's newsletter, which printed a paragraph of regret under a photograph of him in a bow tie at a picnic, looking, as always, like a man who had lost a bet. I read it twice. I did not feel what I had expected to feel. I felt, I am ashamed to say, a kind of weightlessness, like a boy whose teacher has been called out of the room.
 
@@ -1071,7 +1029,7 @@ The first line was in small, upright, impeccable handwriting, in black ink.
 
 *The window was four minutes and eleven seconds long.*
 
-I sat down. I read for two hours in a plastic chair, with the tea going cold on the tray and the light moving across the floor. I read the whole thing. I read the chapter about the four minutes, and the one about the picnic, and the one about a man in a gray sweater who had said *I've read it. All of it.* I read the part where I was eleven, and a stranger, and frightening. I did not recognize myself and I recognized every word. It is a strange thing, to be described by someone who did not like you and did not stop looking.
+I sat down. I read for two hours in a plastic chair, with the tea going cold on the tray and the light moving across the floor. I read the whole thing. I read the pages about the four minutes, and the picnic, and a man in a gray sweater who had said *I've read it. All of it.* I read the part where I was eleven, and a stranger, and frightening. I did not recognize myself and I recognized every word. It is a strange thing, to be described by someone who did not like you and did not stop looking.
 
 Near the end of the notebook was a page that began with a sentence I had never expected to read.
 
@@ -1122,10 +1080,6 @@ I tried, in the end, for twenty years.
 
 ## 9. Odd Moments
 
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout; all people are invented.*
-
-* * *
-
 An unusual child in an ordinary family is mostly a matter of small adjustments, and I made hundreds.
 
 I learned to look at people when they spoke, not at the sound. I learned to wait a full second before answering, because the answer arrived a second earlier than the question. I learned that a person who says *I'm fine* with a particular dryness in the voice is not fine, and that the best response is to hand them something warm and ask nothing. I learned to walk into a room as if I did not already know where everyone was standing.
@@ -1140,7 +1094,7 @@ The first was the piano.
 
 It was in the front room of the apartment, an upright that my father had been given by a customer in lieu of a payment, and that no one in the family could play. It stood against the wall with its lid shut and a bakery calendar on top. It was flat. Not badly, only by a hair, in the middle octave, where the felts had gone. For years I had been unable to hear a hymn on the radio without my teeth wanting to stand on end.
 
-One evening in the autumn of 2012, when I was twelve, a neighbor's daughter came to tea. She was a small, serious girl, a year younger, with a plait and a violin case. She sat at the piano to be polite, and played a few notes, and then a few more, and I said, before I could stop myself: "It's flat."
+One evening in the autumn of 2012, when I was twelve, a neighbor's daughter came to tea. She was a small, serious girl, a year younger, with a braid and a violin case. She sat at the piano to be polite, and played a few notes, and then a few more, and I said, before I could stop myself: "It's flat."
 
 "What?"
 
@@ -1265,10 +1219,6 @@ I have kept that decision. I am not sure whether it was a vow or a mistake. I kn
 
 ## 10. The Search
 
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout; all families are invented.*
-
-* * *
-
 A list is not a conspiracy, though it can look like one.
 
 By the time I was eighteen I had Stone's notebook in my head, four copies of an index he did not know I had in four places he would not have guessed, and a spreadsheet. I kept the spreadsheet on a small drive inside a hollow rock on my shelf. The rock had been a present when I was nine, from my father, who had found it in a creek and thought it looked like a loaf of bread. It was an excellent hiding place. Nobody in the history of my family had ever picked it up.
@@ -1279,13 +1229,13 @@ So I did what he had done. I watched from far away.
 
 * * *
 
-I used the public things. A school district publishes its enrolment tables, and a county its birth notices, and a newspaper its columns about the Fourth of July picnics. A church prints its baptisms. A small-town paper will tell you, if you ask it nicely, that Mrs. So-and-so's grandson has taken first prize in the regional spelling contest and is thought to be *something of a prodigy.* I became a connoisseur of that word.
+I used the public things. A school district publishes its enrollment tables, and a county its birth notices, and a newspaper its columns about the Fourth of July picnics. A church prints its baptisms. A small-town paper will tell you, if you ask it nicely, that Mrs. So-and-so's grandson has taken first prize in the regional spelling contest and is thought to be *something of a prodigy.* I became a connoisseur of that word.
 
 I used the clinic. There was a program, I learned, a small one, which had offered help to families of modest means over the course of eleven years. It had a name, a logo with a green leaf, and a yearly newsletter. The back issues were in a university library. I read them in a carrel, in a building where nobody knew me, and made notes on the backs of grocery receipts. I read fifty-eight names in the photograph captions, with last names, under a banner that said **OUR FAMILY GROWS.**
 
 And I used the ear.
 
-I have said that people with the package reveal themselves in a hundred small ways, if one knows how to listen. A pause before a loud noise. A glance at a door before it opens. A way of leaving a room, a half-second before an argument begins in the next one. Children do it more than adults, because adults have learned to cover it. I sat in a good many parks. I stood at the edge of a good many playgrounds, a tall lad of eighteen with a notebook and an apologetic face, listening. I was twice asked by a parent whether I was lost. I said that I was waiting for a friend.
+I have said that people with the package reveal themselves in a hundred small ways, if one knows how to listen. A pause before a loud noise. A glance at a door before it opens. A way of leaving a room, a half-second before an argument begins in the next one. Children do it more than adults, because adults have learned to cover it. I sat in a good many parks. I stood at the edge of a good many playgrounds, a tall kid of eighteen with a notebook and an apologetic face, listening. I was twice asked by a parent whether I was lost. I said that I was waiting for a friend.
 
 I made one rule. I made it on the bus, the first day, and wrote it on the inside cover of the notebook in block letters, so I could not fool myself.
 
@@ -1341,7 +1291,7 @@ The last one I found by accident.
 
 It was a Saturday in October of 2018, in a park in a town I had gone to for a different reason. I had been looking for a family named Okafor, the ones with a late third child, a girl who read at three and reorganized the household accounts at seven. I had found them. She was fourteen now, in a school uniform, and she walked down the steps of a library with a stack of books, humming a tune I did not recognize. She was fine. She was more than fine. I put a star beside her name.
 
-I walked back through the park with my notebook under my arm. It was a dull, mild afternoon, and the leaves were turning. There was a playground at the far end, with a slide and a roundabout, and a small fenced sandpit. I had passed a hundred like it.
+I walked back through the park with my notebook under my arm. It was a dull, mild afternoon, and the leaves were turning. There was a playground at the far end, with a slide and a merry-go-round, and a small fenced sandpit. I had passed a hundred like it.
 
 A child was sitting in the sandpit, alone.
 
@@ -1351,7 +1301,7 @@ On a bench by the fence her mother sat reading a paperback. She had the loose, r
 
 I stood at the gate, and I listened.
 
-I do not know how to explain what I heard. It was not a sound. It was the absence of one. The child in the sandpit was listening to the park, to its whole width and depth: the traffic, and the rooks, and a distant lawnmower, and a man calling a dog, and the sough of the wind in the plane trees. She was listening with a patient, absorbed, unhurried attention, as one listens to music. And I understood, as I stood there with my hand on the cold wire, that she had never been told to stop.
+I do not know how to explain what I heard. It was not a sound. It was the absence of one. The child in the sandpit was listening to the park, to its whole width and depth: the traffic, and the crows, and a distant lawnmower, and a man calling a dog, and the rustle of the wind in the plane trees. She was listening with a patient, absorbed, unhurried attention, as one listens to music. And I understood, as I stood there with my hand on the cold wire, that she had never been told to stop.
 
 I checked the sheet. I looked at every name. She was not on it.
 
@@ -1374,13 +1324,9 @@ I wrote *last batch* on the sheet. I put a star beside it, and a second, and I d
 
 ## 11. The Phonetician
 
-*Expanded draft v1. The main offspring, first person, past tense. "Mira" and "Jonas" are placeholder names. The university is invented.*
-
-* * *
-
 I found her in a basement, which is where linguists are kept.
 
-It was the autumn of 2019. I was nineteen, in my second year of a degree that combined biology and chemistry in roughly equal parts of bewilderment, and I had a list. It had four question marks on it, and a note beside the second one in my own small handwriting: *Phonetics? Sound lab? Hears first.* I had spent eight months working out what that meant. It had meant a good many hours in libraries, reading the acknowledgments sections of papers on speech perception, until one name appeared three times in a row. A student, a second-year, in a laboratory at a state university four hours from my parents' flat.
+It was the autumn of 2019. I was nineteen, in my second year of a degree that combined biology and chemistry in roughly equal parts of bewilderment, and I had a list. Beside one name, in my own small handwriting, was a note: *Phonetics? Sound lab? Hears first.* I had spent eight months working out what that meant. It had meant a good many hours in libraries, reading the acknowledgments sections of papers on speech perception, until one name appeared three times in a row. A student, a second-year, in a laboratory at a state university four hours from my parents' flat.
 
 I took the bus. I told my mother I was visiting a friend.
 
@@ -1460,7 +1406,7 @@ It was not the question I had expected.
 
 "That's not what I asked." She looked at the floor between her feet. "I mean, when he did it to us. Was there any kindness in the doing? Did he *look* at us?"
 
-I thought about the notebook. I thought about the first page, and the technician's laugh, and the word *midwife* that Stone had used, to my surprise, about himself.
+I thought about the notebook. I thought about the first page, and the technician's laugh.
 
 "He looked," I said. "I think he looked a great deal. I don't think he ever saw."
 
@@ -1530,10 +1476,6 @@ I was right. There were thirty more. But Mira and Jonas were the first, and they
 
 
 ## 12. Under Cover
-
-*Expanded draft v1. The main offspring, first person, past tense. "Elias" and "Julian" are placeholder names. All other people are invented.*
-
-* * *
 
 The laureate-to-be was a shy man in a gray cardigan who apologized to chairs.
 
@@ -1647,7 +1589,7 @@ I put the bracelet in my pocket. It is still there.
 
 The club, if it was a club, began that autumn.
 
-It did not begin with a vow. It began with a promise to answer the telephone. That was the only rule, and it was the only one we ever needed: if one of us rang at three in the morning, the other answered. The florist said it first, half laughing, over a long call about nothing, and it was repeated, by the others, one after another, until it was a thing that everyone knew.
+It did not begin with a vow. It began with a promise to answer the telephone. That was the only rule, and it was the only one we ever needed: if one of us called at three in the morning, the other answered. The florist said it first, half laughing, over a long call about nothing, and it was repeated, by the others, one after another, until it was a thing that everyone knew.
 
 We met, that first year, in a rented room above a bakery in a town I will not name. There were fourteen of us. We sat on mismatched chairs, with paper cups, under a ceiling stained brown at one corner, and the florist had brought tulips, which she distributed without ceremony. I remember the smell of yeast. I remember Elias at the back, perched on the edge of a stool like a man ready to leave.
 
@@ -1685,10 +1627,6 @@ I did not know yet whether it was a promise or a warning. I know now that it was
 
 
 ## 13. Munich
-
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout; the employers and institutes are invented.*
-
-* * *
 
 They moved in the spring of 2027, on a Tuesday in April, to an apartment in Munich with a balcony facing a courtyard.
 
@@ -1786,7 +1724,7 @@ I said that it sounded reasonable. It sounded like the most reasonable thing I h
 
 That summer, a paper appeared in a physics journal under a name I knew.
 
-It was Elias's. It was eleven pages, and three of them were equations. It had been submitted in March and refereed in a fortnight, by three reviewers who had each written, in the polite and slightly stunned language of their profession, that they could find nothing wrong with it. The world went mad for a week.
+It was Elias's. It was eleven pages, and three of them were equations. It had been submitted in March and refereed in a two weeks, by three reviewers who had each written, in the polite and slightly stunned language of their profession, that they could find nothing wrong with it. The world went mad for a week.
 
 I do not mean the whole world. I mean the small, well-lit part of it that reads such things. For seven days there were articles and podcasts and breathless threads. A professor in Zurich called it *the most elegant thing I have seen since my student days.* A man at a conference stood up in the middle of someone else's talk and applauded. The newspapers ran a photograph, taken for a university newsletter, of a shy young man in a gray cardigan, looking at the camera as one looks at a bus that has failed to stop.
 
@@ -1825,10 +1763,6 @@ I have thought many times since that this was my first real mistake. I was not w
 
 ## 14. The Prize
 
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
-
-* * *
-
 Julian found out in 2028, and I will say how, since it is the one thing in this account that I cannot blame on anyone else.
 
 He did not hear it from a friend. He did not find a file or pick a lock. He worked it out, the way a good student works out the answer to a problem he has not been shown, from the shape of what was left on the page. And he did it at dinner, in a quiet restaurant in a state capital, over a plate of fish that neither of us touched.
@@ -1863,7 +1797,7 @@ There are a few sentences in my life that I have heard with my whole body, in th
 
 "Which clinic?" I said.
 
-"Oh, you know." He waved a hand. "The one with the June picnics. I went to four or five as a child. There was a man who stood by the lemonade, always alone, with a paper cup. I used to think he looked like someone who'd lost a bet." He glanced at me. "Dr. Stone. Isn't that right?"
+"Oh, you know." He waved a hand. "The one with the June picnics. I went to two or three as a child. There was a man who stood by the lemonade, always alone, with a paper cup. I used to think he looked like someone who'd lost a bet." He glanced at me. "Dr. Stone. Isn't that right?"
 
 I said nothing. The silence in the room was a very particular silence, the kind that is composed of forty small noises being politely held back.
 
@@ -1907,7 +1841,7 @@ I should explain that Elias did not want it. He had never wanted anything, as fa
 
 I did not say *anyone could not have.* I did not say that I had watched him work and that the speed of his attention, in a room, was the speed of a different sort of animal. I said that I was happy for him, and I was, and I meant it more than I could say.
 
-He rang me at ten past five in the morning on the day. He had been told by a woman with a Swedish accent, on a bad line, and he was sitting on the edge of his bed in his pajamas, with his glasses in his hand.
+He called me at ten past five in the morning on the day. He had been told by a woman with a Swedish accent, on a bad line, and he was sitting on the edge of his bed in his pajamas, with his glasses in his hand.
 
 "They've said I've won," he said. "I think they've made a mistake."
 
@@ -1953,20 +1887,16 @@ I watched the swearing-in on a screen, in a hospital cafeteria, over a bowl of s
 
 He made a short speech. He said that he believed in the dignity of every ordinary person. The room applauded. I heard the applause go on a half-second longer than it should. And I understood that I had been dealt, without my consent, into a game whose rules I did not know, and that the other player had already read the book.
 
-I finished my soup. I paid at the till. I walked back to the ward, where there was a man waiting for a scan, and a woman who had lost the use of her left hand that morning, and a great deal that I could do something about.
+I finished my soup. I paid at the register. I walked back to the ward, where there was a man waiting for a scan, and a woman who had lost the use of her left hand that morning, and a great deal that I could do something about.
 
 I did it, as I always did. It was the one thing I was sure of.
 
 
 ## 15. The Child
 
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
-
-* * *
-
 Their daughter was born in December of 2027, in a hospital by the river, at eleven minutes past four in the afternoon.
 
-I was not there. I was on a night shift in a ward three thousand miles away, with a cold cup of coffee and a patient who would not stop humming. Mira rang me at ten past eleven, my time, in a whisper, and said: "Seven pounds. She has all her fingers. She's looking at me as if I owed her an explanation."
+I was not there. I was on a night shift in a ward three thousand miles away, with a cold cup of coffee and a patient who would not stop humming. Mira called me at ten past eleven, my time, in a whisper, and said: "Seven pounds. She has all her fingers. She's looking at me as if I owed her an explanation."
 
 "What have you called her?"
 
@@ -2087,15 +2017,11 @@ She fell asleep against me, in the dark. I did not move for a long time. Somewhe
 
 ## 16. Restart
 
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
-
-* * *
-
 Julian made the offer in the autumn of 2030, on the telephone, in the voice of a man ordering lunch.
 
 He had been a senator for four months. I had seen him on the news, standing on the steps of a building in a good coat, saying that he would serve the people of his state with humility. I had heard the applause go on a half second too long. I had put the television off and gone for a walk.
 
-He rang on a Sunday. I did not give him my number. I never learned how he got it.
+He called on a Sunday. I did not give him my number. I never learned how he got it.
 
 "Danny," he said. He was the only person outside my family who called me that, and he did it with a warmth that no one could have faulted. "I hope I'm not interrupting."
 
@@ -2125,7 +2051,7 @@ I thought of a cold night in April 1999, and a man with a card in his hand, and 
 
 "Of course." There was no change in his voice at all. "I only wanted you to know it was there. Come and see me in Washington, if you like. I'd enjoy that."
 
-He rang off. I sat for a long time, with the telephone on my knee.
+He hung up. I sat for a long time, with the telephone on my knee.
 
 I understood two things. The first was that I would never be able to tell him no in a way that he could hear. The second was that I had been thinking about the offer, for years, in a different shape, in my own voice.
 
@@ -2234,10 +2160,6 @@ Then I put the pen away, and went to bed, and slept, for the first time in many 
 
 ## 17. More Than Enough
 
-*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
-
-* * *
-
 The genomes were out. I do not know when it happened, and there is no date on it. It happened the way a rumor does, through a hundred people each taking a little, until it was a fact that belonged to everyone and to no one.
 
 I want to be careful here, because I have read a good many accounts of that period since, and they all want a moment: a leaked file, a late-night upload, a hacker in a hoodie. There was no moment. There was a conference in which a speaker showed a slide of a sequence that did not match anything. There was a database in which a thousand strangers had put their DNA for the sake of finding cousins, and in which, if you looked in the right way, a certain stretch appeared more often than chance allowed. There were papers, then preprints, then blog posts about the papers, then a whole forum of amateurs who spent their evenings comparing notes. By 2032 you could find the outline of it in a library, if you knew where to stand.
@@ -2250,7 +2172,7 @@ The carriers had children. They had them in Stuttgart and Ohio and Recife, in ap
 
 Some of the children could hear a wall. Some could hear nothing special. Some had a father's nose and a mother's temper and no one had told them anything else. I heard about them from mothers on telephones, from the long list that Mira and Jonas kept in a shoebox, and from the florist, who sent a photograph each spring of a different bunch of tulips and a different child, grinning, in front of them. I was careful to hear about them only as people. I did not keep a spreadsheet. I had learned that lesson.
 
-Mira's second was a boy, born in the winter of 2032. They named him Anton. At the age of six months, to Mira's open delight and Jonas's discreet relief, he showed no sign whatever of hearing anything he should not. He liked the cuckoo clock. He liked his sister. He liked, with a single-minded passion, the sound of a wooden spoon on a pan. When Mira rang to tell me, she was laughing so hard she could hardly speak.
+Mira's second was a boy, born in the winter of 2032. They named him Anton. At the age of six months, to Mira's open delight and Jonas's discreet relief, he showed no sign whatever of hearing anything he should not. He liked the cuckoo clock. He liked his sister. He liked, with a single-minded passion, the sound of a wooden spoon on a pan. When Mira called to tell me, she was laughing so hard she could hardly speak.
 
 "He's *normal,*" she said. "He's perfectly, gloriously normal. I cried for an hour. I'm a terrible mother."
 
@@ -2343,10 +2265,6 @@ In the corridor, a cart went by with a rattling wheel. I counted eleven seconds.
 
 ## 18. The Leak
 
-*Expanded draft v1. The main offspring, first person, past tense. Merges old items 29 and 30. No names, no method. Placeholders throughout.*
-
-* * *
-
 It came out in pieces, the way a flood does, and for a long time none of us could tell which piece was the water.
 
 The first piece was the manuscript. I have said that Stone rejected it in 2011, on grounds he described as *insufficient validation*, and that I had always assumed it would reappear. It reappeared three times. Each time it had been improved a little, as a tooth is improved by the dentist, and each time a different set of reviewers had found, with a different set of sighs, that the unannotated region was probably an artifact. In the spring of 2035, a fourth journal, one that did not ask hard questions, printed it. It ran to eleven pages. Its authors, three men and a woman who had by then lost most of their hair, thanked their funders and their families and, at the very bottom, in a sentence that no one read for months, a *dedicated reviewer.*
@@ -2419,7 +2337,7 @@ I wrote her prescription. I did not look up. My hand shook slightly, and I thoug
 
 * * *
 
-Mira rang from Munich on a Friday. She sounded weary and rather amused.
+Mira called from Munich on a Friday. She sounded weary and rather amused.
 
 "They have put me on a panel," she said. "A television panel. About the 'ethics of enhancement.' The producer said they needed a scientist, a priest, and a woman who has been doing phonetics for fifteen years, and I said that I was not a scientist and he said, close enough."
 
@@ -2447,7 +2365,7 @@ I was not present. A nurse told me, a week later, in the corridor. She had been 
 
 "*Slowly.*" She frowned. "Or maybe *Soon.* He said it in a sort of whisper. I don't think he knew he'd said it."
 
-I stood in the corridor with my hands in my pockets and my eyes on the floor. I knew which word he had meant. I knew it as one knows one's own name. It was the word that he had always used about the century, the third stage, the turn. The expert in the bow tie had said *a population-level effect,* and Stone had looked at a screen and seen, perhaps for the first time in four years, a figure he recognized.
+I stood in the corridor with my hands in my pockets and my eyes on the floor. I knew which word he had meant. I knew it as one knows one's own name. It was the word he had written in capitals at the top of his schedule, the one instruction he had given himself for the century. The expert in the bow tie had said *a population-level effect,* and Stone had looked at a screen and seen, perhaps for the first time in four years, a figure he recognized.
 
 * * *
 
@@ -2512,10 +2430,6 @@ It was true. That was the worst of it. It was entirely true.
 
 ## 19. Duck and Rabbit
 
-*Expanded draft v1. The main offspring, first person, past tense. Merges old items 31 and 32. Told offstage; no weapon detail; the senator and the assassin are invented. Placeholders throughout.*
-
-* * *
-
 I heard it on the radio, in a kitchen, on the second Thursday of April, 2036.
 
 The kitchen belonged to the staff lounge of the hospital where I worked, a narrow room with a kettle, a microwave that had been out of order since the previous summer, and a window that looked at an air-conditioning unit. I had come off a twelve-hour shift. I had a cup of tea that I had not yet drunk and a sandwich I had no intention of eating. A technician was washing a mug at the sink with the radio on, low, tuned to the station that played traffic and weather and, between them, a kind of anxious, well-spoken news.
@@ -2532,7 +2446,7 @@ I put the cup down. I remember that it made a small, precise click against the c
 
 I should say what Julian had become.
 
-He was thirty-six, the same age as I was. He was the front-runner. The word in the newspapers was *unstoppable*, which journalists use when they are tired of being surprised. He had been a state representative at twenty-seven, a senator at thirty, and had spent six years being so reasonable that people had begun to believe it was a policy position. He talked about the dignity of ordinary people. He talked about the future in the tone that other people use for the weather. When he laughed, a crowd laughed a half-second afterward, as if it had been given permission.
+He was thirty-six, the same age as I was. He was the front-runner. The word in the newspapers was *unstoppable*, which journalists use when they are tired of being surprised. He had been a state representative at twenty-four, a senator at thirty, and had spent six years being so reasonable that people had begun to believe it was a policy position. He talked about the dignity of ordinary people. He talked about the future in the tone that other people use for the weather. When he laughed, a crowd laughed a half-second afterward, as if it had been given permission.
 
 He had never, in all those years, said a word to me that I could have repeated to a stranger. He sent a card every Christmas. *Interesting how some of us are lucky. J.* I kept them in a drawer with the rock.
 
@@ -2642,7 +2556,7 @@ There was a silence. The man who built the boat put down his fork. The two women
 
 We decided nothing. This was, I think, the point.
 
-It was agreed, by a general murmur, that we would continue to be what we were: a loose, unnamed network of people who could ring one another at three in the morning. It was agreed that nobody would be tested, and that nobody would be asked to. It was agreed that those who wished to be visible would be visible on their own terms, and that those who did not would be left alone. The florist asked whether we should have a name. There was a pause. Jonas said, with a straight face, that it ought to be something dull. After some thought, we settled on none.
+It was agreed, by a general murmur, that we would continue to be what we were: a loose, unnamed network of people who could call one another at three in the morning. It was agreed that nobody would be tested, and that nobody would be asked to. It was agreed that those who wished to be visible would be visible on their own terms, and that those who did not would be left alone. The florist asked whether we should have a name. There was a pause. Jonas said, with a straight face, that it ought to be something dull. After some thought, we settled on none.
 
 Late in the evening Lena came and sat on my knee. She was a solemn child. She asked in German whether it was true that a man had died. I said that it was. She asked if it was sad. I said that it was complicated.
 
@@ -2671,17 +2585,13 @@ She nodded gravely, as though this were quite ordinary, which, to her, it was. S
 
 ## 20. The Four Minutes
 
-*Expanded draft v1. The main offspring, first person, past tense. Epilogue. Placeholders throughout.*
-
-* * *
-
 I gave him the cure in October of 2036, in a room with a view of a parking lot.
 
 It was not the cure I had imagined as a boy. I had imagined a single event: a syringe, a bright light, a man sitting up in bed and saying my name. Medicine does not work that way, and neither does he. It was a course of treatments over eleven weeks, one every second day, each of them taking about forty minutes and requiring a nurse, a pump, and a patience that I did not know I had. It did not rebuild anything. It asked what was left to wake up, and then it waited.
 
 I should explain what I mean by *I gave him*, because it was not simple, and because the word *gave* has a long and not entirely innocent history in this account.
 
-The molecule was not mine alone. It was the work of eleven people in four countries, and eight years, and a good deal of luck. I had been one of the eleven. My name was fourth on the paper, which my mother thought was a scandal, and which I thought was exactly right. When the trials ended and the regulators had signed what they sign, the treatment became available to anyone who qualified. Stone qualified on every criterion except one: the time since the event. Fourteen years was outside the window by more than a decade. The protocol said, in the dry language of such documents, that benefit could not be expected.
+The molecule was not mine alone. It was the work of eleven people in four countries, and eight years, and a good deal of luck. I had been one of the eleven. My name was fourth on the paper, which my mother thought was a scandal, and which I thought was exactly right. When the trials ended and the regulators had signed what they sign, the treatment became available to anyone who qualified. Stone qualified on every criterion except one: the time since the event. Twenty-four years was a very long way outside the window. The protocol said, in the dry language of such documents, that benefit could not be expected.
 
 So I did what I had told myself I would never do. I made an application for compassionate use, in the name of a patient identified only by a number, and I signed it as the treating physician. I wrote that he had no family, which was true. I wrote that his function was severely impaired, which was true. I wrote that the treatment was unlikely to cause harm, which was true, and that it might help.
 
@@ -2703,7 +2613,7 @@ I want to be careful about this, because I have been tempted to improve it. He d
 
 I said, "It's Danny. It's always been Danny."
 
-He frowned, as though he had been handed the wrong form. Then something in his face gave way, and I saw the man who had stood in my mother's examination room twenty-four years earlier and said, to the baby in the carrier, *hello.*
+He frowned, as though he had been handed the wrong form. Then something in his face gave way, and I saw the man who had stood in my mother's examination room thirty-six years earlier and said, to the baby in the carrier, *hello.*
 
 * * *
 
@@ -2903,44 +2813,36 @@ Whole-genome sequencing reads a person's DNA and compares it to a reference. Str
 
 * * *
 
-**Facts to re-check before publication:** the 1953 structure, the Franklin and 1962 Nobel statements in section 1, the dates and descriptions in section 3 (2012 paper, 2015 report, 2018 announcement, sentence), the German and US legal summaries, the figure for human timing sensitivity, and the heritability range.
 
 
 ---
 
 # Notes and Further Reading
 
-**The structure of DNA.** Watson, J. D., and Crick, F. H. C. "Molecular Structure of Nucleic Acids." *Nature*, 1953. *(Verify volume and pages.)*
+**The structure of DNA.** Watson, J. D., and Crick, F. H. C. "Molecular Structure of Nucleic Acids." *Nature*, 1953.
 
-**The memoir.** Watson, James D. *The Double Helix.* 1968. *(Verify publisher and edition.)* A candid, vain and funny first-person account of the race to the structure. It is the model for Stone's voice, though the book contains no real people as characters.
+**The memoir.** Watson, James D. *The Double Helix.* 1968. A candid, vain and funny first-person account of the race to the structure. It is the model for Stone's voice, though the book contains no real people as characters.
 
-**The woman behind Photo 51.** Maddox, Brenda. *Rosalind Franklin: The Dark Lady of DNA.* 2002. *(Verify publisher.)*
+**The woman behind Photo 51.** Maddox, Brenda. *Rosalind Franklin: The Dark Lady of DNA.* 2002.
 
-**Gene editing.** Jinek, M., et al. "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity." *Science*, 2012. *(Verify volume and pages.)*
+**Gene editing.** Jinek, M., et al. "A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity." *Science*, 2012.
 
-**The first reported editing of human embryos.** Liang, P., et al. "CRISPR/Cas9-Mediated Gene Editing in Human Tripronuclear Zygotes." *Protein & Cell*, 2015. *(Verify.)*
+**The first reported editing of human embryos.** Liang, P., et al. "CRISPR/Cas9-Mediated Gene Editing in Human Tripronuclear Zygotes." *Protein & Cell*, 2015.
 
-**Gene editing for general readers.** Doudna, Jennifer, and Samuel Sternberg. *A Crack in Creation.* 2017. Davies, Kevin. *Editing Humanity.* 2020. Isaacson, Walter. *The Code Breaker.* 2021. *(Verify publishers and years.)*
+**Gene editing for general readers.** Doudna, Jennifer, and Samuel Sternberg. *A Crack in Creation.* 2017. Davies, Kevin. *Editing Humanity.* 2020. Isaacson, Walter. *The Code Breaker.* 2021.
 
-**Genetics for general readers.** Mukherjee, Siddhartha. *The Gene: An Intimate History.* 2016. Plomin, Robert. *Blueprint: How DNA Makes Us Who We Are.* 2018. *(Verify publishers and years.)*
+**Genetics for general readers.** Mukherjee, Siddhartha. *The Gene: An Intimate History.* 2016. Plomin, Robert. *Blueprint: How DNA Makes Us Who We Are.* 2018.
 
-**Law and regulation.** The German Embryo Protection Act (*Embryonenschutzgesetz*, 1990) and the United States appropriations rider on the Food and Drug Administration and heritable embryo modification. *(Cite from the official texts or the agency page; verify the wording and dates.)*
+**Law and regulation.** The German Embryo Protection Act (*Embryonenschutzgesetz*, 1990) and the United States appropriations rider on the Food and Drug Administration and heritable embryo modification.
 
 * * *
 
 ## The fiction this book keeps company with
 
-*(Ideas only; nothing is borrowed in text.)*
 
-- Kress, Nancy. *Beggars in Spain.* *(Verify form and year: novella, then novel.)*
+- Kress, Nancy. *Beggars in Spain.*
 - Atwood, Margaret. *Oryx and Crake.* 2003.
-- Bear, Greg. *Darwin's Radio.* 1999. *Blood Music.* *(Verify forms and years.)*
+- Bear, Greg. *Darwin's Radio.* 1999. *Blood Music.*
 - Huxley, Aldous. *Brave New World.* 1932.
 - Niccol, Andrew (writer and director). *Gattaca.* Film, 1997.
 
-* * *
-
-## Status
-
-- Nothing here has been checked online yet.
-- To do: verify every entry, add publisher and year where known, add hidden-URL keyword links, and decide whether to print the fiction list or keep it only in the story bible.

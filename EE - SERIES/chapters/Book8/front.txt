@@ -1,0 +1,50 @@
+EQ: Firmware and Software for Electronics
+EQ: Book 8 of the Electrical Engineering Series
+EQ: Lothar J. Musiol
+EQ: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+EQ: Embedded C, Python, C#, and HDL at the Bench: Toolchains, Real Time, Connected Devices, Test Automation, and AI-Assisted Development
+H1: How to Use This Book
+P: Most of what an electronic product does today is decided by software: the control loop in the thermostat, the filter in the drone, the retry logic in the sensor node, the test script that passes or fails every board at the end of the line. This book teaches that software from the bench side, for readers who already know the hardware or are learning it in Books 1 to 7. Part I, Chapters 1 to 5, sets up the workbench: the job and a method that works, toolchains and builds, C for microcontrollers, MicroPython and Python, and C# with .NET. Part II, Chapters 6 to 11, talks to hardware: GPIO and interrupts, timers and PWM, the ADC, UART and I2C, SPI, CAN and USB, and what the HAL does under the registers. Part III, Chapters 12 to 16, gives the firmware structure, timing, and energy: state machines, FreeRTOS, deep sleep, fixed-point math and DSP, and sensor fusion. Part IV, Chapters 17 to 20, connects the device: Wi-Fi and MQTT, BLE, LoRa and GPS, over-the-air updates and security, and cameras, point clouds, and edge AI. Part V, Chapters 21 to 24, moves to the PC and to quality: Python and C# on the bench, debugging, and testing with version control. Part VI, Chapters 25 and 26, covers two newer ways to build: AI-assisted development and hardware description languages.
+P: One method runs through every worked example: write a short spec, split the job into modules, write or prompt one module at a time, review it against a checklist, build and unit-test it on the PC, test it on the hardware, commit it, iterate with precise bug reports, and document it. Chapter 1 introduces the spec template and the review checklist, and Appendix A repeats them for the bench. Each chapter opens with a question from real work, says where you meet the topic, builds the idea in words before the code, and works it through with real numbers. From the Bench notes give the practical habits, On the Job notes describe the work as it is done in companies, and AI Pair-Programming notes say what assistants tend to get wrong in that chapter's topic. Every chapter ends with practice problems graded Core, Extension, and Challenge, whose worked solutions in Appendix B also name the usual mistake, and with a short list of what you will actually use.
+P: The listings are short and complete, and each was checked. C that runs without hardware was compiled with gcc using -Wall and -Wextra and run, and its printed results are the numbers quoted in the text. C and C++ written for ESP-IDF 5, the Arduino core for ESP32 3, the Pico SDK, the STM32 HAL, and the libraries named in the listings were syntax-checked against declaration stubs of those interfaces; that catches typing and type errors but not every difference between library versions, so build them in your own toolchain before you flash them. Python that runs on a PC was run; Python that needs a board, an instrument, or a camera was compile-checked. The C# listings were built with the .NET 10 SDK, with stand-ins for the serial-port and GPIO classes, and their xUnit tests pass. The Verilog was simulated with Icarus Verilog and linted with Verilator. The figures were computed from the same models and data as the worked examples.
+P: The series gives each subject one home. Logic levels, pull-ups, and the circuits around a microcontroller pin are Book 1's and Book 2's. Sensor physics and the economics of making a chip are Book 3's. Radio front ends are Book 4's. Modulation, LoRa airtime, and the spectral view of signals are Book 5's. Batteries, regulators, and power budgets at the circuit level are Book 6's. Layout, EMC, and the instruments on the bench are Book 7's. This book uses their results where it needs them and does not derive them again.
+P: The reference hardware is the series reader lab: an ESP32-S3 board, an OLED display, an ultrasonic distance sensor, a PIR motion sensor, a BME280 sensor, a GPS module, a LoRa radio, a servo, an 18650 battery module, and a camera. Other boards appear where they suit the job better: the Raspberry Pi Pico, an STM32 board, the nRF52840, the Teensy 4.1, the Raspberry Pi 5, and in Chapter 26 a small FPGA board. Prices are typical street prices in 2026 and change often. Library and framework versions change too; where an interface is version-specific, the text says which version was used. Two safety rules hold throughout. Lithium cells can burn when they are shorted, crushed, or charged without protection, so use protected cells and a charger module made for them. And none of the projects needs an open mains-powered device, so keep such equipment closed.
+H1: Contents
+P: Part I. Tools and Method
+P: Chapter 1. The Firmware Engineer's Job and a Method That Works
+P: Chapter 2. Toolchains and Builds: From Source File to Flash
+P: Chapter 3. C for Microcontrollers: Bits, Types, and Memory
+P: Chapter 4. Python Twice: MicroPython on the Board, Python on the PC
+P: Chapter 5. C# for Electronics: .NET on the Desktop and on the Chip
+P: Part II. Talking to Hardware
+P: Chapter 6. GPIO, Buttons, and Interrupts
+P: Chapter 7. Timers and PWM: LEDs, Servos, and the Ultrasonic Ranger
+P: Chapter 8. The ADC: Sampling, Scaling, and Calibration
+P: Chapter 9. UART and I2C: The BME280 and the GPS
+P: Chapter 10. SPI, CAN, and USB
+P: Chapter 11. Register Level versus HAL
+P: Part III. Structure, Time, and Energy
+P: Chapter 12. Super Loops and State Machines
+P: Chapter 13. FreeRTOS: Tasks, Queues, and Real Time
+P: Chapter 14. Low Power and Sleep
+P: Chapter 15. Fixed-Point Math and DSP
+P: Chapter 16. Sensor Fusion: IMU Filters, Kalman, and SLAM Basics
+P: Part IV. Connected and Intelligent Devices
+P: Chapter 17. Wi-Fi and MQTT
+P: Chapter 18. BLE, LoRa, and GPS Firmware
+P: Chapter 19. OTA Updates and Security Basics
+P: Chapter 20. Cameras, Point Clouds, and Edge AI
+P: Part V. The PC Side, Debugging, and Quality
+P: Chapter 21. Python on the Bench
+P: Chapter 22. C# Dashboards and Test Benches
+P: Chapter 23. Debugging
+P: Chapter 24. Testing, Version Control, and Safety
+P: Part VI. New Ways to Build
+P: Chapter 25. AI-Assisted Development: The Method in Practice
+P: Chapter 26. HDL: Software That Becomes Hardware
+P: Appendix A. Quick Reference: Formulas, Spec Template, Review Checklist, and Prompt Skeleton
+P: Appendix B. Worked Solutions to the Practice Problems
+P: Appendix C. Sources
+P: About the Author
+P: Also by Lothar J. Musiol
+P: Part I sets up the workbench. It names the job, introduces the method that every later chapter follows, and introduces C for microcontrollers, Python on the board and on the PC, C# for desktop tools and test rigs, and, in Chapter 26, Verilog for FPGA logic. By the end of Part I you can build and flash ESP32-S3 firmware in C, MicroPython, or C#, and use Python or C# on the PC to communicate with the board. Verilog targets an FPGA, not the ESP32-S3.

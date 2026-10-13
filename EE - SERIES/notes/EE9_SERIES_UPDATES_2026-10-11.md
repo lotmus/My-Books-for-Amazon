@@ -1,30 +1,24 @@
-# EE Series updates for Book 9 (retrofit status, 11 Oct 2026 PT)
+# Book 9 Series Integration Status
 
-The canonical Also-by list, Book 9 score row, and Books 1–7 Also-by entries and Book 7 pointers have been updated. Book 8's manuscript was not present under `D:\My Books for Amazon`, so its own Also-by page and instrument-control pointer remain pending.
+Updated 12 October 2026 after the repository production audit.
 
-## 1. notes/ALSO_BY - canonical list.md
-Under **Electrical Engineering Series**, after line 57 ("- Firmware and Software for Electronics (Book 8)"), add:
+## Completed in this repository
 
-    - Test and Measurement Instruments (Book 9)
+- Books 1–7 now follow the canonical series order and list both Book 8 and Book 9, with matching Kindle link rules. Book 9 itself lists Books 1–8.
+- Book 7 Chapter 19 points to Book 9 Chapter 36 for production-test workflows. Chapter 28 points to Book 9 Chapter 33 for EMC pre-compliance instruments.
+- Book 6 now has `kindle_links - Power_and_Energy_Book6.json`.
+- Chapter text and figure mirrors for Books 6, 7, and 9 have been refreshed from their DOCX masters. Book 9's mirror contains all 38 chapters.
 
-## 2. SCORES.md (book table, after the Book 7/Book 8 rows)
+## Refreshing Book 9 source mirrors
 
-    | Test and Measurement Instruments | Electrical Engineering Series, Book 9 | draft | not scored yet (first full build 11 Oct 2026: 38 chapters, 11 parts, ~245 pages, 50 figures, 111 worked examples, 234 problems, 35 listings run, 371 number checks pass) | missing (concept: bench instruments, scope, DMM, SMU, spectrum analyzer, VNA) | missing | poor | est. 3.0 | Strict score read; front/back cover in series trade dress showing instruments; run the ngspice decks of Ch8; re-verify vendor specs and prices at publication; hardware-test the Ch38 mini tracer | after Book 8 |
+The DOCX master remains authoritative. After editing it, run from the repository root:
 
-## 3. Book 8 (Firmware and Software for Electronics)
-- Also-by list: add "Test and Measurement Instruments (Book 9)" after Book 8.
-- Pointer line where Book 8 talks about instrument control, LabVIEW, or production test, e.g.:
-  "Book 9, Test and Measurement Instruments, covers the instruments themselves, SCPI sessions, and LabVIEW/TestStand production test."
+```powershell
+python scripts/diagrams/b9/refresh_sources.py --chapters 38
+```
 
-## 4. Books 1-7
-- Also-by lists: append "Test and Measurement Instruments (Book 9)" after Book 8 in each.
-- Book 7 (Packaging, Layout, EMC, and Test): pointer from its EMC pre-scan and production-test chapters to Book 9 Ch33 (EMC pre-compliance) and Ch36 (production test, Cpk, GR&R).
+This extracts `front.txt`, one `src/chNN.txt` per chapter, `src/back.txt`, and the figures into `chapters/Book9/`. It does not rebuild the DOCX from the tagged-text mirror.
 
-## 5. Cover
-The Book 9 cover should show instruments (oscilloscope, DMM, SMU/curve tracer, spectrum analyzer, VNA) in the series trade dress, vendor-neutral, no logos or brand names.
+## Shared series files
 
-## 6. Files
-- EE - SERIES/Test_and_Measurement_Instruments_Book9.docx
-- EE - SERIES/kindle_links - Test_and_Measurement_Instruments_Book9.json
-- Sources: chapters/Book9/src, scripts/diagrams/b9, scripts/build_b9.py
-- Rebuild: python scripts/build_b9.py --chapters 38 (with the Book 5 template and common helpers, as in Book 8)
+The canonical list and `SCORES.md` live in the parent workspace; both include Book 9. Book 8's master has since been restored and reviewed; see `notes/EE8_REVIEW_2026-10-12.md`. Book 9's review and safety corrections are recorded in `notes/EE9_REVIEW_2026-10-12.md`. No cover files are maintained here.

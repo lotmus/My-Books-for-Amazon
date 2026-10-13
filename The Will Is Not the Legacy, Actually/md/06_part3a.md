@@ -29,13 +29,13 @@ Marriage, divorce, a birth, a move across a border, and large gifts can change w
 
 ### Probate in one paragraph each
 
-**California.** Probate is the court-supervised process of proving a will, appointing the executor (or an administrator if there is no will), collecting assets, paying debts and taxes, and distributing the rest. It is public, it takes many months at best, and it costs money. The statutory attorney fee for ordinary services is a percentage of the gross value of the estate going through probate, with no deduction for a mortgage: 4 percent of the first 100,000 dollars, 3 percent of the next 100,000, 2 percent of the next 800,000, 1 percent of the next nine million, and so on (Probate Code § 10810), and the executor is entitled to a fee on the same scale. On a 900,000-dollar estate that is 21,000 dollars for the lawyer and the same again for the executor, if the executor takes it, before any extraordinary work. Much of a modern estate escapes probate by passing through beneficiary forms, joint title, trusts, and the simplified small-estate procedures described in Chapter 17.
+**California.** Probate is the court-supervised process of proving a will, appointing an executor (or an administrator if there is no will), collecting assets, paying debts and taxes, and distributing what remains. It is public, takes many months at best, and costs money. The ordinary statutory attorney fee is based on the gross value of the probate estate, without deducting a mortgage. The rate is 4 percent of the first $100,000, 3 percent of the next $100,000, 2 percent of the next $800,000, 1 percent of the next $9 million, and so on (Probate Code § 10810). The executor is entitled to a fee on the same scale. On a $900,000 estate, that is $21,000 for the lawyer and the same again for the executor if the executor takes the fee, before extraordinary work. Much of a modern estate avoids probate through beneficiary forms, joint title, trusts, and the simplified small-estate procedures described in Chapter 17.
 
-**Germany.** There is no American-style probate. The estate passes as a whole to the heirs at the moment of death (BGB § 1922). The heirs are liable for the estate's debts (§ 1967), which is why German law gives an heir six weeks to disclaim an inheritance after learning of it (§ 1944), or six months if the deceased's last residence was only abroad or the heir is abroad when the period starts. The probate court (*Nachlassgericht*) opens wills, issues certificates of inheritance (*Erbschein*), and deals with disputes, but it does not run the estate. The heirs, or an executor if the will appoints one, do that.
+**Germany.** There is no American-style probate. The estate passes as a whole to the heirs at the moment of death (BGB § 1922). The heirs are liable for the estate's debts (§ 1967). An heir generally has six weeks after learning of the inheritance to disclaim it (§ 1944). The period is six months if the deceased's last residence was only abroad or the heir is resident abroad when the period begins. The probate court (*Nachlassgericht*) opens wills, issues certificates of inheritance (*Erbschein*), and deals with disputes, but it does not run the estate. The heirs, or an executor if the will appoints one, do that.
 
 ## Chapter 9. A Sample Will, Annotated
 
-What follows is a fictional will for a fictional Californian widow with two adult children and one grandchild. Square brackets mark where a real will would give full names. It is written in plain English to show what each clause does. Real wills drafted by lawyers are usually longer, because they handle more contingencies. The annotations explain why each clause is there and what can go wrong. For a German will, the same ideas apply, but the form is different: see Chapter 11.
+What follows is a fictional will for a fictional Californian widow with two living adult children, a deceased son, and one granddaughter. Square brackets mark where a real will would give full names. It is written in plain English to show what each clause does. Real wills drafted by lawyers are usually longer, because they handle more contingencies. The annotations explain why each clause is there and what can go wrong. For a German will, the same ideas apply, but the form is different: see Chapter 11.
 
 ### Article 1: Declaration and revocation
 
@@ -47,7 +47,7 @@ What follows is a fictional will for a fictional Californian widow with two adul
 
 ### Article 2: Family
 
-> I am not married. My husband, [full name], died in 2019. I have two children, my daughter [full name] and my son [full name]. My son [full name] died in 2010 and is survived by his daughter, [full name]. All references to "my children" are to my living daughter and son named above.
+> I am not married. My husband, [full name], died in 2019. I have three children: my daughter [full name], my living son [full name], and my son [full name], who died in 2010 and is survived by his daughter, [full name]. References to "my living children" mean my daughter and my living son named above.
 
 **Why it is there.** It lets the court see who the natural heirs are and confirms you have not forgotten anyone. Naming a deceased child and his descendant shows you considered them.
 
@@ -55,33 +55,33 @@ What follows is a fictional will for a fictional Californian widow with two adul
 
 ### Article 3: Executor
 
-> I nominate my daughter, [full name], as executor. If she is unable or unwilling to serve, I nominate my son, [full name]. No bond shall be required of any executor named in this will. My executor may administer my estate under the Independent Administration of Estates Act.
+> I nominate my daughter, [full name], as executor. If she is unable or unwilling to serve, I nominate my living son, [full name]. No bond shall be required of any executor named in this will. My executor may administer my estate under the Independent Administration of Estates Act.
 
-**Why it is there.** The executor gathers assets, pays debts and taxes, and distributes the rest. A backup protects against the first choice dying, moving, or refusing. Waiving the bond saves the cost of an insurance-like guarantee the court would otherwise require. Authorising independent administration allows the executor to take many actions (selling property, for example) with less court supervision.
+**Why it is there.** The executor gathers assets, pays debts and taxes, and distributes the rest. A backup protects against the first choice dying, moving, or refusing. Waiving the bond saves the cost of an insurance-like guarantee the court would otherwise require. Authorizing independent administration allows the executor to take many actions (selling property, for example) with less court supervision.
 
 **What goes wrong.** Naming someone who lives far away, does not get on with the siblings, or was never asked. A surprised executor is an executor who declines. Ask first.
 
 ### Article 4: Specific gifts
 
-> I give my wedding ring to my granddaughter, [full name], if she survives me. I give my piano to my son, [full name], if he survives me. If either gift fails, the item becomes part of my residuary estate.
+> I give my wedding ring to my granddaughter, [full name], if she survives me. I give my piano to my living son, [full name], if he survives me. If either gift fails, the item becomes part of my residuary estate.
 
 **Why it is there.** Specific gifts settle the objects people care about most, which are often worth the least.
 
 **What goes wrong.** If you no longer own the item when you die, the gift fails. Lawyers call this ademption. Families argue about whether a new piano was meant to replace the old one. The clause also says what happens if the gift fails, which avoids that argument.
 
-**A California shortcut.** Probate Code § 6132 lets a will refer to a separate signed and dated writing that disposes of tangible personal property, such as jewellery and furniture, which you can update without re-signing the will. The writing can be handwritten or signed by you. The total value of property passing under it cannot exceed 25,000 dollars, and any single item worth more than 5,000 dollars is excluded and passes under the will instead. It is a useful way to handle the cutlery without calling the lawyer every time a grandchild expresses an interest in a teapot.
+**A California shortcut.** Probate Code § 6132 lets a will refer to a separate signed and dated writing that disposes of tangible personal property, such as jewelry and furniture, which you can update without re-signing the will. The writing can be handwritten or signed by you. The total value of property passing under it cannot exceed 25,000 dollars, and any single item worth more than 5,000 dollars is excluded and passes under the will instead. It is a useful way to handle the cutlery without calling the lawyer every time a grandchild expresses an interest in a teapot.
 
 ### Article 5: Cash gifts
 
-> I give 10,000 dollars to [full legal name of charity, with its registered address]. I give 5,000 dollars to my neighbour, [full name], if she survives me. If my estate is not large enough to pay all cash gifts in full, they shall be reduced in proportion.
+> I give 10,000 dollars to [full legal name of charity, with its registered address]. I give 5,000 dollars to my neighbor, [full name], if she survives me. If my estate is not large enough to pay all cash gifts in full, they shall be reduced in proportion.
 
 **Why it is there.** Cash gifts are simple to understand and easy to carry out.
 
-**What goes wrong.** Cash gifts are paid before the residue. If the estate shrinks (because you spent the money on care, which is what money is for), the cash gifts can swallow the residue, leaving your main heirs with less than the neighbour. The final sentence says what happens if there is not enough. An alternative is to express gifts as percentages.
+**What goes wrong.** Cash gifts are paid before the residue. If the estate shrinks (because you spent the money on care, which is what money is for), the cash gifts can swallow the residue, leaving your main heirs with less than the neighbor. The final sentence says what happens if there is not enough. An alternative is to express gifts as percentages.
 
 ### Article 6: Residuary estate
 
-> I give the rest of my estate, including all property not effectively disposed of above, in equal shares to my children who survive me, and one equal share to the descendants of any child who does not survive me, by right of representation. I give an equal share to my granddaughter, [full name], in place of her deceased father.
+> I give the rest of my estate, including all property not effectively disposed of above, in equal shares to my living children and to the descendants of any child who does not survive me, by right of representation.
 
 **Why it is there.** The residue is everything left after debts, expenses, and specific and cash gifts. In most estates the residue is the main event. Most will disputes are really disputes about this clause and about the forms the will never sees.
 
@@ -111,7 +111,7 @@ What follows is a fictional will for a fictional Californian widow with two adul
 
 > My executor shall have all powers granted by law, including the power to sell, lease, or mortgage any property, to deal with my digital assets and electronic communications, and to continue any business I own.
 
-**Why it is there.** The more powers the will grants, the fewer times the executor must ask the court for permission. Expressly granting authority over digital assets helps under California's digital-assets law (Probate Code §§ 870 and following), which lets a will authorise disclosure of electronic communications content to the executor, unless the user directed otherwise in the provider's own online tool.
+**Why it is there.** The more powers the will grants, the fewer times the executor must ask the court for permission. Expressly granting authority over digital assets helps under California's digital-assets law (Probate Code §§ 870 and following), which lets a will authorize disclosure of electronic communications content to the executor, unless the user directed otherwise in the provider's own online tool.
 
 ### Article 11: No-contest clause (optional)
 
@@ -121,7 +121,7 @@ What follows is a fictional will for a fictional Californian widow with two adul
 
 ### Article 12: Signature and witnesses
 
-> I sign this will on 10 October 2026 at Sacramento, California.
+> I sign this will on 10 October 2026 in Sacramento, California.
 >
 > [Signature]
 >
@@ -163,13 +163,19 @@ Each spouse signs a will leaving everything to the other, then to the children e
 
 ### Plan two: wills plus beneficiary designations on everything possible
 
-The same wills, but with every asset that can carry a beneficiary given one: payable-on-death designations on the bank accounts; transfer-on-death registration on the brokerage account; a California revocable transfer-on-death deed on the house, effective after the second death; an Arizona beneficiary deed on the condominium (Arizona has its own statutory version; check its requirements); retirement accounts and insurance with primary and contingent beneficiaries as in plan one.
+The same wills, but with a beneficiary designation or transfer-on-death instruction wherever possible:
+
+- Payable-on-death designations on the bank accounts.
+- Transfer-on-death registration on the brokerage account.
+- A California revocable transfer-on-death deed on the house, effective after the second death.
+- An Arizona beneficiary deed on the condominium; Arizona has its own statutory version, so check its requirements.
+- Retirement accounts and insurance with the same primary and contingent beneficiaries as in Plan One.
 
 **How it works.** Almost everything passes outside probate at the second death. The will catches only the cars and stray items, which may fit under California's small-estate procedures.
 
 **Where it fails.** Coordination. Each designation is a separate document with separate rules, and each must name contingent beneficiaries correctly. None of them can hold the grandson's share in trust if the son dies first; a TOD designation to a minor creates exactly the problem in Case 5. Some designations may not allow per-stirpes ("by family line") options. And the California TOD deed statute is set to expire on 1 January 2032 unless extended, although deeds signed before then stay valid. Every new account must be set up correctly. It is a plan that works perfectly on the day it is finished and then decays.
 
-**When it is good.** Moderate estates, simple families, and people who are organised enough to update forms.
+**When it is good.** Moderate estates, simple families, and people who are organized enough to update forms.
 
 ### Plan three: a funded revocable trust with pour-over wills
 

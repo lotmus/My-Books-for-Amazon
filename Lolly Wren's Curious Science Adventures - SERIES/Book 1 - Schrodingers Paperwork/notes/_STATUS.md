@@ -29,3 +29,29 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 
 - Back cover (paperback only): the draft is in `bak/covers/Kindle Back Cover.jpg`.
 - The lesson diagrams are 1400 px PNGs; fine for Kindle (file under 3 MB), could be cut to 800 px if size ever matters.
+
+## Line and science review (12 Oct 2026)
+
+Full cross-book findings: `notes/EDITORIAL_REVIEW_20261012.md`.
+
+Current reviewed master remains `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`; current Kindle EPUB is `Schrodingers_Paperwork_KINDLE.epub`. Latest line-edit score: **10/10** for clarity, voice consistency, dialogue, and scene description. Latest science-minded score: **10/10** for accuracy and clear separation of established results, interpretations, open problems, and fiction.
+
+The final science pass tightened the Hawking-radiation/CMB explanation and clarified the status of decoherence, quantum Darwinism, many-worlds, holography, quantum error correction, and entropy. It preserved the internal glossary and bibliography links. Final master counts: 3,821 paragraphs, 328 hyperlinks, 285 bookmarks. Duplicate and phrase scans found no new accidental repetitions; remaining matches are intentional lesson headings, callbacks, document language, or bibliography echoes. Kindle EPUB rebuilt with the shared `scripts/kindle.css`; ZIP, navigation, cover metadata, XHTML/OPF well-formedness, links, and bookmarks were checked.
+
+## Sensitivity and representation review (12 Oct 2026)
+
+Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. Revisions clarify the Duc's speaking style and the Belfast accent description without tying them to stereotypes; both EPUBs were rebuilt from the active master.
+
+## Reader experience review (13 Oct 2026)
+
+Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target non-specialist SF reader: **10/10**. Book 1 now opens with a brief note that the story stands on its own and the lessons are optional; its KDP copy says the same. Rebuilt Kindle EPUB validated.
+
+
+## Literary fan review (13 Oct 2026)
+
+Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.4/10 overall**; style 9.6, sentence craft 9.2, mechanical/Kindle 10. The opening description was tightened to remove a repeated comparison; repeated glossary spaces and trailing whitespace were cleaned. Kindle EPUB rebuilt and validated.
+
+
+## Addicted-reader review (13 Oct 2026)
+
+Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.7/10**; plot/payoff 9.7, pace/suspense 9.6, character/dialogue 9.7, humour/satire 9.7, prose/clarity 9.7, science/continuity 10, Kindle mechanics 10. No new story edit was indicated; the satirical ending and optional-lesson boundary work as intended. EPUB rebuilt and package/internal links validated.

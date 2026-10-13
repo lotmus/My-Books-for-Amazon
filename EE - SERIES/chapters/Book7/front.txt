@@ -1,0 +1,48 @@
+EQ: Packaging, Layout, EMC, and Test
+EQ: Book 7 of the Electrical Engineering Series
+EQ: Lothar J. Musiol
+EQ: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+EQ: Advanced Packages, Power Delivery, Board Materials, Layout, Cooling, Emissions, Immunity, and the Accredited Lab
+H1: How to Use This Book
+P: The earlier books designed circuits, devices, radios, and converters. This book is about where they meet the physical product: the package that holds the chips, the copper that carries their current and signals, the heat that must leave, and the emissions and immunity tests every product must pass before it can be sold.
+P: Part I, Chapters 1 to 20, covers packages and boards: the 2026 compute picture, advanced packages, power delivery, board and package substrate materials, layout, heat, MEMS, yield and chiplets, the package as a circuit, reliability, decoupling, stack-up, crosstalk, loss and equalization, optical interconnect, inertial sensors, the HBM stack, antenna-in-package modules, design for manufacture and test, and interconnect measurement. Part II, Chapters 21 to 28, covers EMC: why a board radiates, common mode on cables, methods and limits, detectors, the semi-anechoic chamber, conducted emissions and the LISN, immunity and the radio report, and the simulation flow and the day in the lab. Chapter 29 places the robot, which uses nearly every book at once.
+P: Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number was computed, and the answers to every practice problem are in Appendix B.
+P: The series gives each subject one home. Conversion efficiency and the regulators that make the processor's current are Book 6's. Transmission lines, matching, antennas, and the transmitter are Book 4's. The waveform and the band plan are Book 5's. This book uses those results where it needs them and does not recompute them. The texts in Appendix C go deeper; this book's explanations, examples, and problems are its own.
+H1: Contents
+P: Part I. Packages, Boards, Power, and Heat
+P: Chapter 1. Bandwidth per Watt: The 2026 Compute Picture
+P: Chapter 2. Packages: Four Words and the Advanced Package
+P: Chapter 3. Delivering 875 Amperes
+P: Chapter 4. Board and Package Substrate Materials: FR-4, ABF, Ceramics, and Glass
+P: Chapter 5. Layout: Return Paths, Transitions, and Habits
+P: Chapter 6. Heat: From the Die to the Coolant
+P: Chapter 7. MEMS in 2026
+P: Chapter 8. Yield, Chiplets, and Die-to-Die Links
+P: Chapter 9. The Package as a Circuit: Wire Bonds, Lead Frames, and Bumps
+P: Chapter 10. Package Reliability: Expansion, Fatigue, and Electromigration
+P: Chapter 11. The Decoupling Network
+P: Chapter 12. The Stack-Up
+P: Chapter 13. Crosstalk
+P: Chapter 14. Loss, Equalization, and the Eye
+P: Chapter 15. Optical Interconnect and Co-Packaged Optics
+P: Chapter 16. Gyroscopes, IMUs, and Dead Reckoning
+P: Chapter 17. Inside the HBM Stack
+P: Chapter 18. Antenna in Package
+P: Chapter 19. Design for Manufacture and Test
+P: Chapter 20. Measuring the Interconnect: TDR and the VNA
+P: Part II. EMC, Simulation, and Test
+P: Chapter 21. Why a Board Radiates
+P: Chapter 22. Common Mode on the Cable
+P: Chapter 23. Methods and Limits Are Different Documents
+P: Chapter 24. Detectors and the Number You Quoted
+P: Chapter 25. The Semi-Anechoic Chamber
+P: Chapter 26. Conducted Emissions and the LISN
+P: Chapter 27. Immunity, and the Second Report for Radios
+P: Chapter 28. The Simulation Flow and the Day in the Lab
+P: Part III. Where the Series Meets
+P: Chapter 29. The Robot: Where the Series Meets
+P: Appendix A. Constants and Formulas Used in This Book
+P: Appendix B. Answers to the Practice Problems
+P: Appendix C. Sources
+P: About the Author
+P: Also by Lothar J. Musiol
