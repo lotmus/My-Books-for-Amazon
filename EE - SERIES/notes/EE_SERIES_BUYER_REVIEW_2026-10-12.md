@@ -17,7 +17,7 @@ Scores below estimate **value to the intended buyer**, not technical correctness
 | 4. RF, Microwave, and Transceivers | 8/10 | Medium-high | The most ambitious specialist volume; substantial value for RF learners, but its 52-chapter breadth risks uneven depth. |
 | 5. Communications, Wireless, and SDR | 8/10 | Medium | Strong, broad course with 256 fully worked solutions verified in the current source mirror; still use current standards and platform documentation for version-sensitive details. |
 | 6. Power and Energy | 7/10 | Medium | Strong project and converter coverage. Appendix B is a concise answer key, now disclosed in the preface; buy if you can work from compact substitutions, and wait if you want tutor-style derivations for every problem. |
-| 7. Packaging, Layout, EMC, and Test | 7/10 | Medium-high | Distinctive, practical subject; verify the final edition trims noted internal repetition and includes worked solutions as described. |
+| 7. Packaging, Layout, EMC, and Test | 7/10 | Medium-high | Distinctive, practical subject; the documented Book 7/9 TDR/VNA overlap is now scoped, and 227 exercise prompts have matching answer entries. The broader fact-read and solution-depth review remain open. |
 | 8. Firmware and Software for Electronics | 8/10 | Medium-high | Strong breadth and exercises; board examples need real-hardware validation, and the final edition/listing is not ready. |
 | 9. Test and Measurement Instruments | 8/10 | Medium-high | Potentially the most immediately useful bench reference; check the final specification date and hardware-tested tracer example. |
 
@@ -45,7 +45,7 @@ Book 5 has a compelling communications-to-SDR scope and its current Appendix B s
 
 Book 6 covers real energy and power projects. Its Appendix B gives concise answers rather than a worked derivation for every problem, and the preface now makes that distinction clear. This suits readers comfortable deriving steps from the chapter examples; readers who want full tutoring should wait for expanded solutions. The broader prose fact-read remains open.
 
-Book 7 fills a useful gap that many electronics series skip: packaging, PCB layout, EMC, and test. It appears to have full worked solutions and many added examples. The previous Book 7/9 overlap in TDR/VNA basics and calibration is now scoped: Book 7 Chapter 20 centers board coupons, stack-up correlation, and production acceptance, while Book 9 owns instrument operation and calibration. A broader fact-read remains open. This is a promising specialist purchase, but inspect the table of contents and sample for a narrowly specific topic.
+Book 7 fills a useful gap that many electronics series skip: packaging, PCB layout, EMC, and test. The 227 counted practice prompts have 227 numbered answer entries, but that structural match does not grade the reasoning or prove every answer is fully worked. The documented Book 7/9 overlap in TDR/VNA basics and calibration is scoped: Book 7 Chapter 20 centers board coupons, stack-up correlation, and production acceptance, while Book 9 owns instrument operation and calibration. The earlier buyer-review phrase “noted internal repetition” did not identify additional passages; the targeted review records this specific boundary fix, not a claim that every repeated explanation has been eliminated. A broader fact-read remains open. This is a promising specialist purchase, but inspect the table of contents and sample for a narrowly specific topic.
 
 ### Books 8–9: Firmware and measurement
 
@@ -72,3 +72,6 @@ Book 5 Chapter 8 now distinguishes the EU-harmonized 5945–6425 MHz WAS/RLAN al
 Book 6's 65-minute rover runtime is now visibly an estimate under constant average load and nominal pack voltage, not an assured run time. The answer identifies voltage sag, cutoff, temperature, aging, converter behavior, and stall current as variables. This improves purchase/use expectation clarity but does not establish field runtime.
 
 The Book 6 quad example's 6-minute figure is now presented as an ideal capacity estimate, with battery, propulsion, current-peak, and operational-reserve factors called out. It cannot guarantee the flight time of a real airframe.
+
+
+Book 7 buyer-note refresh (13 Oct 2026): corrected the stale instruction to verify a prior, unspecified repetition trim. The documented Book 7/9 TDR/VNA boundary is already revised, and the current structural audit pairs all 227 counted prompts with answer entries. The revised note explicitly limits what answer-count matching proves and leaves broader fact and solution-depth reviews open. The buyer score remains 7/10; no score increase is supported by these structural checks alone.
