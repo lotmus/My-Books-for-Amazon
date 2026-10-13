@@ -50,3 +50,8 @@ Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target
 ## Literary fan review (13 Oct 2026)
 
 Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.4/10 overall**; style 9.6, sentence craft 9.2, mechanical/Kindle 10. The opening description was tightened to remove a repeated comparison; repeated glossary spaces and trailing whitespace were cleaned. Kindle EPUB rebuilt and validated.
+
+
+## Addicted-reader review (13 Oct 2026)
+
+Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.7/10**; plot/payoff 9.7, pace/suspense 9.6, character/dialogue 9.7, humour/satire 9.7, prose/clarity 9.7, science/continuity 10, Kindle mechanics 10. No new story edit was indicated; the satirical ending and optional-lesson boundary work as intended. EPUB rebuilt and package/internal links validated.

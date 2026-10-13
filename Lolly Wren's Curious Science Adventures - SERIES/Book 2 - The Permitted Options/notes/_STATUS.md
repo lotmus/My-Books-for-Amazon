@@ -54,3 +54,8 @@ Review: `../../notes/SCIENCE_REVIEW_20261013.md`. Scores: Book 1 **10/10**, Book
 ## Literary fan review (13 Oct 2026)
 
 Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.3/10 overall**; style 9.5, sentence craft 9.1, mechanical/Kindle 10. Three hard line breaks splitting two sentences were removed; intentional notebook stanza breaks remain. Kindle EPUB rebuilt and validated.
+
+
+## Addicted-reader review (13 Oct 2026)
+
+Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.5/10**; plot/payoff 9.5, pace/suspense 9.1, character/dialogue 9.6, humour/satire 9.4, prose/clarity 9.6, science/continuity 10, Kindle mechanics 10. The quieter, denser middle is the main tradeoff for a binge reader; the unresolved case threads are intentional and continuity-consistent. No new story edit was warranted. EPUB rebuilt and package/internal links validated.
