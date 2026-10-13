@@ -488,3 +488,5 @@ Book 5 Chapter 2 prose and package follow-up (13 Oct 2026): the zero-IF explanat
 Book 7 Chapter 1 prose and package follow-up (13 Oct 2026): separated the roofline rule from two workload examples and removed a duplicated source paragraph found in the first render. Selected PDF pages 7–8 were inspected; current KPF reports Supported/Success, zero errors/issues, and an exact DOCX hash match. The full device review remains open.
 
 Book 1 Chapter 1 prose and package follow-up (13 Oct 2026): the charge-neutrality explanation and charged-balloon example now read as separate paragraphs. Selected page 9 was inspected; current-master KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. Independent physics review remains open.
+
+Book 3 front-matter signposting and package follow-up (13 Oct 2026): the Part II–IX scope guide is split into shorter blocks. Selected PDF page 2 was inspected; current-master KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. Independent semiconductor review remains open.

@@ -153,3 +153,7 @@ Book 7 line-edit follow-up (13 Oct 2026): the Chapter 1 roofline rule, accelerat
 Book 1 line-edit follow-up (13 Oct 2026): separated the explanation of large-scale electric neutrality from the charged-balloon illustration in Chapter 1. Rendered-page and current-package checks pending; no score change is claimed.
 
 Book 1 line-edit follow-up (13 Oct 2026): separated the explanation of charge neutrality from the charged-balloon illustration. Fresh extraction regenerated 40 files, with only `src/ch01.txt` changed. The 199-page PDF was inspected on page 9. Current KPF embeds matching DOCX SHA-256 `d071350797e11c0b956f4233d8f6df1cec81c6557359084152edf064840074df` and reports Supported/Success, zero errors/issues, and no issues found. No score change is claimed.
+
+Book 3 line-edit follow-up (13 Oct 2026): divided the Part II–IX scope paragraph into four reading blocks while preserving its technical scope, Tietze/Schenk/Gamm reference, and later-volume boundary. Rendered-page and current-package checks pending; no score change is claimed.
+
+Book 3 line-edit follow-up (13 Oct 2026): split the 229-word Part II–IX overview into four scope blocks, preserving topics, source edition, and later-volume handoff. Fresh extraction regenerated 30 files, with only `front.txt` changed. The 204-page PDF was inspected on page 2. Current KPF embeds the exact DOCX hash `4a6d0819c9ff810c988f213a4cdc18857fa1b733b09992c89b2f64d2f3c259e3` and reports Supported/Success, zero errors/issues, and no issues found. No score change is claimed.
