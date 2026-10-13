@@ -8,7 +8,7 @@ def body(text):
     i=0
     while i<len(lines):
         l=lines[i].strip()
-        if l=="" or l.startswith("#") or l.startswith("*Trial draft") or l.startswith("*Short draft") or l=="---":
+        if l=="" or l.startswith("#") or l.startswith("*Trial draft") or l.startswith("*Short draft") or l.startswith("*Expansion scene") or l.startswith("*Expanded draft") or l=="---":
             i+=1; continue
         break
     out=[]
@@ -43,7 +43,8 @@ def extra(n,kind):
 NL=chr(10)
 SEP=NL+NL+"* * *"+NL+NL
 for n,t,fs in P1:
-    text=join(*fs)
+    fullf=D+'expanded/ch%02d_full.md'%n
+    text=body(open(fullf,encoding='utf-8').read()) if os.path.exists(fullf) else join(*fs)
     bef=extra(n,'before')
     if bef:
         k=text.rfind(SEP)
@@ -63,6 +64,11 @@ for n in range(8,21):
 out.append("\n---\n\n# Appendix: The Science Behind the Story\n\n"+body(rd("appendix_genetics_v1.md"))+"\n")
 out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v1.md"))+"\n")
 txt="\n".join(out)
+# reader copy: strip internal verification notes and the working status section
+txt=re.sub(r"\s*\*\((?:Verify|Cite from)[^)]*\)\*","",txt)
+txt=re.sub(r"\n\*\*Facts to re-check before publication:\*\*[^\n]*\n","\n",txt)
+txt=re.sub(r"\n\*\(Ideas only; nothing is borrowed in text\.\)\*\n","\n",txt)
+txt=re.sub(r"\n\* \* \*\n\n## Status\n.*\Z","\n",txt,flags=re.S)
 open("Forbidden_Offspring/manuscript/Forbidden_Offspring_working_v1.md","w",encoding="utf-8").write(txt)
 words=len(re.findall(r"\w+",txt))
 print("words",words,"pages@300",round(words/300))

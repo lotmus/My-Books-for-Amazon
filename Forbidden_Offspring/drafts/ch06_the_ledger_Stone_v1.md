@@ -12,7 +12,7 @@ I am aware of how that sentence sounds. I have tried it in a dozen other ways. *
 
 I did not hate anyone. I want that understood, since it is the thing most readers get wrong. People who imagine a project of this kind imagine a man in a cold room with a grievance. I had no grievance. I had a clinic, a parking space, and a drawer full of children who would have died at seven. What I had was a spreadsheet of how often we fail, and I had read it every morning for twenty years.
 
-**Schedule.** A century, in four stages.
+**Schedule.** A century, in four stages. At the top of the page, in capitals, I had written one word as an instruction to myself, and it was not *quickly.* It was SLOWLY.
 
 The first was the one I was living in: a small number of people, a few dozen, made quietly and given to ordinary families. Nothing about it could be allowed to look like anything. I called it *seeding*, which is what a gardener says to explain why the beds look empty.
 
@@ -42,4 +42,4 @@ Most colleagues keep a backup. Most colleagues also have a department, and a men
 
 I want to be fair to the man I was. He believed this because it had always been true. The index had never been read by anyone but him. It had never been discovered, never lost, never been wrong. It is easy to take the record of a thing for the nature of it. I did, for eleven years, with the settled confidence of a man who has been right so often that being right has stopped feeling like an event.
 
-I locked it every Thursday. I locked it on the Thursday before the boy opened my vault, though I did not yet know there was a boy who could, and I took my coat from the hook, and I went home, to a house where no one waited, and I slept very well.
+I opened and locked it on the first Thursday of every month. I did it on the first Thursday before the boy opened my vault, though I did not yet know there was a boy who could, and I took my coat from the hook, and I went home, to a house where no one waited, and I slept very well.

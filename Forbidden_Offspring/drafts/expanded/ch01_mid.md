@@ -14,9 +14,9 @@ I told them what I could. I screened. I explained what a screen could and could 
 
 They had a boy. He was born at term. He was perfect. For eleven months he was perfect, a fat, solemn, black-haired child with a furious laugh, and they came to the clinic on his first birthday to bring me a cake.
 
-He died on the fourteenth of March. It was the same condition, the one the screen had not caught, because it lived in a region of the genome that nobody had yet thought to look at. His mother rang to tell me. She said it quite calmly. She said: "I wanted you to know. I didn't want you to hear it from someone else."
+He died on the fourteenth of March. It was the same condition, the one the screen had not caught, because it lived in a region of the genome that nobody had yet thought to look at. His mother called to tell me. She said it quite calmly. She said: "I wanted you to know. I didn't want you to hear it from someone else."
 
-I said I was sorry. She said she knew. She said she was not ringing to blame me. She said it a second time, so that I would believe it, and I did, and it did not help.
+I said I was sorry. She said she knew. She said she was not calling to blame me. She said it a second time, so that I would believe it, and I did, and it did not help.
 
 I put the telephone down. I went into the laboratory and shut the door and sat on the stool at my bench for four hours. I did not weep. I thought. I thought about regions of the genome, and about windows, and about the particular, intolerable asymmetry of a profession in which a thing can be known and not done.
 
