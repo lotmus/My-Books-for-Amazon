@@ -2,7 +2,7 @@
 
 *Educational guide, not legal advice. Each tool below can be exactly right or quietly disastrous depending on facts this book cannot see.*
 
-A will is the default tool, not always the main one. Much of a modern estate already moves outside the will. The useful question is not "will or no will?" It is "which asset should pass by which path, and what is left over for the will to catch?" This part takes each path in turn: when it works, the surprise it can spring, and a case where it overrode the will.
+A will is the default tool, but it is not always the main one. Much of a modern estate passes outside the will. The useful question is not "will or no will?" It is "which asset should pass by which path, and what is left for the will to catch?" This part follows each path: when it works, what can go wrong, and where it has overridden a will.
 
 ![Figure 2. What passes outside the will, and what is left for it. Each asset is checked against its own paperwork first.](src/diagrams/fig1_outside_the_will.png)
 
@@ -16,6 +16,8 @@ Life insurance, retirement plans, annuities, and many bank and brokerage account
 
 The form ignores your will, your divorce (sometimes), your later intentions, and your family's sense of fairness. It does exactly what it says.
 
+It is a very reliable employee with no ability to read the room.
+
 - **Divorce.** California automatically cancels many nonprobate transfers to a former spouse (Probate Code § 5040), but federal law governs most employer retirement plans, and the U.S. Supreme Court held in 2001 that federal law displaces a state rule of that kind for those plans (Case 1).
 - **Death of the beneficiary.** If the only named beneficiary dies first and there is no contingent, the plan's default rules apply. Often that means the estate, which brings back the probate you were trying to avoid (Case 4).
 - **Minors.** A child cannot receive a large sum directly; someone has to be appointed to manage it (Case 5).
@@ -26,7 +28,7 @@ The form ignores your will, your divorce (sometimes), your later intentions, and
 
 Make a beneficiary audit part of your Family List (Appendix D has the worksheet). For each policy and account, record the primary and contingent beneficiaries, the date you last checked, and how to contact the institution. Check after every marriage, divorce, birth, adoption, and death, and otherwise every few years. Ask the institution for written confirmation of what is on file. People are regularly surprised by what is.
 
-**If you live elsewhere.** For what passes outside the will in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#What passes outside the will, elsewhere).
+**Elsewhere?** See [Chapter 40](#What passes outside the will, elsewhere).
 
 ## Chapter 13. Payable-on-Death and Transfer-on-Death
 
@@ -34,9 +36,9 @@ Make a beneficiary audit part of your Family List (Appendix D has the worksheet)
 
 In California, bank accounts can carry a payable-on-death (POD) designation and securities accounts a transfer-on-death (TOD) registration. Real estate can pass by a revocable transfer-on-death deed (Probate Code §§ 5600 and following). You keep full ownership and control while alive; you can change or revoke the designation; and at death the named person takes the asset, usually without probate.
 
-California's revocable TOD deed must be signed and dated by the owner, signed by two witnesses present at the same time, acknowledged before a notary, and recorded with the county recorder on or before 60 days after the notary's date (Probate Code §§ 5624, 5626). A beneficiary should not be a witness: that raises a presumption of undue influence (§ 5625). There is no irrevocable version. The statute authorising these deeds is set to be repealed on 1 January 2032 unless extended; deeds executed before then remain valid. For a worked example with a mortgage and a home equity investment, and for a side-by-side comparison with a life estate deed, see [Case 11](#Case 11: The house for the son who pays the mortgage); for other states, see [Other US states](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
+California's revocable TOD deed must be signed and dated by the owner, signed by two witnesses present at the same time, acknowledged before a notary, and recorded with the county recorder within 60 days of the notary's date (Probate Code §§ 5624, 5626). A beneficiary should not witness it because that raises a presumption of undue influence (§ 5625). There is no irrevocable version. The statute authorizing these deeds is set to be repealed on 1 January 2032 unless extended; deeds executed before then remain valid. See [Case 11](#Case 11: The house for the son who pays the mortgage) for a mortgage and home equity example and a comparison with a life estate deed. For deed rules in other states, see [Other US states](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
 
-Germany has no direct equivalent to a TOD deed for real estate. Property transfers at death through the heirs (or by a legacy they must fulfil), and the land register is changed on proof of succession. For bank accounts, German banks offer arrangements that pay a named person on death, built on the contract-for-a-third-party rule; ask the bank what its form does, and remember that such a payment can still count when compulsory shares are calculated.
+Germany has no direct equivalent to a TOD deed for real estate. Property transfers at death through the heirs (or by a legacy they must satisfy), and the land register is changed on proof of succession. For bank accounts, German banks offer arrangements that pay a named person on death, built on the contract-for-a-third-party rule; ask the bank what its form does, and remember that such a payment can still count when compulsory shares are calculated.
 
 ### The surprise
 
@@ -46,7 +48,7 @@ A POD or TOD designation ignores the rest of your plan. One child on the deed an
 
 Use POD and TOD as coordinated pieces of a plan, not as shortcuts you keep secret from your will. Name all the people you want to benefit, in the shares you want, with contingents. Write each designation on your Family List.
 
-**If you live elsewhere.** For which states have transfer-on-death deeds in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
+**Elsewhere?** See [Chapter 40](#Other US states: transfer-on-death deeds and enhanced life estate deeds) for deed rules.
 
 ## Chapter 14. Joint Ownership
 
@@ -56,7 +58,7 @@ Married couples often own their home and accounts jointly, and the survivor take
 
 ### The surprise
 
-Adding someone who is not your spouse to the title of real estate as a joint tenant is usually a present gift (Case 7). Bank accounts work differently in California: while everyone is alive, a joint account belongs to the owners in proportion to what each put in (Probate Code § 5301), but at death the survivor takes what is left unless there is clear and convincing evidence of a different intent (§ 5302). Their creditors may reach it. Their divorce may involve it. You may need their signature to sell or refinance. It may carry worse tax consequences than an inheritance would. And it overrides what your will says (Case 3).
+Adding someone who is not your spouse to real-estate title as a joint tenant is usually a present gift (Case 7). California bank accounts work differently. While the owners are alive, each owns a share in proportion to what they contributed (Probate Code § 5301). At death, the survivor generally takes what remains unless clear and convincing evidence shows a different intent (§ 5302). The other owner's creditors may reach the account, a divorce may involve it, and you may need that person's signature to sell or refinance. Joint ownership may also bring worse tax consequences than an inheritance, and it overrides what your will says (Case 3).
 
 Tenancy in common is different: no survivorship, so your share passes through your estate, possibly to people your co-owners would never have chosen (Case 8). In California, a married person's will controls only their half of community property (Case 9).
 
@@ -66,7 +68,7 @@ In Germany, spouses who own a house together each typically own a fractional sha
 
 Do not add a name to a title "to make it easier" without advice (Cases 7 and [11](#Case 11: The house for the son who pays the mortgage)). If the goal is convenience, use a power of attorney. If the goal is inheritance, use a beneficiary designation, a TOD deed, a trust, or a will.
 
-**If you live elsewhere.** For joint ownership in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#What passes outside the will, elsewhere).
+**Elsewhere?** See [Chapter 40](#What passes outside the will, elsewhere) for joint ownership.
 
 ## Chapter 15. Gifts While Alive
 
@@ -74,7 +76,7 @@ Do not add a name to a title "to make it easier" without advice (Cases 7 and [11
 
 Giving now lets you see the gift used, and can shrink what has to be administered later. In the United States, the annual gift tax exclusion for 2026 is 19,000 dollars per recipient, according to the IRS; gifts within that amount generally need no gift tax return. Larger gifts usually need a return but rarely result in tax, because they count against the lifetime basic exclusion amount, 15 million dollars per person in 2026.
 
-In Germany, gifts are taxed under the same law as inheritances (the Inheritance and Gift Tax Act, *ErbStG*), with the same tax-free allowances: 500,000 euros for a spouse or registered partner, 400,000 euros for each child, 200,000 euros for a grandchild, and 20,000 euros for many other people, depending on tax class (ErbStG § 16). Gifts from the same person within ten years are added together (§ 14). Families who start early can use the allowances more than once over a long life.
+In Germany, gifts and inheritances are taxed under the same law, the Inheritance and Gift Tax Act (*ErbStG*). The tax-free allowances are also the same: 500,000 euros for a spouse or registered partner, 400,000 euros for each child, 200,000 euros for a grandchild, and 20,000 euros for many other people, depending on tax class (§ 16). Gifts from the same person within ten years are added together (§ 14). Families who start early may be able to use the allowances more than once over a long life.
 
 ### The surprise
 
@@ -87,7 +89,7 @@ In Germany, gifts are taxed under the same law as inheritances (the Inheritance 
 
 Document large gifts. Say in writing whether a gift is meant as an advance on an inheritance, and make sure your will or trust says the same. In Germany, ask a notary about compulsory-share effects before giving away real estate.
 
-**If you live elsewhere.** For taxes at death in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Taxes at death, elsewhere).
+**Elsewhere?** See [Chapter 40](#Taxes at death, elsewhere) for tax rules.
 
 ## Chapter 16. Dying Without a Will
 
@@ -107,7 +109,7 @@ Statutes do not know your life. Unmarried partners usually receive nothing. Step
 
 If the statute's answer is not your answer, make a will.
 
-**If you live elsewhere.** For family members you cannot leave out in other US states, the United Kingdom, Canada, and Australia, see [Chapter 40](#Family members you cannot leave out, elsewhere).
+**Elsewhere?** See [Chapter 40](#Family members you cannot leave out, elsewhere).
 
 ## Chapter 17. Small-Estate Procedures
 
@@ -122,21 +124,29 @@ If the statute's answer is not your answer, make a will.
 
 Many assets are left out when calculating the value, including cars, property in a trust, joint tenancy property, assets passing by beneficiary designation, and property passing to a surviving spouse. Debts are not subtracted. The limits are adjusted every three years; the next adjustment is due on 1 April 2028 (Probate Code § 890).
 
-**Germany.** There is no direct equivalent, because there is no probate to avoid. Heirs still need to prove they are heirs. Banks may not insist on a certificate of inheritance as a matter of course: the Federal Court of Justice held in 2013 (XI ZR 401/12) that a bank's standard term demanding one in every case was invalid, and in 2016 (XI ZR 440/15) that an opened handwritten will can be enough proof if it states the succession clearly.
+**Germany.** There is no direct equivalent, because Germany has no probate to avoid. Heirs still need to prove they are heirs. Banks may not insist on a certificate of inheritance as a matter of course. In 2013, the Federal Court of Justice held that a bank's standard term requiring a certificate in every case was invalid (XI ZR 401/12). In 2016, it held that an opened handwritten will may be enough if it clearly states who inherits (XI ZR 440/15).
 
 ### The surprise
 
 A small-estate affidavit is a procedure, not a plan. It does not choose your heirs. It only collects for the people the will, or the statute, has already chosen.
 
+### What to do
+
+- After a death, check the current California courts guidance for the procedure and threshold that fit the asset and the date of death.
+- Count only the assets the procedure includes; the value is generally gross, not reduced by debts.
+- If you are unsure who may sign or file, ask the court self-help center or a probate lawyer before distributing property.
+
 ## Chapter 18. Contracts That Override Everything
 
 Prenuptial and postnuptial agreements, divorce decrees, business buy-sell agreements, partnership and shareholder agreements, and company articles can all dictate where an asset goes at death. A later will that forgets them does not win.
 
-- **Marital agreements.** A prenuptial agreement can waive a spouse's rights in the other's estate. In Germany, a marriage contract (*Ehevertrag*, notarised) can change the matrimonial property regime, which changes the spouse's statutory share (Chapter 16), and a separate notarial contract can waive inheritance or compulsory-share rights (BGB §§ 2346, 2348).
+- **Marital agreements.** A prenuptial agreement can waive a spouse's rights in the other's estate. In Germany, a marriage contract (*Ehevertrag*, notarized) can change the matrimonial property regime, which changes the spouse's statutory share (Chapter 16), and a separate notarial contract can waive inheritance or compulsory-share rights (BGB §§ 2346, 2348).
 - **Business agreements.** A buy-sell agreement may require your heirs to sell your shares to your partners at a formula price. The articles of a German GmbH may restrict who can hold shares after a death. Your will cannot override either. Your heirs may receive money instead of the business, or a business they cannot run.
 - **Divorce decrees.** A decree may require you to keep life insurance for a former spouse or children. A will cannot cancel that obligation.
 
 Bring every one of these documents to the drafting meeting. A will written without them is a will written about an imaginary estate.
+
+Before the meeting, make a one-page contract scan. For each agreement, record its name and date, the people or company bound by it, the asset it affects, what happens at death or incapacity, any notice or consent required, and where the signed copy is kept. Mark unclear terms for the lawyer; do not assume a clause has expired or that a newer will cancels it. For example, if a buy-sell agreement requires a sale at a formula price, heirs may receive the sale proceeds rather than the company shares named in the will. Ask counsel to reconcile the documents and explain any gap in value or control.
 
 ## Chapter 19. Trusts
 
@@ -172,7 +182,7 @@ A trust created by your will. It does not avoid probate, because the will must g
 
 ### The special-needs trust
 
-For a person with a disability who receives, or may need, means-tested public benefits. If such a person inherits money outright, they may lose eligibility until the money is spent down. A properly drafted third-party special-needs trust, funded by your will, your living trust, or your beneficiary designations, can hold the inheritance for their benefit without counting as their own resource. Drafting rules are technical. Do not improvise this with a sentence in a home-made will.
+Some public benefits have financial eligibility rules, and an inheritance may affect eligibility. The result and available planning depend on the person's benefits, circumstances, and local law. A properly drafted third-party special-needs trust may preserve eligibility while holding an inheritance for the person's benefit, but it is not right for everyone and must be tailored to the relevant program. Include the beneficiary in planning, use their preferred decision-making supports, and ask a specialist lawyer how the trust would affect their actual benefits. Do not assume that a disability means the person cannot manage money or make choices, and do not improvise a trust with a sentence in a home-made will.
 
 ### Pet trusts
 

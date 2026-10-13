@@ -1,36 +1,18 @@
 # The Book in Brief
 
-*One or two lines per part. Tap or click any heading to jump to it.*
+*Use the contents to jump to a section, or choose a route in How to Use This Book.*
 
-**[How to Use This Book](#How to Use This Book)**. What the book covers, why it uses California and Germany as its two worked examples, and where to start if you are short of time.
+- **[Part One: The Short Version](#Part One: The Short Version).** A seven-day plan, then the four parts of a legacy: property, authority, access, and meaning.
+- **[Part Two: Twenty-Five Cases](#Part Two: Twenty-Five Cases).** Invented families meet real rules about forms, homes, wills, incapacity, borders, and digital access.
+- **[Part Three: The Will, Drafted in Public](#Part Three: The Will, Drafted in Public).** An annotated sample will, three plans for one estate, and signing rules for California and Germany.
+- **[Part Four: The Alternatives](#Part Four: The Alternatives, With the Failure Modes Filled In).** Beneficiary forms, joint ownership, gifts, trusts, probate, and the ways each can go wrong.
+- **[Part Five: While You Are Still Alive](#Part Five: While You Are Still Alive).** Financial powers of attorney and healthcare decisions for the time when you cannot act or speak for yourself.
+- **[Part Six: The Family List of Everything](#Part Six: The Family List of Everything).** A practical record of what exists, where it is, and whom to call; passwords stay in secure access tools.
+- **[Part Seven: Your Voice on Record](#Part Seven: Your Voice on Record).** Video messages, prompts, a video diary, practical knowledge, creative work, storage, privacy, and handoff.
+- **[Part Eight: Leaving Thoughts](#Part Eight: Leaving Thoughts, at the Length of a Craft).** Ethical wills, letters, a short memoir, and unfinished projects.
+- **[Part Nine: The Receiver's Half](#Part Nine: The Receiver's Half).** First steps for the executor and family, digital access, and receiving the personal archive without treating love as an obligation.
+- **[Part Ten: What This Book Cannot Know](#Part Ten: What This Book Cannot Know).** Questions for local professionals and a short topic guide for other US states, the UK, Canada, Australia, and New Zealand.
 
-**[Part One: The Short Version](#Part One: The Short Version)**. The whole book on a few pages. [Chapter 1](#Chapter 1. If Time Is Short) is a seven-day plan for someone who may not have long; [Chapter 2](#Chapter 2. What "Legacy" Actually Splits Into) shows that a legacy is four separate deposits (property, authority, access, and meaning) and that a will carries only part of the first.
+## The appendices
 
-**[Part Two: Twenty-Five Cases](#Part Two: Twenty-Five Cases)**. Invented families, real rules, told in four ways: as a case file, as a story with one takeaway, as a family conversation, or as the same family twice, before and after. Every case shows what actually decided the outcome and ends with what to do now. The cases cover [beneficiary forms](#Chapter 3. Forms That Beat the Will), [titles and deeds](#Chapter 4. Titles, Deeds, and Joint Names), [wills that failed](#Chapter 5. Wills That Went Wrong), [the months before death](#Chapter 6. The Gap Before Death), and [second marriages, borders, and locked phones](#Chapter 7. Families, Borders, and the Digital Locker). [Case 11](#Case 11: The house for the son who pays the mortgage) works through leaving a mortgaged house to the child who pays for it, with a [note on other US states](#Other US states: transfer-on-death deeds and enhanced life estate deeds).
-
-**[Part Three: The Will, Drafted in Public](#Part Three: The Will, Drafted in Public)**. What a will can and cannot do, a [sample will annotated clause by clause](#Chapter 9. A Sample Will, Annotated), [one estate planned three ways](#Chapter 10. One Estate, Three Plans), and [how to sign a will so it counts](#Chapter 11. Signing It So It Counts: California and Germany) in California and in Germany.
-
-**[Part Four: The Alternatives](#Part Four: The Alternatives, With the Failure Modes Filled In)**. The tools that often decide more than the will: beneficiary designations, payable-on-death and transfer-on-death, joint ownership, lifetime gifts, intestacy, small-estate procedures, contracts, and [trusts](#Chapter 19. Trusts).
-
-**[Part Five: While You Are Still Alive](#Part Five: While You Are Still Alive)**. The [financial power of attorney](#Chapter 20. The Financial Power of Attorney) and [healthcare decisions](#Chapter 21. Healthcare Decisions): the documents that matter in the long, untidy middle when you are alive but cannot sign.
-
-**[Part Six: The Family List of Everything](#Part Six: The Family List of Everything)**. One organised list of accounts, policies, property, debts, subscriptions, digital accounts, contacts, and where the originals are kept, so your family can find what your documents leave them. [Passwords stay out of it](#Chapter 24. Passwords Without Writing Them Down), reachable instead through a password manager's emergency access; [Chapter 25](#Chapter 25. Storing, Updating, and Telling) covers storing, updating, and telling.
-
-**[Part Seven: Your Voice on Record](#Part Seven: Your Voice on Record)**. Video and audio messages as a living legacy, starting with [three archives](#Three archives, and what each one did) that show why an index and a second copy matter more than equipment. Then [how to record](#Chapter 27. How to Record: Phone, Webcam, Light, and Sound) with an ordinary phone or webcam, [prompts that work](#Chapter 28. What to Say: Prompts That Work), [keeping a video diary](#Chapter 29. The Video Diary: Recording Over Months and Years), [storing the clips so they survive you](#Chapter 30. Organising, Storing, and Keeping It Alive), [why a video is not a will](#Chapter 31. Why a Video Is Not a Will) in California or Germany, and [consent and privacy](#Chapter 32. Consent and Privacy).
-
-**[Part Eight: Leaving Thoughts](#Part Eight: Leaving Thoughts, at the Length of a Craft)**. The [ethical will](#Chapter 33. The Ethical Will), written [in four evenings](#Writing it in four evenings), [letters beside the will](#Chapter 34. Letters Beside the Will) (including letters that explain unequal gifts), turning voice memos into a short memoir, and what to do about unfinished work.
-
-**[Part Nine: The Receiver's Half](#Part Nine: The Receiver's Half)**. For the family afterwards: [the first ninety days](#Chapter 37. The First Ninety Days) for an executor, and [digital access from the other side of the lock](#Chapter 38. Digital Access From the Other Side of the Lock).
-
-**[Part Ten: What This Book Cannot Know](#Part Ten: What This Book Cannot Know)**. [One honest chapter](#Chapter 39. One Honest Chapter About Where You Live) on the questions to ask if you live somewhere other than California or Germany, and [a topic-by-topic guide](#Chapter 40. If You Live Elsewhere: Topic by Topic) for other US states, the United Kingdom, Canada, and Australia: valid wills, family members you cannot leave out, what passes outside the will, powers of attorney, taxes at death, and probate.
-
-**[The Appendices](#Appendices)**. Printable working pages:
-
-- **[Appendix A](#Appendix A. Your To-Do List: Now, This Month, This Year)**: your to-do list, step by step: what to do now, this month, and this year.
-- **[Appendix B](#Appendix B. The Family Checklist: The First Days and Weeks After a Death)**: the family's checklist for the first days and weeks after a death.
-- **[Appendix C](#Appendix C. The "In Case of Emergency" Binder Checklist)**: the "In Case of Emergency" binder, a fill-in template for the Family List.
-- **[Appendices D to J](#Appendix D. Asset Map and Beneficiary Audit)**: worksheets with filled examples: asset map and beneficiary audit, guardian brief, healthcare wishes, handoff script, permission sheet, video prompt card, and ethical-will skeleton.
-- **[Appendix K](#Appendix K. California and Germany Side by Side)**: California and Germany side by side, as a short list.
-- **[Appendix L](#Appendix L. If It Has Already Happened)**: first steps for each case, if it has already happened in your family.
-- **[Appendix M](#Appendix M. Case 11, the Technical Notes)**: the deed, tax, mortgage, and home equity detail behind Case 11, with a checklist.
-- **[Appendix N](#Appendix N. Sources)**: the official sources behind the legal statements.
+Appendices A–N provide planning and after-death checklists, the emergency binder, filled worksheets, California/Germany comparisons, case-specific next steps, technical notes, and official sources.

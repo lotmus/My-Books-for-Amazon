@@ -19,7 +19,7 @@ For each item, note:
 - **401(k).** Approx. value: 500,000; How titled: My name; Passes by: Beneficiary form; To whom: Form names first wife (1994); Matches? **No: update now**.
 - **Brokerage.** Approx. value: 250,000; How titled: Joint with spouse, survivorship; Passes by: Title; To whom: Spouse; Matches? Yes; add TOD to children for second death?
 - **Life insurance.** Approx. value: 500,000; How titled: My policy; Passes by: Beneficiary form; To whom: Spouse; no contingent; Matches? **Add contingent**.
-- **House, Central Valley (second example).** Approx. value: 650,000; How titled: My name, with a mortgage and a recorded home equity investment agreement; Passes by: Revocable trust (or TOD deed); To whom: Son who pays the mortgage; Matches?: Yes, once the investor's consent and the servicer's answer are in the file (Case 11).
+- **House, Central Valley (second example).** Approx. value: 650,000; How titled: My name, with a mortgage and a recorded home equity investment agreement; Passes by: Revocable trust (or TOD deed); To whom: Son who pays the mortgage; Matches? Yes, once the investor's consent and the servicer's answer are in the file (Case 11).
 - **Condo, Arizona.** Approx. value: 350,000; How titled: My name; Passes by: Will (Arizona probate); To whom: Children by will; Matches? Works, but second probate: ask about deed or trust.
 - **Savings, Germany.** Approx. value: 40,000; How titled: My name; Passes by: Will / heirs under German rules; To whom: Depends on applicable law; Matches? **Ask cross-border adviser**.
 
@@ -71,34 +71,38 @@ For parents of minor children. The legal nomination belongs in your will (Califo
 
 Fill this in before you complete the official form (California advance health care directive; German *Patientenverfügung*). Then make the formal document match, and give copies to your agent and doctor. (Chapter 21)
 
-- **Terminal illness, unable to communicate: resuscitation (CPR).** My wish: Yes / No / Agent decides.
+Use the format and communication supports that work for you. Someone may write or type your answers, but should record your words and check them with you. A communication device, interpreter, large print, extra time, or support person can help you express your own decisions.
+
+- **Terminal illness; unable to communicate my treatment choices even with my usual supports: resuscitation (CPR).** My wish: Yes / No / Agent decides.
 - **Same: breathing machine (ventilator).** My wish: Yes / No / Time-limited trial.
 - **Same: artificial nutrition and hydration.** My wish: Yes / No / Time-limited trial.
 - **Same: dialysis.** My wish: Yes / No.
 - **Treatable infection on top of serious illness: antibiotics.** My wish: Yes / No / Only if recovery to present state likely.
 - **Permanent unconsciousness, no reasonable prospect of recovery.** My wish: Continue / Stop life-prolonging treatment.
-- **Advanced dementia, unable to recognise family.** 
+- **If I have advanced dementia and can no longer recognize people important to me or communicate treatment choices, even with support.** My wish: Continue / Stop life-prolonging treatment / Agent decides.
 - **Pain relief even if it may shorten life.** My wish: Yes / No.
 - **Where I would prefer to die.** My wish: Home / Hospice / Hospital.
-- **Who I want with me.** 
-- **Who must be informed.** 
-- **Religious or spiritual wishes.** 
-- **Organ and tissue donation.** 
-- **What makes life worth living for me.** 
-- **What I fear more than death.** 
+- **Who I want with me:** ______
+- **Who must be informed:** ______
+- **Religious or spiritual wishes:** ______
+- **Organ and tissue donation:** ______
+- **What makes life worth living for me:** ______
+- **What I fear more than death:** ______
 
 ### Filled example (excerpt)
 
 - **Ventilator.** My wish: Time-limited trial of up to two weeks if doctors think I can return to living at home; Why: I have seen a full recovery after a short time on a ventilator, and I have also seen months of it without one.
-- **Antibiotics.** My wish: Yes, if I can still recognise my family; Why: An infection is not the same as the end.
+- **Antibiotics.** My wish: Yes, if I can still recognize my family; Why: An infection is not the same as the end.
 - **Where to die.** My wish: Home, with the window open; Why: I want to hear the garden.
-- **What makes life worth living.** My wish: Recognising my family, reading, being outside.
+- **What makes life worth living.** My wish: recognizing my family, reading, being outside.
 
 ## Appendix G. The Handoff Script
 
 Say this, or something as plain, to the person who will hold the Family List and the archive. Then show them; do not merely tell them.
 
 > "You're the one I trust with this. Here is the binder. The first page tells you who to call and where the originals are. My will is with [lawyer / the court], dated [date].
+>
+> The plain-language guide is in [language(s) and format(s)]. The legal originals are in [language(s)] at [place]. The translation was prepared or checked by [name / professional]; ask [lawyer / notary] if you need an official or certified version.
 >
 > The passwords are in [password manager]. I've set up emergency access for you. Let's test it now, together. The sealed envelope with the device passcodes is in [place].
 >
@@ -119,9 +123,14 @@ Fill in one line per recording, folder, or letter. Keep it with the recording in
 For each item, note:
 
 - Recording / folder / letter: ______
-- Who may see or hear it: ______
-- May it be shown at a memorial? ______
-- May it be published or posted? ______
+- Creator / photographer / interviewer; speakers or people pictured: ______
+- Date and place made; source of item; related transcript or caption: ______
+- Who may see or hear it, and when? (named people / private archive / researchers / public): ______
+- May it be preserved in a family or community archive if it is not shared publicly? ______
+- May it be shown at a memorial, donated to a named repository, or consulted by researchers? Record each separately: ______
+- May it be quoted, translated, edited, published, or posted online? Record each separately: ______
+- Copyright or other rights holder; permission evidence and date: ______
+- Restrictions, access limits, or embargo and end/review date: ______
 - When to release: ______
 - Destroy? (when): ______
 
@@ -130,9 +139,11 @@ For each item, note:
 - **Diary/2026.** Who: Family; Memorial? Selected clips, archive-keeper chooses; Publish? No; When: After my death; Destroy? No.
 - **Messages/For granddaughter.** Who: Granddaughter only; Memorial? No; Publish? No; When: Her 30th birthday; Destroy? She decides.
 - **Stories/.** Who: Anyone in the family; extended family on request; Memorial? Yes; Publish? Family website only; When: Any time; Destroy? No.
-- **Diary clip "2026-03-04 neighbours".** Who: Nobody; Memorial? No; Publish? No; When: Never; Destroy? **Yes, delete after my death**.
+- **Diary clip "2026-03-04 neighbors".** Who: Nobody; Memorial? No; Publish? No; When: Never; Destroy? **Yes, delete after my death**.
 
-People who appear in recordings with me and have agreed to sharing as above: ____________________
+People who appear or speak in these recordings and what they agreed to; permission record location: ____________________
+
+Consent to appear does not transfer copyright or automatically permit public sharing. Check rights, privacy, and any repository's donation terms before publishing or donating an item.
 
 Signed: ____________________ Date: __________
 
@@ -156,18 +167,37 @@ Print and keep beside the camera. One prompt per recording. (Chapters 27 and 28)
 - A normal day in the job that defined me.
 - Who taught me the thing I'm best at.
 - A decision I'd make again; one I wouldn't.
+- A skill or hobby I could teach in three short lessons.
+- A mistake beginners make, and how I learned to avoid it.
 
 **Love and family**
 
 - How we met, including the unromantic parts.
 - Each of my children at the age they are now.
 - What I want my grandchildren to know about their parents as children.
+- Ask me about one photograph, recipe, or object you want to understand.
+- An ordinary ritual, song, meal, place, or joke you hope we remember.
+- Someone who cared for you when you needed help, and what you learned from them.
+- A place you left, arrived in, or made home.
+- Something you hope we choose for ourselves, even if it differs from your choices.
 
 **Beliefs**
 
 - What I believe now that I didn't at thirty, and what changed it.
+- What faith, doubt, prayer, ritual, or religious community has meant to me; what I hope the next generation keeps, questions, or leaves.
 - What I'd say about money that isn't a slogan.
 - What I'm still unsure about.
+
+**Neighbors and home**
+
+- Who lived next door when I was young, and what I remember about them.
+- A neighbor who helped me, or someone I helped; what happened.
+- What our street or building sounded like on an ordinary day.
+- A neighbor or local place I hope my family remembers.
+- What has changed around my home, and what I hope remains.
+- What the street, building, or place was called then and what it is called now; dates may be approximate.
+- Which details I remember firsthand, which I heard from someone else, and what could be checked in records.
+- Who else was interviewed, who recorded the story, in what language, and what each person agreed could be shared.
 
 **To one person**
 
@@ -177,9 +207,10 @@ Print and keep beside the camera. One prompt per recording. (Chapters 27 and 28)
 
 - A wedding. A new baby. A graduation. A hard day. A birthday I won't see.
 
-**Practical**
+**Knowledge and creative work**
 
 - The recipe, in the kitchen, camera on the pan. How the house works. The thing only I know how to do.
+- If you write fiction: the story, character, or imagined world you hope your family will remember, and whether you want anyone to continue it.
 
 **Leave out:** property instructions, passwords, accusations you'd regret, medical details you wouldn't want played at dinner.
 
@@ -226,13 +257,13 @@ Checked against official sources in October 2026. Thresholds change; check befor
 - **Protected family shares.** California: Spouse's community property half; omitted spouse/child rules (§§ 21610, 21620); Germany: Compulsory share: half the statutory share for descendants, parents, spouse (§ 2303); gifts in last 10 years partly counted (§ 2325).
 - **Spouse without a will.** California: Community property plus 1/2 or 1/3 of separate property with children (§ 6401); Germany: 1/4 alongside descendants (§ 1931), plus 1/4 in default property regime (§ 1371).
 - **Effect of divorce.** California: Revokes will gifts and many nonprobate transfers to ex-spouse (§§ 6122, 5040); not federally governed retirement plans; Germany: Gifts to spouse ineffective after divorce, or if divorce was pending under conditions (§ 2077).
-- **Estate administration.** California: Probate court; statutory fees (§§ 10800, 10810); Germany: Heirs take estate directly (§ 1922); liable for debts (§ 1967).
-- **Simplified procedures.** California: Personal property affidavit up to $208,850; primary residence petition up to $750,000 (deaths from 1 Apr 2025); Germany: No probate; banks may not demand a certificate in every case (BGH XI ZR 401/12).
-- **Disclaimer.** California: Federal tax rules generally allow 9 months for a qualified disclaimer; Germany: 6 weeks (6 months if abroad) (§ 1944).
-- **Will custody and register.** California: Custodian must deliver to court within 30 days of death (§ 8200); Germany: Official custody on request (§ 2248); Central Register of Wills; duty to deliver (§ 2259).
+- **Estate administration.** California: Court-appointed personal representative administers probate property; statutory fees (§§ 10800, 10810). Germany: Heirs take the estate directly (§ 1922), inherit debts (§ 1967), and multiple heirs generally hold it jointly as an *Erbengemeinschaft* (§ 2032).
+- **Simplified procedures.** California: Procedures for qualifying property include a personal-property affidavit under statutory value and eligibility rules after 40 days, and a separate petition for certain primary residences; current limits are $208,850 and $750,000 respectively for deaths from 1 Apr 2025. Germany: No general probate administration; an *Erbschein* is not always required, though proof requirements vary by institution.
+- **Disclaimer.** California: Federal tax rules generally allow 9 months for a qualified disclaimer. Germany: usually 6 weeks; 6 months when the deceased's last residence was only abroad or the heir is abroad when the period begins (§ 1944). A disclaimer must meet formal requirements (§ 1945); an ordinary letter or email is insufficient.
+- **Will custody and register.** California: Unless a probate petition has already been filed, the will's custodian must deliver it to the court within 30 days after learning of the death (§ 8200); Germany: Official custody on request (§ 2248); Central Register of Wills; duty to deliver (§ 2259).
 - **Death taxes.** California: No state estate or inheritance tax; federal estate tax above $15,000,000 (2026); Germany: Inheritance tax on each heir; allowances: spouse €500,000, child €400,000, grandchild €200,000 (ErbStG § 16).
 - **Annual gift allowance.** California: $19,000 per recipient (2026, federal); Germany: Same allowances as inheritance, renewing every 10 years (ErbStG §§ 14, 16).
-- **Financial power of attorney.** California: Uniform Statutory Form (§ 4401), notarised; Germany: *Vorsorgevollmacht*; Central Register of Lasting Powers of Attorney.
+- **Financial power of attorney.** California: Uniform Statutory Form (§ 4401), notarized; Germany: *Vorsorgevollmacht*; Central Register of Lasting Powers of Attorney.
 - **Healthcare directive.** California: Advance health care directive; notary or two witnesses; optional state registry; Germany: *Patientenverfügung* (§ 1827); spouse's emergency health representation up to 6 months (§ 1358).
 - **Digital assets.** California: RUFADAA (§§ 870 ff.); provider online tool overrides will (§ 873); Germany: Accounts pass to heirs (BGH III ZR 183/17).
 - **Cross-border.** California: State conflict rules; Germany: EU Succession Regulation: habitual residence, choice of nationality law (Arts 21, 22).
@@ -246,6 +277,12 @@ Each case in Part Two ends with what to do next time. This appendix collects wha
 *[Case 1: The retirement account that remembered the first marriage](#Case 1: The retirement account that remembered the first marriage)*
 
 If you are the surviving spouse and the form names someone else, ask the plan administrator in writing for a copy of the designation on file and for the plan's claims procedure; ERISA plans must have one, with deadlines. Find the divorce judgment and any settlement agreement, because their exact words about retirement accounts matter. Then see a lawyer who handles ERISA claims, quickly, before the money is paid out if possible. If you are the former spouse who has been named, you may be legally entitled to the money and still face a claim based on what you agreed in the divorce. Get your own advice before you spend it.
+
+### If it has already happened: Case 2
+
+*[Case 2: The life insurance that paid "my heirs"](#Case 2: The life insurance that paid "my heirs")*
+
+If the insurer has not paid, send it the policy and ask in writing whom it recognizes as beneficiaries and what documents it requires. Ask how any minor child's share will be held and who may manage it. Do not use a child's share for household or mortgage costs without legal advice and any required approval. If the money has already been paid, keep the records and ask a German inheritance lawyer or the family court before spending a minor's share.
 
 ### If it has already happened: Case 3
 
@@ -263,13 +300,19 @@ If you are the heir of someone who held accounts in another country, find out ex
 
 *[Case 5: The twelve-year-old beneficiary](#Case 5: The twelve-year-old beneficiary)*
 
-The relative caring for the child should contact the court's self-help centre or a family lawyer at once, because temporary guardianship can often be arranged quickly while the full process runs. Gather anything that shows what the parent wanted: emails, texts, letters, the names of people who heard the parent say it. Tell the insurer that the beneficiary is a minor and ask exactly what it requires. Do not accept the money personally on the child's behalf unless a lawyer has told you that you may.
+The relative caring for the child should contact the court's self-help center or a family lawyer at once, because temporary guardianship can often be arranged quickly while the full process runs. Gather anything that shows what the parent wanted: emails, texts, letters, the names of people who heard the parent say it. Tell the insurer that the beneficiary is a minor and ask exactly what it requires. Do not accept the money personally on the child's behalf unless a lawyer has told you that you may.
 
 ### If it has already happened: Case 6
 
 *[Case 6: The transfer-on-death deed and the other two children](#Case 6: The transfer-on-death deed and the other two children)*
 
 If a parent's deed named one sibling and the will named all of you, talk before anyone sells, borrows against, or moves into the house. The named sibling owns it, but may be willing to share, and the cleanest way to share is usually to sell and divide the proceeds by written agreement, with a tax adviser's view on how the sharing is reported. If the deed was signed when the parent was frail, or after pressure, a lawyer can tell you whether it can be challenged; California's TOD deed law has its own rules and deadlines for contests, so ask promptly.
+
+### If it has already happened: Case 7
+
+*[Case 7: The son added to the title](#Case 7: The son added to the title)*
+
+Get a current land-register extract and copies of the deed, mortgage, and any liens. Do not sell, refinance, or sign a release without advice from a California real-estate or estate lawyer. Ask whether the added ownership can be changed by agreement and what tax, creditor, and public-benefit consequences that could have. A joint owner is an owner now, not a future beneficiary.
 
 ### If it has already happened: Case 8
 
@@ -299,13 +342,13 @@ If a parent has already recorded a life estate deed, it cannot be undone without
 
 *[Case 12: The German will that was typed](#Case 12: The German will that was typed)*
 
-If you are the unmarried partner of someone who has died with an invalid will, or none, get advice immediately about your own position: whether you have any rights in the home under a tenancy or a contract, whether any accounts were joint, whether life insurance names you. Ask the heirs, early and in writing, for time. Many heirs will agree to a period of months if asked respectfully; few agree when they first hear from a lawyer.
+If you are the unmarried partner of someone who died with an invalid will, or no will, get advice promptly about your position. Check whether you have rights under a tenancy or contract, whether any accounts were joint, and whether life insurance names you. Ask the heirs early and in writing for time to get advice before they distribute property. Many heirs will agree to a few months if asked respectfully; few will agree when they first hear from a lawyer.
 
 ### If it has already happened: Case 13
 
 *[Case 13: The California form will, half filled in](#Case 13: The California form will, half filled in)*
 
-Do not throw it away, and do not try to fix it by adding witnesses afterwards; that can make things worse. Whoever has the original must deliver it to the court within thirty days of learning of the death (§ 8200). Take it, untouched, to a probate lawyer, who can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honour it. Families often are, once they understand what the parent wanted and what a court fight would cost.
+Do not throw it away, and do not try to fix it by adding witnesses afterwards; that can make things worse. Whoever has the original must deliver it to the court within thirty days of learning of the death (§ 8200). Take it, untouched, to a probate lawyer, who can tell you whether it is likely to stand as a holographic will, and whether the family members who would inherit without it are willing to honor it. Families often are, once they understand what the parent wanted and what a court fight would cost.
 
 ### If it has already happened: Case 14
 
@@ -331,6 +374,12 @@ If you are the child left with a small gift and a no-contest clause, do not deci
 
 Ask the doctors, in writing, exactly what they need to see, and whether an assessment can be expedited. Ask the bank what it will accept meanwhile. On a clear day, ask the principal whether they would sign a new, immediately effective power; if they have the capacity to do that, it may be the fastest fix. Keep a record of every bill and payment.
 
+### If it has already happened: Case 18
+
+*[Case 18: No power at all](#Case 18: No power at all)*
+
+If the person can no longer make decisions and no valid power exists, ask promptly about court-appointed authority where they live: a conservatorship in California or guardianship (*Betreuung*) in Germany. Bring urgent bills, a list of pending decisions, any healthcare directive, and evidence of the person's wishes. Ask banks and care providers what they can do while an application is pending. Do not access accounts or sign as though you already have authority. If the person's safety or care is at immediate risk, contact local emergency or care services.
+
 ### If it has already happened: Case 19
 
 *[Case 19: The German spouse who could decide, but only for a while](#Case 19: The German spouse who could decide, but only for a while)*
@@ -347,7 +396,7 @@ Ask the doctors to explain the realistic outcomes of each option, not only the r
 
 *[Case 21: The Berliner Testament and the second marriage](#Case 21: The Berliner Testament and the second marriage)*
 
-If you are a widow or widower bound by a joint will and want to provide for a new partner, see a notary before making any gift or new will. Ask whether the old will contains a change clause, whether your children would agree to a notarised arrangement, and whether a gift you are considering could be reclaimed later. If you are the new spouse, ask to see the old will, gently, before you give up your own home.
+If you are a widow or widower bound by a joint will and want to provide for a new partner, see a notary before making any gift or new will. Ask whether the old will contains a change clause, whether your children would agree to a notarized arrangement, and whether a gift you are considering could be reclaimed later. If you are the new spouse, ask to see the old will, gently, before you give up your own home.
 
 ### If it has already happened: Case 22
 
@@ -365,13 +414,13 @@ Stop guessing passcodes. Before you close any account, ask whether you still nee
 
 *[Case 24: The video will](#Case 24: The video will)*
 
-The law will not follow the video, but the family can. Heirs under the old will or the intestacy rules may choose to honour the wishes in a video by agreement, with advice on how to document it and on any tax reporting. That choice is moral, not legal, and it is easier to make when the video is watched together, calmly, and early.
+The law will not follow the video, but the family can. Heirs under the old will or the intestacy rules may choose to honor the wishes in a video by agreement, with advice on how to document it and on any tax reporting. That choice is moral, not legal, and it is easier to make when the video is watched together, calmly, and early.
 
 ### If it has already happened: Case 25
 
 *[Case 25: The seed phrase in the will](#Case 25: The seed phrase in the will)*
 
-If you find a recovery phrase in a will, a draft, or a public court file, assume it has been seen. Move the assets, with the executor's authority, to a new wallet as soon as you lawfully can. If you are an executor dealing with digital assets you do not understand, hire someone who does, and keep a written record of everything you authorise them to do.
+If you find a recovery phrase in a will, a draft, or a public court file, assume it has been seen. Move the assets, with the executor's authority, to a new wallet as soon as you lawfully can. If you are an executor dealing with digital assets you do not understand, hire someone who does, and keep a written record of everything you authorize them to do.
 
 ## Appendix M. Case 11, the Technical Notes
 
@@ -379,37 +428,37 @@ These notes carry the detail behind [Case 11](#Case 11: The house for the son wh
 
 ### The transfer-on-death deed, in detail
 
-California offers only one kind: the revocable transfer-on-death deed. By definition it stays revocable until the owner's death, and the owner can revoke it at any time while she has capacity (Probate Code §§ 5614, 5630). There is no irrevocable version. Since 2022 it must be signed by the owner, dated, signed by two witnesses who are present at the same time, and acknowledged before a notary, and it must be recorded with the county recorder on or before 60 days after the date it was notarised, or it has no effect (§§ 5624, 5626). The statutory form is printed in the Probate Code itself (§ 5642), and recording it requires no documentary transfer tax and no preliminary change of ownership report (§ 5656). The county still charges its recording fees, which vary. The whole part of the code that allows these deeds is due to be repealed on 1 January 2032 unless the Legislature extends it (§ 5600).
+California offers only a revocable transfer-on-death deed. It stays revocable until the owner's death, and the owner can revoke it at any time while she has capacity (Probate Code §§ 5614, 5630). Since 2022, it must be signed and dated by the owner, signed by two witnesses present at the same time, acknowledged before a notary, and recorded within 60 days of the notary's date, or it has no effect (§§ 5624, 5626). The statutory form appears in the Probate Code (§ 5642). Recording requires no documentary transfer tax or preliminary change-of-ownership report (§ 5656), though county recording fees vary. The law allowing these deeds is due to be repealed on 1 January 2032 unless the Legislature extends it (§ 5600).
 
-The witness rule was also more subtle than the chat suggested. Anyone generally competent to be a witness may witness the deed, and a deed is not invalid just because an interested person witnessed it. But if a beneficiary of the deed is also a witness, the law presumes that the beneficiary obtained the deed by duress, menace, fraud, or undue influence, and the beneficiary then carries the burden of proving otherwise (§ 5625). So the son should not witness. The daughter could legally witness a deed that gives her nothing, and no presumption would arise; but the lawyer pointed out that the two strongest witnesses are people with no family stake at all, such as neighbours or the notary's colleagues, and that the daughter's signature as a witness might later be read as agreement she never meant to give, or as pressure she never applied. Better to tell her, and let someone else witness.
+The witness rule is more subtle than the chat suggested. Anyone generally competent may witness the deed, and an interested witness does not automatically invalidate it. But if a beneficiary witnesses, the law presumes that the beneficiary obtained the deed by duress, menace, fraud, or undue influence (§ 5625). The beneficiary must rebut that presumption. The daughter could legally witness a deed that gave her nothing, so no presumption would arise. Still, the lawyer recommended two neutral witnesses with no family stake. A family member's signature might later be misread as agreement or evidence of pressure, even if neither was true.
 
 ### The life estate deed, in detail
 
 A life estate deed does what the mother wanted in one sense: she would keep the right to live in the house for life, and her son would receive the remainder, which becomes his now. That is exactly the problem. Once the deed is recorded, the son owns a present interest. The mother cannot undo it without his signature. She cannot sell or refinance the whole house without him. If he is sued, his creditors may be able to reach his remainder. If he remarries and divorces again, his interest will be part of the conversation, even if it is his separate property. If he dies before her, his remainder passes under his own will or to his own heirs, not back to her.
 
-The tax picture is mixed. Giving away the remainder is a gift, and because the son will not enjoy the house until later, it is a gift of a future interest; a federal gift tax return, Form 709, is required for future-interest gifts regardless of their value, although tax is rarely due because of the lifetime exemption. At her death, because she kept the right to live in the house for life, the whole value of the house is included in her estate for federal estate tax purposes (Internal Revenue Code § 2036). That has a good side: property included in the estate generally receives a new income tax basis equal to its value at death (§ 1014). On that point the life estate deed is better than adding the son to the title, which would have passed on her old basis for the half she gave him (Case 7).
+The tax picture is mixed. Giving away the remainder is a gift, and because the son would not enjoy the house until later, it is a future-interest gift. A federal gift tax return (Form 709) is required for every future-interest gift, whatever its value, although tax is rarely due because of the lifetime exemption. At her death, the whole value of the house is included in her estate for federal estate tax purposes because she kept the right to live there for life (Internal Revenue Code § 2036). That has a good side: property included in the estate generally receives a new income-tax basis equal to its value at death (§ 1014). On that point, the life estate deed is better than adding the son to the title, which would pass the half she gave him at her old basis (Case 7).
 
-Property tax works in her favour too, but only so far. Creating a life estate that the owner keeps for herself is not a change in ownership for California property tax purposes; the change happens when the life estate ends and the remainder comes into the son's possession. At that point the parent-child exclusion under Proposition 19 can prevent a full reassessment, but only if the house was her principal residence, he makes it his principal residence and claims the homeowners' or disabled veterans' exemption within one year, and he files the exclusion claim with the county assessor within three years. The exclusion is also capped: the house keeps her taxable value only up to that value plus 1,044,586 dollars for transfers between 16 February 2025 and 15 February 2027 (the figure is adjusted every two years). Above that, the difference is added to the taxable value. The same rules apply when he inherits through a transfer-on-death deed, a trust, or a will.
+Property tax works in her favor, but only so far. Creating a life estate that the owner keeps for herself is not a change in ownership for California property-tax purposes; the change occurs when the life estate ends and the remainder comes into the son's possession. The parent-child exclusion under Proposition 19 can prevent a full reassessment if the house was her principal residence and the son makes it his. He must claim the homeowners' or disabled veterans' exemption within one year and file the exclusion claim with the county assessor within three years. The exclusion is capped: the house keeps her taxable value only up to that value plus $1,044,586 for transfers from 16 February 2025 through 15 February 2027; the figure is adjusted every two years. Any excess is added to the taxable value. The same rules apply if he inherits through a transfer-on-death deed, a trust, or a will.
 
-The chat's "five-year Medicaid look-back" was also wrong for California. Since 1 January 2026, Medi-Cal again counts assets for people aged sixty-five or older, and for long-term care it looks back at transfers made for less than fair value in the 30 months before someone enters a nursing facility; transfers made before 2026 are not counted. A gift of the remainder now could delay coverage if she needed nursing care within that window. Federal Medicaid law does contain narrow exceptions for transferring a home to certain children, including a child who lived in the home for at least two years before the parent entered care and whose care kept the parent at home (42 U.S.C. § 1396p(c)(2)(A)). Paying the mortgage is not the same as providing care. Whether any exception fits is a question for a specialist, with the facts in hand.
+The chat's "five-year Medicaid look-back" was not California's rule, but the transition is more complicated than a single 30-month window. Asset limits returned on 1 January 2026 for certain Medi-Cal programs. For long-term-care transfer reviews, DHCS excludes transfers made from January 2024 through December 2025; transfers made before January 2024 remain subject to review under earlier rules. Starting 1 July 2026, the months reviewed for later transfers increase month by month. As of October 2026, the schedule reaches transfers from January through September 2026. The full 30-month review applies to applications or nursing-facility entries on or after 1 July 2028. A gift of the remainder now could delay coverage, depending on when she applies or enters care. Federal Medicaid law has narrow exceptions for transferring a home to certain children (42 U.S.C. § 1396p(c)(2)(A)). One covers a child who lived in the home for at least two years before the parent entered care and whose care kept the parent at home. Paying the mortgage is not the same as providing care. A specialist should assess whether an exception fits the facts.
 
 ### The mortgage and the due-on-sale clause
 
-Most mortgages contain a due-on-sale clause: if the property is transferred, the lender can demand the whole loan. Federal law limits that. For a home with fewer than five dwelling units, a lender may not enforce the clause on certain transfers, including a transfer to a relative resulting from the borrower's death, a transfer where the borrower's children become an owner, a transfer on the death of a joint tenant, and a transfer into a living trust in which the borrower remains a beneficiary (12 U.S.C. § 1701j-3(d)). The federal regulation adds conditions: the protection for family transfers applies where the person receiving the home occupies or will occupy it, and the trust exception requires that the borrower remains the beneficiary and occupant (12 C.F.R. § 191.5(b)). Because the son lived in the house, a transfer to him, now or at death, fell within those exceptions. He would not need to "assume" the loan for the lender to be prevented from calling it in. After the mother's death, federal servicing rules treat him as a successor in interest, and once the servicer confirms his identity and ownership it must deal with him much like a borrower. He could also apply to assume the loan formally, but that is an option, not the price of keeping the house.
+Most mortgages contain a due-on-sale clause: if the property is transferred, the lender can demand the whole loan. Federal law limits that power for a home with fewer than five units. Protected transfers include one to a relative resulting from the borrower's death, one where the borrower's children become owners, and one on the death of a joint tenant (12 U.S.C. § 1701j-3(d)). A transfer into a living trust is also protected if the borrower remains a beneficiary. Federal regulations add conditions: a family transferee must occupy or plan to occupy the home, and the borrower must remain both beneficiary and occupant for the trust exception (12 C.F.R. § 191.5(b)). Because the son lived in the house, the transfer to him fell within the exceptions. He would not need to "assume" the loan just to prevent the lender from calling it in. After his mother's death, federal servicing rules treat him as a successor in interest. Once the servicer confirms his identity and ownership, it must deal with him much like a borrower. He could also apply to assume the loan formally, but that is an option, not the price of keeping the house.
 
 ### The home equity investment, in detail
 
-This was the part nobody had thought about. The lawyer pulled the recorded documents and the contract. The company's interest was secured against the house, and the contract required repayment of the company's share when the house was sold, when the owner died, or when the term ended, and treated other transfers of title as events that needed the company's written consent or triggered settlement. No deed, of any kind, makes that obligation go away. A life estate deed recorded now might itself count as a transfer under the contract. A transfer-on-death deed transfers nothing until death, but the death would be a settlement event in any case. So whatever deed the mother chose, the son would one day have to pay the company its share, by refinancing, by using savings, or by selling. There would be no "assumption agreement" for the son to sign; there would be a bill.
+This was the part nobody had considered. The lawyer pulled the recorded documents and reviewed the contract. The company's interest was secured against the house. The contract required repayment of the company's share when the house was sold, when the owner died, or when the term ended. Other title transfers required the company's written consent or triggered settlement. No deed makes that obligation disappear. A life estate deed recorded now might itself count as a transfer under the contract. A transfer-on-death deed transfers nothing until death, but death would trigger settlement anyway. Whatever deed the mother chose, the son would eventually have to pay the company's share by refinancing, using savings, or selling. There would be no "assumption agreement" for him to sign; there would be a bill.
 
 ### Questions to ask before you sign a deed for one child
 
 - [ ] Do I want my child to own something now, or only at my death? Can I live with needing their signature to sell or refinance?
-- [ ] Who will witness the deed? Is either witness a beneficiary? Will it be notarised and recorded within 60 days of the notary's date?
+- [ ] Who will witness the deed? Is either witness a beneficiary? Will it be notarized and recorded within 60 days of the notary's date?
 - [ ] What does my mortgage say about transfers, and does my situation fit the federal exceptions (a child who lives in the home, a living trust in which I stay the beneficiary and occupant)? Have I asked the servicer in writing?
 - [ ] Is there a home equity investment, reverse mortgage, or other agreement recorded against the house? What does it say about transfers, consent, and settlement at death? Have I asked the company in writing, and kept the answer?
 - [ ] Have my child's payments been written down: rent, loan, or advance on inheritance? Is there a signed agreement?
 - [ ] Will my child make the house their principal residence, so the parent-child property tax exclusion can apply, and is the value under the current limit?
-- [ ] Could I need nursing care in the next 30 months? Have I asked a Medi-Cal specialist before giving away any interest?
+- [ ] Before giving away any interest, have I asked a Medi-Cal specialist how the current asset rules and phased transfer-review schedule would apply to my situation?
 - [ ] Is a gift tax return needed (any future-interest gift, or a present gift over the annual exclusion)?
 - [ ] Have I told my other children, and does my will say the same thing as the deed or trust?
 
@@ -424,13 +473,14 @@ All sources were consulted in October 2026. Statute section numbers are given in
 - California Penal Code § 632.
 - California Probate Code §§ 5600 (repeal on 1 January 2032), 5614 and 5630 (revocable until death; revocation), 5624 (signature, two witnesses, notary), 5625 (witnesses; presumption where a beneficiary is a subscribing witness), 5626 (recording on or before 60 days after notarial acknowledgment), 5642 (statutory form), 5656 (no documentary transfer tax or preliminary change of ownership report on recording; change in ownership at death); § 21700 (contracts to make a will or devise).
 - California State Board of Equalization: Property Tax Rule 462.040 (joint tenancies), Rule 462.060 (life estates), Rule 462.520 (Proposition 19 intergenerational transfer exclusion); Proposition 19 Fact Sheet (Publication 801) and Proposition 19 pages (boe.ca.gov/prop19), including the value limit of 1,044,586 dollars for transfers from 16 February 2025 to 15 February 2027; Letter to Assessors on revocable TOD deeds and property tax.
-- California Department of Health Care Services: Medi-Cal Asset Limit Frequently Asked Questions (dhcs.ca.gov), including the 30-month look-back for long-term care for transfers on or after 1 January 2026.
-- Judicial Council of California, California Courts Self-Help Guide: "When formal probate may not be needed" (selfhelp.courts.ca.gov/probate/simple-transfer), including the small-estate limits for deaths on or after 1 April 2025 and the note on Assembly Bill 2016; "Small estate affidavit to transfer personal property"; "Wills, estates, and advance care planning"; California Statutory Will form (Probate Code § 6240).
+- California Department of Health Care Services: Medi-Cal Asset Limit Frequently Asked Questions (dhcs.ca.gov); All County Welfare Directors Letter 25-18 (9 October 2025), including the phased long-term-care transfer-review schedule and full 30-month review beginning 1 July 2028.
+- Judicial Council of California, California Courts Self-Help Guide: "When formal probate may not be needed" (selfhelp.courts.ca.gov/probate/simple-transfer), including the small-estate limits for deaths on or after 1 April 2025 and the note on Assembly Bill 2016; "Small estate affidavit to transfer personal property"; "Overview of formal probate" (selfhelp.courts.ca.gov/pa/node/1432); "Estate representative" and "Letters" (DE-150); "Wills, estates, and advance care planning"; California Statutory Will form (Probate Code § 6240).
 - California Secretary of State, Advance Health Care Directive Registry (sos.ca.gov/registries/advance-health-care-directive-registry).
 - California State Controller's Office: California Estate Tax (sco.ca.gov/ardtax_estate_tax.html); About Unclaimed Property.
 
 ### United States (federal)
 
+- Federal Trade Commission, [Funeral Industry Practices Rule](https://www.ftc.gov/legal-library/browse/rules/funeral-industry-practices-rule), 16 C.F.R. Part 453 (General Price List, itemized prices, and consumer selection rights).
 - Internal Revenue Service: Frequently asked questions on estate taxes; Frequently asked questions on gift taxes; Instructions for Form 706 (Rev. July 2026); 2026 Instructions for Form 709; Publication 551, Basis of Assets; Publication 590-B, Distributions from Individual Retirement Arrangements.
 - 26 U.S.C. § 1014 (basis of property acquired from a decedent, including (b)(9) for property included in the gross estate).
 - U.S. Supreme Court, 532 U.S. 141 (2001) (federal retirement-plan law displaces a state rule revoking a former spouse's designation).
@@ -454,7 +504,7 @@ All sources were consulted in October 2026. Statute section numbers are given in
 
 ### Germany
 
-- Bürgerliches Gesetzbuch (BGB), via Gesetze im Internet (gesetze-im-internet.de), Federal Ministry of Justice: §§ 311b, 331, 430, 753, 1358, 1975, 1371, 1643, 1782, 1783, 1814, 1820, 1827, 1922, 1924, 1925, 1931, 1936, 1944, 1967, 2042, 2048, 2057a, 2064, 2077, 2087, 2174, 2197, 2229, 2231, 2232, 2233, 2247, 2248, 2249, 2250, 2252, 2253, 2255, 2256, 2259, 2265, 2267, 2269, 2270, 2271, 2276, 2287, 2296, 2303, 2316, 2325, 2333, 2346, 2348, 2353.
+- Bürgerliches Gesetzbuch (BGB), via Gesetze im Internet (gesetze-im-internet.de), Federal Ministry of Justice: §§ 311b, 331, 430, 753, 1358, 1975, 1371, 1643, 1782, 1783, 1814, 1820, 1827, 1922, 1924, 1925, 1931, 1936, 1944, 1945, 1967, 2032, 2042, 2048, 2057a, 2064, 2077, 2087, 2174, 2197, 2202, 2229, 2231, 2232, 2233, 2247, 2248, 2249, 2250, 2252, 2253, 2255, 2256, 2259, 2265, 2267, 2269, 2270, 2271, 2276, 2287, 2296, 2303, 2316, 2325, 2333, 2346, 2348, 2353. German Justice Services: "Refusing an inheritance" (service.justiz.de/erbausschlagung) and "Apply for an Erbschein" (service.justiz.de/erbschein), including filing formalities and proof requirements.
 - Erbschaftsteuer- und Schenkungsteuergesetz (ErbStG) §§ 2, 14, 16, 30.
 - Versicherungsvertragsgesetz (VVG) §§ 159, 160.
 - Gerichts- und Notarkostengesetz (GNotKG), fee schedule no. 12100.
@@ -469,13 +519,18 @@ All sources were consulted in October 2026. Statute section numbers are given in
 
 ### European Union
 
-- Regulation (EU) No 650/2012 (Succession Regulation), Articles 21, 22, 35, 69, and 83, via EUR-Lex.
+- Regulation (EU) No 650/2012 (Succession Regulation), Articles 21, 22, 35, 36, 69, and 83, via EUR-Lex.
 - Regulation (EU) 2016/679 (General Data Protection Regulation), Article 2(2)(c), via EUR-Lex.
+
+### Publishing platforms
+
+- Amazon Kindle Direct Publishing Help, “Manage Your KDP Account” (procedure for a deceased author's representative to request account access).
+- YouTube Help, “Change channel owners & managers with a Brand Account” (owner and manager roles; ownership changes).
 
 ### Other countries (Chapter 40)
 
 - United States: Internal Revenue Service, Publication 555, Community Property (list of community property states).
-- United Kingdom: UK government guidance, "Making a will: make sure your will is legal" and "Update your will", and "How Inheritance Tax works: thresholds, rules and allowances"; Office of the Public Guardian, "Make, register or end a lasting power of attorney" and its guide to making a lasting power of attorney; Scottish Government guidance, "Create a will" (legal rights in Scotland); Wills Act 1837, sections 9, 15, 18 and 18B, and the Inheritance (Provision for Family and Dependants) Act 1975, on the official UK legislation website.
-- Canada: Canada Revenue Agency, "Prepare tax returns for someone who died" (deemed disposition and the final return); Gouvernement du Québec, "Notarial will" and the pages on the forms of will; Government of Ontario, "Make a power of attorney" and the Substitute Decisions Act, 1992.
-- Australia: Moneysmart (Australian Securities and Investments Commission), "Who gets your super if you die"; Australian Taxation Office, deceased estates and superannuation death benefits pages; NSW Legal Aid, "Family provision claims", and the Succession Act 2006 (NSW).
-
+- United Kingdom: [GOV.UK, Making a will](https://www.gov.uk/make-will) (England and Wales; the page links to separate Scotland and Northern Ireland guidance); [Office of the Public Guardian, lasting powers of attorney](https://www.gov.uk/power-of-attorney); Scottish Government guidance, "Create a will" (legal rights in Scotland); Wills Act 1837, sections 9, 15, 18 and 18B, and the Inheritance (Provision for Family and Dependants) Act 1975, on the official UK legislation website.
+- Canada: Canada Revenue Agency, [Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html) (final return and tax administration); Gouvernement du Québec, "Notarial will" and the pages on the forms of will; Government of Ontario, "Make a power of attorney" and the Substitute Decisions Act, 1992. For probate and will formalities, consult the court and legislation for the relevant province or territory.
+- Australia: Moneysmart (Australian Securities and Investments Commission), [Who gets your super if you die](https://moneysmart.gov.au/how-super-works/who-gets-your-super-if-you-die); Australian Taxation Office, deceased estates and superannuation death benefits pages; NSW Legal Aid, "Family provision claims," and the Succession Act 2006 (NSW). For other questions, use the relevant state or territory court and government sources.
+- New Zealand: New Zealand Legislation, Wills Act 2007, Family Protection Act 1955, and Law Reform (Testamentary Promises) Act 1949; [New Zealand Government, Wills, probate and estates](https://www.govt.nz/browse/family-and-whanau/death-and-bereavement/wills-probate-estates/); [Ministry of Justice, Probate information and guidance](https://www.justice.govt.nz/courts/high-court/probate-information-and-guidance/); Inland Revenue, "Estates" and guidance on final returns for someone who has died.

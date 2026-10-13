@@ -1,6 +1,6 @@
 # Appendices
 
-*The appendices are working pages. Print them, fill them in, and keep them with your Family List. Educational material, not legal advice.*
+*The appendices are working pages. Print them, use an accessible digital copy, or complete them another way that works for you. You can dictate answers, use AAC, take breaks, or ask someone to write your words as you give them; check that the record says what you meant. Keep completed pages with your Family List. Educational material, not legal advice.*
 
 ## Appendix A. Your To-Do List: Now, This Month, This Year
 
@@ -20,13 +20,17 @@ Tick each box when done. Write the date beside it. Chapter references show where
 ### This month
 
 - [ ] Book an appointment with a lawyer (California) or notary (Germany), or decide which official form you will use. (Chapters 9, 11)
-- [ ] Sign a will that is valid where you live. Store the original where it will be found: with your lawyer, or in official custody in Germany. (Chapter 11, Case 15)
-- [ ] Sign a financial power of attorney. Register it where registration exists (Germany: Central Register of Lasting Powers of Attorney). (Chapter 20)
-- [ ] Sign a healthcare directive. Fill in Appendix F first. Give copies to your agent and doctor. (Chapter 21)
+- [ ] Make and sign a will using local professional advice or an official form that fits your situation; follow its signing instructions exactly. Store the original where it will be found: with your lawyer, or in official custody in Germany. (Chapter 11, Case 15)
+- [ ] Prepare and sign a financial power of attorney using a current form valid where you live and following its local signing rules. Ask a lawyer or notary if unsure. Register it where registration exists (Germany: Central Register of Lasting Powers of Attorney). (Chapter 20)
+- [ ] Prepare and sign a healthcare directive using the current local form and signing rules. Fill in Appendix F first; give copies to your agent and doctor. (Chapter 21)
 - [ ] Request written confirmation of every beneficiary designation. Update any that are wrong. Name contingent beneficiaries. (Chapter 12, Appendix D)
 - [ ] Complete the Family List: accounts, insurance, pensions, property, debts, subscriptions, digital accounts, contacts. (Chapter 23, Appendix C)
+- [ ] Record funeral, disposition, and ceremony preferences; mark what is essential and what your family may decide. (Appendix C, Section 14)
+- [ ] Add each published book, channel, or other creative work to the Family List, and make its creator handoff note. (Chapter 30, Appendix C)
+- [ ] Choose one story, skill, recipe, or work to pass on. Ask a relative to help record or write it. Start small. (Chapters 27, 28, 30)
+- [ ] If you want a neighbor involved in an emergency plan, fill in the optional card and ask whether they are willing to help. (Chapter 23, Appendix C, Section 15)
 - [ ] Set up a password manager with emergency access for a trusted person. Test it with them. (Chapter 24)
-- [ ] Put device passcodes and the vault's master key in a sealed envelope stored with your will. (Chapter 24)
+- [ ] Put device passcodes and the vault's master key in a sealed envelope kept securely apart from your will; record its location and authorized person on your Family List. (Chapter 24)
 - [ ] Turn on legacy-contact or inactive-account settings on your phone, email, photo, and cloud accounts. (Chapters 24, 30)
 - [ ] Record three testament-style messages: one general, and one each for the two people most likely to look for one. (Chapter 28)
 - [ ] Fill in the recording permission sheet. (Appendix H)
@@ -37,13 +41,13 @@ Tick each box when done. Write the date beside it. Chapter references show where
 - [ ] Start a video or audio diary: weekly, five minutes. (Chapter 29)
 - [ ] Write an ethical will. Two pages. (Chapter 33)
 - [ ] Write letters for anyone who should receive one, including letters for future occasions. (Chapter 34)
-- [ ] Write a letter beside the will to explain any unequal gift. Show it to your lawyer. (Chapter 34)
-- [ ] Organise recordings into folders, name every file, and write the index. (Chapter 30)
+- [ ] If gifts are unequal, check the full picture (including lifetime gifts and assets passing outside the will); explain the reasons without blame or pressure, and show the letter to your lawyer. (Chapter 34)
+- [ ] Organize recordings into folders, name every file, and write the index. (Chapter 30)
 - [ ] Set up three copies of the recordings, on two kinds of storage, with one away from home. Give your archive-keeper a drive. (Chapter 30)
 - [ ] Write a README for each unfinished project. (Chapter 36)
 - [ ] Review joint titles and accounts. Remove convenience joint ownership where a power of attorney would serve better, with advice. (Chapter 14, Cases 3 and 7)
 - [ ] If you own real estate in more than one state or country, ask about a trust or a coordinated cross-border plan. (Chapters 19, 39)
-- [ ] If you plan to leave your home to one child, especially one who pays towards it: put the child's payments in a signed agreement, and before recording any deed, ask your mortgage servicer and any home equity investor in writing what the deed would trigger. (Case 11)
+- [ ] If you plan to leave your home to one child, especially one who pays toward it: put the child's payments in a signed agreement, and before recording any deed, ask your mortgage servicer and any home equity investor in writing what the deed would trigger. (Case 11)
 - [ ] If you have a business, write an emergency plan and check the partnership or shareholder agreement. (Chapters 18, 36)
 - [ ] Fill in the guardian brief if you have minor children. (Appendix E)
 
@@ -52,9 +56,13 @@ Tick each box when done. Write the date beside it. Chapter references show where
 Choose a fixed date (tax season or your birthday) and do these:
 
 - [ ] Update the Family List. Date every page.
+- [ ] Review your list of published works, handoff notes, account-recovery instructions, and any wishes for keeping, updating, or continuing them. (Chapter 30, Appendix C)
+- [ ] Confirm that your archive-keeper and a backup, and your creator steward and a backup, are still willing and able to help. (Chapter 30, 36)
+- [ ] If you share a neighbor emergency card, confirm the neighbor still agrees and update or retrieve the card if anything changed. (Appendix C, Section 15)
 - [ ] Check every beneficiary designation.
 - [ ] Copy new recordings into the archive; update the index; check old files still open.
-- [ ] Replace or recopy backup drives older than about five years.
+- [ ] Test restoring a backup and compare file-integrity checksums for long-term collections.
+- [ ] Review older backup drives carefully; replace them if they are aging, failing, or unsupported. Keep the old copy until a new backup has been verified.
 - [ ] Re-read your will, powers of attorney, and healthcare directive. Do they still say what you want?
 - [ ] Check that the people you named are still able and willing.
 
@@ -76,9 +84,9 @@ For the people left behind. Keep this with the Family List. Chapter 37 explains 
 
 ### The first 48 hours
 
-- [ ] Obtain the medical certification of death (doctor, hospital, or coroner).
+- [ ] Arrange the medical certification and official registration of the death under the local process (for example, through a doctor, hospital, coroner, funeral director, or registry office).
 - [ ] Check the Family List and healthcare directive for wishes on organ donation, burial or cremation, and religious rites.
-- [ ] Contact a funeral home. Ask them to register the death and order several certified death certificates.
+- [ ] Contact a funeral home. Ask who is responsible for registering the death and how to obtain certified copies; order enough for the institutions that require them.
 - [ ] Secure the home and car. Remove valuables from plain view.
 - [ ] Care for pets.
 - [ ] Tell close family and the people on the first page of the Family List.
@@ -90,7 +98,7 @@ For the people left behind. Keep this with the Family List. Chapter 37 explains 
 - [ ] Arrange the funeral. Keep every receipt.
 - [ ] Notify the employer, if the person was working.
 - [ ] Contact the lawyer or notary named on the Family List.
-- [ ] California: deliver the original will to the superior court clerk within 30 days (Probate Code § 8200), or give it to the lawyer to do so.
+- [ ] California: the will's custodian must deliver the original to the superior court clerk within 30 days after learning of the death (Probate Code § 8200), unless a probate petition has already been filed; ask the lawyer to handle it if needed.
 - [ ] Germany: deliver any will not in official custody to the probate court without delay (BGB § 2259).
 - [ ] Arrange mail forwarding or collection.
 - [ ] Back up the deceased's phone, computer, photos, and recordings, if you can access them, before changing anything.
@@ -99,9 +107,11 @@ For the people left behind. Keep this with the Family List. Chapter 37 explains 
 
 - [ ] Notify Social Security (US) or the statutory pension insurer (Germany), and any employer or private pension.
 - [ ] Notify life insurers; request claim forms. Notify banks and brokers.
-- [ ] Germany: decide within six weeks of learning of the inheritance whether to accept or disclaim it, especially if there may be debts (BGB § 1944). Take advice if unsure.
-- [ ] California: check whether the estate qualifies for a small-estate procedure (Chapter 17). The personal property affidavit can be used after 40 days.
-- [ ] If probate (California) or a certificate of inheritance (Germany) is needed, start the application.
+- [ ] Germany: promptly confirm whether you intend to accept or disclaim. The usual disclaimer deadline is six weeks, but the start date and exceptions matter. A letter or email is not enough: contact the probate court or a notary at once about the formal declaration (BGB §§ 1944–1945). Ask about consequences for children or other next heirs.
+- [ ] Germany: if there are co-heirs, confirm who must act together and whether a *Testamentsvollstrecker* is appointed. Ask each institution what proof it accepts; an *Erbschein* is not always required.
+- [ ] California: check the current court instructions to see whether the property qualifies for a simplified procedure. The $208,850 limit applies to qualifying property under statutory rules, not simply to personal property; the separate primary-residence petition has its own requirements. The personal-property affidavit generally cannot be used until 40 days after death.
+- [ ] California: if formal probate is needed, review the court's steps for petition, notice, hearing, appointment and Letters, inventory and appraisal, creditor claims, taxes, and final accounting/distribution. Use the county court's self-help resources or consult a probate lawyer.
+- [ ] If an *Erbschein* or California Letters are needed, begin asking the court and institutions what is required and how long it may take.
 - [ ] Start the inventory: list assets and debts, using the Family List.
 - [ ] Use the password manager's emergency access and any legacy-contact settings. Export photos, recordings, documents, and contacts.
 - [ ] Cancel subscriptions that are clearly no longer needed. Keep cloud storage until everything is downloaded.
@@ -120,6 +130,19 @@ For the people left behind. Keep this with the Family List. Chapter 37 explains 
 - [ ] Postpone big decisions (selling the house, moving) for some months if you can.
 - [ ] Talk to someone. In the US, call or text 988 if you are in crisis. In Germany, the Telefonseelsorge answers around the clock at 0800 111 0 111 and 0800 111 0 222.
 
+### Executor's running log
+
+Start this when you begin handling the estate. Keep it with the estate records. Make a copy of this entry for each contact, decision, payment, or item moved. Follow any formal accounting requirements that apply where the estate is administered.
+
+- **Date and time:** ______
+- **Action / person or institution contacted:** ______
+- **Authority or reason for the action:** ______
+- **Amount and account used, if any:** ______
+- **What was agreed, decided, or received:** ______
+- **Next step and deadline:** ______
+- **Receipt, email, or document stored at:** ______
+- **Completed by:** ______
+
 ## Appendix C. The "In Case of Emergency" Binder Checklist
 
 Use this as the table of contents for a binder (paper) or a folder (digital, encrypted). Fill in one section at a time. Date every page. Never write passwords in plain text; Section 12 says where they are.
@@ -133,6 +156,9 @@ Use this as the table of contents for a binder (paper) or a folder (digital, enc
 - **Executor / heirs:** Name, phone, email
 - **Agent under power of attorney:** Name, phone, email
 - **Healthcare agent:** Name, phone, email
+- **My communication and access preferences:** language(s), script, AAC or interpreter, extra response time, mobility, sensory, or reading support; where needed aids are: ______
+- **For each person receiving the handoff:** preferred language and format; interpreter or translator contact if needed: ______
+- **Translated copies:** document / language / location / translator / reviewed or certified if required: ______
 - **Archive-keeper (recordings, letters):** Name, phone, email
 - **Lawyer / notary:** Name, firm, phone
 - **Tax adviser:** Name, phone
@@ -255,7 +281,7 @@ For each item, note:
 - Service: ______
 - Username / email: ______
 - Legacy setting on? (who): ______
-- Instruction (keep / download / memorialise / delete): ______
+- Instruction (keep / download / memorialize / delete): ______
 
 Access (no passwords here):
 
@@ -266,30 +292,71 @@ Access (no passwords here):
 
 ### Section 13. Key contacts
 
-- **Lawyer / notary.** 
-- **Tax adviser.** 
-- **Financial adviser.** 
-- **Insurance agent.** 
-- **Doctor.** 
-- **Employer HR.** 
-- **Friend who knows things.** 
+- **Lawyer / notary:** name, firm, phone, email: ______
+- **Tax adviser:** name, firm, phone, email: ______
+- **Financial adviser:** name, firm, phone, email: ______
+- **Insurance agent:** name, company, phone, email: ______
+- **Doctor:** name, practice, phone, email: ______
+- **Employer HR:** contact, phone, email: ______
+- **Friend who knows things:** name, phone, email: ______
+- **Interpreter or translator** (languages; independent professional for legal matters, if needed): ______
 
 ### Section 14. Wishes and the meaning archive
 
-- **Funeral / burial / cremation wishes:** ______
+- **Disposition preference** (burial / cremation / donation / other / undecided): ______
+- **Funeral or memorial provider / prearrangement details and location:** ______
+- **Budget or spending limit, if any:** ______
+- **Price list / estimate location; separate cemetery or crematory charges to ask about:** ______
+- **Ceremony or gathering** (body present / separate memorial / private / other): ______
+- **Must-haves; what the family may choose:** ______
+- **If buried: grave or memorial wishes** (marker, flowers or planting, upkeep, visits, or "let it be"); how would you rather have your legacy honored and carried forward? ______
+- **Faith, cultural, spiritual, language, or naming practices to honor:** ______
+- **Accessibility, sensory, mobility, or other accommodations:** ______
+- **Environmental preferences or questions to discuss locally:** ______
+- **People to invite / people not to contact:** ______
 - **Organ donation:** ______
-- **People to inform:** ______
+- **Other people to inform:** ______
 - **Pets and who takes them:** ______
 - **Ethical will and letters are at:** ______
 - **Recordings are at (all copies):** ______
-- **Recording index is at:** ______
-- **Permission sheet is at:** ______
+- **Recording index / metadata notes are at:** ______
+- **Photo originals, unedited scan masters, and captions are at:** ______
+- **Permission, consent, rights, and restriction records are at:** ______
+- **Creative works, fiction and nonfiction:** titles and platforms; creator handoff note is at: ______ (Chapter 30)
+- **For each work:** rights owner / agreement location: ______; source files: ______; audience (family / community / public): ______
+- **My permission for successors:** keep / update / adapt / continue / license / remove: ______
+- **For fiction, preserve the original unchanged? Who decides about adaptations or continuation?** ______
+- **First / backup archive-keeper:** ______ / ______ (asked on: ______)
+- **First / backup creator steward:** ______ / ______ (asked on: ______)
+- **If no one continues my work, I want:** leave it / archive privately / offer it elsewhere / stop / other: ______
+- **Where my original drafts and editable source files are:** ______
+
+These are instructions for your family, not a demand that they reproduce every detail. Mark each preference as firm or flexible, and say where this page is kept. Laws, available options, and provider practices vary by location.
+
+### Section 15. Optional neighbor check-in and emergency card
+
+Fill this in only if you want a neighbor to have the information. Discuss the plan first and give the card directly to a neighbor who agrees to help. Do not post it where visitors or passers-by can read it. Leave out passwords, entry codes, account details, and medical information you do not want to share. Keep the full Family List private.
+
+- **Address / apartment or unit:** ______
+- **People living here and the names they use:** ______
+- **Communication or access needs I choose to share:** ______
+- **Neighbor who has agreed to help / best way to reach them:** ______
+- **Primary emergency contact / relationship / phone:** ______
+- **Backup contact / relationship / phone:** ______
+- **Optional check-in plan** (day/time; if I do not respond, please: ______): ______
+- **What help I welcome / what I do not want you to do:** ______
+- **Pets and the person to contact about them:** ______
+- **Authorized keyholder and contact** (do not write a door or alarm code): ______
+- **Other emergency plan or supplies location I choose to share:** ______
+- **Card shared with / date / next review:** ______
+
+If you believe someone is in immediate danger, call local emergency services and follow their instructions; do not delay to find this card. This optional plan supplements, but does not replace, emergency services or formal healthcare and legal arrangements.
 
 ### Storage and update record
 
-- **Paper binder.** 
-- **Digital (encrypted).** 
-- **Copy with executor / lawyer.** 
+- **Paper binder:** location, person who can retrieve it, last review date: ______
+- **Digital (encrypted):** storage location, authorized access route, last review date: ______
+- **Copy with executor / lawyer:** holder, contact details, last review date: ______
 
 ### A filled example (excerpt)
 
