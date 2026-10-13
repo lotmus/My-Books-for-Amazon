@@ -1,13 +1,10 @@
-# Book 3 outline v1 (working title: Scally and the Listening Hill)
+# Book 3 outline v1: Scally and the Hill with the Hanging Socks
 
 The Step Stories, Book 3, by Anneliese Tauber. Written 12 Oct 2026 from Lothar's notes. Everything here can change; items marked (ASK) need Lothar's decision.
 
 ## Title options (all follow "Scally and the ...")
-1. Scally and the Listening Hill (working title; the hill "listens" with echoes, and Book 3 is about listening)
-2. Scally and the Sleeping Wings
-3. Scally and the Hill of Echoes
-
-The earlier "Silent Hill" idea does not fit well: the hill is quiet only because the bats are asleep.
+**Chosen by Lothar, 12 Oct 2026: Scally and the Hill with the Hanging Socks** (the sleeping bats hang upside down like socks on a line; the title never says "bats", so the reveal in chapter 4 is a joke the readers share with the children).
+Dropped options: Scally and the Listening Hill, Scally and the Sleeping Wings, Scally and the Hill of Echoes, Scally and the Hill That Went Click.
 
 ## Season and time span
 First frost in November to the first warm evening in April. The pregnancy starts early in the book and ends with the birth in the Night of the Big Snow. Winter is the quiet half of the book, spring the loud half. Bats hibernate in winter and wake in spring, so the plot and the science follow the same calendar.
@@ -27,6 +24,8 @@ First frost in November to the first warm evening in April. The pregnancy starts
 - **Someone else pregnant:** Hal's mother. Dr Liang finds out at the scan lesson (chapter 7); Hal is told at the end of the book and has to get used to no longer being the only child, which mirrors what Pip goes through.
 
 ## Spine
+**Pregnancy book, then baby book (Lothar, 12 Oct 2026):** Book 3 is the pregnancy book (waiting, the scan, the secret, ending with Biscuit's birth in the last chapters); Book 4 is the baby book (newborn weeks, sleepless nights, safe baby habits, the naming feast, the redhead arrives). Pending Lothar's confirmation of the split.
+
 A mystery in the hill, a conflict with the Mayor, and a winter storm that needs the doctor. The mystery: Gucci howls at sounds nobody else can hear, and the hill "clicks" at night. It turns out to be a huge roost of hibernating bats in the cave, which the Mayor plans to seal up for his new cheese store. The children must prove the bats are there by looking, counting and testing, not by shouting. In the middle of that, the big snow arrives and Titch's mother goes into labour while Dr Liang is out at a hill farm.
 
 ## Chapters (11, about 14,000 words, about 80 pictures)
@@ -56,7 +55,7 @@ Never touch a bat or any wild animal that seems tame or hurt, and tell a grown-u
 - Docx is the working master, EPUB the upload; file names carry the version; no tables, no PDFs.
 
 ## Open questions (ASK)
-1. Title: pick one of the three, or another.
+1. (Decided: Scally and the Hill with the Hanging Socks.) Sock gags to place: Pip hangs the washing out to dry in the frost and the socks freeze stiff; the children first describe the bats as "socks hanging in a row"; Scally's lost socks.
 2. (Decided: a boy, nicknamed Biscuit by Pip.) What is his real name, the quieter one his parents give him?
 3. (Decided by Lothar: we do not need to explain it; show it only where it makes the story better, and then lightly.) The scan lesson stays as a gentle picture, with no medical detail.
 4. Should Hal's mother's pregnancy be hinted from chapter 1 or a surprise? (Suggested: hinted.)
