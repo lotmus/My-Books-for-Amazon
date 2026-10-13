@@ -216,7 +216,7 @@ Only then did he look up at the room the photograph had already described. The B
 
 It was now nine twenty. The label was still right, technically. The murder was booked for tomorrow.
 
-Derek was thirty-eight, greying at the temples in a way he found more alarming than the email, and built like a man who had once been reasonably athletic and had since made his peace with filing cabinets. He had a habit, under stress, of straightening things that were already straight. He straightened the stapler now. Then he got up to straighten his grandfather, whose frame had had no glass in it since last Thursday, when Trevor’s elbow had found it, and the movement sent the familiar hot wire down the left side of his back, and he stood still with one hand on the desk until it passed.
+Derek was thirty-eight, greying at the temples in a way he found more alarming than the email, and built like a man who had once been reasonably athletic and had since made his peace with filing cabinets. He had a habit, under stress, of straightening things that were already straight. He straightened the stapler now. Then he got up to straighten his grandfather, whose frame had been without glass since last Thursday, when Trevor’s elbow had found it. The movement sent the familiar hot wire down the left side of his back; he stood still with one hand on the desk until it passed.
 
 “Is that the back?” said Trevor from across the room.
 
@@ -672,9 +672,9 @@ Rule: If the algebra demands v > c, the premise is the suspect, not the universe
 
 At a quarter to twelve, Munich time, Alfred Weinstein was sitting in a patent attorney’s office in Schwabing, being bored on purpose. The call to London had improved his morning. The mechanical regulator now in front of him was attempting to undo that improvement.
 
-He was in his early fifties, compact and faintly stooped from a lifetime of leaning over desks that were never the right height, and his hair had gone grey-white early and stayed undisciplined since. He wore the same jacket in every weather, on the stated grounds that changing it more than once a season introduced an unnecessary variable. At nineteen he had wanted to be a physicist. At twenty-three Herbert Mathkowski had told him, kindly, that he would make a superb one if he ever finished anything, and Weinstein had become instead a patent attorney, which was a profession that paid you to read other people’s unfinished things. He was, by common consent, the only patent attorney in Bavaria who could read a spacetime metric, and the Bureau in London kept him on its books as its consulting physicist, which pleased him more than he would admit.
+He was in his early fifties, compact and faintly stooped, his grey-white hair beyond advice. He wore the same jacket in every weather; changing it more than once a season introduced an unnecessary variable. At nineteen he had wanted to be a physicist. At twenty-three Herbert Mathkowski told him he would make a superb one if he ever finished anything. Weinstein became a patent attorney instead, a profession that paid him to read other people's unfinished work. He was the only patent attorney in Bavaria who could read a spacetime metric, and London kept him on as its consulting physicist.
 
-The firm’s senior partner was explaining an application for an improved mechanical regulator. Weinstein had followed the first two minutes. The third had been optimistic. The fourth had involved a spring. The fifth had involved the spring behaving in a way Weinstein considered personally insulting.
+The firm's senior partner was explaining an improved mechanical regulator. Weinstein followed the first two minutes. The third was optimistic; the fourth involved a spring; by the fifth, the spring had made it personal.
 
 “It won’t do that,” he said.
 
@@ -3982,7 +3982,7 @@ Answer: a physical multiverse. Several different physics programmes share that h
 
 Drill 3. English into German can preserve meaning, with a human judging what “survives.” Why is a coordinate change stricter than that?
 
-Answer: it is an exact, invertible map, not a judgement call.
+Answer: it is an exact, invertible map between coordinate charts where they overlap, not a judgement call.
 
 Drill 4. Penny types: Reality should survive a change of stationery. Correct her without killing the idea.
 

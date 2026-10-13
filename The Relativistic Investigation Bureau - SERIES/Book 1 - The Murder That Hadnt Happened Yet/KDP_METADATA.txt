@@ -4,8 +4,7 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Updated 10 Oct 2026 (PT): categories, keywords and three blurb lines revised; see notes in each section. Earlier update 3 Oct 2026 (PT). The manuscript is about 62,700 words: story about
-47,900 and course about 14,800 (REV10, revised, grown, line-edited and structurally revised 3 Oct). Every field except one is now filled and checked against the book.
+[Updated 13 Oct 2026 (PT): categories, keywords, blurb and age guidance reviewed. Current release master REV14 contains 62,625 words; active line-edit draft REV15 contains 62,619. Listing copy checked against REV15. Every field except one is now filled and checked against the book.
 The one left open is the RELEASE DATE; only Lothar decides that. The AUTHOR
 NAME was decided on 2 Oct 2026 (see below). Website and newsletter lines are marked OPTIONAL: KDP does not
 require them. Price, categories and keywords are a ready-to-paste proposal;
@@ -70,10 +69,10 @@ physics mystery novel, einstein relativity fiction, funny british detective agen
 
 ================================================================================
 KINDLE BLURB (Book Description for KDP Store Page)
-[About 290 words, under KDP's 4,000-character limit. COPY EXACTLY.]
+[About 320 words, under KDP's 4,000-character limit. COPY EXACTLY.]
 ================================================================================
 
-[Same text as kdp_description.docx (checked 1 Oct 2026; three accuracy edits 10 Oct 2026: no "doom her" since the daughter is never in danger, the photo shows a clock rather than a timestamp, and the story needs no equations). That file now holds
+[Same text as kdp_description.docx (checked 13 Oct 2026; three accuracy edits 10 Oct 2026; age guidance added 13 Oct 2026: no "doom her" since the daughter is never in danger, the photo shows a clock rather than a timestamp, and the story needs no equations). That file now holds
 only the sales description; its old title/byline/"ABOUT THE BOOK" header lines
 were removed. Checked against the book: 9:17 email, 11:03 timestamp, Sophie
 twelve, Penny/Trevor/Barbarian, the cucumber. All true to Chapter 1 onward.
@@ -91,11 +90,13 @@ The paperwork, unfortunately, does not.
 
 Derek has until tomorrow morning to find out who — or what — filed his own death. Special relativity can't explain it. General relativity can't either. And the deeper he digs with his sharp-tongued cousin Penny, his hyper-literal colleague Trevor, and a physicist who insists time itself might not be fundamental, the more it looks like reality itself has made a filing error — one that may have already decided whether his daughter walks through that doorway.
 
-For readers who loved the "wait, WHAT" of Arrival or Tenet, but wanted it funnier, more British, and solvable with an ordinary cucumber.
+For readers who loved the “wait, WHAT” of Arrival or Tenet, but wanted it funnier, more British, and solvable with an ordinary cucumber.
 
 A mystery that asks the only question that ever really mattered: if you can't trust time, can you trust what you think already happened to the people you love?
 
 The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau — a mystery where the physics is real, the jokes are dry, and the only way out is to read the clocks properly. No physics needed to follow the case; sixteen short lessons at the back explain the real relativity behind every clue, for readers who want it.
+
+Recommended for readers aged 14 and up. Strong readers aged 12 to 13 may also enjoy the mystery, with adult support for the denser physics discussions.
 
 ================================================================================
 PRICING & ENROLLMENT
@@ -141,7 +142,7 @@ CONTENT WARNINGS / CONTENT NOTES (OPTIONAL)
 ================================================================================
 
 Content: No on-page death or violence. The murder is foretold by a photograph and never happens. Mild language (e.g. "my arse"), a parent fearing for a child, and some innuendo played for laughs.
-Reader Advisory: None needed. No physics background is assumed; the equations live in the optional course at the back.
+Suggested age: 14+. Strong readers aged 12 to 13 may enjoy the mystery with adult support for the denser physics discussions. No physics background is needed to follow the case; the equations are in the optional course.
 (KDP has no content-rating field for ebooks. Its only content question is whether the book is sexually explicit: answer No.)
 
 ================================================================================
