@@ -22,6 +22,10 @@ PAIRS = [
     (r"\b(Mr|Mrs|Dr)(?=\s[A-Z])", lambda m: m.group(1) + "."),
     (r"English \(British spelling\)", "English (American spelling)"),
     (r"\ben-GB\b", "en-US"),
+    (r"to be cross\b", "to be mad"), (r"was cross at all", "was mad at all"), (r"everybody’s cross", "everybody’s mad"),
+    (r"not looking cross", "not looking mad"), (r"valley was cross", "valley was cranky"), (r"not look cross", "not look mad"),
+    (r"a cross hedgehog", "a grumpy hedgehog"), (r"rather crossly", "rather grumpily"), (r"Nobody was cross\.", "Nobody was mad."),
+    (r"\btrousers\b", "pants"), (r"\bshop window\b", "store window"), (r"not a shop\b", "not a store"),
 ]
 
 for path in sys.argv[1:]:
@@ -32,3 +36,5 @@ for path in sys.argv[1:]:
         n += k
     open(path, "w", encoding="utf-8").write(s)
     print(path.split("\\")[-1], n, "changes")
+
+# second pass (everyday American words); run separately: python us_spelling.py --words file...
