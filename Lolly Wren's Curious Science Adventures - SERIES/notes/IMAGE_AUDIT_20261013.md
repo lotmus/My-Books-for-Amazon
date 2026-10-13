@@ -19,3 +19,8 @@ The addicted-reader overall scores are now **9.8/10 for Book 1** and **9.6/10 fo
 ## Verification
 
 Rebuilt Book 1 EPUB3 from its active DOCX master; Book 2's EPUB remains current and has no diagrams to resize. Book 1 contains 21 described in-reading images (title illustration, 19 lesson diagrams, final back cover); Book 2 contains its final back cover. Every lesson diagram in both the Book 1 DOCX and EPUB is at most 800 x 440 pixels, with proportions preserved. EPUB ZIP integrity and XHTML/OPF parsing passed; all reading images have alt text. Each back-cover image remains the final reading page. Covers and back-cover panels were left at publication dimensions. Previous DOCX and EPUB files were backed up in each book's `bak/` folder before editing.
+
+
+## Kindle cover artwork update (13 Oct 2026)
+
+Book 1's EPUB cover metadata now uses KINDLE_COVER_FINAL_1280.jpg (853 x 1280 px). The DOCX and final page of the Kindle EPUB use KINDLE_BACK_COVER_1168.jpg (784 x 1168 px). Both replacements were verified against the selected source images; the back-cover proportions are preserved. The EPUB retains all 19 diagrams within the 800 x 440 px maximum, with alt text on all in-reading images.

@@ -1,10 +1,10 @@
 # Schrödinger's Paperwork: status
 
-Last updated: 10 Oct 2026. The long working log is `MANUSCRIPT_GUIDE.md`; this file holds the strict rescore and what is still open.
+Last updated: 13 Oct 2026. The long working log is `MANUSCRIPT_GUIDE.md`; this file holds the strict rescore and what is still open.
 
 ## Strict rescore, 10 Oct 2026: 8.8 before, 9.2 after
 
-Scores: prose 9.3, plot 9.0, characters 9.1, humour 9.2, pacing 8.6 (90,000 words with the lessons; the story itself moves), facts 9.3, formatting and KDP readiness 9.2, cover: front done, back cover still a draft (paperback only).
+Scores: prose 9.3, plot 9.0, characters 9.1, humour 9.2, pacing 8.6 (90,000 words with the lessons; the story itself moves), facts 9.3, formatting and KDP readiness 9.2, cover: Kindle front and back artwork current.
 
 Fixed in the Kindle master (old master in `bak/` as `... - 2026-10-10 pre-rescore.docx`):
 
@@ -27,7 +27,7 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 
 ## Still open
 
-- Back cover (paperback only): the draft is in `bak/covers/Kindle Back Cover.jpg`.
+- The paperback wrap is a separate production file; the Kindle EPUB uses the current front and back cover assets listed below.
 - Interior lesson diagrams have a maximum raster size of 800 x 440 px, scaled proportionally. The front/title artwork and final back-cover panel are publication art and are not subject to the diagram limit.
 
 ## Line and science review (12 Oct 2026)
@@ -64,3 +64,8 @@ Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.8/10
 ## Diagram display-size update (13 Oct 2026)
 
 All 19 lesson diagrams in the reviewed DOCX and Kindle EPUB are at most 800 x 440 pixels. Their aspect ratios were preserved; the 800 x 322 diagram already within the limit was unchanged. Title/cover art and the final back-cover panel remain at their publication dimensions. EPUB archive integrity and XML parsing passed; all 21 in-reading images retain alt text.
+
+
+## Kindle cover artwork update (13 Oct 2026)
+
+The EPUB cover metadata uses KINDLE_COVER_FINAL_1280.jpg (853 x 1280 px). The final back-cover page in the reviewed DOCX and Kindle EPUB uses KINDLE_BACK_COVER_1168.jpg (784 x 1168 px); its proportions are preserved. Both source JPGs are retained beside the master. All 19 interior diagrams remain at or below 800 x 440 px, and image alt text is intact.

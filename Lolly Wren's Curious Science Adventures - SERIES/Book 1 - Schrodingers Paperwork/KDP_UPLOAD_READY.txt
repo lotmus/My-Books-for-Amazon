@@ -15,10 +15,9 @@ FINAL FILES (Root Directory)
    - All physics lectures integrated and formatted
    - Ready for direct KDP upload or Kindle Create conversion
 
-2. KINDLE_COVER_FINAL_2560.jpg
-   - 1707x2560 px (2 Oct 2026: replaces the 1024x1536 KINDLE_COVER_FINAL.png,
-     which is now in bak\covers\ with the other old cover variants). Meets
-     KDP's recommended 2560 px long side.
+2. Kindle cover artwork (selected 13 Oct 2026)
+   - Front cover upload: KINDLE_COVER_FINAL_1280.jpg (853x1280 px).
+   - Back cover panel: KINDLE_BACK_COVER_1168.jpg (784x1168 px), embedded as the final page of the manuscript.
    - Signals three reader audiences simultaneously:
      * Pratchett/Adams fans (absurdist humor)
      * Sci-fi readers (retro-futuristic London aesthetic)
@@ -111,7 +110,7 @@ NEXT STEPS FOR KDP UPLOAD
 3. Upload manuscript:
    - Use Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx directly
 4. Upload cover:
-   - Use KINDLE_COVER_FINAL_2560.jpg (1707x2560)
+   - Use KINDLE_COVER_FINAL_1280.jpg (853x1280 px)
 5. Enter metadata:
    - Copy title/subtitle/description from this package
    - Set keywords and categories as listed above
