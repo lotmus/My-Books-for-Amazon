@@ -1,0 +1,10 @@
+body { font-family: serif; line-height: 1.35; margin: 0 0.2em; }
+p { margin: 0 0 0.75em; text-indent: 1.2em; }
+h1,h2,h3 { font-family: sans-serif; line-height: 1.15; page-break-after: avoid; break-after: avoid; }
+h1 { margin: 1.6em 0 1em; text-align: center; }
+h2 { margin: 1.4em 0 .8em; }
+h3 { margin: 1.1em 0 .6em; }
+blockquote { margin: 1em 1.2em; }
+img { max-width: 100%; height: auto; }
+figure { margin: 1em 0; text-align: center; }
+.title,.subtitle,.author { text-align: center; text-indent: 0; }
