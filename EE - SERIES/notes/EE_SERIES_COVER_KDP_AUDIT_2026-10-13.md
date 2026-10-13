@@ -30,3 +30,8 @@ Revalidated the description HTML: allowed tags balance, no disallowed tags were 
 
 
 Final KDP HTML/age check (13 Oct 2026): re-parsed all nine current Description sections. Every draft contains its reader-level statement, uses balanced allowed tags only, and remains below 4,000 characters (2,767; 3,126; 2,996; 3,474; 2,876; 1,786; 1,718; 2,272; 2,279). This verifies local draft structure and length, not live KDP acceptance or listing suitability.
+
+
+## Book 6 design-scope wording follow-up (13 October 2026)
+
+A buyer-facing read found that "build linear regulators ... converters" could imply a sequence of hands-on construction projects. Book 6 presents design calculations and worked analysis across the converter families, with high-voltage and pulsed-power validation explicitly bounded; it is not framed as a set of step-by-step hardware builds. Changed the KDP draft to say "design and analyze" while retaining its component-selection and topic coverage. The updated description is 1,802 characters including markup, remains below the 4,000-character limit, and the edit leaves its age/prerequisite paragraph intact. This is a purchase-expectation clarification; live KDP approval, final marketplace rendering, and the listed independent/hardware gates remain open. No readiness score is raised.
