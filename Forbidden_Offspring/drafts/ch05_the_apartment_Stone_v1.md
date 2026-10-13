@@ -60,7 +60,7 @@ I took the stairs.
 
 ---
 
-His parents were at work, which I had also checked, from the clinic's records, which was one of the things I should not have been able to do. The building was an old one, six floors, brick, with the kind of lobby that echoes. It smelled of floor polish and someone's soup. I went up to the second floor, one flight, and then the elevator the rest of the way, because I had decided that I would arrive having done something difficult but not something ridiculous.
+His parents were at work, which I had also checked, from the clinic's records, which was one of the things I should not have been able to do. I went up one flight to the second floor, because I had decided that I would arrive having done something difficult but not something ridiculous.
 
 The boy opened the door before I knocked.
 

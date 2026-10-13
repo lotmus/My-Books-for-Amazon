@@ -37,8 +37,25 @@ P1=[(1,"Four Minutes",["ch01_four_minutes_Stone_v1.md","ch02_the_transfer_Stone_
 (4,"The Second Listener",["ch04_the_second_listener_Stone_v1.md","ch05_the_singapore_paper_Stone_v2.md"]),
 (5,"The Apartment",["ch05_the_apartment_Stone_v1.md"]),
 (6,"The Bargain",["ch06_the_bargain_Stone_v1.md"])]
+def extra(n,kind):
+    f=D+'expanded/ch%02d_%s.md'%(n,kind)
+    return body(open(f,encoding='utf-8').read()) if os.path.exists(f) else ''
+NL=chr(10)
+SEP=NL+NL+"* * *"+NL+NL
 for n,t,fs in P1:
-    out.append(f"\n## {n}. {t}\n\n"+join(*fs)+"\n")
+    text=join(*fs)
+    bef=extra(n,'before')
+    if bef:
+        k=text.rfind(SEP)
+        text=text[:k]+SEP+bef+text[k:]
+    mid=extra(n,'mid')
+    if mid:
+        k=text.find(SEP)
+        text=text[:k]+SEP+mid+text[k:]
+    pre=extra(n,'pre'); post=extra(n,'post')
+    if pre: text=pre+SEP+text
+    if post: text=text+SEP+post
+    out.append(NL+"## "+str(n)+". "+t+NL+NL+text+NL)
 out.append(f"\n## 7. {short[7][0]}\n\n"+short[7][1]+"\n")
 out.append("\n# PART TWO: THE OFFSPRING\n")
 for n in range(8,21):
