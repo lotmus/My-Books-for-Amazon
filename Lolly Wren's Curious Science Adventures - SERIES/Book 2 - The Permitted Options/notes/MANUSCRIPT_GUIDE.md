@@ -1,13 +1,18 @@
-# The Permitted Options — Book 2 — Working Guide
+# The Permitted Options - Book 2 Working Guide
 
-Reference file for editorial work on `The_Permitted_Options_BOOK_2_DRAFT.docx` in this folder.
+## Current file authority (12 Oct 2026)
+
+Use `The_Permitted_Options_BOOK_2_REVISION_20261005.docx` as the reviewed working manuscript and current continuity source. `The_Permitted_Options_BOOK_2_DRAFT.docx` remains the original canonical draft and was not overwritten or promoted. The current Kindle EPUB is `The_Permitted_Options_KINDLE.epub`, rebuilt from the reviewed copy. For future installments, start with `../../notes/NEXT_BOOK_START_HERE.md`. The detailed paragraph map below documents the original draft and is stale for the 2,354-paragraph reviewed copy. Recheck every location against the active file before editing. Older dated sections below document the original draft and review history.
+
+
+The guide below preserves the original-draft editorial map. The current reviewed edit target is `The_Permitted_Options_BOOK_2_REVISION_20261005.docx`; its current authority is stated above.
 Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, a physics claim, or the way anyone speaks. The section "Tone and humour" binds the joke and the furniture.
-Read this first for Book 2's file. Only open the manuscript for a passage you are actually changing.
-If the live file is no longer 2044 paragraphs, the index map below is stale. Re-read the file and update this guide.
+For current file authority, use the note at the top of this guide and `../../notes/NEXT_BOOK_START_HERE.md`. The index map below belongs to the original draft, not the reviewed copy.
+The original draft had 2,306 paragraphs; the reviewed working copy has 2,354. All paragraph indexes below are draft-era references and must be rechecked before use.
 
 Verified 1 October 2026. The novel reads straight through. The lectures follow Q.E.D.
 
-## Live file
+## Original draft (historical reference)
 
 `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`
 

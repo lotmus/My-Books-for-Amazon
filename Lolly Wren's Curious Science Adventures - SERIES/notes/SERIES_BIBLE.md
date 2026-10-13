@@ -6,10 +6,11 @@ A book-specific guide may add manuscript mechanics (styles, bookmarks, how to ed
 
 `SERIES_DESCRIPTION.txt` is a marketing blurb. It is wrong about the end of Book 1. Do not plot from it.
 
-Canonical files:
+Active continuity files:
 
-- Book 1: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`
-- Book 2: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`
+- Book 1 canonical master: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`.
+- Book 2 reviewed continuity copy: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx`.
+- Book 2 original canonical draft: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`. It remains unpromoted; do not overwrite it or silently substitute it for the reviewed copy when continuing story continuity.
 
 Looks, smells, and quoted lines for Book 1 people are in `Book 1 - Schrodingers Paperwork/notes/CHARACTER_AND_PLACE_GUIDE.md`. Book 2's scene order and edit rules are in `Book 2 - The Permitted Options/notes/MANUSCRIPT_GUIDE.md`.
 

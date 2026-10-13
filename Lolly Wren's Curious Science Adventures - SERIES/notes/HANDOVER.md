@@ -1,4 +1,13 @@
-# Series handover — 30 Sep 2026
+# Current Series Handover - 12 Oct 2026
+
+For new installment work, start with `notes/NEXT_BOOK_START_HERE.md`. It identifies the reviewed continuity files, open story threads, fixed canon, science boundary, editing standards, and EPUB build workflow. Read `notes/SERIES_BIBLE.md` for the complete canon. Dated material below this current summary is retained as project history; follow the current file authority recorded here and in each book's latest `_STATUS.md`.
+
+- Book 1 master: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`; Kindle EPUB beside it.
+- Book 2 reviewed continuity copy: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx`; Kindle EPUB beside it.
+- Book 2's original canonical draft (`The_Permitted_Options_BOOK_2_DRAFT.docx`) remains unpromoted and untouched. Do not replace either Book 2 file without an explicit author decision.
+- No Book 3 title, case, department, instrument, or science topic is chosen yet. Use the open threads and restrictions in the Series Bible; do not turn a possibility into fixed canon without recording the decision.
+
+## Historical handover - 30 Sep 2026
 
 Several agents edit these books at the same time. Read `SERIES_BIBLE.md` in this folder before adding a person, a place, a date, a physics claim, a plot, or a joke. The section "Tone and humour" is how the books stay one voice. Then read this file, then the live manuscript. If the file is newer than this note, the file wins. Do not commit or push unless asked. Do not overwrite anything in a `bak` folder.
 
@@ -11,10 +20,10 @@ Each book folder holds exactly one master docx plus its KDP files at the root, a
 - `notes\` guides, character/place notes, marketing notes, audits.
 - `bak\` every snapshot, old draft, old export (epub/rtf/xml), old cover and script output. Ignored by git (`bak/` in the root .gitignore); kept on disk only.
 
-Series-level notes (this file, `SERIES_BIBLE.md`, `SERIES_DESCRIPTION.txt`, audits) live in the series `notes\`; old copies of them are in the series `bak\`. The books are docx only: no epub and no PDF are produced or kept outside `bak\`.
+Series-level notes (this file, `SERIES_BIBLE.md`, `SERIES_DESCRIPTION.txt`, audits) live in the series `notes\`; old copies of them are in the series `bak\`. The DOCX files are editable masters. Current Kindle EPUB outputs are kept beside the active Book 1 and reviewed Book 2 masters; PDFs are not current deliverables.
 
 Book 1 root: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`, `KDP_DESCRIPTION_FINAL.txt`, `KDP_UPLOAD_READY.txt` (metadata and keywords), `KINDLE_COVER_FINAL_2560.jpg`.
-Book 2 root: `The_Permitted_Options_BOOK_2_DRAFT.docx`, `KDP_DESCRIPTION.txt`.
+Book 2 root: original draft `The_Permitted_Options_BOOK_2_DRAFT.docx`; current reviewed copy `The_Permitted_Options_BOOK_2_REVISION_20261005.docx`; current EPUB `The_Permitted_Options_KINDLE.epub`; `KDP_DESCRIPTION.txt`.
 
 The parent repository is `D:\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.
 
