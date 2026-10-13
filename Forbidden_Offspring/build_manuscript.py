@@ -8,7 +8,7 @@ def body(text):
     i=0
     while i<len(lines):
         l=lines[i].strip()
-        if l=="" or l.startswith("#") or l.startswith("*Trial draft") or l.startswith("*Short draft") or l.startswith("*Expansion scene") or l.startswith("*Expanded draft") or l=="---":
+        if l=="" or l.startswith("#") or l.startswith("*Trial draft") or l.startswith("*Short draft") or l.startswith("*Expansion scene") or l.startswith("*Expanded draft") or l.startswith("*v2,") or l.startswith("*Revision 2 chapter") or l=="---":
             i+=1; continue
         break
     out=[]
@@ -59,10 +59,17 @@ for n,t,fs in P1:
     out.append(NL+"## "+str(n)+". "+t+NL+NL+text+NL)
 out.append(f"\n## 7. {short[7][0]}\n\n"+short[7][1]+"\n")
 out.append("\n# PART TWO: THE OFFSPRING\n")
-for n in range(8,21):
-    out.append(f"\n## {n}. {short[n][0]}\n\n"+short[n][1]+"\n")
-out.append("\n---\n\n# Appendix: The Science Behind the Story\n\n"+body(rd("appendix_genetics_v1.md"))+"\n")
-out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v1.md"))+"\n")
+PART2=["ch08.md","ch09.md","ch10.md","ch11.md","ch12.md","ch13.md","ch14.md","ch15.md","ch16.md","ch17a_foundation.md","ch17b_cabinet.md","ch17.md","ch19b_question_marks.md","ch18.md","ch22_draft.md","ch19.md","ch20.md"]
+chap_words=[]
+for k,fn in enumerate(PART2):
+    n=8+k
+    raw=open(D+'expanded/'+fn,encoding='utf-8').read()
+    title=re.search(r"^## \d+[a-z]?\. (.+)$",raw,flags=re.M).group(1).strip()
+    b=body(raw)
+    chap_words.append((n,title,len(re.findall(r"\w+",b))))
+    out.append(NL+"## "+str(n)+". "+title+NL+NL+b+NL)
+out.append("\n---\n\n# Appendix: The Science Behind the Story\n\n"+body(rd("appendix_genetics_v2.md"))+"\n")
+out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v2.md"))+"\n")
 txt="\n".join(out)
 # reader copy: strip internal verification notes and the working status section
 txt=re.sub(r"\s*\*\((?:Verify|Cite from)[^)]*\)\*","",txt)
@@ -72,4 +79,5 @@ txt=re.sub(r"\n\* \* \*\n\n## Status\n.*\Z","\n",txt,flags=re.S)
 open("Forbidden_Offspring/manuscript/Forbidden_Offspring_working_v1.md","w",encoding="utf-8").write(txt)
 words=len(re.findall(r"\w+",txt))
 print("words",words,"pages@300",round(words/300))
-for n in range(7,21): print(n,short[n][0],len(re.findall(r"\w+",short[n][1])))
+print(7,short[7][0],len(re.findall(r"\w+",short[7][1])))
+for n,t,w in chap_words: print(n,t,w)

@@ -6,7 +6,7 @@ Written 13 Oct 2026. Read `../../notes/LOTHAR_RULES.md` first (standing rules fo
 
 ## What the book is
 
-A near-future thriller about secret human embryo editing. Title: **Forbidden Offspring** (working title was *The Edit*). Pen name: **Frank Stone** (set by Lothar, 12 Oct 2026; also the name of the scientist character). The pen name is not yet in `LOTHAR_RULES.md`: do not add an About the Author or Also-by page until Lothar says whether it stands alone (like Kevin Drew Peters) or sits under Lothar J. Musiol. American English. Deadpan, dry, understated. Target: **180 pages, about 55,000 words, 20 chapters**.
+A near-future thriller about secret human embryo editing. Title: **Forbidden Offspring** (working title was *The Edit*). Pen name: **Frank Stone** (set by Lothar, 12 Oct 2026; also the name of the scientist character). The pen name is not yet in `LOTHAR_RULES.md`: do not add an About the Author or Also-by page until Lothar says whether it stands alone (like Kevin Drew Peters) or sits under Lothar J. Musiol. American English. Deadpan, dry, understated. Target (raised in Revision 2): about 200 pages, about 60,000 words, **24 chapters**.
 
 Premise in one paragraph: In 1999 Dr. Frank Stone, a fertility doctor, secretly adds a second, illegal edit protocol to a few dozen IVF embryos (cognitive package for most; an extra, invented "dolphin" auditory-spatial package for exactly two). The embryos go to the parents who came for IVF, who are told only about one disease correction. Part One is Stone's own written account, ending with his stroke in 2012. Part Two is told by the main edited child (Danny Pruitt, placeholder name), who finds the notebook, tracks down the cohort, decides not to restart Stone's work, becomes a physician, develops a stroke treatment, and gives it to the old, fragile Stone in 2036.
 
@@ -20,9 +20,9 @@ Premise in one paragraph: In 1999 Dr. Frank Stone, a fertility doctor, secretly 
 - `build_manuscript.py`: rebuilds the manuscript from the drafts. Run from the repo root: `python3 Forbidden_Offspring/build_manuscript.py`. It prints total words and per-chapter counts. To change the book, edit a draft and rebuild.
 - `bak/` (ignored by git): older versions. Never delete anything; move old versions there.
 
-## Current status (13 Oct 2026)
+## Current status (13 Oct 2026, after Revision 2)
 
-About 46,400 words (roughly 155 pages at 300 words per page). Every chapter has a full trial draft (1,800 to 2,800 words). Still needed to reach 180 pages: about 9,000 more words, best added to the thinner chapters (13 Munich, 15 The Child, 16 Restart, 17 More Than Enough, 8 The Notebook). Then a read-through, a fact-check pass, the masters (docx for Word, EPUB for KDP; see the rules file), a cover and the KDP listing.
+About 58,500 words (about 195 pages). 24 chapters. Every chapter is a full draft. Revision 2 added four new Part Two chapters (The Foundation, The Cabinet, Four Question Marks, The Draft), the Mr. Hale and Connie's-diploma scenes, a cure-mechanism bridge, a managed-leak clue, a cable-panel satire scene, the Wren and Theo payoffs, a fixed Part One ordering (chapter 5), verified appendix and bibliography with hidden-URL keyword links, and an American-English pass. Still needed: a read-through by Lothar; line edit for the strongest voice in Danny's chapters; docx master and EPUB; a cover; the KDP listing; About the Author and Also-by (blocked on the pen-name rule). The reader review is in `notes/REVIEW_2026-10-13.md`.
 
 ## The hard rules (do not break)
 
@@ -43,19 +43,18 @@ About 46,400 words (roughly 155 pages at 300 words per page). Every chapter has 
 - The laureate (placeholder Elias) wins the physics Nobel at 29 (Oct 2029); the senator (placeholder Julian) is a sociopath by independent bad luck, becomes a U.S. senator at 30 (2030, by appointment), runs for president, and is shot offstage in April 2036 by an armed environmental activist with a legally bought rifle, purpose "hunting ducks and rabbits".
 - Most carriers choose to stay under cover. The main offspring decides not to restart Stone's work. The genomes are "out" and the carriers have many children. In the epilogue the stroke treatment works but Stone is old and forgetful; a one-line item says a team in China independently reached the same method (no American linked to it, no villain).
 - Stone's real aim: replace humankind within a century. Told dryly as a project plan.
-- Placeholder names (change freely, tell Lothar): Danny Pruitt, Ray and Connie Pruitt, Dolores, Mrs. Aldana, Walt (doorman), Mira, Jonas, Lena, Anton, Elias, Julian, Teo, Marc Duval, Dr. Helen Voss, Rosalind (nurse), Mrs. Rennick, Dr. Okonjo, the director "R."
+- Revision 2 plot (see the story bible): Julian buys the old clinic (the Leaf Foundation) in 2032, cannot read Stone's pages and needs Danny; they confront each other in the old laboratory in 2033; Julian screens children and recruits the vulnerable cohort members; Danny drafts and schedules a public statement in April 2036 and is saved from sending it by the assassination, then deletes it. Wren (born 2013) wants to be visible. Mira, Wren and Theo return at the Munich table.
+- Placeholder names (change freely, tell Lothar): Tobias, Imke, Theo, Maren, Wren, Mr. Hale, Brianna, the Leaf Foundation, Danny Pruitt, Ray and Connie Pruitt, Dolores, Mrs. Aldana, Walt (doorman), Mira, Jonas, Lena, Anton, Elias, Julian, Teo, Marc Duval, Dr. Helen Voss, Rosalind (nurse), Mrs. Rennick, Dr. Okonjo, the director "R."
 
-## Open items
+## Open items (updated 13 Oct 2026)
 
 - Pen name: bio and Also-by treatment (needs Lothar).
-- Four unresolved cohort members in chapter 10 (a boy who stopped speaking, a hospitalized young woman, a young man who left home, a woman who lives in a field): resolve briefly and respectfully, probably in chapters 12 or 17.
-- The "last batch" girl in chapters 7 and 10 (born 2013): pay off or leave as an image.
-- The vault pages left in the cabinet in 2012: whether they surface (could feed chapter 18).
-- Whether anyone tells Ray and Connie (chapter 20 leaves it open).
-- Fact-check the appendix and bibliography (every entry is from memory and marked "verify"). Add hidden-URL keyword links per the rules file.
-- Cover (text-only back cover on one color; front 1000×1600 embedded), KDP description, categories and keywords. Comparables for the listing: *Beggars in Spain*, *Gattaca*, *Oryx and Crake* (ideas only; the "for readers of" line is fine).
-- Add this book to `SCORES.md` (not scored yet; status: draft).
+- Lothar's read-through and any changes to the Revision 2 plot (it is a large change).
+- Optional: more distinct voice for Danny in chapters 8, 10 to 16 (some similes still echo Stone's).
+- Docx master (6x9, headings per `LOTHAR_RULES.md`), linked contents, EPUB, cover, KDP description and keywords.
+- Add this book to `SCORES.md`.
+- The older open items about the four cohort members, the last-batch girl and the vault pages are now resolved in chapters 18, 20, 22 and 24.
 
 ## Working style for this book
 
-Lothar's replies are short and decisive. Record each decision in `STORY_BIBLE.md` the same day, then commit and push. Answer first, report results not promises. When a request conflicts with the reality rule or the no-methods rule, say so and offer a fix instead of silently complying or refusing. Batch questions.
+Lothar's replies are short and decisive. Record each decision in `STORY_BIBLE.md` the same day, then commit and push. Answer first, report results not promises. When a request conflicts with the reality rule or the no-methods rule, say so and offer a fix instead of silently complying or refusing. Batch questions. Merge `origin/main` into your branch and push normally; never force-push.
