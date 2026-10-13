@@ -486,3 +486,5 @@ Book 6 Chapter 17 answer and package follow-up (13 Oct 2026): Appendix B now der
 Book 5 Chapter 2 prose and package follow-up (13 Oct 2026): the zero-IF explanation is split at the transition from error mechanisms to receiver choices. Selected page 16 was inspected, and current KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. The full device review remains open.
 
 Book 7 Chapter 1 prose and package follow-up (13 Oct 2026): separated the roofline rule from two workload examples and removed a duplicated source paragraph found in the first render. Selected PDF pages 7–8 were inspected; current KPF reports Supported/Success, zero errors/issues, and an exact DOCX hash match. The full device review remains open.
+
+Book 1 Chapter 1 prose and package follow-up (13 Oct 2026): the charge-neutrality explanation and charged-balloon example now read as separate paragraphs. Selected page 9 was inspected; current-master KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. Independent physics review remains open.
