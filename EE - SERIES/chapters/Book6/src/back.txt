@@ -201,9 +201,9 @@ P: 7. Using the Appendix B aging model relative to 110 °C, convert the 140 °C 
 P: 8. Selectivity requires upstream devices to wait for downstream ones to clear, but every millisecond of delay lengthens an arc and raises the incident energy at a worker's position.
 P: 9. 10 mA.
 H2: Chapter 18
-P: 1. 0.571.
-P: 2. 0.818.
-P: 3. 0, perfect cancellation.
+P: 1. ND = 2 x 0.3 = 0.6, so m = floor(ND) = 0. K = 2(0.3)(0.5 - 0.3)/[0.3(0.7)] = 0.571. Interleaving leaves 57.1% of one phase's ripple in this ideal model.
+P: 2. ND = 3/12 = 0.25, so m = 0. K = 3(1/12)(1/3 - 1/12)/[(1/12)(11/12)] = 0.818. The total ripple is 81.8% of one phase's ripple in this ideal model.
+P: 3. ND = 2 x 0.5 = 1, an integer, so the ideal formula gives K = 0 (perfect cancellation). Duty-cycle or timing mismatch can leave residual ripple in a real regulator.
 P: 4. 0.05 mΩ.
 P: 5. 0.5 µs.
 P: 6. The phases switch at evenly staggered instants, so the combined current has N ripple cycles per switching period.
