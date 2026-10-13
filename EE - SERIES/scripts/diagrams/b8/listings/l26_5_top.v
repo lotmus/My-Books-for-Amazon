@@ -2,7 +2,7 @@
 // Tang Nano 9K top level: a "breathing" LED from the PWM block and one UART byte per second.
 module top (
     input  wire       sys_clk,      // 27 MHz crystal oscillator
-    input  wire       btn_n,        // user button (pin 4), active low: used as reset
+    input  wire       btn_n,        // user button S1 (pin 3), active low: used as reset
     output wire       led_n,        // LED, active low
     output wire       uart_tx       // to the on-board USB-UART bridge
 );
