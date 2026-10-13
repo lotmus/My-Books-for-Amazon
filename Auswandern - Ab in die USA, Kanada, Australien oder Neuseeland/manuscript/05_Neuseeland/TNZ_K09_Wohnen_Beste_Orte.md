@@ -1,6 +1,6 @@
 ## Neuseeland: Wohnen und die besten Orte zum Leben
 
-Bei einer Besichtigung in Wellington kann ein kräftiger Windstoß lose Teppichfliesen im Flur klappern lassen. Ob das harmlos ist oder auf einen Mangel hinweist, lässt sich nur am konkreten Haus beurteilen: Prüfe Zugluft, Feuchtigkeit, Dämmung und Erdbebensicherheit. Klima, Bauvorschriften und Gebäudezustand unterscheiden sich von Deutschland und variieren auch innerhalb Neuseelands. Bei der Wohnortwahl zählen deshalb neben Job und Budget die Naturgefahren am konkreten Standort und ein unabhängiger Gebäudebericht.
+Bei einer Besichtigung in Wellington drückt ein kräftiger Windstoß gegen die Haustür, und lose Teppichfliesen klappern im Flur. Ob das harmlos ist oder auf einen Mangel hinweist, lässt sich nur am konkreten Haus beurteilen: Prüfe Zugluft, Feuchtigkeit, Dämmung und Erdbebensicherheit. Klima, Bauvorschriften und Gebäudezustand unterscheiden sich von Deutschland und variieren auch innerhalb Neuseelands. Bei der Wohnortwahl zählen deshalb neben Job und Budget die Naturgefahren am konkreten Standort und ein unabhängiger Gebäudebericht.
 
 > **Kurz gesagt:**
 > - Der Mietmarkt läuft über Online-Portale wie Trade Me Property; die Kaution (*Bond*) ist gesetzlich auf höchstens vier Wochenmieten gedeckelt und wird treuhänderisch bei der staatlichen Stelle Tenancy Services hinterlegt, nicht beim Vermieter.
@@ -11,11 +11,11 @@ Bei einer Besichtigung in Wellington kann ein kräftiger Windstoß lose Teppichf
 
 ### Mieten: Bond, Tenancy Services und der Alltag der Besichtigung
 
-Die Wohnungssuche läuft praktisch vollständig online, allen voran über das Portal Trade Me Property – funktional vergleichbar mit deutschen Immobilienportalen, nur mit deutlich mehr Fotos vom Garten. Besichtigungen (*Open Homes*) laufen meist offen, oft samstags im Halbstundentakt: Ein Dutzend Interessenten zieht in Straßenschuhen durch dieselbe Wohnung, während der *Property Manager* (die Hausverwaltung, die für den Eigentümer vermietet) beiläufig Namen auf einer Liste abhakt. Wer die Wohnung will, bewirbt sich meist noch am selben Tag online, mit Einkommensnachweis und Referenzen früherer Vermieter.
+Die Wohnungssuche läuft fast vollständig online, vor allem über Trade Me Property. Besichtigungen (*Open Homes*) finden häufig samstags im Halbstundentakt statt; mehrere Interessenten können dieselbe Wohnung nacheinander besichtigen. Wenn du sie mieten möchtest, bewirb dich am besten noch am selben Tag online. Halte Einkommensnachweis und Referenzen früherer Vermieter dafür bereit.
 
 Lies vor der Unterschrift den Mietvertrag und die beigefügten Erklärungen: Neue oder geänderte Verträge müssen Angaben zur Einhaltung der *Healthy Homes Standards*, zur Dämmung und zum Versicherungsschutz des Hauses enthalten. Halte beim Einzug den Zustand gemeinsam mit Vermieter oder Hausverwaltung in einem Übergabeprotokoll fest und ergänze datierte Fotos. Das erleichtert spätere Klärungen über Reparaturen und Bond-Rückzahlung.
 
-Beim allgemeinen Bond (*general bond*, vergleichbar mit der deutschen Mietkaution) hast du es als Neuankömmling leichter, als du vielleicht erwartest: Er ist auf höchstens vier Wochenmieten gedeckelt – merklich weniger als die in Deutschland üblichen zwei bis drei Monatsmieten. Seit Dezember 2025 kann für ein genehmigtes Haustier zusätzlich ein *pet bond* von höchstens zwei Wochenmieten verlangt werden; insgesamt können so bis zu sechs Wochenmieten als Bonds fällig werden. Zusätzlich darf der Vermieter höchstens zwei Wochen Miete im Voraus verlangen. Mit genehmigtem Haustier können beim Einzug damit bis zu acht Wochenmieten an Bonds und vorausgezahlter Miete fällig werden. Die Besonderheit gegenüber Deutschland: Der Vermieter darf den Bond nicht behalten, sondern muss ihn bei Tenancy Services hinterlegen, einer Stelle des neuseeländischen Ministeriums für Wirtschaft, Innovation und Beschäftigung (*Ministry of Business, Innovation and Employment*, MBIE). Normalerweise zahlst du den Bond an den Vermieter; er muss ihn binnen 23 Werktagen einreichen. Mit Zustimmung kann er dich zur direkten Online-Zahlung an Tenancy Services benennen. Die Rückzahlung wird nach Mietende beantragt; bei vollständigem Antrag benötigt Tenancy Services bis zu zehn Werktage. Können sich Mieter und Vermieter nicht über die Aufteilung einigen, entscheidet das Tenancy Tribunal. Seit dem 12. Dezember 2018 sind zusätzliche Vermittlungsgebühren (*Letting Fees*) an Mieter verboten. Seit dem 29. Juni 2026 läuft die digitale Kautionsabwicklung über „Bond Hub“ oder eine angebundene Verwaltungssoftware.
+Der allgemeine Bond (*general bond*, vergleichbar mit der deutschen Mietkaution) ist auf höchstens vier Wochenmieten begrenzt. Seit Dezember 2025 kann für ein genehmigtes Haustier zusätzlich ein *pet bond* von höchstens zwei Wochenmieten verlangt werden; zusammen sind also bis zu sechs Wochenmieten an Bonds möglich. Außerdem darf der Vermieter höchstens zwei Wochen Miete im Voraus verlangen. Mit Haustier können beim Einzug bis zu acht Wochenmieten fällig werden. Der Vermieter muss den Bond bei Tenancy Services hinterlegen, einer Stelle des neuseeländischen Ministeriums für Wirtschaft, Innovation und Beschäftigung (*Ministry of Business, Innovation and Employment*, MBIE). Du zahlst ihn in der Regel an den Vermieter; dieser muss ihn binnen 23 Werktagen einreichen. Mit Zustimmung kann der Vermieter dich zur direkten Online-Zahlung an Tenancy Services benennen. Nach Mietende beantragst du die Rückzahlung. Bei einem vollständigen Antrag benötigt Tenancy Services dafür bis zu zehn Werktage. Können sich beide Seiten nicht über die Aufteilung einigen, entscheidet das Tenancy Tribunal. Zusätzliche Vermittlungsgebühren (*Letting Fees*) an Mieter sind seit dem 12. Dezember 2018 verboten. Seit dem 29. Juni 2026 läuft die digitale Kautionsabwicklung über „Bond Hub“ oder eine angebundene Verwaltungssoftware.
 
 > **Achtung:** In Auckland und Wellington ist der Wettbewerb um gute Mietwohnungen hoch – bereite Einkommensnachweis, Arbeitsvertrag und Referenzen vor, bevor die erste Besichtigung überhaupt beginnt. Wer erst nach der Zusage anfängt, Unterlagen zusammenzusuchen, hat die Wohnung meist schon verloren.
 
@@ -45,7 +45,7 @@ Vor einem verbindlichen Kaufangebot solltest du den Solicitor früh einbeziehen 
 
 Die folgenden vier Profile sind eine Auswahl, keine vollständige Rangliste des Landes. Prüfe bei der Ortswahl auch kleinere Zentren und Regionen, wenn dort passende Stellen oder ein besseres Verhältnis von Wohnkosten und Lebensstil zu finden sind. Ergänze die Profile durch lokale Quellen: Māori sind tangata whenua, die indigene Bevölkerung Aotearoas. Informiere dich über die Ortsgeschichte und die dortigen iwi und hapū; ihre Verbindungen zum Land sind ortsbezogen und vielfältig.
 
-Verbreiteter Irrtum: Erdbeben seien vor allem ein Wellington-Thema, weil die Stadt direkt auf einer bekannten Verwerfung sitzt. Tatsächlich zeigte die Erdbebenserie in Christchurch 2010/2011, dass auch vermeintlich ruhige Regionen betroffen sein können – die Verwerfung unter der Canterbury-Ebene war vor der ersten Erschütterung nicht einmal bekannt. Vergleiche jeden Ort deshalb nach Klima, Naturgefahren, Wohnkosten und Jobmarkt gemeinsam. Rechne neben Miete oder Kaufpreis auch Auto, Strom und Kinderbetreuung in dein Budget ein.
+Erdbeben sind kein reines Wellington-Thema. Die Erdbebenserie in Christchurch 2010/2011 zeigte, dass auch vermeintlich ruhige Regionen betroffen sein können: Die Verwerfung unter der Canterbury-Ebene war vor dem ersten Beben nicht bekannt. Vergleiche Orte deshalb nach Klima, Naturgefahren, Wohnkosten und Jobmarkt. Rechne neben Miete oder Kaufpreis auch Auto, Strom und Kinderbetreuung ins Budget ein.
 
 Landesweit lag der Kaufpreis-Median im August 2026 bei 750.000 NZD, 1,3 % weniger als im Vorjahr. Ende 2025 stiegen die Preise in Auckland dagegen noch um 6,0 %, in Wellington um 1,4 % – ein Beispiel dafür, wie stark sich die Regionen unterscheiden. Pflegekräfte verdienen als grobe, landesweite Orientierung zum Einstieg rund 60.000 bis 65.000 NZD, mit fünf Jahren Erfahrung 75.000 bis 85.000 NZD und als *Nurse Practitioner* (Pflegekraft mit erweiterten klinischen Befugnissen) 95.000 bis 135.000 NZD.
 
@@ -59,39 +59,44 @@ Das größte Naturgefahren-Risiko liegt unter der Erde. Wellington sitzt an der 
 
 Der öffentliche Dienst prägt den Jobmarkt und stand 2026 unter Spardruck. Daneben gibt es eine Tech- und Startup-Szene mit Schwerpunkten wie Governance und „Responsible AI“. Wellington ist Sitz der deutschen Botschaft, hat ein Goethe-Institut, die German School Wellington (Newtown, Ergänzungsschule) und eine deutsche Spielgruppe.
 
-**Christchurch** ist kühl-gemäßigt, mit deutlicheren Jahreszeiten als Auckland oder Wellington. Das Naturgefahren-Profil ist von den Erdbeben 2010/2011 geprägt. Das Beben vom 4. September 2010 (Stärke 7,1) und besonders das vom 22. Februar 2011 (Stärke 6,3, nur vier Kilometer tief) verursachten inflationsbereinigt rund 54,8 Mrd. NZD Schaden – die teuerste Naturkatastrophe der neuseeländischen Geschichte. 185 Menschen starben, 10.000 Häuser mussten wiederaufgebaut und 3.500 abgerissen werden. Die Verwerfung unter der Canterbury-Ebene war vor 2010 nicht bekannt: Auch vermeintlich ruhige Regionen tragen Erdbebenrisiko.
+**Christchurch** ist kühl-gemäßigt, mit deutlicheren Jahreszeiten als Auckland oder Wellington. Das Naturgefahren-Profil ist von den Erdbeben 2010/2011 geprägt. Das Beben vom 4. September 2010 (Stärke 7,1) und besonders das vom 22. Februar 2011 (Stärke 6,3, nur vier Kilometer tief) verursachten inflationsbereinigt rund 54,8 Mrd. NZD Schaden – die teuerste Naturkatastrophe der neuseeländischen Geschichte. 185 Menschen starben, 10.000 Häuser mussten wiederaufgebaut und 3.500 abgerissen werden.
 
 Beim Kauf ist Christchurch günstiger als Auckland: Der Kaufmedian lag bei 735.000 NZD. Die Wochenmiete von rund 660 NZD bezieht sich auf Häuser mit drei bis vier Zimmern und ist deshalb nur bedingt vergleichbar. Die Lebenshaltungskosten liegen mit rund 1.800 NZD pro Monat und Person nahe am Landesdurchschnitt; ein Einzimmerapartment im Zentrum kostet 1.300 bis 1.950 NZD im Monat.
 
-Ingenieurwesen, Bauwirtschaft und Fertigung sind wichtige Branchen, hinzu kommen Agrartechnologie und luftfahrtnahe Industrie. Ingenieure verdienen landesweit im Schnitt 92.035 NZD im Jahr; Cloud- und Infrastruktur-Ingenieure als IT-nahe Spezialisten 95.000 bis 140.000 NZD. Ein Honorarkonsul vertritt vor Ort die deutschen Interessen; ein Goethe-Institut und eine deutsche Schule gibt es hier nicht.
+Ingenieurwesen, Bauwirtschaft und Fertigung sind wichtige Branchen; hinzu kommen Agrartechnologie und luftfahrtnahe Industrie. Ingenieure verdienen landesweit im Schnitt 92.035 NZD im Jahr, Cloud- und Infrastruktur-Ingenieure 95.000 bis 140.000 NZD. Ein Honorarkonsul vertritt vor Ort die deutschen Interessen. Ein Goethe-Institut und eine deutsche Schule gibt es in Christchurch nicht.
 
 **Queenstown und die Region Otago** liegen alpin-kontinental im Regenschatten der Southern Alps: Während auf der Westseite der Alpen 6.000 bis 10.000 Millimeter Niederschlag im Jahr fallen, sind es in Queenstown rund 860 Millimeter. Die Temperaturspannen sind für Neuseeland groß: Wintertiefstwerte bis −10 °C und Sommerhöchstwerte über 33 °C sind selten, aber möglich. Hier sind Naturgefahren eher alpin als tektonisch. Bei starkem Schneefall warnt das Mountain Safety Council regelmäßig vor Lawinen in den Southern Alps; hinzu kommt ein moderates Hochwasserrisiko. 1999 überflutete ein Hochwasser die Innenstadt und Straßeninfrastruktur Queenstowns und verursachte rund 50 Mio. NZD Schaden.
 
 Eigene Kaufpreiswerte für Queenstown liegen nicht vor; in der weiteren Region Otago lag der Median zuletzt bei 755.000 NZD (+13,2 %). Die lokale Wochenmiete liegt bei 730 NZD und mehr – der höchste Wert der vier hier verglichenen Orte. Der Jobmarkt hängt stark vom Tourismus ab: Skigebiete prägen den Winter, Wander- und Wassersport den Sommer; Central Otago bietet saisonale Arbeit in der Obsternte. Tech-Startups, Filmproduktion und Weinbau erweitern die Branchenbasis. Konsularisch sind das Honorarkonsulat Christchurch beziehungsweise die Botschaft Wellington zuständig; eine deutsche Institution vor Ort ist nicht bekannt.
 
-| Ort | Klima und Naturgefahr | Kosten (Miete NZD/Woche · Kaufmedian; grobe Orientierung) | Jobmarkt-Stärke |
-|---|---|---|---|
-| Auckland | subtropisch-feucht, Starkregen- und Vulkanrisiko | 635 · 950.000 | Finanzen, Medien/Telekom, breiter Dienstleistungs­markt |
-| Wellington | windig, mild-maritim, Erdbebenrisiko | 600 · n. e. | Regierung/Verwaltung, Tech/Governance |
-| Christchurch | kühl-gemäßigt, Erdbebenrisiko (2010/11) | 660 (3–4-Zi-Haus) · 735.000 | Ingenieurwesen, Bau, Agritech |
-| Queenstown/Otago | alpin, Regenschatten, Lawinenrisiko | 730+ · 755.000 (Region Otago) | Tourismus, zunehmend Tech/Wein |
+- **Auckland:** Subtropisch-feucht, mit Starkregen- und Vulkanrisiko. Wochenmiete: rund 635 NZD; Kaufmedian: 950.000 NZD. Der breite Dienstleistungsmarkt umfasst Finanzen, Medien und Telekommunikation.
+- **Wellington:** Windig und mild-maritim, mit Erdbebenrisiko. Wochenmiete: rund 600 NZD; Kaufmedian: n. e. Wichtige Arbeitgeber finden sich in Regierung, Verwaltung und Tech/Governance.
+- **Christchurch:** Kühl-gemäßigt, mit Erdbebenrisiko (2010/11). Wochenmiete für ein Haus mit drei bis vier Zimmern: rund 660 NZD; Kaufmedian: 735.000 NZD. Starke Branchen sind Ingenieurwesen, Bau und Agritech.
+- **Queenstown/Otago:** Alpin, im Regenschatten, mit Lawinenrisiko. Wochenmiete: ab 730 NZD; Kaufmedian für die Region Otago: 755.000 NZD. Der Jobmarkt stützt sich auf Tourismus und zunehmend auf Tech und Weinbau.
 
 **Weitere Orte, die sich für die Suche lohnen:** Hamilton bietet Beschäftigung in Gesundheit, Logistik, Fertigung und Agrartechnik; Gesundheit ist laut Stadtrat der größte Beschäftigungssektor. Tauranga verbindet Hafenwirtschaft, Handel und regionale Dienstleistungen. Dunedin ist vor allem für Bewerber aus Gesundheit, Bau und Bildung interessant. Diese Kurzprofile ersetzen weder aktuelle Mietvergleiche noch ein konkretes Stellenangebot. Prüfe Pendelwege, Gehalt und Wohnkosten für deinen Beruf. ([Hamilton City Council](https://hamilton.govt.nz/your-city/our-citys-economy/economic-development), [Tauranga City Council](https://www.tauranga.govt.nz/council/how-the-council-works/our-direction/supporting-business-and-education), [Dunedin City Council](https://www.dunedin.govt.nz/__data/assets/pdf_file/0004/1026589/Draft-Dunedin-Future-Development-Strategy-2024-2054.pdf))
 
 > **Achtung:** Naturgefahren sind in Neuseeland kein Randthema, sondern ein Versicherungsposten. Die staatliche *Natural Hazards Commission Toka Tū Ake* (früher EQC) übernimmt bei einem anerkannten Erdbebenschaden am Wohnhaus die ersten 300.000 NZD – vorausgesetzt, eine private Wohngebäudeversicherung mit Feuerschutz besteht bereits. Das staatliche System ergänzt die private Versicherung, ersetzt sie aber nicht. Die Umlage dafür ist über die Hausversicherung gedeckelt bei 480 NZD zzgl. Mehrwertsteuer pro Jahr. Hol dir vor jedem Kauf ein konkretes Angebot für genau dieses Grundstück ein, nicht erst danach.
 
-Neben Miete oder Kaufpreis unterscheiden sich die vier Regionen bei Auto, Kinderbetreuung und alltäglichen Lebenshaltungskosten spürbar weniger stark als beim Wohnen selbst. Wer aus einer deutschen Großstadt ohne eigenes Auto kommt, sollte trotzdem außerhalb der jeweiligen Innenstadt in praktisch allen vier Regionen ein eigenes Fahrzeug einplanen – Details zu Führerschein-Umtausch, Autokauf und Kfz-Versicherung erklärt das [Kapitel zu Führerschein, Auto und Verkehrsregeln in diesem Teil](#tnz10).
+Bei Auto, Kinderbetreuung und alltäglichen Lebenshaltungskosten unterscheiden sich die vier Regionen weniger stark als bei den Wohnkosten. Wer aus einer deutschen Großstadt ohne eigenes Auto kommt, sollte trotzdem außerhalb der jeweiligen Innenstadt in praktisch allen vier Regionen ein eigenes Fahrzeug einplanen – Details zu Führerschein-Umtausch, Autokauf und Kfz-Versicherung erklärt das [Kapitel zu Führerschein, Auto und Verkehrsregeln in diesem Teil](#tnz10).
 
 ### Plus und Minus
 
-| Plus | Minus |
-|---|---|
-| Allgemeiner Bond bis vier Wochenmieten; bei genehmigtem Haustier bis zu zwei weitere Wochenmieten Pet Bond. Beide Bonds werden bei Tenancy Services hinterlegt. | Auckland und Wellington mit hohem Wettbewerb um gute Mietwohnungen |
-| Vermittlungsgebühren für Mieter seit 2018 verboten | Bestandsimmobilien-Kauf für die meisten Einwanderer erst nach Erfüllung der „ordinarily resident“-Voraussetzungen möglich |
-| Christchurch bietet klar günstigeren Wohnraum und aktive Fachkräfte-Werbung | Erdbeben-, Überschwemmungs- und Vulkanrisiko unterscheiden sich stark von Region zu Region |
-| Staatliche Toka-Tū-Ake-Deckung ergänzt die private Erdbebenversicherung | Die Deckung von 300.000 NZD ersetzt keine ausreichende private Wohngebäudeversicherung |
-| Australische und singapurische Staatsangehörige haben eine Sonderregel beim Hauskauf | Deutsche Staatsangehörige erhalten keine entsprechende pauschale Ausnahme |
-| Jede Region hat ein gut dokumentiertes Naturgefahren-Profil, das sich recherchieren lässt | Queenstown/Otago ohne eigene isolierte Miet- oder Kaufstatistik, nur über die Gesamtregion abschätzbar |
+**Plus:**
+- Allgemeiner Bond bis vier Wochenmieten; bei genehmigtem Haustier bis zu zwei weitere Wochenmieten Pet Bond. Beide Bonds werden bei Tenancy Services hinterlegt.
+- Vermittlungsgebühren für Mieter seit 2018 verboten
+- Christchurch bietet klar günstigeren Wohnraum und aktive Fachkräfte-Werbung
+- Staatliche Toka-Tū-Ake-Deckung ergänzt die private Erdbebenversicherung
+- Australische und singapurische Staatsangehörige haben eine Sonderregel beim Hauskauf
+- Jede Region hat ein gut dokumentiertes Naturgefahren-Profil, das sich recherchieren lässt
+
+**Minus:**
+- Auckland und Wellington mit hohem Wettbewerb um gute Mietwohnungen
+- Bestandsimmobilien-Kauf für die meisten Einwanderer erst nach Erfüllung der „ordinarily resident“-Voraussetzungen möglich
+- Erdbeben-, Überschwemmungs- und Vulkanrisiko unterscheiden sich stark von Region zu Region
+- Die Deckung von 300.000 NZD ersetzt keine ausreichende private Wohngebäudeversicherung
+- Deutsche Staatsangehörige erhalten keine entsprechende pauschale Ausnahme
+- Queenstown/Otago ohne eigene isolierte Miet- oder Kaufstatistik, nur über die Gesamtregion abschätzbar
 
 ### Was jetzt zu tun ist
 
