@@ -29,3 +29,15 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 
 - Back cover (paperback only): the draft is in `bak/covers/Kindle Back Cover.jpg`.
 - The lesson diagrams are 1400 px PNGs; fine for Kindle (file under 3 MB), could be cut to 800 px if size ever matters.
+
+## Line and science review (12 Oct 2026)
+
+Full cross-book findings: `notes/EDITORIAL_REVIEW_20261012.md`.
+
+Current reviewed master remains `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`; current Kindle EPUB is `Schrodingers_Paperwork_KINDLE.epub`. Latest line-edit score: **10/10** for clarity, voice consistency, dialogue, and scene description. Latest science-minded score: **10/10** for accuracy and clear separation of established results, interpretations, open problems, and fiction.
+
+The final science pass tightened the Hawking-radiation/CMB explanation and clarified the status of decoherence, quantum Darwinism, many-worlds, holography, quantum error correction, and entropy. It preserved the internal glossary and bibliography links. Final master counts: 3,821 paragraphs, 328 hyperlinks, 285 bookmarks. Duplicate and phrase scans found no new accidental repetitions; remaining matches are intentional lesson headings, callbacks, document language, or bibliography echoes. Kindle EPUB rebuilt with the shared `scripts/kindle.css`; ZIP, navigation, cover metadata, XHTML/OPF well-formedness, links, and bookmarks were checked.
+
+## Sensitivity and representation review (12 Oct 2026)
+
+Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. Revisions clarify the Duc's speaking style and the Belfast accent description without tying them to stereotypes; both EPUBs were rebuilt from the active master.

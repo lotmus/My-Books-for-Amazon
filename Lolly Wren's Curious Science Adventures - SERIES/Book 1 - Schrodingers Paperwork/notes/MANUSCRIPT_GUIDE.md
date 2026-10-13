@@ -1,6 +1,8 @@
 # Schrödinger's Paperwork — Book 1 — Working Guide
 
 Reference file for editorial/formatting work on `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`.
+
+For current cross-book authority, the next-book handoff is `../../notes/NEXT_BOOK_START_HERE.md`; older dated Book 2 references in this guide are historical.
 Shared facts for every book in the series are in `../SERIES_BIBLE.md`. Read that before changing a person, a place, a date, a physics claim, or the way anyone speaks. The section "Tone and humour" binds the joke and the furniture.
 Read this first for Book 1's file. Only open the full manuscript for tasks that genuinely need it (continuity checks,
 verifying a specific passage, reading unfamiliar new content). Keep this file updated as facts change.
@@ -8,8 +10,7 @@ verifying a specific passage, reading unfamiliar new content). Keep this file up
 Handover, 30 September 2026. This Kindle file is the live Book 1. Do not edit
 `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.voice-unruh-brillouin.docx` or any `*.before-*.docx` as the book.
 The parent-folder `Schrodingers_Paperwork/` tree is not this manuscript.
-Live Book 2 is `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`, and its guide is
-`Book 2 - The Permitted Options/MANUSCRIPT_GUIDE.md`. Do not overwrite `bak/The_Permitted_Options_BOOK_2_DRAFT.docx`.
+Book 2 original draft: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`. Current reviewed continuity copy: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx`; consult its guide and status before cross-book edits. The series-level current index is `notes/NEXT_BOOK_START_HERE.md`. Never overwrite snapshots under `bak/`.
 
 ## Premise
 
