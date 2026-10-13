@@ -125,3 +125,7 @@ The final PDF Appendix A formula summary was also checked on page 139; the effec
 Book 2 prose follow-up (13 Oct 2026): revised four long or semicolon-heavy passages in Chapters 1, 3, and 4 and Appendix D for shorter sentence units and clearer progression. The tagged mirror matches the master, and the current Previewer package has a matching embedded DOCX hash and clean report. This is a targeted repair; no whole-book line-edit score change is claimed.
 
 Book 2 follow-up, second prose pass (13 Oct 2026): improved sentence boundaries and pacing in five explanatory passages covering SR latches, digital regeneration, Karnaugh maps, active-filter loading, and capacitor families. Rendered selected pages and checked the updated text mirror; the words and layout are legible. The full book was not re-scored from this sample.
+
+## Book 4 prose follow-up (13 October 2026)
+
+The "How to Use This Book" roadmap now separates Parts II, III, and IV into shorter blocks. Part III identifies the class-by-class cookbook and maps the GaAs and GaN design chapters explicitly, while distinguishing RF SOI switch design from the SiGe/InP technology survey. The Book 4 tagged mirror was regenerated. Rendered page 2 was inspected; the roadmap fits cleanly and remains legible. This targeted signposting edit does not justify changing the prior line-editor score.
