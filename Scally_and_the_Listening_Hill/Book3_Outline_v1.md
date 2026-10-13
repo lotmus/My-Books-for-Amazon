@@ -57,6 +57,6 @@ Never touch a bat or any wild animal that seems tame or hurt, and tell a grown-u
 
 ## Open questions (ASK)
 1. Title: pick one of the three, or another.
-2. (Decided: a boy.) Which silly nickname does Pip give him, and what is his real name?
+2. (Decided: a boy, nicknamed Biscuit by Pip.) What is his real name, the quieter one his parents give him?
 3. How much of the pregnancy do we show? (Suggested: gentle and honest, no medical detail beyond the scan.)
 4. Should Hal's mother's pregnancy be hinted from chapter 1 or a surprise? (Suggested: hinted.)
