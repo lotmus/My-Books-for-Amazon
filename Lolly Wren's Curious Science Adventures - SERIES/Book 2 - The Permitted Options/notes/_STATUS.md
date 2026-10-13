@@ -59,3 +59,7 @@ Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.3/10 overall
 ## Addicted-reader review (13 Oct 2026)
 
 Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.5/10**; plot/payoff 9.5, pace/suspense 9.1, character/dialogue 9.6, humour/satire 9.4, prose/clarity 9.6, science/continuity 10, Kindle mechanics 10. The quieter, denser middle is the main tradeoff for a binge reader; the unresolved case threads are intentional and continuity-consistent. No new story edit was warranted. EPUB rebuilt and package/internal links validated.
+
+## Image and visual-accessibility review (13 Oct 2026)
+
+Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.6/10**; the cover, interior-image fit, and image placement/accessibility each score 10/10. The designed back-cover panel is now the final page, with descriptive alt text. Rebuilt and validated the Kindle EPUB; the back cover follows all story and lecture content, and internal links resolve. No interior diagrams were needed for this text-led volume.
