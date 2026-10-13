@@ -14,7 +14,7 @@ I would be very grateful for an honest read from someone who knows children. Ple
 4. Whether a child could follow the story from the pictures alone (there are about 65 painted pictures).
 5. Anything you would cut, shorten or add.
 
-It is about 11,200 words, roughly 70 to 80 minutes aloud, so feel free to skim chapters 1, 5, 7 and 9, which hold most of the science and the safety scenes. I have attached a one-page checklist of the claims I already checked (Teacher_Check.md) so you can tell me where you disagree.
+It is about 11,500 words, roughly 70 to 80 minutes aloud, so feel free to skim chapters 1, 5, 7 and 9, which hold most of the science and the safety scenes. I have attached a one-page checklist of the claims I already checked (Teacher_Check.md) so you can tell me where you disagree.
 
 Thank you!
 

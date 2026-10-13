@@ -7,7 +7,7 @@ Children's STEM-fantasy chapter books by **Anneliese Tauber** (pen name, the sam
 
 | Book | Folder | Current files | Words | Pictures |
 |---|---|---|---|---|
-| 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v20.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v20.txt` | about 11,200 | 65 + cover |
+| 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v21.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v21.txt` | about 11,500 | 65 + cover |
 | 2. Scally and the Sleepless Stream | `Scally_and_the_Sleepless_Stream` | `..._Book2_v14.docx`, `.epub`, story `Book2_Story_v14.txt` | about 14,000 | 83 + cover |
 | 3. Scally and the Hill with the Hanging Socks | `Scally_and_the_Hill_with_the_Hanging_Socks` | `..._Book3_v7.docx`, `.epub`, story `Book3_Story_v7.txt` | about 22,800 | 119 + cover |
 
