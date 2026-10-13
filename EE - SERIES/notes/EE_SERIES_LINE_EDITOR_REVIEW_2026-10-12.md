@@ -121,3 +121,5 @@ The revised Chapter 8 page and answer-key page were visually checked in a fresh 
 Book 6 Previewer conversion now matches the final master hash and reports Supported/Success with no errors or quality issues. All nine current-master KPFs pass the same exact-hash and clean-report check. Visual review remains limited to selected pages.
 
 The final PDF Appendix A formula summary was also checked on page 139; the effective-resistance definition wraps cleanly and remains readable.
+
+Book 2 prose follow-up (13 Oct 2026): revised four long or semicolon-heavy passages in Chapters 1, 3, and 4 and Appendix D for shorter sentence units and clearer progression. The tagged mirror matches the master, and the current Previewer package has a matching embedded DOCX hash and clean report. This is a targeted repair; no whole-book line-edit score change is claimed.
