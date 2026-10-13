@@ -547,31 +547,121 @@ I do not know if it is true. It is the first thing I have ever written that I co
 
 ## 7. The Stroke
 
+*Expanded draft v1. Stone, first person, past tense. Part One ends. Placeholders throughout.*
+
+* * *
+
 It happened on a Thursday, which I mention only because I have mentioned the Thursdays before, and I should like the record to show that I noticed the irony and did not enjoy it.
 
-I was in the lab at ten past six. The kettle had been on, and I was waiting for it, and I had the three-by-five cards for the new batch in my right hand. I remember the cards. They were the white ones with the green line, and I had written on them in the small upright hand that I have always used for things I do not want read.
+It was the second week of April. The windows of the lab were open an inch, for the first time since October, and the air that came in smelled of wet earth and bus exhaust. I had arrived at six, as I always did, and put the kettle on, and sat down at my bench with the three-by-five cards for the next batch spread in front of me like a patient hand of solitaire.
+
+I should say what else was on the desk, since it is part of the picture.
+
+On the left was a folded sheet of paper from the front office, which had come up with the morning post. It was a routine confirmation, in the dull language of such forms, that a patient of the clinic had returned a positive result. The patient was a woman in her late thirties, from the other side of the county. She and her husband had waited seven years. In November I had taken three embryos out of an incubator and done something to them that I had promised a child I would not do, and in March I had placed one of them in her, with a steady hand and a firm voice, and told her, with a smile, that it was a good embryo.
+
+It had held. I looked at the sheet for a long time. I did not feel guilt. I want to be honest: I felt something I can only describe as tenderness, of the kind a man feels for a thing he has made and has not yet met.
+
+I folded the sheet in half. I put it under the stapler.
+
+I do not know what became of the child. I know only that there was one.
+
+* * *
+
+The kettle had begun to whistle. I had the cards in my right hand. They were the white ones with the green line, and I had written on them in the small, upright script I have always used for things I do not wish to be read.
 
 Then the floor came up.
 
 It was not a fall. It was more as if the building had been tilted a few degrees by a person who wished to see what would roll. The cards left my hand. I watched them go, one by one, in no hurry, as if they too were considering the matter. I remember thinking, with great clarity, that I should call someone. I remember reaching for the word for the telephone. It was not there. In its place was a quiet, smooth gap, like the place in a mouth where a tooth has been.
 
-*Pen*, I said, or tried to say. *Pen. Phone. Pen.*
+*Pen,* I said, or tried to say. *Pen. Phone. Pen.*
 
-The technician found me at six-forty. He was not the same technician, but he was a man of the same type, with a small consistent economy of his own. He knelt beside me and said my name, and for the first time in twelve years I wanted nothing more than to answer him.
+The sound that came out was not a word. It was breath, in a shape. I lay on my side on the cold floor with the kettle screaming and my cheek against a tile. I could see under the bench. There was a paperclip there, and a single glove, and a small piece of green card.
 
-I am told the rest. I am told that the paramedics were quick, and that I was in the hospital within the hour, and that the doctors said there was a window of treatment and that it was closing. They said it to the air above me. I could not tell them that I had had my own window once, four minutes and eleven seconds of it, and that I had always known what it was to close one.
+I thought: *so this is how it is done.*
 
-The index was not in the vault. It never had been, in the sense that mattered. The vault held the pages. The meaning of the pages was in my head, in a language only I had learned, and what the stroke took was the grammar. When I looked at my own handwriting, afterward, I could read the letters and not the sentences.
+I thought, with a strange and tidy irony, that I had always known what it was to close a window. I had had my own, once, four minutes and eleven seconds of it. I had timed it. I had been a man who timed things. And now my own was closing, with the cameras unrepaired, on a floor, with no one to time it for me.
 
-I could read, however, the notebook. It was written in plain words. I had been writing it for a year, in the evenings, with my right hand, in the voice of a man explaining himself to a stranger. It was, I understood in the bed with the rail up, the only complete account of anything that remained.
+I counted. I had lost the numbers. I counted anyway, in a language of my own, and lost it.
 
-I could not say so. I could only listen to the machines.
+* * *
 
-The last thing I remember clearly from that week is a nurse's voice, very close, a woman's, kind and tired, who said to someone I could not see: *He keeps trying to say something.*
+The technician found me at six-forty. He was not the same technician; the Thursday man had left some years before. But he was a man of the same type, with a small, consistent economy of his own. He knelt beside me and said my name, and for the first time in thirteen years I wanted nothing more than to answer him.
+
+I am told the rest. I am told that the paramedics were quick, and that I was in the hospital within the hour, and that the doctors said there was a window of treatment and that it was closing. They said it to the air above me. They said it in the voice that people use to speak over a patient who may or may not be listening. I was listening. I could not tell them that I had had my own window once, and that I had always known what it was.
+
+I remember the corridor. The ceiling lights went by, one, two, three, in a long white strobe. I remember the smell of antiseptic. I remember a young doctor's face, close to mine, with a small cut on the chin from a morning shave, saying: *Dr. Stone, can you squeeze my hand?* I did what I could. I do not know which hand it was.
+
+I remember a nurse's voice, a woman's, kind and tired, who said to someone I could not see: *He keeps trying to say something.*
 
 I was trying to say *pen.*
 
 * * *
+
+I have been told what the stroke took, and I will set it down plainly, because it is the reason this account exists.
+
+The index was not in the vault. It never had been, in the sense that mattered. The vault held the pages. The meaning of the pages was in my head, in a language only I had learned, and what the stroke took was the grammar.
+
+When I looked at my own handwriting, afterward, I could read the letters and not the sentences. I could say, *that is an A, and that is a number, and that is the name of a family,* and I could not say what any of it was for. It was as if a man had been left with every word of a great poem and the ability to read only its punctuation. I sat in a hospital chair, on the fourth day, with the pages on my knee, which someone had brought from the lab in a plastic bag, and I turned them, one after another, and felt nothing at all.
+
+That was the most frightening hour of my life. I wish I could say that it was because of the plan, the century, the children. It was not. It was because I knew, with perfect clarity, that I did not mind.
+
+I had spent forty years being a person who could tell you at any moment what he had done and why. In the space of an afternoon I had become someone who could not. And the man I had been, who would have been appalled, was no longer present to be appalled. There was only a calm old man in a hospital gown, holding a handful of paper, and the calm was the worst of it.
+
+I could read, however, the notebook. It was written in plain words. I had been writing it for a year, in the evenings, with my right hand, in the voice of a man explaining himself to a stranger. It was, I understood, in the bed with the rail up, the only complete account of anything that remained.
+
+I could not say so. I could only listen to the machines.
+
+* * *
+
+The clinic's director came on the eighth day.
+
+She stood at the foot of the bed in a good coat, with a bunch of flowers wrapped in paper, and the expression of a person who has been told to say something kind. She was a competent, courteous, harassed woman whom I had known for fifteen years and had never once told the truth. She said that everyone at the clinic sent their love. She said the program was in good hands. She said that Dr. Okonjo, who had taken over my cases, was *a very safe pair of hands,* and I thought, from the way she said it, that she meant it as a reproach.
+
+She said she had been to my lab.
+
+I looked at her. I could not speak, but I could look. I had always been told that I had a good look.
+
+"I found the cabinet," she said. She was fiddling with the paper on the flowers. "I didn't open it. It was locked, and I didn't want to presume. But I thought I should tell you. I've asked the facilities people to leave it alone, until—" She stopped. "Until you're better."
+
+I held her eyes.
+
+"And the incubator," she said. "The old one. I've asked them to... well. I'm sure there's nothing in it." She laughed, lightly, as people do at a joke that has not been made. "Four hours a week. You're the only person I've ever known who works *less* than he's allowed."
+
+She put the flowers on the table. She touched my hand, once, and left.
+
+I did not know whether she knew. I have wondered since, many times. I do not think it matters. A woman who has decided not to look is as good as blind, and I had made her so.
+
+* * *
+
+I was moved on the fifteenth day to a place with a view of a car park.
+
+It was a rehabilitation unit, and the staff were brisk and cheerful, and they gave me a board with the alphabet on it and told me to point. I pointed. I spelled out, with my right hand, very slowly, the word *notebook.*
+
+The nurse, a woman in her fifties with a silver cross at her throat, looked at me with real kindness. "A notebook? Of course, Dr. Stone. I'll see to it."
+
+She did. It was in my locker the next morning, in the black cover, with the tape on the spine, and I took it into my hands and held it. It was warm from the radiator. I opened it to the last page I had written, and read the last sentence, and could not remember writing it.
+
+It said: *There are things I should tell you, and I will, in order.*
+
+I have not told them in order. I have told them as they came. But I have told them, as far as I am able, and when I could not, I have left the line blank.
+
+* * *
+
+This is the end of the part that is mine. I have composed these last pages on the board with the alphabet on it, a letter at a time, over a good many months, with a patient aide writing down what I pointed to. They are therefore short.
+
+I am told that the one who reads this will be younger than I was when I began it, and that he will have my ears, or better. I am told that he will do with it what he chooses. I do not expect to be forgiven. I would like to be understood, and I have found that this is the same thing in a smaller room.
+
+I want to say one thing more, and I will say it badly, because the words are going.
+
+There was a child, once, in a carrier on a table. He had stopped crying. He had turned his head a few degrees toward a wall. And I, who had made him, had felt for the first time in my life the plain animal fear of a man who has taught a dog to open a door.
+
+I was wrong about the fear. It was not that he could. It was that I had not once asked whether he would want to.
+
+I
+
+I am trying to
+
+*pen*
 
 
 # PART TWO: THE OFFSPRING
@@ -579,163 +669,957 @@ I was trying to say *pen.*
 
 ## 8. The Notebook
 
-I was sixteen when I found it, and I want to say at once that I was not looking for it.
-
-For four years I had known Stone was in a care home forty minutes from our apartment. My parents knew it too, in the way they knew about a distant cousin's operation: with a kind sentence and no follow-up. *Poor Dr. Stone. He was so good to us.* My mother sent a card each Christmas, signed by all three of us. I signed mine with a full stop after my name, which I thought was funny.
-
-I went in the spring of 2016 because my mother's card had come back marked *undeliverable*, and I thought, with the logic of an adolescent, that someone had better find out.
-
-The care home smelled of boiled carrots and floor wax. The aide, a young man with a tattoo of a swallow on his wrist, said Dr. Stone had not had visitors in two years, and was I family? "A family friend," I said. He believed me. Adults believe boys who are polite.
-
-Stone was in a chair by the window. He was smaller than I remembered, and his left hand lay in his lap like something he had been asked to hold. He looked at me with an attention I could not read, and his mouth made a shape that was nearly a word and was not.
-
-I told him who I was. I told him the date. I said, in a normal voice, that I had read everything, and that I had not told anyone, and that I was keeping my part of the bargain. At the word *bargain* his good eye moved, a little, toward the locker beside the bed.
-
-The notebook was in the bottom drawer, under a folded cardigan. Black cover, soft corners. The aide said the doctor liked to hold it. I opened it standing up.
-
-It began: *The window was four minutes and eleven seconds long.*
-
-I read it for two hours in a plastic chair. I read it all, and when I looked up, the light had moved across the floor, and Stone was looking at me, and I understood for the first time that I was the only living person who could read it all.
-
-That night, at dinner, my mother asked if I wanted more potatoes. My father was telling a story about a customer whose truck had run out of gas twice on the same bridge. I had a sentence ready. It was four words long.
-
-I said, "Yes, please, Mom."
-
-I tried again the following week. And the week after that.
+*Expanded draft v1. The main offspring, first person, past tense. Part Two opens. Placeholders throughout.*
 
 * * *
+
+You have just read Stone's account. I should say that I have not changed a word of it.
+
+I have been tempted. There are places where I could have improved him: made him kinder, or crueler, or simply less in love with the sound of his own sentences. There are places where I know he is wrong, and I could have said so in a footnote. I have not. A man's account of himself is a piece of evidence, and the only honest thing to do with evidence is to hand it over whole. What follows is my own account, which he would have corrected, and which I have tried to keep as plain as his.
+
+I was sixteen when I found it, and I want to say at once that I was not looking for it.
+
+* * *
+
+For four years I had known that Stone was in a care home forty minutes from our flat. My parents knew it too, in the way they knew about a distant cousin's operation: with a kind sentence and no follow-up. *Poor Dr. Stone. He was so good to us.* My mother sent him a card each Christmas, signed by all three of us. I signed mine with a full stop after my name, which I thought was funny.
+
+I had kept the terms of the bargain. I had not gone near him. I had written no letters. When the stroke came, in the spring of 2012, I learned about it from the clinic's newsletter, which printed a paragraph of regret under a photograph of him in a bow tie at a picnic, looking, as always, like a man who had lost a bet. I read it twice. I did not feel what I had expected to feel. I felt, I am ashamed to say, a kind of weightlessness, like a boy whose teacher has been called out of the room.
+
+It lasted about a week. Then I began, slowly and with no plan, to feel afraid.
+
+Stone had been the only other person who knew. For a year I had been the watcher and he the watched, and I had told myself that this was the order of things, and that it would last. Now there was no one to watch. There was a man in a bed who could not speak, and a world that did not know there was anything to speak about. And I was eleven, then twelve, then thirteen, and a person, I understood, who held in his head the only complete account of what had been done to fifty-eight children, and who had told no one.
+
+I carried it for four years. I do not think I have ever been so lonely.
+
+* * *
+
+I went in the spring of 2016, because my mother's Christmas card had come back marked *undeliverable,* and I thought, with the logic of an adolescent, that someone had better find out.
+
+The care home had been moved. I learned it from a woman on the telephone, a patient, tired voice that gave me the new address without asking who I was. It was an old brick building at the end of a long drive, with a car park, a flagpole, and a sign that said **WILLOW GROVE: A COMMUNITY OF CARE.** It smelled of boiled carrots and floor wax. In the entrance hall there was a corkboard with a notice about a bingo night and another about a visiting petting zoo.
+
+The aide at the desk was a young man with a swallow tattooed on the inside of his wrist, in the soft blue of a drawing done by someone who loved birds. He said Dr. Stone had not had visitors in two years, and was I family?
+
+"A family friend," I said.
+
+He believed me. Adults believe boys who are polite.
+
+He took me down a corridor with handrails on both sides. Through the open doors I could hear a dozen small private sounds: a television, a cough, the slow wheeze of someone sleeping in a chair. At the end was a day room with big windows and a view of a lawn. A row of old people sat in armchairs facing the glass, like an audience at a very quiet play.
+
+* * *
+
+Stone was in the third chair from the left.
+
+He was smaller than I remembered, and his left hand lay in his lap like something he had been asked to hold. His hair had gone white, and someone had cut it too short. He wore a cardigan with the elbows worn through, and a pair of soft grey trousers, and his feet, in slippers, did not quite reach the floor.
+
+He looked at me with an attention that I could not read. It was not the look of a man who recognizes a face. It was the look of a man who has heard a sound he recognizes. His mouth made a shape that was nearly a word and was not.
+
+I pulled up a plastic chair and sat down beside him. I told him who I was. I told him the date. I said, in a normal voice, as one speaks to a person who may or may not be listening, that I had read everything, and that I had not told anyone, and that I was keeping my part of the bargain.
+
+At the word *bargain* his good eye moved, a little, toward the locker beside the bed.
+
+I looked at it. I looked back at him.
+
+"Is it in there?" I said.
+
+He did not answer. But the eye went again, a small bright flick, like a bird's, to the locker and back. It was the most deliberate thing he had done, the aide told me later, in three years.
+
+* * *
+
+The notebook was in the bottom drawer, under a folded cardigan.
+
+It had a black cover with soft corners. The spine had been mended with tape. The aide, who had followed me in with a tray of tea, said the doctor liked to hold it: that he would not be parted from it, that they let him keep it by the bed, and that he sometimes sat for an hour with his hand flat on the cover, the way you rest a hand on a sleeping dog.
+
+I opened it standing up.
+
+The first line was in small, upright, impeccable handwriting, in black ink.
+
+*The window was four minutes and eleven seconds long.*
+
+I sat down. I read for two hours in a plastic chair, with the tea going cold on the tray and the light moving across the floor. I read the whole thing. I read the chapter about the four minutes, and the one about the picnic, and the one about a man in a gray sweater who had said *I've read it. All of it.* I read the part where I was eleven, and a stranger, and frightening. I did not recognize myself and I recognized every word. It is a strange thing, to be described by someone who did not like you and did not stop looking.
+
+Near the end of the notebook was a page that began with a sentence I had never expected to read.
+
+*The reason I did this was not that I thought I was good. It was that I was afraid of being ordinary.*
+
+I stopped. I read it again. I put my hand flat on the page, as he did. And I became aware, slowly, that he was watching me.
+
+He had turned his head. He was looking at me with his one good eye, with a steady, clear, and not unkind attention. His mouth was working.
+
+I leaned in. I put my ear close to his lips, as I had learned to do at a hundred bedsides, and I heard it. It was not a word. It was breath given a shape, a rounded open shape, the one a mouth makes before it says *oh.*
+
+"Yes," I said. "That's the one."
+
+I do not know why I said it. I am told by people who know about these things that a man in his state may respond to the *tone* of a sentence, and that I should not read too much into it. I am sure they are right. I read a great deal into it anyway.
+
+* * *
+
+I did not take the notebook. I want to be clear. It was his, and it was not mine to carry off in a bag. I took a hundred and twelve photographs of it with my telephone, standing in the corridor, page by page, and I put it back in the drawer under the cardigan, and I closed the drawer, and I said goodbye to him.
+
+He raised his good hand. It did not wave. It lifted a few inches off the blanket and let itself drop again, which I took to be the same thing.
+
+I took the bus home. It was nearly dark. I sat by the window with the telephone on my knee and watched the streetlamps come on, one by one, in a long yellow row, and at each of them I heard a faint electrical hum, and I thought: *I am the only living person who can read it all.*
+
+It was not a pleasant thought. It was heavy and precise, like a key.
+
+* * *
+
+That night, at dinner, my mother asked if I wanted more potatoes.
+
+My father was telling a story about a customer whose truck had run out of gas twice on the same bridge. He told it well. He had a way of building to the punchline by slowing down, as if he were backing a truck into a bay. My mother laughed at the places she was meant to. The lamp threw a warm circle on the table, and the kitchen smelled of onions.
+
+I had a sentence ready. I had had it ready for weeks. It was four words long.
+
+I opened my mouth.
+
+"Yes, please, Mom," I said.
+
+She heaped my plate. My father reached the punchline. We all laughed.
+
+I tried again the following week, over a pot roast. I tried the week after, in the truck, on the way to a hardware shop, with my father's hands steady on the wheel and the radio low. I tried in the middle of a thunderstorm, in a doorway, when my mother had stopped to find her keys. Each time I had the four words. Each time something else came out: a question about the weather, a remark about the soup, a joke.
+
+It was not cowardice, or not only. I have thought about it a great deal. It was that they were happy. I had never in my life seen two people so entirely at home in the world as my parents in their kitchen at seven o'clock, and I understood that what I carried would not be given to them as a gift. It would be a sentence passed. And I could not make myself be the judge.
+
+I would try, I told myself, again next week.
+
+I tried, in the end, for twenty years.
 
 
 ## 9. Odd Moments
 
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout; all people are invented.*
+
+* * *
+
 An unusual child in an ordinary family is mostly a matter of small adjustments, and I made hundreds.
 
-I learned to look at people when they spoke, not at the sound. I learned to wait a full second before answering, because the answer arrived a second earlier than the question. I learned that a person who says *I'm fine* with a particular dryness in the voice is not fine, and that the best response is to hand them something warm and ask nothing.
+I learned to look at people when they spoke, not at the sound. I learned to wait a full second before answering, because the answer arrived a second earlier than the question. I learned that a person who says *I'm fine* with a particular dryness in the voice is not fine, and that the best response is to hand them something warm and ask nothing. I learned to walk into a room as if I did not already know where everyone was standing.
 
-The school wanted to skip me three grades. My parents went to the meeting in their good clothes. My father, who had left school at sixteen, said to the principal: "He's a normal kid who happens to be quick. We'd rather he had friends." The principal said that was very reasonable. It was also, as it turned out, the wisest thing anyone said about me in thirty years.
+None of it was hard. That is the thing people never believe. They imagine a child like me as a prisoner, forever on guard, and they weep a little in advance. But no one is on guard for years. One makes a few rules, and the rules become habits, and the habits turn into a face. By the time I was fourteen, I did not notice I was doing it, any more than a man notices he is walking on the left of the pavement.
 
-The neighbor in 4C died the winter I turned fifteen. I heard the argument in 5B that night, the one about money, and I knew who was lying in it, and I did nothing. I carried that for a year. At the funeral I carried a casserole.
+What I noticed instead were the odd moments, when the face slipped, and what happened next.
 
-My father broke a rib on a loading dock the following spring and I sat with him in the emergency room, and my mother left to get coffee, and he said, looking at the ceiling: "You can tell me anything, you know. I'm not as dumb as I look."
+* * *
+
+The first was the piano.
+
+It was in the front room of the flat, an upright that my father had been given by a customer in lieu of a payment, and that no one in the family could play. It stood against the wall with its lid shut and a bakery calendar on top. It was flat. Not badly, only by a hair, in the middle octave, where the felts had gone. For years I had been unable to hear a hymn on the radio without my teeth wanting to stand on end.
+
+One evening in the autumn of 2012, when I was twelve, a neighbor's daughter came to tea. She was a small, serious girl, a year younger, with a plait and a violin case. She sat at the piano to be polite, and played a few notes, and then a few more, and I said, before I could stop myself: "It's flat."
+
+"What?"
+
+"The A. And the one below. It's about a fifth of a semitone."
+
+She stared. My mother, in the doorway with the teapot, stared too.
+
+"How do you know that?" said the girl.
+
+I had two sentences ready. I had practiced them. *I read it somewhere.* *My uncle tunes pianos.* I opened my mouth, and the girl looked at me with such open, uncomplicated interest that I forgot them both.
+
+"I just hear it," I said.
+
+My mother set down the teapot. "Danny's got good ears," she said, quite steadily. "He always has."
+
+The girl accepted this at once. Children do. She said that her teacher had told her the same about her, and that she could tell if a string was off by the sound of the pluck. She and my mother then had a long and animated conversation about teachers, while I stood by the shelf and looked at my shoes.
+
+That night my mother came into my room. She sat on the end of the bed, as she did when she had something to say, and smoothed the quilt with her hand.
+
+"You don't have to be careful with me, you know," she said.
+
+"I'm not."
+
+"You are. You do this thing with your face." She did it, a small neat smile with the eyes held still. It was an accurate imitation. "Like you're holding a tray."
+
+I said nothing.
+
+"I don't need to know everything. I don't want to be a nuisance." She patted the quilt. "But I want you to know that I'd rather you were yourself in the front room than careful in the kitchen." She stood up. "That's all. Goodnight, love."
+
+I lay awake for a long time. It was, I think, the most intelligent thing anyone said to me that year.
+
+* * *
+
+The school wanted to skip me three grades.
+
+My parents went to the meeting in their good clothes. They sat in two small plastic chairs, on the other side of a large desk, and the principal and the guidance counselor and a woman from the district office explained, in the careful, hopeful voice of professionals who have said it before, that I was *performing at a level well beyond my cohort.* They said *accelerated pathway.* They said *a unique opportunity.* They had a folder.
+
+My father, who had left school at sixteen, listened to all of it with his hands on his knees. When they finished, he cleared his throat.
+
+"He's twelve," he said.
+
+"Yes, but—"
+
+"I know he's quick. I'm not saying he isn't." He looked at the folder, then at the principal. "But he's a normal kid who happens to be quick. We'd rather he had friends."
+
+The principal said that was very reasonable.
+
+"He's got one," my father said. "A boy named Teo. They build things in the shed. I'd rather he kept that than a gold star." He glanced at my mother, who nodded. "If he wants to go up a grade, he can go up one. If he wants to read what he likes in the library, he can do that. But he's going to stay with his own age."
+
+It was, as it turned out, the wisest thing anyone said about me in thirty years.
+
+Teo was a stocky, cheerful boy with a gap in his teeth and a talent for taking things apart. He lived two floors up. I had known him since we were seven, and he had never once asked me a question I could not answer. We spent the summers in his father's shed, with a soldering iron and a stack of broken radios, making things that did not work. Teo was patient with my hands. I was patient with his arithmetic. We understood each other well enough to be silent for an hour at a stretch.
+
+He noticed everything, of course. He is the sort of person who does. But he noticed it as a friend, which is to say, by not saying so. When I stopped in the middle of a sentence because a door had opened in the next building, he simply waited. When I called out *someone's coming* a minute before the doorbell, he got up and let them in. When I once, in a bad moment, told him I could hear his father's heart through the wall and that it sounded tired, he put down the wire and said: "Yeah. He's been working nights."
+
+It was the whole of our conversation on the subject. I have never forgotten it.
+
+* * *
+
+At fourteen, the school nurse tested my hearing.
+
+It was routine. She was a plump and kindly woman with a clipboard, and she took me into a small room with a booth and a pair of enormous headphones and told me to raise my hand each time I heard a tone. I sat in the booth. I looked at the wall. The tones came, high and low, soft and softer, a long climbing run of them, from a machine whose wiring I could hear humming behind the plaster.
+
+I heard all of them. I heard tones that the machine was not producing, harmonics of its own heat. I heard the nurse breathing on the other side of the glass. And somewhere around the fourth frequency, I made a decision.
+
+I let two go by.
+
+I raised my hand late, at the next, and missed one in the middle, and then I raised it at the right moment for the rest. I did it so lightly that I wasn't sure myself. When I came out, the nurse looked at the chart for a moment, then at me, and said: "Perfectly healthy. A little dip around four thousand, but nothing to worry about."
+
+"Thank you."
+
+"You'd be surprised how many boys your age have it. All those earbuds." She smiled and tore off the sheet. "Keep the music down."
+
+I said that I would.
+
+I walked home that afternoon with a paper folded in my pocket, and a feeling that I could not at first identify. It was not guilt. It was something more like loss. I had, I realized, deliberately made myself a little less than I was, for the first time, in order to be easier to describe. I had given the world a smaller number. And the world had thanked me for it.
+
+I wrote it down, that night, in a notebook. I did not know then that I would one day have another notebook with a black cover, and that it would begin the same way.
+
+* * *
+
+The neighbor in 4C died the winter I turned fifteen.
+
+Mrs. Aldana had been a widow for twenty years, a small brisk woman in an oatmeal cardigan who brought us soup whenever one of us was ill, and sometimes when none of us was, in a covered dish, with the lid on crooked. She had known me all my life. She had never asked me anything about it. She had, I think, decided years before that there were things a neighbor did not need to hear, and that the wall between our flats was thin for a reason.
+
+She died on a Tuesday in January, quietly, in her chair. I heard it, from my room. I heard her breath change, and the long pause that followed, and then the clock on her mantel going on.
+
+I did not call for help. I want to put that down plainly. I sat on my bed for ninety seconds with my hand over my mouth, counting. It was already over, and I knew it. It was not the dying that held me, but the clock, which went on, with its small dry tick, as though nothing had happened.
+
+Then I got up and knocked on her door, and when no one answered, I went and told my mother.
+
+At the funeral I carried a casserole. I stood at the back of a small chapel with sixteen other people and listened to the minister say the usual things. I heard a man in the third row say, to the man beside him, in an undertone, that she'd left the flat to a niece in another state. I heard an argument begin, softly, over a bequest. I heard who was lying about how much they had loved her, and who was not, and I knew, as I knew my own name, that the only one in that room who was truly grieving was the oldest woman there, in a plain dark hat, who did not weep at all.
+
+I said nothing to anyone. I have carried that for twenty years. It is not a heavy thing. It is a small, clear weight, like a coin in a pocket.
+
+* * *
+
+My father broke a rib on a loading dock the following spring.
+
+It was a stupid accident. A pallet shifted, a strap gave way, and he went down on his side with sixty pounds of flour across his chest. He drove himself to the hospital, which was typical, and my mother met him there, and I took the bus.
+
+I sat with him in the emergency room, in one of those curtained cubicles, on a plastic chair that creaked. He was propped up on a gurney with a thin blanket and an oxygen line, looking at the ceiling. The doctors had said it was only a rib, and he was holding himself with the stillness of a man trying not to laugh. My mother had gone for coffee.
+
+After a while he said, still looking at the ceiling: "You can tell me anything, you know. I'm not as dumb as I look."
 
 "You're not dumb at all, Dad."
 
-"No. But I'm slow. You've never made me feel it." He turned his head. "I wanted to say thank you for that."
+"No. But I'm slow." He turned his head. His face was grey with the pain and the effort of being cheerful. "You've never made me feel it. In all these years. I want to say thank you for that."
 
-I said, "It's nothing." It was not nothing. It was nearly everything, and I could not say so, and I have learned since that this is the cost of what I am: that I can hear the whole sentence in my father's voice and cannot say its answer.
+I said, "It's nothing."
 
-I decided then that I would be ordinary for as long as I could.
+It was not nothing. It was nearly everything, and I could not say so, and I have learned since that this is the cost of what I am: that I can hear the whole sentence in my father's voice, the years in it, the patient shame, the fierce unspoken pride, and cannot say its answer without telling him what I am.
 
-* * *
+He closed his eyes. "Good kid," he said, to himself. He was asleep within the minute.
+
+I sat there with my hand beside his on the rail and listened to the breath go in and out of him, steady and slow, and I thought of the sentence I had been trying to say for months, and the four words in it. They were still there. They did not move.
+
+I decided that I would be ordinary for as long as I could.
+
+I have kept that decision. I am not sure whether it was a vow or a mistake. I know only that it was made out of love, and that love does not always make the wisest decisions, but it makes the ones that last.
 
 
 ## 10. The Search
 
-A list is not a conspiracy, though it can look like one.
-
-By the time I was eighteen I had Stone's notebook in my head, the four copies of the index he did not know about in four places he would not have guessed, and a spreadsheet. I kept it on a drive in a hollow rock on my shelf. The rock had been a present when I was nine.
-
-There were fifty-eight names, some of them partial. I worked from the clinic's public records, from school tables, from newspaper columns about the Fourth of July picnics, and above all from the ear. People with the package reveal themselves in a hundred small ways, if you know how to listen: a pause before a loud noise, a glance toward a sound that has not yet arrived, a way of leaving a room.
-
-I made one rule, and I kept it. No one is approached by surprise. If I could not find a gentle way to say it, I would not say it.
-
-Most of the names I never contacted. They were fine. They were happy, or happy enough, or too young. I wrote their initials on the sheet and a small star beside the ones who seemed well, and I put the sheet away.
-
-Four stars were different. I did not put stars on them. I put question marks.
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout; all families are invented.*
 
 * * *
+
+A list is not a conspiracy, though it can look like one.
+
+By the time I was eighteen I had Stone's notebook in my head, four copies of an index he did not know I had in four places he would not have guessed, and a spreadsheet. I kept the spreadsheet on a small drive inside a hollow rock on my shelf. The rock had been a present when I was nine, from my father, who had found it in a creek and thought it looked like a loaf of bread. It was an excellent hiding place. Nobody in the history of my family had ever picked it up.
+
+There were fifty-eight names. Some were whole, with an address and a school. Some were partial, a first name and a county. A few were nothing but a date of birth in the spring of one particular year, and a note in Stone's hand: *family relocated.* I had to build most of it from the outside, because the notebook was an account, not a registry. Stone had told me *why* he did what he did, and what it felt like, and what the technician's laugh sounded like at eleven minutes past midnight. He had not told me where anyone lived.
+
+So I did what he had done. I watched from far away.
+
+* * *
+
+I used the public things. A school district publishes its enrolment tables, and a county its birth notices, and a newspaper its columns about the Fourth of July picnics. A church prints its baptisms. A small-town paper will tell you, if you ask it nicely, that Mrs. So-and-so's grandson has taken first prize in the regional spelling contest and is thought to be *something of a prodigy.* I became a connoisseur of that word.
+
+I used the clinic. There was a program, I learned, a small one, which had offered help to families of modest means over the course of eleven years. It had a name, a logo with a green leaf, and a yearly newsletter. The back issues were in a university library. I read them in a carrel, in a building where nobody knew me, and made notes on the backs of grocery receipts. I read fifty-eight names in the photograph captions, with last names, under a banner that said **OUR FAMILY GROWS.**
+
+And I used the ear.
+
+I have said that people with the package reveal themselves in a hundred small ways, if one knows how to listen. A pause before a loud noise. A glance at a door before it opens. A way of leaving a room, a half-second before an argument begins in the next one. Children do it more than adults, because adults have learned to cover it. I sat in a good many parks. I stood at the edge of a good many playgrounds, a tall lad of eighteen with a notebook and an apologetic face, listening. I was twice asked by a parent whether I was lost. I said that I was waiting for a friend.
+
+I made one rule. I made it on the bus, the first day, and wrote it on the inside cover of the notebook in block letters, so I could not fool myself.
+
+**NO ONE IS APPROACHED BY SURPRISE.**
+
+If I could not find a gentle way to say it, I would not say it. If the person was too young, I would wait. If they were happy, I would let them be. I had been told, once, by a man in a chair, that he had never asked the question because a man who never asks cannot be asked. I would not become the man who asks.
+
+* * *
+
+The first family I found was the Duvals.
+
+I knew them from Stone's notes. The baker and the nurse who worked nights. The son who had been moved up two grades and cried every morning for a month, whose father had sat with him at the kitchen table, all one winter, reading the problems aloud in a flat patient voice, as though the numbers were a recipe.
+
+They lived in a mid-sized town on a river, in a brick house with a red door. The bakery was on the main street, under an awning with a cartoon wheat sheaf. It was called *Duval & Son.* I stood across the road on a Tuesday morning in March of 2018 and listened to it.
+
+Through the glass I could see a man behind the counter, in a white apron, with a face I had never seen and knew at once. He was forty-nine, perhaps, and broad, with flour on his forearms. He was putting a loaf into a paper bag for a customer. I heard the tissue rustle. I heard his voice, low and slow, saying *and a good morning to you.*
+
+Behind him, in the open door of the kitchen, a young man stood with his back to the street. He was eighteen, like me. He had a tray in his hands. He stopped.
+
+He turned his head, a few degrees, toward the road.
+
+He could not have seen me. I was across a wide street, behind a bus shelter, under a tree. But he stood quite still, with the tray balanced, and his head tilted. I knew what he was doing. He was listening to a car three streets away that had begun, very faintly, to rattle.
+
+His father said, over his shoulder, in the same low voice: "Marc. The oven."
+
+Marc put the tray down.
+
+I watched him for forty minutes. I watched him carry flour and slice bread and make change. I watched him turn, twice more, to a sound no one else had noticed. I watched his father look at him, each time, with a small, attentive, unfussed expression, and then look away. It was the look of a man who had decided, once, at a kitchen table, years ago, that there were things he did not need to be told.
+
+I did not go in. I did not buy a loaf. I wrote *M.D.* on the sheet, and a small star beside it, and put the sheet away.
+
+On the bus home I thought: *he's all right.* I had expected to feel satisfaction. I felt a strange, sharp envy. He had a father who had read to him. He had never had to be told anything.
+
+* * *
+
+By the winter I had found nineteen, and approached none.
+
+I should say what that cost. It was not a matter of loneliness, though I was lonely. It was a matter of knowledge. A person who has found nineteen strangers whom he knows more about than they know about themselves is not an observer. He is something else. I felt it first as a kind of weight, then as a kind of vertigo, and in the end as a low steady shame, like the sound of a refrigerator in a quiet house. I knew that a girl of fifteen in a town in the north was going to be offered a place at a music school, and that she would have to choose between it and a different life, and that her choosing would turn on whether anyone told her what she was. I knew that a boy of twelve had stopped talking at school. I knew his mother's name. I was not permitted, by my own rule, to ring her up and say *he can hear the fluorescent lights.*
+
+I went to see her anyway. I did not speak. I sat across the street in a car I had borrowed from a friend, and listened to her through an open window, and heard her say, very gently, to her son, *it's all right, sweetheart, you don't have to say anything.* He did not. But he leaned his head, a little, against her arm.
+
+I wrote his initials on the sheet, and a question mark.
+
+There were four question marks by the end of the second year. They were the ones that frightened me. A boy who had stopped talking. A girl, nineteen, who had been admitted to a hospital with a diagnosis that did not fit, and who told a nurse, quite calmly, that she could hear the building. A young man who had left home at seventeen and not been seen since, though his mother wrote to him every week, and his sister wrote, and nobody knew where to send the letters. And a woman of twenty-two, a university student with a blameless record, who had walked out of an exam and gone to live in a field.
+
+I did not put stars beside them. I put the marks, and drew a box around each.
+
+I told myself that I would find a way. I told myself that it was a matter of time, and care, and the right words. I have found, since, that this is what the young tell themselves about everything.
+
+* * *
+
+The last one I found by accident.
+
+It was a Saturday in October of 2018, in a park in a town I had gone to for a different reason. I had been looking for a family named Okafor, the ones with a late third child, a girl who read at three and reorganized the household accounts at seven. I had found them. She was fourteen now, in a school uniform, and she walked down the steps of a library with a stack of books, humming a tune I did not recognize. She was fine. She was more than fine. I put a star beside her name.
+
+I walked back through the park with my notebook under my arm. It was a dull, mild afternoon, and the leaves were turning. There was a playground at the far end, with a slide and a roundabout, and a small fenced sandpit. I had passed a hundred like it.
+
+A child was sitting in the sandpit, alone.
+
+She was about five. She wore a yellow raincoat, which was too big, with the sleeves rolled twice at the wrist. She was not digging. She was not playing. She was sitting with her legs crossed, in the middle of the sand, quite upright, with her head tilted slightly to the left, and her eyes closed.
+
+On a bench by the fence her mother sat reading a paperback. She had the loose, relaxed posture of a woman who has been told that her child is *dreamy.*
+
+I stood at the gate, and I listened.
+
+I do not know how to explain what I heard. It was not a sound. It was the absence of one. The child in the sandpit was listening to the park, to its whole width and depth: the traffic, and the rooks, and a distant lawnmower, and a man calling a dog, and the sough of the wind in the plane trees. She was listening with a patient, absorbed, unhurried attention, as one listens to music. And I understood, as I stood there with my hand on the cold wire, that she had never been told to stop.
+
+I checked the sheet. I looked at every name. She was not on it.
+
+I looked at the date on the notebook in my bag. I did the arithmetic on my fingers, as a child does. A five-year-old in the autumn of 2018 had been born in the early months of 2013. She had been conceived, if she had been conceived through the clinic, in the spring of 2012.
+
+I thought of a Thursday in November of 2011, and a man sitting at his bench with three embryos in an incubator, and a couple who had waited seven years.
+
+I thought: *the last batch.*
+
+Her mother turned a page. The child opened her eyes, and looked straight at the gate.
+
+I did not move. She regarded me for a long moment with perfect, grave attention, and then, quite slowly, she lifted one small hand in the yellow sleeve, and waved.
+
+I waved back.
+
+Then I went away, as quickly as I could without looking as if I were running, and I sat on a wall at the edge of the park for an hour with my head in my hands. I had broken my rule. I had not approached her. But she had approached me.
+
+I wrote *last batch* on the sheet. I put a star beside it, and a second, and I did not know what they meant.
 
 
 ## 11. The Phonetician
 
+*Expanded draft v1. The main offspring, first person, past tense. "Mira" and "Jonas" are placeholder names. The university is invented.*
+
+* * *
+
 I found her in a basement, which is where linguists are kept.
 
-The phonetics laboratory of a state university was three rooms and a sound booth. In the booth, on the evening I came, a young woman was speaking one word, over and over, with her eyes closed, while a machine drew a picture of it. The word was *better*. She said it with a flat *t*, a tapped *t*, a glottal one, a ghost of one. I stood in the corridor and listened, and about the fortieth repetition she opened her eyes and looked directly at the door.
+It was the autumn of 2019. I was nineteen, in my second year of a degree that combined biology and chemistry in roughly equal parts of bewilderment, and I had a list. It had four question marks on it, and a note beside the second one in my own small handwriting: *Phonetics? Sound lab? Hears first.* I had spent eight months working out what that meant. It had meant a good many hours in libraries, reading the acknowledgments sections of papers on speech perception, until one name appeared three times in a row. A student, a second-year, in a laboratory at a state university four hours from my parents' flat.
 
-She came out. She was twenty, small, with a pencil in her hair. She said, "You stopped breathing when I did the glottal one."
+I took the bus. I told my mother I was visiting a friend.
+
+The laboratory was in the sub-basement of a building that smelled of paint and dust. It was three rooms and a sound booth. In the corridor outside there was a corkboard with a notice about a bake sale and another about a lecture on the acoustics of whispered Danish. The door to the booth was ajar. I stopped well short of it. I stood against the cinderblock and held my breath.
+
+A young woman was in the booth, with her eyes shut, speaking one word, over and over, while a machine drew a picture of it.
+
+The word was *better.*
+
+She said it with a flat *t,* a tapped *t,* a glottal one, a ghost of one. She said it as though it were a rare coin, turning it to see the other side. I stood in the corridor for what must have been five minutes. I had never in my life heard anyone listen to her own voice with such precision. It was like watching someone read a map by touch.
+
+About the fortieth repetition she opened her eyes, and looked directly at the door.
+
+* * *
+
+She came out. She was nineteen, small, with a pencil in her hair and a lanyard with a name on it that I have promised not to repeat. I will call her Mira.
+
+"You stopped breathing when I did the glottal one," she said.
 
 "I'm sorry."
 
-"No." She looked at me for a long moment. "Nobody ever hears that. I've been listening to people hear nothing for twenty years." She held out her hand. "I'm Mira."
+"No." She looked at me for a long moment, with her head tilted. "Nobody ever hears that. I've been listening to people hear nothing for nineteen years." She held out her hand. It was cool and slightly inky. "I'm Mira."
 
-We talked for six hours, in a stairwell, because the building closed. We tested each other with small sounds we made with our hands. When I told her what we were, she did not interrupt. She asked one question, at the end, in a very quiet voice.
+I said my name. I said it as I had said it to no one else, with the surname, in full. She repeated it softly, as a person tries on a coat.
+
+"You're not a student here."
+
+"No."
+
+"You came to find me."
+
+"Yes."
+
+"Why?"
+
+I had a speech. I had written it on the bus. It was good, and it was careful, and it began with the sentence *I think you may have an unusual sense of hearing.* I looked at her, at the pencil and the lanyard and the grey, appraising eyes, and I put the speech away.
+
+"Because you can hear that the refrigerator in the next room is flat," I said.
+
+She did not answer for a moment. Then, very slowly, she smiled.
+
+"It's a B flat," she said. "Nobody believes me. It's slightly under."
+
+"A quarter tone."
+
+"A *bit* less than a quarter tone." She tucked the pencil more firmly into her hair. "Come on. The building closes at nine. I think we should be somewhere that no one is listening."
+
+* * *
+
+We talked for six hours, in a stairwell, because the building closed and the porter, a kind and weary man, let us stay on the condition that we did not touch anything.
+
+It was concrete and cold and smelled of bleach. We sat on the third step with our backs against the wall. Above us a light buzzed. Below us a pipe knocked, once every forty seconds, and Mira said, "Seventeen minutes past the hour it'll do two," and it did.
+
+We tested each other, without discussing it. It was done in small ways. She dropped a pencil on the landing, and I said where it had landed before it stopped rolling. I tapped the rail with my ring, three times, and she told me, with her eyes closed, how far away the end of the corridor was. We played a game with sounds. She made a small click with her tongue, and I turned my head to the exact spot on the far wall where it had returned. She laughed aloud.
+
+"You can *see* it," she said. "I mean the room. You can see the room."
+
+"It isn't seeing."
+
+"No." She went still. "It's something better."
+
+We stopped talking. We sat side by side on a stair, in the cold, with the pipe knocking, and for the first time in my life I was not translating. I do not know how to explain what that is. A person who has had to put every thought through a filter for nineteen years does not notice the filter, as the sea does not notice the water. When it is removed, one feels the lack of it like a missing tooth. I said a sentence, and she understood it. She said one, and I did. We said another. We went on like that for an hour.
+
+At eleven, I told her.
+
+I told her all of it. I told her slowly, in short sentences, without any of the words that make a thing smaller. I told her about the clinic and the four minutes, and the man with the paper cup, and the notebook with the black cover. I told her what was in her, and what was in me, and how we had the same inserts in different places. I told her what Stone had planned for a century. I said it as flatly as I could, as one reads a diagnosis aloud.
+
+She did not interrupt. Once, when I said *one hundred years,* her hand closed on the edge of the step.
+
+When I had finished she was silent for so long that I could hear the pipe knock twice.
+
+"Was he kind?" she said.
+
+It was not the question I had expected.
+
+"I don't know," I said. "I think he thought he was."
+
+"That's not what I asked." She looked at the floor between her feet. "I mean, when he did it to us. Was there any kindness in the doing? Did he *look* at us?"
+
+I thought about the notebook. I thought about the first page, and the technician's laugh, and the word *midwife* that Stone had used, to my surprise, about himself.
+
+"He looked," I said. "I think he looked a great deal. I don't think he ever saw."
+
+She nodded slowly. She wiped her eyes with the back of her hand, and I realized she was not crying but laughing, in a silent and horrified way, with her shoulders shaking.
+
+"It's very odd," she said, "to be told you've been designed. I think I feel *relieved.* Isn't that dreadful? I've spent my whole life thinking I was a mistake. It never occurred to me I was a plan."
+
+I said that I did not think she was either.
+
+"No," said Mira. "I think I'm only a person." She wiped her face. "But I would like to meet the plan's other pieces." She turned and looked at me, direct and clear. "I've got one question."
+
+"Ask."
 
 "Who else?"
 
-The following month she introduced me to Jonas. He was an engineer, tall, tired, with the habit of tapping a pen against his knee in a rhythm that I counted without thinking. He was not like us. He had the other package, the quieter one, and I could tell from how he sat, as if the chair were something he was doing carefully. When we told him, he was quiet for a long time. Then he said: "Does this mean she's right about the refrigerator?"
+* * *
 
-Mira said, "I told you it was humming in B flat."
+The following month she introduced me to Jonas.
 
-They decided that evening, with no argument I could detect, that they would not be tested, would not be told more than they needed, and would stay exactly as they were. I thought: *the first of the quiet ones.* I was right.
+We met in a university cafeteria at two in the afternoon, at a table by a window. He was tall and tired, with a long, intelligent face and a habit of tapping a pen against his knee in a rhythm that I counted without thinking. It was a bar of seven. It never varied. He stood up when I approached, which none of the other students did, and shook my hand as though I might be a surveyor.
+
+He was an engineering student, in his third year, and had been Mira's friend since a first-year class on waves. They had a way of finishing each other's sentences that was not intimate so much as practical, like two people who share a toolbox. He had a dry, sparing way of speaking, and when he did, it was usually to correct someone, kindly.
+
+He was not like us. I knew that within a minute. He had the other package, the quieter one: the speed of thought, the extended window, the long steady attention. He did not hear a wall. He solved a problem the way a stream solves a hill, patiently and from the bottom, and he had the faint, wary expression of a man who has always been the cleverest person in the room and who has learned to apologize for it.
+
+We told him over coffee. Mira did most of the telling, in her clear, steady voice, with her hands flat on the table. I added what she left out. Jonas listened to all of it without a word, the pen quiet in his hand. When she finished he looked at the window for a long time. A pigeon walked along the ledge.
+
+"Does this mean," he said at last, "that she's right about the refrigerator?"
+
+Mira said, "I *told* you it was humming in B flat."
+
+"You did." He turned back to us. "I thought it was a figure of speech."
+
+Then he laughed. It was a short, startled sound, like a man dropping a plate. He put his hand over his eyes and went on laughing until his shoulders shook, and then, quite suddenly, he stopped, and his face changed. He lowered his hand.
+
+"It would explain a great deal," he said, quietly. "I've always thought I was a bit... *ahead,* somehow. Not clever. Ahead. Like a man who is always standing where the rest of the queue is going to be." He looked at the table. "I thought it was loneliness."
+
+Mira took his hand. It was an automatic gesture and she did not seem to notice it. I looked politely at the window.
 
 * * *
+
+They decided that evening, with no argument I could detect, that they would not be tested, would not be told more than they needed, and would stay exactly as they were.
+
+I had expected a debate. I had a list of reasons, in a pocket, on a card. What I got instead was a short silence and a nod from each. It was Jonas who spoke first.
+
+"I think we'd rather not know the details," he said. "I'd like to know what we are. I don't think I'd like to know *how.*"
+
+"There's a notebook," I said. "I have it."
+
+"Keep it." He smiled. "You're the one who can read it."
+
+"And the others?" said Mira. "The list."
+
+"I'll tell you who I've met. I won't give names."
+
+"Good." She set down her cup. "I don't think anyone should be approached by surprise. I think we should *wait,* and let each of them come to it."
+
+I said it was the rule I had made myself.
+
+"It's a good rule," said Mira. "Don't let it become a habit."
+
+I walked out into the evening, on a campus I did not know, past a fountain turned off for the season. I listened to the dusk coming on: the traffic on a distant road, the chime of a bell, the voices of students crossing a lawn. And under it all, a faint and steady sound, as close and as quiet as my own pulse.
+
+I thought: *the first of the quiet ones.*
+
+I was right. There were thirty more. But Mira and Jonas were the first, and they were the ones who stayed.
 
 
 ## 12. Under Cover
 
+*Expanded draft v1. The main offspring, first person, past tense. "Elias" and "Julian" are placeholder names. All other people are invented.*
+
+* * *
+
 The laureate-to-be was a shy man in a gray cardigan who apologized to chairs.
 
-I met him in a hallway after a lecture on something I did not understand, in 2022, when he was twenty-two and a graduate student with a stoop. I said, "Elias." He stopped. I said the rest. He heard it with his whole body, the way people hear a diagnosis, and then asked if he could sit down.
+I met him in the spring of 2022, in a hallway outside a lecture room, after a talk on something I did not understand. He was twenty-two, a graduate student with a stoop and a battered folder, and he was standing against the wall with the look of a man waiting for a draft to pass. I had spent three weeks finding him. His name was in the third column of a list in a drawer, with a pencil mark beside it that meant *probably.* I had come to the talk because he was giving a small, nervous question at the end of it, and I wanted to hear how he said it.
 
-"I'd rather not have known," he said, after a while.
+He said it beautifully. It was a question about a missing term in an equation. It was eleven words long, and the speaker, a distinguished old man with a bow tie, paused and took off his glasses.
+
+When the room emptied I said, "Elias."
+
+He stopped. He had been about to leave, and he stopped as a man does when a name he has not heard in a while is spoken in a voice that expects him to know it. He turned. I said the rest. I said it as I had said it to Mira, slowly, in short sentences, and without any of the words that people use to make a thing sound smaller than it is.
+
+He heard it with his whole body, the way people hear a diagnosis. He did not move. I listened to his pulse climb, and level, and climb again. At the end he asked, in a faint voice, if he could sit down.
+
+We sat on a bench in the hall. A janitor went by with a cart and gave us a glance of professional neutrality.
+
+"I'd rather not have known," said Elias, after a while.
 
 "I know."
 
-"But I'd like the pages. The ones about me." He looked at his hands. "I want to see what they say I can do."
+"I think I'd have been happier." He looked at his hands. They were long and unsteady, with ink on one finger. "I've always felt that I was a bit off. Like a piece from another set. I thought it was because I was dull."
+
+"You're not dull."
+
+"No. Apparently not." He gave a short, painful laugh. "But I would like the pages. The ones about me. If you have them." He looked up. "I want to see what they say I can do."
+
+* * *
 
 Then there was Julian.
 
-I met him at a debate the same year. He was twenty-two as well, and he was the best speaker I had ever heard. He read the room like a book he had written. When he looked at me across it, I felt the particular warmth of being understood, and I listened to his pulse, and there was nothing in it. It was perfectly steady, the way a metronome is steady. I thought: *no, not you.* I said nothing. We shook hands afterward and he said, "I think we'd get on," and I said, "I think so too," and neither of us was lying.
+I met him at a debate, the same spring, in a hall with bad acoustics and a banner that said *Open Forum.* He was twenty-two as well, and he was the best speaker I had ever heard.
 
-That is how I came to keep a secret from the person with the most reason to be told.
+It was nothing he did. He did not use gestures, or raise his voice, or stride about. He stood quite still at the lectern, in a good gray suit, with one hand lightly on the wood, and he spoke in a clear, unhurried voice about the dignity of ordinary work. He told a story about his grandfather's hands. He paused, and the room paused with him. He read the audience as one reads a book he has written: not as a performance, but as a thing that was already his.
 
-Over the next three years I found the rest of the quiet ones. A florist who wanted to be left alone with her tulips. A surveyor. A violinist. Two women who had lived on the same street all their lives and who laughed when I asked, politely, whether they were together. A man who built a boat. Most said the same thing, in different words: *Don't make us visible.*
+When he looked at me across the hall, I felt the particular warmth of being understood. It was a physical sensation, like stepping into a sunlit room. I did what I always do. I listened to his pulse.
 
-The club, if it was a club, began that way. Not with a vow but with a promise to answer the phone.
+There was nothing in it. It was steady, sixty-two beats to the minute, the way a metronome is steady. There was no tremor under the confidence, and no hurry under the calm. The words were warm and the heart was cool, and the two had no quarrel with each other.
+
+I thought: *no. Not you.*
+
+I said nothing. We shook hands afterward, in the crush at the door. He said, "I think we'd get on," and I said, "I think so too," and neither of us was lying.
+
+That is how I came to keep a secret from the person with the most reason to be told. I want to be honest about my motives. I did not suspect him of anything. I had no evidence, and I do not trust a suspicion with no evidence. It was simply that I had heard something I did not recognize, and I had learned, from Stone's notebook, from a thousand hours in a hospital, and from my own life, that when I do not recognize a sound I should leave it alone until I do.
+
+I left it alone for six years. In that time he found me.
 
 * * *
+
+Over the next four years, I found the rest of the quiet ones.
+
+There was a florist in a small city in the north, a stout, cheerful woman of twenty-nine who raised tulips and talked to them. When I told her, she said, "Oh, *that,*" with the air of a person who has been told that her house is on a fault line. She said she'd always known. She said, don't make us visible. She said, if I ever needed a bunch of anything, it was on the house.
+
+There was a surveyor, a quiet, sunburned man of thirty-one who measured land for a county, and who had, since boyhood, been able to tell at a glance whether a fence was a quarter inch out. There was a violinist with a broad, gentle face who played in a regional orchestra, and who was embarrassed to say she had been hearing the conductor's mistakes for years. There was a man who built a boat. He had begun it in his garage at nineteen and, at thirty, was still building it. He said it was not finished and it never would be, and that this, in his view, was what a boat was for.
+
+There were two women who lived on the same street, and who had lived on it all their lives. They had met at five. They had been inseparable at ten, and at fifteen had been sent to different schools, and had spent a miserable year apart before the families, with some embarrassment, gave in. They shared a house now, a narrow brick one, with a lemon tree. I came to the door with a speech. I got as far as "I think you're both—" and one of them, a small, red-haired woman with a pencil behind her ear, said: "We know."
+
+"I was going to say *like me.*"
+
+"Oh." She laughed. "Well, that too."
+
+They listened to all of it. They were quiet for a long while. Then the other one, tall and calm, said that they had talked about children, once, a long time ago, and had decided, without any great drama, that they would be the best aunts anyone had ever had. She said it without bitterness. She said that whatever line there was, it did not end with them so much as bend. And the red-haired one said: "Don't make it sad. It isn't sad. It's a good house."
+
+I said it was.
+
+"Come to dinner," said the red-haired one. "We make a very good pie."
+
+* * *
+
+I graduated in the spring of 2026, in a large hall with a vaulted ceiling and the smell of cut flowers.
+
+I had my degree. I had a long black gown and a hood in the colors of my school, which my mother said was the nicest shade of green she had ever seen. My parents had driven four hours. My father wore his good jacket, and had cleaned his fingernails, and sat for two hours with his hands on his knees, looking at the stage with the stern happiness of a man who has been given something too large to hold. My mother cried from the first name to the last.
+
+When my own name was called, I walked across the stage, and I heard it all: the shuffle of the audience, the creak of the stage, the man at the microphone clearing his throat before the next name. And over it, in the third row from the back, a woman I knew, saying under her breath, in a voice that nobody else could possibly have heard: *That's my boy.*
+
+I took my diploma. I shook hands with the dean. I walked back to my seat, with my eyes down, and I did not look at her, because if I had I would have lost my composure in front of eight hundred people.
+
+* * *
+
+That afternoon, in a small restaurant near the campus, with a cloth on the table and a small vase with one carnation, I tried again.
+
+It was the twentieth time. I had counted. I had tried at a birthday and at a funeral and once, ridiculously, at a hospital. I had tried at the kitchen table, and in the truck, and over the phone. I had a sentence, which had never changed, and it was four words long.
+
+My father was telling a story about a customer whose delivery had gone to the wrong building. My mother was cutting a piece of fish into very small squares. I put down my fork.
+
+"Mom," I said. "Dad. I've got something I need to tell you."
+
+My mother stopped cutting. My father stopped talking. They both looked at me, with the same attentive, slightly frightened face, and I understood that they had been waiting for this since I was sixteen, and that they had always known there was something, and had never asked.
+
+"Wait," said my mother.
+
+She opened her handbag. She took out a small square box, wrapped in tissue paper, and set it down in front of me. "Before you say anything," she said. "I want you to have this. I was going to wait until the wedding, but I don't think you're going to have one, you're far too busy. So I'm giving it to you now."
+
+I unwrapped it. Inside was a pair of baby shoes, tiny, white, with the leather worn pale at the toes. Tucked into one of them was a hospital bracelet. It was a plastic band, printed in a smudged blue, and it said: **PRUITT, BABY BOY. 1/1/2000. 7 LB 1 OZ.**
+
+"They gave us that in the hospital," said my mother. "I kept it in a drawer. I never knew why." She put her hand over mine. It was warm and dry, and the nails were short, and there was a small scar on the thumb from a kitchen knife in 1994. "I think I kept it for today."
+
+My father cleared his throat. "We're proud of you, son. That's all. Whatever it is, we're proud."
+
+I looked at the shoes.
+
+"What did you want to tell us?" said my mother.
+
+I had the four words. They were there. They had been there for ten years. I could feel their weight in my mouth, and their shape, and the particular place in my chest from which they would come.
+
+"I love you both," I said.
+
+My mother smiled, and wept, and said we knew that. My father blew his nose.
+
+I put the bracelet in my pocket. It is still there.
+
+* * *
+
+The club, if it was a club, began that autumn.
+
+It did not begin with a vow. It began with a promise to answer the telephone. That was the only rule, and it was the only one we ever needed: if one of us rang at three in the morning, the other answered. The florist said it first, half laughing, over a long call about nothing, and it was repeated, by the others, one after another, until it was a thing that everyone knew.
+
+We met, that first year, in a rented room above a bakery in a town I will not name. There were fourteen of us. We sat on mismatched chairs, with paper cups, under a ceiling stained brown at one corner, and the florist had brought tulips, which she distributed without ceremony. I remember the smell of yeast. I remember Elias at the back, perched on the edge of a stool like a man ready to leave.
+
+We argued. I want to be clear that it was not a quarrel, though it was nearly one, and that it was the most important conversation I have ever been part of. We argued about what the gifted owe the rest.
+
+"Nothing," said the man who built the boat. He said it mildly, from a corner, with his arms folded. "We owe nothing. We didn't ask. If I owe anything, it's to be left alone."
+
+"We owe *everything,*" said Elias. He had stood up. He was holding his folder to his chest like a shield, and his voice, for once, was not apologetic. "We could change the world. That is not a boast. It's arithmetic. Every year, people die of things that someone like me could fix, and we sit in garages and floral shops and *hide.*"
+
+"I like my floral shop," said the florist.
+
+"I know. I'm sorry. But—"
+
+"And what," said Mira, quietly, "do we give them? Ourselves?" She had come from another city, with Jonas, in a borrowed car, and she sat near the front with her hands in her lap. "You can give a gift and it's a gift. But what we have isn't a thing you can pass across a table. It's a life. I'm not sure it's a kind one."
+
+"Then we trade," said someone.
+
+"For what?"
+
+"For protection."
+
+"From whom?"
+
+It went on for three hours. I said very little. I listened, which was what I was for. I listened to the people I had found, one by one, and I heard under each of their voices a different hunger: for ease, for purpose, for the plain relief of being in a room where no one had to translate. I heard the surveyor say that he would give anything to stop being the one who noticed. I heard the violinist say that she would not give up the one thing that made her music. I heard the two women in the corner, the red-haired and the tall, hold hands and say nothing, which was also an answer.
+
+At the end, Mira stood and said, with a kind of dry finality: "I think we've found the question. I don't think we're going to find the answer. I propose we keep the question and answer the phone."
+
+It was carried without a vote.
+
+I wrote down only one thing that night, in the notebook with the black cover. I wrote the phrase that Elias had used, and underlined it twice, and put a question mark beside it. It was the phrase the whole room had been circling.
+
+*Change the world for the better.*
+
+I did not know yet whether it was a promise or a warning. I know now that it was both.
 
 
 ## 13. Munich
 
-They moved in the spring of 2027, a Tuesday in April, to a flat in Munich with a balcony facing a courtyard. Mira had a position at a university phonetics institute (invented) and Jonas an engineering firm (invented) whose name I could never pronounce correctly, which Mira said was the correct pronunciation.
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout; the employers and institutes are invented.*
 
-I helped them carry boxes. The stairs were stone, and every footfall came back to me half a second later from an unexpected direction. I told Mira it was like living inside a cello. She said, "I know. I've never been so happy."
+* * *
 
-She was three weeks pregnant. They told me on the balcony, while Jonas was downstairs arguing with the movers in a German he had learned from a phrase book. She laid her hand flat on her stomach and said: "We've decided no tests."
+They moved in the spring of 2027, on a Tuesday in April, to a flat in Munich with a balcony facing a courtyard.
+
+I will say at once that I did not want them to go. I said the opposite. I said that it was a wonderful opportunity, and that Germany was a serious country, and that Mira's German, which she had acquired in nineteen months of evening classes and a good deal of eavesdropping, was already better than mine. All of that was true. But I had found them, eight years earlier, in a basement, and they were the first of us that I had been able to tell the truth to, and I had a childish sense that if they went away I would have to start again.
+
+Mira had been offered a post at a phonetics institute at a university (invented). It was the sort of position that a linguist hears about once, and at the end of a conversation she had no intention of having. A professor in Munich had read a paper of hers on vowel perception and written to say that she could not be allowed to waste it in a basement. The salary was modest. The labs were not. The institute had a soundproofed chamber that Mira described, on the telephone, in the voice of a woman describing a lover.
+
+Jonas had a position at an engineering firm (invented), which designed bridges and tunnels and was run by a family who had been doing it for four generations. He had applied for the job in English, and been interviewed in German, and been taken on, he said, because he was the only candidate who could explain why a certain beam would fail. He did not tell me that he had known the answer at once.
+
+"I had it on the second line of the drawing," he said. "I thought: that can't be right. And then I thought: oh."
+
+"Did you tell them?"
+
+"I said it looked interesting." He smiled his tired, crooked smile. "It seemed rude to be quicker than the chief engineer."
+
+* * *
+
+I helped them carry boxes.
+
+The building was on a street of tall pale houses with green shutters, in a quarter where the trams ran under the trees. The stairs were stone, and every footfall came back to me half a second later from an unexpected direction. I stood on the second landing with a crate of kitchen things and listened. A radio. A tap. Someone practicing scales on an upright piano, badly, with great determination.
+
+"It's like living inside a cello," I said.
+
+"I know." Mira was behind me with a lamp under each arm. "I've never been so happy."
+
+The flat was on the third floor. It had high ceilings and a parquet floor, and the previous tenants had left behind a grandfather clock that neither of them knew what to do with. There was a long hallway, a kitchen with a yellow stove, two bedrooms, a room for work, and the balcony. I went out onto it and stood at the rail. Below me was a courtyard with a chestnut tree and a row of bicycles, and on the far side, at an angle, a pair of tall windows with lace curtains. Somewhere behind the curtains, very faintly, a clock was ticking.
+
+I turned my head. I listened. I counted.
+
+"Cuckoo," I said.
+
+"What?"
+
+"There's a cuckoo clock in that building. Second floor. It runs about forty seconds slow."
+
+Mira stood beside me, with her head on one side, and said, in a low voice: "Oh, I *love* this city."
+
+* * *
+
+The landlady came up at four. She was a small and formidable widow in a cardigan, with hair like spun steel, and she inspected the flat with the air of a customs officer. She asked Jonas, in a German so rapid and so Bavarian that I caught perhaps one word in five, whether the radiators had been bled. She asked Mira whether she was a professor. She asked me whether I was the brother.
+
+"A friend," I said.
+
+"From the United States?"
+
+"Yes."
+
+"Hm." She looked at me for a long moment, and I had the impression of being measured for something. "You listen like a musician," she said, in careful English. "Are you a musician?"
+
+"A doctor."
+
+"Hm," she said, again, and there was a world in it. She gave Mira a key, and Jonas another, and left. We heard her descend the stairs, one flight, two, and a door shut with a particular care.
+
+"She knows," said Jonas, quietly.
+
+"She does not know," said Mira.
+
+"She *suspects.* She has a very good ear."
+
+"She has a very good *nose.* She's a landlady." Mira put the key on the hook by the door. "It's what they do."
+
+* * *
+
+There was one thing I had not expected, and that was how little the place cared.
+
+I had imagined, in my American way, that a city with a thousand years of history would somehow notice three people with unusual hearing. It did not. Munich went about its business, on its trams and bicycles, with a great deal of paper and a mild air of disapproval, and among its six hundred thousand voices ours were merely three. We bought bread. We got lost. We argued with a woman at an office about a form. On the third day, Mira was told by a clerk with a blue stamp that her name was spelled wrongly, and she replied in perfect German, with a perfect regional accent, that it was spelled as she had been born with it. The clerk stared at her. Then he said, with a flicker of respect: *Aber Sie sind keine Amerikanerin.*
+
+*But you are not an American.*
+
+Mira said she was from a very small place.
+
+* * *
+
+She told me on the balcony.
+
+It was the last evening of my stay. The boxes were in rooms, the furniture in places, the wall in the hallway hung with the three framed prints that Jonas had refused, until then, to explain. Down in the courtyard a woman was calling a child in for supper, in a long sweet descending phrase that I will hear in my sleep. The light was low and gold.
+
+"I'm pregnant," she said.
+
+I put down my glass. "Mira."
+
+"Three weeks." She laid her hand flat on her stomach. She was smiling, but her mouth was uncertain at the corners. "Or four. I haven't been to anyone. I know it's too early to say. I wanted to tell you before I told my mother."
+
+I did not trust my voice. I held out my arms and she stepped into them, and we stood like that for a long time, with the city going on around us, and I listened to the sound of two hearts, hers and, a long way beneath it, a very small third, that I could not hear and did not need to.
+
+When she stepped back she said, steadily: "We've decided no tests."
 
 "I know."
 
-"If it's a girl who can hear a wall, that's a girl who can hear a wall." She smiled. "If it's a boy who can't, he'll have a mother who can hear for him."
+"Jonas wants it. I want it. We've talked it through. If it's a girl who can hear a wall, that's a girl who can hear a wall. If it's a boy who can't, he'll have a mother who can hear for him." She wiped her eyes with the back of her hand, and laughed. "It's the strangest thing. I thought I'd be more frightened. And I'm not. I'm only so *curious.*"
 
-I said it sounded reasonable. It sounded like the most reasonable thing I had ever heard.
-
-That summer, a paper appeared in a physics journal under a name I knew. It was Elias's. It was eleven pages long and three of them were equations, and the world went mad for a week. By August he had given three interviews. In every one he said the same thing, slightly differently: that he had been lucky, that it was the right problem at the right time, and that he hoped people would not make too much of it.
-
-The following month I received a card from Julian, now a state representative. *Congratulations to your friend,* it said. *Interesting how some of us are lucky. J.* I read it twice. I read it four times. I put it in the drawer with the rock.
+I said that it sounded reasonable. It sounded like the most reasonable thing I had ever heard.
 
 * * *
+
+That summer, a paper appeared in a physics journal under a name I knew.
+
+It was Elias's. It was eleven pages, and three of them were equations. It had been submitted in March and refereed in a fortnight, by three reviewers who had each written, in the polite and slightly stunned language of their profession, that they could find nothing wrong with it. The world went mad for a week.
+
+I do not mean the whole world. I mean the small, well-lit part of it that reads such things. For seven days there were articles and podcasts and breathless threads. A professor in Zurich called it *the most elegant thing I have seen since my student days.* A man at a conference stood up in the middle of someone else's talk and applauded. The newspapers ran a photograph, taken for a university newsletter, of a shy young man in a gray cardigan, looking at the camera as one looks at a bus that has failed to stop.
+
+By August he had given three interviews. In every one of them he said the same thing, slightly differently: that he had been lucky, that it was the right problem at the right time, and that he hoped people would not make too much of it.
+
+I read the interviews in Munich, at the kitchen table, in the yellow light, with Mira peeling an orange across from me. She read them after I had. When she had finished the third, she looked up and said, in a thoughtful tone:
+
+"He says *lucky* eleven times."
+
+"I counted nine."
+
+"There are two in the headlines." She put the tablet down. "It's the same word each time, and it's said in the same place. He's practicing."
+
+"For what?"
+
+"For when he'll need it."
+
+I looked at the window. A pigeon had settled on the sill. I did not say that I had been thinking the same thing for a week.
+
+* * *
+
+The following month I received a card from Julian.
+
+It came in a cream envelope, forwarded from my old address, with a handwritten note. By then he was twenty-seven, and was in his second term in the state legislature, and had a name that people said without being asked.
+
+*Congratulations to your friend,* it said. *Interesting how some of us are lucky. J.*
+
+I read it twice. I read it four times, standing at the kitchen counter, with the radio on. I put it down. I picked it up. I held the card against the light, as if the paper might yield something the writing did not.
+
+It said nothing, and that was the point. A man who knew only that two young scientists were fortunate would not have written that note. A man who did not know would not have thought to underline the word *some.* The card was not a threat. It was an invitation to understand that he had been paying attention.
+
+I put it in the drawer where I kept the rock, and I did not tell Mira.
+
+I have thought many times since that this was my first real mistake. I was not wrong to protect her. But I should have known that a secret kept from one's friends is a secret that begins to work for someone else.
 
 
 ## 14. The Prize
 
-Julian found out in 2028, and I will say how.
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
 
-He did not hear it from anyone. He worked it out, over a long dinner in a quiet restaurant, from the shape of my silences. He asked about my hearing. He asked, with great gentleness, whether I'd ever been tested. He asked what my mother did, and what my father did, and where they had been in 1999. He did not threaten me. He did not once raise his voice. At the end of the evening he put his napkin on the table and said: "I would like to be part of what you are building."
+* * *
+
+Julian found out in 2028, and I will say how, since it is the one thing in this account that I cannot blame on anyone else.
+
+He did not hear it from a friend. He did not find a file or pick a lock. He worked it out, the way a good student works out the answer to a problem he has not been shown, from the shape of what was left on the page. And he did it at dinner, in a quiet restaurant in a state capital, over a plate of fish that neither of us touched.
+
+I had gone because he had asked. He was twenty-eight, a state representative, and a rising name. His invitation had come on heavy cream paper, in his own hand: *I'd like to see you. No agenda. J.* I had taken that for what it was, which is to say a warning, and I had gone anyway, because a man who is afraid of a dinner is a man who has already lost it.
+
+The restaurant had white tablecloths and a hush. He had reserved a table at the back, away from the kitchen. I noticed that. Of the six tables with a better view, he had chosen the one where the room's sound pooled, and arrived at the same moment I did, as though the two of us had been arranged by a single hand.
+
+"You look tired," he said, rising. "Sit. I've ordered the fish. They do it very simply."
+
+I sat. I listened to his pulse. It was exactly as it had been in 2022, a steady sixty-two, as clean as a line drawn with a ruler.
+
+* * *
+
+He began with small things. He asked after my parents. He remembered their names, and their jobs, and the street they lived on. He said that my father sounded like a decent man, and that it was a shame there were not more of them. He asked about my work. He asked what I thought of the weather in the city where I lived, and whether I had ever thought of moving, and I said that I had not.
+
+He asked whether I had ever been tested.
+
+I said, "For what?"
+
+"For anything." He turned his glass a quarter turn. "Hearing, say. I only ask because I've been reading about auditory processing, and I thought, there's a man I know whose ears are extraordinary. I've watched you, you know. You always turn your head a moment before the waiter reaches the table. You've never once been surprised by a door."
+
+I said that I had a good sense of timing.
+
+"I'm sure." He smiled. It was a beautiful smile, with exactly the right quantity of self-mockery in it. "I've got a good sense of timing too. It's why I'm in politics."
+
+The fish arrived. He did not look at it.
+
+"I did some reading about the clinic that made us," he said.
+
+There are a few sentences in my life that I have heard with my whole body, in the way one hears a tire go flat at speed. That was one. I did not move. I did not blink. I had spent seventeen years training myself not to react, and I think the training held. But he had said *made,* and *us,* and he had said both of them lightly, as one mentions the name of a school.
+
+"Which clinic?" I said.
+
+"Oh, you know." He waved a hand. "The one with the June picnics. I went to four or five as a child. There was a man who stood by the lemonade, always alone, with a paper cup. I used to think he looked like someone who'd lost a bet." He glanced at me. "Dr. Stone. Isn't that right?"
+
+I said nothing. The silence in the room was a very particular silence, the kind that is composed of forty small noises being politely held back.
+
+"I didn't know what he was, of course. I was nine. But I remember him looking at me. Not the way adults look at children. The way a man looks at a thing he's put in the oven." He laughed, quietly, and the laugh was perfect. "I worked it out slowly. A few years ago. There was a thing about the way I was always ahead of the other boys, in a way I couldn't account for. And the way I never *minded* things. I thought it was character. I was rather pleased with myself." He lifted his glass. "And then I came across a mention in a trade journal of a program for children of couples with a certain condition. It had a very short, very dull description. But the name of the physician was there, and I thought: *I have met that man.*"
+
+"That isn't evidence," I said.
+
+"No. But you're here." He drank. "You came, when I asked. You didn't make an excuse. You never asked why I wanted to see you, which is the first thing anyone asks. And you've been sitting there for twenty minutes, listening to my heart."
+
+I looked at him. For the first time in all the years I had known him, I heard something behind the clock. It was not fear. It was a kind of interest, mild and unhurried, like a man looking at a map he intends to use.
+
+* * *
+
+"I would like to be part of what you are building," he said, at the end of the evening.
 
 "I'm not building anything."
 
-"Of course you are." He smiled, and it was a beautiful smile, and there was nothing in his pulse at all. "You're building a world where people like us are not afraid. I want the same thing. I'm just better placed to do it."
+"Of course you are." He put his napkin on the table. "You're building a world where people like us are not afraid. I want the same thing. I'm simply better placed to do it."
 
-I said no. I said it politely. I heard, in the quality of his silence, that no changed nothing.
+I said no.
 
-In October 2029 Elias won the Nobel Prize in Physics. He was twenty-nine. I sat in the hall in Stockholm, in a borrowed suit, three rows from the back, and listened to him accept it. He said he was lucky. He said it so quietly that the microphones barely caught it. In the hush afterward I heard a journalist in the second row whisper to the person beside him: *How is that possible, at his age?*
+I said it quietly, and politely, and with a clear head. I said that there was nothing to be part of, that there was no organization, that the people he was thinking of were scattered across the world and would not welcome his attention. I said that I would ask him to let it lie.
 
-The question went around the room, from mouth to mouth, like a draft.
+He listened to all of it, with an expression of courteous regret. Then he stood and held out his hand.
 
-Julian took a Senate seat the following year, by appointment, in 2030, at thirty, the youngest allowed. He said in his first speech that he believed in the dignity of every ordinary person, and the room applauded, and I heard the applause go on a half second longer than it should.
+"I understand," he said. "I'd have thought less of you if you'd said yes."
+
+I took his hand. It was warm and dry. His pulse, against my palm, did not alter by so much as a beat.
+
+I walked out into the street and stood under a lamp for a long time. A car went by. The city hummed, and the hum came back to me from the buildings, a quarter of a second late, in layers. I thought: *he has taken my no and put it in a drawer. It has not changed his mind. It has only told him how to speak to me.*
+
+That was the evening on which I understood that I was no longer the only person in the world with a secret. I had become, rather, a man who has been told what a secret is worth.
 
 * * *
+
+The prize came the following year, in October.
+
+I should explain that Elias did not want it. He had never wanted anything, as far as I could tell, but a clean blackboard and a long afternoon. The breakthrough that had made him famous was eleven pages long, and three of them were equations, and the committee in Stockholm described it, in the citation, as *a simplification of a kind that occurs perhaps once in a generation.* He had come to it, he told me, by getting up one morning with a headache and noticing that a symbol in a standard expression was redundant.
+
+"It was just there," he said. "Anyone could have seen it. I only happened to be looking."
+
+I did not say *anyone could not have.* I did not say that I had watched him work and that the speed of his attention, in a room, was the speed of a different sort of animal. I said that I was happy for him, and I was, and I meant it more than I could say.
+
+He rang me at ten past five in the morning on the day. He had been told by a woman with a Swedish accent, on a bad line, and he was sitting on the edge of his bed in his pajamas, with his glasses in his hand.
+
+"They've said I've won," he said. "I think they've made a mistake."
+
+"They haven't."
+
+"I'm twenty-nine."
+
+"Yes."
+
+"It isn't *done.*" His voice cracked on the last word. "People are meant to wait. They're meant to be sixty."
+
+"You were lucky," I said. "I've heard it from several people."
+
+There was a pause. Then he began, very softly, to laugh.
+
+* * *
+
+Stockholm was cold and quiet in December. The ceremony was held in a large concert hall with a blue ceiling and a great many white flowers. I sat in a borrowed suit, three rows from the back, between a retired professor of chemistry and a young woman from a newspaper who took notes in shorthand.
+
+I listened to Elias accept the medal. He walked across the stage like a man crossing a frozen lake. He bowed, rather too deeply, to the king, and was gently put right by a courtier. He stood with his hands at his sides and the light on his face, and the hall, which held perhaps fifteen hundred people, went completely silent.
+
+I could hear every one of them. I could hear the cough that someone suppressed in the balcony and the rustle of a programme and a child, three rows in front of me, who said in a whisper: *Is that him?* I could hear the great, collective, slightly foolish tenderness of a room that has agreed to be moved.
+
+Elias said, in his small and exact voice, that he had been lucky. He said it so quietly that the microphones barely caught it. He thanked his teachers. He thanked his mother, who was sitting in the front row in a green dress, and who put her hand over her mouth.
+
+In the hush afterward I heard a man in the second row whisper to the person beside him. He said it in German. I have a poor ear for German, but I have an excellent ear for questions.
+
+*Wie ist das möglich, in seinem Alter?*
+
+*How is that possible, at his age?*
+
+The person beside him did not answer. But I heard the question go, quietly, from mouth to mouth, along the row and across the aisle, like a draft through a house. I heard it in a dozen languages. I heard it among the journalists, and the physicists, and the delegation from a ministry, and the wives. No one meant anything by it. It was only the sort of thing that people say.
+
+I was, I think, the only person in the hall who was afraid of it.
+
+* * *
+
+Julian took his seat in the Senate in the spring of 2030.
+
+It happened without any election. The man who had held the seat for twenty-two years died in his sleep, in February, at the age of eighty-one, and the governor, who had been Julian's patron for a decade, appointed him to fill the vacancy. He was thirty years old. He had turned thirty on the first of January. It was, as the newspapers all noted, the youngest age the Constitution allows.
+
+I watched the swearing-in on a screen, in a hospital cafeteria, over a bowl of soup. A tall man in a good coat put his hand on a book, and said the words, and turned to the cameras. He did not look at the cameras. He looked, I could swear, through them, with an expression of such warm and perfect composure that a woman at the next table said: "Oh, he's lovely."
+
+He made a short speech. He said that he believed in the dignity of every ordinary person. The room applauded. I heard the applause go on a half-second longer than it should. And I understood that I had been dealt, without my consent, into a game whose rules I did not know, and that the other player had already read the book.
+
+I finished my soup. I paid at the till. I walked back to the ward, where there was a man waiting for a scan, and a woman who had lost the use of her left hand that morning, and a great deal that I could do something about.
+
+I did it, as I always did. It was the one thing I was sure of.
 
 
 ## 15. The Child
@@ -1094,11 +1978,11 @@ His right hand moved on the blanket. It was not a gesture. It was a hand decidin
 
 I watched it for some time.
 
-Then he made a sound. It was not a word. It was breath given a shape, a rounded, open shape, the one a mouth makes before it says *oh.*
+Then he made a sound. It was the same sound he had made in 2016, in the day room, when I put my hand on the page: breath given a shape, a rounded, open shape, the one a mouth makes before it says *oh.*
 
-"Yes," I said. "That's the one."
+"Yes," I said again. "That's the one."
 
-I do not know why I said it. I am told by Mira, who knows about these things, that people in his state sometimes respond to the *tone* of a sentence, and that I should not read too much into it. I am sure she is right. I read a great deal into it anyway.
+Mira, who knows about these things, says that people in his state sometimes respond to the *tone* of a sentence, and that I should not read too much into it. I am sure she is right. I read a great deal into it anyway.
 
 * * *
 

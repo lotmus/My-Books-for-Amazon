@@ -219,6 +219,13 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 
 - Ch 6 "The Bargain": `drafts/ch06_the_bargain_Stone_v1.md` (outline chapter 6 = old items 10 + 11). Over Mrs. Aldana's lentils the boy sets four terms: Stone never returns to the building; no contact with the parents; no more edited children without telling him; Stone writes down the why. The boy holds four copies of the index in separate places. He hears Stone's pulse jump at 'agreed' and knows he lies, but cannot tell anyone without exposing the cohort and his family: 'I'm going to have to watch.' That evening Stone makes one more batch from three reserved embryos (a couple waiting seven years), breaking his word, and starts writing the answer to the fourth term: 'I was afraid of being ordinary.' Continuity note: the boy is a monitor, not a stopper, so later cohort members may exist that he never found.
 
+## Open threads created while expanding (12 Oct 2026)
+- Four 'question mark' cohort members (ch 10): a boy who stopped talking, a young woman in hospital who hears 'the building', a young man who left home at 17, a woman who walked out of an exam and lives in a field. Not yet resolved; resolve at least briefly in ch 12 or 17 (handle with care and respect).
+- The 'last batch' child (ch 7, ch 10): a girl born early 2013 to the couple who waited seven years; the narrator sees her at 5 in a sandpit and she waves. Pay off or leave as a quiet image; the 'last batch' means Stone broke the bargain.
+- Placeholder names added: Teo (friend), Dr. Helen Voss (supervisor), Rosalind (nurse), Mrs. Rennick (patient), Marc Duval, Anton (Mira's son), Dr. Okonjo (took Stone's cases), the director 'R.' (female).
+- The vault pages: the clinic director found the locked cabinet in 2012 and left it alone; whether it was ever opened is unresolved and could feed the leak (ch 18).
+- Ray and Connie know nothing (ch 20 leaves Ray told 'it can wait'). Connie's baby shoes and bracelet (ch 12).
+
 ## Open decisions
 1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
