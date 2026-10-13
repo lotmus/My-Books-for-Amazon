@@ -39,19 +39,23 @@ Eine Firmengründung allein schafft keinen Aufenthaltstitel. Wer eine eigene Fir
 
 ### Ruhestand ohne Job: die ausführliche Bilanz
 
-Wer im Rentenalter zu seinen Kindern oder Enkeln nach Australien ziehen möchte, sollte die verfügbaren Visakategorien sorgfältig prüfen. Ältere Ratgeber und Forenbeiträge nennen teils noch Ruhestandsvisa, die für Neuanträge geschlossen sind; der folgende Abschnitt erklärt ihren heutigen Status und mögliche Übergangsrechte.
+Wer im Rentenalter zu seinen Kindern oder Enkeln nach Australien ziehen möchte, sollte die Visakategorien genau prüfen. Ältere Ratgeber nennen oft noch Ruhestandsvisa, die für Neuanträge geschlossen sind. Dieser Abschnitt erklärt, was davon noch gilt und welche Übergangsrechte bestehen.
 
 #### Das ehemalige Ruhestandsvisum: geschlossen für Neuanträge
 
-Die früheren Subclasses 405 (Investor Retirement) und 410 (Retirement) sind für Neuanträge geschlossen. Inhaber eines Subclass-410-Visums können es in engen Bestandsfällen verlängern und unter erleichterten Voraussetzungen in eine Parent-Visa-Kategorie wechseln. Diese Übergangsrechte gelten nicht für Menschen, die 2026 neu planen.
+Die früheren Subclasses 405 (Investor Retirement) und 410 (Retirement) sind für Neuanträge geschlossen. Inhaber eines Subclass-410-Visums dürfen es in bestimmten Bestandsfällen verlängern oder unter erleichterten Voraussetzungen in eine Parent-Visa-Kategorie wechseln. Wer 2026 neu plant, kann diese Übergangsrechte nicht nutzen.
 
 #### Der verbleibende Weg: das Eltern-Visum
 
-Für einen dauerhaften Nachzug zu erwachsenen Kindern ist das Eltern-Visum der zentrale Weg. Voraussetzung ist ein erwachsenes Kind mit australischer Staatsbürgerschaft oder Daueraufenthaltstitel, das in Australien lebt. Die sechs Visumskategorien verteilen sich auf zwei Schienen mit sehr unterschiedlichem Verhältnis von Kosten und Wartezeit.
+Für den dauerhaften Nachzug zu erwachsenen Kindern ist das Eltern-Visum der zentrale Weg. Ein erwachsenes Kind muss die australische Staatsbürgerschaft oder einen Daueraufenthaltstitel besitzen und in Australien leben. Die sechs Kategorien teilen sich in zwei Schienen, die sich bei Kosten und Wartezeit stark unterscheiden.
 
 **Non-Contributory (günstig, extrem lange Wartezeit):** Subclass 103 (Parent, Antragstellung von außerhalb Australiens) und Subclass 804 (Aged Parent, Antragstellung oder Verbleib in Australien). Die Visumsgebühr liegt bei rund 5.000 bis 6.000 AUD. Die Wartezeit ist die entscheidende Einschränkung: Home Affairs schätzte sie im August 2026 auf rund 42 Jahre bis zur Entscheidung.
 
-**Contributory (deutlich teurer, spürbar schneller):** Subclass 143 (Contributory Parent, von außerhalb), 173 (Contributory Parent Temporary, ein zweijähriges Übergangsvisum zu 143), 864 (Contributory Aged Parent) und 884 (befristete Vorstufe zu 864). Die Visumsgebühr wird in zwei Raten fällig: rund 4.040 AUD bei Antragstellung (Stand ab 1. Juli 2026) und kurz vor der Erteilung rund 43.600 AUD pro Hauptantragsteller. Zusammen sind das etwa 47.600 AUD pro Person. Hinzu kommt die *Assurance of Support*, eine rückzahlbare Kaution, die Services Australia für zehn Jahre hinterlegt. Meist stellt sie das sponsernde Kind in Australien. Die Kaution soll verhindern, dass der Staat für die einwandernden Eltern aufkommen muss; sie beträgt rund 10.000 AUD für die Hauptantragstellerin oder den Hauptantragsteller und weitere 4.000 AUD je erwachsener Person. Bei einem Elternpaar summieren sich Visagebühren und Kaution auf mehr als 100.000 AUD. Im August 2026 bearbeitete Home Affairs Anträge der Subclasses 143 und 173 mit einem Warteschlangendatum bis November 2018. Für neue Contributory-Parent-Anträge schätzte die Behörde die Wartezeit auf rund 18 Jahre. Die tatsächliche Dauer hängt vom Visumtyp und der Warteschlange ab.
+**Contributory (deutlich teurer, spürbar schneller):** Dazu gehören Subclass 143 (Contributory Parent), 173 (ein zweijähriges Übergangsvisum zu 143), 864 (Contributory Aged Parent) und 884 (befristete Vorstufe zu 864). Die Visumsgebühr wird in zwei Raten fällig: rund 4.040 AUD bei Antragstellung (Stand: 1. Juli 2026) und rund 43.600 AUD kurz vor der Erteilung. Zusammen sind das etwa 47.600 AUD pro Hauptantragsteller.
+
+Hinzu kommt die *Assurance of Support*: eine rückzahlbare Kaution, die Services Australia zehn Jahre lang hinterlegt. Meist stellt sie das sponsernde Kind in Australien. Sie soll verhindern, dass der Staat für die einwandernden Eltern aufkommen muss. Für die Hauptperson beträgt sie rund 10.000 AUD, für jede weitere erwachsene Person 4.000 AUD. Bei einem Elternpaar summieren sich Visagebühren und Kaution auf mehr als 100.000 AUD.
+
+Auch der schnellere Weg verlangt Geduld. Im August 2026 bearbeitete Home Affairs Anträge der Subclasses 143 und 173 mit einem Warteschlangendatum bis November 2018. Für neue Anträge schätzte die Behörde die Wartezeit auf rund 18 Jahre. Die tatsächliche Dauer hängt vom Visumtyp und der Warteschlange ab.
 
 - **Erstgebühr (1. Rate der Visumsgebühr):** Non-Contributory (103/804): rund 5.000–6.000 AUD; Contributory (143/173/864/884): rund 4.040 AUD
 - **Zweite Rate der Visumsgebühr (vor Erteilung):** Non-Contributory (103/804): keine; Contributory (143/173/864/884): rund 43.600 AUD
@@ -83,7 +87,7 @@ Wer in Australien steuerlich ansässig ist, muss die deutsche gesetzliche Rente 
 
 #### Wer sollte diesen Weg überhaupt in Betracht ziehen?
 
-Angesichts der geschätzten 42 Jahre Wartezeit beim Non-Contributory-Weg und rund 47.600 AUD Visagebühr pro Person beim Contributory-Weg lohnt sich vor jeder Antragstellung eine ehrliche Alternativrechnung: Reicht nicht auch eine Folge längerer Besuche mit einem regulären Besuchervisum oder dem befristeten Subclass 870, kombiniert mit Videotelefonie und ein bis zwei größeren Reisen im Jahr? Für Familien, die in erster Linie Nähe und regelmäßigen Kontakt suchen, ist das oft die realistischere und deutlich günstigere Lösung als ein Verfahren, das die eigene statistische Lebenserwartung übersteigen kann. Für Familien, die wirklich einen dauerhaften gemeinsamen Wohnsitz anstreben – etwa, weil Pflegebedürftigkeit absehbar wird –, führt an einer der beiden Parent-Visa-Schienen dagegen kein Weg vorbei, so unbequem die Zahlen auch sind.
+Bei 42 Jahren Wartezeit im Non-Contributory-Weg und rund 47.600 AUD Visagebühr pro Person im Contributory-Weg lohnt zuerst eine Alternativrechnung: Reichen längere Besuche mit einem regulären Besuchervisum oder Subclass 870, Videotelefonie und ein bis zwei größere Reisen im Jahr? Wenn es vor allem um Nähe und regelmäßigen Kontakt geht, ist das oft realistischer und deutlich günstiger als ein Verfahren, dessen Wartezeit die eigene Lebenserwartung übersteigen kann. Geht es um einen dauerhaften gemeinsamen Wohnsitz – etwa weil Pflegebedarf absehbar wird –, bleibt eine der beiden Parent-Visa-Schienen der Weg.
 
 > **Merke:** Ruhestand ohne Job ist in Australien kein Weg, den man „nebenbei“ mitplant. Wer ihn ernsthaft verfolgt, sollte spätestens fünf bis zehn Jahre vor dem geplanten Umzug mit der Finanzplanung, der Kontaktaufnahme zu einer Migrationsberatung und der Klärung der Assurance of Support beginnen – nicht erst, wenn der Ruhestand schon begonnen hat.
 
@@ -118,9 +122,11 @@ Bei Familien-, Investoren- und Ruhestandswegen wiederholen sich erfahrungsgemä�
 
 ### Was jetzt zu tun ist
 
-Wer über Familiennachzug, Investition oder Ruhestand nach Australien will, sollte zuerst prüfen, welcher Aufenthaltsweg realistisch ist: eine belastbare Partnerschaft mit einer in Australien lebenden Person, ein tatsächlich innovatives Geschäftsvorhaben oder ein erwachsenes Kind mit Aufenthaltstitel vor Ort, mit dem der Balance-of-Family-Test bestanden wird. Erst dann lohnt sich die Detailrechnung zu Kosten und Wartezeit – am besten mit einer registrierten Migrationsberatung und, bei Ruhestandsplänen, einer Steuerberatung mit Erfahrung im deutsch-australischen Verhältnis.
+Wer über Familiennachzug, Investition oder Ruhestand nach Australien will, sollte zuerst den realistischen Aufenthaltsweg bestimmen: eine belastbare Partnerschaft, ein tatsächlich innovatives Geschäftsvorhaben oder ein erwachsenes Kind mit Aufenthaltstitel vor Ort, bei dem die Familie den Balance-of-Family-Test voraussichtlich erfüllt. Erst danach lohnt sich die Detailrechnung zu Kosten und Wartezeit – mit einer registrierten Migrationsberatung und bei Ruhestandsplänen zusätzlich mit einer auf deutsch-australisches Steuerrecht spezialisierten Beratung.
 
-Für Ruheständler ohne eigenen Berufsweg lohnt sich außerdem ein Blick auf das [vorherige Kapitel dieses Teils](#tau03): Wer noch unter 45 ist oder einen gefragten Beruf hat, findet über den Punktetest oder das Arbeitgeber-Sponsoring möglicherweise einen schnelleren, planbareren Weg als über die Eltern-Visa-Kategorien – auch wenn das bedeutet, den Ruhestand selbst erst später anzutreten. Und wer sich für keinen der Wege in diesem Kapitel entscheiden kann oder will, sollte die Kombination aus regelmäßigen, längeren Besuchen und einem festen Lebensmittelpunkt in Deutschland nicht vorschnell als zweitbeste Lösung abtun – für viele Familien ist sie am Ende die tragfähigere.
+Für Ruheständler ohne eigenen Berufsweg lohnt sich auch ein Blick auf das [vorherige Kapitel dieses Teils](#tau03). Wer noch unter 45 ist oder einen gefragten Beruf hat, kann über den Punktetest oder das Arbeitgeber-Sponsoring möglicherweise schneller und planbarer einwandern als über ein Eltern-Visum – selbst wenn der Ruhestand dadurch später beginnt.
+
+Und wenn keiner der Wege passt, sind regelmäßige längere Besuche bei einem festen Lebensmittelpunkt in Deutschland keine zweitbeste Lösung. Für manche Familien ist sie die tragfähigere.
 
 > **Checkliste:**
 > - [ ] Geprüft, ob eine bestehende Partnerschaft die Voraussetzungen für ein Partnervisum erfüllt, und Dokumentation der Beziehung frühzeitig begonnen
