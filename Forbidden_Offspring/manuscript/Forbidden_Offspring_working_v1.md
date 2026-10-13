@@ -740,65 +740,385 @@ Julian took a Senate seat the following year, by appointment, in 2030, at thirty
 
 ## 15. The Child
 
-Their daughter was born in December 2027, in a hospital by the river. They named her Lena. By the time I came in the summer of 2030 she was almost three, and she was on the balcony floor in a red jumper, listening to the courtyard.
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
 
-I stood in the door. Mira said, quietly, "Wait."
+* * *
 
-Lena had her head tilted, exactly as her mother's did. After a moment she said, in German, clearly, "Die Uhr im anderen Haus geht gleich."
+Their daughter was born in December of 2027, in a hospital by the river, at eleven minutes past four in the afternoon.
+
+I was not there. I was on a night shift in a ward three thousand miles away, with a cold cup of coffee and a patient who would not stop humming. Mira rang me at ten past eleven, my time, in a whisper, and said: "Seven pounds. She has all her fingers. She's looking at me as if I owed her an explanation."
+
+"What have you called her?"
+
+"Lena." She laughed, softly, so as not to wake someone. "After Jonas's grandmother. It's the only name on either side of the family that nobody has a grievance about."
+
+I asked whether she had listened. It was an absurd question, and Mira knew what I meant. I meant: *has she turned her head?*
+
+"I haven't tried yet," said Mira. "I'm too tired. And I think it's rude. She's been alive for seven hours. I'd like her to have one day when nobody is listening to her."
+
+I said that was reasonable.
+
+"But I will tell you," she said, "that the midwife dropped a tray in the corridor, and Lena didn't flinch. She opened her eyes about a second *before* it fell." She was silent a moment. "I haven't told Jonas."
+
+* * *
+
+I went in the summer of 2030, when Lena was two and a half.
+
+It was the first time I had been in Europe since the move, and I had forgotten how the light behaves there in July. It does not arrive so much as extend, hour after hour, past nine in the evening, with a long gold patience, as if it had nowhere better to be. Jonas met me at the station in a linen shirt that did not suit him. He had a way of carrying my bag as if it were a rare instrument. We took the tram, and he told me about a bridge he was working on, with the detailed and affectionate pessimism of a man who loved a thing that might fall down.
+
+The flat was on the third floor, over a courtyard. The stairs were stone, and they carried every footfall to every wall. I stood on the second landing and listened. A radio, a floor above, playing something with a cello in it. A tap. A woman's voice, lightly arguing, in Turkish. A clock.
+
+"It's like being inside an instrument," I said.
+
+"She says that too," said Jonas. "She says she can't sleep for the building tuning itself." He put his key in the lock. "I tell her it's a very old building. It has opinions."
+
+Mira opened the door, with her hair in a scarf and her sleeves rolled up, and flung her arms round my neck. She smelled of flour and of someone else's shampoo. "You're thin," she said. "You're eating on the run. Come and see her. She's on the balcony."
+
+* * *
+
+Lena was on the balcony floor in a red jumper, listening to the courtyard.
+
+I stood in the doorway. Mira said, quietly, "Wait."
+
+The child was perhaps three feet from me. She was sitting cross-legged on a rug, with her back to us, and a wooden duck in front of her that she was ignoring. She had her head tilted, exactly as her mother's did. After a moment she said, in a clear, small, precise German:
+
+"Die Uhr im anderen Haus geht gleich."
 
 Mira translated, though I did not need it. *The clock in the other house is about to go.*
 
-We stood there, the three of us, and I counted. Eleven seconds later, from the next building, through two walls and a courtyard, a cuckoo clock announced the hour.
+We stood there, the three of us, and I counted. It was nineteen seconds. Then, from the next building, through two walls and a courtyard, a cuckoo clock announced the hour. Six. It cuckooed six times, in a thin tinny note, with a pause between the third and the fourth where the mechanism hesitated.
 
-"She's been doing this since she was one," said Mira. She had tears in her eyes, and she was laughing. "Jonas thinks it's the refrigerator."
+Lena nodded, once, as if the clock had behaved as expected.
 
-I lowered myself to the floor beside the child. She looked at me with great seriousness. She said something that I took to be a greeting, in her own language, which was a composite of German and English and something else. I answered her in the same.
+"She's been doing this since she was one," Mira whispered. She had tears in her eyes, and she was laughing. "Jonas thinks it's the refrigerator."
 
-It struck me that this was the first person I had ever met who had been born into what I was and had never once been told she was alone.
+"I do not," said Jonas, mildly, behind me. "I think it's a very good ear. I have never said otherwise."
 
-That was what changed my mind. I want to be exact about it. No argument did. It was a child on a balcony, who had a mother and a father and a cuckoo clock, and who was perfectly all right.
+"You said it was the refrigerator."
+
+"I said the refrigerator was a possibility."
+
+I lowered myself to the floor, beside the child. I did it slowly, as one approaches a cat. She looked up at me, and I saw her face for the first time: a solemn, round, pale face, with her mother's chin and her father's forehead and a pair of wide grey eyes that had the grave, appraising quality of someone who has seen a great many things and has decided to reserve judgment.
+
+She said something to me. It was a composite of German and English and something else, a sort of private grammar, and I understood perhaps a third of it. But I understood the intonation. It was a greeting. It was the greeting of one person to another who has come a long way.
+
+I answered her in the same.
 
 * * *
+
+We had supper on the balcony. Mira had made a soup with dumplings in it, and a bread with seeds, and there was beer in tall glasses. The light went on and on. Down in the courtyard a boy of about ten was kicking a ball against a wall, and every time it struck the brick I felt it in my teeth.
+
+Mira's parents had been staying with them for a week. They sat at the end of the table, a tall silver-haired woman in a linen jacket and a stooped, quiet man with a laptop that he had, for the occasion, closed. They were the professor and the engineer, whom I knew from Stone's notebook as two figures in a second row at a swimming meet, a laptop open on a knee. They had, I learned that evening, retired the previous year, and had come to Munich to be grandparents in the way that people do when they have time.
+
+"She's extraordinary," said Mira's mother, to me, across the table. She said it with the dry, impartial air of an examiner. "I mean it. I've taught for thirty-five years. I've never seen a child so attentive. She listens to the whole room."
+
+"She gets it from her mother," said Jonas.
+
+"Oh, no." Mira's mother smiled at her daughter, and it was a smile of a particular kind: affectionate, puzzled, and a little proud. "Mira was never like this. Mira talked. She was a talker. She was a very chatty child. But she did have a thing about sounds." She turned her glass. "She used to say the dishwasher was *flat.* We didn't know what she meant."
+
+There was a pause at the table. I watched Mira's hand go still on her fork.
+
+"It was flat," said Mira.
+
+"I'm sure it was, dear."
+
+Mira's father, who had said nothing until then, lifted his eyes from his plate and looked, for a long, quiet moment, at his daughter. He had a lined and kindly face, like a map that has been folded many times. Then he said, to no one in particular, in a gentle voice:
+
+"We have always been very glad of her."
+
+It was all he said. But I heard something in the way he said it, a deliberateness, a kind of sealed courtesy, as though a door had been closed gently in a room where he did not wish to be overheard. I do not know what they knew. I have never asked. I think perhaps a parent knows more than she says and says less than she knows, and that this, too, is a form of love.
+
+* * *
+
+Late in the evening, when the others had gone in, I sat with Lena on the balcony floor.
+
+She had been put in a nightgown and told to go to bed, and had come out again, as children do, with the air of a diplomat. She sat in my lap and looked at the courtyard. It was nearly dark. The ball had stopped. A dog barked, three streets away, and she turned her head to it, a few degrees, and then turned it back.
+
+"Hörst du das?" she said. *Do you hear that?*
+
+"Yes."
+
+"Alle?" *Everyone?*
+
+I thought about it. It was a very large question, and she had asked it in the way that very small people do, without any idea of its size.
+
+"No," I said. "Not everyone."
+
+"Du?"
+
+"Me. And your mama. And you."
+
+She nodded gravely. "Wir drei." *The three of us.*
+
+"Yes."
+
+She put her head against my chest, as children do, and I felt her go still, and I knew that she was listening to my heart. It was beating rather hard. I did not tell her.
+
+It struck me that this was the first person I had ever met who had been born into what I was and who had never once been told she was alone. She had a mother who could hear, and a father who loved her, and a pair of grandparents who said *we have always been very glad.* She had a cuckoo clock in the next house. She was perfectly all right.
+
+I had spent ten years wondering what I would do with the thing that Stone had left. I had made lists. I had written *for* and *against.* I had weighed the dying child on the other side of the world against the child who had not asked.
+
+And here was one child, on one balcony, who was not an argument at all.
+
+That was what changed my mind. I want to be exact about it. No argument did. No one persuaded me. It was a little girl in a red jumper, with a wooden duck, who had a mother and a father and a cuckoo clock, and who had said, in a voice like a bell, *wir drei.*
+
+She fell asleep against me, in the dark. I did not move for a long time. Somewhere below, in the courtyard, someone was singing under their breath, and I listened, as I always do, and I thought that I had finally been given an answer, and that it was not one I could have found by thinking.
 
 
 ## 16. Restart
 
-I had the copies. I had a laboratory I could have rented. I had thirty-one people, scattered over three continents, who trusted me. I had a world that might need what Stone had planned, if it were done kindly, with consent, openly, by people who understood what it cost.
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
+
+* * *
+
+Julian made the offer in the autumn of 2030, on the telephone, in the voice of a man ordering lunch.
+
+He had been a senator for four months. I had seen him on the news, standing on the steps of a building in a good coat, saying that he would serve the people of his state with humility. I had heard the applause go on a half second too long. I had put the television off and gone for a walk.
+
+He rang on a Sunday. I did not give him my number. I never learned how he got it.
+
+"Danny," he said. He was the only person outside my family who called me that, and he did it with a warmth that no one could have faulted. "I hope I'm not interrupting."
+
+"You're not."
+
+"I want to say something plainly, because I think we've both been rather careful with each other." A pause, perfectly judged. "I know what you've got. I don't mean the hearing. I mean the pages. I think you've got the whole of Stone's work in a drawer somewhere, and I think you've been trying to decide what to do with it."
+
+I did not answer.
+
+"I'd like to help you decide," said Julian.
+
+I held the telephone away from my ear and looked at it, and then I put it back. His voice was exactly as it had been the first night, at the debate: unhurried, clear, without a flaw. His pulse, which I could hear in the small sounds his breath made against the receiver, was as steady as a clock.
+
+"There's a foundation," he said. "It doesn't matter whose. It has a great deal of money and it would like to do some good. A laboratory, quiet and well run, with proper oversight and a proper ethics board. People like us, and people who'd like to be, and all of it done *kindly.* No secrets, no Stone. Just the work, finished the way it should have been."
+
+"And you'd run it."
+
+"I'd see that it was run well." He laughed, gently, at himself. "I wouldn't touch it. I'd simply make it possible."
+
+I thought of a cold night in April 1999, and a man with a card in his hand, and a refrigerator coming on. I thought: *he is describing it as a favor.*
+
+"No," I said.
+
+"Think about it."
+
+"I have. No."
+
+"Of course." There was no change in his voice at all. "I only wanted you to know it was there. Come and see me in Washington, if you like. I'd enjoy that."
+
+He rang off. I sat for a long time, with the telephone on my knee.
+
+I understood two things. The first was that I would never be able to tell him no in a way that he could hear. The second was that I had been thinking about the offer, for years, in a different shape, in my own voice.
+
+* * *
+
+I had the copies. I had four of them, in four places, and I had known their locations since I was eleven. I had a laboratory I could have rented, a bank balance that would have embarrassed me, and thirty-one people across three continents who trusted me. I had a world that might need what Stone had planned, if it were done kindly, with consent, openly, by people who understood what it cost.
 
 I made a list. I always make a list.
 
-*For.* We are few and fragile. The senator is proof that no one is safe. A world of people like Mira could solve problems in a decade that now take a century. We are not hurting anyone by being born.
+*For.* We are few, and we are fragile. A single bad winter, a single indiscreet scientist, a single hearing in a legislature could end us. A larger number would be safer. The senator is proof that no one is safe in any case. A world of people like Mira could solve in a decade what now takes a century. A child born with a gift is not harmed by being born.
 
-*Against.* No child consents to being made. Stone thought he was kind. So did I, every time I thought it through. The families would be lied to, or told, and I did not know which was worse. It is irreversible, and I was not.
+*Against.* No child consents to being made. Stone thought he was kind. So did I, every time I thought it through. The families would have to be lied to, or told, and I did not know which was worse. It is irreversible, and I was not.
 
-I took the list to Mira on a Sunday. She read it in the kitchen while Lena colored on the floor. When she had finished she put the sheet down and said: "You've written this as though it's your decision."
+I put the list in a drawer. I took it out again. I added a line to the first column, and then crossed it out. It said: *I am not sure that I know what is best.* It was true, and it did not belong on either side.
+
+* * *
+
+I took it to Elias first.
+
+He was in a small apartment in a college town, with a window onto a car park and a whiteboard that took up one wall. He had been a Nobel laureate for a year. He was thirty. He had taken the prize money and given most of it to a fund for graduate students, and had bought, with the rest, a very good chair.
+
+He read the list in silence. Then he read it again.
+
+"You've written *for* in a smaller hand," he said.
+
+"Have I?"
+
+"Yes. And you've given *against* more words." He looked up, and his face, which was usually apologetic, was alive with something I had not seen in it. "You want to be told to do it."
+
+"I want to know what you think."
+
+"I think you should." He said it quickly, and with a kind of ferocity, as if he had been holding it in for years. "I think we're sitting on the greatest opportunity in the history of the species, and we are using it to hide. Do you know what I could do with ten of me? A hundred? I've solved one problem in my life, and it was easy. There are a thousand harder ones. There's a child dying of something on the other side of the world this minute, and if there were enough of us—"
+
+"There would be a child."
+
+"Yes."
+
+"Who didn't ask."
+
+"No one asks," said Elias. "No one has ever asked. You didn't ask. I didn't ask. You think the people who are born ordinary, who are born into poverty, into war, you think they were *asked?*" He stood up. He was shaking. "We're not the ones who made the rule. We're only the first who can see it."
+
+I said, "That's what Stone said."
+
+He stopped.
+
+It was the cruelest thing I have ever said to him. I knew it as I said it. I watched it land, and I watched his face change: the color go out of it, the anger go, and a sort of bewildered sadness come in its place, like a man who has lost the rest of a sentence.
+
+"That's not fair," he said quietly.
+
+"No."
+
+"I'm not Stone."
+
+"No." I looked at my hands. "But he'd have liked you."
+
+He sat down. He did not speak for several minutes. When he did, it was in his old voice, small and exact.
+
+"I'm sorry," he said. "I think I wanted it to be simple."
+
+"So did I."
+
+* * *
+
+I took the list to Mira on a Sunday in the spring of 2031, when Lena was three and a half.
+
+It was in the kitchen of the flat in Munich. The windows were open to the courtyard, and a smell of cut grass came up from a garden somewhere below. Jonas was out with Lena, at a playground, and I could hear them, a quarter mile away, from the flat, the high clear note of a child on a swing and a tall man's patient voice saying *noch einmal.*
+
+Mira read the list standing up, with her pencil in her hair. When she had finished she put the sheet down on the table and said:
+
+"You've written this as though it's your decision."
 
 "Isn't it?"
 
-"No." She took my hand. It was an odd, startling gesture. "It's what you're going to do. It was never going to be what *we* decide. We're already here. We have children, or we will. You can't start it and you can't stop it." She squeezed. "Good. You've decided not to. Now stop deciding for all of us."
+"No." She took my hand. It was an odd, startling gesture. She was not a woman who touched people. "It's what you're going to do. It was never going to be what *we* decide. We're already here. We have children, or we will. You can't start it, and you can't stop it. All you can do is not to *add.*" She squeezed. "And you have. Good. You've decided not to. That is the right thing, and it's also the only thing that's yours."
 
-I took the copies to a place I will not name and locked them. I did not burn them. I am not that kind of person, and I am not sure it would have helped.
+"What if I'm wrong?"
 
-I went home and wrote on the first page of my own notebook: *No.*
+"Then you're wrong." She smiled, a little crookedly. "Danny, you're the most careful man I know. You have thought about it for ten years. I think you've earned the right to be wrong once."
+
+I laughed. I couldn't help it. It came out of me like a cough.
+
+"Now," said Mira, and she let go of my hand. "Stop deciding for all of us."
+
+"I wasn't—"
+
+"You were. You do it constantly. You keep a list of people, and a list of reasons, and a list of what each of us ought to want." She said it without malice. "We love you for it. But you're not a god. You're a physician with a good ear, and some very bad habits."
+
+I said that I would try.
+
+"Good." She picked up the list again, looked at it for a moment, and folded it twice. "I'm keeping this. It's the best argument I've ever seen against something."
 
 * * *
+
+I took the copies to a place I will not name and locked them. I did not burn them. I am not that kind of person, and I am not sure it would have helped. I stood in the cold, in a room with a concrete floor, and put four envelopes into a box, and a lock on the box, and I thought of Stone's vault, and the word he liked, and the way he had believed that a thing in a vault was a thing no one else had seen.
+
+It was a good lock. I did not believe in it any more than he had.
+
+I went home, and I took out my own notebook, the one with the black cover, and turned to a clean page. I wrote, in the middle of it, one word.
+
+*No.*
+
+I looked at it for a long time. It did not look like a decision. It looked like something that had always been there, and that I had been walking round for years, the way one walks round a piece of furniture in the dark.
+
+Then I put the pen away, and went to bed, and slept, for the first time in many weeks, without dreaming of a refrigerator.
 
 
 ## 17. More Than Enough
 
-The genomes were out. I do not know when it happened. There is no date on it. It happened the way a rumor does, through a hundred people each taking a little, until it was a fact that belonged to everyone and to no one.
+*Expanded draft v1. The main offspring, first person, past tense. Placeholders throughout.*
 
-The carriers had children. They had them in Stuttgart and Ohio and Recife, in flats and farmhouses, in the usual ways, with the usual accidents. Some of the children could hear a wall. Some could hear nothing special. Some had their father's nose, and no one had told them anything else. I heard about them from mothers on telephones, from the long list that Mira and Jonas kept in a shoebox, and I was careful to hear about them only as people.
+* * *
 
-My own work moved to a laboratory in a university hospital. I had my degree by then, in medicine, from a school with a long corridor and a good coffee machine, and my first paper was about the early hours after a stroke, which nobody understood and everybody treated. I did it because of a man in a chair by a window. I told no one that. I said I was interested in the brain.
+The genomes were out. I do not know when it happened, and there is no date on it. It happened the way a rumor does, through a hundred people each taking a little, until it was a fact that belonged to everyone and to no one.
 
-In 2033 we got a result. It was small. It was a molecule that, given in the right hour, protected cells that would otherwise have died. We published it in the usual way. The world did not notice. It was one of a thousand such results that year, and it mattered to forty people who read the abstract.
+I want to be careful here, because I have read a good many accounts of that period since, and they all want a moment: a leaked file, a late-night upload, a hacker in a hoodie. There was no moment. There was a conference in which a speaker showed a slide of a sequence that did not match anything. There was a database in which a thousand strangers had put their DNA for the sake of finding cousins, and in which, if you looked in the right way, a certain stretch appeared more often than chance allowed. There were papers, then preprints, then blog posts about the papers, then a whole forum of amateurs who spent their evenings comparing notes. By 2032 you could find the outline of it in a library, if you knew where to stand.
 
-I read it in Stone's room. He was eighty-three. He was listening to a nurse humming in the corridor with the intent look of a man hearing a language he once knew. I told him what the paper said. I did not know whether he understood it.
+Nobody connected it to a man. Nobody connected it to a clinic. The science was too strange, and the people who might have understood it were too busy being right about something else. It sat in the open, like a stone in a field, and the world walked around it and said, *what an odd shape.*
+
+* * *
+
+The carriers had children. They had them in Stuttgart and Ohio and Recife, in flats and farmhouses, in the usual ways, with the usual accidents.
+
+Some of the children could hear a wall. Some could hear nothing special. Some had a father's nose and a mother's temper and no one had told them anything else. I heard about them from mothers on telephones, from the long list that Mira and Jonas kept in a shoebox, and from the florist, who sent a photograph each spring of a different bunch of tulips and a different child, grinning, in front of them. I was careful to hear about them only as people. I did not keep a spreadsheet. I had learned that lesson.
+
+Mira's second was a boy, born in the winter of 2032. They named him Anton. At the age of six months, to Mira's open delight and Jonas's discreet relief, he showed no sign whatever of hearing anything he should not. He liked the cuckoo clock. He liked his sister. He liked, with a single-minded passion, the sound of a wooden spoon on a pan. When Mira rang to tell me, she was laughing so hard she could hardly speak.
+
+"He's *normal,*" she said. "He's perfectly, gloriously normal. I cried for an hour. I'm a terrible mother."
+
+"You're a very good one."
+
+"I wanted him to be, you know." She stopped. "I wanted him to be ordinary. Is that terrible?"
+
+"No."
+
+"It isn't that I wanted to make him less. It's that I wanted him to be able to *stop,* if he wanted." She breathed. "Lena can't stop. She has to hold herself still in a room."
+
+"I know."
+
+"He doesn't. He gets to be five years old, and eleven, and forty, and nobody has to hold a thing."
+
+I thought of my own childhood, and my mother's patient face, and the translation downward. I said, with all the care I had, "He's very lucky."
+
+"They both are," said Mira, a little fiercely. "That's the point. That's what I keep forgetting. They both are."
+
+* * *
+
+My own work moved, in those years, to a laboratory on the fourth floor of a university hospital.
+
+I had my degree by then. I had gone to a medical school with a long corridor and an unreliable coffee machine, and had learned there, as everyone does, a great quantity of things I would forget and a few I would not. I had done my residency in neurology, at night mostly, with my ears open. In the small hours of the morning in a ward, you hear everything: the monitors, the breath, the particular wet catch that a lung makes before it fails. I became good at it. The consultants said I had a gift for bedside diagnosis. I said I had a good stethoscope.
+
+My first paper was about the early hours after a stroke. This was an unfashionable subject. The field wanted to know about prevention, or rehabilitation, or the grand question of what consciousness is. Nobody cared about the first three hours, which everyone treated and nobody understood.
+
+I did it because of a man in a chair by a window. I told no one that. When asked, I said I was interested in the brain.
+
+Our group was eleven people, in four countries, with a shared server and a standing Thursday call that began at an hour convenient to no one. There was a pharmacologist in Lyon with a dry laugh and a collection of ceramic owls. There was a cell biologist in Pune who answered every question by drawing it. There was a statistician in Edmonton whom I never saw, whose voice came through the speakers like a disapproving radio. And there was my supervisor, a woman called Dr. Helen Voss, who had been in the field for forty years and who said, at our first meeting, "Young man, I have never seen anyone listen so hard."
+
+I said that I tried.
+
+"No," she said. "I mean that you *listen.* You don't wait for your turn. It's rare." She stirred her tea. "I don't know what you are, but I'd like to find out."
+
+I told her I was a neurologist.
+
+"Yes," she said. "But what else?"
+
+I will say it was hard not to tell her.
+
+* * *
+
+The idea was simple. After a stroke, a core of tissue dies at once, and around it lies a larger zone that is dying slowly. It has the blood it needs, in a thin trickle, but not enough to live on, and not enough to die by. If you could keep that zone alive for a few hours more, long enough for the blood to return, you might save a great deal. The question was how.
+
+I will not describe the molecule. It is not mine to describe, and it is not interesting to anyone who has not spent years in a laboratory. I will say that it took us three years to find a version that did not kill the mice, another two to find one that did not kill the monkeys, and a long and very dull year of trials in people who had volunteered for a thing they could not have understood.
+
+We got a result in 2033. It was small. It was a molecule that, given in the right hour, protected cells that would otherwise have died. We published it in the usual way, in a good journal that few people read. The world did not notice. It was one of a thousand such results that year, and it mattered to forty people, who read the abstract.
+
+I did not go to the celebration. I went to the care home.
+
+* * *
+
+Stone was eighty-three. He was in the chair by the window, which was the third window he had had, in the third home. The staff had changed several times since 2016, but the nurses all knew him as *Dr. Frank,* and they all said he was no trouble. He did not try to leave, and he did not shout, and when anyone sang in the corridor he turned his head toward it with an expression of faint, wary approval.
+
+I told him what the paper said. I did not know whether he understood it. I read him the abstract, in an even voice, as one reads to a child, and when I had finished I put the paper on the table and said: "I think it might help."
+
+He looked at me. I had grown used to this look, over seventeen years, and I could not have said what was in it. It might have been intelligence. It might have been the long patience of a creature that waits at a window.
 
 His right hand moved on the blanket. It was not a gesture. It was a hand deciding to be a hand.
 
+I watched it for some time.
+
+Then he made a sound. It was not a word. It was breath given a shape, a rounded, open shape, the one a mouth makes before it says *oh.*
+
+"Yes," I said. "That's the one."
+
+I do not know why I said it. I am told by Mira, who knows about these things, that people in his state sometimes respond to the *tone* of a sentence, and that I should not read too much into it. I am sure she is right. I read a great deal into it anyway.
+
 * * *
+
+There is a question that I put to myself in those years, and I will set it down, since I promised to set down everything.
+
+The question was: *what if it works?*
+
+I mean the cure. I mean the real one, the one still some years away, the one that would take a man who had not spoken in twenty years and give him back his voice. I mean what he would do with it.
+
+I had thought about this at length. I had written lists, as I do, in a notebook with a black cover. *For:* he is a man, and it is not mine to withhold. *For:* mercy. *For:* the chance that, once his mind returned, he would see what I saw. *Against:* the index. *Against:* the century. *Against:* the fact that a man who believed what he had believed could believe it again.
+
+But the index was gone. I knew that. I had seen him look at his own handwriting and fail to read it. He was eighty-three, and whatever the molecule gave him, it could not give him back a language that the stroke had taken. The danger I imagined, a rejuvenated Stone, striding out of a hospital with the plan in his head, was a danger I had invented. The man in the chair could not do arithmetic.
+
+It was, I realized, a relief.
+
+I had been afraid of the wrong thing. I had been afraid of his power, when the thing I should have feared was his regret.
+
+I put the notebook away. I did not decide, that day, to give him anything. I decided only to go on, and to see whether the thing worked, and to ask him, when it did, what he would like.
+
+In the corridor, a trolley went by with a rattling wheel. I counted eleven seconds. I did not look round.
 
 
 ## 18. The Leak
