@@ -28,7 +28,7 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 ## Still open
 
 - Back cover (paperback only): the draft is in `bak/covers/Kindle Back Cover.jpg`.
-- The lesson diagrams are 1400 px PNGs; fine for Kindle (file under 3 MB), could be cut to 800 px if size ever matters.
+- Interior lesson diagrams have a maximum raster size of 800 x 440 px, scaled proportionally. The front/title artwork and final back-cover panel are publication art and are not subject to the diagram limit.
 
 ## Line and science review (12 Oct 2026)
 
@@ -59,3 +59,8 @@ Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. O
 ## Image and visual-accessibility review (13 Oct 2026)
 
 Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.8/10**; covers, illustrations, and image placement/accessibility each score 10/10. The back-cover panel is the final page. Added alt descriptions to the title illustration, all 19 lesson diagrams, and the back-cover panel. Rebuilt and validated the Kindle EPUB; every image has alt text and internal links resolve.
+
+
+## Diagram display-size update (13 Oct 2026)
+
+All 19 lesson diagrams in the reviewed DOCX and Kindle EPUB are at most 800 x 440 pixels. Their aspect ratios were preserved; the 800 x 322 diagram already within the limit was unchanged. Title/cover art and the final back-cover panel remain at their publication dimensions. EPUB archive integrity and XML parsing passed; all 21 in-reading images retain alt text.

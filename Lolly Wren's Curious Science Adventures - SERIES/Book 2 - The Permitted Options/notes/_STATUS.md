@@ -63,3 +63,8 @@ Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. O
 ## Image and visual-accessibility review (13 Oct 2026)
 
 Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.6/10**; the cover, interior-image fit, and image placement/accessibility each score 10/10. The designed back-cover panel is now the final page, with descriptive alt text. Rebuilt and validated the Kindle EPUB; the back cover follows all story and lecture content, and internal links resolve. No interior diagrams were needed for this text-led volume.
+
+
+## Diagram display-size check (13 Oct 2026)
+
+Book 2 has no interior diagrams, so no diagram resizing was needed. Its designed back-cover panel remains the final reading page and stays at its publication dimensions. The EPUB archive integrity and XML parsing passed; its in-reading back-cover image has alt text.
