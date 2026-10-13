@@ -2,7 +2,7 @@
 
 # KDP listing — How to Publish Your First Kindle Book
 
-Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platform facts in the manuscript were checked against KDP Help on 6 October 2026 (see the Notes in the book). Master: `How to Publish Your First Kindle Book_REV42_2026-10-13.docx` (REV42, 13 October 2026: literary and copy edit, cover and title-page subtitle aligned with KDP metadata, label definitions clarified, schedule and bookmark fixes; REV41 is archived in `bak/`).
+Listing updated 13 October 2026; title changed from *Your First Book That Sells* on 7 October. Platform facts carry the check dates shown in the manuscript notes; supported eBook formats were rechecked against KDP Help on 13 October 2026. Master: `How to Publish Your First Kindle Book_REV43_2026-10-13.docx` (REV43, 13 October 2026: trimmed repetition in the later case material, clarified release tracking, updated supported-format guidance, aligned the Word-source-to-EPUB workflow, and removed the duplicate cover from the manuscript body; REV42 is archived in `bak/`).
 
 ## Title fields
 
@@ -11,19 +11,19 @@ Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platfor
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
 - **Edition:** Title updated 7 October 2026
-- **Master file:** `How to Publish Your First Kindle Book_REV42_2026-10-13.docx`
+- **Master file:** `How to Publish Your First Kindle Book_REV43_2026-10-13.docx`
 
-The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. Production check: REV42 and the front cover now use this exact subtitle. The cover and metadata match. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
+The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. Production check: REV43 and the front cover use this exact subtitle. The cover and metadata match. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
 
-You finished the manuscript. The harder part is the file, the product page, an honest review request, and what to do after the book is live.
+Finished the manuscript? Now the practical questions begin. Will the file read well on a phone? Does the product page promise the book you wrote? How can you invite honest reviews without pressure—and what should you do if the first month is quiet?
 
-The working method is deliberately small: write what one sale leaves, who the book is for, and the date you will judge one change.
+This guide gives you a low-cost, evidence-led route. Start with one reader, one budget, one useful test, and a date to review the result. Platform rules, legal guidance, worked examples, recommendations, and self-tests are labeled, so you can tell a requirement from advice.
 
 The guide is best suited to adults and older teens exploring independent publishing. Readers under 18 (or below the age of majority where they live) must use KDP with a parent or guardian involved.
 
-How to Publish Your First Kindle Book is for first-time and early independent authors who want to publish a Kindle ebook without wasting money or getting lost in platform jargon. Part I is the short road: one action per chapter, following one first-time author and her cozy mystery through a month of decisions, then seven things to do this week. The later parts are the reference: marketplace settings, formatting, covers, keywords, categories, pricing, a launch without an audience, a small ad test, KDP Select or going wide, taxes and reports, the first-review problem, and using AI without losing the book.
+How to Publish Your First Kindle Book is for first-time and early independent authors who want to publish a Kindle eBook without getting lost in platform jargon or overspending on guesses. Part I is the short road: one action per chapter, following a first-time author and her cozy mystery through a month of decisions, then seven things to do this week. The later parts are the field manual: marketplace settings, formatting, covers, keywords, categories, pricing, a launch without an audience, a small ad test, KDP Select or going wide, taxes and reports, the first-review problem, and using AI without losing the book.
 
 Inside you will learn how to:
 
