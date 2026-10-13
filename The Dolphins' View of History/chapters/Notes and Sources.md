@@ -20,6 +20,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Sponge carrying in Shark Bay as a culturally transmitted tool use.* Krützen, Michael, et al. “Cultural Transmission of Tool Use in Bottlenose Dolphins.” PNAS 102 (2005): 8939–43.
 
+*Documented infanticide in wild bottlenose dolphins.* Patterson, I. A. P., et al. “Evidence for Infanticide in Bottlenose Dolphins: An Explanation for Violent Interactions with Harbour Porpoises?” Proceedings of the Royal Society B 265 (1998): 1167–70.
+
+*Male alliances and the coercive “herding” of females in bottlenose dolphins.* Connor, Richard C., Rachel A. Smolker, and Andrew F. Richards. “Two Levels of Alliance Formation among Male Bottlenose Dolphins (Tursiops sp.).” Proceedings of the National Academy of Sciences 89 (1992): 987–90.
+
 *Cumulative culture, the “ratchet” this book’s thesis rests on.* Tennie, Claudio, Josep Call, and Michael Tomasello. “Ratcheting Up the Ratchet: On the Evolution of Cumulative Culture.” Philosophical Transactions of the Royal Society B 364 (2009): 2405–15.
 
 *Arion and the dolphin.* Herodotus, Histories 1.23–24 (5th century BCE; many translations).
@@ -39,6 +43,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Age of Homo naledi.* Dirks, Paul H. G. M., et al. “The Age of Homo naledi and Associated Sediments in the Rising Star Cave, South Africa.” eLife 6 (2017): e24231.
 
 *Blombos Cave engraved ochre.* Henshilwood, Christopher S., et al. “Emergence of Modern Human Behavior: Middle Stone Age Engravings from South Africa.” Science 295 (2002): 1278–80.
+
+*Blombos Cave shell beads.* Henshilwood, Christopher S., et al. “Middle Stone Age Shell Beads from South Africa.” Science 304 (2004): 404.
 
 **The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture**
 
@@ -129,6 +135,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The civil service examinations.* Elman, Benjamin A. A Cultural History of Civil Examinations in Late Imperial China. Berkeley: University of California Press, 2000.
 
 *The archaeology behind the dynasties, including the Xia debate.* Liu, Li, and Xingcan Chen. The Archaeology of China. Cambridge: Cambridge University Press, 2012.
+
+*The Daodejing's composite authorship and the Guodian manuscripts.* Boltz, William G. "The Fourth-Century B.C. Guodian Manuscripts from Jingmen and Their Place in the Lao-tzu Tradition." Journal of the American Oriental Society 119 (1999): 590–608.
 
 **2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity**
 
@@ -234,6 +242,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String**
 
+*The Spanish soldiers wondering if they were dreaming.* Díaz del Castillo, Bernal. The Conquest of New Spain. c. 1568. Translated by J. M. Cohen. London: Penguin, 1963.
+
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
 
 *A single domestication of maize.* Matsuoka, Yoshihiro, et al. “A Single Domestication for Maize Shown by Multilocus Microsatellite Genotyping.” PNAS 99 (2002): 6080–84.
@@ -276,6 +286,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry**
 
+*Why historians no longer speak of one unified Scientific Revolution.* Shapin, Steven. The Scientific Revolution. Chicago: University of Chicago Press, 1996.
+
 *Printing and its consequences.* Eisenstein, Elizabeth L. The Printing Press as an Agent of Change. Cambridge: Cambridge University Press, 1979.
 
 *Why industrialization began in Britain.* Allen, Robert C. The British Industrial Revolution in Global Perspective. Cambridge: Cambridge University Press, 2009.
@@ -288,15 +300,13 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1776–1865: The Republic, With Exceptions — America**
 
+*Noah Webster's dictionary and the American spelling reform.* Kendall, Joshua. The Forgotten Founding Father: Noah Webster's Obsession and the Creation of an American Culture. New York: G. P. Putnam's Sons, 2010.
+
 *The Civil War death toll.* Hacker, J. David. “A Census-Based Count of the Civil War Dead.” Civil War History 57 (2011): 307–48.
 
 *Reconstruction and its abandonment.* Foner, Eric. Reconstruction: America’s Unfinished Revolution, 1863–1877. New York: Harper & Row, 1988.
 
 *Indian removal.* Saunt, Claudio. Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory. New York: Norton, 2020.
-
-*The Haitian Revolution.* Dubois, Laurent. Avengers of the New World: The Story of the Haitian Revolution. Cambridge, MA: Harvard University Press, 2004.
-
-*American whaling and its decline.* Dolin, Eric Jay. Leviathan: The History of Whaling in America. New York: Norton, 2007.
 
 *Jamestown, tobacco, and 1619.* Horn, James. A Land as God Made It: Jamestown and the Birth of America. New York: Basic Books, 2005.
 
@@ -538,7 +548,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
 
+*The word “sonar” coined at Harvard's wartime Underwater Sound Laboratory.* Pestorius, Frederick M., and David T. Blackstock. “Contributions to the Development of Underwater Acoustics at the Harvard Underwater Sound Laboratory (HUSL).” Proceedings of Meetings on Acoustics 23 (2015): 070008.
+
 *The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+*Gordon Gould's 1957 coinage of “laser.”* Hecht, Jeff. “Short History of Laser Development.” Optical Engineering 49, no. 9 (2010): 091002.
 
 *Mendeleev's table and the predicted elements.* Scerri, Eric R. [The Periodic Table: Its Story and Its Significance](https://openlibrary.org/works/OL8005621W). New York: Oxford University Press, 2006.
 
@@ -576,6 +590,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Partition.* Khan, Yasmin. The Great Partition: The Making of India and Pakistan. New Haven: Yale University Press, 2007.
 
+*The “transfer of power” reading of 1947.* Moore, R. J. Escape from Empire: The Attlee Government and the Indian Problem. Oxford: Clarendon Press, 1983.
+
 *Kenya and the detention camps.* Elkins, Caroline. Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya. New York: Henry Holt, 2005.
 
 *Decolonization as a whole.* Jansen, Jan C., and Jürgen Osterhammel. Decolonization: A Short History. Princeton: Princeton University Press, 2017.
@@ -594,6 +610,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Mandela.* Mandela, Nelson. Long Walk to Freedom. Boston: Little, Brown, 1994.
 
+*Apartheid's end as a multi-factor negotiation, not a single memoir's account.* Dubow, Saul. Apartheid, 1948–1994. Oxford: Oxford University Press, 2014.
+
 *Stonewall.* Carter, David. Stonewall: The Riots That Sparked the Gay Revolution. New York: St. Martin’s Press, 2004.
 
 **1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World**
@@ -603,6 +621,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Colossus and Bletchley Park.* Copeland, B. Jack, ed. Colossus: The Secrets of Bletchley Park’s Codebreaking Computers. Oxford: Oxford University Press, 2006.
 
 *From Lovelace to the web.* Isaacson, Walter. The Innovators. New York: Simon & Schuster, 2014.
+
+*“Google” added as a verb in 2006.* Harris, Scott D. “Dictionary Adds Verb: To Google.” San Jose Mercury News, July 7, 2006.
+
+*Google’s trademark surviving a genericide challenge.* Elliott v. Google, Inc., 860 F.3d 1151 (9th Cir. 2017).
 
 *False news spreads faster than true.* Vosoughi, Soroush, Deb Roy, and Sinan Aral. “The Spread of True and False News Online.” Science 359 (2018): 1146–51.
 

@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v8.txt"
+STORY_FILE = "Book2_Story_v14.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -22,6 +22,8 @@ body = raw[raw.index("Chapter 1."):]
 blocks = [b.strip("\n") for b in re.split(r"\n\s*\n", body) if b.strip()]
 
 place = {
+    'On the last Sunday of October the village held a picnic': 'b83_walnut_boats.jpg',
+    'Pip came out of the crowd like a cork': 'b84_pip_homecoming.jpg',
     'Hal had been timing the echo.': 'b65_echo_count.jpg',
     'And then Scally stood up.': 'b66_scally_stands.jpg',
     'She said it flatly, the way she said it when she meant it.': 'b67_hopsi_dont_know.jpg',
@@ -36,7 +38,7 @@ place = {
     'There was a short, loud argument.': 'b76_the_argument.jpg',
     'That night every light in the valley went out early': 'b77_village_sleeps.jpg',
     'Hal put one in his palm and spun it on the step.': 'b78_egg_spin.jpg',
-    'One grey afternoon at the end of October': 'b79_step_buns.jpg',
+    'One gray afternoon at the end of October': 'b79_step_buns.jpg',
     '“Wade it,” said Scally.': 'b80_wade_it.jpg',
     'They launched the raft at noon.': 'b81_launch_raft.jpg',
     'In the morning Scally sat on the mill step': 'b82_painting_sign.jpg',
@@ -60,7 +62,7 @@ place = {
     "He scooped up the tin.": "b03_pennies_back.jpg",
     "Hal went to the pond, to think.": "b04_reflection_up.jpg",
     "The Mayor stood on a barrel.": "b05_mayor_barrel.jpg",
-    "It was a grey donkey, small and round": "b06_walt_arrives.jpg",
+    "It was a gray donkey, small and round": "b06_walt_arrives.jpg",
     Q + "You don" + A + "t shout at it," + R + " said Old Walt.": "b07_walt_stick.jpg",
     "They set out at dawn.": "b08_setting_off.jpg",
     "A bank had slipped into the stream.": "b09_green_pool.jpg",
@@ -275,11 +277,12 @@ pagebreak()
 
 heading("Meet the Characters", 1, "cast")
 cast = [
-    ("Hal (Halbert) Millersen", "8 and a bit. The miller" + A + "s son, with a slate for his notes. Looks, counts, tests, and writes WRONG when he is."),
-    ("Scally, the wee scallywag", "8. A little devil with pointed ears and a leaf in his hair. He can never resist a scam, a lie or a shortcut. His true name is for special occasions."),
-    ("Hopsi (Elfie Didlhop)", "9. An elf with long swept-back ears. She only says what is true, and this time she has to learn to say “I think”."),
-    ("Titch Mitchel", "8. Red cap, quick fingers and a crust in each hand. The best knot-tier in the valley."),
-    ("Tabitha Smoke", "8. Curly black hair in a bun. Watches carefully and notices what nobody else did."),
+    ("Hal (Halbert) Millersen", "Almost 9. The miller" + A + "s son, with a slate for his notes. Looks, counts, tests, and writes WRONG when he is."),
+    ("Scally, the wee scallywag", "A little devil with pointed ears and a leaf in his hair. He can never resist a scam, a lie or a shortcut. His true name is for special occasions."),
+    ("Hopsi (Elfie Didlhop)", "An elf with long swept-back ears. She only says what is true, and this time she has to learn to say “I think”."),
+    ("Titch Mitchel", "Almost 9. Red cap, quick fingers and a crust in each hand. The best knot-tier in the valley."),
+    ("Tabitha Smoke", "Nearly 8. Curly black hair in a bun. Watches carefully and notices what nobody else did."),
+    ("Pip", "6 and three-quarters. Titch" + A + "s little brother, who guards the mill step while the others are away."),
     ("Gucci", "A wolf cub, now the size of a cushion, who still thinks he is the size of a boot."),
     ("Fourpence", "A small brown bird who hatched from the last square egg. It sings four notes, exactly four."),
     ("Old Walt", "The stream-keeper, with a stiff leg, a hat made of eel-skin and fifty years of listening to water."),

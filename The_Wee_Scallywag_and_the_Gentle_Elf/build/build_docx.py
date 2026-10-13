@@ -12,7 +12,7 @@ SERIES = "The Step Stories"
 TITLE1, TITLE2 = "The Wee Scallywag", "and the Gentle Elf"
 AUTHOR = "Anneliese Tauber"
 
-STORY_FILE = "Book1_Story_v14.txt"
+STORY_FILE = "Book1_Story_v20.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 raw = open(os.path.join(B, "Step_Stories_Texts", STORY_FILE), encoding="utf-8").read()
 body = raw[raw.index("Chapter 1."):]
@@ -30,6 +30,7 @@ place = {
     'He laid the log across a stone': 'c02b_lever_test.jpg',
     'A small girl with dark brown hair': 'c02c_storm_carriage.jpg',
     'Ten minutes later the sun came out': 'c02d_rainbow.jpg',
+    'Scally decided to help.': 'c02e_butter_slip.jpg',
     'That evening Hal tried the wheel.': 'd02_jamming_the_wheel.jpg',
     'Hal followed the sound across the yard.': '04_ghost_wheel.jpg',
     'Scally opened the lid.': '05_ghost_trap.jpg',
@@ -56,6 +57,7 @@ place = {
     'They made the line.': '18_fire_night.jpg',
     '“It was a fire,” said the miller, quite gently.': 'd15_miller_scolds.jpg',
     'Afterwards Hal could not sleep.': 'c07a_apology.jpg',
+    'The night before had been the kind you only get once.': 'c08a_loft_stories.jpg',
     'She had slept on a pile of sacks': 'c08b_gucci_crust.jpg',
     '“They are all different,” said Hopsi at last.': '22_flowers_welcome.jpg',
     '“Gran says the Moon pulls on the sea': 'c08c_tides.jpg',
@@ -72,7 +74,7 @@ place = {
     'In front of the door stood a pair of boots with a tag.': 'c09d_mirror_tag.jpg',
     'Scally came out backwards': '13_pull_bag.jpg',
     'The pond went dark.': 'c09f_dark_pond.jpg',
-    'Out came a hundred years of boiled sweets': '14_stranger_flour.jpg',
+    'Out came a hundred years of hard candies': '14_stranger_flour.jpg',
     'The stones glowed, a thin white light': 'c09e_stones_stop.jpg',
     'It was past midnight when the third day closed.': '15_stay_step.jpg',
     '“Sparefunk,” said Hal.': 'c10a_name_reveal.jpg',
@@ -235,6 +237,7 @@ LINKS = [  # (item number, exact phrase in the story, first occurrence only)
     (13, 'That is the sign. That is enough.'),
     (14, 'Reach or throw'),
     (15, 'That counts'),
+    (16, 'When two things rub, they pull against each other'),
 ]
 linked_done = set()
 
@@ -313,11 +316,12 @@ cast = [
     ("Hal (Halbert) Millersen", "8. The miller\u2019s son. Brown, tousled hair, chalk on his fingers, a slate under his arm. Dry and steady. Says \u201cAcceptable\u201d when things are bad."),
     ("Titch Mitchel", "8. Dark brown hair under a red knitted cap. Quick, practical, always has a crust. Tears bread into even pieces."),
     ("Scally, the wee scallywag", "A little devil: short sharp pointed ears, messy hair with a leaf in it, a grin like a lit match. Makes bargains and runs up walls. His true name is the puzzle of the book."),
-    ("Hopsi (Elfie Didlhop)", "9. An elf: long swept-back ears, long wavy light-brown hair, a needle and a bowl of hops. Only says what is true."),
-    ("Tabitha Smoke", "8. Curly black hair in a bun. Warm and watchful. Asks the one question nobody else thought of."),
+    ("Hopsi (Elfie Didlhop)", "An elf: long swept-back ears, long wavy light-brown hair, a needle and a bowl of hops. Only says what is true."),
+    ("Tabitha Smoke", "7. Curly black hair in a bun. Warm and watchful. Asks the one question nobody else thought of."),
+    ("Pip", "6. Titch\u2019s little brother. Small, solemn and always one step behind his sister."),
     ("Gucci", "A baby wolf with a grumpy face and a very big appetite for crusts."),
     ("Old Miller Millersen", "A ghost, with a flour-sack cloak and a dusty hat. Polite, lonely, and Hal\u2019s great-great-grandfather."),
-    ("The Soft Voice", "A tall thin stranger with sweets, a smile too wide and a quicker way. Never take it."),
+    ("The Soft Voice", "A tall thin stranger with candy, a smile too wide and a quicker way. Never take it."),
 ]
 for n, t in cast:
     p = d.add_paragraph()
@@ -429,13 +433,13 @@ for lead, t in [
 heading("What each chapter teaches", 2, center=False)
 for lead, t in [
     ("The Stuck Wheel:", "a problem to solve against the clock, and what it feels like to break a rule you were given."),
-    ("The Lord of the Riverbank:", "levers, with a seesaw, a fair test, why a trick catches up with you, and why a rainbow needs the sun behind you."),
+    ("The Lord of the Riverbank:", "levers, with a seesaw, a fair test, friction (butter cures a squeak, not a jam), why a trick catches up with you, and why a rainbow needs the sun behind you."),
     ("The Ghost in the Wall:", "tunnelling, with a marble and a hill (very, very small things only), and why the sun shines."),
-    ("The Toad of the Ford:", "genes as a recipe, variation, counting data, why the colour that fits becomes common, and what to do when a friendly stranger asks you to go with them: No, Go, Yell, Tell."),
+    ("The Toad of the Ford:", "genes as a recipe, variation, counting data, why the color that fits becomes common, and what to do when a friendly stranger asks you to go with them: No, Go, Yell, Tell."),
     ("The Pike and the Torn Tag:", "reach or throw, why light bends in water (a barrow and a lifeguard), a stick test, a puddle race, and why a promise matters."),
     ("The Howl and the Moon:", "why the moon changes shape, with an apple and a lantern, why wolves really howl, and a scientist" + "\u2019" + "s \u201cI do not know\u201d."),
     ("The Hot Night:", "what a fire needs, shouting first, why children let grown-ups put out a fire, and why a bonfire must be put out properly."),
-    ("The Girl with the Apples:", "welcome when the words are not allowed, careful observation, and tides: how the Moon pulls the sea."),
+    ("The Girl with the Apples:", "welcome when the words are not allowed, careful observation, the difference between a story and a lie, and tides: how the Moon pulls the sea."),
     ("The Quick Way and the True Way:", "reading evidence, being brave enough to say no, a crack of light that is not tunnelling, and writing that a mirror turns round."),
     ("The True Name:", "reading mirror writing, and telling the truth when it is hard."),
     ("Sunday:", "saying sorry and mending what you broke, and sunlight that is eight minutes old."),
@@ -443,7 +447,7 @@ for lead, t in [
     para(t, lead)
 heading("Staying safe: what this book models", 2, center=False)
 for lead, tx in [
-    ("Strangers.", "The woman with the puppy and the Soft Voice are two strangers. Neither is spotted by looks. The warning signs are a request to keep a secret, offers of sweets or pets, a claim that a parent sent them, or a child being asked for help. The children say No, go to a safe place (the baker), yell, and tell. Agree a family code word, like marmalade."),
+    ("Strangers.", "The woman with the puppy and the Soft Voice are two strangers. Neither is spotted by looks. The warning signs are a request to keep a secret, offers of candy or pets, a claim that a parent sent them, or a child being asked for help. The children say No, go to a safe place (the baker), yell, and tell. Agree a family code word, like marmalade."),
     ("Fire.", "Shout, get out, get a grown-up, and leave the fire-fighting to them. A fire needs fuel, heat and air. Never leave a bonfire burning; drown it, stir it, drown it again. Smoke is the real danger, so stay low and stay out. Please make a family escape plan together."),
     ("Water.", "Reach or throw, never go in after a friend. Never go to a pond or stream without a grown-up."),
     ("Roads.", "Stop, look and listen before you cross."),
@@ -466,9 +470,9 @@ for q in [
 ]:
     para(q)
 heading("Words to grow", 2, center=False)
-para("lever, rainbow, inherit, variation, camouflage, bend (refraction), reflection, tunnelling, phase, tide.")
+para("lever, friction, rainbow, inherit, variation, camouflage, bend (refraction), reflection, tunnelling, phase, tide.")
 heading("A note for adults", 2, center=False)
-para("Light travels about three-quarters as fast in water as in air, so \u201ca quarter slower\u201d is a child-sized number. A fish is deeper than it looks when you look into the water from above. Sunlight takes about eight minutes and twenty seconds to reach Earth. The recipe picture of genes is an analogy: real genes are made of DNA. Tunnelling is real quantum behaviour of very small particles, and it matters in how the Sun releases energy; the marble picture is only a way in, and the story is clear that it does not happen to people or ghosts. The moon\u2019s phases come from how much of its sunlit half we can see, not from the Earth\u2019s shadow. Tides come from the Moon\u2019s gravity pulling more strongly on the near side of the Earth than the far side, with the Sun adding to it at full and new moon; the bath-water picture is a simple way in. A mirror swaps front and back, which is why writing reads the wrong way round in a mirror; the Mirror Mill itself is magic. Stranger safety is not about looks: a stranger can be a man or a woman and can seem kind. The signs are a request to keep a secret, offers of sweets or pets, a claim that a parent sent them, or a child being asked for help. Please agree a family code word, like marmalade in the story. In the fire scene the adults put the fire out and the children stay back; please make a family escape plan together. A bonfire must be drowned, stirred and drowned again until the ashes are cold to the hand. These are seed ideas, meant to make children curious, not to be tested at school yet.")
+para("Light travels about three-quarters as fast in water as in air, so \u201ca quarter slower\u201d is a child-sized number. A fish is deeper than it looks when you look into the water from above. Sunlight takes about eight minutes and twenty seconds to reach Earth. The recipe picture of genes is an analogy: real genes are made of DNA. Tunnelling is real quantum behaviour of very small particles, and it matters in how the Sun releases energy; the marble picture is only a way in, and the story is clear that it does not happen to people or ghosts. The moon\u2019s phases come from how much of its sunlit half we can see, not from the Earth\u2019s shadow. Tides come from the Moon\u2019s gravity pulling more strongly on the near side of the Earth than the far side, with the Sun adding to it at full and new moon; the bath-water picture is a simple way in. A mirror swaps front and back, which is why writing reads the wrong way round in a mirror; the Mirror Mill itself is magic. Stranger safety is not about looks: a stranger can be a man or a woman and can seem kind. The signs are a request to keep a secret, offers of candy or pets, a claim that a parent sent them, or a child being asked for help. Please agree a family code word, like marmalade in the story. In the fire scene the adults put the fire out and the children stay back; please make a family escape plan together. A bonfire must be drowned, stirred and drowned again until the ashes are cold to the hand. These are seed ideas, meant to make children curious, not to be tested at school yet.")
 toc_link()
 pagebreak()
 heading("About the Author", 1, "about")
