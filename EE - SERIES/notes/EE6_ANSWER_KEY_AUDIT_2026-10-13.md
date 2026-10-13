@@ -114,3 +114,8 @@ Rendered a fresh 162-page PDF. Chapter 8 Section 8.4 and Worked Example 8.4 were
 Kindle Previewer 3.106.0 completed the final-master Book 6 conversion: Supported/Success, zero errors, zero quality issues, and "No issues found." The embedded book.docx SHA-256 matches the master (df7ffee5ff5fcd57ef55adf4dddf58e2aaf4aa831026d9da1cd71241e3085cc5). The current-master check across all nine KPFs passes exact embedded-DOCX hashes and zero-error/zero-issue reports. The visual check remains a selected-page inspection, not a full-device review.
 
 The final PDF Appendix A formula summary was also checked on page 139; the effective-resistance definition wraps cleanly and remains readable.
+
+
+## Gate-driver answer-depth follow-up (13 October 2026)
+
+Expanded Chapter 19 Practice Problems 1-4 so the concise answer key shows the calculation, not only the result. The answers now derive average gate current (50 nC/25 ns = 2 A) and distinguish it from a potentially higher peak; calculate ideal dynamic gate-drive power (Qg x Vdrive x f = 60 mW) and identify excluded supply/quiescent losses; derive the 100 nF bootstrap minimum and apply the requested tenfold factor to reach 1 uF while naming bias-current, leakage, and refresh checks; and calculate Miller current (Cgd x dv/dt = 0.4 A) while noting that gate-voltage excursion depends on gate impedance. The DOCX master and regenerated mirror match. LibreOffice PDF pages 151-152 were inspected and remain legible. This targeted improvement does not complete the 208-answer depth review, validate a gate-drive design, or change the prior scores.

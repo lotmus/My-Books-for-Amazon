@@ -211,10 +211,10 @@ P: 7. With one phase the loss is 0.6 + 0.006I², with two 1.2 + 0.003I²; they a
 P: 8. Ripple currents are out of phase between the coupled windings and see a large effective inductance, while a load step drives all phases in the same direction, where the coupling cancels and only the small leakage inductance limits the slew.
 P: 9. 1 + 0.0039 × 75 = 1.29, a 29 % rise.
 H2: Chapter 19
-P: 1. 2 A.
-P: 2. 60 mW.
-P: 3. 1 µF.
-P: 4. 0.4 A.
+P: 1. Iavg = Qg/t = 50 nC/25 ns = 2 A. This is the average during the stated transition; peak driver current can be higher.
+P: 2. Pgate = Qg Vdrive f = 50 nC x 12 V x 100 kHz = 60 mW. This ideal dynamic estimate excludes driver quiescent and supply-conversion losses.
+P: 3. Cmin = Qg/DeltaV = 30 nC/0.3 V = 100 nF; multiplying by ten gives 1 uF. Also check driver bias current, leakage, and refresh droop.
+P: 4. Imiller = Cgd dv/dt = 5 pF x 80 V/ns = 0.4 A during the transition. The resulting gate-voltage excursion depends on gate impedance.
 P: 5. The injected current must lift the gate from a negative voltage all the way to threshold, giving more margin before the device turns on.
 P: 6. Some digital isolators provide higher data rates, more consistent timing, or higher CMTI, and avoid LED aging. Neither technology is universally better: compare the required insulation class, working-voltage lifetime, surge rating, CMTI, temperature range, signal type, and safety certification for the actual application.
 P: 7. 1/(2π√(2 × 10⁻¹⁷)) = 35.6 MHz.
