@@ -14,7 +14,7 @@ Capture raw material before you edit it. Name a person before you perfect a docu
 
 #### Day 1: Name the receivers
 
-Pick one person for property decisions and one person for the archive of thoughts. In California the property person is your executor (the court calls the role a personal representative). In Germany you may name a *Testamentsvollstrecker*, an executor, in your will (BGB § 2197), although many German estates are settled by the heirs themselves without one. The two people can be the same person. Often they should not be: the cousin who is brilliant with spreadsheets is not always the one who should decide which of your video diaries your grandchildren see.
+Pick one person to handle property decisions and another to care for your recordings, letters, and other personal work (your archive-keeper). In California, the property person is your executor (the court calls the role a personal representative). In Germany, you may name a *Testamentsvollstrecker*, or executor, in your will (BGB § 2197), although many German estates are settled by the heirs themselves without one. The two people can be the same person. Often they should not be: the cousin who is brilliant with spreadsheets is not always the one who should decide which video diaries your grandchildren see.
 
 Tell them today, out loud, that you are doing this. Write their names, phone numbers, and what each is responsible for on one sheet of paper. If you have minor children, name a guardian in the same conversation and get legal help on it immediately. Of all the blanks people leave, this is the one they most regret.
 
@@ -32,19 +32,19 @@ One line deserves special attention: for each life insurance policy and retireme
 
 #### Day 4: Authority while you are alive
 
-A will speaks only at death. It does not let anyone pay your bills or talk to your doctors next month. Sign a financial power of attorney and a healthcare directive valid where you live. In California that means a durable power of attorney and an advance health care directive. In Germany it means a *Vorsorgevollmacht* and a *Patientenverfügung*. Chapters 20 and 21 cover both. Say in ordinary words what "enough treatment" means to you, then make the formal document match. Tell the people you named.
+A will speaks only at death. It does not let anyone pay your bills or talk to your doctors next month. Prepare a financial power of attorney and a healthcare directive valid where you live. In California that means a durable power of attorney and an advance health care directive. In Germany it means a *Vorsorgevollmacht* and a *Patientenverfügung*. Use the current local form and follow its signing rules exactly; if you are unsure which form fits, ask a local lawyer or notary before signing. Chapters 20 and 21 explain the options. Say in ordinary words what "enough treatment" means to you, then make the formal document match. Tell the people you named.
 
 #### Day 5: The will, or the reason you are not relying on a will alone
 
-Book a lawyer (in California) or a notary (in Germany) if you can, especially if you have a blended family, a business, property in more than one country, a child with a disability, real estate, or any wish that departs from a simple equal split. If you cannot get an appointment this week, write down your wishes clearly and sign them in a form your jurisdiction accepts. Chapter 11 explains what that means in California and Germany. Treat that paper as a bridge, not a finished plan.
+Book a lawyer (in California) or a notary (in Germany) if you can, especially if you have a blended family, a business, property in more than one country, a child with a disability, real estate, or any wish that departs from a simple equal split. If you cannot get an appointment this week, write down your wishes to prepare for that meeting. If you use an official statutory form, confirm it applies to your situation and follow its instructions exactly. Do not assume an informal signed note is a valid will or controls your property. Chapter 11 explains the California and German forms discussed in this book; for another jurisdiction, use its official guidance or get local advice.
 
 #### Day 6: The ethical will and the letters
 
-Two to five pages: what you believe, what you want understood, apologies that are specific, hopes that are not orders. Separate letters to named people. Label anything that should be opened later ("for my granddaughter, at eighteen"). This document should not try to give away the house. If it conflicts with the will, the will (or the beneficiary form) wins, and the letter becomes evidence in a family argument rather than a comfort.
+Two to five pages: what you believe, what you want understood, apologies that are specific, hopes that are not orders. Separate letters to named people. Label anything that should be opened later ("for my granddaughter, at eighteen"). This document should not try to give away the house. If it conflicts with a will, trust, title, or beneficiary designation, the legal document or account designation that governs the asset controls. The letter may explain your reasons, but it does not transfer property; an unclear handoff can turn it into evidence in a family argument rather than a comfort.
 
 #### Day 7: The handoff
 
-Sit with the receiver. Show them the folder, the drive, the lawyer's name, the password manager's emergency access. Say what is private and what may be shared. Then stop reorganising and record more, if energy remains.
+Sit with the receiver. Show them the folder, the drive, the lawyer's name, the password manager's emergency access. Say what is private and what may be shared. Then stop reorganizing and record more, if energy remains.
 
 If you finish only Days 1, 2 and 7, you have still done the part almost everyone skips.
 
@@ -75,6 +75,8 @@ Access is the newest deposit and the one that fails most quietly. You can have a
 
 ### Meaning
 
-Meaning is the deposit this book cares about most and the law cares about least. Courts will not enforce your stories. They will not carry out your hopes. They will not play your video at the wedding. That is not a defect. It is freedom: you can be personal, funny, apologetic, and contradictory in a letter or a recording without accidentally rewriting your estate. You just have to keep the two kinds of document in their lanes.
+Meaning is the deposit this book cares about most and the law cares about least. It includes the stories, skills, creative work, and reasons you want people to carry forward. Courts will not enforce your stories. They will not carry out your hopes. They will not play your video at the wedding. That is not a defect. It is freedom: you can be personal, funny, apologetic, and contradictory in a letter or a recording without accidentally rewriting your estate. You just have to keep the two kinds of document in their lanes.
 
 Do the meaning deposit even if the property deposit is small. A person with little to leave can still leave the only record of why a family split, how a choice was made, or what a trade was actually like. And do the property deposit even if you care more about meaning. Unpaid debts, untitled houses, and unnamed beneficiaries become other people's emergencies, usually at the worst possible moment, usually involving a fax machine.
+
+If you want to start with meaning, do not plan the whole archive. Choose one story, skill, recipe, or work. Record or write a small piece with someone you trust, keep a copy somewhere they can reach, and tell them what you hope they will do with it. Chapter 30 gives you a step-by-step plan; Appendix A adds it to the checklist.
