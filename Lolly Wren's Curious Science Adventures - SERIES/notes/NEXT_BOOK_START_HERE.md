@@ -8,9 +8,10 @@ Updated 12 October 2026. This page is the current entry point for planning the n
 2. `notes/SERIES_BIBLE.md` for fixed story facts, character voices, locations, timeline, physics already taught, and jokes/set pieces already used.
 3. `notes/EDITORIAL_REVIEW_20261012.md` for the latest line/science review and checks.
 4. `notes/SENSITIVITY_REVIEW_20261012.md` for the identity and representation review.
-5. `notes/HANDOVER.md` for dated project history. Its older dated sections are historical; this page and the latest book status notes identify the current files.
-6. The relevant book's `notes/MANUSCRIPT_GUIDE.md` and `_STATUS.md`. For Book 1 also read `notes/CHARACTER_AND_PLACE_GUIDE.md`.
-7. Read the active manuscript itself before adding continuity that is not covered in the Bible.
+5. `notes/READER_EXPERIENCE_REVIEW_20261013.md` for the non-specialist reading path and front-matter guidance.
+6. `notes/HANDOVER.md` for dated project history. Its older dated sections are historical; this page and the latest book status notes identify the current files.
+7. The relevant book's `notes/MANUSCRIPT_GUIDE.md` and `_STATUS.md`. For Book 1 also read `notes/CHARACTER_AND_PLACE_GUIDE.md`.
+8. Read the active manuscript itself before adding continuity that is not covered in the Bible.
 
 ## Active manuscript files
 
@@ -39,6 +40,8 @@ Do not replay the threshold arrival, 4C shutdown, the fourteen's case, the 411-a
 ## Science and editorial standard
 
 Keep established evidence, interpretation, open theory, and invented story mechanisms distinct. Attribute real results accurately, state important assumptions, and say when a calculation is model-dependent or not experimentally tested. A fictional instrument may create the plot's effect, but a real theorem or measurement must not be presented as proof of that invention. The lessons may explain the real analogy; label the boundary plainly in the manuscript.
+
+For an occasional SF reader who is curious but not science-trained, the scene and its stakes must work before the terminology does. Define a needed term in plain language at the point of use, and keep the optional lectures after the story. Put a brief front-matter note in each book: no science background is required, and the optional explanations are there if the story sparks curiosity.
 
 Preserve voices, scene order, Word styles, links, bookmarks, and established punctuation. Make a backup under that book's `bak/` before edits. The DOCX master wins over chapter working copies. After substantial prose changes, run the root `scripts/dupscan.py` and `scripts/phrasescan.py` and review matches in context; planned refrains, headings, legal documents, and bibliography echoes may be intentional.
 

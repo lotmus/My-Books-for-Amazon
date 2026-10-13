@@ -41,3 +41,7 @@ The final science pass tightened the Hawking-radiation/CMB explanation and clari
 ## Sensitivity and representation review (12 Oct 2026)
 
 Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. Revisions clarify the Duc's speaking style and the Belfast accent description without tying them to stereotypes; both EPUBs were rebuilt from the active master.
+
+## Reader experience review (13 Oct 2026)
+
+Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target non-specialist SF reader: **10/10**. Book 1 now opens with a brief note that the story stands on its own and the lessons are optional; its KDP copy says the same. Rebuilt Kindle EPUB validated.

@@ -40,3 +40,7 @@ Final reviewed-copy counts: 2,354 paragraphs, 151 hyperlinks, 81 bookmarks. Dupl
 ## Sensitivity and representation review (12 Oct 2026)
 
 Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. Revisions foreground Dr Ramanathan and her colleagues, vary her lab action, and remove nationality as shorthand for van Casteel. The reviewed continuity copy remains current; the original draft was untouched. EPUB rebuilt.
+
+## Reader experience review (13 Oct 2026)
+
+Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target non-specialist SF reader: **10/10**. Book 2 now opens with a brief note that the novel stands on its own and the lectures are optional; its KDP copy says the same. Rebuilt Kindle EPUB validated.
