@@ -19,7 +19,7 @@ So Hal, Scally the cheeky little devil, Hopsi the elf who only says what is true
 Children see how bats find their way with sound, how a doctor's scan makes a picture of a baby, why ice floats and how thick it must be to hold you, and how to stay safe in the snow. Winter, ice and medicine safety are woven in, about 119 painted pictures tell the whole story, and there are experiments and a guide for parents and teachers.
 
 ## What is in the book
-- 11 chapters, about 22,000 words, 119 painted illustrations (read-aloud from age 6; a chapter book for ages 7 to 10).
+- 11 chapters, about 22,600 words, 119 painted illustrations (read-aloud from age 6; a chapter book for ages 7 to 10).
 - "Hal's Slate: What We Found Out": 15 short fact and experiment notes.
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
