@@ -44,7 +44,7 @@ Your faith may be central to your life, may have changed over time, or may not b
 7. **What you are not asking them to repeat.**
 8. **Permission**: what they may share, publish, or destroy (Appendix H).
 
-Two pages that are true will be reread. Twenty pages of advice will not.
+Length is no measure of care. A few pages with a scene, a specific apology, and an honest hope can give someone more to remember than a long list of instructions.
 
 ### The same prompt, answered weakly and strongly
 

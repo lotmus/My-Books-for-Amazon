@@ -160,7 +160,7 @@ They made an uneasy arrangement: the husband would stay, pay the taxes and repai
 
 ### Case 10: The house given away eight years before
 
-*This case is told twice: once as it happened, and once as it could have gone, with one more appointment at the same notary.*
+*The house is still given eight years before the father's death. What changes is who gets invited to the notary's table.*
 
 **As it happened.** The father was a retired carpenter in a village near Regensburg, a widower with two children. His son, a quiet man who worked for the local water authority, lived in the granny flat behind the house and, when the father's heart began to fail, became his carer. For six years he did the shopping, drove his father to appointments, managed the medications, and sat up with him on bad nights. The daughter lived in Hamburg, an architect with two children and a demanding job. She visited at Christmas and on her father's birthday, and called every Sunday.
 
