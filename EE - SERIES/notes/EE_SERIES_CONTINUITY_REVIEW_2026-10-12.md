@@ -87,3 +87,8 @@ Current-master cross-book chapter-reference refresh (13 Oct 2026): rescanned the
 Current reader-file conversion refresh (13 Oct 2026): after the Book 6 Figure 9.1 accessible-description correction, all nine byte-matched current masters converted. Enhanced Typesetting is supported and every KPF reports conversion success with zero errors and quality issues. Device/font/orientation review and final visual reading remain open.
 
 Current-master cross-reference recheck (13 October 2026): after the latest Book 2 and Book 8 wording changes, re-parsed all nine chapter mirrors and validated each explicit `Book N, Chapter M` reference against both its destination file and H1 heading. All 20 references resolve. The two parenthesized titles in the Book 7 handoffs to Book 9 Chapters 36 and 33 match those destination headings exactly. No continuity edit was needed. This remains a structural check of explicit pointers; it does not replace semantic dependency review or visual navigation checks.
+
+
+## Contents-to-heading title audit (13 October 2026)
+
+Compared the table-of-contents chapter title sequence against the actual chapter headings in all nine current DOCX masters. All 286 entries match their destination headings; no missing, extra, or title-mismatched chapter was found. This closes the structural contents-title check. It does not verify every informal or unnumbered cross-reference, subsection dependency, semantic handoff, or Kindle navigation/rendering; those continuity and reader-file gates remain open. No score is raised from this check alone.
