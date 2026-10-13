@@ -412,3 +412,20 @@ Book 9 mini-tracer CSV semantics follow-up (13 October 2026): clarified that col
 
 
 Book 5 licensed-spectrum follow-up (13 Oct 2026): Chapter 8 now describes Wi-Fi license-exempt operation with its sharing and equipment limits, explains that cellular license/service rights and assignment mechanisms vary by band, and notes NR-U. This removes the inaccurate blanket implication that cellular spectrum is always auctioned for exclusive regional use. The current 27-file extracted mirror matches the master; page 49 of the 197-page LibreOffice render was visually inspected. Kindle Previewer reports Supported/Success, 0 errors, and 0 quality issues; the KPF embedded DOCX SHA-256 matches the current master (0eadb0da4c496b9a938fb7dc753b2fd8077f930b8ecdab2babaea3afa707b61f). FCC GVP implementation date and the current EU decision list were checked. Readiness scores remain unchanged; publication-time rules/vendor refresh, independent communications review, and full device review remain open.
+
+
+## All-nine Kindle freshness refresh after Book 5 spectrum wording edit (13 October 2026)
+
+Reconverted all nine current root DOCX masters from a hash-verified input copy using Kindle Previewer 3. Exactly nine KPFs and nine per-book quality reports were produced. Every summary row reports Enhanced Typesetting Supported, Conversion Success, 0 errors, and 0 quality issues; every quality report says no issues found. Each KPF embedded `book.docx` was SHA-256 checked against the current master:
+
+- Book 1: `eddac925de4929368c5a8d9443292b17a5b40c788e42b7eeae39f599809c5b76`
+- Book 2: `1a8b5497dca5bc43e2e6614692717cae84ef99361d4e42384f760c8879871682`
+- Book 3: `44b7da0860e9efddf849baefccc29cb311b548186c0d3c0888b1edc05da975bc`
+- Book 4: `90d1e8abe5305d39a1f1097b6ab3e335822b61587bab1222efc2b3e9e74809ae`
+- Book 5: `0eadb0da4c496b9a938fb7dc753b2fd8077f930b8ecdab2babaea3afa707b61f`
+- Book 6: `2b343eb3a3769c96bab508207d8507b8543380b70966908298f9a560299e8e50`
+- Book 7: `855a0983d168e92512a50173fb1a4d563fa6ff162dad914ce36cce92f4973fdf`
+- Book 8: `0295ae471528a5d195ee4be89341ec5aef70e5cb6dadaa80754d06b5f8df067f`
+- Book 9: `f755738cae4e6bea95dfdd4fed3008fa4bf6f414d4cbc72a522763ff50c04063`
+
+Reports and KPFs are retained under `%TEMP%\ee_series_kindle_fresh_all_20261013`. This closes automated package freshness and Previewer quality checks for the current masters. It does not establish full-device layout, navigation/accessibility, final KDP acceptance, independent specialist/target-reader review, or hardware validation. No readiness score is raised.
