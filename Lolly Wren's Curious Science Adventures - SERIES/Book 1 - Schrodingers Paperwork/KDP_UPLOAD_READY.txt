@@ -16,8 +16,8 @@ FINAL FILES (Root Directory)
    - Ready for direct KDP upload or Kindle Create conversion
 
 2. Kindle cover artwork (selected 13 Oct 2026)
-   - Front cover upload: KINDLE_COVER_FINAL_1280.jpg (853x1280 px).
-   - Back cover panel: KINDLE_BACK_COVER_1168.jpg (784x1168 px), embedded as the final page of the manuscript.
+   - Front cover upload: KINDLE_FRONT_COVER_LIGHT.jpg (1312x1652 px).
+   - Back cover panel: KINDLE_BACK_COVER_LIGHT.jpg (784x1168 px), embedded as the final page of the manuscript.
    - Signals three reader audiences simultaneously:
      * Pratchett/Adams fans (absurdist humor)
      * Sci-fi readers (retro-futuristic London aesthetic)
@@ -110,7 +110,7 @@ NEXT STEPS FOR KDP UPLOAD
 3. Upload manuscript:
    - Use Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx directly
 4. Upload cover:
-   - Use KINDLE_COVER_FINAL_1280.jpg (853x1280 px)
+   - Use KINDLE_FRONT_COVER_LIGHT.jpg (1312x1652 px)
 5. Enter metadata:
    - Copy title/subtitle/description from this package
    - Set keywords and categories as listed above

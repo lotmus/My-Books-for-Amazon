@@ -23,4 +23,4 @@ Rebuilt Book 1 EPUB3 from its active DOCX master; Book 2's EPUB remains current 
 
 ## Kindle cover artwork update (13 Oct 2026)
 
-Book 1's EPUB cover metadata now uses KINDLE_COVER_FINAL_1280.jpg (853 x 1280 px). The DOCX and final page of the Kindle EPUB use KINDLE_BACK_COVER_1168.jpg (784 x 1168 px). Both replacements were verified against the selected source images; the back-cover proportions are preserved. The EPUB retains all 19 diagrams within the 800 x 440 px maximum, with alt text on all in-reading images.
+Book 1's EPUB cover metadata now uses KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652 px). The DOCX and final page of the Kindle EPUB use KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168 px). Both replacements were verified against the selected source images; the back-cover proportions are preserved. The EPUB retains all 19 diagrams within the 800 x 440 px maximum, with alt text on all in-reading images.
