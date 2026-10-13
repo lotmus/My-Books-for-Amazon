@@ -4,7 +4,8 @@ Part IV (Chapters 22-25), full Appendix B solutions, Appendix A and C additions,
 Series-count wording and series lists are NOT touched (one retrofit pass at the end of the series).
 Usage: python build_b5r2.py <master.docx> <out.docx>   (run from w/, figures in w/fig)"""
 import sys, re, copy, docx
-sys.path.insert(0, '/workspace/ee1/common')
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'common'))
 from eedoc import *
 from eebuild import chapters, seg, renumber_figures
 from docx.oxml.ns import qn

@@ -1,0 +1,35 @@
+H1: Chapter 3 — Logic and Boolean Algebra
+P: In 1937 Claude Shannon's master's thesis showed that the algebra George Boole had published in 1854 describes relay switching circuits exactly. Every processor since rests on that observation, and this chapter is the working part of it.
+P: Where you meet this: Writing conditions in firmware, programmable logic (FPGAs and CPLDs), address decoders, and reading someone else's glue logic.
+P: Digital circuits process bits, and bits are combined according to a small, complete algebra first formalized by George Boole a full century before the transistor existed. Boolean algebra gives a digital designer exactly what ordinary algebra gives a circuit analyst working with real numbers: a set of rules for simplifying an expression without having to re-derive its truth table from scratch every time.
+H2: 3.1 The Three Basic Operations
+P: Every Boolean expression, however complicated, is built from only three operations. AND (written as multiplication, AB) is true only when both A and B are true. OR (written as addition, A + B) is true when either A or B (or both) is true. NOT (written A′, or with an overbar) inverts a single variable. A truth table lists every combination of inputs and the resulting output, and it is the ultimate authority on what a Boolean expression means — two expressions are equal if and only if they produce the same truth table.
+FIG: fig3_1.png | Figure 3.1 — The six gates you meet every day, with their truth tables. The bubble on NAND, NOR and NOT means "invert". | Six logic gate symbols in two rows, each with a truth table below it. AND: output 1 only when both inputs are 1. OR: output 1 when either input is 1. XOR: output 1 when the inputs differ. NAND: the inverse of AND, 0 only when both inputs are 1. NOR: the inverse of OR, 1 only when both inputs are 0. NOT: one input, output is its inverse.
+H2: 3.2 The Algebra of Simplification
+P: Several laws let an expression be rewritten into an equivalent, simpler form without checking a truth table by hand. The commutative and associative laws work exactly as they do in ordinary algebra. The distributive law holds in both directions: A(B + C) = AB + AC, and, less familiarly to anyone coming from ordinary algebra, A + BC = (A + B)(A + C). The absorption law, A + AB = A, removes a term that adds no new information. De Morgan's laws convert one operation into the other: (A + B)′ = A′B′, and (AB)′ = A′ + B′.
+WE: Worked Example 3.1
+PROB: Simplify F = AB + AB′ + A′B using Boolean algebra, and confirm the result against a truth table.
+SOL: Factor the first two terms: AB + AB′ = A(B + B′) = A·1 = A. That leaves F = A + A′B. By the distributive identity A + A′B = A + B (multiply out (A + A′)(A + B) = 1·(A + B) = A + B, which is exactly A + A′B written the other way), F simplifies to A + B. Checking all four input combinations against the original expression confirms the two agree in every row: F = A + B.
+FIG: fig3_2.png | Figure 3.2 — A Karnaugh map for F = AB + AB′ + A′B: the A = 1 column and the B = 1 row each group to a single term, giving F = A + B. | A three-variable Karnaugh map groups the A=1 column and B=1 row; the simplified result is F = A + B.
+WE: Worked Example 3.2
+PROB: Simplify G = AB + A′C + BC using Boolean algebra.
+SOL: The term BC is a consensus term of AB and A′C — the consensus theorem states that whenever a variable (here, A) appears uncomplemented in one term and complemented in another, the third term formed from the remaining literals of both (here, BC) is redundant and can be dropped: G = AB + A′C + BC = AB + A′C. Checking all eight input combinations against the original three-term expression confirms the two agree in every row.
+KEY: De Morgan's laws are the reason NAND and NOR gates are each, individually, universal: since AND, OR, and NOT can all be rebuilt from either one alone, an entire digital system can be constructed from a single type of gate — a principle some minimalist or historical designs take literally, even though modern chips mix many gate types chosen for power, area, and timing.
+H2: 3.3 Karnaugh Maps
+P: For expressions with more than two or three variables, spotting the right sequence of algebraic simplifications by inspection becomes difficult. A Karnaugh map arranges a truth table's outputs into a grid where every adjacent cell differs in exactly one input bit, so that groups of adjacent 1s can be circled and read off directly as a simplified term — a visual shortcut to the same simplifications the algebra provides, and the standard tool for anything up to about four or five variables.
+MIS: Two Boolean expressions that happen to agree for a few input combinations you happened to check are not necessarily equal. Only a full truth table match — every row, not a convenient sample — proves two expressions are the same function; a Karnaugh map or the algebraic laws above are what guarantee that, an ad-hoc spot check does not.
+BENCH: In practice you rarely minimize logic by hand: synthesis tools do it better. Where Boolean algebra pays off on the bench is reading and debugging, such as recognizing that an active-low enable feeding a NAND is really an OR of the true signals, or spotting that a 'mystery' glue-logic chip implements one simple condition.
+H2: Practice Problems
+LI: Simplify F = A(A + B) using Boolean algebra, and name the law used.
+LI: Write out the truth table for F = A′B + AB′, and identify the operation this expression represents.
+LI: Apply De Morgan's law to simplify (A + B)′.
+LI: Simplify H = A + AB′C using Boolean algebra, and name the law used.
+LI: Simplify F = A′B′C′ + A′B′C + A′BC′ + A′BC using Boolean algebra.
+LI: Apply De Morgan's law twice to simplify ((A + B)·C)′.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: AND, OR, NOT and their truth tables.
+LI: De Morgan's theorems, especially for active-low signals.
+P: Mostly for exams and deeper study
+LI: Karnaugh-map minimization of larger functions.
+LI: Formal Boolean proofs.

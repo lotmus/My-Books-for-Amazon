@@ -1,0 +1,43 @@
+EQ: Power and Energy
+EQ: Book 6 of the Electrical Engineering Series
+EQ: Lothar J. Musiol
+EQ: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+EQ: Regulators, Switching Converters, Magnetics, the Grid, and Pulsed Power
+H1: How to Use This Book
+P: This book is about converting electrical energy from the form in which it arrives to the form a load needs, with as little waste as possible. Chapter 1 sets out the formula that runs through the whole book, waste = P(1/η − 1), and applies it to the AI data center, where conversion losses are now measured in megawatts. Part I, Chapters 1 to 8, builds the converters. Chapters 2 to 5 cover them: the linear regulator, the buck, the boost and buck-boost with their control loops, and the isolated flyback, forward, and LLC converters. Chapter 6 covers the magnetic components in four families, called shelves. Chapter 7 connects converters to the grid, and Chapter 8 treats high voltage and pulsed power. Parts II to IV go deeper, inside the converter (Chapters 9 to 13), out to the facility and the grid (Chapters 14 to 17), and into specialized converters (Chapters 18 to 22): where the watts go inside a switching converter, compensating the control loop, light load and discontinuous conduction, batteries and chargers, inverters and motor drives, the data-center power chain from the utility to the processor, uninterruptible power and hold-up, grid codes for inverter-based resources, distribution transformers and fault current, the multiphase regulator, gate drivers and isolation, charging supplies and solid-state pulsed power, solar maximum-power-point tracking, and wireless power transfer.
+P: Each chapter states its question, develops the idea in words, and works it through with declared numbers. Every number was computed, and the answers to every practice problem are in Appendix B. The appendix is a concise answer key: routine substitutions are shown, while the chapter examples model the longer reasoning. The reader should know circuit analysis at the level of Book 1 and feedback at the level of Book 2.
+P: The series gives each subject one home. Semiconductor devices, including the physics of gallium-nitride and silicon-carbide switches, are Book 3's. High-power RF amplifiers are Book 4's, even when they draw kilowatts. Emissions from a converter's hot loop are measured in Book 7's chamber. Book 2 also treats audio power-amplifier output stages; this volume covers the energy conversion and rail design that supply them. Packaging, the processor's 875 A at 0.8 V, and the 2026 hardware snapshot are Book 7's. This book's anchor numbers are the rack comparison, 80 kW at 96% against 98% efficiency, a gap of 1.70 kW per rack and 1.70 MW per 1000 racks (0.96 kW at a 45 kW average), and copper's skin depth of about 66/√f mm. The texts in Appendix C go deeper; this book's explanations, examples, and problems are its own.
+P: Every chapter works its ideas through with real numbers and, where it helps, real standards and parts: 80 PLUS Titanium, IEC 61000-3-2, IEC 60664-1, IEEE C57.91-2025, SAE J2954, and Qi2; the TL431, LT3045, DSP-class controllers, SiC and GaN switches, and the multicell battery monitors. Chapters that lead to another close by naming the next question; Chapter 22 closes the sequence, and the practice problems at the end of every chapter have their answers in Appendix B.
+H1: Contents
+P: Part I. The Converters
+P: Chapter 1. Efficiency and Waste
+P: Chapter 2. The Linear Regulator
+P: Chapter 3. The Buck Converter
+P: Chapter 4. The Boost, the Buck-Boost, and the Control Loop
+P: Chapter 5. Isolated Converters
+P: Chapter 6. Magnetics: Four Shelves
+P: Chapter 7. Rectifiers, Power Factor, and the Grid
+P: Chapter 8. High Voltage and Pulsed Power
+P: Part II. Inside the Converter
+P: Chapter 9. Where the Watts Go: Loss in a Switching Converter
+P: Chapter 10. Compensating the Loop
+P: Chapter 11. Light Load and Discontinuous Conduction
+P: Chapter 12. Batteries, Chargers, and Battery Management
+P: Chapter 13. Inverters and Motor Drives
+P: Part III. The Facility and the Grid
+P: Chapter 14. The Data-Center Power Chain
+P: Chapter 15. Uninterruptible Power and Hold-Up
+P: Chapter 16. Grid Codes and Inverter-Based Resources
+P: Chapter 17. Distribution Transformers, Fault Current, and Protection
+P: Part IV. Specialized Converters
+P: Chapter 18. The Multiphase Regulator
+P: Chapter 19. Gate Drivers and Isolation
+P: Chapter 20. Charging Supplies and Solid-State Pulsed Power
+P: Chapter 21. Solar Power and Maximum-Power-Point Tracking
+P: Chapter 22. Wireless Power Transfer
+P: Appendix A. Constants and Formulas Used in This Book
+P: Appendix B. Answers to the Practice Problems
+P: Appendix C. Sources
+P: About the Author
+P: Also by Lothar J. Musiol
+P: Part I builds the converters and their parts: the efficiency arithmetic that runs through the book, the linear regulator, the buck, boost, and buck-boost with their control loops, the isolated flyback, forward, and LLC converters, the magnetic components, the connection to the grid through rectifiers and power-factor correction, and the insulation and stored energy of high voltage.

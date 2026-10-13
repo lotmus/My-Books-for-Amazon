@@ -1,0 +1,62 @@
+H1: Chapter 13 — Noise Gain, Bandwidth, and Slew Rate
+P: An op-amp with a 1 MHz gain-bandwidth product gives you a 1 MHz unity-gain buffer, or a gain of 100 up to only about 10 kHz. That trade, plus a speed limit called slew rate, explains most cases of 'the amplifier works on a sine but not on my signal'.
+P: Where you meet this: Audio stages, sensor amplifiers, video and fast-pulse circuits, and every op-amp selection table.
+P: An op-amp circuit that works perfectly at 100 Hz can quietly lose accuracy at 5 kHz and distort badly at 20 kHz, with no change to its schematic. Two separate limits are responsible. One is small-signal: the open-loop gain falls with frequency, so the loop has less gain to spend on accuracy. The other is large-signal: the output can only move so many volts per microsecond. This chapter turns both limits into numbers you can compute before choosing a part.
+H2: 13.1 The Declared Op-Amp
+P: This book uses one declared open-loop shape, first given in Chapter 5, and it is worth restating as the starting point for every calculation here. The DC gain is A₀ = 100,000. A single dominant pole sits at f_p = 10 Hz. Above that pole the gain falls at 20 dB per decade:
+EQ: A(f) = A₀ / (1 + j f/f_p),   |A(f)| ≈ GBW / f for f ≫ f_p
+P: The gain-bandwidth product is GBW = A₀ f_p = 1 MHz. At 1 kHz the open-loop gain is about 1000; at 10 kHz it is 100; at 1 MHz it is 1. Every result in this chapter follows from that one straight line on a Bode plot.
+H2: 13.2 Noise Gain Sets the Bandwidth
+P: Chapter 11 showed that the closed-loop bandwidth is the gain-bandwidth product multiplied by the feedback fraction β. The reciprocal 1/β has its own name, the noise gain, because it is also the gain that the op-amp's own input noise and offset see on their way to the output. For both basic configurations it is the same expression:
+EQ: NG = 1/β = 1 + R_f / Rᵢₙ,   f_cl ≈ GBW / NG
+P: For a non-inverting amplifier the noise gain equals the signal gain. For an inverting amplifier it does not: an inverter with signal gain −R_f/Rᵢₙ has noise gain 1 + R_f/Rᵢₙ, one more than the magnitude of its signal gain. The bandwidth follows the noise gain, never the signal gain.
+WE: Worked Example 13.1
+PROB: Using the declared op-amp, find the closed-loop −3 dB bandwidth of (a) a non-inverting amplifier with gain 100, (b) an inverting amplifier with gain −1, and (c) an inverting amplifier with gain −10.
+SOL: (a) NG = 100, so f_cl = 1 MHz/100 = 10 kHz. This is the one-home figure of this book: a noise gain of 100 leaves 10 kHz. (b) NG = 1 + 1 = 2, so f_cl = 500 kHz, half the follower's 1 MHz even though both have unity gain magnitude. (c) NG = 1 + 10 = 11, so f_cl = 1 MHz/11 ≈ 90.9 kHz, not the 100 kHz a careless reading of "gain 10" would suggest.
+FIG: fig13_1.png | Figure 13.1 — The declared open-loop response (A₀ = 100,000, pole at 10 Hz) with closed-loop responses for noise gains of 1, 10, and 100. | The open-loop response and three closed-loop responses for noise gains 1, 10, and 100 are plotted against frequency.
+MIS: The −3 dB bandwidth is not the usable bandwidth. At f_cl the gain is already 29% low. If a design needs the gain to be right, it needs to know how far below f_cl it must stay, which is the subject of the next section.
+H2: 13.3 Accuracy Below the Corner
+P: With a single-pole loop, the closed-loop magnitude falls as |G(f)| = G₀/√(1 + (f/f_cl)²). Setting the fractional error to a specification and solving for frequency gives a useful rule. For a 1% magnitude error, f/f_cl = √(1/0.99² − 1) ≈ 0.142. For 0.1%, it is about 0.045. In words: to keep the gain within 1%, stay below about one seventh of the closed-loop bandwidth; to keep it within 0.1%, stay below about one twenty-second.
+WE: Worked Example 13.2
+PROB: A non-inverting stage with gain 10 is built on the declared op-amp. Over what frequency range does its gain magnitude stay within 1% of 10?
+SOL: NG = 10, so f_cl = 1 MHz/10 = 100 kHz. The 1% limit is 0.142 × 100 kHz ≈ 14.2 kHz. A designer who reads the 100 kHz bandwidth and expects a flat response to 20 kHz audio will find the gain about 2% low at 20 kHz. Phase shift arrives sooner still: at 14.2 kHz the output lags the input by arctan(0.142) ≈ 8°, which matters if two channels must stay matched.
+KEY: Bandwidth follows noise gain, and accuracy needs a factor of about seven below that bandwidth for 1%. Compute f_cl = GBW/NG first, then divide again for the accuracy the application actually needs.
+H2: 13.4 One Stage or Two
+P: When a single stage cannot provide both the gain and the bandwidth, the gain can be split. Two stages of gain 10, each with f_cl = 100 kHz, give a total gain of 100. Each stage's response is single-pole, so the cascade is down 3 dB where each stage is down 1.5 dB. For n identical single-pole stages the overall corner is f_cl √(2^(1/n) − 1); for two stages that factor is 0.644, so the pair reaches about 64 kHz. One stage of gain 100 would have reached only 10 kHz. Splitting the gain bought more than six times the bandwidth, at the price of a second op-amp and a second set of offset and noise contributions.
+H2: 13.5 Slew Rate and Full-Power Bandwidth
+P: Everything so far assumed small signals. A real output stage can only change its voltage at a finite maximum rate, the slew rate SR, set inside the op-amp by how fast an internal current can charge its compensation capacitor. A sine wave of peak amplitude V_p and frequency f has a maximum rate of change 2πf V_p, at its zero crossings. If that exceeds the slew rate, the output cannot follow, and the sine wave turns into a triangle. The highest frequency at which a full-amplitude sine survives is the full-power bandwidth:
+EQ: f_FP = SR / (2π V_p)
+WE: Worked Example 13.3
+PROB: A general-purpose op-amp has a slew rate of 0.5 V/µs. Find its full-power bandwidth for a 10 V peak output and for a 1 V peak output.
+SOL: For 10 V peak, f_FP = 0.5×10⁶/(2π × 10) ≈ 7.96 kHz. For 1 V peak, f_FP ≈ 79.6 kHz. The same op-amp in the same circuit has a small-signal bandwidth of, say, 100 kHz, but cannot deliver a full 10 V sine above about 8 kHz. Which limit applies depends on the amplitude, not on the circuit.
+MIS: Raising the closed-loop bandwidth does not raise the slew rate. Slew rate is a large-signal property of the op-amp's internal circuitry, independent of the feedback network. Lowering the noise gain helps small signals; only a different op-amp, or a smaller output swing, helps a slew-limited one.
+H2: 13.6 A Short Design Procedure
+P: Given a gain, a signal frequency range, an accuracy, and an output amplitude, the selection runs in four steps. First compute the noise gain from the resistor values, not from the signal gain. Second, divide the required accuracy into a minimum f_cl using the factor from Section 13.3, and multiply by the noise gain to get a minimum GBW. Third, compute 2πf_max V_p and require a slew rate comfortably above it, commonly by a factor of two. Fourth, check that the chosen op-amp is stable at the noise gain in use, since some fast parts are "decompensated" and are stable only above a minimum noise gain.
+H2: 13.7 The Transimpedance Amplifier for Photodiodes
+P: A photodiode turns light into current, about 0.6 A per watt of near-infrared light for a silicon part such as the BPW34, proportional to the light over many decades. It is the eye in the human-senses picture of Book 1's reader lab. The right circuit for a current source is a transimpedance amplifier (TIA): the photodiode feeds the inverting input of an op-amp, a feedback resistor R_f carries the photocurrent to the output, and V_out = I_ph R_f (Figure 13.2). The virtual ground holds the photodiode at 0 V, so its capacitance never charges and its response stays linear.
+P: That capacitance returns inside the loop. The photodiode's capacitance, about 70 pF for a BPW34 at zero bias, plus the op-amp's input capacitance, forms the total input capacitance C_in, and with R_f it makes the noise gain 1 + sR_fC_in climb with frequency until it meets the open-loop gain falling from the GBW. Where the two meet, the phase margin is close to zero, and a bare TIA rings or oscillates. A small capacitor C_f across R_f fixes it. Two results cover most designs: the usable bandwidth is about f₋₃dB ≈ √(GBW/(2πR_fC_in)), and C_f ≈ √(C_in/(2πR_f·GBW)) places the feedback pole at that same frequency for a nearly flat response.
+FIG: fig13_2.png | Figure 13.2 — A photodiode transimpedance amplifier. The virtual ground holds the photodiode at 0 V; the photocurrent flows through R_f, so V_out = I_ph R_f, and C_f across R_f keeps the loop stable against the photodiode's capacitance. | Schematic: a BPW34 photodiode from ground to the inverting input of an op-amp, with a 100 kilohm resistor and a 3.5 picofarad capacitor in parallel from output to inverting input.
+WE: Worked Example 13.4
+PROB: A BPW34 (C_d ≈ 70 pF) feeds a TIA with R_f = 100 kΩ on an op-amp with GBW = 10 MHz and 5 pF of input capacitance. Find the output for 10 µW of light at 0.6 A/W, the usable bandwidth, and the feedback capacitor.
+SOL: I_ph = 0.6 A/W × 10 µW = 6 µA, so V_out = 6 µA × 100 kΩ = 0.60 V. C_in = 70 + 5 = 75 pF. f₋₃dB ≈ √(10⁷/(2π × 10⁵ × 75 × 10⁻¹²)) = √(2.12 × 10¹¹) ≈ 461 kHz. C_f ≈ √(75 × 10⁻¹²/(2π × 10⁵ × 10⁷)) ≈ 3.45 pF; use 3.3 pF. Check: the feedback pole 1/(2πR_fC_f) = 1/(2π × 10⁵ × 3.45 pF) ≈ 461 kHz, the same frequency, as the design intends. Reverse-biasing the photodiode cuts its capacitance several times and buys bandwidth, at the cost of more dark current.
+P: The Smart Weather Station of Book 1 uses the same circuit slowly, to log daylight. A BPW34 in full sun delivers on the order of 100 µA; at dusk, a fraction of a microamp. One R_f cannot serve five decades of light on a 12-bit converter, so the station either switches R_f between two or three ranges or replaces the resistor with a diode, making a logarithmic amplifier whose output rises by a fixed step for each decade of light.
+KEY: A TIA turns current into voltage at a virtual ground. Its input capacitance makes it ring unless a small C_f across R_f, sized from the GBW, restores the phase margin.
+BENCH: Slew rate catches people out on large signals. Full-power bandwidth is SR/(2πV_peak): a 0.5 V/µs part can deliver a 10 V peak sine only up to about 8 kHz. Above that the output turns into a triangle wave whatever the small-signal bandwidth says. Test with a full-amplitude signal, not only a small one.
+P: On the Job
+P: Analog and mixed-signal engineers spend days on what this chapter does in minutes: they simulate the loop with the vendor's SPICE model, build it, and measure the step response and noise on the bench. At work a photodiode front end is usually a precision op-amp chosen with this chapter's arithmetic, or an integrated optical sensor with the TIA built in. Learn it here, buy the IC at work, and use the numbers to check the datasheet's claims.
+H2: Practice Problems
+LI: Using the declared op-amp, find the closed-loop bandwidth of an inverting amplifier with gain −4.
+LI: A non-inverting amplifier with gain 25 must keep its gain within 1% up to 5 kHz. Find the minimum gain-bandwidth product.
+LI: Find the open-loop gain of the declared op-amp at 2 kHz.
+LI: Three identical single-pole stages each have f_cl = 50 kHz. Estimate the −3 dB bandwidth of the cascade, using f_cl √(2^(1/n) − 1).
+LI: An op-amp with SR = 13 V/µs must deliver a 5 V peak sine. Find its full-power bandwidth.
+LI: Explain in a sentence or two why an inverting amplifier with gain −1 has half the bandwidth of a follower built on the same op-amp.
+LI: Redesign the TIA of Worked Example 13.4 with R_f = 1 MΩ, keeping C_in = 75 pF and GBW = 10 MHz. Find the usable bandwidth and C_f.
+LI: A weather-station light sensor delivers up to 80 µA. Choose R_f so full sun gives 90% of a 3.3 V converter's range, pick the nearest E24 value, and find the output at 80 µA and at 0.5 µA.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Closed-loop bandwidth ≈ GBW / noise gain.
+LI: Full-power bandwidth = SR/(2πV_peak).
+LI: The photodiode TIA: V_out = I_ph R_f, with C_f sized from the GBW.
+P: Mostly for exams and deeper study
+LI: Second-pole effects and detailed frequency-compensation theory.

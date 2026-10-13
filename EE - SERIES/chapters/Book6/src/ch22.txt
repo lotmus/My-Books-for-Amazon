@@ -1,0 +1,58 @@
+H1: Chapter 22. Wireless Power Transfer
+P: Why can a phone pad reach 93.6 % coil-to-coil efficiency across a few millimeters, while two coils 30 cm apart manage only 17 %? The limit depends on one number, k²Q1Q2. Coupling falls quickly with distance, and no practical improvement in coil quality makes up for it.
+P: Where you meet this: Every Qi or Qi2 phone charger, every electric toothbrush and smartwatch charger, every wireless EV pad built to SAE J2954, the recharging coils of implanted neurostimulators, and every foreign-object warning on a charging pad.
+P: A phone on a charging pad, an electric toothbrush, an implanted medical device, and an electric bus at a stop all take power through an air gap. They use the transformer of Chapter 6 with its core removed and its windings pulled apart. The coupling between the coils becomes weak, and almost all of the magnetic flux misses the receiver. This chapter shows how resonance rescues such a loosely coupled transformer, gives the formula for its best possible efficiency, and describes the standards for phones and vehicles.
+H2: 22.1 Coupling and the loose transformer
+P: Two coils with self-inductances L1 and L2 and mutual inductance M have a coupling coefficient k = M/√(L1L2). In a cored transformer k is above 0.99. Across a few millimeters of air between flat coils it may be 0.3 to 0.6, and across a 15 to 25 cm vehicle gap 0.1 to 0.3. Without compensation, the large leakage inductance would need a huge magnetizing current for a small transferred power. Tuning each coil with a capacitor to resonance at the operating frequency cancels its reactance, so the coils exchange real power efficiently even at low k.
+EQ: k = M / √(L1 L2),   f0 = 1 / (2π √(L C))
+H2: 22.2 The efficiency limit
+P: For two resonant coils with quality factors Q1 and Q2, the best efficiency, reached when the load is optimally matched, depends only on the product k²Q1Q2. Writing x = k²Q1Q2, the maximum efficiency is x/(1 + √(1 + x))². High efficiency needs x in the hundreds or thousands. Low coupling must therefore be offset by high coil Q, which is why wireless chargers use Litz wire against the skin effect of Chapter 6 and ferrite backing to shape the field.
+EQ: ηmax = k²Q1Q2 / (1 + √(1 + k²Q1Q2))²
+FIG: fig22_1.png | Figure 22.1 — The best link efficiency, x/(1 + √(1 + x))², against the figure of merit x = k²Q1Q2 (Worked Examples 22.1 and 22.4): 17.2 % for coils 30 cm apart (x = 1), 93.6 % for a phone pad (x = 900), 94.6 % and 96.7 % for a vehicle pad misaligned and aligned (x = 1296 and 3600). | Semi-log S-shaped curve of efficiency against figure of merit from 0.1 to about 30 000, rising from near 2 percent to near 99 percent. Points mark 17.2 percent at 1, 93.6 percent at 900, 94.6 percent at 1296 and 96.7 percent at 3600.
+H2: Worked Example 22.1
+P: Problem. Find the maximum link efficiency for a phone pad with k = 0.3 and Q1 = Q2 = 100, for a vehicle pad with k = 0.2 and Q = 300, and for coils 30 cm apart with k = 0.01 and Q = 100.
+P: Solution. Phone pad: x = 0.09 × 10⁴ = 900, so η = 900/(1 + 30.02)² = 93.6%. Vehicle pad: x = 3600, η = 96.7%. Distant coils: x = 1, η = 1/(1 + 1.414)² = 17.2%. The coil-to-coil efficiency of a well-designed pad rivals a cable charger's, but at larger gaps the power is lost very quickly, which is why long-range wireless power remains a niche.
+P: Key idea. A wireless charger is a loosely coupled, resonant transformer. Its best efficiency depends only on k²Q1Q2, so weak coupling must be paid for with very high coil quality factors.
+H2: 22.3 Phones and vehicles
+P: The Qi standard of the Wireless Power Consortium operates in roughly the 100 to 200 kHz range and uses a communication channel from the receiver back to the transmitter to regulate power and to detect foreign metal objects, which would heat in the field. Qi2, introduced in 2023, adds magnetic alignment so the coils sit centered, raising k; Qi2 25W launched in 2025. For vehicles, SAE J2954 sets a nominal 85 kHz and power classes from 3.7 kW to 11 kW and beyond, with gap and alignment tolerances, foreign-object and living-object detection, and the field-exposure limits of Book 4's Chapter 33.
+H2: Worked Example 22.2
+P: Problem. A vehicle charger resonates at 85 kHz with a 50 µH coil. Find the tuning capacitance. Compare the end-to-end waste at 11 kW for an overall efficiency of 93% and 96.7%.
+P: Solution. C = 1/((2π × 85 × 10³)² × 50 × 10⁻⁶) = 70.1 nF. At 93% the waste is 11,000 × (1/0.93 − 1) = 828 W; at 96.7%, 375 W. The difference is the heat that the pad buried in the parking bay must shed.
+H2: 22.4 The rest of the chain
+P: The coil link is only one stage. The transmitter needs a rectifier and power-factor stage from the grid and a high-frequency inverter, usually a full bridge, to drive the resonant coil; the receiver needs a rectifier and a regulator or battery charger of the kind in Chapter 12. End-to-end efficiencies of about 90% to 94% are typical for vehicle systems and somewhat lower for phones, where misalignment and the small coils reduce k and Q. The same chain of products of efficiencies as in Chapter 14 applies.
+H2: 22.5 The voltages inside a resonant link
+P: A wireless-power coil carries a large circulating current at its resonant frequency, and the voltage across its inductance and its tuning capacitor is that current times the reactance. At 85 kHz a 50 µH coil has a reactance of 26.7 Ω, so 30 A RMS in the coil develops 800 V RMS across it and across the capacitor that cancels it. The capacitors must therefore be film or C0G ceramic parts rated for high RF current and voltage, often assembled from many units in series and parallel, and the coil's insulation and the creepage of Chapter 8 apply. The quality factor that gives high efficiency also means that a small detuning, from a misaligned vehicle or a coin on the pad, shifts the current and voltage a lot, which the control must handle.
+H2: 22.6 Alignment, foreign objects, and the standards
+P: SAE J2954 standardizes wireless charging for light vehicles at 85 kHz in power classes of 3.7, 7.7, and 11 kW, with ground clearance classes and a tolerance of about ±75 mm side-to-side and ±100 mm fore-and-aft, over which the efficiency must stay above about 85 % from grid to battery. Any metal object in the field, a coin or a can, heats by eddy currents, so foreign-object detection, by measuring changes in the coil's quality factor or by sensing coils in the pad, is mandatory. For phones, the Wireless Power Consortium's Qi2 standard of 2023 added a ring of magnets, derived from Apple's MagSafe, that pulls the phone into alignment, so that the coupling is predictable and 15 W, or 25 W in the later revision, can be delivered without the losses of a misaligned coil.
+H2: Worked Example 22.3
+P: Problem. A vehicle pad's 50 µH coil carries 30 A RMS at 85 kHz. Find the voltage across the coil and its tuning capacitor, and the capacitor's reactive power.
+P: Solution. XL = 2π × 85 × 10³ × 50 × 10⁻⁶ = 26.7 Ω, so the voltage is 26.7 × 30 = 801 V RMS. The capacitor handles 801 × 30 = 24 kvar of reactive power, more than twice the 11 kW being transferred, which is why its losses, though tiny as a fraction, must be counted carefully.
+H2: Worked Example 22.4
+P: Problem. Misalignment reduces the coupling of a vehicle pad from k = 0.2 to 0.12, with Q1 = Q2 = 300. Find the maximum link efficiency in each case using the formula of Section 22.2.
+P: Solution. x = k²Q1Q2 is 0.04 × 90 000 = 3600 aligned and 0.0144 × 90 000 = 1296 misaligned. The efficiency x/(1 + √(1 + x))² is 96.7 % and 94.6 %. The coil link tolerates the misalignment well; the larger penalty is that the circulating currents and the inverter's operating point move, which the control must accommodate within the converters' ratings.
+H2: 22.7 The end-to-end budget
+P: The coil link of Section 22.2 is the stage that makes wireless charging distinctive, but it is not where most of the loss lies once the link is well designed. A vehicle charger's chain runs from the grid through a power-factor stage, a high-frequency inverter, the transmitter coil and its compensation, the receiver coil, a rectifier, and often a DC-DC stage into the battery. Each stage at 98 to 99 % adds its share, and the product, about 90 to 93 %, is what SAE J2954 tests from grid to battery. A conductive charger at the same power, with a PFC stage and an isolated DC-DC converter, reaches about 94 to 96 %. The gap of a few percent is the price of the convenience of not plugging in.
+H2: Worked Example 22.5
+P: Problem. A wireless vehicle charger has a PFC stage at 98.5 %, an inverter at 98.5 %, a coil link at 96.7 %, a rectifier at 98.5 %, and a DC-DC stage at 98 %. Find the end-to-end efficiency and the waste when 11 kW reaches the battery.
+P: Solution. η = 0.985^3 × 0.967 × 0.98 = 0.905652, or 90.565% (90.6%). Therefore P_in = 11 kW/0.905652 = 12.146 kW and total loss is 1.146 kW. The coil-link output is 11/(0.985 × 0.98) = 11.395 kW, so its loss is 11.395 × (1/0.967 - 1) = 0.389 kW. The other stages lose 1.146 - 0.389 = 0.757 kW, about twice the coil loss.
+P: Wireless power is a transformer with a loose core and a lot of air. With it, this book has followed electrical energy from the grid's generators to the cell of a battery, through every conversion along the way, and counted the waste at each. The devices inside those converters are Book 3's, their packaging and the emissions they radiate are Book 7's, and the formula that ran through every chapter, waste = P(1/η − 1), remains the measure of success.
+BENCH: Lay a coin or a piece of foil on a charger under test and check that foreign-object detection stops the transfer before the object gets hot. Measure the coils' Q at the operating frequency, not only their inductance, because Q sets the efficiency limit. Slide the receiver across the pad while logging efficiency to see how much misalignment the design tolerates.
+H2: Practice
+P: 1. Find ηmax for k = 0.5 and Q1 = Q2 = 50.
+P: 2. Find ηmax for k = 0.05 and Q1 = Q2 = 200.
+P: 3. Find the resonant frequency of 10 µH with 100 nF.
+P: 4. Coils have L1 = L2 = 20 µH and M = 4 µH. Find k.
+P: 5. Why do wireless chargers use Litz wire?
+P: 6. Why must a charger detect foreign metal objects?
+P: 7. Find the reactance of a 20 µH coil at 140 kHz, and the voltage across it at 5 A RMS.
+P: 8. A Qi transmitter coil of 10 µH must resonate at 128 kHz. Find its tuning capacitance.
+P: 9. How much waste does an 11 kW conductive charger at 95 % produce?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: η_max from k²Q1Q2.
+LI: Resonant tuning C = 1/(ω²L).
+LI: Foreign-object detection.
+LI: The end-to-end budget from wall to battery.
+P: Mostly for exams and deeper study
+LI: Coupled-mode theory.
+LI: Field-exposure assessment, which Book 4 covers.

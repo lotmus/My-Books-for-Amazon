@@ -5,7 +5,7 @@ P: Chapter 7 defined an antenna's gain and pattern, and every link budget in the
 H2: 16.1 The far-field distance
 P: Near an antenna, the field has reactive components and its shape changes with distance. Far away, the wave from every part of the aperture arrives nearly in phase, and the pattern stops changing. The usual criterion is that the phase difference between a ray from the center of the aperture and a ray from its edge be no more than π/8, or 22.5°. That gives the far-field distance in terms of the largest dimension D of the antenna, and it grows with the square of the size.
 EQ: R_ff = 2D² / λ
-FIG: fig16_1.png | Figure 16.1 — Far-field distance 2D²/λ grows with the square of antenna size. A 0.2 m horn at 10 GHz needs 2.67 m and fits indoors; a 1 m dish at 30 GHz needs 200 m.
+FIG: fig16_1.png | Figure 16.1 — Far-field distance 2D²/λ grows with the square of antenna size. A 0.2 m horn at 10 GHz needs 2.67 m and fits indoors; a 1 m dish at 30 GHz needs 200 m. | Log-log plot of far-field distance in meters against antenna dimension from 1 centimeter to about 3 meters, with a blue line for 10 gigahertz and a red line for 30 gigahertz, both rising with slope two. Marked points: 0.2 meter horn at 10 gigahertz, 2.67 meters; 1 meter dish at 30 gigahertz, 200 meters. A shaded band from 1 to 20 meters is labeled as fitting an indoor chamber.
 H2: Worked Example 16.1
 P: Problem. Find the far-field distance of a horn with a 0.2 m aperture at 10 GHz and of a 1 m dish at 30 GHz.
 P: Solution. At 10 GHz, λ = 0.03 m, so R_ff = 2 × 0.04/0.03 = 2.67 m, which fits indoors. At 30 GHz, λ = 0.01 m, so R_ff = 2 × 1/0.01 = 200 m, which does not. Large, high-frequency antennas are measured outdoors, in a compact range, or with near-field scanning.

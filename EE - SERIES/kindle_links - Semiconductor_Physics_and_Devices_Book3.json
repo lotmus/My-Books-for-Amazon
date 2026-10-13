@@ -474,6 +474,18 @@
    "to": "[5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate](https://search.crossref.org/?q=5+GHz+laterally-excited+bulk-wave+resonators+%28XBARs%29+based+on+thin+platelets+of+lithium+niobate)",
    "in": "Plummer, Deal, and Griffin",
    "max": 1
+  },
+  {
+   "find": "Test and Measurement Instruments",
+   "to": "[Test and Measurement Instruments](https://www.amazon.com/s?k=Test+and+Measurement+Instruments+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Test and Measurement Instruments (Book 9)",
+   "max": 1
+  },
+  {
+   "find": "Firmware and Software for Electronics",
+   "to": "[Firmware and Software for Electronics](https://www.amazon.com/s?k=Firmware+and+Software+for+Electronics+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Firmware and Software for Electronics (Book 8)",
+   "max": 1
   }
  ]
 }

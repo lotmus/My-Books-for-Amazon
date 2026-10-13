@@ -1,0 +1,38 @@
+H1: Chapter 34 — Sinusoidal Steady-State Analysis
+P: Plug in a motor and the current it draws peaks a little after the voltage does. Nothing is wrong. That's an inductive load, and phasor analysis predicts exactly how far behind the current runs. This chapter applies every DC technique to AC, with complex numbers doing the extra work.
+P: Where you meet this: AC mains circuits, audio crossover networks, filter design, and RF impedance work.
+H2: 34.1 Solving AC Circuits with Phasors
+P: With impedance defined (Chapter 23), an AC circuit at a single fixed frequency is analyzed exactly like a DC resistive circuit, with three substitutions: every resistor, capacitor, and inductor is replaced by its impedance; every sinusoidal source is replaced by its phasor; and every resulting voltage or current in the solution is itself a phasor, convertible back to a time-domain sinusoid only at the very end, using the source's known frequency ω.
+H2: 34.2 Series and Parallel Impedance Combination
+P: Impedances combine exactly like resistances — series impedances add, parallel impedances combine by reciprocal sum — with the arithmetic now performed on complex numbers rather than real ones:
+EQ: Zseries = Z1 + Z2 + … ,     1/Zparallel = 1/Z1 + 1/Z2 + …
+FIG: fig34_1.png | Figure 34.1 — In a series RL circuit the current lags the voltage. With ωL = √3·R the lag is exactly 60°, one sixth of a period, and a two-channel scope shows it directly. | Two sine waves over two periods. The blue source voltage peaks at a quarter period; the smaller red current peaks one sixth of a period later. A double arrow between the peaks is labeled 60 degrees equals one sixth of a period. Note: series RL with omega L equal to root 3 times R, tan phi equals omega L over R, phi equals 60 degrees.
+P: The voltage and current dividers from Chapter 27 likewise carry over unchanged in form, with impedances substituted for resistances:
+EQ: V1 = V · Z1/(Z1+Z2) ,     I1 = I · Z2/(Z1+Z2)
+H2: 34.3 Nodal, Mesh, Thevenin, and Superposition in the Phasor Domain
+P: Nodal analysis, mesh analysis, Thevenin and Norton equivalents, and superposition (Chapters 28 through 31) all carry over to phasor circuits exactly as stated, with resistances replaced by impedances throughout — the underlying laws (KCL, KVL) are statements about instantaneous charge and energy conservation that hold regardless of whether the circuit's quantities happen to be constant, transient, or sinusoidally oscillating, so nothing about the reasoning behind any of those five techniques actually depended on the circuit being purely resistive DC in the first place. This is the single biggest practical payoff of the phasor method: an engineer who has mastered Chapters 26 through 31 has, without additional conceptual work, already mastered the corresponding AC techniques — only the arithmetic (complex rather than real) is new.
+KEY: Every systematic technique from Chapters 26–31 applies unchanged to phasor circuits. Replace every resistance with the corresponding impedance, every source with its phasor, solve using ordinary complex-number algebra, and convert the final phasor answer back to a time-domain sinusoid only as the last step.
+H2: 34.4 RMS Values
+P: A note on convention: this book's phasors carry RMS magnitude by default (Chapter 23), not peak amplitude — chosen because most AC quantities, including household mains voltage ratings, are themselves quoted as RMS values, defined so that an RMS voltage delivers the same average power to a resistor as a DC voltage of the same numeric value would. Occasionally, though, it is the peak amplitude V_m that is actually given or wanted. For a sinusoid, RMS and peak amplitude relate simply:
+EQ: Vrms = Vm / √2  ≈ 0.707 Vm
+P: A “120 V” household outlet in the United States, for instance, is a 120 V RMS rating, corresponding to a peak voltage of about 170 V — the actual voltage waveform swings between +170 V and −170 V every cycle, even though the quoted, practically relevant number is 120 V. Power calculations (Chapter 35) are almost always done using RMS values directly, specifically so that AC power formulas take the same simple form as their DC counterparts.
+FIG: fig34_2.png | Figure 34.2 — A sinusoid's peak and RMS values. | A sine wave marks its peak and root-mean-square level, showing that RMS is below the peak.
+WE: Worked Example 34.1
+PROB: A 100∠0° V phasor source (RMS magnitude, per this book's convention, at some frequency ω) drives a series combination of a 30 Ω resistor and an inductor with impedance j40 Ω. Find the current phasor and the phasor voltage across the inductor.
+SOL: Total impedance: Z = 30 + j40 = 50∠53.1° Ω (magnitude √(30²+40²) = 50, angle arctan(40/30) ≈ 53.1°). Current: I = V/Z = 100∠0° / 50∠53.1° = 2.0∠−53.1° A. Voltage across the inductor: V_L = I × Z_L = (2.0∠−53.1°)(40∠90°) = 80∠36.9° V (multiplying polar-form complex numbers: multiply magnitudes, add angles).
+WE: Worked Example 34.2
+PROB: A sinusoidal source has a peak voltage of 170 V. Find its RMS voltage, and identify the familiar household voltage rating this corresponds to.
+SOL: V_rms = V_m/√2 = 170/1.414 ≈ 120 V — the standard nominal household voltage rating in North America, confirming that the “120 V” outlet rating is indeed an RMS value, not the actual peak voltage present on the line.
+MIS: Because impedance combines exactly like resistance, it is easy to slip into treating impedance magnitudes as if they combined the same simple way — for instance, assuming two impedances in series always add to give a larger magnitude in a straightforward way. Impedances are complex numbers, and complex addition does not add magnitudes (except in the special case where both impedances happen to have the same angle); a 30 Ω resistor in series with a j40 Ω inductor's impedance, for instance, gives a combined magnitude of 50 Ω (via the Pythagorean-style calculation in Worked Example 34.1), not 30 + 40 = 70 Ω. Always add impedances in rectangular form, term by term, and only convert to polar form (magnitude and angle) afterward, once the addition itself is complete.
+BENCH: RMS is what meters and ratings mean, but only a true-RMS meter measures it correctly for waveforms that aren't sine waves. An average-responding meter is calibrated for sines and can read well low on the peaky current of a switching supply or a lamp dimmer. If the waveform isn't a clean sine, use a true-RMS meter or compute RMS from the scope.
+H3: Practice Problems
+LI: A 50∠0° V source drives a series RC circuit with R = 30 Ω and Z_C = −j40 Ω. Find the total impedance in polar form.
+LI: Using the impedance found in the previous problem, find the current phasor.
+LI: A sinusoidal voltage has an RMS value of 240 V. Find its peak amplitude.
+LI: Two impedances, 20∠0° Ω and 20∠90° Ω, are in series. Find the combined impedance in both rectangular and polar form.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Impedance combination and phasor nodal and mesh analysis.
+LI: RMS: V_rms = V_peak/√2 for a sine.
+P: Mostly for exams and deeper study
+LI: Large AC networks solved fully by hand.

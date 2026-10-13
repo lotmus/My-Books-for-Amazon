@@ -1,0 +1,48 @@
+H1: Chapter 19 — Exponentials, Logarithms, and the Decibel
+P: The power reaching your phone from a cell tower can change by a factor of a million or more as you walk from a window to a basement. Decibels squash that range into numbers people can add in their heads, and the exponential function, the other half of this chapter, describes how every capacitor charges.
+P: Where you meet this: Signal strength in dBm, amplifier gain and filter attenuation in dB, audio levels, RC charging curves, and battery discharge.
+P: The exponential function describes every natural charging and discharging process in electronics, and the logarithm is its inverse. Between them they underpin the decibel, which is the unit electrical engineers use for almost every ratio they care about. This chapter builds all three.
+H2: 19.1 The Exponential Function
+P: The function eˣ has the defining property that its rate of change equals its own value. Nothing else does this, and that single property is why it appears in every first-order circuit: a capacitor discharging through a resistor loses charge at a rate proportional to the charge remaining, which is precisely the condition that produces an exponential.
+P: The standard forms are decay and growth toward a limit:
+EQ: v(t) = V₀·e^(−t/τ)     and     v(t) = V_f·(1 − e^(−t/τ))
+P: where τ is the time constant, equal to RC for a resistor-capacitor pair and L/R for a resistor-inductor pair — both of which you verified dimensionally in Chapter 13.
+P: The numbers worth memorizing are these: after one time constant, a decaying quantity has fallen to 37% of its initial value, and a rising one has reached 63% of its final value. After three time constants, 95%. After five, 99.3%, which is why "five time constants" is the conventional engineering definition of settled.
+FIG: fig19_1.png | Figure 19.1 — Charging and discharging exponentials, marked at one, three, and five time constants. | Charging and discharging exponential curves are plotted against time, with vertical markers at one, three, and five time constants.
+WE: Worked Example 19.1
+P: A 10 µF capacitor charges through a 47 kΩ resistor toward 5 V. How long until it reaches 4 V?
+P: First the time constant: τ = RC = (47 × 10³)(10 × 10⁻⁶) = 0.47 s. Note the prefix cancellation from Chapter 14 — kilo times micro is milli, so 47 × 10 = 470 ms directly.
+P: The charging equation: v(t) = 5(1 − e^(−t/τ)).
+P: Set v = 4 and solve. Divide by 5: 0.8 = 1 − e^(−t/τ), so e^(−t/τ) = 0.2.
+P: Take natural logarithms of both sides: −t/τ = ln(0.2) = −1.609.
+P: So t = 1.609τ = 1.609 × 0.47 = 0.756 s.
+P: Reasonableness check: 4 V is 80% of the final value, which should fall between one time constant (63%) and three (95%), and closer to the lower end. It does — 1.6 time constants. That kind of rough check catches sign errors in the logarithm, which are easy to make and otherwise invisible.
+H2: 19.2 Logarithms
+P: The logarithm answers the question "to what power?" If 10³ = 1000, then log₁₀(1000) = 3. Two bases matter in engineering: base 10, written log, and base e ≈ 2.71828, written ln. Exponential circuit behavior requires ln; decibels and log-frequency axes use log.
+P: The three properties that do all the work convert multiplication into addition, division into subtraction, and powers into multiplication:
+EQ: log(ab) = log a + log b;   log(a/b) = log a − log b;   log(aⁿ) = n·log a
+P: The first of these is the entire reason decibels exist. Cascaded stages multiply their gains; expressed logarithmically, they add. A chain of amplifiers and losses becomes a sum you can do in your head instead of a product you cannot. Chain three amplifier stages with power gains of 5, 8, and 2, and the combination's overall gain is the plain product of the three: 5 × 8 × 2 = 80. Manageable for three stages — but chain together ten, mixing amplifying stages with lossy cables and attenuators whose gains are fractions less than 1, and tracking the running product by hand grows unwieldy and easy to get wrong. Converted to decibels, though, the same three stages become 10 log₁₀(5) ≈ 7 dB, 10 log₁₀(8) ≈ 9 dB, and 10 log₁₀(2) ≈ 3 dB, which add: 7 + 9 + 3 = 19 dB — and 10 log₁₀(80) ≈ 19 dB confirms it.
+H2: 19.3 The Decibel
+P: The decibel expresses a power ratio logarithmically:
+EQ: G(dB) = 10·log₁₀(P_out/P_in)
+FIG: fig19_2.png | Figure 19.2 — A decibel cheat sheet worth memorizing: +3 dB is about double the power, +10 dB is ten times, and because power goes as voltage squared, +6 dB doubles the voltage. | A ladder of decibel values, not to scale, from minus 30 to plus 30 dB, with the matching power ratio above and voltage ratio below: minus 30 dB, power 1/1000, voltage 0.032; minus 20, 1/100, 0.1; minus 10, 1/10, 0.32; minus 6, 1/4, 0.5; minus 3, 1/2, 0.71; 0 dB, 1, 1; plus 3, 2, 1.41; plus 6, 4, 2; plus 10, 10, 3.16; plus 20, 100, 10; plus 30, 1000, 31.6. Formula: dB equals 10 log of the power ratio, equals 20 log of the voltage ratio.
+P: For voltage or current ratios, the factor is 20 rather than 10, because power is proportional to the square of voltage and the square becomes a factor of two in front of the logarithm — strictly, this equivalence between the voltage-ratio and power-ratio forms of the decibel holds only when input and output are measured across the same impedance, which is the common case this book assumes unless stated otherwise:
+EQ: G(dB) = 20·log₁₀(V_out/V_in)
+P: The values worth memorizing are few. 3 dB is a factor of 2 in power. 6 dB is a factor of 2 in voltage. 10 dB is a factor of 10 in power. 20 dB is a factor of 10 in voltage. Negative values are the reciprocals: −3 dB is half the power, which is why the corner frequency of a filter — where the response is 1/√2 in voltage, and therefore half in power — is called the 3 dB point.
+KEY: Use 10·log for power ratios and 20·log for voltage ratios. The factor of two comes from P ∝ V², not from a different definition of the decibel. Applying 20·log to a power ratio, or 10·log to a voltage ratio, produces an answer wrong by a factor of two in dB — which is a factor of two in the exponent, and therefore an enormous error in the underlying quantity.
+P: The decibel is a ratio and therefore dimensionless. To express an absolute quantity, a reference must be specified, and it is written into the unit: dBm is decibels relative to one milliwatt, dBV relative to one volt, dBµV relative to one microvolt. A power of 1 mW is 0 dBm; 1 W is +30 dBm; 1 µW is −30 dBm. These absolute forms are used constantly in RF work, and a later book in this series depends heavily on fluency with them.
+MIS: Decibel values add only when they are ratios. You may add gains in dB along a signal chain because the underlying gains multiply. You may not add two dBm values: adding +10 dBm to +10 dBm does not give +20 dBm, because that would be adding absolute powers, not ratios. Two 10 mW signals combine to 20 mW, which is +13 dBm — a 3 dB increase, because doubling power is always 3 dB regardless of the starting level.
+BENCH: Keep dB and dBm apart. A dB value is a ratio; dBm is an absolute power referred to 1 mW, so 0 dBm is 1 mW, +30 dBm is 1 W and −30 dBm is 1 µW. You can add dB to dBm (a 20 dB amplifier turns −40 dBm into −20 dBm), but two dBm values don't add: two uncorrelated −20 dBm signals together make −17 dBm, not −40.
+H3: Practice Problems
+LI: A 100 nF capacitor discharges through 22 kΩ from an initial 9 V. Find the time constant, and the voltage after 5 ms.
+LI: Express the following power ratios in dB: 2, 10, 100, 0.5, 1000.
+LI: An amplifier has a voltage gain of 250. Express this in dB. If it is followed by a 6 dB attenuator, what is the overall gain in dB, and as a plain voltage ratio?
+LI: A receiver input is −95 dBm. Convert this to watts. If an antenna and cable together provide a gain of +12 dB, what is the input power in dBm and in watts at the far end?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: The 3, 6, 10 and 20 dB rules.
+LI: dBm for absolute power.
+LI: Time-constant rules: 63% after one τ, about 99% after five.
+P: Mostly for exams and deeper study
+LI: Change-of-base and other log identities beyond the basics.
+LI: Deriving the exponential from its differential equation.
