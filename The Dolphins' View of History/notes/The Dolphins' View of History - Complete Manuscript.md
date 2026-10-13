@@ -226,6 +226,8 @@ None of which stops dolphins from doing, now and then, the opposite as well: hel
 
 *Dolphin historians decline to fully explain this pattern of goodwill toward a species that also, on occasion, keeps us in tanks, beyond noting that consistency was never a precondition for decency.*
 
+Dolphin scholarship insists on the rest of the file, too, since this book has promised nowhere to flatter anyone. Wild bottlenose dolphins have been documented killing calves, their own species' young, in numbers too consistent across too many separate populations, Scotland, the western Atlantic, Spain's Galician coast, to be isolated accidents; researchers studying the pattern link it to the same reproductive competition that drives infanticide in several other mammals. Adult males also form multi-level alliances specifically to corner and control females' movements during mating season, a behavior marine biologists call herding rather than its plainer English name. None of this undoes the rescue stories already on this chapter's own record. It only means the dolphins asking to be believed about their own decency have, on the record, exactly the same mixed file every other species in this book gets.
+
 Here is the thesis the rest of the book keeps testing on the one species that did get the hands. A hand turns an idea into an object, and an object outlives the person who had the idea. The next generation does not start from nothing. It picks up the tool, improves it, and passes it on. Anthropologists call this cumulative culture and compare it to a ratchet: it turns one way and rarely slips back. A dolphin calf inherits its mother's skills. A human child inherits a civilization's tools. Capability, in this species, compounds.
 
 Wisdom does not compound the same way. It cannot be stored in a tool or inherited with one. Each generation has to learn it again, mostly from its own mistakes and sometimes from its parents' graves. A big brain guarantees cleverness. It does not guarantee wisdom. The two arrive on separate schedules, and the chapters that follow trace how far apart those schedules drifted.
@@ -2153,6 +2155,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Signature whistles used as names.* Janik, Vincent M., Laela S. Sayigh, and Randall S. Wells. “Signature Whistle Shape Conveys Identity Information to Bottlenose Dolphins.” PNAS 103 (2006): 8293–97.
 
 *Sponge carrying in Shark Bay as a culturally transmitted tool use.* Krützen, Michael, et al. “Cultural Transmission of Tool Use in Bottlenose Dolphins.” PNAS 102 (2005): 8939–43.
+
+*Documented infanticide in wild bottlenose dolphins.* Patterson, I. A. P., et al. “Evidence for Infanticide in Bottlenose Dolphins: An Explanation for Violent Interactions with Harbour Porpoises?” Proceedings of the Royal Society B 265 (1998): 1167–70.
+
+*Male alliances and the coercive “herding” of females in bottlenose dolphins.* Connor, Richard C., Rachel A. Smolker, and Andrew F. Richards. “Two Levels of Alliance Formation among Male Bottlenose Dolphins (Tursiops sp.).” Proceedings of the National Academy of Sciences 89 (1992): 987–90.
 
 *Cumulative culture, the “ratchet” this book’s thesis rests on.* Tennie, Claudio, Josep Call, and Michael Tomasello. “Ratcheting Up the Ratchet: On the Evolution of Cumulative Culture.” Philosophical Transactions of the Royal Society B 364 (2009): 2405–15.
 
