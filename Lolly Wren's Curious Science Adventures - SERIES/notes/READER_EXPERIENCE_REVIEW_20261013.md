@@ -1,10 +1,10 @@
-# Reader Experience Review ? 13 October 2026
+# Reader Experience Review — 13 October 2026
 
 ## Reader profile and scores
 
 Perspective: an occasional science-fiction reader who is not yet drawn to science explanations, but would like a story to make the subject interesting. Scores measure ease of entry and the chance of sparking curiosity, not technical depth.
 
-- **Schr?dinger?s Paperwork: 10/10.** The bureaucratic premise, comic voice, and Mrs Chain?s personal stakes make an inviting route into the science. The novel works without the lessons. A front-matter note now makes that choice clear before the story begins.
+- **Schrödinger’s Paperwork: 10/10.** The bureaucratic premise, comic voice, and Mrs Chain’s personal stakes make an inviting route into the science. The novel works without the lessons. A front-matter note now makes that choice clear before the story begins.
 - **The Permitted Options: 10/10.** The case around Ellen and the fourteen gives the abstractions a human reason to matter. The story is denser than Book 1, but readers can follow the case without completing the lecture course. A matching front-matter note now says so plainly.
 
 ## Changes made

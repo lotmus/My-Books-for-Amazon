@@ -9,7 +9,7 @@ Reviewed the current Book 1 Kindle master, `Book 1 - Schrodingers Paperwork/Schr
 
 ## Revisions made
 
-Book 2's second-incompleteness summary now states its consistency, formalisation, and arithmetic conditions. Its legal motion is described as a resemblance to self-reference rather than as G?del's theorem acting on a government. The Page-curve discussion now calls replica-wormhole and island calculations theoretical results in controlled gravitational models, and explicitly says they are not observations of astrophysical black holes.
+Book 2's second-incompleteness summary now states its consistency, formalisation, and arithmetic conditions. Its legal motion is described as a resemblance to self-reference rather than as Gödel's theorem acting on a government. The Page-curve discussion now calls replica-wormhole and island calculations theoretical results in controlled gravitational models, and explicitly says they are not observations of astrophysical black holes.
 
 ## Remaining limits
 

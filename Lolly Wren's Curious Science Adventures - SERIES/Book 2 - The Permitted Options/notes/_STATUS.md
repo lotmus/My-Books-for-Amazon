@@ -49,3 +49,8 @@ Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target
 ## Science-minded review (13 Oct 2026)
 
 Review: `../../notes/SCIENCE_REVIEW_20261013.md`. Scores: Book 1 **10/10**, Book 2 **10/10 after revisions**. The Book 2 back matter now qualifies Gödel's second theorem, distinguishes the procedural analogy from the theorem, and limits the Page-curve claim to theoretical calculations in controlled models. The reviewed DOCX and Kindle EPUB were updated together.
+
+
+## Literary fan review (13 Oct 2026)
+
+Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.3/10 overall**; style 9.5, sentence craft 9.1, mechanical/Kindle 10. Three hard line breaks splitting two sentences were removed; intentional notebook stanza breaks remain. Kindle EPUB rebuilt and validated.
