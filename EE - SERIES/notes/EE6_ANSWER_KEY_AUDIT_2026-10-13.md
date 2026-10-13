@@ -123,3 +123,11 @@ Expanded Chapter 19 Practice Problems 1-4 so the concise answer key shows the ca
 ## Chapter 18 multiphase-ripple answer-depth follow-up (13 October 2026)
 
 Expanded Practice Problems 18.1-18.3 from bare values to show ND, m = floor(ND), and the K substitutions. Problems 18.1 and 18.2 now interpret K as total output ripple relative to one phase's ripple in the ideal interleaving model. Problem 18.3 explains that integer ND gives ideal cancellation and that duty-cycle or timing mismatch can leave residual ripple. The DOCX and regenerated tagged mirror match. LibreOffice rendered a 162-page PDF; page 151 was inspected and all three answers fit cleanly. This is a local explanation improvement, not a design validation or completion of the 208-answer review; the buyer score remains unchanged.
+
+## Chapter 18 load-line and current-slew answers (13 October 2026)
+
+Practice Problems 18.4 and 18.5 now show the ratio calculations behind the 0.05 mΩ load-line slope and 0.5 µs current-ramp time. The latter states the simultaneous-phase and sustained-slew assumption and notes that output capacitors bridge the current deficit. The Book 6 mirror was regenerated. These small additions improve reproducibility; they do not validate a processor power-delivery design or change the interim series score.
+
+### Verification follow-up: Chapter 18 load-line and slew answers
+
+A fresh 162-page LibreOffice PDF was rendered; page 151 was inspected after replacing characters that the first render showed as question marks. The load-line and slew calculations are legible, and the answer-key number/body typography matches adjacent entries. Fresh extraction regenerated all 24 Book 6 mirror files, with only `src/back.txt` changed for this edit. DOCX ZIP integrity and parsing passed. Kindle Previewer 3.106.0 reports Supported/Success, zero errors, zero quality issues, and “No issues found.” The KPF embeds a byte-identical master DOCX (SHA-256 `ebe537d3a88d88a22072056be4ec7362c504c8730c5f22a5f0baae6e2ac06251`). This is selected-page evidence, not a full device proof or power-delivery design validation.
