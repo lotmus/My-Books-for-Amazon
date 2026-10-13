@@ -10,7 +10,7 @@
 
 <b>121 photographed recipes inspired by Bavarian and Southern German home cooking.</b>
 
-<p>Crackling roast pork. Fluffy bread dumplings. Creamy Kässpätzle. Golden Kaiserschmarrn. Bavarian and Southern German cooking is hearty and comforting. <i>Bavarian Cooking Made Simple</i> brings these regional favorites to your kitchen, with a photo for every dish.</p>
+<p>Crackling roast pork. Fluffy bread dumplings. Creamy Kässpätzle. Golden Kaiserschmarrn. Bavarian cooking reaches far beyond Oktoberfest: from everyday family tables and beer gardens to Alpine kitchens, its food is hearty, varied, and made to share. <i>Bavarian Cooking Made Simple</i> brings these regional favorites to your kitchen, with a photo for every dish.</p>
 
 <p>The regional range includes Franconian roast pork, Munich's mustard-and-horseradish schnitzel, and Allgäuer Cordon Bleu, alongside broader German home cooking, neighboring Alpine traditions, and modern adaptations for the everyday table.</p>
 
@@ -21,6 +21,7 @@
 <li><b>US and metric measures</b> throughout, with °C and °F oven temperatures</li>
 <li><b>German dish names and ingredient terms</b> to help with menus and shopping</li>
 <li><b>Clear step-by-step instructions</b> for beginners and confident cooks alike</li>
+<li><b>A welcoming first-table guide</b> that starts with an easy Brotzeit board and a simple cheese spread</li>
 </ul>
 
 <p><b>What you will cook</b></p>
@@ -33,6 +34,8 @@
 </ul>
 
 <p><b>Who this book is for:</b> Adult home cooks and older teens (about 16+) who can cook independently. Younger teens can use the recipes with an adult's guidance; younger children should help only with age-appropriate tasks under close supervision. Recipes involve knives, ovens, hot oil, raw ingredients, and some alcoholic drinks. The "Before You Cook" page covers cooking temperatures, raw ingredients, alcohol, and allergens.</p>
+
+<p>New to cooking? Begin with a no-cook Brotzeit platter, then make Obatzda, a Bavarian cheese spread you mash, season, and chill. It is a low-pressure first taste of the region—and an easy reason to invite someone to the table.</p>
 
 <p><b>Scroll up and tap Buy Now to bring the beer garden home. Guten Appetit!</b></p>
 
