@@ -1,10 +1,10 @@
-# Your First Book That Sells
+# How to Publish Your First Kindle Book
 
-*How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays*
+*Request Honest Reviews and Build a Practical Plan for What Comes Next*
 
 **Kevin Drew Peters**
 
-Updated 6 October 2026
+Updated 10 October 2026
 
 Copyright © 2026 Kevin Drew Peters. All rights reserved.
 
@@ -18,7 +18,7 @@ This book is a general educational guide. Amazon’s KDP terms, royalty rates, t
 
 ## Who this book is for
 
-This book is for first-time and early independent authors who have written, or are writing, a serious ebook and want to publish it on Kindle without wasting money. You will learn to work out what one sale leaves you, price inside the right royalty band, ask for honest reviews the way Amazon allows, run a small capped ad test, and plan the second book that turns one title into a catalog.
+This book is for first-time and early independent authors who have written, or are writing, a complete or nearly complete ebook and want to publish it on Kindle without wasting money. You will learn to work out what one sale leaves you, price inside the right royalty band, ask for honest reviews the way Amazon allows, run a small capped ad test, and plan the second book that turns one title into a catalog.
 
 It is not for everyone, and it says so now so you can decide before you spend an evening on it.
 
@@ -32,7 +32,7 @@ It is not for everyone, and it says so now so you can decide before you spend an
 
 Kevin Drew Peters is a graduate of Munich University of Applied Sciences. He spent many years in the semiconductor industry, most of them in the United States, supporting several start-ups. That work teaches a habit: measure before you decide, write the arithmetic down, change one variable at a time, and put a cap on the cost of every experiment.
 
-This book applies that habit to Kindle publishing. What you will get: the platform rules with their sources and dates, the arithmetic behind every price and every ad, and small bounded tests you can run on your own book. What you will not get: the author’s own sales figures held up as proof, stories of overnight success, or a claim to know how Amazon ranks books. Amazon does not publish its ranking algorithm.
+This book applies that habit to Kindle publishing. Its working tool is the three-line keep test: what one sale leaves, which reader the book fits, and when you will judge one change. That turns general advice into decisions you can check against your own book. What you will get: the platform rules with their sources and dates, the arithmetic behind every price and every ad, and small bounded tests you can run on your own book. What you will not get: the author’s own sales figures held up as proof, stories of overnight success, or a claim to know how Amazon ranks books. Amazon does not publish its ranking algorithm.
 
 ## How the book is built
 
