@@ -27,12 +27,14 @@ PY_HW = {'l04_1_bme_id.py', 'l04_2_logger.py', 'l06_3_button_irq.py', 'l07_3_ult
          'l24_3_test_hil.py', 'l24_3_conftest.py'}
 PY_ARGS = {'l21_1_sweep.py': ['--sim']}
 CS_DIR = os.path.join(HERE, 'cscheck')
+# Do not require committed/generated obj/project.assets.json files. Each project
+# restores its own assets during build so the checker also works from a clean clone.
 CS_COMMANDS = {
-    'lib': ['dotnet', 'build', os.path.join(CS_DIR, 'lib', 'lib.csproj'), '--no-restore'],
-    'nano': ['dotnet', 'build', os.path.join(CS_DIR, 'nano', 'nano.csproj'), '--no-restore'],
-    'timer': ['dotnet', 'build', os.path.join(CS_DIR, 'timer', 'timer.csproj'), '--no-restore'],
-    'wpf': ['dotnet', 'build', os.path.join(CS_DIR, 'wpf', 'wpf.csproj'), '--no-restore'],
-    'tests': ['dotnet', 'test', os.path.join(CS_DIR, 'tests', 'tests.csproj'), '--no-restore'],
+    'lib': ['dotnet', 'build', os.path.join(CS_DIR, 'lib', 'lib.csproj')],
+    'nano': ['dotnet', 'build', os.path.join(CS_DIR, 'nano', 'nano.csproj')],
+    'timer': ['dotnet', 'build', os.path.join(CS_DIR, 'timer', 'timer.csproj')],
+    'wpf': ['dotnet', 'build', os.path.join(CS_DIR, 'wpf', 'wpf.csproj')],
+    'tests': ['dotnet', 'test', os.path.join(CS_DIR, 'tests', 'tests.csproj')],
 }
 CS_ROUTES = {
     'l05_1_SerialConsole.cs': ('lib',),
