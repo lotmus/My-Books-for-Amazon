@@ -54,7 +54,7 @@ If you have more than a week, Appendix A turns the same work into a now / this m
 
 ## Chapter 2. What "Legacy" Actually Splits Into
 
-People use one word for four different deposits. Mixing them up is why plans fail.
+People use *legacy* as if it meant one thing. A useful plan separates four: property, authority, access, and meaning.
 
 - **Property.** What it is: Money, house, accounts, business, debts; What carries it: Will, trust, beneficiary forms, titles, contracts.
 - **Authority.** What it is: Who decides while you are alive but unable to; What carries it: Powers of attorney, healthcare directives.
@@ -63,20 +63,20 @@ People use one word for four different deposits. Mixing them up is why plans fai
 
 ### Property
 
-This is the deposit everyone thinks of, and the only one a will is designed to handle. Even here, the will is often a minor player. In the United States, life insurance, retirement accounts, payable-on-death bank accounts, and jointly owned property usually pass by their own paperwork. In Germany, the estate passes as a whole to the heirs at the moment of death (BGB § 1922), but life insurance with a named beneficiary is generally paid to that beneficiary under the policy, outside the estate. The will catches what is left. Sometimes that is very little.
+Property is what most people mean when they talk about leaving something behind, and it is the part a will is designed to handle. Even here, the will is often a minor player. In the United States, life insurance, retirement accounts, payable-on-death bank accounts, and jointly owned property usually pass by their own paperwork. In Germany, the estate passes as a whole to the heirs at the moment of death (BGB § 1922), but life insurance with a named beneficiary is generally paid to that beneficiary under the policy, outside the estate. The will catches what is left. Sometimes that is very little.
 
 ### Authority
 
-This is the deposit people forget, because it matters only in the gap between "fine" and "dead," and nobody likes to think about the gap. Yet it is where families spend weeks arguing with banks and hospitals. A power of attorney costs an afternoon. A court-appointed guardian or conservator in California, or a court-appointed *Betreuer* in Germany, costs months.
+Authority matters in the gap between "fine" and "dead," a stretch most people would rather not picture. It is also where families can spend weeks arguing with banks and hospitals. A power of attorney may take an afternoon to arrange; a court-appointed guardian or conservator in California, or a court-appointed *Betreuer* in Germany, can take months.
 
 ### Access
 
-Access is the newest deposit and the one that fails most quietly. You can have a perfect will and a perfect power of attorney, and your family can still be locked out of your phone, your email, your photo library, and the two-factor codes that guard all of them. A will that leaves "all my digital assets to my daughter" is about as useful as a will that leaves "the contents of my safe" without the combination.
+Access is easy to overlook, and it can fail quietly. You can have a sound will and power of attorney while your family remains locked out of your phone, email, photo library, and the two-factor codes that guard them. A will that leaves "all my digital assets to my daughter" is about as useful as one that leaves her the contents of a safe without its combination.
 
 ### Meaning
 
-Meaning is the deposit this book cares about most and the law cares about least. It includes the stories, skills, creative work, and reasons you want people to carry forward. Courts will not enforce your stories. They will not carry out your hopes. They will not play your video at the wedding. That is not a defect. It is freedom: you can be personal, funny, apologetic, and contradictory in a letter or a recording without accidentally rewriting your estate. You just have to keep the two kinds of document in their lanes.
+Meaning is the part of legacy the law is least equipped to carry. It includes the stories, skills, creative work, and reasons you hope people will remember. A court will not enforce a story or carry out a hope; it will not play your video at a wedding. That leaves room for something a legal document cannot hold: a personal, funny, apologetic, even contradictory account of your life. Keep that account separate from instructions that transfer property.
 
-Do the meaning deposit even if the property deposit is small. A person with little to leave can still leave the only record of why a family split, how a choice was made, or what a trade was actually like. And do the property deposit even if you care more about meaning. Unpaid debts, untitled houses, and unnamed beneficiaries become other people's emergencies, usually at the worst possible moment, usually involving a fax machine.
+Make room for meaning even if you have little property to leave. You may be the only person who can explain why a family split, how a hard choice was made, or what a trade was like from the inside. And make a property plan even if meaning matters more to you. Unpaid debts, untitled houses, and unnamed beneficiaries become other people's emergencies—often at the worst possible moment, and sometimes involving a fax machine.
 
 If you want to start with meaning, do not plan the whole archive. Choose one story, skill, recipe, or work. Record or write a small piece with someone you trust, keep a copy somewhere they can reach, and tell them what you hope they will do with it. Chapter 30 gives you a step-by-step plan; Appendix A adds it to the checklist.
