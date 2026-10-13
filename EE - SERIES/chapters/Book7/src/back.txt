@@ -287,7 +287,7 @@ H2: Chapter 29
 P: 1. T = 1/500 = 2 ms.
 P: 2. 200/5 = 40 updates.
 P: 3. Pmech = τω = 50 × 3 = 150 W; the bus supplies 150/0.9 = 167 W, so I = 167/48 = 3.5 A.
-P: 4. 1500 Wh/375 W = 4 hours.
+P: 4. The ideal arithmetic runtime is 1500 Wh / 375 W = 4 hours. This assumes the full stated capacity is usable and the average load stays constant; reserve, cutoff, conversion loss, temperature, and aging reduce actual runtime.
 P: 5. 1280 × 720 × 3 × 60 = 165.9 × 10⁶ B/s, 165.9 MB/s.
 P: 6. The fast feedback loop holds each joint on its trajectory and rejects disturbances between model updates, so the model only needs to set targets at the rate the task changes, not at the rate disturbances arrive.
 P: 7. I = C dv/dt = 470 × 10⁻¹² × 5 × 10⁹ V/s = 2.35 A.
