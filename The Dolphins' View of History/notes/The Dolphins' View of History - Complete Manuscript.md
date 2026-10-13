@@ -1492,6 +1492,8 @@ The transistor, invented at Bell Labs in 1947, replaced the bulky, failure-prone
 
 ARPANET, a US Department of Defense research network, went live in 1969 connecting four university computers. It grew, through the 1970s and 80s, into the modern internet, and the World Wide Web, built by Tim Berners-Lee in 1989-91, gave that network a form ordinary people could actually navigate. The smartphone, arriving commercially with the iPhone in 2007, put a computer more capable than anything in the earlier chapters into a majority of human pockets within about fifteen years — essentially one human generation, start to finish, from four connected computers to several billion.
 
+The same restless habit that renamed British spelling renamed brand names into verbs. Xerox spent decades on an advertising campaign, including the line “you can't Xerox a Xerox on a Xerox,” fighting to keep its own name from settling into the language as the plain word for photocopying, and won. Google tried the same fight once “to google” crossed into the Oxford English Dictionary and Merriam-Webster's, both in 2006, as a lowercase verb for searching the internet on any engine at all; a federal court later rejected an attempt to use that very popularity to cancel Google's trademark outright, ruling that calling an act “googling” does not by itself make the name generic. Dolphin historians, who have no trademark department and nothing to defend, find it tidy that the more completely an American company wins, the faster the language eats its name and dares the company to take it back.
+
 The promise delivered was real: information that had once required a library and a train ticket became available in seconds, coordination across a planet's distance became close to instantaneous, and connection with people whose ancestors had parted ways with one's own tens of thousands of years earlier became, for the first time in this history, recoverable.
 
 The cost arrived on the same schedule as the promise, not after it. The same networks that connected people gave states and companies a capacity for surveillance with no earlier equivalent. The same platforms that spread information spread misinformation at the same speed and, by most measured accounts, rather more efficiently. Human attention became a resource harvested, sold, and optimized for in ways no earlier technology had ever managed to monetize directly.
@@ -2741,6 +2743,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Colossus and Bletchley Park.* Copeland, B. Jack, ed. Colossus: The Secrets of Bletchley Park’s Codebreaking Computers. Oxford: Oxford University Press, 2006.
 
 *From Lovelace to the web.* Isaacson, Walter. The Innovators. New York: Simon & Schuster, 2014.
+
+*“Google” added as a verb in 2006.* Harris, Scott D. “Dictionary Adds Verb: To Google.” San Jose Mercury News, July 7, 2006.
+
+*Google’s trademark surviving a genericide challenge.* Elliott v. Google, Inc., 860 F.3d 1151 (9th Cir. 2017).
 
 *False news spreads faster than true.* Vosoughi, Soroush, Deb Roy, and Sinan Aral. “The Spread of True and False News Online.” Science 359 (2018): 1146–51.
 
