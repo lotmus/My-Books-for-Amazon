@@ -2,11 +2,11 @@
 
 Es ist Samstagabend, du bist seit drei Wochen in den USA, und dein Kind hat hohes Fieber. Einen amerikanischen Kinderarzt hast du noch nicht, und die Krankenversicherung deines Arbeitgebers beginnt erst in sieben Wochen. Das ist kein Pech, sondern eine Folge des Systems: In den USA hängt die Krankenversicherung am Job, und zwischen Landung und Versicherungsbeginn liegt oft eine Lücke.
 
-> **Kein Rechtsrat:** Stand 30. September 2026. Dieses Kapitel ist keine Beratung. Beitrag, Selbstbehalt und Eigenanteil nennt dein Plan oder die KFF-Umfrage des Jahres. Prüfe die genannte Stelle, bevor du zahlst oder kündigst. Dieses Kapitel druckt keine Prämien und keine Selbstbehalte.
+> **Kein Rechtsrat:** Stand 30. September 2026. Dieses Kapitel bietet eine Orientierung, keine individuelle Beratung. Prämien, Selbstbehalte und Eigenanteile unterscheiden sich je nach Plan; prüfe vor Abschluss oder Kündigung die Leistungsübersicht deines Plans und die aktuellen Angaben der genannten Behörden.
 
 > **Kurz gesagt:**
 > - Als Beschäftigter bist du meist über den Arbeitgeber versichert. Es gibt keine Einheitskasse. Du wählst unter den Plänen, die der Arbeitgeber anbietet.
-> - Du zahlst dreifach: den Beitrag (*Premium*), den Selbstbehalt (*Deductible*) und Zuzahlungen bis zur Jahreshöchstgrenze (*Out-of-Pocket Maximum*). Die Beträge stehen in den Planunterlagen, nicht hier.
+> - Drei Kostenarten solltest du auseinanderhalten: Beitrag (*Premium*), Selbstbehalt (*Deductible*) und Zuzahlungen (*Copay* oder *Coinsurance*). Die gedeckten Eigenkosten sind im Netzwerk durch das *Out-of-Pocket Maximum* begrenzt. Die konkreten Beträge stehen in den Planunterlagen.
 > - Die Deckung beginnt oft erst nach einer Wartefrist von bis zu 90 Tagen. Die Einschreibefrist beträgt meist 30 Tage. Plane eine Überbrückung.
 > - Bei Fieber, Verstauchung oder Infekt ist meist *Urgent Care* oder Telemedizin richtig, nicht die Notaufnahme. Bei Lebensgefahr wählst du den Notruf 911.
 > - Zahn und Augen sind getrennte Pläne. Rechnungen zahlst du erst nach dem Abgleich mit der Abrechnung deines Versicherers.
@@ -14,11 +14,13 @@ Es ist Samstagabend, du bist seit drei Wochen in den USA, und dein Kind hat hohe
 
 ### Das Prinzip: Versicherung hängt am Arbeitgeber
 
-Nach dem Statistikamt Census waren 2025 rund 53,5 % der US-Bevölkerung über einen Arbeitgeber versichert, 20,1 % über *Medicare* (ab 65), 17,1 % über *Medicaid* (Geringverdienende) und 10,5 % über selbst gekaufte Pläne — Mehrfachdeckung ist möglich, die Werte ergeben deshalb nicht 100 %. Unversichert waren 7,9 % (26,7 Millionen Menschen). Nach der Arbeitgeberumfrage der Stiftung KFF bieten 61 % der Firmen ab zehn Beschäftigten eine Versicherung an: 97 % ab 200 Beschäftigten, aber nur 59 % der kleineren. Frage im Bewerbungsprozess deshalb nach dem Leistungspaket (*Benefits*), nicht nur nach dem Gehalt.
+Nach Angaben des US Census Bureau waren 2025 rund 53,5 % der Bevölkerung über einen Arbeitgeber versichert, 20,1 % über *Medicare* (meist ab 65; bei bestimmten Behinderungen früher), 17,1 % über *Medicaid* (für Menschen mit geringem Einkommen) und 10,5 % über selbst gekaufte Pläne. Mehrfachdeckung ist möglich; deshalb ergeben die Anteile zusammen nicht 100 %. Unversichert waren 7,9 % (26,7 Millionen Menschen). Laut Arbeitgeberumfrage von KFF bieten 61 % der Firmen ab zehn Beschäftigten eine Versicherung an: 97 % der Firmen mit mindestens 200 Beschäftigten, aber nur 59 % der kleineren. Frage im Bewerbungsprozess deshalb nach dem Leistungspaket (*Benefits*), nicht nur nach dem Gehalt.
+
+**Wichtig ab 65:** Medicare beginnt nicht automatisch mit dem 65. Geburtstag. Anspruch und Kosten hängen unter anderem von Aufenthaltsstatus und Versicherungszeiten ab. Für die beitragsfreie Krankenhausversicherung Medicare Part A braucht man in der Regel selbst oder über den Ehepartner etwa zehn Jahre Medicare-Beiträge; wer diese Zeiten nicht hat, muss die Voraussetzungen für einen kostenpflichtigen Zugang prüfen. Für viele rechtmäßig dauerhaft ansässige Personen gilt außerdem eine fünfjährige ununterbrochene Aufenthaltsfrist. Kläre deinen konkreten Anspruch frühzeitig bei Medicare oder der Social Security Administration, statt mit Medicare als Versicherung bei Ankunft zu rechnen.
 
 Verbreiteter Irrtum: „Krankenversicherung“ klinge nach einem System wie der GKV, nur eben amerikanisch organisiert. Tatsächlich kennen die USA, anders als die gesetzliche Krankenversicherung (GKV) in Deutschland, keinen einheitlichen Träger. Die Versicherer sind private Unternehmen, etwa Blue Cross Blue Shield, UnitedHealthcare, Aetna oder Cigna; dein Arbeitgeber wählt einige Pläne aus und bietet sie dir an. Was in Deutschland die Kasse organisiert, erledigst du selbst: Plan wählen, Netzwerk prüfen, Rechnungen abgleichen.
 
-Eine bundesweite Versicherungspflicht mit Strafzahlung gibt es seit 2019 nicht mehr, einzelne Staaten wie Massachusetts und New Jersey haben eine eigene. Unversichert zu sein bleibt für Neuankömmlinge dennoch riskant: Notaufnahmen von Krankenhäusern mit Medicare-Zulassung müssen dich nach dem Bundesgesetz EMTALA untersuchen und stabilisieren, unabhängig von deiner Zahlungsfähigkeit — kostenlos ist das nicht, die Rechnung kommt später. Vorbereitung in Deutschland (GKV-Austritt, Anwartschaft): Kapitel 18; der Weg zurück in die GKV: Kapitel 42.
+Eine bundesweite Versicherungspflicht mit Strafzahlung gibt es seit 2019 nicht mehr; einzelne Staaten wie Massachusetts und New Jersey haben eigene Vorgaben. Unversichert zu sein bleibt für Neuankömmlinge dennoch riskant: Notaufnahmen von Krankenhäusern mit Medicare-Zulassung müssen dich nach dem Bundesgesetz EMTALA untersuchen und stabilisieren, unabhängig von deiner Zahlungsfähigkeit — kostenlos ist das nicht, die Rechnung kommt später. Vorbereitung in Deutschland (GKV-Austritt, Anwartschaft): Kapitel 18; der Weg zurück in die GKV: Kapitel 42.
 
 ### Plantypen: HMO, PPO, HDHP und HSA
 
@@ -33,49 +35,48 @@ Dein Arbeitgeber bietet oft mehrere Pläne an. Sie unterscheiden sich im Netzwer
 
 Dazu kommt der *EPO* (Exclusive Provider Organization), der wie ein HMO nur das Netzwerk bezahlt. HMO-Pläne sind meist günstiger, bei 47 % ihrer Versicherten gibt es keinen Selbstbehalt; dafür schränken sie die Arztwahl ein. Beim PPO zahlst du für die Freiheit mehr Prämie.
 
-Der HDHP verlangt einen hohen Selbstbehalt. Die Mindestgrenzen und die Einzahlungsgrenzen des *Health Savings Account* (HSA) veröffentlicht der IRS für das Jahr. Dieses Kapitel druckt sie nicht. Das Guthaben gehört dir, verfällt nicht und darf für Arzt-, Zahn- und Augenkosten entnommen werden. Viele Arbeitgeber zahlen einen Beitrag ein. Steuerliche Details: Kapitel 28.
+Der HDHP verlangt einen hohen Selbstbehalt. Für 2026 muss ein HSA-fähiger Plan einen Selbstbehalt von mindestens 1.700 US-Dollar (Einzeldeckung) oder 3.400 US-Dollar (Familiendeckung) haben; die Eigenkosten dürfen höchstens 8.500 beziehungsweise 17.000 US-Dollar betragen. Auch die jährliche Einzahlungsgrenze setzt der IRS fest. Das Guthaben gehört dir, verfällt nicht und darf für qualifizierte Arzt-, Zahn- und Augenkosten verwendet werden. Viele Arbeitgeber zahlen einen Beitrag ein. Steuerliche Details: Kapitel 28.
 
-Junge, gesunde Beschäftigte fahren mit dem HDHP oft gut; wer Kinder, eine chronische Erkrankung oder einen geplanten Eingriff hat, rechnet besser mit PPO oder HMO.
+Ein HDHP kann günstiger sein, wenn du voraussichtlich wenig Leistungen brauchst und den Selbstbehalt aus Rücklagen tragen kannst. Bei regelmäßigem Behandlungsbedarf, verordneten Medikamenten oder einem geplanten Eingriff solltest du die erwarteten Gesamtkosten aller verfügbaren Pläne vergleichen – unabhängig von Alter oder Familienstand.
 
 > **Merke:** Vergleiche Pläne nie nur nach der Prämie. Rechne für jeden Plan das teuerste Jahr (12 × Monatsprämie + Out-of-Pocket-Maximum) und das wahrscheinliche Jahr (12 × Monatsprämie + die Arztkosten, die du erwartest). Prüfe zuerst, ob deine Ärzte im Netzwerk sind.
 
 ### Die Begriffe im Überblick
 
-Ein guter Teil des amerikanischen Krankenversicherungsalltags besteht aus acht Wörtern. Die Beträge eines Plans sind eine Illustration nur dann, wenn der Plan sie nennt. Dieses Kapitel druckt keine Beispielbeträge.
+Ein guter Teil des amerikanischen Krankenversicherungsalltags besteht aus acht Wörtern. Die konkreten Beträge unterscheiden sich je nach Arbeitgeber, Tarif und Haushalt. Nutze deshalb die Leistungsübersicht (*Summary of Benefits and Coverage*) deines Plans als Rechengrundlage.
 
 | Begriff | Bedeutung |
 |---|---|
-| *Premium* | Monatsbeitrag; fällt immer an, auch ohne Arztbesuch. Den Betrag nennt der Plan |
+| *Premium* | Monatsbeitrag; fällt immer an, auch ohne Arztbesuch. Den Betrag findest du in den Planunterlagen |
 | *Deductible* | Selbstbehalt: der Betrag pro Jahr, den du zuerst selbst zahlst |
 | *Copay* | Zuzahlung als Festbetrag pro Besuch oder Rezept |
 | *Coinsurance* | dein Anteil in Prozent, nachdem der Selbstbehalt erreicht ist. Den Satz nennt der Plan |
 | *Out-of-Pocket Maximum* | Jahreshöchstgrenze deiner Eigenkosten; danach zahlt der Plan im Netzwerk, ohne den Beitrag |
 | *In-Network* / *Out-of-Network* | Anbieter mit bzw. ohne Preisvertrag deines Plans; außerhalb zahlst du mehr oder alles |
-
-Ein Rechenweg ohne Zahlen: Du zahlst zuerst den Selbstbehalt, dann deinen Anteil, bis die Jahreshöchstgrenze greift. Die Beträge stehen auf der Leistungsübersicht (*Summary of Benefits*). Dass das Dokument „This is not a bill“ sagt, gehört zu den ersten Rätseln.
-
-Die gesetzliche Obergrenze nach dem *Affordable Care Act* veröffentlicht CMS für das Jahr. Dieses Kapitel druckt sie nicht.
-
 | *EOB* (*Explanation of Benefits*) | Abrechnungsübersicht des Versicherers, ausdrücklich keine Rechnung. Aufschrift „This is not a bill“ |
-| *Prior Authorization* | Vorab-Genehmigung des Versicherers für teure Leistungen wie MRT oder Operation. Ohne sie zahlst du im Zweifel selbst |
+| *Prior Authorization* | Vorab-Genehmigung des Versicherers für bestimmte Leistungen, etwa MRT oder Operation. Ohne sie kann der Plan die Zahlung ablehnen |
+
+Der typische Ablauf: Du zahlst zunächst die Prämie und – je nach Leistung – den Selbstbehalt. Danach übernimmt der Plan einen Teil, während du Copay oder Coinsurance zahlst, bis du die Grenze für gedeckte Eigenkosten erreichst. Die Leistungsübersicht (*Summary of Benefits and Coverage*) nennt die konkreten Werte. Eine EOB („This is not a bill“) ist dagegen nur die Abrechnungsübersicht des Versicherers, keine Zahlungsaufforderung.
+
+Für ACA-konforme Pläne liegt die gesetzliche Obergrenze für gedeckte Eigenkosten im Netzwerk 2026 bei 10.600 US-Dollar pro Person und 21.200 US-Dollar pro Familie. Beiträge, nicht gedeckte Leistungen und meist auch Kosten außerhalb des Netzwerks zählen nicht dazu.
 
 ### Was das kostet: der Vergleich mit der GKV
 
-Die Durchschnitte für Beitrag, Selbstbehalt und Eigenanteil veröffentlicht die KFF-Arbeitgeberumfrage des Jahres. Dieses Kapitel druckt sie nicht. Dein Plan kann davon abweichen. Lies die Leistungsübersicht, bevor du den Plan wählst oder in Deutschland kündigst.
+Als Orientierung: Laut KFF-Arbeitgeberumfrage 2025 betrug die durchschnittliche Jahresprämie 9.325 US-Dollar für Einzeldeckung und 26.993 US-Dollar für Familiendeckung. Beschäftigte zahlten davon im Schnitt 1.440 beziehungsweise 6.850 US-Dollar selbst; der Arbeitgeber übernahm den Rest. Bei Plänen mit allgemeinem Selbstbehalt lag dieser für Einzeldeckung im Schnitt bei 1.886 US-Dollar. Das sind Durchschnittswerte, keine Vorhersage für dein Angebot. Vergleiche deshalb Leistungsübersicht und Haushaltskosten, bevor du einen Plan wählst oder in Deutschland kündigst.
 
-Der Vergleich mit der GKV ist nicht eins zu eins möglich: Die GKV rechnet nach Einkommen. Den Satz nennt deine Krankenkasse. Der US-Plan zieht einen festen Beitrag ab und verlangt Eigenbeteiligung. Den Betrag nennt der Plan.
+Der Vergleich mit der GKV ist nicht eins zu eins möglich: Die Beiträge der GKV richten sich grundsätzlich nach dem Einkommen, während US-Arbeitgeberpläne je Tarif einen festen Beitrag verlangen und zusätzlich Eigenbeteiligungen vorsehen.
 
 | Kriterium | GKV (Deutschland) | US-Arbeitgeberplan |
 |---|---|---|
-| Beitrag | Satz und Zusatzbeitrag nennt die Krankenkasse. Dieses Kapitel druckt sie nicht | Fester Betrag je Plan, unabhängig vom Gehalt. Den Betrag nennt der Plan |
+| Beitrag | Einkommensabhängig, bis zu den geltenden Beitragsgrenzen | Fester Beitrag je Tarif; Höhe und Arbeitgeberanteil stehen im Angebot |
 | Selbstbeteiligung | Nur kleine Zuzahlungen, kein Selbstbehalt | Deductible, Copays und Coinsurance bis zum Out-of-Pocket-Maximum |
 | Arztwahl | Freie Wahl unter allen Kassenärzten | Nur Netzwerk; außerhalb teurer oder ungedeckt |
-| Wartezeit auf Termine | Facharzttermine dauern oft Wochen | Hausarzttermine dauern je nach Stadt. Die aktuelle Umfrage nennt die KFF oder der Anbieter |
+| Wartezeit auf Termine | Je nach Fachgebiet und Region unterschiedlich | Je nach Stadt, Fachgebiet und Netzwerk unterschiedlich |
 | Familie | Kinder und nicht erwerbstätige Partner beitragsfrei mitversichert | Familientarif; Partner und Kinder müssen angemeldet und bezahlt werden |
 | Bürokratie | Gesundheitskarte, kaum Rechnungen | EOBs, mehrere Rechnungen, Netzwerkprüfung, Vorabgenehmigungen |
 | Kosten im Notfall | Rettungsdienst und Klinik über die Karte | Notaufnahme oft bis zum Selbstbehalt aus eigener Tasche; Krankenwagen extra |
 
-Wer viel verdient, zahlt in Deutschland bis zur Beitragsbemessungsgrenze mehr; wer mehrere Kinder hat, spürt in den USA den Familientarif. Die Pflegeversicherung kommt in Deutschland hinzu.
+Die Pflegeversicherung kommt in Deutschland hinzu. In den USA hängen Beiträge und Eigenanteile eines Familientarifs vom Arbeitgeber und vom gewählten Plan ab.
 
 ### Beginn der Deckung: Wartefrist, Einschreibefrist und die Lücke
 
@@ -92,10 +93,10 @@ So überbrückst du die Lücke:
 - **Auslandskrankenversicherung aus Deutschland:** Prüfe, ob sie bei Wohnsitzverlegung greift und wie lange (Kapitel 18).
 - **Reiseversicherung für die USA** (*Visitor-* oder *Travel-Medical-Plan*): deckt meist akute Krankheit und Unfall; Vorerkrankungen, Schwangerschaft und Vorsorge sind oft ausgeschlossen.
 - **Kurzzeitpläne** (*Short-Term Limited Duration Insurance*): günstig, aber ohne den Vollschutz der Marktplatzpläne und meist mit Ausschluss von Vorerkrankungen und Schwangerschaft. Die Laufzeitregeln sind im Fluss: Eine Bundesregel von 2024 begrenzt sie auf vier Monate, die Bundesbehörden wollen sie seit August 2025 aber nicht vorrangig durchsetzen; viele Staaten regeln es selbst.
-- **Marktplatz** (*Marketplace*): Der Umzug aus dem Ausland löst ein Sonderfenster aus, meist 60 Tage. Als Visa-Inhaber darfst du kaufen, ab 2027 ohne Zuschuss (siehe unten). Prüfe die Kündigungsfrist, damit du zum Start der Arbeitgeberdeckung aussteigen kannst.
+- **Marktplatz** (*Marketplace*): Ein Umzug aus dem Ausland kann ein Sonderfenster von 60 Tagen auslösen. Wähle den Plan innerhalb der Frist; der Marketplace kann Nachweise verlangen. Die Deckung ist erst nutzbar, wenn verlangte Nachweise akzeptiert und die erste Prämie bezahlt sind. Als Visa-Inhaber darfst du kaufen, ab 2027 aber je nach Status ohne Zuschuss (siehe unten). Prüfe die Kündigungsfrist, damit du zum Start der Arbeitgeberdeckung aussteigen kannst.
 - **Verhandeln:** Frage im Jobangebot nach Deckung ab Tag 1 oder einer kürzeren Wartefrist.
 
-> **Praxisbeispiel:** Familie Brandt (fiktiv) landet Mitte Juli in der Region Detroit. Markus beginnt am 1. August; laut Benefits-Unterlagen startet die Deckung am 1. des Monats nach 60 Tagen, also am 1. Oktober. Bis dahin sind es gut elf Wochen ohne US-Versicherung; die Familie überbrückt sie mit der Auslandskrankenversicherung aus Deutschland und meldet alle vier in der ersten Arbeitswoche im Portal der Personalabteilung (HR) an (Einschreibefrist: 30 Tage). Ende August hat Jonas (5) Ohrenschmerzen. Die Urgent Care stellt eine Rechnung. Den Betrag nennt die Klinik, nicht dieses Beispiel. Markus reicht die Quittung bei der deutschen Versicherung ein.
+> **Praxisbeispiel:** Familie Brandt (fiktiv) landet Mitte Juli in der Region Detroit. Markus beginnt am 1. August; laut Benefits-Unterlagen startet die Arbeitgeberdeckung nach 60 Tagen am 1. Oktober. Die Familie überbrückt die elf Wochen bis dahin mit ihrer deutschen Auslandskrankenversicherung, deren Bedingungen sie vor dem Umzug geprüft hat, und meldet alle vier Familienmitglieder in der ersten Arbeitswoche im HR-Portal an (Einschreibefrist: 30 Tage). Ende August bekommt Jonas (5) Ohrenschmerzen. Die Familie lässt ihn in einer *Urgent Care* behandeln und reicht die Rechnung bei ihrer Versicherung ein.
 
 ### Arzt finden: Netzwerk, Hausarzt, Urgent Care und Notaufnahme
 
@@ -107,30 +108,39 @@ Der Hausarzt (*Primary Care Physician*, PCP) ist die erste Anlaufstelle für Vor
 
 | Situation | Wohin | Preisrahmen |
 |---|---|---|
-| Lebensbedrohlich: Brustschmerz, Atemnot, Schlaganfallzeichen, starke Blutung | 911 anrufen, Notaufnahme (*Emergency Room*, ER) | Den vereinbarten Preis nennt der Health Care Cost Institute, nicht dieses Kapitel |
-| Akut, nicht lebensbedrohlich: Fieber, Verstauchung, kleine Wunde, Harnwegsinfekt | Urgent Care, ohne Termin | Eigenanteil meist wie beim Hausarzt. Den Preis nennt die Klinik |
-| Beratung, Rezept, leichter Infekt | Hausarzt oder Telemedizin | Copay nennt der Plan |
+| Lebensbedrohlich: Brustschmerz, Atemnot, Schlaganfallzeichen, starke Blutung | 911 anrufen, Notaufnahme (*Emergency Room*, ER) | Notfallversorgung kann teuer sein; Eigenanteil hängt von Plan, Netzwerk und Behandlung ab |
+| Akut, nicht lebensbedrohlich: Fieber, Verstauchung, kleine Wunde, Harnwegsinfekt | Urgent Care, ohne Termin | Eigenanteil hängt vom Plan ab; frage Klinik und Versicherer nach einer Schätzung |
+| Beratung, Rezept, leichter Infekt | Hausarzt oder Telemedizin | Copay oder Coinsurance laut Leistungsübersicht |
 
-Die Preise veröffentlicht der Health Care Cost Institute. Sie sind nicht dein Eigenanteil. Ohne Versicherung fehlt der Deckel des Out-of-Pocket-Maximum. Dann helfen Preisverhandlung, Zahlungsplan und Kostenübernahme.
-> **Achtung:** Der Krankenwagen ist die Lücke im System. Der No Surprises Act schützt bei Boden-Rettungswagen nicht: 2018 enthielten 51 % der Notfallfahrten in Großarbeitgeberplänen einen Out-of-Network-Anteil. Verbraucherportale nennen eine eigene Spanne je Fahrt plus Meilenzuschlag. Dieses Kapitel druckt sie nicht. Über 20 Staaten haben eigene Schutzgesetze (Stand Februar 2026), die nicht für alle Arbeitgeberpläne gelten. Bei Lebensgefahr wählst du trotzdem 911; die Rechnung lässt sich später prüfen und verhandeln.
+Die tatsächliche Rechnung und dein Eigenanteil hängen von Behandlung, Klinik, Netzwerk und Versicherungsplan ab. Frage den Versicherer nach dem geschätzten Eigenanteil, wenn die Behandlung planbar ist. Ohne Versicherung gibt es keine planmäßige Jahreshöchstgrenze; erkundige dich bei der Klinik nach Selbstzahlerpreisen, Zahlungsplan und möglicher Kostenhilfe.
+
+### Notfall: 911 und die ersten Minuten
+
+Bei einem Notfall: Bring dich an einen sicheren Ort und ruf 911. Nenne Adresse und Rückrufnummer, beschreibe knapp, was passiert ist, und bleib in der Leitung. Fahre eine instabile Person nicht selbst. Bei weniger dringenden Fragen kann die Nurse Line deiner Versicherung helfen.
+
+> **Achtung:** Der Krankenwagen ist die Lücke im System. Der No Surprises Act schützt bei Boden-Rettungswagen nicht: 2018 enthielten 51 % der Notfallfahrten in Großarbeitgeberplänen einen Out-of-Network-Anteil. Die Kosten unterscheiden sich stark nach Anbieter, Entfernung und Region; frage bei einer nicht akuten Fahrt vorab nach dem Preis. Über 20 Staaten haben eigene Schutzgesetze (Stand Februar 2026), die nicht für alle Arbeitgeberpläne gelten. Bei Lebensgefahr wählst du trotzdem 911; die Rechnung lässt sich später prüfen und verhandeln.
 
 ### Rezepte und Apotheken
 
-Medikamente kaufst du in der *Pharmacy* (Apotheke), die oft in Drogerie- und Supermarktketten steckt. Ein deutsches Rezept löst sie nicht ein; du brauchst eine Verschreibung eines in den USA zugelassenen Arztes (Vorrat und Arztbrief: Kapitel 18). Wirkstoffnamen helfen: Paracetamol heißt in den USA *Acetaminophen*. Frei verkäufliche Mittel (*Over-the-Counter*, OTC) gibt es in großer Auswahl.
+Medikamente kaufst du in der *Pharmacy* (Apotheke), die oft in Drogerie- und Supermarktketten steckt. Ein deutsches Rezept löst sie nicht ein; du brauchst eine Verschreibung eines in den USA zugelassenen Arztes (Vorrat und Arztbrief: Kapitel 18). Frei verkäufliche Mittel (*Over-the-Counter*, OTC) gibt es in großer Auswahl.
 
-Pläne führen eine Arzneimittelliste (*Formulary*) mit Preisstufen. Die Zuzahlung je Stufe nennt die KFF-Umfrage und dein Plan. Dieses Kapitel druckt sie nicht. Generika sind wirkstoffgleich und billiger. Wie stark der Preis fällt, beschreibt die FDA, nicht eine feste Zahl hier.
+Pläne führen eine Arzneimittelliste (*Formulary*) mit Preisstufen. Prüfe vor dem Abschluss, ob deine Medikamente aufgeführt sind und welcher Copay oder Coinsurance-Satz gilt. Generika enthalten denselben Wirkstoff wie entsprechende Markenpräparate und sind häufig günstiger; vergleiche den Planpreis mit dem Barpreis in der Apotheke.
 
 > **Spartipp:** Rabattkarten und Apps wie GoodRx zeigen Barpreise je Apotheke. Bei billigen Generika liegt der Barpreis oft unter dem Copay. Nachteil: Der Kauf läuft außerhalb der Versicherung und zählt meist nicht auf Deductible und Out-of-Pocket-Maximum. Vergleiche beides vor dem Bezahlen und frage nach 90-Tage-Packungen oder Versandapotheke (*Mail Order*).
 
+### Schmerzmittel: Wirkstoffnamen, Nutzen und Grenzen
+
+Paracetamol heißt in den USA *acetaminophen* (oft APAP). Es lindert Schmerzen und Fieber, aber keine Entzündung; eine Überdosierung kann die Leber schwer schädigen. Viele Erkältungs- und Kombinationsmittel enthalten es ebenfalls: Addiere die Wirkstoffe, statt nur Markennamen zu vergleichen. Ibuprofen, Aspirin und Naproxen sind entzündungshemmende Schmerzmittel (NSAIDs); sie können Magenblutungen und Nierenprobleme begünstigen, besonders bei Flüssigkeitsmangel. Beginne niedrig dosiertes Aspirin zur Herzvorsorge nicht auf eigene Faust. Kindern und Jugendlichen mit Virusinfekt sollte Aspirin nur nach ärztlicher Anweisung gegeben werden. Lies die *Drug Facts* und frage bei Schwangerschaft, Blutverdünnern, Geschwüren sowie Leber- oder Nierenerkrankungen Arzt oder Apotheke.
+
 ### Zahn und Augen: getrennte Welten
 
-Zahn- und Augenleistungen für Erwachsene sind in der Krankenversicherung meist nicht enthalten. Dafür gibt es eigene Pläne (*Dental* und *Vision*), oft über den Arbeitgeber gegen einen kleinen Zusatzbeitrag. Dental-Pläne haben eine Jahreshöchstleistung (*Annual Maximum*). Darüber zahlst du selbst. Die Höhe nennt der Plan. Kontrolle und Reinigung werden häufig voll erstattet, Füllungen und Kronen zu einem geringeren Anteil. Bei Einzelverträgen gelten für größere Leistungen oft sechs bis zwölf Monate Wartefrist. Kieferorthopädie hat oft ein Lebenszeit-Maximum. Den Betrag nennt der Plan.
+Zahn- und Augenleistungen für Erwachsene sind in der Krankenversicherung meist nicht enthalten. Dafür gibt es eigene Pläne (*Dental* und *Vision*), oft über den Arbeitgeber gegen einen kleinen Zusatzbeitrag. Dental-Pläne haben eine Jahreshöchstleistung (*Annual Maximum*); darüber zahlst du selbst. Kontrollen und Zahnreinigungen werden häufig voll erstattet, Füllungen und Kronen zu einem geringeren Anteil. Bei Einzelverträgen gilt für größere Leistungen oft eine Wartefrist von sechs bis zwölf Monaten; Kieferorthopädie hat häufig eine lebenslange Leistungsgrenze. Prüfe diese Grenzen vor Vertragsabschluss.
 
-Ohne Versicherung schwanken die Preise regional stark. Eine Preisliste für Kontrolle, Füllung, Krone, Augenuntersuchung und Brille druckt dieses Kapitel nicht. Die Praxis und der Optiker nennen den Betrag. Frag nach einem Selbstzahler-Nachlass. Aufwendige Zahnbehandlungen und die Brille erledigst du besser noch in Deutschland (Kapitel 18).
+Ohne Versicherung schwanken die Preise regional stark. Bitte Praxis oder Optiker vorab um einen Kostenvoranschlag und frage nach einem Selbstzahler-Nachlass. Aufwendige Zahnbehandlungen und die Brille erledigst du besser noch in Deutschland (Kapitel 18).
 
 ### Kinder, Impfungen und Vorsorge
 
-Kinder meldest du über den Familientarif an. Vorsorgetermine beim Kinderarzt (*Well-Child Visits*) und empfohlene Impfungen sind im Netzwerk meist ohne Zuzahlung. Suche den *Pediatrician* früh und bringe Impfpass, Vorsorgeheft und Befunde in englischer Übersetzung mit (Kapitel 19). Ein Neugeborenes meldest du im Arbeitgeberplan binnen 30 Tagen an, die Deckung gilt rückwirkend ab Geburt; beim Marktplatz gelten 60 Tage. Was eine Geburt im Arbeitgeberplan kostet und welcher Eigenanteil bleibt, veröffentlicht Peterson-KFF. Dieses Kapitel druckt die Beträge nicht. Schwangerschaft, Geburt und Elternzeit behandelt Kapitel 38. Überbrückungspläne schließen sie oft aus.
+Kinder meldest du über den Familientarif an. Vorsorgetermine beim Kinderarzt (*Well-Child Visits*) und empfohlene Impfungen sind im Netzwerk meist ohne Zuzahlung. Suche den *Pediatrician* früh und bringe Impfpass, Vorsorgeheft und Befunde in englischer Übersetzung mit (Kapitel 19). Ein Neugeborenes meldest du im Arbeitgeberplan binnen 30 Tagen an, die Deckung gilt rückwirkend ab Geburt; beim Marktplatz gelten 60 Tage. Die Kosten einer Geburt hängen stark von Plan, Klinik und Verlauf ab. Prüfe bei Kinderwunsch vorab die Leistungen für Schwangerschaft und Geburt sowie Selbstbehalt und Out-of-Pocket Maximum deines Plans. Schwangerschaft, Geburt und Elternzeit behandelt Kapitel 38. Überbrückungspläne schließen sie oft aus.
 
 Die Schulimpfpflicht ist Landesrecht: Nach der KFF-Übersicht vom August 2026 verlangen alle 50 Staaten Nachweise für MMR (Masern, Mumps, Röteln), DTaP (Diphtherie, Tetanus, Keuchhusten), Polio und Windpocken, 49 auch Hepatitis B. Medizinische Ausnahmen gibt es überall, nicht-medizinische entfallen in Kalifornien, Connecticut, Maine, New York und West Virginia. Die Dosenzahlen weichen teils von den STIKO-Empfehlungen ab; lass Kinderarzt und Schule den Status abgleichen (Kapitel 36).
 
@@ -138,7 +148,7 @@ Zur Lage 2026: Der im Januar geänderte Kinder-Impfplan der Gesundheitsbehörde 
 
 ### Psychotherapie und Krisenhilfe
 
-Psychotherapie läuft über frei praktizierende Therapeuten, die nicht immer mit Versicherern abrechnen. Eine Sitzung ohne Versicherung hat einen Preis, den die Praxis nennt. Im Netzwerk zahlst du meist nur einen Copay. Der Zugang ist nicht überall leicht.
+Psychotherapie bieten niedergelassene Therapeuten an; nicht alle rechnen direkt mit Versicherern ab. Prüfe deshalb vor dem Termin, ob die Praxis in deinem Netzwerk ist und welchen Eigenanteil dein Plan vorsieht. Ohne Versicherung klärst du das Honorar direkt mit der Praxis. Der Zugang ist nicht überall leicht.
 
 Viele Arbeitgeber haben ein *Employee Assistance Program* (EAP) mit einigen kostenlosen Sitzungen; die Zahl steht im Programm. Telehealth ist verbreitet, der Therapeut ist meist im Bundesstaat des Patienten zugelassen. Deutschsprachige Therapeuten findest du über Psychology Today (Sprachfilter „German“) und FindTreatment.gov.
 
@@ -156,15 +166,15 @@ Nach einem Arztbesuch kommt zuerst die EOB, sie zeigt, was die Praxis berechnet 
 
 > **Achtung:** Ignoriere Rechnungen nie: Unbezahlte Beträge gehen an Inkasso. Eine Bundesregel, die Medical Debt aus Kreditberichten verbannt hätte, wurde am 11. Juli 2025 gerichtlich aufgehoben. Die drei großen Auskunfteien melden freiwillig keine bezahlten Forderungen und keine unter einer Schwelle, die sie selbst veröffentlichen. 15 Staaten haben eigene Gesetze. Zur Kreditwürdigkeit siehe Kapitel 25.
 
-Der *No Surprises Act* (seit 1. Januar 2022) verbietet überraschende Zusatzrechnungen (*Balance Billing*) in drei Fällen: bei Notfallbehandlung, auch außerhalb des Netzwerks; bei Ärzten außerhalb des Netzwerks in einem Netzwerk-Krankenhaus oder einer Netzwerk-Ambulanz; und bei Luftrettung — dann zahlst du nur den Netzwerk-Anteil. Bei planbaren Leistungen kann dir ein Anbieter ein Formular zum Verzicht auf den Schutz vorlegen; unterschreibe es nicht unter Zeitdruck. Als Selbstzahler hast du bei Terminen ab drei Werktagen Vorlauf Anspruch auf einen Kostenvoranschlag (*Good Faith Estimate*); Liegt die Rechnung deutlich über dem Kostenvoranschlag, kannst du ein Streitverfahren einleiten. Die Schwelle nennt CMS. Beschwerden: CMS-Hotline 1-800-985-3059.
+Der *No Surprises Act* (seit 1. Januar 2022) begrenzt überraschende Zusatzrechnungen (*Balance Billing*) bei Notfallbehandlung, bei bestimmten Leistungen durch Ärzte außerhalb des Netzwerks in einem Netzwerk-Krankenhaus oder einer Netzwerk-Ambulanz sowie bei Luftrettung. Dann zahlst du grundsätzlich den Netzwerk-Anteil. Bei planbaren Leistungen kann dir ein Anbieter ein Formular zum Verzicht auf den Schutz vorlegen; unterschreibe es nicht unter Zeitdruck. Als Selbstzahler hast du bei Terminen ab drei Werktagen Vorlauf Anspruch auf einen Kostenvoranschlag (*Good Faith Estimate*). Liegt die Rechnung mindestens 400 US-Dollar über dem Kostenvoranschlag desselben Anbieters, kannst du ein Streitverfahren einleiten. Beschwerden: CMS-Hotline 1-800-985-3059.
 
-> **Praxisbeispiel:** Familie Brandt (fiktiv). Im November bricht sich Lena (9) beim Schulsport das Handgelenk: Urgent Care, Röntgen, Schiene. Zwei Wochen später kommen zwei EOBs und zwei Rechnungen. Die berechneten Beträge und die vereinbarten Beträge stehen auf den Papieren, nicht in diesem Beispiel. Weil Lenas Selbstbehalt noch offen ist, zahlt die Familie die vereinbarten Beträge, nicht die höheren Ausgangsrechnungen. Markus gleicht EOBs und Rechnungen ab. (Fiktives Beispiel.)
+> **Praxisbeispiel:** Familie Brandt (fiktiv). Im November bricht sich Lena (9) beim Schulsport das Handgelenk: Urgent Care, Röntgen, Schiene. Zwei Wochen später kommen zwei EOBs und zwei Rechnungen. Markus vergleicht jede Rechnung mit der zugehörigen EOB und prüft, ob Netzwerkpreis und Selbstbehalt korrekt berücksichtigt wurden. Erst danach zahlt die Familie den bestätigten Eigenanteil. (Fiktives Beispiel.)
 
 ### Jobverlust: COBRA und Marktplatz
 
 Endet der Job, endet meist auch die Arbeitgeberdeckung, je nach Firma am letzten Arbeitstag oder zum Monatsende. Es bleiben drei Wege:
 
-- **COBRA:** Du führst den bisherigen Plan fort, bei Kündigung oder Stundenkürzung 18 Monate, bei Folgeereignissen wie Scheidung oder Tod des Versicherten bis zu 36 Monate. Das gilt bei Arbeitgebern ab 20 Beschäftigten. Du zahlst die volle Prämie, Arbeitgeber- und Arbeitnehmeranteil, plus den gesetzlichen Aufschlag. Den Betrag nennt der COBRA-Bescheid, nicht eine Durchschnittsrechnung in diesem Kapitel.
+- **COBRA:** Du führst den bisherigen Plan fort, bei Kündigung oder Stundenkürzung 18 Monate, bei Folgeereignissen wie Scheidung oder Tod des Versicherten bis zu 36 Monate. Das gilt bei Arbeitgebern ab 20 Beschäftigten. Du zahlst die volle Prämie, Arbeitgeber- und Arbeitnehmeranteil, plus den gesetzlichen Aufschlag. Der COBRA-Bescheid nennt den konkreten Beitrag; vergleiche ihn mit einem Marketplace-Plan und einem möglichen Partnerplan.
 - **Marktplatz:** Der Verlust der Arbeitgeberdeckung löst ein Sonderfenster aus (60 Tage vor bis 60 Tage nach dem Verlust). Ab 2027 für Visa-Inhaber ohne Zuschuss.
 - **Partnerplan:** Hat dein Partner einen eigenen Arbeitgeberplan, kannst du dort einsteigen; auch das ist ein Sonderfenster.
 
@@ -172,27 +182,33 @@ Endet der Job, endet meist auch die Arbeitgeberdeckung, je nach Firma am letzten
 
 Der Aufenthaltsstatus läuft nach einer Kündigung nur begrenzt weiter (Kapitel 30); die Versicherungsfristen und die Statusfristen sind zwei getrennte Uhren.
 
+### Versicherungslücke bei laufender Behandlung
+
+Läuft eine Krebsbehandlung oder steht eine planbare Operation an, wenn der Versicherungsschutz endet, ruf sofort Versicherer, Arbeitgeber und Klinikabrechnung an. Lass dir schriftlich bestätigen, wann der Schutz endete und welche Übergangsdeckung oder Widerspruchsfrist gilt. Nutze die unter **Jobverlust: COBRA und Marktplatz** beschriebenen Optionen. Frage die Onkologie nach einem Patient Navigator oder Sozialdienst und die Abrechnung nach *Financial Assistance* (*Charity Care*). Eine Notaufnahme muss medizinische Notfälle untersuchen und stabilisieren, übernimmt dadurch aber keine laufende Chemotherapie oder planbare Operation. Lass Dringlichkeit und sichere Überbrückung vom Behandlungsteam klären; bitte vor einer Selbstzahlung um einen schriftlichen Gesamtpreis einschließlich Einrichtung, Operateur, Anästhesie, Pathologie und Nachsorge.
+
 ### Marktplatz und Zuschüsse: der Stand für Visa-Inhaber
 
 Der Marktplatz (*Marketplace*, über healthcare.gov oder das Portal deines Staates) verkauft Pläne in vier Stufen: Bronze, Silber, Gold und Platin, die im Schnitt etwa 60, 70, 80 und 90 % der Kosten übernehmen. Kaufen dürfen auch rechtmäßig Anwesende (*Lawfully Present*), darunter Inhaber von Arbeits- und Studentenvisa. Die Einschreibung für 2027 läuft vom 1. November 2026 bis 15. Januar 2027; Deckung ab 1. Januar gibt es bei Wahl bis 15. Dezember, sonst ab 1. Februar.
 
-Der Bund bezuschusst Prämien (*Premium Tax Credit*) für Haushalte bis 400 % der Armutsgrenze. Die Dollargrenzen und die Entwicklung der Benchmark-Prämie veröffentlicht healthcare.gov für das Jahr. Dieses Kapitel druckt sie nicht.
+Die Anspruchsberechtigung für den Prämienzuschuss (*Premium Tax Credit*) hängt von Einkommen, Haushalt und Aufenthaltsstatus ab. Einkommensgrenzen und Benchmark-Prämien ändern sich jährlich; prüfe sie für dein Steuer- und Versicherungsjahr auf healthcare.gov.
 
-Zusätzlich gilt nach dem Gesetz „One Big Beautiful Bill Act“ (Juli 2025): Ab 1. Januar 2027 erhalten nur noch Green-Card-Inhaber und wenige andere Gruppen (kubanische und haitianische Einreisende, Bürger pazifischer Assoziierungsstaaten, COFA) Marktplatz-Zuschüsse. Inhaber von Arbeits- und Studentenvisa (H-1B, L-1, F-1, J-1 u. a.) verlieren sie, dürfen aber weiter zum Vollpreis kaufen. Überzahlte Vorschuss-Zuschüsse musst du ab dem Steuerjahr 2026 vollständig zurückzahlen.
+Zusätzlich gilt nach dem Gesetz „One Big Beautiful Bill Act“ (Juli 2025): Ab 1. Januar 2027 können rechtmäßig anwesende Einwanderer Marktplatz-Zuschüsse nur noch erhalten, wenn sie eine Green Card haben, den gesetzlich definierten Status „Cuban or Haitian entrant“ besitzen oder Staatsangehörige der Compact-of-Free-Association-Staaten (COFA; Marshallinseln, Mikronesien und Palau) sind. Inhaber von Arbeits- und Studentenvisa (H-1B, L-1, F-1, J-1 u. a.) dürfen weiterhin zum Vollpreis kaufen, erfüllen aber nicht allein mit diesen Visa die neue Zuschussregel. Überzahlte Vorschuss-Zuschüsse musst du ab dem Steuerjahr 2026 vollständig zurückzahlen.
 
 > **Achtung:** Baue ab 2027 nicht auf Marktplatz-Zuschüsse, wenn du keine Green Card hast. Mit einem Arbeitgeberplan bist du kaum betroffen: Zuschüsse gibt es ohnehin nur ohne „erschwingliches“ Angebot (2026: Eigenanteil über 9,96 % des Haushaltseinkommens). Betroffen sind mitreisende Partner ohne eigenen Job-Plan, F-1-Studierende, Selbständige und Menschen nach dem COBRA-Ende.
 
-Medicaid und CHIP (staatliche, einkommensabhängige Programme) sind ab 1. Oktober 2026 bundesfinanziert nur noch für Green-Card-Inhaber nach fünfjähriger Wartezeit und wenige andere Gruppen; Kinder und Schwangere sind in vielen Staaten über Sonderoptionen weiter abgedeckt. Für Arbeitsvisum-Familien spielt Medicaid wegen des Einkommens selten eine Rolle. Wer später eine Green Card beantragt, klärt den Bezug staatlicher Leistungen vorher mit dem Einwanderungsanwalt (Kapitel 11).
+Medicaid und CHIP (staatliche, einkommensabhängige Programme) sind ab 1. Oktober 2026 bundesfinanziert nur noch für Green-Card-Inhaber nach fünfjähriger Wartezeit und wenige andere Gruppen; Kinder und Schwangere sind in vielen Staaten über Sonderoptionen weiter abgedeckt. Ob dein Haushalt Anspruch hat, hängt von Aufenthaltsstatus, Einkommen, Bundesstaat und Programm ab. Prüfe die Regeln bei der zuständigen Landesstelle; wenn du später eine Green Card beantragen willst, kläre mögliche Folgen konkreter Leistungen vorab mit einer Einwanderungsberatung (Kapitel 11).
+
+**Wenn du vorübergehend unversichert bist:** HRSA-Gesundheitszentren (*Health Centers*) behandeln auch Menschen ohne Versicherung und staffeln die Gebühren nach Einkommen. Sie bieten vor allem hausärztliche und zahnmedizinische Grundversorgung; sie ersetzen keine umfassende Krankenversicherung und sind keine Garantie für kostenlose Behandlung. Suche ein Zentrum über die HRSA-Seite und frage vor dem Termin nach Kosten, Einkommensnachweis und verfügbaren Leistungen. Prüfe parallel, ob du über ein Sonderfenster in einen Marketplace-Plan wechseln kannst.
 
 ### Studierende: F-1 und J-1
 
-Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindestversicherung vor. Die Deckungssummen und den höchstzulässigen Selbstbehalt liest du in der Vorschrift. Dieses Kapitel druckt sie nicht. Für F-1-Studierende gibt es keine Bundespflicht, doch die meisten Hochschulen verlangen den Uni-Plan oder den Nachweis eines gleichwertigen Plans. Den Tarif nennt die Hochschule. Prüfe das Enddatum, bevor du abschließt (Kapitel 8).
+Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindestversicherung vor. Die Vorschrift setzt Mindestdeckungsbeträge für Krankheit, Unfall, medizinische Evakuierung und Rückführung sowie einen Höchstbetrag für den Selbstbehalt fest. Vergleiche das konkrete Angebot mit 22 CFR 62.14 und den Anforderungen deiner Hochschule oder deines Sponsors. Für F-1-Studierende gibt es keine Bundespflicht, doch die meisten Hochschulen verlangen den Uni-Plan oder den Nachweis eines gleichwertigen Plans. Den Tarif nennt die Hochschule. Prüfe das Enddatum, bevor du abschließt (Kapitel 8).
 
 ### Plus und Minus
 
 | Plus | Minus |
 |---|---|
-| Der Arbeitgeber trägt einen großen Teil der Prämie. Den Anteil nennt die KFF-Umfrage des Jahres | Deckung hängt am Job. COBRA verlangt die volle Prämie. Den Betrag nennt der Bescheid |
+| Der Arbeitgeber übernimmt oft einen Teil der Prämie; die Höhe variiert laut KFF-Umfrage | Deckung hängt am Job. Bei COBRA zahlst du die volle Prämie zuzüglich Verwaltungsaufschlag |
 | Das Out-of-Pocket-Maximum begrenzt das Jahresrisiko im Netzwerk | Lücke zwischen Ankunft und Deckungsbeginn von bis zu drei oder vier Monaten |
 | Vorsorge und empfohlene Impfungen meist ohne Zuzahlung | Selbstbehalt und Zuzahlungen kommen zur Prämie hinzu |
 | Urgent Care und Telemedizin decken Alltagsfälle ohne Notaufnahmepreis ab | Netzwerkgrenzen, Vorabgenehmigungen, mehrere Rechnungen |
@@ -215,12 +231,15 @@ Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindes
 ### Quellen und weiterführende Links
 
 - [healthcare.gov](https://healthcare.gov) — Marktplatz, Plantypen, Sonderfenster, Einwanderungsstatus
+- [healthcare.gov/immigrants/lawfully-present-immigrants](https://www.healthcare.gov/immigrants/lawfully-present-immigrants/) — Zuschussregeln für rechtmäßig anwesende Einwanderer ab 2027
 - [cms.gov/nosurprises/consumers](https://cms.gov/nosurprises/consumers) — No Surprises Act, Kostenvoranschlag, Beschwerdestelle
 - [dol.gov/agencies/ebsa](https://dol.gov/agencies/ebsa) — COBRA, Wartefristen, Newborns’ Act
 - [irs.gov/publications/p969](https://irs.gov/publications/p969) — HSA und HDHP, jährliche Grenzwerte
 - [kff.org/health-costs/2025-employer-health-benefits-survey](https://kff.org/health-costs/2025-employer-health-benefits-survey) — Prämien, Selbstbehalte, Wartefristen
 - [census.gov/library/publications/2026/demo/p60-291.html](https://census.gov/library/publications/2026/demo/p60-291.html) — Versichertenstatistik 2025
+- [cms.gov/medicare/enrollment-renewal/original-part-a-b](https://www.cms.gov/medicare/enrollment-renewal/original-part-a-b) — Aufenthalts- und Anspruchsvoraussetzungen für Medicare
 - [988lifeline.org](https://988lifeline.org) — Krisenhilfe rund um die Uhr
 - [findtreatment.gov](https://findtreatment.gov) — Therapeutensuche der Bundesbehörde SAMHSA
+- [hrsa.gov/get-health-care](https://www.hrsa.gov/get-health-care) — Gesundheitszentren mit einkommensabhängiger Gebührenstaffel und Suchfunktion
 
 > **Stand:** September 2026. Diese Angaben ändern sich schnell: Marktplatz-Zuschüsse und Statusprüfung ab 1. Januar 2027, Medicaid- und CHIP-Regeln ab 1. Oktober 2026, die endgültigen Prämien für 2027 (Herbst 2026), HSA- und Out-of-Pocket-Grenzwerte, Kurzzeitpläne sowie der CDC-Impfplan mit den laufenden Gerichtsverfahren. Kostenangaben sind Durchschnitte aus 2025 und 2026 (KFF, HCCI, Verbraucherportale); dein Plan kann stark abweichen. Prüfe vor jeder Entscheidung healthcare.gov und die Unterlagen deines Arbeitgebers.
