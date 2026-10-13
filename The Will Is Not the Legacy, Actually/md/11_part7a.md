@@ -4,9 +4,9 @@
 
 ## Chapter 26. Why Record at All
 
-For almost all of human history, the dead were silent. You could keep their letters, if they wrote any, and their photographs, once photographs existed. Their voices went with them. A grandchild born a year after you died would know your face from a picture and your personality from stories, filtered through whoever told them, which is roughly like knowing a symphony from a description of it by someone who once heard it on the radio.
+For most of human history, a family kept what it could: a letter, a photograph, a story told by someone who remembered. A voice was harder to keep. A grandchild born after your death might know your face from a picture and your personality from stories passed along by others, but not the pause before your joke or the way you said her name.
 
-That has changed, and almost nobody has noticed. The phone in your pocket is a better film studio than anything a television station owned forty years ago. The webcam on your laptop records in high definition. Storage costs almost nothing. Anyone, at any age and in any state of health, can now leave hours of themselves on record: talking, laughing, explaining, apologizing, telling the story about the goat for the forty-first time, but this time with the timing intact.
+Now an ordinary phone can preserve hours of voice and motion. A laptop webcam can record a clear message; a family member can help save it in more than one place. You can leave yourself on record talking, laughing, explaining, apologizing, telling the story about the goat for the forty-first time, with the timing intact.
 
 Most people do not, for three reasons. They feel silly talking to a lens. They do not know what to say. And they assume there will be time later. This part deals with all three.
 

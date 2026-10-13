@@ -75,7 +75,7 @@ She could also have written the whole will by hand, from "This is my will" to he
 
 ### Case 14: The witness who was also the heir
 
-*This case is told twice: once as it happened, and once as an uneventful afternoon that would have left nothing to argue about.*
+*The car and the gift stay the same. A different signing, and one honest conversation, spare the daughters the work of reconstructing their father's reasons in court.*
 
 **As it happened.** The father was a retired machinist in Long Beach, eighty, with two daughters and a red 1967 convertible that he had rebuilt over four years with his elder daughter's husband. It had won two prizes at local shows. It was, in his words, "the only thing I ever finished."
 
