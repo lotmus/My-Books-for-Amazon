@@ -269,7 +269,7 @@ P: 8. f = 1/(2π√(10⁻³ × 4.4 × 10⁻⁹)) = 75.9 kHz.
 H2: Chapter 27
 P: 1. 3.75 A per kV × 8 kV = 30 A.
 P: 2. V = L di/dt = 5 × 10⁻⁹ × 30/0.8 × 10⁻⁹ = 188 V.
-P: 3. I = 4000/2 = 2000 A.
+P: 3. The prospective short-circuit peak is I = 4000 V / 2 ohms = 2000 A. This is the generator current into a short at the stated line-to-line source impedance, not the current a protected product necessarily conducts during a surge.
 P: 4. Peak = 3 × (1 + 0.8) = 5.4 V/m.
 P: 5. ETSI EN 301 489.
 P: 6. The inductance of the trace between the connector and a distant clamp develops a large voltage at nanosecond edges, so the discharge reaches the circuit before the clamp can divert it.
