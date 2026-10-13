@@ -1,0 +1,59 @@
+H1: Chapter 8 — Ohm's Law and a First Look at Circuits
+P: Plug a bare LED straight into a 5 V USB supply and it may flash once, brilliantly, and never again. One resistor and one line of Ohm's law would have saved it. This chapter is where electronics stops being physics and starts being circuits.
+P: Where you meet this: Every LED indicator, pull-up resistors on buttons and data lines, sensor voltage dividers, and the power rating printed on every resistor.
+H2: 8.1 Ohm's Law
+P: Georg Ohm found, in 1827, that for a large class of materials (now called ohmic materials, or resistors when packaged as discrete components), the current through the material is directly proportional to the voltage across it, at a fixed temperature:
+EQ: V = IR
+P: This is not a law of nature in the way Coulomb's law or Gauss's law are — it is an empirical approximation that happens to hold extremely well for metals and for manufactured resistors under normal operating conditions, and it fails outright for many devices you will meet later in this series, including diodes and transistors, whose entire usefulness stems from their current-voltage relationship being deliberately non-Ohmic.
+FIG: fig8_1.png | Figure 8.1 — An ohmic device has a straight-line I-V curve; a non-ohmic device (such as a diode) does not. | Current-versus-voltage graph: the ohmic device is a straight line through the origin, while the diode curve bends nonlinearly.
+KEY: Ohm's law relates three quantities — memorize the triangle, not only the formula. V = IR, so also I = V/R and R = V/I. Given any two of voltage, current, and resistance, the third follows immediately. This single relationship, together with the two Kirchhoff laws developed in Part III of this book (Chapter 26), is sufficient to analyze any resistive DC circuit, no matter how complex.
+H2: 8.2 Power in a Resistor
+P: Electrical power is the rate at which electrical energy is delivered or dissipated:
+EQ: P = IV
+P: Combined with Ohm's law, this yields two equally useful alternate forms:
+EQ: P = I2R = V2/R
+P: For a resistor, this power is dissipated as heat — this is Joule heating, the same physical mechanism (electrons scattering off the lattice, from Chapter 7) that gives rise to resistance in the first place, now viewed from an energy-accounting perspective rather than a current-impeding one. Every resistor in a real circuit has a maximum power rating, beyond which the resulting heat will damage or destroy it; checking that a resistor's power rating exceeds its expected dissipation is a standard, mandatory step in circuit design that this series will return to repeatedly.
+H2: 8.3 A First Circuit: Series and Parallel Resistors
+P: Two resistors are in series if the same current must flow through both, one after the other, with no branch point between them. Their combined resistance adds:
+EQ: Rseries = R1 + R2 + …
+P: Two resistors are in parallel if both are connected across the same pair of nodes, so the same voltage appears across each while the total current splits between them. Their combined resistance follows from the reciprocal sum:
+EQ: 1/Rparallel = 1/R1 + 1/R2 + …
+P: A useful special case, worth having memorized, is two resistors in parallel:
+EQ: Rparallel = R1R2 / (R1 + R2)
+P: Series resistance is always larger than the largest individual resistor (more obstacles, end to end); parallel resistance is always smaller than the smallest individual resistor (more parallel paths for current to take, so less overall opposition). This behavior — and the systematic method for analyzing arbitrary networks that do not reduce to simple series/parallel combinations — is developed in full in Part III of this book, which builds directly on the definitions in this chapter.
+H2: 8.4 A First Look at Voltage Division
+P: One immediate, practical consequence of the series-resistor rule is worth introducing here, ahead of its full treatment in Part III of this book, because it appears so often in practice: two resistors in series across a voltage source V split that voltage between them in direct proportion to their resistances, since the same current I flows through both:
+EQ: V1 = V · R1 / (R1 + R2) ,   V2 = V · R2 / (R1 + R2)
+P: This voltage divider is one of the single most common sub-circuits in all of electronics, used to derive a smaller reference voltage from a larger supply, and it is worth internalizing this chapter's result now, since it will reappear as a building block almost immediately in Part III of this book (Chapter 27).
+WE: Worked Example 8.1
+PROB: A 12 V battery is connected across a single 6.0 Ω resistor. Find the current drawn and the power dissipated.
+SOL: I = V/R = 12/6.0 = 2.0 A. Power: P = IV = (2.0)(12) = 24 W (equivalently P = I²R = (2.0)²(6.0) = 24 W, a useful cross-check).
+WE: Worked Example 8.2
+PROB: A 10 Ω resistor and a 30 Ω resistor are connected in series across a 20 V source. Find the current through the circuit and the voltage across each resistor.
+SOL: Total series resistance: R = 10 + 30 = 40 Ω. Current: I = V/R = 20/40 = 0.50 A, the same through both resistors since they are in series. Voltage across the 10 Ω resistor: V₁ = IR₁ = (0.50)(10) = 5.0 V. Voltage across the 30 Ω resistor: V₂ = IR₂ = (0.50)(30) = 15 V. Check: 5.0 + 15 = 20 V, matching the source voltage exactly, as it must for a single series loop.
+FIG: fig8_2.png | Figure 8.2 — The resistor that saves the LED: it takes the 3 V the LED doesn’t need and sets the current at about 9 mA, plenty for an indicator. | Schematic: a 5.0 V source, positive terminal at the top, feeds a 330 ohm resistor, labeled drops 3.0 V, and then a red LED pointing downward (anode at the top) with forward voltage about 2.0 V, returning to the negative terminal. An arrow marks current I flowing clockwise. Below: I equals 5.0 V minus 2.0 V, divided by 330 ohms, about 9 milliamps.
+MIS: A frequent error when first combining series and parallel resistors is to add parallel resistances directly, the way series resistances add — forgetting the reciprocal step entirely. Two equal 100 Ω resistors in parallel do not combine to 200 Ω; they combine to 50 Ω, half of either individual value, since two identical parallel paths each carry half the total current at the same voltage, doubling the effective conductance and therefore halving the effective resistance. If a “combined” parallel resistance ever comes out larger than the smallest resistor in the group, the reciprocal step has been dropped somewhere in the calculation.
+H2: 8.5 Light In and Light Out: The LED and the LDR
+P: Figure 8.2 showed the resistor that sets an LED's current. The same rule works from a microcontroller pin. From the ESP32-S3's 3.3 V output, a red LED with a forward voltage of about 2.0 V and a 220 Ω resistor gets (3.3 − 2.0)/220 ≈ 5.9 mA, bright enough for an indicator and gentle on the pin. A blue or white LED is harder: its forward voltage is about 3.0 V, so only 0.3 V is left for the resistor, and the current then depends on the exact forward voltage, which varies from part to part and with temperature. Designers feed such LEDs from 5 V through a transistor switch (Books 2 and 3), or accept a dim, uncertain glow. An RGB LED is three LEDs in one package, and each color needs its own resistor for the same reason.
+P: The light-dependent resistor (LDR) runs the other way: light in, resistance out. It is a small disc of cadmium sulfide whose resistance falls as light frees more charge carriers. A common part, the GL5528, reads roughly 8 to 20 kΩ at 10 lux (a dim room), at least 1 MΩ in darkness, and falls by a factor of about 10^0.7 ≈ 5 for every tenfold increase in light (its gamma of 0.7). A microcontroller cannot read resistance, only voltage, so the LDR goes into a voltage divider (Section 8.4).
+WE: Worked Example 8.3 — A Light Sensor for the Weather Station
+PROB: An LDR that reads 15 kΩ at 10 lux, with a gamma of 0.7, forms the top of a divider with a fixed 10 kΩ resistor to ground, powered from 3.3 V. Find the output voltage at 1, 10, and 100 lux, and in darkness (1 MΩ).
+SOL: First the resistance at each light level. A gamma of 0.7 means R falls by 10^0.7 ≈ 5.01 per decade of light: about 75 kΩ at 1 lux, 15 kΩ at 10 lux, and 3.0 kΩ at 100 lux. Then the divider, V_out = 3.3 × 10/(10 + R_LDR) with R in kilohms: 1 lux gives 3.3 × 10/85 ≈ 0.39 V; 10 lux gives 3.3 × 10/25 = 1.32 V; 100 lux gives 3.3 × 10/13 ≈ 2.54 V; darkness gives 3.3 × 10/1010 ≈ 0.03 V. The output rises with light and covers most of the 3.3 V range across the dim-to-bright span, because the fixed resistor sits near the middle of the LDR's resistance range (on a logarithmic scale). Check the self-heating at 100 lux: I = 3.3/13 kΩ ≈ 0.25 mA, and P = I²R ≈ 0.19 mW, negligible against the part's 100 mW rating.
+FIG: fig8_3.png | Figure 8.3 — An LDR in a divider turns light into a voltage. With a 10 kΩ fixed resistor, the output climbs from about 0.4 V at 1 lux to 2.5 V at 100 lux, the range from a dim hallway to a bright desk. | Left: schematic of a divider from 3.3 V: the LDR on top, the output node in the middle, a 10 kilohm resistor to ground. Right: graph of output voltage against illuminance on a logarithmic axis from 0.3 to 1000 lux. The S-shaped curve rises from near 0.2 volts to near 3 volts, with marked points at 1 lux (0.39 V), 10 lux (1.32 V) and 100 lux (2.54 V).
+P: An LDR is slow (tens of milliseconds), varies a lot from part to part, and its cadmium is restricted under the EU's RoHS rules for many products. For a measurement in lux, a digital light sensor or a photodiode is the professional choice. For a night light, a display-brightness control, or a first experiment, the LDR and one resistor are hard to beat.
+BENCH: Derate resistors. A 0.25 W resistor dissipating 0.25 W runs hot enough to discolor the board; a common rule is to keep dissipation at or below half the rating. And design with values you can actually buy: 300 Ω isn't in the common E12 series, so you choose 330 Ω and recheck the current.
+H3: Practice Problems
+LI: A 9.0 V battery drives a current of 0.30 A through a resistor. Find the resistor's value and the power it dissipates.
+LI: Two resistors, 4.0 Ω and 12 Ω, are connected in parallel. Find the equivalent resistance.
+LI: A resistor rated for a maximum power of 0.25 W is to be used with a 5.0 V source. What is the minimum resistance that keeps it within its rating?
+LI: A voltage divider is built from a 2.0 kΩ resistor and an 8.0 kΩ resistor in series across a 10 V supply. Find the voltage across the 8.0 kΩ resistor.
+LI: A light-dependent resistor reads 30 kΩ in a dim hallway and 3.0 kΩ under a desk lamp. It forms the top of a divider with a fixed 10 kΩ resistor to ground, powered from 3.3 V. Find the output voltage in both cases, and the power in the LDR under the lamp.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: V = IR and P = VI = I²R = V²/R, many times a day.
+LI: Series resistances add; for two in parallel, product over sum.
+LI: The voltage divider for references and sensor readout.
+LI: A series resistor for any LED from 3.3 V or 5 V, and an LDR divider for light level.
+P: Mostly for exams and deeper study
+LI: The distinction between ohmic and non-ohmic materials, stated formally.
+LI: The history of Ohm's measurements.

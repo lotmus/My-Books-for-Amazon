@@ -10,7 +10,7 @@ P: Solution. The coupled power at full output is 40 − 20 = 20 dBm, so a 20 dB 
 H2: 40.2 Directivity error
 P: A real coupler also passes a little of the reflected wave to its forward port, suppressed by the coupler's directivity D in addition to the coupling. If the antenna reflects with return loss RL, the leaked reflection adds to or subtracts from the forward sample depending on phase, so the measured power is uncertain by an amount set by RL + D. Good directivity and a good antenna match keep the error small; a mismatched antenna, as from a hand on a phone, can make it large.
 EQ: error = 20 log₁₀(1 ± 10^(−(RL + D)/20)) dB
-FIG: fig40_1.png | Figure 40.1 — How coupler directivity limits a power reading. With return loss plus directivity of 35 dB the error is within +0.15/−0.16 dB; at 26 dB it widens to +0.42/−0.45 dB.
+FIG: fig40_1.png | Figure 40.1 — How coupler directivity limits a power reading. With return loss plus directivity of 35 dB the error is within +0.15/−0.16 dB; at 26 dB it widens to +0.42/−0.45 dB. | Detector reading error in decibels against antenna return loss plus coupler directivity from 10 to 50 decibels. A blue upper bound and a red lower bound converge toward zero as the sum grows. Marked points at 26 decibels, plus 0.42 and minus 0.45, and at 35 decibels, plus 0.15 and minus 0.16.
 H2: Worked Example 40.2
 P: Problem. A coupler with 25 dB directivity is used with an antenna whose return loss is 10 dB. Find the measurement uncertainty.
 P: Solution. RL + D = 35 dB, so the leaked wave is 10^(−35/20) = 0.018 of the forward sample in voltage. The error lies between +0.15 dB and −0.16 dB, acceptable for most control loops. With the antenna at 6 dB return loss and 20 dB directivity, the bounds widen to +0.42 and −0.45 dB.
