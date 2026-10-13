@@ -15,3 +15,8 @@ Chapter 26.5 said conventional fluorescent OLED emitters waste the triplet popul
 ## Verification and limits
 
 Updated the authoritative Book 3 DOCX and regenerated the tagged mirror. All 64 mirror files match a fresh extraction byte-for-byte; the DOCX passes ZIP integrity and python-docx parsing. Rendered the current DOCX to a 204-page PDF and visually checked pages 104 (LED worked example) and 155-156 and 159 (Chapter 26 LED and display material); the edited prose is legible and its page break is clean. No numerical result changed. No Book 3 score increase is claimed; broader semiconductor-specialist peer review and device-specific validation remain outside this text edit. The Book 3 KPF built before this master edit is stale and needs regeneration before release.
+
+
+## Package freshness correction (13 October 2026)
+
+The preceding note that the Book 3 KPF was stale was accurate when written but is superseded. The current package embeds the exact master SHA-256 `44b7da0860e9efddf849baefccc29cb311b548186c0d3c0888b1edc05da975bc`; Previewer reports Supported/Success, zero errors and quality issues, and “No issues found.” This closes package freshness and automated conversion for the current DOCX, not full-device visual QA, semiconductor-specialist peer review, or device validation.
