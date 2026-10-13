@@ -26,7 +26,7 @@ P: 1. 4.17 kW and 2.04 kW; the difference is 2.13 kW.
 P: 2. 531.9 W in, 31.9 W wasted.
 P: 3. 0.98 × 0.96 × 0.91 = 85.6%.
 P: 4. 10 × (1/0.91 − 1) = 0.99 kW.
-P: 5. Waste falls from 52.6 kW to 30.9 kW, saving 21.7 kW, or 190 MWh per year.
+P: 5. For 1 MW of output, the 95% case draws 1000/0.95 = 1052.6 kW and wastes 52.6 kW. At 97%, input is 1000/0.97 = 1030.9 kW and waste is 30.9 kW, so the reduction is 21.7 kW. At continuous operation, 21.7 kW × 8760 h = 190,100 kWh, or about 190 MWh per year.
 P: 6. It converts at the lowest voltage and the highest current, so conduction losses, which scale with current squared, dominate, and the low output voltage leaves little room for the drops across switches and rectifiers.
 P: 7. 0.97 × 0.95 × 0.92 = 0.848.
 P: 8. 500 × (1/0.92 − 1) = 43.5 W; at 95 %, 26.3 W.

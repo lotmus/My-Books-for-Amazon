@@ -103,3 +103,5 @@ Book 1 follow-up (13 Oct 2026): removed a duplicated explanation in Chapter 13, 
 
 
 Book 6 prose/technical follow-up (13 Oct 2026): Chapter 9.7 no longer presents one airflow multiplier or cooling method as universal. It gives the conditions for comparing air- and liquid-cooling ratings and names system variables. The updated paragraph was inspected on rendered Book 6 page 60. This improves qualification and clarity; interim line-edit scores remain unchanged pending broader review.
+
+Book 6 answer-depth follow-up (13 Oct 2026): expanded Appendix B Chapter 1 Problem 5 to show both converter input/waste calculations, the 21.7 kW difference, and the annualization to about 190 MWh. This gives the reader a reproducible reasoning chain while retaining the answer key's concise format. Inspected the current rendered page 141; mirror extraction, master parsing, and current KPF checks pass. The broad answer-key review remains open; no line-editor score change.
