@@ -32,7 +32,7 @@ What farming lacked in individual health it made up in sheer output. A patch of 
 
 **From the minutes of the Society, on the question of farming:**
 
-*Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The motion was carried, narrowly, by the half of the quorum that was awake.*
+*Motion: that farming was a mistake. For: eleven pods. Against: nine. Abstaining: four, on the grounds that without farming there would be no fishing fleets, and the Society has never decided how it feels about fishing fleets. Human scholars divide the same way. The geographer Jared Diamond called agriculture “the worst mistake in the history of the human race” in a 1987 essay; most archaeologists consider the verdict too sweeping, since the same fields fed the cities, the writing, and the medicine that later chapters describe. The anthropologist James C. Scott presses a sharper version of the same complaint: that it was not the wheat but what grew up around the wheat, the taxman, the wall, and the ledger, that first made humans unfree in ways worth voting on. The motion was carried, narrowly, by the half of the quorum that was awake.*
 
 Villages could not be un-invented once the population had grown to fit them. There was no more room upstream to walk back to.
 

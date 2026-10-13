@@ -4,7 +4,7 @@ Start with one tablet. It is a square of baked clay about three inches across, m
 
 Until this point, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same evidence they would use on any other animal. With the Kushim tablet, the sources start talking back, and the first thing they say is how much barley is owed.
 
-Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently.
+Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time. Whether Egypt invented the idea on its own or picked it up from contact with Mesopotamian traders and then built an entirely different script around it is still argued; the two systems share a moment, not a form.
 
 Neither system started as literature. The earliest Sumerian tablets are receipts: so many sheep, so much grain, so much beer, owed to or by so-and-so.
 
