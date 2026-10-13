@@ -8,7 +8,7 @@ P: Four voltages define the boundaries a manufacturer guarantees for a given log
 H2: 2.2 Noise Margin
 P: The noise margin is the gap between what a gate is guaranteed to output and what the next gate down the line is guaranteed to still accept correctly, for each logic level separately:
 EQ: NMʜ = Vₒₕ(min) − Vᵢₕ(min)         NMʟ = Vᵢʟ(max) − Vₒʟ(max)
-P: Any noise, ringing, or voltage drop smaller than the relevant noise margin can be added to a signal anywhere along its path without ever risking a misread bit. This is the source of digital electronics' most valuable property: a signal can pass through dozens of gates, each one imperfect and each one adding a little noise, and come out the other end exactly as clean as it went in — because each gate does not pass along the noisy analog voltage it received, it reads a bit and regenerates a fresh, full-strength output level.
+P: Digital regeneration is the key advantage. A signal can pass through dozens of imperfect gates, each adding some noise, and still arrive as a clean logic level. Each gate reads the logic state and produces a fresh, full-strength output instead of passing along the noisy analog voltage.
 WE: Worked Example 2.1
 PROB: A logic family specifies Vₒₕ(min) = 2.4 V, Vᵢₕ(min) = 2.0 V, Vₒʟ(max) = 0.4 V, and Vᵢʟ(max) = 0.8 V. Find both noise margins.
 SOL: NMʜ = Vₒₕ(min) − Vᵢₕ(min) = 2.4 − 2.0 = 0.4 V. NMʟ = Vᵢʟ(max) − Vₒʟ(max) = 0.8 − 0.4 = 0.4 V. This circuit can tolerate up to 0.4 V of noise on either a high or a low signal without a single bit being misread — these are, in fact, the standard values for classic TTL logic.
