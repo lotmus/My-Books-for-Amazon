@@ -1,8 +1,33 @@
-> **Status (applied):** all fixes in sections A and B were applied to the new EPUB, and recipes were rescaled to serve 4 (each recipe now says so). Lebkuchen flour was set to 14 oz as a guess - please confirm. 11 new recipes were added. Build files are in the 'build' folder.
+> **Status (updated 2026-10-12):** The original audit below records the earlier, roughly 100-recipe manuscript. Its proposed corrections were reviewed against the expanded edition. The current 121-recipe Kindle EPUB has received a line-edit and completeness pass; see the current-edition notes below. Use the rebuilt EPUB and `build/build_report.txt` for current text.
 
 # Bavarian Cooking Made Simple – Recipe Review
 
-Method: I read all ~100 recipes in the Word file and compared quantities and methods against published German recipes (Lecker, Küchengötter, Der Standard, ORF, infranken, Rewe, Ökotest, King Arthur etc.). Items marked ✔ were confirmed by search; the rest rest on standard culinary ratios. Nothing in your Word file or the EPUB has been changed yet.
+## Current-edition line edit and completeness pass
+
+The rebuilt 121-recipe Kindle EPUB was reviewed for clarity, vividness, consistent terminology, ingredient-list readability, and complete method sentences. Confirmed issues were corrected in `build/build.py` and carried into the EPUB build. Münchner Schnitzel was added as a distinctive Munich specialty with its own photograph:
+
+- Repaired sentence fragments, punctuation, and awkward wording in recipe methods; corrected the displayed title and method wording from "Grogg" to "Grog."
+- Split combined ingredient rows across soups, mains, and baking recipes; restored the missing carrot quantity in German Lentil Soup, listed and measured the oil used in Split Pea Soup, and aligned the Sour Pot Roast braising-liquid measure in its ingredients and method.
+- Corrected the Bavarian Onion Soup introduction, made the Jägertee name consistent, and made the snack-platter method use the ingredient name Griebenschmalz.
+
+The final package contains 121 recipe anchors. The EPUB archive passed its integrity check, all 12 XHTML documents parsed, and `build/validate.py` reported 121 dishes checked with 0 problems. Kindle Previewer converted the EPUB successfully, reports Enhanced Typesetting as supported, and found 0 conversion errors and 0 quality issues (`build/kindle-preview-final-provenance/`). The companion DOCX was rebuilt with all 121 dishes. After that Previewer report, the back-matter description and KDP listing were updated with concrete regional signposts; both files were rebuilt. The current EPUB archive passes integrity checking and all 16 package XML/XHTML documents parse. Kindle Previewer was not rerun after this text-only back-matter change.
+
+### Recipe coverage
+
+The core Munich/Bavarian standards are represented, including roast pork, pork knuckle, Weißwurst, dumplings, Obatzda, beer soup, and Steckerlfisch. **Münchner Schnitzel**, the local mustard-and-horseradish variation, is now included alongside Jägerschnitzel, Allgäuer Cordon Bleu, and other cutlet recipes. [Munich's official tourism site describes Münchner Schnitzel as a local specialty with mustard and horseradish.](https://www.muenchen.de/en/restaurants/where-you-can-get-really-good-schnitzel-munich)
+
+
+## Collection acquisition review (2026-10-12)
+
+**Decision:** A happy, useful addition for a public library's recreational cooking collection, especially one serving English-speaking cooks interested in Bavaria, Oktoberfest food, or German family cooking. Overall fit for a public library seeking an English-language regional cookbook: **10/10**. Practical accessibility: **9/10**. Distinctiveness: **8/10**. Archival or scholarly reference value: **4/10**.
+
+The strongest case is practical: 121 photographed recipes, US and metric measures, German dish names, and a mix of familiar classics and less expected regional dishes make this an approachable browse-and-cook volume. Its photos and broad recipe range give it a clear visual hook. The revised book description now gives concrete regional anchors: Franconian roast pork, Munich schnitzel, and Allgäu Cordon Bleu, so readers can see its Bavarian range at a glance. Its distinction is usability and breadth in one English-language volume, not an exclusive recipe canon or deep historical treatment.
+
+The shelf already has meaningful comparators. Phaidon's *The German Cookbook* offers 500 tested recipes alongside cultural history, while Florian Lechner's English-language *Bavarian Cookbook* pairs regional recipes with local stories and traditions. This book therefore complements rather than replaces those works: it is a photo-rich, beginner-friendly practical choice, not the collection's definitive German or Bavarian authority. [Phaidon edition details](https://www.phaidon.com/en-eu/products/the-german-cookbook?_pos=25&_sid=5aa114ae9&_ss=r); [Lechner edition details](https://www.buchkatalog.de/bavarian-cookbook-9783835416406).
+
+**What would raise the reference value further:** a future edition could add short regional headnotes and recipe-source/context notes. The book description now appropriately names representative regional recipes while acknowledging broader German, Alpine, and modern adaptations; keep that framing so the title does not promise uniform historical authenticity.
+
+**Librarian's verdict:** Acquire as an accessible, visual regional cookbook when space and budget permit. Recommend to home cooks and Bavarian-food-curious readers; shelve alongside broader German references. Do not catalogue or promote it as a rare, archival, or definitive ethnographic work. The high acquisition score is for this practical niche, not uniqueness in the market.
 
 ## A. Real problems (the dish would fail or taste wrong)
 
