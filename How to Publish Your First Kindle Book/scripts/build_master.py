@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Build the single master docx for Your First Book That Sells.
+"""Build a working DOCX from the Markdown chapter sources.
 
-Reads chapters/00_*.md ... 03_*.md in order and writes
-"Your First Book That Sells.docx" at the book root. Figures come from figures/.
+Reads chapters/00_*.md ... 04_*.md in order and writes
+"How to Publish Your First Kindle Book.docx" at the book root. Figures come from figures/.
 Docx only: this script never writes PDF or EPUB.
 """
 import re
@@ -17,9 +17,9 @@ from docx.shared import Inches, Pt, RGBColor
 ROOT = Path(__file__).resolve().parent.parent
 CHAPTERS = sorted((ROOT / "chapters").glob("0*.md"))
 FIGURES = ROOT / "figures"
-OUTPUT = ROOT / "Your First Book That Sells.docx"
-TITLE = "Your First Book That Sells"
-SUBTITLE = "How to Publish and Know What Every Sale Pays You on Kindle: Real Royalties, Honest Reviews, and a Catalog That Pays"
+OUTPUT = ROOT / "How to Publish Your First Kindle Book.docx"
+TITLE = "How to Publish Your First Kindle Book"
+SUBTITLE = "Request Honest Reviews and Build a Practical Plan for What Comes Next"
 AUTHOR = "Kevin Drew Peters"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
@@ -197,7 +197,7 @@ def main():
     doc.add_paragraph(SUBTITLE, "Subtitle").alignment = WD_ALIGN_PARAGRAPH.CENTER
     p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     r = p.add_run(AUTHOR); r.bold = True; r.font.size = Pt(16)
-    p = doc.add_paragraph("Updated 3 October 2026"); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p = doc.add_paragraph("Updated 10 October 2026"); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.add_run().add_break(WD_BREAK.PAGE)
     # skip title block lines in the md (up to the copyright line)
     i = next(k for k, l in enumerate(lines) if l.startswith("Copyright"))

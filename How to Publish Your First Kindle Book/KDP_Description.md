@@ -7,17 +7,21 @@ Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platfor
 ## Title fields
 
 - **Title:** How to Publish Your First Kindle Book
-- **Subtitle:** Request Honest Reviews, and Build a Practical Plan for What Comes Next
+- **Subtitle:** Request Honest Reviews and Build a Practical Plan for What Comes Next
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
 - **Edition:** Title updated 7 October 2026
 - **Master file:** `How to Publish Your First Kindle Book_REV41_2026-10-10.docx`
 
-The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. The line above matches the title page after the title change. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
+The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. Production check: the current REV41 title page still carries a longer subtitle ("How to Publish on Kindle, Request Honest Reviews, and Build a Practical Plan for What Comes Next") than this metadata field. The cover also carries the strapline "For first-time Kindle authors" instead of this subtitle. Align the cover and master DOCX before re-upload. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
 
 You finished the manuscript. The harder part is the file, the product page, an honest review request, and what to do after the book is live.
+
+The working method is deliberately small: write what one sale leaves, who the book is for, and the date you will judge one change.
+
+The guide is best suited to adults and older teens exploring independent publishing. Readers under 18 (or below the age of majority where they live) must use KDP with a parent or guardian involved.
 
 How to Publish Your First Kindle Book is for first-time and early independent authors who want to publish a Kindle ebook without wasting money or getting lost in platform jargon. Part I is the short road: one action per chapter, following one first-time author and her cozy mystery through a month of decisions, then seven things to do this week. The later parts are the reference: marketplace settings, formatting, covers, keywords, categories, pricing, a launch without an audience, a small ad test, KDP Select or going wide, taxes and reports, the first-review problem, and using AI without losing the book.
 
@@ -49,7 +53,7 @@ Title words to keep out of these boxes: how, publish, your, first, Kindle, book.
 6. advertising on a small budget
 7. formatting a manuscript for ereaders
 
-Keyword rules followed (KDP Help, “Make Your Book More Discoverable with Keywords,” checked 10 October 2026): no word from the title or subtitle (how, publish, your, first, Kindle, book, request, honest, reviews, build, practical, plan, comes, next); no word from the three categories below (reference, writing, research, publishing, guides, books, business, money, marketing, sales); no meaningful word used in two boxes; no “Kindle Unlimited”, “KDP Select”, Amazon, or other program or brand names; no other authors’ names, ranks, “bestseller”, quality or time-sensitive claims.
+Keyword rules followed (KDP Help, “Make Your Book More Discoverable with Keywords,” checked 10 October 2026): no word from the title or subtitle (how, publish, your, first, Kindle, book, request, honest, reviews, and, build, practical, plan, comes, next); no word from the three categories below (reference, writing, research, publishing, guides, books, business, money, marketing, sales); no meaningful word used in two boxes; no “Kindle Unlimited”, “KDP Select”, Amazon, or other program or brand names; no other authors’ names, ranks, “bestseller”, quality or time-sensitive claims.
 
 Changed 10 October 2026: box 1 (“self publishing for beginners”) and box 7 (“writing a second novel or guide”) repeated the category words Publishing and Writing. The same check also caught box 3 (“honest reviews” is in the subtitle), box 5 (“plan” is in the subtitle, and “ebook” was already in box 2) and box 6 (“book” is in the title), so those were replaced too.
 
