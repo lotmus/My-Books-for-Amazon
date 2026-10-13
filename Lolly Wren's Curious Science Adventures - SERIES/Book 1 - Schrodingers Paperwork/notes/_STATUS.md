@@ -68,4 +68,4 @@ All 19 lesson diagrams in the reviewed DOCX and Kindle EPUB are at most 800 x 44
 
 ## Kindle cover artwork update (13 Oct 2026)
 
-The EPUB cover metadata uses KINDLE_COVER_FINAL_1280.jpg (853 x 1280 px). The final back-cover page in the reviewed DOCX and Kindle EPUB uses KINDLE_BACK_COVER_1168.jpg (784 x 1168 px); its proportions are preserved. Both source JPGs are retained beside the master. All 19 interior diagrams remain at or below 800 x 440 px, and image alt text is intact.
+The EPUB cover metadata uses KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652 px). The final back-cover page in the reviewed DOCX and Kindle EPUB uses KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168 px); its proportions are preserved. Both source JPGs are retained beside the master. All 19 interior diagrams remain at or below 800 x 440 px, and image alt text is intact.
