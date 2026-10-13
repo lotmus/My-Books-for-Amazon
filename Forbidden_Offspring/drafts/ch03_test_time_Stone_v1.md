@@ -16,7 +16,7 @@ The boy, whom the Pruitts called Danny, turned up in the world the way anyone do
 
 None of this troubled the family. I would like to make that clear to anyone who comes looking for a victim. Connie told a neighbor, in a conversation I will not say how I learned of, that Danny "had ears like a bat and the manners of a bishop." Ray built him a small shelf for his rocks. When the boy corrected the cashier at the bakery supplier's Christmas party, quietly and accurately, about a mistaken total of $41.60, Ray told the story for a year. The odd moments were just that, odd, and they were absorbed the way a family absorbs a child who is simply himself. I did not interfere, and nothing needed interfering with.
 
-What troubled me was a different arithmetic.
+I should say that I have told this out of order. The memo that follows was written in the autumn of 2001, when Danny was not yet two, and everything I have just listed is what I learned over the years, not what moved me then. What troubled me then was a different arithmetic.
 
 One embryo is an anecdote. I had a child with one insert, in one family, in one county, and I had no way of knowing whether what I saw was what I had built, or a fluke of the ordinary. A man who cares about the answer needs more than one.
 

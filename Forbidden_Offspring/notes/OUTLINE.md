@@ -43,7 +43,7 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 
 ## Status (12 Oct 2026)
 - Working manuscript assembled: `manuscript/Forbidden_Offspring_working_v1.md` (about 15,700 words, roughly 52 pages at 300 words per page). Chapters 1 to 6 are expanded trial drafts (about 1,300 to 2,000 words each); chapters 7 to 20 are short first drafts of 230 to 520 words each, to be expanded later. Target remains 180 pages (about 55,000 words).
-- Expansion order: from the end to the beginning (settled 12 Oct 2026, 'writing order only', the book still reads forward). Expanded so far: ch 20, 19, 18 (files in `drafts/expanded/`). Next: ch 17, 16, ... down to ch 7, then ch 6 to 1 (which already exist as longer drafts).
+- Expansion order: from the end to the beginning (settled 12 Oct 2026, 'writing order only', the book still reads forward). Expanded so far: ch 7 to 20 (files in `drafts/expanded/`, about 2,000 words each). Chapters 1 to 6 are now expanded too (new scenes in `drafts/expanded/chNN_pre|mid|post|before.md`, merged by the build script). Current chapters run about 1,800 to 2,800 words, total about 46,000 words (about 155 pages); the 180-page target needs roughly 9,000 more.
 - Source drafts live in `drafts/`; the manuscript is rebuilt from them by a script, so edit the drafts and rebuild.
 
 ## Front and back matter (settled 12 Oct 2026)

@@ -6,7 +6,7 @@
 
 The tremor was a small thing, and I treated it as one. Small things, I have found, are the ones that kill you, because you are busy with the large ones.
 
-For two years it came and went. A cup rattled in its saucer. A signature wandered off the line. My neurologist, a tidy woman with an unfashionable fondness for the phrase "let's keep an eye on that," ordered scans, and the scans showed what scans show, which is that the brain is a soft machine with an unreliable power supply. In March of that year I had what she called a transient episode. For twenty minutes the left side of my face refused to take instructions, and the word for a pen deserted me. I sat in the car park of the clinic with my hands in my lap and said "pen" aloud, over and over, until it returned. It came back with a limp, as if it had been somewhere unpleasant.
+For two years it came and went. A cup rattled in its saucer. A signature wandered off the line. My neurologist, a tidy woman with an unfashionable fondness for the phrase "let's keep an eye on that," ordered scans, and the scans showed what scans show, which is that the brain is a soft machine with an unreliable power supply. In March of that year I had what she called a transient episode. For twenty minutes the left side of my face refused to take instructions, and the word for a pen deserted me. I sat in the parking lot of the clinic with my hands in my lap and said "pen" aloud, over and over, until it returned. It came back with a limp, as if it had been somewhere unpleasant.
 
 I told no one. I did not tell her, either. I said I had been tired.
 

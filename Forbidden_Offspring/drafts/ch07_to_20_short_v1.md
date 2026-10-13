@@ -170,7 +170,7 @@ The club, if it was a club, began that way. Not with a vow but with a promise to
 
 ---
 
-They moved in the spring of 2027, a Tuesday in April, to a flat in Munich with a balcony facing a courtyard. Mira had a position at a university phonetics institute (invented) and Jonas an engineering firm (invented) whose name I could never pronounce correctly, which Mira said was the correct pronunciation.
+They moved in the spring of 2027, a Tuesday in April, to an apartment in Munich with a balcony facing a courtyard. Mira had a position at a university phonetics institute (invented) and Jonas an engineering firm (invented) whose name I could never pronounce correctly, which Mira said was the correct pronunciation.
 
 I helped them carry boxes. The stairs were stone, and every footfall came back to me half a second later from an unexpected direction. I told Mira it was like living inside a cello. She said, "I know. I've never been so happy."
 
@@ -218,7 +218,7 @@ Julian took a Senate seat the following year, by appointment, in 2030, at thirty
 
 ---
 
-Their daughter was born in December 2027, in a hospital by the river. They named her Lena. By the time I came in the summer of 2030 she was almost three, and she was on the balcony floor in a red jumper, listening to the courtyard.
+Their daughter was born in December 2027, in a hospital by the river. They named her Lena. By the time I came in the summer of 2030 she was almost three, and she was on the balcony floor in a red sweater, listening to the courtyard.
 
 I stood in the door. Mira said, quietly, "Wait."
 
@@ -272,7 +272,7 @@ I went home and wrote on the first page of my own notebook: *No.*
 
 The genomes were out. I do not know when it happened. There is no date on it. It happened the way a rumor does, through a hundred people each taking a little, until it was a fact that belonged to everyone and to no one.
 
-The carriers had children. They had them in Stuttgart and Ohio and Recife, in flats and farmhouses, in the usual ways, with the usual accidents. Some of the children could hear a wall. Some could hear nothing special. Some had their father's nose, and no one had told them anything else. I heard about them from mothers on telephones, from the long list that Mira and Jonas kept in a shoebox, and I was careful to hear about them only as people.
+The carriers had children. They had them in Stuttgart and Ohio and Recife, in apartments and farmhouses, in the usual ways, with the usual accidents. Some of the children could hear a wall. Some could hear nothing special. Some had their father's nose, and no one had told them anything else. I heard about them from mothers on telephones, from the long list that Mira and Jonas kept in a shoebox, and I was careful to hear about them only as people.
 
 My own work moved to a laboratory in a university hospital. I had my degree by then, in medicine, from a school with a long corridor and a good coffee machine, and my first paper was about the early hours after a stroke, which nobody understood and everybody treated. I did it because of a man in a chair by a window. I told no one that. I said I was interested in the brain.
 
