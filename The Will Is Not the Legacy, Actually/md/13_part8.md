@@ -18,7 +18,20 @@ An ethical will, sometimes called a legacy letter, is a statement of values, sto
 
 - Giving away property. Put that in the will.
 - Orders. "I expect you to become a doctor" ages badly. "I hope you find work you care about as much as I cared about bridges" does not.
+- A test of loyalty. A child or grandchild may love you deeply and still choose a different career, faith, relationship, or way of living. Say what you hope for them without making your love depend on it.
 - Settling scores.
+
+### Faith, doubt, and what you hand on
+
+Your faith may be central to your life, may have changed over time, or may not be part of it. Describe what a belief or practice has meant to you, and leave room for the reader to decide what it means to them. A story can pass on a tradition without turning it into an order.
+
+**Faith remains central (fictional example):**
+
+> *I believe God held me through the quiet after your grandmother died. Prayer did not take away the grief; it gave the grief somewhere to go. If prayer is part of your life, I hope it brings you comfort. If it is not, I love you just as much.*
+
+**Beliefs changed (fictional example):**
+
+> *I taught you the prayers my parents taught me. Over time, my beliefs changed. I still treasure how those words gathered us at the table. Keep them if they help; leave them if they don't. You do not have to resolve the questions I could not.*
 
 ### A workable shape
 
@@ -75,7 +88,7 @@ The following is fictional and offered as a model of tone and length.
 >
 > *I don't want either of you to feel you have to keep the house. Sell it if it's a burden. Keep the bread knife, though. It was my father's.*
 >
-> *You may share this letter with your children when they are old enough. You may read it at my funeral if you want to, but you don't have to. The recordings in the "Dad" folder are for the family. Please don't put them on the internet. Delete the ones where I talk about the neighbours.*
+> *You may share this letter with your children when they are old enough. You may read it at my funeral if you want to, but you don't have to. The recordings in the "Dad" folder are for the family. Please don't put them on the internet. Delete the ones where I talk about the neighbors.*
 >
 > *I love you. Get up early, sometimes.*
 >
@@ -116,29 +129,45 @@ Not everyone will write two pages. A one-page version, built from the same shape
 >
 > *This is not my will; that is with the lawyer. This is the rest.*
 >
-> *I learned to swim at forty-four because you were five and wanted me in the water. I was terrified. You held my hand and told me to "just float." I have used that advice for thirty years, in hospitals and in arguments and on the night your father died.*
+> *I learned to swim at forty-four, when you were five. I was terrified. You held my hand and told me to "just float." I used that advice in hospitals, in arguments, and on the night your father died.*
 >
-> *I am sorry I was so hard on you about the university. I was afraid you would make my mistakes. You made your own, which is what I should have wanted.*
+> *I am sorry I was hard on you about university. I feared you would repeat my mistakes. You made your own, as you should have.*
 >
 > *Thank you for the Sunday phone calls, every one of them.*
 >
-> *You don't have to keep my china. Keep the photographs. Share this with whoever you like.*
+> *You needn't keep my china. Keep the photographs. Share this freely.*
 >
 > *Just float.*
 
-It is under a hundred and fifty words, and it has a scene, a belief that came from it, a specific apology, specific gratitude, a release, a permission, and a last line worth keeping.
 
 ## Chapter 34. Letters Beside the Will
 
 ### Explaining unequal gifts
 
-You are usually free to treat your children differently in California. (Germany's compulsory shares limit how far you can go, Chapter 8.) If you do, explain it, but not in the will itself, where an explanation can be twisted into evidence in a challenge. Use a separate letter, factual and kind.
+You are usually free to treat your children differently in California. (Germany's compulsory shares limit how far you can go, Chapter 8.) If you do, explain it, but not in the will itself, where an explanation can be twisted into evidence in a challenge. Use a separate letter, factual and kind. If it is safe and appropriate, consider telling the people affected while you are alive, so they can ask questions and you can listen. A letter delivered after death cannot answer back.
 
-> **Usable:** "I am leaving the house to my younger son because he has lived in it and maintained it since 2019, and because I helped my elder son with tuition and with the deposit on the flat in 2021, which together came to about the value of his brother's extra share. I love you both equally. The money is not a measure of that."
+> **Usable:** "I am leaving the house to your brother because he has lived in it and maintained it since 2019. I also considered the tuition and flat deposit I helped you with in 2021, but I know those are not simple amounts to compare with a house or with years of work. I understand you may feel hurt or see this differently. I am not asking you to agree, reassure me, or forgive me. I want you to know the reasons I considered, and that this decision is not a measure of your worth or of what you mean to me."
 
 > **Fuel:** "My elder son never appreciated anything I did, so his brother gets the house."
 
+The law can tell you which choices are allowed; it cannot tell you whether a choice is fair or wise. Unequal gifts are not automatically unjust, but pause before treating legal permission as the whole answer. Ask yourself:
+
+- What am I trying to provide for, recognize, or repair?
+- Am I trying to punish someone, compel reconciliation, or control what they believe or how they live?
+- Have I considered caregiving, disability, need, prior support, and what each person has contributed?
+- Have I listened to the people affected, or checked whether my assumptions about them are right?
+- Can I explain the decision without humiliating or blaming anyone?
+- If circumstances or relationships change, when will I review this plan?
+
+You do not have to make everyone agree. You can make a decision deliberately, explain it with care, and have a lawyer check that the documents carry it out as intended.
+
 Show the letter to your lawyer, so it does not contradict the will or create an argument that you were confused or pressured. If you also record a video (Chapter 31), keep the two consistent.
+
+### If you receive less
+
+An explanation may help you understand the decision, but it does not have to feel fair to you. You may feel hurt, angry, confused, or numb; you do not owe the person who made the plan agreement, forgiveness, reassurance, reconciliation, or a promise to share with a sibling. Take the time you need before responding. A letter is one person's account of a family history, not a verdict on your worth or proof that every comparison was fair.
+
+Before deciding what the difference means, get a complete picture: the will and any trust, assets that pass by beneficiary designation or joint ownership, lifetime gifts or support, debts, and expenses. These may change what each person actually receives. If you have questions about your rights or a deadline, speak privately with an estate lawyer in the relevant jurisdiction before signing a release, agreement, or other document. You may choose to ask the person about the decision while they are alive, if that feels safe and useful; you are not required to.
 
 ### Letters for an estranged person
 
@@ -162,11 +191,11 @@ What it does not do matters as much as what it does. It does not relitigate the 
 
 ### Timed messages
 
-Letters, like videos, can be labelled for a future moment: "for my grandson, high-school graduation," "for the business, if it is sold," "for whoever finds the box in the attic." Label by recipient and trigger, not by your mood. Tell your archive-keeper in writing where the letters are and when to deliver them. Allow for change: "If this moment never comes, give it to him at thirty, or use your judgment."
+Letters, like videos, can be labeled for a future moment: "for my grandson, high-school graduation," "for the business, if it is sold," "for whoever finds the box in the attic." Label by recipient and trigger, not by your mood. Tell your archive-keeper in writing where the letters are and when to deliver them. Allow for change: "If this moment never comes, give it to him at thirty, or use your judgment."
 
 ### Letters to people outside the family
 
-Former colleagues, students, the friend from university, the neighbour who shovelled your path: these letters are rarely written and, when received, are often kept for life. Write a few.
+Former colleagues, students, the friend from university, the neighbor who shovelled your path: these letters are rarely written and, when received, are often kept for life. Write a few.
 
 ## Chapter 35. From Voice Memos to a Short Memoir
 
@@ -208,7 +237,7 @@ Same voice. Fewer ums. Nothing invented.
 
 ### Step 6: Add photographs and captions
 
-A photograph with a caption beside each story transforms the memoir. Caption with names, places, and dates; unlabeled photographs become a puzzle within a generation.
+A photograph with a caption beside each story transforms the memoir. Identify people from left to right, their relationship or role, the place, the event, and the date (or best estimate). Say who supplied the photograph and who took it, if known. Mark uncertain identifications as uncertain; do not fill gaps by guessing. Keep any writing on the back or original envelope with the photo, and record who owns the original and whether you have permission to reproduce it. For scans, preserve an unedited master and make separate copies for correction or publication.
 
 ### Step 7: Produce it
 
@@ -230,10 +259,11 @@ A one-page note in the project's folder (physical or digital):
 - **Who should have it.** A named person, an institution, or "anyone who wants to finish it."
 - **What you want done.** Finish it; publish as is; give it away; destroy it.
 - **What a successor should ignore.** The tangents, the dead ends, the folder called "ideas 2019."
+- **Who may take over.** Name a willing first person and a backup, and ask them while you are alive. If neither wants the work, say whether it should be archived, offered to someone else, or stopped.
 
 ### Intellectual property
 
-Copyrights in your writing, music, photographs, code, and designs are property. They pass under your will or by statute like other property, and both in the United States (for works created since 1978, 17 U.S.C. § 302) and in Germany (UrhG § 64) they generally last for seventy years after the author's death. Name who receives them and who may decide on publication. If your work earns royalties, put the publisher or platform, account, and contact on the Family List. Domain names and websites need someone who can renew them; a lapsed domain can be bought by a stranger within days.
+Copyrights in your writing, music, photographs, code, and designs are property. They pass under your will or by statute like other property, and both in the United States (for works created since 1978, 17 U.S.C. § 302) and in Germany (UrhG § 64) they generally last for seventy years after the author's death. Name who receives them and who may decide on publication. For fiction, say whether the original should remain unchanged and whether anyone may edit, adapt, or continue it; name who decides. Put any co-author, license, or publisher agreement with the project records, and have a qualified professional review the plan where needed. If your work earns royalties, put the publisher or platform, account, and contact on the Family List. Record income and ongoing costs, and remember that gross royalties are not the same as money available to your family. Domain names and websites need someone who can renew them; a lapsed domain can be bought by a stranger within days.
 
 ### Businesses
 
@@ -241,7 +271,14 @@ A business with other owners is governed first by its partnership, shareholder, 
 
 ### Research and collections
 
-Universities, archives, local history societies, and museums sometimes accept collections and research notes. Ask while you are alive; an institution is far more likely to accept a well-organised collection from a living donor than a basement full of boxes from an executor.
+Universities, archives, local history societies, and museums sometimes accept collections and research notes. Ask while you are alive; an institution is far more likely to assess a described collection with its creator than an unidentified box left to an executor. Send a short description and sample inventory first, and ask what formats and records they accept. Before you sign, confirm in writing:
+
+- **What transfers:** ownership of the physical items or files, copyright, and any license to copy, preserve, or provide access are separate questions. State what you are transferring and what you retain; identify co-creators and third-party material.
+- **Who can use it:** ask what the public catalog will say, who may consult or copy the material, and whether each requested restriction or opening date is workable. Set an end or review date where possible; do not promise privacy for other people's information on their behalf.
+- **What happens next:** agree on the inventory and any basic context the repository needs, the formats for digital files, how files will be transferred, and whether the repository may rearrange, migrate, or dispose of material it cannot keep.
+- **What if the plan changes:** ask what happens if the repository cannot accept the collection, later cannot honor the agreement, or closes. Keep a signed copy and a family access copy where rights and consent allow.
+
+Include creator and date information, an item-level or folder-level inventory, consent and rights records, known gaps, and restrictions with the collection. A repository may decline it or be unable to accept every condition. Do not ship originals or delete your only copy until the receiving institution confirms acceptance and the written terms are clear. If no institution is a fit, a named family or community archive with a willing custodian is a valid plan; record who may use the material and how it should be cared for.
 
 ### Permission to stop
 

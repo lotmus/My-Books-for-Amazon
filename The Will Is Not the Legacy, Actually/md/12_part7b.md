@@ -54,9 +54,53 @@ A diary kept through illness, grief, or old age will reach weeks that are hard t
 - **Decide in advance what is private.** If some entries are for no one, put them in a separate folder and say in the index what should happen to it (Chapter 32).
 - **Let someone help.** A family member can set up the phone, ask a question, and leave the room.
 
-## Chapter 30. Organising, Storing, and Keeping It Alive
+## Chapter 30. Organizing, Storing, and Keeping It Alive
 
 A hundred recordings on a phone that nobody can open are not a legacy. They are a locked box. This chapter is about making sure the recordings outlive the device, the account, and you.
+
+### Leave useful knowledge, too
+
+A legacy can also include what you learned at work and through your hobbies. My how-to books, *How to Publish Your First Kindle Book* and *Your First YouTube Channel That Rocks*, are examples of turning practical experience into instructions other people can use. You might do the same with a trade skill, a family recipe, a craft, a way of solving problems, or lessons from a long career. A Kindle book or YouTube channel can carry that knowledge beyond the people you can teach in person.
+
+Fiction belongs here, too. A novel, a collection of stories, or a world you invented can give your family and other readers something to enjoy, remember, and pass along. You can leave instructions about whether your family may keep the work available, adapt it, or add to it; they do not have to continue it for the stories to be part of your legacy.
+
+Those works may continue to earn money for your children or grandchildren after you are gone. The income is never guaranteed, and platforms and audiences change. Make a record of where the work is published, who controls the accounts, and where the rights and source files are kept. Your family can preserve or update nonfiction, correct old advice, and add what they learn. For fiction, they can keep the original intact or continue it if that is what you wanted. In either case, the work can keep reaching readers and viewers in the next generation.
+
+For copyright, royalties, and naming who receives the rights, see Chapter 36.
+
+### A small plan for making work that lasts
+
+You do not need to start with a book or a channel. Start with one thing you know that would help someone else:
+
+1. **Choose a reader or viewer.** A grandchild learning to cook, a new apprentice, a neighbor starting a garden, or anyone facing a problem you know well.
+2. **Name the useful questions.** Write down five questions they might ask. Pick one to answer first.
+3. **Capture one lesson at a time.** Show the steps, name the tools or materials, explain what can go wrong, and tell how you learned it. Add dates and places where they matter.
+4. **Make a small finished version.** Combine a few lessons into a short guide, recipe collection, or video playlist. Decide whether it is for family, a community, or the public. Keep the original recordings and editable files. Add captions or transcripts, and print a copy if that will help your family use it.
+5. **Let someone try it.** Ask a relative or intended reader to follow it and tell you what was unclear. Correct it while you can. Set a review date for advice that may change, or say that the work is a record of what you knew at the time.
+
+**For example:** A grandmother who has sewn for decades wants to pass on what she knows. She asks a granddaughter to interview her about the three repairs people ask her to do most often. They film one repair at the kitchen table, name the tools, show a common mistake, and scan the grandmother's handwritten notes. The granddaughter tries the instructions and flags a missing step. They correct the transcript, save the video and editable files in a folder, print the instructions, and give a copy to a second relative. Later, the grandmother can add more repairs or stop with those three. The work is useful even if it is never published; if they do publish it, the creator handoff note records who owns it and what the family may do with it.
+
+The same process can begin with one family recipe or one skill from a job; it does not need a large audience to matter. If you hope it will earn income, keep a simple record of revenue and costs, including time, subscriptions, editing, and other help. Judge the work by what it teaches and preserves as well as by any money it earns; do not plan family finances around future sales.
+
+### Make it together
+
+Ask a child or grandchild to interview you, hold the camera, scan a photograph, or test a recipe or instruction. Let them ask what they are curious about, not only what you planned to say. You can work in short sessions and share the tasks: one person asks questions, another labels pictures, and you supply the memories and corrections. Ask before including other people's private stories or images. Invite more than one relative to learn the process, so the project does not depend on a single person. The shared afternoon is part of the legacy too.
+
+### Leave a creator handoff note
+
+Keep a short, current note with your Family List. Make one entry for each book, channel, or other work:
+
+- **Work and location:** title, publication platform, public link, and where the editable files and artwork are stored.
+- **Accounts and money:** account owner, where to find the secure account-recovery instructions, and where royalty or payment statements are kept. Do not put passwords in the note or in your will.
+- **Rights and help:** who owns the work, any co-author or license agreements, and the publisher, editor, or other contact who can answer questions.
+- **Creator steward:** the person you want to manage the work after you, if your legal arrangements give them authority to act. They may keep it available, update it, license it, continue it, or take it down. Name a backup, and ask both while you are alive.
+- **Your wishes:** whether your family may keep publishing it, update it, add to it, license it, or take it down. Note which advice may need checking before a new edition.
+- **If it is fiction:** where the authoritative original and unfinished drafts are; whether to preserve, edit, adapt, or continue them; who may make those choices; and whether there are characters, themes, or limits you want respected.
+- **If nobody continues it:** whether to leave it as it is, donate it, archive it privately, or stop paying to host it.
+
+The archive-keeper looks after recordings and letters; the creator steward handles published work. One person can fill both roles. Tell the creator steward and backup where this note is and how to use the account-recovery process. Review it when you publish something new or change platforms, and at least once a year. A handoff note records your wishes; make sure your will and any publishing or co-author agreements give the right person authority to act on them.
+
+Platform access has its own rules. Amazon KDP asks a representative of a deceased author who needs account access to provide a death certificate and court-issued evidence of authority or rights; once access is established, KDP can help close, merge, or transfer the account. A YouTube channel linked to a Brand Account can have multiple Google Account owners. If you want a family member to help manage a channel, consider adding them with the appropriate role while you are alive. Do not share passwords; check each service's current procedure before relying on it.
 
 ### Name every file
 
@@ -70,7 +114,9 @@ Rename each file when you copy it off the device, using a consistent pattern:
 
 The date first, in year-month-day order, so the files sort in time order on any computer. Then who, what, and for whom. Avoid special characters other than hyphens and spaces.
 
-### Organise in folders
+If you have files called `final_final2` and `final_revised`, you are in familiar company. Add a date and a plain description so your family does not have to solve the mystery.
+
+### Organize in folders
 
 A simple structure:
 
@@ -84,18 +130,18 @@ A simple structure:
 
 ### Keep an index
 
-A single document, `Recordings - index`, listing each file: date, title, who it is for, a one-line summary, and any instructions ("play at my grandson's wedding," "open on my granddaughter's 30th birthday," "private: granddaughter only"). This index is what your archive-keeper will use. Without it, they will have to watch everything to find anything, and many will stop after the first ten files because it is too painful.
+A single document, `Recordings - index`, listing each file: date, title, who made it, who is speaking, who it is for, language, place, a one-line summary, and any instructions ("play at my grandson's wedding," "open on my granddaughter's 30th birthday," "private: granddaughter only"). For local-history material, also note the street, building, event, or community discussed. Distinguish what the speaker remembers firsthand from what they heard from someone else; mark uncertain names or dates as uncertain rather than guessing. Link each recording to its transcript and permission record. This index is what your archive-keeper will use. Without it, they will have to watch everything to find anything, and many will stop after the first ten files because it is too painful.
 
 ### Choose formats that will still open
 
 File formats age. A recording made in an obscure format may not play in thirty years. To give your recordings the best chance:
 
 - **Video:** MP4 with standard video and audio settings is the most widely supported format today. Phones usually record in something compatible, but some use newer high-efficiency settings that older devices cannot play; if your phone offers a "most compatible" option, use it for recordings you intend to keep.
-- **Audio:** M4A, MP3, or WAV. WAV is uncompressed and large but extremely durable; MP3 plays almost anywhere.
+- **Audio:** Keep the original recording if you can. Uncompressed PCM WAV or lossless FLAC preserves full audio quality but takes more space; MP3 or AAC in M4A is smaller and widely playable. No format lasts by itself, so keep multiple copies and migrate them as devices and software change.
 - **Documents:** PDF for the index and transcripts, with a plain text copy as well.
-- **Photos:** JPEG for broad compatibility.
+- **Photos:** JPEG copies for broad compatibility. Keep the original camera files and, for scans, a high-quality unedited master; make separate copies for cropping, color correction, or sharing.
 
-Every few years, check that the files still open on a current device. If a format is becoming obsolete, convert copies.
+Every few years, check that the files still open on a current device. If a format is becoming obsolete, keep the original and convert a copy. Record what was converted, when, and with what software if known. For a collection meant to last decades, use a maintained tool to create SHA-256 checksums. Keep a dated manifest separately from the files it checks and in more than one backup. Compare checksums yearly and after copying; a match shows the file has not changed, not that it still opens or can be understood. If a checksum changes unexpectedly, compare copies before replacing anything. Test that you can restore files from the backups, not just that the drive connects.
 
 ### Back up: three copies, two kinds, one away
 
@@ -107,17 +153,17 @@ A common rule of thumb for anything precious:
 
 In practice, many people use: the original on the computer; a copy on an external drive kept at home; and a copy in a cloud storage account. Some also give a drive to a family member in another city.
 
-Cloud storage is convenient but depends on someone continuing to pay for it and being able to get into the account after your death. A drive in a drawer depends on someone knowing it is there and on the drive still working. Each covers the other's weaknesses. Drives fail with age; replace or recopy them every few years.
+Cloud storage is convenient but depends on someone continuing to pay for it and being able to get into the account after your death. A drive in a drawer depends on someone knowing it is there and on the drive still working. Each covers the other's weaknesses. Drives fail with age; replace or recopy them every few years, keeping the old copy until the new one has been checked.
 
 ### Keep it accessible after death
 
 This is where most video legacies fail. The recordings exist; nobody can get to them.
 
-1. **Name an archive-keeper.** One person who will hold the recordings, carry out your instructions, and share them as you wished. They may be your executor or someone else (Chapter 1, Day 1).
+1. **Name an archive-keeper and a backup.** Choose someone willing to hold the recordings, carry out your instructions, and share them as you wished. Ask the backup too; either may be your executor or someone else (Chapter 1, Day 1).
 2. **Tell them where everything is.** Write it on the Family List (Part Six, section 14).
 3. **Give them access.** Through the password manager's emergency access, a legacy-contact setting on the cloud service and the phone, or a drive they already hold. Chapter 24 explains how to pass on access without writing passwords in plain text.
-4. **Turn on legacy settings.** Several major phone, photo, and cloud services offer a legacy-contact or inactive-account setting, which lets a person you name download your data after your death. Check the services you use, turn the setting on, and tell the person you named. Under California's digital-assets law, a direction given through such a tool can override a contrary instruction in your will (Probate Code § 873), so make the tool and the will agree.
-5. **Keep the subscription paid.** Tell your executor that the cloud storage holding the recordings must not be cancelled until everything has been downloaded.
+4. **Turn on legacy settings.** Several major phone, photo, and cloud services offer a legacy-contact or inactive-account setting, which lets a person you name download your data after your death. Check the services you use, turn the setting on, and tell the people you named. Under California's digital-assets law, a direction given through such a tool can override a contrary instruction in your will (Probate Code § 873), so make the tool and the will agree.
+5. **Keep the subscription paid.** Tell your executor that the cloud storage holding the recordings must not be canceled until everything has been downloaded.
 6. **Give a copy now.** The simplest protection of all: give your archive-keeper a drive with a copy of everything, today, and update it once a year. They cannot be locked out of something they already have.
 
 ### The archive-keeper's first evening
@@ -143,10 +189,11 @@ For messages meant to be opened later ("for my grandson on his wedding day," "fo
 - Tell the archive-keeper, in writing, what the instructions are.
 - If you use a service that promises to release messages on a future date, keep a copy elsewhere as well. Companies close, change their terms, and are bought. A twenty-year promise from a five-year-old company deserves a backup.
 - Consider that the circumstances may change. A wedding message assumes a wedding. Add a line to the index: "If my grandson does not marry, give him this on his thirtieth birthday instead," or simply, "Use your judgment."
+- Tell the recipient that the message carries your love, not a test or a task. Say that they may watch when ready, keep it private, and choose their own life even if it differs from the one you imagined.
 
 ### Transcripts
 
-A transcript makes recordings searchable and gives deaf or hard-of-hearing relatives full access. Many phones and computers now offer automatic transcription. Check it for errors (it will mishear names) and save it as a PDF and plain text next to the recording, with the same file name.
+A transcript makes recordings searchable and gives deaf or hard-of-hearing relatives full access. Many phones and computers now offer automatic transcription. Check it for errors (it will mishear names) and save it as a PDF and plain text next to the recording, with the same file name. For multilingual recordings, keep the transcript in the language spoken and save any translation as a separate file. Label the translator, date, and language; do not overwrite the original transcript. If you lightly edit a transcript for readability, keep the unedited version too and label both clearly.
 
 ## Chapter 31. Why a Video Is Not a Will
 
@@ -164,7 +211,7 @@ German law allows a will in ordinary form only before a notary or entirely handw
 
 ### What happens to the video, then
 
-If you leave only a video, your estate passes as if you had no will, or under your last valid written will, whatever the video says (Case 24). Your family may agree to honour the video voluntarily, if every heir is an adult and willing. Often they will not, or not all of them will, and the ones who benefit from the statute have no legal obligation to give anything up.
+If you leave only a video, your estate passes as if you had no will, or under your last valid written will, whatever the video says (Case 24). Your family may agree to honor the video voluntarily, if every heir is an adult and willing. Often they will not, or not all of them will, and the ones who benefit from the statute have no legal obligation to give anything up.
 
 ### How video helps a valid will
 
@@ -188,16 +235,18 @@ Recording yourself is simple. Recording other people, and deciding who may see w
 
 If you film conversations with family members (an interview with your father, a dinner, a grandchild's questions), ask first. It is courteous, and it is often the law.
 
-- **California** makes it an offence to record a *confidential* communication without the consent of all parties (Penal Code § 632). A conversation at home with family can easily be confidential. Ask everyone, and record the "yes" at the start of the clip.
-- **Germany** makes it an offence to record another person's privately spoken words without authorisation (StGB § 201). Again: ask, and record the consent.
+- **California** makes it an offense to record a *confidential* communication without the consent of all parties (Penal Code § 632). A conversation at home with family can easily be confidential. Ask everyone, and record the "yes" at the start of the clip.
+- **Germany** makes it an offense to record another person's privately spoken words without authorization (StGB § 201). Again: ask, and record the consent.
 
 Publishing images is a separate question. In Germany, pictures of a person may generally be published only with their consent, and for ten years after the person's death the consent of their close relatives is needed (Art Copyright Act, *KunstUrhG* § 22), subject to exceptions. If your family archive includes other people, assume that sharing it beyond the family needs their agreement, or their relatives'.
+
+Record permission item by item. Ask separately about making the recording, keeping it in a private family archive, donating it to a repository, allowing researchers to consult it, posting it online, and quoting, translating, editing, or publishing excerpts. Note who agreed, when, for which uses, and any limits or embargo date. A person's agreement to appear does not by itself give you copyright in the recording or photograph, or permission to publish someone else's work. Check the rights and local privacy rules before public use. If the intended use changes, ask again where possible.
 
 For children, ask the parents, and think about the child as a future adult who may not want a clip of themselves at nine shared with anyone.
 
 ### Who may see your recordings
 
-Decide, and write it down. Appendix H is a permission sheet. The main choices:
+Decide, and write it down. Appendix H is a permission sheet. Distinguish keeping an item from allowing people to see it: a recording may be preserved privately even when it must not be played at a memorial or published. For an archive donation, agree access conditions with the repository before promising a restriction. The main choices:
 
 - **Family only.** Shared among named people; never posted publicly.
 - **Specific people only.** "The message for my granddaughter is for her alone."
@@ -212,7 +261,7 @@ The European General Data Protection Regulation does not apply to processing of 
 
 ### Privacy of the dead
 
-In Germany, the Federal Court of Justice held in 2018 that a social network account passes to the heirs like any other contract, and that the heirs can access its contents, including private messages (BGH, judgment of 12 July 2018, III ZR 183/17). In California, the digital-assets law requires a provider to disclose the content of a deceased user's electronic communications to the personal representative if the user consented or a court directs it (Probate Code § 876); otherwise the representative may get only a catalogue of messages without their content (§ 877). Either way, assume that whatever is in your accounts may be read by your heirs. If there is something you do not want read, delete it yourself, or give clear written instructions.
+In Germany, the Federal Court of Justice held in 2018 that a social network account passes to the heirs like any other contract, and that the heirs can access its contents, including private messages (BGH, judgment of 12 July 2018, III ZR 183/17). In California, the digital-assets law requires a provider to disclose the content of a deceased user's electronic communications to the personal representative if the user consented or a court directs it (Probate Code § 876). Otherwise, the representative may get only a catalog of messages, without their content (§ 877). Either way, assume that whatever is in your accounts may be read by your heirs. If there is something you do not want read, delete it yourself, or give clear written instructions.
 
 ### Protect the people who cannot answer
 
@@ -224,4 +273,4 @@ Recordings that include health information, family conflicts, or financial detai
 
 ### Deepfakes and impersonation
 
-Hours of clear recordings of your face and voice could, in principle, be used to imitate you. This is not a reason not to record; it is a reason to keep the archive private unless you choose otherwise, and to tell your family that any "new" message from you after your death is not from you. A family code word, known to a few people, is an old-fashioned and effective defence against impersonation of the living, too.
+Hours of clear recordings of your face and voice could, in principle, be used to imitate you. This is not a reason not to record; it is a reason to keep the archive private unless you choose otherwise, and to tell your family that any "new" message from you after your death is not from you. A family code word, known to a few people, is an old-fashioned and effective defense against impersonation of the living, too.

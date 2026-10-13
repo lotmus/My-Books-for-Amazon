@@ -49,9 +49,50 @@
    "find": "Zentrales Vorsorgeregister (vorsorgeregister.de)",
    "to": "[Zentrales Vorsorgeregister](https://www.vorsorgeregister.de/)"
   },
-  {
-   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
-   "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
-  }
- ]
+    {
+      "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+      "to": "In Love with Murder, Actually: A Derailed Mystery in Provence"
+    },
+    {
+      "find": "selfhelp.courts.ca.gov/pa/node/1432",
+      "to": "[court page](https://selfhelp.courts.ca.gov/pa/node/1432)"
+    },
+    {
+      "find": "service.justiz.de/erbausschlagung",
+      "to": "[official guidance](https://service.justiz.de/erbausschlagung)"
+    },
+    {
+      "find": "service.justiz.de/erbschein",
+      "to": "[official guidance](https://service.justiz.de/erbschein)"
+    },
+    {
+      "find": "[Funeral Industry Practices Rule](https://www.ftc.gov/legal-library/browse/rules/funeral-industry-practices-rule)",
+      "to": "[Funeral Industry Practices Rule](https://www.ftc.gov/legal-library/browse/rules/funeral-industry-practices-rule)"
+    },
+    {
+      "find": "[GOV.UK, Making a will](https://www.gov.uk/make-will)",
+      "to": "[GOV.UK, Making a will](https://www.gov.uk/make-will)"
+    },
+    {
+      "find": "[Office of the Public Guardian, lasting powers of attorney](https://www.gov.uk/power-of-attorney)",
+      "to": "[Office of the Public Guardian, lasting powers of attorney](https://www.gov.uk/power-of-attorney)"
+    },
+    {
+      "find": "[Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html)",
+      "to": "[Doing taxes for someone who died](https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html)"
+    },
+    {
+      "find": "[Who gets your super if you die](https://moneysmart.gov.au/how-super-works/who-gets-your-super-if-you-die)",
+      "to": "[Who gets your super if you die](https://moneysmart.gov.au/how-super-works/who-gets-your-super-if-you-die)"
+    },
+    {
+      "find": "[New Zealand Government, Wills, probate and estates](https://www.govt.nz/browse/family-and-whanau/death-and-bereavement/wills-probate-estates/)",
+      "to": "[New Zealand Government, Wills, probate and estates](https://www.govt.nz/browse/family-and-whanau/death-and-bereavement/wills-probate-estates/)"
+    },
+    {
+      "find": "[Ministry of Justice, Probate information and guidance](https://www.justice.govt.nz/courts/high-court/probate-information-and-guidance/)",
+      "to": "[Ministry of Justice, Probate information and guidance](https://www.justice.govt.nz/courts/high-court/probate-information-and-guidance/)"
+    }
+  ],
+  "allow": ["GOV.UK"]
 }
