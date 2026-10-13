@@ -197,7 +197,7 @@ def main():
     doc.add_paragraph(SUBTITLE, "Subtitle").alignment = WD_ALIGN_PARAGRAPH.CENTER
     p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     r = p.add_run(AUTHOR); r.bold = True; r.font.size = Pt(16)
-    p = doc.add_paragraph("Updated 10 October 2026"); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p = doc.add_paragraph("Updated 13 October 2026"); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.add_run().add_break(WD_BREAK.PAGE)
     # skip title block lines in the md (up to the copyright line)
     i = next(k for k, l in enumerate(lines) if l.startswith("Copyright"))

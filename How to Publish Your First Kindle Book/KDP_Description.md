@@ -2,7 +2,7 @@
 
 # KDP listing — How to Publish Your First Kindle Book
 
-Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platform facts in the manuscript were checked against KDP Help on 6 October 2026 (see the Notes in the book). Master: `How to Publish Your First Kindle Book_REV41_2026-10-10.docx` (REV41, 10 October 2026: remaining Oct 6 audit fixes, Sponsored Products glossary entry, source links named instead of visible URLs; REV40 is in the local bak folder).
+Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platform facts in the manuscript were checked against KDP Help on 6 October 2026 (see the Notes in the book). Master: `How to Publish Your First Kindle Book_REV42_2026-10-13.docx` (REV42, 13 October 2026: literary and copy edit, cover and title-page subtitle aligned with KDP metadata, label definitions clarified, schedule and bookmark fixes; REV41 is archived in `bak/`).
 
 ## Title fields
 
@@ -11,9 +11,9 @@ Updated 7 October 2026. Title changed from *Your First Book That Sells*. Platfor
 - **Author (cover, title page, KDP files):** Kevin Drew Peters
 - **Series:** none
 - **Edition:** Title updated 7 October 2026
-- **Master file:** `How to Publish Your First Kindle Book_REV41_2026-10-10.docx`
+- **Master file:** `How to Publish Your First Kindle Book_REV42_2026-10-13.docx`
 
-The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. Production check: the current REV41 title page still carries a longer subtitle ("How to Publish on Kindle, Request Honest Reviews, and Build a Practical Plan for What Comes Next") than this metadata field. The cover also carries the strapline "For first-time Kindle authors" instead of this subtitle. Align the cover and master DOCX before re-upload. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
+The earlier subtitle “How to Publish and Know What Every Sale Pays You…” repeated the new title and described a royalty-arithmetic book this manuscript is not. Production check: REV42 and the front cover now use this exact subtitle. The cover and metadata match. Avoid Amazon program names such as “Kindle Unlimited” and “KDP Select” in the subtitle, and check KDP’s Metadata Guidelines before changing it. Cover title, title page, and these fields must match.
 
 ## Description (paste into KDP; plain paragraphs, under 4,000 characters)
 
@@ -37,7 +37,7 @@ Inside you will learn how to:
 • Answer KDP’s AI-content question for what you actually created
 • Avoid vanity presses, bought reviews, and Select exclusivity mistakes
 
-Claims are labelled: a platform rule with a dated note, a worked example, field practice, a recommendation, or a question you can test yourself.
+Claims are labelled as platform rules, legal guidance, worked examples, recommendations, or tests you can run yourself.
 
 This book is not an advanced Amazon Ads manual, a writing-craft course, a store-by-store guide to going wide, or a system for publishing many books quickly. It promises no income. It gives you an ordered route and a way to check the file.
 
