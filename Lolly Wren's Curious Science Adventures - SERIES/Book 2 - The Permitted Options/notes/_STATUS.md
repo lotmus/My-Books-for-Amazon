@@ -44,3 +44,8 @@ Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. R
 ## Reader experience review (13 Oct 2026)
 
 Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target non-specialist SF reader: **10/10**. Book 2 now opens with a brief note that the novel stands on its own and the lectures are optional; its KDP copy says the same. Rebuilt Kindle EPUB validated.
+
+
+## Science-minded review (13 Oct 2026)
+
+Review: `../../notes/SCIENCE_REVIEW_20261013.md`. Scores: Book 1 **10/10**, Book 2 **10/10 after revisions**. The Book 2 back matter now qualifies Gödel's second theorem, distinguishes the procedural analogy from the theorem, and limits the Page-curve claim to theoretical calculations in controlled models. The reviewed DOCX and Kindle EPUB were updated together.
