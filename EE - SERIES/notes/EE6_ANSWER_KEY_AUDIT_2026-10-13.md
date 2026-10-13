@@ -131,3 +131,11 @@ Practice Problems 18.4 and 18.5 now show the ratio calculations behind the 0.05 
 ### Verification follow-up: Chapter 18 load-line and slew answers
 
 A fresh 162-page LibreOffice PDF was rendered; page 151 was inspected after replacing characters that the first render showed as question marks. The load-line and slew calculations are legible, and the answer-key number/body typography matches adjacent entries. Fresh extraction regenerated all 24 Book 6 mirror files, with only `src/back.txt` changed for this edit. DOCX ZIP integrity and parsing passed. Kindle Previewer 3.106.0 reports Supported/Success, zero errors, zero quality issues, and “No issues found.” The KPF embeds a byte-identical master DOCX (SHA-256 `ebe537d3a88d88a22072056be4ec7362c504c8730c5f22a5f0baae6e2ac06251`). This is selected-page evidence, not a full device proof or power-delivery design validation.
+
+## Chapter 22 wireless-transfer calculation answers (13 October 2026)
+
+Practice Problems 22.1–22.4 now show the figure-of-merit calculation and maximum-efficiency formula for both coupling examples, the resonant-frequency substitution with units, and the mutual-inductance calculation for k. The efficiency answers identify the result as an ideal matched coil-link limit, distinct from wall-to-battery performance. Master and tagged mirror were updated. This improves reproducibility for four bounded calculations; it does not establish a charger design or change the interim score.
+
+### Verification follow-up: Chapter 22 wireless-transfer answers
+
+Fresh extraction regenerated 24 Book 6 mirror files; only `src/back.txt` changed. DOCX ZIP integrity and python-docx parsing passed. LibreOffice rendered the updated manuscript to 162 pages; page 154 was inspected, and all four revised calculations are legible. Kindle Previewer 3.106.0 reports Supported/Success, zero errors, zero quality issues, and “No issues found.” The KPF embeds a byte-identical master DOCX (SHA-256 `a0596cef2b5a47caa19028c7e0354ffc5b78c73d43cef5156287ecf673ae790e`). These are calculation and selected-page checks, not a full Kindle-device review or charger-design validation.
