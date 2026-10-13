@@ -451,3 +451,15 @@ Package-status correction (13 Oct 2026): the earlier point-in-time entries sayin
 Book 8 KDP-description follow-up (13 Oct 2026): revised the opening buyer-facing paragraph to distinguish PC checks from target-board validation still required. The copy now aligns with the manuscript's stated example boundary and the open hardware gate. Description remains 2,324 characters including markup with balanced supported tags. No readiness score change; no board testing is claimed.
 
 Book 6 Chapter 17 answer-key follow-up (13 Oct 2026): Problem 3 now shows why the maximum-efficiency load occurs where the 2 kW core loss equals 18x² kW copper loss, yielding x = 0.333 under the chapter's stated loss model. The current DOCX/mirror extraction matches all 52 Book 6 files; rendered page 150 is legible. Refreshed Book 6 KPF embeds the exact master hash and reports Supported/Success with zero errors/issues; all nine current KPFs and quality reports were rechecked. This improves one answer's reproducibility but does not complete the full concise-key review or specialist audit. Scores remain unchanged.
+
+
+## Book 6 status update (13 October 2026)
+
+The latest Book 6 master corrects the Chapter 8 pulse-transformer droop model and answers using the PFN/source resistance in parallel with the primary-referred load. The 52-file mirror matches fresh extraction. The previously verified KPF predates this change and is stale until rebuilt; render and inspect the revised chapter and answer-key pages. Engineering validation of an actual pulse transformer remains outside this calculation.
+
+
+## Release-evidence update (13 October 2026)
+
+After the Chapter 8 transformer-droop correction, the regenerated 52-file Book 6 mirror matches a fresh extraction. Its final-master Kindle Previewer 3.106.0 conversion reports Supported/Success, zero errors and quality issues, and "No issues found"; embedded DOCX SHA-256 is df7ffee5ff5fcd57ef55adf4dddf58e2aaf4aa831026d9da1cd71241e3085cc5. A current-master verifier passed exact embedded-DOCX hashes and clean reports for Books 1-9. Selected Book 6 PDF pages 51, 54, and 145 were inspected. Full-device review and independent engineering validation remain open.
+
+The final PDF Appendix A formula summary was also checked on page 139; the effective-resistance definition wraps cleanly and remains readable.

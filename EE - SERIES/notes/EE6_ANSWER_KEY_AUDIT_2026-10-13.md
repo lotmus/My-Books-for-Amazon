@@ -100,3 +100,17 @@ The DOCX master passes ZIP integrity and python-docx parsing. Fresh extraction m
 ## Chapter 17 transformer-efficiency solution-depth follow-up (13 October 2026)
 
 Expanded Practice Problem 17.3 from the result `√(2/18) = 0.333` to show the rule used in §17.2: at maximum efficiency, rated-load copper loss times load fraction squared equals constant core loss (`18x² = 2`). The result is about 33% of rated load, with the constant-core-loss and I²R copper-loss assumptions stated. The DOCX and regenerated `src/back.txt` match fresh extraction across all 52 Book 6 files; DOCX ZIP integrity and python-docx parsing pass. The current 161-page PDF was checked on page 150 and the expanded answer remains legible. Fresh KPF master hash: `e047d501ae1da17c00eeffa40996778a495b528d7ade43ee7bf9cdda183f3198`; Previewer reports Supported/Success, zero errors and quality issues, and “No issues found.” All nine current-master KPF hashes and quality reports were rechecked. No score increase; this is one more localized correction, not a complete answer-key or specialist review.
+
+
+## Chapter 8 pulse-transformer droop model (13 October 2026)
+
+Section 8.4 and Worked Example 8.4 used the load resistance alone in the magnetizing-inductance droop estimate, although the pulse-forming network has finite output resistance. Replaced this with the flat-top equivalent-circuit relation D = 1 - exp[-tau (R_L' || R_PFN)/Lm], with the small-droop approximation identified separately. The worked example now states the matched 10-ohm source/load conditions and gives a 97.5 uH primary minimum (9.75 mH secondary); the small-droop estimates are 100 uH and 10 mH. Practice Problem 8.5 now specifies a matched 50-ohm PFN and load and its answer is 2.475 mH (about 2.5 mH). Added the primary equivalent-circuit source: Liu et al., ACES Journal 38(9), 734-740 (2023), doi:10.13052/2023.ACES.J.380914.
+
+The 52-file extracted mirror matches the master extraction byte-for-byte; DOCX ZIP integrity and python-docx parsing pass. The correction is an idealized flat-top model, not a transformer design validation; leakage, capacitance, switching, core flux/reset, and hardware waveforms remain separate checks. Current PDF/KPF refresh and visual review are pending. No score increase.
+
+
+Rendered a fresh 162-page PDF. Chapter 8 Section 8.4 and Worked Example 8.4 were inspected on page 51; the revised Problem 8.5 was inspected on page 54; the corrected answer was inspected on page 145. The equations, labels, assumptions, and answer are legible and fit without collision. A Kindle Previewer conversion of the final master is running; its package hash and quality report remain to be recorded.
+
+Kindle Previewer 3.106.0 completed the final-master Book 6 conversion: Supported/Success, zero errors, zero quality issues, and "No issues found." The embedded book.docx SHA-256 matches the master (df7ffee5ff5fcd57ef55adf4dddf58e2aaf4aa831026d9da1cd71241e3085cc5). The current-master check across all nine KPFs passes exact embedded-DOCX hashes and zero-error/zero-issue reports. The visual check remains a selected-page inspection, not a full-device review.
+
+The final PDF Appendix A formula summary was also checked on page 139; the effective-resistance definition wraps cleanly and remains readable.
