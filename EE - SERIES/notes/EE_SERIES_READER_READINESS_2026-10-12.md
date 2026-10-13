@@ -490,3 +490,5 @@ Book 7 Chapter 1 prose and package follow-up (13 Oct 2026): separated the roofli
 Book 1 Chapter 1 prose and package follow-up (13 Oct 2026): the charge-neutrality explanation and charged-balloon example now read as separate paragraphs. Selected page 9 was inspected; current-master KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. Independent physics review remains open.
 
 Book 3 front-matter signposting and package follow-up (13 Oct 2026): the Part II–IX scope guide is split into shorter blocks. Selected PDF page 2 was inspected; current-master KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. Independent semiconductor review remains open.
+
+Book 8 opening-roadmap and package follow-up (13 Oct 2026): the six-part guide is now grouped by work stage. Selected PDF page 2 was inspected, and current-master KPF verification reports Supported/Success, zero errors/quality issues, and an exact DOCX hash match. Existing external listing and hardware validations remain open.
