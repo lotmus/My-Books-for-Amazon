@@ -7,7 +7,7 @@ Power the MCP4728, ADS1115, and U1 from a regulated 5.0 V rail (4.75 to 5.25 V).
   U1 OUT -> Rlim1 = 120 ohm, 1 W -> Rlim2 = 120 ohm, 1 W -> Rs = 47 ohm, 1 W -> DUT collector; DUT emitter -> GND. MCP4728 VOUTB -> Rb = 100 kohm -> base. ADS1115 AIN0/AIN1 tap the high/low sides of Rs; AIN1-GND measures Vce and AIN2-GND measures Vbe. All analog grounds are common.
   With both 120 ohm resistors and the sense resistor at minimum tolerance, a 5.25 V stuck output is limited to 18.5 mA. If either limiter shorts, the other and sense resistor limit current to 31.8 mA. Normal maximum DAC command into a shorted DUT is limited to 14.4 mA. These passive bounds do not establish DUT pulse SOA or safe temperature. Check the selected DUT data sheet and validate the pulse waveform; MOSFET drain tests require a separate fixture.
 
-The simulator uses an ideal collector-drive voltage and omits U1 headroom/settling, analog errors, wiring, and device variation. Board execution is disabled by default. Validate the assembled circuit with a dummy load before enabling HARDWARE_MODE or connecting a DUT. Run on a PC:
+The CSV reports collector current from the sense resistor; `ib_est_A` is estimated from the commanded DAC B voltage and measured VBE using the nominal 100 kohm base resistor, not measured directly. The simulator uses an ideal collector-drive voltage and omits U1 headroom/settling, analog errors, wiring, and device variation. Board execution is disabled by default. Validate the assembled circuit with a dummy load before enabling HARDWARE_MODE or connecting a DUT. Run on a PC:
 python l38_1_mini_tracer.py
 """
 import math
@@ -90,7 +90,8 @@ class Tracer:
             finally:
                 self.hw.set_dac(0, 0.0)                                # then zero collector drive
         self.hw.sleep_ms(150)  # both outputs off
-        return vce, vrs / RS, (vb - vbe) / RB
+        ib_est = (vb - vbe) / RB  # estimated from DAC B setpoint and measured VBE; base current is not sensed
+        return vce, vrs / RS, ib_est
     def family(self, vb_steps, va_max=4.0, n=41):
         rows = []
         for vb in vb_steps:
@@ -118,16 +119,19 @@ if __name__ == '__main__':
             raise RuntimeError('Enable hardware only after circuit and bench validation.')
         from machine import I2C, Pin
         tr = Tracer(HwBackend(I2C(0, scl=Pin(5), sda=Pin(4), freq=400_000)))
+        mode = 'hardware data'
     else:
         tr = Tracer(SimBackend())
+        mode = 'synthetic simulation'
+    print('Data source: %s' % mode)
     rows = tr.family([1.65, 2.65, 3.65, 4.0])                          # Ib about 10, 20, 30, 33.5 uA
     with open('mini_tracer.csv', 'w') as f:
-        f.write('vb_set,vce,ic,ib\n')
+        f.write('vb_set_V,vce_V,ic_A,ib_est_A\n')
         for r in rows:
             f.write('%.3f,%.5f,%.7f,%.8f\n' % r)
     for vb in (1.65, 2.65, 3.65):
         ib = sum(r[3] for r in rows if r[0] == vb) / sum(1 for r in rows if r[0] == vb)
         va, res, vv, ii, pred = early_check(rows, vb)
-        print('Ib %.1f uA: VA %.0f V (fit Vce 1.0 to 2.0 V, max residual %.1f uA); check at %.2f V: %.3f mA measured, %.3f mA predicted'
+        print('Ib estimate %.1f uA: VA %.0f V (fit Vce 1.0 to 2.0 V, max residual %.1f uA); check at %.2f V: %.3f mA measured, %.3f mA predicted'
               % (ib * 1e6, va, res * 1e6, vv, ii * 1e3, pred * 1e3))
     print('current LSB %.1f uA; wrote mini_tracer.csv (%d points)' % (LSB / RS * 1e6, len(rows)))
