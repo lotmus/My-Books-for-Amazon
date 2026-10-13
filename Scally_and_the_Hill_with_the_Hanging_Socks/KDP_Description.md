@@ -49,4 +49,4 @@ Children see how bats find their way with sound, how a doctor's scan makes a pic
 - The scan scene and the baby scenes are gentle and non-medical; a parent read-through is recommended.
 - Do not claim exam results or curriculum coverage in the listing.
 - Book 2's last page says Book 3 is coming soon: update it to the published date and add a link once Book 3 is live.
-- Open names: the baby's real name is Beau (nickname Biscuit); confirm with the author.
+- Names confirmed by the author (13 Oct 2026): the baby's real name is Beau (nickname Biscuit); the red-haired girl in the last line is Dixie (named in Book 4).

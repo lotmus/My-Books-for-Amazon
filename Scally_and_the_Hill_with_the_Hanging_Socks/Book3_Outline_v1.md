@@ -56,6 +56,6 @@ Never touch a bat or any wild animal that seems tame or hurt, and tell a grown-u
 
 ## Open questions (ASK)
 1. (Decided: Scally and the Hill with the Hanging Socks.) Sock gags to place: Pip hangs the washing out to dry in the frost and the socks freeze stiff; the children first describe the bats as "socks hanging in a row"; Scally's lost socks.
-2. (Decided: a boy, nicknamed Biscuit by Pip.) What is his real name, the quieter one his parents give him?
+2. (Decided: a boy, nicknamed Biscuit by Pip; real name Beau, confirmed 13 Oct 2026. The red-haired girl is Dixie.)
 3. (Decided by Lothar: we do not need to explain it; show it only where it makes the story better, and then lightly.) The scan lesson stays as a gentle picture, with no medical detail.
 4. Should Hal's mother's pregnancy be hinted from chapter 1 or a surprise? (Suggested: hinted.)

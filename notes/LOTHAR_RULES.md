@@ -16,7 +16,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
   - **Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)**: Lolly Wren's Curious Science Adventures books.
   - **Lothar J. Musiol writing as Romuald Livingston**: *In Love with Murder, Actually*.
   - **Lothar J. Musiol writing as George Herbert Fontaine**: *Protocol Flamingo*.
-  - **Anneliese Tauber** (a Bavarian mother of four): *Bavarian Cooking Made Simple* and *The Wee Scallywag and the Gentle Elf* (The Step Stories, children’s STEM fantasy; decided 11 Oct 2026 to build one family-friendly brand). Never list her books in Lothar's Also-by, and never mention Lothar’s name in her books. Her Also-by page lists only Anneliese Tauber books. Her About the Author is two or three warm sentences in the same voice.
+  - **Anneliese Tauber** (a mother of four who read her children many fairy tales; no Bavaria claim in the Step Stories): *Bavarian Cooking Made Simple* and *The Wee Scallywag and the Gentle Elf*, *Scally and the Sleepless Stream* and *Scally and the Hill with the Hanging Socks* (The Step Stories, children’s STEM fantasy; decided 11 Oct 2026 to build one family-friendly brand; American spelling and USA audience; full rules in `notes/STEP_STORIES_HANDOVER.md`). Never list her books in Lothar's Also-by, and never mention Lothar’s name in her books. Her Also-by page lists only Anneliese Tauber books. Her About the Author is two or three warm sentences in the same voice.
 - Do not bring back retired titles or series names on any Also-by page. The retired list lives in `notes/ALSO_BY - canonical list.md`.
 
 ---
