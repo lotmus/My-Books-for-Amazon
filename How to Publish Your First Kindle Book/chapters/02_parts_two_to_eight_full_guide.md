@@ -89,7 +89,7 @@ Part I followed one book from one genre: a cozy mystery. The arithmetic before i
 
 **Recommendation.** Fiction categories sit on a genre and subgenre shelf (Mystery, then Cozy; Romance, then Contemporary); a reader there is choosing a kind of story. Nonfiction categories sit on a topic or professional shelf (Business & Money, Health, Reference); a reader there is choosing a kind of help. The three-category rule and the “closest true shelf, not the biggest one” advice in Chapter 23 apply to both, but the shelf you are matching your book against looks different depending on which one you are writing.
 
-Keywords follow the same fork. Chapter 23’s seven-box rule is identical either way, but the phrases that fill it are not: a fiction reader searches on genre, trope, and feel — “cozy mystery,” “slow burn romance,” “clean fantasy no gore” — while a nonfiction reader searches on problem and outcome — “meal prep for beginners,” “SQL for data analysts,” “first apartment budget.” Write your seven for the reader you actually have, not for the example in Chapter 5.
+Keywords work differently across genres. See Chapter 23 for the seven-box rule; search phrases depend on the reader. Fiction readers search by genre, trope, and tone: “cozy mystery,” “slow-burn romance,” or “clean fantasy, no gore.” Nonfiction readers search by problem and outcome: “meal prep for beginners,” “SQL for data analysts,” or “first-apartment budget.” Choose terms for your own reader, not the example in Chapter 5.
 
 ### The hook changes what it promises
 
@@ -97,7 +97,7 @@ Chapter 4’s two-sentence test still applies to both: a stranger should be able
 
 ### Reviews ask different questions of the same rule
 
-**Platform rule [1] [2].** The review rule itself does not change: optional, honest, no rating requested, the same roster-and-invitation method from Chapters 6 and 7 for every genre. What changes is what you are screening advance readers for. A novel needs readers who read in that genre and will judge the story on its own terms. A nonfiction book needs readers who either have the problem it solves or enough standing in the subject to judge whether the solution actually works; a glowing review from someone who never had the problem is worth less than a flat one from someone who did.
+**Platform rule [1] [2].** The review rule itself does not change: optional, honest, no rating requested, the same roster-and-invitation method from Chapters 6 and 7 for every genre. What changes is what you are screening advance readers for. A novel needs readers who read in that genre and will judge the story on its own terms. A nonfiction book needs readers who have the problem it solves, or reviewers with enough subject knowledge to judge whether the solution works. A glowing review from someone who never had the problem may be less useful than a critical one from someone who did.
 
 **Field practice.** Nonfiction authors often publish from an existing platform — a blog, a podcast, a channel — built before the book exists. In that case the audience comes before the book, rather than the book building an audience cold, as Part I’s launch does for a debut novelist with no list yet. Neither path is required, and the launch chapters (Chapters 6, 7, and 25) assume no existing audience on purpose; a platform mainly changes which of those steps you have already done before you start.
 
@@ -113,7 +113,7 @@ Price bands, delivery charges, the review rule, the ad cap, the AI-disclosure ru
 
 ## Chapter 19: Choosing What to Write
 
-“Write the book only you can write” is good advice and a weak business plan on its own. A book that sells sits where two things meet: something you can write well, and something a group of readers is already looking for. Amazon’s own store is a free research tool for finding that meeting point.
+“Write the book only you can write” is good advice, but on its own it makes a weak business plan. A book with a market needs two things: something you can write well and something a group of readers is already looking for. Amazon's store can help you investigate that overlap.
 
 ### Four checks in the store
 
@@ -122,7 +122,7 @@ Price bands, delivery charges, the review rule, the ad cap, the AI-disclosure ru
 - Compare Best Sellers with Hot New Releases. Long-standing bestsellers show past demand; recent releases that already have reviews show demand now.
 - Compare review counts with publication dates. Many reviews on an old book show the category had readers; a fair number on a book a few months old shows readers are buying now.
 - Look at who publishes there. A shelf held by a few large publishers with deep backlists is hard to enter. A shelf of single-book authors is easier to be seen on, though sometimes it is fragmented because demand is small.
-- Read the one- and two-star reviews of the current leaders. They tell you what readers wanted and did not get. That gap can become your outline.
+- Read one- and two-star reviews of the leading books to learn what readers found missing. Treat those comments as questions for your own research, not as a ready-made outline.
 
 **Worked example.** A hypothetical beginner’s hobby guide: the top of the list is held by three books six to ten years old; two books published in the last 90 days already have dozens of reviews; four single-book authors sit in the top twenty; and the low-star reviews of all three leaders complain that there is no troubleshooting for humid climates. None of that guarantees a sale. It does give you a shelf with live buyers and one checkable gap to lead with in your subtitle and description (Chapter 23).
 
@@ -152,7 +152,7 @@ These are different skills. **Recommendation.** If you can hire only one, hire t
 - Read the book aloud, or have text-to-speech read it to you.
 - Check every number and every cross-reference after the last reorganization.
 - Run one adversarial pass, looking only for claims you cannot back up and promises the book does not keep.
-- Give the book to one reader who has never seen it and ask where they got confused or bored.
+- Give the book to someone unfamiliar with it and ask where they felt confused or bored.
 - Run at least one pass that is not simply reading again: a fact-check against sources, a search for repeated words, or a consistency script.
 
 AI tools can help with some of these passes. What KDP requires you to disclose, and who owns AI-written text, are in Chapter 33. Whatever tools you use, a person accountable for the book makes the last call on every sentence and every number.
@@ -208,7 +208,7 @@ Whichever you choose, the finished cover goes through the thumbnail test before 
 
 ## Chapter 23: Categories, Keywords, and Your Product Page
 
-A shopper finds a book by searching or by browsing. Keywords serve the first path, categories the second, and the product page turns either kind of visit into a sale. All three are free to set and free to change.
+A shopper finds a book by searching or browsing. Keywords help it appear in search; categories help readers browse. The product page gives them the information to decide whether to buy. All three are free to set and change.
 
 ### Keywords
 
@@ -247,7 +247,7 @@ Misleading keywords are not a gray area; KDP states a zero-tolerance policy for 
 
 ### Two more free pieces
 
-Amazon Author Central gives you a free author page with a biography, a photo, and all your books, and is where publishers can add editorial reviews, which are separate from customer reviews. A+ Content adds image-and-text modules lower on the page; check your KDP Marketing page for what is available to your account.
+Amazon Author Central provides a free author page with a biography, photo, and book list; eligible publishers can also add editorial reviews there. A+ Content adds image-and-text modules farther down the product page. Check your KDP Marketing page to see what your account can use.
 
 ## Chapter 24: Pricing for Profit
 
