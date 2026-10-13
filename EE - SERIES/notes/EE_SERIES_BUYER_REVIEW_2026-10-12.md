@@ -78,3 +78,6 @@ Book 7 buyer-note refresh (13 Oct 2026): corrected the stale instruction to veri
 
 
 Book 7 solution-depth follow-up (13 Oct 2026): expanded Chapter 12 Practice Problem 5. With the dielectric constant and other dimensions fixed, the answer explains that a wider trace increases 0.8w + t in the formula denominator, reducing the logarithm and estimated characteristic impedance. The first render exposed unsupported Greek glyphs and body-wide bold; the final answer uses plain-text wording, bolds only the number, and keeps the explanation regular. The DOCX master and regenerated mirror agree. LibreOffice PDF page 166 was inspected and is legible. This local correction does not complete the 227-solution review or change the 7/10 buyer score.
+
+
+Book 6 solution-depth follow-up (13 Oct 2026): Appendix B Chapter 19 Problems 1-4 now show the gate-current, dynamic-power, bootstrap-capacitance, and Miller-current calculations with units and key limits. The DOCX and regenerated mirror agree; the updated PDF answers are legible on pages 151-152. This makes four answers independently reproducible but leaves the answer key concise overall; the buyer score remains 7/10 because the broader key and power/safety review are still open.
