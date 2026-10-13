@@ -25,7 +25,7 @@ Children see how floating works, why streams wander and pebbles go round, how an
 
 ## Age and reading
 - Age range: lead with 7 to 10 (read-aloud from 6; the pictures tell the story without reading); grade 2 to 5. Choose the closest option in the KDP form.
-- Language: English (British spelling).
+- Language: English (American spelling).
 
 ## Keywords (7 slots, suggestions)
 1. children's adventure book with science ages 7 to 10

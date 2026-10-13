@@ -4,7 +4,7 @@
 
 Hello,
 
-I am about to publish a children's fantasy adventure, *The Wee Scallywag and the Gentle Elf* (ages 5 to 9, read aloud or read alone). It has a miller's son, a cheeky little devil called Scally, an elf who only says what is true, a ghost, a wolf pup and a stranger with sweets. Real science runs through it: levers, rainbows, genes, light in water, the Moon and the tides, and what fire needs. It also teaches safety: strangers, fire, water and roads.
+I am about to publish a children's fantasy adventure, *The Wee Scallywag and the Gentle Elf* (ages 5 to 9, read aloud or read alone). It has a miller's son, a cheeky little devil called Scally, an elf who only says what is true, a ghost, a wolf pup and a stranger with candy. Real science runs through it: levers, rainbows, genes, light in water, the Moon and the tides, and what fire needs. It also teaches safety: strangers, fire, water and roads.
 
 I would be very grateful for an honest read from someone who knows children. Please don't be polite. I am looking for:
 

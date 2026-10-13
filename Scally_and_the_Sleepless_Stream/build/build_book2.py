@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v12.txt"
+STORY_FILE = "Book2_Story_v13.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -38,7 +38,7 @@ place = {
     'There was a short, loud argument.': 'b76_the_argument.jpg',
     'That night every light in the valley went out early': 'b77_village_sleeps.jpg',
     'Hal put one in his palm and spun it on the step.': 'b78_egg_spin.jpg',
-    'One grey afternoon at the end of October': 'b79_step_buns.jpg',
+    'One gray afternoon at the end of October': 'b79_step_buns.jpg',
     '“Wade it,” said Scally.': 'b80_wade_it.jpg',
     'They launched the raft at noon.': 'b81_launch_raft.jpg',
     'In the morning Scally sat on the mill step': 'b82_painting_sign.jpg',
@@ -62,7 +62,7 @@ place = {
     "He scooped up the tin.": "b03_pennies_back.jpg",
     "Hal went to the pond, to think.": "b04_reflection_up.jpg",
     "The Mayor stood on a barrel.": "b05_mayor_barrel.jpg",
-    "It was a grey donkey, small and round": "b06_walt_arrives.jpg",
+    "It was a gray donkey, small and round": "b06_walt_arrives.jpg",
     Q + "You don" + A + "t shout at it," + R + " said Old Walt.": "b07_walt_stick.jpg",
     "They set out at dawn.": "b08_setting_off.jpg",
     "A bank had slipped into the stream.": "b09_green_pool.jpg",

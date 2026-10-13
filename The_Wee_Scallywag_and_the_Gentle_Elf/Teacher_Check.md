@@ -11,7 +11,7 @@ Written 12 Oct 2026 by the assistant after re-reading the whole manuscript (stor
 | Ch 3 | Tunnelling: very small things sometimes appear beyond a barrier, a marble and a hill picture; it is part of why the Sun shines; it does not happen to boys; a ghost's wall-walking is magic. | Correct as a child-sized picture: quantum tunnelling lets protons fuse in the Sun's core. The marble is an analogy only. | CONFIRM with a physicist; NASA or ESA "how the Sun shines" |
 | Ch 3, 9 | Mirror Mill is magic; writing in a mirror comes out reversed because a mirror swaps front and back. | Correct. The Mirror Mill is flagged as magic. | Any optics text |
 | Ch 4 | Genes are a recipe: half the recipe cards from each parent, shuffled; slips when copied. | Fair analogy. Added that most differences come from the shuffling and slips are rare. Real genes are DNA. | CONFIRM with a biology teacher; NHS Genetics or Genome.gov plain-language page |
-| Ch 4 | Green grasshoppers on green grass, brown on dry; toads eat the ones they can see; the colour that fits becomes common. | Correct as natural selection by predation. Added a caveat: grasshoppers can change shade as they grow. | CONFIRM with a biology teacher |
+| Ch 4 | Green grasshoppers on green grass, brown on dry; toads eat the ones they can see; the color that fits becomes common. | Correct as natural selection by predation. Added a caveat: grasshoppers can change shade as they grow. | CONFIRM with a biology teacher |
 | Ch 5 | Light slows entering water and bends; about a quarter slower; a fish is deeper than it looks from above; the barrow-wheel analogy. | Correct (speed in water is about 75 percent of that in air; apparent depth is less than real depth seen from above). | Any KS3/G6-8 light text |
 | Ch 5 | Quickest is not shortest (light and a lifeguard). | Correct (Fermat's principle; lifeguard analogy is standard). | Any optics text |
 | Ch 6 | The Moon makes no light of its own; phases come from how much of the lit half we see, not Earth's shadow; the month; wolves howl to call each other, not at the moon. | Correct. | NASA Moon phases page |
@@ -22,7 +22,7 @@ Written 12 Oct 2026 by the assistant after re-reading the whole manuscript (stor
 ## Safety content (CONFIRM with a parent or teacher)
 
 - Fire: shout, get out, get a grown-up; drown a bonfire; smoke is the real danger, stay low. In the story the children do put a small fire out, then the miller tells them next time to get out and fetch a grown-up. Check this is not misread as "children should fight fires".
-- Stranger danger: not about looks, a man or a woman; signs are secrets, sweets or pets, "your mum sent me", a child being asked for help; code word; No, Go, Yell, Tell.
+- Stranger danger: not about looks, a man or a woman; signs are secrets, candy or pets, "your mom sent me", a child being asked for help; code word; No, Go, Yell, Tell.
 - Water: reach or throw, never go in. Roads: stop, look, listen. Plants and medicines: never taste. Hot pots. Animals: flat hand, ask the owner. Pairs in the dark, tell someone where you are.
 - Hollin Brook mill fire and the "what if" dream: honest but gentle; nobody is hurt. Check this is right for ages 5 to 6.
 
