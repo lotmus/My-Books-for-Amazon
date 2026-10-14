@@ -1,6 +1,6 @@
 ## 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
 
-The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is often called the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology.
+The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is often called the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology. Whether that mathematics was mostly Babbage's framework or mostly Lovelace's own insight is still debated by historians — the collaboration itself, not just the algorithm, is the real achievement.
 
 The theoretical groundwork arrived next. Kurt Gödel's 1931 incompleteness theorems proved that any formal mathematical system powerful enough to describe basic arithmetic must contain true statements it cannot prove within its own system — a hard limit built into logic itself, discovered a decade before anyone built a working computer, and one this book's own recurring gap between capability and wisdom would recognize immediately.
 

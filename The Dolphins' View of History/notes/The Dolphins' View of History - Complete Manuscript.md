@@ -1066,7 +1066,7 @@ A region whose argument is still being conducted gets no verdict here, only an o
 
 On June 28, 1914, a nineteen-year-old Bosnian Serb named Gavrilo Princip, whose group had already failed once that morning, found himself outside a delicatessen in Sarajevo when the car of Archduke Franz Ferdinand of Austria-Hungary took a wrong turn and stopped in front of him. A popular modern story has him buying a sandwich; no contemporary source says so. He shot the Archduke and his wife, Sophie, and began, without quite intending it, the First World War.
 
-What followed was a chain reaction so mechanical that historians still argue about whether anyone could have stopped it. Austria-Hungary blamed Serbia, Russia backed Serbia, Germany backed Austria-Hungary, France backed Russia, and Britain, which had promised to defend Belgium's neutrality, joined in after Germany marched through Belgium. Within weeks, nearly every great power in Europe was at war, and virtually everyone expected it to be short. The Kaiser told his departing troops that they would be home before the leaves fell. In Britain the phrase was over by Christmas.
+What followed was a chain reaction so mechanical that historians still argue about whether anyone could have stopped it. Austria-Hungary blamed Serbia, Russia backed Serbia, Germany backed Austria-Hungary, France backed Russia, and Britain, which had promised to defend Belgium's neutrality, joined in after Germany marched through Belgium. Within weeks, nearly every great power in Europe was at war. Governments told their publics it would be short; several of the general staffs that planned it, Germany's among them, had quietly prepared for a long one. The Kaiser told his departing troops that they would be home before the leaves fell. In Britain the phrase was over by Christmas.
 
 It was not. The armies dug in, and for four years a front line some four hundred miles long, from the Channel to Switzerland, barely moved. The industrial machinery of an earlier chapter produced artillery, machine guns, barbed wire, and shells in numbers that turned every advance into a massacre. On July 1, 1916, the first day of the Battle of the Somme, the British Army suffered some 57,000 casualties, close to 20,000 of them killed, the worst day in its history. Many belonged to the Pals battalions, volunteers who had enlisted together with friends, neighbors, and workmates on the promise that they could serve alongside one another, a promise that was kept with a thoroughness whole towns did not forget. At Verdun that same year, the French and Germans spent ten months killing some three hundred thousand men over a few square miles of mud.
 
@@ -1122,7 +1122,7 @@ Nor does the file stop with the famous cases. Greece, which invented democracy, 
 
 Dolphin historians have read the whole file, twice, looking for a pattern that would let them warn someone. What they found is uncomfortably ordinary. No country announced that it was abandoning civilization. Each was offered, in something like this order, order, pride, and someone to blame, and accepted all three. Each had a moment of humiliation, economic collapse, or fear that made the offer sound reasonable. And each had, sitting on the shelf, a perfectly good culture that turned out to be no protection at all. The great writers and composers, it emerged, do not vote.
 
-The steps were depressingly similar as well. The courts and the newspapers went first. Then the opposition. Then came the emergency, a word dolphin historians have come to dislike. Very little of it required villains in large numbers. It required ordinary people who were told what to do and did it.
+The steps were depressingly similar as well. The courts and the newspapers went first. Then the opposition. Then came the emergency, a word dolphin historians have come to dislike. Very little of it required villains who saw themselves that way. Historians still argue how much of it came from ordinary people simply following orders and how much from convinced, willing participants; the record has room for both.
 
 Yet the story did not end there.
 
@@ -1140,7 +1140,7 @@ The file also has thin pages, and they get checked as carefully as the full ones
 
 Japan enters this part of the book carrying a cultural inheritance dolphins already respected long before the 19th century: centuries of courtly literature, Zen-influenced aesthetics, and craft traditions refined under more than two hundred years of deliberate isolation from the outside world.
 
-That isolation ended on Japan's own terms only in the sense that it ended at all. In 1853, Commodore Matthew Perry's American warships arrived in Tokyo Bay and made the cost of staying closed unmistakable. Within fifteen years, the Tokugawa shogunate had fallen and the Meiji Restoration of 1868 began compressing a century of industrialization into a few decades, on purpose.
+That isolation ended on Japan's own terms only in the sense that it ended at all. In 1853, Commodore Matthew Perry's American warships arrived in Edo Bay, the body of water later renamed Tokyo Bay, and made the cost of staying closed unmistakable. Within fifteen years, the Tokugawa shogunate had fallen and the Meiji Restoration of 1868 began compressing a century of industrialization into a few decades, on purpose.
 
 The speed of it is as stunning as anything else in this book. A feudal, agrarian society built a modern navy, a rail network, a conscript army, and an industrial base within a single lifetime, sending students abroad to learn what it needed and building the rest at home once they returned.
 
@@ -1168,7 +1168,7 @@ Italy carries the longest cultural résumé in this part of the book. Rome itsel
 
 Italy, unlike Germany or Japan, is a case where "genius" is not a 19th-century flowering but a multi-thousand-year inheritance, renewed rather than newly discovered.
 
-Political unification arrived astonishingly late relative to that inheritance: Italy did not become a single state until 1861, and the disappointment of unification's unfulfilled promises fed directly into the movement Benito Mussolini built in the war's aftermath. His 1922 March on Rome brought him to power without a single shot fired in the capital, and Italy gave the world the word “fascism” before any other country had a regime to match it.
+Political unification arrived astonishingly late relative to that inheritance: Italy did not become a single state until 1861, and the disappointment of unification's unfulfilled promises fed directly into the movement Benito Mussolini built in the war's aftermath. King Victor Emmanuel III invited him to form a government on October 29, 1922, rather than risk ordering the army against the fascist squads; the March on Rome that followed on October 30-31 was a staged victory parade confirming a deal already struck, and it entered the capital without a single shot fired. Italy gave the world the word “fascism” before any other country had a regime to match it.
 
 The regime's decisive turn came earlier than the invasion of Ethiopia. In June 1924, Giacomo Matteotti, a socialist member of parliament who had just delivered a speech accusing the fascists of election fraud, was kidnapped and murdered by men with close ties to Mussolini. The killing produced a genuine political crisis; Mussolini used it to strip away what independent press and opposition remained, instead of stepping down, and on January 3, 1925, told parliament that he alone assumed “the political, moral, and historical responsibility” for all that had happened, and dared it to act. It did not.
 
@@ -1198,7 +1198,7 @@ Medieval al-Andalus, the Muslim-ruled portion of the Iberian Peninsula, sustaine
 
 Historians argue about how rosy that picture is. Christians and Jews lived as dhimmi, protected but legally subordinate communities who paid a special tax, and the coexistence had violent interruptions: in 1066 a mob in Granada killed much of the city's Jewish community. The fairest reading is that al-Andalus was, for long stretches, more tolerant than most of its neighbors, which is not the same as tolerant.
 
-Convivencia's most famous graduate was born in Córdoba around 1138: Maimonides, a Jewish philosopher and physician who wrote most of his greatest works in Arabic and shaped Jewish, Islamic, and Christian scholastic thought alike. He also shows its limits. When the Almohads, a stricter Berber dynasty, took Córdoba in 1148 and pressed non-Muslims to convert, his family fled, and he wrote his major works in Cairo, as a court physician.
+Convivencia's most famous graduate was born in Córdoba around 1138: Maimonides, a Jewish philosopher and physician who wrote his philosophical and medical works, including the Guide for the Perplexed, in Judeo-Arabic, and his monumental code of Jewish law, the Mishneh Torah, in Hebrew, and shaped Jewish, Islamic, and Christian scholastic thought alike. He also shows its limits. When the Almohads, a stricter Berber dynasty, took Córdoba in 1148 and pressed non-Muslims to convert, his family fled, and he wrote his major works in Cairo, as a court physician.
 
 That convivencia ended deliberately. The Reconquista's completion in January 1492, with the fall of Granada, was followed within months by the Alhambra Decree expelling Spain's Jewish population — the same year, not coincidentally, Spain funded the voyage that opened the Americas to European conquest in the chapter on exploration.
 
@@ -1334,7 +1334,7 @@ The alliance that beat Nazi Germany did not survive the peace it won. Within two
 
 Both sides had the bomb within four years of each other — the United States in 1945, the Soviet Union in 1949 — and by the 1960s both had enough of them, mounted on missiles that could cross the planet in under an hour, to guarantee that a full nuclear exchange would leave no meaningful winner. Strategists gave this condition an unusually honest name: mutual assured destruction.
 
-The phrase was coined in the 1960s by the analyst Donald Brennan, who meant the acronym as mockery. The strategists kept it anyway. Dolphin scholarship files this under candor, an achievement this species does not get nearly enough credit for.
+The phrase is usually credited to the analyst Donald Brennan, who said he coined it around 1962 and meant the acronym as deliberate mockery, though a few institutional histories instead trace the term's spread to Pentagon strategists later in the decade. The strategists kept it anyway. Dolphin scholarship files this under candor, an achievement this species does not get nearly enough credit for.
 
 The weapon itself was the product of a wartime race: the Manhattan Project (1942-45), staffed in large part by physicists who had fled fascist Europe, some of them from the very country whose bomb the project had been built to beat. The first test took place in the New Mexico desert in July 1945. Many of the next ones took place at sea. The United States detonated 67 nuclear devices at Bikini and Enewetak atolls in the Marshall Islands between 1946 and 1958. The 167 people of Bikini were moved off their atoll in 1946, told it was for the good of mankind; they have never been able to go home to stay. France later tested at Moruroa and Fangataufa in French Polynesia.
 
@@ -1450,7 +1450,7 @@ India's independence in 1947 is often credited to that campaign of organized non
 
 Independent India kept its democracy through nearly everything that followed (the exception was a two-year suspension of civil liberties, the Emergency, in 1975-77), and in 2023 passed China as the world's most populous country by United Nations estimate, a piece of arithmetic the mathematicians of the Gupta period would presumably have found unsurprising.
 
-India supplied one model: organize, outlast, make the empire's own math stop working. The wave that followed, mostly across Africa, did not always have the time for it. It crested around 1960, when seventeen countries gained independence in a single year, most from France and Britain, some only after armed conflict instead of negotiation. Algeria won its independence from France only in 1962, after eight years of war.
+India supplied one model: organize, outlast, make the empire's own math stop working. The wave that followed, mostly across Africa, did not always have the time for it. It crested around 1960 — the “Year of Africa” — when seventeen countries gained independence in a single year, fourteen of them from France, plus the Belgian Congo, British Nigeria, and the two Somalilands merging into Somalia, some only after armed conflict instead of negotiation. Algeria won its independence from France only in 1962, after eight years of war.
 
 Britain's own version of the handover was a case study in how little patience this could leave behind. The country spent the middle of this century returning an empire it had spent the previous two centuries quite energetically acquiring, and the returning was less graceful in places than its own histories later remembered. In Kenya, during the Mau Mau uprising of the 1950s, British authorities held tens of thousands of Kenyans in detention camps where torture was widespread; in 2013 the British government expressed regret and paid compensation to 5,228 surviving victims.
 
@@ -1474,7 +1474,7 @@ Emmett Till, a fourteen-year-old boy, was murdered in Mississippi in August 1955
 
 The same slow weapon was fired on a longer clock in South Africa, against a harder target. Legal racial segregation, formalized as apartheid in 1948, persisted for close to half a century against internal resistance, including the armed campaign of the ANC's military wing, Umkhonto we Sizwe, after peaceful protest was banned, and mounting international pressure and sanctions. It ended only with Nelson Mandela's release in 1990 from twenty-seven years of imprisonment, eighteen of them on Robben Island (in waters the dolphins know well), and his election as South Africa's first Black president in 1994.
 
-Changing what a majority believes it owes a minority turns out to be a method with more than one minority willing to try it. Women's movements ran throughout the same century on their own overlapping timelines: suffrage achieved in most Western democracies between roughly 1893 (New Zealand, first) and the 1920s across much of Europe and North America. A second wave of legal and social advances followed in the 1960s and 70s, addressing employment, reproductive rights, and legal equality more broadly. The pace and scope of change varied enormously by country, and the change continues unevenly to the present.
+Changing what a majority believes it owes a minority turns out to be a method with more than one minority willing to try it. Women's movements ran throughout the same century on their own overlapping timelines: suffrage achieved in New Zealand first, in 1893, then across Britain, the United States, and most of northern Europe by the 1920s — while France (1944), Italy (1945), and Switzerland waited decades longer still. A second wave of legal and social advances followed in the 1960s and 70s, addressing employment, reproductive rights, and legal equality more broadly. The pace and scope of change varied enormously by country, and the change continues unevenly to the present.
 
 That timeline had its own casualty list and its own comedy. In Britain the suffragettes chained themselves to railings, and in 1913 Emily Davison died after stepping in front of the King's horse at the Epsom Derby; women over thirty got the vote in 1918, and women on equal terms with men only in 1928. In the United States it came in 1920. Switzerland, a country not known for being late, gave women the federal vote in 1971, and its last holdout canton was ordered by the courts to comply in 1990.
 
@@ -1488,7 +1488,7 @@ A fourth argument about who counted as fully included ran through the same decad
 
 ## 1843 to 2007: The Digital Leap — Computers, Networks, and a Connected World
 
-The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is often called the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology.
+The idea is older than the machine. In 1843 Ada Lovelace, the daughter of the poet Lord Byron, published what is often called the first computer program, an algorithm for a mechanical engine designed by Charles Babbage that he never managed to finish building, which dolphin historians identify as a very British way to invent a technology. Whether that mathematics was mostly Babbage's framework or mostly Lovelace's own insight is still debated by historians — the collaboration itself, not just the algorithm, is the real achievement.
 
 The theoretical groundwork arrived next. Kurt Gödel's 1931 incompleteness theorems proved that any formal mathematical system powerful enough to describe basic arithmetic must contain true statements it cannot prove within its own system — a hard limit built into logic itself, discovered a decade before anyone built a working computer, and one this book's own recurring gap between capability and wisdom would recognize immediately.
 
@@ -1522,7 +1522,7 @@ The Long Count's largest standard unit, the b'ak'tun, runs for roughly 394 years
 
 Maya inscriptions treat this the way an odometer treats rolling from 999999 back to 000000: a notable round number, not a terminus. Surviving texts, including one at the Tortuguero site in Mexico, reference the thirteenth b'ak'tun's completion directly, and other inscriptions calmly reference dates thousands of years beyond it — not the record of a civilization that expected anything to stop.
 
-None of this stopped a very different story from taking hold in the early 2000s, amplified by books, documentaries, and, in its final years, exactly the kind of internet-era information environment the previous chapter describes. December 21, 2012 became a predicted apocalypse, variously attributed to a rogue planet, a solar alignment, or simply "what the Mayans predicted," a phrase no surviving Maya text anywhere actually supports.
+None of this stopped a different story — with roots in 1970s and 80s New Age writing, including José Argüelles's 1987 "Harmonic Convergence" — from reaching mass audiences in the early 2000s, amplified by books, documentaries, and, in its final years, exactly the kind of internet-era information environment the previous chapter describes. December 21, 2012 became a predicted apocalypse, variously attributed to a rogue planet, a solar alignment, or simply "what the Mayans predicted," a phrase no surviving Maya text anywhere actually supports.
 
 The prediction acquired enough traction that NASA published an official page addressing it before the date arrived, and another one afterward confirming that it had passed without incident.
 
@@ -1554,7 +1554,9 @@ In October 2017, astronomers spotted the first confirmed object from outside the
 
 The search has produced exactly one signal serious enough to have kept its own name. On August 15, 1977, a radio telescope in Ohio recorded a brief, powerful burst on a frequency associated with hydrogen; the astronomer who found it circled the printout and wrote “Wow!” beside it. It has never repeated, and no explanation, natural or otherwise, has ever been confirmed.
 
-Frank Drake convened the field's first conference at the Green Bank Observatory in 1961, a meeting of a handful of scientists that included a young Carl Sagan. Sagan went on to help design the Voyager Golden Record, a phonograph disc carrying images, sounds, and greetings in fifty-five languages, launched into interstellar space in 1977 on the chance that someone, eventually, might play it. The search is a Cold War child in more than just timing: Drake's and Sagan's generation of scientists came of age funding radio astronomy alongside the missile-tracking and satellite programs the Cold War chapter covers, and the same military and government interest in big radio dishes helped pay for the instruments they listened with.
+Frank Drake convened the field's first conference at the Green Bank Observatory in 1961, a meeting of ten scientists — including a young Carl Sagan and dolphin-communication researcher John C. Lilly, who hosted a dinner at which the group jokingly named itself the Order of the Dolphin. Sagan went on to help design the Voyager Golden Record, a phonograph disc carrying images, sounds, and greetings in fifty-five languages, launched into interstellar space in 1977 on the chance that someone, eventually, might play it. The search is a Cold War child in more than just timing: Drake's and Sagan's generation of scientists came of age funding radio astronomy alongside the missile-tracking and satellite programs the Cold War chapter covers, and the same military and government interest in big radio dishes helped pay for the instruments they listened with.
+
+*“A human looking for extraterrestrial intelligence named his own search committee after us before he had found so much as a radio blip,” dolphin historians noted. “We would call this premature, except that it turned out to be correct.”*
 
 Humans have not only listened. In November 1974, scientists at the Arecibo Observatory in Puerto Rico beamed a single deliberate message toward the globular star cluster M13, encoding basic facts about human DNA, the solar system, and the species doing the transmitting, all in binary, aimed at a target roughly 25,000 light-years away, chosen chiefly because it was in the telescope's sky that day. It was meant as a demonstration of the new transmitter rather than a serious attempt at contact; any reply would take some 50,000 years to arrive.
 
@@ -1576,7 +1578,7 @@ This chapter's technology, unlike most others covered so far, is aimed entirely 
 
 Germ theory, established by Louis Pasteur and Robert Koch through the mid-to-late 1800s, replaced centuries of competing explanations, miasma and humoral imbalance among them, with something testable: specific microorganisms cause specific diseases. Joseph Lister applied antiseptic technique to surgery starting in the 1860s, and surgical survival rates, previously grim, improved dramatically within a generation. The first public demonstration of ether anesthesia, in 1846, had already turned surgery from a race against a conscious patient's pain tolerance into a controlled procedure.
 
-The path to it was not smooth. In 1847 the Hungarian physician Ignaz Semmelweis showed that deaths from childbed fever in his Vienna hospital dropped sharply when doctors washed their hands in chlorinated lime between the autopsy room and the delivery ward. His colleagues, who did not care to be told that they were the source of the infection, rejected the finding. Semmelweis was eventually committed to an asylum, where he died in 1865 of an infection. In 1854, in London, the physician John Snow traced a cholera outbreak to a single water pump in Soho and persuaded the authorities to remove its handle. The medical establishment took several more decades to accept that the water and the doctors were both dirty.
+The path to it was not smooth. In 1847 the Hungarian physician Ignaz Semmelweis showed that deaths from childbed fever in his Vienna hospital dropped sharply when doctors washed their hands in chlorinated lime between the autopsy room and the delivery ward. His colleagues, who did not care to be told that they were the source of the infection, rejected the finding. Semmelweis was eventually committed to an asylum, where guards beat him severely; he died two weeks later, in 1865, of a gangrenous wound likely caused by that beating. In 1854, in London, the physician John Snow traced a cholera outbreak to a single water pump in Soho and persuaded the authorities to remove its handle. The medical establishment took several more decades to accept that the water and the doctors were both dirty.
 
 Vaccination predates germ theory itself. Edward Jenner's 1796 smallpox vaccine, built on the folk observation that milkmaids who caught cowpox rarely caught smallpox, in time led to smallpox's complete eradication by 1980 — the only human disease ever deliberately eliminated from the wild.
 
@@ -2584,6 +2586,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Holocaust.* Hilberg, Raul. The Destruction of the European Jews. 3rd ed. New Haven: Yale University Press, 2003.
 
+*The situational-obedience account of ordinary perpetrators.* Browning, Christopher R. Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland. New York: HarperCollins, 1992.
+
+*The convinced-and-willing-participants account of ordinary perpetrators.* Goldhagen, Daniel Jonah. Hitler's Willing Executioners: Ordinary Germans and the Holocaust. New York: Alfred A. Knopf, 1996.
+
 *Cambodia under the Khmer Rouge.* Kiernan, Ben. The Pol Pot Regime. New Haven: Yale University Press, 1996.
 
 *How democracies are dismantled.* Levitsky, Steven, and Daniel Ziblatt. How Democracies Die. New York: Crown, 2018.
@@ -2796,7 +2802,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The 2012 phenomenon.* Aveni, Anthony. The End of Time: The Maya Mystery of 2012. Boulder: University Press of Colorado, 2009.
 
+*The 1987 "Harmonic Convergence" and its roots in earlier New Age writing.* Argüelles, José. The Mayan Factor: Path Beyond Technology. Santa Fe, NM: Bear & Company, 1987.
+
 **1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)**
+
+*The 1961 Green Bank conference and the "Order of the Dolphin."* Dick, Steven J. The Biological Universe: The Twentieth-Century Extraterrestrial Life Debate and the Limits of Science. Cambridge: Cambridge University Press, 1996.
 
 *‘Oumuamua’s discovery.* Meech, Karen J., et al. “A Brief Visit from a Red and Extremely Elongated Interstellar Asteroid.” Nature 552 (2017): 378–81.
 
@@ -2811,6 +2821,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 **1796 to Today: Medicine and Its Cost — How Humans Learned to Heal**
 
 *Life expectancy since 1800.* Riley, James C. “Estimates of Regional and Global Life Expectancy, 1800–2001.” Population and Development Review 31 (2005): 537–43.
+
+*Semmelweis's death.* Carter, K. Codell, and Barbara R. Carter. Childbed Fever: A Scientific Biography of Ignaz Semmelweis. Westport, Conn.: Greenwood Press, 1994.
 
 *Insulin and the one-dollar patent.* Bliss, Michael. The Discovery of Insulin. Chicago: University of Chicago Press, 1982.
 

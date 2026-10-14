@@ -448,6 +448,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Holocaust.* Hilberg, Raul. The Destruction of the European Jews. 3rd ed. New Haven: Yale University Press, 2003.
 
+*The situational-obedience account of ordinary perpetrators.* Browning, Christopher R. Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland. New York: HarperCollins, 1992.
+
+*The convinced-and-willing-participants account of ordinary perpetrators.* Goldhagen, Daniel Jonah. Hitler's Willing Executioners: Ordinary Germans and the Holocaust. New York: Alfred A. Knopf, 1996.
+
 *Cambodia under the Khmer Rouge.* Kiernan, Ben. The Pol Pot Regime. New Haven: Yale University Press, 1996.
 
 *How democracies are dismantled.* Levitsky, Steven, and Daniel Ziblatt. How Democracies Die. New York: Crown, 2018.
@@ -662,7 +666,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The 2012 phenomenon.* Aveni, Anthony. The End of Time: The Maya Mystery of 2012. Boulder: University Press of Colorado, 2009.
 
+*The 1987 "Harmonic Convergence" and its roots in earlier New Age writing.* Argüelles, José. The Mayan Factor: Path Beyond Technology. Santa Fe, NM: Bear & Company, 1987.
+
 **1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)**
+
+*The 1961 Green Bank conference and the "Order of the Dolphin."* Dick, Steven J. The Biological Universe: The Twentieth-Century Extraterrestrial Life Debate and the Limits of Science. Cambridge: Cambridge University Press, 1996.
 
 *‘Oumuamua’s discovery.* Meech, Karen J., et al. “A Brief Visit from a Red and Extremely Elongated Interstellar Asteroid.” Nature 552 (2017): 378–81.
 
@@ -677,6 +685,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 **1796 to Today: Medicine and Its Cost — How Humans Learned to Heal**
 
 *Life expectancy since 1800.* Riley, James C. “Estimates of Regional and Global Life Expectancy, 1800–2001.” Population and Development Review 31 (2005): 537–43.
+
+*Semmelweis's death.* Carter, K. Codell, and Barbara R. Carter. Childbed Fever: A Scientific Biography of Ignaz Semmelweis. Westport, Conn.: Greenwood Press, 1994.
 
 *Insulin and the one-dollar patent.* Bliss, Michael. The Discovery of Insulin. Chicago: University of Chicago Press, 1982.
 
