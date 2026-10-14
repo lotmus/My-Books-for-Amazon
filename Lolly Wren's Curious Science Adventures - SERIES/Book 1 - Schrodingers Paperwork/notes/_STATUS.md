@@ -34,7 +34,7 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 
 Full cross-book findings: `notes/EDITORIAL_REVIEW_20261012.md`.
 
-Current reviewed master remains `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx`; current Kindle EPUB is `Schrodingers_Paperwork_KINDLE.epub`. Latest line-edit score: **10/10** for clarity, voice consistency, dialogue, and scene description. Latest science-minded score: **10/10** for accuracy and clear separation of established results, interpretations, open problems, and fiction.
+Master at that time: `Schrodingers_Paperwork_BOOK_1_KINDLE_FINAL.docx` (now in `bak/`; current master is REV2, below); current Kindle EPUB is `Schrodingers_Paperwork_KINDLE.epub`. Latest line-edit score: **10/10** for clarity, voice consistency, dialogue, and scene description. Latest science-minded score: **10/10** for accuracy and clear separation of established results, interpretations, open problems, and fiction.
 
 The final science pass tightened the Hawking-radiation/CMB explanation and clarified the status of decoherence, quantum Darwinism, many-worlds, holography, quantum error correction, and entropy. It preserved the internal glossary and bibliography links. Final master counts: 3,821 paragraphs, 328 hyperlinks, 285 bookmarks. Duplicate and phrase scans found no new accidental repetitions; remaining matches are intentional lesson headings, callbacks, document language, or bibliography echoes. Kindle EPUB rebuilt with the shared `scripts/kindle.css`; ZIP, navigation, cover metadata, XHTML/OPF well-formedness, links, and bookmarks were checked.
 
@@ -70,3 +70,20 @@ All 19 lesson diagrams in the reviewed DOCX and Kindle EPUB are at most 800 x 44
 ## Kindle cover artwork update (13 Oct 2026)
 
 The reviewed DOCX first page and EPUB cover resource use KINDLE_FRONT_COVER_LIGHT.jpg (1312 × 1652 px). The final back-cover page in both uses KINDLE_BACK_COVER_LIGHT.jpg (784 × 1168 px). Both source JPGs are retained beside the master. All 19 interior diagrams remain at or below 800 × 440 px, and image alt text is intact.
+
+
+## REV2 (13 Oct 2026): current master
+
+Current master: `Schrodingers_Paperwork_BOOK_1 - REV2.docx`. REV1 (Codex's master as left at 4:55 PM PT, unchanged) and the old `..._KINDLE_FINAL.docx` are in `bak/`; the old 2560 Kindle cover is in `bak/` as well.
+
+Critical review of the Codex master: 8.9 overall, 8.6 sellability. Its science pass had turned the Physics Prologue into textbook hedging. REV2 strict rescore: **9.2 overall, 8.8 sellability** (prose 9.2, plot 9.0, characters 9.0, pacing 8.4, continuity 9.4, dialogue 9.2, Kindle 9.5, front/back matter 9.3, cover/KDP 8.8).
+
+Changes in REV2:
+- Physics Prologue (the Ministry's "Whole Book, Briefly"): British deadpan Ministry voice restored on nine lines, keeping Codex's science corrections (Hawking radiation is a prediction not yet observed; Bell loopholes closed on the usual assumptions; holography only in certain theories, and information preservation still open; the second law is for isolated systems). The "In one breath" labels and voice are restored in Lessons 14b and 16. Glossary links are kept.
+- Lecture to lesson: finished everywhere the book means its own lessons (Physics Prologue subtitle, course intro, "Lesson 14 in two parts", Chapter 14 note, Glossary intro and entry, Further Reading, About the Series). Real titles (Reith Lecture, Preskill's lecture notes, Wilde's YouTube lecture) are unchanged.
+- Fixed the broken "?" bullet in Lesson 16 "What sticks"; polarizer changed to polariser; straight apostrophes in the lessons made curly; the rescan found no other broken characters.
+- Back matter order: Who Is Who, review line, A Note on the Author (Version A, with the Colin line and Gucci), Also by, If This Made You Curious, About the Series. "Before You Go" is folded into About the Series (one Book 2 pointer; it still ends "There is still no lid."). Contents reordered. EE Book 8 is not added to Also by (still a draft in SCORES.md).
+- Kindle page format: page size 3.6 x 4.8 in with 0.3 in margins; all 21 images fit the 3.0 in text width (proportions kept); every Heading 1 starts a new page. In a LibreOffice check, the PDF came to 1,231 Kindle-size pages.
+- KDP description: the duplicate "Read it as a novel. Take the course. Or do both." line removed; dashes spaced as in the book. KDP_UPLOAD_READY points at REV2.
+
+Still open: rebuild the Kindle EPUB from REV2 (the EPUB on disk predates it); paperback wrap; at full size, check that the front cover title shows the umlaut in SCHRÖDINGER'S (it looked like "SCH RODINGER'S" at thumbnail size).
