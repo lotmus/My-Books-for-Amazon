@@ -122,3 +122,12 @@ The Australia family and retirement chapter said the Germany–Australia tax tre
 Primary sources: [Australian Taxation Office, Foreign pensions and annuities](https://www.ato.gov.au/mytax25ForeignPenAndAnnuity); [Australia–Germany tax treaty, Articles 17, 18 and 22](https://treasury.gov.au/sites/default/files/2019-03/GermanyDTA-1.pdf).
 
 **Subject/fact-check reassessment:** 9.2/10 (up from 9.1) after replacing an overgeneralized tax explanation with treaty-specific rules and ATO filing guidance. The full tax and immigration audit across all four destinations is still outstanding; overall remains 8.9.
+
+
+## REV124 OVHC Cost and Coverage Guidance - 14 October 2026
+
+The Australia parent-visa chapter gave monthly OVHC price bands and an age surcharge estimate without a linked source or a defined insurer, coverage level, age band, or quote date. Removed those falsely precise averages. Replaced them with a practical comparison instruction: compare at least three offers for the same stay length and check coverage, excess, waiting periods, pre-existing-condition exclusions, and medicines. Added Home Affairs' warning that even OVHC may leave treatment costs uncovered and linked the Australian Government's official comparison guidance. Synced the Markdown chapter, REV124 DOCX, and EPUB.
+
+Primary sources: [Home Affairs, Adequate health insurance for visa holders](https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/adequate-health-insurance); [Australian Government, Overseas Visitors Health Cover](https://www.privatehealth.gov.au/health_insurance/overseas/overseas_visitors_health_cover.htm). The government comparison guidance recommends comparing policies from at least three providers and notes that costs, eligibility, and benefits vary.
+
+**Subject/fact-check reassessment:** 9.3/10 (up from 9.2) for removing unsupported premiums and replacing them with current official decision guidance. The full audit of dated costs and legal claims remains outstanding; overall stays 8.9.
