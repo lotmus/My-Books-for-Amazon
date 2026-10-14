@@ -222,3 +222,11 @@ Primary sources: [Home Affairs, processing times overview](https://immi.homeaffa
 Tightened the opening of the universal readiness section in the REV124 DOCX and EPUB. Replaced the abstract, repeated opening question with a concrete decision frame; shortened the readiness bullet; and removed duplicated setup about the four-country structure, the research caveat, and whether the reader moves alone or with family. The revised sequence distinguishes the personal readiness check from the following country comparison and keeps the key limitation clear: relocation research cited here concerns employer-sponsored assignments, not private emigration.
 
 **Target-reader reassessment:** 9.6/10 (up from 9.5) for faster orientation. **Harsh-critic reassessment:** 9.6/10 (up from 9.5) for reducing repeated setup. **Literary-reader style:** 9.6/10 (up from 9.5); the opening now has a clearer progression and more concrete language while preserving the guide's practical voice. This is an opening-section pass, not a full-manuscript reread; overall remains 8.9.
+
+## REV125 Australian student-visa prose correction - 14 October 2026
+
+The sentence-craft pass split an overloaded student-visa paragraph but left an awkward fragment and misstated the Genuine Student (GS) requirement as excluding concealed immigration intent. Recast the opening as two complete sentences and removed the Australia-specific term “Werkstudentenjob.” The revised explanation says study must be the primary reason for the visa and clarifies that a later intention to seek permanent residence does not count against an applicant under GS. Kept the current 12-month living-cost figures (AUD 29,710 for the student, AUD 10,394 for a partner, AUD 4,449 per child) and AUD 2,500 base charge, which match Home Affairs' current Subclass 500 page. Synced DOCX and EPUB.
+
+Primary sources: [Home Affairs, Genuine Student requirement](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement); [Home Affairs, Student visa subclass 500 costs and living costs](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500).
+
+This is a targeted factual and line-edit correction, not a full Australia chapter audit; overall score remains 8.9.
