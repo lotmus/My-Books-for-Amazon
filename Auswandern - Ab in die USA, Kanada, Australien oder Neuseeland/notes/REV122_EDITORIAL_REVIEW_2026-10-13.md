@@ -126,6 +126,17 @@ Sources: [U.S. Department of Labor, COBRA FAQ for workers](https://www.dol.gov/a
 **Score check:** subject/fact-check remains 9.9/10; clarity 9.8, sentence craft 9.8, mechanics 10, and overall 8.9 remain unchanged. This correction closes an internally inconsistent price and legal-summary issue but does not replace the still-open full-book volatility audit, device preview, live Amazon.de category/keyword validation, or reader/conversion evidence.
 
 
+## REV124 U.S. Employment Comparison Pass — 13 October 2026
+
+Replaced the overconfident claim that the U.S. technology job market was at its harshest in years with the latest available Challenger snapshot. Through September 2026, employers announced 165,925 technology-sector job cuts, 54% above the prior-year period, alongside 22,361 announced technology hires. The manuscript now identifies these as announcements rather than net job losses or a measure of an individual's prospects. Rewrote the summary to describe At-will as the default rule with exceptions, and to state that leave and insurance depend on employer, state, and plan.
+
+Qualified the leave passage: the 11/18 vacation-day averages are identified as private-industry BLS averages for March 2026, not entitlements; state and local paid sick-leave laws are acknowledged; FMLA leave is described as unpaid, job-protected, and limited to eligible workers at covered employers; and German parental leave is distinguished from the separate, time-limited parental allowance. Updated the REV124 DOCX and EPUB.
+
+Sources: [Challenger, September 2026 job cuts](https://www.challengergray.com/blog/job-cuts-fall-in-september-hiring-plans-up-3-over-2025-on-weak-early-seasonal-hiring/); [BLS, average paid vacation by service requirement, March 2026](https://www.bls.gov/charts/employee-benefits/paid-leave-sick-vacation-days-by-service-requirement.htm); [DOL, paid leave](https://www.dol.gov/agencies/wb/featured-paid-leave); [DOL, FMLA FAQ](https://www.dol.gov/agencies/whd/fmla/faq); [German Federal Family Portal, parental leave and parental allowance](https://familienportal.de/familienportal/familienleistungen/elterngeld/faq/wie-lange-kann-ich-elterngeld-bekommen--124728).
+
+**Score check:** the remaining whole-book scores are unchanged; subject/fact-check 9.9, clarity 9.8, sentence craft 9.8, literary-reader style 9.6, mechanics 10, overall 8.9. This targeted comparison pass does not complete the whole-book audit.
+
+
 ## REV124 Australia–Germany Pension Tax Clarification - 14 October 2026
 
 The Australia family and retirement chapter said the Germany–Australia tax treaty simply credits German tax against Australian tax. That compressed several distinct rules and could lead readers to assume an automatic full credit. Rewrote the passage to explain that Australian tax residents generally report foreign pensions; the treaty generally assigns pension and social-security taxation to the residence country, with defined source-country exceptions; post-2016 social-security payments have a 15% gross source-tax cap; and government-service pensions follow separate rules. Added the ATO's specific request for a German pension insurance record to calculate any deductible undeducted purchase price (UPP), and softened the foreign-tax-credit claim to reflect that it depends on statutory conditions. Replaced the generic ATO link with direct ATO and Treasury treaty sources. Synced Markdown, REV124 DOCX, and EPUB.
