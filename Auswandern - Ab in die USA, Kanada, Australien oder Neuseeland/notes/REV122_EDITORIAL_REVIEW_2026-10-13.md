@@ -38,3 +38,12 @@ Updated the US health-system chapter in the editable Markdown and REV124 publica
 Primary sources: CMS SHO Letter 26-001, https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf; HealthCare.gov, https://www.healthcare.gov/immigrants/lawfully-present-immigrants/.
 
 **Reassessment:** subject/fact-check rises from 8.6 to 8.7 for the verified update; the overall score remains 8.8. This single chapter update does not resolve the stated gap: all volatile legal, tax, healthcare, and cost claims across the roughly 325,000-word book have not been re-verified. The description now states that the USA section is the most extensive and that the other three destinations each have their own path. Sellability remains 8.4 pending Amazon.de search/category validation and reader/conversion evidence. The REV122 cover remains attractive and legible, though its Sydney/New Zealand-like landscape does not visually signal the full four-country scope. No Kindle device preview or live KDP upload was performed.
+
+
+## REV124 Australia Parent-Visa Fee Correction - 13 October 2026
+
+The targeted Australia chapter audit found an outdated Contributory Parent visa charge: the text listed AUD 47,600, but the Department of Home Affairs currently lists AUD 49,900 for a single applicant, paid in two instalments. The chapter now states AUD 6,300 on application and AUD 43,600 before grant, updates the total everywhere, links directly to the Subclass 143 page, and advances its source date to 13 October 2026. REV124 DOCX and EPUB were synchronized; package integrity and all chapter occurrences were checked.
+
+Primary sources: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/contributory-parent-143 and https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-priorities/parent-visas. The current Home Affairs queue page still estimates 18 years for new Contributory Parent applications and 42 years for Parent/Aged Parent applications. Partner visa cost and processing time statements were also compared with Home Affairs' current pages and remain consistent.
+
+**Reassessment:** subject/fact-check 8.8/10 after two targeted updates (US Medicaid/CHIP policy and Australia Parent visa fees). This is still not a complete audit of the book. Remaining content scores are unchanged; no unsupported 10/10 ratings are claimed.
