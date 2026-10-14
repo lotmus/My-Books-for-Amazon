@@ -248,3 +248,11 @@ These line edits improve clarity but do not change the book-wide mechanics or ov
 ## REV125 New Zealand idiom and sentence repair - 14 October 2026
 
 The literary-language scan found a broken comparison in the Kiwi English section (“Als hätte jemand … aufgehört zu sprechen –, sind aber”) and a truncated word in the following sentence (“dein Gegen”). Rebuilt the passage with complete sentences, corrected “Gegenüber,” and softened a broad claim about local conversation into a specific explanation of how a short “sweet as” can function in many exchanges. The DOCX and EPUB passages match exactly. This is a targeted language and representation adjustment; book-wide style score remains unchanged.
+
+## REV125 First-chapter prose and evidence-precision pass - 14 October 2026
+
+The next scan found a broken dash construction in the readiness discussion, a plural imperative in otherwise singular reader address, an unfinished dash list in the expectations section, a dangling comma in the destination-choice bullet, and a sentence splice in the health comparison. Rewrote these passages for complete syntax and cleaner progression. The qualification-recognition example now makes clear that its German study concerns immigration to Germany and cannot be transferred directly to emigration; the cited relative effects remain unchanged and the IZA paper is already linked in the chapter. The health comparison now opens with two direct sentences. All five passages match between DOCX and EPUB.
+
+Primary source for the study: [IZA Discussion Paper 17444](https://www.iza.org/publications/dp/17444/lifting-barriers-to-skill-transferability-immigrant-integration-through-occupational-recognition).
+
+This pass repairs verified defects in the opening chapters but does not complete the full-book proof; scores remain unchanged.
