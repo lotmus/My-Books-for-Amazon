@@ -113,3 +113,12 @@ A focused review of Australia's family and retirement chapter found that the Sub
 Primary sources: [Home Affairs, Sponsored Parent (Temporary) visa, subclass 870](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/sponsored-parent-temporary-870); [Home Affairs, Sponsored Parent visa explanation](https://immi.homeaffairs.gov.au/bringing/Pages/introducing-five-year-temp-sponsored-parent-visa.aspx).
 
 **Subject/fact-check reassessment:** 9.1/10 (up from 9.0) for closing a material decision-risk omission with a primary-source check and carrying the correction through the upload files. The full country-by-country audit remains open; overall stays 8.9. This single correction does not justify a 10/10 rating.
+
+
+## REV124 Australia–Germany Pension Tax Clarification - 14 October 2026
+
+The Australia family and retirement chapter said the Germany–Australia tax treaty simply credits German tax against Australian tax. That compressed several distinct rules and could lead readers to assume an automatic full credit. Rewrote the passage to explain that Australian tax residents generally report foreign pensions; the treaty generally assigns pension and social-security taxation to the residence country, with defined source-country exceptions; post-2016 social-security payments have a 15% gross source-tax cap; and government-service pensions follow separate rules. Added the ATO's specific request for a German pension insurance record to calculate any deductible undeducted purchase price (UPP), and softened the foreign-tax-credit claim to reflect that it depends on statutory conditions. Replaced the generic ATO link with direct ATO and Treasury treaty sources. Synced Markdown, REV124 DOCX, and EPUB.
+
+Primary sources: [Australian Taxation Office, Foreign pensions and annuities](https://www.ato.gov.au/mytax25ForeignPenAndAnnuity); [Australia–Germany tax treaty, Articles 17, 18 and 22](https://treasury.gov.au/sites/default/files/2019-03/GermanyDTA-1.pdf).
+
+**Subject/fact-check reassessment:** 9.2/10 (up from 9.1) after replacing an overgeneralized tax explanation with treaty-specific rules and ATO filing guidance. The full tax and immigration audit across all four destinations is still outstanding; overall remains 8.9.
