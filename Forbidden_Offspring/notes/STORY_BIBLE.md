@@ -1,6 +1,6 @@
 # Forbidden Offspring
 
-**Pen name:** Genevieve Crisp (set 13 Oct 2026; the author is not the scientist). Recorded in `notes/LOTHAR_RULES.md`. The scientist is Frank Stone in speech and narration; his paperwork says Frank N. Stone (consent form, notebook flyleaf in ch. 8), a quiet sound-alike joke that the book never names or explains. Do not write the famous name anywhere (Lothar, 13 Oct 2026).
+**Pen name:** Genevieve Crisp (Gene + CRISP[R], a pun the book never explains; set 13 Oct 2026; the author is not the scientist). Recorded in `notes/LOTHAR_RULES.md`. The scientist is Frank Stone in speech and narration; his paperwork says Frank N. Stone (consent form, notebook flyleaf in ch. 8), a quiet sound-alike joke that the book never names or explains. Do not write the famous name anywhere (Lothar, 13 Oct 2026).
 **Scientist:** Frank Stone
 **Spelling:** American English
 **Status:** story bible only, no manuscript yet (12 Oct 2026). Title settled: Forbidden Offspring (formerly "The Edit")
