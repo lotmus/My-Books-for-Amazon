@@ -4,17 +4,17 @@ Stand: 14. Oktober 2026. Diese Datei gilt ausschließlich für die deutschsprach
 
 ## Sieben Suchbegriff-Felder
 
-KDP erlaubt bis zu sieben Suchbegriffe. Die folgenden kurzen, inhaltlich passenden Phrasen sind redaktionelle Kandidaten, keine Aussage über Suchvolumen oder Ranking. Vor dem Eintragen im KDP-Konto die Amazon.de-Suchvorschläge und die tatsächlichen Treffer prüfen. Pro Feld eine Phrase eintragen; nur behalten, wenn die Ergebnisse überwiegend passende Auswanderungsratgeber zeigen.
+KDP empfiehlt bis zu sieben relevante Suchbegriffe, meist als kurze Phrasen mit zwei bis drei Wörtern. Die folgenden Kandidaten nutzen Fachbegriffe und konkrete Leserfragen, statt Titelwörter wie „Auswandern“ und die vier Zielländer in fast jedem Feld zu wiederholen. Sie sind redaktionelle Vorschläge, keine Aussage über Suchvolumen oder Ranking. Vor dem Eintragen im KDP-Konto Amazon.de-Suchvorschläge und Treffer prüfen; nur behalten, wenn die Ergebnisse überwiegend passende Ratgeber zeigen.
 
-1. USA Einwanderungsvisum Green Card
-2. Kanada Express Entry Skilled Worker
-3. Australien Fachkräfte Visum Punkte
-4. Neuseeland Arbeitsvisum Skilled Migrant
-5. Auswandern Familie Schule Gesundheit
-6. Abmeldung Steuern Rente Versicherung
-7. Auswanderungskosten Umzug Checkliste
+1. Green Card beantragen
+2. Express Entry CRS Punkte
+3. SkillSelect Punkteverfahren
+4. Skilled Migrant AEWV
+5. Berufsanerkennung reglementierte Berufe
+6. Steuerwohnsitz Wegzug Einkommen
+7. Umzugskosten Budget Liquidität
 
-Die Phrasen beschreiben Themen des Buchs und vermeiden bloße Wiederholungen des Titels. Keine fremden Autorennamen, Buchtitel, Verkaufsversprechen, Werbeangaben oder unpassenden Suchbegriffe verwenden.
+Die Phrasen beschreiben konkrete Visawege, Berufszugang, Steuern und Planungsthemen, die im Buch behandelt werden. Die Titelwörter werden nur dort verwendet, wo sie für die präzise Bezeichnung eines Suchthemas nötig sind. Keine fremden Autorennamen, Buchtitel, Verkaufsversprechen, Werbeangaben oder unpassenden Suchbegriffe verwenden.
 
 ## Kategorien
 
@@ -33,4 +33,4 @@ Für jede Kategorie in Amazon.de mehrere aktuell gelistete Vergleichstitel öffn
 3. Vorher und nachher Produktseite, tatsächliche Regale und Suchtreffer nach Freigabe kontrollieren.
 4. Suchbegriffe und Kategorien nur bei klarer thematischer Passung aktualisieren. Eine bessere Position oder höhere Verkäufe sind damit nicht garantiert.
 
-KDP-Hinweise: [Keywords](https://kdp.amazon.com/en_US/help/topic/G201743260) und [Kategorien](https://kdp.amazon.com/en_US/help/topic/G200652170). Die KDP-Hilfeseiten bestätigen bis zu sieben relevante Suchbegriffe sowie drei Kategorien; Markt- und Formatoptionen können abweichen.
+KDP-Hinweise: [Metadata Guidelines](https://kdp.amazon.com/en_US/help/topic/G201097560), [Keywords](https://kdp.amazon.com/en_US/help/topic/G201298500) und [Kategorien](https://kdp.amazon.com/en_US/help/topic/G200652170). KDP empfiehlt bis zu sieben relevante Suchbegriffe, meist als Phrasen aus zwei bis drei Wörtern, und fordert eine Prüfung von Suchvorschlägen und Trefferqualität. Es erlaubt bis zu drei passende Kategorien; Markt- und Formatoptionen können abweichen.
