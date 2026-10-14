@@ -106,6 +106,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Independent inventions of writing.* Houston, Stephen D., ed. The First Writing: Script Invention as History and Process. Cambridge: Cambridge University Press, 2004.
 
+*The earlier deliberate archives at Ebla and Hattusa.* Matthiae, Paolo. Ebla: Archaeology and History. Translated by Richard Bates, Mattia Bilardello, and Anita Weston. Cities of the Ancient World. London: Routledge, 2021.
+
 *How remembering rebuilds and distorts.* Schacter, Daniel L. The Seven Sins of Memory. Boston: Houghton Mifflin, 2001.
 
 *What is known, and not, about the Library of Alexandria.* Bagnall, Roger S. “Alexandria: Library of Dreams.” Proceedings of the American Philosophical Society 146 (2002): 348–62.
@@ -148,6 +150,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Zero, place value, Aryabhata, and Brahmagupta.* Plofker, Kim. Mathematics in India. Princeton: Princeton University Press, 2009.
 
+*Gandhi's own account of the Jain, Tolstoyan, and Thoreauvian roots of his nonviolence.* Gandhi, Mohandas K. An Autobiography: The Story of My Experiments with Truth. Translated by Mahadev Desai. Boston: Beacon Press, 1957.
+
 *Caste, and how colonial rule reshaped it.* Dirks, Nicholas B. Castes of Mind: Colonialism and the Making of Modern India. Princeton: Princeton University Press, 2001.
 
 *Jain ahimsa.* Dundas, Paul. The Jains. 2nd ed. London: Routledge, 2002.
@@ -159,6 +163,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How Athenian democracy worked.* Hansen, Mogens Herman. The Athenian Democracy in the Age of Demosthenes. Oxford: Blackwell, 1991; repr. Norman: University of Oklahoma Press, 1999.
 
 *Democracy’s long afterlife.* Cartledge, Paul. Democracy: A Life. Oxford: Oxford University Press, 2016.
+
+*The "Spartan mirage" and the outsider sources behind Sparta's reputation.* Powell, Anton, and Stephen Hodkinson, eds. Sparta: Beyond the Mirage. Swansea: Classical Press of Wales, 2002.
 
 *The Antikythera mechanism.* Freeth, Tony, et al. “Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism.” Nature 444 (2006): 587–91.
 
@@ -182,6 +188,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Great Schism of 1054.* Chadwick, Henry. East and West: The Making of a Rift in the Church. Oxford: Oxford University Press, 2003.
 
+*Early Christian persecution as sporadic rather than constant.* Moss, Candida. The Myth of Persecution: How Early Christians Invented a Story of Martyrdom. New York: HarperOne, 2013.
+
 *The Investiture Controversy and Canossa.* Blumenthal, Uta-Renate. The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century. Philadelphia: University of Pennsylvania Press, 1988.
 
 *The Crusades.* Riley-Smith, Jonathan. The Crusades: A History. 3rd ed. London: Bloomsbury, 2014.
@@ -189,6 +197,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Saladin's retaking of Jerusalem, 1187.* Phillips, Jonathan. The Life and Legend of the Sultan Saladin. New Haven: Yale University Press, 2019.
 
 *The sack of Constantinople, 1204.* Phillips, Jonathan. The Fourth Crusade and the Sack of Constantinople. New York: Viking, 2004.
+
+*The Toledo school of translators and Norman Sicily as the main channels for Islamic scholarship reaching Europe.* Haskins, Charles Homer. The Renaissance of the Twelfth Century. Cambridge, MA: Harvard University Press, 1927.
 
 *How Christianity grew.* Stark, Rodney. The Rise of Christianity. Princeton: Princeton University Press, 1996.
 
@@ -234,6 +244,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Kingdom of Kongo and the Portuguese letters.* Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge: Cambridge University Press, 1998.
 
+*Lalibela's multi-phase rock-hewn construction.* Phillipson, David W. Ancient Churches of Ethiopia: Fourth–Fourteenth Centuries. New Haven: Yale University Press, 2009.
+
 *Asante, the Golden Stool, and the 1900 war.* McCaskie, T. C. State and Society in Pre-Colonial Asante. Cambridge: Cambridge University Press, 1995.
 
 *The Congo Free State's rubber regime.* Hochschild, Adam. King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa. Boston: Houghton Mifflin, 1998.
@@ -247,6 +259,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The Spanish soldiers wondering if they were dreaming.* Díaz del Castillo, Bernal. The Conquest of New Spain. c. 1568. Translated by J. M. Cohen. London: Penguin, 1963.
 
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
+
+*New radiocarbon dating of Machu Picchu's occupation.* Burger, Richard L., Lucy C. Salazar, Jason Nesbitt, Eden Washburn, and Lars Fehren-Schmitz. "New AMS Dates for Machu Picchu: Results and Implications." Antiquity (2021). doi:10.15184/aqy.2021.99.
 
 *A single domestication of maize.* Matsuoka, Yoshihiro, et al. “A Single Domestication for Maize Shown by Multilocus Microsatellite Genotyping.” PNAS 99 (2002): 6080–84.
 
@@ -267,6 +281,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The high estimate of 1966.* Dobyns, Henry F. “Estimating Aboriginal American Population: An Appraisal of Techniques with a New Hemispheric Estimate.” Current Anthropology 7 (1966): 395–416.
 
 **The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age**
+
+*The "gunpowder empires" thesis and its revisions.* Streusand, Douglas E. Islamic Gunpowder Empires: Ottomans, Safavids, and Mughals. Boulder: Westview Press, 2011.
 
 *Numbers embarked and died in the Atlantic slave trade.* Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010.
 
@@ -321,6 +337,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Plessy v. Ferguson and Jim Crow law.* Woodward, C. Vann. The Strange Career of Jim Crow. 3rd ed. New York: Oxford University Press, 1974.
 
 *Japanese American incarceration and Korematsu.* Robinson, Greg. By Order of the President: FDR and the Internment of Japanese Americans. Cambridge, MA: Harvard University Press, 2001.
+
+*The Page Act of 1875 as the first federal law to exclude on racial and gendered grounds.* Lee, Erika. At America's Gates: Chinese Immigration during the Exclusion Era, 1882–1943. Chapel Hill: University of North Carolina Press, 2003.
 
 *The 2008 financial crisis.* Blinder, Alan S. After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead. New York: Penguin Press, 2013.
 
@@ -385,6 +403,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The empire as a whole, and the Janissary levy.* Finkel, Caroline. Osman’s Dream: The Story of the Ottoman Empire, 1300–1923. New York: Basic Books, 2005.
 
 *The fall of Constantinople.* Crowley, Roger. 1453: The Holy War for Constantinople and the Clash of Islam and the West. New York: Hyperion, 2005.
+
+*The millet system's later, tidier retelling as partial administrative myth.* Braude, Benjamin. "Foundation Myths of the Millet System." In Christians and Jews in the Ottoman Empire, edited by Benjamin Braude and Bernard Lewis, vol. 1, 69–88. New York: Holmes & Meier, 1982.
 
 *The millet system.* Barkey, Karen. Empire of Difference: The Ottomans in Comparative Perspective. Cambridge: Cambridge University Press, 2008.
 

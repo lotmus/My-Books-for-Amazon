@@ -176,7 +176,7 @@ One detail matters here. Walking upright came first. Australopithecus was standi
 
 *“This was not a ladder,” the Society recorded. “It was a branch. Most branches on that tree went extinct. This one did not.”*
 
-For a long stretch after that, the dolphins paid this branch no special notice. An ape walking upright on a savanna was not obviously more interesting than any other animal finding its niche. Dolphins had seen plenty of niches found.
+For a long stretch after that, the dolphins paid this branch no special notice. An ape walking upright in the mixed woodland of early Africa was not obviously more interesting than any other animal finding its niche. Dolphins had seen plenty of niches found.
 
 That changed on the day the free hands picked up a stone, and kept it.
 
@@ -256,7 +256,7 @@ The genus Homo turns up in the record about 2.8 million years ago, with stone to
 
 By about 1.6 million years ago, a tall, long-legged Homo erectus boy, found on the shore of Lake Turkana in Kenya, was built very nearly like a modern human from the neck down, and his kind were already leaving. The oldest hominin bones outside Africa, at Dmanisi in Georgia, are about 1.8 million years old. The first human diaspora was under way more than a million years before any of the humans alive today existed.
 
-Homo sapiens itself is younger than most people assume. The oldest fossils attributed to it are about 300,000 years old and come from Jebel Irhoud in Morocco, at the northwestern corner of the continent, a long way from the Rift Valley. Others turn up in Ethiopia and South Africa. There was no single garden of origin. Humanity's ancestors were a scatter of connected populations across an entire continent, trading genes and ideas, and the modern human form came together piece by piece. They did not have the continent to themselves, either: deep in a South African cave system, a small-brained relative called Homo naledi, found in 2013 and dated to around the same period, was living alongside early modern humans.
+Homo sapiens itself is younger than most people assume. The oldest fossils attributed to it are about 300,000 years old and come from Jebel Irhoud in Morocco, at the northwestern corner of the continent, a long way from the Rift Valley. Others turn up in Ethiopia and South Africa. There was no single garden of origin. Humanity's ancestors were a scatter of connected populations across an entire continent, trading genes and ideas, and the modern human form came together piece by piece. They did not have the continent to themselves, either: deep in a South African cave system, a small-brained relative called Homo naledi, found in 2013 and dated to around the same period, confirms a different lineage survived into the same broad window, though no site yet shows the two populations actually crossing paths.
 
 The evidence that these were people who thought, and not merely people who made tools, also comes from the south. At Blombos Cave on South Africa's coast, pieces of ochre engraved with crosshatched patterns and strings of shell beads, some 75,000 years old or more, show humans making marks for no reason except meaning. They are among the earliest known steps toward almost everything that follows in later chapters.
 
@@ -406,7 +406,7 @@ A mark also does not drift. Human memory does, and it drifts in company. Each ti
 
 *Professor Click-Click-Whoosh, in the margin: “Modern humans have a name for the same wrong memory held by many heads at once: the Mandela effect, after the large number of them who remember Nelson Mandela dying in prison in the 1980s. He walked free in 1990, became president of South Africa, and died in 2013. The newspapers of 1990 say so, and they have not changed their minds. That is the whole case for clay.”*
 
-The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held thousands of tablets on medicine, astronomy, and literature, deliberately collected — the first evidence of a society building a memory on purpose, for readers not yet born.
+The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held thousands of tablets on medicine, astronomy, and literature, deliberately collected — the most famous early case of a society building a memory on purpose, for readers not yet born, following earlier deliberately kept archives at Ebla and Hattusa by well over a thousand years.
 
 The far more famous Library of Alexandria, founded in Egypt under the Ptolemaic dynasty in the early 3rd century BCE, took the same idea and multiplied its ambition: not merely a collection, but an attempt to gather a copy of every text in the known world, reportedly by searching every ship that docked in Alexandria's harbor for scrolls worth transcribing. Its actual end is more mundane than its popular legend. There was no single dramatic burning by a single villain — a fire during Julius Caesar's visit in 48 BCE damaged part of the collection. Further decline followed political instability and reduced funding over the following centuries. The destruction of the associated Serapeum temple in 391 CE, under an edict against pagan sites, finished off what direct evidence can still trace. By the time of the Arab conquest in the 7th century, the library had already ceased to exist as a major institution for hundreds of years, which is why most historians reject the later, popular story blaming that conquest for its loss.
 
@@ -474,7 +474,7 @@ Much of what is known about this chapter, Shang oracle bones aside, comes down t
 
 The Qin dynasty collapsed within four years of Qin Shi Huang's death, brutal standardization having generated exactly the resentment brutal standardization tends to generate. The Han dynasty that followed kept most of the standardization and dropped most of the brutality, a pairing worth remembering for later chapters.
 
-One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, which seized power in 581 CE and reunified China in 589 after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth, that was meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for some thirteen hundred years before being abolished in 1905 — very likely the longest-running standardized test in recorded history, and one no aristocrat's son could inherit his way past, however much some of them clearly wished otherwise.
+One of the dynasties riding that tide left a mark still felt in how the country is run today. The Sui dynasty, which seized power in 581 CE and reunified China in 589 after nearly four centuries of division, introduced the imperial civil service examination: a test of the classical texts, open in principle to any man regardless of birth but in practice affordable mainly to families who could pay for years of classical schooling, meant to fill government posts by merit instead of pedigree. Refined and expanded under the Tang and Song dynasties that followed, the exam system ran for some thirteen hundred years before being abolished in 1905 — very likely the longest-running standardized test in recorded history, even as a hereditary back door, the Tang-era yin privilege, let some officials' sons skip it outright.
 
 This pattern — unify, flourish, fracture, reunify — repeats across Chinese history for the next two thousand years with a regularity dolphin scholars compare, only half-jokingly, to a tide.
 
@@ -500,7 +500,7 @@ It also carried, and honest scholarship has to say so, a hierarchy of birth. Cas
 
 In the 6th and 5th centuries BCE, two reform movements grew up beside it. Siddhartha Gautama, the Buddha, taught that suffering comes from craving and can be ended by a disciplined middle path; his teaching crossed Asia and, over the following centuries, largely faded in the country of its birth, a rare case of an export outperforming the home market. Mahavira, in the Jain tradition, pressed one point further than anyone: ahimsa, non-harm, practiced to the degree that devout monks sweep the ground before them to avoid stepping on insects.
 
-Dolphin scholarship extends the Jains the same warm professional regard it will later extend to the Amish, and for the same reason: they looked at the ability to do harm and voted, on purpose, for less of it. Their idea outlived every empire in this chapter and, some twenty-five centuries later, turned up in the luggage of a lawyer from Gujarat named Gandhi.
+Dolphin scholarship extends the Jains the same warm professional regard it will later extend to the Amish, and for the same reason: they looked at the ability to do harm and voted, on purpose, for less of it. Their idea outlived every empire in this chapter and, filtered through a Gujarati upbringing already steeped in Jain and Vaishnava ideas of non-harm and then fused with Tolstoy's Christian pacifism and Thoreau's civil disobedience, resurfaced twenty-five centuries later in the practice of a lawyer named Gandhi.
 
 Political unity came in the 4th century BCE. The Mauryan Empire, founded by Chandragupta around 321 BCE, a few years after Alexander's weary army turned back at the edge of the subcontinent, ruled most of it. Its chief minister, traditionally Kautilya, is credited with the Arthashastra, a manual of statecraft so cheerfully ruthless, with careful chapters on spies, poisoners, and economic warfare, that it reads as Machiavelli, nearly two thousand years early and with a better index. (Chandragupta's grandson Ashoka turns up again, in a considerably better mood, in the chapter on the great faiths.)
 
@@ -524,7 +524,7 @@ The qualifier matters more than the achievement, so it comes first. "Citizen" in
 
 Within that limit, the invention was still real. Many public offices were filled by lot, sortition, in place of election, on the theory that any citizen was fit to serve and that voting for office invited wealthy or persuasive candidates to dominate it. Ostracism let the assembly exile a citizen, no crime required, for ten years, if enough people simply voted that his influence had grown dangerous.
 
-Sparta, Athens' great rival, organized itself around almost the opposite values: a rigid military caste system, an economy built on the forced labor of the conquered Helot population, and a citizenry trained from childhood for war, not debate. Sparta was not democracy's villain so much as evidence that "successful ancient Greek city-state" did not imply any particular set of values at all.
+Sparta, Athens' great rival, organized itself around almost the opposite values — a rigid military caste system, an economy built on the forced labor of the conquered Helot population, and a citizenry trained from childhood for war, not debate — though much of this picture comes from Athenian and later outsiders writing generations afterward, and historians now treat its most austere version with some caution. Sparta was not democracy's villain so much as evidence that "successful ancient Greek city-state" did not imply any particular set of values at all.
 
 Philosophy came out of this same world, asking the questions its politics kept raising. Socrates, in the 5th century BCE, questioned everything in public until Athens sentenced him to death for it. Plato, his student, distrusted democracy specifically, having watched it kill his teacher, and imagined a state ruled by trained philosopher-kings instead. Aristotle, Plato's student, wrote systematically across politics, ethics, biology, and logic, and his influence outlasted the city-states that produced him by roughly two thousand years.
 
@@ -580,7 +580,7 @@ Dolphin scholarship, which has always been content to enjoy the ocean and find f
 
 Buddhism, arising in the 5th or 6th century BCE from the teachings of Siddhartha Gautama in what is now Nepal and northern India, spread across Asia over the following centuries through trade routes and, in particular, the patronage of the Indian emperor Ashoka in the 3rd century BCE. Ashoka converted after a famously brutal conquest and then spent the rest of his reign promoting nonviolence.
 
-Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a persecuted minority faith before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-persecuted movement had, within seventy years of being legalized, become the state's own faith.
+Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a tolerated but occasionally suspect minority faith, enduring sporadic local persecutions and a few short, empire-wide crackdowns under Decius, Valerian, and Diocletian rather than constant repression, before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-persecuted movement had, within seventy years of being legalized, become the state's own faith.
 
 The faith did not stay one thing for long. Centuries of accumulated disagreement over doctrine, ritual, and who answered to whom came to a formal head in 1054, when the churches of Rome and Constantinople excommunicated each other's leaders in what historians call the Great Schism, splitting Christianity into its Western Catholic and Eastern Orthodox halves, a division the two sides would not formally revoke until 1965 and have still not fully healed. A faith organized enough to convert an empire was also, it turned out, organized enough to split one.
 
@@ -596,7 +596,7 @@ The Crusades, beginning in 1095 when Pope Urban II called for a military campaig
 
 Jerusalem changed hands several times across the Crusading period. Its most consequential loss, for the Crusader side, came in 1187, when the Kurdish Muslim general Saladin defeated the Crusader army at the Battle of Hattin and retook the city after eighty-eight years of Crusader rule; accounts on both sides noted that he spared the Christian population rather than repeating the massacre the First Crusade had inflicted on Jerusalem's residents in 1099. None of the Crusader states the campaigns produced lasted much past 1291.
 
-What outlasted the fighting was the contact: increased trade, translated texts, and exposure to Islamic scholarship's advances flowing back into a Western Europe that would draw on them heavily once its own universities began forming in the 12th and 13th centuries.
+What outlasted the fighting in the Levant was trade and contact, but the heavier traffic in translated texts and Islamic scholarship reached Western Europe mainly through a different front — Islamic Spain's Toledo school of translators and Norman Sicily — feeding the universities that began forming in the 12th and 13th centuries.
 
 **Dolphin verdict:**
 
@@ -610,7 +610,7 @@ The dolphins found the name suspicious.
 
 *“Was it truly dark, or were the humans simply missing paperwork?”*
 
-There were fewer records than during the Roman Empire, and many cities shrank. Trade became less extensive in some regions.
+There were fewer records than during the Roman Empire, many cities shrank, and in parts of the former Western Empire — Britain especially — the archaeological record this book's Rome chapter cited (fewer coins, cruder pottery, smaller buildings) shows a genuine, sharp drop in material life, not just missing paperwork. That was a regional collapse, though, not a global one.
 
 Elsewhere, life went on. Emperors still governed in Constantinople, scholars in Baghdad studied mathematics and astronomy, and India and China flourished.
 
@@ -624,7 +624,7 @@ The label itself has a specific culprit and a much narrower original meaning tha
 
 Nor was Europe standing still. Kingdoms formed, trade expanded, farming improved with the heavy plow, the water mill, and the horse collar, and, a little later, universities appeared.
 
-Charlemagne, crowned Holy Roman Emperor in Rome on Christmas Day, 800 CE, gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his biographer Einhard's account, kept writing tablets under his pillow to practice his letters in spare moments, and began too late in life to master the skill.
+Charlemagne, crowned Emperor of the Romans in Rome on Christmas Day, 800 CE — reviving the imperial title in the West more than a century before Otto I's 962 coronation gave rise to what later became known as the Holy Roman Empire — gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his biographer Einhard's account, kept writing tablets under his pillow to practice his letters in spare moments, and began too late in life to master the skill.
 
 *“The man who revived European literacy,” dolphin historians observed, “never quite learned to write. Humans, it should be said, have never let competence stand in the way of sponsorship.”*
 
@@ -722,7 +722,7 @@ Dahomey, on the coast, grew rich and infamous on a different inventory: captives
 
 ### The state that stayed
 
-Ethiopia kept its crown. The rock-hewn churches of Lalibela, cut downward into the stone in the twelfth and thirteenth centuries, are still churches. The Solomonic kings claimed a line back to Solomon and made the claim do political work for centuries, a founding story of the usual kind: useful, ancient, and not a census. What is not a story is Adwa. In 1896 an Ethiopian army under Menelik II destroyed an Italian invading force that had assumed, as the decade assumed, that an African state could be dictated to. It was the first time a European army of that era was beaten in the open by an African one and the victory allowed to stand. Italy came back in 1935, with aircraft and poison gas, and that crime belongs to another file. Adwa remains. A rich highland kingdom, with its own church, its own script, and its own guns, declined to be partitioned. The empire Menelik was also building over his neighbors deserves no romance either. They do insist that the map of the scramble has one country-shaped hole in it, and that the hole was made by force of arms, not by European courtesy.
+Ethiopia kept its crown. The rock-hewn churches of Lalibela are still churches; local tradition and most popular accounts credit their carving to the twelfth and thirteenth century reign of King Gebre Mesqel Lalibela, though archaeological analysis of the site suggests the complex was cut in several phases over a much longer span, some of it centuries older. The Solomonic kings claimed a line back to Solomon and made the claim do political work for centuries, a founding story of the usual kind: useful, ancient, and not a census. What is not a story is Adwa. In 1896 an Ethiopian army under Menelik II destroyed an Italian invading force that had assumed, as the decade assumed, that an African state could be dictated to. It was the first time a European army of that era was beaten in the open by an African one and the victory allowed to stand. Italy came back in 1935, with aircraft and poison gas, and that crime belongs to another file. Adwa remains. A rich highland kingdom, with its own church, its own script, and its own guns, declined to be partitioned. The empire Menelik was also building over his neighbors deserves no romance either. They do insist that the map of the scramble has one country-shaped hole in it, and that the hole was made by force of arms, not by European courtesy.
 
 ### What the scramble was for
 
@@ -756,11 +756,11 @@ Caral, in Peru's Supe Valley, was raising monumental pyramids around 2600 BCE, r
 
 By 1519 the Aztec, or Mexica, capital of Tenochtitlan, built on an island in a lake and fed by artificial floating gardens, held, on estimates that run from about 60,000 to more than 200,000, more people than most European cities of the day, even at the low figure. It had aqueducts, causeways, and a market that astonished the Spaniards. It also practiced human sacrifice on a scale that horrified them, and that needs saying plainly: a civilization can be both a marvel and a horror, and the humans of both hemispheres demonstrated as much.
 
-In the Andes, the Inca Empire, at its height in the 15th century, ruled perhaps ten million people (estimates run from about six to fourteen million) across the length of the mountain chain, linked by roads and rope bridges running somewhere from 14,000 to 25,000 miles depending on what counts as part of the network. It did this without the wheel, without draft animals beyond the llama, and without any writing that anyone has been able to read. It kept its records on the quipu, a system of knotted, colored strings in which the type and position of each knot recorded numbers, and, some scholars now argue, possibly more.
+In the Andes, the Inca Empire, at its height in the late 15th and early 16th centuries, ruled perhaps ten million people (estimates run from about six to fourteen million) across the length of the mountain chain, linked by roads and rope bridges running somewhere from 14,000 to 25,000 miles depending on what counts as part of the network. It did this without the wheel, without draft animals beyond the llama, and without any writing that anyone has been able to read. It kept its records on the quipu, a system of knotted, colored strings in which the type and position of each knot recorded numbers, and, some scholars now argue, possibly more.
 
 *“The writing chapter counted four independent inventions of writing,” dolphin historians noted. “The Inca ran an empire of ten million on knotted string and declined to be counted among them. The fifth candidate has never quite been ruled out.”*
 
-Inca stonework matched the roads for ambition. At sites like Sacsayhuamán above Cusco and the mountaintop retreat of Machu Picchu, built around 1450 CE for reasons still debated (a royal estate is the leading guess), masons fitted multi-ton stones together without mortar so precisely that a knife blade still cannot slide between the joints. The technique has helped several Inca walls outlast earthquakes that leveled colonial Spanish buildings raised right beside them centuries later.
+Inca stonework matched the roads for ambition. At sites like Sacsayhuamán above Cusco and the mountaintop retreat of Machu Picchu, occupied from at least 1420 CE according to 2021 radiocarbon dating of its burials, a generation earlier than the traditional chronicle-based date of around 1450, for reasons still debated (a royal estate is the leading guess), masons fitted multi-ton stones together without mortar so precisely that a knife blade still cannot slide between the joints. The technique has helped several Inca walls outlast earthquakes that leveled colonial Spanish buildings raised right beside them centuries later.
 
 North of Mexico, Cahokia, beside the Mississippi near present-day St. Louis, held perhaps ten to twenty thousand people around 1100 CE and built Monks Mound, an earthwork larger at its base than the Great Pyramid of Giza. In the Amazon basin, farmers engineered dark, fertile soils, terra preta, that are still worked today.
 
@@ -790,7 +790,7 @@ Portugal did the patient groundwork first. Prince Henry the Navigator sponsored 
 
 England arrived late and, for its first century in the race, unsuccessfully. John Cabot, another Italian navigator, reached the coast of North America sailing for England in 1497, but no sustained English colony followed for over a hundred years; Roanoke, planted in 1587, disappeared entirely and was never explained. England's real entry came in the following century instead: the East India Company, chartered in 1600, and the Jamestown colony, founded in 1607, both starting small and unglamorous next to Spain's silver and Portugal's spice routes. Within three centuries, the empire built from those two unpromising beginnings would eclipse both.
 
-Gunpowder, invented in China centuries earlier, had by this point been adapted into cannon and firearms that gave technologically organized states a decisive edge over societies without them. Historians coined the term “gunpowder empires” for the Ottoman, Safavid, and Mughal states, which rose on exactly this advantage; Spain, Portugal, and later England and France ran the same arithmetic, carried by ship.
+Gunpowder, invented in China centuries earlier, had by this point been adapted into cannon and firearms that gave technologically organized states a decisive edge over societies without them. Historians coined the term “gunpowder empires” for the Ottoman, Safavid, and Mughal states, whose rise combined gunpowder weapons with cavalry, centralized administration, and the fiscal systems needed to pay for both; Spain, Portugal, and later England and France ran the same arithmetic, carried by ship.
 
 Much of the competition between these empires was carried out by men whose legal status depended solely on which flag happened to be paying them that year. Francis Drake raided Spanish treasure ships across the Caribbean and Pacific through the 1570s and 80s, completed the second circumnavigation of the globe in the process, and was knighted for all of it by Elizabeth I in 1581 — by Spain's perfectly reasonable accounting, a pirate who happened to be drawing an English queen's salary.
 
@@ -812,7 +812,7 @@ The trade outlived the laws against it. Britain banned it in 1807 and the United
 
 Among the captives was a young man of about nineteen named Kossola, taken when Dahomey's soldiers attacked his town in what is now Benin. In Alabama, the man who claimed him could not pronounce his name, and Kossola told him to call him Cudjo. Freed in 1865, he and other Clotilda survivors saved their wages, bought land, and built a settlement outside Mobile that they called African Town. In 1927 and 1928 the writer Zora Neale Hurston sat with him there and wrote down his life in his own words; the book, Barracoon, was not published until 2018. He died in 1935, one of the last survivors of the last known slave ship to reach the United States.
 
-Divers found the burned hull of the Clotilda in 2018, in the Mobile River upstream of Mobile Bay, a few miles from the town its passengers built.
+Divers confirmed the burned hull of the Clotilda in 2019, in the Mobile River upstream of Mobile Bay, a few miles from the town its passengers built.
 
 ## 1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry
 
@@ -830,7 +830,7 @@ Those arguments left the page. The American colonies declared independence from 
 
 The 1789 Declaration of the Rights of Man and of the Citizen proclaimed those rights universal in its title and meant, on close reading, men. Olympe de Gouges published a parallel Declaration of the Rights of Woman in 1791, pointing out the omission in the driest possible terms; the revolutionary tribunal had her guillotined in 1793, officially for her political pamphlets, and dolphin scholarship notes only that a government inventing universal rights from first principles found the principle easier to state than to extend.
 
-Industry arrived on a separate but overlapping timeline. Steam power, made practical by Thomas Newcomen's pumping engine of 1712 and efficient by James Watt's improved engine, patented in 1769, uncoupled work from muscle, wind, and water for the first time in human history, and by the early 1800s it was running textile mills, and by mid-century, railroads. Output per worker rose by multiples that no previous technology, including the plow and the domesticated ox, had ever delivered.
+Industry arrived on a separate but overlapping timeline. Steam power, made practical by Thomas Newcomen's pumping engine of 1712 and efficient by James Watt's improved engine, patented in 1769, uncoupled work from the muscle, water, and wind that had already powered it for a thousand years, freeing industry for the first time from needing a river's flow or a reliable wind, and by the early 1800s it was running textile mills, and by mid-century, railroads. Output per worker rose by multiples that no previous technology, including the plow and the domesticated ox, had ever delivered.
 
 The ratchet found an engine. For a million years the stored know-how of the species had been multiplied by muscle, its own or an animal's. Coal multiplied it by sunlight buried three hundred million years earlier. Wisdom had no equivalent fuel. Factory laws, public sanitation, and limits on child labor all came eventually, but each had to be argued for, one parliament and one generation at a time, after the damage was done.
 
@@ -852,7 +852,7 @@ Nationalism, an idea barely a century old in its modern form, hardened through t
 
 The country that announced itself in 1776 had already been a century and a half in the making, and dolphin historians refuse to start the story at the announcement.
 
-In 1607 a company of Englishmen planted a fort at Jamestown, in the territory of the Powhatan confederacy, and nearly starved. They had come for gold and a passage to Asia and found mosquitoes, brackish water, and a people who already lived there. What saved the settlement was a crop. Tobacco, learned from Native cultivators and shipped to London, turned a sickly outpost into a business. Businesses require labor. In 1619 a privateer, the White Lion, sold “twenty and odd” captive Africans to the colonists. Dolphin historians mark the year without romance. The colony was twelve years old. Slavery and the settlement arrived as a pair.
+In 1607 a company of Englishmen planted a fort at Jamestown, in the territory of the Powhatan confederacy, and nearly starved. They had come for gold and a passage to Asia and found mosquitoes, brackish water, and a people who already lived there. What saved the settlement was a crop. Tobacco turned a sickly outpost into a business — not the harsh local variety the Powhatan grew, but a sweeter Caribbean strain John Rolfe began planting around 1612 from smuggled Spanish seed, grown and cured with methods adapted from Native practice and shipped to London. Businesses require labor. In 1619 a privateer, the White Lion, sold “twenty and odd” captive Africans to the colonists. Dolphin historians mark the year without romance, though the colony did not yet have a law of hereditary slavery: that was built statute by statute over the following eighty-five years, through Virginia's 1662 and 1705 slave codes. What arrived in 1619 was the colony's first cargo of forced, unfree African labor; the legal machinery of race-based slavery came after.
 
 Farther north, in 1620, a smaller and more religious company stepped off the Mayflower onto Wampanoag land and signed a compact about self-government among themselves. The compact did not mention the people whose coast it was. A generation later the friendship had curdled into King Philip's War, 1675 to 1676, one of the deadliest conflicts in the region's history measured by the share of the population killed. Towns burned. Native nations of southern New England were shattered, sold into slavery in the Caribbean, or pushed beyond the settlements. The Thanksgiving story taught to children later left most of this out. Dolphin historians put it back in.
 
@@ -934,7 +934,7 @@ The same decades built the other America, the one of steel and rail. The transco
 
 Industry produced fortunes that still have names: Carnegie in steel, Rockefeller in oil, Morgan in money. It also produced towns where the company owned the houses, the store, and the sheriff. At Homestead in 1892, Carnegie Steel locked out its union and brought in armed guards. At Pullman in 1894, a strike against a company town became a national railroad strike, and the federal government sent troops. Workers died. The men who owned the mills called it order. The men who worked in them called it what it was. Greed, in this chapter, does not require a metaphor.
 
-People kept arriving. Ellis Island, from 1892, processed millions from southern and eastern Europe. At the same time Congress barred Chinese laborers, in the Exclusion Act of 1882, the first federal law to shut a gate by race, and mobs in western towns had already made the same point with fire. A country that advertised itself as a refuge wrote, in statute, the list of who was not invited. Both documents belong in the record. The advertisement and the statute are a pair.
+People kept arriving. Ellis Island, from 1892, processed millions from southern and eastern Europe. At the same time Congress barred Chinese laborers, in the Exclusion Act of 1882, the first federal law to exclude an entire immigrant labor force by race — seven years after the Page Act of 1875 had already used the same reasoning to bar most Chinese women — and mobs in western towns had already made the same point with fire. A country that advertised itself as a refuge wrote, in statute, the list of who was not invited. Both documents belong in the record. The advertisement and the statute are a pair.
 
 ### Empire, briefly, and the progressive repair
 
@@ -1028,7 +1028,7 @@ By the 1970s generals ruled most of South America: Brazil from 1964, Chile and U
 
 In Argentina, between 1976 and 1983, a commission looking only at cases it could document listed just under nine thousand people; the human rights groups that had been counting in real time said thirty thousand. Historians decline to choose the smaller number because it is easier to print. Some of the taken were drugged and thrown from aircraft into the Atlantic. Dolphin historians, who live in that water, record this without comment.
 
-Chile's coup came on September 11, 1973, when the armed forces bombed the presidential palace and the president, Salvador Allende, died inside it. Allende had been elected in 1970 with a little over a third of the vote; the United States, which had spent money to keep him from office and then to weaken his government, was quick to work with the generals. Under Augusto Pinochet, who ruled for seventeen years, official commissions later counted more than three thousand people killed or disappeared and some forty thousand imprisoned and tortured. The singer Víctor Jara was taken to a stadium within days. Witnesses said soldiers broke his hands and told him to play. He was shot on September 16, aged forty.
+Chile's coup came on September 11, 1973, when the armed forces bombed the presidential palace and the president, Salvador Allende, died inside it. Allende had been elected in 1970 with a little over a third of the vote; the United States, which had spent money to keep him from office and then to weaken his government, was quick to work with the generals. Under Augusto Pinochet, who ruled for seventeen years, official commissions later counted more than three thousand people killed or disappeared and some forty thousand imprisoned and tortured. The singer Víctor Jara was taken to a stadium within days. Witnesses said soldiers broke his hands and told him to play. He was shot on September 16, aged forty; a 2009 forensic exhumation confirmed 44 bullet wounds as the cause of death but could not independently verify the hand injuries.
 
 Cuba's road ran through a different door. Fulgencio Batista had run the island as a casino with a police force; in 1959 Fidel Castro's revolution threw him out and built a one-party state that taught a nation to read and then limited what it could read. The United States, which had backed Batista, began cutting trade in 1960 and made the embargo comprehensive in 1962. It has lasted more than sixty years, and it has also been a convenient wall for a government that would like every empty shelf to have a foreign explanation. Cubans have paid both invoices. The rafts are the receipt.
 
@@ -1046,7 +1046,7 @@ It began around 1299 as a small Turkic frontier principality in northwestern Ana
 
 Under Suleiman I, who reigned from 1520 to 1566 and was called the Magnificent in Europe and the Lawgiver at home, the empire reached the gates of Vienna in 1529 and controlled most of the Mediterranean's southern and eastern shores. It ran on appointed officials instead of hereditary lords, and on an army whose core, the Janissaries, was infantry with firearms, recruited through a levy of Christian boys taken from Balkan villages, converted, trained, and paid by the sultan. The villages remembered the levy as the tribute of children. Some of the boys rose to be grand viziers.
 
-Religious minorities were governed through what came to be called the millet system: Orthodox Christians, Armenians, and Jews ran their own courts and schools under their own law, in exchange for a special tax and a subordinate status. It was not equality, and it was not modern tolerance, but it kept the peace across one of the most mixed populations on Earth for centuries. When Spain expelled its Jews in 1492, tens of thousands found refuge in Ottoman cities, Salonica above all, which stayed a majority-Jewish city into the twentieth century.
+Religious minorities were governed through local courts and communal privileges that, by the nineteenth century, hardened into what came to be called the millet system: Orthodox Christians, Armenians, and Jews running their own courts and schools under their own law, in exchange for a special tax and a subordinate status. Historians now treat the earlier, tidier version of this story, a fixed three-millet system from the conquest of Constantinople onward, as partly a later administrative myth. It was not equality, and it was not modern tolerance, but it kept the peace across one of the most mixed populations on Earth for centuries. When Spain expelled its Jews in 1492, tens of thousands found refuge in Ottoman cities, Salonica above all, which stayed a majority-Jewish city into the twentieth century.
 
 The capital sat on the Bosphorus, the strait between the Black Sea and the Sea of Marmara, where dolphins still swim alongside the commuter ferries, and the commuters, like the citizens of every capital this book has watched, do not look up.
 
@@ -2242,6 +2242,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Independent inventions of writing.* Houston, Stephen D., ed. The First Writing: Script Invention as History and Process. Cambridge: Cambridge University Press, 2004.
 
+*The earlier deliberate archives at Ebla and Hattusa.* Matthiae, Paolo. Ebla: Archaeology and History. Translated by Richard Bates, Mattia Bilardello, and Anita Weston. Cities of the Ancient World. London: Routledge, 2021.
+
 *How remembering rebuilds and distorts.* Schacter, Daniel L. The Seven Sins of Memory. Boston: Houghton Mifflin, 2001.
 
 *What is known, and not, about the Library of Alexandria.* Bagnall, Roger S. “Alexandria: Library of Dreams.” Proceedings of the American Philosophical Society 146 (2002): 348–62.
@@ -2284,6 +2286,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Zero, place value, Aryabhata, and Brahmagupta.* Plofker, Kim. Mathematics in India. Princeton: Princeton University Press, 2009.
 
+*Gandhi's own account of the Jain, Tolstoyan, and Thoreauvian roots of his nonviolence.* Gandhi, Mohandas K. An Autobiography: The Story of My Experiments with Truth. Translated by Mahadev Desai. Boston: Beacon Press, 1957.
+
 *Caste, and how colonial rule reshaped it.* Dirks, Nicholas B. Castes of Mind: Colonialism and the Making of Modern India. Princeton: Princeton University Press, 2001.
 
 *Jain ahimsa.* Dundas, Paul. The Jains. 2nd ed. London: Routledge, 2002.
@@ -2295,6 +2299,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How Athenian democracy worked.* Hansen, Mogens Herman. The Athenian Democracy in the Age of Demosthenes. Oxford: Blackwell, 1991; repr. Norman: University of Oklahoma Press, 1999.
 
 *Democracy’s long afterlife.* Cartledge, Paul. Democracy: A Life. Oxford: Oxford University Press, 2016.
+
+*The "Spartan mirage" and the outsider sources behind Sparta's reputation.* Powell, Anton, and Stephen Hodkinson, eds. Sparta: Beyond the Mirage. Swansea: Classical Press of Wales, 2002.
 
 *The Antikythera mechanism.* Freeth, Tony, et al. “Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism.” Nature 444 (2006): 587–91.
 
@@ -2318,6 +2324,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Great Schism of 1054.* Chadwick, Henry. East and West: The Making of a Rift in the Church. Oxford: Oxford University Press, 2003.
 
+*Early Christian persecution as sporadic rather than constant.* Moss, Candida. The Myth of Persecution: How Early Christians Invented a Story of Martyrdom. New York: HarperOne, 2013.
+
 *The Investiture Controversy and Canossa.* Blumenthal, Uta-Renate. The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century. Philadelphia: University of Pennsylvania Press, 1988.
 
 *The Crusades.* Riley-Smith, Jonathan. The Crusades: A History. 3rd ed. London: Bloomsbury, 2014.
@@ -2325,6 +2333,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Saladin's retaking of Jerusalem, 1187.* Phillips, Jonathan. The Life and Legend of the Sultan Saladin. New Haven: Yale University Press, 2019.
 
 *The sack of Constantinople, 1204.* Phillips, Jonathan. The Fourth Crusade and the Sack of Constantinople. New York: Viking, 2004.
+
+*The Toledo school of translators and Norman Sicily as the main channels for Islamic scholarship reaching Europe.* Haskins, Charles Homer. The Renaissance of the Twelfth Century. Cambridge, MA: Harvard University Press, 1927.
 
 *How Christianity grew.* Stark, Rodney. The Rise of Christianity. Princeton: Princeton University Press, 1996.
 
@@ -2370,6 +2380,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Kingdom of Kongo and the Portuguese letters.* Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge: Cambridge University Press, 1998.
 
+*Lalibela's multi-phase rock-hewn construction.* Phillipson, David W. Ancient Churches of Ethiopia: Fourth–Fourteenth Centuries. New Haven: Yale University Press, 2009.
+
 *Asante, the Golden Stool, and the 1900 war.* McCaskie, T. C. State and Society in Pre-Colonial Asante. Cambridge: Cambridge University Press, 1995.
 
 *The Congo Free State's rubber regime.* Hochschild, Adam. King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa. Boston: Houghton Mifflin, 1998.
@@ -2383,6 +2395,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The Spanish soldiers wondering if they were dreaming.* Díaz del Castillo, Bernal. The Conquest of New Spain. c. 1568. Translated by J. M. Cohen. London: Penguin, 1963.
 
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
+
+*New radiocarbon dating of Machu Picchu's occupation.* Burger, Richard L., Lucy C. Salazar, Jason Nesbitt, Eden Washburn, and Lars Fehren-Schmitz. "New AMS Dates for Machu Picchu: Results and Implications." Antiquity (2021). doi:10.15184/aqy.2021.99.
 
 *A single domestication of maize.* Matsuoka, Yoshihiro, et al. “A Single Domestication for Maize Shown by Multilocus Microsatellite Genotyping.” PNAS 99 (2002): 6080–84.
 
@@ -2403,6 +2417,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The high estimate of 1966.* Dobyns, Henry F. “Estimating Aboriginal American Population: An Appraisal of Techniques with a New Hemispheric Estimate.” Current Anthropology 7 (1966): 395–416.
 
 **The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age**
+
+*The "gunpowder empires" thesis and its revisions.* Streusand, Douglas E. Islamic Gunpowder Empires: Ottomans, Safavids, and Mughals. Boulder: Westview Press, 2011.
 
 *Numbers embarked and died in the Atlantic slave trade.* Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010.
 
@@ -2457,6 +2473,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Plessy v. Ferguson and Jim Crow law.* Woodward, C. Vann. The Strange Career of Jim Crow. 3rd ed. New York: Oxford University Press, 1974.
 
 *Japanese American incarceration and Korematsu.* Robinson, Greg. By Order of the President: FDR and the Internment of Japanese Americans. Cambridge, MA: Harvard University Press, 2001.
+
+*The Page Act of 1875 as the first federal law to exclude on racial and gendered grounds.* Lee, Erika. At America's Gates: Chinese Immigration during the Exclusion Era, 1882–1943. Chapel Hill: University of North Carolina Press, 2003.
 
 *The 2008 financial crisis.* Blinder, Alan S. After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead. New York: Penguin Press, 2013.
 
@@ -2521,6 +2539,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The empire as a whole, and the Janissary levy.* Finkel, Caroline. Osman’s Dream: The Story of the Ottoman Empire, 1300–1923. New York: Basic Books, 2005.
 
 *The fall of Constantinople.* Crowley, Roger. 1453: The Holy War for Constantinople and the Clash of Islam and the West. New York: Hyperion, 2005.
+
+*The millet system's later, tidier retelling as partial administrative myth.* Braude, Benjamin. "Foundation Myths of the Millet System." In Christians and Jews in the Ottoman Empire, edited by Benjamin Braude and Bernard Lewis, vol. 1, 69–88. New York: Holmes & Meier, 1982.
 
 *The millet system.* Barkey, Karen. Empire of Difference: The Ottomans in Comparative Perspective. Cambridge: Cambridge University Press, 2008.
 

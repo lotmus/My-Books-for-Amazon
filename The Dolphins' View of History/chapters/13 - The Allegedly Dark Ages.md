@@ -6,7 +6,7 @@ The dolphins found the name suspicious.
 
 *“Was it truly dark, or were the humans simply missing paperwork?”*
 
-There were fewer records than during the Roman Empire, and many cities shrank. Trade became less extensive in some regions.
+There were fewer records than during the Roman Empire, many cities shrank, and in parts of the former Western Empire — Britain especially — the archaeological record this book's Rome chapter cited (fewer coins, cruder pottery, smaller buildings) shows a genuine, sharp drop in material life, not just missing paperwork. That was a regional collapse, though, not a global one.
 
 Elsewhere, life went on. Emperors still governed in Constantinople, scholars in Baghdad studied mathematics and astronomy, and India and China flourished.
 
@@ -20,7 +20,7 @@ The label itself has a specific culprit and a much narrower original meaning tha
 
 Nor was Europe standing still. Kingdoms formed, trade expanded, farming improved with the heavy plow, the water mill, and the horse collar, and, a little later, universities appeared.
 
-Charlemagne, crowned Holy Roman Emperor in Rome on Christmas Day, 800 CE, gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his biographer Einhard's account, kept writing tablets under his pillow to practice his letters in spare moments, and began too late in life to master the skill.
+Charlemagne, crowned Emperor of the Romans in Rome on Christmas Day, 800 CE — reviving the imperial title in the West more than a century before Otto I's 962 coronation gave rise to what later became known as the Holy Roman Empire — gathered scholars from across Europe at his court, the Englishman Alcuin of York chief among them, and standardized a new, clearer handwriting, Carolingian minuscule, whose rounded lowercase letters are the direct ancestors of the ones printed on this page. Charlemagne himself, by his biographer Einhard's account, kept writing tablets under his pillow to practice his letters in spare moments, and began too late in life to master the skill.
 
 *“The man who revived European literacy,” dolphin historians observed, “never quite learned to write. Humans, it should be said, have never let competence stand in the way of sponsorship.”*
 

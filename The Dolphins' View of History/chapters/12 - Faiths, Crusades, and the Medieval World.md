@@ -6,7 +6,7 @@ Dolphin scholarship, which has always been content to enjoy the ocean and find f
 
 Buddhism, arising in the 5th or 6th century BCE from the teachings of Siddhartha Gautama in what is now Nepal and northern India, spread across Asia over the following centuries through trade routes and, in particular, the patronage of the Indian emperor Ashoka in the 3rd century BCE. Ashoka converted after a famously brutal conquest and then spent the rest of his reign promoting nonviolence.
 
-Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a persecuted minority faith before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-persecuted movement had, within seventy years of being legalized, become the state's own faith.
+Christianity, beginning as a small Jewish sect in Roman Judea in the 1st century CE, spent its first three centuries as a tolerated but occasionally suspect minority faith, enduring sporadic local persecutions and a few short, empire-wide crackdowns under Decius, Valerian, and Diocletian rather than constant repression, before Emperor Constantine's own conversion and the Edict of Milan in 313 CE legalized it, and Theodosius made it the Roman Empire's official religion by 380 CE. A once-persecuted movement had, within seventy years of being legalized, become the state's own faith.
 
 The faith did not stay one thing for long. Centuries of accumulated disagreement over doctrine, ritual, and who answered to whom came to a formal head in 1054, when the churches of Rome and Constantinople excommunicated each other's leaders in what historians call the Great Schism, splitting Christianity into its Western Catholic and Eastern Orthodox halves, a division the two sides would not formally revoke until 1965 and have still not fully healed. A faith organized enough to convert an empire was also, it turned out, organized enough to split one.
 
@@ -22,7 +22,7 @@ The Crusades, beginning in 1095 when Pope Urban II called for a military campaig
 
 Jerusalem changed hands several times across the Crusading period. Its most consequential loss, for the Crusader side, came in 1187, when the Kurdish Muslim general Saladin defeated the Crusader army at the Battle of Hattin and retook the city after eighty-eight years of Crusader rule; accounts on both sides noted that he spared the Christian population rather than repeating the massacre the First Crusade had inflicted on Jerusalem's residents in 1099. None of the Crusader states the campaigns produced lasted much past 1291.
 
-What outlasted the fighting was the contact: increased trade, translated texts, and exposure to Islamic scholarship's advances flowing back into a Western Europe that would draw on them heavily once its own universities began forming in the 12th and 13th centuries.
+What outlasted the fighting in the Levant was trade and contact, but the heavier traffic in translated texts and Islamic scholarship reached Western Europe mainly through a different front — Islamic Spain's Toledo school of translators and Norman Sicily — feeding the universities that began forming in the 12th and 13th centuries.
 
 **Dolphin verdict:**
 
