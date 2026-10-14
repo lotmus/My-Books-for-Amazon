@@ -193,3 +193,10 @@ The cross-country timeline gave subclass-level 189/190 processing ranges and a s
 Primary sources: [Home Affairs, processing times overview](https://immi.homeaffairs.gov.au/Visa-subsite/Pages/Processing-times/Overview.aspx); [Home Affairs, skilled visa processing priorities](https://immi.homeaffairs.gov.au/Visa-subsite/Pages/Processing-times/skilled-visa-processing-priorities.aspx).
 
 **Subject/fact-check reassessment:** 9.9/10 (up from 9.8) after removing overprecise skilled-visa estimates made stale by the new September 2026 priority directions. The full country-by-country review remains open; overall stays 8.9.
+
+
+## REV125 Opening line and repetition pass - 14 October 2026
+
+Tightened the opening of the universal readiness section in the REV124 DOCX and EPUB. Replaced the abstract, repeated opening question with a concrete decision frame; shortened the readiness bullet; and removed duplicated setup about the four-country structure, the research caveat, and whether the reader moves alone or with family. The revised sequence distinguishes the personal readiness check from the following country comparison and keeps the key limitation clear: relocation research cited here concerns employer-sponsored assignments, not private emigration.
+
+**Target-reader reassessment:** 9.6/10 (up from 9.5) for faster orientation. **Harsh-critic reassessment:** 9.6/10 (up from 9.5) for reducing repeated setup. **Literary-reader style:** 9.6/10 (up from 9.5); the opening now has a clearer progression and more concrete language while preserving the guide's practical voice. This is an opening-section pass, not a full-manuscript reread; overall remains 8.9.
