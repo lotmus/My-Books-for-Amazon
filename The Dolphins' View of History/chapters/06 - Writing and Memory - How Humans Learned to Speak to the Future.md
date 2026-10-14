@@ -14,7 +14,7 @@ If Kushim was a person, the earliest name in the written record belongs to an ac
 
 *Professor Click-Click-Whoosh, in the margin: “Fame in the literate world began with paperwork, and has not strayed far since.”*
 
-Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, on four separate continents' worth of isolation, arriving at the same solution to the same problem.
+Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, spread across three continents (Asia twice over, in Mesopotamia and China, plus Africa and the Americas) and thousands of miles of mutual isolation, arriving at the same solution to the same problem.
 
 The problem, underneath the receipts, was memory's expiration date. Everything a human generation knew had previously lived only as long as someone who remembered it stayed alive to be asked.
 

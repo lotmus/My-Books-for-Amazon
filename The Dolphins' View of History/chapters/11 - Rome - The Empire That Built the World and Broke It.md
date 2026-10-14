@@ -2,7 +2,7 @@
 
 Rome starts, by its own telling, as a small settlement of shepherds on the Tiber around the 8th century BCE, and the founding myths (a she-wolf, twin brothers, one dead by the other's hand) are exactly that: myth, worth noting for what it says about how Rome wanted to be remembered rather than what happened.
 
-What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: an elected Senate, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again.
+What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: a Senate of several hundred former magistrates, enrolled for life by the censors rather than elected to the body itself, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again.
 
 Early in the Republic's life, around 451-450 BCE, ordinary citizens pressured the aristocratic Senate into publishing the Twelve Tables, Rome's first written law code, inscribed on bronze or wood and displayed in the Forum precisely so a plebeian could no longer be told after the fact what the law had always supposedly said. The tables were blunt and, by modern standards, often brutal, and were revised many times over the centuries that followed — but the principle that law had to be written where the ruled could read it outlived every revision, and outlived the Republic that first wrote it down.
 

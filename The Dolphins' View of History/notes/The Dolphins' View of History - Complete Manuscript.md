@@ -396,7 +396,7 @@ If Kushim was a person, the earliest name in the written record belongs to an ac
 
 *Professor Click-Click-Whoosh, in the margin: “Fame in the literate world began with paperwork, and has not strayed far since.”*
 
-Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, on four separate continents' worth of isolation, arriving at the same solution to the same problem.
+Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, spread across three continents (Asia twice over, in Mesopotamia and China, plus Africa and the Americas) and thousands of miles of mutual isolation, arriving at the same solution to the same problem.
 
 The problem, underneath the receipts, was memory's expiration date. Everything a human generation knew had previously lived only as long as someone who remembered it stayed alive to be asked.
 
@@ -436,7 +436,7 @@ It should be said that the pyramids were not, as legend has it, built by slaves.
 
 Around 1754 BCE, the Babylonian king Hammurabi issued a code of nearly 300 laws, carved into a stone stele and set up in public. Its “eye for an eye” reputation obscures the more significant part: a ruler publishing his laws where any literate subject could check whether a judge had followed them.
 
-Almost none of this chapter could be read at all until 1799, when French soldiers in Egypt found a slab of dark granodiorite at Rosetta inscribed with the same decree in Greek, Egyptian hieroglyphs, and Egyptian demotic script. The Greek, which scholars could already read, unlocked the other two: Jean-François Champollion published the decipherment in 1822, and hieroglyphs, silent for roughly fourteen centuries, began speaking again.
+Egypt's hieroglyphs and demotic script could not be read at all until 1799, when French soldiers found a slab of dark granodiorite at Rosetta inscribed with the same decree in Greek, Egyptian hieroglyphs, and Egyptian demotic script. The Greek, which scholars could already read, unlocked the other two: Jean-François Champollion published the decipherment in 1822, and hieroglyphs, silent for roughly fourteen centuries, began speaking again. Mesopotamia's cuneiform needed an entirely separate key: the trilingual Behistun Inscription in Iran, which Henry Rawlinson copied at real physical risk in the 1830s and 1840s, confirmed in 1857 when the Royal Asiatic Society had four scholars translate a newly found Assyrian text in sealed envelopes and compare the results. Only then could Sargon's boasts and Hammurabi's code, both written in cuneiform, be read again as well.
 
 Bureaucracy, in the dry modern sense of scribes, tax rolls, and standing regulations, is not a later refinement bolted onto ancient kingship. It is what let a single ruler act at a distance, on people he would never personally meet, at all.
 
@@ -544,7 +544,7 @@ The Greeks were also the makers of the earliest known analog computer. In 1900, 
 
 Rome starts, by its own telling, as a small settlement of shepherds on the Tiber around the 8th century BCE, and the founding myths (a she-wolf, twin brothers, one dead by the other's hand) are exactly that: myth, worth noting for what it says about how Rome wanted to be remembered rather than what happened.
 
-What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: an elected Senate, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again.
+What is well documented is the Republic that followed the expulsion of its last king in 509 BCE: a Senate of several hundred former magistrates, enrolled for life by the censors rather than elected to the body itself, annually elected magistrates called consuls, and a system of checks built specifically to prevent any one Roman from becoming king again.
 
 Early in the Republic's life, around 451-450 BCE, ordinary citizens pressured the aristocratic Senate into publishing the Twelve Tables, Rome's first written law code, inscribed on bronze or wood and displayed in the Forum precisely so a plebeian could no longer be told after the fact what the law had always supposedly said. The tables were blunt and, by modern standards, often brutal, and were revised many times over the centuries that followed — but the principle that law had to be written where the ruled could read it outlived every revision, and outlived the Republic that first wrote it down.
 
@@ -996,13 +996,13 @@ Quakers, hanged in Massachusetts around 1660 and welcomed in the Pennsylvania th
 
 *“These, with the Jains several chapters ago, are the humans in this book who looked at capability, decided it was optional, and voted, community by community, generation after generation, to keep less of it on purpose,” one senior dolphin scholar added. “The Amish do by choice roughly what nature simply built into every dolphin.”*
 
-The First Great Awakening in the 1730s and 40s, and the Second in the early 1800s, turned revival, in its own right, into a recurring national habit: traveling preachers, mass conversions, camp meetings drawing thousands. Out of the Second Awakening's ferment came homegrown American religions with no European precedent at all — the Shakers, celibate, communal, and consequently self-extinguishing by design; the Latter Day Saint movement, founded by Joseph Smith in 1830; Seventh-day Adventism; and later Jehovah's Witnesses in the 1870s and Christian Science in 1879. The Latter Day Saints became the largest of the religious traditions founded on American soil, with an origin story unlike anything else in this chapter. Smith said an angel named Moroni showed him a set of buried golden plates, inscribed in a script he called reformed Egyptian. He translated them into the Book of Mormon between 1827 and 1829 and then, by his own account, returned the plates to the angel, leaving nothing behind for later examination.
+The First Great Awakening in the 1730s and 40s, and the Second in the early 1800s, turned revival, in its own right, into a recurring national habit: traveling preachers, mass conversions, camp meetings drawing thousands. Out of the Second Awakening's ferment came some genuinely homegrown American religions with no European precedent at all: the Latter Day Saint movement, founded by Joseph Smith in 1830; Seventh-day Adventism; and later Jehovah's Witnesses in the 1870s and Christian Science in 1879. The Shakers were transplanted rather than grown fresh here — a celibate, communal sect founded in England in the 1740s and led to New York by Ann Lee in 1774 — though it was this same revival period that swelled their American communities to their peak. The Latter Day Saints became the largest of the religious traditions founded on American soil, with an origin story unlike anything else in this chapter. Smith said an angel named Moroni showed him a set of buried golden plates, inscribed in a script he called reformed Egyptian. He translated them into the Book of Mormon between 1827 and 1829 and then, by his own account, returned the plates to the angel, leaving nothing behind for later examination.
 
 It kept happening. The 20th century added Pentecostalism, dated to the 1906 Azusa Street revival, and a media-driven wave of televangelism from the 1970s onward. It also added smaller, sometimes disastrous groups organized around a single charismatic leader: Jonestown, where more than 900 members of Jim Jones's Peoples Temple died in a mass murder-suicide in 1978, and the Branch Davidian standoff near Waco in 1993, which ended in a fire that killed 76.
 
 *"Both movements described themselves, right up to the end, as havens from a corrupt and dangerous outside world," dolphin historians noted. "The correlation between a leader's certainty and a follower's risk appears to run in precisely the wrong direction."*
 
-Few countries in this book have generated new, homegrown religious movements at this rate (Japan, with its many postwar new religions, is a serious rival), owing less to any special American piety than to the same structural decision that also produced the country's endless proliferation of political factions. There was no established state church, ever, and so no single religious authority a new movement had to unseat, only an open field to found one in.
+Few countries in this book have generated new, homegrown religious movements at this rate (Japan, with its many postwar new religions, is a serious rival), owing less to any special American piety than to the same structural decision that also produced the country's endless proliferation of political factions. There was no federal established church — the First Amendment bound only Congress, and several states kept their own tax-supported churches for decades afterward, Massachusetts until 1833 — but above the state level there was no single religious authority a new movement had to unseat, only an open field to found one in.
 
 *“A country with no state religion,” the Society noted, “did not therefore get less religion. It got more religions, competing the way the country's businesses compete, and about as ruthlessly.”*
 
@@ -1298,7 +1298,7 @@ One of those sons, Joseph, was sold into slavery in Egypt by his own brothers, t
 
 Generations later, per the account handed down, their descendants had grown numerous enough to worry a different Pharaoh, who enslaved them. Moses led them out — an event Exodus dates to roughly the 13th century BCE. Archaeology has done more than fail to confirm it: Egyptian records, which logged lesser disruptions, say nothing of it, and Canaan's own settlement pattern shows a gradual, mostly local emergence of highland villages, not the sudden conquest the text describes. Something in the tradition may still trace back to a smaller, harder-to-detect departure, but the Exodus as written did not happen as written, followed in the account by forty years in the wilderness, a body of law delivered at Sinai, and eventual settlement in Canaan.
 
-A kingdom followed under Saul, then David, who made Jerusalem his capital, then Solomon, who built the First Temple in the 10th century BCE. The kingdom split in two after Solomon's death; the northern kingdom of Israel fell to Assyria in 722 BCE, its ten tribes scattered into the record as the “lost tribes.” The southern kingdom of Judah fell to Babylon in 586 BCE, the First Temple destroyed, its people exiled.
+A kingdom followed under Saul, then David, who made Jerusalem his capital, then Solomon, who built the First Temple in the 10th century BCE — though how much state lay behind those names is still contested: a ninth-century BCE inscription, the Tel Dan Stele, is the first text outside the Bible to confirm a “House of David,” but archaeologists split over its scale, with Israel Finkelstein's “low chronology” describing a small regional chiefdom and others, including Eilat Mazar and Yosef Garfinkel, arguing for a more developed tenth-century kingdom. The kingdom split in two after Solomon's death; the northern kingdom of Israel fell to Assyria in 722 BCE, its ten tribes scattered into the record as the “lost tribes.” The southern kingdom of Judah fell to Babylon in 586 BCE, the First Temple destroyed, its people exiled.
 
 Persia's Cyrus the Great, having conquered Babylon, let the exiles return around 538 BCE. A Second Temple went up on the same site about two decades later.
 
@@ -1470,7 +1470,7 @@ Unlike most of the conflicts covered so far, the campaigns in this chapter were 
 
 In the United States, the Supreme Court's 1954 Brown v. Board of Education ruling declared racially segregated public schools unconstitutional, overturning the legal doctrine that had upheld segregation for nearly six decades. The following decade of organized protest, the 1955-56 Montgomery bus boycott (begun after Rosa Parks refused to give up her bus seat, nine months after a fifteen-year-old, Claudette Colvin, had done the same and been arrested), sit-ins, freedom rides, the 1963 March on Washington where Martin Luther King Jr. delivered his “I Have a Dream” speech, and the 1965 march at Selma, where state troopers beat marchers on the Edmund Pettus Bridge in front of television cameras, culminated in the Civil Rights Act of 1964 and the Voting Rights Act of 1965, dismantling the legal architecture of segregation and disenfranchisement, if not the underlying attitudes, at the federal level.
 
-Emmett Till, a fourteen-year-old boy, was murdered in Mississippi in August 1955 after being accused of offending a white woman. His mother, Mamie Till-Mobley, held an open-casket funeral so that Jet magazine could publish photographs of his mutilated body. The murder and the photographs are widely credited with galvanizing the movement that followed; the Montgomery boycott began three months later. The Twenty-Fourth Amendment, ratified in 1964, abolished the poll taxes that had been used for decades to price Black voters out of elections across much of the South.
+Emmett Till, a fourteen-year-old boy, was murdered in Mississippi in August 1955 after being accused of offending a white woman. His mother, Mamie Till-Mobley, held an open-casket funeral so that Jet magazine could publish photographs of his mutilated body. The murder and the photographs are widely credited with galvanizing the movement that followed; the Montgomery boycott began three months later. The Twenty-Fourth Amendment, ratified in 1964, abolished poll taxes in federal elections; two years later, in Harper v. Virginia State Board of Elections (1966), the Supreme Court struck down the remaining state and local poll taxes that had been used for decades to price Black voters out of elections across much of the South.
 
 The same slow weapon was fired on a longer clock in South Africa, against a harder target. Legal racial segregation, formalized as apartheid in 1948, persisted for close to half a century against internal resistance, including the armed campaign of the ANC's military wing, Umkhonto we Sizwe, after peaceful protest was banned, and mounting international pressure and sanctions. It ended only with Nelson Mandela's release in 1990 from twenty-seven years of imprisonment, eighteen of them on Robben Island (in waters the dolphins know well), and his election as South Africa's first Black president in 1994.
 
@@ -2262,6 +2262,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Rosetta Stone and decipherment.* Parkinson, Richard. Cracking Codes: The Rosetta Stone and Decipherment. London: British Museum Press, 1999.
 
+*The separate decipherment of cuneiform via the Behistun Inscription.* Pope, Maurice. The Story of Decipherment: From Egyptian Hieroglyphs to Maya Script. Rev. ed. London: Thames & Hudson, 1999.
+
 **1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization**
 
 *Oracle bones and Shang writing.* Keightley, David N. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. Berkeley: University of California Press, 1978.
@@ -2464,6 +2466,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Second Great Awakening and new movements.* Hatch, Nathan O. The Democratization of American Christianity. New Haven: Yale University Press, 1989.
 
+*The Shakers' English origin and 1774 emigration to New York under Ann Lee.* Stein, Stephen J. The Shaker Experience in America: A History of the United Society of Believers. New Haven: Yale University Press, 1992.
+
 *Joseph Smith.* Bushman, Richard Lyman. Joseph Smith: Rough Stone Rolling. New York: Knopf, 2005.
 
 *The Amish.* Kraybill, Donald B., Karen M. Johnson-Weiner, and Steven M. Nolt. The Amish. Baltimore: Johns Hopkins University Press, 2013.
@@ -2641,6 +2645,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *The long history.* Schama, Simon. The Story of the Jews. 2 vols. London: Bodley Head, 2013 and 2017.
 
 *Archaeology and the biblical narratives.* Finkelstein, Israel, and Neil Asher Silberman. The Bible Unearthed. New York: Free Press, 2001.
+
+*The Tel Dan Stele and the archaeological debate over the United Monarchy's scale.* Dever, William G. Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah. Atlanta: SBL Press, 2017.
 
 *The Dead Sea Scrolls.* VanderKam, James C. The Dead Sea Scrolls Today. 2nd ed. Grand Rapids: Eerdmans, 2010.
 
