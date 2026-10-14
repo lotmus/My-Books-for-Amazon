@@ -74,7 +74,7 @@ The reviewed DOCX first page and EPUB cover resource use KINDLE_FRONT_COVER_LIGH
 
 ## REV2 (13 Oct 2026): current master
 
-Current master: `Schrodingers_Paperwork_BOOK_1 - REV2.docx`. REV1 (Codex's master as left at 4:55 PM PT, unchanged) and the old `..._KINDLE_FINAL.docx` are in `bak/`; the old 2560 Kindle cover is in `bak/` as well.
+Master at that time: `Schrodingers_Paperwork_BOOK_1 - REV2.docx` (now in `bak/`; current master is REV3, below). REV1 (Codex's master as left at 4:55 PM PT, unchanged) and the old `..._KINDLE_FINAL.docx` are in `bak/`; the old 2560 Kindle cover is in `bak/` as well.
 
 Critical review of the Codex master: 8.9 overall, 8.6 sellability. Its science pass had turned the Physics Prologue into textbook hedging. REV2 strict rescore: **9.2 overall, 8.8 sellability** (prose 9.2, plot 9.0, characters 9.0, pacing 8.4, continuity 9.4, dialogue 9.2, Kindle 9.5, front/back matter 9.3, cover/KDP 8.8).
 
@@ -87,3 +87,25 @@ Changes in REV2:
 - KDP description: the duplicate "Read it as a novel. Take the course. Or do both." line removed; dashes spaced as in the book. KDP_UPLOAD_READY points at REV2.
 
 Still open: rebuild the Kindle EPUB from REV2 (the EPUB on disk predates it); paperback wrap; at full size, check that the front cover title shows the umlaut in SCHRÖDINGER'S (it looked like "SCH RODINGER'S" at thumbnail size).
+
+
+## REV3 (13 Oct 2026): current master
+
+Current master: `Schrodingers_Paperwork_BOOK_1 - REV3.docx` (89,832 words; Kindle-screen pages, 3.6 x 4.8 in; no tables). REV2 is in `bak/`.
+
+Aim: "try 11 to get 10", judged against Pratchett and Fforde as well as against indie science satire. Strict rescore: **9.4 on the indie benchmark, 8.6 against Pratchett/Fforde**; sellability 8.6, or about 9.0 once the cover is fixed.
+
+Changes in REV3 (plot beats, lessons, exercises and solutions unchanged):
+- Opening: the Prologue now opens on the problem (a completed, stamped Form 4C that nobody has sent yet); the Ministry history that followed is tightened. Chapter 1 opens with the terminal clicking and the impossible status lines on the first page; the office description, the floor noise and Gideon's introduction are condensed.
+- Lolly's own early mistake: in Chapter 1 she types PROCESSING IRREGULARITY into the remark box to be optimistic ("the most expensive thing she did all year"). In Chapter 13 Pilbeam reads it out as the Ministry's first assessment. In Chapter 19 she strikes it through on the slip: "Officer's error. Corrected."
+- Chapter 13 stakes: if the Board is divided, Phase Two proceeds next morning, and Larchfield House is on the list. A running gag: Pilbeam's bridge (Chapter 13 and von Wittenberg in Chapter 14).
+- Each consultant now has a stated want that clashes with Lolly's: Fainrose, Eilstein, de Broccoli, Heisenburger, Tengelman, Bellboy, von Wittenberg (Schrottfinger already had one).
+- Ending callback: in the epilogue, Gideon brings two coffees and does not walk into the doorframe (Chapter 1: "It's been in the same place for eleven years. I keep hoping."). "After eleven years, one of them had moved."
+- Similes: 39 weak "as if / as though / like a / the way a" clauses cut in the novel (about 27%); the best ones are kept.
+- "very": only 4 uses remain in narration; the rest are in dialogue, where they belong to the characters' voices (Mrs Chain's "Very.").
+- KDP: new hook ("The form arrived completed, countersigned and stamped RECEIVED. Nobody had sent it yet."); 7 keywords revised in KDP_UPLOAD_READY.
+- Housekeeping: the stray `Schrodingers_Paperwork_KINDLE - Copy.epub` moved to `bak/`.
+
+Must fix before upload: the front cover title lettering misspells the title as SCHRÖDDINGER'S (double D, umlaut floating over the gap). The cover art needs new title lettering. Also: rebuild the EPUB from REV3; paperback wrap.
+
+Why not 10 against Pratchett and Fforde yet: the middle (Chapters 8-14) is still built on one expert explaining after another; dialogue carries more exposition than Pratchett allows; simile density is still higher than Fforde's.

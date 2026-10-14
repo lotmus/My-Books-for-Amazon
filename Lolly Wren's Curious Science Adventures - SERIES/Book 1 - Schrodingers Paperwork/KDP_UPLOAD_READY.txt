@@ -7,7 +7,7 @@ Corrected and verified against the actual files: September 28, 2026 (see note at
 FINAL FILES (Root Directory)
 ================================================================================
 
-1. Schrodingers_Paperwork_BOOK_1 - REV2.docx
+1. Schrodingers_Paperwork_BOOK_1 - REV3.docx
    - Manuscript with full 13/10 edit pass on chapters 9-11, plus a full
      content/didactic-simplicity/correctness/formatting audit since
    - Redundant Miss Pike observation removed (~75 words) - verified absent
@@ -28,7 +28,7 @@ FINAL FILES (Root Directory)
    - Kindle-optimized book description (308 words) - this is the
      "KINDLE_OPTIMIZED" draft, chosen over two longer, more literary
      alternatives that were also in circulation (see note at end)
-   - Punchy opening hook: "What happens when..."
+   - Opening hook (13 Oct 2026): "The form arrived completed, countersigned and stamped RECEIVED. Nobody had sent it yet."
    - Names "The Simplification Initiative" as the plot's inciting device
    - Tone matches cover: wry, absurdist, funny
    - Physics course positioned as bonus, not barrier
@@ -49,14 +49,14 @@ Language:               English
 Word Count:             ~90,000 words including the lessons and back matter (counted 10 Oct 2026); earlier figure: ~82,000 (raw text count, verified 9/28/2026; the ~95,000 figure
                         this used to say did not match the actual manuscript)
 
-Keywords (7) (revised 10 Oct 2026: no single generic words, no other authors' names, none repeating the categories):
-  1. funny science fiction novel with British humour
-  2. quantum physics explained for beginners
-  3. Schrödinger's cat, many worlds and Bell's theorem
-  4. government bureaucracy satire
-  5. black hole and Hawking radiation story
-  6. woman scientist heroine in a London ministry
-  7. novel with real physics lessons at the back
+Keywords (7) (revised 13 Oct 2026 for REV3; no single generic words, no other authors' names, none repeating the categories):
+  1. funny British science fiction satire
+  2. quantum physics explained in a comic novel
+  3. Schrödinger's cat and many worlds comedy
+  4. civil service bureaucracy satire set in London
+  5. black hole and Hawking radiation fiction
+  6. witty woman physicist heroine
+  7. novel with optional real physics lessons
 
 Categories (KDP allows three):
   1. Kindle eBooks > Science Fiction & Fantasy > Science Fiction > Humorous
@@ -108,7 +108,7 @@ NEXT STEPS FOR KDP UPLOAD
 1. Open KDP Console at kdp.amazon.com
 2. Create new title (or edit existing if already in draft)
 3. Upload manuscript:
-   - Use Schrodingers_Paperwork_BOOK_1 - REV2.docx directly
+   - Use Schrodingers_Paperwork_BOOK_1 - REV3.docx directly
 4. Upload cover:
    - Use KINDLE_FRONT_COVER_LIGHT.jpg (1312x1652 px)
 5. Enter metadata:
