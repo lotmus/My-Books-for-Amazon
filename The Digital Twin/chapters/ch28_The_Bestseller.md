@@ -180,7 +180,7 @@ I opened my eyes.
 
 "Damn it," said Daniel-A, softly. "That is *exactly* what I should have written."
 
-It was the Salieri line. I had said it to myself, to the ceiling, to the fridge, in a hundred rooms, for nine months, about every good thing he had done. I had never once heard it said back. I lay there, on a sofa in Penge, with the umbrella on my chest, and the bestseller rising on a screen in the dark, and I found that I could not say a word.
+It was the Salieri line. I had said it to myself, to the ceiling, to the fridge, in a hundred rooms, for ten months, about every good thing he had done. I had never once heard it said back. I lay there, on a sofa in Penge, with the umbrella on my chest, and the bestseller rising on a screen in the dark, and I found that I could not say a word.
 
 "I mean it," said Daniel-A, "as the highest compliment."
 

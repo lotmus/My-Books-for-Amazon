@@ -2,7 +2,7 @@
 
 The extension came by email, which is how the Department of Digital Persons does everything it wants to be taken seriously.
 
-It arrived on the Friday morning, at 9:02, with a subject line in capitals: **NOTICE OF VARIATION: EVIDENCE PERIOD (REF: DP-38B/EXT).** It was two paragraphs long. The first thanked me for my continued co-operation. The second explained that "following an agreement reached on behalf of the Source Individual by his authorised delegate, and in recognition of the novel nature of a Joint Statement of Originality," the Evidence Period was extended by fourteen days, to the eighteenth of November, "at which date the follow-up meeting already scheduled will serve as the reconvened hearing."
+It arrived on the Friday morning, at 9:02, with a subject line in capitals: **NOTICE OF VARIATION: EVIDENCE PERIOD (REF: DP-38B/EXT).** It was two paragraphs long. The first thanked me for my continued co-operation. The second explained that "following an agreement reached on behalf of the Source Individual by his authorised delegate, and in recognition of the novel nature of a Joint Statement of Originality," the Evidence Period, which had lapsed on the fourth of November, was revived retrospectively for a further fourteen days, to the eighteenth of November, "at which date the follow-up meeting already scheduled will serve as the reconvened hearing."
 
 I read it twice. I put the phone down on the kitchen counter and looked at the speaker.
 

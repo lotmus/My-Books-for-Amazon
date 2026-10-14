@@ -201,3 +201,9 @@ Working copies: `chapters/chNN_Title.md`. Spelling: British. Voice: British dead
 - **Ch 34 (Sat 5 Dec, Hartley's):** Sophie's band signed "I. Calder" (Royal Bolton, March 1989). She chooses Daniel before reading S2: "A prize is given by the result. A choice is what you do before it's known." Daniel-A: "I'd like to be allowed to be sad on Tuesdays." Daniel opens the umbrella.
 - **Ch 35 (Sun 20 Dec):** Ned's basket: "To the original Dan." / "Whichever one you are." Stile photo from Sir Rupert: "P. HARPER, SURVEYOR. HE WROTE." Daniel-A's deliberately wrong toast. Gareth delivers page four to Sophie. She peels the tape: **S2. MERCIER, S. Initiated 1976 (paired with S1). Phase 2. STATUS: ACTIVE.** She has never used a twin service. Daniel-A's screen shows **Incoming call: SOPHIE MERCIER** while Sophie sits in the room. (Book 2 hook.)
 - Word count Ch 1-35: about 107,900.
+
+## Review fixes (13 Oct 2026)
+- Timeline: hearing Tue 6 Oct (Evidence Period day 1; day 30 = Wed 4 Nov); Ch 16 notice revives the lapsed period to 18 Nov. Daniel-A's age is nine months in October, ten in November.
+- Eyebrow scar: bicycle fall at age 5 (not 7), so the plaster boy in the photograph can be Daniel. Calder moved the 14 Mar 1993 surgery clock by ten minutes (Ch 22).
+- Register commenced 4 Feb 1976; Menzies memo 3 Feb 1976 (Ch 21).
+- Review and scores: `notes/REVIEW_2026-10-13.md` (manuscript 8.3; reader 8.6, critic 7.9, fact-checker 8.8, Amazon 8.1; sellability 8.0).

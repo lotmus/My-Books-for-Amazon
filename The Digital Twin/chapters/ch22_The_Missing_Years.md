@@ -98,6 +98,14 @@ I heard myself say, "She wrote my school report."
 
 "No. Well. It was a poor sentence. I wrote it in a hurry."
 
+"And the surgery," I said. "The entry for the fourteenth of March, 1993. Twenty to ten, at the Oxford Road surgery, with my mother. The same minute as the pantry."
+
+"Also mine." Dr Calder looked at the ceiling. "Jean had taken you for the jab at half past nine, and I was in the house with Peter and the other boy, and the Director could not bear one measurement with two times against it. I rang a nurse I knew, and she moved the clock on your card by ten minutes. It was an entirely unnecessary kindness to a form."
+
+"It was the clue that started everything."
+
+"Yes," said Dr Calder. "I'm told that is what comes of tidying."
+
 On the table, from the phone, Daniel-A made a small sound. It was not a word. It was the sound a person makes when a piece of the evidence has been found, and the person who finds it is quite sure that he does not want it to be the one he has found.
 
 "Dr Calder," he said. "May I tell you about the orphans?"
@@ -124,7 +132,7 @@ She did not answer. She looked at the cup in her hand, and the steam from it, wh
 
 I had not known I was going to say it. It came out in the same flat, ordinary voice in which I ask a shop assistant whether they have it in a larger size. I had thought, all my life, that what I did not remember was a matter of temperament. I had told Sophie, in the second year, that I had a *bad head for the past,* and she had said that it was not a head for the past, it was a head for the present, which was a different thing, and that this was the trouble. I put the toast down. It was cold.
 
-"I've no Year Two. I've no Year Three. I've the bicycle, at seven, and a fall, and some stitches. I've got the feeling of a wall. That is all I've got. I can tell you what I was given for Christmas in 1999."
+"I've no Year Two. I've no Year Three. I've the bicycle, at five, and a fall, and some stitches. I've got the feeling of a wall. That is all I've got. I can tell you what I was given for Christmas in 1999."
 
 "A chemistry set," said Daniel-A.
 

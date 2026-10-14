@@ -158,7 +158,7 @@ I laughed again. I could not help it, and neither could she, and for ten seconds
 
 "You are Phase Two," said Dr Calder. "That is exactly what you are."
 
-"Nine months ago," said Daniel-A, "at two fourteen in the morning, on the eleventh of January, a man in Penge ate a crumpet, and clicked a box."
+"Ten months ago," said Daniel-A, "at two fourteen in the morning, on the eleventh of January, a man in Penge ate a crumpet, and clicked a box."
 
 "Yes."
 

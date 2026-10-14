@@ -188,7 +188,7 @@ Sophie said nothing. I could see the muscle moving in her jaw.
 
 There was a silence in the little room. The kettle began to tick.
 
-"You let go," said Mr Dewhurst, "and you said to me, quite calmly, 'It's his.' And then you went out into the rain, with no umbrella, and you didn't look back. And I thought, I remember thinking, in thirty years at this hatch I have not seen anyone give a thing away so well."
+"You let go," said Mr Dewhurst, "and you said to me, quite calmly, 'It's his.' And then you went out into the rain, with no umbrella, and you didn't look back. And I thought, I remember thinking, in all my years at this hatch I have not seen anyone give a thing away so well."
 
 I couldn't look at her.
 

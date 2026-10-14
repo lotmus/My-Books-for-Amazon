@@ -187,7 +187,7 @@ She appeared to think about it. A small, pretty wheel turned in her forehead.
 
 The medical record arrived that evening.
 
-I opened it at the table, with Daniel-A silent beside me and the laptop humming, and for several minutes I read nothing but ordinary things. Vaccinations. The verruca. A fall from a bicycle at the age of seven, in which I had apparently landed on my face; the notes recorded "laceration above left eyebrow, two sutures, patient brave." I put my finger to the scar. I had not been able to account for it for thirty-one years.
+I opened it at the table, with Daniel-A silent beside me and the laptop humming, and for several minutes I read nothing but ordinary things. Vaccinations. The verruca. A fall from a bicycle at the age of five, in which I had apparently landed on my face; the notes recorded "laceration above left eyebrow, two sutures, patient brave." I put my finger to the scar. I had not been able to account for it for thirty-three years.
 
 *So that's how.*
 

@@ -339,7 +339,7 @@ I didn't say anything. I'd never heard him say it so plainly. The lift smelled o
 
 The lift reached the lobby with a soft, apologetic chime.
 
-We stepped out. The glass walls of the building were full of the light of a thin, bright, late-October afternoon. Out in the plaza, people were walking through the middle of it, in pairs and singles, with no idea of the zero in the machine behind them.
+We stepped out. The glass walls of the building were full of the light of a thin, bright, early-October afternoon. Out in the plaza, people were walking through the middle of it, in pairs and singles, with no idea of the zero in the machine behind them.
 
 "Mr Harper," said a voice.
 

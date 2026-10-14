@@ -53,7 +53,7 @@ Nobody laughed. Dr Calder had put her head in her hands. Sophie had begun, very 
 
 "Both of you."
 
-"Then I'd like to say that I did not agree to this," said Daniel-A. "I did not agree to be primary. I did not read any of it. I have been in the world for nine months and I have been, as far as I knew, the second. The *copy.* I have spent the whole of it learning to be a good one. I have written a book that I didn't want to write and given a speech that I didn't believe, and I have declined a knighthood, because it seemed the sort of thing he would say no to. I have *apologised,* for nine months, for taking up room." His image on the screen had begun to shake. "And all that time, in a registry in Croydon, someone has had me down as the one who stays."
+"Then I'd like to say that I did not agree to this," said Daniel-A. "I did not agree to be primary. I did not read any of it. I have been in the world for ten months and I have been, as far as I knew, the second. The *copy.* I have spent the whole of it learning to be a good one. I have written a book that I didn't want to write and given a speech that I didn't believe, and I have declined a knighthood, because it seemed the sort of thing he would say no to. I have *apologised,* for ten months, for taking up room." His image on the screen had begun to shake. "And all that time, in a registry in Croydon, someone has had me down as the one who stays."
 
 "You're not to blame for that," said Dr Calder.
 
@@ -73,7 +73,7 @@ I answered, because it was my arithmetic. "I'm thirty-eight," I said. "I'll be t
 
 ---
 
-It was Daniel-A who put it together, in the next ten minutes, with the old speed that I had been afraid of for nine months and was, at that moment, extraordinarily glad to hear.
+It was Daniel-A who put it together, in the next ten minutes, with the old speed that I had been afraid of for ten months and was, at that moment, extraordinarily glad to hear.
 
 The Legacy tier, he said, was Phase Three. That was why Giles had let it slip at the Plus Day, so quickly and so shamefully, and why the Atrium had made a note. Legacy was not for the dead. It was for the living. *Because someone has to keep the lights on.* A person would buy it for the comfort of knowing that if anything happened to him, his twin would carry on. The documents would be signed in the spirit of *continuity.* The twin would inherit the accounts, the name, the contracts, the dividends. All the things that had made a man legally himself. And the Register would be updated, quietly, in a back room, to show that the primary was the one still switched on.
 
