@@ -161,3 +161,10 @@ Rule of the series: animals cannot be fooled by a statistical average. They are 
 - Daniel notices what he loves or fears. Sophie's hands and voice; Daniel-A's absence of toast; his mother's handwriting; food.
 - Never let the senses run lyrical for long; undercut with something dry within three lines.
 - Keep what is true of a character true in every book: eye colour, the chipped tooth, the shorter left lace, the elbow darned by Sophie.
+
+---
+
+## ADDED IN CHAPTER 19
+- **Ned (Edmund) [surname unknown]:** the "comparison" boy brought to 14 Marlow Road by Dr Calder every spring and autumn, 1989 to 1994; quiet, shorter than Daniel, same blue jumper, liked the pantry. Daniel-A cannot say his name (safety-layer blocklist).
+- **Mrs Okonkwo:** Sophie's neighbour in Clapton, minds Gucci.
+- **Hamish:** the sleeper's tartan AI steward and "Sleep Concierge".
