@@ -61,3 +61,10 @@ Sources: https://www.linz.govt.nz/guidance/overseas-investment/buying-residentia
 Created a new front-cover candidate that keeps the title, subtitle, author, and existing visual hierarchy while showing recognizable cues for the USA, Canada, Australia, and New Zealand. Replaced the front cover in the REV124 DOCX and both front-cover entries in the EPUB; added standalone REV124 PNG and JPEG assets. The back cover and interior illustrations are unchanged. The candidate addresses the earlier scope mismatch. No thumbnail experiment, Kindle Previewer check, live KDP upload, or reader-response test has been completed.
 
 **Market reassessment:** Amazon market 8.6/10 and package sellability 8.6/10 (from 8.4). This modest increase reflects clearer four-country positioning in the art and description. Search/category placement and conversion remain unmeasured, and the book remains exceptionally long. Overall 8.9; no category has been marked 10 without a complete review and supporting evidence.
+
+
+## REV124 Canada/New Zealand Chapter Openers - 13 October 2026
+
+A strict duplicate scan found identical generic introductions to the common-mistakes lists in the Canada and New Zealand immigration chapters. Replaced them with short, destination-specific lead-ins: Canada now foregrounds the distinction between eligibility and invitation competitiveness; New Zealand names the difference between work-visa and residence routes. Kept repeated appendix checklist prompts where the same practical check is intentionally reused across destinations. The full DOCX and EPUB were synchronized.
+
+**Critical-reader reassessment:** harsh critic 9.3/10 (up from 9.2) for reducing visible boilerplate; overall remains 8.9. The full book still has repeated country-level scaffolding by design, and no complete 325,000-word reread has been completed in this pass.
