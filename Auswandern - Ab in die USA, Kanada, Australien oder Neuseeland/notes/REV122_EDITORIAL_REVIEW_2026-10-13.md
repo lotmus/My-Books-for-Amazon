@@ -68,3 +68,10 @@ Created a new front-cover candidate that keeps the title, subtitle, author, and 
 A strict duplicate scan found identical generic introductions to the common-mistakes lists in the Canada and New Zealand immigration chapters. Replaced them with short, destination-specific lead-ins: Canada now foregrounds the distinction between eligibility and invitation competitiveness; New Zealand names the difference between work-visa and residence routes. Kept repeated appendix checklist prompts where the same practical check is intentionally reused across destinations. The full DOCX and EPUB were synchronized.
 
 **Critical-reader reassessment:** harsh critic 9.3/10 (up from 9.2) for reducing visible boilerplate; overall remains 8.9. The full book still has repeated country-level scaffolding by design, and no complete 325,000-word reread has been completed in this pass.
+
+
+## REV124 Country-Specific Quickfinder Prompts - 13 October 2026
+
+The four country quickfinders repeated the same opening cost question verbatim. Replaced it with one prompt per destination: US health insurance, study, and mobility costs; Canadian housing, health, education, and daily spending; Australian health costs, tuition, and travel distance; and New Zealand housing, health, education, and transport. All four still point to the shared cost-comparison chapter. The REV124 DOCX and EPUB contain matching wording.
+
+**Critical-reader reassessment:** harsh critic 9.4/10 (up from 9.2 before the country-specific opener pass). The quickfinder now signals each destination's distinct decision points. The broader country-level structure remains deliberately parallel. Overall remains 8.9; the full fact-check, device preview, and market-evidence gaps remain.
