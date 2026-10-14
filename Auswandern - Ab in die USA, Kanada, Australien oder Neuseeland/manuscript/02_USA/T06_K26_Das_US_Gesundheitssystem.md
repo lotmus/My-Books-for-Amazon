@@ -166,11 +166,11 @@ Der *No Surprises Act* (seit 1. Januar 2022) begrenzt überraschende Zusatzrechn
 
 Endet der Job, endet meist auch die Arbeitgeberdeckung, je nach Firma am letzten Arbeitstag oder zum Monatsende. Es bleiben drei Wege:
 
-- **COBRA:** Du führst den bisherigen Plan fort, bei Kündigung oder Stundenkürzung 18 Monate, bei Folgeereignissen wie Scheidung oder Tod des Versicherten bis zu 36 Monate. Das gilt bei Arbeitgebern ab 20 Beschäftigten. Du zahlst die volle Prämie, Arbeitgeber- und Arbeitnehmeranteil, plus den gesetzlichen Aufschlag. Der COBRA-Bescheid nennt den konkreten Beitrag; vergleiche ihn mit einem Marketplace-Plan und einem möglichen Partnerplan.
+- **COBRA:** Wenn eine Beendigung des Arbeitsverhältnisses (außer bei grobem Fehlverhalten) oder eine erhebliche Stundenkürzung zum Verlust der Planversicherung führt, können Beschäftigte und Angehörige den Plan in der Regel bis zu 18 Monate fortführen. Scheidung oder Tod des Beschäftigten können für Angehörige eigene Ansprüche auslösen; ein zweites qualifizierendes Ereignis kann die Fortführung unter Bedingungen auf insgesamt bis zu 36 Monate verlängern. Bundes-COBRA gilt grundsätzlich für private Arbeitgeber mit mindestens 20 Beschäftigten und für staatliche sowie lokale Arbeitgeber; manche Bundesstaaten erfassen auch kleinere Arbeitgeber. Du zahlst meist die volle Planprämie plus bis zu 2 Prozent. Der Bescheid nennt den konkreten Beitrag; vergleiche ihn mit einem Marketplace- oder Partnerplan.
 - **Marktplatz:** Der Verlust der Arbeitgeberdeckung löst ein Sonderfenster aus (60 Tage vor bis 60 Tage nach dem Verlust). Ab 2027 für Visa-Inhaber ohne Zuschuss.
 - **Partnerplan:** Hat dein Partner einen eigenen Arbeitgeberplan, kannst du dort einsteigen; auch das ist ein Sonderfenster.
 
-> **Achtung:** Die COBRA-Wahlfrist beträgt 60 Tage ab dem Verlust bzw. der Mitteilung, die erste Zahlung ist binnen 45 Tagen nach der Wahl fällig. Die Deckung gilt rückwirkend ab dem Verlust, du kannst COBRA also auch nach einem Notfall in der Wahlfrist noch wählen, musst dann aber alle Beiträge nachzahlen. Verschleppe die Entscheidung trotzdem nicht.
+> **Achtung:** Für die COBRA-Wahl hast du 60 Tage ab dem späteren dieser beiden Zeitpunkte: Ende der Arbeitgeberdeckung oder Zugang der Wahlmitteilung. Die erste Zahlung ist in der Regel binnen 45 Tagen nach deiner Wahl fällig. Bei rechtzeitiger Wahl gilt die Deckung rückwirkend ab dem Ende der bisherigen Versicherung; dann musst du die Beiträge seitdem nachzahlen. Prüfe die Fristen in deiner Mitteilung.
 
 Der Aufenthaltsstatus läuft nach einer Kündigung nur begrenzt weiter (Kapitel 30); die Versicherungsfristen und die Statusfristen sind zwei getrennte Uhren.
 
@@ -236,7 +236,7 @@ Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindes
 - [healthcare.gov/immigrants/lawfully-present-immigrants](https://www.healthcare.gov/immigrants/lawfully-present-immigrants/) — Zuschussregeln für rechtmäßig anwesende Einwanderer ab 2027
 - [medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf](https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf) — CMS-Leitlinie zu Medicaid- und CHIP-Bundesfinanzierung für Nicht-US-Bürger ab 1. Oktober 2026
 - [cms.gov/nosurprises/consumers](https://cms.gov/nosurprises/consumers) — No Surprises Act, Kostenvoranschlag, Beschwerdestelle
-- [dol.gov/agencies/ebsa](https://dol.gov/agencies/ebsa) — COBRA, Wartefristen, Newborns’ Act
+- [dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) — COBRA: Anspruch, Wahlfrist, Prämien und Fortdauer
 - [irs.gov/publications/p969](https://irs.gov/publications/p969) — HSA und HDHP, jährliche Grenzwerte
 - [kff.org/health-costs/2025-employer-health-benefits-survey](https://kff.org/health-costs/2025-employer-health-benefits-survey) — Prämien, Selbstbehalte, Wartefristen
 - [census.gov/library/publications/2026/demo/p60-291.html](https://census.gov/library/publications/2026/demo/p60-291.html) — Versichertenstatistik 2025
