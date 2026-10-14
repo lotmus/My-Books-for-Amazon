@@ -14,6 +14,7 @@ VER = 'v1'
 MD = f'{D}/manuscript/Forbidden_Offspring_working_v1.md'
 DOCX = f'{D}/Forbidden_Offspring_{VER}.docx'
 EPUB = f'{D}/Forbidden_Offspring_{VER}.epub'
+COVER = f'{D}/Forbidden_Offspring_cover_{VER}.jpg'  # made by make_cover.py
 BLUE = RGBColor(0x1F, 0x4E, 0x8C)
 
 tmp = tempfile.mkdtemp()
@@ -80,7 +81,7 @@ doc.save(DOCX)
 open(meta, 'w', encoding='utf-8').write(
     'title: Forbidden Offspring\nsubtitle: A Novel\nlang: en-US\n'
     'author: []\ncreator:\n  - role: author\n    text: Lothar J. Musiol\n  - role: author\n    text: Genevieve Crisp\n')
-subprocess.run(['pandoc', DOCX, '-o', EPUB, '--toc', '--toc-depth=2', '--split-level=2',
+subprocess.run(['pandoc', DOCX, '-o', EPUB, '--toc', '--toc-depth=2', '--split-level=2', '--epub-cover-image=' + COVER,
                 f'--metadata-file={meta}'], check=True)
 print(DOCX, os.path.getsize(DOCX), EPUB, os.path.getsize(EPUB))
 

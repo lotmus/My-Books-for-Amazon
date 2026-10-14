@@ -24,7 +24,7 @@ Line five said: *In 11 participants, we identified a short unannotated region of
 
 It was not an artifact. I knew it as one knows a voice in a crowd. Eleven participants, and none of them mine. The fragment was one of ours, or something very like it, and it was sitting in a stranger's blood on the other side of the world.
 
-I want to be careful about how I explain what I understood in that kitchen, because I understood several things at once, and not in order.
+I understood several things in that kitchen at once, and not in order.
 
 The first was that I was not the only person who had ever done this. I had assumed, with the vanity of a man who works alone, that I was. But nobody makes an artifact that looks like that unless somebody has made the thing itself, and if somebody else had, there was a world in which the work was already moving, unwatched, with all my controls missing.
 

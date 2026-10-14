@@ -6,7 +6,7 @@
 
 They had put a smoothie bar where the waiting room used to be.
 
-I want to say that I took this in calmly, but I stood in the doorway of the old Central Valley lobby with a laminated visitor's badge on a lanyard around my neck, and what I thought, with great clarity, was: *I hope nobody was ever told bad news here, for the smoothie's sake.* It was a very nice smoothie bar. It had reclaimed wood and a chalkboard that said **TODAY: MANGO + CALM.** A young man in a green apron was explaining to a woman with a stroller that the kale was local.
+I did not take this in calmly. I stood in the doorway of the old Central Valley lobby with a laminated visitor's badge on a lanyard around my neck, and what I thought, with great clarity, was: *I hope nobody was ever told bad news here, for the smoothie's sake.* It was a very nice smoothie bar. It had reclaimed wood and a chalkboard that said **TODAY: MANGO + CALM.** A young man in a green apron was explaining to a woman with a stroller that the kale was local.
 
 The lobby was the same lobby. That was the unsettling part. They had kept the high ceiling and the black and white tiles, and the radiator under the window that Stone had hated. They had painted over the gloom with a color the brochure called *Meadow* and hung, on the long wall where the donors' plaques used to be, a mural of a very large, very friendly tree. Under the tree, in a loose and cheerful script, were the words **EVERY CHILD DESERVES TO BE HEARD.**
 

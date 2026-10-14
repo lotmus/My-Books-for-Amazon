@@ -20,9 +20,9 @@ Premise in one paragraph: In 1999 Dr. Frank Stone, a fertility doctor, secretly 
 - `build_manuscript.py`: rebuilds the manuscript from the drafts. Run from the repo root: `python3 Forbidden_Offspring/build_manuscript.py`. It prints total words and per-chapter counts. To change the book, edit a draft and rebuild.
 - `bak/` (ignored by git): older versions. Never delete anything; move old versions there.
 
-## Current status (13 Oct 2026, after Revision 2)
+## Current status (13 Oct 2026, after Revision 3)
 
-About 58,500 words (about 195 pages). 24 chapters. Every chapter is a full draft. Revision 2 added four new Part Two chapters (The Foundation, The Cabinet, Four Question Marks, The Draft), the Mr. Hale and Connie's-diploma scenes, a cure-mechanism bridge, a managed-leak clue, a cable-panel satire scene, the Wren and Theo payoffs, a fixed Part One ordering (chapter 5), verified appendix and bibliography with hidden-URL keyword links, and an American-English pass. Still needed: a read-through by Lothar; line edit for the strongest voice in Danny's chapters; docx master and EPUB; a cover; the KDP listing; About the Author and Also-by (blocked on the pen-name rule). The reader review is in `notes/REVIEW_2026-10-13.md`.
+About 59,150 words (about 197 pages). 24 chapters, every one a full draft. Revision 3 (13 Oct, evening) was a full read-through: about 15 timeline slips fixed (Wren's birth, Stone's ages, Lena's birth time, the leak moved to autumn 2035, Julian's birthday), 28 narrator tics cut, closing lines for Tobias, Maren and Theo, appendix sub-heads un-numbered. Produced: docx master and EPUB (`Forbidden_Offspring_v1.docx/.epub`, built by `build_docx_epub.py`), a typographic cover (`make_cover.py`, `Forbidden_Offspring_cover_v1.jpg`), the dual byline, About the Author and Also-by. Score 8.7, sellability 8.4 (`notes/REVIEW_2026-10-13.md`). Still needed: Lothar's read-through; a line edit for blunter Danny sentences in chapters 8 and 10 to 16; one small threat in chapters 10 to 13; back cover; KDP listing; approval of the pen-name paragraph and cover wording.
 
 ## The hard rules (do not break)
 

@@ -10,13 +10,13 @@ The old incubator stood in the corner on its own stand, a squat cream machine th
 
 I took off my coat. I hung it on the hook. I washed my hands, for a long time, in the old steel sink.
 
-I will not say what I did. I have said I will not. I will say that it was quiet, and that my hands were steady, and that at some point, in the middle of it, I became aware that I was humming. It was a tune my mother used to sing, a nursery thing about a lamb that I had not remembered in fifty years. I stopped. I started again. I finished what I was doing, and put it back, and closed the door.
+I will not say what I did. I have said I will not. It was quiet, my hands were steady, and at some point, in the middle of it, I became aware that I was humming. It was a tune my mother used to sing, a nursery thing about a lamb that I had not remembered in fifty years. I stopped. I started again. I finished what I was doing, and put it back, and closed the door.
 
 The red light glowed. The machine hummed, and went on humming.
 
 It occurred to me that I was happy.
 
-I want to be exact about this. It was not the happiness of a man who has done good, or even of one who has done well. It was a smaller, stranger, more private thing: the simple happiness of someone who has found the one room in the world in which he is entirely himself. I sat down on the stool and put my head in my hands and stayed there, with my coat on its hook and the light over the bench, for what must have been an hour.
+It was not the happiness of a man who has done good, or even of one who has done well. It was a smaller, stranger, more private thing: the simple happiness of someone who has found the one room in the world in which he is entirely himself. I sat down on the stool and put my head in my hands and stayed there, with my coat on its hook and the light over the bench, for what must have been an hour.
 
 Then I went home. I had been in the building for three hours and fourteen minutes. No one had seen me. The cameras in the corridor had looked at the empty floor, as they had been looking at it for years, with the patient indifference of machines whose recording tapes had been reused so often that they carried only a faint gray hiss.
 

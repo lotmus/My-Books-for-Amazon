@@ -4,7 +4,7 @@
 
 I called her B. in the notes. Danny was A. It was neat, and it spared me from using names, which have a way of attaching themselves to things.
 
-I did not follow her. I want that understood, because a man in my position might be expected to. I had given up following the first month. What I did was subscribe, in the name of the clinic, to the quarterly bulletin of the school district, and to the county library's newsletter, and to a small magazine for parents that listed prizes. There is a great deal to be learned from prize lists. They are the only public record in the country of what children can do.
+I did not follow her, though a man in my position might be expected to. I had given up following the first month. What I did was subscribe, in the name of the clinic, to the quarterly bulletin of the school district, and to the county library's newsletter, and to a small magazine for parents that listed prizes. There is a great deal to be learned from prize lists. They are the only public record in the country of what children can do.
 
 B. appeared in them four times in two years. She won a prize at a regional science fair for a poster entitled *How Do Animals Tell Where They Are?* She took second at a school spelling bee, deliberately, I suspected, having lost the final word on a vowel that she must have known. She played the oboe. She took a ribbon for a project involving marbles and the speed of sound in different floors. Her photograph appeared in a library newsletter next to a story about a bake sale, a thin girl in a green sweater with a ribbon on her chest and her head turned slightly to the left, listening to something that the photographer could not hear.
 

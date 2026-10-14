@@ -6,7 +6,7 @@
 
 I had a rule, and Julian had a better one.
 
-Mine was *no one is approached by surprise.* It had taken me fifteen years to build. It was careful and kind and it had kept me, so far as I could tell, from doing a single useful thing for four of the people on my list. His was simpler. His was *approach everyone, gently, with money.*
+Mine was *no one is approached by surprise.* It had taken me seventeen years to build. It was careful and kind and it had kept me, so far as I could tell, from doing a single useful thing for four of the people on my list. His was simpler. His was *approach everyone, gently, with money.*
 
 I went through the list that night, at the kitchen table, with a cup of tea going cold. There were four names with a box drawn round them, each in my own small handwriting, each with a question mark. I had not touched the sheet in years. I had told myself that it was a matter of time, and care, and the right words.
 
@@ -18,9 +18,9 @@ I took a month's leave. I put the notebook in the glove compartment and drove.
 
 **Tobias** was the boy who had stopped talking.
 
-He was twenty-eight now. I found him in a low brick building at the edge of a college town that had once been a hosiery factory and was now, according to the sign, **THE LEAF STUDIO: A SPACE FOR LISTENING.** The sign was green. I did not need to read it to know whose it was. I stood in the parking lot with my hands in my pockets and told myself that I would be calm.
+He was twenty-nine now. I found him in a low brick building at the edge of a college town that had once been a hosiery factory and was now, according to the sign, **THE LEAF STUDIO: A SPACE FOR LISTENING.** The sign was green. I did not need to read it to know whose it was. I stood in the parking lot with my hands in my pockets and told myself that I would be calm.
 
-It was a very good studio. I want to say that, because it would be much easier to tell you it was a prison. It was warm and quiet, with high windows and wooden floors and a smell of beeswax. It had been soundproofed by someone who knew what they were doing: the walls were thick and curved, the corners rounded, and the one clock on the wall had been fitted with a mechanism that did not tick. In the middle of the main room there were eleven people, aged from nine to fifty, sitting in a loose circle on cushions and doing absolutely nothing. A woman with a viola played one long note. They listened.
+It was a very good studio. It would be much easier to tell you it was a prison. It was warm and quiet, with high windows and wooden floors and a smell of beeswax. It had been soundproofed by someone who knew what they were doing: the walls were thick and curved, the corners rounded, and the one clock on the wall had been fitted with a mechanism that did not tick. In the middle of the main room there were eleven people, aged from nine to fifty, sitting in a loose circle on cushions and doing absolutely nothing. A woman with a viola played one long note. They listened.
 
 I counted. Eight of the eleven turned their heads, a few degrees, to a car that went by on the road three hundred yards away.
 
@@ -62,7 +62,7 @@ I sat there with my hands on my knees. I had come to rescue someone, and the per
 
 **Imke** was the young woman who could hear the building.
 
-She was thirty-four. She lived in a room at a private clinic forty miles north, which belonged to a company that belonged to a trust, and the receptionist, who was very sweet, said that Ms. Imke saw visitors on Wednesdays between two and four.
+She was thirty-five. She lived in a room at a private clinic forty miles north, which belonged to a company that belonged to a trust, and the receptionist, who was very sweet, said that Ms. Imke saw visitors on Wednesdays between two and four.
 
 It was a pleasant room. It had a window seat. It had a cat, a fat white one called Rudolph, and a bookshelf full of paperbacks about the sea. She was small and fair and a little pale, in a blue cardigan, and she sat in the window with her feet tucked under her and watched me come in.
 
@@ -84,7 +84,7 @@ I sat down in the other chair. "Dr. Okonjo."
 
 "He's lovely. He used to work somewhere else." She waved a hand. "Julian visits sometimes. Do you know him? He's the nicest man. He brought me the cat."
 
-*He brought her the cat.* I want you to understand what I felt. It was not rage. It was something much more difficult, a sort of astonished, nauseated helplessness, like watching a man you have been told is a thief hand a coat to a stranger on a cold night.
+*He brought her the cat.* It was not rage. It was something much more difficult, a sort of astonished, nauseated helplessness, like watching a man you have been told is a thief hand a coat to a stranger on a cold night.
 
 "Do you want to leave?" I said.
 
@@ -126,7 +126,7 @@ I have thought about that word a great deal. It is the word we all use for the t
 
 **Maren** was the woman who lived in a field, and she would not see me.
 
-I found her in a county I will not name, in a place that was less a field than a long, tilted piece of hillside with some goats on it. She had built a house the size of a garden shed out of old pallets, and she had a stove, and a rain barrel, and a view. She was thirty-four. She had been an excellent student, a record of straight A's, until the day she walked out of an exam in the middle of a sentence and did not go back.
+I found her in a county I will not name, in a place that was less a field than a long, tilted piece of hillside with some goats on it. She had built a house the size of a garden shed out of old pallets, and she had a stove, and a rain barrel, and a view. She was thirty-five. She had been an excellent student, a record of straight A's, until the day she walked out of an exam in the middle of a sentence and did not go back.
 
 She was sitting on the step of the shed in a man's wool coat, peeling a turnip, when I came up the path. She watched me approach. She did not stand up.
 
@@ -156,11 +156,11 @@ I did not tell her what she was. She did not ask. We watched the goats for an ho
 
 I drove home through a long gray rain.
 
-I will say what I learned, since I promised to set down everything. It was this. I had spent fifteen years believing that the thing wrong with the four question marks was that they did not know. I had told myself that when I could find the right words, they would be saved by the telling. And I had found that two of them were happy, one was loyal, and one had chosen to live in a field, and that every one of them had been found by someone who did not tell them anything at all.
+Here is what I learned. I had spent seventeen years believing that the thing wrong with the four question marks was that they did not know. I had told myself that when I could find the right words, they would be saved by the telling. And I had found that two of them were happy, one was loyal, and one had chosen to live in a field, and that every one of them had been found by someone who did not tell them anything at all.
 
 *They let me find out,* Tobias had said.
 
-I had thought of my rule as kindness. I saw now that it was control, in a gentler coat. I had wanted to be the one to decide when each of them was ready. It was Stone's sin, in miniature, and I had worn it for fifteen years without noticing, because it fitted so well.
+I had thought of my rule as kindness. I saw now that it was control, in a gentler coat. I had wanted to be the one to decide when each of them was ready. It was Stone's sin, in miniature, and I had worn it for seventeen years without noticing, because it fitted so well.
 
 I pulled over at a rest stop, in the rain, and sat in the car for an hour with the engine off. A truck went by. I heard the driver humming. I listened to him until he was gone.
 
