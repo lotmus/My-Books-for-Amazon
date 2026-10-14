@@ -131,3 +131,12 @@ The Australia parent-visa chapter gave monthly OVHC price bands and an age surch
 Primary sources: [Home Affairs, Adequate health insurance for visa holders](https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/health/adequate-health-insurance); [Australian Government, Overseas Visitors Health Cover](https://www.privatehealth.gov.au/health_insurance/overseas/overseas_visitors_health_cover.htm). The government comparison guidance recommends comparing policies from at least three providers and notes that costs, eligibility, and benefits vary.
 
 **Subject/fact-check reassessment:** 9.3/10 (up from 9.2) for removing unsupported premiums and replacing them with current official decision guidance. The full audit of dated costs and legal claims remains outstanding; overall stays 8.9.
+
+
+## REV124 U.S. Green Card Bulletin Chart Distinction - 14 October 2026
+
+A review of the U.S. Green Card chapter found that its October 2026 quick summary mixed the two Visa Bulletin tables without naming them and a later paragraph incorrectly said EB-2 had no cutoff. The October figures themselves were current, but the distinction is consequential: for applicants chargeable to most of the world, EB-2's Final Action Date was 1 January 2025 while the Dates for Filing cutoff was 15 March 2026; EB-3's dates were 15 May 2024 and 1 August 2024, respectively. USCIS permitted the Dates for Filing chart for October I-485 filings, but filing eligibility did not mean a visa could immediately be issued. Rewrote the opening sentence to repair a punctuation break, clarified the summary and EB-2 explanation, aligned the related H-1B/Green Card summary, and linked USCIS's exact monthly chart page. Synced REV124 DOCX and EPUB.
+
+Primary sources: [State Department, October 2026 Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html); [USCIS, Adjustment of Status Filing Charts from the Visa Bulletin](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin).
+
+**Subject/fact-check reassessment:** 9.4/10 (up from 9.3) after resolving an incorrect EB-2 description and clarifying the current filing versus visa-issuance thresholds across the linked summaries. This is a focused U.S. section correction, not a full immigration-law audit; overall remains 8.9.
