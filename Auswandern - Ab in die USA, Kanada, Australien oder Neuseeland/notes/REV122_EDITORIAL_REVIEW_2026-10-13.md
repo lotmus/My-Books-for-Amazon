@@ -104,3 +104,12 @@ Primary source: IRCC, [Express Entry: Rounds of invitations](https://www.canada.
 A whole-book phrase scan found and corrected the punctuation error "Wenn, man kommt ..." in the New Zealand discussion of M?ori communities. The replacement asks readers to follow the rules of the particular marae and accept a personal invitation only if comfortable, keeping the advice specific and non-generalizing.
 
 **Subject/fact-check reassessment:** 9.0/10 (up from 8.9) for correcting the invitation claims, removing the unsupported aggregate, and replacing stale draw examples with a sourced snapshot. Overall remains 8.9; the country-wide fact audit, device preview, and market evidence are still open.
+
+
+## REV124 Subclass 870 Parent-Visa Restriction - 14 October 2026
+
+A focused review of Australia's family and retirement chapter found that the Subclass 870 visit visa was presented as a temporary alternative without disclosing its major eligibility consequence: a person who has applied for or holds an 870 cannot apply for another temporary or permanent parent visa. This changes the decision, so the fact is now in the opening summary, the main explanation, the common-mistakes list, and the checklist. The wording also avoids implying that the 870 is a harmless bridge for a family that may later pursue permanent parent migration. Replaced the generic Home Affairs search instruction with links to the exact official visa page and the department's explanation of the parent-visa restriction. Synced the Markdown working chapter, REV124 DOCX, and EPUB; verified the passage matches and both archive containers remain readable.
+
+Primary sources: [Home Affairs, Sponsored Parent (Temporary) visa, subclass 870](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/sponsored-parent-temporary-870); [Home Affairs, Sponsored Parent visa explanation](https://immi.homeaffairs.gov.au/bringing/Pages/introducing-five-year-temp-sponsored-parent-visa.aspx).
+
+**Subject/fact-check reassessment:** 9.1/10 (up from 9.0) for closing a material decision-risk omission with a primary-source check and carrying the correction through the upload files. The full country-by-country audit remains open; overall stays 8.9. This single correction does not justify a 10/10 rating.

@@ -9,7 +9,7 @@ Ein erwachsenes Kind in Australien und ausreichende finanzielle Mittel machen de
 > - Ein „einfaches“ Ruhestandsvisum wie früher (Subclass 405/410) gibt es für Neuanträge nicht mehr – nur Bestandsschutz für bereits vorhandene Inhaber.
 > - Für einen dauerhaften Familiennachzug zu erwachsenen Kindern ist das Eltern-Visum (Parent Visa) der zentrale Weg: Ein Kind mit australischer Staatsbürgerschaft oder Daueraufenthaltstitel muss vor Ort leben; zusätzlich gilt der Balance-of-Family-Test.
 > - Zwei Schienen stehen zur Wahl: günstiger, aber mit einer geschätzten Wartezeit von 42 Jahren (Non-Contributory), oder teuer, mit rund 49.900 AUD Visagebühr pro Person plus separater, rückzahlbarer Kaution. Für Contributory-Parent-Visa schätzte Home Affairs die Wartezeit im August 2026 auf 18 Jahre.
-> - Eine befristete Zwischenlösung (Subclass 870) erlaubt bis zu zehn Jahre Aufenthalt ohne Daueraufenthaltsperspektive, ohne Medicare-Zugang und ohne Arbeitserlaubnis.
+> - Eine befristete Zwischenlösung (Subclass 870) erlaubt bis zu zehn Jahre Aufenthalt ohne Daueraufenthaltsperspektive und ohne Arbeitserlaubnis. Wer das Visum beantragt hat oder innehat, kann währenddessen kein anderes Elternvisum beantragen.
 
 **Kinder und weitere Familienangehörige:** Abhängige Kinder können je nach Hauptvisum mitbeantragt werden. Daneben gibt es eigene Kinderwege (Subclass 101/802), ein Visum für bestimmte Adoptionen (102) und ein vorläufiges Visum für abhängige Kinder eines Partnervisum-Antragstellers (445). Die *Other Family*-Visa sind eng begrenzte Sonderwege. Das Carer-Visum (116/836) verlangt, dass du einer verwandten Person mit langfristiger Erkrankung erhebliche, fortlaufende Hilfe leistest, zu der sie in Australien keinen angemessenen Zugang hat. Beim Remaining-Relative-Visum (115/835) müssen die einzigen nahen Angehörigen in Australien leben. Das Aged-Dependent-Relative-Visum (114/838) setzt unter anderem voraus, dass eine alleinstehende Person im australischen Rentenalter finanziell von ihrem dort lebenden Angehörigen abhängt. Für diese Kategorien gibt es nur begrenzte Plätze und lange Warteschlangen. Sie sind keine allgemeinen Alternativen zum Eltern- oder Partnervisum; prüfe die genaue Definition von „nahem Angehörigen“, Alter, Abhängigkeit und Sponsoring direkt bei Home Affairs.
 
@@ -73,7 +73,7 @@ Anders als bei manchen Studien- oder Ruhestandsvisa anderer Länder nennen die a
 
 #### Die Zwischenlösung ohne Daueraufenthalt: Subclass 870
 
-Wer weder 42 noch 18 Jahre warten will oder kann, findet im Sponsored Parent (Temporary) Visa, Subclass 870, eine befristete Alternative – allerdings ausdrücklich ohne Weg zum Daueraufenthalt. Die Gültigkeit ist wählbar: drei Jahre für 6.370 AUD oder fünf Jahre für 12.440 AUD (Stand ab 1. Juli 2026), kumulativ über das gesamte Leben der Antragstellerin oder des Antragstellers höchstens zehn Jahre. Ein Balance-of-Family-Test ist hier nicht nötig – dafür fehlt eben jede Aussicht auf einen dauerhaften Status. Medicare-Zugang gibt es nicht, eine durchgehende private Krankenversicherung ist Pflicht (Bedingung 8501), und arbeiten darfst du mit diesem Visum nicht.
+Wer weder 42 noch 18 Jahre warten will oder kann, findet im Sponsored Parent (Temporary) Visa, Subclass 870, eine befristete Alternative – allerdings ausdrücklich ohne Weg zum Daueraufenthalt. Die Gültigkeit ist wählbar: drei Jahre für 6.370 AUD oder fünf Jahre für 12.440 AUD (Stand ab 1. Juli 2026), kumulativ höchstens zehn Jahre. Ein Balance-of-Family-Test ist nicht nötig. Dafür gilt eine entscheidende Einschränkung: Schon wer ein Subclass-870-Visum beantragt hat, kann kein anderes Elternvisum beantragen; das gilt auch während des Aufenthalts. Die Wahl des Besuchervisums kann damit eine spätere dauerhafte Elternvisum-Strategie ausschließen. Medicare-Zugang besteht nicht; eine angemessene private Krankenversicherung ist Pflicht, und arbeiten darfst du mit diesem Visum nicht. Prüfe die Folgen vor dem Antrag direkt bei Home Affairs.
 
 #### Krankenversicherung: der Posten, den viele unterschätzen
 
@@ -99,7 +99,7 @@ Bei Familien-, Investoren- und Ruhestandswegen wiederholen sich erfahrungsgemä�
 - Die lange Wartezeit beim Non-Contributory-Weg wird als Verhandlungsspielraum missverstanden. Es handelt sich um eine behördliche Schätzung auf Basis der bisherigen Bearbeitung, nicht um eine Verhandlungsposition oder ein verbindliches Enddatum.
 - Investorenwege werden anhand veralteter Ratgeber oder Foren-Beiträge geplant, die noch das seit 2024 geschlossene Subclass-188-Visum beschreiben.
 - Die Kosten eines Contributory-Eltern-Visums werden nur als einmalige Gebühr wahrgenommen, ohne die separate Assurance of Support einzurechnen – am Ende steht dann eine böse Überraschung von mehreren Zehntausend AUD.
-- Subclass 870 wird mit einem Daueraufenthaltsvisum verwechselt, obwohl es ausdrücklich keinen solchen Übergang vorsieht.
+- Subclass 870 wird als unverbindliche Zwischenlösung verstanden. Bereits der Antrag schließt ein anderes Elternvisum aus; wer einen dauerhaften Elternnachzug erwägt, sollte diese Sperre vor dem Antrag prüfen.
 - Die Kosten einer privaten Krankenversicherung während der langen Wartezeit werden bei der Budgetplanung oft unterschätzt und können sich über Jahre oder Jahrzehnte zu einem erheblichen Posten summieren.
 
 ### Plus und Minus
@@ -132,7 +132,7 @@ Und wenn keiner der Wege passt, sind regelmäßige längere Besuche bei einem fe
 > - [ ] Geprüft, ob eine bestehende Partnerschaft die Voraussetzungen für ein Partnervisum erfüllt, und Dokumentation der Beziehung frühzeitig begonnen
 > - [ ] Geklärt, ob ein Kind mit australischer Staatsbürgerschaft oder Daueraufenthaltstitel vor Ort lebt und der Balance-of-Family-Test bestanden würde
 > - [ ] Non-Contributory- und Contributory-Weg beim Eltern-Visum mit den eigenen Finanzen und der eigenen Lebenserwartung realistisch gegengerechnet
-> - [ ] Subclass 870 als befristete Zwischenlösung geprüft, falls ein Daueraufenthalt nicht angestrebt wird
+> - [ ] Vor einem Antrag auf Subclass 870 geprüft, dass bereits der Antrag ein anderes Elternvisum ausschließt – auch wenn ein dauerhafter Nachzug später wieder relevant werden könnte
 > - [ ] Kosten für private Krankenversicherung (OVHC) für die gesamte Wartezeit eingeplant, nicht nur für das erste Jahr
 > - [ ] Steuerliche Behandlung der deutschen Rente in Australien mit einer spezialisierten Beratung geklärt
 > - [ ] Investorenwege realistisch eingeordnet: Subclass 188 ist geschlossen, Subclass 858 nur für echte Innovationsvorhaben
@@ -146,7 +146,7 @@ Und wenn keiner der Wege passt, sind regelmäßige längere Besuche bei einem fe
 - Department of Home Affairs — Kinder- und andere Familienvisa ([immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au/what-we-do/family-migration-program/visa-options))
 - Department of Home Affairs — Voraussetzungen und Warteschlangen der *Other Family*-Visa ([immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au/what-we-do/family-migration-program/visa-options/about-other-family-visas))
 - Department of Home Affairs — Parent-Visa-Kategorien und Balance-of-Family-Test ([immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au), Suche: parent-visa, balance-of-family-test)
-- Department of Home Affairs — Sponsored Parent (Temporary) Visa, Subclass 870 ([immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au), Suche: sponsored-parent-870)
+- Department of Home Affairs — Sponsored Parent (Temporary) Visa, Subclass 870 ([Visa-Regeln und Voraussetzungen](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/sponsored-parent-temporary-870); [offizielle Erläuterung zum Ausschluss anderer Elternvisa](https://immi.homeaffairs.gov.au/bringing/Pages/introducing-five-year-temp-sponsored-parent-visa.aspx))
 - Department of Home Affairs — National Innovation Visa, Subclass 858 ([immi.homeaffairs.gov.au](https://immi.homeaffairs.gov.au), Suche: national-innovation-visa-858)
 - Department of Home Affairs — Visa-Bearbeitungszeiten und -prioritäten ([immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times))
 - Australian Taxation Office — Doppelbesteuerungsabkommen Australien–Deutschland ([ato.gov.au](https://ato.gov.au))
