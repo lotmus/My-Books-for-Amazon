@@ -126,6 +126,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Rosetta Stone and decipherment.* Parkinson, Richard. Cracking Codes: The Rosetta Stone and Decipherment. London: British Museum Press, 1999.
 
+*The separate decipherment of cuneiform via the Behistun Inscription.* Pope, Maurice. The Story of Decipherment: From Egyptian Hieroglyphs to Maya Script. Rev. ed. London: Thames & Hudson, 1999.
+
 **1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization**
 
 *Oracle bones and Shang writing.* Keightley, David N. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. Berkeley: University of California Press, 1978.
@@ -328,6 +330,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Second Great Awakening and new movements.* Hatch, Nathan O. The Democratization of American Christianity. New Haven: Yale University Press, 1989.
 
+*The Shakers' English origin and 1774 emigration to New York under Ann Lee.* Stein, Stephen J. The Shaker Experience in America: A History of the United Society of Believers. New Haven: Yale University Press, 1992.
+
 *Joseph Smith.* Bushman, Richard Lyman. Joseph Smith: Rough Stone Rolling. New York: Knopf, 2005.
 
 *The Amish.* Kraybill, Donald B., Karen M. Johnson-Weiner, and Steven M. Nolt. The Amish. Baltimore: Johns Hopkins University Press, 2013.
@@ -506,6 +510,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Archaeology and the biblical narratives.* Finkelstein, Israel, and Neil Asher Silberman. The Bible Unearthed. New York: Free Press, 2001.
 
+*The Tel Dan Stele and the archaeological debate over the United Monarchy's scale.* Dever, William G. Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah. Atlanta: SBL Press, 2017.
+
 *The Dead Sea Scrolls.* VanderKam, James C. The Dead Sea Scrolls Today. 2nd ed. Grand Rapids: Eerdmans, 2010.
 
 *Masada and its single source.* Magness, Jodi. Masada: From Jewish Revolt to Modern Myth. Princeton: Princeton University Press, 2019.
@@ -607,6 +613,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Claudette Colvin.* Hoose, Phillip. Claudette Colvin: Twice toward Justice. New York: Farrar, Straus and Giroux, 2009.
 
 *Emmett Till.* Tyson, Timothy B. The Blood of Emmett Till. New York: Simon & Schuster, 2017.
+
+*The Twenty-Fourth Amendment and Harper v. Virginia's 1966 end to state poll taxes.* Keyssar, Alexander. The Right to Vote: The Contested History of Democracy in the United States. Rev. ed. New York: Basic Books, 2009.
 
 *Mandela.* Mandela, Nelson. Long Walk to Freedom. Boston: Little, Brown, 1994.
 
