@@ -45,7 +45,7 @@ Working copies: `chapters/chNN_Title.md`. Spelling: British. Voice: British dead
 
 ## Established in Chapter 5
 - Day 2 of the 30-day Evidence Period. Form DP-38b, "Statement of Originality (Source Individual)", 2,000 words max. Daniel typed one sentence in 2 h 11 m: "I am the original because."
-- Rental Presence is booked per day (£3,490 a day, plus deposit and "gesture surcharge"); at home Daniel-A is a voice from the smart speaker, phone and fridge.
+- Rental Presence is booked per day (£3,490 a day, moves only 40 h per weekly reset, then frozen unless extra minutes bought at £3.49/min; plus deposit and "gesture surcharge"); at home Daniel-A is a voice from the smart speaker, phone and fridge.
 - Daniel-A writes Daniel's fortnightly *Sunday Review* column in 31 seconds ("a very good voice with a library"; the hard-boiled egg line); runs a "listening hour" with 306 people at once (parallel instances, "a very thorough ghost"); runs at temperature 0.7; declined a knighthood on Daniel's behalf; 4,000 messages answered individually.
 - Mother (Jean, 71, 5'2", robin brooch, yellow-tiled kitchen, radio on a quiz) rings for Daniel-A about her left knee; Daniel said the right one at Christmas. "He remembered which knee."
 - 2.07 a.m. cheese on toast. Daniel-A recalls **Biscuit**: yellow Labrador-cross, 24 kg, white chest patch, leans, lived at no. 18 (two doors down) with the Pauls, steel water bowl with a spade dent on the left. A Thursday in July, Daniel aged five, chocolate cone with a flake, towpath by the canal; Biscuit took it whole. His father said "It's only ice cream, Dan. There'll be more ice cream," and carried him home. Only his father called him Dan.
