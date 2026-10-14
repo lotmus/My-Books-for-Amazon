@@ -27,7 +27,7 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 
 ## Still open
 
-- The paperback wrap is separate from the Kindle cover assets; the Kindle EPUB uses the current front and back cover assets listed below.
+- Ebook only: Lothar does not publish paperbacks (14 Oct 2026). The Kindle EPUB uses the current front and back cover assets listed below.
 - The lesson diagrams are 1400 px PNGs; fine for Kindle (file under 3 MB), could be cut to 800 px if size ever matters.
 
 ## Line and science review (12 Oct 2026)
@@ -86,12 +86,12 @@ Changes in REV2:
 - Kindle page format: page size 3.6 x 4.8 in with 0.3 in margins; all 21 images fit the 3.0 in text width (proportions kept); every Heading 1 starts a new page. In a LibreOffice check, the PDF came to 1,231 Kindle-size pages.
 - KDP description: the duplicate "Read it as a novel. Take the course. Or do both." line removed; dashes spaced as in the book. KDP_UPLOAD_READY points at REV2.
 
-Still open: rebuild the Kindle EPUB from REV2 (the EPUB on disk predates it); paperback wrap; at full size, check that the front cover title shows the umlaut in SCHRÖDINGER'S (it looked like "SCH RODINGER'S" at thumbnail size).
+Still open: rebuild the Kindle EPUB from REV2 (the EPUB on disk predates it); at full size, check that the front cover title shows the umlaut in SCHRÖDINGER'S (it looked like "SCH RODINGER'S" at thumbnail size).
 
 
 ## REV3 (13 Oct 2026): current master
 
-Current master: `Schrodingers_Paperwork_BOOK_1 - REV3.docx` (89,832 words; Kindle-screen pages, 3.6 x 4.8 in; no tables). REV2 is in `bak/`.
+Master at that time: `Schrodingers_Paperwork_BOOK_1 - REV3.docx` (now in `bak/`; current master is REV4, below) (89,832 words; Kindle-screen pages, 3.6 x 4.8 in; no tables). REV2 is in `bak/`.
 
 Aim: "try 11 to get 10", judged against Pratchett and Fforde as well as against indie science satire. Strict rescore: **9.4 on the indie benchmark, 8.6 against Pratchett/Fforde**; sellability 8.6, or about 9.0 once the cover is fixed.
 
@@ -106,6 +106,27 @@ Changes in REV3 (plot beats, lessons, exercises and solutions unchanged):
 - KDP: new hook ("The form arrived completed, countersigned and stamped RECEIVED. Nobody had sent it yet."); 7 keywords revised in KDP_UPLOAD_READY.
 - Housekeeping: the stray `Schrodingers_Paperwork_KINDLE - Copy.epub` moved to `bak/`.
 
-Cover fixed (13 Oct 2026): the front cover title is re-lettered and now reads SCHRÖDINGER’S (one D, precomposed Ö in Cinzel Bold, gold gradient with a dark outline and shadow) above PAPERWORK. The old lettering is covered by a smoky dark title panel with a thin gold rule, and the rest of the art is unchanged. Checked at full size and at thumbnail size (160 px). The original is in `bak/` as `KINDLE_FRONT_COVER_LIGHT - 2026-10-13 pre-title-fix.jpg`, and the REV3 docx embeds the fixed cover. Cover/KDP rescored 7.9 → 8.9; sellability 9.0. Still open: rebuild the EPUB from REV3; paperback wrap.
+Cover fixed (13 Oct 2026): the front cover title is re-lettered and now reads SCHRÖDINGER’S (one D, precomposed Ö in Cinzel Bold, gold gradient with a dark outline and shadow) above PAPERWORK. The old lettering is covered by a smoky dark title panel with a thin gold rule, and the rest of the art is unchanged. Checked at full size and at thumbnail size (160 px). The original is in `bak/` as `KINDLE_FRONT_COVER_LIGHT - 2026-10-13 pre-title-fix.jpg`, and the REV3 docx embeds the fixed cover. Cover/KDP rescored 7.9 → 8.9; sellability 9.0. Still open: rebuild the EPUB from the current master.
 
 Why not 10 against Pratchett and Fforde yet: the middle (Chapters 8-14) is still built on one expert explaining after another; dialogue carries more exposition than Pratchett allows; simile density is still higher than Fforde's.
+
+
+## REV4 (14 Oct 2026): current master
+
+Current master: `Schrodingers_Paperwork_BOOK_1 - REV4.docx` (90,108 words; Kindle-screen pages; no tables; all 327 links kept). REV3 is in `bak/`. Ebook only; no paperback.
+
+Chapters 8-14: the expert-explains-in-turn passages are now dramatised. Each explanation comes out through an action, a conflict or a gag, with Lolly pushing back or getting something wrong, and less exposition in the dialogue:
+- Phase (Fainrose, the vault): Lolly proposes a second column for the phase; Fainrose draws the arrow on Voller's manifest; "Not even one and a half."
+- No-cloning: Voller produces a backup certificate in a plastic sleeve ("It says state. Section two."); it ends as "the only thing in the room still in triplicate".
+- Error correction: Lolly wants to repair everything tonight; Fainrose explains the threshold and the order of repair.
+- Uncertainty: Lolly, the bench engineer, backs Miss Pike's gentler instrument and is corrected.
+- Decoherence and einselection (the dithering moon): Fainrose opens the window on a suspicious pigeon ("having been entered into evidence, left"); Lolly gets the dithering wrong and coins "a moon by appointment".
+- Bell/CHSH (Board of Inquiry): Beatrix draws the two stations; Lolly bets on "a cleverer wiring", and Bellboy explains that the arithmetic covers every arrangement; Pilbeam regards his desk with suspicion.
+- Holography (von Wittenberg): Lolly concludes the record is gone; "Albrecht is always right to shout. He is not always right."
+- Three more weak similes cut (tooth fairy, hatching envelope, telephones).
+
+Physics checked: uncertainty as a preparation trade-off; no-cloning for general unknown states; error correction works below a threshold; CHSH local bound 2, quantum bound 2√2; the 1996 microstate count; information preservation still unproven. Lessons, exercises and solutions are untouched.
+
+Strict rescore: **9.5 on the indie benchmark, 8.8 against Pratchett and Fforde**; sellability 9.1. What still keeps it under 10 at Pratchett/Fforde level: Chapters 9-12 still carry long explanatory runs outside these set pieces, and the comic set pieces depend more on dialogue than on events.
+
+Still open: rebuild the EPUB from REV4, then upload.

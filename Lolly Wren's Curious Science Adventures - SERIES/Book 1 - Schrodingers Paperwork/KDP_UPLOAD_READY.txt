@@ -7,7 +7,7 @@ Corrected and verified against the actual files: September 28, 2026 (see note at
 FINAL FILES (Root Directory)
 ================================================================================
 
-1. Schrodingers_Paperwork_BOOK_1 - REV3.docx
+1. Schrodingers_Paperwork_BOOK_1 - REV4.docx
    - Manuscript with full 13/10 edit pass on chapters 9-11, plus a full
      content/didactic-simplicity/correctness/formatting audit since
    - Redundant Miss Pike observation removed (~75 words) - verified absent
@@ -108,7 +108,7 @@ NEXT STEPS FOR KDP UPLOAD
 1. Open KDP Console at kdp.amazon.com
 2. Create new title (or edit existing if already in draft)
 3. Upload manuscript:
-   - Use Schrodingers_Paperwork_BOOK_1 - REV3.docx directly
+   - Use Schrodingers_Paperwork_BOOK_1 - REV4.docx directly
 4. Upload cover:
    - Use KINDLE_FRONT_COVER_LIGHT.jpg (1312x1652 px)
 5. Enter metadata:
