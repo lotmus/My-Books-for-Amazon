@@ -120,10 +120,11 @@ Vergleiche vor der Zusage Gehalt, Wohnkosten, Jobchancen in deinem Beruf und Nat
 - Tenancy Services — Healthy Homes- und Vertragsangaben ([tenancy.govt.nz](https://www.tenancy.govt.nz/starting-a-tenancy/tenancy-agreements/required-statements-for-tenancy-agreements/))
 - Settled.govt.nz — LIM, Grundbuch und Gebäudeprüfung vor dem Kauf ([settled.govt.nz](https://www.settled.govt.nz/before-you-bid-look-under-the-lid/))
 - Land Information New Zealand (LINZ) — Kauf eines Eigenheims, Zustimmung und „ordinarily resident“-Kriterien ([linz.govt.nz](https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live))
+- LINZ — Reform des Overseas Investment Act, einschließlich des begrenzten Kaufwegs ab 5 Mio. NZD für Inhaber bestimmter Investor-Visa ([Reformüberblick](https://www.linz.govt.nz/our-work/overseas-investment-regulation/reform-overseas-investment-act))
 - New Zealand Government — Māori als tangata whenua und Geschichte ([govt.nz](https://www.govt.nz/browse/history-culture-and-heritage/nz-history/maori-history/))
 - LINZ — Māori Land FAQs und Hinweise zur Prüfung des Grundstücksstatus ([linz.govt.nz](https://www.linz.govt.nz/guidance/land-registration/land-registration-guide/maori-land/maori-land-faqs))
 - REINZ — monatliche Kaufpreisberichte ([reinz.co.nz](https://reinz.co.nz))
 - Natural Hazards Commission Toka Tū Ake — Erdbebenversicherung ([naturalhazards.govt.nz](https://naturalhazards.govt.nz))
 - Deutsche Botschaft Wellington und Honorarkonsulate — Vertretungen vor Ort ([wellington.diplo.de](https://wellington.diplo.de))
 
-> **Stand:** September 2026 (Schreibdatum 23. September 2026). Miet- und Kaufpreise ändern sich monatlich merklich, ebenso die Kriterien und Ausnahmen des Overseas Investment Act und die Umlagehöhe der Natural Hazards Commission. Prüfe vor jeder Entscheidung die offiziellen Seiten und aktuelle Marktberichte.
+> **Stand:** 13. Oktober 2026. Die Miet- und Kaufpreisbeispiele beziehen sich auf die jeweils genannten Erhebungsmonate; Marktwerte verändern sich laufend. Die Kriterien und Ausnahmen des Overseas Investment Act und die Umlagehöhe der Natural Hazards Commission können sich ebenfalls ändern. Prüfe vor jeder Entscheidung LINZ, die zuständigen Behörden und aktuelle Marktberichte.

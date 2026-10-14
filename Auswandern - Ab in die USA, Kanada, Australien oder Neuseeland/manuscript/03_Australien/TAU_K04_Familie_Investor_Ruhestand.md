@@ -8,7 +8,7 @@ Ein erwachsenes Kind in Australien und ausreichende finanzielle Mittel machen de
 > - Klassische Investorenwege sind praktisch verschwunden: Das frühere Investorenvisum (Subclass 188) ist seit 31. Juli 2024 für Neuanträge geschlossen, ein echter Ersatz existiert 2026 nicht.
 > - Ein „einfaches“ Ruhestandsvisum wie früher (Subclass 405/410) gibt es für Neuanträge nicht mehr – nur Bestandsschutz für bereits vorhandene Inhaber.
 > - Für einen dauerhaften Familiennachzug zu erwachsenen Kindern ist das Eltern-Visum (Parent Visa) der zentrale Weg: Ein Kind mit australischer Staatsbürgerschaft oder Daueraufenthaltstitel muss vor Ort leben; zusätzlich gilt der Balance-of-Family-Test.
-> - Zwei Schienen stehen zur Wahl: günstiger, aber mit einer geschätzten Wartezeit von 42 Jahren (Non-Contributory), oder teuer, mit rund 47.600 AUD Visagebühr pro Person plus separater, rückzahlbarer Kaution. Für Contributory-Parent-Visa schätzte Home Affairs die Wartezeit im August 2026 auf 18 Jahre.
+> - Zwei Schienen stehen zur Wahl: günstiger, aber mit einer geschätzten Wartezeit von 42 Jahren (Non-Contributory), oder teuer, mit rund 49.900 AUD Visagebühr pro Person plus separater, rückzahlbarer Kaution. Für Contributory-Parent-Visa schätzte Home Affairs die Wartezeit im August 2026 auf 18 Jahre.
 > - Eine befristete Zwischenlösung (Subclass 870) erlaubt bis zu zehn Jahre Aufenthalt ohne Daueraufenthaltsperspektive, ohne Medicare-Zugang und ohne Arbeitserlaubnis.
 
 **Kinder und weitere Familienangehörige:** Abhängige Kinder können je nach Hauptvisum mitbeantragt werden. Daneben gibt es eigene Kinderwege (Subclass 101/802), ein Visum für bestimmte Adoptionen (102) und ein vorläufiges Visum für abhängige Kinder eines Partnervisum-Antragstellers (445). Die *Other Family*-Visa sind eng begrenzte Sonderwege. Das Carer-Visum (116/836) verlangt, dass du einer verwandten Person mit langfristiger Erkrankung erhebliche, fortlaufende Hilfe leistest, zu der sie in Australien keinen angemessenen Zugang hat. Beim Remaining-Relative-Visum (115/835) müssen die einzigen nahen Angehörigen in Australien leben. Das Aged-Dependent-Relative-Visum (114/838) setzt unter anderem voraus, dass eine alleinstehende Person im australischen Rentenalter finanziell von ihrem dort lebenden Angehörigen abhängt. Für diese Kategorien gibt es nur begrenzte Plätze und lange Warteschlangen. Sie sind keine allgemeinen Alternativen zum Eltern- oder Partnervisum; prüfe die genaue Definition von „nahem Angehörigen“, Alter, Abhängigkeit und Sponsoring direkt bei Home Affairs.
@@ -51,16 +51,16 @@ Für den dauerhaften Nachzug zu erwachsenen Kindern ist das Eltern-Visum der zen
 
 **Non-Contributory (günstig, extrem lange Wartezeit):** Subclass 103 (Parent, Antragstellung von außerhalb Australiens) und Subclass 804 (Aged Parent, Antragstellung oder Verbleib in Australien). Die Visumsgebühr liegt bei rund 5.000 bis 6.000 AUD. Die Wartezeit ist die entscheidende Einschränkung: Home Affairs schätzte sie im August 2026 auf rund 42 Jahre bis zur Entscheidung.
 
-**Contributory (deutlich teurer, spürbar schneller):** Dazu gehören Subclass 143 (Contributory Parent), 173 (ein zweijähriges Übergangsvisum zu 143), 864 (Contributory Aged Parent) und 884 (befristete Vorstufe zu 864). Die Visumsgebühr wird in zwei Raten fällig: rund 4.040 AUD bei Antragstellung (Stand: 1. Juli 2026) und rund 43.600 AUD kurz vor der Erteilung. Zusammen sind das etwa 47.600 AUD pro Hauptantragsteller.
+**Contributory (deutlich teurer, spürbar schneller):** Dazu gehören Subclass 143 (Contributory Parent), 173 (ein zweijähriges Übergangsvisum zu 143), 864 (Contributory Aged Parent) und 884 (befristete Vorstufe zu 864). Die Visumsgebühr wird in zwei Raten fällig: rund 6.300 AUD bei Antragstellung (Stand: 1. Juli 2026) und rund 43.600 AUD kurz vor der Erteilung. Zusammen sind das etwa 49.900 AUD pro Hauptantragsteller.
 
 Hinzu kommt die *Assurance of Support*: eine rückzahlbare Kaution, die Services Australia zehn Jahre lang hinterlegt. Meist stellt sie das sponsernde Kind in Australien. Sie soll verhindern, dass der Staat für die einwandernden Eltern aufkommen muss. Für die Hauptperson beträgt sie rund 10.000 AUD, für jede weitere erwachsene Person 4.000 AUD. Bei einem Elternpaar summieren sich Visagebühren und Kaution auf mehr als 100.000 AUD.
 
 Auch der schnellere Weg verlangt Geduld. Im August 2026 bearbeitete Home Affairs Anträge der Subclasses 143 und 173 mit einem Warteschlangendatum bis November 2018. Für neue Anträge schätzte die Behörde die Wartezeit auf rund 18 Jahre. Die tatsächliche Dauer hängt vom Visumtyp und der Warteschlange ab.
 
-- **Erstgebühr (1. Rate der Visumsgebühr):** Non-Contributory (103/804): rund 5.000–6.000 AUD; Contributory (143/173/864/884): rund 4.040 AUD
+- **Erstgebühr (1. Rate der Visumsgebühr):** Non-Contributory (103/804): rund 5.000–6.000 AUD; Contributory (143/173/864/884): rund 6.300 AUD
 - **Zweite Rate der Visumsgebühr (vor Erteilung):** Non-Contributory (103/804): keine; Contributory (143/173/864/884): rund 43.600 AUD
 - **Assurance of Support (separate, rückzahlbare Kaution):** Non-Contributory (103/804): keine; Contributory (143/173/864/884): rund 10.000 AUD (+ 4.000 AUD je weiterer Erwachsener)
-- **Gesamtkosten je Person, überschlägig:** Non-Contributory (103/804): rund 5.000–6.000 AUD; Contributory (143/173/864/884): rund 47.600 AUD Visagebühr zzgl. Kaution
+- **Gesamtkosten je Person, überschlägig:** Non-Contributory (103/804): rund 5.000–6.000 AUD; Contributory (143/173/864/884): rund 49.900 AUD Visagebühr zzgl. Kaution
 - **Geschätzte Wartezeit für neue Anträge (Home-Affairs-Schätzung, August 2026):** Non-Contributory (103/804): rund 42 Jahre; Contributory (143/173/864/884): rund 18 Jahre
 
 > **Achtung:** Beide Schienen setzen den Balance-of-Family-Test voraus – eine rein geografische Prüfung, keine Härtefallregelung: bestanden ist er nur, wenn mindestens die Hälfte der volljährigen Kinder in Australien lebt oder dort mehr leben als in jedem anderen einzelnen Land. Eltern mit mehreren, über verschiedene Länder verstreuten Kindern fallen hier real durch, ganz unabhängig von Pflegebedürftigkeit oder anderen persönlichen Umständen.
@@ -87,7 +87,7 @@ Wer in Australien steuerlich ansässig ist, muss die deutsche gesetzliche Rente 
 
 #### Wer sollte diesen Weg überhaupt in Betracht ziehen?
 
-Bei 42 Jahren Wartezeit im Non-Contributory-Weg und rund 47.600 AUD Visagebühr pro Person im Contributory-Weg lohnt zuerst eine Alternativrechnung: Reichen längere Besuche mit einem regulären Besuchervisum oder Subclass 870, Videotelefonie und ein bis zwei größere Reisen im Jahr? Wenn es vor allem um Nähe und regelmäßigen Kontakt geht, ist das oft realistischer und deutlich günstiger als ein Verfahren, dessen Wartezeit die eigene Lebenserwartung übersteigen kann. Geht es um einen dauerhaften gemeinsamen Wohnsitz – etwa weil Pflegebedarf absehbar wird –, bleibt eine der beiden Parent-Visa-Schienen der Weg.
+Bei 42 Jahren Wartezeit im Non-Contributory-Weg und rund 49.900 AUD Visagebühr pro Person im Contributory-Weg lohnt zuerst eine Alternativrechnung: Reichen längere Besuche mit einem regulären Besuchervisum oder Subclass 870, Videotelefonie und ein bis zwei größere Reisen im Jahr? Wenn es vor allem um Nähe und regelmäßigen Kontakt geht, ist das oft realistischer und deutlich günstiger als ein Verfahren, dessen Wartezeit die eigene Lebenserwartung übersteigen kann. Geht es um einen dauerhaften gemeinsamen Wohnsitz – etwa weil Pflegebedarf absehbar wird –, bleibt eine der beiden Parent-Visa-Schienen der Weg.
 
 > **Merke:** Ruhestand ohne Job ist in Australien kein Weg, den man „nebenbei“ mitplant. Wer ihn ernsthaft verfolgt, sollte spätestens fünf bis zehn Jahre vor dem geplanten Umzug mit der Finanzplanung, der Kontaktaufnahme zu einer Migrationsberatung und der Klärung der Assurance of Support beginnen – nicht erst, wenn der Ruhestand schon begonnen hat.
 
@@ -114,7 +114,7 @@ Bei Familien-, Investoren- und Ruhestandswegen wiederholen sich erfahrungsgemä�
 
 **Minus:**
 - Partnervisum dauert dennoch häufig zwei Jahre oder mehr bis zur permanenten Stufe
-- Rund 47.600 AUD Visagebühr pro Person plus Kaution sind für viele Familien schlicht nicht aufbringbar
+- Rund 49.900 AUD Visagebühr pro Person plus Kaution sind für viele Familien schlicht nicht aufbringbar
 - Subclass 870 führt zu keinem Daueraufenthaltstitel
 - Balance-of-Family-Test kennt keine Ausnahme für Pflegebedürftigkeit oder Härtefälle
 - Bis dahin ist private Krankenversicherung über Jahre Pflicht
@@ -151,4 +151,4 @@ Und wenn keiner der Wege passt, sind regelmäßige längere Besuche bei einem fe
 - Department of Home Affairs — Visa-Bearbeitungszeiten und -prioritäten ([immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times))
 - Australian Taxation Office — Doppelbesteuerungsabkommen Australien–Deutschland ([ato.gov.au](https://ato.gov.au))
 
-> **Stand:** 23.09.2026. Diese Angaben ändern sich schnell: Wartezeiten und Warteschlangendaten bei Eltern-Visa (zuletzt aktualisiert am 31. August 2026), die genaue Höhe der Assurance-of-Support-Beiträge, Gebühren nach der Runde vom 1. Juli 2026 und die Voraussetzungen für das National Innovation Visa. Die Gebühr für Partnervisa liegt seit 1. Juli 2026 bei rund 11.710 AUD (zuvor 9.365 AUD); prüfe den aktuellen Betrag vor jeder Entscheidung direkt auf immi.homeaffairs.gov.au.
+> **Stand:** 13.10.2026. Diese Angaben ändern sich schnell: Wartezeiten und Warteschlangendaten bei Eltern-Visa (zuletzt aktualisiert am 31. August 2026), die genaue Höhe der Assurance-of-Support-Beiträge, Gebühren nach der Runde vom 1. Juli 2026 und die Voraussetzungen für das National Innovation Visa. Die Gebühr für Partnervisa liegt seit 1. Juli 2026 bei rund 11.710 AUD (zuvor 9.365 AUD); prüfe den aktuellen Betrag vor jeder Entscheidung direkt auf immi.homeaffairs.gov.au.

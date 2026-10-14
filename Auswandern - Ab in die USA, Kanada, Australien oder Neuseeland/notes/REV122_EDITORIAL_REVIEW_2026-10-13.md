@@ -29,3 +29,28 @@ Created `KDP_Beschreibung_REV123.docx` without changing the REV122 manuscript or
 **Sales review:** KDP description quality 9.4/10; package sellability 8.4/10 (up from 7.8). Strengths: clear audience, a strong decision-stage hook, usable navigation promise, concrete German and destination-specific coverage, and reasonable expectation setting. Remaining limits to a 10: Amazon.de search terms/categories have not been tested in the live interface; no conversion or reader-response data is available; the cover is attractive but the image is not a literal four-country visual; and the guide's broad scope makes concise positioning difficult. The live product page has not been changed.
 
 KDP's current guidance recommends a simple, compelling, professional description, a 4,000-character maximum, and up to seven relevant keywords: https://kdp.amazon.com/en_US/help/topic/G201189630 and https://kdp.amazon.com/en_US/help/topic/G201298500. The REV123 description is 1,243 characters of body copy (160 words), before any KDP formatting.
+
+
+## REV124 Medicaid/CHIP Source Update - 13 October 2026
+
+Updated the US health-system chapter in the editable Markdown and REV124 publication master. The prior text described the 1 October rule as future and compressed the affected status groups too broadly. The revised text names the principal federally funded status categories, explains the general LPR five-year waiting period and qualified exceptions, notes the CHIPRA-214 state option and Emergency Medicaid, and directs readers to state agencies for eligibility. Added CMS State Health Official Letter 26-001 as a linked primary source. The chapter's source date now reflects 13 October 2026. The REV124 EPUB carries the same passage and link; its ZIP structure and targeted XHTML content were checked. A full device preview remains outstanding because LibreOffice conversion could not complete in this session.
+
+Primary sources: CMS SHO Letter 26-001, https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf; HealthCare.gov, https://www.healthcare.gov/immigrants/lawfully-present-immigrants/.
+
+**Reassessment:** subject/fact-check rises from 8.6 to 8.7 for the verified update; the overall score remains 8.8. This single chapter update does not resolve the stated gap: all volatile legal, tax, healthcare, and cost claims across the roughly 325,000-word book have not been re-verified. The description now states that the USA section is the most extensive and that the other three destinations each have their own path. Sellability remains 8.4 pending Amazon.de search/category validation and reader/conversion evidence. The REV122 cover remains attractive and legible, though its Sydney/New Zealand-like landscape does not visually signal the full four-country scope. No Kindle device preview or live KDP upload was performed.
+
+
+## REV124 Australia Parent-Visa Fee Correction - 13 October 2026
+
+The targeted Australia chapter audit found an outdated Contributory Parent visa charge: the text listed AUD 47,600, but the Department of Home Affairs currently lists AUD 49,900 for a single applicant, paid in two instalments. The chapter now states AUD 6,300 on application and AUD 43,600 before grant, updates the total everywhere, links directly to the Subclass 143 page, and advances its source date to 13 October 2026. REV124 DOCX and EPUB were synchronized; package integrity and all chapter occurrences were checked.
+
+Primary sources: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/contributory-parent-143 and https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-priorities/parent-visas. The current Home Affairs queue page still estimates 18 years for new Contributory Parent applications and 42 years for Parent/Aged Parent applications. Partner visa cost and processing time statements were also compared with Home Affairs' current pages and remain consistent.
+
+**Reassessment:** subject/fact-check 8.8/10 after two targeted updates (US Medicaid/CHIP policy and Australia Parent visa fees). This is still not a complete audit of the book. Remaining content scores are unchanged; no unsupported 10/10 ratings are claimed.
+
+
+## REV124 New Zealand Housing Source Check - 13 October 2026
+
+Checked the New Zealand housing chapter against current LINZ, Tenancy Services, and Natural Hazards Commission pages. The ordinarily-resident criteria, maximum general and pet bonds, Bond Hub date, NHC building cap and levy, and the limited NZD 5 million+ qualifying-investor pathway match current official guidance. Updated the source date and added a direct LINZ reform link in the Markdown, REV124 DOCX, and EPUB. The chapter's market examples still reflect their stated 2025/2026 reporting periods and were not re-collected in this check.
+
+Sources: https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live; https://www.linz.govt.nz/our-work/overseas-investment-regulation/reform-overseas-investment-act; https://www.tenancy.govt.nz/rent-bond-and-bills/bond/charging-a-bond/charging-a-pet-bond/; https://www.naturalhazards.govt.nz/insurance-and-claims/about-nhcover/.
