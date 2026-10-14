@@ -2,7 +2,7 @@
 
 *A novel*
 
-Lothar J. Musiol writing as Frank Stone
+Lothar J. Musiol writing as Frank N. Stone
 
 Copyright © 2026 Lothar J. Musiol. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
 
@@ -3673,7 +3673,7 @@ Whole-genome sequencing reads a person's DNA and compares it to a reference. Str
 
 # About the Author
 
-Frank Stone is a pseudonym. It is also the name of the fertility doctor in this book, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods.
+Frank N. Stone is a pseudonym. It differs from the name of the fertility doctor in this book by one middle initial, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods.
 
 Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
 
