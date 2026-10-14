@@ -75,3 +75,10 @@ A strict duplicate scan found identical generic introductions to the common-mist
 The four country quickfinders repeated the same opening cost question verbatim. Replaced it with one prompt per destination: US health insurance, study, and mobility costs; Canadian housing, health, education, and daily spending; Australian health costs, tuition, and travel distance; and New Zealand housing, health, education, and transport. All four still point to the shared cost-comparison chapter. The REV124 DOCX and EPUB contain matching wording.
 
 **Critical-reader reassessment:** harsh critic 9.4/10 (up from 9.2 before the country-specific opener pass). The quickfinder now signals each destination's distinct decision points. The broader country-level structure remains deliberately parallel. Overall remains 8.9; the full fact-check, device preview, and market-evidence gaps remain.
+
+
+## REV124 Visa Bulletin Heading Correction - 14 October 2026
+
+The DOCX validation workflow flagged a 326-character October 2026 EB-2 example styled as Heading 3. Changed it to a normal, bold-led example paragraph in the DOCX and EPUB and removed the sentence from the EPUB navigation list. The factual example remains in place; it is no longer presented as a chapter heading. The automated DOCX check passed before this correction; rerun it against this revision before merge.
+
+**Critical-reader reassessment:** harsh critic 9.5/10 (up from 9.4) for correcting a visible hierarchy error. Overall remains 8.9 because the other audited scores and evidence gaps are unchanged.
