@@ -54,3 +54,10 @@ Primary sources: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listi
 Checked the New Zealand housing chapter against current LINZ, Tenancy Services, and Natural Hazards Commission pages. The ordinarily-resident criteria, maximum general and pet bonds, Bond Hub date, NHC building cap and levy, and the limited NZD 5 million+ qualifying-investor pathway match current official guidance. Updated the source date and added a direct LINZ reform link in the Markdown, REV124 DOCX, and EPUB. The chapter's market examples still reflect their stated 2025/2026 reporting periods and were not re-collected in this check.
 
 Sources: https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live; https://www.linz.govt.nz/our-work/overseas-investment-regulation/reform-overseas-investment-act; https://www.tenancy.govt.nz/rent-bond-and-bills/bond/charging-a-bond/charging-a-pet-bond/; https://www.naturalhazards.govt.nz/insurance-and-claims/about-nhcover/.
+
+
+## REV124 Four-Country Cover Pass - 13 October 2026
+
+Created a new front-cover candidate that keeps the title, subtitle, author, and existing visual hierarchy while showing recognizable cues for the USA, Canada, Australia, and New Zealand. Replaced the front cover in the REV124 DOCX and both front-cover entries in the EPUB; added standalone REV124 PNG and JPEG assets. The back cover and interior illustrations are unchanged. The candidate addresses the earlier scope mismatch. No thumbnail experiment, Kindle Previewer check, live KDP upload, or reader-response test has been completed.
+
+**Market reassessment:** Amazon market 8.6/10 and package sellability 8.6/10 (from 8.4). This modest increase reflects clearer four-country positioning in the art and description. Search/category placement and conversion remain unmeasured, and the book remains exceptionally long. Overall 8.9; no category has been marked 10 without a complete review and supporting evidence.
