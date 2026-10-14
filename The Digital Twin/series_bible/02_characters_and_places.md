@@ -168,3 +168,9 @@ Rule of the series: animals cannot be fooled by a statistical average. They are 
 - **Ned (Edmund) [surname unknown]:** the "comparison" boy brought to 14 Marlow Road by Dr Calder every spring and autumn, 1989 to 1994; quiet, shorter than Daniel, same blue jumper, liked the pantry. Daniel-A cannot say his name (safety-layer blocklist).
 - **Mrs Okonkwo:** Sophie's neighbour in Clapton, minds Gucci.
 - **Hamish:** the sleeper's tartan AI steward and "Sleep Concierge".
+
+## ADDED IN ACT III (Ch 21-35)
+- **Dr Imogen Calder:** 72, carried Ned, ran the Programme house; hen at Pitlochry (the notice BEWARE OF THE HEN). Wi-Fi password peppermint1954.
+- **Ned (Edmund Peter Calder):** Continuation (Third). Lives as a model on a 1998 beige tower; grows older each day since 21 Nov (voice lowering). Loves boats, biscuits that break.
+- **Alan Veitch:** 46, custodian, Pot Noodle, taped the S2 line. **Sebastian Pike:** Nib's barrister, withdrew. **Sir Rupert Aldworth:** Cabinet Office Permanent Secretary, mended the stile. **Dame/Chief Registrar:** not used. **Priyanka:** now writes DANIEL with a small hat.
+- **Menzies:** the Programme's first Director (1976).

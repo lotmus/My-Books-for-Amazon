@@ -16,7 +16,7 @@ Sophie turned the page.
 
 It was a single sheet of the same tea-coloured paper, typed on the same machine, with the raised *e,* and a small round stamp in the corner that said **SCIENTIFIC LIAISON OFFICE (REGISTRY).** She held it flat on the table with her palm. I could not read it upside down, but I could hear Daniel-A read it, since I had propped him against the sugar bowl, and he had the very quiet voice of someone reading aloud in a library at night.
 
-"*Memorandum. From: the Director. To: File. Dated the third of March, 1976. Subject: Proposed Study (Continuity).*"
+"*Memorandum. From: the Director. To: File. Dated the third of February, 1976. Subject: Proposed Study (Continuity).*"
 
 "That's Menzies," said Dr Calder. "He was in his fifties, he had a pipe, and he smelled like a damp tweed. He had a terrible laugh. Go on."
 
@@ -130,7 +130,7 @@ I looked at my hands. The left thumbnail was bitten, as it always is. I thought 
 
 It was Sophie, once more, who found the next thing, and she found it the way she finds everything, by turning over the page that nobody had asked her to turn.
 
-"Dr Calder," she said. "There's a stamp on this. It says *Registry.* And the date of registration is the fourth of March 1976, a day after the memo. But the subject line on the file at the top says *Harper, D.* In 1976."
+"Dr Calder," she said. "There's a stamp on this. It says *Registry.* And the date of registration is the fourth of February 1976, a day after the memo. But the subject line on the file at the top says *Harper, D.* In 1976."
 
 "Yes."
 
