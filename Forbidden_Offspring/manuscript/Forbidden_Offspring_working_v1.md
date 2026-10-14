@@ -2,7 +2,7 @@
 
 *A novel*
 
-Lothar J. Musiol writing as Frank N. Stone
+Lothar J. Musiol writing as Genevieve Crisp
 
 Copyright © 2026 Lothar J. Musiol. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
 
@@ -1029,7 +1029,7 @@ The notebook was in the bottom drawer, under a folded cardigan.
 
 It had a black cover with soft corners. The spine had been mended with tape. The aide, who had followed me in with a tray of tea, said the doctor liked to hold it: that he would not be parted from it, that they let him keep it by the bed, and that he sometimes sat for an hour with his hand flat on the cover, the way you rest a hand on a sleeping dog.
 
-I opened the cover. On the flyleaf, in the square capitals of a man who labels his jars, it said **PROPERTY OF FRANK N. STONE, M.D.** Under that: **IF FOUND, RETURN TO DR. FRANK N. STONE.** He had considered that the notebook might one day be found by someone other than himself, and had addressed the return to himself anyway. I never learned what the N stood for. Nothing else I read in four years used it. I decided that it stood for the part of him he had not written down.
+I opened the cover. On the flyleaf, in the square capitals of a man who labels his jars, it said **PROPERTY OF FRANK N. STONE, M.D.** Under that: **IF FOUND, RETURN TO DR. FRANK N. STONE.** He had considered that the notebook might one day be found by someone other than himself, and had addressed the return to himself anyway. I never learned what the N stood for. Nothing else I read in four years used it. Said quickly, with the N run in, it sounded like the name of a different and more famous doctor, and I decided not to say it aloud.
 
 I opened it standing up.
 
@@ -3675,7 +3675,7 @@ Whole-genome sequencing reads a person's DNA and compares it to a reference. Str
 
 # About the Author
 
-Frank N. Stone is a pseudonym. It is also the name on the fertility doctor's paperwork in this book, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods.
+Genevieve Crisp is a pseudonym. She takes full responsibility for the four minutes.
 
 Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
 

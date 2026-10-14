@@ -8,7 +8,7 @@ Do not commit another session’s `.docx`. Do not commit `bak\` snapshots, audit
 
 ## Where the live notes are
 
-- *Forbidden Offspring* (pen name Frank N. Stone; new fiction, 12 Oct 2026): `Forbidden_Offspring/notes/HANDOVER.md`, with `Forbidden_Offspring/CLAUDE.md` and `Forbidden_Offspring/AGENTS.md` as pointers for Claude, Codex, Grok and any other assistant. Read it before touching that folder. The manuscript there is generated from `drafts/` by `build_manuscript.py`; edit the drafts, not the manuscript. Reality rule: nothing public before 2029 may contradict real history.
+- *Forbidden Offspring* (pen name Genevieve Crisp; new fiction, 12 Oct 2026): `Forbidden_Offspring/notes/HANDOVER.md`, with `Forbidden_Offspring/CLAUDE.md` and `Forbidden_Offspring/AGENTS.md` as pointers for Claude, Codex, Grok and any other assistant. Read it before touching that folder. The manuscript there is generated from `drafts/` by `build_manuscript.py`; edit the drafts, not the manuscript. Reality rule: nothing public before 2029 may contradict real history.
 - Look First, *The Universe Has No Now*: `Look First - SERIES/notes/HANDOVER.md`. Book 1 chapters 31 and 32 are full lessons again. The sequel keeps the same subjects as its chapters 25 and 26. There is no Book 3.
 - Look First, *A Trip Is Not a New Life*: `Look First - SERIES/A Trip Is Not a New Life - Manuscript/00_Status.md`. Do not restore the deleted Series Plan. Do not renumber the appendix. Popular chapters keep “a landing attempt in the 2030s.”
 - Lolly Wren: `Lolly Wren's Curious Science Adventures - SERIES/HANDOVER.md`, plus each book’s manuscript guide.

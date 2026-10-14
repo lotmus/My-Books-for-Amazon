@@ -53,7 +53,7 @@ for m in ('left_margin', 'right_margin', 'top_margin', 'bottom_margin'):
 r.save(ref)
 
 import re
-BYLINE = 'Lothar J. Musiol writing as Frank N. Stone'
+BYLINE = 'Lothar J. Musiol writing as Genevieve Crisp'
 src = open(MD, encoding='utf-8').read()
 src = re.sub(r'\A# Forbidden Offspring\n+\*A novel\*\n+' + re.escape(BYLINE) + r'\n+', '', src)  # title page comes from metadata
 src_md = os.path.join(tmp, 'book.md')
@@ -79,7 +79,7 @@ doc.save(DOCX)
 # EPUB metadata carries names only (as for Lolly Wren): Lothar J. Musiol primary author, Frank Stone contributor
 open(meta, 'w', encoding='utf-8').write(
     'title: Forbidden Offspring\nsubtitle: A Novel\nlang: en-US\n'
-    'author: []\ncreator:\n  - role: author\n    text: Lothar J. Musiol\n  - role: author\n    text: Frank N. Stone\n')
+    'author: []\ncreator:\n  - role: author\n    text: Lothar J. Musiol\n  - role: author\n    text: Genevieve Crisp\n')
 subprocess.run(['pandoc', DOCX, '-o', EPUB, '--toc', '--toc-depth=2', '--split-level=2',
                 f'--metadata-file={meta}'], check=True)
 print(DOCX, os.path.getsize(DOCX), EPUB, os.path.getsize(EPUB))
@@ -92,7 +92,7 @@ with zipfile.ZipFile(EPUB) as zin, zipfile.ZipFile(tmp_epub, 'w') as zout:
         data = zin.read(item.filename)
         if item.filename == 'EPUB/content.opf':
             t = data.decode('utf-8')
-            t = re.sub(r'\s*<dc:creator id="epub-creator-1">Lothar J\. Musiol writing as Frank N. Stone</dc:creator>', '', t)
+            t = re.sub(r'\s*<dc:creator id="epub-creator-1">Lothar J\. Musiol writing as Genevieve Crisp</dc:creator>', '', t)
             data = t.encode('utf-8')
         zout.writestr(item, data, compress_type=zipfile.ZIP_STORED if item.filename == 'mimetype' else zipfile.ZIP_DEFLATED)
 shutil.move(tmp_epub, EPUB)

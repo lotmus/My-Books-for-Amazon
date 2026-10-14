@@ -28,7 +28,7 @@ for n in list(short):
     if os.path.exists(f): short[n]=(short[n][0],body(open(f,encoding='utf-8').read()))
 def join(*fs): return "\n\n* * *\n\n".join(body(rd(f)) for f in fs)
 out=[]
-BYLINE="Lothar J. Musiol writing as Frank N. Stone"
+BYLINE="Lothar J. Musiol writing as Genevieve Crisp"
 out.append("# Forbidden Offspring\n\n*A novel*\n\n"+BYLINE+"\n\n"
 "Copyright © 2026 Lothar J. Musiol. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.\n\n"
 "This is a work of fiction. All people, clinics, universities, companies, parties and offices in the story are invented, and any resemblance to real ones is coincidence. The Appendix and the Notes and Further Reading refer to real science and real publications.\n")
@@ -76,7 +76,7 @@ out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v2.m
 # back matter: pen-name note + About the Author (Version B, American-English book) + Also by (canonical list)
 ab=open("notes/ABOUT_THE_AUTHOR - canonical.md",encoding="utf-8").read()
 vb=ab.split("## Version B",1)[1].split("Plain-text copies",1)[0].strip()
-pen="Frank N. Stone is a pseudonym. It is also the name on the fertility doctor's paperwork in this book, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods."
+pen="Genevieve Crisp is a pseudonym. She takes full responsibility for the four minutes."
 out.append("\n---\n\n# About the Author\n\n"+pen+"\n\n"+vb+"\n")
 al=open("notes/ALSO_BY - canonical list.md",encoding="utf-8").read()
 al=al.split("## Also by Lothar J. Musiol",1)[1].split("## Also by Kevin",1)[0].strip()

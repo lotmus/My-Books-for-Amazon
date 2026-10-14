@@ -71,7 +71,7 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 - **Prologue: Consent.** A one-page clinic consent form signed by Ray and Connie Pruitt (1999), authorizing one named correction; 'Other procedures authorized: none.' Draft: `drafts/prologue_consent_v1.md`. The epilogue echoes it with a question of consent (Stone and the cure).
 - **Appendix: The Science Behind the Story.** Inheritance rules, germline versus body cells, gene technology, intelligence and the dolphin package, detection, and a fact-versus-fiction table. Draft: `drafts/appendix_genetics_v1.md`. Facts to re-check are listed at its end. Counts toward the 180 pages (about 5 to 6 pages).
 - **Notes and Further Reading (bibliography).** Names Watson and the other real authors and works; the story text itself does not. Draft: `drafts/bibliography_v1.md`. All entries still need checking against publisher pages, Crossref or Open Library; use keyword hyperlinks with hidden URLs, linked from the appendix's in-text citations.
-- Then About the Author and Also-by, once the pen name and its rules are settled (Frank N. Stone is the pen name; byline, bio and Also-by were settled 13 Oct 2026).
+- Then About the Author and Also-by, once the pen name and its rules are settled (Genevieve Crisp is the pen name; byline, bio and Also-by were settled 13 Oct 2026).
 
 ---
 
