@@ -106,6 +106,6 @@ Changes in REV3 (plot beats, lessons, exercises and solutions unchanged):
 - KDP: new hook ("The form arrived completed, countersigned and stamped RECEIVED. Nobody had sent it yet."); 7 keywords revised in KDP_UPLOAD_READY.
 - Housekeeping: the stray `Schrodingers_Paperwork_KINDLE - Copy.epub` moved to `bak/`.
 
-Must fix before upload: the front cover title lettering misspells the title as SCHRÖDDINGER'S (double D, umlaut floating over the gap). The cover art needs new title lettering. Also: rebuild the EPUB from REV3; paperback wrap.
+Cover fixed (13 Oct 2026): the front cover title is re-lettered and now reads SCHRÖDINGER’S (one D, precomposed Ö in Cinzel Bold, gold gradient with a dark outline and shadow) above PAPERWORK. The old lettering is covered by a smoky dark title panel with a thin gold rule, and the rest of the art is unchanged. Checked at full size and at thumbnail size (160 px). The original is in `bak/` as `KINDLE_FRONT_COVER_LIGHT - 2026-10-13 pre-title-fix.jpg`, and the REV3 docx embeds the fixed cover. Cover/KDP rescored 7.9 → 8.9; sellability 9.0. Still open: rebuild the EPUB from REV3; paperback wrap.
 
 Why not 10 against Pratchett and Fforde yet: the middle (Chapters 8-14) is still built on one expert explaining after another; dialogue carries more exposition than Pratchett allows; simile density is still higher than Fforde's.
