@@ -256,3 +256,23 @@ The next scan found a broken dash construction in the readiness discussion, a pl
 Primary source for the study: [IZA Discussion Paper 17444](https://www.iza.org/publications/dp/17444/lifting-barriers-to-skill-transferability-immigrant-integration-through-occupational-recognition).
 
 This pass repairs verified defects in the opening chapters but does not complete the full-book proof; scores remain unchanged.
+
+## REV125 Rights, healthcare, and arrival-guidance correction - 14 October 2026
+
+A cross-country syntax scan found broken sentence fragments in the New Zealand consular, airport-arrival, community, and public-health passages, plus an incomplete summary of the New Zealand Bill of Rights. The line edit repairs those sentences and changes an overclaim that local German social-media groups are the “only source” to a narrower, practical description.
+
+The fact check also corrected the Canada and New Zealand police-rights wording. It now distinguishes the right to refuse a consent search from searches carried out under a warrant or separate statutory power, and scopes the right to silence to arrest or detention rather than implying a universal exemption from legal information duties. The New Zealand passage names section 93 of the Search and Surveillance Act 2012, which requires police to advise a person that they can refuse a consent search.
+
+Updated the New Zealand public-health eligibility text ahead of the 1 December 2026 rule changes. The two paragraphs now distinguish publicly funded health services from ACC, state the two-year work-entitlement test and the immediately preceding lawful-stay route, and direct readers to current ministry eligibility guidance. Synced all seven revised paragraphs between the REV124 DOCX and EPUB.
+
+Primary sources: [NZ Ministry of Health, eligibility for publicly funded health services](https://www.health.govt.nz/regulation-legislation/eligibility-for-publicly-funded-health-services); [Ministry guidance on the 2026 eligibility regulations](https://www.health.govt.nz/system/files/2026-09/further-guidance-eligibility-categories-healthy-futures-pae-ora-eligibility-regulations-2026.pdf); [New Zealand Bill of Rights Act 1990](https://www.legislation.govt.nz/act/public/1990/109/en/latest/); [Search and Surveillance Act 2012](https://www.legislation.govt.nz/act/public/2012/24/en/2024-07-01/sections/LMS102682/); [Department of Justice Canada, Charter section 10](https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art10.html); [German Embassy Wellington, honorary consular districts](https://wellington.diplo.de/nz-de/botschaft/2492060-2492060).
+
+These corrections address a high-risk topic cluster but are not a full legal audit of the four country sections; whole-book scores remain unchanged.
+
+## REV125 KDP copy and final passage refinements - 14 October 2026
+
+Revised the REV124 KDP description as REV125 to lead with the reader's country-and-life decision, make the practical outcomes of the book more concrete, sharpen the benefit bullets, and retain the audience, relative country coverage, and legal-advice limitations. The adult audience remains 18+; the description does not imply that the book is suitable as a children's guide.
+
+In the REV124 publication master, qualified the New Zealand public-filming sentence to limit it to places without a reasonable expectation of privacy, consistent with New Zealand Police guidance. Replaced broad airport exchange-rate claims with actionable advice to compare the rate and fee and check local transport options. Corrected the New Zealand arrival paragraph in both formats. While checking alignment, repaired two EPUB paragraphs that had been placed outside their XHTML paragraph elements; both now sit inside valid paragraph elements. Structural validation confirmed the DOCX XML and EPUB package/XHTML parse successfully; full visual device review remains outstanding.
+
+The description changes improve the listing's promise and scanability, but they do not establish a 10/10 sellability score. The REV124 cover repeats an urban skyline and uses a generic mountain collage that makes two destinations less distinct. Added a REV125 artwork candidate with a separate New York, Canadian Rockies, Sydney, and Milford Sound panel. It is artwork only and still needs title/author typography, thumbnail testing, and print-cover layout before it can replace the current cover. Live KDP page, keywords/categories, price, and reader conversion evidence remain unreviewed. Whole-book overall score remains 8.9 pending full proof, volatility audit, and device review.
