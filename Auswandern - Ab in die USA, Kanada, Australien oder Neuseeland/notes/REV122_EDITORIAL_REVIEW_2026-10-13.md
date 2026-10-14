@@ -230,3 +230,17 @@ The sentence-craft pass split an overloaded student-visa paragraph but left an a
 Primary sources: [Home Affairs, Genuine Student requirement](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500/genuine-student-requirement); [Home Affairs, Student visa subclass 500 costs and living costs](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500).
 
 This is a targeted factual and line-edit correction, not a full Australia chapter audit; overall score remains 8.9.
+
+## REV125 Four-country processing-time comparison repair - 14 October 2026
+
+A book-wide long-sentence scan exposed a corrupted shared comparison paragraph: it retained an outdated New Zealand estimate immediately before the updated category-specific figures, making the passage contradictory. Rebuilt the paragraph with clear limits on what each country's figure measures. Replaced the unsupported U.S. total wait estimate with guidance to check the monthly Visa Bulletin and USCIS updates; refreshed Canada's evidence to IRCC's April 2025–March 2026 results (78% of Federal Skilled Worker and Canadian Experience Class applications within the six-month service standard, 54% within four months); retained Australia's July 2026 eight-month median for Skilled Permanent and the updated New Zealand category snapshots. The text distinguishes processing time from time spent seeking an invitation or state nomination, and labels New Zealand's figures as a weekly snapshot, not a promise. Synced the shared passage in DOCX and EPUB and checked for exact text parity.
+
+Primary sources: [IRCC, application processing system results](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/reports-statistics/statistics-open-data/immigration-stats/application-processing-system.html); [Home Affairs, processing times overview](https://immi.homeaffairs.gov.au/Visa-subsite/Pages/Processing-times/Overview.aspx); [INZ, resident visa wait times](https://www.immigration.govt.nz/process-to-apply/waiting-for-a-visa/processing-a-visa-application/how-long-it-takes-to-process-an-application/resident-visa-wait-times/); [State Department, October 2026 Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html).
+
+This repair removes a material contradiction but does not verify every processing-time or immigration claim in the four country chapters; overall score remains 8.9.
+
+## REV125 Sentence-scan consistency repairs - 14 October 2026
+
+The long-sentence scan also found two malformed sentences in the U.S. portion. Rewrote the job-search advice so the semicolon no longer joins a dependent phrase to a new imperative, and separated its steps into short, sequential instructions. Repaired a comma splice in the unemployment-benefit explanation while preserving its cited federal rule, state-by-state qualification, H-1B caution, and advice to consult counsel and the state agency. Synced both paragraphs in DOCX and EPUB and verified exact text parity. The scan also showed why a high mechanics score needs a full-device proof: this targeted correction is not evidence that the entire book is error-free.
+
+These line edits improve clarity but do not change the book-wide mechanics or overall score pending a full-manuscript proof and device preview.
