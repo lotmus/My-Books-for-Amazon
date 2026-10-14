@@ -61,3 +61,24 @@ Sources: https://www.linz.govt.nz/guidance/overseas-investment/buying-residentia
 Created a new front-cover candidate that keeps the title, subtitle, author, and existing visual hierarchy while showing recognizable cues for the USA, Canada, Australia, and New Zealand. Replaced the front cover in the REV124 DOCX and both front-cover entries in the EPUB; added standalone REV124 PNG and JPEG assets. The back cover and interior illustrations are unchanged. The candidate addresses the earlier scope mismatch. No thumbnail experiment, Kindle Previewer check, live KDP upload, or reader-response test has been completed.
 
 **Market reassessment:** Amazon market 8.6/10 and package sellability 8.6/10 (from 8.4). This modest increase reflects clearer four-country positioning in the art and description. Search/category placement and conversion remain unmeasured, and the book remains exceptionally long. Overall 8.9; no category has been marked 10 without a complete review and supporting evidence.
+
+
+## REV124 Canada/New Zealand Chapter Openers - 13 October 2026
+
+A strict duplicate scan found identical generic introductions to the common-mistakes lists in the Canada and New Zealand immigration chapters. Replaced them with short, destination-specific lead-ins: Canada now foregrounds the distinction between eligibility and invitation competitiveness; New Zealand names the difference between work-visa and residence routes. Kept repeated appendix checklist prompts where the same practical check is intentionally reused across destinations. The full DOCX and EPUB were synchronized.
+
+**Critical-reader reassessment:** harsh critic 9.3/10 (up from 9.2) for reducing visible boilerplate; overall remains 8.9. The full book still has repeated country-level scaffolding by design, and no complete 325,000-word reread has been completed in this pass.
+
+
+## REV124 Country-Specific Quickfinder Prompts - 13 October 2026
+
+The four country quickfinders repeated the same opening cost question verbatim. Replaced it with one prompt per destination: US health insurance, study, and mobility costs; Canadian housing, health, education, and daily spending; Australian health costs, tuition, and travel distance; and New Zealand housing, health, education, and transport. All four still point to the shared cost-comparison chapter. The REV124 DOCX and EPUB contain matching wording.
+
+**Critical-reader reassessment:** harsh critic 9.4/10 (up from 9.2 before the country-specific opener pass). The quickfinder now signals each destination's distinct decision points. The broader country-level structure remains deliberately parallel. Overall remains 8.9; the full fact-check, device preview, and market-evidence gaps remain.
+
+
+## REV124 Visa Bulletin Heading Correction - 14 October 2026
+
+The DOCX validation workflow flagged a 326-character October 2026 EB-2 example styled as Heading 3. Changed it to a normal, bold-led example paragraph in the DOCX and EPUB and removed the sentence from the EPUB navigation list. The factual example remains in place; it is no longer presented as a chapter heading. The automated DOCX check passed before this correction; rerun it against this revision before merge.
+
+**Critical-reader reassessment:** harsh critic 9.5/10 (up from 9.4) for correcting a visible hierarchy error. Overall remains 8.9 because the other audited scores and evidence gaps are unchanged.
