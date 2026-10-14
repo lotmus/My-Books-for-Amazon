@@ -140,3 +140,12 @@ A review of the U.S. Green Card chapter found that its October 2026 quick summar
 Primary sources: [State Department, October 2026 Visa Bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-october-2026.html); [USCIS, Adjustment of Status Filing Charts from the Visa Bulletin](https://www.uscis.gov/green-card/green-card-processes-and-procedures/visa-availability-priority-dates/adjustment-of-status-filing-charts-from-the-visa-bulletin).
 
 **Subject/fact-check reassessment:** 9.4/10 (up from 9.3) after resolving an incorrect EB-2 description and clarifying the current filing versus visa-issuance thresholds across the linked summaries. This is a focused U.S. section correction, not a full immigration-law audit; overall remains 8.9.
+
+
+## REV124 U.S. F-1 Study Cost Estimate - 14 October 2026
+
+The F-1 chapter stated that a two-year master's would cost $70,000-$150,000, although the chapter's own annual ranges imply $73,600-$218,000 for tuition, housing/living, and health insurance alone. The former upper bound materially understated the book's own high-cost scenario. Recalculated the planning range to approximately $74,000-$219,000 including the one-time $350 I-901 fee and $185 visa application fee. Clarified that books, travel, deposits, program fees, and future price increases are additional, and that a one-year program roughly halves recurring costs while the one-time fees remain. Removed the $250 Visa Integrity Fee from the total because the currently published State Department fee schedule does not list it as a separate payable fee; retained an instruction to follow the consulate's payment directions. Added the Boston University 2026/27 nine-month estimate of $105,566 as a school-specific example and linked the primary source in the EPUB bibliography.
+
+Primary sources: [Boston University, Graduate Estimate of Expenses 2026/27](https://www.bu.edu/isso/international-students/required-financial-documentation/graduate-estimate-of-expenses-charles-river-campus/); [ICE, Form I-901](https://www.ice.gov/doclib/sevis/pdf/i901.pdf); [State Department, visa service fees](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html).
+
+**Subject/fact-check reassessment:** 9.5/10 (up from 9.4) after correcting a material underestimation in the book's own two-year study budget and reconciling it with published government fees and a dated university estimate. This focused check does not close the full four-country audit; overall remains 8.9.
