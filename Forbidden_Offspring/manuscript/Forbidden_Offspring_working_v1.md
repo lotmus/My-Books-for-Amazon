@@ -17,7 +17,7 @@ This is a work of fiction. All people, clinics, universities, companies, parties
 
 Patients: **Raymond A. Pruitt** and **Constance M. Pruitt**
 Date: **April 14, 1999**
-Attending physician: **Frank Stone, M.D.**
+Attending physician: **Frank N. Stone, M.D.**
 
 I understand that my embryo(s) will be examined for a single, named inherited condition: **the one that took Mr. Pruitt's brother at the age of seven.**
 
@@ -1028,6 +1028,8 @@ He did not answer. But the eye went again, a small bright flick, like a bird's, 
 The notebook was in the bottom drawer, under a folded cardigan.
 
 It had a black cover with soft corners. The spine had been mended with tape. The aide, who had followed me in with a tray of tea, said the doctor liked to hold it: that he would not be parted from it, that they let him keep it by the bed, and that he sometimes sat for an hour with his hand flat on the cover, the way you rest a hand on a sleeping dog.
+
+I opened the cover. On the flyleaf, in the square capitals of a man who labels his jars, it said **PROPERTY OF FRANK N. STONE, M.D.** Under that: **IF FOUND, RETURN TO DR. FRANK N. STONE.** He had considered that the notebook might one day be found by someone other than himself, and had addressed the return to himself anyway. I never learned what the N stood for. Nothing else I read in four years used it. I decided that it stood for the part of him he had not written down.
 
 I opened it standing up.
 
@@ -3673,7 +3675,7 @@ Whole-genome sequencing reads a person's DNA and compares it to a reference. Str
 
 # About the Author
 
-Frank N. Stone is a pseudonym. It differs from the name of the fertility doctor in this book by one middle initial, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods.
+Frank N. Stone is a pseudonym. It is also the name on the fertility doctor's paperwork in this book, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods.
 
 Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
 

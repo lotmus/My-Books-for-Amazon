@@ -76,7 +76,7 @@ out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v2.m
 # back matter: pen-name note + About the Author (Version B, American-English book) + Also by (canonical list)
 ab=open("notes/ABOUT_THE_AUTHOR - canonical.md",encoding="utf-8").read()
 vb=ab.split("## Version B",1)[1].split("Plain-text copies",1)[0].strip()
-pen="Frank N. Stone is a pseudonym. It differs from the name of the fertility doctor in this book by one middle initial, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods."
+pen="Frank N. Stone is a pseudonym. It is also the name on the fertility doctor's paperwork in this book, a coincidence the author has chosen not to annotate, in keeping with the doctor's own methods."
 out.append("\n---\n\n# About the Author\n\n"+pen+"\n\n"+vb+"\n")
 al=open("notes/ALSO_BY - canonical list.md",encoding="utf-8").read()
 al=al.split("## Also by Lothar J. Musiol",1)[1].split("## Also by Kevin",1)[0].strip()

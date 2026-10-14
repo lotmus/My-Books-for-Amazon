@@ -1,6 +1,6 @@
 # Forbidden Offspring
 
-**Pen name:** Frank Stone (set by Lothar, 12 Oct 2026). Not yet recorded in `notes/LOTHAR_RULES.md`. The scientist character is also named Frank Stone.
+**Pen name:** Frank N. Stone (Frank Stone set 12 Oct 2026; middle initial added 13 Oct 2026). Recorded in `notes/LOTHAR_RULES.md`. The scientist is Frank Stone in speech and narration; his documents say Frank N. Stone (consent form, notebook flyleaf in ch. 8). What the N stands for is never explained.
 **Scientist:** Frank Stone
 **Spelling:** American English
 **Status:** story bible only, no manuscript yet (12 Oct 2026). Title settled: Forbidden Offspring (formerly "The Edit")
@@ -245,7 +245,7 @@ Decided by Lothar: "fix all to get to 10, aim at 11" after the reader review (`n
 - **Placeholder names added:** Tobias, Imke, Theo, Maren, Wren, the foundation (working name "Leaf Foundation", after the clinic program's green leaf logo).
 
 ## Open decisions
-1. Pen name is Frank Stone, settled 13 Oct 2026 as the dual byline "Lothar J. Musiol writing as Frank Stone" (same as Lolly Wren). About the Author is Version B after a pen-name paragraph; Also-by uses the canonical list.
+1. Pen name is Frank N. Stone, settled 13 Oct 2026 as the dual byline "Lothar J. Musiol writing as Frank N. Stone" (same as Lolly Wren). About the Author is Version B after a pen-name paragraph; Also-by uses the canonical list.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
 3. POV (settled 12 Oct 2026): two-part structure. Part One is told by Frank Stone (his account: the four minutes, the clinic, raising the boy, Singapore, his attempt to flee). The stroke is the hinge. Part Two is told by the edited offspring, now a teen or adult, who finds Stone's account and continues the story. Open sub-questions: narrator's age and first vs third person in Part Two; what Stone's surviving account is (see below).
 4. A concrete external threat or deadline (the Singapore papers, a regulator, a leak) to give the quiet plot a clock.

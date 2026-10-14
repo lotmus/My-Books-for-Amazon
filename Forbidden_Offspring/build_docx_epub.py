@@ -53,7 +53,7 @@ for m in ('left_margin', 'right_margin', 'top_margin', 'bottom_margin'):
 r.save(ref)
 
 import re
-BYLINE = 'Lothar J. Musiol writing as Frank Stone'
+BYLINE = 'Lothar J. Musiol writing as Frank N. Stone'
 src = open(MD, encoding='utf-8').read()
 src = re.sub(r'\A# Forbidden Offspring\n+\*A novel\*\n+' + re.escape(BYLINE) + r'\n+', '', src)  # title page comes from metadata
 src_md = os.path.join(tmp, 'book.md')
@@ -79,7 +79,7 @@ doc.save(DOCX)
 # EPUB metadata carries names only (as for Lolly Wren): Lothar J. Musiol primary author, Frank Stone contributor
 open(meta, 'w', encoding='utf-8').write(
     'title: Forbidden Offspring\nsubtitle: A Novel\nlang: en-US\n'
-    'author: []\ncreator:\n  - role: author\n    text: Lothar J. Musiol\n  - role: author\n    text: Frank Stone\n')
+    'author: []\ncreator:\n  - role: author\n    text: Lothar J. Musiol\n  - role: author\n    text: Frank N. Stone\n')
 subprocess.run(['pandoc', DOCX, '-o', EPUB, '--toc', '--toc-depth=2', '--split-level=2',
                 f'--metadata-file={meta}'], check=True)
 print(DOCX, os.path.getsize(DOCX), EPUB, os.path.getsize(EPUB))
