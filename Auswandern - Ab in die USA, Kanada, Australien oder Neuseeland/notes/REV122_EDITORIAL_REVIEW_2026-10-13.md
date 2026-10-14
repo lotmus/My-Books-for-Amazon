@@ -175,3 +175,12 @@ The four-country parks comparison said access charges for international visitors
 Primary sources: [DOC, International visitor access charges](https://www.doc.govt.nz/get-involved/have-your-say/all-consultations/2026-consultations/international-visitor-access-charges/); [New Zealand Parliament, Conservation Amendment Bill](https://bills.parliament.nz/v/6/bd7d0f89-d8cb-42f7-9c5f-08deabeda048?Tab=sub&lang=en).
 
 **Subject/fact-check reassessment:** 9.7/10 (up from 9.6) after dating the proposed levy, distinguishing it from fees already in effect, and verifying its legislative status against DOC and Parliament. The full country-by-country review remains open; overall stays 8.9.
+
+
+## REV125 New Zealand resident visa processing-time snapshot - 13 October 2026
+
+The cross-country timeline still gave a broad 6-10 month estimate for Green List cases, which conflated pathways and no longer matched Immigration New Zealand's weekly wait-time table. Replaced it with separate figures for Skilled Migrant Category Resident and Straight to Residence applications: recent averages of 9.5 and 8 weeks, respectively, with 80% completed within 3.5 and 3 months. Added the update date, explained that these are rolling historical snapshots rather than promises, and linked the official wait-time page. Synced the REV124 DOCX and EPUB; both contain the new category-specific wording.
+
+Primary source: [Immigration New Zealand, resident visa wait times](https://www.immigration.govt.nz/process-to-apply/waiting-for-a-visa/processing-a-visa-application/how-long-it-takes-to-process-an-application/resident-visa-wait-times/).
+
+**Subject/fact-check reassessment:** 9.8/10 (up from 9.7) after replacing an overbroad and stale processing-time estimate with current, category-specific official figures. The full country-by-country review remains open; overall stays 8.9.
