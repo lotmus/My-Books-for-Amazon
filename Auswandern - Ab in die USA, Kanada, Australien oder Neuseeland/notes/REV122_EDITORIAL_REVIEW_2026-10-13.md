@@ -149,3 +149,12 @@ The F-1 chapter stated that a two-year master's would cost $70,000-$150,000, alt
 Primary sources: [Boston University, Graduate Estimate of Expenses 2026/27](https://www.bu.edu/isso/international-students/required-financial-documentation/graduate-estimate-of-expenses-charles-river-campus/); [ICE, Form I-901](https://www.ice.gov/doclib/sevis/pdf/i901.pdf); [State Department, visa service fees](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html).
 
 **Subject/fact-check reassessment:** 9.5/10 (up from 9.4) after correcting a material underestimation in the book's own two-year study budget and reconciling it with published government fees and a dated university estimate. This focused check does not close the full four-country audit; overall remains 8.9.
+
+
+## REV124 New Zealand Home-Purchase Consent Guidance - 14 October 2026
+
+The housing chapter said that residence-class visa holders who had not yet become ordinarily resident could seek LINZ consent to buy a home, but described the consent conditions only generally. Its opening also implied that an offer could not be made before approval. Clarified that an agreement may be signed only when it is expressly conditional on required LINZ consent; the purchase cannot be completed before consent. Added the one-home pathway commitments: become New Zealand tax resident and be present for at least 183 days in the first year, with more than 183 days in each later relevant 12-month period until ordinarily resident or a citizen. Narrowed the investor route to existing homes priced above NZ$5 million or a land-plus-construction total above NZ$5 million, with consent required before completion. Added direct LINZ source links in the manuscript, DOCX, and EPUB.
+
+Primary sources: [LINZ, ordinarily resident in New Zealand](https://www.linz.govt.nz/guidance/overseas-investment/who-needs-consent-invest/ordinarily-resident-new-zealand); [LINZ, buying a home to live in](https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live); [LINZ, $5 million plus house pathway](https://www.linz.govt.nz/guidance/overseas-investment/ways-invest/pathways-migrants-and-visa-holders/investing-residential-land-over-5-million).
+
+**Subject/fact-check reassessment:** 9.6/10 (up from 9.5) after spelling out consent commitments and correcting the investor-route scope across the source chapter and Kindle files. The rest of the four-country legal and cost audit remains open; overall remains 8.9.
