@@ -1,4 +1,4 @@
-﻿# REV122 Editorial Review — 13 October 2026
+# REV122 Editorial Review — 13 October 2026
 
 ## Changes
 
@@ -158,3 +158,20 @@ The housing chapter said that residence-class visa holders who had not yet becom
 Primary sources: [LINZ, ordinarily resident in New Zealand](https://www.linz.govt.nz/guidance/overseas-investment/who-needs-consent-invest/ordinarily-resident-new-zealand); [LINZ, buying a home to live in](https://www.linz.govt.nz/guidance/overseas-investment/buying-residential-property-live); [LINZ, $5 million plus house pathway](https://www.linz.govt.nz/guidance/overseas-investment/ways-invest/pathways-migrants-and-visa-holders/investing-residential-land-over-5-million).
 
 **Subject/fact-check reassessment:** 9.6/10 (up from 9.5) after spelling out consent commitments and correcting the investor-route scope across the source chapter and Kindle files. The rest of the four-country legal and cost audit remains open; overall remains 8.9.
+
+## REV125 Amazon.de Listing and Cover Review - 14 October 2026
+
+Reviewed the REV124 description, Amazon.de keyword/category proposal, and front-cover thumbnail. The description is already clear about the adult audience, four destinations, USA section length, planning scope, and the limits of dated immigration and legal information; no evidence-backed wording change was warranted. Replaced the mixed-market keyword sheet with seven German-market candidates, a dated category-selection procedure, and explicit checks against live Amazon.de results and the KDP format-specific menu. KDP's current public guidance supports up to seven relevant keyword phrases and three marketplace-dependent categories, but this review did not verify live Amazon.de category paths or search-volume evidence. The proposed values therefore remain unvalidated and were not uploaded.
+
+The REV124 front cover has legible title and author text at full size. Its fused New York, Sydney, and alpine landscape reads as an imaginative composite. An alternative cover concept was generated, but its 1027 x 1531 dimensions do not match the existing portrait cover ratio, so it was not retained as a publication asset. A correctly sized art revision and thumbnail review remain open.
+
+**Amazon market and sellability scores remain 8.6/10:** live Amazon.de keyword/category checks, Kindle phone/tablet preview, KDP listing update, and conversion or reader evidence are still outstanding. Primary guidance: [KDP keywords](https://kdp.amazon.com/en_US/help/topic/G201743260); [KDP categories](https://kdp.amazon.com/en_US/help/topic/G200652170).
+
+
+## REV125 New Zealand DOC international visitor access levy - 13 October 2026
+
+The four-country parks comparison said access charges for international visitors were being prepared for 2026 but did not state clearly that the proposed levy was not yet in force. As of 13 October 2026, the Conservation Amendment Bill remained in Parliament's select committee process. DOC was investigating possible charges at four sites; amounts, start date, and detailed rules were not final. Rewrote the passage to distinguish the proposed access levy from existing site-specific parking, hut, and Great Walk fees, and linked DOC and Parliament status pages. Synced the REV124 DOCX and EPUB; both package files open and contain the revised passage.
+
+Primary sources: [DOC, International visitor access charges](https://www.doc.govt.nz/get-involved/have-your-say/all-consultations/2026-consultations/international-visitor-access-charges/); [New Zealand Parliament, Conservation Amendment Bill](https://bills.parliament.nz/v/6/bd7d0f89-d8cb-42f7-9c5f-08deabeda048?Tab=sub&lang=en).
+
+**Subject/fact-check reassessment:** 9.7/10 (up from 9.6) after dating the proposed levy, distinguishing it from fees already in effect, and verifying its legislative status against DOC and Parliament. The full country-by-country review remains open; overall stays 8.9.
