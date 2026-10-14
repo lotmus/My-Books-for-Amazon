@@ -27,8 +27,8 @@ Kindle file: 2.46 MB, no Word tables, all pictures inline.
 
 ## Still open
 
-- The paperback wrap is a separate production file; the Kindle EPUB uses the current front and back cover assets listed below.
-- Interior lesson diagrams have a maximum raster size of 800 x 440 px, scaled proportionally. The front/title artwork and final back-cover panel are publication art and are not subject to the diagram limit.
+- The paperback wrap is separate from the Kindle cover assets; the Kindle EPUB uses the current front and back cover assets listed below.
+- The lesson diagrams are 1400 px PNGs; fine for Kindle (file under 3 MB), could be cut to 800 px if size ever matters.
 
 ## Line and science review (12 Oct 2026)
 
@@ -56,16 +56,17 @@ Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.4/10 overall
 
 Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.7/10**; plot/payoff 9.7, pace/suspense 9.6, character/dialogue 9.7, humour/satire 9.7, prose/clarity 9.7, science/continuity 10, Kindle mechanics 10. No new story edit was indicated; the satirical ending and optional-lesson boundary work as intended. EPUB rebuilt and package/internal links validated.
 
+
 ## Image and visual-accessibility review (13 Oct 2026)
 
-Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.8/10**; covers, illustrations, and image placement/accessibility each score 10/10. The back-cover panel is the final page. Added alt descriptions to the title illustration, all 19 lesson diagrams, and the back-cover panel. Rebuilt and validated the Kindle EPUB; every image has alt text and internal links resolve.
+Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.8/10**; covers, illustrations, and image placement/accessibility each score 10/10. The selected light front cover is the first DOCX page and the EPUB cover resource. The back-cover panel is last in both formats. All 19 lesson diagrams and in-reading images have alt text.
 
 
 ## Diagram display-size update (13 Oct 2026)
 
-All 19 lesson diagrams in the reviewed DOCX and Kindle EPUB are at most 800 x 440 pixels. Their aspect ratios were preserved; the 800 x 322 diagram already within the limit was unchanged. Title/cover art and the final back-cover panel remain at their publication dimensions. EPUB archive integrity and XML parsing passed; all 21 in-reading images retain alt text.
+All 19 lesson diagrams in the reviewed DOCX and Kindle EPUB are at most 800 x 440 pixels. Their aspect ratios were preserved. Cover/title art and the final back-cover panel remain at publication dimensions. The EPUB package and XML validate, and all in-reading images retain alt text.
 
 
 ## Kindle cover artwork update (13 Oct 2026)
 
-The EPUB cover metadata uses KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652 px). The final back-cover page in the reviewed DOCX and Kindle EPUB uses KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168 px); its proportions are preserved. Both source JPGs are retained beside the master. All 19 interior diagrams remain at or below 800 x 440 px, and image alt text is intact.
+The reviewed DOCX first page and EPUB cover resource use KINDLE_FRONT_COVER_LIGHT.jpg (1312 × 1652 px). The final back-cover page in both uses KINDLE_BACK_COVER_LIGHT.jpg (784 × 1168 px). Both source JPGs are retained beside the master. All 19 interior diagrams remain at or below 800 × 440 px, and image alt text is intact.
