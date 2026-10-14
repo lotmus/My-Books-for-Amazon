@@ -91,3 +91,16 @@ A targeted review of the Express Entry scoring explanation found an overstatemen
 Primary source: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry/get-confirm-nomination.html. IRCC's Express Entry job-offer page also confirms that job-offer CRS points were removed on 25 March 2025: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html.
 
 **Subject/fact-check reassessment:** 8.9/10 (up from 8.8) after correcting this material overstatement. This remains a targeted check, not a country-wide re-verification of all claims.
+
+
+## REV124 Canada Express Entry Snapshot and Language Sweep - 13 October 2026
+
+Updated the Canada Express Entry draw examples through 13 October 2026: the latest PNP round (CRS 772, 752 invitations), CEC (518, 2,000 invitations), trades (476, 3,500 invitations), healthcare/social services (475, 3,500 invitations), French-language (382, 5,000 invitations), and physicians with Canadian work experience (198, 229 invitations). Reframed the numbers as dated examples rather than ranges or predictions, added the missing trades example, removed the September secondary-source aggregate that the manuscript itself said had not been checked against IRCC, and linked the official rounds archive. The section now explicitly distinguishes general, program-specific, and category-based rounds.
+
+Also corrected a second overstatement in the Canada PNP overview: a nomination is no longer described as making the next invitation virtually certain. Both the general CRS explanation and the destination summary now say an Express Entry-linked nomination adds 600 points and can materially improve ranking, while IRCC still has to issue an invitation. Updated the source date to 13 October.
+
+Primary source: IRCC, [Express Entry: Rounds of invitations](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations.html). The data are a dated snapshot and need rechecking before a later edition.
+
+A whole-book phrase scan found and corrected the punctuation error "Wenn, man kommt ..." in the New Zealand discussion of M?ori communities. The replacement asks readers to follow the rules of the particular marae and accept a personal invitation only if comfortable, keeping the advice specific and non-generalizing.
+
+**Subject/fact-check reassessment:** 9.0/10 (up from 8.9) for correcting the invitation claims, removing the unsupported aggregate, and replacing stale draw examples with a sourced snapshot. Overall remains 8.9; the country-wide fact audit, device preview, and market evidence are still open.
