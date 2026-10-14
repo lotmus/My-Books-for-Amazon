@@ -52,7 +52,7 @@ One detail matters here. Walking upright came first. Australopithecus was standi
 
 *“This was not a ladder,” the Society recorded. “It was a branch. Most branches on that tree went extinct. This one did not.”*
 
-For a long stretch after that, the dolphins paid this branch no special notice. An ape walking upright on a savanna was not obviously more interesting than any other animal finding its niche. Dolphins had seen plenty of niches found.
+For a long stretch after that, the dolphins paid this branch no special notice. An ape walking upright in the mixed woodland of early Africa was not obviously more interesting than any other animal finding its niche. Dolphins had seen plenty of niches found.
 
 That changed on the day the free hands picked up a stone, and kept it.
 
