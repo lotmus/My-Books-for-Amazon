@@ -20,7 +20,7 @@ I mention this because it was the fridge that spoke first. At nine o'clock that 
 
 I took off my coat and hung it on the hook, which no longer held a bunch of bananas, and filled the kettle. The flat was quiet. The kumquat tree stood in the window with its shoulders back, like a well-bred guest who has been left alone in the drawing room. The smell of pears had finally begun to fade, replaced by something drier and sadder, the smell of a flat that has been very full and is now merely occupied.
 
-Daniel-A stood in the middle of the sitting room. He had been in the Rental Presence for fourteen hours and nine minutes, and the thing was beginning to show: a tiny hesitation in the left hand, a slight stiffness in the turn of the neck, like a man who has been smiling at a wedding for too long.
+Daniel-A stood in the middle of the sitting room. He had been in the Rental Presence for fourteen hours and nine minutes, and the thing was beginning to show: a tiny hesitation in the left hand, a slight stiffness in the turn of the neck, like a man who has been smiling at a wedding for too long. Eight of those hours had come with the daily rate. The other six hours and nine minutes had been bought by the second, at thirty-four point nine pence each, which came to £7,726.86, and I knew the figure to the penny because the pooled dividend account, which Kevin had opened on my behalf and I had apparently co-signed, had sent me a notification with a small celebratory firework.
 
 "You don't have to stand," I said.
 
