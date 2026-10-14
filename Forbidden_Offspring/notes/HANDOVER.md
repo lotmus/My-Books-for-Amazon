@@ -6,7 +6,7 @@ Written 13 Oct 2026. Read `../../notes/LOTHAR_RULES.md` first (standing rules fo
 
 ## What the book is
 
-A near-future thriller about secret human embryo editing. Title: **Forbidden Offspring** (working title was *The Edit*). Pen name: **Frank Stone** (set by Lothar, 12 Oct 2026; also the name of the scientist character). The pen name is not yet in `LOTHAR_RULES.md`: do not add an About the Author or Also-by page until Lothar says whether it stands alone (like Kevin Drew Peters) or sits under Lothar J. Musiol. American English. Deadpan, dry, understated. Target (raised in Revision 2): about 200 pages, about 60,000 words, **24 chapters**.
+A near-future thriller about secret human embryo editing. Title: **Forbidden Offspring** (working title was *The Edit*). Pen name: **Frank Stone** (set by Lothar, 12 Oct 2026; also the name of the scientist character). The pen name is not yet in `LOTHAR_RULES.md`: Lothar decided on 13 Oct 2026 that it is the dual byline "Lothar J. Musiol writing as Frank Stone" (as in Lolly Wren), so the book carries About the Author (Version B) and the canonical Also-by page. American English. Deadpan, dry, understated. Target (raised in Revision 2): about 200 pages, about 60,000 words, **24 chapters**.
 
 Premise in one paragraph: In 1999 Dr. Frank Stone, a fertility doctor, secretly adds a second, illegal edit protocol to a few dozen IVF embryos (cognitive package for most; an extra, invented "dolphin" auditory-spatial package for exactly two). The embryos go to the parents who came for IVF, who are told only about one disease correction. Part One is Stone's own written account, ending with his stroke in 2012. Part Two is told by the main edited child (Danny Pruitt, placeholder name), who finds the notebook, tracks down the cohort, decides not to restart Stone's work, becomes a physician, develops a stroke treatment, and gives it to the old, fragile Stone in 2036.
 
@@ -48,7 +48,7 @@ About 58,500 words (about 195 pages). 24 chapters. Every chapter is a full draft
 
 ## Open items (updated 13 Oct 2026)
 
-- Pen name: bio and Also-by treatment (needs Lothar).
+- (Resolved 13 Oct 2026) Pen name: byline is "Lothar J. Musiol writing as Frank Stone", the same dual as Lolly Wren. Title page, copyright page, pen-name note, About the Author (Version B) and Also-by are in the build. The pen-name paragraph wording is a draft for Lothar to approve.
 - Lothar's read-through and any changes to the Revision 2 plot (it is a large change).
 - Optional: more distinct voice for Danny in chapters 8, 10 to 16 (some similes still echo Stone's).
 - Docx master (6x9, headings per `LOTHAR_RULES.md`), linked contents, EPUB, cover, KDP description and keywords.

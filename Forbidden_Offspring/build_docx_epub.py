@@ -52,22 +52,47 @@ for m in ('left_margin', 'right_margin', 'top_margin', 'bottom_margin'):
     setattr(sec, m, Inches(0.8))
 r.save(ref)
 
-subprocess.run(['pandoc', MD, '-f', 'markdown+smart', '-o', DOCX, f'--reference-doc={ref}',
-                '--metadata', 'title=Forbidden Offspring', '--metadata', 'author=Frank Stone',
-                '--metadata', 'lang=en-US'], check=True)
+import re
+BYLINE = 'Lothar J. Musiol writing as Frank Stone'
+src = open(MD, encoding='utf-8').read()
+src = re.sub(r'\A# Forbidden Offspring\n+\*A novel\*\n+' + re.escape(BYLINE) + r'\n+', '', src)  # title page comes from metadata
+src_md = os.path.join(tmp, 'book.md')
+open(src_md, 'w', encoding='utf-8').write(src)
+meta = os.path.join(tmp, 'meta.yaml')
+open(meta, 'w', encoding='utf-8').write(
+    'title: Forbidden Offspring\nsubtitle: A Novel\nlang: en-US\nauthor: ' + BYLINE + '\n')
+subprocess.run(['pandoc', src_md, '-f', 'markdown+smart', '-o', DOCX, f'--reference-doc={ref}',
+                f'--metadata-file={meta}'], check=True)
 
-# page break before every H1, and before H2 chapters (not the appendix sub-sections)
+# page break before every H1, and before H2 chapters (not the appendix/notes sub-sections)
 doc = Document(DOCX)
-in_appendix = False
+in_part = False
 for p in doc.paragraphs:
     if p.style.name == 'Heading 1':
-        in_appendix = p.text.startswith('Appendix')
+        in_part = p.text.startswith('PART')
         p.paragraph_format.page_break_before = True
-    elif p.style.name == 'Heading 2' and not in_appendix:
+    elif p.style.name == 'Heading 2' and in_part:
         p.paragraph_format.page_break_before = True
+doc.core_properties.author = 'Lothar J. Musiol'  # property holds the name only; the byline is on the title page
 doc.save(DOCX)
 
+# EPUB metadata carries names only (as for Lolly Wren): Lothar J. Musiol primary author, Frank Stone contributor
+open(meta, 'w', encoding='utf-8').write(
+    'title: Forbidden Offspring\nsubtitle: A Novel\nlang: en-US\n'
+    'author: []\ncreator:\n  - role: author\n    text: Lothar J. Musiol\n  - role: author\n    text: Frank Stone\n')
 subprocess.run(['pandoc', DOCX, '-o', EPUB, '--toc', '--toc-depth=2', '--split-level=2',
-                '--metadata', 'title=Forbidden Offspring', '--metadata', 'author=Frank Stone',
-                '--metadata', 'lang=en-US'], check=True)
+                f'--metadata-file={meta}'], check=True)
 print(DOCX, os.path.getsize(DOCX), EPUB, os.path.getsize(EPUB))
+
+# drop the byline-as-creator entry pandoc copies from the docx title page (metadata keeps names only)
+import zipfile, re, shutil
+tmp_epub = EPUB + '.tmp'
+with zipfile.ZipFile(EPUB) as zin, zipfile.ZipFile(tmp_epub, 'w') as zout:
+    for item in zin.infolist():
+        data = zin.read(item.filename)
+        if item.filename == 'EPUB/content.opf':
+            t = data.decode('utf-8')
+            t = re.sub(r'\s*<dc:creator id="epub-creator-1">Lothar J\. Musiol writing as Frank Stone</dc:creator>', '', t)
+            data = t.encode('utf-8')
+        zout.writestr(item, data, compress_type=zipfile.ZIP_STORED if item.filename == 'mimetype' else zipfile.ZIP_DEFLATED)
+shutil.move(tmp_epub, EPUB)
