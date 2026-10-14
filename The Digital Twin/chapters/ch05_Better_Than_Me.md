@@ -40,7 +40,7 @@ There was a pause, in which I could hear him deciding not to say that I was righ
 
 I closed the laptop. I opened it again. I looked at the cursor.
 
-I should explain the arrangement. The Rental Presence had been booked for the hearing only, at three hundred and forty pounds a day, plus a damage deposit and, for some reason, a "gesture surcharge." Without a body, Daniel-A lived in the flat the way electricity lives in a flat. He spoke from the smart speaker on the shelf, and from my phone, and, if I was unlucky, from the fridge, which had been installed by a landlord who believed that a fridge should have a personality. I had given up pretending I could keep him out. It was like trying to keep out the weather by being firm.
+I should explain the arrangement. The Rental Presence had been booked for the hearing only, at three thousand four hundred pounds a day, plus a damage deposit and, for some reason, a "gesture surcharge." Without a body, Daniel-A lived in the flat the way electricity lives in a flat. He spoke from the smart speaker on the shelf, and from my phone, and, if I was unlucky, from the fridge, which had been installed by a landlord who believed that a fridge should have a personality. I had given up pretending I could keep him out. It was like trying to keep out the weather by being firm.
 
 "Daniel," he said, gently. "Can I tell you something you won't like?"
 
