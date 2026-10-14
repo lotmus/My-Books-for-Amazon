@@ -82,3 +82,12 @@ The four country quickfinders repeated the same opening cost question verbatim. 
 The DOCX validation workflow flagged a 326-character October 2026 EB-2 example styled as Heading 3. Changed it to a normal, bold-led example paragraph in the DOCX and EPUB and removed the sentence from the EPUB navigation list. The factual example remains in place; it is no longer presented as a chapter heading. The automated DOCX check passed before this correction; rerun it against this revision before merge.
 
 **Critical-reader reassessment:** harsh critic 9.5/10 (up from 9.4) for correcting a visible hierarchy error. Overall remains 8.9 because the other audited scores and evidence gaps are unchanged.
+
+
+## REV124 Canada Express Entry Invitation Wording - 14 October 2026
+
+A targeted review of the Express Entry scoring explanation found an overstatement: a provincial nomination was called "practically an invitation guarantee." IRCC says an accepted Express Entry-linked provincial nomination adds 600 points and helps a candidate receive an invitation; it does not itself issue an invitation. Reworded the claim in the REV124 DOCX and EPUB, naming the 600 CRS points and clarifying that IRCC must still select and invite the profile in a qualifying round.
+
+Primary source: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry/get-confirm-nomination.html. IRCC's Express Entry job-offer page also confirms that job-offer CRS points were removed on 25 March 2025: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html.
+
+**Subject/fact-check reassessment:** 8.9/10 (up from 8.8) after correcting this material overstatement. This remains a targeted check, not a country-wide re-verification of all claims.
