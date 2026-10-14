@@ -244,3 +244,7 @@ This repair removes a material contradiction but does not verify every processin
 The long-sentence scan also found two malformed sentences in the U.S. portion. Rewrote the job-search advice so the semicolon no longer joins a dependent phrase to a new imperative, and separated its steps into short, sequential instructions. Repaired a comma splice in the unemployment-benefit explanation while preserving its cited federal rule, state-by-state qualification, H-1B caution, and advice to consult counsel and the state agency. Synced both paragraphs in DOCX and EPUB and verified exact text parity. The scan also showed why a high mechanics score needs a full-device proof: this targeted correction is not evidence that the entire book is error-free.
 
 These line edits improve clarity but do not change the book-wide mechanics or overall score pending a full-manuscript proof and device preview.
+
+## REV125 New Zealand idiom and sentence repair - 14 October 2026
+
+The literary-language scan found a broken comparison in the Kiwi English section (“Als hätte jemand … aufgehört zu sprechen –, sind aber”) and a truncated word in the following sentence (“dein Gegen”). Rebuilt the passage with complete sentences, corrected “Gegenüber,” and softened a broad claim about local conversation into a specific explanation of how a short “sweet as” can function in many exchanges. The DOCX and EPUB passages match exactly. This is a targeted language and representation adjustment; book-wide style score remains unchanged.
