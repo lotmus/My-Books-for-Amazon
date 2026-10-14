@@ -100,7 +100,7 @@ He clicked. The slide changed.
 > **BASIC (free):** *Five minutes a day. Ads.*
 > **PLUS (£14.99/month):** *Unlimited conversations. Priority replies. No ads.*
 > **PREMIUM (£39.99/month):** *Voice and video. Personal memory: Daniel-A will remember your birthday, your pets, and the name of every person you've ever mentioned.*
-> **PLATINUM (£149/month):** *Everything in Premium, plus Presence: Daniel-A at your table and in your glasses, life-size. Dine with Daniel-A. Walk with Daniel-A. Be seen with Daniel-A. A physical Rental Presence is available separately from £3,400 a day; Platinum members save 10%.*
+> **PLATINUM (£149/month):** *Everything in Premium, plus Presence: Daniel-A at your table and in your glasses, life-size. Dine with Daniel-A. Commute with Daniel-A. Be tagged with Daniel-A. A physical Rental Presence is available separately from £3,400 a day; Platinum members save 10%.*
 
 There was a gasp, and a smattering of applause, and from somewhere near the back, a woman's voice called out, "Is there a Gold?"
 
