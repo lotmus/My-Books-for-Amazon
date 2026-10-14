@@ -92,7 +92,7 @@ with zipfile.ZipFile(EPUB) as zin, zipfile.ZipFile(tmp_epub, 'w') as zout:
         data = zin.read(item.filename)
         if item.filename == 'EPUB/content.opf':
             t = data.decode('utf-8')
-            t = re.sub(r'\s*<dc:creator id="epub-creator-1">Lothar J\. Musiol writing as Frank Stone</dc:creator>', '', t)
+            t = re.sub(r'\s*<dc:creator id="epub-creator-1">Lothar J\. Musiol writing as Frank N. Stone</dc:creator>', '', t)
             data = t.encode('utf-8')
         zout.writestr(item, data, compress_type=zipfile.ZIP_STORED if item.filename == 'mimetype' else zipfile.ZIP_DEFLATED)
 shutil.move(tmp_epub, EPUB)

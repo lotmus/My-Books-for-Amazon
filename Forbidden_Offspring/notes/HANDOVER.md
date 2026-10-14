@@ -48,7 +48,7 @@ About 58,500 words (about 195 pages). 24 chapters. Every chapter is a full draft
 
 ## Open items (updated 13 Oct 2026)
 
-- (Resolved 13 Oct 2026) Pen name: byline is "Lothar J. Musiol writing as Frank Stone", the same dual as Lolly Wren. Title page, copyright page, pen-name note, About the Author (Version B) and Also-by are in the build. The pen-name paragraph wording is a draft for Lothar to approve.
+- (Resolved 13 Oct 2026) Pen name: byline is "Lothar J. Musiol writing as Frank N. Stone", the same dual as Lolly Wren. Title page, copyright page, pen-name note, About the Author (Version B) and Also-by are in the build. The pen-name paragraph wording is a draft for Lothar to approve.
 - Lothar's read-through and any changes to the Revision 2 plot (it is a large change).
 - Optional: more distinct voice for Danny in chapters 8, 10 to 16 (some similes still echo Stone's).
 - Docx master (6x9, headings per `LOTHAR_RULES.md`), linked contents, EPUB, cover, KDP description and keywords.
