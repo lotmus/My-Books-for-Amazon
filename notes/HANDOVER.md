@@ -6,6 +6,12 @@ If a book’s own note disagrees with this file, the book’s note wins inside t
 
 Do not commit another session’s `.docx`. Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
 
+## Build scripts now read the canonical back matter (PR #76, `codex/build-sync`)
+
+Do not paste the bio or the Also-by list into a build script or md source. `tools/canonical_text.py` reads `notes/ABOUT_THE_AUTHOR - canonical.md` and `notes/ALSO_BY - canonical list.md`; the builders for Science Sparks, Life, Actually, Quantum Vol 2, the Dolphins and Look First Vol 2 call it, and the review invitation sits in each script. Math, Actually has no builder: its masters are edited directly and already match the canonical text.
+
+Before you rebuild one of these books, read `notes/BUILD_SYNC_2026-10-11.md`. In short: build to a new `*_REBUILD_CHECK.docx`, never over the master. Do not run Quantum Vol 2 `_finish_book.py` `main()` on the master (it is behind the 10 Oct rescore). Life, Actually and Science Sparks need files that are not in git (`chapters/`, `figures/`, the glossary, `toc_pages.json`), so rebuild them on the PC.
+
 ## Where the live notes are
 
 - *Forbidden Offspring* (pen name Frank Stone; new fiction, 12 Oct 2026): `Forbidden_Offspring/notes/HANDOVER.md`, with `Forbidden_Offspring/CLAUDE.md` and `Forbidden_Offspring/AGENTS.md` as pointers for Claude, Codex, Grok and any other assistant. Read it before touching that folder. The manuscript there is generated from `drafts/` by `build_manuscript.py`; edit the drafts, not the manuscript. Reality rule: nothing public before 2029 may contradict real history.
