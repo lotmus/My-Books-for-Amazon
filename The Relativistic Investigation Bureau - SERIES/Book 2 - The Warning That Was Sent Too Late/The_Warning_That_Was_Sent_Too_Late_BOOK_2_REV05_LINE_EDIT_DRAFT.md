@@ -92,35 +92,17 @@ Also by Lothar J. Musiol
 
 # How to Read This Book
 
-This is the second case of the Relativistic Investigation Bureau, and it stands on its own. You need no physics, and you do not need Book One, to follow it. The comedy is the bait. The geometry is the trap.
-
-The novel is the case of the morning sheet: a warning on the Bureau’s own form, dated tomorrow, from a sender whose date of birth is NOT YET; an office door that is already open onto a railway platform; and a voice, Derek Gent’s own, that arrives too late to stop it. The Bureau has from Monday morning to Wednesday to put three things in the right order and to decide who, if anybody, wrote the first one.
-
-The course, Tense for Investigators, follows the novel in six lessons. Most chapters, and the Epilogue, end with a Rule and a link to the lesson they use. Read a lesson when you want the physics behind the investigation; leave it until later when you want to know what happens next.
-
-A note on Lesson 6. Lessons 1 to 5 each teach one idea, and the Prologue and Chapters 1 to 9 work through them in order. From Chapter 10 to the Epilogue every link points to Lesson 6. That is deliberate. Lesson 6 is the capstone: it adds no new idea, it puts the first five to work and closes a case of this kind in one paragraph. Read the second half of the book as its worked example, and go back to Lesson 6 as often as the chapters send you. You will understand it better each time.
-
-Three honest ways to read this book.
-
-For the story alone: read the chapters and stop at each Rule. The case explains its own solution.
-
-To take the class: read each chapter, then the lesson it points to. No physics is assumed at the start, and none of Book One’s algebra is repeated.
-
-If you are impatient: the sheet arrives in the Prologue and the door opens at the end of it. The Bureau understands impatience; it simply prefers it in writing.
-
-One promise: relativity will not be used as permission for a message to arrive from its own future. The investigation accounts for the morning sheet's words, route and arrival. The platform itself remains unexplained; the Sunday slip and the voice remain open questions.
-
-A companion film for each lesson is listed at the end of the course. None of them is required.
+Welcome to the Bureau. This case stands alone, and no physics background is needed: read on and skip the lesson links. The optional six-lesson course is here only if the story sparks your curiosity.
 
 ## Author’s Note
 
-As in the first case, the science and historical details identified below are real; the case is fiction. The relativity used here is well tested in the situations described. Closed timelike curves occur in some mathematical solutions of General Relativity, but none have been observed; the self-consistency principle is a proposal, not an established physical law.
+As in the first case, the science and historical details identified below are real; the case is fiction. The relativity used here is well tested in the situations described. Closed timelike curves occur in some mathematical solutions of General Relativity, but none have been observed; the self-consistency principle is a proposal, not an established physical law. The case accounts for the morning sheet’s words, route, and arrival; relativity does not send it from its own future. The platform, Sunday slip, and voice remain open questions.
 
-Real: the speed of light and what it does, and does not do, to the order of events; the slowing of moving clocks, including the 1971 Hafele–Keating flights, whose caesium clocks came home about 59 billionths of a second behind after flying east and about 273 billionths of a second ahead after flying west; the second, defined since 1967 by 9,192,631,770 periods of radiation corresponding to a transition between two hyperfine levels of caesium-133; the DCF77 time signal, broadcast from near Frankfurt for Germany’s national metrology institute, the PTB in Braunschweig; and Paddington station and its airport trains. The films named in the course are real films, and every book in the bibliography exists.
+Real: the speed of light and what it does, and does not do, to the order of events; the slowing of moving clocks, including the 1971 Hafele–Keating flights, whose caesium clocks came home about 59 billionths of a second behind after flying east and about 273 billionths of a second ahead after flying west; the SI second, tied to the caesium-133 hyperfine transition since 1967 and now defined by fixing its unperturbed frequency at exactly 9,192,631,770 Hz; the DCF77 time signal, broadcast from near Frankfurt for Germany’s national metrology institute, the PTB in Braunschweig; and Paddington station and its airport trains. The films named in the course are real films, and every book in the bibliography exists.
 
 Invented: the Bureau and everyone in it; the building, its landlord, his surveyor and both insurers; form PL/9 and every other form; the school; the morning sheet and Sunday’s lost-property slip; and the impossible platform in the doorway.
 
-Weinstein’s night train is real. The Sud Expresso (the Sud Express, in French) ran overnight from the French–Spanish border at Hendaye and Irún, across Spain, to Lisbon, and entered Portugal at Vilar Formoso. It was suspended on 17 March 2020, at the start of the pandemic, and at the time of writing it has not run since. That is why Weinstein speaks of it in the past tense. The border clocks are real too: mainland Portugal moved to Central European Time, Spain’s time, in September 1992, and went back to Western European Time in 1996. A government can move every clock in a country by an hour with a signature. It cannot make one of them tick slower.
+Weinstein’s night train is real. The Sud Expresso (the Sud Express, in French) ran overnight from the French–Spanish border at Hendaye and Irún, across Spain, to Lisbon, and entered Portugal at Vilar Formoso. It was suspended on 17 March 2020 amid the pandemic and border closures. That is why Weinstein speaks of it in the past tense. The border clocks are real too: mainland Portugal moved to Central European Time, Spain’s time, in September 1992, and went back to Western European Time in 1996. A government can move every clock in a country by an hour with a signature. It cannot make one of them tick slower.
 
 If you finish the book unsure whether a warning can be early and late at once, congratulations. You are thinking like an investigator. The Bureau files that under Lesson 6.
 
@@ -1528,7 +1510,7 @@ Rule: You cannot be made to have read what you did not open, and staying where y
 
 What She Didn’t Write
 
-The hour between the calls and the end of school was the longest of the day, and none of them filled it with anything useful. Weinstein bought a newspaper he did not read and a coffee he described, after one sip, as an argument against the European project. Trevor, back from the pavement with an empty paper cup he would not throw away, sat with the slip and recopied the times onto a second envelope in case the first went missing. Penny rang Mrs Marsh twice and was told, twice, that the platform was still a platform, and on the second occasion that the landlord had now sent a second email, in capitals, which Mrs Marsh did not hold with. Derek could not sit. Every time a family went past with a child in a school jumper, he looked, and every time he made himself look away, and every time Penny watched him do it and said nothing at all. That was its own kind of commentary.
+The hour between the calls and the end of school dragged; none of them found anything useful to do. Weinstein bought a newspaper he did not read and a coffee he described, after one sip, as an argument against the European project. Trevor came back from the pavement with an empty paper cup he would not throw away, then recopied the times onto a second envelope in case the first went missing. Penny rang Mrs Marsh twice. The platform remained a platform; the landlord had sent a second email, in capitals, which Mrs Marsh did not hold with. Derek could not sit. Each family passing with a child in a school jumper caught his eye. He made himself look away, and Penny watched without comment.
 
 At twenty to three, Penny took him by the sleeve to a coffee stand under the clock and bought two teas he had not asked for. She did not ask how he took it. She put one sugar in, stirred it with the wooden stick the stand provided in place of a spoon, and handed it to him lid-first, as if it were evidence.
 
@@ -3710,7 +3692,7 @@ Rule: If a thing seems to have no author, ask each word where it came from. Evid
 
 Wednesday, Like a Person
 
-At half past six Gucci arrived with Tabitha.
+At half past six on Tuesday Gucci arrived with Tabitha.
 
 He came in her coat collar, as he did when he came at all, and she set him down on the corridor carpet, and he looked at the sill where the yellow tape had lain until Trevor rolled it up on Monday evening, on the grounds that the platform had proved it could keep still without supervision. He took in the slabs and the bench and the train. Then he went and lay down a little way along the corridor, as if a railway were a piece of furniture he had declined to discuss.
 
@@ -3940,7 +3922,7 @@ Sunday’s notice was seventeen minutes after Sunday’s opening. That seventeen
 
 Keep this: sign first. Do not copy a number from your own slowness onto someone else’s act.
 
-Herbert’s “quantity every clock at rest would agree on” is proper time: the reading an ideal clock accumulates between two events on its own world line is the same in every frame. Barbarian’s point is that every unit is a count of one motion against another. Since 1967 the SI second has been 9,192,631,770 periods of the radiation from the hyperfine transition of the ground state of caesium-133. Before that it was a fraction of the tropical year 1900 (adopted in 1956, made official in 1960), and before that a fraction of the mean solar day. Herbert’s watch gets German legal time from the Physikalisch-Technische Bundesanstalt in Braunschweig, carried by the DCF77 longwave time signal transmitted from Mainflingen, south-east of Frankfurt. His “partial order” is the causal structure of spacetime: pairs of events separated in a timelike or lightlike way have an order every observer agrees on; spacelike pairs have none.
+Herbert’s “quantity every clock at rest would agree on” is proper time: the reading an ideal clock accumulates between two events on its own world line is the same in every frame. Barbarian’s point is that every unit is a count of one motion against another. Since 1967, the second has been based on the caesium-133 hyperfine transition. In the current SI, its unperturbed frequency is fixed at exactly 9,192,631,770 Hz, so a second is equivalent to that many periods of the corresponding radiation. Before that it was a fraction of the tropical year 1900 (adopted in 1956, made official in 1960), and before that a fraction of the mean solar day. Herbert’s watch gets German legal time from the Physikalisch-Technische Bundesanstalt in Braunschweig, carried by the DCF77 longwave time signal transmitted from Mainflingen, south-east of Frankfurt. His “partial order” is the causal structure of spacetime: pairs of events separated in a timelike or lightlike way have an order every observer agrees on; spacelike pairs have none.
 
 Common trap: stacking the seventeens into a signature because an earlier case was fond of the digit. Fondness is not a mechanism.
 
@@ -3986,7 +3968,7 @@ The control is a real departure: a passenger on the platform before the doors sh
 
 Keep this: earlier opening left in the past, boarding refused while it was still future, no name invented for the morning sheet. When the evidence showed a printer and a route, they went in the record, and the author field stayed empty.
 
-Behind the case: what Herbert and Barbarian argue about over twenty clocks in Chapter 18. Every clock is a counter. A pendulum counts swings; since 1967 the SI second has been defined as 9,192,631,770 periods of the radiation from a caesium-133 atom, so every second ever recorded is one motion counted against another. Two good clocks at rest side by side in the office, set to different readings, still agree on the count between the door and the reading. That count, the proper time, is geometry, not convention. The ruled line on Herbert’s squared paper, the office’s world line, is a drawing aid: what the evidence supplies is events, their order, and counts where anybody counted. The light cone turns that into a partial order. Pairs that a signal could connect are ordered for every observer. Pairs that no signal could connect are neither before nor after. Without the sender’s place and time, the records cannot establish its causal order, which is why the field stays blank.
+Behind the case: what Herbert and Barbarian argue about over twenty clocks in Chapter 18. Every clock is a counter. A pendulum counts swings; since 1967 the second has been based on the caesium-133 hyperfine transition; today, the SI fixes its unperturbed frequency at exactly 9,192,631,770 Hz, equivalent to that many periods of the corresponding radiation, so every second ever recorded is one motion counted against another. Two good clocks at rest side by side in the office, set to different readings, still agree on the count between the door and the reading. That count, the proper time, is geometry, not convention. The ruled line on Herbert’s squared paper, the office’s world line, is a drawing aid: what the evidence supplies is events, their order, and counts where anybody counted. The light cone turns that into a partial order. Pairs that a signal could connect are ordered for every observer. Pairs that no signal could connect are neither before nor after. Without the sender’s place and time, the records cannot establish its causal order, which is why the field stays blank.
 
 Common trap: congratulating yourself for not boarding, calling 10:05 the opening, and leaving a child’s name in the recipient line because the board was frightening.
 
@@ -4040,33 +4022,33 @@ YESTERDAY. On the board, a direction. On the calendar of this opening, Sunday. T
 
 Start here if the story was enough and you want the careful version.
 
-Kip S. Thorne, Black Holes and Time Warps: Einstein’s Outrageous Legacy, W. W. Norton, 1994. The popular account of what a closed curve would cost.
+Kip S. Thorne, [Black Holes and Time Warps: Einstein’s Outrageous Legacy](https://openlibrary.org/works/OL3902081W), W. W. Norton, 1994. The popular account of what a closed curve would cost.
 
-Igor D. Novikov, The River of Time, translated by Vitaly Kisin, Cambridge University Press, 1998. Can the past be changed: the question, treated as physics.
+Igor D. Novikov, [The River of Time](https://openlibrary.org/works/OL2734517W), translated by Vitaly Kisin, Cambridge University Press, 1998. Can the past be changed: the question, treated as physics.
 
-Huw Price, Time’s Arrow and Archimedes’ Point, Oxford University Press, 1996. Why “before” is not a mood.
+Huw Price, [Time’s Arrow and Archimedes’ Point](https://openlibrary.org/works/OL2939060W), Oxford University Press, 1996. Why “before” is not a mood.
 
-The paper, if you want the conjecture by name: S. W. Hawking, “Chronology protection conjecture,” Physical Review D 46, 603 (1992).
+The paper, if you want the conjecture by name: S. W. Hawking, “[Chronology protection conjecture](https://doi.org/10.1103/PhysRevD.46.603),” Physical Review D 46, 603 (1992).
 
-The jinn paper: A. Lossev and I. D. Novikov, “The Jinn of the time machine: nontrivial self-consistent solutions,” Classical and Quantum Gravity 9, 2309 (1992).
+The jinn paper: A. Lossev and I. D. Novikov, “[The Jinn of the time machine: nontrivial self-consistent solutions](https://doi.org/10.1088/0264-9381/9/10/014),” Classical and Quantum Gravity 9, 2309 (1992).
 
 # BIBLIOGRAPHY
 
 These are real books. The Bureau’s comments would be jokes. The citations are not.
 
-Carroll, Sean. From Eternity to Here: The Quest for the Ultimate Theory of Time. Dutton, 2010.
+Carroll, Sean. [From Eternity to Here: The Quest for the Ultimate Theory of Time](https://openlibrary.org/works/OL5752308W). Dutton, 2010.
 
-Deutsch, David. The Fabric of Reality. Allen Lane, 1997.
+Deutsch, David. [The Fabric of Reality](https://openlibrary.org/works/OL2635835W). Allen Lane, 1997.
 
-Gott, J. Richard, III. Time Travel in Einstein’s Universe: The Physical Possibilities of Travel Through Time. Houghton Mifflin, 2001.
+Gott, J. Richard, III. [Time Travel in Einstein’s Universe: The Physical Possibilities of Travel Through Time](https://openlibrary.org/works/OL8074339W). Houghton Mifflin, 2001.
 
-Nahin, Paul J. Time Machines: Time Travel in Physics, Metaphysics, and Science Fiction. 2nd ed. Springer, 1999.
+Nahin, Paul J. [Time Machines: Time Travel in Physics, Metaphysics, and Science Fiction](https://openlibrary.org/works/OL1907388W). 2nd ed. Springer, 1999.
 
-Novikov, Igor D. The River of Time. Translated by Vitaly Kisin. Cambridge University Press, 1998.
+Novikov, Igor D. [The River of Time](https://openlibrary.org/works/OL2734517W). Translated by Vitaly Kisin. Cambridge University Press, 1998.
 
-Price, Huw. Time’s Arrow and Archimedes’ Point: New Directions for the Physics of Time. Oxford University Press, 1996.
+Price, Huw. [Time’s Arrow and Archimedes’ Point: New Directions for the Physics of Time](https://openlibrary.org/works/OL2939060W). Oxford University Press, 1996.
 
-Thorne, Kip S. Black Holes and Time Warps: Einstein’s Outrageous Legacy. W. W. Norton, 1994.
+Thorne, Kip S. [Black Holes and Time Warps: Einstein’s Outrageous Legacy](https://openlibrary.org/works/OL3902081W). W. W. Norton, 1994.
 
 # ACKNOWLEDGEMENTS
 

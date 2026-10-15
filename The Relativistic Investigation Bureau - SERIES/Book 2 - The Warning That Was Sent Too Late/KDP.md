@@ -1,6 +1,6 @@
 # KDP: The Warning That Was Sent Too Late (Book 2)
 
-Prepared 9 Oct 2026 (PT) against REV02; checked 13 Oct 2026 against the release master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx` (52,323 words, rebuilt from the paired REV04 Markdown source) and active line-edit draft `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx` (52,343 words). Covers made 11 Oct 2026 (PT): `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
+Prepared 9 Oct 2026 (PT) against REV02; checked 14 Oct 2026 against the release master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx` (about 52,300 words, rebuilt from the paired REV04 Markdown source) and active release candidate `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx` (about 52,000 words across 22 chapters and a six-lesson course). Covers made 11 Oct 2026 (PT): `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
 
 The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides** are left open on purpose.
 
