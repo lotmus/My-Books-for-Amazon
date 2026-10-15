@@ -6,7 +6,7 @@ This repository holds the Relativistic Investigation Bureau mystery series and i
 
 ## Manuscript and Build Workflow
 
-Read the handoff and shared continuity notes before changing story material. Preserve British spelling, established character facts, case chronology, and series voice. REV15 and REV05 are working drafts; do not replace release masters without explicit direction. The old Book 1 `manuscript_text.txt` export and current build scripts may target older revisions. Before syncing or building either book, inspect the script's source and output paths and use the matching active revision. Keep source text and its paired review DOCX in sync. Label generated files clearly.
+Read the handoff and shared continuity notes before changing story material. Every book must work as a reader's first RIB book: resolve its own investigation, explain any relationship context needed in that volume, and never require a prior book to follow the plot. Carryover mysteries may stay open, but must be clearly separate from the current case. Preserve British spelling, established character facts, case chronology, and series voice. REV15 and REV05 are working drafts; do not replace release masters without explicit direction. The old Book 1 `manuscript_text.txt` export and current build scripts may target older revisions. Before syncing or building either book, inspect the script's source and output paths and use the matching active revision. Keep source text and its paired review DOCX in sync. Label generated files clearly.
 
 ## Style and Naming
 

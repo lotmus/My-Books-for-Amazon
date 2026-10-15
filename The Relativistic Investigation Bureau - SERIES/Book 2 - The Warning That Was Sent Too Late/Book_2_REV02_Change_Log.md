@@ -190,3 +190,10 @@ A critical follow-up to the 11 Oct full read-through checked the active REV05 ch
 **Scores (10-point scale):** humour 9.2; satire and stakes 9.0; science accuracy and fact/fiction boundary 9.4; section boundaries 9.5; dialogue 9.2; description 9.0; plot, pacing, and clue fairness 8.9/9.0/8.9; character arcs 9.1; prose and sentence craft 9.0; clarity and completeness 9.2; uniqueness 9.6; suspense, wonder, and payoff 9.1; continuity 9.4; covers 9.0. Overall reader score 9.1; recommendation 9.1; sellability 5.5.
 
 The remaining score gap is concentrated in dense science dialogue for casual SF readers and a few mysteries deliberately left open for the series. Interior illustrations are not needed for this text-led novel; the front cover is distinctive and legible, and the text-only back cover is clear. The revision remains draft pending visual DOCX/Kindle proof.
+## 15 October 2026 — First-time-reader on-ramp
+
+- Added a non-spoiler orientation before the existing reading/science note. It establishes that either book can be read first, introduces the returning cast, distinguishes the continuing LOCALHOST question from Book 2's warning, and names the unresolved threads without giving away Book 1's answer.
+- Removed Book 1's central-answer spoiler from Book 2's opening recap. The updated contents entry links to the new reader note.
+- Replaced the redundant “this case stands alone” sentence in “How to Read This Book” with a direct note that no physics background is needed and the six-lesson course is optional.
+- Updated the KDP description to accurately promise the orientation and a self-contained case.
+- The Book 2 REV05 Markdown and paired DOCX were updated together. The REV04 release master was not changed.
