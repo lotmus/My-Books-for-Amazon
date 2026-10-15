@@ -39,8 +39,8 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - Never delete anything. Move old files into the book's `bak\` subfolder, or into a dated folder under `D:\bak\`.
 - Only the current master, its md working copy, and notes stay at the top of each book folder. Older versions go into that book's `bak\`.
 - Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
-- **`bak\` belongs to the book, not the repo root.** Every book (or series volume) keeps its own old versions, backups, patch scripts and QA extracts in its own `bak\`, next to its master file. For a series folder, use the volume's `bak\`; use the series-level `bak\` only for material that belongs to no single volume. Do not put per-book files in the root `D:\My Books for Amazonak\`. Name subfolders by date and reason, for example `2026-10-11 pre-cover\`.
-- The root `D:\My Books for Amazonak\` is only for whole-repo leftovers such as retired temp worktree copies. When you find a per-book file there, move it into that book's `bak\`. Never delete it.
+- **`bak\` belongs to the book, not the repo root.** Every book (or series volume) keeps its own old versions, backups, patch scripts and QA extracts in its own `bak\`, next to its master file. For a series folder, use the volume's `bak\`; use the series-level `bak\` only for material that belongs to no single volume. Do not put per-book files in the root `D:\My Books for Amazon\bak\`. Name subfolders by date and reason, for example `2026-10-11 pre-cover\`.
+- The root `D:\My Books for Amazon\bak\` is only for whole-repo leftovers such as retired temp worktree copies. When you find a per-book file there, move it into that book's `bak\`. Never delete it.
 - Stay inside the book folder you were asked to work on. If something outside it looks worth touching, say so and wait to be asked.
 - If a book's own note disagrees with `notes/HANDOVER.md`, the book's note wins inside that book. If a manuscript file disagrees with a status log, the manuscript wins.
 - Run `git status` from `D:\My Books for Amazon`, not from a book folder.
