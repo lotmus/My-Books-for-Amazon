@@ -1,5 +1,0 @@
-# Reference lists supplied by Lothar during the REV12 session (2026-10-10) - for bibliography and for guiding replacement/expansion text (write in own words, never copy)
-Online/expansion sources: Metamagical Themas (Hofstadter), the Motion Mountain series (Schiller), The Feynman Lectures on Physics (online).
-Hofstadter: Goedel, Escher, Bach (1979); Metamagical Themas (1985); I Am a Strange Loop (2007); Surfaces and Essences (with Sander); The Mind's I (with Dennett); Fluid Concepts and Creative Analogies; Le Ton beau de Marot; To Light the Flame of Reason (2021).
-Human origins: Harari, Sapiens; Graeber & Wengrow, The Dawn of Everything; Wragg Sykes, Kindred; Tattersall, Masters of the Planet; Mithen, After the Ice; Scarre (ed.), The Human Past; Anthony, The Horse, the Wheel, and Language; Lewis-Williams, The Mind in the Cave.
-Cosmology: Hawking, A Brief History of Time; Weinberg, The First Three Minutes; Sagan, Cosmos; Greene, The Fabric of the Cosmos; Greene, Until the End of Time; Tyson & Goldsmith, Origins; Carroll, The Big Picture; Carroll, Something Deeply Hidden.

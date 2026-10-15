@@ -1,0 +1,32 @@
+**Here’s how to switch to The X Subscription** (the unified plan that combines Grok, Cursor, and X).
+
+### Important notes first
+- **Switching is optional and permanent.** You can’t undo it, and Support can’t reverse it.
+- Your old Cursor / SuperGrok / X Premium subscriptions are cancelled automatically (with a prorated refund for unused time), **except** Cursor plans billed through the Apple App Store (you must cancel those yourself in iPhone/iPad Settings).
+- After switching, manage everything at [grok.com/dashboard](https://grok.com/dashboard).
+- Do it on the **web** (mobile apps currently send you there).
+
+### Steps (existing customers)
+
+**If you have a paid Cursor plan (recommended starting point):**
+1. Go to **[cursor.com/unify](https://cursor.com/unify)** and click **Get started**.
+2. Select the accounts you want to add (**Grok**, **X**, and any additional Cursor accounts).
+3. Sign in to each account you want to combine and confirm them.
+4. Choose your new plan (**Plus**, **Premium**, **Super**, or **Ultra**).
+5. Review and complete checkout.
+
+**If starting from Grok:**
+- Go to **[accounts.x.ai/unify](https://accounts.x.ai/unify)** and follow the prompts to add Cursor and/or X.
+
+**If starting from X (and you don’t have a paid Cursor plan):**
+- On x.com, go to your subscription settings → upgrade option, choose a plan, and finish checkout.  
+  (This path does **not** include Cursor — start from Cursor if you have a Cursor plan.)
+
+### After you switch
+- You get one shared weekly usage pool across Grok, Cursor (Grok models), and Grok Bot (on Premium and higher).
+- Third-party models in Cursor (Claude, GPT, etc.) are billed separately at API prices.
+- Connect a personal X account to get the X benefits that come with your tier.
+
+Full official guide: [docs.x.ai/x-subscription/unify-accounts](https://docs.x.ai/x-subscription/unify-accounts)
+
+If the unify page has issues or you’re on Enterprise / a special plan, contact support from the dashboard.
