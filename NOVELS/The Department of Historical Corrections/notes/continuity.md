@@ -15,3 +15,7 @@ REV2 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. The se
 
 ---
 REV3 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. Chapters now 37 (new: "The Pembroke File"; the café half of the Ruth chapter is "The Spare Room", the call half is "A Protected Handset"). Facts fixed in REV3: Arthur joined twelve years ago (2014); Eleanor's induction trip was 2011; the Pembroke file starts 11 Oct 2011 and has 32 entries; Garrick is the Receiver's delegate from 17:03 on Wednesday; the van leaves Victoria Street at 08:15 on Thursday; Beatrice and Fanshawe reach 1815 at 04:10 on 23 June; Karim's mother is at Camberwell District Hall, Hall B (known, unreachable); Eleanor's left coil is the same part as the one that failed.
+
+## REV6 (15 Oct 2026)
+
+New fixed points are in DISPATCH_LEDGER.md (REV6 additions). Key facts: Elise Marot is sent to the lower room on Wed ~10:20 by Glock's stamp; Reed's pension record sent to Reviews; Glock's mother died in the tenth month waiting for a pension book; pages 1 to 39 of the casualty model are the missing premise pages; Perrott refuses a countersignature at 23:00 on 22 June; under-secretary Lyle; committee members Tench, Dacre, Hallett; the brass chain of office replaces the gold circlet. Scan run on the finished file: no clashes found in times, counts or names.

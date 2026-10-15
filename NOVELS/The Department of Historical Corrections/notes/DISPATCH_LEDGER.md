@@ -77,3 +77,19 @@ Timeline fixes and new fixed points. The manuscript wins over this file.
 - Waterloo news: reached London late on 21 June, Gazette Extraordinary dated 22 June, officers only named. "Four days old" became "known about for two days"; Perrott's back lane to Downing Street is a mile, not two.
 - Karim's mother: no longer "unlocated": her address is known and unreachable.
 - Garrick's tic is "For the avoidance of doubt"; "I'd like it noted" belongs to Reed.
+
+## REV6 additions (15 Oct 2026)
+
+| When | What | Chapter |
+|---|---|---|
+| Wed 08:40 | Ruth at the café: grey-armband continuity check flags Arthur's pass "pending"; Arthur back at the lift 09:52 | 16 |
+| Wed 10:14 | Crossing to 2029; recess opens 10:24 for four minutes. Glock stamps Elise Marot's card and orders her to a windowless lower room because Arthur wrote her name down (this is why she is among the detainees on Thursday: "came down the day before") | 17 |
+| Wed 10:41 | Back; hearing at 11:00; Saye: pages 1 to 39 of the model missing; room booked for another appeal at 12:30; "twelve ten" before the feed is cut | 18, 20 |
+| 21 Jun 1815, night | Fanshawe chained aboard the Mercy; Saye brings bread and tells him the model's first thirty-nine pages are in a different type | 23 (told as memory) |
+| 22 Jun 1815, afternoon | Hester at Downing Street: Lyle (under-secretary) writes a note about Samuel Wren to the Adjutant-General's office and says "send it before ten" | 19 |
+| 22 Jun 1815, 23:00 | Glock visits Perrott's lodging: wants a countersignature on a sheet dated the 22nd; threatens Mrs Dunning's lease; Perrott refuses and writes it in his blotter | 19 |
+| 23 Jun 1815, 08:50 to 09:00 | Committee members Tench, Dacre and Hallett arrive; Tench admits unease | 25 |
+| Thu ~15:55, 2029 | Glock and Arthur in the stationery cupboard: Reed's pension record sent to Reviews, MAROT file, "I want to be unrefusable", eleven cards expiring at midnight | 26 |
+| Wed ~20:00 | Beatrice and Miriam in Records; Miriam annotates the 2008 receipt "Corrected, 15 Oct. Not personal." | 22 |
+
+Glock's mother: waited eleven months for a pension book after the Leeds flood; died in the tenth; book arrived in the eleventh. Gold circlet renamed brass chain of office; "monarchy" now "office for life".

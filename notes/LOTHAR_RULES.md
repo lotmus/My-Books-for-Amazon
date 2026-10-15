@@ -73,6 +73,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - Voice for the British novels: British deadpan, wry, not anarchic absurdism unless a book's own note asks for it.
 - Math / teaching on-ramps: never define a thing before the reader has felt the need for it, and never use a symbol before the arithmetic has already made the point. Tone treats the reader as an intelligent adult; pace assumes nothing has been met before. Banned at a hinge: clearly, obviously, simply, just, of course, it is easy to see.
 - Do not restore deleted series plans, retired folder names, or withdrawn Also-by pairings.
+- Pseudonym or changed names go in the story; the real name goes in the appendix/notes (the banned name is never written anywhere). Corrections novel: original homage to Amery's Das Koenigsprojekt, see its HANDOVER.md; never market as an adaptation.
 
 ---
 

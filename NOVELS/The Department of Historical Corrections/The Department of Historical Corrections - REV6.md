@@ -286,7 +286,7 @@ Mrs Crumb placed the red folder on the coat.
 
 DO NOT ALLOW THIS MAN TO BECOME KING.
 
-Inside was a portrait. It had the flat, official lighting of a passport photograph, but the man wore a dark ceremonial tunic and a narrow gold circlet. His face was older than Arthur’s by a few years. There was a scar beside the left eyebrow, and the mouth had learned something unpleasant.
+Inside was a portrait. It had the flat, official lighting of a passport photograph, but the man wore a dark ceremonial tunic and a narrow brass chain of office. His face was older than Arthur’s by a few years. There was a scar beside the left eyebrow, and the mouth had learned something unpleasant.
 
 It was Arthur.
 
@@ -1030,7 +1030,7 @@ They brought Miriam out and went to the side room containing the trolley. Beatri
 
 Arthur Pembroke lay beneath it.
 
-His face had the slackness of death, which made it both more ordinary and more intimate than the portrait. There was a healed scar beside his eyebrow and a fresh wound beneath the left collarbone. He wore the same kind of tunic as the photograph, but no circlet. His hands were clean except for ink on the forefinger.
+His face had the slackness of death, which made it both more ordinary and more intimate than the portrait. There was a healed scar beside his eyebrow and a fresh wound beneath the left collarbone. He wore the same kind of tunic as the photograph, but no chain. His hands were clean except for ink on the forefinger.
 
 Eleanor had examined him when the morning packet arrived. The body was physically Arthur’s, a few years older, with an old fracture corresponding to one in his medical record. There was no question of a wax model, a brother or a prank carried beyond proportion. His induction signature matched Arthur’s unique protected history until Monday morning, then continued for another three years.
 
@@ -1830,7 +1830,7 @@ It was a good answer, and Arthur disliked it partly because it was good. He coul
 
 Eleanor leaned forward.
 
-“So do we. You propose to make it a monarchy.”
+“So do we. You propose to make it an office for life.”
 
 Pelling turned sharply. Glock’s expression did not change, but a muscle moved beside the scar on his chin.
 
@@ -1844,15 +1844,15 @@ He pushed the appointment back.
 
 Glock did not pick it up.
 
-“You should see the registration centres before deciding. There are families who cannot collect wages because two histories assign them different employers. There are children whose parents have become administrative strangers. You can end that uncertainty.”
+“Families can’t collect wages because two histories assign them different employers. You can end that.”
 
 “By saying which people count.”
 
 “By allowing a system to function.”
 
-“I once stood in a records office in Leeds nine days after a flood,” Glock said. “Birth certificates, deeds, compensation files, a century of paper reduced to porridge. People with a cousin at the council had replacements by Friday. Everyone else was asked to produce the documents the office had just drowned. I decided then that a record ought not to be a thing that could be lost.”
+“I once stood in a records office in Leeds nine days after a flood,” Glock said. “A century of paper, reduced to porridge. People with a cousin at the council had replacements by Friday. My mother did not have a cousin at the council.”
 
-It was probably the one true thing he had said all day, and Arthur resented it for that.
+He did not say what had happened to her. It was probably the one true thing he had said all day, and Arthur resented it for that.
 
 “Who may appeal?”
 
@@ -2782,9 +2782,9 @@ He took the blanket.
 
 ## 16 The Spare Room
 
-He met Ruth the following morning at a café near the station. Eleanor had protested the timing, then looked at his face and said only that he must return by ten. The hearing began at eleven. The reconciliation clock would expire the next morning. There was no convenient time for a life.
+He met Ruth at twenty to nine in a café near the station. Eleanor had protested the timing, looked at his face and said only that he must be back by ten. The inspection window was at ten fourteen. The hearing was at eleven. The reconciliation would harden at nine seventeen tomorrow morning. There was no convenient time for a life.
 
-Ruth arrived carrying a blue bag and a coat over one arm. She looked like their mother around the eyes and entirely like herself when she frowned at the menu.
+Ruth arrived with a blue bag and a coat over one arm. She looked like their mother around the eyes and entirely like herself when she frowned at the menu.
 
 “They’ve stopped doing eggs.”
 
@@ -2794,9 +2794,7 @@ Ruth arrived carrying a blue bag and a coat over one arm. She looked like their 
 
 “No.”
 
-She sat and studied him.
-
-“What’s happened?”
+She sat and studied him. “What’s happened?”
 
 He had rehearsed an answer about classified work. In front of her it seemed both cowardly and absurd.
 
@@ -2806,13 +2804,9 @@ She did not laugh. The country had been unstable for two days; people were sayin
 
 “The accident?”
 
-He nodded.
+He nodded. “In the history I remember, you weren’t lucky.”
 
-“I remember being in hospital. Mum used to say we were lucky.”
-
-“In the history I remember, you weren’t.”
-
-Ruth looked down at her hands. She wore a wedding ring, a narrow silver bracelet and a small plaster on one knuckle. He wanted to know every object’s history. He knew there was not time.
+Ruth looked at her hands. She wore a wedding ring, a narrow silver bracelet and a small plaster on one knuckle. He wanted the history of every object. He had eleven minutes of it.
 
 “And now?”
 
@@ -2822,115 +2816,95 @@ Ruth looked down at her hands. She wore a wedding ring, a narrow silver bracelet
 
 He could not say yes. He could not honestly say anything else.
 
-She sat back. The waitress came and asked for their order. Ruth ordered two coffees and toast, then waited until the woman had gone.
-
 “Are you asking me to tell you it’s all right?”
 
 “No.”
 
-“Good. Because it isn’t.”
-
-He looked at her. She was angry now, properly angry, and he loved her so fiercely that it made him feel childish.
-
-“I have children. I have a husband who forgets to put the bins out. I have a life which is mostly appointments and small repairs. You can’t ask me to call that an error.”
+“Good. Because it isn’t.” She was angry now, properly angry, and he loved her so fiercely that it made him feel childish. “I have children. I have a husband who forgets the bins. I have a life made of appointments and small repairs. You can’t ask me to call that an error.”
 
 “I’m not.”
 
 “But your work does.”
 
-He explained Glock’s register, the refusal of evidence, the proposed kingship. He explained that he could not preserve every good consequence of the altered history while removing its causes. The machine was not a catalogue from which one selected surviving relatives and acceptable governments. Protecting an arrived person was possible. Transporting everyone on a branch into a chamber under Whitehall was not.
+He gave her the number. Nineteen people he could reach, perhaps twenty-two. If he added her and the children because they were his, he would be doing what people do.
 
-“Could you bring us?” she asked.
+“Could you bring us?”
 
-He had hoped she would not. He was ashamed of the hope.
+He had hoped she would not ask. He was ashamed of the hope.
 
-“There isn’t capacity. There are people already trapped at the other end. Nineteen we may reach. If I add you and the children because you’re mine—”
+A man in a grey armband had begun to move between the tables. He carried a tablet and the air of someone who had been told the café would be pleasant. “Continuity check. Cards, please. Won’t take a moment.”
 
-“You’d be doing what people do.”
+Ruth gave him a blue card. He read it, tapped it and said, “Bristol. Amended on the eleventh.” He said *amended* the way a doctor says *interesting*. Then he looked at Arthur.
+
+Arthur offered his departmental pass. The man read the line at the bottom twice. “Reconciliation status: pending.”
 
 “Yes.”
 
-She looked out of the window. He let her be angry. It was not a test she had to pass to deserve his grief.
+“Pending isn’t a status, sir.” He typed. “Someone will be in touch.”
 
-When the coffee came, Ruth stirred hers for a long time.
+“When?”
 
-“You need to stop saying capacity as though it’s weather.”
+“That’s a matter for Reviews.” He moved to the next table, and Arthur noticed that every person he left sat a little straighter and did not look at their neighbours. It was nine thirty-eight.
 
-“What?”
+Ruth stirred her coffee for a long time.
 
-“Someone decides what to build. Someone decided how many people your system could protect. Don’t make it sound natural.”
+“You need to stop saying capacity as though it’s weather. Someone decided how many people your system could protect. Don’t make it sound natural.”
 
 Arthur took out his notebook.
 
-She almost smiled. “Must you?”
+“Must you?”
 
 “Yes.”
 
 “All right. Write that.”
 
-He did.
-
-Ruth asked about the dead version of him after he mentioned the future courier. He showed her the list of names found in the tunic, but not the photograph. She touched the edge of the paper.
+He did. He showed her the list of names found in the tunic, but not the photograph. She touched the edge of the paper.
 
 “He remembered me?”
 
 “Yes.”
 
-“Then someone should tell his children.”
+“Then someone should tell his children.” She shook her head. “Mine, I meant. Their uncle. Words are becoming impossible.”
 
-Arthur looked up, startled.
+At nine forty-six she looked at the clock above the till and then at him, and understood that he had been looking at it for some time.
 
-She shook her head. “Sorry. I meant mine. Their uncle. Words are becoming impossible.”
+“Go on.”
 
-They sat in the café among people discussing trains and registration appointments. The world did not pause to make their situation dignified.
+“I haven’t finished.”
 
-“I won’t tell you to choose me,” Ruth said eventually. “But I won’t congratulate you if you don’t. You’ll have to live without that.”
+“You never do. That’s why it’s such a long drive to Bristol.” She took a photograph from her bag and put it in his hand: the four of them at the seaside, badly framed, one child looking away and the other apparently shouting. “I won’t tell you to choose me. But I won’t congratulate you if you don’t. You’ll have to live without that.”
 
 “I know.”
 
 “No, you don’t. You’re trying to be prepared. It isn’t the same.”
 
-She gave him a photograph from her bag. It showed the four of them at the seaside, badly framed, one child looking away and the other apparently shouting.
+He put the photograph inside the grey notebook. At the station she hugged him hard. She smelled of soap and coffee, and her shoulders were entirely solid.
 
-“Keep this wherever you keep things.”
+“You were always the careful one.”
 
-He put it inside the grey notebook.
-
-At the station she hugged him hard. He could feel the ordinary solidity of her shoulders. She smelled of soap and coffee.
-
-“You were always the careful one,” she said.
-
-“I’m beginning to think that wasn’t enough.”
+“I’m beginning to think it wasn’t enough.”
 
 “It’s a start.”
 
-He watched her go through the barrier. She turned once, lifted her hand, then disappeared into the crowd. He stayed until he could no longer plausibly claim to be watching for her.
+She turned once at the barrier and lifted her hand. A second officer in a grey armband stopped her for her card. Arthur watched it happen from forty feet away, unable to cross the concourse in time to be of any use, and saw her hold the card out with perfect dignity and a frown.
 
-Back at the department, Eleanor waited beside the lift.
+He ran for the Underground. He made the department lift at eight minutes to ten.
 
-“We have a problem.”
+Eleanor was waiting beside it.
 
-“I had assumed.”
+“Glock has opened the future terminal. He’s offering a visit. Ten fourteen.”
 
-“Glock has opened the future terminal again. He’s offering a visit.”
+“It is nine fifty-two.”
 
-“To whom?”
+“Yes,” said Eleanor. “He chose the time. He wants to see how you spend the twenty-two minutes.”
 
-“You.”
-
-Arthur put the notebook in his coat.
-
-“Of course he is.”
+“Of course he does.”
 
 ## 17 The Terms of Inspection
 
-The invitation came through the old telephone in Glock’s voice, with a faint delay which made him sound as though he were considering each word for moral implications. Arthur knew him well enough by then not to be misled.
+The invitation came by the old telephone, in Glock’s voice, with a faint delay.
 
-“You should inspect the consequence you are proposing to erase.”
-
-“I’ve been outside.”
-
-“I mean the mature settlement. November 2029. Services restored. Records reconciled. A country functioning.”
+“You should inspect the consequence you propose to erase. November 2029. Services restored. A country functioning.”
 
 “Under me.”
 
@@ -2938,103 +2912,49 @@ The invitation came through the old telephone in Glock’s voice, with a faint d
 
 “The last incumbent appears to have had a short tenure.”
 
-The line was quiet for a moment.
+The line was quiet. Arthur wrote CONDITIONS on Eleanor’s pad, because she had already written it on his.
 
-“Miriam gave you a partial account.”
-
-“Then you can complete it under questioning.”
-
-“At your hearing? A minister with no stable mandate, a compromised registrar and a suspended director? Mr Pembroke, you are constructing independence from people who agree with you.”
-
-Arthur looked through the glass at Pelling’s message confirming two judicial observers, an opposition solicitor and a university archivist. The composition was imperfect. Glock’s criticism was not entirely invented. That was why Arthur had accepted the observers Pelling selected rather than naming his friends.
-
-“We’ll keep a place for you.”
-
-“I will attend remotely after your inspection.”
-
-“No.”
-
-“You are refusing to see evidence.”
-
-Arthur looked at Eleanor. She wrote a word on a pad: CONDITIONS.
-
-“I’ll inspect,” he said. “With Dr Vale. No documents signed. Protected return tokens. A return aperture opened and tested before we leave this end. Our location logged independently. Your staff keep their distance.”
+“I’ll inspect,” he said. “With Dr Vale. Nothing signed. Protected return tokens, a return aperture opened and tested before we leave this end, our location logged independently, and your staff kept at a distance.”
 
 “You ask a great deal of trust.”
 
 “I’m trying to avoid asking for any.”
 
-Glock accepted after a pause. It worried Arthur more than refusal would have.
+Glock accepted without argument. It worried Arthur more than a refusal would have.
 
-Miriam opposed the visit. She stood in front of the console, arms folded.
+Miriam opposed it. She stood in front of the console with her arms folded.
 
-“He killed you there.”
+“He had you killed there.”
 
-“He had me killed.”
+“We need to know where the detainees are held.”
 
-“Somebody shot him on Glock’s say-so,” Miriam said. “That’s what killed means, Arthur.”
+“I can tell you where they were. You’ve changed the sequence.” She looked away, and it was clear what it cost her to lose the one advantage her suffering had given her. “Whatever you do, don’t give him a name. He does things with names.”
 
-“We need to know where the detainees are. And where the endpoint is anchored.”
+Eleanor checked the tokens twice. They would cross at ten fourteen into a corridor whose cameras had been turned away. The return recess would open ten minutes later and for four minutes only. If it failed, the old document lift was in the building plans, and so was the sentence that made it unusable.
 
-“I can tell you.”
+They crossed on time. The department on the other side had been painted white. The pipes were boxed in. The brass sign was gone, replaced by AUTHORITY OF CONTINUITY, and beneath it, in smaller letters, YOUR RECORD IS YOUR SECURITY.
 
-“You can tell us where they were. We’ve changed the sequence.”
+Glock waited with a captain in grey whose name tape read REED and a young man holding a tablet. He looked three years older. He did not offer his hand, and he did not say welcome. He glanced at the wall clock and said, “You have ten minutes. Shall we?”
 
-Miriam looked away. It was painful to lose the one advantage her suffering had given her.
+Eleanor looked at both of his wrists. “Where is your earlier self?”
 
-Eleanor checked the portable tokens twice. Glock’s endpoint could receive them into a corridor whose cameras had been deliberately turned away, but once they arrived and observed it, that entry minute would be closed. Return would occur in a separately reserved service recess ten minutes later. The local and future clocks did not have to display the same time, but the sequence of openings could not be reversed at will. If Glock failed to honour the recess, Miriam would have to locate another actual gap. There was no emergency button that made witnesses forget.
+“Elsewhere. Working towards this.”
 
-“I don’t like it,” she said.
+She wrote two Glocks, one frame on her cuff and kept her face still. Arthur understood the method then: a protected man passing instructions back to his younger self, and each instruction with an origin that could also be wrong.
 
-“Neither do we,” Eleanor replied. “Keep the channel warm. If the return fails, look for the old document lift. Its service gaps are in the building plans.”
-
-They crossed at ten fourteen. On the other side, the department had been painted white. The pipes were boxed in. The brass sign was gone, replaced by AUTHORITY OF CONTINUITY. Beneath it, in smaller letters, YOUR RECORD IS YOUR SECURITY.
-
-Arthur felt the floor under his feet and had the strange sensation of walking into a threat written in his own handwriting.
-
-Glock waited with an officer in grey whose name tape read REED, and a young man holding a tablet. He looked three years older, not enough to account for the distance between them.
-
-“Welcome.”
-
-Eleanor looked at both of his wrists.
-
-“Where is your earlier self?”
-
-“Elsewhere, working towards this.”
-
-“So you’ve coordinated with him.”
-
-“With myself. Yes.”
-
-Eleanor wrote it on her cuff: two Glocks, one frame, neither ever through her machine. It was both the good news and the insult.
-
-Arthur had wondered how Glock’s plan could survive changes. Now he saw the method. Not omniscience, but a protected man handing instructions to his earlier self, carrying the experience of a branch which might disappear. Each instruction had an origin. Each could also be wrong.
-
-They passed through a registration hall. It was clean and quiet. At the desks, people placed their hands on readers and received printed cards. The absence of shouting was impressive until Arthur noticed the guards.
-
-“How many appeals?” he asked.
-
-The young man checked the tablet.
-
-“Unresolved status claims are below two per cent.”
+The registration hall was clean and quiet. At the desks, people laid their hands on readers and received printed cards. The absence of shouting was impressive until Arthur counted the guards.
 
 “How many appeals?”
 
-Glock said, “The old categories were unhelpful.”
+The young man checked his tablet. “Unresolved status claims are below two per cent.”
 
-Arthur stopped beside a woman holding a folded orange band.
+“How many appeals?”
 
-“Have you been waiting long?”
+“The old categories were unhelpful,” said Glock.
 
-She looked at his face and stood so abruptly that her chair fell backwards.
+Arthur stopped beside a woman holding a folded orange band. “Have you been waiting long?”
 
-The hall went quiet.
-
-“Please sit,” Arthur said.
-
-She did not. The guard took a step towards them. Eleanor stepped into his path without appearing to do so.
-
-“She may answer,” Glock said.
+She looked at his face and stood so abruptly that her chair fell over. The hall went quiet. A guard took a step towards them, and Eleanor stepped into his path without appearing to move.
 
 “Eleven months, sir.”
 
@@ -3042,127 +2962,85 @@ She did not. The guard took a step towards them. Eleanor stepped into his path w
 
 “My husband is on the wrong record.”
 
-“Wrong how?”
-
-Her eyes moved to Glock. “He says things happened that aren’t approved.”
-
-The young man with the tablet made a note. Arthur took out his own notebook.
-
 “Your name?”
 
-Glock’s expression tightened.
+Glock said, “There are privacy considerations,” and then, because everyone had heard it, “She may answer.”
 
-“There are privacy considerations.”
+“Elise Marot.”
 
-“Then she can decline.”
+It was on Miriam’s second sheet. Her husband Tomas was one of the nineteen. Arthur wrote the name in his notebook, slowly, where Glock could see him do it.
 
-The woman gave her name: Elise Marot. It was on Miriam’s second sheet, among the people not located. Her husband, Tomas, was one of the nineteen.
+At the desk behind her, a guard whose badge read L. TRENT looked at the notebook as though it were more alarming than the face. Beyond him a clerk with the lanyard OKAFOR was writing on a pad she kept below the counter and out of the camera’s angle. She did not look up. She did not stop either.
 
-Arthur wrote it carefully.
+Glock said nothing. He reached across the desk, took the rubber stamp from beside the reader and examined its face. He stamped Elise Marot’s card, once, without hurry, and gave it to the young man.
 
-“May I keep this account?”
+“Mrs Marot’s husband’s file is to be reviewed. Mrs Marot herself is to wait in the lower room until she is calmer. Not hurt. Somewhere without windows, so that she isn’t agitated by the view.” His voice had not changed in any way. “See that she has a chair.”
 
-She nodded, then said yes when he asked her to speak it.
+“Sir,” said the young man, and Elise Marot was walked away between two guards, still carrying the band.
 
-At the desk behind her, a guard whose badge read L. TRENT looked at the notebook in Arthur’s hand as though it were more alarming than his face. Beyond him a clerk, Ms Okafor by her lanyard, was writing in a pad she kept below the counter and out of the camera’s angle. She did not look up. She did not stop either.
+“You wrote her name in a notebook,” Glock told Arthur. “I wrote it in mine. It seemed only fair.”
 
-Eleanor looked at the clock. Six minutes left.
+Eleanor’s hand closed on Arthur’s elbow. Three minutes had gone.
 
-They went through a passage overlooking a lower room. Through the glass Arthur saw orange wristbands, benches and a man mopping the floor. Miriam had described the cleaner, Jon Baines. Arthur saw him look up, recognise the face, then deliberately go on mopping.
+They were taken past a glass wall. Below, men in orange bands sat on benches and one of them was mopping the floor. He looked up, recognised the face and went on mopping. That would be Jon Baines. At the far end was a door marked REFERENCE CUSTODY and, beside it, an old service lift left unpainted inside its modern frame.
 
-At the far end stood a door labelled REFERENCE CUSTODY. Beside it was an old service lift, unpainted inside its modern frame.
+In the ceremonial room a chair stood on a low platform and, on the table beside it, a brass chain of office. It looked cheaper than it had in the photograph. Eleanor’s eyes went to a panel beside the portrait where the screws were newer than its neighbours’. She said nothing about it until the recess.
 
-Glock followed Arthur’s gaze.
+The portrait was Arthur’s face, altered by lighting and three years of decisions he had not made. Under it was a blank space where dates might go.
 
-“All temporary.”
+“You were not unhappy here at first,” Glock said.
 
-“How long?”
-
-“Until identities are settled.”
-
-“By the record you control.”
-
-“By the only record capable of preventing endless conflict.”
-
-They entered a small ceremonial room. A chair stood on a low platform. On a table beside it lay a gold circlet, the one from the photograph. It looked cheaper in person.
-
-Eleanor’s eyes went to the panelling beside the portrait, where one section had newer screws than its neighbours. She said nothing until they were in the recess.
-
-“A frame,” she murmured. “Single passenger, a hundred kilos, keyed to him. That’s how the younger one goes forward and the older one comes back, and why neither of them needs us.”
-
-Arthur stopped at the door.
-
-“You’ve kept it.”
-
-“The office continues.”
-
-On the wall hung the official portrait. It was Arthur’s face, altered slightly by lighting and three years of decisions he had not made. Beneath it was a blank space where dates might eventually go.
-
-Glock said, “You were not unhappy here at first.”
-
-“That’s not an endorsement.”
-
-“You signed because it allowed people to receive wages, medicines, housing. You saw what refusal would cost.”
-
-“Then I saw something else.”
-
-“You became influenced by people who confused contradictory memories with competing rights.”
-
-Arthur looked back towards the custody room.
-
-“They have rights even when they’re mistaken.”
-
-Glock’s face hardened.
+“That isn’t an endorsement.”
 
 “A country cannot run on everyone’s private version of the truth.”
 
 “It can keep the objections.”
 
-Eleanor touched Arthur’s elbow. Time.
+Eleanor said, “Six minutes, Mr Pembroke.”
 
-They went to the return recess. The portable token glowed. Glock made no attempt to stop them.
+They went down the corridor at the pace of people who are not running. Reed held the door of the recess. Behind him Glock stood with his hands folded and watched them go, as one watches a ledger being closed on an entry one has already copied.
 
-That was when Arthur understood the invitation. Glock had not meant to trap him. He had meant to make repair look like demolition, and the clean desks were doing most of the work.
-
-Before stepping through, Arthur turned.
+At the aperture the token glowed amber. Arthur turned.
 
 “Who shot him?”
-
-Glock knew which man he meant.
 
 “An officer responding to a threat to the register.”
 
 “Who defined the threat?”
 
-By the door, Reed stood with his hands behind him and looked at the floor.
+Reed looked at the floor. Glock looked at Reed. Nobody answered, and the recess began to close.
 
-Glock said nothing.
+They crossed with Elise Marot’s name in the notebook and the sound of the quiet hall in their ears. In the department corridor Arthur said, “He sent her downstairs because I wrote it down.”
 
-Arthur crossed back with Elise Marot’s name written in his notebook and the sound of the quiet hall still in his ears.
+“Yes.”
+
+“Miriam told me not to give him a name.”
+
+“You didn’t,” said Eleanor. “She did. You made him write it.” She looked at her cuff. “It’s ten forty-one. Hearing in nineteen minutes. Don’t make a speech of it, because you won’t get the time.”
 
 ## 18 The Missing Eight
 
-Miriam read Arthur’s account of Elise twice. Then she asked him whether Jon Baines had looked ill.
+Miriam read Arthur’s account of Elise twice. Then she asked whether Jon Baines had looked ill.
 
 “Tired.”
 
-“He always looked tired. Anything else?”
+“He always looks tired. Did he recognise you?”
 
-“He recognised me and didn’t show it.”
+“He didn’t show it.”
 
-“Good.”
+“Good.” She marked the service lift on the building plan. “Where did they put her?”
 
-She marked the service lift on the building plan. Eleanor checked the future return trace. Glock had honoured their conditions exactly, which meant the visit had provided a reliable physical map of the endpoint and its power supply. The future machine drew its reference from a sealed room below the ceremonial chamber. If they could interrupt that connection, Glock would lose the ability to send further instructions backwards. But the people already held there would still need a way out before the branch was replaced.
+“The lower room.”
 
-“The freight window is rated for twenty-one hundred kilograms of protected load,” Eleanor said. “At seventy a head that is thirty people. Allow for bags, chairs and the fact that nobody is a standard adult, and call it twenty-three. Nineteen is the number I’d promise.”
+“Then she’s on the list for the weighing.” She crossed Elise’s name from the second sheet to the first, and her pencil did not shake. “Twenty-seven names. Nineteen inside when I left, Jon among them. Eight elsewhere. Seven, now, with Elise placed. Twenty inside, if she is where he put her.”
 
-“Twenty-seven names,” Miriam said. “Nineteen inside the complex when I left, Jon among them. Eight elsewhere.”
+“Which she is,” said Arthur, “because of me.”
 
-“Seven, now that we’ve seen Elise,” Arthur said. “Which makes twenty inside.”
+“Because of him. Write it correctly.”
 
-“Which makes twenty, if she is where he put her.”
+Eleanor was already on the sums. “The freight window was rated for twenty-one hundred kilograms before the bridge went. At seventy a head that is thirty. Allow for bags and chairs and the fact that nobody is a standard adult, and it is twenty-three. Nineteen is the number I’d promise.”
 
-Arthur put Ruth’s photograph on the table, face down. He had not planned to. The act happened before he could turn it into a private matter.
+Arthur put Ruth’s photograph on the table, face down. He had not planned to.
 
 “I have four people I want to add.”
 
@@ -3170,101 +3048,69 @@ Eleanor looked at him. Beatrice remained very still.
 
 “My sister and her family.”
 
-Miriam did not answer quickly. He respected her for it.
-
-“Are they inside a reachable endpoint?”
+Miriam did not answer quickly. He respected her for it. “Inside a reachable endpoint?”
 
 “No.”
 
-“Are they protected?”
+“Protected?”
 
 “No.”
 
-“Could they get here before the reconciliation?”
+“Could they reach you before the reconciliation?”
 
 “Possibly.”
 
-“Then you should put them on the list with those facts. Don’t hide them because you’re ashamed, and don’t put them first because you know them.”
+“Then put them on with those facts. Don’t hide them because you’re ashamed, and don’t put them first because you know them.”
 
-Arthur turned the photograph over and wrote the names on a separate application sheet. Ruth, Peter, Lucy, Sam. Last location Bristol. Unprotected. No confirmed transport. Four people, not an argument won by a relationship.
+He turned the photograph over and wrote the names on a separate sheet. Ruth, Peter, Lucy, Sam. Last location Bristol. Unprotected. No confirmed transport. Beatrice went to the sink and washed a cup that was already clean.
 
-Beatrice stood and went to the sink. For a while she washed a cup which was already clean.
+The telephone rang. It was Pelling’s office: the observers had arrived early and the room was booked for another appeal at half past twelve. The clock on the wall of Operations said ten forty-six.
 
-The hearing would begin in twenty-five minutes. Fanshawe came in carrying Saye’s written statement. The clerk had agreed to talk after being shown that Glock’s access receipt and the original limitations were independently preserved. His first concern was whether cooperation could be entered in the record. Arthur said it could, without promising what it would buy him.
+Fanshawe came in with Saye’s written statement. The clerk had agreed to talk once he had been shown that the access receipt and the original limitations were independently preserved. Saye had worked for Glock for nine years. He had carried documents between a series of small interventions, each described as a resilience measure. By the time he understood the whole, his own employment history existed only in records Glock controlled.
 
-Saye had worked for Glock for nine years. He had carried documents between a succession of small historical interventions, each described as a resilience measure. He had not known the whole plan at first. By the time he did, his own employment history existed only in protected records Glock controlled.
+“He says he couldn’t leave.”
 
-“He says he couldn’t leave,” Fanshawe reported.
-
-“Could he?” Arthur asked.
+“Could he?”
 
 “He could have tried.”
 
 “Write both.”
 
-Saye’s statement described the casualty projections used to recruit Fanshawe. They were genuine extracts from a possible 2031, but the chain producing that future began with Glock’s own emergency regime. Glock had presented the consequences of his plan as the danger his plan would prevent. It was a fraud of omitted premises, a particularly departmental form of lying.
+Miriam asked to question him herself. They found him in the drying room, sitting with his hands on his knees. Without his coat he looked younger, and less like an institution.
 
-“Can he substantiate it?” Eleanor asked.
-
-“He knows where the full model is stored. The future reference room.”
-
-“Convenient.”
-
-“He also supplied the checksum on the original export and the dispatch number. We have the export in Fanshawe’s authorisation bundle.”
-
-Eleanor compared them. They matched. She marked the statement corroborated in part, leaving the rest unproved. Arthur watched the care she took with the qualification.
-
-Miriam asked to question Saye herself. Beatrice began to object, then stopped.
-
-They found him in the drying room, sitting with his hands on his knees. Without his coat he looked younger, and less like an institution.
-
-“Where are the unverified people moved before a reference sealing?” Miriam asked.
+“Where are the unverified people moved before a sealing?”
 
 “Lower archive.”
 
-“All of them?”
+“And those waiting outside?”
 
-“Those inside the complex.”
-
-“And people waiting outside?”
-
-“Transferred to district custody.”
+“District custody.”
 
 “When?”
 
-Saye looked at Arthur. “I don’t know the revised schedule.”
+“In the version I saw, four in the afternoon, the day before the ceremony.”
 
-“Your best supported answer,” Arthur said. “Not your most helpful one.”
+“Elise Marot.”
 
-“In the version I saw, at four in the afternoon. Before the evening ceremony.”
+“I don’t know her.” Miriam described her. Saye frowned. “A woman who wouldn’t go without her husband. If she was put downstairs today, it would be on the order of the man whose stamp is on the desk. He doesn’t change a schedule. He adds a line to it.”
 
-Miriam sat opposite him.
+Miriam wrote it down. “And the forecast?”
 
-“Elise Marot. Was she transferred?”
+“The full model is in the reference room. The casualty tables are extracts. I can give you the export checksum and the dispatch number.” He gave them. Eleanor compared them with Fanshawe’s bundle and they matched. She marked the statement corroborated in part and left the rest unproved.
 
-“I don’t know her.”
+“One more thing,” Arthur said. “Why tell us?”
 
-She described her. Saye shook his head, then frowned.
+Saye considered it. “I counted the pages once. It took a night. It was the only time anyone has asked me to count something and I did not want the answer.”
 
-“A woman refused a transport card. Said she wouldn’t go without her husband. She was put in the lower room.”
+Pelling’s observers were waiting upstairs. Beatrice carried the access register herself. Fanshawe took the projection. Eleanor took the paired reference reports. Arthur took the grey notebook, the original limitations and a photograph of a dead man whose consent could no longer be asked.
 
-“When?”
+Before he left, Miriam held out the orange strip from her wrist. “Take this too.”
 
-“Yesterday, by that clock.”
-
-Arthur and Eleanor had seen her after that. The schedule had changed. Miriam crossed out one note and wrote another.
-
-At the hearing room upstairs, Pelling’s observers were arriving. Beatrice carried the access register herself. Fanshawe carried the fraudulent projection. Eleanor took the paired reference reports. Arthur took the grey notebook, the original Strath limitations and a photograph of a dead man whose consent they could no longer ask.
-
-Miriam remained at Operations. Before Arthur left, she held out the orange strip from her wrist.
-
-“Take this too.”
-
-“What should I say about it?”
+“What do I say about it?”
 
 “What it is.”
 
-He put it beside the documents. It weighed almost nothing, which made its importance harder to ignore.
+It weighed almost nothing. He put it with the documents and went up the stairs at a run, with nine minutes left and Beatrice behind him calling for the lift to wait.
 
 ## 19 The Printer Keeps a Copy
 
@@ -3334,6 +3180,36 @@ Daniel took his hand from the glass. The print of it stayed on the pane, with th
 
 Hester took his good arm. “Then we’ll find the man who writes things down,” she said, “and make him do it properly.”
 
+That afternoon, on the other side of Whitehall, Hester walked up Downing Street with a half-sheet in her glove and a boy’s idea of how to behave in front of a footman.
+
+She had not gone to see Arthur’s future. She had gone to see the man who wrote things down. The under-secretary received her, because the footman had been told to admit anyone who looked likely to make a scene in the hall, and she had the particular quiet of a woman who would.
+
+His name was Lyle. He had not slept since the Tuesday, and the room smelled of hot wax and cold tea. He did not ask her to sit.
+
+“Madam, I am engaged with the Duke’s dispatches.”
+
+“I should like to enter a name.”
+
+“I have no register of the rank and file. Applications go to the Horse Guards.”
+
+“I know. I have been asking at the Horse Guards for four hours. They have told me to apply to you.”
+
+He closed his eyes for a moment. It was the first honest expression he had worn. “Of course they have.”
+
+She told him: Wren, Samuel, private, in a regiment she named, in a company she had to guess. He took a pen and wrote it down. He spelt it correctly the first time, which in the week after a victory she had not thought to expect, and she looked at the page and for no reason she could name decided to forgive him for the footman.
+
+“I can send a note to the Adjutant-General’s office on Foreign Office paper. Whether it is read lies outside my gift.” He folded it. “It will be read by a clerk, which is to say by someone who has nothing to gain from not reading it.”
+
+“That is more than most.”
+
+“Mrs—?”
+
+“Pike. I print.”
+
+“Pike.” He looked at her properly then. “If ever you need a thing signed, send it before ten. After that I am not a Christian.”
+
+She put the note in her glove with the half-sheet. It was not a promise. It was a line on good paper in a clerk’s hand, and she walked back down Downing Street holding it as if it might be asked for.
+
 That evening she went back to the shop alone. The front window had been broken. Inside, drawers stood open, paper lay across the floor and the press had been damaged with a degree of method which made her angrier than mere destruction would have. Someone had bent the frisket frame and split a wooden support. The unused type had been tipped into water.
 
 She stood in the doorway and let herself feel it. There were things one could endure efficiently and things which deserved the full expense of anger. The press had belonged to her husband, then to her through years of work and arguments with men who called it his even after he was dead. It was not a symbol. It was how she ate.
@@ -3346,33 +3222,25 @@ He was tall, grey at the temples, with a small scar on his chin. Daniel had said
 
 “Mr Glock.”
 
-“Mrs Pike.” He stood, which she noted. “I have been admiring your press. A good one. Mr Pike’s father’s, I think? The cheeks are Hodgson’s work.” Hester had not known that, and did not allow her face to say so. “The injury done to it was regrettable, and I have said so to the person responsible. I propose to make it good, with interest, and to take the opportunity to settle Mr Wren’s indenture.”
-
-“Why?”
-
-“Because it seems a pity to have disorder over a delay in paperwork.”
+“Mrs Pike.” He stood, which she noted. “A good press. Hodgson cheeks. The injury done to it was not instructed, and I have said so to the person responsible.”
 
 “It was my window.”
 
-“I know. I mean to buy you a better.” He had a very agreeable voice. It moved around the shop without touching anything. “I should like to say at once that nobody is going to be threatened. In my experience nobody ever is. They are merely informed of their position.”
-
-“And what is my position?”
-
-“That a woman with a press, a debt to a man called Ferris and a lodger in the next street has a good many things which could be put out of order by accident. I describe, Mrs Pike. I don’t threaten.”
-
-“You describe very well.”
-
-“Thank you.” He smiled. It arrived at his mouth and waited there for further instructions. “The gentleman who called on you this morning, who gave the name of Brown. I should like to know where he went.”
+“I know. I shall pay for a better.” He had an agreeable voice. It moved around the shop without touching anything. “The gentleman who called this morning, giving the name Brown. Where did he go?”
 
 “Out of the back door.”
 
 “And after that?”
 
-“After that,” said Hester, “I couldn’t say. I wasn’t holding the door.”
+“After that, I couldn’t say. I wasn’t holding the door.”
 
-He studied her for what felt like a quarter of an hour and was, by the clock on the wall, under a minute. He had the face of a man who had rehearsed this in a better room and found the real one inconveniently well lit.
+He studied her for what felt like a quarter of an hour and was, by the clock on the wall, under a minute.
 
-“You are an intelligent woman. It is a pity to see intelligence employed in so small a cause.”
+“Mr Cresswell is waiting in the court,” he said. “Tomorrow at nine he will call at the Stamp Office and ask whether this shop has paid duty on every sheet printed since Lady Day. It has not. No shop has. The enquiry will be made. The shop will be sealed pending its outcome on Saturday. If you tell me where Mr Brown went, the sealing will be a week later.”
+
+“That is a threat.”
+
+“It is a timetable.” He smiled. It arrived at his mouth and waited there for further instructions. “You are an intelligent woman, Mrs Pike. It is a pity to see it spent so small.”
 
 “It’s my cause. It’s the size I could afford.” She lifted the poker an inch. “Your hat’s by the door.”
 
@@ -3433,6 +3301,40 @@ She gave him a coin as well. “Tell him I haven’t come back. Then find Mr Gan
 “It will be when he hears my name.”
 
 Mr Gant had quarrelled with Hester over a paper delivery in February and had been waiting for an opportunity to be magnanimous. She would let him enjoy it.
+
+The knock came at eleven at night, two doors from the committee rooms, at the lodging of a clerk named Perrott. He opened it himself, in his shirtsleeves, with a candle and a half-eaten pie.
+
+The man on the step had a card ready. It was a thick card and he held it so that the engraving caught the light. L. GLOCK. “Mr Perrott. I apologise for the hour. May I come in?”
+
+Perrott, who had not been asked for anything by a gentleman at that hour in thirty years, found that he had stepped aside.
+
+Glock did not sit until he was invited. He looked at the room: the narrow bed, the shelf of dictionaries, the Bible with a pressed leaf in it, the landlady’s notice about candles. He took a folded sheet from his coat and laid it on the table.
+
+“A fair proof of the instrument. Dated yesterday. It wants only your countersignature.”
+
+Perrott read it by the candle, following the lines with his finger. “It is dated the twenty-second.”
+
+“Yes.”
+
+“It is now past eleven on the twenty-second. If I sign it, it will be entered tomorrow, in the register, as of a date which will then be past. I cannot certify a date that is not today’s. It would be false.”
+
+“Midnight is an hour away.”
+
+“I do not countersign on expectation.”
+
+“Of course not.” Glock took a small book from his pocket and opened it, not hurrying. “Mrs Dunning. Your landlady. She holds this house on a lease which falls in at Michaelmas. The freeholder is an acquaintance of mine, a most reasonable man, who has been thinking of selling to a brewery. I mention it because you have lived here for twenty-nine years, and the landlady’s lodgers have been offered the first refusal on rooms in the new building. At the rents of the new building.” He closed the book. “I do not threaten you, Mr Perrott. I tell you where you stand.”
+
+Perrott put down the pie. His hands were quite steady, which he noticed and thought remarkable. “If the thing you describe is intended as a threat, sir, it is addressed to the wrong man. I rent a room. I have rented one all my life. I have no objection to moving.”
+
+“I see.”
+
+“The sheet is dated yesterday. I will see it at nine.”
+
+Glock looked at him for some time. Then he picked up the proof, folded it along its own crease and put it back in his coat.
+
+“You will find,” he said, “that the committee are very easily persuaded by the person who speaks last.” He opened the door himself. “Goodnight. Do give my compliments to Mrs Dunning.”
+
+When he had gone, Perrott sat for a quarter of an hour without moving. Then he took his own blotter from the shelf, wrote *Received a caller, 11 p.m. Declined to countersign. Date incorrect*, signed it and put the time. It was not heroism. It was the clause, and it was the only thing in the room he knew how to read in a hurry.
 
 By midnight they had the borrowed press in a cellar behind a bookseller’s shop. Gant complained about the danger, the hour and the inconvenience, while setting the damaged forme with painstaking care. Hester put Glock’s note beside the annex and asked him to print both on a single sheet, with her own short account of the attempted seizure beneath.
 
@@ -3560,6 +3462,8 @@ Then she went back to the cellar and began setting the original terms Arthur had
 
 The hearing was held in a room normally used for procurement appeals. This was appropriate in one respect: everyone present wished they had bought something else.
 
+The usher, who had a lanyard appeal booked for half past twelve, announced the time at intervals, and nobody thanked him.
+
 Pelling sat at the centre of the table, flanked by retired judge Dame Judith North, solicitor Aisha Cole and archivist Professor Stephen Ives. None had worked for the department. None remembered Belgium in the same way as Arthur. That last fact mattered. He could not assume the truth he had come to establish.
 
 Two clerks kept separate minutes. A third recorded the proceedings on equipment supplied by the university. Glock had objected in writing to the duplication. Pelling had appended the objection to all three records.
@@ -3656,21 +3560,11 @@ Saye testified that the forecast’s earliest model assumption was the emergency
 
 Pelling’s face had grown pale.
 
-Glock leaned towards the camera.
+Glock did not lean towards the camera. He waited for the room to finish, as one waits for a train already booked.
 
-“You are debating disclosure standards while an entire population depends on continuity. Mr Pembroke has seen the future. Ask him whether it functions.”
+“Ask Mr Pembroke whether it functions.”
 
-Arthur stood.
-
-“Parts of it.”
-
-“Better than the present chaos?”
-
-“Parts of it.”
-
-“Would you dismantle it without an alternative?”
-
-“I would stop you making the alternative illegal to describe.”
+“Parts of it,” Arthur said.
 
 “Ask him,” Glock said, “why the man on the trolley signed.”
 
@@ -3711,6 +3605,8 @@ Arthur felt the room recede for a second. He had expected Glock to know. Expecti
 Glock looked briefly wrong-footed. He had offered a secret bargain and found a public difficulty instead.
 
 Dame Judith asked whether immediate suspension of the future reference sealing was physically possible. Eleanor said yes, if Glock cooperated. Glock said cooperation required recognition of the existing authority. Cole asked whether this meant Arthur’s signature. Glock did not answer directly.
+
+“Twelve ten,” said the usher, from the door.
 
 Then the monitor behind him changed. A red notice appeared: PROVISIONAL REFERENCE HEARING CONCLUDED. PRINCIPAL WITNESS VERIFIED.
 
@@ -4018,6 +3914,34 @@ He looked at her.
 
 He did not argue. She was not purchasing absolution. She was paying for a broken press.
 
+At eight that evening Miriam went down to Records and found Beatrice at the long table with the 2008 register open in front of her. It was open at the same page it had been open at since six.
+
+“You should be eating.”
+
+“So should you.” Beatrice closed the book on her finger. “I was reading the receipt. It has a box for *reason for return*, and I wrote *personal*. I have been looking at that word for nineteen years.”
+
+Miriam took the chair opposite. She had been two women in two histories, and still did not know which of her was being addressed when her mother looked at her like that.
+
+“What was it like?” she said. “The first morning.”
+
+“Do you want the true answer or the one that sounds well?”
+
+“Both. In order.”
+
+“I held you,” Beatrice said. “And I kept waiting for you to be someone. I had a nineteen-year-old in my arms and I kept waiting to be told she was you.” She looked at the register. “I kept your cardigan. I never let you wear it. I didn’t say.”
+
+“I thought it didn’t suit me.”
+
+“It didn’t. It was never the point.”
+
+Miriam laughed, once, with her whole face. Then she stopped and said, “I’m going to 2029 tomorrow. I’m going to find people I have only ever seen from the corridor. I’m going to ask them to trust a woman they last saw leaving.”
+
+“You’ll do it well.”
+
+“I’ll do it carefully. It isn’t the same.” She took the pen from the table and wrote, under *reason for return*, a line in the margin in her own hand: *Corrected, 15 Oct. Not personal.* “There. Now it is in two hands.”
+
+Beatrice looked at it for a long while. She did not say anything, which was one of the things she had learnt that week.
+
 Before departure, Miriam and Beatrice stood together beside the induction line. They did not embrace at first. They had already discovered how much could be hidden inside holding on.
 
 “I’m not nineteen,” Miriam said.
@@ -4185,6 +4109,48 @@ The press creaked. Gant swore gently at a letter which refused to sit square.
 Beatrice smiled, unexpectedly.
 
 “Neither do I, about anyone else. I know quite enough about myself.”
+
+Fanshawe, who could not sleep, told her about the Mercy while the proofs dried.
+
+The hold had smelled of tar and damp rope. They had chained him by one ankle to a ring in the deck beam, with enough slack to reach a bucket and not the ladder. It had been his first night in a century in which nobody had asked for a form.
+
+Saye had come down at three in the morning with a lantern and a heel of bread. He was younger then, or the lantern made him so, and he had stood on the bottom rung for some time, as if the ladder might be needed.
+
+“You’ll want this,” he said.
+
+“I want an explanation.”
+
+“I haven’t one that’s been approved.” He put the bread on the beam, carefully, out of range of the chain, then moved it six inches closer. “I carry the export for the forecast. Casualties, 2031, the whole of it. The table’s on page forty. It begins on page forty. I counted the pages once, since I’m the one who has to carry them, and the first thirty-nine are in a different type.”
+
+“Receiver’s emergency settlement,” Fanshawe said. “I read the summary.”
+
+“The summary doesn’t have a page one.”
+
+The ship moved against its mooring. Somewhere above them a man was singing about a girl in Wapping, with more feeling than skill.
+
+“Why tell me?”
+
+“You have the manner of a person who is going to be told at some point,” said Saye. “I thought I should be the one to do it. I’ve been a clerk for nine years. I put the paper where I’m told. I don’t know what else to do with my hands.”
+
+Fanshawe looked at the bread. He had signed the authorisation on the strength of forty million deaths and a page he had not read. He had been a director for years and had never once asked what lay before the table.
+
+“Is there a way out of here?”
+
+“Yes.”
+
+“Are you going to show it to me?”
+
+“No.” Saye picked up the lantern. “But I’ll leave the ladder down.”
+
+He did, in the end, and Fanshawe did not use it, because the chain would not allow it. It was the nearest thing to a kindness he had been shown by anyone in the Receiver’s service, and he remembered it with great exactness, along with the fact that it had cost the man nothing at all.
+
+“I told Arthur none of it,” Fanshawe said. “I told him I had been ill-advised.”
+
+“You had,” said Beatrice.
+
+“I had been uninquisitive. It’s a different sin, and I find it harder to forgive.”
+
+She did not tell him he was wrong. Hester, who had listened from the other side of the press without appearing to, put another sheet on the frisket and said that in her experience the worst a man could be accused of was being employed, and the best was that he had noticed.
 
 They worked until the proofs were ready. Gant pulled forty-six clean impressions. Hester checked them and Beatrice numbered the first six by hand; the other forty were for the street. Two would go to the committee. Two would remain with printers. One would be kept by an independent solicitor Hester knew through an unpaid estate account, and the sixth was for the under-secretary at the Foreign Office whom Perrott’s dispatch list named as second recipient.
 
@@ -4416,6 +4382,32 @@ She handed over a folded note citing the exact dispatch number, the contradictor
 
 He went inside. Beatrice waited beneath a portrait of a man who had presumably done something expensive. Through a side window she could see Fanshawe across the street, looking unconvincingly interested in a shop display. Hester was already at the delivery entrance with Daniel and the expected proof.
 
+The committee members arrived in the order in which they disliked each other. Mr Tench came first, at ten minutes to nine, with a hand on his stomach and a sheaf of papers he kept squaring against the wall. He had signed the preliminary recommendation after a dinner and had been waking at four every morning since. Sir Ralph Dacre came second, at nine exactly, and handed his hat to the porter without looking at him. He had been a member of the committee for twenty years and a Member of Parliament for eight, and he had been refused a seat on the receivership by a man in a very good coat. Mr Hallett came last, in a hackney, breathing like a man who had been late once in 1802 and never forgotten it, and carrying a small tin of lozenges which he offered to nobody.
+
+Beatrice watched them from beneath the portrait. They did not look like the instruments of history. They looked like three people who would very much have liked their breakfast.
+
+Mr Tench stopped in front of her, as men do in front of a woman they have decided not to see.
+
+“Madam.”
+
+“Mr Tench. You signed the recommendation on the sixteenth.”
+
+He went the colour of putty. “How—?”
+
+“I read it. It was a sound document. Someone altered the annex after you signed.”
+
+“The annex? There was no annex.”
+
+“There is now.”
+
+He looked at her for what might have been a minute. Then he turned to the others, who had stopped on the stairs, and said to Dacre in a voice not intended for the hall, “I think we ought to have the original. I have been uneasy.”
+
+“You have been uneasy since Lady Day,” said Dacre.
+
+“I have been right since Lady Day.”
+
+It was not a victory. It was three men who had each held a different piece of a doubt and had not known the others had one. Beatrice, who had spent nineteen years among registers and knew the exact value of a doubt held in common, said nothing at all and took out her watch.
+
 The porter returned within a minute, having read nothing, and delivered the answer with the relief of a man who had not been required to think.
 
 “Mr Perrott says the matter may be put to him by a gentleman.”
@@ -4582,7 +4574,41 @@ Arthur did not ask what had been cleaned. He had seen enough of the dead man’s
 
 Arthur wrote it down. Reed watched him do it, and for a moment the stiff, tired face did something that was nearly relief.
 
-Arthur entered the ceremonial room without his coat. It had been weighed and left in the sanitation cupboard, along with Eleanor’s spare tools and three bags of possessions which would never acquire new owners. The lack of it made him feel underdressed for abolishing his own monarchy.
+Reed was not allowed to stay on the step. A secretary in grey came down the corridor, said “Mr Pembroke, the Receiver will see you first,” and led him into a room that had been a stationery cupboard and still had the shelves. Glock sat behind a small desk with a pot of tea he did not touch. He had set out two cups. He did not rise.
+
+“Captain Reed.”
+
+Reed had followed them as far as the door. He came to attention. “Sir.”
+
+“Section nine of the Register was consulted from the Permanent Secretary’s own copy at two minutes past two this afternoon. By you.”
+
+“Sir.”
+
+“I mention it because I’m obliged to log it. Your pension record has been returned to Reviews. Nothing hurried. It will be done by the end of the quarter.” He turned the page of the book in front of him. “You may go.”
+
+Reed went. Arthur saw him shut the door with great care, so that it should make no sound.
+
+“He is a good officer,” Glock said. “I should be sorry to lose him. I have never found it necessary to raise my voice to anyone, Mr Pembroke, and I have never found it necessary to lie. People assume a man in my position must do one or the other.”
+
+“What do you do?”
+
+“Administer.” He poured tea into Arthur’s cup. “My mother waited eleven months for a pension book after the Leeds flood. I filled in her form myself, four times. She died in the tenth month and the book arrived in the eleventh, in her name, correctly spelt. That was the day I stopped thinking of paper as a convenience.”
+
+Arthur did not drink the tea. “And that’s why you want to be king.”
+
+“I want to be unrefusable. It’s a different office.” He smiled without hurry. “In a few minutes you will stand in front of thirty people and decline. Eleven of them hold cards that expire at midnight. I haven’t yet decided whether to renew them. I mention it so that you can take your time.”
+
+The tea steamed. On the shelf behind Glock stood a row of box files, labelled in a neat hand with surnames. Arthur read three before he understood what he was looking at. MAROT was the fourth. It was thicker than it should have been for a woman who had come down the day before, and the label was not new.
+
+“You’ve had her file for years.”
+
+“I have a file on everyone I might one day have to protect.” Glock closed the book. “It’s a kindness, really. Ask Mr Baines whether he’d rather be a stranger to me.”
+
+The secretary appeared at the door. It was a minute to four.
+
+“Shall we?” said Glock, and went ahead of him, and held the door.
+
+Arthur entered the ceremonial room without his coat. It had been weighed and left in the sanitation cupboard, along with Eleanor’s spare tools and three bags of possessions which would never acquire new owners. The lack of it made him feel underdressed for declining his own office.
 
 Glock stood beside the platform. His older face showed no surprise. The room contained perhaps thirty people: senior officials, judges of uncertain appointment, two officers, a camera operator and a row of residents selected to represent the grateful public. At the back, a door led to the reference room.
 
@@ -4600,7 +4626,7 @@ Eleanor had gone with Miriam and Jon to open the evacuation route. Arthur carrie
 
 Glock began the prepared address. He spoke well. The country had endured instability. Families needed reliable records. Rights required an authority capable of recognising them. Temporary powers would preserve ordinary life until representative institutions could be fully restored. Arthur listened to the speech his dead counterpart must have heard and understood, with unwelcome clarity, how a decent man could sign at its end.
 
-The circlet lay on a velvet cushion. The room’s camera pointed towards the platform. Glock invited Arthur to affirm his willingness to serve as sovereign receiver.
+The chain lay on a velvet cushion. The room’s camera pointed towards the platform. Glock invited Arthur to affirm his willingness to serve as sovereign receiver.
 
 “Before I answer,” Arthur said, “who will keep a record of my answer?”
 
@@ -5570,7 +5596,7 @@ Jon put a small orange strip into the grave.
 
 “He should have the last word on that,” he said.
 
-There was no crown. No departmental insignia. The service was brief, and for once nobody complained that an event had ended before all possible remarks were made.
+There was no chain. No departmental insignia. The service was brief, and for once nobody complained that an event had ended before all possible remarks were made.
 
 Afterwards, Eleanor walked with Arthur along the path. She had been waiting for a private moment since the reconciliation and had finally stopped trying to arrange one perfectly.
 
@@ -6010,6 +6036,8 @@ If this book made you laugh, or made you slightly nervous about the forms you si
 ## Acknowledgement
 
 This is an original novel: its premise, characters, names and wording are my own. It was inspired, in spirit only, by Carl Amery’s *Das Königsprojekt*, a German novel of a secret institution that intervenes in history, of what such intervention costs, and of the deadpan with which institutions describe it. It is a homage, not an adaptation, and I recommend the original.
+
+Glock is modelled on Bell. The name has been changed in the story, as is the department’s practice with persons who might otherwise be asked about it; the original is kept here, in the appendix, where it can be consulted by anyone with a reason.
 
 ## About the Author
 
