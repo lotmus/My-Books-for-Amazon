@@ -178,7 +178,7 @@ S2[50] = {
 }
 CH[51] = dict(
 title='Chapter 51. Receivers and Transmitters You Can Build',
-open="A coil, a variable capacitor, a germanium diode, and a long wire will pull a radio station out of the air with no battery at all. A few more parts make a Morse transmitter that reaches across a continent on a watt, and a twenty-dollar USB dongle receives everything from aircraft to weather satellites. Building them teaches the ideas of this book faster than any amount of reading.",
+open="A coil, a variable capacitor, a germanium diode, and a long wire will pull a radio station out of the air with no battery at all. The station supplies both the signal and the power, if it is generous enough. A few more parts make a one- to five-watt Morse transmitter; a continent-spanning contact is possible when propagation and the antenna cooperate. A twenty-dollar USB dongle receives aircraft and weather satellites. Building these receivers and transmitters teaches the ideas of this book faster than any amount of reading.",
 where="Amateur radio, school and maker projects, emergency communication, and the first instruments of a home RF lab.",
 blocks=[
 ('P', "This chapter applies earlier chapters to four builds a reader can finish on a kitchen table: a crystal radio, an FM superheterodyne, a low-power Morse transmitter, and a software-defined receiver. Each comes with the numbers that make it work and a measurement that confirms it. A transmitter needs a license; receivers do not."),

@@ -1,7 +1,7 @@
 # Book 4 warm-up content, Chapters 1-20. Every opener in this book is expository, so each new hook goes in
 # front of it (no replace). Hook types rotate: scene, puzzle, number, history, question, myth, failure.
 C = {
-1: dict(hook="Mount a 10 pF capacitor on its pads, feed it 2.45 GHz, and it is no longer a capacitor. Its 0.8 nH of mounted inductance resonates with it at 1.78 GHz, and above that frequency the part behaves as a small inductor. Nothing about the part changed. The frequency did, and that is the whole subject of this book.",
+1: dict(hook="Mount a 10 pF capacitor on its pads, feed it 2.45 GHz, and it is no longer a capacitor. Its 0.8 nH of mounted inductance resonates with it at 1.78 GHz, and above that frequency the part behaves as a small inductor. Nothing about the part changed. The frequency did, and that is the whole subject of this book. The capacitor keeps its name on the packet; the circuit has other opinions.",
  meet="Every Wi-Fi, Bluetooth, and cellular board, every SMA connector and coax jumper, and every data sheet that quotes power in dBm.",
  bench="Above a few hundred megahertz, check every passive part's self-resonant frequency before you trust its value. A DC-blocking capacitor works best near its series resonance, and a bypass capacitor above it is an inductor, so the 100 nF part from the digital schematic may be the wrong choice on an RF line. Think in dBm from the first day: gains and losses add, and mistakes in milliwatts get caught faster in decibels.",
  use=(["Wavelength λ = c/f, and λ/√εr on a board.", "dBm, dB, and the habit of adding gains and losses.", "Self-resonance of real capacitors and inductors."], ["The full field theory behind why lumped elements fail."])),
