@@ -6,6 +6,7 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 
 | Book | Task | Status | Who |
 |---|---|---|---|
+| The Department of Historical Corrections | Substantial revision toward exceptional quality; causal ledger, climax, pacing and voice; rebuild DOCX and reassess | queued (two heavy jobs active; preserve existing queue order) | this task |
 | EE Books 1–7 | Diagrams, voice, and "What you'll actually use" pass | running | agent |
 | EE Books 1–9 | Book 9 series retrofit (Also-by, score row, and Book 7 pointers) | complete | agent |
 | Physics Vol 1; Physics Vol 3; A Trip Is Not a New Life; Science Sparks; Life, Actually; Physics Vol 2 | Weak-books improvement pass | running | agent |
@@ -21,7 +22,9 @@ Updated 10 Oct 2026 (PT). One row per book. Covers are judged from the files in 
 Release order covers unpublished books only. Rules: highest score with finished covers first; Book 1 of a series before its sequels; about 1–2 releases per week, starting the week of 12 Oct 2026.
 
 | Title | Series/Vol | Status | Latest score + date | Front cover | Back cover | Audio fit | Kindle MB (est., 10 Oct, photos 440 px, no tables) | Next fix | Proposed release order |
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|
+| The Department of Historical Corrections | Substantial revision toward exceptional quality; causal ledger, climax, pacing and voice; rebuild DOCX and reassess | queued (two heavy jobs active; preserve existing queue order) | this task |---|---|---|---|---|
+| The Department of Historical Corrections | Substantial revision toward exceptional quality; causal ledger, climax, pacing and voice; rebuild DOCX and reassess | queued (two heavy jobs active; preserve existing queue order) | this task |---|
 | The Department of Historical Corrections | Standalone novel | draft | 6.1 (15 Oct 2026; reader 7.0, critic 5.8, internal logic 5.5, market 6.0; sellability 6.0) | missing | missing | promising; dialogue-led | not built | Repair timeline and transit budget, strengthen climax, tighten aftermath; see book notes/EDITORIAL_REVIEW_2026-10-15.md | unplaced |
 | Protocol Flamingo | The Invasion Storybooks, Book 1 | ready | 9.2 (10 Oct 2026, strict; 8.7 before that day's fixes) | done | done | good | 0.25 | Paperback spine once the print page count is final (note: page size just changed 5.5x8.5 to 6x9, 12 Oct heading-rule pass, so the print page count will shift again before the spine is set); then upload. 12 Oct: applied the all-books heading rule (Heading 1/2 to 16pt; already bold/centered/medium-blue) and page size 5.5x8.5 to 6x9 with 0.6in margins, paragraph and zip integrity verified | 1 (week of 12 Oct) |
 | The Murder That Hadn't Happened Yet | The Relativistic Investigation Bureau, Book 1 | release candidate | 8.7 (15 Oct 2026, REV16 + REV17 listing pass: target reader 8.9, harsh critic 8.6, subject expert 9.4, Amazon market 7.9; sellability 6.8. Replaced the misleading time-paradox keyword, corrected a corrupted dash in the KDP DOCX, and aligned the description and back panel. Manuscript scores unchanged; market score remains limited by the low-resolution front cover and lack of a live KDP preview.) | done | done (text-only, Book 2 trade dress; old inaccurate panel archived) | good | 0.43 | Export the marketing cover from a high-resolution source; inspect the manuscript in Kindle Previewer/KDP and complete author publication decisions | 4 (week of 19 Oct) |
