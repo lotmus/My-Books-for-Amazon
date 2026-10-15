@@ -22,3 +22,11 @@ One place for the texts: `tools/canonical_text.py` reads `notes/ABOUT_THE_AUTHOR
 - Quantum Vol 2: the finish script is behind the master. Run on the master it moved the front matter and put back "Prologues 1-6" wording from before the 10 Oct rescore. Do not run `main()` on the master. The contents entry "Prologue: Why learn QED this way" sits above the intro line in the master; the script lists it in reading order, after "How to read this book".
 - Look First Vol 2: tables lay out differently from the master's. About the Author and Also by share a page in the master and in the rebuild.
 - Quantum Vol 2 and Look First Vol 2: Also by and About the Author follow the master and share a page (no page break between).
+
+## Folder layout note (from Lothar, 15 Oct 2026)
+
+On the PC, `D:\My Books for Amazon` now has new subfolders and the book folders have been sorted into them. The paths in this file and in `HANDOVER.md` are the flat GitHub layout of 11 Oct. The scripts find `tools/canonical_text.py` by walking up from their own folder, so extra depth is fine as long as `tools/` and `notes/` stay together at the repo root. Rerun the build checks once the sorted layout is in git, and check `notes/BOOK_LOCATIONS.md` for the new paths.
+
+## Queue
+
+Per-book follow-ups are rows in the Job queue at the top of `SCORES.md`.

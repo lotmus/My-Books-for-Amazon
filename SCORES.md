@@ -12,6 +12,12 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 | How to Publish Your First Kindle Book | REV43 prose and presentation polish after critical reread | complete | agent |
 | Bavarian Cooking Made Simple | Cover blend softening; replace 11 weak dish photos | queued | — |
 | Quantum, Actually, Volume 1 | Part Two tightening | queued | — |
+| Science Sparks | Build sync follow-up: rebuild on the PC (needs `figures/` and `chapters/90_glossary.md`), then fix the three "Going deeper" lines that still say "Quanta, Actually" in the md. See `notes/BUILD_SYNC_2026-10-11.md` | queued | — |
+| Life, Actually | Build sync follow-up: rebuild on the PC (`chapters/` and `notes/toc_pages.json` are not in git) to a `_REBUILD_CHECK.docx`, compare back matter and contents with the master | queued | — |
+| Quantum, Actually, Volume 2 | Build sync follow-up: bring `_finish_book.py` up to the 10 Oct rescore before anyone runs `main()` (it would regress "Opening Chapters" wording and move the front matter); decide where the Prologue contents entry sits | queued | — |
+| The Dolphins' View of History | Build sync: done, rebuild identical to the master. Keep `chapters/Also by Lothar J. Musiol.md` in step by hand | complete | agent |
+| A Trip Is Not a New Life | Build sync follow-up: rebuild with the real figures and compare tables (the build lays tables out differently from the master) | queued | — |
+| Math, Actually Vols 1–4 | Build sync: no builder exists; masters match canonical. Edit masters directly | complete | agent |
 
 
 # Scores and release plan
