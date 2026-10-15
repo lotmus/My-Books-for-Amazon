@@ -7,9 +7,9 @@ Children's STEM-fantasy chapter books by **Anneliese Tauber** (pen name, the sam
 
 | Book | Folder | Current files | Words | Pictures |
 |---|---|---|---|---|
-| 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v20.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v20.txt` | about 11,200 | 65 + cover |
-| 2. Scally and the Sleepless Stream | `Scally_and_the_Sleepless_Stream` | `..._Book2_v14.docx`, `.epub`, story `Book2_Story_v14.txt` | about 14,000 | 83 + cover |
-| 3. Scally and the Hill with the Hanging Socks | `Scally_and_the_Hill_with_the_Hanging_Socks` | `..._Book3_v7.docx`, `.epub`, story `Book3_Story_v7.txt` | about 22,800 | 119 + cover |
+| 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v21.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v21.txt` | about 11,500 | 65 + cover |
+| 2. Scally and the Sleepless Stream | `Scally_and_the_Sleepless_Stream` | `..._Book2_v15.docx`, `.epub`, story `Book2_Story_v15.txt` | about 14,000 | 83 + cover |
+| 3. Scally and the Hill with the Hanging Socks | `Scally_and_the_Hill_with_the_Hanging_Socks` | `..._Book3_v8.docx`, `.epub`, story `Book3_Story_v8.txt` | about 22,600 | 119 + cover |
 
 The docx is the working master; the **EPUB is the upload file for KDP**. File names carry the version (`..._v20`). When you change a book, copy the story file to the next version, rebuild, move the old version to `bak\Story_previous_versions` (not committed), and update `KDP_Description.md` and `notes/BOOK_LOCATIONS.md`. Junk goes to `junk\`. No PDFs, no Word tables, no floating images. The name Trump must never appear.
 

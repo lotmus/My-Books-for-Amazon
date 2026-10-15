@@ -1,0 +1,9 @@
+// Pin constraints for the Tang Nano 9K (Gowin GW1NR-9). Check against your board's schematic.
+IO_LOC "sys_clk" 52;
+IO_PORT "sys_clk" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+IO_LOC "btn_n" 3;
+IO_PORT "btn_n" IO_TYPE=LVCMOS18 PULL_MODE=UP;   // S1 is the active-low user button on pin 3
+IO_LOC "led_n" 10;
+IO_PORT "led_n" IO_TYPE=LVCMOS18 DRIVE=8;
+IO_LOC "uart_tx" 17;
+IO_PORT "uart_tx" IO_TYPE=LVCMOS33 PULL_MODE=UP;

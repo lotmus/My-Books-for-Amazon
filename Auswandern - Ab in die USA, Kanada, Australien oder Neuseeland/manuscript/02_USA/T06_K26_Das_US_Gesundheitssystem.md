@@ -1,6 +1,6 @@
 ## Kapitel 26: Das US-Gesundheitssystem für Neuankömmlinge
 
-Es ist Samstagabend, du bist seit drei Wochen in den USA, und dein Kind hat hohes Fieber. Einen amerikanischen Kinderarzt hast du noch nicht, und die Krankenversicherung deines Arbeitgebers beginnt erst in sieben Wochen. Das ist kein Pech, sondern eine Folge des Systems: In den USA hängt die Krankenversicherung am Job, und zwischen Landung und Versicherungsbeginn liegt oft eine Lücke.
+Samstagabend, drei Wochen nach deiner Ankunft in den USA: Dein Kind hat hohes Fieber. Du kennst noch keinen Kinderarzt, und die Versicherung deines Arbeitgebers beginnt erst in sieben Wochen. Solche Lücken sind im US-System möglich, weil der Versicherungsschutz oft erst nach dem Arbeitsbeginn einsetzt.
 
 > **Kein Rechtsrat:** Stand 30. September 2026. Dieses Kapitel bietet eine Orientierung, keine individuelle Beratung. Prämien, Selbstbehalte und Eigenanteile unterscheiden sich je nach Plan; prüfe vor Abschluss oder Kündigung die Leistungsübersicht deines Plans und die aktuellen Angaben der genannten Behörden.
 
@@ -14,24 +14,22 @@ Es ist Samstagabend, du bist seit drei Wochen in den USA, und dein Kind hat hohe
 
 ### Das Prinzip: Versicherung hängt am Arbeitgeber
 
-Nach Angaben des US Census Bureau waren 2025 rund 53,5 % der Bevölkerung über einen Arbeitgeber versichert, 20,1 % über *Medicare* (meist ab 65; bei bestimmten Behinderungen früher), 17,1 % über *Medicaid* (für Menschen mit geringem Einkommen) und 10,5 % über selbst gekaufte Pläne. Mehrfachdeckung ist möglich; deshalb ergeben die Anteile zusammen nicht 100 %. Unversichert waren 7,9 % (26,7 Millionen Menschen). Laut Arbeitgeberumfrage von KFF bieten 61 % der Firmen ab zehn Beschäftigten eine Versicherung an: 97 % der Firmen mit mindestens 200 Beschäftigten, aber nur 59 % der kleineren. Frage im Bewerbungsprozess deshalb nach dem Leistungspaket (*Benefits*), nicht nur nach dem Gehalt.
+Nach Angaben des US Census Bureau waren 2025 rund 53,5 % der Bevölkerung über einen Arbeitgeber versichert. 20,1 % hatten *Medicare* (meist ab 65, bei bestimmten Behinderungen früher), 17,1 % *Medicaid* (für Menschen mit geringem Einkommen) und 10,5 % einen selbst gekauften Plan. Mehrfachdeckung ist möglich; deshalb ergeben die Anteile zusammen nicht 100 %. Unversichert waren 7,9 % (26,7 Millionen Menschen). Laut KFF-Arbeitgeberumfrage bieten 61 % der Firmen mit mindestens zehn Beschäftigten eine Versicherung an. Bei Firmen mit mindestens 200 Beschäftigten sind es 97 %, bei kleineren 59 %. Frage im Bewerbungsprozess deshalb nach dem Leistungspaket (*Benefits*), nicht nur nach dem Gehalt.
 
-**Wichtig ab 65:** Medicare beginnt nicht automatisch mit dem 65. Geburtstag. Anspruch und Kosten hängen unter anderem von Aufenthaltsstatus und Versicherungszeiten ab. Für die beitragsfreie Krankenhausversicherung Medicare Part A braucht man in der Regel selbst oder über den Ehepartner etwa zehn Jahre Medicare-Beiträge; wer diese Zeiten nicht hat, muss die Voraussetzungen für einen kostenpflichtigen Zugang prüfen. Für viele rechtmäßig dauerhaft ansässige Personen gilt außerdem eine fünfjährige ununterbrochene Aufenthaltsfrist. Kläre deinen konkreten Anspruch frühzeitig bei Medicare oder der Social Security Administration, statt mit Medicare als Versicherung bei Ankunft zu rechnen.
+**Wichtig ab 65:** Medicare beginnt nicht automatisch mit dem 65. Geburtstag. Anspruch und Kosten hängen unter anderem von Aufenthaltsstatus und Versicherungszeiten ab. Für die beitragsfreie Krankenhausversicherung Medicare Part A braucht man in der Regel selbst oder über den Ehepartner etwa zehn Jahre Medicare-Beiträge. Fehlen diese Zeiten, musst du die Voraussetzungen für einen kostenpflichtigen Zugang prüfen. Für viele rechtmäßig dauerhaft ansässige Personen gilt außerdem eine fünfjährige ununterbrochene Aufenthaltsfrist. Kläre deinen Anspruch frühzeitig bei Medicare oder der Social Security Administration. Rechne nicht damit, bei der Ankunft bereits über Medicare versichert zu sein.
 
-Verbreiteter Irrtum: „Krankenversicherung“ klinge nach einem System wie der GKV, nur eben amerikanisch organisiert. Tatsächlich kennen die USA, anders als die gesetzliche Krankenversicherung (GKV) in Deutschland, keinen einheitlichen Träger. Die Versicherer sind private Unternehmen, etwa Blue Cross Blue Shield, UnitedHealthcare, Aetna oder Cigna; dein Arbeitgeber wählt einige Pläne aus und bietet sie dir an. Was in Deutschland die Kasse organisiert, erledigst du selbst: Plan wählen, Netzwerk prüfen, Rechnungen abgleichen.
+Ein verbreiteter Irrtum: „Krankenversicherung“ klinge nach einem System wie der GKV, nur amerikanisch organisiert. Tatsächlich gibt es in den USA, anders als in Deutschland, keinen einheitlichen Träger. Die Versicherer sind private Unternehmen, etwa Blue Cross Blue Shield, UnitedHealthcare, Aetna oder Cigna. Dein Arbeitgeber wählt einige Pläne aus und bietet sie dir an. Was in Deutschland die Kasse organisiert, erledigst du selbst: Plan wählen, Netzwerk prüfen, Rechnungen abgleichen.
 
-Eine bundesweite Versicherungspflicht mit Strafzahlung gibt es seit 2019 nicht mehr; einzelne Staaten wie Massachusetts und New Jersey haben eigene Vorgaben. Unversichert zu sein bleibt für Neuankömmlinge dennoch riskant: Notaufnahmen von Krankenhäusern mit Medicare-Zulassung müssen dich nach dem Bundesgesetz EMTALA untersuchen und stabilisieren, unabhängig von deiner Zahlungsfähigkeit — kostenlos ist das nicht, die Rechnung kommt später. Vorbereitung in Deutschland (GKV-Austritt, Anwartschaft): Kapitel 18; der Weg zurück in die GKV: Kapitel 42.
+Eine bundesweite Versicherungspflicht mit Strafzahlung gibt es seit 2019 nicht mehr; einzelne Staaten wie Massachusetts und New Jersey haben eigene Vorgaben. Unversichert zu sein bleibt für Neuankömmlinge dennoch riskant. Nach dem Bundesgesetz EMTALA müssen Notaufnahmen von Krankenhäusern mit Medicare-Zulassung dich untersuchen und stabilisieren – unabhängig davon, ob du zahlen kannst. Kostenlos ist die Behandlung nicht; die Rechnung kommt später. Zur Vorbereitung in Deutschland (GKV-Austritt, Anwartschaft): Kapitel 18; zum Weg zurück in die GKV: Kapitel 42.
 
-### Plantypen: HMO, PPO, HDHP und HSA
+**Plantypen: HMO, PPO, HDHP und HSA**
 
-Dein Arbeitgeber bietet oft mehrere Pläne an. Sie unterscheiden sich im Netzwerk (*Network*: die Ärzte und Kliniken, mit denen der Versicherer Preise vereinbart hat) und in der Kostenverteilung. Die Tabelle zeigt die vier häufigsten Typen und ihren Anteil bei Arbeitgeberplänen 2025 (KFF).
+Dein Arbeitgeber bietet oft mehrere Pläne an. Sie unterscheiden sich vor allem im Netzwerk (*Network*: die Ärzte und Kliniken, mit denen der Versicherer Preise vereinbart hat) und in der Kostenverteilung. Laut KFF entfielen 2025 diese Anteile der Arbeitgeberpläne auf die vier häufigsten Typen:
 
-| Plantyp | So funktioniert er | Anteil |
-|---|---|---|
-| *PPO* (Preferred Provider Organization) | Netzwerk günstiger; Ärzte außerhalb möglich, aber teurer; Facharzt ohne Überweisung | 46 % |
-| *HDHP* (High Deductible Health Plan) mit Sparoption | Niedrigere Prämie, hoher Selbstbehalt, meist mit HSA | 33 % |
-| *HMO* (Health Maintenance Organization) | Meist nur Netzwerkärzte (außer im Notfall); der Hausarzt steuert Überweisungen | 12 % |
-| *POS* (Point of Service) | Mischform: Netzwerk günstiger, Facharzt per Überweisung des Hausarztes | 9 % |
+- ***PPO* (Preferred Provider Organization), 46 %:** Im Netzwerk günstiger; außerhalb sind Ärzte meist ebenfalls zugänglich, aber teurer. Für Fachärzte brauchst du keine Überweisung.
+- ***HDHP* (High Deductible Health Plan) mit Sparoption, 33 %:** Niedrigere Prämie, hoher Selbstbehalt, meist mit HSA.
+- ***HMO* (Health Maintenance Organization), 12 %:** Meist auf Netzwerkärzte beschränkt (außer im Notfall); der Hausarzt steuert Überweisungen.
+- ***POS* (Point of Service), 9 %:** Mischform: Das Netzwerk ist günstiger; für Fachärzte brauchst du eine Überweisung des Hausarztes.
 
 Dazu kommt der *EPO* (Exclusive Provider Organization), der wie ein HMO nur das Netzwerk bezahlt. HMO-Pläne sind meist günstiger, bei 47 % ihrer Versicherten gibt es keinen Selbstbehalt; dafür schränken sie die Arztwahl ein. Beim PPO zahlst du für die Freiheit mehr Prämie.
 
@@ -43,18 +41,16 @@ Ein HDHP kann günstiger sein, wenn du voraussichtlich wenig Leistungen brauchst
 
 ### Die Begriffe im Überblick
 
-Ein guter Teil des amerikanischen Krankenversicherungsalltags besteht aus acht Wörtern. Die konkreten Beträge unterscheiden sich je nach Arbeitgeber, Tarif und Haushalt. Nutze deshalb die Leistungsübersicht (*Summary of Benefits and Coverage*) deines Plans als Rechengrundlage.
+Bei Arztbesuchen begegnen dir immer wieder dieselben acht Begriffe. Die konkreten Beträge unterscheiden sich je nach Arbeitgeber, Tarif und Haushalt. Nutze deshalb die Leistungsübersicht (*Summary of Benefits and Coverage*) deines Plans als Rechengrundlage.
 
-| Begriff | Bedeutung |
-|---|---|
-| *Premium* | Monatsbeitrag; fällt immer an, auch ohne Arztbesuch. Den Betrag findest du in den Planunterlagen |
-| *Deductible* | Selbstbehalt: der Betrag pro Jahr, den du zuerst selbst zahlst |
-| *Copay* | Zuzahlung als Festbetrag pro Besuch oder Rezept |
-| *Coinsurance* | dein Anteil in Prozent, nachdem der Selbstbehalt erreicht ist. Den Satz nennt der Plan |
-| *Out-of-Pocket Maximum* | Jahreshöchstgrenze deiner Eigenkosten; danach zahlt der Plan im Netzwerk, ohne den Beitrag |
-| *In-Network* / *Out-of-Network* | Anbieter mit bzw. ohne Preisvertrag deines Plans; außerhalb zahlst du mehr oder alles |
-| *EOB* (*Explanation of Benefits*) | Abrechnungsübersicht des Versicherers, ausdrücklich keine Rechnung. Aufschrift „This is not a bill“ |
-| *Prior Authorization* | Vorab-Genehmigung des Versicherers für bestimmte Leistungen, etwa MRT oder Operation. Ohne sie kann der Plan die Zahlung ablehnen |
+- ***Premium*:** Der Monatsbeitrag fällt auch dann an, wenn du keine ärztliche Behandlung brauchst. Den Betrag findest du in den Planunterlagen.
+- ***Deductible*:** Der Selbstbehalt, den du pro Jahr zunächst selbst zahlst.
+- ***Copay*:** Ein fester Betrag pro Arztbesuch oder Rezept.
+- ***Coinsurance*:** Dein prozentualer Anteil, nachdem du den Selbstbehalt erreicht hast. Den Satz nennt der Plan.
+- ***Out-of-Pocket Maximum*:** Die jährliche Obergrenze deiner gedeckten Eigenkosten im Netzwerk. Danach übernimmt der Plan diese Kosten; der Beitrag zählt nicht dazu.
+- ***In-Network* / *Out-of-Network*:** Anbieter innerhalb oder außerhalb des Vertragsnetzes deines Plans. Außerhalb zahlst du mehr oder die Kosten selbst.
+- ***EOB* (*Explanation of Benefits*):** Die Abrechnungsübersicht des Versicherers, keine Rechnung. Sie ist oft mit „This is not a bill“ gekennzeichnet.
+- ***Prior Authorization*:** Eine Vorabgenehmigung des Versicherers für bestimmte Leistungen, etwa MRT oder Operation. Fehlt sie, kann der Plan die Zahlung ablehnen.
 
 Der typische Ablauf: Du zahlst zunächst die Prämie und – je nach Leistung – den Selbstbehalt. Danach übernimmt der Plan einen Teil, während du Copay oder Coinsurance zahlst, bis du die Grenze für gedeckte Eigenkosten erreichst. Die Leistungsübersicht (*Summary of Benefits and Coverage*) nennt die konkreten Werte. Eine EOB („This is not a bill“) ist dagegen nur die Abrechnungsübersicht des Versicherers, keine Zahlungsaufforderung.
 
@@ -66,27 +62,25 @@ Als Orientierung: Laut KFF-Arbeitgeberumfrage 2025 betrug die durchschnittliche 
 
 Der Vergleich mit der GKV ist nicht eins zu eins möglich: Die Beiträge der GKV richten sich grundsätzlich nach dem Einkommen, während US-Arbeitgeberpläne je Tarif einen festen Beitrag verlangen und zusätzlich Eigenbeteiligungen vorsehen.
 
-| Kriterium | GKV (Deutschland) | US-Arbeitgeberplan |
-|---|---|---|
-| Beitrag | Einkommensabhängig, bis zu den geltenden Beitragsgrenzen | Fester Beitrag je Tarif; Höhe und Arbeitgeberanteil stehen im Angebot |
-| Selbstbeteiligung | Nur kleine Zuzahlungen, kein Selbstbehalt | Deductible, Copays und Coinsurance bis zum Out-of-Pocket-Maximum |
-| Arztwahl | Freie Wahl unter allen Kassenärzten | Nur Netzwerk; außerhalb teurer oder ungedeckt |
-| Wartezeit auf Termine | Je nach Fachgebiet und Region unterschiedlich | Je nach Stadt, Fachgebiet und Netzwerk unterschiedlich |
-| Familie | Kinder und nicht erwerbstätige Partner beitragsfrei mitversichert | Familientarif; Partner und Kinder müssen angemeldet und bezahlt werden |
-| Bürokratie | Gesundheitskarte, kaum Rechnungen | EOBs, mehrere Rechnungen, Netzwerkprüfung, Vorabgenehmigungen |
-| Kosten im Notfall | Rettungsdienst und Klinik über die Karte | Notaufnahme oft bis zum Selbstbehalt aus eigener Tasche; Krankenwagen extra |
+- **Beitrag:** In der GKV einkommensabhängig bis zu den geltenden Grenzen; im US-Arbeitgeberplan ein fester Tarifbeitrag, dessen Höhe und Arbeitgeberanteil im Angebot stehen.
+- **Selbstbeteiligung:** In der GKV meist kleine Zuzahlungen, kein Selbstbehalt; im US-Plan Selbstbehalt, Festbeträge und prozentuale Anteile bis zur jährlichen Eigenkostengrenze.
+- **Arztwahl:** In der GKV freie Wahl unter den Kassenärzten; im US-Plan ist die Behandlung im Netzwerk günstiger, außerhalb oft teurer oder ungedeckt.
+- **Wartezeit auf Termine:** In beiden Ländern abhängig von Fachgebiet und Region; beim US-Plan zusätzlich vom Netzwerk.
+- **Familie:** In der GKV sind Kinder und nicht erwerbstätige Partner beitragsfrei mitversichert; im US-Plan müssen Partner und Kinder im Familientarif angemeldet werden.
+- **Bürokratie:** In der GKV meist Gesundheitskarte und wenige Rechnungen; im US-Plan EOBs, mehrere Rechnungen, Netzwerkprüfung und Vorabgenehmigungen.
+- **Notfallkosten:** In der GKV laufen Rettungsdienst und Klinik über die Karte; im US-Plan können Notaufnahme und Krankenwagen erhebliche Eigenkosten verursachen.
 
 Die Pflegeversicherung kommt in Deutschland hinzu. In den USA hängen Beiträge und Eigenanteile eines Familientarifs vom Arbeitgeber und vom gewählten Plan ab.
 
 ### Beginn der Deckung: Wartefrist, Einschreibefrist und die Lücke
 
-Der Arbeitsvertrag beginnt am ersten Arbeitstag, die Krankenversicherung oft nicht: Das Gesetz erlaubt Arbeitgebern eine Wartefrist (*Waiting Period*) von höchstens 90 Tagen (45 CFR 147.116), zusätzlich eine Orientierungsphase bis zu einem Monat. 2025 hatten 68 % der Versicherten eine Wartefrist, im Schnitt 1,8 Monate; 15 % warteten drei Monate oder länger. Häufig heißt es „Deckung ab dem 1. des Monats nach 30, 60 oder 90 Tagen“ — wer zum 15. Januar anfängt und 60 Tage warten muss, ist erst ab 1. April versichert.
+Der Arbeitsvertrag beginnt am ersten Arbeitstag; der Versicherungsschutz oft später. Das Gesetz erlaubt Arbeitgebern eine Wartefrist (*Waiting Period*) von höchstens 90 Tagen (45 CFR 147.116). Zusätzlich ist eine Orientierungsphase von bis zu einem Monat möglich. 2025 hatten 68 % der Versicherten eine Wartefrist; im Schnitt dauerte sie 1,8 Monate, bei 15 % mindestens drei Monate. Oft beginnt die Deckung erst am Monatsersten nach 30, 60 oder 90 Tagen. Wer am 15. Januar anfängt und 60 Tage warten muss, ist daher erst ab 1. April versichert.
 
 Die Einschreibefrist (*Enrollment Window*) legt der Plan fest; üblich sind 30 Tage ab Anspruchsbeginn. Wer sie verpasst, bleibt meist bis zur nächsten *Open Enrollment* (jährliche Wahlphase, oft im Herbst) ohne Arbeitgeberdeckung. Außerhalb der Wahlphase änderst du den Plan nur bei einem Lebensereignis wie Heirat, Geburt oder Adoption; bei Geburt und Adoption gilt im Arbeitgeberplan ein Sonderfenster von 30 Tagen.
 
 > **Achtung:** Melde dich und deine Familie in der ersten Arbeitswoche an und notiere die Frist. Ein verpasster Stichtag kostet dich im schlimmsten Fall Monate ohne Arbeitgeberplan.
 
-Rechne die Lücke ehrlich durch: Landung, Arbeitsbeginn (oft einige Wochen später), Wartefrist, Deckung meist zum Monatsersten — zusammen können bis zu drei oder vier Monate ohne US-Deckung entstehen, Partner und Kinder folgen derselben Frist. Viele Pläne laufen zudem im Kalenderjahr: Am 1. Januar beginnen Deductible und Out-of-Pocket-Maximum von vorn, wer im Oktober startet, kann zwei Selbstbehalte in drei Monaten zahlen.
+Rechne die Lücke ehrlich durch: Landung, Arbeitsbeginn (oft einige Wochen später), Wartefrist und Deckungsbeginn zum Monatsersten können zusammen drei oder vier Monate ohne US-Deckung ergeben. Für Partner und Kinder gelten dieselben Fristen. Viele Pläne laufen zudem im Kalenderjahr. Am 1. Januar beginnen Selbstbehalt und *Out-of-Pocket Maximum* von vorn. Wer im Oktober startet, kann innerhalb von drei Monaten zweimal den Selbstbehalt zahlen.
 
 So überbrückst du die Lücke:
 
@@ -104,13 +98,11 @@ Suche Ärzte über das Verzeichnis deines Versicherers (*Find a Doctor*), verlas
 
 > **Achtung:** „We accept your insurance“ heißt nicht, dass die Praxis in deinem Netzwerk ist. Frage nach dem genauen Plannamen und lass dir das „in-network“ bestätigen. Auch in Netzwerk-Krankenhäusern können einzelne Ärzte (Anästhesie, Labor, Radiologie) außerhalb des Netzwerks arbeiten.
 
-Der Hausarzt (*Primary Care Physician*, PCP) ist die erste Anlaufstelle für Vorsorge, Impfungen, Rezepte und Überweisungen. Im HMO und POS brauchst du ihn, im PPO ist er ratsam. Neupatienten warten oft Wochen (siehe Tabelle oben) — buche früh, auch ohne akuten Anlass. Der jährliche Check-up (*Annual Physical*) zählt zur Vorsorge (*Preventive Care*) und ist im Netzwerk meist ohne Zuzahlung. Viele Pläne bieten Telemedizin (*Telehealth*) als günstigen Erstkontakt.
+Der Hausarzt (*Primary Care Physician*, PCP) ist die erste Anlaufstelle für Vorsorge, Impfungen, Rezepte und Überweisungen. Im HMO und POS brauchst du ihn, im PPO ist er ratsam. Neupatienten warten oft Wochen — buche früh, auch ohne akuten Anlass. Der jährliche Check-up (*Annual Physical*) zählt zur Vorsorge (*Preventive Care*) und ist im Netzwerk meist ohne Zuzahlung. Viele Pläne bieten Telemedizin (*Telehealth*) als günstigen Erstkontakt.
 
-| Situation | Wohin | Preisrahmen |
-|---|---|---|
-| Lebensbedrohlich: Brustschmerz, Atemnot, Schlaganfallzeichen, starke Blutung | 911 anrufen, Notaufnahme (*Emergency Room*, ER) | Notfallversorgung kann teuer sein; Eigenanteil hängt von Plan, Netzwerk und Behandlung ab |
-| Akut, nicht lebensbedrohlich: Fieber, Verstauchung, kleine Wunde, Harnwegsinfekt | Urgent Care, ohne Termin | Eigenanteil hängt vom Plan ab; frage Klinik und Versicherer nach einer Schätzung |
-| Beratung, Rezept, leichter Infekt | Hausarzt oder Telemedizin | Copay oder Coinsurance laut Leistungsübersicht |
+- **Lebensbedrohlich: Brustschmerz, Atemnot, Schlaganfallzeichen, starke Blutung:** Wohin: 911 anrufen, Notaufnahme (*Emergency Room*, ER); Preisrahmen: Notfallversorgung kann teuer sein; Eigenanteil hängt von Plan, Netzwerk und Behandlung ab
+- **Akut, nicht lebensbedrohlich: Fieber, Verstauchung, kleine Wunde, Harnwegsinfekt:** Wohin: Urgent Care, ohne Termin; Preisrahmen: Eigenanteil hängt vom Plan ab; frage Klinik und Versicherer nach einer Schätzung
+- **Beratung, Rezept, leichter Infekt:** Wohin: Hausarzt oder Telemedizin; Preisrahmen: Copay oder Coinsurance laut Leistungsübersicht
 
 Die tatsächliche Rechnung und dein Eigenanteil hängen von Behandlung, Klinik, Netzwerk und Versicherungsplan ab. Frage den Versicherer nach dem geschätzten Eigenanteil, wenn die Behandlung planbar ist. Ohne Versicherung gibt es keine planmäßige Jahreshöchstgrenze; erkundige dich bei der Klinik nach Selbstzahlerpreisen, Zahlungsplan und möglicher Kostenhilfe.
 
@@ -174,29 +166,31 @@ Der *No Surprises Act* (seit 1. Januar 2022) begrenzt überraschende Zusatzrechn
 
 Endet der Job, endet meist auch die Arbeitgeberdeckung, je nach Firma am letzten Arbeitstag oder zum Monatsende. Es bleiben drei Wege:
 
-- **COBRA:** Du führst den bisherigen Plan fort, bei Kündigung oder Stundenkürzung 18 Monate, bei Folgeereignissen wie Scheidung oder Tod des Versicherten bis zu 36 Monate. Das gilt bei Arbeitgebern ab 20 Beschäftigten. Du zahlst die volle Prämie, Arbeitgeber- und Arbeitnehmeranteil, plus den gesetzlichen Aufschlag. Der COBRA-Bescheid nennt den konkreten Beitrag; vergleiche ihn mit einem Marketplace-Plan und einem möglichen Partnerplan.
+- **COBRA:** Wenn eine Beendigung des Arbeitsverhältnisses (außer bei grobem Fehlverhalten) oder eine erhebliche Stundenkürzung zum Verlust der Planversicherung führt, können Beschäftigte und Angehörige den Plan in der Regel bis zu 18 Monate fortführen. Scheidung oder Tod des Beschäftigten können für Angehörige eigene Ansprüche auslösen; ein zweites qualifizierendes Ereignis kann die Fortführung unter Bedingungen auf insgesamt bis zu 36 Monate verlängern. Bundes-COBRA gilt grundsätzlich für private Arbeitgeber mit mindestens 20 Beschäftigten und für staatliche sowie lokale Arbeitgeber; manche Bundesstaaten erfassen auch kleinere Arbeitgeber. Du zahlst meist die volle Planprämie plus bis zu 2 Prozent. Der Bescheid nennt den konkreten Beitrag; vergleiche ihn mit einem Marketplace- oder Partnerplan.
 - **Marktplatz:** Der Verlust der Arbeitgeberdeckung löst ein Sonderfenster aus (60 Tage vor bis 60 Tage nach dem Verlust). Ab 2027 für Visa-Inhaber ohne Zuschuss.
 - **Partnerplan:** Hat dein Partner einen eigenen Arbeitgeberplan, kannst du dort einsteigen; auch das ist ein Sonderfenster.
 
-> **Achtung:** Die COBRA-Wahlfrist beträgt 60 Tage ab dem Verlust bzw. der Mitteilung, die erste Zahlung ist binnen 45 Tagen nach der Wahl fällig. Die Deckung gilt rückwirkend ab dem Verlust, du kannst COBRA also auch nach einem Notfall in der Wahlfrist noch wählen, musst dann aber alle Beiträge nachzahlen. Verschleppe die Entscheidung trotzdem nicht.
+> **Achtung:** Für die COBRA-Wahl hast du 60 Tage ab dem späteren dieser beiden Zeitpunkte: Ende der Arbeitgeberdeckung oder Zugang der Wahlmitteilung. Die erste Zahlung ist in der Regel binnen 45 Tagen nach deiner Wahl fällig. Bei rechtzeitiger Wahl gilt die Deckung rückwirkend ab dem Ende der bisherigen Versicherung; dann musst du die Beiträge seitdem nachzahlen. Prüfe die Fristen in deiner Mitteilung.
 
 Der Aufenthaltsstatus läuft nach einer Kündigung nur begrenzt weiter (Kapitel 30); die Versicherungsfristen und die Statusfristen sind zwei getrennte Uhren.
 
 ### Versicherungslücke bei laufender Behandlung
 
-Läuft eine Krebsbehandlung oder steht eine planbare Operation an, wenn der Versicherungsschutz endet, ruf sofort Versicherer, Arbeitgeber und Klinikabrechnung an. Lass dir schriftlich bestätigen, wann der Schutz endete und welche Übergangsdeckung oder Widerspruchsfrist gilt. Nutze die unter **Jobverlust: COBRA und Marktplatz** beschriebenen Optionen. Frage die Onkologie nach einem Patient Navigator oder Sozialdienst und die Abrechnung nach *Financial Assistance* (*Charity Care*). Eine Notaufnahme muss medizinische Notfälle untersuchen und stabilisieren, übernimmt dadurch aber keine laufende Chemotherapie oder planbare Operation. Lass Dringlichkeit und sichere Überbrückung vom Behandlungsteam klären; bitte vor einer Selbstzahlung um einen schriftlichen Gesamtpreis einschließlich Einrichtung, Operateur, Anästhesie, Pathologie und Nachsorge.
+Endet der Versicherungsschutz während einer Krebsbehandlung oder vor einer planbaren Operation, ruf sofort den Versicherer, den Arbeitgeber und die Klinikabrechnung an. Lass dir schriftlich bestätigen, wann der Schutz endete und welche Übergangsdeckung oder Widerspruchsfrist gilt. Nutze auch die unter **Jobverlust: COBRA und Marktplatz** beschriebenen Optionen.
+
+Frag die Onkologie nach einem *Patient Navigator* oder dem Sozialdienst. Erkundige dich bei der Abrechnung nach *Financial Assistance* (*Charity Care*). Eine Notaufnahme muss medizinische Notfälle untersuchen und stabilisieren; sie übernimmt dadurch aber keine laufende Chemotherapie oder planbare Operation. Lass das Behandlungsteam Dringlichkeit und sichere Überbrückung klären. Bitte vor einer Selbstzahlung um einen schriftlichen Gesamtpreis, der Einrichtung, Operateur, Anästhesie, Pathologie und Nachsorge einschließt.
 
 ### Marktplatz und Zuschüsse: der Stand für Visa-Inhaber
 
-Der Marktplatz (*Marketplace*, über healthcare.gov oder das Portal deines Staates) verkauft Pläne in vier Stufen: Bronze, Silber, Gold und Platin, die im Schnitt etwa 60, 70, 80 und 90 % der Kosten übernehmen. Kaufen dürfen auch rechtmäßig Anwesende (*Lawfully Present*), darunter Inhaber von Arbeits- und Studentenvisa. Die Einschreibung für 2027 läuft vom 1. November 2026 bis 15. Januar 2027; Deckung ab 1. Januar gibt es bei Wahl bis 15. Dezember, sonst ab 1. Februar.
+Auf dem Marktplatz (*Marketplace*, über healthcare.gov oder das Portal deines Staates) gibt es Pläne in vier Stufen: Bronze, Silber, Gold und Platin. Sie übernehmen im Schnitt etwa 60, 70, 80 beziehungsweise 90 % der Kosten. Kaufen dürfen auch rechtmäßig Anwesende (*Lawfully Present*), darunter Inhaber von Arbeits- und Studentenvisa. Für 2027 läuft die Einschreibung vom 1. November 2026 bis 15. Januar 2027. Wer bis 15. Dezember wählt, kann ab 1. Januar versichert sein; spätere Wahlen starten am 1. Februar.
 
 Die Anspruchsberechtigung für den Prämienzuschuss (*Premium Tax Credit*) hängt von Einkommen, Haushalt und Aufenthaltsstatus ab. Einkommensgrenzen und Benchmark-Prämien ändern sich jährlich; prüfe sie für dein Steuer- und Versicherungsjahr auf healthcare.gov.
 
-Zusätzlich gilt nach dem Gesetz „One Big Beautiful Bill Act“ (Juli 2025): Ab 1. Januar 2027 können rechtmäßig anwesende Einwanderer Marktplatz-Zuschüsse nur noch erhalten, wenn sie eine Green Card haben, den gesetzlich definierten Status „Cuban or Haitian entrant“ besitzen oder Staatsangehörige der Compact-of-Free-Association-Staaten (COFA; Marshallinseln, Mikronesien und Palau) sind. Inhaber von Arbeits- und Studentenvisa (H-1B, L-1, F-1, J-1 u. a.) dürfen weiterhin zum Vollpreis kaufen, erfüllen aber nicht allein mit diesen Visa die neue Zuschussregel. Überzahlte Vorschuss-Zuschüsse musst du ab dem Steuerjahr 2026 vollständig zurückzahlen.
+Das Gesetz „One Big Beautiful Bill Act“ (Juli 2025) ändert die Zuschussregeln ab 1. Januar 2027. Dann können rechtmäßig anwesende Einwanderer Marktplatz-Zuschüsse nur noch erhalten, wenn sie eine Green Card, den gesetzlich definierten Status „Cuban or Haitian entrant“ oder die Staatsangehörigkeit eines Compact-of-Free-Association-Staats (COFA; Marshallinseln, Mikronesien oder Palau) haben. Inhaber von Arbeits- und Studentenvisa (H-1B, L-1, F-1, J-1 u. a.) dürfen weiterhin zum Vollpreis kaufen; diese Visa allein erfüllen die neue Zuschussregel aber nicht. Zu hoch angesetzte Zuschussvorschüsse musst du ab dem Steuerjahr 2026 vollständig zurückzahlen.
 
 > **Achtung:** Baue ab 2027 nicht auf Marktplatz-Zuschüsse, wenn du keine Green Card hast. Mit einem Arbeitgeberplan bist du kaum betroffen: Zuschüsse gibt es ohnehin nur ohne „erschwingliches“ Angebot (2026: Eigenanteil über 9,96 % des Haushaltseinkommens). Betroffen sind mitreisende Partner ohne eigenen Job-Plan, F-1-Studierende, Selbständige und Menschen nach dem COBRA-Ende.
 
-Medicaid und CHIP (staatliche, einkommensabhängige Programme) sind ab 1. Oktober 2026 bundesfinanziert nur noch für Green-Card-Inhaber nach fünfjähriger Wartezeit und wenige andere Gruppen; Kinder und Schwangere sind in vielen Staaten über Sonderoptionen weiter abgedeckt. Ob dein Haushalt Anspruch hat, hängt von Aufenthaltsstatus, Einkommen, Bundesstaat und Programm ab. Prüfe die Regeln bei der zuständigen Landesstelle; wenn du später eine Green Card beantragen willst, kläre mögliche Folgen konkreter Leistungen vorab mit einer Einwanderungsberatung (Kapitel 11).
+Seit dem 1. Oktober 2026 gilt eine neue Grenze für die Bundesfinanzierung regulärer Medicaid- und CHIP-Leistungen an Nicht-US-Bürger. Im Regelfall bleiben drei Statusgruppen erfasst: rechtmäßige Daueraufenthaltsberechtigte (*Lawful Permanent Residents*, LPR/Green Card), *Cuban or Haitian entrants* und *Compact of Free Association* (COFA) Migrants. Für viele LPR gilt eine fünfjährige Wartefrist; je nach früherem Status gibt es Ausnahmen. Staaten mit der CHIPRA-214-Option können auch rechtmäßig anwesende Kinder und Schwangere einbeziehen. Notfallbehandlungen können unter den Voraussetzungen von *Emergency Medicaid* abgedeckt sein. Ob du Anspruch hast, hängt von Status, Einkommen, Programm und Bundesstaat ab. Lass die zuständige Landesstelle deinen Einzelfall prüfen. Wenn du später eine Green Card beantragen willst, lass mögliche Folgen bestimmter Leistungen individuell klären (Kapitel 11).
 
 **Wenn du vorübergehend unversichert bist:** HRSA-Gesundheitszentren (*Health Centers*) behandeln auch Menschen ohne Versicherung und staffeln die Gebühren nach Einkommen. Sie bieten vor allem hausärztliche und zahnmedizinische Grundversorgung; sie ersetzen keine umfassende Krankenversicherung und sind keine Garantie für kostenlose Behandlung. Suche ein Zentrum über die HRSA-Seite und frage vor dem Termin nach Kosten, Einkommensnachweis und verfügbaren Leistungen. Prüfe parallel, ob du über ein Sonderfenster in einen Marketplace-Plan wechseln kannst.
 
@@ -206,15 +200,23 @@ Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindes
 
 ### Plus und Minus
 
-| Plus | Minus |
-|---|---|
-| Der Arbeitgeber übernimmt oft einen Teil der Prämie; die Höhe variiert laut KFF-Umfrage | Deckung hängt am Job. Bei COBRA zahlst du die volle Prämie zuzüglich Verwaltungsaufschlag |
-| Das Out-of-Pocket-Maximum begrenzt das Jahresrisiko im Netzwerk | Lücke zwischen Ankunft und Deckungsbeginn von bis zu drei oder vier Monaten |
-| Vorsorge und empfohlene Impfungen meist ohne Zuzahlung | Selbstbehalt und Zuzahlungen kommen zur Prämie hinzu |
-| Urgent Care und Telemedizin decken Alltagsfälle ohne Notaufnahmepreis ab | Netzwerkgrenzen, Vorabgenehmigungen, mehrere Rechnungen |
-| HSA: steuerbegünstigtes Gesundheitskonto, das dir gehört | Zahn und Augen getrennt, mit Jahreshöchstleistung |
-| Beim PPO Facharzt ohne Überweisung | Boden-Rettungswagen nicht durch den No Surprises Act geschützt |
-| Wahl zwischen mehreren Plänen | Plan-Jahr oft ab 1. Januar: Der Selbstbehalt beginnt von vorn |
+**Plus:**
+- Der Arbeitgeber übernimmt oft einen Teil der Prämie; die Höhe variiert laut KFF-Umfrage
+- Das Out-of-Pocket-Maximum begrenzt das Jahresrisiko im Netzwerk
+- Vorsorge und empfohlene Impfungen meist ohne Zuzahlung
+- Urgent Care und Telemedizin decken Alltagsfälle ohne Notaufnahmepreis ab
+- HSA: steuerbegünstigtes Gesundheitskonto, das dir gehört
+- Beim PPO Facharzt ohne Überweisung
+- Wahl zwischen mehreren Plänen
+
+**Minus:**
+- Deckung hängt am Job. Bei COBRA zahlst du die volle Prämie zuzüglich Verwaltungsaufschlag
+- Lücke zwischen Ankunft und Deckungsbeginn von bis zu drei oder vier Monaten
+- Selbstbehalt und Zuzahlungen kommen zur Prämie hinzu
+- Netzwerkgrenzen, Vorabgenehmigungen, mehrere Rechnungen
+- Zahn und Augen getrennt, mit Jahreshöchstleistung
+- Boden-Rettungswagen nicht durch den No Surprises Act geschützt
+- Plan-Jahr oft ab 1. Januar: Der Selbstbehalt beginnt von vorn
 
 > **Checkliste:**
 > - [ ] Vor der Zusage beim HR schriftlich klären: Deckungsbeginn, Wartefrist, Einschreibefrist, Familienprämie, HSA-Beitrag
@@ -232,8 +234,9 @@ Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindes
 
 - [healthcare.gov](https://healthcare.gov) — Marktplatz, Plantypen, Sonderfenster, Einwanderungsstatus
 - [healthcare.gov/immigrants/lawfully-present-immigrants](https://www.healthcare.gov/immigrants/lawfully-present-immigrants/) — Zuschussregeln für rechtmäßig anwesende Einwanderer ab 2027
+- [medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf](https://www.medicaid.gov/federal-policy-guidance/downloads/sho26001.pdf) — CMS-Leitlinie zu Medicaid- und CHIP-Bundesfinanzierung für Nicht-US-Bürger ab 1. Oktober 2026
 - [cms.gov/nosurprises/consumers](https://cms.gov/nosurprises/consumers) — No Surprises Act, Kostenvoranschlag, Beschwerdestelle
-- [dol.gov/agencies/ebsa](https://dol.gov/agencies/ebsa) — COBRA, Wartefristen, Newborns’ Act
+- [dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers](https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-workers) — COBRA: Anspruch, Wahlfrist, Prämien und Fortdauer
 - [irs.gov/publications/p969](https://irs.gov/publications/p969) — HSA und HDHP, jährliche Grenzwerte
 - [kff.org/health-costs/2025-employer-health-benefits-survey](https://kff.org/health-costs/2025-employer-health-benefits-survey) — Prämien, Selbstbehalte, Wartefristen
 - [census.gov/library/publications/2026/demo/p60-291.html](https://census.gov/library/publications/2026/demo/p60-291.html) — Versichertenstatistik 2025
@@ -242,4 +245,4 @@ Für J-1-Austauschbesucher und J-2-Angehörige schreibt 22 CFR 62.14 eine Mindes
 - [findtreatment.gov](https://findtreatment.gov) — Therapeutensuche der Bundesbehörde SAMHSA
 - [hrsa.gov/get-health-care](https://www.hrsa.gov/get-health-care) — Gesundheitszentren mit einkommensabhängiger Gebührenstaffel und Suchfunktion
 
-> **Stand:** September 2026. Diese Angaben ändern sich schnell: Marktplatz-Zuschüsse und Statusprüfung ab 1. Januar 2027, Medicaid- und CHIP-Regeln ab 1. Oktober 2026, die endgültigen Prämien für 2027 (Herbst 2026), HSA- und Out-of-Pocket-Grenzwerte, Kurzzeitpläne sowie der CDC-Impfplan mit den laufenden Gerichtsverfahren. Kostenangaben sind Durchschnitte aus 2025 und 2026 (KFF, HCCI, Verbraucherportale); dein Plan kann stark abweichen. Prüfe vor jeder Entscheidung healthcare.gov und die Unterlagen deines Arbeitgebers.
+> **Stand:** 13. Oktober 2026. Die Medicaid- und CHIP-Regeln für die Bundesfinanzierung gelten seit dem 1. Oktober; Marketplace-Zuschussregeln und die Statusprüfung ändern sich zum 1. Januar 2027. Prämien für 2027, HSA- und Out-of-Pocket-Grenzwerte, Kurzzeitpläne und der CDC-Impfplan mit den laufenden Gerichtsverfahren können sich ändern. Kostenangaben sind Durchschnitte aus 2025 und 2026 (KFF, HCCI, Verbraucherportale); dein Plan kann stark abweichen. Prüfe vor jeder Entscheidung healthcare.gov, deine zuständige Landesstelle und die Unterlagen deines Arbeitgebers.

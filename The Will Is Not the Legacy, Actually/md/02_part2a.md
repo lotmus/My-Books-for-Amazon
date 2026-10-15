@@ -154,7 +154,7 @@ There was tax, too. Since 2020, most individuals who inherit an IRA as named ben
 
 ### Case 5: The twelve-year-old beneficiary
 
-*This case is told twice: once as it happened, and once as it could have gone with three signed pages.*
+*The diagnosis and its eight months stay the same. A year earlier, the mother has time to name who will care for her son, who will manage his money, and what his aunt should know about his life.*
 
 **As it happened.** The mother was a single parent in Fresno, a dental hygienist with a good sense of humor and a twelve-year-old son who was the center of her world. His father had not been involved for years. When she started a new job with good benefits, she enrolled in the employer's group life insurance and bought a term policy of her own. On both forms she wrote her son's name and date of birth, and felt a quiet satisfaction. Whatever happened, he would be looked after.
 

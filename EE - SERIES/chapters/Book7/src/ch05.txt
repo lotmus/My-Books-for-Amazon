@@ -1,0 +1,54 @@
+H1: Chapter 5. Layout: Return Paths, Transitions, and Habits
+P: A designer routes a fast clock across a gap between two plane areas because the gap is only a millimeter wide. The board fails its emissions test by 15 dB. Nothing in the schematic changed; the return current, which could not cross the gap, made a detour of several centimeters, and that detour became an antenna.
+P: Where you meet this: Every layout review, every EMC failure traced to a split plane, every via stub that limits a serial link, and every board that a hobbyist routes for the first time in KiCad.
+P: A schematic says which nodes are connected. A layout decides how the current actually flows between them, and, above a few megahertz, the current's path is set by inductance, not by the shortest route. Most layout failures, ground bounce, crosstalk, emissions, and RF instability, come from forgetting the return half of the circuit. This chapter develops the one idea that explains most good layout practice, that current returns as close as it can to its outgoing path, and turns it into a set of habits, with the numbers that justify them. Howard Johnson and Martin Graham's High-Speed Digital Design and Eric Bogatin's Signal and Power Integrity, Simplified are the standard references.
+H2: 5.1 Where the return current flows
+P: At low frequencies, return current spreads through a ground plane along the path of least resistance. Above a few tens of kilohertz in typical boards, it follows the path of least inductance, which is directly beneath the signal trace, because that path encloses the smallest loop area. For a trace at height h over a plane, the return-current density falls off with lateral distance x as 1/(1 + (x/h)²). Half the return current flows within ±h of the trace's center line, 70% within ±2h, and 80% within ±3h. A slot, split, or gap in the plane under a trace forces the return current around it, enlarging the loop, raising the inductance, and turning the loop into an antenna.
+EQ: J(x) ∝ 1 / [1 + (x/h)²],   fraction within ±a = (2/π) arctan(a/h)
+FIG: fig5_1.png | Figure 5.1 — Left: the return current under a microstrip spreads as 1/[1 + (x/h)²]. Right: the fraction inside ±a, (2/π) arctan(a/h): half within ±h, 70 % within ±2h, 80 % within ±3h. | Two panels. Left: a bell-shaped shaded curve of current density against lateral distance in units of height. Right: a rising curve of enclosed return current reaching 50 percent at one height, 70 at two, and 80 at three.
+H2: Worked Example 5.1
+P: Problem. A trace is 0.1 mm above its reference plane. Within what width of plane does 80% of the return current flow? What happens if a 2 mm wide split in the plane crosses under it?
+P: Solution. 80% flows within ±3h, a band 0.6 mm wide centered under the trace. The 2 mm split is more than three times that width, so essentially all of the return current must detour around the end of the split, which may be centimeters away. The loop area grows by orders of magnitude; the trace's impedance changes abruptly at the split, causing reflections; and the enlarged loop radiates. The habit that follows: never route a fast signal across a split in its reference plane, and if it must change reference planes, place a stitching via or capacitor next to its signal via.
+P: Key idea. Every signal has a return path, and above a few tens of kilohertz the return flows directly under the signal. Keep that path continuous and the loop small, and most layout problems never appear.
+H2: 5.2 When a trace is a transmission line
+P: A trace must be treated as a transmission line, with controlled impedance and termination, when its delay is a significant fraction of the signal's rise time. A common rule treats it as a line when its length exceeds about one-sixth of the distance a signal travels during the rise time. On Book 4's reference microstrip, with εeff = 2.79, signals travel at 55.7 ps/cm. For a 100 ps rise time on a line with εeff = 4, the critical length is about 2.5 mm; for a 1 ns rise time, 2.5 cm. Since modern logic has rise times of tens of picoseconds regardless of its clock rate, nearly every trace on a modern board is a transmission line.
+EQ: lcritical ≈ tr × v / 6
+H2: 5.3 Vias and stubs
+P: A via that passes through the whole board but connects to an inner layer leaves an unused stub below the connection. The stub acts as an open-circuited transmission line and resonates when its length is a quarter wavelength, notching out the signal at that frequency. In a material with εr = 4, a 1.5 mm stub resonates at about 25 GHz, which is within the spectrum of a 56 Gbaud signal. Back-drilling the stub to 0.3 mm moves the resonance to about 125 GHz. Blind and buried vias avoid stubs altogether.
+EQ: fstub ≈ c / (4 lstub √εr)
+H2: Worked Example 5.2
+P: Problem. Find the quarter-wave resonance of via stubs of 1.5 mm, 0.8 mm, and 0.3 mm in a dielectric with εr = 4.
+P: Solution. f = 2.998 × 10⁸/(4 × l × 2). For 1.5 mm, f = 25.0 GHz; for 0.8 mm, 46.8 GHz; for 0.3 mm, 125 GHz. A rule of thumb keeps the stub resonance at least two to three times the signal's Nyquist frequency; for 56 Gbaud, whose Nyquist frequency is 28 GHz, the stub should resonate above 56 to 84 GHz, which requires back-drilling to well under 0.8 mm.
+H2: 5.4 Habits
+P: The ideas above turn into a short list of habits. Run every fast or RF trace over a continuous reference plane. Use a via fence along RF lines and around RF sections where isolation matters. Connect ground pins to the plane with short, direct vias, never through long traces. Keep fast digital return currents away from sensitive analog and RF circuits by placement, not by splitting the plane. Treat a power amplifier's matching network as a microwave circuit, Book 4's subject, with its own models of pads and vias. Keep the hot loop of every switching converter, Book 6's subject, as small as possible. Space parallel fast traces at least three trace widths apart, or more where they run together for long distances, to limit crosstalk. Decouple each supply pin with its capacitor placed close to the pin and vias to the plane, so that the decoupling loop is small. These habits cost little at layout and a great deal to add later.
+H2: 5.5 Plane resonances
+P: A pair of power and ground planes is a parallel-plate cavity, and it resonates whenever a dimension equals a whole number of half wavelengths in the dielectric. The lowest mode of a rectangular plane pair of length a resonates at c/(2a√εr). At those frequencies the impedance between the planes peaks, any noise current injected there, by a switching driver or a via carrying a signal between layers, excites a large voltage, and the plane pair's edges radiate. Decoupling capacitors damp the low modes, but their inductance makes them useless above a few hundred megahertz, so the higher modes are controlled by stitching vias along the edges, by keeping signal vias that change reference planes next to a ground via, and in demanding designs by thin, high-capacitance laminates or resistive edge termination.
+EQ: f₁₀ = c / (2a √εr)
+H2: Worked Example 5.3
+P: Problem. Find the lowest resonance of a 100 mm by 80 mm plane pair in a dielectric with εr = 4.2, and the next one.
+P: Solution. Along the 100 mm side, f = 3 × 10⁸/(2 × 0.1 × 2.05) = 732 MHz; along the 80 mm side, 915 MHz. A board with a 3.3 V plane of this size will show impedance peaks there, and a clock harmonic that lands near 732 MHz will radiate far more than its neighbors, which is a common reason one harmonic fails an emissions test while the rest pass.
+H2: 5.6 High voltage on a board
+P: Most of this chapter is about fast signals. A few boards also carry voltages high enough that the spacing between conductors becomes a question of breakdown and, on the mains, of safety. The two cases follow different documents: functional spacing from the design guide, safety spacing from the product's safety standard.
+H2: Worked Example 5.4
+P: Problem. A Nixie-tube clock runs its 170 V DC anode supply on the outer layer of an uncoated board, next to 5 V logic. What spacing does IPC-2221B ask for at sea level, and what changes for a board connected to the mains?
+P: Solution. IPC-2221B's Table 6-1, column B2 (external conductors, uncoated, sea level to 3050 m), asks for 1.25 mm between conductors at 151 to 170 V; 101 to 150 V would need 0.6 mm. Many designers give such a supply 2 mm and a clear keep-out, because flux residue and dust lower the surface resistance over the years. IPC-2221 is a design guide for functional spacing, not a safety standard. A board that touches the mains is governed by the product safety standard, IEC 62368-1 for most electronics, whose creepage and clearance tables for reinforced insulation ask for several millimeters; Section 26.7 works one through.
+P: Safety: high voltage
+P: A 170 V DC Nixie supply can deliver a painful and dangerous shock, and its output capacitor stays charged after the power is removed. This book gives the physics and the numbers, not construction steps. Treat any such supply as live until a meter shows it discharged, and keep one hand away from the board when probing it.
+P: Return paths, transitions, and plane behavior are layout's electrical side. The thermal side, Chapter 6, removes what the electrons leave behind as heat.
+BENCH: For every fast signal, draw where its return current flows: directly under it on the nearest plane. If that path is interrupted by a split, a slot, or a layer change without a nearby return via, fix the layout, not the firmware. Put a ground via within about a millimeter of each signal via that changes reference planes.
+H2: Practice
+P: 1. For a trace 0.2 mm above its plane, within what width does 50% of the return current flow?
+P: 2. What fraction of the return current flows within ±5h?
+P: 3. Find the critical length for a 35 ps rise time on a line with εeff = 4.
+P: 4. Find the quarter-wave resonance of a 1.0 mm via stub with εr = 3.6.
+P: 5. How long does a signal take to cross 10 cm of Book 4's reference microstrip?
+P: 6. Why should a fast trace not cross a split in its reference plane?
+P: 7. Find the lowest plane-pair resonance of a 200 mm board with εr = 4.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Return current fraction (2/π) arctan(a/h).
+LI: Critical length ≈ tr·v/6.
+LI: Via stub resonance c/(4l√εr).
+LI: Plane resonance c/(2L√εr).
+P: Mostly for exams and deeper study
+LI: Full-wave analysis of plane cavities.

@@ -1,23 +1,23 @@
 > **Paste these 7 keywords into KDP on re-upload.** One phrase per box, without the numbers; they are in the Keywords section below.
 
-# KDP listing — Your First YouTube Channel That Rocks
+# KDP listing — Your First YouTube Channel
 
-Updated 10 October 2026: restored from bak as the listing for the current master; title fields corrected to the master’s title page; keywords rechecked against KDP’s keyword guidance. Before that, updated 6 October 2026 (unverifiable case studies removed; earlier revision: Start This Week plan, layered sections, workbook at the centre, claim labels). Refocused on monetizing the channel itself. YouTube facts in the description were checked against YouTube Help and the YouTube Blog in October 2026.
+Updated 12 October 2026: title fields aligned with REV23; positioning foregrounds the book’s eight-video, six-week method and one-change feedback cycle; audience guidance added for adults and older teens. YouTube threshold and under-18 payment claims were checked against official YouTube Help pages on 12 October 2026; this is not a full manuscript fact audit.
 
 ## Title fields
 
-- **Title:** Your First YouTube Channel (as on the master’s title page and in its file properties; the book folder and SCORES.md say “Your First YouTube Channel That Rocks”, so confirm the title on the live KDP listing before saving)
-- **Subtitle:** A Six-Week Guide to Useful Videos, Viewer Feedback, and YouTube’s Changing Rules (title page of REV22)
+- **Title:** Your First YouTube Channel (matches the REV23 title page; confirm the live KDP listing before saving)
+- **Subtitle:** A Six-Week Guide to Useful Videos, Viewer Feedback, and YouTube’s Changing Rules (title page of REV23)
 - **Author:** Kevin Drew Peters
 - **Series:** none. Companion to *How to Publish Your First Kindle Book*.
 - **Edition:** Updated October 2026
-- **Master file:** `Your_First_YouTube_Channel_REV22_sources.docx`
+- **Master file:** `Your_First_YouTube_Channel_REV23_sources.docx`
 
 ## Description (paste into KDP; plain paragraphs, about 1,900 characters)
 
 Views are not income. YouTube pays for something more specific: subscribers, public watch hours, and qualified Shorts views, counted in rolling windows, and then a review.
 
-Your First YouTube Channel That Rocks is a working guide for creators who want a channel, not a hobby. It takes you from an empty channel to the YouTube Partner Program, and from there to every stream a channel can earn from: ad revenue, YouTube Premium, the Shorts pool, channel memberships, Super Chat, Super Stickers, Super Thanks, sponsorships, and affiliate links.
+Your First YouTube Channel is a working guide for first-time creators who want a channel, not a hobby. Its method is concrete: define one viewer, plan eight connected video jobs, publish over six weeks, ask three strangers where they stopped, then change one thing at a time. The book carries that path from an empty channel through YouTube Partner Program eligibility and into the income streams a channel can earn from: ads, YouTube Premium, the Shorts pool, memberships, Supers, sponsorships, and affiliate links.
 
 Inside you will learn how to:
 
@@ -25,13 +25,15 @@ Inside you will learn how to:
 • Name the one viewer your channel serves, and set up the switches the Partner Program will ask for later
 • Win the click with titles, descriptions, thumbnails, and captions, and keep viewers past the first thirty seconds
 • Make videos cheaply with free tools, and read the licenses that keep the money from going to someone else
-• Build eight videos that lead into each other and fill the watch-hour bar
-• Work the gate as arithmetic, including the changes from 1 February 2027: 8,000 watch hours or 20 million Shorts views for new applicants, and a 10-million-view floor for Shorts revenue
+• Build eight connected videos, each with a job, and use viewer feedback to choose the next improvement
+• Work the gate as arithmetic, including the changes from 1 February 2027: 1,000 subscribers plus 8,000 qualified watch hours in 365 days or 20 million qualified Shorts views in 90 days for new applicants; Shorts ad and Premium revenue also requires 10 million qualified Shorts views in 90 days for each earning month
 • Read RPM and CPM, place mid-roll ads, and see why the same views can pay differently
 • Switch on memberships and Supers, price a sponsorship from your own numbers, and disclose every deal correctly
 • Find the earliest break when the counts stall, and spread the income so no single rule change ends the channel
 
-Every platform rule is tied to YouTube’s own help pages, and every claim is labeled: official rule, documented platform guidance, creator heuristic, or author recommendation. A channel workbook keeps the record. The worked numbers are arithmetic, not promises of income.
+Every platform rule is tied to YouTube’s own help pages, and every claim is labeled: official rule, documented platform guidance, creator heuristic, or author recommendation. A channel workbook tracks titles, viewer responses, weekly counts, rights, and decisions so readers can act on their own evidence. Worked numbers are arithmetic, not promises of income.
+
+Best suited to adult beginners. Older teens, roughly 16 and up, may find it useful with a parent or guardian, especially for account, payment, rights, and sponsorship decisions. YouTube requires an adult aged 18 or older to hold the AdSense for YouTube account used for a creator under 18 to receive monetization payments.
 
 Independent guide. Not affiliated with or endorsed by YouTube.
 

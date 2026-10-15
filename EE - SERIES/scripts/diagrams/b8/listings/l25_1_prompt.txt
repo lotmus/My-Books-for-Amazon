@@ -1,0 +1,22 @@
+Role: You are helping me write firmware for an ESP32-S3 with the Arduino core (esp32 3.x).
+
+Goal: Read a BME280 once per second and send one line per reading over USB serial,
+for a C# dashboard on the PC.
+
+Hardware (from my spec):
+- Board: ESP32-S3-DevKitC-1. BME280 breakout on I2C: SDA = GPIO 8, SCL = GPIO 9,
+  4.7 kOhm pull-ups on the breakout. I2C address 0x76 (SDO to GND). 3.3 V.
+- Button on GPIO 0 (BOOT), active low, internal pull-up.
+
+Interface:
+- Serial at 115200 baud. Each reading as "t,h,p\r\n": temperature in degC with 2 decimals,
+  humidity in % with 1 decimal, pressure in hPa with 2 decimals, period as decimal separator.
+- On receiving the line "version", reply "fw 1.0.0\r\n".
+- Pressing the button prints "mark\r\n" once per press (debounced, 30 ms).
+
+Constraints:
+- Library: Adafruit BME280 (Adafruit_BME280.h), forced mode, oversampling x1, filter off.
+- No delay() in loop(); use millis(). No Serial calls and no delay() inside any ISR.
+- If the sensor is not found at startup, print "error,bme280\r\n" every 2 s and keep trying.
+
+Deliver: one .ino file, then a list of every assumption you made that is not in this prompt.

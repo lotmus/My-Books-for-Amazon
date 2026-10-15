@@ -1,0 +1,71 @@
+EQ: CIRCUITS, COMPONENTS, AND CONTROL
+EQ: Book 2 of the Electrical Engineering Series
+P: Copyright © 2026 Lothar J. Musiol
+P: All rights reserved.
+H1: Preface — How to Use This Book
+P: This book assumes Book 1, Foundations of Electronics, as its starting point — specifically its Part III, which already covers Kirchhoff's laws, nodal and mesh analysis, Thévenin and Norton equivalents, superposition, and first-order transients in full. Rather than repeat that material, this book moves directly into what those techniques were building toward: real components with real limitations, and the analog and digital building blocks — op-amps, filters, and logic — that Book 1's idealized circuit elements were always in service of.
+P: Each chapter follows the same shape as Book 1: it opens with the question the chapter answers, builds the picture in words first, works through it with fully solved examples, and closes with practice problems whose solutions appear in Appendix B. A Key Idea box marks the one fact worth carrying forward from a section; a Common Misconception box heads off a specific, predictable error before it happens.
+P: The bench kit is the reader lab of Book 1, Foundations of Electronics, with its analog-first rule: where a few parts can do a job, build that first, because that is where the physics lives, and then do the same job in code and compare. This book adds a handful of inexpensive parts to that kit: a dual op-amp such as the MCP6002, an LM393 comparator, a 555 timer, CD4017 and CD4060 counters, a 74HC14 Schmitt inverter, a PC817 optocoupler, a BPW34 photodiode, a 5 V relay with a 1N4148 diode and a small NPN transistor, a DRV8833 motor-driver board with a small DC motor, and a stepper motor with its driver. A Raspberry Pi Pico or a Teensy joins the ESP32-S3 where a loop wants a second controller.
+P: The firmware for these circuits lives in one place, Book 8, Firmware and Software for Electronics. This book keeps the circuits and the numbers that decide whether the code can work: sample rates, PWM resolution, delays, and margins. Where a topic continues in code, the text names the Book 8 chapter.
+H1: How This Book Is Organized
+P: Chapters 1-4 build the vocabulary used throughout the book: bias points, headroom, small-signal behavior, logic levels, noise margins, Boolean algebra, and sequential circuits with memory.
+P: Chapters 5-6 introduce the operational amplifier as an ideal building block, then extend Book 1's filter and resonance work into passive and active designs, including Sallen-Key and multiple-feedback filters made with standard parts.
+P: Chapters 7-9 return to resistors, capacitors, and inductors as physical parts. They cover types, tolerances, ratings, parasitics, heat, drift, pulse limits, decoupling, real impedance, and datasheet reading.
+P: Chapter 10 introduces the control loop through Book 1's smart thermostat and a robot joint. Chapters 11-16 return to op-amps with feedback, loading, bandwidth, noise, DC errors, and comparators. Chapters 17-19 build the classical loop from plant and controller through PID, lead-lag compensation, and digital sampling delay.
+P: Chapters 20-24 add five blocks that connect circuit design and control: the instrumentation amplifier, state feedback and observers, sample-and-hold, voltage reference, and an H-bridge motor drive treated as a plant.
+P: Chapters 25-28 finish the two strands with root locus and stability margins, oscillators, and digital timing with metastability. The advanced control path is flagged separately below for readers who want to prepare its matrix and frequency-domain prerequisites.
+P: Bench sections apply the ideas: logic and FPGA work (Chapter 4), LED and optocoupler drivers (12), a photodiode amplifier (13), debouncing (16), PID on a Pico or Teensy (19), piezo and mains-current front ends (20), relays, servos, and steppers (24), and controller-free projects (27). Section 24.8 adds audio-output classes and a load-power example.
+P: Advanced control path: Chapters 21 and 25-26 extend the classical loop with state-space feedback and frequency-domain stability. Before these chapters, review matrix multiplication and simultaneous equations from Book 1, plus transfer functions, poles, and Bode plots from Chapters 17-19. Chapter 21 introduces state-space notation but expects you to follow matrix calculations.
+KEY: This book does not re-teach Book 1's Part III. Network analysis (Thévenin, Norton, nodal, mesh) and transient analysis are assumed throughout — if a technique from those chapters feels unfamiliar, that is the place to go back to, not this book.
+H1: About This Series
+P: This book is the second of nine. It covers circuits, components, and the classical control loop that later sits under a robot model. Each volume assumes only the books before it in the list below, never the ones after.
+P: Book - Covers
+P: 1. Foundations - Physics, mathematics, and circuit theory
+P: 2. Circuits, Components, and Control (this book) - Analog and digital, op-amps, passives, the classical loop
+P: 3. Semiconductor Physics and Devices - Diodes, BJTs, MOSFETs, FinFET, compound semiconductors
+P: 4. RF, Microwave, and Transceivers - Lines, matching, antennas, PAs, receivers, PLLs, radar
+P: 5. Communications, Wireless, and SDR - Modulation, band plans, DSP and software radio
+P: 6. Power and Energy - Regulators, magnetics, the grid, the rack
+P: 7. Packaging, Layout, EMC, and Test - Boards, packages, cooling, emissions, the accredited lab, robots
+P: 8. Firmware and Software for Electronics - Embedded firmware, software tools, and code-driven electronics
+P: 9. Test and Measurement Instruments - Oscilloscopes, analyzers, calibration, and device characterization
+KEY: You do not need the other eight books to use this one. This book is written to stand on Book 1's foundation alone; treat the table as a map of where you have been and where a later interest can take you, not as a syllabus you must complete in order.
+H1: Table of Contents
+P: Preface — How to Use This Book
+P: How This Book Is Organized
+P: About This Series
+P: Chapter 1 — Analog Electronics
+P: Chapter 2 — Digital Electronics
+P: Chapter 3 — Logic and Boolean Algebra
+P: Chapter 4 — Combinational and Sequential Circuits
+P: Chapter 5 — Operational Amplifiers
+P: Chapter 6 — Passive and Active Filters
+P: Chapter 7 — Resistors
+P: Chapter 8 — Capacitors
+P: Chapter 9 — Inductors
+P: Chapter 10 — The Loop Under the Model
+P: Chapter 11 — Negative Feedback
+P: Chapter 12 — Followers, Buffers, and Loading
+P: Chapter 13 — Noise Gain, Bandwidth, and Slew Rate
+P: Chapter 14 — Noise in Op-Amp Circuits
+P: Chapter 15 — DC Errors: Offset, Bias Current, and Drift
+P: Chapter 16 — Comparators, Hysteresis, and Open-Collector Outputs
+P: Chapter 17 — Feedback Control: Plant, Sensor, and Controller
+P: Chapter 18 — PID, Lead, and Lag: Shaping the Loop
+P: Chapter 19 — Digital Control: Sample, Hold, and Delay
+P: Chapter 20 — The Instrumentation Amplifier
+P: Chapter 21 — State Feedback and Observers
+P: Chapter 22 — The Sample-and-Hold Circuit
+P: Chapter 23 — The Voltage Reference and the Bandgap
+P: Chapter 24 — The H-Bridge and Motor as a Plant
+P: Chapter 25 — The Root Locus
+P: Chapter 26 — Stability Margins, Nyquist, and the Sensitivity Peak
+P: Chapter 27 — Oscillators: Feedback That Is Meant to Ring
+P: Chapter 28 — Timing: Setup, Hold, and Metastability
+P: Appendix A — Formula Reference
+P: Appendix B — Practice Problem Solutions
+P: Appendix C — Glossary
+P: Appendix D — Chapter Summaries
+P: Appendix E — Further Reading
+P: About the Author
+P: Also by Lothar J. Musiol

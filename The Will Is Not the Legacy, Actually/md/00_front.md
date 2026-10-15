@@ -1,6 +1,6 @@
 # How to Use This Book
 
-This book is for anyone who wants two jobs done properly: the legal transfer of what they own, and the preservation of what they think. Those are different jobs. A will does the first. It does almost nothing for the second. Most people plan only the first, if they plan at all, and then the stories, the reasons, and the half-finished explanations go into the ground with them, pushing up daisies instead of reaching the people who might have wanted to hear them.
+This book takes up two jobs people often confuse: transferring what they own, and preserving what they think. A will does the first. It can do almost nothing for the second. Most people plan only for the first, if they plan at all. Then the stories, reasons, and half-finished explanations go into the ground with them, pushing up daisies instead of reaching the people who might have wanted to hear them.
 
 The title is the argument. A will says who should receive what you own at death. In California, a court may carry it out through probate; in Germany, the estate usually passes directly to the heirs under the will or the law. A legacy is everything else: the account nobody knew about, the password nobody can find, the reason you left the job in 1998, the voice your grandchildren will never hear unless you press a red button on your phone this week. The will matters. It is simply not the whole thing, and in many families it is not even the biggest thing.
 
@@ -27,7 +27,7 @@ Part Five is about the documents that work while you are still alive: powers of 
 
 Part Six is the Family List of Everything: the binder, physical or digital, that tells your people what exists, where it is, and whom to call.
 
-Part Seven is about keeping your voice and know-how. Everyone now carries a film studio in a pocket. This part shows how to leave video messages and diaries, and how to preserve what work and hobbies taught you—through how-to books, fiction, videos, and other creative work your family can keep, update, or continue. It covers what to say, how to keep the files and accounts accessible, and why none of it counts as a will.
+Part Seven is about keeping your voice and know-how. A phone can record a story; a book or video can preserve a skill. This part shows how to leave messages and diaries, and how to pass on what work and hobbies taught you through how-to books, fiction, and other creative work your family can preserve, update, or continue. It covers what to say, how to keep the files and accounts accessible, and why none of it counts as a will.
 
 Part Eight is the craft of leaving thoughts: the ethical will, letters, timed messages, turning voice memos into a short memoir, and handing over unfinished work.
 

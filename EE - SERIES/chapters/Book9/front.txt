@@ -1,0 +1,71 @@
+EQ: Test and Measurement Instruments
+EQ: Book 9 of the Electrical Engineering Series
+EQ: Lothar J. Musiol
+EQ: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+P: How They Work, How to Choose Them, and How to Measure Right: From Power Supplies and Switch Boxes to Oscilloscopes, Spectrum and Network Analyzers, and the Analysis of Every Kind of Modulation
+H1: How to Use This Book
+P: Every number an engineer trusts came out of an instrument, and every instrument changes the thing it measures a little, adds a little of its own noise, and reports the result with a little uncertainty. This book is about those instruments: what is inside them, which specifications matter and what they mean, how to choose one, and how to use it so the number on the screen is the number in the circuit. It runs from the bench power supply and the switch box to the network analyzer and the vector signal analyzer that grades a Wi-Fi 7 transmitter.
+P: Part I, Chapters 1 to 4, sets the ground rules: accuracy, resolution and precision, uncertainty budgets and calibration, grounding and loading, and safety. Part II, Chapters 5 to 11, covers the instruments that source, load, characterize, and route: power supplies, source-measure units, the curve tracer at work on diodes and transistors, the measurement of every datasheet parameter and the fitting of SPICE models, electronic loads, switch matrices, and the buses that tie a rack together. Part III, Chapters 12 to 15, covers the basic measurements: multimeters, LCR meters, low-level instruments, and counters.
+P: Part IV, Chapters 16 to 18, is the time domain: the oscilloscope, its probes, its triggers, logic analyzers, and TDR. Part V, Chapters 19 and 20, makes signals, from function generators to vector signal generators. Part VI, Chapters 21 to 24, is the frequency domain: spectrum analyzers, power meters, and noise-figure and phase-noise analyzers. Part VII, Chapters 25 to 27, is network analysis.
+P: Part VIII, Chapters 28 to 32, analyzes modulation of every kind, from AM to 5G NR and LoRa chirps. Part IX, Chapter 33, covers optical, thermal, and EMC precompliance instruments. Part X, Chapters 34 to 36, automates the bench: SCPI, VISA, Python, and C#; a full chapter on LabVIEW and TestStand; and production test and data. Part XI, Chapters 37 and 38, builds a home lab, from a NanoVNA and a tinySA to instruments you make yourself.
+P: Each chapter opens with a question from real work, says where you meet the instrument, explains how it works before it lists specifications, and then works real measurements through with numbers. From the Bench notes give the practical habits; On the Job notes describe how the instrument is used in semiconductor characterization labs, RF test, production lines, and EMC labs. Every chapter ends with practice problems graded Core, Extension, and Challenge, whose worked solutions in Appendix B also name the usual mistake, and with a short list of what you will actually use. Appendix A collects the formulas, a specification cheat-sheet for each instrument, and the SCPI basics.
+P: The series gives each subject one home, and the theory this book measures lives in Books 1 to 8: uncertainty and decibels in Book 1, loading and noise in Book 2, devices in Book 3, S-parameters, receiver noise, phase noise, and amplifier measurement in Book 4, modulation and OFDM in Book 5, regulators and batteries in Book 6, signal integrity and EMC in Book 7, and bench software in Book 8. This book points to those chapters and does not derive their results again. Its own subject is the instrument: how it works, how to choose it, and how to measure right with it.
+P: Instruments are named as examples, from Keysight, Rohde & Schwarz, Tektronix, Keithley, National Instruments, Rigol, and Siglent to the open hobby tools such as the NanoVNA and the tinySA. No brand is recommended over another, and none paid to appear. Specifications quoted for a named product were checked against its current datasheet or product page (Appendix C lists them); everything else is labeled typical or example. Prices are typical 2026 street prices and change often.
+P: The Python listings control instruments through PyVISA and SCPI, and each one has a simulation mode, so it runs and was checked without hardware; the printed results are the numbers in the text. The C# listing was built with the .NET SDK. Command spellings differ between vendors, so the programming manual of your instrument is the final reference. The figures were computed from the same models and numbers as the worked examples, and a check script recomputes every worked-example number.
+P: Safety comes first in a measurement book. Mains, battery packs, charged capacitors, and RF power amplifiers can injure or kill. Chapter 4 explains measurement categories and isolation; follow it, use instruments and probes rated for the job, and never defeat a protective earth to float an oscilloscope.
+H1: Contents
+P: Part I. Measuring Well
+P: Chapter 1. Accuracy, Resolution, and Precision
+P: Chapter 2. Uncertainty Budgets, Calibration, and Traceability
+P: Chapter 3. Grounds, Loading, and the Instrument in the Circuit
+P: Chapter 4. Safety: Measurement Categories, Isolation, and Stored Energy
+P: Part II. Sourcing, Loading, and Routing
+P: Chapter 5. The Bench Power Supply
+P: Chapter 6. Source-Measure Units and Parametric Analyzers
+P: Chapter 7. The Curve Tracer at Work: Diodes, Bipolar Transistors, and MOSFETs
+P: Chapter 8. Measuring the Datasheet: Capacitance, Gate Charge, Switching, Recovery, Thermal Impedance, and SPICE Models
+P: Chapter 9. Electronic Loads and Battery Simulators
+P: Chapter 10. Switch Boxes, Matrices, and Multiplexers
+P: Chapter 11. Instrument Architectures: GPIB, USB, LXI, and PXI
+P: Part III. Basic Measurements
+P: Chapter 12. The Digital Multimeter
+P: Chapter 13. LCR Meters and Impedance Analyzers
+P: Chapter 14. Low-Level Measurements: Nanovolts, Picoamps, and Teraohms
+P: Chapter 15. Counters, Timers, and Frequency References
+P: Part IV. The Time Domain
+P: Chapter 16. Inside the Oscilloscope
+P: Chapter 17. Probes
+P: Chapter 18. Triggers, Mixed Signals, Logic and Protocol Analyzers, and TDR
+P: Part V. Making Signals
+P: Chapter 19. Function, Arbitrary Waveform, and Pulse Generators
+P: Chapter 20. RF Analog and Vector Signal Generators
+P: Part VI. The Frequency Domain
+P: Chapter 21. The Swept Spectrum Analyzer
+P: Chapter 22. FFT, Real-Time Analyzers, and EMI Receivers
+P: Chapter 23. RF Power Meters and Sensors
+P: Chapter 24. Noise Figure and Phase Noise Analyzers
+P: Part VII. Network Analysis
+P: Chapter 25. The Vector Network Analyzer
+P: Chapter 26. VNA Calibration, De-embedding, and Time-Domain Gating
+P: Chapter 27. Scalar Analysis, Amplifier Test, and Load Pull
+P: Part VIII. Modulation and Signal Analysis
+P: Chapter 28. Vector Signal Analysis and Analog Modulation
+P: Chapter 29. Digital Modulation Quality: Constellations, EVM, MER, and Eyes
+P: Chapter 30. Transmitter Spectrum: Channel Power, ACLR, Emission Masks, and CCDF
+P: Chapter 31. OFDM Systems: Wi-Fi 6 and 7, LTE, and 5G NR
+P: Chapter 32. Bursts, Chirps, and Pulses: BLE, LoRa, FMCW Radar, and Pulsed RF
+P: Part IX. Beyond the Wire: Optical, Thermal, and EMC Instruments
+P: Chapter 33. Optical, Thermal, and EMC Precompliance Instruments
+P: Part X. Automation and Software
+P: Chapter 34. SCPI, VISA, IVI, and Programming Instruments in Python and C#
+P: Chapter 35. LabVIEW and TestStand: Graphical Test for the Characterization Lab
+P: Chapter 36. Test Sequencing, Production Test, and Measurement Data
+P: Part XI. The Budget Bench and the Home Lab
+P: Chapter 37. The Budget Bench: NanoVNA, tinySA, SDRs, and Low-Cost Scopes and Supplies
+P: Chapter 38. Building the Home Lab, and Instruments You Make Yourself
+P: Appendix A. Quick Reference: Formulas, Spec Cheat Sheets, Checklists, and SCPI Basics
+P: Appendix B. Worked Solutions to the Practice Problems
+P: Appendix C. Sources
+P: About the Author
+P: Also by Lothar J. Musiol
+P: Before any instrument, the rules of the game. Chapter 1 separates accuracy, resolution, and precision, three words that are used as if they were one. Chapter 2 turns a datasheet into an uncertainty budget and explains calibration and traceability. Chapter 3 shows how the instrument becomes part of the circuit it measures, through its input resistance and its ground. Chapter 4 keeps you alive: measurement categories, isolation, and stored energy. The statistics behind all of this, significant figures and the standard deviation, are Book 1's (Chapter 15); this part applies them on the bench.

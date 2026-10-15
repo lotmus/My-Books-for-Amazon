@@ -33,7 +33,7 @@ German advisers give the same warning about a *Vorsorgevollmacht* made condition
 
 ### Case 18: No power at all
 
-*This case is told twice: once as it happened, and once as it would have gone with two documents signed on an ordinary afternoon.*
+*The stroke still comes. This time, two signed forms give his partner authority before the ambulance is needed.*
 
 **As it happened.** The man in this case was sixty-one, a self-employed electrician in Bakersfield with a van, two part-time employees, and a reputation for turning up when he said he would. He had lived for twelve years with his partner, a dental receptionist, in a house he owned. Both had been married before, and neither saw a reason to do it again. When she once mentioned a power of attorney, he said, "I'm sixty-one, I'm fine," and changed the subject.
 

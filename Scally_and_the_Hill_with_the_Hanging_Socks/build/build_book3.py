@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the Hill", "with the Hanging Socks"
 FULL = "Scally and the Hill with the Hanging Socks"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book3_Story_v7.txt"
+STORY_FILE = "Book3_Story_v8.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -39,11 +39,11 @@ place = {
     'Inside, the house smelled of soap and woodsmo': 'p015_ch02.jpg',
     'Thump-thump. Thump-thump. Thump-thump. It was': 'p016_ch02.jpg',
     'Gucci had never in his life been asked to sta': 'p017_ch02.jpg',
-    'While all this was going on, Pip had been ver': 'p018_ch02.jpg',
+    'While all this was going on, Pip had been goo': 'p018_ch02.jpg',
     '“It was only going to be a little bit,” said ': 'p019_ch02.jpg',
     '“You never take any medicine, or any pill, or': 'p020_ch02.jpg',
     'It had been standing by the back door the who': 'p021_ch02.jpg',
-    'He had been standing quite still. Now he put ': 'p022_ch02.jpg',
+    'He had been standing still. Now he put down h': 'p022_ch02.jpg',
     'It took a whole pat of butter and a long, qui': 'p023_ch02.jpg',
     'When they had cleaned up the kitchen, and was': 'p024_ch02.jpg',
     'Scally had been standing a little apart, with': 'p025_ch02.jpg',
@@ -51,10 +51,10 @@ place = {
     'By the end of the week the mill pond had froz': 'p027_ch03.jpg',
     'He was kneeling on the bank, at the very edge': 'p028_ch03.jpg',
     '“It is the weak kind,” said Wen, without look': 'p029_ch03.jpg',
-    'Scally had been very quiet for a while. He ha': 'p030_ch03.jpg',
+    'Scally had been quiet for a while. He had bee': 'p030_ch03.jpg',
     'Scally opened his mouth, and found that there': 'p031_ch03.jpg',
-    'Pip said it, too. He said it with his very be': 'p032_ch03.jpg',
-    'He did not run. He walked, quite carefully, w': 'p033_ch03.jpg',
+    'Pip said it, too. He said it with his best fa': 'p032_ch03.jpg',
+    'He did not run. He walked, carefully, with hi': 'p033_ch03.jpg',
     'The whole bank was moving at once. Hal’s moth': 'p034_ch03.jpg',
     '“Throw it low,” said Wen. “So it slides. Not ': 'p035_ch03.jpg',
     'Pip lay down on the ice. He did it so slowly ': 'p036_ch03.jpg',
@@ -69,7 +69,7 @@ place = {
     'It was a long hill, and a cold one. The sun, ': 'p045_ch04.jpg',
     '“I am not,” said Wen, “a person who likes the': 'p046_ch04.jpg',
     'The passage opened out suddenly into a chambe': 'p047_ch04.jpg',
-    'She had said it quite softly, with her face t': 'p048_ch04.jpg',
+    'She had said it softly, with her face tipped ': 'p048_ch04.jpg',
     'He took it out, slowly. It was not easy for h': 'p049_ch04.jpg',
     'It did it slowly. A small black wing opened, ': 'p050_ch04.jpg',
     'It was just past two in the afternoon. They w': 'p051_ch04.jpg',
@@ -77,11 +77,11 @@ place = {
     'It was the first thing Hopsi had said all mor': 'p053_ch05.jpg',
     '“As you know,” said the Mayor, “this village ': 'p054_ch05.jpg',
     '“Ah,” said the Mayor. “Yes. The bats.” He low': 'p055_ch05.jpg',
-    'Scally was standing very still. All the color': 'p056_ch05.jpg',
+    'Scally was standing still. All the color had ': 'p056_ch05.jpg',
     'For a long moment, Scally did not move. Then ': 'p057_ch05.jpg',
     '“They do not,” said Scally. “I made it up. I ': 'p058_ch05.jpg',
     '“The boy is right,” said Dr. Liang. “I am a d': 'p059_ch05.jpg',
-    '“Well!” said the Mayor at last. “Well, well. ': 'p060_ch05.jpg',
+    '“Well!” said the Mayor at last, going a deep pink': 'p060_ch05.jpg',
     'It was the third night after the village meet': 'p061_ch06.jpg',
     '“Sound has a pitch,” said Wen. “High or low. ': 'p062_ch06.jpg',
     'It was the strangest thing Hal had ever seen.': 'p063_ch06.jpg',
@@ -118,7 +118,7 @@ place = {
     'It was the strangest scene any of them ever r': 'p094_ch09.jpg',
     '“She says it is where the wind was coming fro': 'p095_ch09.jpg',
     '“No,” said Hal’s father. “Not you. Not the ro': 'p096_ch09.jpg',
-    'It was a very long ten minutes. Nobody spoke.': 'p097_ch09.jpg',
+    'It was a long ten minutes. Nobody spoke. Wen ': 'p097_ch09.jpg',
     '“I stopped,” said Dr. Liang. She was shaking ': 'p098_ch09.jpg',
     'Dr. Liang ran. She ran across the yard, along': 'p099_ch09.jpg',
     'Mrs. Crumb came out of the little front room ': 'p100_ch10.jpg',
@@ -136,7 +136,7 @@ place = {
     'It came out low, and quick, and so small that': 'p112_ch11.jpg',
     'He stood in the grass, with his wheel of chee': 'p113_ch11.jpg',
     '“There is another cellar,” he said. “It has b': 'p114_ch11.jpg',
-    '“I would like to say something,” she said. “I': 'p115_ch11.jpg',
+    '“Mr. Mayor,” said a small, clear voice.': 'p115_ch11.jpg',
     'Hal sat at the kitchen table with his slate i': 'p116_ch11.jpg',
     '“I did not know,” said Hal. “But I wrote it d': 'p117_ch11.jpg',
     '“No,” said Hal. “Wait.” He stood up. He went ': 'p118_ch11.jpg',

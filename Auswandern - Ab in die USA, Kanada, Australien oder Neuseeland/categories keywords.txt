@@ -1,68 +1,36 @@
-Sieben Keyword-Felder und drei Kategorien, zugeschnitten auf den deutschen Ratgeber. 
-Titel und Untertitel decken „Auswandern“, USA, Kanada, Australien und Neuseeland schon ab. Die Felder ergänzen die Suchbegriffe, die dort fehlen.
+# Amazon.de KDP-Metadaten: Suchbegriffe und Kategorien
 
-## Keywords (je ein Feld, unter 50 Zeichen)
+Stand: 14. Oktober 2026. Diese Datei gilt ausschließlich für die deutschsprachige Ausgabe auf Amazon.de. Die englischen Vorschläge für Amazon.com wurden entfernt, damit sie nicht versehentlich in die deutsche Ausgabe übernommen werden.
 
-1. Green Card H-1B Visum Wege
-2. Express Entry Kanada Einwanderung
-3. Skilled Migration Australien Punkte
-4. Wegzug Steuern Rente Krankenkasse
-5. Abmeldung Deutschland Umzug Checkliste
-6. Berufsanerkennung Visum Arbeitserlaubnis
-7. Leben Arbeiten Ankommen Kulturschock
+## Sieben Suchbegriff-Felder
 
-Nicht eintragen: Bestseller, kostenlos, Kindle, andere Autorennamen, und nicht noch einmal nur „Auswandern USA“. Amazon indexiert Titel und Kategorien ohnehin.
+KDP empfiehlt bis zu sieben relevante Suchbegriffe, meist als kurze Phrasen mit zwei bis drei Wörtern. Die folgenden Kandidaten nutzen Fachbegriffe und konkrete Leserfragen, statt Titelwörter wie „Auswandern“ und die vier Zielländer in fast jedem Feld zu wiederholen. Sie sind redaktionelle Vorschläge, keine Aussage über Suchvolumen oder Ranking. Vor dem Eintragen im KDP-Konto Amazon.de-Suchvorschläge und Treffer prüfen; nur behalten, wenn die Ergebnisse überwiegend passende Ratgeber zeigen.
 
-## Kategorien im KDP-Menü (3 Slots)
+1. Green Card beantragen
+2. Express Entry CRS Punkte
+3. SkillSelect Punkteverfahren
+4. Skilled Migrant AEWV
+5. Berufsanerkennung reglementierte Berufe
+6. Steuerwohnsitz Wegzug Einkommen
+7. Umzugskosten Budget Liquidität
 
-Primärmarktplatz Amazon.de, Sprache Deutsch, Zielgruppe allgemein / Erwachsene.
+Die Phrasen beschreiben konkrete Visawege, Berufszugang, Steuern und Planungsthemen, die im Buch behandelt werden. Die Titelwörter werden nur dort verwendet, wo sie für die präzise Bezeichnung eines Suchthemas nötig sind. Keine fremden Autorennamen, Buchtitel, Verkaufsversprechen, Werbeangaben oder unpassenden Suchbegriffe verwenden.
 
-1. Travel › Specialty Travel › Emigration & Immigration
-2. Travel › United States › General
-3. Reference › Consumer Guides
+## Kategorien
 
-Falls der dritte Pfad fehlt: 
-Travel › Canada › General oder Business & Money › Personal Finance › Budgeting. 
-Nicht 
-Politics › Social Sciences › Emigration & Immigration 
-— das ist die akademische Regalfläche, nicht der Ratgeber.
+Primärmarktplatz: Amazon.de. Zielgruppe: Erwachsene. KDP-Kategorien unterscheiden sich je Marktplatz und Format und können sich ändern. Die folgenden Regalnamen sind Suchansätze, keine bestätigten KDP-Menüpfade:
 
-## Amazon.de zusätzlich anfragen
+1. Ratgeber / Leben und Arbeiten im Ausland oder die nächstliegende passende Auswanderungs-Kategorie.
+2. Reisen / USA, sofern die aktuelle Kategorie das Gesamtbuch als Mehrländer-Ratgeber passend abbildet.
+3. Reisen / Kanada oder Referenz / Verbraucherführer; im aktuellen KDP-Auswahlmenü nach Relevanz und Verfügbarkeit entscheiden.
 
-KDP vergibt auf .de oft andere Regale als die drei gewählten. Per KDP-Support (Contact Us › Amazon book page › Update categories) diese Pfade nennen, soweit sie im Katalog existieren:
+Für jede Kategorie in Amazon.de mehrere aktuell gelistete Vergleichstitel öffnen und prüfen, ob es dort praktische Auswanderungsratgeber und nicht allgemeine Reiseführer oder Fachliteratur sind. Danach die exakten Pfade und verglichenen Titel mit Datum hier notieren. Nicht verfügbare oder unpassende Pfade auslassen.
 
-- Bücher › Ratgeber › Leben im Ausland / Auswandern
-- Bücher › Reisen › Reiseführer › USA
-- Bücher › Reisen › Reiseführer › Kanada
-- Bücher › Reisen › Reiseführer › Australien und Ozeanien
-- Bücher › Recht › Ausländer- und Asylrecht — nur wenn der Pfad als Ratgeber geführt wird, nicht als Fachjuristik
+## Prüfablauf vor einer KDP-Änderung
 
-Nach dem Livegang die Produktdetailseite prüfen: „Rang“ zeigt die tatsächlichen Regale. Unpassende über denselben Support entfernen lassen.
+1. Suchphrasen einzeln auf Amazon.de testen; Suchvorschläge und Trefferqualität notieren.
+2. Drei Kategorien im KDP-Menü für das richtige Format prüfen; den exakten Wortlaut dokumentieren.
+3. Vorher und nachher Produktseite, tatsächliche Regale und Suchtreffer nach Freigabe kontrollieren.
+4. Suchbegriffe und Kategorien nur bei klarer thematischer Passung aktualisieren. Eine bessere Position oder höhere Verkäufe sind damit nicht garantiert.
 
-============================================================================================================================================================
-
-Paste-ready English set for the same book. Use it on Amazon.com, or on Amazon.de only if the listing language is English. 
-The manuscript is German, so the German fields from the last reply stay the better match for Amazon.de.
-
-## Keywords (one box each, under 50 characters)
-
-1. Green Card H-1B visa paths
-2. Express Entry Canada immigration
-3. Australia skilled migration points
-4. Germany exit tax pension health cover
-5. deregister Germany move checklist
-6. foreign credential recognition work visa
-7. arrival culture shock first weeks
-
-Do not add bestseller, free, Kindle, or other author names. Title and subtitle already cover emigrating, USA, Canada, Australia, and New Zealand.
-
-## Categories (3 slots in the KDP menu)
-
-Primary marketplace Amazon.com, language English, audience General / Adult.
-
-1. Travel › Specialty Travel › Emigration & Immigration
-2. Travel › United States › General
-3. Reference › Consumer Guides
-
-If the third path is missing, use Travel › Canada › General or Business & Money › Personal Finance › Budgeting. 
-Skip Politics & Social Sciences › Emigration & Immigration. That shelf is academic, not a practical guide.
+KDP-Hinweise: [Metadata Guidelines](https://kdp.amazon.com/en_US/help/topic/G201097560), [Keywords](https://kdp.amazon.com/en_US/help/topic/G201298500) und [Kategorien](https://kdp.amazon.com/en_US/help/topic/G200652170). KDP empfiehlt bis zu sieben relevante Suchbegriffe, meist als Phrasen aus zwei bis drei Wörtern, und fordert eine Prüfung von Suchvorschlägen und Trefferqualität. Es erlaubt bis zu drei passende Kategorien; Markt- und Formatoptionen können abweichen.

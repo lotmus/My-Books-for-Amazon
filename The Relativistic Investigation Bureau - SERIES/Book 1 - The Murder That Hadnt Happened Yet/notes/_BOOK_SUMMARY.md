@@ -1,10 +1,14 @@
 # Book summary — The Relativistic Investigation Bureau, Book 1: "The Murder That Hadn't Happened Yet"
 
+## Current state (15 October 2026)
+
+The current manuscript candidate is REV17: `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`, paired with `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` and `The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`. The EPUB places `Kindle Back Cover.jpg` on the final page with no barcode area. `FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` remains the release master pending author approval; REV17 is not approved or published. The current KDP copy is `kdp_description_REV17_RELEASE_CANDIDATE.txt` and its matching DOCX. Build the DOCX with `scripts/rebuild_kindle_REV17.py` and the EPUB with `scripts/build_epub_REV17.py`. Historical revision notes below document prior states and do not override these current paths.
+
 Read this first. Only open the full manuscript for things that genuinely need it — continuity checks, exact wording, placing new content. Check `git log` before re-running any mechanical audit; it may already be done.
 
 ## Canonical file
 
-Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the master docx and the KDP files; `scripts/` holds `rebuild_kindle.py`, its source `manuscript_text.txt` and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds stale files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
+Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the release master, current candidate, and KDP files; `scripts/` holds the REV16 and REV17 builders and sources, plus `build_epub_REV17.py` and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds superseded files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
 
 A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independent git repo, no remote). **Not canonical.**
 
@@ -17,7 +21,7 @@ A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independ
 - Front matter → PROLOGUE → 16 Chapters (fiction) → EPILOGUE → Coming Next (YESTERDAY sting) → COURSE
 - APPENDIX: 16 Lessons. Forward arrows follow the **physics object**, not matching integers (Ch3→L2, Ch5→L3, Ch6→L5 … Ch16→L15; Epilogue has a formal `-> Lesson 16` after the kettle, plus the skip-line after Coming Next). Reverse arrows match the object (L1→Ch1, L3→Ch5, L4→Ch4, L16→Epilogue).
 - Back matter: SUMMARY, Glossary, About the Author, Further Reading (start-here list), Acknowledgements, Bibliography (17 real, verified books — never fabricate citations).
-- `manuscript_text.txt` — canonical working text. Rebuild the Kindle docx from this file; do not treat the docx as a second original.
+- `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt` — current candidate source. Rebuild with `scripts/rebuild_kindle_REV17.py`; do not use the stale `manuscript_text.txt` export.
 - `kdp_description.docx` — the actual Amazon product listing copy. Keep it free of anything but the sales description itself.
 - Companion interactive physics demos live at `https://lotmus.github.io/relativistic-site/` (`github.com/lotmus/relativistic-site`). The book's hyperlinks (front matter + Lessons 2, 5, 15) point at that live Pages URL.
 
@@ -83,7 +87,7 @@ Check `git log` for the detailed history before assuming any of this needs redoi
 
 ## Keep-and-reassign pass — 2026-09-29
 
-Working file is `manuscript_text.txt`. Rebuild Kindle with `rebuild_kindle.py`.
+Current candidate source is `scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt`. Rebuild the candidate DOCX with `scripts/rebuild_kindle.py`.
 
 What moved, not cut:
 - How to Read no longer solves the drawer. Sherlock dump left the Prologue; marine/mackerel lives at the Ch5 consultant note after "Sherlock who?"

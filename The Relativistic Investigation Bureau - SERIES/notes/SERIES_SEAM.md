@@ -1,8 +1,8 @@
 # Series seam — The Relativistic Investigation Bureau
 
-Not for publication. Read this before writing any later book. It is the list of things that are already true, so the next manuscript sounds like the same office rather than a reboot.
+Not for publication. Read this before writing any later book. It records established continuity so a new manuscript feels like the same office, not a reboot. For the current end-of-Book-2 handoff, read `NEXT_BOOK_HANDOFF.md` first.
 
-Book 1 is `Book 1 - The Murder That Hadnt Happened Yet/` (master `FINAL_REV10_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; build text `scripts/manuscript_text.txt`). Book 2 is `Book 2 - The Warning That Was Sent Too Late/` (master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx` since 9 Oct 2026, edited directly; the DRAFT and REV01 docx and the old `scripts/manuscript_text.txt` export are retired to `D:\bak\2026-10-09 RIB2 integrate\retired\`). Since the 2 Oct 2026 audit (`notes/audit_2026-10-02.md`) the docx is the master in both books and the text files are behind it. Looks and rooms in detail live in `CHARACTER_AND_SETTING_BIBLE.md`. Case clocks live in `SERIES_BIBLE_continuity_chart.md`. This file is the seam: tone, habits, places, and what must not be reinvented.
+Status checked 15 Oct 2026: Book 1's current candidate is `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt` with its paired `FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; Book 2's current working pair is `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.md` with its paired `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx`. The release masters remain Book 1 `FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` and Book 2 `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx`; candidates/drafts are not approved releases. Book 1's builder targets the REV16 candidate; inspect Book 2's script before rebuilding. Looks and rooms live in `CHARACTER_AND_SETTING_BIBLE.md`; Case 1047 and warning chronology live in `SERIES_BIBLE_continuity_chart.md`.
 
 Physics is the plot. Private lives are invented. The physicists they echo are not their names. Julius is not Julian Barbour. The other Julian is Tuppence's, and he makes clothes hangers.
 
@@ -16,6 +16,10 @@ Warmth is teaspoons, a shut door, a phone call that goes on too long. It is not 
 
 Each new book gets a new physics problem. It does not re-solve the last file, and it does not borrow the last file's answer as a twist.
 
+## Reading order is optional
+
+Every book must work as a reader’s first RIB book. Give each volume a complete central investigation and emotional payoff; no plot point may require knowledge of an earlier volume. At the opening, orient readers to the Bureau, the relationships that matter in this book, and any continuing thread they need to recognize. If that context would reveal an earlier solution, make the recap optional and clearly mark the spoiler. Carryover mysteries may remain open, but they must be identified as series threads and never block comprehension or satisfaction of the current case. Character relationships may develop across volumes; give out-of-order readers the context they need without resetting earned changes. Reading order must not be necessary for comprehension, though earlier books may still offer added resonance.
+
 ## People (do not reset them)
 
 **Derek Gent.** Thirty-eight. Seventeen years in the field. No driving licence, and he mentions it without being asked. Walks. Three or four shirts, a day past smart. Under stress he straightens something that is already straight. Stillness when thinking is Sophie's reveal, not a line in his own introduction. Father of Sophie. Cousin of Penny. Ex of Tuppence.
@@ -26,7 +30,7 @@ Each new book gets a new physics problem. It does not re-solve the last file, an
 
 **Alfred Weinstein.** Early-to-mid fifties. Compact, faintly stooped, grey-white hair that has stopped taking advice. One jacket, year-round, on principle. Patent attorney in Schwabing. He leaps. Herbert thinks he is very smart and very lazy, and says so. He delights in a problem and leaves on a real train when staying would become a tenancy. He has no door on the London corridor. Visiting is not a tenancy. No vampires, ever.
 
-**Herbert Matkowski.** Smaller and neater than Weinstein. Was Weinstein's mathematics professor. Textbook English, faint Bavarian clip, refuses to soften it. Steps, not leaps. Immaculate handwriting. He hangs up when the order is already obvious.
+**Herbert Matkowski.** Smaller and neater than Weinstein. Was Weinstein's mathematics professor. Speaks dryly and unhurriedly, with each word paced as carefully as his immaculate handwriting. He favours precise, direct phrasing as an individual habit. Steps, not leaps. He hangs up when the order is already obvious.
 
 **Julius Barbarian.** Late sixties or early seventies. Munich, and he does not travel. His house is already fully described: do not describe it again. Plaque: APPOINTMENTS ARE A HUMAN CONVENTION. He collects things people use to pretend time exists. He wants the relation, not a substance, and he enjoys being interrupted more than being agreed with.
 
@@ -75,7 +79,7 @@ Do not let a later book resolve which side of ten o'clock the door opened. Do no
 - Cucumber: lunch that survived as an analogy. Two descriptions, one object. Not a theory of blood.
 - Tea, when it is the callback: Yes. Milk? No. Sugar? One. "Two" was the murder morning only, because he thought he might be dead by lunch. After Case 1047, one sugar stands.
 - Seventeen is a measurement the books are fond of (seconds, years in the field, a seventeen-minute miss in Book 2). It is not a force. A later book that uses it again must let a character refuse to worship it.
-- Book 2's closed record: Coming Next's order holds. The sheet was already in the room, then the door opened, then the voice said not to open it. Both the sheet and the opening are before 10:05, and neither has a clock time. The voice is late for the opening, size unknown. The sheet is earlier than the door, and its front is still early for boarding. The paper was read at 10:22. That seventeen minutes is reading time, not the sheet's arrival and not the lateness of the opening. Sunday's slip is the previous warning the back of the sheet meant: a different seventeen, 18:17 after an 18:00 opening. Boarding stayed early until the 16:00 airport train, which Weinstein boards in the ordinary order. The record written at 16:41 is the refusal. It does not claim to have printed the morning sheet. That sender stays blank. Sophie's name came off because she had no act. The platform does not leave because a form was saved.
+- Book 2's closed record: Coming Next's order holds. The sheet was already in the room, then the door opened, then the voice said not to open it. Both the sheet and the opening are before 10:05, and neither has a clock time. The voice is late for the opening, size unknown. The sheet is earlier than the door, and its front is still early for boarding. The paper was read at 10:22. That seventeen minutes is reading time, not the sheet's arrival and not the lateness of the opening. Sunday's slip is the previous warning the back of the sheet meant: a different seventeen, 18:17 after an 18:00 opening. Boarding stayed early until the 16:00 airport train, which Weinstein boards in the ordinary order. The record written at 16:41 is the refusal. It does not claim to have printed the morning sheet. The sender field stays blank because the form has no human sender to enter. Sophie's name came off because she had no act. The platform does not leave because a form was saved.
 
 ## What a new book is allowed to invent
 

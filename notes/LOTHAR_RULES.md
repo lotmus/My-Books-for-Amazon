@@ -79,6 +79,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - Images inline only. No text boxes, no floating images.
 - Photos about **440 px** wide, JPEG, with a gentle warm colour boost so dishes and subjects look inviting. Crop to the subject. Replace dull, blurry, or unappetising photos.
 - Diagrams with small labels about **800 px**.
+- Word page size for novel and ebook masters: a **Kindle screen**, 3.6 x 4.8 in (6-inch Paperwhite proportions) with 0.3 in margins, so Word's page breaks look like a Kindle's. Every image must fit inside the 3.0 in text width and the page height (scale down, keep proportions). Each Heading 1 (chapter, appendix, back-matter section) starts a new page (Page break before). Added 13 Oct 2026.
 - Embedded front cover about **1000×1600** (separate KDP cover files may be larger, for example 1600×2560).
 - Back covers are **text-only on a single colour**. No barcode on the ebook back cover art unless a print wrap needs it.
 - Contents page: list and link everything (every appendix item, About the Author, Also-by). **No page numbers** on the contents page.

@@ -2,7 +2,7 @@
 
 Japan enters this part of the book carrying a cultural inheritance dolphins already respected long before the 19th century: centuries of courtly literature, Zen-influenced aesthetics, and craft traditions refined under more than two hundred years of deliberate isolation from the outside world.
 
-That isolation ended on Japan's own terms only in the sense that it ended at all. In 1853, Commodore Matthew Perry's American warships arrived in Tokyo Bay and made the cost of staying closed unmistakable. Within fifteen years, the Tokugawa shogunate had fallen and the Meiji Restoration of 1868 began compressing a century of industrialization into a few decades, on purpose.
+That isolation ended on Japan's own terms only in the sense that it ended at all. In 1853, Commodore Matthew Perry's American warships arrived in Edo Bay, the body of water later renamed Tokyo Bay, and made the cost of staying closed unmistakable. Within fifteen years, the Tokugawa shogunate had fallen and the Meiji Restoration of 1868 began compressing a century of industrialization into a few decades, on purpose.
 
 The speed of it is as stunning as anything else in this book. A feudal, agrarian society built a modern navy, a rail network, a conscript army, and an industrial base within a single lifetime, sending students abroad to learn what it needed and building the rest at home once they returned.
 

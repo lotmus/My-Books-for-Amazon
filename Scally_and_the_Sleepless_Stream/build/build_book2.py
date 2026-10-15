@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v14.txt"
+STORY_FILE = "Book2_Story_v15.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -378,7 +378,7 @@ for lead, tx in [
     ("Shortcuts and getting lost.", "Tell someone where you are going and when you will be back. Go in pairs. If you are lost, stand still, blow three blasts on a whistle and wait."),
     ("Fire.", "Build a campfire on bare stone with a ring of pebbles and a bucket of water. Put it out by drowning it, stirring it and drowning it again, until the ashes are cold to your hand."),
     ("Storms.", "Count the seconds between flash and bang. A house or a car is the safest place. If you are caught outside, stay away from tall trees, open water and metal, and crouch low in a dip. This is general advice; please check your local guidance."),
-    ("Floods.", "Heavy rain upstream can make a stream rise very fast. Never camp in a dry gully, and go to high ground at once."),
+    ("Floods.", "Heavy rain upstream can make a stream rise fast. Never camp in a dry gully, and go to high ground at once."),
     ("Strangers.", "The Soft Voice from Book 1 offers a shortcut, as a stranger might. Agree a family code word, as the children do."),
 ]:
     para(tx, lead)

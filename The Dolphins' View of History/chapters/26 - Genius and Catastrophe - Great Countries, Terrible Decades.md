@@ -26,7 +26,7 @@ Nor does the file stop with the famous cases. Greece, which invented democracy, 
 
 Dolphin historians have read the whole file, twice, looking for a pattern that would let them warn someone. What they found is uncomfortably ordinary. No country announced that it was abandoning civilization. Each was offered, in something like this order, order, pride, and someone to blame, and accepted all three. Each had a moment of humiliation, economic collapse, or fear that made the offer sound reasonable. And each had, sitting on the shelf, a perfectly good culture that turned out to be no protection at all. The great writers and composers, it emerged, do not vote.
 
-The steps were depressingly similar as well. The courts and the newspapers went first. Then the opposition. Then came the emergency, a word dolphin historians have come to dislike. Very little of it required villains in large numbers. It required ordinary people who were told what to do and did it.
+The steps were depressingly similar as well. The courts and the newspapers went first. Then the opposition. Then came the emergency, a word dolphin historians have come to dislike. Very little of it required villains who saw themselves that way. Historians still argue how much of it came from ordinary people simply following orders and how much from convinced, willing participants; the record has room for both.
 
 Yet the story did not end there.
 

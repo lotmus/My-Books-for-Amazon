@@ -46,3 +46,30 @@ Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. R
 Review: `ADDICTED_READER_REVIEW_20261015.md`. Overall **9.7/10** (prior 9.6): jokes/satire 9.4, plot/payoff 9.5, pacing/suspense 9.1, characters/dialogue 9.6, prose/originality 9.5, science/continuity 10, Kindle/sections 10, images/accessibility 10. Main remaining tradeoffs are the argument-heavy middle (Chapters Eight–Eleven) and the intentionally unresolved series mystery.
 
 The Series Bible and `notes/NEXT_BOOK_START_HERE.md` now require every installment to work as a reader's first book. Book 2's front matter explicitly says no earlier book is needed. Added three diagrams in Lectures One, Two, and Fourteen; all are 800 × 440 px with descriptive alt text. The DOCX contains front and back covers; the EPUB has front-cover metadata and the back cover as its final reading image. Title page numbering and creator metadata were corrected. Final package check: EPUB 1,931,588 bytes; DOCX 1,940,829 bytes. Paperback wrap remains open until print pagination is final.
+## Reader experience review (13 Oct 2026)
+
+Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target non-specialist SF reader: **10/10**. Book 2 now opens with a brief note that the novel stands on its own and the lectures are optional; its KDP copy says the same. Rebuilt Kindle EPUB validated.
+
+
+## Science-minded review (13 Oct 2026)
+
+Review: `../../notes/SCIENCE_REVIEW_20261013.md`. Scores: Book 1 **10/10**, Book 2 **10/10 after revisions**. The Book 2 back matter now qualifies Gödel's second theorem, distinguishes the procedural analogy from the theorem, and limits the Page-curve claim to theoretical calculations in controlled models. The reviewed DOCX and Kindle EPUB were updated together.
+
+
+## Literary fan review (13 Oct 2026)
+
+Review: `../../notes/LITERATURE_FAN_REVIEW_20261013.md`. Score: **9.3/10 overall**; style 9.5, sentence craft 9.1, mechanical/Kindle 10. Three hard line breaks splitting two sentences were removed; intentional notebook stanza breaks remain. Kindle EPUB rebuilt and validated.
+
+
+## Addicted-reader review (13 Oct 2026)
+
+Review: `../../notes/ADDICTED_READER_REVIEW_20261013.md`. Recommendation: yes. Overall **9.5/10**; plot/payoff 9.5, pace/suspense 9.1, character/dialogue 9.6, humour/satire 9.4, prose/clarity 9.6, science/continuity 10, Kindle mechanics 10. The quieter, denser middle is the main tradeoff for a binge reader; the unresolved case threads are intentional and continuity-consistent. No new story edit was warranted. EPUB rebuilt and package/internal links validated.
+
+## Image and visual-accessibility review (13 Oct 2026)
+
+Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.6/10**; the cover, interior-image fit, and image placement/accessibility each score 10/10. The designed back-cover panel is now the final page, with descriptive alt text. Rebuilt and validated the Kindle EPUB; the back cover follows all story and lecture content, and internal links resolve. No interior diagrams were needed for this text-led volume.
+
+
+## Diagram display-size check (13 Oct 2026)
+
+Book 2 has no interior diagrams, so no diagram resizing was needed. Its designed back-cover panel remains the final reading page and stays at its publication dimensions. The EPUB archive integrity and XML parsing passed; its in-reading back-cover image has alt text.
