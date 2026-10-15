@@ -14,15 +14,15 @@ Preserve the complete original story, British civil-service satire, Arthur/Beatr
 
 ## Pass 1 — causality before prose
 
-Create an authoritative dispatch ledger covering every transit: present-side clock, destination clock, gap evidence, observations that close the gap, travellers, mass, energy source, return appointment and actual outcome. Reconcile the corpse packet and detection lag, the two Bells, Cresswell, the three-person return from the estate, and the final evacuation. Define the distinction between capacity per opening and total energy; use explicit provisional mass estimates instead of movable head-count limits.
+Create an authoritative dispatch ledger covering every transit: present-side clock, destination clock, gap evidence, observations that close the gap, travellers, mass, energy source, return appointment and actual outcome. Reconcile the corpse packet and detection lag, the two Glocks, Cresswell, the three-person return from the estate, and the final evacuation. Define the distinction between capacity per opening and total energy; use explicit provisional mass estimates instead of movable head-count limits.
 
-Define why the duplicate dispatch can supersede an observed preliminary recommendation: the preliminary act remains historical fact, but its pending implementation is replaced by an authentic correction before ratification. Explain the administrative decision and downstream causality without making the machine enforce legal doctrine. Give the private return reserve independent physical constraints; plant it before it solves the Bell-custody problem, including why it cannot rescue everybody.
+Define why the duplicate dispatch can supersede an observed preliminary recommendation: the preliminary act remains historical fact, but its pending implementation is replaced by an authentic correction before ratification. Explain the administrative decision and downstream causality without making the machine enforce legal doctrine. Give the private return reserve independent physical constraints; plant it before it solves the Glock-custody problem, including why it cannot rescue everybody.
 
 Correct the Monday 58-hour clock conflict and distinguish the local 1815 arrival from present-side departure. Retitle chapter 1 or give the repeated Tuesday an actual payoff. Remove arbitrary alternate-world decoration that does not aid the plot.
 
 ## Pass 2 — scenes with consequences
 
-Rework the future inspection to establish Reed, his obligations and a concrete reason to question Bell. Establish the judge's independent interest before the ceremony. Let Bell impose a countermeasure that costs time, access or equipment and cannot be undone by one witty answer. Make Eleanor's wrong assumption materially consequential, and give Miriam's expertise an independently necessary solution.
+Rework the future inspection to establish Reed, his obligations and a concrete reason to question Glock. Establish the judge's independent interest before the ceremony. Let Glock impose a countermeasure that costs time, access or equipment and cannot be undone by one witty answer. Make Eleanor's wrong assumption materially consequential, and give Miriam's expertise an independently necessary solution.
 
 Develop Hester's disagreement with the visitors into a negotiated choice. Give Daniel a consequential decision beyond suffering injuries. Preserve their actions outside Arthur's viewpoint. Tie distributed copies to a specific obstacle they defeat; the archive theme must do plot work.
 

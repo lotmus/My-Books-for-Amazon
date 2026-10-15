@@ -1,7 +1,7 @@
 # Status: The Department of Historical Corrections
 
-- **State:** draft, REV3 built 15 Oct 2026 (overall 7.9, sellability 7.6; see `notes/REVIEW_REV3_2026-10-15.md`). Needs a cold read and a Kindle Previewer check before upload.
-- **Master:** `The Department of Historical Corrections - REV3.docx` with `.md` working copy, about 50,000 words in 37 chapters. Kindle page size 3.6 x 4.8 in, 0.3 in margins, no tables. REV1 and REV2 are in `bak\` (REV2 also in git, 3d429a55).
+- **State:** draft, REV4 built 15 Oct 2026 (REV3 with the villain renamed Glock) (overall 7.9, sellability 7.6; see `notes/REVIEW_REV3_2026-10-15.md`). Needs a cold read and a Kindle Previewer check before upload.
+- **Master:** `The Department of Historical Corrections - REV4.docx` with `.md` working copy, about 50,000 words in 37 chapters. Kindle page size 3.6 x 4.8 in, 0.3 in margins, no tables. REV1 to REV3 are in `bak\` (REV2 also in git, 3d429a55).
 - **Package:** `KDP_Description.md` (hook, description, 7 keywords, categories), `cover\The Department of Historical Corrections - front cover 1000x1600.png`.
 - **Pen name:** none; Lothar J. Musiol. British spelling, About the Author Version A (Colin line) and Gucci.
 - **Rules:** never write the banned surname from LOTHAR_RULES.md (searched the book, notes and SCORES.md: none); no MTW; no Word tables; Kindle only.

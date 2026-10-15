@@ -8,7 +8,7 @@ The manuscript wins over this file, but this file is what REV2 was written to. T
 2. **Time lag.** Departure from the present and arrival differ: the machine puts nine minutes into the passage (leave 09:31, arrive 09:40, chapter 2). The return appointment is the destination minute (10:27).
 3. **Observed intervals are closed.** What was seen (Fanshawe's substitution, an arrival) stays done; only unobserved gaps can be entered, once.
 4. **Ratification (the 1815 repair).** A recommendation is a fact, not a ruling. The committee ratifies on 23 June 1815 at 10:30, when two sealed copies held by separate recipients are found to agree and the clerk enters it in his register (chapters 7, 26, 28). The machine does not enforce law; it recognises that the copies were observed to agree.
-5. **Portable frames.** Bell's 2019 "resilience pilot" bought three: one passenger, 100 kg ceiling, own battery, keyed to one induction. They carry the person they were cut for and nobody else (chapters 2, 7, 12, 15, 27).
+5. **Portable frames.** Glock's 2019 "resilience pilot" bought three: one passenger, 100 kg ceiling, own battery, keyed to one induction. They carry the person they were cut for and nobody else (chapters 2, 7, 12, 15, 27).
 6. **Freight window (2029).** Rated 2,100 kg before the bridge was cut (chapter 19); **1,400 kg** after. At 70 kg a head that is thirty, then twenty people; real people, weighed, are the arithmetic (chapter 22).
 
 ## Lines
@@ -21,9 +21,9 @@ The manuscript wins over this file, but this file is what REV2 was written to. T
 | 4 | Miriam | Mon 09:31-09:34 | arrives from 2029 | 58 | n/a | takes the return reserve; reserve restored 10:12 |
 | 5 | Arthur + Eleanor | Tue morning | 3 Oct 1746, laundry | ~148 out | after dusk, 200 kg window | return: Arthur, Eleanor, Saye = **198 kg**; reader, kit and coat left behind (a snuffbox in Agnes's 1747 inventory) |
 | 6 | Cresswell (unrecorded) | n/a | 1746 -> 1815 | n/a | Saye's spare slip keyed to the Mercy, 22 Jun 21:10 | back in 1815 for 23 June (chapters 12, 26) |
-| 7 | Bell, younger and elder | n/a | frame in the ceremonial room | <100 | own frame | neither ever uses the department's machine |
+| 7 | Glock, younger and elder | n/a | frame in the ceremonial room | <100 | own frame | neither ever uses the department's machine |
 | 8 | 2029 inspection (Arthur, Eleanor) | Wed 10:14 | Nov 2029 | | recess ten minutes later | Reed, Trent and Okafor planted |
-| 9 | Beatrice + Fanshawe | Wed evening | 22 Jun 1815 night | | paper-store window, Thu 07:28 | back with the younger Bell |
+| 9 | Beatrice + Fanshawe | Wed evening | 22 Jun 1815 night | | paper-store window, Thu 07:28 | back with the younger Glock |
 | 10 | Arthur, Eleanor, Miriam | Wed night / Thu | 2029 via the service lift | | personnel channel | 22 evacuated, 1,391 kg measured against 1,400 |
 
 ## The 22
@@ -32,14 +32,14 @@ Miriam's list: 27 names. Nineteen inside the complex when she left (Jon among th
 
 ## Reconciliation clock (72 hours, Mon 09:17 to Thu 09:17)
 
-Mon 17:10 briefing: 64 h left. Bell back at 18:00. Tue morning Eleanor sleeps, departure. Tue ~16:30 Garrick's Form 7B (thumb given), hearing moved from 09:00 to 11:00 Wed. Wed 11:00 hearing. Thu 06:41: 2 h 36 min left. Thu 09:17 hardens.
+Mon 17:10 briefing: 64 h left. Glock back at 18:00. Tue morning Eleanor sleeps, departure. Tue ~16:30 Garrick's Form 7B (thumb given), hearing moved from 09:00 to 11:00 Wed. Wed 11:00 hearing. Thu 06:41: 2 h 36 min left. Thu 09:17 hardens.
 
 ## Where the earlier problems went
 
 - Clock conflict ch 9/10: ch 9 now at 17:10 with 64 h left.
 - Two-traveller return: fixed in kilograms (ch 2, 13).
 - 19/20/23/22: fixed (ch 16, 19, 22).
-- Bell's private reserve: planted ch 2, 7, 12, 15; limits explained (ch 27).
+- Glock's private reserve: planted ch 2, 7, 12, 15; limits explained (ch 27).
 - Cresswell: Saye's spare slip (ch 12, 26).
 - Chapter 1 title: "A Monday, As Observed".
 - Setting: **Northumberland** (the manuscript controls; the early development notes' "Scotland" is withdrawn).
@@ -55,11 +55,11 @@ Timeline fixes and new fixed points. The manuscript wins over this file.
 | Tue ~18:00 to 18:45 | Form 7B at the Directorate: reader stalls at 91% twice, accepts on the third; Garrick countersigns with "Deviation noted" and the slogan YOUR RECORD IS YOUR SECURITY is planted | 13 |
 | Tue 21:52 | Arthur reads the Pembroke file (31 entries, from 11 Oct 2011); adds no. 32 and sets four terms | 15 |
 | Wed 04:00 | Miriam tells Arthur what the other Arthur signed (forty people in a room for twenty; two and a half years) | 15 |
-| Wed 11:00 | Hearing; Bell's "Would you have signed?" exchange; feed cut | 20, 21 |
+| Wed 11:00 | Hearing; Glock's "Would you have signed?" exchange; feed cut | 20, 21 |
 | Wed ~16:30 | Dr Rao weighs-everything; Dame Judith asks the off-record question | 22 |
-| Wed 17:05 | Receiver's delegate (Garrick) appointed; Pelling's instruction lapses; van due to leave Victoria Street 08:15 Thu; Bell's call names a school review for Samuel at 10:00 Thu | 22 |
+| Wed 17:05 | Receiver's delegate (Garrick) appointed; Pelling's instruction lapses; van due to leave Victoria Street 08:15 Thu; Glock's call names a school review for Samuel at 10:00 Thu | 22 |
 | Wed night | Fifteen envelopes (five people, three copies each) leave the building by 23:00 | 22 |
-| 22 Jun 1815, evening | Bell (younger) visits Hester's wrecked shop; she burns his card | 19 |
+| 22 Jun 1815, evening | Glock (younger) visits Hester's wrecked shop; she burns his card | 19 |
 | 22 Jun 1815, afternoon | Daniel and Hester at the newspaper window (Gazette lists officers only); 01:00 Daniel returns his indenture to Mr Ferris (law-stationer, Fetter Lane), who takes half the premium back to Daniel's mother | 19 |
 | 23 Jun 1815, 04:10 | Beatrice and Fanshawe arrive in Hester's back room (was "late on 22 June"); Hester's forty copies of the evening before are distinct from the forty street copies printed that night | 23, 19 |
 | 23 Jun 1815, 09:00 | Porter refuses a lady; Fanshawe holds the hat; Perrott accepts Beatrice as principal | 25 |

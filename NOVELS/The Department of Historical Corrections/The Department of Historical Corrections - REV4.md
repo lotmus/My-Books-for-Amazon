@@ -232,11 +232,11 @@ She turned his grey notebook over and showed him a metal thread woven into the b
 
 “And the other thing?”
 
-“Portable frames. Bell’s resilience pilot bought three in 2019. One passenger, a hundred-kilo ceiling, a battery in a box, and a key cut to the user’s induction, which means each one will carry the person it was cut for and nobody else. Fanshawe signed the purchase. He thought they were for fire drills.”
+“Portable frames. Glock’s resilience pilot bought three in 2019. One passenger, a hundred-kilo ceiling, a battery in a box, and a key cut to the user’s induction, which means each one will carry the person it was cut for and nobody else. Fanshawe signed the purchase. He thought they were for fire drills.”
 
 “Where are they now?”
 
-“Bell holds the keys. We hold the invoice.”
+“Glock holds the keys. We hold the invoice.”
 
 She gave him the invoice. It was stamped PAID, which in Arthur’s experience was the most alarming word in the language.
 
@@ -448,13 +448,13 @@ Arthur looked at Daniel.
 
 Daniel glanced at Mrs Pike. She said nothing.
 
-“Mr Bell’s secretary.”
+“Mr Glock’s secretary.”
 
-Arthur felt the name arrive with an unwelcome familiarity. Lionel Bell was Permanent Secretary for Administrative Resilience in 2026. He had visited the department three weeks earlier to explain that uncertainty was an avoidable expense.
+Arthur felt the name arrive with an unwelcome familiarity. Lionel Glock was Permanent Secretary for Administrative Resilience in 2026. He had visited the department three weeks earlier to explain that uncertainty was an avoidable expense.
 
 “First name?”
 
-“I don’t know. His card said L. Bell.”
+“I don’t know. His card said L. Glock.”
 
 “What did he look like?”
 
@@ -466,7 +466,7 @@ Mrs Pike snorted.
 
 The young man flushed. “Tall. Grey at the temples. A small scar on his chin. He called the packet a continuity instrument.”
 
-Arthur sat down without being invited. Bell had a small scar on his chin. He claimed it came from rowing. Nobody had thought to ask in which century.
+Arthur sat down without being invited. Glock had a small scar on his chin. He claimed it came from rowing. Nobody had thought to ask in which century.
 
 He unfolded the receipt completely. On the back was a printer’s entry: Copy received 22 June. Set against order of 21 June. Two copies for delivery, one retained pending payment.
 
@@ -516,7 +516,7 @@ Daniel approached the table. “Mr Fanshawe said it was the wrong sheet. He went
 
 Mrs Pike pulled a scrap from the same drawer. It carried the name MERCY and a wharf location, then a printed warning concerning fever.
 
-Arthur checked his watch. Ten minutes until the return window. He could take the proof home, report Bell, obtain competent assistance. It was an excellent plan. He distrusted it immediately.
+Arthur checked his watch. Ten minutes until the return window. He could take the proof home, report Glock, obtain competent assistance. It was an excellent plan. He distrusted it immediately.
 
 Someone tried the shop door.
 
@@ -528,7 +528,7 @@ Two men entered. Neither had the manner of a customer. One wore a blue coat with
 
 “Payment first.”
 
-“Mr Bell has settled the account.”
+“Mr Glock has settled the account.”
 
 “Then he will enjoy settling it again. I haven’t had it.”
 
@@ -640,7 +640,7 @@ The left coil was overheating. Eleanor switched on the auxiliary fan.
 
 Miriam made a small sound which might have been a laugh.
 
-“He’s going to come down with a warrant. Bell. Don’t let him take the reference book. And don’t let Arthur sign anything about acting temporarily. He thinks temporary makes it safe.”
+“He’s going to come down with a warrant. Glock. Don’t let him take the reference book. And don’t let Arthur sign anything about acting temporarily. He thinks temporary makes it safe.”
 
 “Where did the body come from?” Eleanor asked.
 
@@ -736,7 +736,7 @@ Eleanor turned on her.
 
 For the first time since the telephone rang, she sounded frightened in a new way. Her knowledge had ceased to be a map.
 
-The internal lift bell chimed. On the security monitor, Lionel Bell stood with two officers and a slim leather document case. He looked into the camera, as though greeting someone he had expected to find there.
+The internal lift bell chimed. On the security monitor, Lionel Glock stood with two officers and a slim leather document case. He looked into the camera, as though greeting someone he had expected to find there.
 
 “Dr Vale,” he said through the intercom. “We appear to have a continuity problem.”
 
@@ -840,7 +840,7 @@ They found an apothecary who examined Daniel’s hand, demanded to know how it h
 
 The second date.
 
-The receipt in his briefing had described delivery on the twenty-first. Hester’s register recorded the copy on the twenty-second. A final duplicate would go out tomorrow, countersigned and distributed. Bell had not finished. The memorandum had started the revision, but the annex’s authority had another step.
+The receipt in his briefing had described delivery on the twenty-first. Hester’s register recorded the copy on the twenty-second. A final duplicate would go out tomorrow, countersigned and distributed. Glock had not finished. The memorandum had started the revision, but the annex’s authority had another step.
 
 Arthur wrote this in his notebook. Then he wrote the names of the two men as Hester knew them: Cresswell, blue coat; Hob, stick. He recorded Daniel’s injury, Hester’s address and the fact that she had saved his life. He hesitated over that phrase. It seemed both embarrassingly large and insufficiently exact. He left it.
 
@@ -874,7 +874,7 @@ He considered the approved cover story, which involved a customs inquiry and wou
 
 “Smaller than we need.”
 
-“And Mr Bell?”
+“And Mr Glock?”
 
 “A senior official. I thought he was in London.”
 
@@ -936,7 +936,7 @@ Hester noticed his expression.
 
 ## 6 The Late Mr Pembroke
 
-Lionel Bell waited six minutes before Eleanor admitted him. He spent them reading a notice about fire evacuation, with the air of a man prepared to hold fire accountable for its procedure.
+Lionel Glock waited six minutes before Eleanor admitted him. He spent them reading a notice about fire evacuation, with the air of a man prepared to hold fire accountable for its procedure.
 
 When the lift doors opened, he stepped out ahead of his escorts and smiled. His suit was dark, beautifully cut and entirely unchanged by the disappearance of Belgium. Eleanor found that more troubling than the prime minister’s portrait.
 
@@ -958,7 +958,7 @@ He opened his case and presented a warrant bearing the seal of the Cabinet Offic
 
 “That’s precisely the problem.”
 
-Bell’s expression became sympathetic. He had an efficient face: each expression occupied it only as long as required.
+Glock’s expression became sympathetic. He had an efficient face: each expression occupied it only as long as required.
 
 “We cannot suspend government because you dislike its provenance.”
 
@@ -974,13 +974,13 @@ Mrs Crumb took the warrant and held it under the registry lamp. The fibres shone
 
 “Naming today’s prime minister.”
 
-Bell looked at her for a little longer.
+Glock looked at her for a little longer.
 
 “Some contingencies are foreseeable.”
 
 Behind the closed door of the reference room, Miriam sat on the floor between two filing cabinets. Eleanor had put a cup of tea beside her and told her not to move. It was an inadequate welcome to a different century, but secrecy had limited the catering.
 
-Bell asked to inspect the central reference book. Mrs Crumb said the inspection required two authorised witnesses. Bell gestured to his escorts.
+Glock asked to inspect the central reference book. Mrs Crumb said the inspection required two authorised witnesses. Glock gestured to his escorts.
 
 “Independent witnesses,” she said.
 
@@ -988,15 +988,15 @@ Bell asked to inspect the central reference book. Mrs Crumb said the inspection 
 
 “So am I. It doesn’t make us independent of the Crown.”
 
-The older of the two escorts, a captain with the stillness of a man who read everything twice, was looking at the warrant in Mrs Crumb’s hand rather than at Bell.
+The older of the two escorts, a captain with the stillness of a man who read everything twice, was looking at the warrant in Mrs Crumb’s hand rather than at Glock.
 
 “Captain Reed, Registration Guard. May I have a receipt for this visit, ma’am?”
 
-“You may not,” Bell said.
+“You may not,” Glock said.
 
 “For my own file, sir. I like to keep things in two places.”
 
-Mrs Crumb wrote it out and gave it to him. Reed read the date, the time and the line that said no dispatch authorised pending review, then put it in his breast pocket, where Bell could not reach it without a scene.
+Mrs Crumb wrote it out and gave it to him. Reed read the date, the time and the line that said no dispatch authorised pending review, then put it in his breast pocket, where Glock could not reach it without a scene.
 
 He closed his case.
 
@@ -1004,7 +1004,7 @@ He closed his case.
 
 “Then walk round.”
 
-Eleanor almost smiled. Bell did not.
+Eleanor almost smiled. Glock did not.
 
 “I will return at noon with the necessary authorisation. Until then, no further dispatches.”
 
@@ -1016,11 +1016,11 @@ Eleanor almost smiled. Bell did not.
 
 “I know his name.”
 
-For the first time, the warmth left Bell’s voice entirely. He looked past Eleanor towards the receiving room, then at the locked reference door.
+For the first time, the warmth left Glock’s voice entirely. He looked past Eleanor towards the receiving room, then at the locked reference door.
 
 “No outgoing material either.”
 
-After the lift had taken him away, Mrs Crumb went to the security desk and altered the access list. Bell’s authority remained on paper. His card would henceforth take him to the committee room.
+After the lift had taken him away, Mrs Crumb went to the security desk and altered the access list. Glock’s authority remained on paper. His card would henceforth take him to the committee room.
 
 “That won’t stop him,” Eleanor said.
 
@@ -1076,9 +1076,9 @@ In the tunic pocket they had found a folded card. On one side, in Arthur’s han
 
 “The record,” Miriam said. “He kept asking who was allowed to keep the record.”
 
-Eleanor covered the body again. She had disliked the phrase evidence when Miriam used it. Now she understood its desperation. Bell could dismiss a projection, suppress a warning, dispute a photograph. The corpse of a man still alive in 1815 was harder to reclassify.
+Eleanor covered the body again. She had disliked the phrase evidence when Miriam used it. Now she understood its desperation. Glock could dismiss a projection, suppress a warning, dispute a photograph. The corpse of a man still alive in 1815 was harder to reclassify.
 
-Not impossible. Bell was very good.
+Not impossible. Glock was very good.
 
 “We must tell Arthur,” she said.
 
@@ -1108,7 +1108,7 @@ STRATH ESTATE. PRIVATE TRUST. 1746. RECEIVER’S LIMITATIONS. ORIGINAL SCHEDULE 
 
 Beatrice sat down.
 
-“I knew Bell was looking for a trust instrument. I didn’t know why.”
+“I knew Glock was looking for a trust instrument. I didn’t know why.”
 
 “You restricted it.”
 
@@ -1200,7 +1200,7 @@ Hester moved half a step away from Arthur. It was sensible and hurt anyway.
 
 “I’ve had a rather disorganised journey.”
 
-“Mr Bell warned us.”
+“Mr Glock warned us.”
 
 “He’s very thoughtful.”
 
@@ -1210,7 +1210,7 @@ The clerk introduced himself as Saye. He was perhaps thirty-five, with a face th
 
 “Mrs Pike can go where her account goes,” Hester said.
 
-Saye considered her and shrugged. He led them down a narrow companionway. Beneath the deck the air was hot and close. Through one open door Arthur saw shelves of boxes, a folding metal chair and a copper coil concealed under sailcloth. Bell had established a forward office, not merely sent a messenger.
+Saye considered her and shrugged. He led them down a narrow companionway. Beneath the deck the air was hot and close. Through one open door Arthur saw shelves of boxes, a folding metal chair and a copper coil concealed under sailcloth. Glock had established a forward office, not merely sent a messenger.
 
 Fanshawe sat in a cabin with his ankle fastened to an iron ring. He had lost his neckcloth and much of his authority. One cheek was bruised. On the table before him lay a cup of water and an untouched bowl.
 
@@ -1246,7 +1246,7 @@ Arthur nodded. Fanshawe shut his eyes briefly.
 
 “I thought I’d missed it.”
 
-“You nearly did,” Hester said. “Mr Bell’s men tried to collect my retained copy.”
+“You nearly did,” Hester said. “Mr Glock’s men tried to collect my retained copy.”
 
 Fanshawe looked at her as though noticing a person he had previously classified as a service.
 
@@ -1266,7 +1266,7 @@ Arthur took out his notebook.
 
 “Which was?”
 
-“A continental war in 2031. Forty million projected deaths. Bell had a descendant report, casualty tables, protected extracts. He said a modest change in the 1815 guarantees would produce a more stable federal settlement.”
+“A continental war in 2031. Forty million projected deaths. Glock had a descendant report, casualty tables, protected extracts. He said a modest change in the 1815 guarantees would produce a more stable federal settlement.”
 
 “And you believed him.”
 
@@ -1276,7 +1276,7 @@ Fanshawe stared at the wall.
 
 It was the first useful answer he had given.
 
-The director had taken the conciliatory memorandum from an unobserved desk interval and replaced it with Bell’s commercial draft. That act had changed the recipient’s recommendation and started the branch now spreading through 2026. Only afterwards had he noticed the annex: a dormant receivership empowered to determine which claims counted when records conflicted. Bell had said it was historical boilerplate. Fanshawe had asked for the original.
+The director had taken the conciliatory memorandum from an unobserved desk interval and replaced it with Glock’s commercial draft. That act had changed the recipient’s recommendation and started the branch now spreading through 2026. Only afterwards had he noticed the annex: a dormant receivership empowered to determine which claims counted when records conflicted. Glock had said it was historical boilerplate. Fanshawe had asked for the original.
 
 “He offered me a promotion,” Fanshawe said.
 
@@ -1292,11 +1292,11 @@ Hester examined the shackle. “A more practical counter-offer.”
 
 Arthur wrote down the desk location and intervention minute. He asked whether the original memorandum still existed.
 
-“Bell has it. In a protected case. I saw Saye take it into the next cabin.”
+“Glock has it. In a protected case. I saw Saye take it into the next cabin.”
 
 “Can we put it back?”
 
-“Not into yesterday’s desk. I observed myself removing it. So did Bell’s camera. That interval is closed, and what I did in it stays done. But a recommendation is not a ruling. The committee ratifies on the twenty-third, at half past ten, when two sealed copies held by separate recipients are found to agree and the clerk enters it in his register. Until then my substitution is a fact and its implementation is a proposal. The machine doesn’t care about law, Pembroke. It cares that the copies were observed to agree.”
+“Not into yesterday’s desk. I observed myself removing it. So did Glock’s camera. That interval is closed, and what I did in it stays done. But a recommendation is not a ruling. The committee ratifies on the twenty-third, at half past ten, when two sealed copies held by separate recipients are found to agree and the clerk enters it in his register. Until then my substitution is a fact and its implementation is a proposal. The machine doesn’t care about law, Pembroke. It cares that the copies were observed to agree.”
 
 “Would that restore everything?”
 
@@ -1310,7 +1310,7 @@ Outside, Saye spoke to someone in a low voice. Arthur heard the words central in
 
 “There are three of them.”
 
-“They want you,” Fanshawe told Arthur. “Not me. Bell needs a protected witness who has crossed every reference boundary since the first modern stabiliser.”
+“They want you,” Fanshawe told Arthur. “Not me. Glock needs a protected witness who has crossed every reference boundary since the first modern stabiliser.”
 
 “I joined twelve years ago.”
 
@@ -1430,7 +1430,7 @@ In the rear room they opened the case on the table. Fanshawe read the original t
 
 “This isn’t really about the Low Countries,” Arthur said.
 
-“It begins there,” Fanshawe replied. “A trust for disputed assets becomes a body for disputed identities. Bell has a chain of renewals through the nineteenth century. By 2029, under emergency legislation, it can declare a single human witness the legal reference for England.”
+“It begins there,” Fanshawe replied. “A trust for disputed assets becomes a body for disputed identities. Glock has a chain of renewals through the nineteenth century. By 2029, under emergency legislation, it can declare a single human witness the legal reference for England.”
 
 Hester frowned. “And the witness tells everyone what happened?”
 
@@ -1444,7 +1444,7 @@ Arthur looked at the portrait in his folder.
 
 “Why a king?” Daniel asked.
 
-Fanshawe rubbed his ankle. “In the projected settlement, the United Kingdom has fragmented. Parliament has disputed membership. Courts cannot agree which appointments survived successive corrections. Bell presents a sovereign receiver as a temporary source of legal identity.”
+Fanshawe rubbed his ankle. “In the projected settlement, the United Kingdom has fragmented. Parliament has disputed membership. Courts cannot agree which appointments survived successive corrections. Glock presents a sovereign receiver as a temporary source of legal identity.”
 
 “And people accept that?”
 
@@ -1484,7 +1484,7 @@ Arthur knew he should offer arguments. He had brought danger into their lives an
 
 He gave Hester the remaining coins and a page from his notebook containing what they knew of the duplicate dispatch. She read it carefully.
 
-“Tomorrow morning. Mr Bell’s committee room. Half past ten.”
+“Tomorrow morning. Mr Glock’s committee room. Half past ten.”
 
 “Don’t go there yourself.”
 
@@ -1654,7 +1654,7 @@ He believed her. He was not ready for that to make it better.
 
 She left the admission alone. Arthur respected her more for not decorating it, and resented her for making respect necessary.
 
-His early induction meant that the modern stabiliser’s reference book included him before every later revision. He had remained an unbroken protected witness through changes most departmental staff had never experienced directly. The machine could compare each subsequent state against his living signature. Bell’s proposed settlement would turn that physical property into a constitutional title.
+His early induction meant that the modern stabiliser’s reference book included him before every later revision. He had remained an unbroken protected witness through changes most departmental staff had never experienced directly. The machine could compare each subsequent state against his living signature. Glock’s proposed settlement would turn that physical property into a constitutional title.
 
 “Why not use the book?” Arthur asked.
 
@@ -1664,7 +1664,7 @@ His early induction meant that the modern stabiliser’s reference book included
 
 “He will arrange a present in which you can.”
 
-Mrs Crumb pushed the restricted index card across the table and explained her bargain. Bell had approached her after Miriam’s death with a proposal to correct a neglected engineering inspection decades earlier. He had not promised resurrection. He had offered a safer railway history in which a particular accident would not occur. In exchange, she had allowed him exclusive access to the Strath papers and suppressed cross-references in the public departmental index.
+Mrs Crumb pushed the restricted index card across the table and explained her bargain. Glock had approached her after Miriam’s death with a proposal to correct a neglected engineering inspection decades earlier. He had not promised resurrection. He had offered a safer railway history in which a particular accident would not occur. In exchange, she had allowed him exclusive access to the Strath papers and suppressed cross-references in the public departmental index.
 
 “For nineteen years?” Arthur asked.
 
@@ -1688,11 +1688,11 @@ Beatrice’s face tightened. For a moment Arthur thought she would appeal to the
 
 It was not forgiveness, either given or received. It was something smaller and more immediately useful.
 
-Arthur opened the constitutional booklet. He read aloud the transfer of evidential discretion. Eleanor underlined it. Fanshawe supplied the original memorandum. Mrs Crumb laid beside it the 1746 index card. They had the beginning and end of Bell’s legal construction, and one conspicuous absence in the middle.
+Arthur opened the constitutional booklet. He read aloud the transfer of evidential discretion. Eleanor underlined it. Fanshawe supplied the original memorandum. Mrs Crumb laid beside it the 1746 index card. They had the beginning and end of Glock’s legal construction, and one conspicuous absence in the middle.
 
 “We need the trust’s original limitations,” Arthur said.
 
-“Bell has the surviving copy,” Mrs Crumb replied.
+“Glock has the surviving copy,” Mrs Crumb replied.
 
 “Then we go to the original.”
 
@@ -1712,7 +1712,7 @@ Line four. Miriam. Present, Monday 09:31 to 09:34, at her own insistence and in 
 
 Beatrice wrote the next number and, at the head of the column beside it, in capitals, NO LINE WITHOUT A WEIGHT.
 
-Eleanor looked at the time. It was ten past five. The reconciliation clock had sixty-four hours left, and Bell had said he would be back at six.
+Eleanor looked at the time. It was ten past five. The reconciliation clock had sixty-four hours left, and Glock had said he would be back at six.
 
 “I can look for a gap.”
 
@@ -1722,11 +1722,11 @@ Arthur picked up a Yorkshire biscuit. It tasted mostly of sugar and public subsi
 
 ## 10 A Visit from the Existing Government
 
-Bell returned at six with a minister.
+Glock returned at six with a minister.
 
-The minister was a small man named Pelling, whom Arthur remembered as a back-bench opponent of unnecessary regulation. In the revised government he was Minister for Personal Registration. He wore a worried smile and carried no papers. Bell carried enough for both of them.
+The minister was a small man named Pelling, whom Arthur remembered as a back-bench opponent of unnecessary regulation. In the revised government he was Minister for Personal Registration. He wore a worried smile and carried no papers. Glock carried enough for both of them.
 
-Mrs Crumb’s alteration to the lift access sent them to the committee room. Bell rang from there.
+Mrs Crumb’s alteration to the lift access sent them to the committee room. Glock rang from there.
 
 “There appears to be a fault.”
 
@@ -1740,9 +1740,9 @@ Arthur took the receiver before the conversation became an incident with its own
 
 “We’ll meet you upstairs.”
 
-He went with Eleanor. Fanshawe was formally suspended and Beatrice had compromised the index; putting either of them in front of Bell would hand him a useful distraction. Miriam remained in the protected room with the reference book and a list of people from her future who might still be rescued.
+He went with Eleanor. Fanshawe was formally suspended and Beatrice had compromised the index; putting either of them in front of Glock would hand him a useful distraction. Miriam remained in the protected room with the reference book and a list of people from her future who might still be rescued.
 
-The committee room had a long table, six chairs and a jug of water nobody had requested. Pelling stood when they entered. Bell did not.
+The committee room had a long table, six chairs and a jug of water nobody had requested. Pelling stood when they entered. Glock did not.
 
 “Mr Pembroke. I’m glad you returned safely.”
 
@@ -1758,7 +1758,7 @@ Arthur sat opposite him.
 
 “It was me. I was disturbed.”
 
-Pelling glanced at Bell, seeking the expression appropriate to this level of humour. Bell supplied none.
+Pelling glanced at Glock, seeking the expression appropriate to this level of humour. Glock supplied none.
 
 The minister cleared his throat.
 
@@ -1770,9 +1770,9 @@ The minister cleared his throat.
 
 “The sentence is accurate. Its implication requires work.”
 
-Bell put a document before Arthur. It was an interim appointment as Acting Receiver of Historical Continuity, without prejudice to any later constitutional arrangement. The phrase without prejudice appeared four times, which made Arthur expect considerable prejudice nearby.
+Glock put a document before Arthur. It was an interim appointment as Acting Receiver of Historical Continuity, without prejudice to any later constitutional arrangement. The phrase without prejudice appeared four times, which made Arthur expect considerable prejudice nearby.
 
-“An administrative role,” Bell said. “You would verify that the current government exists and that ordinary services may continue. Hospitals cannot wait for your inquiry.”
+“An administrative role,” Glock said. “You would verify that the current government exists and that ordinary services may continue. Hospitals cannot wait for your inquiry.”
 
 “Are hospitals being interrupted?”
 
@@ -1780,7 +1780,7 @@ Bell put a document before Arthur. It was an interim appointment as Acting Recei
 
 “By the correction you arranged.”
 
-Pelling’s smile disappeared. Bell folded his hands.
+Pelling’s smile disappeared. Glock folded his hands.
 
 “Director Fanshawe authorised it.”
 
@@ -1810,9 +1810,9 @@ Pelling’s hand moved towards his glass and stopped. For a moment he looked lik
 
 “We do. Your entire government derives from an intervention yesterday. We’re trying to establish whether that intervention was fraudulent.”
 
-Bell said, “Every government derives from things that happened yesterday, Mr Pembroke. Yours included.”
+Glock said, “Every government derives from things that happened yesterday, Mr Pembroke. Yours included.”
 
-It was a good answer, and Arthur disliked it partly because it was good. He could not simply declare his remembered world morally entitled to exist. It had had cruelty, incompetence and railway accidents. He needed evidence of Bell’s fraud, not nostalgia with a security clearance.
+It was a good answer, and Arthur disliked it partly because it was good. He could not simply declare his remembered world morally entitled to exist. It had had cruelty, incompetence and railway accidents. He needed evidence of Glock’s fraud, not nostalgia with a security clearance.
 
 “Then you won’t object to an independent examination.”
 
@@ -1822,7 +1822,7 @@ Eleanor leaned forward.
 
 “So do we. You propose to make it a monarchy.”
 
-Pelling turned sharply. Bell’s expression did not change, but a muscle moved beside the scar on his chin.
+Pelling turned sharply. Glock’s expression did not change, but a muscle moved beside the scar on his chin.
 
 “The constitutional proposals concern an emergency three years from now. They are not before this meeting.”
 
@@ -1832,7 +1832,7 @@ He pushed the appointment back.
 
 “No.”
 
-Bell did not pick it up.
+Glock did not pick it up.
 
 “You should see the registration centres before deciding. There are families who cannot collect wages because two histories assign them different employers. There are children whose parents have become administrative strangers. You can end that uncertainty.”
 
@@ -1840,7 +1840,7 @@ Bell did not pick it up.
 
 “By allowing a system to function.”
 
-“I once stood in a records office in Leeds nine days after a flood,” Bell said. “Birth certificates, deeds, compensation files, a century of paper reduced to porridge. People with a cousin at the council had replacements by Friday. Everyone else was asked to produce the documents the office had just drowned. I decided then that a record ought not to be a thing that could be lost.”
+“I once stood in a records office in Leeds nine days after a flood,” Glock said. “Birth certificates, deeds, compensation files, a century of paper reduced to porridge. People with a cousin at the council had replacements by Friday. Everyone else was asked to produce the documents the office had just drowned. I decided then that a record ought not to be a thing that could be lost.”
 
 It was probably the one true thing he had said all day, and Arthur resented it for that.
 
@@ -1850,7 +1850,7 @@ It was probably the one true thing he had said all day, and Arthur resented it f
 
 “Who keeps the appeal?”
 
-Bell’s eyes sharpened. Arthur understood that he had repeated the dead man’s question too closely.
+Glock’s eyes sharpened. Arthur understood that he had repeated the dead man’s question too closely.
 
 “You have received unauthorised material.”
 
@@ -1858,9 +1858,9 @@ Bell’s eyes sharpened. Arthur understood that he had repeated the dead man’s
 
 Pelling stood. “I think we should adjourn.”
 
-Bell looked at him, and for a second the minister seemed about to sit again. Then he remained standing. It was not much, but Arthur recorded it mentally.
+Glock looked at him, and for a second the minister seemed about to sit again. Then he remained standing. It was not much, but Arthur recorded it mentally.
 
-At the door, Pelling asked Eleanor whether he could see an ordinary comparison report. Bell began to answer for her. Pelling held up a hand.
+At the door, Pelling asked Eleanor whether he could see an ordinary comparison report. Glock began to answer for her. Pelling held up a hand.
 
 “I asked Dr Vale.”
 
@@ -1974,7 +1974,7 @@ Arthur, who had been studying a shelf of fuses with great attention, understood 
 
 Eleanor briefed him over a map. The Strath estate was fictional only in the sense that it had been omitted from modern public catalogues; in its own century it was a damp collection of land, debts and people. Its owner had died of a fever earlier in 1746. Competing claims to property had left tenants and dependants without a clear person to whom payment or petitions could be made. A private trust had appointed a receiver pending settlement.
 
-“Bell isn’t trying to restore a dynasty,” Eleanor said. “He’s borrowing a device for managing uncertain ownership.”
+“Glock isn’t trying to restore a dynasty,” Eleanor said. “He’s borrowing a device for managing uncertain ownership.”
 
 “Of a country.”
 
@@ -1986,7 +1986,7 @@ Their arrival interval was in a disused laundry beside the estate house on 3 Oct
 
 “She signed the accounts.”
 
-“Does Bell know we’re going?”
+“Does Glock know we’re going?”
 
 “He knows we need the original. He doesn’t know which gap we found.”
 
@@ -2080,7 +2080,7 @@ Agnes touched her marginal note.
 
 “That the receiver must keep petitions even when he refuses them. That two independent copies remain outside his custody. That no beneficiary loses their claim by refusing his representation.”
 
-Arthur looked at Eleanor. These were precisely the protections missing from Bell’s annex.
+Arthur looked at Eleanor. These were precisely the protections missing from Glock’s annex.
 
 They had travelled nearly three centuries to find the source of an argument, and found a woman already making it without their help.
 
@@ -2196,7 +2196,7 @@ Lyle looked from one to the other. “What is this?”
 
 Cresswell drew Arthur away from the table by his sleeve. His voice dropped.
 
-“Mr Bell prefers not to make a scene.”
+“Mr Glock prefers not to make a scene.”
 
 “He has an extensive staff for it.”
 
@@ -2212,7 +2212,7 @@ She looked up without a change of expression.
 
 “I shall examine it.”
 
-Cresswell led Arthur into the yard. The cold struck his wet palms. Behind the laundry wall stood a small copper frame, half covered with cloth. Bell had found another gap after all, earlier in the afternoon. Saye waited beside it, one eye darkened from the struggle aboard the Mercy.
+Cresswell led Arthur into the yard. The cold struck his wet palms. Behind the laundry wall stood a small copper frame, half covered with cloth. Glock had found another gap after all, earlier in the afternoon. Saye waited beside it, one eye darkened from the struggle aboard the Mercy.
 
 “Mr Pembroke.”
 
@@ -2262,9 +2262,9 @@ Saye lowered the pistol slightly. Eleanor did not lower the poker.
 
 Arthur said, “We have a return window. You can use it after we’re done. In custody.”
 
-“Bell won’t accept that.”
+“Glock won’t accept that.”
 
-“Bell isn’t here.”
+“Glock isn’t here.”
 
 That seemed to reach Saye with unusual force. He had spent the day carrying instructions through centuries. Now he stood in a cold yard where those instructions could not warm him or open a door.
 
@@ -2360,7 +2360,7 @@ Miriam checked Eleanor’s hands for burns. Beatrice took the protected case to 
 
 “Does it match?”
 
-“The original limitation does. Bell’s abstract omits three sentences.”
+“The original limitation does. Glock’s abstract omits three sentences.”
 
 “Accidentally?”
 
@@ -2370,11 +2370,11 @@ She gave him a look.
 
 “Try another department.”
 
-The omitted sentences established that the receiver could not extinguish a claim by refusing to admit its evidence; that petitions and refusals must be kept in independent custody; and that representation required consent. Bell’s 1815 annex preserved the title while reversing each protection. It was not a mistranslation or an ambitious interpretation. It was a fraud with very good stationery.
+The omitted sentences established that the receiver could not extinguish a claim by refusing to admit its evidence; that petitions and refusals must be kept in independent custody; and that representation required consent. Glock’s 1815 annex preserved the title while reversing each protection. It was not a mistranslation or an ambitious interpretation. It was a fraud with very good stationery.
 
 “Can we prove he knew?” Arthur asked.
 
-Beatrice opened her old access register. Bell had inspected the full Strath copy in 2008. He had signed a receipt listing its pages. The pages containing the limitations were specifically initialled.
+Beatrice opened her old access register. Glock had inspected the full Strath copy in 2008. He had signed a receipt listing its pages. The pages containing the limitations were specifically initialled.
 
 “Yes.”
 
@@ -2388,7 +2388,7 @@ She put it in the evidence case.
 
 Eleanor needed several hours to compare the original memorandum, the substituted annex and the growing consequences. The repair could not simply restore every detail Arthur remembered. Fanshawe’s act had been followed by their own witnessed actions, by Hester’s resistance, by the delivery of Miriam and the dead Arthur. Those events had acquired protected evidence. A viable reconciliation must preserve them as displacements while removing the fraudulent legal branch where an open interval still permitted it.
 
-“We can restore the original terms at the duplicate dispatch,” Eleanor said. “But only if it hasn’t already been independently copied outside Bell’s control.”
+“We can restore the original terms at the duplicate dispatch,” Eleanor said. “But only if it hasn’t already been independently copied outside Glock’s control.”
 
 “Hester’s proof?”
 
@@ -2396,7 +2396,7 @@ Eleanor needed several hours to compare the original memorandum, the substituted
 
 Arthur wrote it down. He had learned to distrust rules which only appeared when they became useful. This one was already in the two receipts.
 
-At four, Pelling sent a message. He had read the comparison report. He wanted to meet without Bell, at a registration centre near Victoria. Eleanor said it might be a trap. Arthur said it was almost certainly an opportunity for a trap, which was not quite the same thing.
+At four, Pelling sent a message. He had read the comparison report. He wanted to meet without Glock, at a registration centre near Victoria. Eleanor said it might be a trap. Arthur said it was almost certainly an opportunity for a trap, which was not quite the same thing.
 
 He went with Beatrice. Neither liked leaving the protected floors. At the exit they passed through the induction check, which confirmed that their memories would remain their own. It could not promise they would enjoy them.
 
@@ -2454,7 +2454,7 @@ The minister took the question seriously. Arthur revised his estimate of him a l
 
 “I knew there were discrepancies. I didn’t know the central register was refusing contradictory evidence by design.”
 
-“Bell needs the refusal,” Arthur said. “If all disputes remain visible, no single witness can settle the country. If he controls the accepted record, the crisis looks insoluble until he supplies his solution.”
+“Glock needs the refusal,” Arthur said. “If all disputes remain visible, no single witness can settle the country. If he controls the accepted record, the crisis looks insoluble until he supplies his solution.”
 
 “You.”
 
@@ -2466,7 +2466,7 @@ Pelling sat down.
 
 “Authorise an inquiry with independent custody of the evidence. Not a departmental review.”
 
-“Bell will say the material is classified.”
+“Glock will say the material is classified.”
 
 “Then hear it under safeguards. But more than one office must retain it, and he must not choose every witness.”
 
@@ -2502,7 +2502,7 @@ Arthur understood the lock then, and admired the workmanship. Nothing had been f
 
 Beatrice said quietly, “He’ll bury it.”
 
-Garrick heard. He had the face of a man who had been called a villain once and had not enjoyed it, and what he said next was not for Bell’s benefit.
+Garrick heard. He had the face of a man who had been called a villain once and had not enjoyed it, and what he said next was not for Glock’s benefit.
 
 “If that file goes missing, Miss Ahmed is the one who loses her post. Not me. For the avoidance of doubt.”
 
@@ -2680,7 +2680,7 @@ Nobody argued. It was almost worse than if they had. Eleanor came in and shut th
 
 “I kept you alive,” she said. “I also kept you small. I knew I was doing both. I told myself the first excused the second.”
 
-“And if Bell had never touched Belgium?”
+“And if Glock had never touched Belgium?”
 
 “You’d have retired in 2051 with a clock, never knowing,” Eleanor said. “And I’d have thought that was a good outcome.”
 
@@ -2734,9 +2734,9 @@ He sat. The linoleum was cold through his trousers.
 
 “You know because you’ve got his face.”
 
-“Because Bell says I wasn’t unhappy at first. Nobody says that about a man who was dragged in.”
+“Because Glock says I wasn’t unhappy at first. Nobody says that about a man who was dragged in.”
 
-Miriam was quiet long enough for the machine to tick twice. “It was a Tuesday,” she said. “They’d had forty people in the custody rooms for nine months and the lower archive was meant to hold twenty. They slept in shifts. A woman had a baby on a table in the sanitation store. Bell came down with a clipboard and a sandwich and said he could have them all in proper housing by evening. Not as a bargain. As a fact. He needed one signature on an administrative post, and the housing would follow, because the post controlled the budget.”
+Miriam was quiet long enough for the machine to tick twice. “It was a Tuesday,” she said. “They’d had forty people in the custody rooms for nine months and the lower archive was meant to hold twenty. They slept in shifts. A woman had a baby on a table in the sanitation store. Glock came down with a clipboard and a sandwich and said he could have them all in proper housing by evening. Not as a bargain. As a fact. He needed one signature on an administrative post, and the housing would follow, because the post controlled the budget.”
 
 “And he believed that.”
 
@@ -2748,7 +2748,7 @@ Miriam was quiet long enough for the machine to tick twice. “It was a Tuesday,
 
 “And then?”
 
-“And then the register. A man called Evans was refused a transfer because his name was on a list that couldn’t be shown to him. You asked who kept the list. Somebody told you there wasn’t a list; there was a rule. So you asked for the rule.” She looked at her hands. “That’s when Bell started asking me what you were like in the mornings. As if I’d know.”
+“And then the register. A man called Evans was refused a transfer because his name was on a list that couldn’t be shown to him. You asked who kept the list. Somebody told you there wasn’t a list; there was a rule. So you asked for the rule.” She looked at her hands. “That’s when Glock started asking me what you were like in the mornings. As if I’d know.”
 
 “Did you?”
 
@@ -2828,7 +2828,7 @@ He looked at her. She was angry now, properly angry, and he loved her so fiercel
 
 “But your work does.”
 
-He explained Bell’s register, the refusal of evidence, the proposed kingship. He explained that he could not preserve every good consequence of the altered history while removing its causes. The machine was not a catalogue from which one selected surviving relatives and acceptable governments. Protecting an arrived person was possible. Transporting everyone on a branch into a chamber under Whitehall was not.
+He explained Glock’s register, the refusal of evidence, the proposed kingship. He explained that he could not preserve every good consequence of the altered history while removing its causes. The machine was not a catalogue from which one selected surviving relatives and acceptable governments. Protecting an arrived person was possible. Transporting everyone on a branch into a chamber under Whitehall was not.
 
 “Could you bring us?” she asked.
 
@@ -2902,7 +2902,7 @@ Back at the department, Eleanor waited beside the lift.
 
 “I had assumed.”
 
-“Bell has opened the future terminal again. He’s offering a visit.”
+“Glock has opened the future terminal again. He’s offering a visit.”
 
 “To whom?”
 
@@ -2914,7 +2914,7 @@ Arthur put the notebook in his coat.
 
 ## 17 The Terms of Inspection
 
-The invitation came through the old telephone in Bell’s voice, with a faint delay which made him sound as though he were considering each word for moral implications. Arthur knew him well enough by then not to be misled.
+The invitation came through the old telephone in Glock’s voice, with a faint delay which made him sound as though he were considering each word for moral implications. Arthur knew him well enough by then not to be misled.
 
 “You should inspect the consequence you are proposing to erase.”
 
@@ -2936,7 +2936,7 @@ The line was quiet for a moment.
 
 “At your hearing? A minister with no stable mandate, a compromised registrar and a suspended director? Mr Pembroke, you are constructing independence from people who agree with you.”
 
-Arthur looked through the glass at Pelling’s message confirming two judicial observers, an opposition solicitor and a university archivist. The composition was imperfect. Bell’s criticism was not entirely invented. That was why Arthur had accepted the observers Pelling selected rather than naming his friends.
+Arthur looked through the glass at Pelling’s message confirming two judicial observers, an opposition solicitor and a university archivist. The composition was imperfect. Glock’s criticism was not entirely invented. That was why Arthur had accepted the observers Pelling selected rather than naming his friends.
 
 “We’ll keep a place for you.”
 
@@ -2954,7 +2954,7 @@ Arthur looked at Eleanor. She wrote a word on a pad: CONDITIONS.
 
 “I’m trying to avoid asking for any.”
 
-Bell accepted after a pause. It worried Arthur more than refusal would have.
+Glock accepted after a pause. It worried Arthur more than refusal would have.
 
 Miriam opposed the visit. She stood in front of the console, arms folded.
 
@@ -2962,7 +2962,7 @@ Miriam opposed the visit. She stood in front of the console, arms folded.
 
 “He had me killed.”
 
-“Somebody shot him on Bell’s say-so,” Miriam said. “That’s what killed means, Arthur.”
+“Somebody shot him on Glock’s say-so,” Miriam said. “That’s what killed means, Arthur.”
 
 “We need to know where the detainees are. And where the endpoint is anchored.”
 
@@ -2972,7 +2972,7 @@ Miriam opposed the visit. She stood in front of the console, arms folded.
 
 Miriam looked away. It was painful to lose the one advantage her suffering had given her.
 
-Eleanor checked the portable tokens twice. Bell’s endpoint could receive them into a corridor whose cameras had been deliberately turned away, but once they arrived and observed it, that entry minute would be closed. Return would occur in a separately reserved service recess ten minutes later. The local and future clocks did not have to display the same time, but the sequence of openings could not be reversed at will. If Bell failed to honour the recess, Miriam would have to locate another actual gap. There was no emergency button that made witnesses forget.
+Eleanor checked the portable tokens twice. Glock’s endpoint could receive them into a corridor whose cameras had been deliberately turned away, but once they arrived and observed it, that entry minute would be closed. Return would occur in a separately reserved service recess ten minutes later. The local and future clocks did not have to display the same time, but the sequence of openings could not be reversed at will. If Glock failed to honour the recess, Miriam would have to locate another actual gap. There was no emergency button that made witnesses forget.
 
 “I don’t like it,” she said.
 
@@ -2982,7 +2982,7 @@ They crossed at ten fourteen. On the other side, the department had been painted
 
 Arthur felt the floor under his feet and had the strange sensation of walking into a threat written in his own handwriting.
 
-Bell waited with an officer in grey whose name tape read REED, and a young man holding a tablet. He looked three years older, not enough to account for the distance between them.
+Glock waited with an officer in grey whose name tape read REED, and a young man holding a tablet. He looked three years older, not enough to account for the distance between them.
 
 “Welcome.”
 
@@ -2996,9 +2996,9 @@ Eleanor looked at both of his wrists.
 
 “With myself. Yes.”
 
-Eleanor wrote it on her cuff: two Bells, one frame, neither ever through her machine. It was both the good news and the insult.
+Eleanor wrote it on her cuff: two Glocks, one frame, neither ever through her machine. It was both the good news and the insult.
 
-Arthur had wondered how Bell’s plan could survive changes. Now he saw the method. Not omniscience, but a protected man handing instructions to his earlier self, carrying the experience of a branch which might disappear. Each instruction had an origin. Each could also be wrong.
+Arthur had wondered how Glock’s plan could survive changes. Now he saw the method. Not omniscience, but a protected man handing instructions to his earlier self, carrying the experience of a branch which might disappear. Each instruction had an origin. Each could also be wrong.
 
 They passed through a registration hall. It was clean and quiet. At the desks, people placed their hands on readers and received printed cards. The absence of shouting was impressive until Arthur noticed the guards.
 
@@ -3010,7 +3010,7 @@ The young man checked the tablet.
 
 “How many appeals?”
 
-Bell said, “The old categories were unhelpful.”
+Glock said, “The old categories were unhelpful.”
 
 Arthur stopped beside a woman holding a folded orange band.
 
@@ -3024,7 +3024,7 @@ The hall went quiet.
 
 She did not. The guard took a step towards them. Eleanor stepped into his path without appearing to do so.
 
-“She may answer,” Bell said.
+“She may answer,” Glock said.
 
 “Eleven months, sir.”
 
@@ -3034,13 +3034,13 @@ She did not. The guard took a step towards them. Eleanor stepped into his path w
 
 “Wrong how?”
 
-Her eyes moved to Bell. “He says things happened that aren’t approved.”
+Her eyes moved to Glock. “He says things happened that aren’t approved.”
 
 The young man with the tablet made a note. Arthur took out his own notebook.
 
 “Your name?”
 
-Bell’s expression tightened.
+Glock’s expression tightened.
 
 “There are privacy considerations.”
 
@@ -3062,7 +3062,7 @@ They went through a passage overlooking a lower room. Through the glass Arthur s
 
 At the far end stood a door labelled REFERENCE CUSTODY. Beside it was an old service lift, unpainted inside its modern frame.
 
-Bell followed Arthur’s gaze.
+Glock followed Arthur’s gaze.
 
 “All temporary.”
 
@@ -3088,7 +3088,7 @@ Arthur stopped at the door.
 
 On the wall hung the official portrait. It was Arthur’s face, altered slightly by lighting and three years of decisions he had not made. Beneath it was a blank space where dates might eventually go.
 
-Bell said, “You were not unhappy here at first.”
+Glock said, “You were not unhappy here at first.”
 
 “That’s not an endorsement.”
 
@@ -3102,7 +3102,7 @@ Arthur looked back towards the custody room.
 
 “They have rights even when they’re mistaken.”
 
-Bell’s face hardened.
+Glock’s face hardened.
 
 “A country cannot run on everyone’s private version of the truth.”
 
@@ -3110,15 +3110,15 @@ Bell’s face hardened.
 
 Eleanor touched Arthur’s elbow. Time.
 
-They went to the return recess. The portable token glowed. Bell made no attempt to stop them.
+They went to the return recess. The portable token glowed. Glock made no attempt to stop them.
 
-That was when Arthur understood the invitation. Bell had not meant to trap him. He had meant to make repair look like demolition, and the clean desks were doing most of the work.
+That was when Arthur understood the invitation. Glock had not meant to trap him. He had meant to make repair look like demolition, and the clean desks were doing most of the work.
 
 Before stepping through, Arthur turned.
 
 “Who shot him?”
 
-Bell knew which man he meant.
+Glock knew which man he meant.
 
 “An officer responding to a threat to the register.”
 
@@ -3126,7 +3126,7 @@ Bell knew which man he meant.
 
 By the door, Reed stood with his hands behind him and looked at the floor.
 
-Bell said nothing.
+Glock said nothing.
 
 Arthur crossed back with Elise Marot’s name written in his notebook and the sound of the quiet hall still in his ears.
 
@@ -3142,7 +3142,7 @@ Miriam read Arthur’s account of Elise twice. Then she asked him whether Jon Ba
 
 “Good.”
 
-She marked the service lift on the building plan. Eleanor checked the future return trace. Bell had honoured their conditions exactly, which meant the visit had provided a reliable physical map of the endpoint and its power supply. The future machine drew its reference from a sealed room below the ceremonial chamber. If they could interrupt that connection, Bell would lose the ability to send further instructions backwards. But the people already held there would still need a way out before the branch was replaced.
+She marked the service lift on the building plan. Eleanor checked the future return trace. Glock had honoured their conditions exactly, which meant the visit had provided a reliable physical map of the endpoint and its power supply. The future machine drew its reference from a sealed room below the ceremonial chamber. If they could interrupt that connection, Glock would lose the ability to send further instructions backwards. But the people already held there would still need a way out before the branch was replaced.
 
 “The freight window is rated for twenty-one hundred kilograms of protected load,” Eleanor said. “At seventy a head that is thirty people. Allow for bags, chairs and the fact that nobody is a standard adult, and call it twenty-three. Nineteen is the number I’d promise.”
 
@@ -3180,9 +3180,9 @@ Arthur turned the photograph over and wrote the names on a separate application 
 
 Beatrice stood and went to the sink. For a while she washed a cup which was already clean.
 
-The hearing would begin in twenty-five minutes. Fanshawe came in carrying Saye’s written statement. The clerk had agreed to talk after being shown that Bell’s access receipt and the original limitations were independently preserved. His first concern was whether cooperation could be entered in the record. Arthur said it could, without promising what it would buy him.
+The hearing would begin in twenty-five minutes. Fanshawe came in carrying Saye’s written statement. The clerk had agreed to talk after being shown that Glock’s access receipt and the original limitations were independently preserved. His first concern was whether cooperation could be entered in the record. Arthur said it could, without promising what it would buy him.
 
-Saye had worked for Bell for nine years. He had carried documents between a succession of small historical interventions, each described as a resilience measure. He had not known the whole plan at first. By the time he did, his own employment history existed only in protected records Bell controlled.
+Saye had worked for Glock for nine years. He had carried documents between a succession of small historical interventions, each described as a resilience measure. He had not known the whole plan at first. By the time he did, his own employment history existed only in protected records Glock controlled.
 
 “He says he couldn’t leave,” Fanshawe reported.
 
@@ -3192,7 +3192,7 @@ Saye had worked for Bell for nine years. He had carried documents between a succ
 
 “Write both.”
 
-Saye’s statement described the casualty projections used to recruit Fanshawe. They were genuine extracts from a possible 2031, but the chain producing that future began with Bell’s own emergency regime. Bell had presented the consequences of his plan as the danger his plan would prevent. It was a fraud of omitted premises, a particularly departmental form of lying.
+Saye’s statement described the casualty projections used to recruit Fanshawe. They were genuine extracts from a possible 2031, but the chain producing that future began with Glock’s own emergency regime. Glock had presented the consequences of his plan as the danger his plan would prevent. It was a fraud of omitted premises, a particularly departmental form of lying.
 
 “Can he substantiate it?” Eleanor asked.
 
@@ -3334,7 +3334,7 @@ Hester did not scream. She had stopped screaming at the age of nine and had neve
 
 He was tall, grey at the temples, with a small scar on his chin. Daniel had said *respectable*. The word was accurate without being generous.
 
-“Mr Bell.”
+“Mr Glock.”
 
 “Mrs Pike.” He stood, which she noted. “I have been admiring your press. A good one. Mr Pike’s father’s, I think? The cheeks are Hodgson’s work.” Hester had not known that, and did not allow her face to say so. “The injury done to it was regrettable, and I have said so to the person responsible. I propose to make it good, with interest, and to take the opportunity to settle Mr Wren’s indenture.”
 
@@ -3366,7 +3366,7 @@ He studied her for what felt like a quarter of an hour and was, by the clock on 
 
 “It’s my cause. It’s the size I could afford.” She lifted the poker an inch. “Your hat’s by the door.”
 
-He took it. At the threshold he laid a card on the counter, a good thick card with L. BELL engraved in the centre and nothing else.
+He took it. At the threshold he laid a card on the counter, a good thick card with L. GLOCK engraved in the centre and nothing else.
 
 “If you change your mind, it will be remembered that you were asked first.”
 
@@ -3424,7 +3424,7 @@ She gave him a coin as well. “Tell him I haven’t come back. Then find Mr Gan
 
 Mr Gant had quarrelled with Hester over a paper delivery in February and had been waiting for an opportunity to be magnanimous. She would let him enjoy it.
 
-By midnight they had the borrowed press in a cellar behind a bookseller’s shop. Gant complained about the danger, the hour and the inconvenience, while setting the damaged forme with painstaking care. Hester put Bell’s note beside the annex and asked him to print both on a single sheet, with her own short account of the attempted seizure beneath.
+By midnight they had the borrowed press in a cellar behind a bookseller’s shop. Gant complained about the danger, the hour and the inconvenience, while setting the damaged forme with painstaking care. Hester put Glock’s note beside the annex and asked him to print both on a single sheet, with her own short account of the attempted seizure beneath.
 
 “This is a libel,” Gant said.
 
@@ -3442,7 +3442,7 @@ Daniel read it through once, and then did something she had not expected. He put
 
 “It says what.”
 
-“It says a gentleman’s secretary left a note. Any lawyer would say the secretary acted alone. I carried that packet. I put it in Bell’s hand. I can say so.”
+“It says a gentleman’s secretary left a note. Any lawyer would say the secretary acted alone. I carried that packet. I put it in Glock’s hand. I can say so.”
 
 “And they will know your name and your lodgings.”
 
@@ -3540,7 +3540,7 @@ When Ned returned, he brought an envelope addressed to her in a hand she did not
 
 Hester smiled for the first time since seeing her broken press.
 
-Arthur had found the second date. Now she had the reason. Bell’s men had ordered a fresh impression after changing the annex, but the committee’s clerk had refused to countersign a sheet carrying yesterday’s date. An ordinary objection, by an ordinary man who probably thought he was being tiresome, had kept the instrument unsettled for another day.
+Arthur had found the second date. Now she had the reason. Glock’s men had ordered a fresh impression after changing the annex, but the committee’s clerk had refused to countersign a sheet carrying yesterday’s date. An ordinary objection, by an ordinary man who probably thought he was being tiresome, had kept the instrument unsettled for another day.
 
 She wrote the message twice. One copy she hid beneath the stove’s ash tray. The other she kept in her bodice.
 
@@ -3552,7 +3552,7 @@ The hearing was held in a room normally used for procurement appeals. This was a
 
 Pelling sat at the centre of the table, flanked by retired judge Dame Judith North, solicitor Aisha Cole and archivist Professor Stephen Ives. None had worked for the department. None remembered Belgium in the same way as Arthur. That last fact mattered. He could not assume the truth he had come to establish.
 
-Two clerks kept separate minutes. A third recorded the proceedings on equipment supplied by the university. Bell had objected in writing to the duplication. Pelling had appended the objection to all three records.
+Two clerks kept separate minutes. A third recorded the proceedings on equipment supplied by the university. Glock had objected in writing to the duplication. Pelling had appended the objection to all three records.
 
 Before anyone spoke, Dame Judith North asked that a statement be entered. In the register as it now stood she had never been called to the bar. She sat by courtesy of Mr Pelling’s invitation, and she kept, in the lining of her handbag, a private file of eleven judgments the central extract said she had never given.
 
@@ -3562,7 +3562,7 @@ Arthur began with the simplest claim: a memorandum had been substituted on 21 Ju
 
 The questions were slow. Arthur wanted to hurry them and knew that was precisely why they were necessary.
 
-Fanshawe admitted his intervention. Cole asked whether he had sought an independent assessment of Bell’s casualty forecast.
+Fanshawe admitted his intervention. Cole asked whether he had sought an independent assessment of Glock’s casualty forecast.
 
 “No.”
 
@@ -3600,15 +3600,15 @@ Dame Judith made a note. Arthur saw her underline something once.
 
 Miriam entered carrying no papers. She told them about the future registration rooms, the orange bands and Arthur’s death. She was precise about what she had seen and what others had told her. She refused to identify the officer who fired because she had not seen his face clearly enough.
 
-“But you believe Mr Bell ordered it?” Cole asked.
+“But you believe Mr Glock ordered it?” Cole asked.
 
 “I believe he made the rule under which it was done. I didn’t hear him give an order.”
 
-Bell’s remote connection came alive at that moment. His face appeared on a monitor at the end of the table. The future ceremonial room lay behind him.
+Glock’s remote connection came alive at that moment. His face appeared on a monitor at the end of the table. The future ceremonial room lay behind him.
 
 “Thank you for the accuracy, Miss Crumb,” he said.
 
-Pelling asked him to identify his date and sequence. Bell complied. Ives asked that every question say which Bell was meant. Bell appeared mildly amused. Arthur thought he would be less amused when it came to liability.
+Pelling asked him to identify his date and sequence. Glock complied. Ives asked that every question say which Glock was meant. Glock appeared mildly amused. Arthur thought he would be less amused when it came to liability.
 
 Cole showed the 1746 limitations and the 2008 access receipt.
 
@@ -3626,13 +3626,13 @@ Cole showed the 1746 limitations and the 2008 access receipt.
 
 “Did you disclose it?”
 
-Bell looked at Fanshawe.
+Glock looked at Fanshawe.
 
 “I did not provide a line-by-line historical commentary.”
 
 Cole let the answer remain on the record. She turned to the casualty forecast.
 
-Saye was brought in under guard and identified the model export. Bell’s expression changed when he saw him, not with surprise but with the cold disappointment of an owner finding damage.
+Saye was brought in under guard and identified the model export. Glock’s expression changed when he saw him, not with surprise but with the cold disappointment of an owner finding damage.
 
 “Mr Saye is subject to disciplinary proceedings.”
 
@@ -3642,11 +3642,11 @@ Saye was brought in under guard and identified the model export. Bell’s expres
 
 “We shall bear that in mind while hearing the disclosure.”
 
-Saye testified that the forecast’s earliest model assumption was the emergency receiver settlement. Bell had removed the premise pages before presenting the casualties as an independent danger. Eleanor showed the matching export identifier and missing page range. The evidence did not prove that the war would never happen. It proved that Fanshawe had been asked to prevent a danger on a materially false account of its causes.
+Saye testified that the forecast’s earliest model assumption was the emergency receiver settlement. Glock had removed the premise pages before presenting the casualties as an independent danger. Eleanor showed the matching export identifier and missing page range. The evidence did not prove that the war would never happen. It proved that Fanshawe had been asked to prevent a danger on a materially false account of its causes.
 
 Pelling’s face had grown pale.
 
-Bell leaned towards the camera.
+Glock leaned towards the camera.
 
 “You are debating disclosure standards while an entire population depends on continuity. Mr Pembroke has seen the future. Ask him whether it functions.”
 
@@ -3662,9 +3662,9 @@ Arthur stood.
 
 “I would stop you making the alternative illegal to describe.”
 
-“Ask him,” Bell said, “why the man on the trolley signed.”
+“Ask him,” Glock said, “why the man on the trolley signed.”
 
-The room turned. Nobody had mentioned a trolley in public session. Arthur understood that Bell had not needed Miriam to tell him; he had been there when it was wheeled.
+The room turned. Nobody had mentioned a trolley in public session. Arthur understood that Glock had not needed Miriam to tell him; he had been there when it was wheeled.
 
 “Do you know what he refers to?” Dame Judith asked.
 
@@ -3672,9 +3672,9 @@ The room turned. Nobody had mentioned a trolley in public session. Arthur unders
 
 “And did it?”
 
-“It did,” Arthur said. “Mr Bell is right about that. It did, for two and a half years.”
+“It did,” Arthur said. “Mr Glock is right about that. It did, for two and a half years.”
 
-Bell inclined his head, as to a witness who has conceded a point.
+Glock inclined his head, as to a witness who has conceded a point.
 
 “Then the question is simple. Forty people in a room. A baby. A signature. Would you have signed?”
 
@@ -3688,19 +3688,19 @@ It was a clever question. It had been built, Arthur thought, by a man who had as
 
 Dame Judith wrote something down, underlined it twice and said, to the transcript, “The witness has declined to claim a certainty he does not possess. We shall note it.”
 
-For the space of a breath Bell looked as though he had been given exactly what he asked for, and found it was not what he wanted.
+For the space of a breath Glock looked as though he had been given exactly what he asked for, and found it was not what he wanted.
 
-Bell’s gaze moved towards the notebook.
+Glock’s gaze moved towards the notebook.
 
 “Your sister may disagree.”
 
-Arthur felt the room recede for a second. He had expected Bell to know. Expecting it did not make hearing it less invasive.
+Arthur felt the room recede for a second. He had expected Glock to know. Expecting it did not make hearing it less invasive.
 
 “She does,” he said. “I’ve included her application for protection with the others.”
 
-Bell looked briefly wrong-footed. He had offered a secret bargain and found a public difficulty instead.
+Glock looked briefly wrong-footed. He had offered a secret bargain and found a public difficulty instead.
 
-Dame Judith asked whether immediate suspension of the future reference sealing was physically possible. Eleanor said yes, if Bell cooperated. Bell said cooperation required recognition of the existing authority. Cole asked whether this meant Arthur’s signature. Bell did not answer directly.
+Dame Judith asked whether immediate suspension of the future reference sealing was physically possible. Eleanor said yes, if Glock cooperated. Glock said cooperation required recognition of the existing authority. Cole asked whether this meant Arthur’s signature. Glock did not answer directly.
 
 Then the monitor behind him changed. A red notice appeared: PROVISIONAL REFERENCE HEARING CONCLUDED. PRINCIPAL WITNESS VERIFIED.
 
@@ -3708,7 +3708,7 @@ Eleanor stood so quickly that her chair fell.
 
 “Cut the feed.”
 
-Bell smiled faintly.
+Glock smiled faintly.
 
 “Verification does not require agreement.”
 
@@ -3718,7 +3718,7 @@ The university technician disconnected the cable. The screen went black. In the 
 
 The hearing had not made Arthur king. Eleanor repeated that twice while they ran downstairs, because it mattered and everyone was inclined to panic before hearing it.
 
-Bell had used the live feed to capture Arthur’s current induction signature, matching the witness at the hearing to the protected child of 1991 and to the dead receiver of 2029. That completed the physical verification stage of his machine, and the thumb Arthur had left on the Form 7B at Victoria had already given him the baseline. He still required consent under the surviving legal chain, or a fraudulent substitute which nobody could effectively challenge. The ceremony would supply the public appearance. The closed register would suppress the objection.
+Glock had used the live feed to capture Arthur’s current induction signature, matching the witness at the hearing to the protected child of 1991 and to the dead receiver of 2029. That completed the physical verification stage of his machine, and the thumb Arthur had left on the Form 7B at Victoria had already given him the baseline. He still required consent under the surviving legal chain, or a fraudulent substitute which nobody could effectively challenge. The ceremony would supply the public appearance. The closed register would suppress the objection.
 
 “He wanted the hearing,” Arthur said.
 
@@ -3728,7 +3728,7 @@ Bell had used the live feed to capture Arthur’s current induction signature, m
 
 “It was a risk we didn’t identify.” Eleanor reached the console. “We’ll record it after we survive it.”
 
-The future channel had widened. Bell’s paired reference frame was drawing on the department’s present stabiliser, trying to reserve all remaining power for the future sealing. If he succeeded, no further 1815 intervention would be possible before the seventy-two hours ended. The branch would harden around his settlement.
+The future channel had widened. Glock’s paired reference frame was drawing on the department’s present stabiliser, trying to reserve all remaining power for the future sealing. If he succeeded, no further 1815 intervention would be possible before the seventy-two hours ended. The branch would harden around his settlement.
 
 Miriam stood at the manual controls, holding one lever down against a mechanical pull. Sweat ran along her temple.
 
@@ -3754,9 +3754,9 @@ Eleanor gave him a look so concentrated that Arthur almost felt sorry for him.
 
 “We may need those.”
 
-She sent him to isolate the ordinary electrical supply. Miriam kept the lever down. Arthur held the inspection lamp while Eleanor traced the bridge through the old wiring. Beatrice brought the original circuit diagram, not the revised version supplied with Bell’s upgrade.
+She sent him to isolate the ordinary electrical supply. Miriam kept the lever down. Arthur held the inspection lamp while Eleanor traced the bridge through the old wiring. Beatrice brought the original circuit diagram, not the revised version supplied with Glock’s upgrade.
 
-At the top of the stairs, a crash sounded. Bell’s officers had returned with an emergency seizure order and were attempting to force the access door. Pelling met them in the corridor with Dame Judith and two ordinary security staff who had been told, in clear language, that a minister was countermanding the order. Nobody knew which authority would prevail. For the moment, uncertainty was useful.
+At the top of the stairs, a crash sounded. Glock’s officers had returned with an emergency seizure order and were attempting to force the access door. Pelling met them in the corridor with Dame Judith and two ordinary security staff who had been told, in clear language, that a minister was countermanding the order. Nobody knew which authority would prevail. For the moment, uncertainty was useful.
 
 Eleanor found the bridge cable. Cutting it would break the future draw, but also destroy the machine’s ability to compare the live branch with its protected original. They would have to transfer that reference to the portable book before cutting. The book had never held the full active load.
 
@@ -3804,11 +3804,11 @@ At the stairs, voices rose, then subsided. Pelling came down accompanied by the 
 
 “The officers have withdrawn pending verification of their order,” he said.
 
-“Captain Reed read the order twice and asked who had signed it. Mr Bell had. He asked under which section. I believe I said section nine before he did. He observed that section nine covers interference and not entry, and that he would like a receipt for the order, for his file.” Pelling put a hand on the wall. “Mrs Crumb’s deputy wrote it out. He took it in front of his men and put it in his breast pocket. I have not been so impressed by anyone in a long time. I was wearing a tie that had no business being so frightened.”
+“Captain Reed read the order twice and asked who had signed it. Mr Glock had. He asked under which section. I believe I said section nine before he did. He observed that section nine covers interference and not entry, and that he would like a receipt for the order, for his file.” Pelling put a hand on the wall. “Mrs Crumb’s deputy wrote it out. He took it in front of his men and put it in his breast pocket. I have not been so impressed by anyone in a long time. I was wearing a tie that had no business being so frightened.”
 
 “How long?” Eleanor asked.
 
-“They’ve discovered that Bell’s earlier self has left the building.”
+“They’ve discovered that Glock’s earlier self has left the building.”
 
 Arthur looked at the dead channel.
 
@@ -3816,7 +3816,7 @@ Arthur looked at the dead channel.
 
 “Most likely,” Eleanor said.
 
-Bell had failed to capture the present machine. He could still secure the duplicate dispatch in the past, while his older self sealed the register in the future. The two ends of the plan were moving towards them, and the middle had just lost a third of its power.
+Glock had failed to capture the present machine. He could still secure the duplicate dispatch in the past, while his older self sealed the register in the future. The two ends of the plan were moving towards them, and the middle had just lost a third of its power.
 
 Miriam got to her feet.
 
@@ -3834,7 +3834,7 @@ By late afternoon the department smelled of burnt insulation and toast. The toas
 
 Dame Judith North found him in the corridor outside the registry, where he had gone to stand still. She had taken off her shoes, an act of such casual authority that nobody had remarked on it, and carried them by their straps.
 
-“You told Mr Bell you didn’t know,” she said.
+“You told Mr Glock you didn’t know,” she said.
 
 “I didn’t.”
 
@@ -3852,13 +3852,13 @@ He looked at the floor tiles. “I think I’d have signed on the Tuesday. Possi
 
 “It gave me paragraph forty-one,” said Dame Judith. “Be careful with evidence, Mr Pembroke. It’s only paper. But it is the only thing that arrives when you’re not there.” She stooped for her shoes. “I shall go and eat the toast. I’m told it’s an unreliable butter.”
 
-They planned around what they knew. The final duplicate dispatch in 1815 could still carry the original memorandum and the genuine limitations. Hester’s printer’s register established that the instrument had not been finally countersigned. Bell’s current self would try to prevent that correction. The future terminal contained nineteen potentially reachable detainees and the original model proving the fraud. Bell’s older self would try to seal its register before they could evacuate them. The present department had a damaged stabiliser, a live inquiry and less than eighteen hours before reconciliation.
+They planned around what they knew. The final duplicate dispatch in 1815 could still carry the original memorandum and the genuine limitations. Hester’s printer’s register established that the instrument had not been finally countersigned. Glock’s current self would try to prevent that correction. The future terminal contained nineteen potentially reachable detainees and the original model proving the fraud. Glock’s older self would try to seal its register before they could evacuate them. The present department had a damaged stabiliser, a live inquiry and less than eighteen hours before reconciliation.
 
 “We can’t send the same person everywhere,” Pelling said.
 
 “Thank you,” Eleanor replied. “That is a surprisingly persistent misconception.”
 
-Arthur had to attend the future sealing because his explicit refusal, delivered before independent witnesses and lodged outside Bell’s custody, would destroy the legal claim that the receiver had willingly vested authority. But he also knew Hester, the shop and the 1815 route. Eleanor was needed to cut the future reference connection. Miriam knew the detainees. Beatrice knew the record chain. Fanshawe knew the original dispatch desk and Bell’s forwarding arrangements.
+Arthur had to attend the future sealing because his explicit refusal, delivered before independent witnesses and lodged outside Glock’s custody, would destroy the legal claim that the receiver had willingly vested authority. But he also knew Hester, the shop and the 1815 route. Eleanor was needed to cut the future reference connection. Miriam knew the detainees. Beatrice knew the record chain. Fanshawe knew the original dispatch desk and Glock’s forwarding arrangements.
 
 For a while every assignment left an indispensable person in the wrong century.
 
@@ -3870,7 +3870,7 @@ Arthur looked at her.
 
 “I have spent those years correcting its paperwork.”
 
-“Bell will know you.”
+“Glock will know you.”
 
 “He knows all of us.”
 
@@ -3884,7 +3884,7 @@ Fanshawe offered to go with her. She considered him for a moment, then nodded.
 
 He accepted the limitation.
 
-Arthur, Eleanor and Miriam would enter the future complex through the old document lift during a service interruption Miriam remembered and the building plan corroborated. They would reach the detainees, establish a route to the freight aperture and obtain the full forecast model if possible. Arthur would refuse the office in the ceremonial room, where Bell had assembled witnesses to legitimise it. The refusal would be transmitted to the independent present hearing through a separate narrow audio channel. Bell’s own audience would become evidence against his account.
+Arthur, Eleanor and Miriam would enter the future complex through the old document lift during a service interruption Miriam remembered and the building plan corroborated. They would reach the detainees, establish a route to the freight aperture and obtain the full forecast model if possible. Arthur would refuse the office in the ceremonial room, where Glock had assembled witnesses to legitimise it. The refusal would be transmitted to the independent present hearing through a separate narrow audio channel. Glock’s own audience would become evidence against his account.
 
 “He can turn off the transmission,” Cole said.
 
@@ -3896,7 +3896,7 @@ Arthur put the grey notebook on the table.
 
 “Then witnesses carry the record. We don’t make the plan depend on one device.”
 
-Ives proposed that the present copies be lodged at the university archive and the court registry as well as the department. Pelling would issue an order protecting contradictory evidence from destruction while the inquiry continued. It would not solve the metaphysics. It would prevent Bell from claiming that his office alone could define what had been observed.
+Ives proposed that the present copies be lodged at the university archive and the court registry as well as the department. Pelling would issue an order protecting contradictory evidence from destruction while the inquiry continued. It would not solve the metaphysics. It would prevent Glock from claiming that his office alone could define what had been observed.
 
 At ten to six Mrs Crumb telephoned from the security desk. “There’s a Mr Garrick in the lobby with a clipboard. He says he has no appointment and would like that understood in advance.”
 
@@ -3930,9 +3930,9 @@ Pelling’s telephone rang. He looked at the screen and then, with a quick decen
 
 Arthur leaned towards the telephone. “I am.”
 
-“I won’t keep you. I wanted you to hear that nobody is being threatened.” Bell paused. “Bristol Metropolitan Primary has a reference review for Samuel at ten on Thursday. It’s a delicate hour. Reviews adjourned for want of a reference tend to be rescheduled to the next term. I mention it only because I know you take an interest in schools.”
+“I won’t keep you. I wanted you to hear that nobody is being threatened.” Glock paused. “Bristol Metropolitan Primary has a reference review for Samuel at ten on Thursday. It’s a delicate hour. Reviews adjourned for want of a reference tend to be rescheduled to the next term. I mention it only because I know you take an interest in schools.”
 
-Nobody in the lobby breathed. Bell had never named a child. He had named a time.
+Nobody in the lobby breathed. Glock had never named a child. He had named a time.
 
 “Thank you for the information,” Arthur said. “I’m recording that you gave it.”
 
@@ -4100,7 +4100,7 @@ She produced the envelope. Beatrice read it and smiled without amusement.
 
 “You’d get on.”
 
-The plan had to change around the actual delivery. Bell’s committee would receive a corrected proof at nine. Perrott would compare it against the original recommendation and prepare three certified duplicates for dispatch at ten thirty. Bell intended his substituted version to become the official text, with the original locked away. If Beatrice could put the genuine memorandum and limitations before Perrott before certification, the clerk could lawfully correct the copies without a theatrical seizure of the office.
+The plan had to change around the actual delivery. Glock’s committee would receive a corrected proof at nine. Perrott would compare it against the original recommendation and prepare three certified duplicates for dispatch at ten thirty. Glock intended his substituted version to become the official text, with the original locked away. If Beatrice could put the genuine memorandum and limitations before Perrott before certification, the clerk could lawfully correct the copies without a theatrical seizure of the office.
 
 “He must be allowed to decide,” Beatrice said.
 
@@ -4122,7 +4122,7 @@ Hester did not agree to the plan as it stood. She said so, and then she said why
 
 “It isn’t my century on the table. It’s my press. You can keep your century. I’ll keep my copies.”
 
-“If Bell takes one—”
+“If Glock takes one—”
 
 “Then there are the forty I sent out last night, and forty more by seven, and he has to explain why he wanted that one.”
 
@@ -4184,7 +4184,7 @@ Near dawn, Fanshawe and Daniel came back. The committee’s front entrance had t
 
 Fanshawe shook his head.
 
-“Bell will stop you.”
+“Glock will stop you.”
 
 “He can stop me meeting a clerk. He cannot stop the clerk wondering why.”
 
@@ -4438,13 +4438,13 @@ There was a silence in which Perrott appeared to be weighing two things against 
 
 “It identifies one. The allegation follows.”
 
-He adjusted his spectacles and invited her into a narrow office. She laid the certified 1746 schedule beside the original memorandum and Bell’s proof. Perrott read in silence, following the lines with a ruler.
+He adjusted his spectacles and invited her into a narrow office. She laid the certified 1746 schedule beside the original memorandum and Glock’s proof. Perrott read in silence, following the lines with a ruler.
 
 Beatrice liked him immediately. She did not allow this to substitute for verification.
 
 “Have you seen the source document before?”
 
-“No. Mr Bell supplied an abstract.”
+“No. Mr Glock supplied an abstract.”
 
 “Did he state that the limitations had been removed?”
 
@@ -4452,11 +4452,11 @@ Beatrice liked him immediately. She did not allow this to substitute for verific
 
 Perrott reached the first omitted sentence. His ruler stopped.
 
-Outside the office, a door opened. Lionel Bell entered without knocking. This was the younger Bell, still in the life which had arranged the present crisis. He wore an excellent period coat. Beatrice noticed that he had chosen a more expensive watch chain than the disguise required.
+Outside the office, a door opened. Lionel Glock entered without knocking. This was the younger Glock, still in the life which had arranged the present crisis. He wore an excellent period coat. Beatrice noticed that he had chosen a more expensive watch chain than the disguise required.
 
 “Beatrice.”
 
-“Mr Bell.”
+“Mr Glock.”
 
 “Mr Perrott, Mrs Crumb represents a competing interest. I should have been informed.”
 
@@ -4468,7 +4468,7 @@ Perrott did not look up.
 
 “Its absence is not.”
 
-Bell’s eyes moved to the case. Beatrice closed it before his hand reached the table.
+Glock’s eyes moved to the case. Beatrice closed it before his hand reached the table.
 
 “These documents are under departmental protection,” he said.
 
@@ -4478,17 +4478,17 @@ Bell’s eyes moved to the case. Beatrice closed it before his hand reached the 
 
 Perrott looked up then. The sentence required no knowledge of time travel to be understood.
 
-Beatrice felt the old bargain open beneath her feet. Bell knew exactly where to press because she had shown him nineteen years earlier. For an instant she saw Miriam at nineteen, Miriam at forty-one, the photograph, the phone call, the impossible body warm in her arms.
+Beatrice felt the old bargain open beneath her feet. Glock knew exactly where to press because she had shown him nineteen years earlier. For an instant she saw Miriam at nineteen, Miriam at forty-one, the photograph, the phone call, the impossible body warm in her arms.
 
 “My daughter,” she said, “has declined your representation.”
 
-Bell’s face changed. He stepped closer.
+Glock’s face changed. He stepped closer.
 
 “You have no idea what you’re undoing.”
 
 “I know what I signed. I know what you omitted. Mr Perrott can compare the pages.”
 
-Bell turned to the clerk.
+Glock turned to the clerk.
 
 “This woman is not authorised to carry these instruments.”
 
@@ -4498,13 +4498,13 @@ Perrott laid down his ruler.
 
 From the passage came raised voices. Hester was demanding a receipt for the corrected proof. Daniel, following instructions, was insisting that the receipt specify the date in words. The porter had become involved. A committee member opened his door to complain about the noise and found himself being asked to witness an unpaid account.
 
-Bell looked towards the commotion. Beatrice took the moment to slide one certified copy to Perrott.
+Glock looked towards the commotion. Beatrice took the moment to slide one certified copy to Perrott.
 
 “Keep that separately.”
 
-Bell caught her wrist.
+Glock caught her wrist.
 
-His grip was hard enough to hurt. Perrott stood. Beatrice did not pull away. She looked at Bell’s hand, then at his face.
+His grip was hard enough to hurt. Perrott stood. Beatrice did not pull away. She looked at Glock’s hand, then at his face.
 
 “There are witnesses,” she said.
 
@@ -4512,7 +4512,7 @@ His grip was hard enough to hurt. Perrott stood. Beatrice did not pull away. She
 
 “You’re welcome to try.”
 
-Fanshawe appeared in the doorway. He had abandoned the shop display and come in at Hester’s shout. Bell released Beatrice and stepped back.
+Fanshawe appeared in the doorway. He had abandoned the shop display and come in at Hester’s shout. Glock released Beatrice and stepped back.
 
 “Hugh. Another unauthorised excursion?”
 
@@ -4520,25 +4520,25 @@ Fanshawe looked at the documents, then at Beatrice’s reddened wrist.
 
 “I’m beginning to enjoy them.”
 
-Bell moved towards the inner door. Fanshawe blocked it. For a moment the two men stood face to face, one immaculate, one rumpled and still limping from a chain.
+Glock moved towards the inner door. Fanshawe blocked it. For a moment the two men stood face to face, one immaculate, one rumpled and still limping from a chain.
 
-“You cannot detain me here,” Bell said.
+“You cannot detain me here,” Glock said.
 
 “I’ve been told that before,” Fanshawe replied.
 
-Bell struck him with the handle of his cane. Fanshawe fell against the desk. Perrott’s ink spilled across the blotter. Beatrice took the case, stepped away from the struggle and carried it into the passage, where Hester, Daniel and three irritated committee members stood.
+Glock struck him with the handle of his cane. Fanshawe fell against the desk. Perrott’s ink spilled across the blotter. Beatrice took the case, stepped away from the struggle and carried it into the passage, where Hester, Daniel and three irritated committee members stood.
 
-“The annex has been falsified,” she said clearly. “Mr Perrott has the source. Mr Bell is attempting to prevent its examination.”
+“The annex has been falsified,” she said clearly. “Mr Perrott has the source. Mr Glock is attempting to prevent its examination.”
 
-Bell came after her. Hester put the bundle of proofs into the arms of the nearest committee member.
+Glock came after her. Hester put the bundle of proofs into the arms of the nearest committee member.
 
 “Hold these.”
 
-Then she swung the heavy empty forme case into Bell’s shin.
+Then she swung the heavy empty forme case into Glock’s shin.
 
 He staggered. Fanshawe caught him from behind. The porter, whose duties had expanded beyond expectation, helped hold him against the wall. Daniel shut the front door.
 
-Nobody looked heroic. Bell swore, Fanshawe bled from the forehead, Hester rubbed her wrist and Beatrice tried to stop the case from falling open. Perrott stood in his office doorway holding the certified copy above the spilled ink.
+Nobody looked heroic. Glock swore, Fanshawe bled from the forehead, Hester rubbed her wrist and Beatrice tried to stop the case from falling open. Perrott stood in his office doorway holding the certified copy above the spilled ink.
 
 “I require,” he said, “a clean table.”
 
@@ -4574,9 +4574,9 @@ Arthur wrote it down. Reed watched him do it, and for a moment the stiff, tired 
 
 Arthur entered the ceremonial room without his coat. It had been weighed and left in the sanitation cupboard, along with Eleanor’s spare tools and three bags of possessions which would never acquire new owners. The lack of it made him feel underdressed for abolishing his own monarchy.
 
-Bell stood beside the platform. His older face showed no surprise. The room contained perhaps thirty people: senior officials, judges of uncertain appointment, two officers, a camera operator and a row of residents selected to represent the grateful public. At the back, a door led to the reference room.
+Glock stood beside the platform. His older face showed no surprise. The room contained perhaps thirty people: senior officials, judges of uncertain appointment, two officers, a camera operator and a row of residents selected to represent the grateful public. At the back, a door led to the reference room.
 
-“Mr Pembroke,” Bell said. “We hoped you would reconsider.”
+“Mr Pembroke,” Glock said. “We hoped you would reconsider.”
 
 “I’ve come to answer.”
 
@@ -4588,13 +4588,13 @@ Arthur remained where he was.
 
 Eleanor had gone with Miriam and Jon to open the evacuation route. Arthur carried only the grey notebook, Agnes’s certified limitations and a small voice transmitter connected to the service circuit. It lay in his waistcoat pocket. He could not tell whether anyone in 2026 could hear him. That uncertainty was part of the design, not a reason to pretend he was alone.
 
-Bell began the prepared address. He spoke well. The country had endured instability. Families needed reliable records. Rights required an authority capable of recognising them. Temporary powers would preserve ordinary life until representative institutions could be fully restored. Arthur listened to the speech his dead counterpart must have heard and understood, with unwelcome clarity, how a decent man could sign at its end.
+Glock began the prepared address. He spoke well. The country had endured instability. Families needed reliable records. Rights required an authority capable of recognising them. Temporary powers would preserve ordinary life until representative institutions could be fully restored. Arthur listened to the speech his dead counterpart must have heard and understood, with unwelcome clarity, how a decent man could sign at its end.
 
-The circlet lay on a velvet cushion. The room’s camera pointed towards the platform. Bell invited Arthur to affirm his willingness to serve as sovereign receiver.
+The circlet lay on a velvet cushion. The room’s camera pointed towards the platform. Glock invited Arthur to affirm his willingness to serve as sovereign receiver.
 
 “Before I answer,” Arthur said, “who will keep a record of my answer?”
 
-Bell’s smile held.
+Glock’s smile held.
 
 “The Office of Continuity.”
 
@@ -4608,23 +4608,23 @@ Arthur turned to the audience.
 
 One woman near the back opened a notebook. An official beside her whispered something. She continued writing. Arthur recognised the action before he recognised her: a clerk protecting the work from the meeting.
 
-Bell said, “This is not the occasion for competing records.”
+Glock said, “This is not the occasion for competing records.”
 
 “It’s the occasion on which you propose to make one record compulsory.”
 
-The camera operator looked towards Bell. Bell made a small gesture. The red light went out.
+The camera operator looked towards Glock. Glock made a small gesture. The red light went out.
 
 Arthur took the certified schedule from his pocket.
 
-“The authority you cite requires consent and independent custody of petitions. Its limitations were omitted from the 1815 annex used to construct this office. A hearing in 2026 has retained evidence of that omission, along with the receipt proving Mr Bell read the original.”
+“The authority you cite requires consent and independent custody of petitions. Its limitations were omitted from the 1815 annex used to construct this office. A hearing in 2026 has retained evidence of that omission, along with the receipt proving Mr Glock read the original.”
 
-Murmurs moved through the room. Dame Judith North asked to see the document. She was thinner than the woman at the hearing table and eleven months into a robe the receiver had given her; in this branch she had never met Arthur. Bell told her that its provenance was disputed.
+Murmurs moved through the room. Dame Judith North asked to see the document. She was thinner than the woman at the hearing table and eleven months into a robe the receiver had given her; in this branch she had never met Arthur. Glock told her that its provenance was disputed.
 
 “Then examine it,” Arthur said. “Dispute is a reason to keep evidence, not remove it.”
 
 She took the sheet. Arthur watched her read the first sentence. At the same time he saw one of the officers move towards the rear door. The man spoke into a radio. The evacuation had either been discovered or was about to be.
 
-Bell stepped down from the platform and came close enough that only Arthur could hear him clearly.
+Glock stepped down from the platform and came close enough that only Arthur could hear him clearly.
 
 “You are spending lives to protect a procedural preference.”
 
@@ -4634,9 +4634,9 @@ Arthur thought of Ruth in the café, of Karim holding his mother’s letter, of 
 
 He raised his voice.
 
-“I do not consent to this office. I do not appoint Mr Bell to determine admissible history on my behalf. I do not waive any person’s right to keep or present contradictory evidence. No previous signature of mine should be read as consent to powers concealed from me.”
+“I do not consent to this office. I do not appoint Mr Glock to determine admissible history on my behalf. I do not waive any person’s right to keep or present contradictory evidence. No previous signature of mine should be read as consent to powers concealed from me.”
 
-Bell seized his arm.
+Glock seized his arm.
 
 Arthur did not pull away. He had been told too often that struggle would become a threat.
 
@@ -4644,15 +4644,15 @@ Arthur did not pull away. He had been told too often that struggle would become 
 
 The woman at the back wrote faster.
 
-Bell’s free hand found a brass plate in the lectern. A line of amber light ran round the room’s doors, and every bolt in the building seemed to arrive at the same decision.
+Glock’s free hand found a brass plate in the lectern. A line of amber light ran round the room’s doors, and every bolt in the building seemed to arrive at the same decision.
 
 SEALING PRELUDE. FORTY MINUTES.
 
-“That will be the end of the audience,” Bell said, almost kindly. “Nobody leaves until the register is closed. Nobody carries anything out. You were right, Mr Pembroke. Evidence is a reason to keep things. So I’m keeping you.”
+“That will be the end of the audience,” Glock said, almost kindly. “Nobody leaves until the register is closed. Nobody carries anything out. You were right, Mr Pembroke. Evidence is a reason to keep things. So I’m keeping you.”
 
 The narrow service circuit in Arthur’s waistcoat gave one click and went silent. Somewhere beyond the walls, the freight window’s second coil began to draw power it had not been promised.
 
-An alarm sounded beyond the rear door. Bell looked towards it. For the first time, the ceremony’s calm broke completely.
+An alarm sounded beyond the rear door. Glock looked towards it. For the first time, the ceremony’s calm broke completely.
 
 “The reference room,” he told the officer. “Secure it.”
 
@@ -4676,7 +4676,7 @@ Arthur looked at the weapon, then at the officer’s face. It was young, frighte
 
 “By whom?”
 
-Bell said, “Remove him.”
+Glock said, “Remove him.”
 
 Arthur kept his hands open. His heart hammered so hard that he could hear very little else.
 
@@ -4688,7 +4688,7 @@ The judge holding Agnes’s schedule spoke.
 
 “Officer. Lower the weapon.”
 
-Bell turned on her.
+Glock turned on her.
 
 “You have no authority here except through the settlement.”
 
@@ -4700,7 +4700,7 @@ Judith North tapped the lining of her robe. “I kept a file,” she said. “El
 
 “Lieutenant,” said a voice from the side door. “Holster.”
 
-Captain Reed came in without hurry, with his hands where everyone could see them. He did not look at Bell.
+Captain Reed came in without hurry, with his hands where everyone could see them. He did not look at Glock.
 
 “I was on the staircase three years ago, sir,” he said to Arthur’s young lieutenant, or to the room. “We shot an unarmed man for saying no. We were told it was the register. I’ve read the register since. It doesn’t say that.”
 
@@ -4720,7 +4720,7 @@ Arthur went through the door backwards, keeping his hands where the officer coul
 
 “Only for the length of this conversation. Come on.”
 
-The reference room contained two banks of equipment, the sealed model archive and a vertical copper assembly which ran through the floor. Eleanor had severed the outgoing control cable, stopping Bell from reserving the present machine’s power. The main reference connection still had to remain intact until evacuation was complete. Cut it too soon and the freight aperture would have no common history by which to align its two ends.
+The reference room contained two banks of equipment, the sealed model archive and a vertical copper assembly which ran through the floor. Eleanor had severed the outgoing control cable, stopping Glock from reserving the present machine’s power. The main reference connection still had to remain intact until evacuation was complete. Cut it too soon and the freight aperture would have no common history by which to align its two ends.
 
 Arthur looked at the cable over her shoulder.
 
@@ -4848,15 +4848,15 @@ Jon was the twenty-second. Arthur realised he had deliberately put himself last.
 
 Miriam looked at Arthur. Eleanor had been gone too long.
 
-He went, leaving Jon beside the aperture. The service passage was quiet except for the machine. At the reference-room door he heard Bell speaking.
+He went, leaving Jon beside the aperture. The service passage was quiet except for the machine. At the reference-room door he heard Glock speaking.
 
 “You cannot preserve the people without preserving the authority which identifies them.”
 
 Eleanor answered, “We’ve just received twenty-one practical objections.”
 
-Arthur entered. Bell stood beside the main switch with Captain Reed. Eleanor was at the console, one hand on a manual hold. The officer’s pistol was lowered but still in his hand.
+Arthur entered. Glock stood beside the main switch with Captain Reed. Eleanor was at the console, one hand on a manual hold. The officer’s pistol was lowered but still in his hand.
 
-Bell looked at Arthur.
+Glock looked at Arthur.
 
 “You have made them refugees.”
 
@@ -4872,15 +4872,15 @@ Bell looked at Arthur.
 
 Reed looked from one man to the other.
 
-“Captain Reed,” Arthur said. “There is a receiving inquiry at the other end. You can speak to it. We are preserving names and consent records. You do not have to accept Mr Bell’s account or mine without evidence.”
+“Captain Reed,” Arthur said. “There is a receiving inquiry at the other end. You can speak to it. We are preserving names and consent records. You do not have to accept Mr Glock’s account or mine without evidence.”
 
-Bell’s hand moved towards the switch.
+Glock’s hand moved towards the switch.
 
 Eleanor said, very sharply, “If you open that, the people still in transit lose alignment.”
 
-Bell stopped. For a second Arthur thought the warning had reached the part of him which still understood a person as more than a claim.
+Glock stopped. For a second Arthur thought the warning had reached the part of him which still understood a person as more than a claim.
 
-Then Bell said, “So you do require continuity.”
+Then Glock said, “So you do require continuity.”
 
 “We require electricity and a common reference,” Eleanor replied. “You are adding yourself to the specification.”
 
@@ -4888,7 +4888,7 @@ Reed put his pistol into its holster.
 
 “Step away from the switch, sir.”
 
-Bell stared at him.
+Glock stared at him.
 
 “You will regret the uncertainty you are choosing.”
 
@@ -4898,7 +4898,7 @@ Bell stared at him.
 
 Perrott had never expected to hold a meeting with a man restrained by a porter, but he saw no reason to let that lower the standard of the minutes.
 
-He listed those present, identified the documents and asked Bell whether he disputed that the abstract omitted the limitations. Bell attempted to discuss international stability. Perrott repeated the question.
+He listed those present, identified the documents and asked Glock whether he disputed that the abstract omitted the limitations. Glock attempted to discuss international stability. Perrott repeated the question.
 
 “The wording was adapted.”
 
@@ -4906,9 +4906,9 @@ He listed those present, identified the documents and asked Bell whether he disp
 
 “The covering instruction was not intended as a treatise.”
 
-Perrott wrote that down. Bell looked less pleased to hear his own answer repeated by the pen.
+Perrott wrote that down. Glock looked less pleased to hear his own answer repeated by the pen.
 
-The committee members examined the source. Their motives were not pure. One worried that an unchecked receiver might seize assets in which he had an interest. Another disliked Bell. A third had signed the preliminary recommendation and feared being held responsible for the annex. Beatrice did not require virtue where ordinary self-interest would support proper examination. She required that the result be accurately recorded.
+The committee members examined the source. Their motives were not pure. One worried that an unchecked receiver might seize assets in which he had an interest. Another disliked Glock. A third had signed the preliminary recommendation and feared being held responsible for the annex. Beatrice did not require virtue where ordinary self-interest would support proper examination. She required that the result be accurately recorded.
 
 Hester stood beside the window holding the corrected proof. Daniel sat with his injured hand in his lap. Fanshawe pressed a cloth to his forehead and tried not to bleed on anything evidential.
 
@@ -4920,7 +4920,7 @@ Perrott answered that the duplicates could be corrected before dispatch. The pre
 
 “Entirely regular,” Fanshawe murmured, with the reverence another man might reserve for a miracle.
 
-Bell said, “You are being manipulated by people who will not remain to bear the result.”
+Glock said, “You are being manipulated by people who will not remain to bear the result.”
 
 Hester moved from the window.
 
@@ -4938,7 +4938,7 @@ He looked at her as though a piece of furniture had entered the debate.
 
 Daniel laughed once and stopped when he saw the porter trying not to join him.
 
-Bell tried one more door, and it was the cleverest. He did not dispute the words. He disputed the paper.
+Glock tried one more door, and it was the cleverest. He did not dispute the words. He disputed the paper.
 
 “A certified copy of 1746,” he said, “which nobody here has ever seen, produced by a woman of no standing, from nowhere in particular. It is a modern forgery on old stock, Mr Perrott, and I am astonished that anyone should need to be told.”
 
@@ -4946,11 +4946,11 @@ Perrott’s ruler stopped. It was a good objection, and the worst of it was that
 
 “May I?” said Hester.
 
-She took the sheet to the window and held it against the light, and for the first time that morning Bell looked at her as something other than furniture.
+She took the sheet to the window and held it against the light, and for the first time that morning Glock looked at her as something other than furniture.
 
 “Laid paper. Chain lines at an inch, near enough, and there—” she tilted it— “a shield with a fleur-de-lis and a countermark, a pair of letters at the bottom edge. Dutch. A mill at Zaandam that stopped making that mould in about 1763. I buy my best stock from a man who bought their last ream, so I know the look of it better than I know my own sister’s.”
 
-“Old paper may carry new words,” Bell said.
+“Old paper may carry new words,” Glock said.
 
 “It may.” She turned the sheet over. “But iron-gall ink bites. Hold the back to the light and the halo’s there, the brown going through the fibre like a bruise. Seventy years gives you that. A fortnight doesn’t.”
 
@@ -4968,7 +4968,7 @@ Perrott asked for the corrected proof. Hester placed it before him. He compared 
 
 Beatrice’s return token warmed briefly, then cooled. A signal from Operations: the future channel was active. She could not answer without opening a local gap, and there was no privacy in this room. She touched the token through her pocket and went on watching Perrott’s ruler.
 
-Bell noticed.
+Glock noticed.
 
 “They may not come back for you.”
 
@@ -4980,13 +4980,13 @@ At ten twelve Perrott finished the comparison. He prepared a note explaining tha
 
 Nothing happened to the room. No wall shivered. No country appeared in the distance. Beatrice had seen enough corrections to know that important moments were often visually disappointing.
 
-The signatures were necessary but not sufficient. The certified duplicates had to pass into independent custody. Until then Bell could still seize all of them and alter what reached the committees abroad. The dispatch would close the interval because multiple recipients would then independently observe the settled text.
+The signatures were necessary but not sufficient. The certified duplicates had to pass into independent custody. Until then Glock could still seize all of them and alter what reached the committees abroad. The dispatch would close the interval because multiple recipients would then independently observe the settled text.
 
-At ten twenty the porter was called to the front door. Beatrice disliked this immediately. A man outside claimed to be from a magistrate, with an order concerning stolen documents. Bell’s posture changed by a fraction.
+At ten twenty the porter was called to the front door. Beatrice disliked this immediately. A man outside claimed to be from a magistrate, with an order concerning stolen documents. Glock’s posture changed by a fraction.
 
 “Cresswell,” Fanshawe said under his breath.
 
-Fanshawe, who had read the ledger twice and then once more for pleasure, did the arithmetic. The Mercy, ten past nine last night. Saye’s spare slip, which Cresswell had pocketed in the yard in Northumberland, and which had brought him out of 1746 into the hold of a ship that Bell had stopped being able to guard. He was not a recurrence. He was a man with a ticket.
+Fanshawe, who had read the ledger twice and then once more for pleasure, did the arithmetic. The Mercy, ten past nine last night. Saye’s spare slip, which Cresswell had pocketed in the yard in Northumberland, and which had brought him out of 1746 into the hold of a ship that Glock had stopped being able to guard. He was not a recurrence. He was a man with a ticket.
 
 Beatrice moved the originals into the case. Hester took one certified duplicate and gave another to Daniel. Perrott kept the third.
 
@@ -5004,7 +5004,7 @@ Beatrice did the only thing available which would not require winning a fight. S
 
 A fruit seller looked up. A carter stopped. Two men outside the neighbouring office turned towards her. It was not a crowd yet, but London had always been willing to consider becoming one.
 
-Bell said, “Close that window.”
+Glock said, “Close that window.”
 
 “Why?” Beatrice asked, loudly enough for the street.
 
@@ -5012,7 +5012,7 @@ He could not answer without explaining himself to people he had not selected.
 
 ## 29 No Longer the Only Copy
 
-In the future reference room, Captain Reed took Bell away from the switch. Bell went with him reluctantly, talking all the while about consequences, authority and the captain’s career. Reed listened with the exhausted courtesy of a man who had already lost one of those things and was trying to preserve the others.
+In the future reference room, Captain Reed took Glock away from the switch. Glock went with him reluctantly, talking all the while about consequences, authority and the captain’s career. Reed listened with the exhausted courtesy of a man who had already lost one of those things and was trying to preserve the others.
 
 Eleanor kept the manual hold engaged while Arthur went to fetch Jon. The service passage was empty except for Miriam and the cleaner. Through the aperture, twenty-one people had arrived. Ives held Jon’s ledger open at the final line.
 
@@ -5036,11 +5036,11 @@ Twenty-two.
 
 Miriam lowered her head for a moment. Then she closed the freight aperture. The light disappeared, leaving the service wall bare. The evacuation had used nearly the entire available allowance. Their own return remained booked through the narrower personnel channel, three operatives and the minimum documents required to establish the fraud.
 
-There was no allowance for Bell.
+There was no allowance for Glock.
 
-Arthur realised it before Eleanor said it. Bell, protected and physically present in the future, would remain in a branch whose endpoint they intended to disable. He could not be left with the controls. He could not be silently abandoned while they congratulated themselves on preserving people.
+Arthur realised it before Eleanor said it. Glock, protected and physically present in the future, would remain in a branch whose endpoint they intended to disable. He could not be left with the controls. He could not be silently abandoned while they congratulated themselves on preserving people.
 
-Captain Reed brought him into the passage. Bell saw the closed freight aperture and understood.
+Captain Reed brought him into the passage. Glock saw the closed freight aperture and understood.
 
 “So this is your due process.”
 
@@ -5058,7 +5058,7 @@ Miriam said, “No.”
 
 She said it to all of them, before anyone could perform a sacrifice without consultation. Arthur felt a strange affection for the abruptness.
 
-Bell stood very still. He had spent years making himself indispensable. Now his survival depended on people he had injured considering him worth inconvenience.
+Glock stood very still. He had spent years making himself indispensable. Now his survival depended on people he had injured considering him worth inconvenience.
 
 Eleanor opened her bag and removed the remaining instruments. The protected reference reader was the heaviest item. She put it on the floor, then the batteries, the tools, the spare regulator. The mass released was nowhere near a man’s.
 
@@ -5066,7 +5066,7 @@ Eleanor opened her bag and removed the remaining instruments. The protected refe
 
 Eleanor shook her head. “Single passenger, a hundred-kilo ceiling, keyed to his induction. It was never going to take one of us. But it means we don’t have to choose between him and one of us.”
 
-Bell’s face changed.
+Glock’s face changed.
 
 “It requires my authorisation.”
 
@@ -5076,27 +5076,27 @@ Bell’s face changed.
 
 “To return.”
 
-Bell glanced at Reed, then at the dead freight wall. “The return endpoint is in my private office. Not your department.”
+Glock glanced at Reed, then at the dead freight wall. “The return endpoint is in my private office. Not your department.”
 
-Arthur took the service handset and called the present. Pelling answered after a moment. Arthur explained the location and asked him to send independent officers to receive a displaced man who would require medical attention, identity preservation and legal representation. He did not call Bell a prisoner until Pelling confirmed the applicable detention authority based on the evidence already heard.
+Arthur took the service handset and called the present. Pelling answered after a moment. Arthur explained the location and asked him to send independent officers to receive a displaced man who would require medical attention, identity preservation and legal representation. He did not call Glock a prisoner until Pelling confirmed the applicable detention authority based on the evidence already heard.
 
-Bell listened without comment. The care seemed to irritate him more than a threat would have.
+Glock listened without comment. The care seemed to irritate him more than a threat would have.
 
-His reserved route used a small frame concealed behind a panel in the ceremonial room. It drew from his private protected supply, separate from the public freight channel. They had seen such a device aboard the Mercy and in the northern yard. It was not a new escape, merely one Bell had hoped to keep exclusively his.
+His reserved route used a small frame concealed behind a panel in the ceremonial room. It drew from his private protected supply, separate from the public freight channel. They had seen such a device aboard the Mercy and in the northern yard. It was not a new escape, merely one Glock had hoped to keep exclusively his.
 
-Eleanor inspected it, confirmed the endpoint and made Bell open a test line. Pelling’s officers answered from the private office. One held up the written receipt of authority. Bell read it closely.
+Eleanor inspected it, confirmed the endpoint and made Glock open a test line. Pelling’s officers answered from the private office. One held up the written receipt of authority. Glock read it closely.
 
 “This is procedurally defective.”
 
 “You can retain a copy,” Arthur said.
 
-For the first time Bell looked old.
+For the first time Glock looked old.
 
-He stepped through under observation. On the other side, the officers identified him as the later Lionel Bell and explained his detention. He began objecting before the aperture closed. Arthur found the sound unexpectedly reassuring. A man making an objection was still a man within a system that might hear it.
+He stepped through under observation. On the other side, the officers identified him as the later Lionel Glock and explained his detention. He began objecting before the aperture closed. Arthur found the sound unexpectedly reassuring. A man making an objection was still a man within a system that might hear it.
 
-Reed remained in the ceremonial room. The audience had dispersed into worried groups. The judge and the woman with the notebook had taken independent copies of Arthur’s refusal. Some would remain in the branch. Some might never be carried into the restored present. The fact that they had witnessed it still mattered to the machine’s local constraints: Bell could no longer produce an unopposed consent at this ceremony.
+Reed remained in the ceremonial room. The audience had dispersed into worried groups. The judge and the woman with the notebook had taken independent copies of Arthur’s refusal. Some would remain in the branch. Some might never be carried into the restored present. The fact that they had witnessed it still mattered to the machine’s local constraints: Glock could no longer produce an unopposed consent at this ceremony.
 
-“You could use Bell’s frame,” Miriam told Reed.
+“You could use Glock’s frame,” Miriam told Reed.
 
 The captain shook his head.
 
@@ -5110,7 +5110,7 @@ The captain shook his head.
 
 They returned to the reference room. Eleanor copied the complete forecast model onto the small protected medium brought for that purpose. Its original premise pages identified the emergency settlement as the cause of the projected war. She verified the export against Saye’s checksum, then gave it to Arthur.
 
-The final step was mechanical. The future endpoint’s central reference had to be disconnected after their personnel return began, so Bell could not reopen it from another room. Eleanor set a physical delay using a falling weight and a switch, a crude device whose operation did not depend on software Bell had supplied. It would cut the reference ninety seconds after release. Their return window began in thirty.
+The final step was mechanical. The future endpoint’s central reference had to be disconnected after their personnel return began, so Glock could not reopen it from another room. Eleanor set a physical delay using a falling weight and a switch, a crude device whose operation did not depend on software Glock had supplied. It would cut the reference ninety seconds after release. Their return window began in thirty.
 
 “Why not sixty?” Arthur asked.
 
@@ -5140,11 +5140,11 @@ Hester came after them carrying the second duplicate. She had chosen a different
 
 The apprentice looked surprised by this departure from ordinary commercial practice, then pushed the cart into the street.
 
-Inside, Beatrice kept the window open. The fruit seller had been joined by a man from the neighbouring office and a woman carrying laundry. They could see Bell, the porter, Fanshawe’s bloody cloth and Perrott at his desk. None understood the whole dispute. They understood enough to object when Hob tried to close the shutters from outside.
+Inside, Beatrice kept the window open. The fruit seller had been joined by a man from the neighbouring office and a woman carrying laundry. They could see Glock, the porter, Fanshawe’s bloody cloth and Perrott at his desk. None understood the whole dispute. They understood enough to object when Hob tried to close the shutters from outside.
 
 Perrott signed the dispatch register at ten twenty-eight. He gave his duplicate to the regular courier, who had arrived by the front door and wanted to know why everyone was in the way.
 
-What nobody in the office knew was that Bell’s secretary had paid the regular courier on Tuesday. He got as far as the corner of the street before a man in a blue coat took the bag out of his hands, and the courier, who was a person of principle in matters touching his wages, shouted for a constable and was ignored.
+What nobody in the office knew was that Glock’s secretary had paid the regular courier on Tuesday. He got as far as the corner of the street before a man in a blue coat took the bag out of his hands, and the courier, who was a person of principle in matters touching his wages, shouted for a constable and was ignored.
 
 “To the stated address,” Perrott said. “Obtain a receipt.”
 
@@ -5152,13 +5152,13 @@ What nobody in the office knew was that Bell’s secretary had paid the regular 
 
 “With particular care.”
 
-Bell made one last attempt to reach the packet. Fanshawe caught his arm. The struggle knocked the inkstand to the floor. Bell slipped on the spill, and both men went down in a tangle which would have been comic if Beatrice had not seen the knife in Bell’s free hand.
+Glock made one last attempt to reach the packet. Fanshawe caught his arm. The struggle knocked the inkstand to the floor. Glock slipped on the spill, and both men went down in a tangle which would have been comic if Beatrice had not seen the knife in Glock’s free hand.
 
-She brought the document case down on his wrist. The knife fell. The porter kicked it under a cabinet and sat on Bell with the practical decisiveness of a man whose working day had become intolerable.
+She brought the document case down on his wrist. The knife fell. The porter kicked it under a cabinet and sat on Glock with the practical decisiveness of a man whose working day had become intolerable.
 
 “Stay,” he said.
 
-Bell stayed.
+Glock stayed.
 
 Outside, the courier passed the gathered witnesses and set off. Perrott asked two of them to sign that they had seen the sealed packet leave. The fruit seller made a mark. The office clerk signed his name. The laundry woman asked whether this would cost her anything. Perrott said no and recorded her statement aloud.
 
@@ -5222,11 +5222,11 @@ The under-secretary looked at the packet. He looked at the receipt. Then, becaus
 
 “Two pence,” said Ned, “payable on performance,” and held out his hand, and received it from a minister of the Crown with a dignity that Daniel, when told about it, said he would remember for the rest of his life.
 
-At ten thirty, two certified duplicates were beyond Bell’s reach. One was with Gant’s apprentice at the solicitor’s door. The other had gone down a back lane in a bucket boy’s fist and into the hands of the Foreign Office under-secretary named on Perrott’s list, who signed for it in his dressing gown without being asked what it was. The two copies agreed. Two agreeing copies in separate hands was all the register required. The third, which Bell had in his pocket by twenty-nine minutes past, was only paper.
+At ten thirty, two certified duplicates were beyond Glock’s reach. One was with Gant’s apprentice at the solicitor’s door. The other had gone down a back lane in a bucket boy’s fist and into the hands of the Foreign Office under-secretary named on Perrott’s list, who signed for it in his dressing gown without being asked what it was. The two copies agreed. Two agreeing copies in separate hands was all the register required. The third, which Glock had in his pocket by twenty-nine minutes past, was only paper.
 
 In Perrott’s office, Beatrice’s brass token became hot enough that she drew it from her pocket. A green line glowed around its edge: correction accepted into the live reference. It did not say Belgium restored. It did not say everyone saved. It said only that the machine now had a lawful, observed basis for reconciling this part of the branch.
 
-She sat down. Her wrist hurt. There was ink on her skirt. Across the room, Fanshawe leaned against the wall while the porter continued sitting on Bell.
+She sat down. Her wrist hurt. There was ink on her skirt. Across the room, Fanshawe leaned against the wall while the porter continued sitting on Glock.
 
 Perrott looked at the wreckage of his office.
 
@@ -5236,7 +5236,7 @@ Beatrice took out her pen.
 
 “So shall I.”
 
-For the next twenty minutes, while history rearranged its route elsewhere, they wrote down what had happened in the room. Bell refused to sign. Perrott recorded the refusal. The porter gave his name as Joseph Finch and asked whether the time spent restraining a gentleman counted as overtime. Fanshawe said that it certainly should.
+For the next twenty minutes, while history rearranged its route elsewhere, they wrote down what had happened in the room. Glock refused to sign. Perrott recorded the refusal. The porter gave his name as Joseph Finch and asked whether the time spent restraining a gentleman counted as overtime. Fanshawe said that it certainly should.
 
 Hester and Daniel returned. Beatrice stood when she saw the blood. Daniel waved away the concern with his good hand.
 
@@ -5246,9 +5246,9 @@ Hester and Daniel returned. Beatrice stood when she saw the blood. Daniel waved 
 
 “No,” he said. “I shouldn’t.”
 
-Their return window was not until evening, if Operations could find one after the future evacuation. Bell’s portable token had been confiscated. His own route might be usable under supervision, but it led to a private office whose status they did not know. They could not risk delivering him there unannounced.
+Their return window was not until evening, if Operations could find one after the future evacuation. Glock’s portable token had been confiscated. His own route might be usable under supervision, but it led to a private office whose status they did not know. They could not risk delivering him there unannounced.
 
-They arranged for Bell to remain in a locked room under the porter’s watch. Fanshawe stayed with him. Beatrice went with Hester to the shop, carrying the original case and a copy of Perrott’s account.
+They arranged for Glock to remain in a locked room under the porter’s watch. Fanshawe stayed with him. Beatrice went with Hester to the shop, carrying the original case and a copy of Perrott’s account.
 
 On the way, London was still celebrating a victory it had known about for two days. Hester bought bread. Beatrice paid for a second loaf and realised, as she took it, that she was hungry in a century she might have to live in.
 
@@ -5296,7 +5296,7 @@ Arthur sat beside her with Hester’s notes. He remembered the aunt’s kitchen,
 
 Eleanor examined it. “We have a gap. Four people at most.”
 
-“Beatrice, Fanshawe, Bell.”
+“Beatrice, Fanshawe, Glock.”
 
 “Three. Enough.”
 
@@ -5310,13 +5310,13 @@ Then they waited.
 
 Waiting was now the hardest operation in the department. Miriam walked from console to clock and back. Arthur tried to eat toast and found his mouth too dry. Fanshawe’s absence was less visible than Beatrice’s because nobody moved quite so efficiently when fetching paper. The registry had already begun to accumulate little uncertainties she would normally have removed without notice.
 
-At 07:28 the token trace moved. Beatrice and Fanshawe were approaching the cellar. A third protected signature followed: the earlier Bell. Eleanor prepared the return field.
+At 07:28 the token trace moved. Beatrice and Fanshawe were approaching the cellar. A third protected signature followed: the earlier Glock. Eleanor prepared the return field.
 
-At the other end, Beatrice read the note twice, handed it to Hester and went to collect the men. Bell had spent the afternoon offering Fanshawe increasingly implausible arrangements. Fanshawe had listened without accepting any, a considerable professional development.
+At the other end, Beatrice read the note twice, handed it to Hester and went to collect the men. Glock had spent the afternoon offering Fanshawe increasingly implausible arrangements. Fanshawe had listened without accepting any, a considerable professional development.
 
 “We have a return,” Beatrice said.
 
-Bell stood at once.
+Glock stood at once.
 
 “On what conditions?”
 
@@ -5342,9 +5342,9 @@ Daniel asked whether Arthur had found his brother. Beatrice had no answer. She w
 
 He nodded. He had learned enough about promises to prefer this one.
 
-The aperture began to form against the store’s bare wall. Bell watched it with the hunger of a man seeing the end of an argument he had temporarily lost.
+The aperture began to form against the store’s bare wall. Glock watched it with the hunger of a man seeing the end of an argument he had temporarily lost.
 
-Fanshawe crossed first, then Bell under Eleanor’s supervision. Beatrice remained for one moment with Hester.
+Fanshawe crossed first, then Glock under Eleanor’s supervision. Beatrice remained for one moment with Hester.
 
 “If we cannot come again,” she said, “there is nothing further you owe us.”
 
@@ -5376,9 +5376,9 @@ At 08:19 Garrick telephoned from a car park in Victoria Street. For the avoidanc
 
 They had enough time to make the decision properly, and not enough to pretend it was easy.
 
-Eleanor presented the reconciliation comparison to the hearing. The corrected duplicate removed the unrestricted receivership from the chain of authority. Its downstream institutional consequences no longer supported Bell’s 2029 regime or the casualty forecast generated by that regime. The Low Countries settlement returned towards the baseline branch in which Belgium emerged as a country. Most large-scale features of the remembered 2026 were recoverable.
+Eleanor presented the reconciliation comparison to the hearing. The corrected duplicate removed the unrestricted receivership from the chain of authority. Its downstream institutional consequences no longer supported Glock’s 2029 regime or the casualty forecast generated by that regime. The Low Countries settlement returned towards the baseline branch in which Belgium emerged as a country. Most large-scale features of the remembered 2026 were recoverable.
 
-Some things could not be made as though they had never happened. Twenty-two people had arrived from the future. Miriam had arrived earlier. Two versions of Bell were in separate rooms. Arthur’s older body lay in the mortuary. The protected records of Hester, Agnes, Perrott and the hearing existed. Their preservation did not require keeping Bell’s government, but it required acknowledging displaced people and evidence as part of the new present.
+Some things could not be made as though they had never happened. Twenty-two people had arrived from the future. Miriam had arrived earlier. Two versions of Glock were in separate rooms. Arthur’s older body lay in the mortuary. The protected records of Hester, Agnes, Perrott and the hearing existed. Their preservation did not require keeping Glock’s government, but it required acknowledging displaced people and evidence as part of the new present.
 
 “And unprotected lives on the altered branch?” Dame Judith asked.
 
@@ -5390,15 +5390,15 @@ Pelling asked whether they could extend the stabiliser window. Eleanor showed th
 
 The hearing’s immediate order did not declare the baseline world morally superior in every respect. It authorised the documented correction of a fraudulent intervention, required preservation and care for all arrived persons, prohibited destruction of contradictory evidence and reserved judgement on the conduct of the department. It also required publication of a comprehensible account once essential personal information had been protected.
 
-Bell’s earlier self objected that the minister issuing the order might not hold office after reconciliation. Pelling acknowledged this.
+Glock’s earlier self objected that the minister issuing the order might not hold office after reconciliation. Pelling acknowledged this.
 
 “Then the order will be evidence of what I did while I held it.”
 
-The later Bell objected from the adjoining room that the hearing could not bind a restored government. Cole agreed.
+The later Glock objected from the adjoining room that the hearing could not bind a restored government. Cole agreed.
 
 “It can leave it a record and people to answer.”
 
-Arthur listened to their objections being recorded. He had wanted Bell silenced in the ceremony. Now he wanted him unable to claim that silence was the principle on which they had won.
+Arthur listened to their objections being recorded. He had wanted Glock silenced in the ceremony. Now he wanted him unable to claim that silence was the principle on which they had won.
 
 At 08:42 he asked for ten minutes alone. Eleanor looked at the clock and nodded.
 
@@ -5444,7 +5444,7 @@ They did not find a final sentence worthy of the occasion. Ruth had to help Sam 
 
 When he hung up, Beatrice stood in the doorway. She did not ask whether he was all right. She handed him a clean handkerchief and waited while he used it.
 
-At 09:10 everyone gathered within the protected floors. The arrivals sat in the large room under the watch of medical staff. Miriam checked the head count. Ives held the duplicate registry. Pelling and the observers stood beside the console. The two Bells remained in separate secure rooms, each with an independent witness and a copy of the detention grounds. Saye sat outside the drying room, no longer locked in but not free to leave without notice.
+At 09:10 everyone gathered within the protected floors. The arrivals sat in the large room under the watch of medical staff. Miriam checked the head count. Ives held the duplicate registry. Pelling and the observers stood beside the console. The two Glocks remained in separate secure rooms, each with an independent witness and a copy of the detention grounds. Saye sat outside the drying room, no longer locked in but not free to leave without notice.
 
 Eleanor asked Arthur whether he consented to the reference comparison. It was a technical use of his induction history, limited to this reconciliation. The terms were written on one page. He read them. Cole read them. Neither was embarrassed by the time it took.
 
@@ -5458,7 +5458,7 @@ Nothing exploded. Nobody vanished from the room. Arthur’s hand was cold agains
 
 The upper-world monitor refreshed. Belgium appeared on the map. The prime minister’s name changed. The registration order disappeared from ordinary government systems, leaving its protected copy in Pelling’s hands. He looked at it for a long time.
 
-Eleanor checked each arrival’s signature. Twenty-three displaced living civilians including Miriam, two displaced-age versions of Bell counted separately within their custody record, and the ordinary travellers returned to their own sequence. The body remained. The books remained. The room contained everybody it had contained a minute earlier.
+Eleanor checked each arrival’s signature. Twenty-three displaced living civilians including Miriam, two displaced-age versions of Glock counted separately within their custody record, and the ordinary travellers returned to their own sequence. The body remained. The books remained. The room contained everybody it had contained a minute earlier.
 
 Arthur took Ruth’s photograph from his notebook. Four people stood on a beach, one child turned away, another shouting. The image did not fade.
 
@@ -5612,7 +5612,7 @@ The question came from a parliamentary committee whose members had received a cl
 
 The existence of RAAS had been disclosed in limited terms after the independent hearing refused to surrender its records. Public reaction had ranged from disbelief to a strong conviction that time travel explained the state of the trains. The government had established a statutory inquiry. It had also established a communications group to ensure that nobody described the inquiry as an admission of anything before it had admitted it formally.
 
-Arthur appeared beside Eleanor, Miss Ahmed and Ives. Fanshawe gave evidence separately. Beatrice attended with her own legal representative. The Bells were being investigated for fraud, unlawful detention, assault and conspiracy. Their different ages complicated attribution but did not prevent it.
+Arthur appeared beside Eleanor, Miss Ahmed and Ives. Fanshawe gave evidence separately. Beatrice attended with her own legal representative. The Glocks were being investigated for fraud, unlawful detention, assault and conspiracy. Their different ages complicated attribution but did not prevent it.
 
 The committee chair asked Arthur the question again.
 
@@ -5650,7 +5650,7 @@ He had been asked this privately many times. People wanted a clean answer becaus
 
 “No. I am responsible for what I chose. The institution is responsible for arranging choices it could have prevented.”
 
-Beatrice’s evidence was more difficult. She admitted concealing the Strath references, accepting Bell’s assurances and failing to disclose her personal interest. She did not plead that grief had made her incapable of judgement. She said it had given her a judgement she was afraid to expose to anyone else.
+Beatrice’s evidence was more difficult. She admitted concealing the Strath references, accepting Glock’s assurances and failing to disclose her personal interest. She did not plead that grief had made her incapable of judgement. She said it had given her a judgement she was afraid to expose to anyone else.
 
 “You knew the safeguards,” the chair said.
 
@@ -5664,7 +5664,7 @@ Beatrice’s evidence was more difficult. She admitted concealing the Strath ref
 
 “That is for others to decide.”
 
-Arthur sat behind her, unable to help. He wanted to remind the committee that she had gone to 1815, confronted Bell and brought back the correction. Those facts were already in the record. They did not remove the first ones.
+Arthur sat behind her, unable to help. He wanted to remind the committee that she had gone to 1815, confronted Glock and brought back the correction. Those facts were already in the record. They did not remove the first ones.
 
 Fanshawe accepted both columns of his record, the approval and the resistance, with less elegance and more perspiration, and resigned before the finding was published.
 
@@ -5676,13 +5676,13 @@ Beatrice received a formal finding of serious misconduct, lost her management au
 
 “At quite a lot. The finding is one of the more orderly parts.”
 
-Saye gave evidence against both Bells and faced his own proceedings. Cresswell had been arrested at the committee rooms on the twenty-third of June 1815; the charge sheet survived, and so did the constable’s entry for a brass curiosity taken from his pocket. The inquiry authorised contact only to establish his condition and offer lawful return, not to rescue him from accountability.
+Saye gave evidence against both Glocks and faced his own proceedings. Cresswell had been arrested at the committee rooms on the twenty-third of June 1815; the charge sheet survived, and so did the constable’s entry for a brass curiosity taken from his pocket. The inquiry authorised contact only to establish his condition and offer lawful return, not to rescue him from accountability.
 
-Before the final session, the later Bell asked to see Arthur. Cole advised that there was no obligation to attend. Arthur went, with the solicitor present and the conversation recorded. He no longer confused listening to a man with granting him control of the room.
+Before the final session, the later Glock asked to see Arthur. Cole advised that there was no obligation to attend. Arthur went, with the solicitor present and the conversation recorded. He no longer confused listening to a man with granting him control of the room.
 
-Bell sat behind a plain table. Without the excellent coat, the private office and the people waiting for his instructions, he looked like an intelligent civil servant who had slept badly. Arthur found this more disturbing than if prison had transformed him into a visibly different kind of person.
+Glock sat behind a plain table. Without the excellent coat, the private office and the people waiting for his instructions, he looked like an intelligent civil servant who had slept badly. Arthur found this more disturbing than if prison had transformed him into a visibly different kind of person.
 
-“You have won the immediate argument,” Bell said.
+“You have won the immediate argument,” Glock said.
 
 “I didn’t come for a concession.”
 
@@ -5690,7 +5690,7 @@ Bell sat behind a plain table. Without the excellent coat, the private office an
 
 Arthur sat. “I came because you asked. You can decide what you wanted to say.”
 
-Bell looked towards the recorder. “You are making a virtue of machinery again.”
+Glock looked towards the recorder. “You are making a virtue of machinery again.”
 
 “It helps us remember what was actually said.”
 
@@ -5698,7 +5698,7 @@ Bell looked towards the recorder. “You are making a virtue of machinery again.
 
 “Some will. That doesn’t require us to help.”
 
-For a while Bell said nothing. Then he said, “Leeds. The third floor,” and Arthur remembered the porridge of paper and the queue outside, and the people asked to produce what the office had drowned.
+For a while Glock said nothing. Then he said, “Leeds. The third floor,” and Arthur remembered the porridge of paper and the queue outside, and the people asked to produce what the office had drowned.
 
 “I wanted a record that could not be lost,” he said.
 
@@ -5706,7 +5706,7 @@ Arthur listened. The account was plausible. It did not explain everything, and w
 
 “That was worth wanting.”
 
-Bell leaned forward. “You see.”
+Glock leaned forward. “You see.”
 
 “I see the beginning.”
 
@@ -5724,7 +5724,7 @@ Arthur thought of the selective forecast, the orange bands and the woman in the 
 
 “You’re well placed to explain it.”
 
-Bell looked away. It was not remorse. It might have been anger at finding that the same words could now apply to him.
+Glock looked away. It was not remorse. It might have been anger at finding that the same words could now apply to him.
 
 “Your new office will make mistakes,” he said.
 
@@ -5736,7 +5736,7 @@ Bell looked away. It was not remorse. It might have been anger at finding that t
 
 “You cannot balance a country on an endless appeal.”
 
-As Arthur stood to leave, Bell asked about Ruth.
+As Arthur stood to leave, Glock asked about Ruth.
 
 Cole began to object. Arthur shook his head.
 
@@ -5752,7 +5752,7 @@ Cole began to object. Arthur shook his head.
 
 He left then. In the corridor he had to stand still for a moment while his hands stopped shaking. Cole waited beside him without asking whether the meeting had helped.
 
-The department’s new charter was shorter than Bell’s transitional constitution. It prohibited unilateral corrections for private benefit, required independent custody of records and established rights for displaced arrivals. No person could be made the sole legal authority for historical truth. No emergency appointment could transfer the right to suppress its own objections. The operative clauses owed more to Agnes Strath than to anyone’s constitutional novelty.
+The department’s new charter was shorter than Glock’s transitional constitution. It prohibited unilateral corrections for private benefit, required independent custody of records and established rights for displaced arrivals. No person could be made the sole legal authority for historical truth. No emergency appointment could transfer the right to suppress its own objections. The operative clauses owed more to Agnes Strath than to anyone’s constitutional novelty.
 
 At the end of the final session, the chair thanked Arthur for his service. He accepted, then asked that Hester Pike, Daniel Wren, Agnes Strath, Joseph Finch and Thomas Perrott be named in the account.
 
@@ -5818,7 +5818,7 @@ After the meeting, Jon showed Arthur a photograph of himself standing beside his
 
 The joke was small and belonged to them. Arthur found it more encouraging than any official integration statistic.
 
-Back at the department, Eleanor was supervising the removal of Bell’s wiring. Every component was photographed, labelled and retained for the inquiry. A contractor asked whether the old brass switches could be replaced with a more efficient digital system. Eleanor said yes, provided the manual isolation remained physically independent and someone other than the supplier could inspect the design.
+Back at the department, Eleanor was supervising the removal of Glock’s wiring. Every component was photographed, labelled and retained for the inquiry. A contractor asked whether the old brass switches could be replaced with a more efficient digital system. Eleanor said yes, provided the manual isolation remained physically independent and someone other than the supplier could inspect the design.
 
 “That’ll cost more.”
 
@@ -5862,7 +5862,7 @@ The archive sent a scan first. Beatrice insisted that the physical original be e
 
 Arthur read the letter in the public reading room with Beatrice, Eleanor and Miriam. Hester’s hand was firm, the ink faded but clear.
 
-She began by acknowledging payment for the press, then corrected the amount owed to Gant, who had discovered an additional charge after becoming helpful. She reported that Daniel’s hand was improving, that the committee had paid the original account after Perrott supplied a sharply worded reminder, and that Bell’s remaining agents had ceased visiting the shop once ordinary legal attention made their work less private.
+She began by acknowledging payment for the press, then corrected the amount owed to Gant, who had discovered an additional charge after becoming helpful. She reported that Daniel’s hand was improving, that the committee had paid the original account after Perrott supplied a sharply worded reminder, and that Glock’s remaining agents had ceased visiting the shop once ordinary legal attention made their work less private.
 
 Then the letter changed its purpose without announcing the change.
 
@@ -5920,7 +5920,7 @@ Fanshawe sent a postcard from a coastal town where he was learning, unsuccessful
 
 Miriam accepted a laboratory post at a university. She still consulted on RAAS, but under a contract which allowed her to refuse assignments. Her first refusal concerned a weekend. Beatrice invited her to lunch instead. They went to a restaurant and argued about the menu, an achievement neither described in those terms.
 
-The Bells remained in custody under separate case numbers, and their lawyers disagreed about whether the later man’s admissions could be used against the earlier one. The court asked for evidence of each act. Arthur answered requests to clarify his notebook, carefully, and did not follow every hearing.
+The Glocks remained in custody under separate case numbers, and their lawyers disagreed about whether the later man’s admissions could be used against the earlier one. The court asked for evidence of each act. Arthur answered requests to clarify his notebook, carefully, and did not follow every hearing.
 
 On a cold Monday, Arthur arrived at work with a bag of pastries for the new staff. The vending machine had jammed again. Its display offered Belgian chocolate rounds, but the mechanism declined to release them. He considered calling Eleanor, then called Facilities. Some problems deserved to remain small.
 
@@ -5966,7 +5966,7 @@ The message did not claim to know Arthur. It said the writer had read the public
 
 At the bottom was a request: Please establish who is acknowledging delivery.
 
-Arthur read the sheet twice. The problem was not Bell’s receivership returning under another name. It described a different uncertainty: evidence apparently arriving before the event it purported to certify, without a paired machine anyone could identify. It might be fraud. It might be a surviving device. It might be someone using the archive’s promise to draw them into a new mistake.
+Arthur read the sheet twice. The problem was not Glock’s receivership returning under another name. It described a different uncertainty: evidence apparently arriving before the event it purported to certify, without a paired machine anyone could identify. It might be fraud. It might be a surviving device. It might be someone using the archive’s promise to draw them into a new mistake.
 
 He found that his first feeling was not dread. It was curiosity, followed promptly by the desire for a proper breakfast.
 
