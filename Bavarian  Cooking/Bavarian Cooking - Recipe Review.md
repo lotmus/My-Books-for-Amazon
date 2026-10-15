@@ -1,5 +1,10 @@
 > **Status (updated 2026-10-12):** The original audit below records the earlier, roughly 100-recipe manuscript. Its proposed corrections were reviewed against the expanded edition. The current 121-recipe Kindle EPUB has received a line-edit and completeness pass; see the current-edition notes below. Use the rebuilt EPUB and `build/build_report.txt` for current text.
 
+### 15 Oct 2026 reconciliation of earlier audit fixes
+
+The full 121-recipe DOCX was checked against the older issue lists below. The earlier high-impact corrections and listed recipe follow-ups are present in the current master, including the barley-based risotto, corrected split-pea ratio, liver-dumpling binder, moderate horseradish, corrected baking-soda substitutions, Sauerbraten thickener and timing, Leberkäse method, ingredient-to-method matches, and missing quantities. Two remaining measurement issues were corrected in the DOCX: Bavarian Onion Soup now uses 2 Tbsp. clarified butter for four onions, and Bavarian Cream lists powdered gelatin as 10 g (0.35 oz.), not 0.5 oz. The KDP description continues to identify the intended audience as adults and older teens (about 16+). Earlier complete DOCX snapshots are retained in `bak/history/`.
+The EPUB was synchronized with the two ingredient corrections; its 141-entry archive and all XML/XHTML files passed structural checks. Kindle Previewer was not rerun after this synchronization.
+
 # Bavarian Cooking Made Simple – Recipe Review
 
 ## Current-edition line edit and completeness pass
