@@ -21,3 +21,7 @@ REV3 built from REV2 (now in `bak\`). Brief from Lothar: "needs a 10 on all". Wo
 ## REV4, 15 October 2026
 
 REV4 is REV3 with the villain renamed from Bell to Glock at Lothar's request: 283 hits in the story body (277 Bell, 5 Bells, 1 BELL on the engraved card), plus the notes. Ordinary bells (lift bell, a bell rang, a bell sounded) were left. The book has no appendix. The scripts in notes/build still say Bell because they edit older text; the manuscript and notes control. Docx rebuilt at 3.6 x 4.8 in; 40 contents links resolve.
+
+## REV5, 15 October 2026
+
+Decision from Lothar on Amery's Das Koenigsprojekt: keep our own plot, characters, names and wording (all original, nothing copied), move themes somewhat closer in spirit (a secret institution intervening in history, the moral cost, bureaucratic deadpan) as a homage. Done in REV5: an Acknowledgement note in the back matter (inspired in spirit only; a homage, not an adaptation) and a new COST column in the department's dispatch ledger (added in chapter 9, filled with Ruth's entry in the last chapter) that makes the institution's moral cost a visible device. Never market it as an adaptation of, or substitute for, Amery's novel. The separate pacing and menace pass mentioned in the instruction has not been done as its own job in this REV; REV3 already added the directive low point and Glock's schedule-menace scenes. About 50,400 words.

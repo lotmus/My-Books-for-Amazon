@@ -1712,6 +1712,16 @@ Line four. Miriam. Present, Monday 09:31 to 09:34, at her own insistence and in 
 
 Beatrice wrote the next number and, at the head of the column beside it, in capitals, NO LINE WITHOUT A WEIGHT.
 
+Arthur asked how many lines the department had written since it began. Beatrice did not need the register.
+
+“One thousand nine hundred and four, since 1938. In pencil, mostly, and none with a weight.” She ran a finger along the whiteboard’s headings. “There has never been a column for who paid.”
+
+“Paid what?”
+
+“Anything.”
+
+Eleanor took the pen, ruled a seventh column at the right-hand edge and wrote COST at the top in capitals. Nobody suggested what should go under it. The first row stayed blank for the rest of the evening.
+
 Eleanor looked at the time. It was ten past five. The reconciliation clock had sixty-four hours left, and Glock had said he would be back at six.
 
 “I can look for a gap.”
@@ -5926,6 +5936,8 @@ On a cold Monday, Arthur arrived at work with a bag of pastries for the new staf
 
 In the corridor outside Records the duty board said MONDAY, and Monday it was. The analyst who had once changed it to Tuesday now held a post in which she kept her own chalk. In the bottom corner, small, she had added WE CHECKED.
 
+In Records, the dispatch ledger lay open on the counter with its seventh column. Over the autumn it had begun to fill, slowly, in several hands. The first entry was in Arthur’s: *Ruth, Peter, Lucy, Sam. Unfulfilled. Kept.*
+
 At nine seventeen, a junior archivist named Nisha brought him an envelope.
 
 “Uncatalogued delivery.”
@@ -5994,6 +6006,10 @@ Then the date and, after some consideration, AS OBSERVED.
 ## A Note to Readers
 
 If this book made you laugh, or made you slightly nervous about the forms you signed last week, please consider leaving a short, honest review. A sentence is plenty. It helps other readers find the Department, and the Department would, for once, like to be found.
+
+## Acknowledgement
+
+This is an original novel: its premise, characters, names and wording are my own. It was inspired, in spirit only, by Carl Amery’s *Das Königsprojekt*, a German novel of a secret institution that intervenes in history, of what such intervention costs, and of the deadpan with which institutions describe it. It is a homage, not an adaptation, and I recommend the original.
 
 ## About the Author
 
