@@ -4,7 +4,7 @@
 - **Master:** `The Department of Historical Corrections - REV3.docx` with `.md` working copy, about 50,000 words in 37 chapters. Kindle page size 3.6 x 4.8 in, 0.3 in margins, no tables. REV1 and REV2 are in `bak\` (REV2 also in git, 3d429a55).
 - **Package:** `KDP_Description.md` (hook, description, 7 keywords, categories), `cover\The Department of Historical Corrections - front cover 1000x1600.png`.
 - **Pen name:** none; Lothar J. Musiol. British spelling, About the Author Version A (Colin line) and Gucci.
-- **Rules:** never write the name Trump (searched: none); no MTW; no Word tables; Kindle only.
+- **Rules:** never write the banned surname from LOTHAR_RULES.md (searched the book, notes and SCORES.md: none); no MTW; no Word tables; Kindle only.
 - **Ledger:** `notes/DISPATCH_LEDGER.md` is authoritative for transit, capacity and the day-by-day clock.
 - **Overlap:** do not market as an adaptation of Amery's novel.
 - **Next:** cold read; Kindle Previewer; optional further expansion toward 55k through scenes (candidates in the review note); then upload.
