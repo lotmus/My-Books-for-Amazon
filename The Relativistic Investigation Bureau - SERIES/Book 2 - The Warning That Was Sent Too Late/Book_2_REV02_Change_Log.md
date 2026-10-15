@@ -197,3 +197,10 @@ The remaining score gap is concentrated in dense science dialogue for casual SF 
 - Replaced the redundant “this case stands alone” sentence in “How to Read This Book” with a direct note that no physics background is needed and the six-lesson course is optional.
 - Updated the KDP description to accurately promise the orientation and a self-contained case.
 - The Book 2 REV05 Markdown and paired DOCX were updated together. The REV04 release master was not changed.
+
+## 15 Oct 2026 — Critical first-entry and cover-copy pass
+
+- Removed the Book 1 answer spoiler from the back-cover hook: the new copy says Derek is closing “the Bureau’s previous case.” Rebuilt and visually checked the back cover from `scripts/make_covers.py`; its reader guidance now says no prior case or physics background is needed. Left the front cover unchanged.
+- Brought the KDP description into alignment with the cover and the any-order series rule. It now says plainly that the complete case can be read before or after Book 1, no physics background is needed, and the lessons are optional. Replaced the misleading “sequel” search phrase with “standalone.”
+- Rechecked the new-reader orientation against the opening and middle-case references: the current warning and investigation remain distinct from the unresolved LOCALHOST thread; no prior answer is needed to understand the case. The case resolves its central question; the railway, Sunday slip and late voice remain openly marked as series mysteries.
+- Updated the marketing assessment after the on-ramp change. Ease of entry and sellability improve; neither readership data nor visual Kindle/Word proof is available to justify a 10. Revision remains a draft pending those checks.
