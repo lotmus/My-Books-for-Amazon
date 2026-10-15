@@ -1,6 +1,6 @@
 # Character & Setting Bible — The Relativistic Investigation Bureau
 
-Reference only — not for publication. Rechecked against the active Book 1 REV15 and Book 2 REV05 working drafts on 2026-10-13. Where a sense (usually smell) is genuinely undocumented, it's marked **[not established]** rather than invented — do not silently promote a new detail to canon.
+Reference only — not for publication. Rechecked against the active Book 1 REV17 candidate and Book 2 REV05 working draft on 2026-10-15. Where a sense (usually smell) is genuinely undocumented, it's marked **[not established]** rather than invented — do not silently promote a new detail to canon.
 
 ---
 
@@ -56,7 +56,7 @@ Reference only — not for publication. Rechecked against the active Book 1 REV1
 - **Attitude**: precise, already suspicious of adult explanations, treats being small as a technicality rather than a fact. Inherited Derek's stillness-when-thinking habit. Kept her own notebook tracking the Bureau's lying clocks (four-minute brass-clock discrepancy, tested seventeen times) — pays off across the book and in the Epilogue's surveillance-car thread.
 
 ### Tuppence — Sophie's mother, Derek's ex
-- **Looks/attitude**: immaculately put together, competence that reads as polish — heels for effect not comfort, opinions delivered "as though already finalised by committee." Left three years before the novel's events for a man named Julian who made a fortune manufacturing clothes hangers. Line: *"Relativistic, my arse."*
+- **Looks/attitude**: immaculately put together, competence that reads as polish — heels for effect not comfort, opinions delivered "as though already finalised by committee." Separated from Derek nine years before the novel's events after a seven-year marriage. At Book 1's end, her partner Julian is moving in; he made a fortune manufacturing clothes hangers. Line: *"Relativistic, my arse."*
 - **Sound/smell**: [not established except the voicemail]
 - **On-page**: Ch1 voicemail timestamped 9:16, overlapping the murder email; school called her first; tells Derek not to turn up at the gates.
 - **Note**: if "Miranda" ever appears anywhere in the text, that's a leftover bug from an earlier draft — fix it.
@@ -98,7 +98,7 @@ Cold window overlooking a busy Munich street (trams, cyclists, delivery carts). 
 ### The room beneath the Louvre — NON-CANON / ABSENT FROM THE ACTIVE BOOK 1 DRAFT
 Small, stone-walled, "entirely too quiet." A table, a clock, a piece of paper asking for a value of τ. Reached via a staircase behind a security guard who never appears in the same place twice, through a corridor with no tourists, no paintings, no signs, the building visibly getting older the deeper they go.
 
-The active Book 1 REV15 text has no Louvre scene, Paris trip, coordinate-paper puzzle or recurring guard. Older planning notes describing one are not canon; do not build on them unless a future manuscript deliberately introduces that material.
+The active Book 1 REV17 text has no Louvre scene, Paris trip, coordinate-paper puzzle or recurring guard. Older planning notes describing one are not canon; do not build on them unless a future manuscript deliberately introduces that material.
 
 ### Platform Seven / the mysterious train
 A departure board that rearranges its own letters without anyone touching it (ARRIVAL → DEPARTURE → briefly DEATH → settling back to normal). The platform "shouldn't exist." Recurring site for the book's biggest anomalies.
