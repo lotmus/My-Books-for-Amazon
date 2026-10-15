@@ -44,61 +44,29 @@ ALSO = [
     "Volume 2 — Gravity, Cosmology, and the Limits of Spacetime",
     "Volume 3 — The Standard Model, Chaos, and the Edge of Knowledge",
 ]
-# Back matter: the canonical "Also by Lothar J. Musiol" list (same in every book; see
-# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
-# Rebuilt 10 Oct 2026 from notes/ALSO_BY - canonical list.md. The book itself is left out; Kevin Drew
-# Peters books never appear on a Lothar J. Musiol page.
-ALSO_BY = [
-    ('Physics, Actually', [
-        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
-        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
-        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
-    ]),
-    ('More Actually Books', [
-        'Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard',
-        'The Universe, Actually: What Humanity Currently Understands About Reality',
-    ]),
-    ('Math, Actually', [
-        'Math, Actually, Volume 1: From Arithmetic to Calculus',
-        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
-        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
-        'Math, Actually, Volume 4: From Category Theory to the Frontier',
-    ]),
-    ('Quantum, Actually', [
-        'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
-        'Quantum, Actually, Volume 2: A QED Course',
-    ]),
-    ('Science Sparks', [
-        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
-    ]),
-    ('Look First', [
-        'Look First, Volume 1: The Universe Has No Now',
-        'Look First, Volume 2: A Trip Is Not a New Life',
-    ]),
-    ('Electrical Engineering Series', [
-        'Foundations of Electronics (Book 1)',
-        'Circuits, Components, and Control (Book 2)',
-        'Semiconductor Physics and Devices (Book 3)',
-        'RF, Microwave, and Transceivers (Book 4)',
-        'Communications, Wireless, and SDR (Book 5)',
-        'Power and Energy (Book 6)',
-        'Packaging, Layout, EMC, and Test (Book 7)',
-    ]),
-    ('History', [
-        "The Dolphins' View of History",
-    ]),
-    ('Fiction', [
-        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)",
-        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)',
-        "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
-        "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
-        'Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine',
-        'In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston',
-    ]),
-    ('In German', [
-        'Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?',
-    ]),
-]
+# Back matter is read from the canonical files, not copied here: notes/ABOUT_THE_AUTHOR - canonical.md (Version B)
+# and notes/ALSO_BY - canonical list.md, through tools/canonical_text.py at the repo root. Change those files,
+# not this script. The book itself is left out of its own Also-by page; Kevin Drew Peters books never appear
+# on a Lothar J. Musiol page. This book sets curly apostrophes, so the canonical straight ones are curled.
+REVIEW_INVITATION = ("*If this book gave you something, a laugh, an idea, or a better question, I\u2019d love to hear about it. "
+                     "A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.*")
+ABOUT_HEAD = "About the Author"
+ALSOBY_HEAD = "Also by Lothar J. Musiol"
+
+
+def _canonical():
+    d = os.path.dirname(os.path.abspath(__file__))
+    while not os.path.isfile(os.path.join(d, "tools", "canonical_text.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    sys.path.insert(0, os.path.join(d, "tools"))
+    import canonical_text
+    return canonical_text
+
+
+def also_by_groups():
+    return _canonical().also_by(exclude=[TITLE + ":"], typographic=True)
+
+
 COPYRIGHT = [
     SERIES,
     f"{TITLE} — {SUBTITLE}",
@@ -158,6 +126,29 @@ def load_blocks():
                 para.append(lines[i].strip()); i += 1
             blocks.append(("p", " ".join(para)))
     return blocks
+
+def ensure_back_matter(blocks):
+    """Contents-listed back matter in the order review line, About the Author, Also by. The About section
+    (heading and bio) and the review line come from this script and the canonical files, whatever the
+    markdown holds, so a rebuild cannot bring back an older bio."""
+    def is_head(b, t): return b[0] == "unnum" and plain(b[1]).strip() == t
+    out, i = [], 0
+    while i < len(blocks):
+        b = blocks[i]
+        if is_head(b, ABOUT_HEAD):
+            i += 1
+            while i < len(blocks) and blocks[i][0] in ("p", "list"): i += 1
+            continue
+        if b[0] == "p" and plain(b[1]).startswith("If this book gave you"):
+            i += 1; continue
+        out.append(b); i += 1
+    new = [("gen", "REVIEW"), ("unnum", ABOUT_HEAD)] + [("p", t) for t in _canonical().about_paragraphs("B", typographic=True)]
+    at = next((n for n, b in enumerate(out) if is_head(b, ALSOBY_HEAD)), None)
+    if at is None:
+        out += new + [("unnum", ALSOBY_HEAD), ("gen", "ALSOBY")]
+    else:
+        out[at:at] = new
+    return out
 
 # ---------------------------------------------------------------- inline formatting
 TOKEN = re.compile(r"(\*\*.+?\*\*|\*[^*\n]+?\*)")
@@ -297,7 +288,7 @@ def build_index(blocks):
 TOC_PAGES = json.load(open(os.path.join(ROOT, "notes", "toc_pages.json"))) if os.path.exists(os.path.join(ROOT, "notes", "toc_pages.json")) else {}
 
 def build():
-    blocks = load_blocks()
+    blocks = ensure_back_matter(load_blocks())
     doc = Document(); setup_styles(doc)
     sec = doc.sections[0]; sec.page_width, sec.page_height = Inches(6), Inches(9)
     for m in ("left_margin", "right_margin"): setattr(sec, m, Inches(0.75))
@@ -309,7 +300,7 @@ def build():
         elif b[0] == "chapter": toc.append(("ch", f"Chapter {b[1]}: {plain(b[2])}", f"chapter_{b[1]}"))
         elif b[0] == "unnum" and b[1] not in ("Contents",): toc.append(("ch", plain(b[1]), "ch_" + re.sub(r"\W+", "_", plain(b[1]).split(":")[0].lower()).strip("_")))
     anchors = {t: a for k, t, a in toc}
-    figs = []; in_body = False; prev = None; open_chapter = False
+    figs = []; in_body = False; prev = None; open_chapter = False; skip_link = False
     def close_chapter():
         p = doc.add_paragraph(); link(p, "↑ Back to Contents", "chcontents")
     for b in blocks:
@@ -348,7 +339,7 @@ def build():
                 new = doc.add_section(WD_SECTION.NEW_PAGE); add_footer_header(new)
                 sec.header.is_linked_to_previous = False
             elif g == "ALSOBY":
-                for group, titles in ALSO_BY:
+                for group, titles in also_by_groups():
                     p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.LEFT
                     p.paragraph_format.space_before = Pt(8); p.paragraph_format.space_after = Pt(2)
                     p.paragraph_format.keep_with_next = True; p.paragraph_format.first_line_indent = Inches(0)
@@ -358,6 +349,10 @@ def build():
                         q.paragraph_format.left_indent = Inches(0.25); q.paragraph_format.first_line_indent = Inches(0)
                         q.paragraph_format.space_before = Pt(0); q.paragraph_format.space_after = Pt(1)
                         q.add_run(title)
+            elif g == "REVIEW":
+                if open_chapter: close_chapter(); open_chapter = False
+                page_break(doc)
+                add_runs(doc.add_paragraph(), REVIEW_INVITATION)
             elif g == "INDEX":
                 for disp, hits in build_index(blocks):
                     p = doc.add_paragraph(style="Index Entry")
@@ -375,12 +370,12 @@ def build():
             q = doc.add_paragraph(); q.alignment = WD_ALIGN_PARAGRAPH.CENTER; r = q.add_run(b[2]); r.italic = True; r.font.size = Pt(14)
             prev = "part"; continue
         if k in ("chapter", "unnum"):
-            if open_chapter: close_chapter()
+            if open_chapter and not skip_link: close_chapter()
             page_break(doc)
             text = f"Chapter {b[1]}: {plain(b[2])}" if k == "chapter" else plain(b[1])
             h = doc.add_paragraph(style="Title"); add_runs(h, text if k == "unnum" else f"Chapter {b[1]}: {b[2]}")
             outline0(h); bookmark(h, anchors.get(text) or f"chapter_{b[1]}")
-            open_chapter = True; prev = "head"; continue
+            open_chapter = True; skip_link = (text == ABOUT_HEAD); prev = "head"; continue
         if k == "h2":
             doc.add_paragraph(style="Heading 2").add_run(plain(b[1])) if "*" not in b[1] else add_runs(doc.add_paragraph(style="Heading 2"), b[1])
             prev = "head"; continue

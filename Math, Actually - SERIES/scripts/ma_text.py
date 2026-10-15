@@ -25,62 +25,32 @@ ALSO_BY = ('Also by Lothar J. Musiol: *Physics, Actually*, the companion series 
            'and *Quantum, Actually*, on the quantum world. Every title is listed on the Also by Lothar J. Musiol '
            'page at the back of this volume.')
 
-# Back matter: the canonical 'Also by Lothar J. Musiol' list (same in every book; see
-# notes/ALSO_BY - canonical list.md at the repo root). Titles as on each master's title page.
+# Back matter is read from the canonical files, not copied here: notes/ALSO_BY - canonical list.md and
+# notes/ABOUT_THE_AUTHOR - canonical.md (Version B), through tools/canonical_text.py at the repo root.
+# Change those files, not this script. Nothing in this folder builds the volumes any more (the one-off
+# builder is in bak; the masters are edited directly, see notes/CLAUDE.md section 0); this stays for any tool
+# that needs the texts.
+import os, sys
 ALSO_BY_HEADING = 'Also by Lothar J. Musiol'
-# Rebuilt 10 Oct 2026 from notes/ALSO_BY - canonical list.md. Full list: drop the volume being built.
-ALSO_BY_LIST = [
-    ('Physics, Actually', [
-        'Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity',
-        'Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime',
-        'Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge',
-        'Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere',
-    ]),
-    ('More Actually Books', [
-        'Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard',
-        'The Universe, Actually: What Humanity Currently Understands About Reality',
-    ]),
-    ('Math, Actually', [
-        'Math, Actually, Volume 1: From Arithmetic to Calculus',
-        'Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic',
-        'Math, Actually, Volume 3: From Differential Equations to Abstract Algebra',
-        'Math, Actually, Volume 4: From Category Theory to the Frontier',
-    ]),
-    ('Quantum, Actually', [
-        'Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire',
-        'Quantum, Actually, Volume 2: A QED Course',
-    ]),
-    ('Science Sparks', [
-        'Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights',
-    ]),
-    ('Look First', [
-        'Look First, Volume 1: The Universe Has No Now',
-        'Look First, Volume 2: A Trip Is Not a New Life',
-    ]),
-    ('Electrical Engineering Series', [
-        'Foundations of Electronics (Book 1)',
-        'Circuits, Components, and Control (Book 2)',
-        'Semiconductor Physics and Devices (Book 3)',
-        'RF, Microwave, and Transceivers (Book 4)',
-        'Communications, Wireless, and SDR (Book 5)',
-        'Power and Energy (Book 6)',
-        'Packaging, Layout, EMC, and Test (Book 7)',
-    ]),
-    ('History', [
-        "The Dolphins' View of History",
-    ]),
-    ('Fiction', [
-        "The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)",
-        'The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)',
-        "Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
-        "The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)",
-        'Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine',
-        'In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston',
-    ]),
-    ('In German', [
-        'Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?',
-    ]),
-]
+ABOUT_HEADING = 'About the Author'
+
+
+def _canonical():
+    d = os.path.dirname(os.path.abspath(__file__))
+    while not os.path.isfile(os.path.join(d, 'tools', 'canonical_text.py')) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    sys.path.insert(0, os.path.join(d, 'tools'))
+    import canonical_text
+    return canonical_text
+
+
+def also_by_list(vol):
+    """Canonical Also-by list [(group, [titles])] without Math, Actually Volume `vol`."""
+    return _canonical().also_by(exclude=['Math, Actually, Volume %d:' % vol], typographic=True)
+
+
+def about_paragraphs():
+    return _canonical().about_paragraphs('B', typographic=True)
 
 def front_titles(vol):
     return ['Preface'] if vol == 1 else ['About This Volume']

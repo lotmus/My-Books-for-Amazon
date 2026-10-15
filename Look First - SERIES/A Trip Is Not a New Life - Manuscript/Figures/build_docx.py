@@ -22,6 +22,22 @@ HEADLINE_FONT = "Amazon Ember"
 HEADLINE_BLUE = RGBColor(0x00, 0x00, 0xFF)
 BODY_FONT = "Georgia"
 
+# Back matter: About the Author and the Also-by list are read from the canonical files, not copied here:
+# notes/ABOUT_THE_AUTHOR - canonical.md (Version B) and notes/ALSO_BY - canonical list.md, through
+# tools/canonical_text.py at the repo root. Change those files, not this script or 13_Also_By.md.
+# The review invitation sits just before About the Author.
+REVIEW_INVITATION = ("If this book gave you something, a laugh, an idea, or a better question, I\u2019d love to hear about it. "
+                     "A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.")
+
+
+def canonical():
+    d = HERE
+    while not os.path.isfile(os.path.join(d, "tools", "canonical_text.py")) and os.path.dirname(d) != d:
+        d = os.path.dirname(d)
+    sys.path.insert(0, os.path.join(d, "tools"))
+    import canonical_text
+    return canonical_text
+
 # Real photographs. Everything else is a line diagram, so a .png wins when both exist.
 PREFER_JPG = {13, 27}
 
@@ -419,6 +435,11 @@ def parse_all():
         in_appendix = fname.startswith("11_")
         in_notes = fname.startswith("12_")
         in_also = fname.startswith("13_")
+        if in_also:
+            blocks.append(("review", REVIEW_INVITATION))
+            blocks.append(("h1", "About the Author", "part", new_anchor()))
+            for para in canonical().about_paragraphs("B", typographic=True):
+                blocks.append(("backp", para))
         lines = open(os.path.join(SRC, fname), encoding="utf-8").read().splitlines()
         i = 0
         while i < len(lines):
@@ -453,6 +474,10 @@ def parse_all():
             if line.startswith("# "):
                 kind = "appendix" if in_appendix else ("notes" if in_notes else "part")
                 blocks.append(("h1", line[2:].strip(), kind, new_anchor()))
+                if in_also:
+                    for group, titles in canonical().also_by(exclude=["Look First, Volume 2:"], typographic=True):
+                        blocks.append(("plain", "**%s**" % group))
+                        blocks.extend(("plain", t) for t in titles)
                 i += 1
                 continue
             if line.startswith("## "):
@@ -991,7 +1016,7 @@ def build():
     blocks = parse_all()
     gen = [("h1", "List of Figures", "gen", "figlist"), ("genfigs",),
            ("h1", "Index of Key Concepts", "gen", "index"), ("genindex",)]
-    pos = next((k for k, b in enumerate(blocks) if b[0] == "h1" and b[1].startswith("Also by")), len(blocks))
+    pos = next((k for k, b in enumerate(blocks) if b[0] == "review"), len(blocks))
     blocks[pos:pos] = gen
     NOTE_TEXT.clear(); NOTE_NUM.clear(); REF_PLACED.clear(); FIG_ANCHORS.clear()
     fig_list = []
@@ -1083,6 +1108,11 @@ def build():
                 add_internal_link(p, "Back to text", f"ref_{num}", size=10)
             prev = "note"
             continue
+        if kind in ("review", "backp"):
+            p = doc.add_paragraph(style="Normal")
+            add_runs(p, b[1], italic=(kind == "review"))
+            prev = "plain"
+            continue
         if kind == "plain":
             p = doc.add_paragraph(style="No Indent")
             add_runs(p, b[1])
@@ -1125,7 +1155,8 @@ def build():
             prev = "toc"
             continue
         if kind == "h1":
-            page_break(doc)
+            if not (prev == "plain" and b[1].startswith("Also by")):  # as in the master, Also by follows About the Author on its page
+                page_break(doc)
             h = doc.add_paragraph(style="Heading 1")
             add_runs(h, b[1])
             add_bookmark(h, b[3])
