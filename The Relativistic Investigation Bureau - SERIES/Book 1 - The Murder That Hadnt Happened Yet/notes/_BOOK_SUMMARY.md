@@ -125,4 +125,3 @@ Backups of every file changed: `C:\Users\lomus\OneDrive\My Books for Amazon - se
 - Typographic quotes throughout (2,650 curly double quotes, balanced).
 - KDP: the blurb no longer says "doom her" or "timestamped", or that the way out is "through the equations". Time Travel was dropped from the categories (now Hard SF, Mystery > Private Investigators, SF > Humorous), and there are 7 new keywords with no time-travel claim. The details are in KDP_METADATA.txt.
 - Links (Lothar's rule, 10 Oct 2026): no visible URLs. The demo site, the three demo pages, the Stanford and Pittsburgh pages and every Bibliography title are hyperlinked under their names (books go to their Open Library work pages, all 23 links checked). The Further Reading list, the glossary's Penrose and Lesson 14's Penrose mentions, and the Barbour cross-references link internally to bookmarked Bibliography entries (bib_*).
-
