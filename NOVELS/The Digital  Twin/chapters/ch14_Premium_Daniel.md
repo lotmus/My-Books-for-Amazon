@@ -2,7 +2,7 @@
 
 > *Evidence Period: day 22 of 30. Eight days remain.*
 
-Mr Fenwick was waiting for me on the stairs on the Tuesday morning with the radiant, slightly dazed look of a man who has seen a ghost and been given a biscuit.
+Mr Fenwick was waiting for me on the stairs on the Tuesday morning.
 
 "Daniel," he said. "I've got to tell you what happened."
 

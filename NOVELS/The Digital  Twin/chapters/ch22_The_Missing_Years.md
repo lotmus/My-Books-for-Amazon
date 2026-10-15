@@ -212,6 +212,6 @@ I went back up the garden. At the door of the house, I met Dr Calder coming out 
 
 "It's half past eight," said Dr Calder. "He'll be up."
 
-From somewhere beneath our feet, from the floor, through an old iron grating in the porch tiles through which I had assumed the house breathed, there came a small clear sound, like a spoon on a cup. And then a voice, high and slow and very close to the floor, as a child's voice is when it has just woken and does not yet know whether there is anyone in the room.
+From somewhere beneath our feet, from the floor, through an old iron grating in the porch tiles through which I had assumed the house breathed, there came a small clear sound. And then a voice, high and slow and very close to the floor, as a child's voice is when it has just woken and does not yet know whether there is anyone in the room.
 
 "Is it morning?" it said.

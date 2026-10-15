@@ -97,7 +97,7 @@ She stood in the doorway with a clipboard held against her chest like a shield, 
 
 "Both of us," I said.
 
-"I see that." She looked at us. She looked at the scarf. She looked at the collar light, and then at my bitten thumbnails, and then at Daniel-A's perfect ones, with the unhurried gaze of a woman who has done this before. "I'll be conducting the trial. I've adjudicated four hundred and thirty-one recognition events. Cats, dogs, one pig, and a donkey that was extremely vocal. I'd like to explain the process."
+"I see that." She looked at us. She looked at the scarf. She looked at the collar light, and then at my bitten thumbnails, and then at Daniel-A's perfect ones. "I'll be conducting the trial. I've adjudicated four hundred and thirty-one recognition events. Cats, dogs, one pig, and a donkey that was extremely vocal. I'd like to explain the process."
 
 "Please."
 

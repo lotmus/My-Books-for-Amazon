@@ -122,7 +122,7 @@ There was a short silence in the cold white room.
 
 "And Pike?"
 
-"Pike didn't know. I'd stake my reputation. He said it with the glow of a man who has just found a loophole. He thought he'd discovered it." She almost smiled. "It is the only thing about this case that has ever made me sorry for a barrister."
+"Pike didn't know. I'd stake my reputation. He said it. He thought he'd discovered it." She almost smiled. "It is the only thing about this case that has ever made me sorry for a barrister."
 
 "What happens," said Gareth, "if the Platform *is* the Office?"
 

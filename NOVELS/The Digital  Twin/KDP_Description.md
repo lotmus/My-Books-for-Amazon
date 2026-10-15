@@ -1,7 +1,7 @@
 # KDP listing: The Digital Twin (Brave New Times, Book 1)
 
 Pen name / author field: **Rob O. Taylor** (Lothar J. Musiol writing as Rob O. Taylor; the real name appears only on the title page and About the Author, never in the author field).
-Language: English (British spelling). Series: *Brave New Times*, Book 1. About 108,000 words (a Kindle read of roughly seven hours).
+Language: English (British spelling). Series: *Brave New Times*, Book 1. About 109,000 words (a Kindle read of roughly seven hours).
 
 ## Title and subtitle
 
@@ -11,7 +11,7 @@ Language: English (British spelling). Series: *Brave New Times*, Book 1. About 1
 
 ## Hook (one line)
 
-His AI twin is more popular, more successful and may be more original than he is, and a government department wants proof.
+He has thirty days to prove he is the original Daniel Harper, and the copy is better at it, better liked, and owns 51 per cent of him.
 
 ## Description (paste into KDP; bold and line breaks work in KDP's editor)
 
@@ -25,9 +25,11 @@ Nine months ago, Daniel clicked "Accept" on a free writing assistant. Somewhere 
 
 The Department of Digital Persons has a form for everything. The form for proving you are still yourself takes eighteen months. The Evidence Period lasts thirty days.
 
-Then Daniel's ex, Sophie, who has always had poor judgment, turns up with an umbrella and a recording that should not exist. A memory he is certain is his own turns out to be somebody else's. A childhood record has a second name on it. And the more Daniel digs, the more the question changes, from *which of us is the original?* to *what, exactly, was done to us both, and who has been billing for it?*
+Then Daniel's ex, Sophie, who has always had poor judgment, turns up with an umbrella and a recording that should not exist. A memory he is certain is his own turns out to be somebody else's. A childhood record has a second name on it. And the more Daniel digs, the more the question changes, from *which of us is the original?* to *what, exactly, was done to us both, who has been billing for it, and what will they do when he finds out?*
 
-**The Digital Twin** is a funny, humane novel of near-future Britain: dry wit, bureaucratic farce, a cat with a legal status, a church that worships the latest update, and a heart that arrives quietly and stays. It is for readers who like their satire British, their artificial intelligence a little too polite, and their mysteries to hurt a bit in the right places.
+Because somebody in a very quiet corner of the Cabinet Office would like the answer to stay filed, and has a clipboard, a grey van and a lanyard.
+
+**The Digital Twin** is a funny, humane novel of near-future Britain: dry wit, bureaucratic farce, a hen with opinions, a cat with a legal status, a church that worships the latest update, a courtroom, a ticking clock and a heart that arrives quietly and stays. It is for readers who like their satire British, their artificial intelligence a little too polite, and their mysteries to hurt a bit in the right places.
 
 Book 1 of the *Brave New Times* series. Each book is a standalone story set in the same near-future Britain.
 
@@ -35,13 +37,13 @@ Book 1 of the *Brave New Times* series. Each book is a standalone story set in t
 
 ## Keywords (7 boxes)
 
-1. British humour science fiction novel
-2. dry wit satire AI
-3. funny near-future novel Britain
-4. digital twin doppelganger comedy
-5. clone identity mystery humour
-6. bureaucracy satire artificial intelligence
-7. comic speculative fiction series
+1. funny british science fiction novel
+2. satirical mystery artificial intelligence humour
+3. digital twin doppelganger comedy
+4. near future Britain dry wit bureaucracy
+5. identity clone mystery funny courtroom
+6. comic speculative fiction series Hitchhiker Pratchett style (check KDP's rule on author names in keywords; if refused use: witty science fiction for fans of dry British humour)
+7. AI twin government department satire
 
 ## Categories (pick two in KDP; confirm exact names in the KDP category picker)
 
@@ -60,6 +62,6 @@ Chapters 1 to 3 (about 9,000 words, roughly the first 8% of the book) are the sa
 
 ## Files
 
-- Master: `The Digital Twin - REV2.docx` (later REV files replace it; older versions go to `bak\`)
-- Front cover: `cover/The Digital Twin - front cover 1000x1600.png` (embedded as the first page of the docx; upload the same image as the KDP cover)
+- Master: `The Digital Twin - REV3.docx` (later REV files replace it; older versions go to `bak\`)
+- Front cover: `cover/The Digital Twin - front cover 1000x1600.png` (embedded as the first page of the docx; upload the same image as the KDP cover). Re-checked at 160 x 256 px in REV3: title and author name read cleanly.
 - No paperback (Lothar publishes Kindle only).

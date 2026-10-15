@@ -40,7 +40,7 @@ She did it with a minimum of fuss. She had Alan Veitch brought to the witness ta
 
 Then Pettifer asked Gareth to put the sheet on the screen.
 
-At the far end, above the bench, a large white projection screen had been lowered, and onto it, magnified to the height of a man, came the page. It hung there in the cold light, tea-coloured, ruled, covered with its columns. At the top the title: **REGISTER OF CONTINUOUS LIKENESSES.** At the foot, in a box with a double line, the paragraph headed **STANDING AUTHORITIES.**
+At the far end, above the bench, a large white projection screen had been lowered, and onto it, magnified to the height of a man, came the page. At the top the title: **REGISTER OF CONTINUOUS LIKENESSES.** At the foot, in a box with a double line, the paragraph headed **STANDING AUTHORITIES.**
 
 Pettifer read it aloud.
 
@@ -92,11 +92,11 @@ He had risen. He did it unhurriedly, buttoning his coat, with the folder under h
 
 "Sir, with the greatest respect..."
 
-"Sir Rupert," said Pym. He had put down the bell. He folded his small soft hands on the blotter, and looked at the man in the overcoat with the clear tired unhurried gaze of a person who has been very frightened, once, for a long time, and has recently got over it. "I have been a servant of this Department for thirty-one years. I have read three Acts and served under four Registrars, and I once adjudicated a dispute about a parrot. I have not once in that time been asked for my opinion by anybody who was not also asking for something else. You may sit down, or you may be given a hat."
+"Sir Rupert," said Pym. He had put down the bell. He folded his small soft hands on the blotter, and looked at the man. "I have been a servant of this Department for thirty-one years. I have read three Acts and served under four Registrars, and I once adjudicated a dispute about a parrot. I have not once in that time been asked for my opinion by anybody who was not also asking for something else. You may sit down, or you may be given a hat."
 
 There was an intake of breath around the gallery. Somewhere above, a man began to laugh and was stopped.
 
-Sir Rupert Aldworth looked at the Deputy Registrar for four seconds. Then he sat. I saw the two men in the dark suits exchange a glance. And I saw, at the far end of the front row, with her hands folded in her lap and her navy toque perfectly straight, Mrs Pritchard turn her head and look at the Permanent Secretary with an expression I recognised from the stairs, which is that of a woman who has seen off three generations of landlords.
+Sir Rupert Aldworth looked at the Deputy Registrar for four seconds. Then he sat. I saw the two men in the dark suits exchange a glance. The younger was Mr Lessing, of the green gate. He did not look at me, which was how I knew. And I saw, at the far end of the front row, with her hands folded in her lap and her navy toque perfectly straight, Mrs Pritchard turn her head and look at the Permanent Secretary with an expression I recognised from the stairs, which is that of a woman who has seen off three generations of landlords.
 
 ---
 

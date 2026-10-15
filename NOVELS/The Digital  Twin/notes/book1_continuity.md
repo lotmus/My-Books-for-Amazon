@@ -221,3 +221,13 @@ Source: Codex's 15 Oct manuscript (branch `codex/digital-twin-critical-revision`
 - **Trims:** Ch 20 -5.5%, Ch 21 -4.6%, Ch 31 -5.6% (Act redraft banter, school-night banter and the hi-vis man's second appearance cut), Ch 32 -4.8%, Ch 30 -3.4% (net, after the new grey-car paragraph; Sophie's "Why me?" exchange and some of the Barry and flag business cut).
 - **Tics:** "a man/woman/person who", "in the manner of" and "I should say / on the record" signposts in Ch 9-35 reduced from 129 to 88 (-32%). Best similes kept (the burglars, the boiler, the wedding smile, the bus, the customs officer).
 - **Arithmetic and dates rechecked:** 6 Oct 2026 is a Tuesday; 4 Nov is the Wednesday day 30; 6 Nov is a Friday; 14 Mar 1988 Monday; 14 Mar 2028 Tuesday; 11,769 days from 31 Aug 1994 to 20 Nov 2026; Sophie's records-office queue is a number, not a day, so there is no calendar clash. Word count Ch 1-35: about 108,100.
+
+
+## REV3 changes (15 Oct 2026)
+- Ch 21: hen takes the Item Seven page, leaves it with a hole through "will be provided".
+- Ch 23: the cellar fan stops; core temp 81 to 83 and back; four bags of frozen peas; Ned: "That's the best day." The tower is in the cellar in a case, about bread-bin size.
+- Ch 24 (Saturday evening, after Giles's revelation, before the Saturday-night sleeper in Ch 25): Mr Lessing (Continuity Compliance, Cabinet Office, about forty, raincoat, two junior men with an EXHIBITS crate) arrives at the green gate. Tower hidden in the potato store behind eleven sacks of King Edwards. Calder hands over the Aga file "PROGRAMME, 1976 to 1994" voluntarily; Sophie had photographed every page that morning. The Saturday is 21 Nov 2026 (after the 18 Nov majority transfer in Ch 26's backstory, before the Friday 27 Nov re-schedule). Lessing tells Daniel to attend Penge on Monday 23 Nov for "a variation" and to sign for the notice. Giles leaves by the loch path.
+- Ch 31 is unaffected: Calder brings the tower on the Wednesday; the file is not needed.
+- Ch 32: the younger of Sir Rupert's two men is Mr Lessing. Ch 35: Pym moved on the Monday to Deputy Registrar of Lost Property (Mammalian), the annexe, no window; he left the folder with Gareth on the Friday.
+- Calder's Programme account: Ch 21 only (Ch 20 is origin; Ch 32 is the legal reveal).
+- Automated scan on the REV2 text: every weekday/date pair correct; key numbers consistent; no stray spellings of Pettifer, Calder, Mercier, Veitch, Aldworth. Not a human front-to-back read.

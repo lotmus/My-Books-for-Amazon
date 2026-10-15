@@ -322,3 +322,5 @@ I stood on the step a moment longer. Then I took the letter out of my pocket, an
 It was a long way. It was, in fact, the other end of the country.
 
 I thought: *I shall need to be there.* And I thought: *I shall need someone to come.*
+
+I rang Mrs Pritchard. She said she would wear a hat, which I took as consent.

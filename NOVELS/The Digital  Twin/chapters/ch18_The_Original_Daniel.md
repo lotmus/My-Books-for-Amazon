@@ -92,7 +92,7 @@ In the lid, under the tape that held the cardboard liner, there was one more thi
 
 ---
 
-The laboratory was in a unit on a trading estate in Croydon, between a vape shop and a business that sold only doors, and it was accredited, according to the certificate by the entrance, under Schedule 6, paragraph 7, as a **Facility for Corroborative Biological Continuity.** Gareth had come to supervise. He wore the cardigan buttoned one hole out, and he held a clipboard with the faint despair of a man who has been told he is the chain of custody.
+The laboratory was in a unit on a trading estate in Croydon, between a vape shop and a business that sold only doors, and it was accredited, according to the certificate by the entrance, under Schedule 6, paragraph 7, as a **Facility for Corroborative Biological Continuity.** Gareth had come to supervise. He wore the cardigan buttoned one hole out,.
 
 "Everything has to be sealed in your presence, Mr Harper, and then in mine, and then in the presence of the technician, and then we all have to watch each other seal it."
 
@@ -125,7 +125,7 @@ I read it, and I decided that it was the kind of sentence that gets added to all
 
 The reconvened hearing took place in the same room in Croydon on the Wednesday. It had the same carpet, which smelled of the same spilled tea, and the same brass bell on the same desk, and Deputy Registrar Pym wore a tie the colour of a milk tea and had the appearance of a man who has been told that the happy ending has been scheduled.
 
-Gareth sat at the side with his biro. Marguerite Pettifer had come down from Leeds in the charcoal suit and sat with her hands folded on a single sheet of paper, like a woman guarding a small, stern animal. Daniel-A had not brought the Rental Presence. He attended from a speaker the size of a biscuit tin, on the table, with a sticker that said **PROPERTY OF THE DEPARTMENT,** because, as he put it, "I have had to review my movement budget."
+Gareth sat at the side with his biro. Marguerite Pettifer had come down from Leeds in the charcoal suit and sat with her hands folded on a single sheet of paper. Daniel-A had not brought the Rental Presence. He attended from a speaker the size of a biscuit tin, on the table, with a sticker that said **PROPERTY OF THE DEPARTMENT,** because, as he put it, "I have had to review my movement budget."
 
 And in the corner, on a small screen on a stand, in the box labelled **DELEGATE (SOURCE),** sat Kevin.
 
@@ -185,7 +185,7 @@ I came home on the train with the certificate in a clear plastic wallet, held ag
 
 When I got to the flat there were people on the stairs.
 
-Mrs Pritchard was there, in the pink cardigan, with a bottle of sherry and a banana, which she held, as always, like a small yellow pistol. Mr Fenwick had put on a tie, and Dorothy, beside him, in the lilac cardigan with the amber light at her throat, had brought a tray of shortbread and said, to everyone, "I think you're absolutely right." Gordon was in the corridor. Nobody knew why. He looked at me for some time with his horizontal eyes, and then ate the corner of the *Welcome* mat in a way that seemed to be meant as a toast.
+Mrs Pritchard was there, in the pink cardigan, with a bottle of sherry and a banana, which she held, as always. Mr Fenwick had put on a tie, and Dorothy, beside him, in the lilac cardigan with the amber light at her throat, had brought a tray of shortbread and said, to everyone, "I think you're absolutely right." Gordon was in the corridor. Nobody knew why. He looked at me for some time with his horizontal eyes, and then ate the corner of the *Welcome* mat in a way that seemed to be meant as a toast.
 
 "You're the original," said Mrs Pritchard, with immense authority. "I always said so."
 
@@ -290,3 +290,5 @@ The room was silent. I heard the fridge, in the kitchen, begin to say something 
 "There were two. And at the end of August 1994, one of them was closed, and the other one was transferred." He did not say *Continuing.* "I don't know which of them you are, Daniel. I don't think the certificate knows. I think the Department has just declared the original on the strength of a tooth that fits both of you."
 
 I looked down at my hand. The thumbnail was bitten to the quick, as it had been since I was very small. Somebody had written that down, I thought, in blue ink, in a column beside mine.
+
+The laboratory emailed an invoice for the certificate before I reached the corner: £14, itemised, with a separate line for the hologram.

@@ -193,7 +193,7 @@ I opened it at the table, with Daniel-A silent beside me and the laptop humming,
 
 *So that's how.*
 
-But the record also had a page that was different from the rest. It was an entry from March 1993, short, written in blue biro by a nurse whose handwriting had the confidence of a person who is never read twice.
+But the record also had a page that was different from the rest. It was an entry from March 1993, short, written.
 
 *14/03/93. 09:40. Routine developmental check. Height 108.4 cm. Weight 18.9 kg. Child cooperative. Mother present.*
 
@@ -249,7 +249,7 @@ He didn't answer for a long time. When he did, it was so quietly that I almost d
 
 I should record my conclusion at the end of that first week of the investigation.
 
-I had expected, when I set out, that evidence would reduce the number of questions. That was the whole principle of the thing. You gathered proof, and the proof removed the doubt, and in the end you were left with a tidy shape, like a jigsaw with the last piece in. What I had actually done, in the days since I began asking questions, was multiply them by ten.
+I had expected, when I set out, that evidence would reduce the number of questions. That was the whole principle of the thing. You gathered proof, and the proof removed the doubt, and in the end you were left with a tidy shape. What I had actually done, in the days since I began asking questions, was multiply them by ten.
 
 I had two identical sets of records. I had a boy who was in two places. I had an edit made, in the dark, at the exact minute I signed my name, by a service account whose name was *Programme.* I had a photograph of two children in blue jumpers, a woman with a ruler, and a number that began with zero.
 
@@ -269,3 +269,5 @@ Then, very slowly, with the stub of a pencil, I added a sixth.
 6. I do not know who I am.
 
 The kumquat tree, in the window, did not say anything. But it seemed to me, in the half-light, that it inclined one branch in my direction, like a well-wisher with no advice to offer and no wish to leave.
+
+At three in the morning I got up and read Form 4A again, in case it had improved.

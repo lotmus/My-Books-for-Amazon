@@ -34,6 +34,12 @@ I laughed, one sharp breath through the nose, and Sophie looked up at me and her
 
 "He thought it was funny," she said. "I was twenty-two, and I thought he was a monster, and I also thought it was funny. I think that's what the Programme was. It was a very large number of people who found it funny and went on."
 
+The hen, who had not been consulted, chose that moment to express a view. She went up the leg of my chair, onto the table, and across the file in three strides, took Item Seven in her beak, and left by the scullery door with the whole of the Department's refreshment policy.
+
+I went after her. So, I am sorry to say, did Dr Calder, in her slippers, and for some time the garden was the scene of two adults and a hen conducting a negotiation at speed round a water butt. It was Sophie, who had not moved from the table, who solved it. She put one foot out as the hen came by. The hen stopped. Sophie bent down, took the page, and returned it to me with a small hole in it, directly through the words *will be provided.*
+
+"She's never liked that one," said Dr Calder, out of breath, and we went back in.
+
 ---
 
 I will say what I felt, since I have been reproached in the past for omitting it.

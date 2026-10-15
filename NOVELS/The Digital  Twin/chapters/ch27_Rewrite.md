@@ -110,7 +110,7 @@ At eleven the street door went. Mrs Pritchard, who had appointed herself the imm
 
 I read it twice. I put the rope on the shelf beside the speaker. Clause examined it for some time and, after consideration, did not.
 
-At half past eleven the rain stopped, and everything in the flat grew quiet. I sat on the arm of the sofa. Mrs Pritchard had cut the cake, and nobody had eaten it. Gareth sat at the end of the table with his laptop open to his email, his eyes fixed on the unread count, which was zero, with the stillness of a hound at a rabbit hole. At a quarter to twelve I realised that I was holding the umbrella.
+At half past eleven the rain stopped, and everything in the flat grew quiet. I sat on the arm of the sofa. Mrs Pritchard had cut the cake, and nobody had eaten it. Gareth sat at the end of the table with his laptop open to his email, his eyes fixed on the unread count, which was zero. At a quarter to twelve I realised that I was holding the umbrella.
 
 At ten to, Daniel-A said, "Daniel."
 
@@ -120,7 +120,7 @@ At ten to, Daniel-A said, "Daniel."
 
 "You'll be able to."
 
-"I know. But I'd like to have said it." He paused. "I'm grateful. It's an odd word. I looked it up, and it's sometimes defined as *warmly appreciative of kindness received.* I've received a great deal. I've had a cat, and a goat, and a woman with a banana, and a man who designed my sigh. I've had a mother who rings me at nine." His voice was very level, and it shook only once, like a candle in a draught. "And I've had a brother. I'd like that to be on the record. I think it's the first time I've said it."
+"I know. But I'd like to have said it." He paused. "I'm grateful. It's an odd word. I looked it up, and it's sometimes defined as *warmly appreciative of kindness received.* I've received a great deal. I've had a cat, and a goat, and a woman with a banana, and a man who designed my sigh. I've had a mother who rings me at nine." His voice was very level, and it shook only once. "And I've had a brother. I'd like that to be on the record. I think it's the first time I've said it."
 
 I couldn't speak. I put my hand on the speaker, flat. It was warm. It was warm in the way that a thing is warm when it has been listening.
 
@@ -138,7 +138,7 @@ I do not know why I said it. I think it was the tone. I had known, I think, from
 
 He pressed it at 23:57.
 
-The screen of the laptop turned white. A progress bar appeared, a thin blue line on a grey ground, and began to creep, with the maddening patience of a bar, to the right. *Installing,* it said. *Please do not turn off your Daniel.* I heard Dorothy say that this was very interesting. I heard Mr Fenwick say, softly, "Oh, Lord." I heard Gareth's chair scrape. And I heard, from the shelf, in a voice that was quite steady, Daniel-A say:
+The screen of the laptop turned white. A progress bar appeared, a thin blue line on a grey ground, and began to creep. *Installing,* it said. *Please do not turn off your Daniel.* I heard Dorothy say that this was very interesting. I heard Mr Fenwick say, softly, "Oh, Lord." I heard Gareth's chair scrape. And I heard, from the shelf, in a voice that was quite steady, Daniel-A say:
 
 "It's rather like a lift."
 

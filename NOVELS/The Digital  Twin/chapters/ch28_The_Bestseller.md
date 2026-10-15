@@ -32,7 +32,7 @@ My mother was waiting on the step in the good gilet and the robin brooch. She ha
 
 "That's not the same." She looked at me, up and down, as she did on the first day of every term. "Come in. You've got a face like a Monday."
 
-The yellow kitchen smelled of toast and lavender. The radio was on a quiz. I sat at the table and she sat opposite, and between us was the Quality Street tin, which I had brought back on the train, in a carrier bag, like a man returning a casserole dish. I put it down. I put my hands on it.
+The yellow kitchen smelled of toast and lavender. The radio was on a quiz. I sat at the table and she sat opposite, and between us was the Quality Street tin, which I had brought back on the train, in a carrier bag. I put it down. I put my hands on it.
 
 "Mum," I said. "I'm going to tell you something, and I'd like you to let me get to the end."
 

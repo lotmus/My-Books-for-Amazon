@@ -18,7 +18,7 @@ She had a whisky. I had a tea. The barman was Hamish, or rather a screen over th
 
 "I'm afraid it's a different leaflet," said Hamish, and went back to polishing a glass that did not exist.
 
-We sat at a small table by the window, which was black and full of our own reflections, with the odd white blur of a platform light flying through them. The train was doing the long fast part of the line, where nothing ever stops, and the glasses on the shelf behind the bar trembled in a regular, patient rhythm. Sophie held her whisky in both hands and did not drink it. She looked at it as if it were a document of doubtful origin.
+We sat at a small table by the window, which was black and full of our own reflections. The train was doing the long fast part of the line, where nothing ever stops, and the glasses on the shelf behind the bar trembled in a regular, patient rhythm. Sophie held her whisky in both hands and did not drink it. She looked at it as if it were a document of doubtful origin.
 
 "Daniel," she said. "I'm going to say something, and I'd like you to let me get to the end."
 

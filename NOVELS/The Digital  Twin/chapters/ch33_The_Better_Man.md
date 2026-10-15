@@ -24,7 +24,7 @@ In the corner, by the fridge, on a stool that Mrs Pritchard had lent us, the bei
 
 At twelve the doorbell rang.
 
-The bell does not ring in our house. It is a decorative bell, from the era of the landlord's brother-in-law, and it has not functioned since 2018. It makes a faint, flat, clicking noise, like a man cracking his knuckles. It is generally ignored. Nobody knocks. Mrs Pritchard comes up the stairs, and Mr Fenwick leaves messages with the goat, and the couriers throw things.
+The bell does not ring in our house. It is a decorative bell, from the era of the landlord's brother-in-law, and it has not functioned since 2018. It makes a faint, flat, clicking noise. It is generally ignored. Nobody knocks. Mrs Pritchard comes up the stairs, and Mr Fenwick leaves messages with the goat, and the couriers throw things.
 
 "Somebody's at the door," said Daniel-A.
 
@@ -243,3 +243,5 @@ I did not say anything. I could not.
 "I know," I said.
 
 I put my hand over the speaker. It was warm. It was very faintly vibrating, and under my palm, I realised, with a kind of astonishment, the cat had begun to purr.
+
+The fridge, after a long deliberation, suggested a quiet evening. It was, for once, correct.

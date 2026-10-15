@@ -2,7 +2,7 @@
 
 The last basket came on the Sunday before Christmas, at ten past nine in the morning, and it was carried up the stairs by a trainee.
 
-I knew it was a trainee from the way he took the bend on the half-landing. He was tall, nineteen, and apologetic, and he carried the basket in front of him in both arms, like a sleeping relative, with his chin tucked and the expression of someone who has been told in a safety briefing that it is breakable. Behind him, as always, walked the first courier, who is calm as a tide, with the tablet lit. Behind *him,* silent, with the clipboard held to his chest like a shield, came the broad one.
+I knew it was a trainee from the way he took the bend on the half-landing. He was tall, nineteen, and apologetic, and he carried the basket in front of him in both arms. Behind him, as always, walked the first courier, who is calm as a tide, with the tablet lit. Behind *him,* silent, with the clipboard held to his chest like a shield, came the broad one.
 
 They had not been in the building since the middle of November. In the interval they had, I gathered, been promoted, since the first courier now wore a badge that said **SENIOR PRESENCE OFFICER,** and the broad one's clipboard had been replaced by a tablet of his own, which he held in exactly the same way.
 
@@ -136,7 +136,7 @@ The kitchen fell silent. Clause, on the speaker, lifted her head.
 
 "Hear, hear," said Mr Fenwick.
 
-"I'd like to drink to absent friends, and present company. Or rather, to present friends, and absent company." He stopped. "No, that isn't it. To the company of absent presents. No." There was a pause, in which I heard a very small sound, like a man putting his head in his hands. "To the, I mean. I'd like to raise a glass to, to those who are not here, and are, and have been, and will. And also the cat."
+"I'd like to drink to absent friends, and present company. Or rather, to present friends, and absent company." He stopped. "No, that isn't it. To the company of absent presents. No." There was a pause, in which I heard a very small sound. "To the, I mean. I'd like to raise a glass to, to those who are not here, and are, and have been, and will. And also the cat."
 
 "That's lovely, darling," said my mother.
 
@@ -166,7 +166,7 @@ The room had thinned. It was dark outside. Mr Fenwick and Dorothy had gone downs
 
 I turned. He was not looking at me. He was looking past me, across the kitchen, to the table, where Sophie was sitting on a hard chair with Gucci on her lap, and a glass of dry white wine, and her feet tucked under her, in the grey coat, which she had not taken off.
 
-"Miss Mercier," said Gareth. He crossed the floor. He did it carefully, with the quick small steps of a man carrying a full cup. "The Deputy Registrar asked me to give you this. He said that it was a Department document, in the care of the Clerk, and that it was to be placed in the hands of the owner, and that it was to be opened, or not, at her discretion. He said that you would know."
+"Miss Mercier," said Gareth. He crossed the floor. He did it carefully. "The Deputy Registrar asked me to give you this. He said that it was a Department document, in the care of the Clerk, and that it was to be placed in the hands of the owner, and that it was to be opened, or not, at her discretion. He said that you would know."
 
 She took the folder. She set it on the table, in front of her, and put her hand on the cover, flat. She did not open it.
 
@@ -177,6 +177,10 @@ I knew what it was. We all did. The room had stopped. Even Mrs Pritchard had put
 "It's page four, Miss. They took it from the glass. It's been in the Department safe. Mr Veitch asked me to say that it has been, he said, *kept dry.*" Gareth swallowed. "I've not looked."
 
 "Thank you, Gareth."
+
+"Where's Mr Pym?" I said. "I'd have thought he would want to see this."
+
+Gareth looked at his shoes. "He's been moved, sir. A letter, on the Monday. He is the Deputy Registrar of Lost Property (Mammalian) now, in the annexe." He cleared his throat. "It's a promotion. It says so. There's no window." Then, in a rush: "He gave me the folder on the Friday, before. He said I was to tell you the hat was a great success."
 
 "May I stay?"
 
@@ -196,9 +200,7 @@ I had not said anything. I want that to be recorded. I put down the plate, and t
 
 ---
 
-It lay in the plastic wallet, flat, tea-coloured, ruled, covered with its columns. The strip of masking tape was where it had been. It was a very ordinary strip. It was perhaps three inches long, a little yellowed at the edges, smoothed down with a thumb, and in the middle of it, in the tiny upright black hand of a man who had once sat on a bus with a folder on his knee, the single word:
-
-**NO.**
+It lay in the plastic wallet, flat, tea-coloured, ruled, covered with its columns. The strip of masking tape was where it had been. It was a very ordinary strip. It was perhaps three inches long, a little yellowed at the edges, smoothed down with a thumb,.**
 
 Sophie took out the page. She put it on the table in the full light of the tube, and smoothed it flat. She put one finger on the corner of the tape.
 

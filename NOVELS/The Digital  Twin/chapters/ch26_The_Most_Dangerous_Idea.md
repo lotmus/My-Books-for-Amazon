@@ -74,7 +74,7 @@ I looked at her.
 
 ---
 
-I sat at Table Nine. Under the owl, the canteen went about its business, with the soft noise of a place where everything has been laminated. A woman at the next table was explaining to a laptop that she was not a robot. A man in a lanyard was feeding a coin to the vending machine. Gareth, beside me, waited, with his biro, and a mouth a little open, like a boy at the edge of a swimming pool.
+I sat at Table Nine. Under the owl, the canteen went about its business. A woman at the next table was explaining to a laptop that she was not a robot. A man in a lanyard was feeding a coin to the vending machine. Gareth, beside me, waited, with his biro, and a mouth a little open, like a boy at the edge of a swimming pool.
 
 I thought about the cellar. I thought about the green light, and the drawing of a boat, and a small clear voice that said *it isn't a name, it's a hat.*
 

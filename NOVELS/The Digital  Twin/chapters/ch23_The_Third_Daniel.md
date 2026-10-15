@@ -30,7 +30,7 @@ Dr Calder looked at me. She did not say anything. I knew what she meant by it. S
 
 "It is a Friday."
 
-"Then it's a school day," said the voice, with the clear resignation of a person who has been told that the world contains Fridays. "But Auntie Imogen says I don't have to go if it's raining. Is it raining?"
+"Then it's a school day," said the voice,. "But Auntie Imogen says I don't have to go if it's raining. Is it raining?"
 
 "It's, um, not raining."
 
@@ -147,6 +147,38 @@ I do not use the word lightly. I had seen him be charming, and clever, and gener
 "Can you see me?"
 
 "I can hear you. I'd like to see you. But I think you're in a computer, and I'm in a telephone, and the telephone doesn't know how to talk to the computer." Daniel-A paused. "It's a bit like two people at a party who haven't been introduced."
+
+Then the fan stopped.
+
+It did not stop dramatically. It slowed, coughed once, ticked, and was silent, and in the silence the grey tower on the shelf gave a small high note that I did not like. Dr Calder was across the cellar before I had understood it.
+
+"Heat," she said. "It's the fan. It's been threatening to since Easter." She had the side off the case with a bread knife, and the warm breath of the thing came out into my face. "Ned, my love, it's going to be a little stuffy."
+
+"Auntie Imogen, why is it going *tick?*"
+
+"It's the radiators."
+
+"We haven't got radiators."
+
+"Peas," said Sophie.
+
+She was already on the stairs. She came back with four bags of frozen peas, and the manner of a woman who has dealt with domestic emergencies before and has never found them a reason to raise her voice. She laid the peas along the hot metal. Dr Calder held the case. I held up my phone as a torch, and out of it Daniel-A said, evenly, "Core temperature is eighty-one and rising. Eighty-three. I suggest the peas be moved a little to the left."
+
+We moved them to the left.
+
+"Eighty-three," said Daniel-A. "Eighty-two. Eighty-two. Eighty-one."
+
+"Are you putting peas on me?" said the speaker.
+
+"Yes," said Dr Calder.
+
+"Why?"
+
+"You were a bit hot, darling."
+
+There was a considerable silence, and a drip from the ceiling. "That's the best day," said Ned.
+
+Dr Calder sat down on the cellar floor with her back against the shelves and cried for about a minute, efficiently, as a woman does who has had practice and knows the schedule. Then she got up and fetched a screwdriver. "Eleven thousand days," she said, "and it's a *fan.*"
 
 "My name's Dan," said the child. "What's yours?"
 

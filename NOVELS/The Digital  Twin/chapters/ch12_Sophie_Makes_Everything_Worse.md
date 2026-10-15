@@ -144,7 +144,7 @@ I turned.
 
 "He told you."
 
-"He rang me," said Sophie. She said it simply, looking at the table, like a woman putting down a heavy bag. "On the Thursday before we met at the garden centre. And on the Tuesday after the hearing. And last Sunday at three in the morning. And on Wednesday."
+"He rang me," said Sophie. She said it simply, looking at the table. "On the Thursday before we met at the garden centre. And on the Tuesday after the hearing. And last Sunday at three in the morning. And on Wednesday."
 
 "He's been ringing you."
 
@@ -353,3 +353,5 @@ I sat up.
 In the dark, I looked at the speaker.
 
 The kumquat tree, in the other room, stirred once. Outside, the driverless taxi at the junction decided that the road was clear, and pulled away, very gently, as if trying not to wake anyone.
+
+Eleven days remained. I had a list, a kumquat tree and a speaker, and only one of the three had ever been correct about anything.

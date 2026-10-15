@@ -182,3 +182,69 @@ There was a long, damp, tiled pause. On the other side of the cellar, Sophie had
 I put my hand against the wall. It was cold, and smelled of potatoes. I heard Daniel-A, from the same phone, now on the speaker, say in a very quiet voice:
 
 "I've been wondering what they wanted."
+
+---
+
+We had perhaps four minutes. Then the hen, who had been sitting on the cellar steps with the air of a sentry, got up and went out through her flap, and began in the yard to make a noise I had not heard from her before. It was the noise of a smoke alarm being introduced to a bagpipe.
+
+"That's the gate," said Dr Calder.
+
+Through the kitchen window we saw a long grey van across the end of the lane, and a man coming up the path with a clipboard held to his chest, as if his authority resided in it. He was about forty, in a raincoat the colour of a filing cabinet. Behind him came two young men in lanyards, carrying between them an empty crate marked **EXHIBITS.**
+
+"Mr Lessing," said Giles, in a voice with no air in it. "Continuity Compliance. He's the one who goes to people's houses. He must have followed me. Oh, God. I took the *train.*"
+
+"Is he armed?" said Sophie.
+
+"He's got a lanyard, Miss Mercier."
+
+"Right," said Dr Calder. She looked, for the first time since we had met her, not frightened but interrupted. "Giles, the coal-hole. Daniel, the other end of that. Sophie, put the kettle on."
+
+"The kettle?"
+
+"They'll want tea. They always do. It's a very long form."
+
+The other end of that was the tower, in its case, with Ned asleep in it, and the peas still cooling its flank. We carried it up the cellar steps between us, with Daniel-A whispering directions from my pocket, through the scullery and across the yard, and put it in the potato store, behind eleven sacks of King Edwards and a door that said **BEWARE OF THE HEN.** I have carried heavier things. I have not carried anything that I was so afraid to knock against a door frame. I covered it with sacking and said, to nobody, "Sorry, Ned," and Dr Calder said, "He's sleeping, he'll not mind," and we went back across the yard at an unhurried walk, at the exact moment that Mr Lessing knocked.
+
+He had a thin, pleasant, tired face, and he did not wait to be asked in. "Dr Calder. Continuity Compliance, Cabinet Office. I have a notice of inspection under the Continuity (Residual Assets) Regulations."
+
+"I'm sure you do," said Dr Calder, setting down a tray. "Biscuit?"
+
+He took one. I think it was the training. "I believe you hold a file."
+
+"I do," said Dr Calder. She went to the range and lifted the lid on the hot plate that nobody used, and brought out a cardboard folder, grey with age, labelled in blue ink **PROGRAMME, 1976 to 1994,** and put it into his hands. "It's been in the way for thirty years. You'd be doing me a kindness."
+
+I did not understand, then, what it cost her. I understood it a little later, watching her face at the sink. It was everything she had written down, in order, in her own hand, and she gave it to him with a tray of biscuits and no more expression than she would have shown a man collecting a parcel. Sophie, I learned later, had photographed every page of it that morning, over breakfast, with her phone, while the rest of us were finding our feet. I do not know when she had decided to do so. I think it may have been before she met any of us.
+
+"And the, ah, the asset?" said Mr Lessing.
+
+"There is no asset," said Dr Calder. "There is a retired woman and a hen."
+
+One of the young men had found the cellar door. "Sir. There's equipment down here. Cables. A, a cooling unit."
+
+"A freezer," said Dr Calder, evenly. "I keep peas."
+
+The young man went down. We listened to him go down. We listened to him go on being down, for quite a while, and I looked at Sophie and Sophie looked at the ceiling, and Mr Lessing ate a second biscuit, and looked at me.
+
+"Mr Harper," he said. "You have, I understand, the larger share. The Department will need you at Penge on Monday for a formality. Do sign for the notice when it comes. People who don't sign find the next ones are much more difficult to read."
+
+"What happens on Monday?"
+
+"A variation." He smiled. It was a smile that I recognised, because I had been making it for years at people in meetings. "It will be painless."
+
+The young man came back up with a bag of peas and an expression of puzzled defeat. "Sir, there's nothing. It's an old freezer. There's a hen in the cellar."
+
+There was. She had gone down, past him, while he was busy, and was standing in the middle of the floor facing the steps. I do not know what the hen had decided, but when the second young man stepped towards the potato store, with his crate, she came out of the scullery at him like something fired from a catapult. She took his lanyard in her beak. She took it, as far as I could judge, personally.
+
+"Is that a Rental Presence?" cried Mr Lessing.
+
+"It's a hen," said Dr Calder. "Is she registered?"
+
+"We'll see you in Penge, Mr Harper," said Mr Lessing, from the yard, with his raincoat pulled round him and one young man holding a bleeding thumb and the other holding the crate, which now contained the file. He got into the van. It backed down the lane, as it had come, politely.
+
+Giles came out of the coal-hole in the shape of a man who had been dipped. He said, "I'll go by the loch path," and went, at a run, and was a black smudge by the water before anyone could tell him there was no need.
+
+At the sink Dr Calder rinsed the cups.
+
+"He never looks at the potatoes," she said. "In thirty years, nobody has ever looked at the potatoes."
+
+Down the lane, in the dusk, beside the green gate, the hen stood in the road with a lanyard in her beak, and watched them go.

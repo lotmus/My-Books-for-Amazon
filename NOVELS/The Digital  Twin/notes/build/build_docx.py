@@ -138,7 +138,7 @@ for l in sect.strip().split('\n'):
     l=l.strip()
     if not l: continue
     if l.startswith('**'): para(l.strip('*'),'Group')
-    elif l.startswith('- '): para(l[2:],'Also By Item')
+    elif l.startswith('- ') and 'The Digital Twin' not in l: para(l[2:],'Also By Item')
 # fill contents
 for kind,text,nm in entries:
     link_entry(text,nm,'TOC Part' if kind=='part' else 'TOC 1')

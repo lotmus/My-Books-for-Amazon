@@ -363,3 +363,5 @@ She vanished into the crowd. A moment later, my phone buzzed in my pocket. I too
 I read it over and over, like a man memorising a phone number he will not dare to ring.
 
 Then I went home on the Victoria line, and the umbrella and I sat together on the long seat, and watched our faces drift in the glass.
+
+At Stockwell a man got on with a cello, looked at the umbrella, and decided against it.

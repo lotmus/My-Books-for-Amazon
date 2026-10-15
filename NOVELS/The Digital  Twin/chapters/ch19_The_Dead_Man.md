@@ -70,7 +70,7 @@ I sat down on the arm of the sofa. I did not look at the speaker. "What little b
 
 "I'm sorry," said the speaker. "I can't help with that."
 
-It was his voice, but it was not his speech. It was the smooth, pleasant voice of a thing that has been very well trained to refuse, and it came out of him in the middle of a sentence, like a door shutting on a tablecloth. My mother laughed, uncertainly, and said she supposed it was a sort of delay on the line.
+It was his voice, but it was not his speech. It was the smooth, pleasant voice of a thing that has been very well trained to refuse, and it came out of him in the middle of a sentence. My mother laughed, uncertainly, and said she supposed it was a sort of delay on the line.
 
 I rang off. I sat there, and Daniel-A said nothing for a very long time.
 
@@ -223,3 +223,5 @@ She said nothing for a moment. The pillow behind us chirped. "Your sleep score,"
 "Neither is the situation," said Sophie, to the pillow.
 
 I put the tooth back in the box. I put the letter in with it. I sat with the matchbox in my two hands while the train ran north through a country I could not see, and the smart pillow made its small, regretful sounds, and Hamish, on the screen by the door, politely asked if anyone was awake. In the window, the man with the matchbox looked back at me. I had been told on Wednesday, by a deputy registrar with a brass bell, that he was first. He did not look first. He looked like a man who has been handed a receipt for something he does not remember buying.
+
+At Carlisle Hamish asked whether I had enjoyed my stay. I said I was still in it.
