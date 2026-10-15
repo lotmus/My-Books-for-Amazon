@@ -1,6 +1,6 @@
 # KDP: The Warning That Was Sent Too Late (Book 2)
 
-Prepared 9 Oct 2026 (PT) against REV02; checked 14 Oct 2026 against the release master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx` (about 52,300 words, rebuilt from the paired REV04 Markdown source) and active release candidate `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx` (about 52,000 words across 22 chapters and a six-lesson course). Covers made 11 Oct 2026 (PT): `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
+Prepared 9 Oct 2026 (PT) against REV02; checked 15 Oct 2026 against the release master `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx` (about 52,300 words, rebuilt from the paired REV04 Markdown source) and active release candidate `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx` (about 52,000 words across 22 chapters and a six-lesson course). Cover artwork made 11 Oct 2026 (PT), with the back-cover copy revised 15 Oct 2026: `Kindle Front Cover.jpg` and `Kindle Back Cover.jpg`, drawn by `scripts/make_covers.py`.
 
 The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides** are left open on purpose.
 
@@ -15,13 +15,13 @@ The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides**
 
 ## Description (paste into KDP)
 
-About 360 words, well under KDP's 4,000-character limit. Every fact is checked against the book: the sheet, the NOT YET box, the instruction, the door, YESTERDAY, the late voice, Monday to Wednesday, and the cast.
+About 360 words and 1,980 characters, well under KDP's 4,000-character limit. The copy identifies the self-contained case, introduces the cast, and says the books can be read in either order. Every fact is checked against the book: the sheet, the NOT YET box, the instruction, the door, YESTERDAY, the late voice, Monday to Wednesday, and the cast.
 
 > A WARNING DATED TOMORROW.
 > A DOOR THAT OPENED ONTO A RAILWAY.
 > AND A VOICE TELLING HIM NOT TO OPEN IT, ARRIVING AFTER IT HAD.
 >
-> On the Monday morning that Derek Gent closes the case of the murder that never happened, a sheet of paper appears on his desk where the folder lay a second before. It is on the Bureau's own form. It is dated tomorrow. In the box for the sender's date of birth it says NOT YET. And it says, in flat capitals: DO NOT ALLOW DEREK GENT TO BOARD THE MYSTERIOUS TRAIN.
+> On the Monday morning that Derek Gent closes the Bureau’s previous case, a sheet of paper appears on his desk where the folder lay a second before. It is on the Bureau's own form. It is dated tomorrow. In the box for the sender's date of birth it says NOT YET. And it says, in flat capitals: DO NOT ALLOW DEREK GENT TO BOARD THE MYSTERIOUS TRAIN.
 >
 > Then the office door opens onto a station platform that has no business being on the second floor of a London office building. An empty train stands waiting. Its board says YESTERDAY. And from somewhere inside it comes Derek's own voice, telling him not to open the door.
 >
@@ -31,20 +31,20 @@ About 360 words, well under KDP's 4,000-character limit. Every fact is checked a
 >
 > With his cousin Penny, who will not let anybody reorder what has already happened; Trevor, armed with a tape measure; a visiting patent attorney from Munich who has been lied to by railways in four countries; and a building superintendent who regards the platform as a breach of the lease, Derek has until Wednesday to put one morning in the right order, before a landlord, two insurance companies and a very patient train do it for him.
 >
-> The Warning That Was Sent Too Late is Book 2 of the Relativistic Investigation Bureau, and it can be read on its own. A brief orientation introduces the Bureau, its people and the open thread carried forward from Book 1; this case reaches its own answer. It is a British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it.
+> The Warning That Was Sent Too Late is Book 2 of the Relativistic Investigation Bureau. Its complete case can be read before or after Book 1; no physics background is needed, and six optional lessons follow the story. A brief orientation introduces the Bureau, its people and the open thread carried forward from the first case. It is a British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it.
 >
 > Recommended for readers aged 14 and up. Strong readers aged 12 to 13 may also enjoy the mystery, with adult support for the denser physics discussions.
 
 ## Keywords (7, comma-separated for KDP)
 
-Revised 11 Oct 2026 (PT), on Book 1's rule: no keyword repeats a category word or the title (KDP indexes those already), no "time travel" (nobody travels in time, and nobody boards), none copies Book 1's list, each under 50 characters.
+Revised 15 Oct 2026 (PT), with the any-order promise: no keyword repeats a category word or the title (KDP indexes those already), no "time travel" (nobody travels in time, and nobody boards), none copies Book 1's list, each under 50 characters.
 
-relativity causality puzzle novel, phantom train in a london office, mysterious warning note story, funny british detective agency sequel, light cone whodunit, cousin sleuths and a tape measure, einstein physics fiction for adults
+relativity causality puzzle novel, phantom train in a london office, mysterious warning note story, standalone british science mystery, light cone whodunit, cousin sleuths and a tape measure, einstein physics fiction for adults
 
 1. relativity causality puzzle novel
 2. phantom train in a london office
 3. mysterious warning note story
-4. funny british detective agency sequel
+4. standalone british science mystery
 5. light cone whodunit
 6. cousin sleuths and a tape measure
 7. einstein physics fiction for adults
