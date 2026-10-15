@@ -1,6 +1,6 @@
 # Start Here: Continuing the Lolly Wren Series
 
-Updated 12 October 2026. This page is the current entry point for planning the next installment. It summarizes authority and workflow; the Series Bible remains the detailed canon.
+Updated 15 October 2026. This page is the current entry point for planning the next installment. It summarizes authority and workflow; the Series Bible remains the detailed canon.
 
 ## Read in this order
 
@@ -32,7 +32,9 @@ Book 2 ends on 9 February 2027. Its fourteen citizens are not signed off as havi
 
 Book 3 has no title, case, new department, instrument, or central physics topic selected yet. Treat unresolved threads as available story seeds, not decisions that already have an outcome. Before drafting, create `Book 3 - <Title>/` with `chapters/`, `notes/`, `scripts/`, and `bak/`; choose one DOCX master and record its authority in this page and the Series Bible.
 
-The next story needs a new case and may introduce a new department, instrument, or area of physics not already covered in the Bible's teaching map. Keep Lolly central and let the Ministry's pressure for premature certainty create the human cost. Order still has a bill, and the bill must land somewhere. Keep the novels readable on their own while preserving the series history.
+The next story needs a new case and may introduce a new department, instrument, or area of physics not already covered in the Bible's teaching map. Keep Lolly central and let the Ministry's pressure for premature certainty create the human cost. Order still has a bill, and the bill must land somewhere.
+
+**Standing reading-order rule:** every installment must work as a reader's first book. No plot, relationship, scientific idea, or emotional payoff may require knowledge of another installment. Give each book its own clear setup, stakes, and satisfying local payoff; series mysteries may remain open, but no reader should need another installment to understand this one. Explain only the past context a new reader needs, briefly and naturally; avoid gratuitous spoilers. References may reward returning readers but must not be prerequisites. Preserve the same chronology and shared facts. The KDP description should make the stand-alone entry point clear.
 
 Do not replay the threshold arrival, 4C shutdown, the fourteen's case, the 411-attometre reading, or earlier consultant debates as if they were new. Do not resolve open threads merely to tidy the plot. Lolly and Gideon are close friends, never a romance subplot unless the author explicitly changes canon. Read the Bible's "Tone and humour" and "Stories already used" sections before drafting; vary recurring notebook, hat, ledger, instrument, and bureaucratic jokes instead of repeating their original beats.
 
@@ -47,7 +49,9 @@ Preserve voices, scene order, Word styles, links, bookmarks, and established pun
 From the repository root, convert the chosen DOCX with Pandoc EPUB3. Example (replace the title and paths):
 
 ```powershell
-pandoc "Book 3 - <Title>/<BOOK_3_MASTER.docx>" --from=docx --to=epub3 --standalone --toc --toc-depth=3 --split-level=2 --metadata="title=Book 3 Title" --metadata="author=Quentin Edmund Darling" --metadata="language=en-GB" --epub-cover-image="Book 3 - <Title>/KINDLE_COVER_FINAL_2560.jpg" --css="scripts/kindle.css" --output="Book 3 - <Title>/<BOOK_3_KINDLE.epub>"
+pandoc "Book 3 - <Title>/<BOOK_3_MASTER.docx>" --from=docx --to=epub3 --standalone --toc --toc-depth=3 --split-level=2 --metadata="title=Book 3 Title" --metadata="author=Lothar J. Musiol" --metadata="contributor=Quentin Edmund Darling (Q.E.D.)" --metadata="language=en-GB" --epub-cover-image="Book 3 - <Title>/KINDLE_COVER_FINAL_2560.jpg" --css="scripts/kindle.css" --output="Book 3 - <Title>/<BOOK_3_KINDLE.epub>"
 ```
 
-Write the EPUB beside its DOCX. Validate that it opens as a ZIP, contains `EPUB/nav.xhtml`, a cover image and cover metadata, and well-formed XHTML/OPF. Rebuild after every manuscript edit; never describe an older EPUB as current.
+Keep Lothar J. Musiol as primary creator and Quentin Edmund Darling (Q.E.D.) as contributor in the EPUB metadata; record the series name and volume number. Include both front and back covers in the DOCX and EPUB: the front cover is EPUB cover art, and the designed back-cover panel is the final reading page. Add only science diagrams that clarify a concept, keep each at or below 800 × 440 px, and give it descriptive alt text and a nearby caption. Cover art is not subject to the diagram limit.
+
+Write the EPUB beside its DOCX. Validate ZIP integrity, `EPUB/nav.xhtml`, front-cover image metadata, the final back-cover page, alt text, internal links, and well-formed XHTML/OPF. Rebuild after every manuscript edit; never describe an older EPUB as current.

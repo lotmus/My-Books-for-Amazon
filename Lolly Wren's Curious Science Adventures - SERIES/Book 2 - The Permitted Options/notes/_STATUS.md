@@ -40,3 +40,9 @@ Final reviewed-copy counts: 2,354 paragraphs, 151 hyperlinks, 81 bookmarks. Dupl
 ## Sensitivity and representation review (12 Oct 2026)
 
 Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. Revisions foreground Dr Ramanathan and her colleagues, vary her lab action, and remove nationality as shorthand for van Casteel. The reviewed continuity copy remains current; the original draft was untouched. EPUB rebuilt.
+
+## Critical reader review (15 Oct 2026)
+
+Review: `ADDICTED_READER_REVIEW_20261015.md`. Overall **9.7/10** (prior 9.6): jokes/satire 9.4, plot/payoff 9.5, pacing/suspense 9.1, characters/dialogue 9.6, prose/originality 9.5, science/continuity 10, Kindle/sections 10, images/accessibility 10. Main remaining tradeoffs are the argument-heavy middle (Chapters Eight–Eleven) and the intentionally unresolved series mystery.
+
+The Series Bible and `notes/NEXT_BOOK_START_HERE.md` now require every installment to work as a reader's first book. Book 2's front matter explicitly says no earlier book is needed. Added three diagrams in Lectures One, Two, and Fourteen; all are 800 × 440 px with descriptive alt text. The DOCX contains front and back covers; the EPUB has front-cover metadata and the back cover as its final reading image. Title page numbering and creator metadata were corrected. Final package check: EPUB 1,931,588 bytes; DOCX 1,940,829 bytes. Paperback wrap remains open until print pagination is final.
