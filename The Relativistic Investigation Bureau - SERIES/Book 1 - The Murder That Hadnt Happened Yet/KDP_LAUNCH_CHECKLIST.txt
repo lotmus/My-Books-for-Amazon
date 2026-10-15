@@ -3,18 +3,20 @@ The Murder That Hadn't Happened Yet
 Status as of 15 October 2026 (PT)
 
 CURRENT STATUS
-REV16 is a release candidate, not a published or approved release. REV14 remains the release master. The source and candidate DOCX are paired; the candidate includes one internal cover image. Do not upload until the author-side preview and cover decision are complete.
+REV17 is a release candidate, not a published or approved release. REV14 remains the release master. REV17 adds the back-cover panel as the final ebook page; the separate REV17 EPUB also includes it. Do not upload until the author-side preview and cover decision are complete.
 
 FILES
-- Manuscript candidate: FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
-- Paired editable source: scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt
+- Manuscript candidate: FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
+- Paired editable source: scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt
+- Kindle upload candidate: The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub
 - KDP description: kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt; exact copy is also in KDP_METADATA.txt
-- Back-cover panel: Kindle Back Cover.jpg is an accurate text-only 1600 x 2560 candidate; the old, misleading panel is retained in bak/ and must not be used.
+- Back-cover panel: Kindle Back Cover.jpg is the final page of the REV17 ebook; it uses the full panel with no barcode area. The old, misleading panel is retained in bak/ and must not be used.
 - Marketing cover: Kindle Front Cover.jpg
 - Release master preserved: FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
 
 COMPLETED IN THIS CANDIDATE
 ☑ Front cover appears once as an internal first page; title page follows it.
+☑ Back-cover panel appears as the final page in the REV17 DOCX and begins on a fresh page in the EPUB; no barcode space is reserved.
 ☑ Welcome note tells readers no physics background is needed and lessons are optional.
 ☑ Linked contents, chapter/course headings, six science figures with alt text, and back matter included.
 ☑ Internal link targets and DOCX package integrity checked; all 138 internal links resolve, and all seven embedded images have alt text.
@@ -24,7 +26,7 @@ COMPLETED IN THIS CANDIDATE
 
 REMAINING BEFORE UPLOAD
 ☐ External marketing cover: current JPEG is 1152 x 1728 px (RGB, 0.85 MB). It is below KDP's 1600 x 2560 recommendation. Create/export from an appropriately high-resolution source; do not merely stretch the existing file. Check title and byline at thumbnail size and compare them to the KDP listing.
-☐ Open the REV16 DOCX in Kindle Previewer or KDP's online previewer. Inspect the internal cover, linked navigation, figures, course equations, and chapter starts on phone/tablet/e-ink layouts. Resolve conversion defects and re-upload the final file if changed.
+☐ Open the REV17 EPUB in Kindle Previewer or KDP's online previewer. Inspect the internal front cover, final back-cover page, linked navigation, figures, course equations, and chapter starts on phone/tablet/e-ink layouts. Resolve conversion defects and re-upload the final file if changed.
 ☐ Author decides publication date, price, KDP Select enrollment, and whether to use optional author photo/newsletter links.
 ☐ In the KDP account, confirm title, subtitle, series name/number, primary author plus contributor, language, age range, keywords, categories, and description.
 ☐ Answer the current KDP AI-content disclosure based on the book and cover creation history.
