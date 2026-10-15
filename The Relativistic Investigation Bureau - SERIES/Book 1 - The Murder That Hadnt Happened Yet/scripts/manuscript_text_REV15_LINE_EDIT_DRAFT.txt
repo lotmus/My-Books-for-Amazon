@@ -108,31 +108,11 @@
 
 # How to Read This Book {#how_to_read}
 
-This is a satirical mystery with real relativity underneath. You need no physics to follow the case. The comedy is the bait. The geometry is the trap.
-
-The novel is Case 1047: a murder that has not happened yet, and a Bureau that files first and asks later. Derek Gent investigates a death notice with his name on it, while trying not to make the paperwork worse.
-
-The course follows the novel in sixteen lessons. Most chapters, and the Epilogue, end with a Rule and a link to the relevant lesson. The links follow ideas, not matching chapter numbers. Read a lesson when you want the physics behind the investigation; leave it until later when you want to know what happens next.
-
-Three honest ways to read this book.
-
-For the story alone: read the chapters and stop at each Rule. The case explains its own solution. You can return to the course whenever a clock begins to look suspicious.
-
-To take the class: read each chapter, then the lesson it points to. Chapters 1 and 2 share Lesson 1. After that, each chapter points to one lesson, and each lesson links back. The twin-paradox workshop follows Lesson 2. No physics is assumed at the start.
-
-If you are impatient: the photograph arrives in Chapter 1. Go straight to it. The Bureau understands impatience; it simply prefers it in writing.
-
-If you take the class out of order, take Lesson 2 before you argue with Chapter 3, and Lesson 14 before you board the train.
-
-One promise: relativity will not be used as permission for an ordinary photograph to arrive from the future. The investigation tests that tempting explanation instead of accepting it. A faulty filing system needs no new laws of nature.
-
-A companion list of films lives on the COURSE page, with a one-line reminder at the end of each lesson. None of them are required.
-
-Three demos, one job each, on the [Bureau’s companion demo site](https://lotmus.github.io/relativistic-site/): [simultaneity](https://lotmus.github.io/relativistic-site/demos/sr-simultaneity.html) for Lesson 2, [curvature](https://lotmus.github.io/relativistic-site/demos/gr-curvature.html) for Lesson 5, and [expansion](https://lotmus.github.io/relativistic-site/demos/cosmology-expansion.html) so that “the universe stretches” is not filed under murder. The same address is repeated under Further Reading.
+Welcome to the Bureau. No physics background is needed: read on and skip the lesson links. The optional lessons, workshop, and demonstrations are here only if the story sparks your curiosity.
 
 ## Author’s Note
 
-This novel is the first in The Relativistic Investigation Bureau series. The uses of Special and General Relativity here rest on well-tested physics; General Relativity is not a complete quantum theory. Holography is a live research programme: real in particular theoretical settings, not a proof that our universe is a cinema screen. The crimes and investigations are fictional. The jokes are mine.
+This novel is the first in The Relativistic Investigation Bureau series. The uses of Special and General Relativity here rest on well-tested physics; General Relativity is not a complete quantum theory. Holographic duality is a well-developed theoretical framework in particular settings; it does not prove that our universe is a cinema screen. The suggestion that time is non-fundamental is also a research proposal, not a result established by relativity. The crimes and investigations are fictional. The jokes are mine. The photograph in this case does not come from the future; the investigation traces it to a faulty filing system.
 
 If you find yourself questioning whether time is fundamental, whether causality can be violated, or whether a sufficiently incompetent filing system could create paradoxes... congratulations. You’re thinking like an investigator.
 
@@ -164,7 +144,7 @@ Rule: A murder that has not happened yet is still a filing. Treat the paperwork 
 
 ### The Surprise in the Morning
 
-At seventeen minutes past nine on a Tuesday morning at the end of October, Derek Gent received an email informing him that he had been murdered.
+At seventeen minutes past nine on a Tuesday morning in late October, Derek Gent received an email informing him that he had been murdered.
 
 He had always suspected that death would arrive by email. Nearly everything else did. Electricity bills, invitations to webinars that would change his life, notices that someone had reset a password he had never owned. Death was the logical next step. What surprised him was the sender.
 
@@ -554,7 +534,7 @@ Penny wrote it on the board, under FRAME, in her own small hand: *Not one event 
 
 “The email is a sentence. Sentences are cheap.”
 
-The phone on his desk rang. It was a Munich number. Derek put it on speaker. Herbert Matkowski?s dry voice came through, each word paced as carefully as his handwriting. ?Good morning. This is Herbert Matkowski. I am ringing on behalf of Alfred, who is too excited to use a telephone.?
+The phone on his desk rang. It was a Munich number. Derek put it on speaker. Herbert Matkowski’s dry voice came through, each word paced as carefully as his handwriting. “Good morning. This is Herbert Matkowski. I am ringing on behalf of Alfred, who is too excited to use a telephone.”
 
 Herbert Matkowski had once been Alfred Weinstein’s mathematics professor. He mentioned it rarely and enjoyed it every time. He held the frequently reconfirmed opinion that his former student was very clever and very lazy, and that grading his coursework had been the first reliable evidence for both. Where Weinstein worked in leaps, Matkowski worked in steps, and he regarded the steps as the honest method.
 
@@ -698,7 +678,11 @@ Three honest clocks, three different times. Not one of them was lying. Each was 
 
 The second thing was stranger, and it was true.
 
-If he took the radio clock off the wall and put it on the floor, it would run slow compared with a twin left on the wall. Not because the floor was cold or the battery was tired, but because it was a metre deeper in the Earth’s gravity, and time itself, measured by any clock at all, runs more slowly deeper in a gravitational field. Einstein had predicted it. Pound and Rebka had measured it in 1960 by firing gamma rays up a tower at Harvard. In 2010 a group in Boulder had seen it with two optical clocks a third of a metre apart in height. One metre of height was worth about one part in ten thousand million million: about a quarter of a millionth of a second over an eighty-year lifetime. The effect was real, and it was useless for murder. No difference in height on any floor in London could put nearly twenty-six hours between a photograph and a room.
+If he took the radio clock off the wall and put it on the floor, it would run slow compared with a twin left on the wall. Not because the floor was cold or the battery was tired, but because it was a metre deeper in Earth’s gravitational field, so the clock there would run more slowly relative to its twin on the wall. Einstein had predicted it.
+
+Pound and Rebka had measured it in 1960 by firing gamma rays up a tower at Harvard. In 2010 a group in Boulder had seen it with two optical clocks a third of a metre apart in height. One metre of height was worth about one part in ten thousand million million: about a quarter of a millionth of a second over an eighty-year lifetime.
+
+The effect was real, and it was useless for murder. No difference in height on any floor in London could put nearly twenty-six hours between a photograph and a room.
 
 Height is cheap, he thought. Disagreement is not. If honest clocks disagree by a day, you are not looking at physics. You are looking at somebody’s paperwork.
 
@@ -2620,7 +2604,7 @@ The kitchen clock over the cooker, the one with the crack across its glass, said
 
 He wrote that the email had come at 9:17 on a Tuesday. He wrote that he had been frightened, and of what. He wrote about the man in the car and why, and that it had been the wrong decision made for the right reason, which was the most common kind. He wrote about Munich and the apples and the heron. He wrote that at three minutes past eleven on Wednesday the twenty-first nothing had happened, and that it had been the happiest nothing of his life. He wrote about the camera that stamped only the weekday, and the template that said it is you, and the cucumber. He wrote that he had gone to see Julian with a question he should not have had, and that Julian had answered it before he asked, and that he had been ashamed, and that being ashamed had turned out to be useful.
 
-He wrote that on Wednesday the fourteenth of October, at three minutes past eleven, his daughter had brought him a clock and found him asleep and stepped backwards out of the room so as not to wake him, and that it was the kindest thing anybody had done for him in years, and that he had not known about it for a week.
+He wrote that on Wednesday the fourteenth of October, at three minutes past eleven, his daughter had brought him a clock, found him asleep, and stepped backwards out of the room so as not to wake him. It was the kindest thing anybody had done for him in years. He had not known about it for eleven days.
 
 He wrote one sentence about device 3: Unidentified; access revoked; records kept for the police. He left out the fear. That was his.
 
@@ -2934,7 +2918,7 @@ She chose black shoes that she said were the least embarrassing of a field of em
 
 “Yes,” said Sophie. “You should.” She took the bag from the assistant. “I’d have put him under PROBABLY TRUE. Instead he was under PROBABLY NOTHING for two days, and that’s worse.”
 
-Outside, on Oxford Street, it was already dark, and the shops were lit up for a winter that had officially started at two o’clock that morning, and Sophie walked beside him with the shoe bag swinging and her hood down for once.
+By the time they came out, Oxford Street was dark. The clocks had gone back at two that morning, and the shops were lit against the early night. Sophie walked beside him with the shoe bag swinging and her hood down for once.
 
 “What did you write?” said Derek. “This afternoon. In the notebook. You said data.”
 
@@ -3170,11 +3154,7 @@ Einstein Equation
 
 Event Coordinate
 
-## WORKSHOP
-
-### The Twin Paradox
-
-Do this after Lesson 2, once you have the interval. The problem is printed there.
+After Lesson 2, the course pauses for a Twin Paradox workshop.
 
 # Lesson 1 {#lesson_1}
 

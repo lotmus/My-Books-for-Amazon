@@ -1,0 +1,21 @@
+body { font-family: serif; }
+img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+@media amzn-kf8 { img { width: 100%; } }
+img[title="Book 2 back cover"] {
+  display: block;
+  break-before: page;
+  page-break-before: always;
+  width: auto !important;
+  height: auto !important;
+  max-width: 100%;
+  max-height: 95vh;
+  object-fit: contain;
+}
+@media amzn-kf8 {
+  img[title="Book 2 back cover"] {
+    width: auto !important;
+    height: auto !important;
+    max-width: 100%;
+    max-height: 95vh;
+  }
+}

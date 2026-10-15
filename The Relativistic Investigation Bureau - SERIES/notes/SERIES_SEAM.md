@@ -2,7 +2,7 @@
 
 Not for publication. Read this before writing any later book. It records established continuity so a new manuscript feels like the same office, not a reboot. For the current end-of-Book-2 handoff, read `NEXT_BOOK_HANDOFF.md` first.
 
-Status checked 15 Oct 2026: Book 1's current candidate is `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt` with its paired `FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; Book 2's current working pair is `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.md` with its paired `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx`. The release masters remain Book 1 `FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` and Book 2 `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx`; candidates/drafts are not approved releases. Book 1's builder targets the REV16 candidate; inspect Book 2's script before rebuilding. Looks and rooms live in `CHARACTER_AND_SETTING_BIBLE.md`; Case 1047 and warning chronology live in `SERIES_BIBLE_continuity_chart.md`.
+Status checked 14 Oct 2026: the Book 1 release candidate is `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt` with its paired `FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; the prior line-edit draft is REV15, and Book 2 `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.md` with its paired `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.docx`. The release masters remain Book 1 `FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` and Book 2 `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx`; REV16 is a release candidate that still needs cover and Kindle Previewer checks; REV14 remains Book 1's release master and REV04 remains Book 2's release master. Build scripts may still point to older sources or output names: inspect them before rebuilding. Looks and rooms live in `CHARACTER_AND_SETTING_BIBLE.md`; Case 1047 and warning chronology live in `SERIES_BIBLE_continuity_chart.md`.
 
 Physics is the plot. Private lives are invented. The physicists they echo are not their names. Julius is not Julian Barbour. The other Julian is Tuppence's, and he makes clothes hangers.
 
@@ -15,10 +15,6 @@ The room argues. A person starts a lecture. Someone who already lives there cuts
 Warmth is teaspoons, a shut door, a phone call that goes on too long. It is not a speech about feelings. Trevor suffers in complete sentences when the feeling is his sister's. Penny does not wait to be invited. Derek's voice does not change register between a murder and a request for tea.
 
 Each new book gets a new physics problem. It does not re-solve the last file, and it does not borrow the last file's answer as a twist.
-
-## Reading order is optional
-
-Every book must work as a reader’s first RIB book. Give each volume a complete central investigation and emotional payoff; no plot point may require knowledge of an earlier volume. At the opening, orient readers to the Bureau, the relationships that matter in this book, and any continuing thread they need to recognize. If that context would reveal an earlier solution, make the recap optional and clearly mark the spoiler. Carryover mysteries may remain open, but they must be identified as series threads and never block comprehension or satisfaction of the current case. Character relationships may develop across volumes; give out-of-order readers the context they need without resetting earned changes. Reading order must not be necessary for comprehension, though earlier books may still offer added resonance.
 
 ## People (do not reset them)
 

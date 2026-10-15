@@ -4,7 +4,7 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Updated 15 Oct 2026 (PT). The manuscript is now the REV17 release candidate; REV14 remains the release master. REV17 adds the back-cover panel as the final ebook page and has paired DOCX and EPUB files. The revised KDP description is also REV17. The candidate is not approved or published. Final release still needs the high-resolution front cover, author-side Kindle preview, and publication decisions.]
+[Updated 14 Oct 2026 (PT) against the REV16 release candidate. REV16 is a candidate, not the release master; REV14 remains untouched. DOCX text extraction counts 62,088 words across front matter, story, lessons, and end matter; a word processor may report a slightly different total. The KDP blurb below is mirrored in kdp_description_REV16_RELEASE_CANDIDATE.docx and .txt. Final release is still open for the external cover artwork, the author's KDP preview, and publication decisions.]
 
 TITLE
 The Murder That Hadn't Happened Yet
@@ -48,17 +48,17 @@ Amateur Sleuth, and the humour earns its own shelf.]
 KEYWORDS (7 keywords/phrases - comma separated for KDP)
 ================================================================================
 
-[Revised 15 Oct 2026 (PT): no keyword repeats a category or the title
-(KDP indexes those already), no misleading time-travel claim, each under
+[Revised 10 Oct 2026 (PT): no keyword repeats a category or the title
+(KDP indexes those already), no "time travel" (the book is not), each under
 50 characters.]
 
-physics mystery novel, einstein relativity fiction, funny british detective agency, clock discrepancy mystery, father daughter mystery london, clever comic science fiction, mystery with a dolphin detective
+physics mystery novel, einstein relativity fiction, funny british detective agency, time paradox whodunit, father daughter mystery london, clever comic science fiction, mystery with a dolphin detective
 
 [INDIVIDUAL KEYWORDS FOR RESEARCH:]
 1. physics mystery novel
 2. einstein relativity fiction
 3. funny british detective agency
-4. clock discrepancy mystery
+4. time paradox whodunit
 5. father daughter mystery london
 6. clever comic science fiction
 7. mystery with a dolphin detective
@@ -68,16 +68,16 @@ KINDLE BLURB (Book Description for KDP Store Page)
 [280 words, under KDP's 4,000-character limit. COPY EXACTLY.]
 ================================================================================
 
-[This REV17 description is mirrored exactly in
-kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt. It avoids implying
+[This REV16 candidate copy is mirrored exactly in
+kdp_description_REV16_RELEASE_CANDIDATE.docx and .txt. It avoids implying
 Sophie is in danger, accurately describes the clock in the photograph, and
 states that no physics background is needed.]
 
 A MURDER THAT HASN'T HAPPENED YET.
 A photograph dated tomorrow.
-And his daughter, paused in the doorway.
+And his daughter, caught in the doorway.
 
-At 9:17 on a Tuesday morning, investigator Derek Gent receives an email saying that he has been murdered. It is polite, precise, and signed by Derek himself. The attached photograph shows him face-down on his office floor. A brass clock reads 11:03 — tomorrow, according to the email. In the doorway behind him, his twelve-year-old daughter is caught mid-step.
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email saying that he has been murdered. It is polite, precise, and signed by Derek himself. The attached photograph shows him face-down on his office floor. A brass clock reads 11:03 — tomorrow, according to the email. Frozen mid-step in the doorway behind him is his twelve-year-old daughter.
 
 The clocks disagree.
 The universe disagrees.
@@ -156,26 +156,24 @@ REQUIRED:
 ☑ Title: The Murder That Hadn't Happened Yet
 ☑ Author Name: Lothar J. Musiol (primary) + Spezala Genara Relavi (contributor, Author); see AUTHOR NAME
 ☑ Categories: 3 proposed above
-☑ Blurb (above, identical to kdp_description_REV17_RELEASE_CANDIDATE.docx)
+☑ Blurb (above, identical to kdp_description.docx)
 ☑ Keywords (7 phrases provided)
 ☑ Price: $3.99 proposed (70% royalty band is $2.99 to $9.99)
 ☑ KDP Select / Kindle Unlimited: proposed YES
 ☐ Publication Date: [DECISION FOR LOTHAR]
 
-COVER REQUIREMENTS (checked 15 Oct 2026 against the current files):
+COVER REQUIREMENTS (checked 14 Oct 2026 against the current files):
 - Marketing/front cover: `Kindle Front Cover.jpg`, JPEG, RGB, 1152 x 1728 px, 0.85 MB. It is below KDP's 1600 x 2560 px recommendation. KDP advises against enlarging small source art to meet the recommendation; re-render from a higher-resolution source before upload. [KDP cover guidelines](https://kdp.amazon.com/en_US/help/topic/G6GTK3T3NUHKLEFX).
 - The attempted generated variant was not adopted: it was lower resolution and introduced inaccurate decorative text.
-- Internal content cover: included once as the first page of the REV17 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
-- Back-cover panel: `Kindle Back Cover.jpg` is an accurate 1600 x 2560 text-only page at the end of the REV17 DOCX and EPUB. The full image is used with no barcode area. It replaces a superseded panel that incorrectly suggested time travel and contained a fabricated testimonial; the old image is retained in `bak/` and must not be used.
+- Internal content cover: included once as the first page of the REV16 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
 - Audible cover and back cover are separate assets and are not used as the Kindle eBook marketing cover.
 
-MANUSCRIPT (REV17 release candidate):
-- Candidate DOCX: `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
-- Kindle upload candidate: `The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`.
-- Editable source: `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`; rebuild the DOCX with `scripts/rebuild_kindle_REV17.py` and the EPUB with `scripts/build_epub_REV17.py`. REV14 release master is unchanged.
-- The source includes the internal front cover, linked table of contents, title/copyright pages, story, optional course, glossary, author matter, bibliography and final back-cover page.
-- Six interior science diagrams retain descriptive alt text. Together with the front cover and final back-cover page, the REV17 DOCX has eight inline images.
-- Structural preflight checks: internal links resolve to bookmarks; heading styles and page breaks are present; DOCX package opens cleanly. Final Kindle Previewer/KDP online preview remains an account-side release check. The EPUB builder adds a page break before the final back-cover panel.
+MANUSCRIPT (REV16 release candidate):
+- Candidate: `FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
+- Editable source: `scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt`; paired with the candidate DOCX. REV14 release master is unchanged.
+- The source includes the internal front cover, linked table of contents, title/copyright pages, story, optional course, glossary, author matter and bibliography.
+- Six interior science diagrams retain descriptive alt text. Together with the front cover, the DOCX has seven inline images.
+- Structural preflight checks: internal links resolve to bookmarks; heading styles and page breaks are present; DOCX package opens cleanly. Final Kindle Previewer/KDP online preview remains an account-side release check.
 - See `KDP_LAUNCH_CHECKLIST.txt` for remaining actions. Do not call the candidate upload-ready until the external cover is corrected or an explicit decision accepts KDP's lower-resolution reminder and the KDP preview is checked.
 
 SERIES SETUP:

@@ -1,7 +1,7 @@
 # Case 1047 — Private Continuity Chart
 ### (Author reference only — not for publication)
 
-Status checked 2026-10-15 against the Book 1 REV16 candidate and Book 2 REV05 draft. For series-wide current canon and open hooks, see `NEXT_BOOK_HANDOFF.md`. The Louvre row below is explicitly non-canon historical planning, not a Book 1 clue.
+Status checked 2026-10-14 against the Book 1 REV16 release candidate and Book 2 REV05 draft. For series-wide current canon and open hooks, see `NEXT_BOOK_HANDOFF.md`. The Louvre row below is explicitly non-canon historical planning, not a Book 1 clue.
 
 Purpose: track, for every major clue, what *actually* happened (per the Ch16 resolution) vs. what was *perceived*, in which *frame*, with what *timestamp*, in what *Bureau record*, and *who knew what, when*. Built to catch contradictions like the "case duration" bug found and fixed this session (several epilogue scenes said "a year"/"eleven months" when the book's own chapter openers — "By Wednesday morning" (Ch3 and Ch4), "Friday morning" — establish a span of days).
 
@@ -9,23 +9,22 @@ Purpose: track, for every major clue, what *actually* happened (per the Ch16 res
 
 ---
 
-## Master case timeline (real-world days, per chapter openers)
+## Master case timeline (Book 1 REV16 release candidate)
 
-| Day | Chapter(s) | Anchor line |
+The story does not name a year. Its weekday and date references establish this intended sequence; do not shift it while editing. The photographed office event is Wednesday 14 October. Case 1047 opens the following Tuesday, and the Book 1 resolution occurs on the Sunday when the clocks go back.
+
+| Day | Chapter(s) | Anchor |
 |---|---|---|
-| Tuesday | Ch1–2 | "At precisely 9:17 on a Tuesday morning..." (Ch1) |
-| Wednesday | Ch3–5 | Ch3 London and Ch4 Munich both open "By Wednesday morning..."; Ch5 is the same day's Barbarian detour |
-| Thursday | Ch8 | "4:18 on a wet Thursday afternoon" |
-| Friday | Ch9 (office rule scene) | "And on Friday morning, Derek's office door was open." (Ch9) |
-| Saturday | Ch10 | "It was Saturday..." |
-| (unspecified, but same week) | Ch6–7, 11–16 | Internally consistent only if kept within the same ~5–7 day window |
-| Epilogue: "three days of nothing happened" | Epilogue | Explicit — three days after the case closes. The tea callback is the second of those days, and it says "since Tuesday," not a fortnight. |
-| Epilogue Friday, same afternoon | Epilogue | Curry, then school shoes that afternoon, then Trevor's walk home. Not "later that week" after the Friday. |
-| Epilogue: "three days later" (cliffhanger) | Epilogue | Explicit — three days after that Friday. Inside the 10–14 day window. Do not send Trevor into "the rest of his professional life" inside this week. |
+| Wednesday 14 October (previous week) | Backstory, revealed in Ch10, Ch15?16 | Sophie brings her clock to Derek at 11:03; the camera image is taken. |
+| Tuesday 20 October | Ch1?5 | The 09:17 murder email arrives; Derek plans to leave London; Weinstein visits Barbarian. |
+| Wednesday 21 October | Ch6?9 | Weinstein travels to the airport; 11:03 passes without a murder; Sophie and Tuppence reach the Bureau. |
+| Thursday 22 October | Ch10?12 | Physio, camera analysis, and the room reconstruction. |
+| Friday 23 October | Ch13 | Vance and Julian; Derek visits Tuppence's street. |
+| Saturday 24 October | Ch14?15 | Aldwych, the school conversation, and the overnight clock change. |
+| Sunday 25 October | Ch16 and Epilogue | The case is resolved; clocks change from 02:00 summer time to 01:00 winter time; Derek and Sophie reconcile at Oxford Street. |
+| Monday 26 October | Coming Next; Book 2 Prologue | Case 1047's closing memo is filed and the new warning arrives. |
 
-**Total story clock: roughly 10–14 days start to cliffhanger.** Any future draft language describing the case as "weeks," "months," or "a year" will contradict this — the fix applied this session standardized emotionally-weighted lines to "this week"/"since Tuesday" rather than removing the emotional weight.
-
----
+**Duration:** the murder email arrives Tuesday 20 October at 09:17; the closing memo is filed Monday 26 October. The case takes six days elapsed, with the main deadline and resolution on the first Sunday after it opens. The photographed event is exactly one week before the promised Wednesday deadline. Do not describe the case as lasting months or years, or move the photograph to the deadline Wednesday.
 
 ## Clue-by-clue table
 
