@@ -41,6 +41,11 @@ Final reviewed-copy counts: 2,354 paragraphs, 151 hyperlinks, 81 bookmarks. Dupl
 
 Review record: `../../notes/SENSITIVITY_REVIEW_20261012.md`. Score: **10/10**. Revisions foreground Dr Ramanathan and her colleagues, vary her lab action, and remove nationality as shorthand for van Casteel. The reviewed continuity copy remains current; the original draft was untouched. EPUB rebuilt.
 
+## Critical reader review (15 Oct 2026)
+
+Review: `ADDICTED_READER_REVIEW_20261015.md`. Overall **9.7/10** (prior 9.6): jokes/satire 9.4, plot/payoff 9.5, pacing/suspense 9.1, characters/dialogue 9.6, prose/originality 9.5, science/continuity 10, Kindle/sections 10, images/accessibility 10. Main remaining tradeoffs are the argument-heavy middle (Chapters Eight–Eleven) and the intentionally unresolved series mystery.
+
+The Series Bible and `notes/NEXT_BOOK_START_HERE.md` now require every installment to work as a reader's first book. Book 2's front matter explicitly says no earlier book is needed. Added three diagrams in Lectures One, Two, and Fourteen; all are 800 × 440 px with descriptive alt text. The DOCX contains front and back covers; the EPUB has front-cover metadata and the back cover as its final reading image. Title page numbering and creator metadata were corrected. Final package check: EPUB 1,931,588 bytes; DOCX 1,940,829 bytes. Paperback wrap remains open until print pagination is final.
 ## Reader experience review (13 Oct 2026)
 
 Review: `../../notes/READER_EXPERIENCE_REVIEW_20261013.md`. Score for the target non-specialist SF reader: **10/10**. Book 2 now opens with a brief note that the novel stands on its own and the lectures are optional; its KDP copy says the same. Rebuilt Kindle EPUB validated.
@@ -68,3 +73,13 @@ Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.6/10
 ## Diagram display-size check (13 Oct 2026)
 
 Book 2 has no interior diagrams, so no diagram resizing was needed. Its designed back-cover panel remains the final reading page and stays at its publication dimensions. The EPUB archive integrity and XML parsing passed; its in-reading back-cover image has alt text.
+
+## Aim-to-10 reader pass (15 Oct 2026)
+
+The active file inventory was checked before editing. The reviewed DOCX and its Kindle EPUB remain the active pair; the original canonical draft and dated snapshots remain preserved in `bak/`. No superseded root-level editions needed moving, and no unique source or production files were changed.
+
+A focused second pass tightened the game explanation in Chapter Eight: the classical limit, entangled-particle advantage, no-signalling point, and relationship between the win rate and Bell score are now explicit. Chapter Ten’s fixed-background explanation was shortened. DOCX and EPUB text match. The science claims and plot outcomes were not changed.
+
+Final extremely critical reader score remains **9.7/10 overall**. Focused reread: humour/satire 9.4, stakes 9.8, plot/payoff 9.5, pacing/suspense 9.4, characters/dialogue 9.6, prose/clarity/originality 9.7, science/continuity 10, Kindle/section boundaries 10, images/accessibility 10. Remaining deductions are reader-preference tradeoffs: a dialogue-led, argument-heavy middle; dry rather than laugh-out-loud humour; and a deliberate series mystery. Further cuts or extra jokes risk changing the book’s chosen voice and stakes.
+
+DOCX and EPUB archives, XML/XHTML, navigation, internal links, metadata, alt text, cover placement, and the three 800 × 440 px diagrams passed structural checks. Hyperlink/bookmark counts remain 151/81. A fresh visual render could not run because bundled LibreOffice is unavailable on this host; the prior edition’s render was visually checked before these text-only revisions.
