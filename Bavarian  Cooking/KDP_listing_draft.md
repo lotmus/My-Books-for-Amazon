@@ -1,45 +1,67 @@
-# KDP listing draft: Bavarian Cooking Made Simple
+# KDP listing: Bavarian Cooking Made Simple
 
 **Title:** Bavarian Cooking Made Simple
-**Subtitle:** 120+ Delicious Recipes of Southern German Culinary Art, Beyond the Oktoberfest
-**Author:** Annette Tauber
-**Publisher (imprint):** 99 Luftballon Publishing
+**Subtitle:** 121 Photographed Recipes Inspired by Bavaria & Southern Germany: Beyond the Oktoberfest
+**Author:** Anneliese Tauber (pen name)
+**Imprint:** 99 Luftballon Publishing
+**Language:** English | **Edition:** 1st | **Series:** none
 
-## Description (paste into KDP; basic HTML is allowed)
+## Description (paste into KDP; the HTML tags below are accepted)
 
-<b>Taste Bavaria at your own table.</b>
+<b>121 photographed recipes inspired by Bavarian and Southern German home cooking.</b>
 
-Roast pork with a crackling crust, golden Kaiserschmarrn, a proper Weißwurst breakfast: <i>Bavarian Cooking Made Simple</i> brings more than 120 classic recipes from Munich, the Alps, Franconia, and the Bavarian Forest into everyday kitchens. Every recipe is written for four people, with clear steps, ingredient lists in both US and metric units, and the German name of each dish.
+<p>Crackling roast pork. Fluffy bread dumplings. Creamy Kässpätzle. Golden Kaiserschmarrn. Bavarian cooking reaches far beyond Oktoberfest: from everyday family tables and beer gardens to Alpine kitchens, its food is hearty, varied, and made to share. <i>Bavarian Cooking Made Simple</i> brings these regional favorites to your kitchen, with a photo for every dish.</p>
 
-<b>Inside you will find:</b>
+<p>The regional range includes Franconian roast pork, Munich's mustard-and-horseradish schnitzel, and Allgäuer Cordon Bleu, alongside broader German home cooking, neighboring Alpine traditions, and modern adaptations for the everyday table.</p>
+
+<p><b>What you will find inside</b></p>
 <ul>
-<li>Soups and starters, from Leberknödelsuppe to Obatzda and the Bavarian Brotzeit</li>
-<li>Hearty main courses: Schweinsbraten, Schweinshaxe, Sauerbraten, Rouladen, Schnitzel, and more</li>
-<li>Dumplings, spätzle, red cabbage, pretzels, and other classic sides</li>
-<li>Desserts and bakes: Apfelstrudel, Germknödel, Prinzregententorte, Lebkuchen, and Bienenstich</li>
-<li>Winter drinks such as Glühwein and Jägertee</li>
-<li>A picture for every dish, plus a "Before You Cook" page with tips and allergen notes</li>
+<li><b>A photo for every dish</b>, so you know what you are cooking toward</li>
+<li><b>Serving sizes and yields listed</b>, with most main dishes written for four</li>
+<li><b>US and metric measures</b> throughout, with °C and °F oven temperatures</li>
+<li><b>German dish names and ingredient terms</b> to help with menus and shopping</li>
+<li><b>Clear step-by-step instructions</b> for beginners and confident cooks alike</li>
+<li><b>A welcoming first-table guide</b> that starts with an easy Brotzeit board and a simple cheese spread</li>
 </ul>
 
-Whether you are cooking for family, planning an Oktoberfest party, or missing a trip to Bavaria, these recipes bring the flavors home. <b>Guten Appetit!</b>
+<p><b>What you will cook</b></p>
+<ul>
+<li><b>Soups and starters:</b> Leberknödelsuppe, Hochzeitssuppe, Obatzda, Wurstsalat, the Bavarian Brotzeit</li>
+<li><b>Hearty mains:</b> Schweinsbraten with crackling, Schweinshaxe, Sauerbraten, Rouladen, Jägerschnitzel, Wiesn-Hendl</li>
+<li><b>Dumplings and sides:</b> Semmelknödel, Kartoffelknödel, Spätzle, Blaukraut, warm potato salad, Brezn</li>
+<li><b>Desserts and bakes:</b> Apfelstrudel, Kaiserschmarrn, Germknödel, Prinzregententorte, Bienenstich, Lebkuchen</li>
+<li><b>Winter drinks:</b> Glühwein, Jägertee, and more</li>
+</ul>
+
+<p><b>Who this book is for:</b> Adult home cooks and older teens (about 16+) who can cook independently. Younger teens can use the recipes with an adult's guidance; younger children should help only with age-appropriate tasks under close supervision. Recipes involve knives, ovens, hot oil, raw ingredients, and some alcoholic drinks. The "Before You Cook" page covers cooking temperatures, raw ingredients, alcohol, and allergens.</p>
+
+<p>New to cooking? Begin with a no-cook Brotzeit platter, then make Obatzda, a Bavarian cheese spread you mash, season, and chill. It is a low-pressure first taste of the region—and an easy reason to invite someone to the table.</p>
+
+<p><b>Scroll up and tap Buy Now to bring the beer garden home. Guten Appetit!</b></p>
 
 ## Keywords (7 slots)
-1. bavarian cookbook
-2. german recipes cookbook
-3. oktoberfest food recipes
-4. southern german cooking
-5. authentic german dishes
-6. traditional bavarian baking
-7. spaetzle dumplings schnitzel recipes
+1. bavarian german cookbook for beginners
+2. oktoberfest party food recipes
+3. german schnitzel spaetzle dumplings
+4. southern german baking strudel pretzel
+5. traditional bavarian dishes roast pork bratwurst
+6. german comfort food family dinner recipes
+7. easy german recipes cookbook with pictures
 
-## Categories (choose two)
-- Kindle eBooks > Cookbooks, Food & Wine > Regional & International > German
-- Kindle eBooks > Cookbooks, Food & Wine > Cooking by Ingredient or Course > Main Courses (or Desserts)
+## Categories (pick the closest in KDP's menu)
+1. Kindle eBooks > Cookbooks, Food & Wine > Regional & International > German
+2. Kindle eBooks > Cookbooks, Food & Wine > Cooking by Ingredient or Course > Main Courses (or Desserts)
+3. Kindle eBooks > Cookbooks, Food & Wine > Baking (request via Author Support if only two are offered)
+
+## In-book texts (already in the book)
+**About This Book (blurb):** Bring the beer garden home. Crackling roast pork, fluffy bread dumplings, creamy Kässpätzle, and golden Kaiserschmarrn: Bavarian food is hearty and comforting. This collection brings together 121 recipes inspired by Bavarian and Southern German home cooking, from beer gardens and Alpine huts to the family table. Alongside regional favorites, you will find broader German home cooking, neighboring Alpine traditions, and modern adaptations. Every dish comes with a photo and clear step-by-step instructions. German dish names and ingredient terms appear throughout. Ingredient lists use familiar US measures alongside metric weights and volumes. Serving sizes and yields are listed with each recipe. Soups and starters, hearty mains, dumplings and sides, strudels, cakes, and winter drinks: cook it, share it, enjoy it. Guten Appetit!
+
+**Author note:** Anneliese Tauber writes about Bavarian and Southern German home cooking. *Bavarian Cooking Made Simple* brings together beer-garden favorites, family meals, bakes, and seasonal drinks in a format designed for home cooks.
 
 ## Upload checklist
-- **Manuscript:** upload the EPUB (`Bavarian Cooking Made Simple (Kindle).epub`) or the Word file. Check the preview in Kindle Previewer.
-- **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (2000 x 3000 px).
-- **AI-generated content:** answer "Yes" for the cover, the AI recipe pictures (Microsoft Copilot), and the AI-assisted text (new recipes and corrections prepared with Claude). Keep the original Copilot files in the `photos\ai_originals` folder.
-- **Rights:** the other pictures are public domain, CC0, Pexels, Pixabay, or Unsplash images; see the Photo Credits page.
+- **Manuscript:** `Bavarian Cooking Made Simple (Kindle).epub`; check it in Kindle Previewer first.
+- **Cover:** `Bavarian Cooking Made Simple - Kindle cover.jpg` (1600 x 2560 px).
+- **AI-generated content:** answer "Yes" for the AI-assisted text, AI recipe pictures (Copilot, Grok, and OpenAI ImageGen), and AI artwork used in the cover. Keep the original Copilot files in `photos\ai_originals`.
+- **Rights:** the other pictures are public-domain, CC0, Pexels, Pixabay, or Unsplash images; see the Photo Credits page and `photos\photo_credits_full.md`.
+- **Pricing:** with the 70% royalty option, price between USD 2.99 and 9.99. The current EPUB is about 2.6 MB; confirm current delivery pricing in KDP before setting the price.
 - **Cooking disclaimers:** the "Before You Cook" page covers raw ingredients, alcohol, and allergens.
-- **Pricing:** with the 70% royalty option, the book must be priced between USD 2.99 and 9.99. Delivery cost is charged per MB of file size, which is why the images were reduced.

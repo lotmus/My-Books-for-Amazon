@@ -1,0 +1,64 @@
+PART: Part IV. Specialized Converters
+H1: Chapter 18. The Multiphase Regulator
+P: A processor that draws hundreds of amperes below one volt cannot be fed by a single converter phase. Twenty phases switching at 800 kHz share the current, and because their ripples are staggered in time, the 9.33 A ripple of each phase adds up to only 1.67 A at the output, at 16 MHz.
+P: Where you meet this: Every motherboard's ring of inductors around the processor socket, every GPU board's voltage regulator, every smart-power-stage data sheet, and every load-line setting in a processor's power specification.
+P: Book 7 sets the problem: a 700 W accelerator at 0.8 V draws 875 A. No single buck converter of Chapter 3 can deliver that; its inductor, switches, and output capacitor would be impossibly large and slow. The solution is to run many bucks in parallel, each a phase, with their switching instants staggered evenly through the period. This chapter explains how interleaving cancels ripple, how the phases share current, and how the regulator meets the processor's fast load steps with a deliberate load line. The package and power-delivery network beyond the regulator are Book 7's.
+H2: 18.1 Interleaving and ripple cancellation
+P: With N phases shifted by 1/N of a period, the inductor ripple currents partly cancel at the output capacitor, and the ripple appears at N times the switching frequency. The cancellation depends on the duty cycle: it is perfect when N × D is an integer, and partial otherwise. For a duty cycle D and m = floor(ND), the total ripple relative to one phase's ripple is K = N(D − m/N)((m + 1)/N − D)/(D(1 − D)). At the small duty cycles of a 12 V to 0.8 V converter, the cancellation from a few phases is modest; many phases are needed for both current and ripple.
+EQ: K(N, D) = N (D − m/N)((m + 1)/N − D) / [D(1 − D)],  m = floor(N D)
+FIG: fig18_1.png | Figure 18.1 — Ripple-cancellation factor K(N, D) against duty cycle for 1, 2, 4, 6, and 20 phases. Cancellation is perfect where N·D is a whole number. At D = 1/12, four phases give 0.727 and six give 0.545 (Worked Example 18.1); twenty phases at D = 0.0667 give 0.179 (Worked Example 18.2). | Line plot of total ripple relative to one phase against duty cycle from 0 to 0.6. The one-phase line is flat at 1. The two-phase curve is an arch falling to zero at 0.5. The four, six and twenty phase curves form rows of smaller arches touching zero at multiples of one quarter, one sixth and one twentieth. Points mark 0.727 and 0.545 at D equal to one twelfth and 0.179 at D equal to 0.067.
+H2: Worked Example 18.1
+P: Problem. Find the ripple-cancellation factor at D = 1/12 for one, four, and six phases, and for four phases at D = 0.25.
+P: Solution. One phase: K = 1. Four phases at D = 1/12: ND = 0.333, m = 0, and K = 4 × (1/12)(1/4 − 1/12)/((1/12)(11/12)) = 0.727. Six phases: K = 0.545. Four phases at D = 0.25: ND = 1, an integer, so K = 0, perfect cancellation. A 48 V intermediate bus or a lower input voltage raises D and improves cancellation, one of the trade-offs in choosing the bus.
+H2: 18.2 Current sharing
+P: Parallel phases must share the load current, or one phase overheats. Each phase senses its own current, from a resistor, the inductor's DC resistance, or the switch's on-resistance in an integrated power stage, and the controller trims each phase's duty cycle to equalize them. Smart power stages report current and temperature digitally to the controller, which can also shed phases at light load as Chapter 11 described. With 20 phases, the 875 A load is 43.8 A per phase, a comfortable rating for an integrated power stage.
+H2: Worked Example 18.2
+P: Problem. A 20-phase regulator converts 12 V to 0.8 V at 800 kHz with 100 nH per phase. Find each phase's ripple and the total ripple with interleaving.
+P: Solution. D = 0.8/12 = 0.0667. Each phase's ripple is (12 − 0.8) × 0.0667/(100 nH × 800 kHz) = 9.33 A. With N = 20, ND = 1.33 and m = 1, so K = 20 × (0.0667 − 0.05)(0.10 − 0.0667)/(0.0667 × 0.933) = 0.179, and the total ripple is 1.67 A at 16 MHz, small compared with the 875 A load and easy for the output capacitors to absorb.
+P: Key idea. A multiphase regulator divides a huge current among many small bucks and staggers them in time, canceling ripple and multiplying its frequency. Its transient response comes from the combined slew of all phases and from a deliberate load line.
+H2: 18.3 Transient response and slew
+P: A processor can step from idle to full load in a microsecond or less. Each phase's inductor current can rise no faster than (Vin − Vout)/L, so the combined slew of N phases is N(Vin − Vout)/L. Until the inductors catch up, the output capacitors and the package's capacitance supply the difference, which is why fast regulators use small inductances, many phases, and nonlinear control that turns all phases on at once on a large step instead of waiting for the loop of Chapter 10.
+EQ: (dI/dt)max = N (Vin − Vout) / L
+H2: Worked Example 18.3
+P: Problem. Find the maximum slew of the regulator in Example 18.2 and the time to ramp the inductor current by 700 A.
+P: Solution. Each phase slews at 11.2 V/100 nH = 112 A/µs; twenty phases give 2240 A/µs. A 700 A step takes 0.31 µs for the inductors to follow, during which the capacitors must hold the voltage.
+H2: 18.4 The load line
+P: Rather than holding the output exactly constant, processor regulators follow a load line, also called adaptive voltage positioning: the output voltage is set to fall slightly and linearly with load current, as though the regulator had a small output resistance RLL. At light load the voltage sits at the high end of its window, so a sudden load step dips into the window instead of below it; at heavy load the voltage sits low, which saves power, and the overshoot on load release has room. The processor vendor specifies RLL, often a few tenths of a milliohm or less.
+EQ: Vout = VID − RLL × Iload
+H2: 18.5 Coupled inductors
+P: A multiphase regulator faces a conflict in its inductors. A small inductance lets the phase currents slew quickly when the load steps, but gives large ripple in each phase and its switches; a large inductance gives small ripple but a slow response. Coupled inductors resolve it by winding two or more phases on a common core with inverse coupling. The ripple currents in the coupled windings partly cancel, so each phase sees the ripple of a larger effective inductance in steady state, while a load step, which moves all phases in the same direction, sees only the small leakage inductance. Designs with two- to four-phase coupling, and the trans-inductor voltage regulator, which couples every phase through a secondary winding to a small compensating inductor, allow the same transient response with fewer output capacitors, the most expensive and space-hungry part of a processor regulator.
+H2: 18.6 Phase shedding
+P: A regulator sized for a 1000 A peak spends much of its time at a fraction of that, and each active phase carries fixed losses: gate drive, switching loss at its ripple current, and inductor core loss. At light load the controller turns off phases one by one, phase shedding, so that the remaining phases run near their efficient current. The best controllers add phases back within a few hundred nanoseconds of a load step, warned by the processor's power-state signals over SVID or a similar interface. The efficiency curve of the whole regulator then stays flat over a range of load where a fixed phase count would sag.
+H2: Worked Example 18.4
+P: Problem. A processor needs 1000 A at its peak, and the chosen power stages are rated 70 A continuous. How many phases are needed, allowing 20 % derating for temperature and current imbalance?
+P: Solution. The derated rating is 0.8 × 70 = 56 A, so 1000/56 = 17.9: 18 phases. Controllers that drive up to 16 phases each then run in pairs, or one controller runs some phases at twice the current, which is why accelerator boards carry dozens of power stages around the package.
+H2: Worked Example 18.5
+P: Problem. A six-phase regulator delivers 20 A at 1.0 V. Each phase has 0.6 W of fixed loss and the conduction loss of the whole regulator is 20² × R_eff/N, with R_eff = 6 mΩ per phase. Compare the losses with six phases active and with one.
+P: Solution. With six phases: 6 × 0.6 = 3.6 W fixed plus 400 × 0.006/6 = 0.4 W conduction, 4.0 W, an efficiency of 83 %. With one phase: 0.6 W fixed plus 400 × 0.006 = 2.4 W conduction, 3.0 W, 87 %. One phase beats six at this load, but two phases, at 1.2 + 1.2 = 2.4 W and 89 %, beat both: the controller's job is to find the phase count that minimizes the loss at each current, shedding and adding phases around crossover points like these.
+FIG: fig18_2.png | Figure 18.2 — Loss of a six-phase, 1.0 V regulator against load current with 1 to 6 phases active, each phase costing 0.6 W fixed plus a shared conduction loss of I² × 6 mΩ/N (Worked Example 18.5). The best count changes at 14, 24, 35, 45, and 55 A; at 20 A two phases lose 2.4 W, less than one (3.0 W) or six (4.0 W). | Six parabolas of regulator loss against load current from 0 to 60 amperes, starting at 0.6, 1.2, 1.8, 2.4, 3.0 and 3.6 watts and rising more slowly for more phases. A thick gray lower envelope marks the best count. Dotted verticals mark the crossover currents, and a point marks 2.4 watts at 20 amperes with two phases.
+H2: 18.7 Sensing the current
+P: A multiphase controller must know every phase's current, for sharing, for the load line, for protection, and for the telemetry that a processor reads over PMBus or SVID. The oldest method, DCR sensing, places an RC network across the inductor whose time constant matches L/DCR; the capacitor's voltage then reproduces the inductor current times its winding resistance. It is lossless but inherits copper's temperature coefficient of about +0.39 % per kelvin, so it needs a thermistor to compensate. Modern smart power stages instead integrate the high-side and low-side switches with the driver and a current mirror in the low-side switch, reporting each phase's current as an analog signal accurate to a few percent across temperature. The controller sums them for the total and compares them for balance.
+H2: Worked Example 18.6
+P: Problem. A DCR current sense is calibrated at 25 °C. Without compensation, what is its error when the inductor reaches 65 °C?
+P: Solution. The copper resistance rises by a factor of 1 + 0.0039 × 40 = 1.16, about 16 %, and so does the reported current. A load line that uses the sensed current would droop 16 % too much, and an overcurrent limit would trip at about 86 % of its set current. A thermistor next to the inductor, in the sense network, cancels most of it.
+P: A multiphase regulator has dozens of switches, each driven by a gate driver. Chapter 19 looks at what it takes to switch a power transistor quickly, safely, and across an isolation barrier.
+BENCH: Check the current balance between phases with a thermal camera at full load: the inductor or power stage that runs hottest is carrying the most. When the output rings after a load step, check the load-line setting and the placement of the output capacitors before changing the compensation.
+H2: Practice
+P: 1. Find K for two phases at D = 0.3.
+P: 2. Find K for three phases at D = 1/12.
+P: 3. What is K for two phases at D = 0.5?
+P: 4. A regulator must allow 50 mV of droop for a 1000 A step. What load line does that imply?
+P: 5. Ten phases each slew at 100 A/µs. How long does a 500 A step take?
+P: 6. Why does the output ripple appear at N times the switching frequency?
+P: 7. At what load current does adding a second phase reduce loss, for the regulator of Worked Example 18.5?
+P: 8. Why does inverse coupling reduce ripple without slowing the transient response?
+P: 9. Find the resistance change of a copper winding heated from 25 °C to 100 °C.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Interleaving and the cancellation factor K(N, D).
+LI: Load line and adaptive voltage positioning.
+LI: Phase shedding at crossover currents.
+LI: Current sensing by DCR or power stage.
+P: Mostly for exams and deeper study
+LI: Coupled-inductor design equations.
+LI: Processor power-state protocols.

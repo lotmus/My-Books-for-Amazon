@@ -40,6 +40,8 @@ None of which stops dolphins from doing, now and then, the opposite as well: hel
 
 *Dolphin historians decline to fully explain this pattern of goodwill toward a species that also, on occasion, keeps us in tanks, beyond noting that consistency was never a precondition for decency.*
 
+Dolphin scholarship insists on the rest of the file, too, since this book has promised nowhere to flatter anyone. Wild bottlenose dolphins have been documented killing calves, their own species' young, in numbers too consistent across too many separate populations, Scotland, the western Atlantic, Spain's Galician coast, to be isolated accidents; researchers studying the pattern link it to the same reproductive competition that drives infanticide in several other mammals. Adult males also form multi-level alliances specifically to corner and control females' movements during mating season, a behavior marine biologists call herding rather than its plainer English name. None of this undoes the rescue stories already on this chapter's own record. It only means the dolphins asking to be believed about their own decency have, on the record, exactly the same mixed file every other species in this book gets.
+
 Here is the thesis the rest of the book keeps testing on the one species that did get the hands. A hand turns an idea into an object, and an object outlives the person who had the idea. The next generation does not start from nothing. It picks up the tool, improves it, and passes it on. Anthropologists call this cumulative culture and compare it to a ratchet: it turns one way and rarely slips back. A dolphin calf inherits its mother's skills. A human child inherits a civilization's tools. Capability, in this species, compounds.
 
 Wisdom does not compound the same way. It cannot be stored in a tool or inherited with one. Each generation has to learn it again, mostly from its own mistakes and sometimes from its parents' graves. A big brain guarantees cleverness. It does not guarantee wisdom. The two arrive on separate schedules, and the chapters that follow trace how far apart those schedules drifted.
@@ -51,9 +53,3 @@ They got, instead, the rest of this book's worth of time to watch the species th
 **Dolphin verdict:**
 
 *Intelligence without a hand to hold anything stays a private matter — an animal can be as clever as it likes and still leave no mark on the world beyond its own lifetime. Humans got the hand. Everything from the first chipped stone to the last chapter of this book is the record of what a clever species does once cleverness stops being private.*
-
-A short note before the book goes any further, one dolphin scholarship insists on adding itself.
-
-*Readers expecting the dolphins of a certain British science fiction series — secretly the most intelligent species on the planet, quietly aware of Earth's approaching demolition, departing by spacecraft with a dry farewell about fish — will be disappointed, or possibly relieved. These are ordinary Earth dolphins, arrived at the ordinary way, with no advance warning of anything and no spacecraft on order. What follows is biology's account, not science fiction's.*
-
-*That said, dolphin scholarship sees no reason to let a good line go to waste on a technicality. So: thanks for all the fish.*

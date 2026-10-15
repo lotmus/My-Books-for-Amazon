@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Rebuild the Kindle master docx from manuscript_text.txt.
+"""Rebuild the Book 1 REV16 candidate DOCX from its paired release-candidate source.
 
-manuscript_text.txt is written by sync_text_from_docx.py (see its docstring for the
-markup). Round trip checked 10 Oct 2026: text -> docx -> text is identical.
-The current master is copied to ..\\bak\\ (timestamped) before it is overwritten.
-Usage:  python rebuild_kindle.py            (rebuilds the master in place)
+manuscript_text_REV16_RELEASE_CANDIDATE.txt is the source (see the docstring at
+its top for the markup). REV16 remains a candidate; REV14 remains the release master.
+The candidate DOCX is copied to ..\\bak\\ (timestamped) before it is overwritten.
+Usage:  python rebuild_kindle.py            (rebuilds the REV16 candidate in place)
         python rebuild_kindle.py out.docx   (writes a test build elsewhere)
 """
 from __future__ import annotations
@@ -23,9 +23,9 @@ from docx.shared import Inches, Pt, RGBColor
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-SRC = HERE / "manuscript_text.txt"
+SRC = HERE / "manuscript_text_REV16_RELEASE_CANDIDATE.txt"
 FIG = HERE / "figures"
-OUT = ROOT / "FINAL_REV11_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
+OUT = ROOT / "FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
 NAVY = RGBColor(0x0C, 0x44, 0x7C)
 PIC_WIDTH = Inches(5.2)
 
@@ -51,7 +51,7 @@ def font(run, name="Georgia", size=11, bold=False, color=None, italic=False):
         run.font.color.rgb = color
 
 
-def link(p, text, target):
+def link(p, text, target, size=11):
     h = OxmlElement("w:hyperlink")
     if target.startswith("#"):
         h.set(qn("w:anchor"), target[1:])
@@ -61,7 +61,7 @@ def link(p, text, target):
     r = OxmlElement("w:r")
     rpr = OxmlElement("w:rPr")
     rf = OxmlElement("w:rFonts"); rf.set(qn("w:ascii"), "Georgia"); rf.set(qn("w:hAnsi"), "Georgia")
-    sz = OxmlElement("w:sz"); sz.set(qn("w:val"), "22")
+    sz = OxmlElement("w:sz"); sz.set(qn("w:val"), str(round(size * 2)))
     col = OxmlElement("w:color"); col.set(qn("w:val"), "0563C1")
     u = OxmlElement("w:u"); u.set(qn("w:val"), "single")
     rpr.extend([rf, sz, col, u]); r.append(rpr)
@@ -75,7 +75,7 @@ def inline(p, s, **kw):
         if m.start() > pos:
             font(p.add_run(unesc(s[pos:m.start()])), **kw)
         if m.group(1) is not None:
-            link(p, m.group(1), m.group(2))
+            link(p, m.group(1), m.group(2), size=kw.get("size", 11))
         else:
             font(p.add_run(unesc(m.group(3))), italic=True, **kw)
         pos = m.end()
@@ -127,7 +127,7 @@ def build(out: Path):
         pbb = line.startswith("!! ")
         if pbb:
             line = line[3:]
-        im = re.fullmatch(r"\[\[IMAGE (\S+) \| (.*)\]\]", line)
+        im = re.fullmatch(r"\[\[IMAGE (.+?) \| (.*)\]\]", line)
         head = dict(name="Amazon Ember", size=18, bold=True, color=NAVY)
         if im:
             p = picture(doc, im.group(1), im.group(2))
@@ -149,7 +149,12 @@ def build(out: Path):
         elif line.startswith("- ") and section.startswith("Also by"):
             p = doc.add_paragraph(); inline(p, line[2:]); fmt(p, 1, None, WD_ALIGN_PARAGRAPH.LEFT)
         elif line.startswith("- "):
-            p = doc.add_paragraph(); inline(p, line[2:]); fmt(p, 2)
+            p = doc.add_paragraph()
+            if section == "Table of Contents":
+                inline(p, line[2:], size=10)
+                fmt(p, 0)
+            else:
+                inline(p, line[2:]); fmt(p, 2)
         else:
             short_quote = section_course and len(line) <= 90 and line[:1] in "\u201c\u2018\"'"
             p = doc.add_paragraph(); inline(p, line); fmt(p, 2 if short_quote else 8)

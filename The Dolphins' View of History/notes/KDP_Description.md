@@ -1,11 +1,15 @@
 # KDP listing — *The Dolphins' View of History*
 
 **Title:** The Dolphins' View of History
-**Subtitle:** A Non-Human, Non-Building Species Delivers Its Verdicts
+**Subtitle:** Fifty Million Years of Watching You Mess This Up
 **Author:** Lothar J. Musiol
 **Byline in the book:** Lothar J. Musiol, “as told by Professor Click-Click-Whoosh, Cetacean Academy of Oceanic Studies.” The professor is a narrator persona, not a contributor; do not add him in the KDP contributor fields.
 **Series:** none (standalone; leave the KDP series field blank)
 **Front and back matter:** copyright page after the title page; “Also by Lothar J. Musiol” at the end, using the canonical list in `notes/ALSO_BY - canonical list.md` at the repo root (rebuilt 10 October 2026), without this book.
+
+**Subtitle change, 12 October 2026:** was "A Non-Human, Non-Building Species Delivers Its Verdicts," a clinical description of the premise rather than a promise of the voice. Changed after an outside read specifically flagged this — a cover's whole job is to promise the joke, and the old line read like an abstract, not a punchline. The subtitle doesn't appear anywhere in the book itself (checked: it's KDP-listing metadata only), so this was a zero-risk, reversible text change. Trade-off worth flagging: the new subtitle drops the word "History" that the old one also lacked but that the title itself still carries, so the BISAC categories and keywords below are doing all the search-term work for that; worth revisiting if KDP search performance suggests the listing needs it restated.
+
+**Packaging fixes, 12 October 2026 (later):** a second outside read caught that the back cover (`scripts/make_back_cover.py`) still had zero reference to the new subtitle — the front cover had just been redesigned specifically to promise the joke harder, and the back cover was undercutting that by leading with the same quiet Prologue-tone opening with no punchline anywhere. Added the subtitle as a small gold callout under the title, matching the cover's existing style; regenerated and confirmed it fits cleanly above the author block with no overlap. Also added a third BISAC category, Nature / Animals / Marine Mammals, alongside the existing two — the listing previously only reached readers already searching for funny/history, missing anyone browsing from the nature/animal-nonfiction side, which this cover's whole dolphin conceit is positioned to catch.
 
 ## Product description
 
@@ -25,6 +29,7 @@ A dry, funny, and unexpectedly fair history of us, told by the neighbors.
 
 History / World
 Humor / Topic / History
+Nature / Animals / Marine Mammals
 
 ## Keywords
 

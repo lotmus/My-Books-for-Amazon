@@ -1,0 +1,50 @@
+PART: Part I. Packages, Boards, Power, and Heat
+H1: Chapter 1. Bandwidth per Watt: The 2026 Compute Picture
+P: In a memory-bound inference workload, a 2026 AI accelerator can spend much of each token step waiting for weights and cached context to arrive. Its arithmetic units may be rated at two quadrillion operations per second, while the memory system delivers data at a much lower rate. For these workloads, the chip behaves less like a calculator than a queue waiting for data.
+P: Where you meet this: Every AI accelerator and GPU data sheet's two headline numbers, peak operations and memory bandwidth; every HBM product announcement; and every argument about why a model runs slower than its FLOPS promise.
+P: Every chip in the earlier books ends up in a package on a board, and no system shows more clearly why that step has become a first-rank engineering problem than the AI accelerator of 2026. Its performance is limited less by how fast it computes than by how fast memory can feed it, and how much current and heat its package can carry. A modern accelerator is a memory system with compute attached.
+H2: 1.1 Memory bandwidth
+P: An accelerator's arithmetic units can perform thousands of operations for every byte they read, but many AI workloads, particularly the inference of large language models, read the model's weights and cached context for each token generated. Their speed is then set by memory bandwidth, not arithmetic. A memory interface's bandwidth is its width in bits times its per-pin data rate, divided by eight for bytes. A conventional DDR5 channel is 64 bits wide; a high-bandwidth memory stack, HBM, is a tower of DRAM dies joined by through-silicon vias and placed beside the processor on the same package, with an interface 1024 or, in HBM4, 2048 bits wide. That width is possible only because the connections are microscopic and millimeters long, which is a packaging achievement, Chapter 2's subject.
+EQ: Bandwidth (bytes/s) = width (bits) × per-pin rate (bit/s) / 8
+H2: Worked Example 1.1
+P: Problem. Find the bandwidth of one DDR5-6400 channel and of an HBM4 stack running 11 Gbit/s per pin over 2048 bits. Find their ratio, and the total for eight HBM4 stacks.
+P: Solution. DDR5-6400 transfers 6400 million times per second over 64 bits: 6.4 × 10⁹ × 64/8 = 51.2 GB/s. The HBM4 stack gives 2048 × 11 × 10⁹/8 = 2.82 × 10¹² B/s, about 2.8 TB/s, the figure Micron announced for its 12-high HBM4 in volume production in 2026. The ratio is 2.8 TB/s ÷ 51.2 GB/s = 55. Eight stacks give 22.4 TB/s. The JEDEC HBM4 baseline is 8 Gbit/s per pin, 2.0 TB/s; vendors run faster.
+H2: 1.2 Energy per bit
+P: Moving a bit costs energy, mostly in charging the capacitance of the wires and the input-output circuits at each end, and that energy grows with distance. Very roughly, a bit moved across a die costs a fraction of a picojoule, a bit moved to a memory stack on the same package costs a few picojoules, and a bit moved across a circuit board to a socketed memory module costs several times more. These are order-of-magnitude figures that vary with process and design; the arithmetic matters more than the exact values.
+EQ: P = bit rate × energy per bit
+H2: Worked Example 1.2
+P: Problem. At a declared 2 pJ/bit, what power does a 2.8 TB/s HBM interface consume? At a declared 15 pJ/bit for a board-level link, what would the same bandwidth cost?
+P: Solution. 2.8 TB/s is 22.4 Tbit/s, so at 2 pJ/bit the power is 22.4 × 10¹² × 2 × 10⁻¹² = 44.8 W. At 15 pJ/bit it would be 336 W for a single stack's worth of bandwidth, impossible to supply and cool beside a processor. The memory had to move onto the package because the bandwidth could not be afforded any other way.
+P: Key idea. A modern accelerator is a memory system with compute attached. Its bandwidth is bought with width, its width with packaging, and its energy per bit with short distances.
+H2: 1.3 Current
+P: The other limit is current. A 700 W processor core running from a 0.8 V rail draws 700/0.8 = 875 A. A thousand watts at 0.7 V would be 1429 A. That current must pass through the board, the socket or solder joints, the package substrate, and thousands of bumps into the die, with a total voltage drop of only tens of millivolts, and it must do so while the load changes by hundreds of amperes in microseconds. Book 6 designs the converters that produce the current; Chapter 3 of this book carries it to the die. The scarce inputs of the 2026 AI build-out, as the industry's own planning makes clear, are electric power, HBM, advanced packaging capacity, and optical interconnect, and two of them, memory packaging and advanced packaging capacity, are this book's subject.
+H2: 1.4 The roofline: when bandwidth, not arithmetic, sets the speed
+P: A processor can be limited by compute or by memory bandwidth. The roofline model compares the two. Divide the peak arithmetic rate by memory bandwidth to get the ridge point in operations per byte. Above the ridge, a workload is compute-bound. Below it, memory bandwidth sets performance: achievable operation rate is bandwidth multiplied by arithmetic intensity, even if some arithmetic units sit idle.
+P: Consider a 2026 accelerator with about 2e15 low-precision operations per second and 8 TB/s of HBM. Its ridge point is 250 operations per byte. Large-batch training can reuse weights enough to sit above the ridge.
+P: Single-user text generation often sits below it. The model reads weights and cached context for each generated token, with about two operations per weight read. HBM bandwidth and the package that delivers it then constrain inference speed; Chapter 17 covers the memory interface.
+EQ: attainable rate = min(peak rate, bandwidth × arithmetic intensity)
+FIG: fig1_1.png | Figure 1.1 — Roofline of an accelerator with 2 × 10¹⁵ operations per second and 8 TB/s of HBM. Below the ridge at 250 operations per byte the chip is bandwidth-bound; batch-1 text generation, at about 2 operations per byte, reaches 1.6 × 10¹³ operations per second, under 1 % of peak, or 114 tokens per second for a 140 GB model. | Log-log plot of attainable operations per second against operations per byte. A rising line of slope one meets a flat roof at 2 times ten to the fifteen at 250 operations per byte. A red square on the rising line at 2 operations per byte is labeled batch-1 text generation, under 1 percent of peak.
+H2: Worked Example 1.3
+P: Problem. A model has 70 × 10⁹ parameters stored in 8-bit form, and generation at batch size 1 reads all of them for each token. Find the token rate on an accelerator with 8 TB/s of memory bandwidth, and the fraction of its 2 × 10¹⁵ operations per second that it uses.
+P: Solution. Each token reads 70 GB, so the rate is 8 × 10¹²/70 × 10⁹ = 114 tokens per second. Each token costs about 2 operations per parameter, 1.4 × 10¹¹ operations, so the accelerator performs 1.6 × 10¹³ operations per second, under 1 % of its peak. Batching many users together reuses each weight fetch and moves the workload toward the ridge, which is how servers make the arithmetic pay.
+H2: 1.5 What the rest of the book does
+P: Chapter 2 sets out the vocabulary of packaging and the advanced packages of 2026. Chapter 3 delivers current to the die, Chapter 4 chooses board materials, Chapter 5 lays out the copper, Chapter 6 removes the heat, and Chapter 7 surveys MEMS. Chapters 8 to 16 then go deeper: yield and chiplets, the package as a circuit, package reliability, the decoupling network, the stack-up, crosstalk, loss and equalization, optical interconnect, and inertial sensors. Chapters 17 to 20 open the HBM stack, put the antenna into the package, design for manufacture and test, and measure the interconnect with TDR and VNA. Chapter 29 places the robot, the system that combines nearly every book in the series, into the picture.
+P: Bandwidth per watt, energy per bit, and current are the three numbers this book follows. The package that connects the processor to its memory comes first, in Chapter 2.
+BENCH: Before you believe a speed claim, divide the peak operations by the memory bandwidth to get the ridge point, then estimate how many operations your workload does per byte it fetches. If your number is far left of the ridge, a faster compute die buys nothing; only more bandwidth or a larger batch helps. Convert every interface figure to watts with the energy per bit.
+H2: Practice
+P: 1. Find the aggregate bandwidth of four HBM stacks at 2.8 TB/s, and of four DDR5-6400 channels.
+P: 2. A 1000 W processor runs at 0.7 V. Find its current.
+P: 3. Find the bandwidth of an HBM3E stack with a 1024-bit interface at 9.6 Gbit/s per pin.
+P: 4. At 2 pJ/bit, what power does an 8 TB/s memory system use?
+P: 5. How many DDR5-6400 channels would match one 2.8 TB/s stack?
+P: 6. Why can HBM use a much wider interface than a DIMM?
+P: 7. Find the ridge point of a processor with 400 × 10¹² operations per second and 3.2 TB/s of bandwidth.
+P: 8. How many tokens per second can 16 TB/s of bandwidth deliver for a 140 GB model at batch size 1?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Bandwidth = width × rate/8, and power = bit rate × energy per bit.
+LI: I = P/V for the supply current.
+LI: The roofline: attainable rate = min(peak, bandwidth × intensity).
+P: Mostly for exams and deeper study
+LI: Detailed cache and memory-hierarchy models.
+LI: Vendor-specific accelerator architectures.

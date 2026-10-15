@@ -1,0 +1,75 @@
+EQ: RF, Microwave, and Transceivers
+EQ: Book 4 of the Electrical Engineering Series
+EQ: Lothar J. Musiol
+EQ: Copyright © 2026 Lothar J. Musiol. All rights reserved. Kindle edition.
+EQ: Lines, Matching, Filters, Antennas, Power Amplifiers, Receivers, and Synthesizers, from 1 GHz to Millimeter Wave
+H1: How to Use This Book
+P: Books 1 to 3 built circuits on the assumption that a wire has no length. This book drops that assumption and follows a radio from the copper to the air. Part I, Chapters 1 to 19, is the passive structure: the transmission line and reflection, lumped and distributed matching and the Smith chart, scattering parameters, resonators, filters and waveguide, the antenna and the array, couplers and dividers, microstrip and stripline, broadband matching, cavities, small antennas and horns, propagation, ferrites and circulators, antenna measurement, noise in passive networks, a filter carried from specification to layout, and RF switches.
+P: Part II, Chapters 20 to 41, follows the active radio from transmitter to antenna and through the receiver, oscillator, and radar. It covers the load line, amplifier classes, Doherty amplification, heat and power combining, receiver noise and dynamic range, the oscillator and PLL, and radar.
+P: Chapters 28 to 40 deepen this chain: the low-noise amplifier, mixers and frequency planning, the link budget, bias and ruggedness, vacuum tubes, RF exposure, transceiver isolation, class E and F design, envelope tracking and outphasing, amplifier measurement, digital predistortion, frequency synthesis, and power detection and control. Chapter 41 compares amplifier classes A through S, Doherty, and outphasing, then explains how an envelope-tracking supply can raise average efficiency by boosting its rail on signal peaks.
+P: Part III, Chapters 42 to 47, moves from amplifier principles to device technologies and design. Chapter 42 treats CMOS power amplifiers and breakdown limits; Chapter 43 is a class-by-class design cookbook. Chapter 44 develops a GaAs handset amplifier and pHEMT; Chapter 45 designs GaN broadband, Doherty, and space amplifiers. Chapter 46 designs RF SOI switches and surveys SiGe, InP, and emerging materials for millimeter and submillimeter waves. Chapter 47 designs with acoustic and micromechanical filters used in smartphone front ends.
+P: Part IV, Chapters 48 to 52, starts with measured data and ends at the bench. It covers Touchstone files and noise parameters, FMCW radar front ends, microwave photonics and optical phased arrays, buildable receivers, and antennas for satellites, GPS, LoRa, and the wider radio spectrum.
+P: Each chapter states the question it answers, develops the picture in words, and then works it through with declared numbers. Every number in a worked example was computed, not estimated, and every practice problem is worked in full in Appendix B, with the idea, the numbers, and a check. The book uses one set of reference values throughout: the speed of light is 2.998 × 10⁸ m/s, the system reference impedance is 50 Ω, and the reference board has εr = 3.55. The link-budget anchor is the Friis path factor at 2.45 GHz over 100 m between isotropic antennas, 9.48 × 10⁻⁹, or −80.2 dB, and the load-line anchors for 100 W are Ropt = 10.13 Ω at 50 V with a 5 V knee and 3.13 Ω at 28 V with a 3 V knee.
+P: The series gives each subject one home. Device physics, including why gallium nitride withstands high voltage, is Book 3's. The waveform, OFDM, and the band plan are Book 5's. Power conversion, including pulse modulators for tube transmitters, is Book 6's. Laminate properties at 10 GHz, packages, emission limits, test chambers, and certification are Book 7's. Readers who want the next level of depth should turn to the texts in Appendix C; this book's explanations, examples, and problems are its own.
+H1: Contents
+P: Part I. Passive Structures: Lines, Matching, Filters, and Antennas
+P: Chapter 1. When a Wire Stops Being a Wire
+P: Chapter 2. Transmission Lines and Reflection
+P: Chapter 3. Lumped Matching: The L-Network and Its Q
+P: Chapter 4. Distributed Matching and the Smith Chart at Work
+P: Chapter 5. Scattering Parameters
+P: Chapter 6. Resonators, Filters, and Waveguide
+P: Chapter 7. The Antenna
+P: Chapter 8. Arrays, Beam Steering, and Millimeter Wave
+P: Chapter 9. Couplers, Dividers, and Hybrids
+P: Chapter 10. Microstrip and Stripline by Design
+P: Chapter 11. Broadband Matching and the Bode-Fano Limit
+P: Chapter 12. Cavities and Dielectric Resonators
+P: Chapter 13. Small Antennas, Monopoles, Loops, and Horns
+P: Chapter 14. Propagation Beyond Free Space
+P: Chapter 15. Ferrites, Circulators, and Isolators
+P: Chapter 16. Measuring Antennas: Ranges and Gain
+P: Chapter 17. Noise in Passive Networks
+P: Chapter 18. A Bandpass Filter from Specification to Layout
+P: Chapter 19. RF Switches
+P: Part II. Active Circuits: Amplifiers, Receivers, Oscillators, and Synthesizers
+P: Chapter 20. The Transmitter Chain and Its Devices
+P: Chapter 21. The Load Line
+P: Chapter 22. Amplifier Classes and Efficiency
+P: Chapter 23. Linearity, Back-Off, and the Doherty Amplifier
+P: Chapter 24. Heat, Combining, and the Path to the Antenna
+P: Chapter 25. Receiver Noise and Dynamic Range
+P: Chapter 26. Oscillators, Phase Noise, and the PLL
+P: Chapter 27. Radar
+P: Chapter 28. The Low-Noise Amplifier
+P: Chapter 29. Mixers and Frequency Planning
+P: Chapter 30. The Link Budget
+P: Chapter 31. Bias, Ruggedness, and Protection
+P: Chapter 32. Vacuum Tubes: Klystrons, TWTs, and Magnetrons
+P: Chapter 33. RF Exposure and Safety
+P: Chapter 34. Transceiver Architectures and Isolation
+P: Chapter 35. Designing Class E and Class F Amplifiers
+P: Chapter 36. Envelope Tracking, Polar, and Outphasing
+P: Chapter 37. Measuring a Power Amplifier
+P: Chapter 38. Digital Predistortion
+P: Chapter 39. Frequency Synthesis: Fractional-N and DDS
+P: Chapter 40. Power Detection and Power Control
+P: Chapter 41. Power Amplifier Classes Side by Side, and Boosting the Supply on Peaks
+P: Part III. Device Technologies and Power-Amplifier Design
+P: Chapter 42. CMOS Power Amplifiers: Beating the Breakdown Limit
+P: Chapter 43. A Design Cookbook, Class by Class
+P: Chapter 44. Gallium Arsenide: The Handset Amplifier and the pHEMT
+P: Chapter 45. Gallium Nitride: Broadband, Doherty, and Space Amplifiers
+P: Chapter 46. RF SOI, SiGe, InP, and the Materials Still in the Lab
+P: Chapter 47. Acoustic and Micro-Mechanical Filters: SAW, BAW, XBAR, and the Smartphone Front End
+P: Part IV. Measured Data, Sensing, Light, and the Bench Radio
+P: Chapter 48. Touchstone Files and Noise Parameters: Designing from Measured Data
+P: Chapter 49. FMCW Radar Front Ends at 24, 60, and 77 GHz
+P: Chapter 50. Microwave Photonics: Radio over Light and Optical Phased Arrays
+P: Chapter 51. Receivers and Transmitters You Can Build
+P: Chapter 52. Antennas and the Sky: LoRa, GPS, Satellites, and the Hydrogen Line
+P: Appendix A. Constants and Formulas Used in This Book
+P: Appendix B. Answers to the Practice Problems
+P: Appendix C. Sources
+P: About the Author
+P: Also by Lothar J. Musiol

@@ -1,3 +1,7 @@
+## 12 October 2026 reader-clarity pass
+
+- **How to Read This Book:** revised the promise so it accurately distinguishes the explained morning-sheet mechanism from the unexplained platform and the unresolved Sunday slip and voice. No case clues or story events changed.
+
 # Book Two REV02 change log (2026-10-09)
 
 Base: `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV01.docx` (REV01 = the DRAFT master plus the REV01 fixes). DRAFT and REV01 are unchanged. Backup of the whole Book 2 folder before this pass: `D:\bak\2026-10-09 RIB2 integrate\` (19 files, SHA-256 verified).
@@ -177,3 +181,26 @@ Edited by `scripts/deepcut_2026-10-11.py` on top of the tightening pass: 22 phra
 - **Clues and physics kept:** Herbert's freehand order (sheet to door to voice to reading to refusal; sheet to train and nothing back; Sunday POSSIBLE. NOT SHOWN; the empty circle), "you cannot get a sender out of an order, only out of a mechanism", Seventeen as a duration, the hurry and Barbarian's letter, the voice's register, and "what reaches you is in your past".
 - **Checks:** 0 Word tables, no visible URLs, 76 internal links (one new), review line before About the Author, Also-by unchanged, 0.16 MB.
 - **Strict rescore:** prose 9.0, plot and clue fairness 8.9, characters 8.9, humour 8.9, pacing 9.0, facts 9.4, formatting/KDP 9.3, covers 9.0. Overall 9.0 (9.05).
+
+
+## 14 Oct 2026 critical follow-up
+
+A critical follow-up to the 11 Oct full read-through checked the active REV05 chronology, science framing, course boundaries, and covers. The epilogue now opens, “At half past six on Tuesday…”, anchoring the Tuesday evening case close before the Wednesday school pickup. The Markdown source and paired DOCX were updated together. No story clues, physics, or relationship outcomes changed.
+
+**Scores (10-point scale):** humour 9.2; satire and stakes 9.0; science accuracy and fact/fiction boundary 9.4; section boundaries 9.5; dialogue 9.2; description 9.0; plot, pacing, and clue fairness 8.9/9.0/8.9; character arcs 9.1; prose and sentence craft 9.0; clarity and completeness 9.2; uniqueness 9.6; suspense, wonder, and payoff 9.1; continuity 9.4; covers 9.0. Overall reader score 9.1; recommendation 9.1; sellability 5.5.
+
+The remaining score gap is concentrated in dense science dialogue for casual SF readers and a few mysteries deliberately left open for the series. Interior illustrations are not needed for this text-led novel; the front cover is distinctive and legible, and the text-only back cover is clear. The revision remains draft pending visual DOCX/Kindle proof.
+## 15 October 2026 — First-time-reader on-ramp
+
+- Added a non-spoiler orientation before the existing reading/science note. It establishes that either book can be read first, introduces the returning cast, distinguishes the continuing LOCALHOST question from Book 2's warning, and names the unresolved threads without giving away Book 1's answer.
+- Removed Book 1's central-answer spoiler from Book 2's opening recap. The updated contents entry links to the new reader note.
+- Replaced the redundant “this case stands alone” sentence in “How to Read This Book” with a direct note that no physics background is needed and the six-lesson course is optional.
+- Updated the KDP description to accurately promise the orientation and a self-contained case.
+- The Book 2 REV05 Markdown and paired DOCX were updated together. The REV04 release master was not changed.
+
+## 15 Oct 2026 — Critical first-entry and cover-copy pass
+
+- Removed the Book 1 answer spoiler from the back-cover hook: the new copy says Derek is closing “the Bureau’s previous case.” Rebuilt and visually checked the back cover from `scripts/make_covers.py`; its reader guidance now says no prior case or physics background is needed. Left the front cover unchanged.
+- Brought the KDP description into alignment with the cover and the any-order series rule. It now says plainly that the complete case can be read before or after Book 1, no physics background is needed, and the lessons are optional. Replaced the misleading “sequel” search phrase with “standalone.”
+- Rechecked the new-reader orientation against the opening and middle-case references: the current warning and investigation remain distinct from the unresolved LOCALHOST thread; no prior answer is needed to understand the case. The case resolves its central question; the railway, Sunday slip and late voice remain openly marked as series mysteries.
+- Updated the marketing assessment after the on-ramp change. Ease of entry and sellability improve; neither readership data nor visual Kindle/Word proof is available to justify a 10. Revision remains a draft pending those checks.

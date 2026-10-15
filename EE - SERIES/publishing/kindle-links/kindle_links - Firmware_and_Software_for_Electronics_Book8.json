@@ -1,0 +1,503 @@
+{
+ "note": "EE Book 8 link rules (11 Oct 2026): Appendix C documentation -> official pages, books -> Open Library search, Also-by -> Amazon Kindle search; keyword links, hidden URLs.",
+ "rules": [
+  {
+   "find": "ESP-IDF Programming Guide",
+   "to": "[ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/)",
+   "in": "Espressif Systems, ESP-IDF Programming Guide for the ESP32-S",
+   "max": 1
+  },
+  {
+   "find": "ESP32-S3 product page",
+   "to": "[ESP32-S3 product page](https://www.espressif.com/en/products/socs/esp32-s3)",
+   "in": "Espressif Systems, ESP-IDF Programming Guide for the ESP32-S",
+   "max": 1
+  },
+  {
+   "find": "Arduino core for ESP32 documentation",
+   "to": "[Arduino core for ESP32 documentation](https://docs.espressif.com/projects/arduino-esp32/en/latest/)",
+   "in": "Espressif Systems, Arduino core for ESP32 documentation, and",
+   "max": 1
+  },
+  {
+   "find": "PlatformIO documentation",
+   "to": "[PlatformIO documentation](https://docs.platformio.org/)",
+   "in": "Espressif Systems, Arduino core for ESP32 documentation, and",
+   "max": 1
+  },
+  {
+   "find": "Pico SDK and RP2040 documentation",
+   "to": "[Pico SDK and RP2040 documentation](https://www.raspberrypi.com/documentation/microcontrollers/)",
+   "in": "Raspberry Pi Ltd, Pico SDK and RP2040 documentation, the Ras",
+   "max": 1
+  },
+  {
+   "find": "Raspberry Pi 5 documentation",
+   "to": "[Raspberry Pi 5 documentation](https://www.raspberrypi.com/documentation/computers/raspberry-pi.html)",
+   "in": "Raspberry Pi Ltd, Pico SDK and RP2040 documentation, the Ras",
+   "max": 1
+  },
+  {
+   "find": "AI HAT+ documentation",
+   "to": "[AI HAT+ documentation](https://www.raspberrypi.com/documentation/accessories/ai-hat-plus.html)",
+   "in": "Raspberry Pi Ltd, Pico SDK and RP2040 documentation, the Ras",
+   "max": 1
+  },
+  {
+   "find": "Picamera2 manual",
+   "to": "[Picamera2 manual](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf)",
+   "in": "Raspberry Pi Ltd, Pico SDK and RP2040 documentation, the Ras",
+   "max": 1
+  },
+  {
+   "find": "STM32F411 product page",
+   "to": "[STM32F411 product page](https://www.st.com/en/microcontrollers-microprocessors/stm32f411.html)",
+   "in": "STMicroelectronics, STM32F411 product page and reference man",
+   "max": 1
+  },
+  {
+   "find": "BME280 datasheet",
+   "to": "[BME280 datasheet](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)",
+   "in": "Bosch Sensortec, BME280 datasheet, for the register map, com",
+   "max": 1
+  },
+  {
+   "find": "ICM-42688-P",
+   "to": "[ICM-42688-P](https://invensense.tdk.com/products/motion-tracking/6-axis/icm-42688-p/)",
+   "in": "TDK InvenSense, ICM-42688-P and MPU-6050 product pages and r",
+   "max": 1
+  },
+  {
+   "find": "MPU-6050",
+   "to": "[MPU-6050](https://invensense.tdk.com/products/motion-tracking/6-axis/mpu-6050/)",
+   "in": "TDK InvenSense, ICM-42688-P and MPU-6050 product pages and r",
+   "max": 1
+  },
+  {
+   "find": "VL53L1X product page",
+   "to": "[VL53L1X product page](https://www.st.com/en/imaging-and-photonics-solutions/vl53l1x.html)",
+   "in": "STMicroelectronics, VL53L1X product page and datasheet, with",
+   "max": 1
+  },
+  {
+   "find": "Pololu VL53L1X Arduino library",
+   "to": "[Pololu VL53L1X Arduino library](https://github.com/pololu/vl53l1x-arduino)",
+   "in": "STMicroelectronics, VL53L1X product page and datasheet, with",
+   "max": 1
+  },
+  {
+   "find": "SX1276 product page",
+   "to": "[SX1276 product page](https://www.semtech.com/products/wireless-rf/lora-connect/sx1276)",
+   "in": "Semtech, SX1276 product page and datasheet, with the RadioLi",
+   "max": 1
+  },
+  {
+   "find": "RadioLib",
+   "to": "[RadioLib](https://github.com/jgromes/RadioLib)",
+   "in": "Semtech, SX1276 product page and datasheet, with the RadioLi",
+   "max": 1
+  },
+  {
+   "find": "duty-cycle and fair-use documentation",
+   "to": "[duty-cycle and fair-use documentation](https://www.thethingsnetwork.org/docs/lorawan/duty-cycle/)",
+   "in": "Semtech, SX1276 product page and datasheet, with the RadioLi",
+   "max": 1
+  },
+  {
+   "find": "MQTT Version 5.0 specification",
+   "to": "[MQTT Version 5.0 specification](https://docs.oasis-open.org/mqtt/mqtt/v5.0/mqtt-v5.0.html)",
+   "in": "OASIS, MQTT Version 5.0 specification, for topics, quality o",
+   "max": 1
+  },
+  {
+   "find": "Bluetooth SIG specifications",
+   "to": "[Bluetooth SIG specifications](https://www.bluetooth.com/specifications/specs/)",
+   "in": "Bluetooth SIG specifications, including the Environmental Se",
+   "max": 1
+  },
+  {
+   "find": "NMEA 0183",
+   "to": "[NMEA 0183](https://www.nmea.org/nmea-0183.html)",
+   "in": "Bluetooth SIG specifications, including the Environmental Se",
+   "max": 1
+  },
+  {
+   "find": "Regulation (EU) 2024/2847",
+   "to": "[Regulation (EU) 2024/2847](https://eur-lex.europa.eu/eli/reg/2024/2847/oj)",
+   "in": "Regulation (EU) 2024/2847, the Cyber Resilience Act, on EUR-",
+   "max": 1
+  },
+  {
+   "find": "esp32-camera",
+   "to": "[esp32-camera](https://github.com/espressif/esp32-camera)",
+   "in": "Espressif esp32-camera and ESP-DL repositories, and LiteRT f",
+   "max": 1
+  },
+  {
+   "find": "ESP-DL",
+   "to": "[ESP-DL](https://github.com/espressif/esp-dl)",
+   "in": "Espressif esp32-camera and ESP-DL repositories, and LiteRT f",
+   "max": 1
+  },
+  {
+   "find": "LiteRT for Microcontrollers",
+   "to": "[LiteRT for Microcontrollers](https://ai.google.dev/edge/litert/microcontrollers/overview)",
+   "in": "Espressif esp32-camera and ESP-DL repositories, and LiteRT f",
+   "max": 1
+  },
+  {
+   "find": "Event-based Vision: A Survey",
+   "to": "[Event-based Vision: A Survey](https://openlibrary.org/search?q=Event-based+Vision%3A+A+Survey+Gallego)",
+   "in": "Espressif esp32-camera and ESP-DL repositories, and LiteRT f",
+   "max": 1
+  },
+  {
+   "find": "MicroPython",
+   "to": "[MicroPython](https://docs.micropython.org/)",
+   "in": "MicroPython and CircuitPython documentation, PyVISA, pySeria",
+   "max": 1
+  },
+  {
+   "find": "CircuitPython",
+   "to": "[CircuitPython](https://docs.circuitpython.org/)",
+   "in": "MicroPython and CircuitPython documentation, PyVISA, pySeria",
+   "max": 1
+  },
+  {
+   "find": "PyVISA",
+   "to": "[PyVISA](https://pyvisa.readthedocs.io/)",
+   "in": "MicroPython and CircuitPython documentation, PyVISA, pySeria",
+   "max": 1
+  },
+  {
+   "find": "pySerial",
+   "to": "[pySerial](https://pyserial.readthedocs.io/)",
+   "in": "MicroPython and CircuitPython documentation, PyVISA, pySeria",
+   "max": 1
+  },
+  {
+   "find": "pytest documentation",
+   "to": "[pytest documentation](https://docs.pytest.org/)",
+   "in": "MicroPython and CircuitPython documentation, PyVISA, pySeria",
+   "max": 1
+  },
+  {
+   "find": "System.IO.Ports",
+   "to": "[System.IO.Ports](https://learn.microsoft.com/dotnet/api/system.io.ports.serialport)",
+   "in": "Microsoft .NET documentation for System.IO.Ports, the .NET n",
+   "max": 1
+  },
+  {
+   "find": ".NET nanoFramework documentation",
+   "to": "[.NET nanoFramework documentation](https://docs.nanoframework.net/)",
+   "in": "Microsoft .NET documentation for System.IO.Ports, the .NET n",
+   "max": 1
+  },
+  {
+   "find": "Wilderness Labs Meadow documentation",
+   "to": "[Wilderness Labs Meadow documentation](https://developer.wildernesslabs.co/)",
+   "in": "Microsoft .NET documentation for System.IO.Ports, the .NET n",
+   "max": 1
+  },
+  {
+   "find": "xUnit.net",
+   "to": "[xUnit.net](https://xunit.net/)",
+   "in": "Microsoft .NET documentation for System.IO.Ports, the .NET n",
+   "max": 1
+  },
+  {
+   "find": "FreeRTOS documentation",
+   "to": "[FreeRTOS documentation](https://www.freertos.org/)",
+   "in": "FreeRTOS documentation and Richard Barry, Mastering the Free",
+   "max": 1
+  },
+  {
+   "find": "Mastering the FreeRTOS Real Time Kernel",
+   "to": "[Mastering the FreeRTOS Real Time Kernel](https://www.freertos.org/)",
+   "in": "FreeRTOS documentation and Richard Barry, Mastering the Free",
+   "max": 1
+  },
+  {
+   "find": "Making Embedded Systems",
+   "to": "[Making Embedded Systems](https://openlibrary.org/search?q=Making+Embedded+Systems+Elecia+White)",
+   "in": "Elecia White, Making Embedded Systems, 2nd edition, and Jack",
+   "max": 1
+  },
+  {
+   "find": "The Art of Designing Embedded Systems",
+   "to": "[The Art of Designing Embedded Systems](https://openlibrary.org/search?q=The+Art+of+Designing+Embedded+Systems+Ganssle)",
+   "in": "Elecia White, Making Embedded Systems, 2nd edition, and Jack",
+   "max": 1
+  },
+  {
+   "find": "Test-Driven Development for Embedded C",
+   "to": "[Test-Driven Development for Embedded C](https://openlibrary.org/search?q=Test-Driven+Development+for+Embedded+C+Grenning)",
+   "in": "James W. Grenning, Test-Driven Development for Embedded C, f",
+   "max": 1
+  },
+  {
+   "find": "Pro Git",
+   "to": "[Pro Git](https://git-scm.com/book/en/v2)",
+   "in": "James W. Grenning, Test-Driven Development for Embedded C, f",
+   "max": 1
+  },
+  {
+   "find": "GitHub Actions documentation",
+   "to": "[GitHub Actions documentation](https://docs.github.com/actions)",
+   "in": "James W. Grenning, Test-Driven Development for Embedded C, f",
+   "max": 1
+  },
+  {
+   "find": "MISRA C:2023",
+   "to": "[MISRA C:2023](https://misra.org.uk/)",
+   "in": "MISRA C:2023 from the MISRA consortium, and Michael Barr, Em",
+   "max": 1
+  },
+  {
+   "find": "Embedded C Coding Standard",
+   "to": "[Embedded C Coding Standard](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard)",
+   "in": "MISRA C:2023 from the MISRA consortium, and Michael Barr, Em",
+   "max": 1
+  },
+  {
+   "find": "Understanding Digital Signal Processing",
+   "to": "[Understanding Digital Signal Processing](https://openlibrary.org/search?q=Understanding+Digital+Signal+Processing+Lyons)",
+   "in": "Richard G. Lyons, Understanding Digital Signal Processing, 3",
+   "max": 1
+  },
+  {
+   "find": "Probabilistic Robotics",
+   "to": "[Probabilistic Robotics](https://openlibrary.org/search?q=Probabilistic+Robotics+Thrun)",
+   "in": "Richard G. Lyons, Understanding Digital Signal Processing, 3",
+   "max": 1
+  },
+  {
+   "find": "TinyML",
+   "to": "[TinyML](https://openlibrary.org/search?q=TinyML+Warden+Situnayake)",
+   "in": "Pete Warden and Daniel Situnayake, TinyML, for machine learn",
+   "max": 1
+  },
+  {
+   "find": "Icarus Verilog",
+   "to": "[Icarus Verilog](https://steveicarus.github.io/iverilog/)",
+   "in": "Icarus Verilog and Verilator documentation, the Sipeed Tang ",
+   "max": 1
+  },
+  {
+   "find": "Verilator documentation",
+   "to": "[Verilator documentation](https://verilator.org/)",
+   "in": "Icarus Verilog and Verilator documentation, the Sipeed Tang ",
+   "max": 1
+  },
+  {
+   "find": "Sipeed Tang Nano 9K documentation",
+   "to": "[Sipeed Tang Nano 9K documentation](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)",
+   "in": "Icarus Verilog and Verilator documentation, the Sipeed Tang ",
+   "max": 1
+  },
+  {
+   "find": "Tiny Tapeout",
+   "to": "[Tiny Tapeout](https://tinytapeout.com/)",
+   "in": "Icarus Verilog and Verilator documentation, the Sipeed Tang ",
+   "max": 1
+  },
+  {
+   "find": "Digital Design and Computer Architecture",
+   "to": "[Digital Design and Computer Architecture](https://openlibrary.org/search?q=Digital+Design+and+Computer+Architecture+Harris)",
+   "in": "Icarus Verilog and Verilator documentation, the Sipeed Tang ",
+   "max": 1
+  },
+  {
+   "find": "FPGA Prototyping by Verilog Examples",
+   "to": "[FPGA Prototyping by Verilog Examples](https://openlibrary.org/search?q=FPGA+Prototyping+by+Verilog+Examples+Chu)",
+   "in": "Icarus Verilog and Verilator documentation, the Sipeed Tang ",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity",
+   "to": "[Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+1%3A+Motion%2C+Forces%2C+Time%2C+and+Relativity+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 1: Motion, Forces, Time, and Relat",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime",
+   "to": "[Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+2%3A+Gravity%2C+Cosmology%2C+and+the+Limits+of+Spacetime+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 2: Gravity, Cosmology, and the Lim",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge",
+   "to": "[Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+3%3A+The+Standard+Model%2C+Chaos%2C+and+the+Edge+of+Knowledge+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 3: The Standard Model, Chaos, and ",
+   "max": 1
+  },
+  {
+   "find": "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere",
+   "to": "[Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere](https://www.amazon.com/s?k=Life%2C+Actually%3A+From+the+First+Cell+to+the+Edited+Genome+and+the+Search+for+Life+Elsewhere+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Life, Actually: From the First Cell to the Edited Genome and",
+   "max": 1
+  },
+  {
+   "find": "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard",
+   "to": "[Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard](https://www.amazon.com/s?k=Gravity%2C+Actually%3A+Einstein%E2%80%99s+Relativity+in+Plain+Words%3A+Falling%2C+Time%2C+Black+Holes%2C+and+the+Waves+We+Finally+Heard+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Gravity, Actually: Einstein’s Relativity in Plain Words: Fal",
+   "max": 1
+  },
+  {
+   "find": "The Universe, Actually: What Humanity Currently Understands About Reality",
+   "to": "[The Universe, Actually: What Humanity Currently Understands About Reality](https://www.amazon.com/s?k=The+Universe%2C+Actually%3A+What+Humanity+Currently+Understands+About+Reality+Lothar+J.+Musiol&i=digital-text)",
+   "in": "The Universe, Actually: What Humanity Currently Understands ",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 1: From Arithmetic to Calculus",
+   "to": "[Math, Actually, Volume 1: From Arithmetic to Calculus](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+1%3A+From+Arithmetic+to+Calculus+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 1: From Arithmetic to Calculus",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic",
+   "to": "[Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+2%3A+From+Multivariable+Calculus+to+Set+Theory+%26+Logic+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 2: From Multivariable Calculus to Set",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 3: From Differential Equations to Abstract Algebra",
+   "to": "[Math, Actually, Volume 3: From Differential Equations to Abstract Algebra](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+3%3A+From+Differential+Equations+to+Abstract+Algebra+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 3: From Differential Equations to Abs",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 4: From Category Theory to the Frontier",
+   "to": "[Math, Actually, Volume 4: From Category Theory to the Frontier](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+4%3A+From+Category+Theory+to+the+Frontier+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 4: From Category Theory to the Fronti",
+   "max": 1
+  },
+  {
+   "find": "Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire",
+   "to": "[Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+1%3A+Questions+and+Answers+from+the+Double+Slit+to+the+Superconducting+Wire+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Quantum, Actually, Volume 1: Questions and Answers from the ",
+   "max": 1
+  },
+  {
+   "find": "Quantum, Actually, Volume 2: A QED Course",
+   "to": "[Quantum, Actually, Volume 2: A QED Course](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+2%3A+A+QED+Course+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Quantum, Actually, Volume 2: A QED Course",
+   "max": 1
+  },
+  {
+   "find": "Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights",
+   "to": "[Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights](https://www.amazon.com/s?k=Science+Sparks%3A+Physics%2C+Life%2C+and+Mathematics+%E2%80%94+The+Same+Few+Rules%2C+Told+in+Highlights+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Science Sparks: Physics, Life, and Mathematics — The Same Fe",
+   "max": 1
+  },
+  {
+   "find": "Look First, Volume 1: The Universe Has No Now",
+   "to": "[Look First, Volume 1: The Universe Has No Now](https://www.amazon.com/s?k=Look+First%2C+Volume+1%3A+The+Universe+Has+No+Now+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Look First, Volume 1: The Universe Has No Now",
+   "max": 1
+  },
+  {
+   "find": "Look First, Volume 2: A Trip Is Not a New Life",
+   "to": "[Look First, Volume 2: A Trip Is Not a New Life](https://www.amazon.com/s?k=Look+First%2C+Volume+2%3A+A+Trip+Is+Not+a+New+Life+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Look First, Volume 2: A Trip Is Not a New Life",
+   "max": 1
+  },
+  {
+   "find": "Foundations of Electronics",
+   "to": "[Foundations of Electronics](https://www.amazon.com/s?k=Foundations+of+Electronics+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Foundations of Electronics (Book 1)",
+   "max": 1
+  },
+  {
+   "find": "Circuits, Components, and Control",
+   "to": "[Circuits, Components, and Control](https://www.amazon.com/s?k=Circuits%2C+Components%2C+and+Control+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Circuits, Components, and Control (Book 2)",
+   "max": 1
+  },
+  {
+   "find": "Semiconductor Physics and Devices",
+   "to": "[Semiconductor Physics and Devices](https://www.amazon.com/s?k=Semiconductor+Physics+and+Devices+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Semiconductor Physics and Devices (Book 3)",
+   "max": 1
+  },
+  {
+   "find": "RF, Microwave, and Transceivers",
+   "to": "[RF, Microwave, and Transceivers](https://www.amazon.com/s?k=RF%2C+Microwave%2C+and+Transceivers+Lothar+J.+Musiol&i=digital-text)",
+   "in": "RF, Microwave, and Transceivers (Book 4)",
+   "max": 1
+  },
+  {
+   "find": "Communications, Wireless, and SDR",
+   "to": "[Communications, Wireless, and SDR](https://www.amazon.com/s?k=Communications%2C+Wireless%2C+and+SDR+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Communications, Wireless, and SDR (Book 5)",
+   "max": 1
+  },
+  {
+   "find": "Power and Energy",
+   "to": "[Power and Energy](https://www.amazon.com/s?k=Power+and+Energy+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Power and Energy (Book 6)",
+   "max": 1
+  },
+  {
+   "find": "Packaging, Layout, EMC, and Test",
+   "to": "[Packaging, Layout, EMC, and Test](https://www.amazon.com/s?k=Packaging%2C+Layout%2C+EMC%2C+and+Test+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Packaging, Layout, EMC, and Test (Book 7)",
+   "max": 1
+  },
+  {
+   "find": "Test and Measurement Instruments",
+   "to": "[Test and Measurement Instruments](https://www.amazon.com/s?k=Test+and+Measurement+Instruments+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Test and Measurement Instruments (Book 9)",
+   "max": 1
+  },
+  {
+   "find": "The Dolphins’ View of History",
+   "to": "[The Dolphins’ View of History](https://www.amazon.com/s?k=The+Dolphins%E2%80%99+View+of+History+Lothar+J.+Musiol&i=digital-text)",
+   "in": "The Dolphins’ View of History",
+   "max": 1
+  },
+  {
+   "find": "The Murder That Hadn’t Happened Yet",
+   "to": "[The Murder That Hadn’t Happened Yet](https://www.amazon.com/s?k=The+Murder+That+Hadn%E2%80%99t+Happened+Yet+Spezala+Genara+Relavi&i=digital-text)",
+   "in": "The Murder That Hadn’t Happened Yet (The Relativistic Invest",
+   "max": 1
+  },
+  {
+   "find": "The Warning That Was Sent Too Late",
+   "to": "[The Warning That Was Sent Too Late](https://www.amazon.com/s?k=The+Warning+That+Was+Sent+Too+Late+Spezala+Genara+Relavi&i=digital-text)",
+   "in": "The Warning That Was Sent Too Late (The Relativistic Investi",
+   "max": 1
+  },
+  {
+   "find": "Schrödinger’s Paperwork",
+   "to": "[Schrödinger’s Paperwork](https://www.amazon.com/s?k=Schr%C3%B6dinger%E2%80%99s+Paperwork+Quentin+Edmund+Darling&i=digital-text)",
+   "in": "Schrödinger’s Paperwork (Lolly Wren’s Curious Science Advent",
+   "max": 1
+  },
+  {
+   "find": "The Permitted Options",
+   "to": "[The Permitted Options](https://www.amazon.com/s?k=The+Permitted+Options+Quentin+Edmund+Darling&i=digital-text)",
+   "in": "The Permitted Options (Lolly Wren’s Curious Science Adventur",
+   "max": 1
+  },
+  {
+   "find": "Protocol Flamingo",
+   "to": "[Protocol Flamingo](https://www.amazon.com/s?k=Protocol+Flamingo+George+Herbert+Fontaine&i=digital-text)",
+   "in": "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar ",
+   "max": 1
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "[In Love with Murder, Actually: A Derailed Mystery in Provence](https://www.amazon.com/s?k=In+Love+with+Murder%2C+Actually%3A+A+Derailed+Mystery+in+Provence+Romuald+Livingston&i=digital-text)",
+   "in": "In Love with Murder, Actually: A Derailed Mystery in Provenc",
+   "max": 1
+  },
+  {
+   "find": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?",
+   "to": "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
+   "max": 1
+  }
+ ]
+}

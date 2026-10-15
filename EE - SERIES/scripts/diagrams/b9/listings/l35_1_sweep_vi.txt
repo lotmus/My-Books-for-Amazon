@@ -1,0 +1,31 @@
+Id-Vgs Sweep.vi: pseudo-structure of the block diagram in Figure 35.3.
+Read it top to bottom; in the VI itself the order comes from the wires, not from the page.
+
+FRONT PANEL
+  controls    Gate SMU, Drain SMU            VISA resource names, GPIB0::18::INSTR and GPIB0::19::INSTR
+              Vgs start 0 V, stop 5 V, step 0.05 V;  Vds 0.1 V;  current limits 1 mA (gate), 250 mA (drain)
+              Temperature (°C), File path
+  indicators  Id-Vgs graph, Vth (V), gm max (S), error out
+
+BLOCK DIAGRAM
+  N = Round To Nearest((stop - start) / step) + 1                      -> 101 points
+  [parallel]  gate  = VISA Open(Gate SMU)  -> Configure SMU.vi(gate,  limit 1 mA)
+              drain = VISA Open(Drain SMU) -> Configure SMU.vi(drain, limit 250 mA)
+      Configure SMU.vi writes: *RST | SENS:FUNC "CURR" | SENS:CURR:RANG:AUTO ON | SENS:CURR:NPLC 1
+                               SOUR:FUNC VOLT | SOUR:VOLT:RANG 20 | SOUR:VOLT:ILIM <limit> | OUTP ON
+  VISA Write(drain, "SOUR:VOLT 0.1000")
+  For Loop, count terminal N, iteration terminal i       (error wire through a shift register)
+      vgs = start + i * step
+      VISA Write(gate, Format Into String("SOUR:VOLT %.4f", vgs))
+      Wait (ms) 5
+      [parallel]  id = Fract/Exp String To Number(Query.vi(drain, "READ?"))
+                  ig = Fract/Exp String To Number(Query.vi(gate,  "READ?"))
+      auto-indexing output tunnels build the arrays Vgs[], Id[], Ig[]
+  for each SMU: VISA Write "SOUR:VOLT 0", VISA Write "OUTP OFF", VISA Close
+  Id-Vgs graph  <- Bundle(Vgs[], Id[])
+  (Vth, gm max, Vgs at gm max) <- Python Node: l35_3_lv_extract.vth_max_gm(Vgs[], Id[], 0.1)
+  TDMS Open(File path) -> TDMS Set Properties(device, temperature, Vds, NPLC)
+      -> TDMS Write(group "IdVgs_25C", channels "Vgs", "Id", "Ig") -> TDMS Close
+  Simple Error Handler(error out)
+
+Query.vi = VISA Write(command) followed by VISA Read(256 bytes), as in most instrument drivers.

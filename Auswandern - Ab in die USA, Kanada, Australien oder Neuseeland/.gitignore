@@ -5,7 +5,6 @@ node_modules/
 
 # Outputs, not sources
 *.pdf
-*.epub
 build/
 review_render/
 

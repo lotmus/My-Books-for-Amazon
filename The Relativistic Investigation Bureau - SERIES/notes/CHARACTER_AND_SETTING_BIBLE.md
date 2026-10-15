@@ -1,6 +1,6 @@
 # Character & Setting Bible — The Relativistic Investigation Bureau
 
-Reference only — not for publication. Compiled 2026-09-24 from what's actually in the manuscript (quoted/paraphrased with paragraph locations), plus the character-description pass added this session. Where a sense (usually smell) is genuinely undocumented, it's marked **[not established]** rather than invented — check with the author before adding anything new here as fact.
+Reference only — not for publication. Rechecked against the active Book 1 REV15 and Book 2 REV05 working drafts on 2026-10-13. Where a sense (usually smell) is genuinely undocumented, it's marked **[not established]** rather than invented — do not silently promote a new detail to canon.
 
 ---
 
@@ -37,8 +37,8 @@ Reference only — not for publication. Compiled 2026-09-24 from what's actually
 - **Note**: subject of an aborted running joke (a "is he a vampire?" bit — pale, ageless-seeming, only orders Bloody Marys) that was drafted, inserted, and then fully reverted at the author's request. **Do not reintroduce vampire material of any kind** without explicit direction — this was tried and explicitly rejected.
 
 ### Herbert Matkowski — Minkowski analog
-- **Looks**: smaller and neater than Weinstein, precise in a way that reads as buttoned-up rather than fussy. Immaculate handwriting (Trevor once photographed a page of it out of professional jealousy).
-- **Sound**: dry, unhurried, faint Bavarian clip — "learned his English from textbooks and refused, on principle, to soften it for anyone's comfort."
+- **Looks**: smaller and neater than Weinstein, precise in a way that reads as buttoned-up rather than fussy. Immaculate handwriting (Trevor once photographed a page of it out of professional jealousy). Uses a walking stick for support and as a pointer when making a point.
+- **Sound**: dry and unhurried; each word is paced as carefully as his handwriting. His English is precise, and his dialogue stays direct without treating that directness as a national trait.
 - **Smell**: [not established]
 - **Attitude**: was once **Weinstein's mathematics professor** (new this session — echoes the real, well-documented Minkowski/Einstein history where Minkowski reportedly called young Einstein a "lazy dog"). Holds the standing, frequently reconfirmed opinion that Weinstein is **"very, very smart and very, very lazy"** — grading his coursework decades ago was the first reliable evidence for both. Works in careful steps where Weinstein works in leaps, and considers this the more honest method. The existing "Three-eighths is not more precise... It's easier, Herbert" exchange (Ch6, "The Apple Problem" — not a Louvre scene; see the flagged entry below) is this exact dynamic already playing out on the page.
 
@@ -95,10 +95,10 @@ Already richly described: looks like it was "designed by someone who had once be
 ### Weinstein's Munich patent-attorney office
 Cold window overlooking a busy Munich street (trams, cyclists, delivery carts). A blotter, a desk, a brass clock that "skips." **Smell: [not established].**
 
-### The room beneath the Louvre — NOT IN THE CURRENT BOOK 1 DOCX (flagged 2026-10-04)
+### The room beneath the Louvre — NON-CANON / ABSENT FROM THE ACTIVE BOOK 1 DRAFT
 Small, stone-walled, "entirely too quiet." A table, a clock, a piece of paper asking for a value of τ. Reached via a staircase behind a security guard who never appears in the same place twice, through a corridor with no tourists, no paintings, no signs, the building visibly getting older the deeper they go.
 
-A fresh full-text audit of the canonical docx (2026-10-04) found no Louvre scene, no Paris trip, no coordinate-paper puzzle, and no recurring guard anywhere in the current Chapters 6-7 (which are "The Apple Problem" and "The Fourth Coordinate" — Munich/Heathrow and the Piccadilly line, not Paris). This entry, the continuity chart's clue-table row for it, and the Seam's Paris note all describe content that was either cut in a later revision or never actually written. Either restore the scene into Ch6-7, or remove this entry and the other two references — do not treat this as established canon for Book 2/3 planning until one of those happens.
+The active Book 1 REV15 text has no Louvre scene, Paris trip, coordinate-paper puzzle or recurring guard. Older planning notes describing one are not canon; do not build on them unless a future manuscript deliberately introduces that material.
 
 ### Platform Seven / the mysterious train
 A departure board that rearranges its own letters without anyone touching it (ARRIVAL → DEPARTURE → briefly DEATH → settling back to normal). The platform "shouldn't exist." Recurring site for the book's biggest anomalies.
@@ -111,4 +111,4 @@ A departure board that rearranges its own letters without anyone touching it (AR
 - Trevor and Weinstein have no distinctly described **voice quality** beyond their dialogue's register (dry, anxious, etc.) — their *content* carries plenty of character, but there's no line describing pitch/pace/accent the way Matkowski, Mrs Marsh, and Mr Pendleton get.
 - Sophie and Penny have no established **voice quality** beyond dialogue content either.
 
-Check `git log` and `_BOOK_SUMMARY.md` before assuming anything here needs redoing — this file reflects manuscript state as of commit `dc0e196`.
+For current manuscript state and unresolved hooks, see `NEXT_BOOK_HANDOFF.md`. The earlier audit in `audit_2026-10-02.md` is a historical snapshot, not the current status list.

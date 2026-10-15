@@ -1,6 +1,6 @@
 ## Classical Greece, 508–323 BCE: Democracy's Experiment — Ancient Greece
 
-Every government examined so far in this book has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
+Every government examined so far has run on the same basic claim: one person, or one family, or one god's favorite, decides, and everyone else complies.
 
 Athens, starting with reforms under Cleisthenes in 508 BCE, tried something that fit no earlier category: a large body of citizens deciding collectively, in person, by majority vote, in an assembly any citizen could attend and speak in.
 
@@ -8,7 +8,7 @@ The qualifier matters more than the achievement, so it comes first. "Citizen" in
 
 Within that limit, the invention was still real. Many public offices were filled by lot, sortition, in place of election, on the theory that any citizen was fit to serve and that voting for office invited wealthy or persuasive candidates to dominate it. Ostracism let the assembly exile a citizen, no crime required, for ten years, if enough people simply voted that his influence had grown dangerous.
 
-Sparta, Athens' great rival, organized itself around almost the opposite values: a rigid military caste system, an economy built on the forced labor of the conquered Helot population, and a citizenry trained from childhood for war, not debate. Sparta was not democracy's villain so much as evidence that "successful ancient Greek city-state" did not imply any particular set of values at all.
+Sparta, Athens' great rival, organized itself around almost the opposite values — a rigid military caste system, an economy built on the forced labor of the conquered Helot population, and a citizenry trained from childhood for war, not debate — though much of this picture comes from Athenian and later outsiders writing generations afterward, and historians now treat its most austere version with some caution. Sparta was not democracy's villain so much as evidence that "successful ancient Greek city-state" did not imply any particular set of values at all.
 
 Philosophy came out of this same world, asking the questions its politics kept raising. Socrates, in the 5th century BCE, questioned everything in public until Athens sentenced him to death for it. Plato, his student, distrusted democracy specifically, having watched it kill his teacher, and imagined a state ruled by trained philosopher-kings instead. Aristotle, Plato's student, wrote systematically across politics, ethics, biology, and logic, and his influence outlasted the city-states that produced him by roughly two thousand years.
 

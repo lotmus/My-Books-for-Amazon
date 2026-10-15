@@ -1,0 +1,37 @@
+H1: Chapter 17. Noise in Passive Networks
+P: Half a decibel of cable sounds like nothing. Put it between a ground-station antenna and its LNA and the system noise temperature rises from 86 K to 125 K, about 1.7 dB worse. Every lossy part at room temperature adds its own noise to the signal, and in front of the first amplifier nothing else costs as much per decibel.
+P: Where you meet this: Satellite ground stations, GPS antennas at the end of long cables, tower-mounted amplifiers on cell sites, and any receiver with a filter or switch before the LNA.
+P: A passive network adds no gain, but it does add noise. Any component that absorbs power at a physical temperature also emits thermal noise, and in a receiver the loss in front of the first amplifier is often the largest single term in the noise budget. Chapter 25 develops the receiver's noise cascade; this chapter supplies the passive parts of it: the noise of a lossy line or attenuator, the noise temperature of an antenna, and the rule that explains why the low-noise amplifier goes at the antenna.
+H2: 17.1 Noise temperature
+P: Noise power in a bandwidth B is kTB, where k is Boltzmann's constant, 1.381 × 10⁻²³ J/K. It is often convenient to describe a component's added noise by an equivalent temperature Te, the temperature a matched resistor at the input would need to produce the same added noise. Noise figure and noise temperature are two expressions of the same quantity, related through the reference temperature T₀ = 290 K.
+EQ: N = kTB,   Te = T₀(F − 1),   F = 1 + Te/T₀
+H2: 17.2 The lossy line and the attenuator
+P: A matched attenuator with loss factor L (L > 1) at the physical temperature T passes 1/L of its input and emits noise of its own. Thermodynamics fixes the amount: if the input were a resistor at the same temperature T, the output must still look like a resistor at T. That condition gives the attenuator's equivalent input noise temperature and, at T₀, a noise figure equal to its loss. A cable with 2 dB of loss at room temperature has a noise figure of 2 dB.
+EQ: Te = (L − 1)T,   F = L at T = T₀,   Tout = Tin/L + (1 − 1/L)T
+FIG: fig17_1.png | Figure 17.1 — System noise temperature with the feed loss before or after the LNA (Worked Example 17.2). At only 0.5 dB of loss, putting the LNA first lowers the system temperature from 125.1 K to 85.7 K. | System noise temperature in kelvin against feed loss from 0 to 3 decibels. A red curve for loss first rises steeply from about 85 kelvin to about 410 kelvin. A blue curve for the LNA first stays almost flat near 86 kelvin. Marked points at 0.5 decibels: 125.1 kelvin red and 85.7 kelvin blue.
+H2: Worked Example 17.1
+P: Problem. A 2 dB cable at 290 K feeds an amplifier with a 1 dB noise figure and high gain. Find the cascade noise figure.
+P: Solution. By the cascade of Chapter 25, F = F_cable + (F_amp − 1)/G_cable = L + (F_amp − 1)L = L F_amp, so in decibels the noise figures simply add: 2 + 1 = 3.0 dB. Every decibel of loss in front of the first amplifier adds a decibel to the noise figure.
+H2: 17.3 Antenna temperature
+P: An antenna delivers the noise of whatever it sees, weighted by its pattern. Pointed at the clear sky at high elevation, a microwave antenna sees a cold background, a few kelvin from space plus the atmosphere's emission, and its antenna temperature may be tens of kelvin. Pointed at the ground or a wall, it sees about 290 K. This is why satellite ground stations, whose antennas look at the cold sky, can benefit from an LNA with a noise temperature of tens of kelvin, while a terrestrial antenna looking at the horizon gains little from an amplifier much better than its surroundings.
+H2: Worked Example 17.2
+P: Problem. An antenna with T_A = 50 K is connected through 0.5 dB of feed loss at 290 K to an LNA with a 0.5 dB noise figure and 20 dB gain. Find the system noise temperature referred to the antenna terminals, then repeat with the LNA moved ahead of the loss. Find the noise power in 1 MHz for each.
+P: Solution. L = 10^0.05 = 1.122, so the loss and the LNA each have Te = 0.122 × 290 = 35.4 K. With the loss first, the system temperature at the antenna is T_A + Te,loss + L·Te,LNA = 50 + 35.4 + 39.7 = 125.1 K. With the LNA first, it is T_A + Te,LNA + Te,loss/G = 50 + 35.4 + 0.35 = 85.7 K. In 1 MHz, kTB is −117.6 dBm for 125.1 K and −119.3 dBm for 85.7 K. Moving the LNA ahead of only half a decibel of loss improves the noise floor by 1.6 dB, which is why masthead and feed-mounted LNAs exist.
+P: Key idea. Loss at physical temperature T adds noise temperature (L − 1)T, so a passive loss at 290 K adds its full decibel value to the noise figure. Put the first amplifier before the loss.
+H2: 17.4 Mismatch and noise
+P: A low-noise transistor reaches its minimum noise figure only when it sees a particular source impedance, generally not the conjugate match that gives maximum gain. The input network of an LNA is therefore a compromise between noise match and power match, drawn on the Smith chart of Chapter 4 as circles of constant noise figure and constant gain. The input mismatch that results is often accepted, and an isolator or a balanced amplifier, Chapter 9's hybrids at each end, restores a good return loss without disturbing the noise match.
+BENCH: Every decibel of loss in front of the LNA adds a decibel to the noise figure, so put the LNA as close to the antenna as its survival allows. That is why tower-mounted amplifiers and active GPS antennas exist. When filters and switches must come first for protection, choose them for insertion loss before anything else, and count the connector and trace losses too. Each is only a tenth of a decibel or so, which is why they get forgotten.
+H2: Practice
+P: 1. Find the noise temperature of an amplifier with a 2 dB noise figure.
+P: 2. Find the noise figure of an amplifier with Te = 75 K.
+P: 3. Find the equivalent noise temperature of a 3 dB attenuator at 290 K.
+P: 4. Find kTB at 290 K in 1 MHz, in dBm.
+P: 5. A 1.5 dB cable precedes an LNA with a 0.8 dB noise figure. Find the cascade noise figure.
+P: 6. Find the output noise temperature of a 3 dB attenuator at 290 K whose input is a 10 K source.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Te = (L − 1)·290 K for a lossy part at room temperature.
+LI: Loss before an amplifier: NF_total = L + NF_amp, in dB.
+LI: System temperature Tsys and kTB.
+P: Mostly for exams and deeper study
+LI: Noise-wave and noise-correlation matrix theory.

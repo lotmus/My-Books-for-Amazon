@@ -20,6 +20,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Sponge carrying in Shark Bay as a culturally transmitted tool use.* Krützen, Michael, et al. “Cultural Transmission of Tool Use in Bottlenose Dolphins.” PNAS 102 (2005): 8939–43.
 
+*Documented infanticide in wild bottlenose dolphins.* Patterson, I. A. P., et al. “Evidence for Infanticide in Bottlenose Dolphins: An Explanation for Violent Interactions with Harbour Porpoises?” Proceedings of the Royal Society B 265 (1998): 1167–70.
+
+*Male alliances and the coercive “herding” of females in bottlenose dolphins.* Connor, Richard C., Rachel A. Smolker, and Andrew F. Richards. “Two Levels of Alliance Formation among Male Bottlenose Dolphins (Tursiops sp.).” Proceedings of the National Academy of Sciences 89 (1992): 987–90.
+
 *Cumulative culture, the “ratchet” this book’s thesis rests on.* Tennie, Claudio, Josep Call, and Michael Tomasello. “Ratcheting Up the Ratchet: On the Evolution of Cumulative Culture.” Philosophical Transactions of the Royal Society B 364 (2009): 2405–15.
 
 *Arion and the dolphin.* Herodotus, Histories 1.23–24 (5th century BCE; many translations).
@@ -39,6 +43,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Age of Homo naledi.* Dirks, Paul H. G. M., et al. “The Age of Homo naledi and Associated Sediments in the Rising Star Cave, South Africa.” eLife 6 (2017): e24231.
 
 *Blombos Cave engraved ochre.* Henshilwood, Christopher S., et al. “Emergence of Modern Human Behavior: Middle Stone Age Engravings from South Africa.” Science 295 (2002): 1278–80.
+
+*Blombos Cave shell beads.* Henshilwood, Christopher S., et al. “Middle Stone Age Shell Beads from South Africa.” Science 304 (2004): 404.
 
 **The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture**
 
@@ -100,6 +106,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Independent inventions of writing.* Houston, Stephen D., ed. The First Writing: Script Invention as History and Process. Cambridge: Cambridge University Press, 2004.
 
+*The earlier deliberate archives at Ebla and Hattusa.* Matthiae, Paolo. Ebla: Archaeology and History. Translated by Richard Bates, Mattia Bilardello, and Anita Weston. Cities of the Ancient World. London: Routledge, 2021.
+
 *How remembering rebuilds and distorts.* Schacter, Daniel L. The Seven Sins of Memory. Boston: Houghton Mifflin, 2001.
 
 *What is known, and not, about the Library of Alexandria.* Bagnall, Roger S. “Alexandria: Library of Dreams.” Proceedings of the American Philosophical Society 146 (2002): 348–62.
@@ -120,6 +128,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Rosetta Stone and decipherment.* Parkinson, Richard. Cracking Codes: The Rosetta Stone and Decipherment. London: British Museum Press, 1999.
 
+*The separate decipherment of cuneiform via the Behistun Inscription.* Pope, Maurice. The Story of Decipherment: From Egyptian Hieroglyphs to Maya Script. Rev. ed. London: Thames & Hudson, 1999.
+
 **1600 BCE to 589 CE: The Middle Kingdom — China's Long Civilization**
 
 *Oracle bones and Shang writing.* Keightley, David N. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. Berkeley: University of California Press, 1978.
@@ -130,6 +140,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The archaeology behind the dynasties, including the Xia debate.* Liu, Li, and Xingcan Chen. The Archaeology of China. Cambridge: Cambridge University Press, 2012.
 
+*The Daodejing's composite authorship and the Guodian manuscripts.* Boltz, William G. "The Fourth-Century B.C. Guodian Manuscripts from Jingmen and Their Place in the Lao-tzu Tradition." Journal of the American Oriental Society 119 (1999): 590–608.
+
 **2600 BCE to 550 CE: The Subcontinent — Zero, Gods, and Glorious Complexity**
 
 *The Indus civilization.* Possehl, Gregory L. The Indus Civilization: A Contemporary Perspective. Walnut Creek, CA: AltaMira, 2002.
@@ -137,6 +149,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *Early Indian history, Mauryas to Guptas.* Thapar, Romila. Early India: From the Origins to AD 1300. Berkeley: University of California Press, 2002.
 
 *Zero, place value, Aryabhata, and Brahmagupta.* Plofker, Kim. Mathematics in India. Princeton: Princeton University Press, 2009.
+
+*Gandhi's own account of the Jain, Tolstoyan, and Thoreauvian roots of his nonviolence.* Gandhi, Mohandas K. An Autobiography: The Story of My Experiments with Truth. Translated by Mahadev Desai. Boston: Beacon Press, 1957.
 
 *Caste, and how colonial rule reshaped it.* Dirks, Nicholas B. Castes of Mind: Colonialism and the Making of Modern India. Princeton: Princeton University Press, 2001.
 
@@ -149,6 +163,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How Athenian democracy worked.* Hansen, Mogens Herman. The Athenian Democracy in the Age of Demosthenes. Oxford: Blackwell, 1991; repr. Norman: University of Oklahoma Press, 1999.
 
 *Democracy’s long afterlife.* Cartledge, Paul. Democracy: A Life. Oxford: Oxford University Press, 2016.
+
+*The "Spartan mirage" and the outsider sources behind Sparta's reputation.* Powell, Anton, and Stephen Hodkinson, eds. Sparta: Beyond the Mirage. Swansea: Classical Press of Wales, 2002.
 
 *The Antikythera mechanism.* Freeth, Tony, et al. “Decoding the Ancient Greek Astronomical Calculator Known as the Antikythera Mechanism.” Nature 444 (2006): 587–91.
 
@@ -168,11 +184,21 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The early Islamic conquests.* Kennedy, Hugh. The Great Arab Conquests. London: Weidenfeld & Nicolson, 2007.
 
-*The translation movement in Baghdad.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+*The translation movement in Baghdad; Avicenna and Averroes reaching Europe.* Gutas, Dimitri. Greek Thought, Arabic Culture. London: Routledge, 1998.
+
+*The Great Schism of 1054.* Chadwick, Henry. East and West: The Making of a Rift in the Church. Oxford: Oxford University Press, 2003.
+
+*Early Christian persecution as sporadic rather than constant.* Moss, Candida. The Myth of Persecution: How Early Christians Invented a Story of Martyrdom. New York: HarperOne, 2013.
+
+*The Investiture Controversy and Canossa.* Blumenthal, Uta-Renate. The Investiture Controversy: Church and Monarchy from the Ninth to the Twelfth Century. Philadelphia: University of Pennsylvania Press, 1988.
 
 *The Crusades.* Riley-Smith, Jonathan. The Crusades: A History. 3rd ed. London: Bloomsbury, 2014.
 
+*Saladin's retaking of Jerusalem, 1187.* Phillips, Jonathan. The Life and Legend of the Sultan Saladin. New Haven: Yale University Press, 2019.
+
 *The sack of Constantinople, 1204.* Phillips, Jonathan. The Fourth Crusade and the Sack of Constantinople. New York: Viking, 2004.
+
+*The Toledo school of translators and Norman Sicily as the main channels for Islamic scholarship reaching Europe.* Haskins, Charles Homer. The Renaissance of the Twelfth Century. Cambridge, MA: Harvard University Press, 1927.
 
 *How Christianity grew.* Stark, Rodney. The Rise of Christianity. Princeton: Princeton University Press, 1996.
 
@@ -218,6 +244,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The Kingdom of Kongo and the Portuguese letters.* Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge: Cambridge University Press, 1998.
 
+*Lalibela's multi-phase rock-hewn construction.* Phillipson, David W. Ancient Churches of Ethiopia: Fourth–Fourteenth Centuries. New Haven: Yale University Press, 2009.
+
 *Asante, the Golden Stool, and the 1900 war.* McCaskie, T. C. State and Society in Pre-Colonial Asante. Cambridge: Cambridge University Press, 1995.
 
 *The Congo Free State's rubber regime.* Hochschild, Adam. King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa. Boston: Houghton Mifflin, 1998.
@@ -228,7 +256,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String**
 
+*The Spanish soldiers wondering if they were dreaming.* Díaz del Castillo, Bernal. The Conquest of New Spain. c. 1568. Translated by J. M. Cohen. London: Penguin, 1963.
+
 *The Americas before 1492.* Mann, Charles C. 1491: New Revelations of the Americas before Columbus. New York: Knopf, 2005.
+
+*New radiocarbon dating of Machu Picchu's occupation.* Burger, Richard L., Lucy C. Salazar, Jason Nesbitt, Eden Washburn, and Lars Fehren-Schmitz. "New AMS Dates for Machu Picchu: Results and Implications." Antiquity (2021). doi:10.15184/aqy.2021.99.
 
 *A single domestication of maize.* Matsuoka, Yoshihiro, et al. “A Single Domestication for Maize Shown by Multilocus Microsatellite Genotyping.” PNAS 99 (2002): 6080–84.
 
@@ -250,6 +282,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **The 15th to 17th Centuries: Ships, Gunpowder, and Gold — Exploration, Conquest, and the Colonial Age**
 
+*The "gunpowder empires" thesis and its revisions.* Streusand, Douglas E. Islamic Gunpowder Empires: Ottomans, Safavids, and Mughals. Boulder: Westview Press, 2011.
+
 *Numbers embarked and died in the Atlantic slave trade.* Eltis, David, and David Richardson. Atlas of the Transatlantic Slave Trade. New Haven: Yale University Press, 2010.
 
 *The voyages database behind those numbers.* [SlaveVoyages: Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org) (consulted 2026).
@@ -270,6 +304,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1450 to the Late 1800s: Machines and Manifestos — Renaissance, Enlightenment, and Industry**
 
+*Why historians no longer speak of one unified Scientific Revolution.* Shapin, Steven. The Scientific Revolution. Chicago: University of Chicago Press, 1996.
+
 *Printing and its consequences.* Eisenstein, Elizabeth L. The Printing Press as an Agent of Change. Cambridge: Cambridge University Press, 1979.
 
 *Why industrialization began in Britain.* Allen, Robert C. The British Industrial Revolution in Global Perspective. Cambridge: Cambridge University Press, 2009.
@@ -282,15 +318,13 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 **1776–1865: The Republic, With Exceptions — America**
 
+*Noah Webster's dictionary and the American spelling reform.* Kendall, Joshua. The Forgotten Founding Father: Noah Webster's Obsession and the Creation of an American Culture. New York: G. P. Putnam's Sons, 2010.
+
 *The Civil War death toll.* Hacker, J. David. “A Census-Based Count of the Civil War Dead.” Civil War History 57 (2011): 307–48.
 
 *Reconstruction and its abandonment.* Foner, Eric. Reconstruction: America’s Unfinished Revolution, 1863–1877. New York: Harper & Row, 1988.
 
 *Indian removal.* Saunt, Claudio. Unworthy Republic: The Dispossession of Native Americans and the Road to Indian Territory. New York: Norton, 2020.
-
-*The Haitian Revolution.* Dubois, Laurent. Avengers of the New World: The Story of the Haitian Revolution. Cambridge, MA: Harvard University Press, 2004.
-
-*American whaling and its decline.* Dolin, Eric Jay. Leviathan: The History of Whaling in America. New York: Norton, 2007.
 
 *Jamestown, tobacco, and 1619.* Horn, James. A Land as God Made It: Jamestown and the Birth of America. New York: Basic Books, 2005.
 
@@ -304,6 +338,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Japanese American incarceration and Korematsu.* Robinson, Greg. By Order of the President: FDR and the Internment of Japanese Americans. Cambridge, MA: Harvard University Press, 2001.
 
+*The Page Act of 1875 as the first federal law to exclude on racial and gendered grounds.* Lee, Erika. At America's Gates: Chinese Immigration during the Exclusion Era, 1882–1943. Chapel Hill: University of North Carolina Press, 2003.
+
 *The 2008 financial crisis.* Blinder, Alan S. After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead. New York: Penguin Press, 2013.
 
 **1620 to 1993: God's Own Experiment — Religion in America**
@@ -311,6 +347,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *American religious pluralism.* Butler, Jon. Awash in a Sea of Faith: Christianizing the American People. Cambridge, MA: Harvard University Press, 1990.
 
 *The Second Great Awakening and new movements.* Hatch, Nathan O. The Democratization of American Christianity. New Haven: Yale University Press, 1989.
+
+*The Shakers' English origin and 1774 emigration to New York under Ann Lee.* Stein, Stephen J. The Shaker Experience in America: A History of the United Society of Believers. New Haven: Yale University Press, 1992.
 
 *Joseph Smith.* Bushman, Richard Lyman. Joseph Smith: Rough Stone Rolling. New York: Knopf, 2005.
 
@@ -366,6 +404,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The fall of Constantinople.* Crowley, Roger. 1453: The Holy War for Constantinople and the Clash of Islam and the West. New York: Hyperion, 2005.
 
+*The millet system's later, tidier retelling as partial administrative myth.* Braude, Benjamin. "Foundation Myths of the Millet System." In Christians and Jews in the Ottoman Empire, edited by Benjamin Braude and Bernard Lewis, vol. 1, 69–88. New York: Holmes & Meier, 1982.
+
 *The millet system.* Barkey, Karen. Empire of Difference: The Ottomans in Comparative Perspective. Cambridge: Cambridge University Press, 2008.
 
 *Salonica and the Sephardic refuge.* Mazower, Mark. Salonica, City of Ghosts: Christians, Muslims and Jews, 1430–1950. New York: Knopf, 2005.
@@ -407,6 +447,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 *How the Nazis took power.* Evans, Richard J. The Coming of the Third Reich. London: Allen Lane, 2003.
 
 *The Holocaust.* Hilberg, Raul. The Destruction of the European Jews. 3rd ed. New Haven: Yale University Press, 2003.
+
+*The situational-obedience account of ordinary perpetrators.* Browning, Christopher R. Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland. New York: HarperCollins, 1992.
+
+*The convinced-and-willing-participants account of ordinary perpetrators.* Goldhagen, Daniel Jonah. Hitler's Willing Executioners: Ordinary Germans and the Holocaust. New York: Alfred A. Knopf, 1996.
 
 *Cambodia under the Khmer Rouge.* Kiernan, Ben. The Pol Pot Regime. New Haven: Yale University Press, 1996.
 
@@ -490,6 +534,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Archaeology and the biblical narratives.* Finkelstein, Israel, and Neil Asher Silberman. The Bible Unearthed. New York: Free Press, 2001.
 
+*The Tel Dan Stele and the archaeological debate over the United Monarchy's scale.* Dever, William G. Beyond the Texts: An Archaeological Portrait of Ancient Israel and Judah. Atlanta: SBL Press, 2017.
+
 *The Dead Sea Scrolls.* VanderKam, James C. The Dead Sea Scrolls Today. 2nd ed. Grand Rapids: Eerdmans, 2010.
 
 *Masada and its single source.* Magness, Jodi. Masada: From Jewish Revolt to Modern Myth. Princeton: Princeton University Press, 2019.
@@ -532,7 +578,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *How dolphin sonar works.* Au, Whitlow W. L. The Sonar of Dolphins. New York: Springer, 1993.
 
+*The word “sonar” coined at Harvard's wartime Underwater Sound Laboratory.* Pestorius, Frederick M., and David T. Blackstock. “Contributions to the Development of Underwater Acoustics at the Harvard Underwater Sound Laboratory (HUSL).” Proceedings of Meetings on Acoustics 23 (2015): 070008.
+
 *The holographic principle.* Susskind, Leonard. “The World as a Hologram.” Journal of Mathematical Physics 36 (1995): 6377–96.
+
+*Gordon Gould's 1957 coinage of “laser.”* Hecht, Jeff. “Short History of Laser Development.” Optical Engineering 49, no. 9 (2010): 091002.
 
 *Mendeleev's table and the predicted elements.* Scerri, Eric R. [The Periodic Table: Its Story and Its Significance](https://openlibrary.org/works/OL8005621W). New York: Oxford University Press, 2006.
 
@@ -570,6 +620,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Partition.* Khan, Yasmin. The Great Partition: The Making of India and Pakistan. New Haven: Yale University Press, 2007.
 
+*The “transfer of power” reading of 1947.* Moore, R. J. Escape from Empire: The Attlee Government and the Indian Problem. Oxford: Clarendon Press, 1983.
+
 *Kenya and the detention camps.* Elkins, Caroline. Imperial Reckoning: The Untold Story of Britain’s Gulag in Kenya. New York: Henry Holt, 2005.
 
 *Decolonization as a whole.* Jansen, Jan C., and Jürgen Osterhammel. Decolonization: A Short History. Princeton: Princeton University Press, 2017.
@@ -586,7 +638,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *Emmett Till.* Tyson, Timothy B. The Blood of Emmett Till. New York: Simon & Schuster, 2017.
 
+*The Twenty-Fourth Amendment and Harper v. Virginia's 1966 end to state poll taxes.* Keyssar, Alexander. The Right to Vote: The Contested History of Democracy in the United States. Rev. ed. New York: Basic Books, 2009.
+
 *Mandela.* Mandela, Nelson. Long Walk to Freedom. Boston: Little, Brown, 1994.
+
+*Apartheid's end as a multi-factor negotiation, not a single memoir's account.* Dubow, Saul. Apartheid, 1948–1994. Oxford: Oxford University Press, 2014.
 
 *Stonewall.* Carter, David. Stonewall: The Riots That Sparked the Gay Revolution. New York: St. Martin’s Press, 2004.
 
@@ -598,6 +654,10 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *From Lovelace to the web.* Isaacson, Walter. The Innovators. New York: Simon & Schuster, 2014.
 
+*“Google” added as a verb in 2006.* Harris, Scott D. “Dictionary Adds Verb: To Google.” San Jose Mercury News, July 7, 2006.
+
+*Google’s trademark surviving a genericide challenge.* Elliott v. Google, Inc., 860 F.3d 1151 (9th Cir. 2017).
+
 *False news spreads faster than true.* Vosoughi, Soroush, Deb Roy, and Sinan Aral. “The Spread of True and False News Online.” Science 359 (2018): 1146–51.
 
 **The Thirteenth B'ak'tun, 2012: The World Was Supposed to End in 2012 (It Didn't)**
@@ -606,7 +666,11 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 
 *The 2012 phenomenon.* Aveni, Anthony. The End of Time: The Maya Mystery of 2012. Boulder: University Press of Colorado, 2009.
 
+*The 1987 "Harmonic Convergence" and its roots in earlier New Age writing.* Argüelles, José. The Mayan Factor: Path Beyond Technology. Santa Fe, NM: Bear & Company, 1987.
+
 **1950 to the 2020s: Something Might Be Watching (Probably Not What You Think)**
+
+*The 1961 Green Bank conference and the "Order of the Dolphin."* Dick, Steven J. The Biological Universe: The Twentieth-Century Extraterrestrial Life Debate and the Limits of Science. Cambridge: Cambridge University Press, 1996.
 
 *‘Oumuamua’s discovery.* Meech, Karen J., et al. “A Brief Visit from a Red and Extremely Elongated Interstellar Asteroid.” Nature 552 (2017): 378–81.
 
@@ -621,6 +685,8 @@ Nothing here is a dolphin source. Dolphin scholarship has no footnotes, only lon
 **1796 to Today: Medicine and Its Cost — How Humans Learned to Heal**
 
 *Life expectancy since 1800.* Riley, James C. “Estimates of Regional and Global Life Expectancy, 1800–2001.” Population and Development Review 31 (2005): 537–43.
+
+*Semmelweis's death.* Carter, K. Codell, and Barbara R. Carter. Childbed Fever: A Scientific Biography of Ignaz Semmelweis. Westport, Conn.: Greenwood Press, 1994.
 
 *Insulin and the one-dollar patent.* Bliss, Michael. The Discovery of Insulin. Chicago: University of Chicago Press, 1982.
 

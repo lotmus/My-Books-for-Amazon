@@ -1,0 +1,41 @@
+H1: Chapter 10. Switch Boxes, Matrices, and Multiplexers
+P: Forty thermocouples, one precision meter. The scan works, and every channel reads 0.07 °C warm, except channel 23, which reads 0.3 °C warm and drifts when the air conditioning cycles. The meter is fine and so is the thermocouple. Channel 23's relay sits next to the switch box's power supply, and its contacts are a little warmer than the others, so it adds a few more microvolts. In a switch box the relays are part of the measurement.
+P: Where you meet this: Data acquisition with many sensors, production test fixtures, semiconductor parametric test (the switch matrix in front of the SMUs), and RF test systems that route one analyzer to many ports.
+H2: 10.1 Why switch, and the shapes of switching
+P: Instruments are expensive and test points are many, so a switch system connects a few instruments to many points. A multiplexer connects one common line to one of N channels, like a rotary switch; it scans sensors. A matrix connects any of M rows to any of N columns through M × N crosspoint relays: an 8 × 16 matrix has 128 crosspoints and can connect any instrument on a row to any pin on a column, several at once. A general-purpose (Form A or Form C) relay card switches individual loads. Switch systems come as cards in a mainframe or data-acquisition unit (Keysight DAQ970A and Keithley DAQ6510 are examples), as PXI or LXI modules (Chapter 11), and as dedicated RF switch matrices.
+FIG: fig10_1.png | Figure 10.1 — A 4 × 8 relay matrix with 32 crosspoints. Two crosspoints are closed: row 1 (SMU force) to column 3, and row 2 (DMM) to column 6. Any row can reach any column; a blocking matrix would allow only one connection per column. | A grid of four horizontal row lines labeled SMU force, SMU sense, DMM and scope, crossing eight vertical column lines labeled pins 1 to 8. Small circles mark every crosspoint; two of them are filled, at row 1 column 3 and at row 2 column 6.
+H2: 10.2 Reed, armature, and solid-state
+P: Reed relays seal two ferromagnetic contacts in a glass capsule: fast (under a millisecond), long-lived (often hundreds of millions of operations at low current), and good for low-level signals, but limited in current and with nickel-iron leads that generate thermal voltages against copper. Armature (electromechanical) relays carry amperes and hundreds of volts with low contact resistance, switch in several milliseconds, and wear out sooner. Solid-state switches (MOSFET or photo-MOS) are fast and do not wear, but have on-resistance, leakage, and capacitance that a relay does not. The specifications that matter: contact resistance and its change over life, thermal EMF (microvolts), switching and settling time, maximum switched and carried current and voltage, isolation and leakage between channels, and life.
+H2: 10.3 Thermal EMF and settling
+P: Every junction of dissimilar metals is a thermocouple. Copper to copper is a fraction of a microvolt per kelvin, copper to tin-lead solder one to three, and copper to the nickel-iron alloys of reed capsules tens of microvolts per kelvin. A relay whose coil warms its contacts produces a thermal offset of microvolts, which matters at the signal levels of thermocouples, strain gauges, and low-resistance measurements. Low-thermal relays (latching types that do not keep their coil powered) and offset-compensated measurements (Chapter 12) are the cures. The second trap is settling: after a relay closes, the cable and channel capacitance charge through the source resistance, and a high-impedance source needs many time constants before the reading is correct to the meter's resolution.
+H2: Worked Example 10.1: Microvolts that matter
+P: Problem. A relay channel adds 3 µV of thermal EMF. How large is the error for a type K thermocouple (about 41 µV/°C), and for a 10 mΩ shunt measured with 100 mA?
+P: Solution. Thermocouple: 3 µV/41 µV per °C = 0.073 °C, the hook's 0.07 °C. Shunt: the signal is 100 mA × 10 mΩ = 1 mV, so 3 µV is a 0.3 % error. Offset-compensated ohms measures with the current on and off (or reversed) and subtracts, which cancels any steady thermal voltage; for the thermocouple, a reading with the channel shorted gives the channel offset to subtract.
+H2: Worked Example 10.2: Settling a high-impedance channel
+P: Problem. A channel has 100 pF of cable and 10 pF of relay capacitance, and the source is 1 MΩ. How long after closing must you wait for the reading to settle within 10 ppm?
+P: Solution. τ = 1 MΩ × 110 pF = 110 µs. Settling to 10 ppm (a factor of 10⁵) needs ln(10⁵) = 11.5 time constants, 1.27 ms. A scan that reads 1 ms after closing sees the previous channel's voltage in the last digits; set the channel delay to at least the settling time.
+H2: 10.4 Hot switching, life, and break-before-make
+P: Switching a relay while current flows (hot switching) erodes its contacts with an arc, and at low levels can weld reed contacts with a capacitor's discharge. Test systems switch cold: turn the source off or to zero, switch, then turn it on. Matrices also need break-before-make: open the old path before closing the new one, or two instruments are connected together for a moment, which is how an SMU sources into a DMM's input. Most switch drivers do this by default; check it when you write your own sequence. Count operations: a production fixture that switches each relay 200 times per board and tests 2000 boards a day uses up a 10-million-operation relay in 25 days.
+H2: 10.5 RF switch matrices
+P: At RF a switch is a transmission-line component with insertion loss, return loss (VSWR), isolation between paths, and a power rating, and its repeatability matters more than its absolute loss, because the loss is calibrated out. Electromechanical coaxial switches have low loss and high isolation to tens of gigahertz; solid-state RF switches are fast and wear-free with lower power handling and isolation. A system that routes a transmitter and a sensitive receiver through one matrix must count the isolation against the level difference.
+H2: Worked Example 10.3: Isolation against a level difference
+P: Problem. An RF matrix with 80 dB of path-to-path isolation routes a +20 dBm transmitter on one path while another path measures a receiver's sensitivity at −90 dBm. Is that isolation enough?
+P: Solution. The leak is +20 − 80 = −60 dBm, 30 dB above the −90 dBm test signal. To keep the leak at least 10 dB below the test level you need 20 − (−90) + 10 = 120 dB of isolation. No single switch gives that; add an attenuator or a filter in the transmitter path, use separate switches, or test the two paths at different times.
+P: Common misconception. A relay is a perfect wire when closed and a perfect gap when open. Closed, it has contact resistance and a thermal EMF; open, it has capacitance and leakage across the contacts and to the neighbors. At microvolts, picoamperes, or gigahertz, those numbers decide the measurement.
+BENCH: When a scanned channel misbehaves, short its input at the terminal block and scan again. A short reads the relay's thermal offset and the noise picked up by the wiring. A channel that reads several microvolts with its input shorted has a hot or worn relay, and swapping the sensor would not have helped.
+H2: Practice
+P: 1. (Core) How many crosspoint relays does an 8 × 16 matrix have?
+P: 2. (Core) What does break-before-make prevent?
+P: 3. (Core) Why do test systems switch relays cold?
+P: 4. (Extension) A relay adds 1 µV of thermal EMF to a 1 mV signal. What is the error in percent?
+P: 5. (Extension) A channel settles with τ = 50 µs. How long must you wait for 0.01 % accuracy?
+P: 6. (Challenge) Forty thermocouples are scanned with a 2 ms channel delay and 1 power-line cycle of integration at 60 Hz. How long does one scan take, and how would you halve it without losing mains rejection?
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Multiplexer, matrix, general-purpose relay; blocking versus non-blocking.
+LI: Thermal EMF in microvolts; low-thermal relays and offset compensation.
+LI: Settling time = τ × ln(1/error); channel delays.
+LI: Cold switching, break-before-make, operation counts.
+LI: RF isolation counted against the level difference.
+P: Mostly for exams and deeper study
+LI: Relay contact physics: wetting current, contact materials, and arc suppression.

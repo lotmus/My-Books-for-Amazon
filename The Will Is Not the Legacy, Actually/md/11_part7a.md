@@ -4,9 +4,9 @@
 
 ## Chapter 26. Why Record at All
 
-For almost all of human history, the dead were silent. You could keep their letters, if they wrote any, and their photographs, once photographs existed. Their voices went with them. A grandchild born a year after you died would know your face from a picture and your personality from stories, filtered through whoever told them, which is roughly like knowing a symphony from a description of it by someone who once heard it on the radio.
+For most of human history, a family kept what it could: a letter, a photograph, a story told by someone who remembered. A voice was harder to keep. A grandchild born after your death might know your face from a picture and your personality from stories passed along by others, but not the pause before your joke or the way you said her name.
 
-That has changed, and almost nobody has noticed. The phone in your pocket is a better film studio than anything a television station owned forty years ago. The webcam on your laptop records in high definition. Storage costs almost nothing. Anyone, at any age and in any state of health, can now leave hours of themselves on record: talking, laughing, explaining, apologising, telling the story about the goat for the forty-first time, but this time with the timing intact.
+Now an ordinary phone can preserve hours of voice and motion. A laptop webcam can record a clear message; a family member can help save it in more than one place. You can leave yourself on record talking, laughing, explaining, apologizing, telling the story about the goat for the forty-first time, with the timing intact.
 
 Most people do not, for three reasons. They feel silly talking to a lens. They do not know what to say. And they assume there will be time later. This part deals with all three.
 
@@ -30,9 +30,9 @@ The **testament style** is deliberate: messages recorded for a specific purpose,
 
 The legal cases in Part Two show what goes wrong when paper is missing. Recordings fail and succeed in their own ways, and the ways are just as predictable. Three short examples, invented but typical:
 
-**The grandmother who recorded too much, and indexed nothing.** For six years a widow in a farming town recorded a clip most Sunday mornings: the weather, the hens, the news, a memory of her own mother. When she died there were more than two hundred files on an old laptop, named by the camera, in no order. Her son opened the first one, heard her say good morning, and closed the laptop for a year. When he finally went through them, with his daughter beside him for courage, they found the best things by accident: the clip where she explains how she decided to marry, the one where she sings the hymn from her own wedding, the one in which she says, quite cheerfully, what she wants at her funeral. A one-page index would have let him find those three on the first evening. (Chapter 30 shows how.)
+**The grandmother who recorded too much, and indexed nothing.** For six years a widow in a farming town recorded a clip most Sunday mornings: the weather, the hens, the news, a memory of her own mother. When she died there were more than two hundred files on an old laptop, named by the camera, in no order. Her son opened the first one, heard her say good morning, and closed the laptop for a year. When he finally went through them, his daughter sat beside him for courage. They found the best clips by accident: one where she explains how she decided to marry, another where she sings the hymn from her own wedding, and one where she says, quite cheerfully, what she wants at her funeral. A one-page index would have let him find those three on the first evening. (Chapter 30 shows how.)
 
-**The father who recorded one message, and made it count.** A man in his sixties, not a talker, recorded a single nine-minute video for each of his two children after a heart scare. He wrote five lines of notes first, sat by the kitchen window, said his name and the date and who the message was for, told one story about each child that they had never heard from his side, apologised for one specific thing, and stopped. He gave each child a drive with their message on it, sealed in an envelope, the same week, and lived another eleven years. His daughter says she has watched hers perhaps twenty times, and that she knows the exact place where his voice changes.
+**The father who recorded one message, and made it count.** A man in his sixties, not a talker, recorded a single nine-minute video for each of his two children after a heart scare. He wrote five lines of notes first, sat by the kitchen window, said his name and the date and who the message was for, told one story about each child that they had never heard from his side, apologized for one specific thing, and stopped. He gave each child a drive with their message on it, sealed in an envelope, the same week, and lived another eleven years. His daughter says she has watched hers perhaps twenty times, and that she knows the exact place where his voice changes.
 
 **The mother whose recordings were locked away.** A woman recorded beautiful messages for her grandchildren on her phone and kept them nowhere else. The phone was encrypted, and nobody knew the passcode. The messages exist, somewhere, and nobody will ever see them (Case 23 is the same story about a business).
 
@@ -56,7 +56,7 @@ Whatever you use, check the settings once: record in a common, widely supported 
 
 ### Steady the camera
 
-Do not hold the phone in your hand while talking to it. A propped phone is better than a wobbling one. A small, inexpensive phone tripod or a stack of books works. Put the lens at eye level or slightly above. A camera looking up your nose is unflattering and, worse, distracting.
+Do not hold the phone in your hand while talking to it. A propped phone is better than a wobbling one. A small, inexpensive phone tripod or a stack of books works. Put the lens at eye level or slightly above. A camera looking up your nose is unflattering and, worse, distracting. The stack of books does not need to be photogenic. It is working behind the scenes.
 
 ### Horizontal or vertical
 
@@ -83,7 +83,7 @@ People will forgive a mediocre picture. They will not forgive bad sound.
 
 ### Framing
 
-Frame yourself from mid-chest up, with a little space above your head. Sit slightly off centre if you like. Look at the lens, not at the screen, when speaking to someone directly; on a phone, the lens is the small dot near the top, which is not where your own face appears. Put a small sticker beside the lens if it helps you remember.
+Frame yourself from mid-chest up, with a little space above your head. Sit slightly off center if you like. Look at the lens, not at the screen, when speaking to someone directly; on a phone, the lens is the small dot near the top, which is not where your own face appears. Put a small sticker beside the lens if it helps you remember.
 
 ### Background
 
@@ -105,6 +105,8 @@ If a family member or friend films you, let them ask the questions (Chapter 28 h
 - Sitting up in bed with the phone on a stand is fine.
 - Audio alone is better than nothing. If video is too much, use the voice recorder.
 - Ask someone to handle the device so you only have to talk.
+- Let someone else interview you, scan photographs, label names, or type while you tell the story. You can answer one question at a time, dictate a recipe, or record a few minutes and stop.
+- Invite a relative to help make one small piece with you: a recipe card, a labeled photo album, a short how-to clip, or a story transcript. Sharing the work can make it easier and give you time together now.
 - Do not wait for a "good day" that may not come. A tired, honest message is worth more than a perfect one never recorded.
 
 ### Starting each recording
@@ -123,7 +125,7 @@ Start every testament-style recording the same way. Say:
 The hardest recording is the first one. Here is a plan for a first session of about twenty minutes, from setting up to stopping.
 
 1. **Minutes 0 to 5: set up.** Sit facing the window. Prop the phone horizontally at eye level, about an arm's length away. Turn off the television and anything that hums. Put a glass of water within reach, out of the frame.
-2. **Minutes 5 to 6: test.** Record ten seconds saying anything at all. Play it back with headphones. If you can hear the fridge, move. If your face is dark, turn towards the light.
+2. **Minutes 5 to 6: test.** Record ten seconds saying anything at all. Play it back with headphones. If you can hear the fridge, move. If your face is dark, turn toward the light.
 3. **Minutes 6 to 7: the opening.** Start recording and say your name, the date, where you are, and who this is for. If it is for nobody in particular, say "for the family."
 4. **Minutes 7 to 17: one prompt.** Choose one easy prompt from Chapter 28, such as "describe the house you grew up in, room by room," and answer it as if you were talking to one person sitting just behind the phone. Do not stop when you stumble. Stumbles are what you sound like.
 5. **Minutes 17 to 18: the ending.** Say "That's all for today," or anything you would say at the end of a phone call. Then stop recording.
@@ -143,6 +145,8 @@ You will probably dislike the result. Almost everyone dislikes the sound of thei
 ## Chapter 28. What to Say: Prompts That Work
 
 Facing a lens with no plan produces a minute of awkward silence followed by the weather. Prompts fix this. Pick one prompt per recording. Answer it as if talking to one person. Stop when you are done.
+
+The weather can make a cameo; it does not need top billing.
 
 The prompts below are grouped by purpose. Appendix I is a one-page prompt card you can print and keep beside the camera.
 
@@ -171,14 +175,30 @@ The prompts below are grouped by purpose. Appendix I is a one-page prompt card y
 - What do you remember about each of your children at the age they are now? (A message for a child to watch at forty, describing them at forty-ish through your eyes, is a remarkable thing to receive.)
 - What do you want your grandchildren to know about their parents when they were small?
 - Who in the family do you most resemble, and how?
+- What ordinary ritual, song, meal, place, or joke do you hope they remember?
+- Who cared for you when you needed help, and what did you learn from them?
+- What place did you leave, arrive in, or make home? What do you remember about the first day?
+- What is something you hope your grandchild chooses for themselves, even if it is different from what you chose?
 
 ### Beliefs and lessons
 
 - What do you believe now that you did not believe at thirty, and what changed your mind?
+- What have faith, doubt, prayer, ritual, or a religious community meant to you? What, if anything, do you hope the next generation will keep, question, or leave?
 - What do you want a child or grandchild to know about money that is not a slogan?
 - What do you think matters most in a friendship?
 - What are you still unsure about?
 - What do you hope is not repeated in the family, said without instructing anyone's life?
+
+### Neighbors and the places we shared
+
+- Who lived next door when you were young? What do you remember about them?
+- Which neighbor welcomed you, helped you, or became a friend? What happened?
+- What did the street, building, or block sound and feel like at an ordinary time of day?
+- How did neighbors help one another? What small kindness stayed with you?
+- Who has moved away or died that you hope the family remembers?
+- What has changed in this neighborhood, and what do you hope remains?
+
+When a story includes someone else's private life, ask before recording or sharing it. Chapter 32 explains consent and privacy.
 
 ### Testament-style messages to a named person
 
@@ -186,7 +206,7 @@ The prompts below are grouped by purpose. Appendix I is a one-page prompt card y
 - Say what you love about them, specifically. Not "you're wonderful": "the way you argued with the referee when you were seven, and were right."
 - A memory you share with them.
 - Something you hope for them, without turning it into an order.
-- If there is something to apologise for, name it. Specific apologies land; vague ones sound like a press release.
+- If there is something to apologize for, name it. Specific apologies land; vague ones sound like a press release.
 - If there is something you want them to know about a decision that affects them, explain the reason you actually had.
 - End with something they will want to replay.
 
@@ -198,11 +218,12 @@ The prompts below are grouped by purpose. Appendix I is a one-page prompt card y
 - A hard time: a message for "a day when everything has gone wrong."
 - A birthday you will not see: what you imagine them doing at that age.
 
-### Practical knowledge
+### Knowledge and creative work
 
 - How to make the family recipe, filmed in the kitchen, with the actual measurements ("about this much" is fine, as long as the camera sees how much).
 - How the house works: the boiler, the fuse box, the leaking tap that you fix with a coin.
 - How to do the thing only you know how to do: sharpen the knives, prune the roses, tune the guitar.
+- If you write fiction: the story, character, or imagined world you hope your family will remember, and whether you want anyone to continue it.
 
 ### Weak and strong answers
 
@@ -215,6 +236,10 @@ The difference between a recording people treasure and one they watch once is sp
 > **Weak:** "Work hard and you'll succeed."
 >
 > **Strong:** "I turned down the partnership in 1998 because your grandmother was sick. I've never been sure it was right. What I'm sure of is that I don't remember a single meeting from that year, and I remember every afternoon at the hospital."
+
+Not every story needs to be about work or a major decision. A quiet ritual can carry just as much of a person:
+
+> **Strong:** "On Sundays your grandmother played the same record while she made soup. She sang the wrong words to the second verse every time. I never corrected her. When you make that soup, sing it wrong too—or don't. I just want you to know where the song came from."
 
 The strong versions have dates, places, objects, and a doubt. That is what makes them yours.
 

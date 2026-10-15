@@ -1,0 +1,491 @@
+{
+ "note": "EE Book 3 link rules (11 Oct 2026): Appendix D book titles -> Open Library search, papers -> Crossref search, Also-by -> Amazon Kindle search; keyword links, hidden URLs.",
+ "rules": [
+  {
+   "find": "Physics of Semiconductor Devices",
+   "to": "[Physics of Semiconductor Devices](https://openlibrary.org/search?q=Physics+of+Semiconductor+Devices+Sze)",
+   "in": "Sze and Ng, Physics",
+   "max": 1
+  },
+  {
+   "find": "Semiconductor Device Fundamentals",
+   "to": "[Semiconductor Device Fundamentals](https://openlibrary.org/search?q=Semiconductor+Device+Fundamentals+Pierret)",
+   "in": "Sze and Ng, Physics",
+   "max": 1
+  },
+  {
+   "find": "Solid State Electronic Devices",
+   "to": "[Solid State Electronic Devices](https://openlibrary.org/search?q=Solid+State+Electronic+Devices+Streetman)",
+   "in": "Sze and Ng, Physics",
+   "max": 1
+  },
+  {
+   "find": "Semiconductor Material and Device Characterization",
+   "to": "[Semiconductor Material and Device Characterization](https://openlibrary.org/search?q=Semiconductor+Material+and+Device+Characterization+Schroder)",
+   "in": "Sze and Ng, Physics",
+   "max": 1
+  },
+  {
+   "find": "RF Power Amplifiers for Wireless Communications",
+   "to": "[RF Power Amplifiers for Wireless Communications](https://openlibrary.org/search?q=RF+Power+Amplifiers+for+Wireless+Communications+Cripps)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Advanced Techniques in RF Power Amplifier Design",
+   "to": "[Advanced Techniques in RF Power Amplifier Design](https://openlibrary.org/search?q=Advanced+Techniques+in+RF+Power+Amplifier+Design+Cripps)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "RF and Microwave Transmitter Design",
+   "to": "[RF and Microwave Transmitter Design](https://openlibrary.org/search?q=RF+and+Microwave+Transmitter+Design+Grebennikov)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Switchmode RF and Microwave Power Amplifiers",
+   "to": "[Switchmode RF and Microwave Power Amplifiers](https://openlibrary.org/search?q=Switchmode+RF+and+Microwave+Power+Amplifiers+Grebennikov)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Gallium Nitride Electronics",
+   "to": "[Gallium Nitride Electronics](https://openlibrary.org/search?q=Gallium+Nitride+Electronics+Quay)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Microwave Transistor Amplifiers",
+   "to": "[Microwave Transistor Amplifiers](https://openlibrary.org/search?q=Microwave+Transistor+Amplifiers+Gonzalez)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Nonlinear Microwave and RF Circuits",
+   "to": "[Nonlinear Microwave and RF Circuits](https://openlibrary.org/search?q=Nonlinear+Microwave+and+RF+Circuits+Maas)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Fundamentals of Power Electronics",
+   "to": "[Fundamentals of Power Electronics](https://openlibrary.org/search?q=Fundamentals+of+Power+Electronics+Erickson)",
+   "in": "Chapter 7: Cripps",
+   "max": 1
+  },
+  {
+   "find": "Halbleiter-Schaltungstechnik",
+   "to": "[Halbleiter-Schaltungstechnik](https://openlibrary.org/search?q=Halbleiter-Schaltungstechnik+Tietze)",
+   "in": "Tietze, Schenk, and Gamm, Halbleiter",
+   "max": 1
+  },
+  {
+   "find": "Microelectronic Circuits",
+   "to": "[Microelectronic Circuits](https://openlibrary.org/search?q=Microelectronic+Circuits+Sedra)",
+   "in": "Tietze, Schenk, and Gamm, Halbleiter",
+   "max": 1
+  },
+  {
+   "find": "Analysis and Design of Analog Integrated Circuits",
+   "to": "[Analysis and Design of Analog Integrated Circuits](https://openlibrary.org/search?q=Analysis+and+Design+of+Analog+Integrated+Circuits+Gray)",
+   "in": "Tietze, Schenk, and Gamm, Halbleiter",
+   "max": 1
+  },
+  {
+   "find": "Fundamentals of Modern VLSI Devices",
+   "to": "[Fundamentals of Modern VLSI Devices](https://openlibrary.org/search?q=Fundamentals+of+Modern+VLSI+Devices+Taur)",
+   "in": "Tietze, Schenk, and Gamm, Halbleiter",
+   "max": 1
+  },
+  {
+   "find": "Nanometer CMOS ICs",
+   "to": "[Nanometer CMOS ICs](https://openlibrary.org/search?q=Nanometer+CMOS+ICs+Veendrick)",
+   "in": "Tietze, Schenk, and Gamm, Halbleiter",
+   "max": 1
+  },
+  {
+   "find": "Design of Analog CMOS Integrated Circuits",
+   "to": "[Design of Analog CMOS Integrated Circuits](https://openlibrary.org/search?q=Design+of+Analog+CMOS+Integrated+Circuits+Razavi)",
+   "in": "Razavi, Design",
+   "max": 1
+  },
+  {
+   "find": "Analog Integrated Circuit Design",
+   "to": "[Analog Integrated Circuit Design](https://openlibrary.org/search?q=Analog+Integrated+Circuit+Design+Johns)",
+   "in": "Razavi, Design",
+   "max": 1
+  },
+  {
+   "find": "Matching Properties of MOS Transistors",
+   "to": "[Matching Properties of MOS Transistors](https://search.crossref.org/?q=Matching+Properties+of+MOS+Transistors)",
+   "in": "Razavi, Design",
+   "max": 1
+  },
+  {
+   "find": "Low-Noise Electronic System Design",
+   "to": "[Low-Noise Electronic System Design](https://openlibrary.org/search?q=Low-Noise+Electronic+System+Design+Motchenbacher)",
+   "in": "Razavi, Design",
+   "max": 1
+  },
+  {
+   "find": "Digital Integrated Circuits",
+   "to": "[Digital Integrated Circuits](https://openlibrary.org/search?q=Digital+Integrated+Circuits+Rabaey)",
+   "in": "Rabaey, Chandrakasan",
+   "max": 1
+  },
+  {
+   "find": "CMOS VLSI Design",
+   "to": "[CMOS VLSI Design](https://openlibrary.org/search?q=CMOS+VLSI+Design+Weste)",
+   "in": "Rabaey, Chandrakasan",
+   "max": 1
+  },
+  {
+   "find": "Memory Systems",
+   "to": "[Memory Systems](https://openlibrary.org/search?q=Memory+Systems+Jacob)",
+   "in": "Rabaey, Chandrakasan",
+   "max": 1
+  },
+  {
+   "find": "ESD in Silicon Integrated Circuits",
+   "to": "[ESD in Silicon Integrated Circuits](https://openlibrary.org/search?q=ESD+in+Silicon+Integrated+Circuits+Amerasekera)",
+   "in": "Rabaey, Chandrakasan",
+   "max": 1
+  },
+  {
+   "find": "Light-Emitting Diodes",
+   "to": "[Light-Emitting Diodes](https://openlibrary.org/search?q=Light-Emitting+Diodes+Schubert)",
+   "in": "Sze and Ng for recombination",
+   "max": 1
+  },
+  {
+   "find": "Photodiode Amplifiers",
+   "to": "[Photodiode Amplifiers](https://openlibrary.org/search?q=Photodiode+Amplifiers+Graeme)",
+   "in": "Sze and Ng for recombination",
+   "max": 1
+  },
+  {
+   "find": "Fundamentals of Power Semiconductor Devices",
+   "to": "[Fundamentals of Power Semiconductor Devices](https://openlibrary.org/search?q=Fundamentals+of+Power+Semiconductor+Devices+Baliga)",
+   "in": "Sze and Ng for recombination",
+   "max": 1
+  },
+  {
+   "find": "Silicon VLSI Technology",
+   "to": "[Silicon VLSI Technology](https://openlibrary.org/search?q=Silicon+VLSI+Technology+Plummer)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "Thin Film Resonator Technology",
+   "to": "[Thin Film Resonator Technology](https://search.crossref.org/?q=Thin+Film+Resonator+Technology)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "Enhancement of Piezoelectric Response in Scandium Aluminum Nitride Alloy Thin Films",
+   "to": "[Enhancement of Piezoelectric Response in Scandium Aluminum Nitride Alloy Thin Films](https://search.crossref.org/?q=Enhancement+of+Piezoelectric+Response+in+Scandium+Aluminum+Nitride+Alloy+Thin+Films)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "RF Bulk Acoustic Wave Filters for Communications",
+   "to": "[RF Bulk Acoustic Wave Filters for Communications](https://openlibrary.org/search?q=RF+Bulk+Acoustic+Wave+Filters+for+Communications+Hashimoto)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "FinFET Modeling for IC Simulation and Design",
+   "to": "[FinFET Modeling for IC Simulation and Design](https://openlibrary.org/search?q=FinFET+Modeling+for+IC+Simulation+and+Design+Chauhan)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "An Integral Charge Control Model of Bipolar Transistors",
+   "to": "[An Integral Charge Control Model of Bipolar Transistors](https://search.crossref.org/?q=An+Integral+Charge+Control+Model+of+Bipolar+Transistors)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity",
+   "to": "[Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+1%3A+Motion%2C+Forces%2C+Time%2C+and+Relativity+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 1: Motion, Forces, Time, and Relat",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime",
+   "to": "[Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+2%3A+Gravity%2C+Cosmology%2C+and+the+Limits+of+Spacetime+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 2: Gravity, Cosmology, and the Lim",
+   "max": 1
+  },
+  {
+   "find": "Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge",
+   "to": "[Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge](https://www.amazon.com/s?k=Physics%2C+Actually%2C+Volume+3%3A+The+Standard+Model%2C+Chaos%2C+and+the+Edge+of+Knowledge+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Physics, Actually, Volume 3: The Standard Model, Chaos, and ",
+   "max": 1
+  },
+  {
+   "find": "Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere",
+   "to": "[Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere](https://www.amazon.com/s?k=Life%2C+Actually%3A+From+the+First+Cell+to+the+Edited+Genome+and+the+Search+for+Life+Elsewhere+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Life, Actually: From the First Cell to the Edited Genome and",
+   "max": 1
+  },
+  {
+   "find": "Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard",
+   "to": "[Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard](https://www.amazon.com/s?k=Gravity%2C+Actually%3A+Einstein%E2%80%99s+Relativity+in+Plain+Words%3A+Falling%2C+Time%2C+Black+Holes%2C+and+the+Waves+We+Finally+Heard+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Gravity, Actually: Einstein’s Relativity in Plain Words: Fal",
+   "max": 1
+  },
+  {
+   "find": "The Universe, Actually: What Humanity Currently Understands About Reality",
+   "to": "[The Universe, Actually: What Humanity Currently Understands About Reality](https://www.amazon.com/s?k=The+Universe%2C+Actually%3A+What+Humanity+Currently+Understands+About+Reality+Lothar+J.+Musiol&i=digital-text)",
+   "in": "The Universe, Actually: What Humanity Currently Understands ",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 1: From Arithmetic to Calculus",
+   "to": "[Math, Actually, Volume 1: From Arithmetic to Calculus](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+1%3A+From+Arithmetic+to+Calculus+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 1: From Arithmetic to Calculus",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic",
+   "to": "[Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+2%3A+From+Multivariable+Calculus+to+Set+Theory+%26+Logic+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 2: From Multivariable Calculus to Set",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 3: From Differential Equations to Abstract Algebra",
+   "to": "[Math, Actually, Volume 3: From Differential Equations to Abstract Algebra](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+3%3A+From+Differential+Equations+to+Abstract+Algebra+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 3: From Differential Equations to Abs",
+   "max": 1
+  },
+  {
+   "find": "Math, Actually, Volume 4: From Category Theory to the Frontier",
+   "to": "[Math, Actually, Volume 4: From Category Theory to the Frontier](https://www.amazon.com/s?k=Math%2C+Actually%2C+Volume+4%3A+From+Category+Theory+to+the+Frontier+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Math, Actually, Volume 4: From Category Theory to the Fronti",
+   "max": 1
+  },
+  {
+   "find": "Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire",
+   "to": "[Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+1%3A+Questions+and+Answers+from+the+Double+Slit+to+the+Superconducting+Wire+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Quantum, Actually, Volume 1: Questions and Answers from the ",
+   "max": 1
+  },
+  {
+   "find": "Quantum, Actually, Volume 2: A QED Course",
+   "to": "[Quantum, Actually, Volume 2: A QED Course](https://www.amazon.com/s?k=Quantum%2C+Actually%2C+Volume+2%3A+A+QED+Course+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Quantum, Actually, Volume 2: A QED Course",
+   "max": 1
+  },
+  {
+   "find": "Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights",
+   "to": "[Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights](https://www.amazon.com/s?k=Science+Sparks%3A+Physics%2C+Life%2C+and+Mathematics+%E2%80%94+The+Same+Few+Rules%2C+Told+in+Highlights+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Science Sparks: Physics, Life, and Mathematics — The Same Fe",
+   "max": 1
+  },
+  {
+   "find": "Look First, Volume 1: The Universe Has No Now",
+   "to": "[Look First, Volume 1: The Universe Has No Now](https://www.amazon.com/s?k=Look+First%2C+Volume+1%3A+The+Universe+Has+No+Now+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Look First, Volume 1: The Universe Has No Now",
+   "max": 1
+  },
+  {
+   "find": "Look First, Volume 2: A Trip Is Not a New Life",
+   "to": "[Look First, Volume 2: A Trip Is Not a New Life](https://www.amazon.com/s?k=Look+First%2C+Volume+2%3A+A+Trip+Is+Not+a+New+Life+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Look First, Volume 2: A Trip Is Not a New Life",
+   "max": 1
+  },
+  {
+   "find": "Foundations of Electronics",
+   "to": "[Foundations of Electronics](https://www.amazon.com/s?k=Foundations+of+Electronics+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Foundations of Electronics (Book 1)",
+   "max": 1
+  },
+  {
+   "find": "Circuits, Components, and Control",
+   "to": "[Circuits, Components, and Control](https://www.amazon.com/s?k=Circuits%2C+Components%2C+and+Control+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Circuits, Components, and Control (Book 2)",
+   "max": 1
+  },
+  {
+   "find": "RF, Microwave, and Transceivers",
+   "to": "[RF, Microwave, and Transceivers](https://www.amazon.com/s?k=RF%2C+Microwave%2C+and+Transceivers+Lothar+J.+Musiol&i=digital-text)",
+   "in": "RF, Microwave, and Transceivers (Book 4)",
+   "max": 1
+  },
+  {
+   "find": "Communications, Wireless, and SDR",
+   "to": "[Communications, Wireless, and SDR](https://www.amazon.com/s?k=Communications%2C+Wireless%2C+and+SDR+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Communications, Wireless, and SDR (Book 5)",
+   "max": 1
+  },
+  {
+   "find": "Power and Energy",
+   "to": "[Power and Energy](https://www.amazon.com/s?k=Power+and+Energy+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Power and Energy (Book 6)",
+   "max": 1
+  },
+  {
+   "find": "Packaging, Layout, EMC, and Test",
+   "to": "[Packaging, Layout, EMC, and Test](https://www.amazon.com/s?k=Packaging%2C+Layout%2C+EMC%2C+and+Test+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Packaging, Layout, EMC, and Test (Book 7)",
+   "max": 1
+  },
+  {
+   "find": "The Dolphins’ View of History",
+   "to": "[The Dolphins’ View of History](https://www.amazon.com/s?k=The+Dolphins%E2%80%99+View+of+History+Lothar+J.+Musiol&i=digital-text)",
+   "in": "The Dolphins’ View of History",
+   "max": 1
+  },
+  {
+   "find": "The Murder That Hadn’t Happened Yet",
+   "to": "[The Murder That Hadn’t Happened Yet](https://www.amazon.com/s?k=The+Murder+That+Hadn%E2%80%99t+Happened+Yet+Spezala+Genara+Relavi&i=digital-text)",
+   "in": "The Murder That Hadn’t Happened Yet (The Relativistic Invest",
+   "max": 1
+  },
+  {
+   "find": "The Warning That Was Sent Too Late",
+   "to": "[The Warning That Was Sent Too Late](https://www.amazon.com/s?k=The+Warning+That+Was+Sent+Too+Late+Spezala+Genara+Relavi&i=digital-text)",
+   "in": "The Warning That Was Sent Too Late (The Relativistic Investi",
+   "max": 1
+  },
+  {
+   "find": "Schrödinger’s Paperwork",
+   "to": "[Schrödinger’s Paperwork](https://www.amazon.com/s?k=Schr%C3%B6dinger%E2%80%99s+Paperwork+Quentin+Edmund+Darling&i=digital-text)",
+   "in": "Schrödinger’s Paperwork (Lolly Wren’s Curious Science Advent",
+   "max": 1
+  },
+  {
+   "find": "The Permitted Options",
+   "to": "[The Permitted Options](https://www.amazon.com/s?k=The+Permitted+Options+Quentin+Edmund+Darling&i=digital-text)",
+   "in": "The Permitted Options (Lolly Wren’s Curious Science Adventur",
+   "max": 1
+  },
+  {
+   "find": "Protocol Flamingo",
+   "to": "[Protocol Flamingo](https://www.amazon.com/s?k=Protocol+Flamingo+George+Herbert+Fontaine&i=digital-text)",
+   "in": "Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar ",
+   "max": 1
+  },
+  {
+   "find": "In Love with Murder, Actually: A Derailed Mystery in Provence",
+   "to": "[In Love with Murder, Actually: A Derailed Mystery in Provence](https://www.amazon.com/s?k=In+Love+with+Murder%2C+Actually%3A+A+Derailed+Mystery+in+Provence+Romuald+Livingston&i=digital-text)",
+   "in": "In Love with Murder, Actually: A Derailed Mystery in Provenc",
+   "max": 1
+  },
+  {
+   "find": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?",
+   "to": "[Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?](https://www.amazon.com/s?k=Auswandern+%E2%80%93+Ab+in+die+USA%2C+Kanada%2C+Australien+oder+Neuseeland%3F+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Auswandern – Ab in die USA, Kanada, Australien oder Neuseela",
+   "max": 1
+  },
+  {
+   "find": "Semiconductor Device Modeling with SPICE",
+   "to": "[Semiconductor Device Modeling with SPICE](https://openlibrary.org/search?q=Semiconductor+Device+Modeling+with+SPICE+Massobrio)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "ngspice User's Manual",
+   "to": "[ngspice User's Manual](https://ngspice.sourceforge.io/docs.html)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "Science and Statistics",
+   "to": "[Science and Statistics](https://search.crossref.org/?q=Science+and+Statistics+Box+1976)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "Robustness in the Strategy of Scientific Model Building",
+   "to": "[Robustness in the Strategy of Scientific Model Building](https://search.crossref.org/?q=Robustness+in+the+Strategy+of+Scientific+Model+Building)",
+   "in": "Massobrio and Antognetti",
+   "max": 1
+  },
+  {
+   "find": "Ultrawide-Bandgap Semiconductors: Research Opportunities and Challenges",
+   "to": "[Ultrawide-Bandgap Semiconductors: Research Opportunities and Challenges](https://search.crossref.org/?q=Ultrawide-Bandgap+Semiconductors%3A+Research+Opportunities+and+Challenges)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "From Wide to Ultrawide-Bandgap Semiconductors for High Power and High Frequency Electronic Devices",
+   "to": "[From Wide to Ultrawide-Bandgap Semiconductors for High Power and High Frequency Electronic Devices](https://search.crossref.org/?q=From+wide+to+ultrawide-bandgap+semiconductors+for+high+power+and+high+frequency+electronic+devices)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Diode Lasers and Photonic Integrated Circuits",
+   "to": "[Diode Lasers and Photonic Integrated Circuits](https://openlibrary.org/search?q=Diode+Lasers+and+Photonic+Integrated+Circuits+Coldren)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Multiplication Noise in Uniform Avalanche Diodes",
+   "to": "[Multiplication Noise in Uniform Avalanche Diodes](https://search.crossref.org/?q=Multiplication+Noise+in+Uniform+Avalanche+Diodes)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Smart CMOS Image Sensors and Applications",
+   "to": "[Smart CMOS Image Sensors and Applications](https://openlibrary.org/search?q=Smart+CMOS+Image+Sensors+and+Applications+Ohta)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Event-Based Vision: A Survey",
+   "to": "[Event-Based Vision: A Survey](https://search.crossref.org/?q=Event-Based+Vision%3A+A+Survey)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Detailed Balance Limit of Efficiency of p-n Junction Solar Cells",
+   "to": "[Detailed Balance Limit of Efficiency of p-n Junction Solar Cells](https://search.crossref.org/?q=Detailed+Balance+Limit+of+Efficiency+of+p-n+Junction+Solar+Cells)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Practical MEMS",
+   "to": "[Practical MEMS](https://openlibrary.org/search?q=Practical+MEMS+Kaajakari)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Hall Effect Devices",
+   "to": "[Hall Effect Devices](https://openlibrary.org/search?q=Hall+Effect+Devices+Popovic)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Nitrogen-Vacancy Centers in Diamond: Nanoscale Sensors for Physics and Biology",
+   "to": "[Nitrogen-Vacancy Centers in Diamond: Nanoscale Sensors for Physics and Biology](https://search.crossref.org/?q=Nitrogen-Vacancy+Centers+in+Diamond%3A+Nanoscale+Sensors+for+Physics+and+Biology)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "Tiny Tapeout project pages",
+   "to": "[Tiny Tapeout project pages](https://tinytapeout.com)",
+   "in": "Tsao et al.",
+   "max": 1
+  },
+  {
+   "find": "5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate",
+   "to": "[5 GHz Laterally-Excited Bulk-Wave Resonators (XBARs) Based on Thin Platelets of Lithium Niobate](https://search.crossref.org/?q=5+GHz+laterally-excited+bulk-wave+resonators+%28XBARs%29+based+on+thin+platelets+of+lithium+niobate)",
+   "in": "Plummer, Deal, and Griffin",
+   "max": 1
+  },
+  {
+   "find": "Test and Measurement Instruments",
+   "to": "[Test and Measurement Instruments](https://www.amazon.com/s?k=Test+and+Measurement+Instruments+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Test and Measurement Instruments (Book 9)",
+   "max": 1
+  },
+  {
+   "find": "Firmware and Software for Electronics",
+   "to": "[Firmware and Software for Electronics](https://www.amazon.com/s?k=Firmware+and+Software+for+Electronics+Lothar+J.+Musiol&i=digital-text)",
+   "in": "Firmware and Software for Electronics (Book 8)",
+   "max": 1
+  }
+ ]
+}

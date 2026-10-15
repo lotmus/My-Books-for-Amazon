@@ -1,4 +1,5 @@
 import re, glob, docx
+from pathlib import Path
 from docx import Document
 from docx.shared import Pt, Inches, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
@@ -9,7 +10,8 @@ from docx.oxml import OxmlElement
 TITLE="The Will Is Not the Legacy, Actually"
 SUB="Wills, the real alternatives, video messages, and the family list that keeps it all usable"
 AUTHOR="Lothar J. Musiol"
-md_files=sorted(glob.glob('/workspace/will/md/*.md'))
+ROOT=Path(__file__).resolve().parents[1]
+md_files=sorted(glob.glob(str(ROOT/'md'/'*.md')))
 
 doc=Document()
 sec=doc.sections[0]
@@ -177,7 +179,7 @@ for b in blocks:
     elif b[0]=='img':
         from docx.enum.text import WD_ALIGN_PARAGRAPH
         p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER; p.paragraph_format.keep_with_next=True
-        p.add_run().add_picture('/workspace/will/'+b[2],width=Inches(4.5))
+        p.add_run().add_picture(str(ROOT/b[2]),width=Inches(4.5))
         c=doc.add_paragraph(); c.alignment=WD_ALIGN_PARAGRAPH.CENTER
         r=c.add_run(b[1]); r.italic=True; r.font.size=Pt(9.5)
     elif b[0]=='box':
@@ -222,22 +224,18 @@ for b in blocks:
                 pp.paragraph_format.space_after=Pt(1)
         doc.add_paragraph()
 
-# Review invitation
-page_break()
-for _ in range(3): doc.add_paragraph()
-p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER
-r=p.add_run("If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one."); r.italic=True
 # About the author (Version B)
-page_break()
-p=doc.add_paragraph(style='Heading 1'); p.add_run('About the Author'); add_bookmark(p,'_secabout')
-about=open('/workspace/will/about.md',encoding='utf-8').read()
+p=doc.add_paragraph(style='Heading 1'); p.paragraph_format.page_break_before=True; p.add_run('About the Author'); add_bookmark(p,'_secabout')
+about=open(ROOT/'about.md',encoding='utf-8').read()
 vb=about.split('## Version B',1)[1].split('Plain-text copies',1)[0].strip()
 for para in [x.strip() for x in vb.split('\n\n') if x.strip()]:
     doc.add_paragraph(para)
+# Review invitation
+p=doc.add_paragraph(); p.alignment=WD_ALIGN_PARAGRAPH.CENTER
+r=p.add_run("If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one."); r.italic=True
 # Also by
-page_break()
-p=doc.add_paragraph(style='Heading 1'); p.add_run('Also by Lothar J. Musiol'); add_bookmark(p,'_secalso')
-ab=open('/workspace/will/alsoby.md',encoding='utf-8').read()
+p=doc.add_paragraph(style='Heading 1'); p.paragraph_format.page_break_before=True; p.add_run('Also by Lothar J. Musiol'); add_bookmark(p,'_secalso')
+ab=open(ROOT/'alsoby.md',encoding='utf-8').read()
 sect=ab.split('## Also by Lothar J. Musiol',1)[1].split('## Also by Kevin Drew Peters',1)[0]
 for line in sect.strip().split('\n'):
     line=line.strip()
@@ -261,7 +259,8 @@ for rpr in doc.element.body.iter(qn('w:rPr')):
         for k in kids: rpr.remove(k)
         for k in kids: rpr.append(k)
 doc.core_properties.title=TITLE; doc.core_properties.subject=SUB; doc.core_properties.author=AUTHOR
-out='/workspace/will/out/The_Will_Is_Not_the_Legacy_Actually_MASTER.docx'
+out_dir=ROOT/'out'; out_dir.mkdir(exist_ok=True)
+out=str(out_dir/'The_Will_Is_Not_the_Legacy_Actually_MASTER.docx')
 def _kindle_links(path):
     """Kindle links (10 Oct 2026): sources and bibliography entries become clickable keywords with no visible
     URL text. Rules: ../kindle_links.json next to the book; tool: tools/kindle_links.py at the repo root."""

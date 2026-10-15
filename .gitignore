@@ -26,6 +26,6 @@ node_modules/
 # Per-book backup/leftover folders (move, never delete; not tracked)
 bak/
 
-# Docx-only policy
-*.epub
+# Docx master and EPUB upload; PDF stays ignored
+# *.epub is no longer ignored (Lothar, 11 Oct 2026): EPUB is the upload format
 *.pdf

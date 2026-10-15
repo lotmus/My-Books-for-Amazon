@@ -1,4 +1,4 @@
-﻿# Lothar's standing rules for every book
+# Lothar's standing rules for every book
 
 This is the handbook for any assistant working on Lothar J. Musiol's books, on any account. Read it before you edit. Prefer this file over memory, chat history, or an older book note when they disagree. Book-specific notes (each book's `notes/` or `CLAUDE.md`) still win for details that apply only inside that book. Canonical bio and Also-by text live in the sibling files named below; do not invent a second copy.
 
@@ -16,7 +16,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
   - **Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)**: Lolly Wren's Curious Science Adventures books.
   - **Lothar J. Musiol writing as Romuald Livingston**: *In Love with Murder, Actually*.
   - **Lothar J. Musiol writing as George Herbert Fontaine**: *Protocol Flamingo*.
-  - **Anneliese Tauber** (a Bavarian mother of four): *Bavarian Cooking Made Simple*. Never list it in Lothar's Also-by. It has no Also-by page of its own.
+  - **Anneliese Tauber** (a mother of four who read her children many fairy tales; no Bavaria claim in the Step Stories): *Bavarian Cooking Made Simple* and *The Wee Scallywag and the Gentle Elf*, *Scally and the Sleepless Stream* and *Scally and the Hill with the Hanging Socks* (The Step Stories, children’s STEM fantasy; decided 11 Oct 2026 to build one family-friendly brand; American spelling and USA audience; full rules in `notes/STEP_STORIES_HANDOVER.md`). Never list her books in Lothar's Also-by, and never mention Lothar’s name in her books. Her Also-by page lists only Anneliese Tauber books. Her About the Author is two or three warm sentences in the same voice.
 - Do not bring back retired titles or series names on any Also-by page. The retired list lives in `notes/ALSO_BY - canonical list.md`.
 
 ---
@@ -26,16 +26,16 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - There are two About the Author versions. Canonical text: `notes/ABOUT_THE_AUTHOR - canonical.md`. Use it exactly (italicize the two film titles in Version A).
   - **Version A** (with the *Love Actually* "Colin" line): British-English novels — RIB Books 1–2, Lolly Wren Books 1–2, *Protocol Flamingo*, *In Love with Murder, Actually*. Keep each book's own pen-name paragraph(s) first, then Version A.
   - **Version B** (without Colin): every other book under Lothar's name. Both versions mention Gucci.
-  - **Never** put either version on the Kevin Drew Peters books, on Auswandern, or on Bavarian Cooking.
+  - **Never** put either version on the Kevin Drew Peters books, on Auswandern, on Bavarian Cooking, or on The Wee Scallywag and the Gentle Elf.
 - Placement: replace an existing About the Author section; otherwise add one just before the Also-by page. If a book has no back matter, put About the Author at the end.
-- Every book gets a nice, inviting review line and an Also-by page, except where Identity forbids it (Bavarian Cooking; Kevin Drew Peters books use only their own short list).
+- Every book gets a nice, inviting review line and an Also-by page, except where Identity forbids it (the Anneliese Tauber books list only Anneliese Tauber books; Kevin Drew Peters books use only their own short list).
 - Canonical Also-by list and order: `notes/ALSO_BY - canonical list.md`. Every Lothar-name book's Also-by page uses that list, leaves out the book itself, and keeps that book's own layout. Keep "Also in This Series" pages separate. Auswandern is listed under In German; its own docx has no Also-by page.
 
 ---
 
 ## Files and folders
 
-- Deliverable format is **docx only**. Markdown working copies are fine. Never build, offer, or ship PDF or EPUB.
+- Working format is **docx**: every book is written, reviewed and kept as a Word master during development. Markdown working copies are fine. The file uploaded to KDP is an **EPUB** built from the docx (clarified by Lothar 11 Oct 2026; the earlier wording "docx only, never EPUB" was a misreading). Keep the docx as the master and rebuild the EPUB from it. File names carry the version (for example `..._Book1_v8.docx` and `..._Book1_v8.epub`, built from `Book1_Story_v8.txt`); when you make a new version, move the previous one to `bak\` and keep only the current master at the top of the folder (Lothar, 12 Oct 2026). Do not build or offer PDF unless asked. EPUB files may be committed (the `*.epub` ignore rule was removed on 11 Oct 2026); commit only the EPUB of the book you are working on.
 - Never delete anything. Move old files into the book's `bak\` subfolder, or into a dated folder under `D:\bak\`.
 - Only the current master, its md working copy, and notes stay at the top of each book folder. Older versions go into that book's `bak\`.
 - Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
@@ -75,10 +75,11 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ## Kindle and layout
 
-- Fully Kindle-compatible. **No Word tables.** Prefer headed lists or a diagram; as a last resort, a picture of the table with the table's text repeated as the description.
+- **Headings** (Lothar, 2026-10-11, applies to every book): bold, 16pt, dark-to-medium blue, centered, in a font that is Kindle-compatible and survives an EPUB import (Amazon Ember where already in use; otherwise a standard embedded font Word/KDP ships natively — Georgia, Bookerly, Caecilia, or similar; never a system font that gets substituted silently). Each chapter (and any other top-level heading: Prologue, Epilogue, appendices, Notes and Sources, Further Reading, Also-by) starts at the top of a fresh page — insert a page break before the heading, not just extra blank lines. Word page size: **6in x 9in** for the master docx, not US Letter or A4. Note for future assistants (confirmed 12 Oct 2026): these are reflowable ebooks, so Kindle's conversion (KindleGen/KDP) ignores the Word page size entirely and reflows text to whatever screen the reader has — there is no single "Kindle screen size" a reflowable manuscript's page can literally match. 6x9 is chosen because an oversized master page (Letter/A4) can still cause visible-on-Kindle margin and embedded-image/table scaling quirks during conversion; that is the only thing the Word page size actually affects here. Matching a real device's pixel aspect ratio only matters for a fixed-layout Kindle book (comics, heavily illustrated children's books) — none of these titles are built that way, so don't chase device pixel dimensions on the master docx. This is a standing formatting rule for all 30+ books, not a one-off for any single title; apply it the next time a book's layout is touched rather than as its own dedicated pass across the whole catalog at once.
 - Images inline only. No text boxes, no floating images.
 - Photos about **440 px** wide, JPEG, with a gentle warm colour boost so dishes and subjects look inviting. Crop to the subject. Replace dull, blurry, or unappetising photos.
 - Diagrams with small labels about **800 px**.
+- Word page size for novel and ebook masters: a **Kindle screen**, 3.6 x 4.8 in (6-inch Paperwhite proportions) with 0.3 in margins, so Word's page breaks look like a Kindle's. Every image must fit inside the 3.0 in text width and the page height (scale down, keep proportions). Each Heading 1 (chapter, appendix, back-matter section) starts a new page (Page break before). Added 13 Oct 2026.
 - Embedded front cover about **1000×1600** (separate KDP cover files may be larger, for example 1600×2560).
 - Back covers are **text-only on a single colour**. No barcode on the ebook back cover art unless a print wrap needs it.
 - Contents page: list and link everything (every appendix item, About the Author, Also-by). **No page numbers** on the contents page.

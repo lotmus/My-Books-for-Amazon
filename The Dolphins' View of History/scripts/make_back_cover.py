@@ -29,7 +29,8 @@ paras=[
  ("i","A dry, funny, and unexpectedly fair history of us, told by the neighbors."),
 ]
 y=320
-ctext(y,"THE DOLPHINS\u2019 VIEW OF HISTORY",ft,CREAM); y+=110
+ctext(y,"THE DOLPHINS\u2019 VIEW OF HISTORY",ft,CREAM); y+=100
+ctext(y,"FIFTY MILLION YEARS OF WATCHING YOU MESS THIS UP",font('Marcellus SC/MarcellusSC-Regular.ttf',34),GOLD); y+=70
 d.line([(560,y),(1040,y)],fill=GOLD,width=3); y+=80
 MAXW=1180
 for k,t in paras:

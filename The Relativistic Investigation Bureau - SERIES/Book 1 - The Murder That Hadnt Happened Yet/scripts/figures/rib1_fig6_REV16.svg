@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400">
+  <rect width="1600" height="400" fill="#ffffff"/>
+  <text x="800" y="75" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="bold" fill="#17365d">THE METRIC LINE ELEMENT</text>
+  <line x1="160" y1="105" x2="1440" y2="105" stroke="#8aa3bf" stroke-width="2"/>
+  <text x="800" y="220" text-anchor="middle" font-family="Cambria Math, STIX Two Math, Georgia, serif" font-size="88" font-style="italic" fill="#111111">ds² = g<tspan baseline-shift="sub" font-size="58">μν</tspan> dx<tspan baseline-shift="super" font-size="58">μ</tspan> dx<tspan baseline-shift="super" font-size="58">ν</tspan></text>
+  <text x="800" y="305" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#252525">μ, ν = 0, 1, 2, 3 · repeated indices are summed</text>
+  <text x="800" y="355" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#525f70">The metric gμν encodes the geometry of spacetime.</text>
+</svg>

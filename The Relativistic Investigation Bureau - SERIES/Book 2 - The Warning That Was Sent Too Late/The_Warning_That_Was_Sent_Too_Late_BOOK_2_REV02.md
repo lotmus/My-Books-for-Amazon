@@ -108,7 +108,7 @@ To take the class: read each chapter, then the lesson it points to. No physics i
 
 If you are impatient: the sheet arrives in the Prologue and the door opens at the end of it. The Bureau understands impatience; it simply prefers it in writing.
 
-One promise: relativity will not be used as permission for a message to arrive from its own future. The platform in the doorway is the book’s one unexplained thing, and it stays unexplained. Everything else has a cause, an order and a time, and the investigation finds them.
+One promise: relativity will not be used as permission for a message to arrive from its own future. The investigation accounts for the morning sheet's words, route and arrival. The platform itself remains unexplained; the Sunday slip and the voice remain open questions.
 
 A companion film for each lesson is listed at the end of the course. None of them is required.
 

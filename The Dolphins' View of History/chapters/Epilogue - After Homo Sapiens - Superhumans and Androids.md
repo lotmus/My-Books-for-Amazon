@@ -4,11 +4,11 @@ Dolphin historians close this book watching two branchings happen at once, in re
 
 The first branch is biological. Gene-editing tools, CRISPR chief among them, now let scientists alter DNA with a precision and affordability that did not exist a generation ago. Editing an embryo's or a germline's genes, rather than an individual patient's, remains rare, contested, and in most countries restricted or banned outright — but the technical capability exists now, years ahead of any global agreement on when, or whether, it should be used. Alongside it runs a parallel effort at life extension, aimed less at curing a single disease than at slowing aging itself. Taken together and taken to their logical end, these tools could eventually produce human descendants as different from unmodified humans as the earliest Homo sapiens were from the hominins that came before them.
 
-The second branch is artificial, and its specific shape matters more than the generic one. The relevant development is not disembodied software alone; it is artificial intelligence paired deliberately with android bodies — humanoid robots built with hands, because their human designers, correctly, built them to finish the job hands started back in this book's opening chapter.
+The second branch is artificial, and its specific shape matters more than the generic one. The relevant development is not disembodied software alone; it is artificial intelligence paired deliberately with android bodies — humanoid robots built with hands, because their human designers, correctly, built them to finish the job hands started back in the opening chapter.
 
 *“Humans are now building their own replacements,” dolphin historians noted, “for the one piece of anatomy the dolphins were told, at the very start of this book, that they could never grow.”*
 
-*It is, on the available evidence, the first item this species has ever manufactured on purpose specifically to take its own place. Dolphin scholarship wishes it well and notes, purely for the record, that every other tool in this book was also going to be perfectly safe.*
+*It is, on the available evidence, the first item this species has ever manufactured on purpose specifically to take its own place. Dolphin scholarship wishes it well and notes, purely for the record, that every other tool covered here was also going to be perfectly safe.*
 
 Neither branch is fated to arrive on any particular timeline. Both raise the same question this book has been asking in one form or another: does the next mind to hold a hand, or a hand's equivalent, inherit the wisdom half of the ledger along with the capability half, or only the capability half? So many chapters before this one show the capability arriving first and the wisdom catching up late, if at all.
 
@@ -18,7 +18,7 @@ The book closes, as its first chapter opened, on the same single thesis line, re
 
 **Dolphin verdict:**
 
-*The dolphins remain offshore, still without hands, still watching, and, after everything recorded in this book, still curious, not afraid. Their only real advice, offered here for the last time and meant for whatever reads this next, human or otherwise: a bigger brain, a better tool, or a stranger new body will keep arriving on schedule. Wisdom will not arrive on any schedule at all. It has to be chosen, every time, by whoever is holding the hands.*
+*The dolphins remain offshore, still without hands, still watching, and, after everything recorded here, still curious, not afraid. Their only real advice, offered here for the last time and meant for whatever reads this next, human or otherwise: a bigger brain, a better tool, or a stranger new body will keep arriving on schedule. Wisdom will not arrive on any schedule at all. It has to be chosen, every time, by whoever is holding the hands.*
 
 Signed,
 

@@ -6,7 +6,7 @@
 
 He did, however, want his partner to have the flat. He also wanted his niece, the daughter of his late brother, to have his savings and his collection of antique slide rules, which she had admired as a child and had no idea what to do with as an adult.
 
-The engineer was proud of his laser printer. One rainy Sunday he typed a clear, well-organised will on his computer, with numbered paragraphs and a heading in bold. He printed it, dated it, and signed it in blue ink at the bottom. He put it in his desk drawer, with the warranty for the printer, and told his partner where it was.
+The engineer was proud of his laser printer. One rainy Sunday he typed a clear, well-organized will on his computer, with numbered paragraphs and a heading in bold. He printed it, dated it, and signed it in blue ink at the bottom. He put it in his desk drawer, with the warranty for the printer, and told his partner where it was.
 
 He died of a stroke three years later.
 
@@ -20,7 +20,7 @@ Without a valid will, the statutory order of inheritance applied. The engineer h
 
 His sister and his nephew were not wicked people, but they were not rich either, and the flat in Schwabing was worth a great deal. They gave his partner a year to find somewhere else. The niece, who felt terrible, gave his partner the slide rules.
 
-Even if the will had been valid, his partner would have faced a second problem: German inheritance tax. An unmarried partner falls into the least favourable tax class, class III, with a personal allowance of only 20,000 euros (ErbStG § 16), and tax on the rest starting at 30 per cent. A spouse would have had an allowance of 500,000. For a flat in Munich, the difference can be the price of the flat itself. The engineer's principles about the state's permission had a price tag, and his partner would have paid it.
+Even if the will had been valid, his partner would have faced a second problem: German inheritance tax. An unmarried partner falls into the least favorable tax class, class III, with a personal allowance of only 20,000 euros (ErbStG § 16), and tax on the rest starting at 30 per cent. A spouse would have had an allowance of 500,000. For a flat in Munich, the difference can be the price of the flat itself. The engineer's principles about the state's permission had a price tag, and his partner would have paid it.
 
 **What would have prevented it.** On the form, two easy options:
 
@@ -29,7 +29,7 @@ Even if the will had been valid, his partner would have faced a second problem: 
 
 On the tax, the honest answer is that some couples marry or register partly for this reason, late in life, after decades of saying they never would. Others use lifetime gifts spread over ten-year periods, life insurance structured with care, or a right of residence (*Wohnrecht*) instead of ownership, which can reduce the taxable value. All of these need advice. None of them can be arranged after the funeral.
 
-**Writing a German handwritten will that works.** A few habits make a handwritten will stronger without making it longer: a clear heading, full names, property described so it can be identified, a clear choice between an heir and a single gift, and the signature at the very end. They are set out in [Chapter 11](#Writing a German handwritten will that works).
+**Writing a German handwritten will that works.** A few habits make a handwritten will stronger without making it longer. Use a clear heading and full names. Describe property so it can be identified, distinguish an heir from someone receiving a single gift, and sign at the very end. They are set out in [Chapter 11](#Writing a German handwritten will that works).
 
 **The California version.** In California a typed will can be perfectly valid, but only if it is witnessed by two people (Probate Code § 6110). The engineer's document, typed and signed but unwitnessed, would have failed in California too, unless the family could show by clear and convincing evidence that he intended it as his will, which California allows courts to accept in some cases. California also gives no intestate rights to an unmarried partner who is not a registered domestic partner. Both countries agree: if you are not married, you must write it down, properly.
 
@@ -50,7 +50,7 @@ At home that evening she filled in the blanks by hand. Where the printed text sa
 
 She died eighteen months later, and all three children assumed the estate would be divided three ways, which is what she wanted and what the form appeared to say.
 
-California recognises two main kinds of individual will, and her document sat in the gap between them. A formal will must be signed by the testator and witnessed by at least two people, present at the same time, who understand that it is the testator's will (Probate Code § 6110). A holographic will needs no witnesses, but its signature and its *material provisions*, who gets what, must be in the testator's own handwriting (§ 6111). The statute expressly allows the statement of intent, "this is my will," to be part of a commercially printed form. It does not allow the gifts themselves to be printed.
+California recognizes two main kinds of individual will, and her document sat in the gap between them. A formal will must be signed by the testator and witnessed by at least two people, present at the same time, who understand that it is the testator's will (Probate Code § 6110). A holographic will needs no witnesses, but its signature and its *material provisions*, who gets what, must be in the testator's own handwriting (§ 6111). The statute expressly allows the statement of intent, "this is my will," to be part of a commercially printed form. It does not allow the gifts themselves to be printed.
 
 With no witnesses, the will could survive only as a holographic will. Did her handwritten names, with her signature, make up the material provisions, or were the printed words around them, "I give my residuary estate ... in equal shares," doing the real work? Courts have looked at questions like this before, and the answer depends on the particular form and the particular handwriting.
 
@@ -58,7 +58,7 @@ The question mattered because of the stepson. If the will failed, the estate wou
 
 Her son and daughter said at once that they wanted their stepbrother to share equally, whatever any court decided. It worked. But it meant two people making a gift out of their own inheritance, with possible gift tax paperwork, and it rested entirely on the goodwill of two people who could have chosen otherwise.
 
-California offers a free statutory will form (§ 6240), published by the California courts and designed for people like her. It requires two adult witnesses, and its instructions say, in capitals, that notarisation alone is not enough. Done properly, it takes about ten minutes; [Chapter 11](#Signing the statutory will in ten minutes) has the six steps.
+California offers a free statutory will form (§ 6240), published by the California courts and designed for people like her. It requires two adult witnesses, and its instructions say, in capitals, that notarization alone is not enough. Done properly, it takes about ten minutes; [Chapter 11](#Signing the statutory will in ten minutes) has the six steps.
 
 She could also have written the whole will by hand, from "This is my will" to her signature, which would have been a valid holographic will. Or she could have seen a lawyer, who would have asked about the stepson and might have mentioned that adult adoption is possible in California, if the family wanted it.
 
@@ -75,15 +75,15 @@ She could also have written the whole will by hand, from "This is my will" to he
 
 ### Case 14: The witness who was also the heir
 
-*This case is told twice: once as it happened, and once as an uneventful afternoon that would have left nothing to argue about.*
+*The car and the gift stay the same. A different signing, and one honest conversation, spare the daughters the work of reconstructing their father's reasons in court.*
 
 **As it happened.** The father was a retired machinist in Long Beach, eighty, with two daughters and a red 1967 convertible that he had rebuilt over four years with his elder daughter's husband. It had won two prizes at local shows. It was, in his words, "the only thing I ever finished."
 
-He asked a paralegal to type a will on his instructions: a third of the estate to each daughter, a third to his church, and the car to his son-in-law, "because he helped me rebuild it." He signed it one evening at his kitchen table. His witnesses were his next-door neighbour and the son-in-law, who happened to be there for dinner. The younger daughter, who lived in Sacramento and had loved that car since she was nine, heard about the gift for the first time when the will was read. She assumed someone had talked her father into it.
+He asked a paralegal to type a will on his instructions: a third of the estate to each daughter, a third to his church, and the car to his son-in-law, "because he helped me rebuild it." He signed it one evening at his kitchen table. His witnesses were his next-door neighbor and the son-in-law, who happened to be there for dinner. The younger daughter, who lived in Sacramento and had loved that car since she was nine, heard about the gift for the first time when the will was read. She assumed someone had talked her father into it.
 
 The will was valid. California does not cancel a will because a witness benefits from it (Probate Code § 6112). But the same section adds a safeguard: unless there are at least two other, disinterested witnesses, a gift to a witness raises a presumption that the witness procured it by duress, menace, fraud, or undue influence. Ordinarily the person alleging pressure must prove it. Here the presumption flipped the burden, and the son-in-law had to prove that he had not pressured his father-in-law.
 
-The younger daughter challenged the gift. His evidence was good: four years of photographs in the garage, the prize ribbons, the neighbour's account of the father talking about the gift for months, the paralegal's notes. The court found that he had rebutted the presumption, and he kept the car. The case took ten months, and the legal fees on both sides would have bought a respectable second convertible. The two sisters, who shared a bedroom as girls, now communicate mainly through their children.
+The younger daughter challenged the gift. His evidence was good: four years of photographs in the garage, the prize ribbons, the neighbor's account of the father talking about the gift for months, the paralegal's notes. The court found that he had rebutted the presumption, and he kept the car. The case took ten months, and the legal fees on both sides would have bought a respectable second convertible. The two sisters, who shared a bedroom as girls, now communicate mainly through their children.
 
 **As it could have gone.** Same father, same car, same wishes. This time the paralegal's office books the signing at the office on a Tuesday morning. The father arrives on his own. He talks about the weather and last night's baseball, reads the will through, asks one sensible question about the church's legal name, and signs in front of two office staff who receive nothing and will never be surprised by the result. Above their signatures, an attestation clause records that he declared the document to be his will and signed it in their presence. The son-in-law is at work.
 
@@ -93,7 +93,7 @@ When he dies, there is nothing to pull at. A beneficiary was not in the room; no
 
 **The difference, line by line.**
 
-- **Witnesses:** a neighbour and the beneficiary, or two people with no stake. With two disinterested witnesses, the presumption never arises.
+- **Witnesses:** a neighbor and the beneficiary, or two people with no stake. With two disinterested witnesses, the presumption never arises.
 - **The reason for the gift:** in the son-in-law's evidence after the fact, or in the will itself.
 - **The disappointed daughter:** surprised at the reading, or told kindly a year earlier.
 - **Cost:** ten months and two sets of fees, or a Tuesday morning.
@@ -121,7 +121,7 @@ In 2024 the river flooded, as it does in Passau, and the cellar filled with wate
 
 **What the family assumed.** The granddaughter assumed the will would turn up. Both sons assumed there was a will, because their mother had mentioned it.
 
-**What actually happened, and why.** Nobody could find the will. The desk, the bedroom, the kitchen drawer, the bank's safe deposit box: nothing. One son remembered seeing a folder labelled *Testament* in the cellar, years before the flood.
+**What actually happened, and why.** Nobody could find the will. The desk, the bedroom, the kitchen drawer, the bank's safe deposit box: nothing. One son remembered seeing a folder labeled *Testament* in the cellar, years before the flood.
 
 In Germany, a will that has been lost is not automatically revoked. If the heirs can prove that a valid will existed, and what it said, a court can act on it. But proving the content of a handwritten document nobody has seen for years is very hard. The granddaughter had no copy. The son's memory of a folder proved that a document existed, not what it said.
 
@@ -137,7 +137,7 @@ A notarial will would have been registered in the same way.
 
 **How official custody works in practice.** The court seals and registers the will and gives you a deposit receipt; [Chapter 11](#Official custody in practice) explains how to deposit, retrieve, and replace a will in custody, and why taking a notarial will back out revokes it.
 
-**What it cost.** The cost to the granddaughter was everything the grandmother had meant her to have, and the knowledge that her grandmother had tried. The sons, who would both have honoured the will if it had been found, were left to decide on their own how generous to be, which is a burden nobody should inherit. One of them still wonders whether the folder in the cellar was really the will at all.
+**What it cost.** The cost to the granddaughter was everything the grandmother had meant her to have, and the knowledge that her grandmother had tried. The sons, who would both have honored the will if it had been found, were left to decide on their own how generous to be, which is a burden nobody should inherit. One of them still wonders whether the folder in the cellar was really the will at all.
 
 **If it has already happened.** See the first steps in [Appendix L](#If it has already happened: Case 15).
 
@@ -178,7 +178,7 @@ A notarial will would have been registered in the same way.
 
 She contested. The litigation lasted three years and ended in a settlement that gave her considerably more than fifty thousand dollars and gave everyone a lasting dislike of everyone else. The lawyers did well.
 
-The law the lawyer described is in the Probate Code: no-contest clauses and probable cause in § 21311, capacity in § 6100.5. The clause was never the problem. The signing was.
+The law the lawyer described is in the Probate Code: no-contest clauses and probable cause in § 21311, capacity in § 6100.5. The clause was not the family's real problem. The signing process was.
 
 **What would have prevented it.**
 

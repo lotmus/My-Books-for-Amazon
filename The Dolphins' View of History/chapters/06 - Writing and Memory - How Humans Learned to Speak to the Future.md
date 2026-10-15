@@ -4,7 +4,7 @@ Start with one tablet. It is a square of baked clay about three inches across, m
 
 Until this point, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same evidence they would use on any other animal. With the Kushim tablet, the sources start talking back, and the first thing they say is how much barley is owed.
 
-Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time, likely independently.
+Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time. Whether Egypt invented the idea on its own or picked it up from contact with Mesopotamian traders and then built an entirely different script around it is still argued; the two systems share a moment, not a form.
 
 Neither system started as literature. The earliest Sumerian tablets are receipts: so many sheep, so much grain, so much beer, owed to or by so-and-so.
 
@@ -14,7 +14,7 @@ If Kushim was a person, the earliest name in the written record belongs to an ac
 
 *Professor Click-Click-Whoosh, in the margin: “Fame in the literate world began with paperwork, and has not strayed far since.”*
 
-Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, on four separate continents' worth of isolation, arriving at the same solution to the same problem.
+Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, spread across three continents (Asia twice over, in Mesopotamia and China, plus Africa and the Americas) and thousands of miles of mutual isolation, arriving at the same solution to the same problem.
 
 The problem, underneath the receipts, was memory's expiration date. Everything a human generation knew had previously lived only as long as someone who remembered it stayed alive to be asked.
 
@@ -24,11 +24,11 @@ A mark also does not drift. Human memory does, and it drifts in company. Each ti
 
 *Professor Click-Click-Whoosh, in the margin: “Modern humans have a name for the same wrong memory held by many heads at once: the Mandela effect, after the large number of them who remember Nelson Mandela dying in prison in the 1980s. He walked free in 1990, became president of South Africa, and died in 2013. The newspapers of 1990 say so, and they have not changed their minds. That is the whole case for clay.”*
 
-The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held thousands of tablets on medicine, astronomy, and literature, deliberately collected — the first evidence of a society building a memory on purpose, for readers not yet born.
+The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held thousands of tablets on medicine, astronomy, and literature, deliberately collected — the most famous early case of a society building a memory on purpose, for readers not yet born, following earlier deliberately kept archives at Ebla and Hattusa by well over a thousand years.
 
 The far more famous Library of Alexandria, founded in Egypt under the Ptolemaic dynasty in the early 3rd century BCE, took the same idea and multiplied its ambition: not merely a collection, but an attempt to gather a copy of every text in the known world, reportedly by searching every ship that docked in Alexandria's harbor for scrolls worth transcribing. Its actual end is more mundane than its popular legend. There was no single dramatic burning by a single villain — a fire during Julius Caesar's visit in 48 BCE damaged part of the collection. Further decline followed political instability and reduced funding over the following centuries. The destruction of the associated Serapeum temple in 391 CE, under an edict against pagan sites, finished off what direct evidence can still trace. By the time of the Arab conquest in the 7th century, the library had already ceased to exist as a major institution for hundreds of years, which is why most historians reject the later, popular story blaming that conquest for its loss.
 
-*“We pass down what we know only by living demonstration,” dolphin historians noted. “A calf learns to hunt by watching its mother hunt, generation after generation, and if a pod is lost, its particular hunting culture is lost with it. Humans built a version of memory that survives the death of everyone who held it. After this chapter, they stop forgetting on our clock, and start forgetting, if at all, on their own.”*
+*“We pass down what we know only by living demonstration,” the Society recorded. “A calf learns to hunt by watching its mother hunt, generation after generation, and if a pod is lost, its particular hunting culture is lost with it. Humans built a version of memory that survives the death of everyone who held it. After this chapter, they stop forgetting on our clock, and start forgetting, if at all, on their own.”*
 
 This is the moment the ratchet from the first chapter acquires a memory. A tool can be copied only by someone who sees it; a written instruction can be copied by someone born three centuries later on another continent. Everything from a legal code to a shipping manifest to, eventually, dolphin scholarship's own subject matter, depends on this one invention holding.
 
