@@ -42,4 +42,4 @@ REV15 and REV05 are the current story state for continuation, but are labelled d
 
 ## Working rules
 
-Preserve British spelling, one speaker per dialogue paragraph, the established dry series voice, and the distinction between well-tested physics, open research, and invented anomalies. Give the next book a new physical question and a fair, observable test. Don't reset settled relationships or turn an unexplained series hook into a convenient answer without building the mechanism on-page.
+Preserve British spelling, one speaker per dialogue paragraph, the established dry series voice, and the distinction between well-tested physics, open research, and invented anomalies. Give the next book a new physical question and a fair, observable test. Make every book a valid first entry: resolve its own case, supply essential relationship context, and keep open series mysteries from obstructing the current story. See `SERIES_SEAM.md`, “Reading order is optional.” Don't reset settled relationships or turn an unexplained series hook into a convenient answer without building the mechanism on-page.

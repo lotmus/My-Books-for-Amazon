@@ -16,6 +16,10 @@ Warmth is teaspoons, a shut door, a phone call that goes on too long. It is not 
 
 Each new book gets a new physics problem. It does not re-solve the last file, and it does not borrow the last file's answer as a twist.
 
+## Reading order is optional
+
+Every book must work as a reader’s first RIB book. Give each volume a complete central investigation and emotional payoff; no plot point may require knowledge of an earlier volume. At the opening, orient readers to the Bureau, the relationships that matter in this book, and any continuing thread they need to recognize. If that context would reveal an earlier solution, make the recap optional and clearly mark the spoiler. Carryover mysteries may remain open, but they must be identified as series threads and never block comprehension or satisfaction of the current case. Character relationships may develop across volumes; give out-of-order readers the context they need without resetting earned changes. Reading order must not be necessary for comprehension, though earlier books may still offer added resonance.
+
 ## People (do not reset them)
 
 **Derek Gent.** Thirty-eight. Seventeen years in the field. No driving licence, and he mentions it without being asked. Walks. Three or four shirts, a day past smart. Under stress he straightens something that is already straight. Stillness when thinking is Sophie's reveal, not a line in his own introduction. Father of Sophie. Cousin of Penny. Ex of Tuppence.
