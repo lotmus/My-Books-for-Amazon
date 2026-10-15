@@ -21,8 +21,8 @@ Under `D:\My Books for Amazon\` (repo root). Created 12 Oct 2026 from the folder
 | Physics, Actually - SERIES |  | Volume 1/bak/2026-10-11 pre-improve/Chapter 17 - The Omega Point (moved out 2026-10-11).docx; Volume 1/Physics Vol 1 - Motion, Forces, Time, and Relativity (KDP UPLOAD).docx; Volume 1/Physics Vol 1 - Motion, Forces, Time, and Relativity (KDP UPLOAD - KINDLE EBOOK).docx |
 | Protocol Flamingo |  | Protocol_Flamingo_REV10.docx; bak/2026-10-11 pre-also-by-gravitation/Protocol_Flamingo_REV10.docx; bak/Protocol_Flamingo_REV10 - 2026-10-10 pre-notes-merge.docx |
 | Quantum, Actually - SERIES |  | Quantum, Actually - Volume 2/Quantum, Actually - Volume 2.docx; Quantum, Actually - Volume 1/Quantum, Actually - Volume 1_REV03_2026-10-11.docx; Quantum, Actually - Volume 1/bak/2026-10-11 pre-also-by-gravitation/Quantum, Actually - Volume 1_REV03_2026-10-11.docx |
-| Science Sparks |  | Science Sparks.docx; bak/2026-10-11 pre-also-by-gravitation/Science Sparks.docx; bak/Science Sparks - 2026-10-10 pre-shrink.docx |
-| Lothar's Holistic Brain Farts | Broader almanac of material across the book catalog; separate from Science Sparks. Current status: `Lothar's Holistic Brain Farts/STATUS.md`. | Lothar's Holistic Brain Farts.docx; editable sources in `_source/` |
+| Science Sparks | Includes local archive `bak/Lothar's Holistic Brain Farts - 2026-10-15/` (superseded all-catalog almanac; not tracked). | Science Sparks.docx; bak/2026-10-11 pre-also-by-gravitation/Science Sparks.docx; bak/Science Sparks - 2026-10-10 pre-shrink.docx |
+
 | The Digital Twin |  | (no docx at the top levels) |
 | The Dolphins' View of History |  | chapters/What the Physics Is For - An Appendix on Uses and the One Theory Not Yet Found.docx; chapters/Notes and Sources.docx; chapters/Further Reading - For Humans.docx |
 | The Relativistic Investigation Bureau - SERIES |  | Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV02.docx; Book 1 - The Murder That Hadnt Happened Yet/kdp_description.docx; Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV11_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx |
