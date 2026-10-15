@@ -4,7 +4,7 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Updated 14 Oct 2026 (PT) against the REV16 release candidate. REV16 is a candidate, not the release master; REV14 remains untouched. DOCX text extraction counts 62,088 words across front matter, story, lessons, and end matter; a word processor may report a slightly different total. The KDP blurb below is mirrored in kdp_description_REV16_RELEASE_CANDIDATE.docx and .txt. Final release is still open for the external cover artwork, the author's KDP preview, and publication decisions.]
+[Updated 15 Oct 2026 (PT). The manuscript remains the REV16 release candidate; REV14 remains the release master. The revised KDP description is REV17 and is mirrored in kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt. The candidate is not approved or published. Final release still needs the high-resolution front cover, author-side Kindle preview, and publication decisions.]
 
 TITLE
 The Murder That Hadn't Happened Yet
@@ -48,17 +48,17 @@ Amateur Sleuth, and the humour earns its own shelf.]
 KEYWORDS (7 keywords/phrases - comma separated for KDP)
 ================================================================================
 
-[Revised 10 Oct 2026 (PT): no keyword repeats a category or the title
-(KDP indexes those already), no "time travel" (the book is not), each under
+[Revised 15 Oct 2026 (PT): no keyword repeats a category or the title
+(KDP indexes those already), no misleading time-travel claim, each under
 50 characters.]
 
-physics mystery novel, einstein relativity fiction, funny british detective agency, time paradox whodunit, father daughter mystery london, clever comic science fiction, mystery with a dolphin detective
+physics mystery novel, einstein relativity fiction, funny british detective agency, clock discrepancy mystery, father daughter mystery london, clever comic science fiction, mystery with a dolphin detective
 
 [INDIVIDUAL KEYWORDS FOR RESEARCH:]
 1. physics mystery novel
 2. einstein relativity fiction
 3. funny british detective agency
-4. time paradox whodunit
+4. clock discrepancy mystery
 5. father daughter mystery london
 6. clever comic science fiction
 7. mystery with a dolphin detective
@@ -68,16 +68,16 @@ KINDLE BLURB (Book Description for KDP Store Page)
 [280 words, under KDP's 4,000-character limit. COPY EXACTLY.]
 ================================================================================
 
-[This REV16 candidate copy is mirrored exactly in
-kdp_description_REV16_RELEASE_CANDIDATE.docx and .txt. It avoids implying
+[This REV17 description is mirrored exactly in
+kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt. It avoids implying
 Sophie is in danger, accurately describes the clock in the photograph, and
 states that no physics background is needed.]
 
 A MURDER THAT HASN'T HAPPENED YET.
 A photograph dated tomorrow.
-And his daughter, caught in the doorway.
+And his daughter, paused in the doorway.
 
-At 9:17 on a Tuesday morning, investigator Derek Gent receives an email saying that he has been murdered. It is polite, precise, and signed by Derek himself. The attached photograph shows him face-down on his office floor. A brass clock reads 11:03 — tomorrow, according to the email. Frozen mid-step in the doorway behind him is his twelve-year-old daughter.
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email saying that he has been murdered. It is polite, precise, and signed by Derek himself. The attached photograph shows him face-down on his office floor. A brass clock reads 11:03 — tomorrow, according to the email. In the doorway behind him, his twelve-year-old daughter is caught mid-step.
 
 The clocks disagree.
 The universe disagrees.
@@ -156,16 +156,17 @@ REQUIRED:
 ☑ Title: The Murder That Hadn't Happened Yet
 ☑ Author Name: Lothar J. Musiol (primary) + Spezala Genara Relavi (contributor, Author); see AUTHOR NAME
 ☑ Categories: 3 proposed above
-☑ Blurb (above, identical to kdp_description.docx)
+☑ Blurb (above, identical to kdp_description_REV17_RELEASE_CANDIDATE.docx)
 ☑ Keywords (7 phrases provided)
 ☑ Price: $3.99 proposed (70% royalty band is $2.99 to $9.99)
 ☑ KDP Select / Kindle Unlimited: proposed YES
 ☐ Publication Date: [DECISION FOR LOTHAR]
 
-COVER REQUIREMENTS (checked 14 Oct 2026 against the current files):
+COVER REQUIREMENTS (checked 15 Oct 2026 against the current files):
 - Marketing/front cover: `Kindle Front Cover.jpg`, JPEG, RGB, 1152 x 1728 px, 0.85 MB. It is below KDP's 1600 x 2560 px recommendation. KDP advises against enlarging small source art to meet the recommendation; re-render from a higher-resolution source before upload. [KDP cover guidelines](https://kdp.amazon.com/en_US/help/topic/G6GTK3T3NUHKLEFX).
 - The attempted generated variant was not adopted: it was lower resolution and introduced inaccurate decorative text.
 - Internal content cover: included once as the first page of the REV16 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
+- Back-cover panel: `Kindle Back Cover.jpg` is an accurate 1600 x 2560 text-only candidate in the Book 2 trade dress. It replaces a superseded panel that incorrectly suggested time travel and contained a fabricated testimonial; the old image is retained in `bak/` and must not be used.
 - Audible cover and back cover are separate assets and are not used as the Kindle eBook marketing cover.
 
 MANUSCRIPT (REV16 release candidate):
