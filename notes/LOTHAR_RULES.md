@@ -36,11 +36,11 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 ## Files and folders
 
 - Working format is **docx**: every book is written, reviewed and kept as a Word master during development. Markdown working copies are fine. The file uploaded to KDP is an **EPUB** built from the docx (clarified by Lothar 11 Oct 2026; the earlier wording "docx only, never EPUB" was a misreading). Keep the docx as the master and rebuild the EPUB from it. File names carry the version (for example `..._Book1_v8.docx` and `..._Book1_v8.epub`, built from `Book1_Story_v8.txt`); when you make a new version, move the previous one to `bak\` and keep only the current master at the top of the folder (Lothar, 12 Oct 2026). Do not build or offer PDF unless asked. EPUB files may be committed (the `*.epub` ignore rule was removed on 11 Oct 2026); commit only the EPUB of the book you are working on.
-- Never delete anything. Move old files into the book's `bak\` subfolder, or into a dated folder under `D:\bak\`.
+- Never delete anything. Move old files into the book's `bak\` subfolder. There is no common backup folder: not `D:\bak`, and not a shared `bak\` at the repo root.
 - Only the current master, its md working copy, and notes stay at the top of each book folder. Older versions go into that book's `bak\`.
 - Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
-- **`bak\` belongs to the book, not the repo root.** Every book (or series volume) keeps its own old versions, backups, patch scripts and QA extracts in its own `bak\`, next to its master file. For a series folder, use the volume's `bak\`; use the series-level `bak\` only for material that belongs to no single volume. Do not put per-book files in the root `D:\My Books for Amazon\bak\`. Name subfolders by date and reason, for example `2026-10-11 pre-cover\`.
-- The root `D:\My Books for Amazon\bak\` is only for whole-repo leftovers such as retired temp worktree copies. When you find a per-book file there, move it into that book's `bak\`. Never delete it.
+- **`bak\` belongs to the book, never to a common folder.** Every book (or series volume) keeps its own old versions, backups, patch scripts, QA extracts and retired temp worktrees in its own `bak\`, next to its master file. For a series folder, use the volume's `bak\`; use the series-level `bak\` only for material that belongs to no single volume. Do not create or use `D:\bak` or `D:\My Books for Amazon\bak`. Name subfolders by date and reason, for example `2026-10-11 pre-cover\`.
+- If you find a per-book file in a common `bak\` (for example `D:\My Books for Amazon\bak`), move it into that book's own `bak\`. Never delete it.
 - Stay inside the book folder you were asked to work on. If something outside it looks worth touching, say so and wait to be asked.
 - If a book's own note disagrees with `notes/HANDOVER.md`, the book's note wins inside that book. If a manuscript file disagrees with a status log, the manuscript wins.
 - Run `git status` from `D:\My Books for Amazon`, not from a book folder.
@@ -147,7 +147,7 @@ Assistants follow this, and gently coach Lothar when the pattern slips.
 - Give a job **one complete brief up front** (all fixes, decisions settled). Do not redirect it mid-run.
 - **Finish and report one job** before starting the next on the same book.
 - After a job, record the outcome in `SCORES.md` (score before and after, open items).
-- Clean up temp worktrees and transfer folders afterwards by **moving them to `D:\bak`**, never deleting them.
+- Clean up temp worktrees and transfer folders afterwards by **moving them into the `bak\` of the book they were for**, never deleting them.
 - If a job stalls or the connection drops, **resume from its last pushed commit** instead of starting over.
 
 ---
@@ -158,7 +158,7 @@ Keep chats and tokens cheap without losing the thread.
 
 - When a chat gets long, **first save the current state** (job queue, open items, decisions) into `SCORES.md` and this rules file, **then** compact or start a fresh chat that begins by reading `notes/LOTHAR_RULES.md` and `SCORES.md`.
 - Keep `SCORES.md` and this rules file **short**: move finished jobs and old notes to `notes/ARCHIVE.md`.
-- After each job, move temp worktrees and transfer folders to `D:\bak`, never deleting them.
+- After each job, move temp worktrees and transfer folders into the `bak\` of the book they were for, never deleting them.
 - **Read only the parts of files you need** instead of whole books when that is enough.
 - **Reuse existing scripts** instead of rewriting them.
 - Keep reports short: **results and open items only**.
