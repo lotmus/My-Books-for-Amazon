@@ -1,6 +1,6 @@
 """EE Book 4 (RF, Microwave, and Transceivers): 41 new diagrams, hooks, 'Where you meet this', From the Bench,
 What You'll Actually Use, one statistics fix, keyword links. Usage: python3 build_b4.py <old master> <out.docx> <old links json>"""
-import sys, re, json, docx
+import os, sys, re, json, docx
 sys.path.insert(0, '../common')
 from eedoc import *
 from eebuild import *
@@ -63,6 +63,7 @@ for t, a in BOOKS:
 for t in PAPERS: rules.append({'find': t, 'to': '[%s](%s)' % (t, CR(t)), 'in': where(t), 'max': 1})
 from mklinks import alsoby_rules
 rules += alsoby_rules(out)
+links_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'publishing', 'kindle-links', 'kindle_links - RF_Microwave_and_Transceivers_Book4.json'))
 json.dump({'note': 'EE Book 4 link rules (11 Oct 2026): papers -> DOI (curated 10 Oct) or Crossref search, Appendix C books -> Open Library search, Also-by -> Amazon Kindle search; keyword links, hidden URLs.', 'rules': rules},
-          open('kindle_links - RF_Microwave_and_Transceivers_Book4.json', 'w'), indent=1, ensure_ascii=False)
+          open(links_path, 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
 print('fix', fix, counts, 'figures', len(refs), 'links', len(rules), '(doi kept %d)' % len(old))
