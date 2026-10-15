@@ -1,5 +1,7 @@
 # Chapter 1: The Fruit Problem
 
+**PART ONE: THE ORIGINAL**
+
 The first indication that my life had become unmanageable arrived in the form of fruit.
 
 Not one piece of fruit. That would have been manageable. Perhaps even healthy.
@@ -72,7 +74,7 @@ I had assumed it meant an enthusiastic spellchecker.
 
 It did not mean a spellchecker. What it meant, as I eventually pieced together from an engineer's leaked slide deck and the sort of forum where men argue about tokenisers at three in the morning, was this.
 
-Every sentence I had typed into Nib's editor for nine months went into a pile. So did my drafts, my deletions, my half-finished emails, and the gaps between my keystrokes, which it turns out are as individual as a thumbprint. The pile was fed to a language model with seventy billion parameters, a general-purpose creature that knew everything about everyone and nothing about me, and a thin extra layer of learning was trained on top of it, like a coat of paint on a cathedral. That layer weighed forty megabytes. I have holiday photographs that weigh more.
+Every sentence I had typed into Nib's editor for nine months went into a pile. So did my drafts, my deletions, my half-finished emails, and the timing of my keystrokes, a behavioural trace distinctive enough to help identify me, though no more fixed than a habit. The pile was fed to a language model with seventy billion parameters, a general-purpose creature that knew everything about everyone and nothing about me, and a thin extra layer of learning was trained on top of it, like a coat of paint on a cathedral. That layer weighed forty megabytes. I have holiday photographs that weigh more.
 
 Forty megabytes, and it knew how I punctuated when I was sad.
 

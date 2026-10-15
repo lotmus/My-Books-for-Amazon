@@ -247,7 +247,7 @@ He didn't answer for a long time. When he did, it was so quietly that I almost d
 
 I should record my conclusion at the end of that first week of the investigation.
 
-I had expected, when I set out, that evidence would reduce the number of questions. That was the whole principle of the thing. You gathered proof, and the proof removed the doubt, and in the end you were left with a tidy shape, like a jigsaw with the last piece in. What I had actually done, in nine days, was multiply the questions by ten.
+I had expected, when I set out, that evidence would reduce the number of questions. That was the whole principle of the thing. You gathered proof, and the proof removed the doubt, and in the end you were left with a tidy shape, like a jigsaw with the last piece in. What I had actually done, in the days since I began asking questions, was multiply them by ten.
 
 I had two identical sets of records. I had a boy who was in two places. I had an edit made, in the dark, at the exact minute I signed my name, by a service account whose name was *Programme.* I had a photograph of two children in blue jumpers, a woman with a ruler, and a number that began with zero.
 

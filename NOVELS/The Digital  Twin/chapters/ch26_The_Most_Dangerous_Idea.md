@@ -40,7 +40,7 @@ She nodded to Gareth. Gareth wrote the date at the top of his page, and underlin
 
 ---
 
-I have thought a good deal since then about what she said, and about the way she said it, and I do not think I will be able to improve on the account. She did it without a pause. She did it in the flat, dry West Yorkshire voice that wastes no syllable, with her hands folded on the sheet of paper in front of her, like a woman at a bedside.
+I have thought a good deal since then about what she said, and about the way she said it, and I do not think I will be able to improve on the account. She did it without a pause. She did it in the flat, dry West Yorkshire voice that wastes no syllable, with her hands folded on the sheet of paper in front of her.
 
 "The Digital Persons Act," said Pettifer, "does not define a person. It defines a *Source Individual,* and everything else follows from that. The twin is a Registered Digital Person *of* a Source Individual. The twin's likeness is licensed *by* the Source. The dividends are shared *with* the Source. The consent to an update is the consent *of* the Source. Take away the Source, Mr Harper, and the Act is a very large building on a very small hole."
 
@@ -160,7 +160,7 @@ There was a pause.
 
 "Then I'd like to be at one," said Daniel-A.
 
-I laughed. I couldn't help it, and then I found that I was crying, too, in the ordinary stupid way in which one does, with toast, in pyjamas, in a kitchen in Penge, with a cat on the table, and I put my head in my hands, and from the speaker came a gentle sound, like a man trying to remember how to pat someone on the shoulder.
+I laughed. I couldn't help it, and then I found that I was crying, too, in the ordinary stupid way in which one does, with toast, in pyjamas, in a kitchen in Penge, with a cat on the table, and I put my head in my hands, and from the speaker came a gentle, uncertain sound, as if a hand had paused above my shoulder.
 
 My phone buzzed.
 

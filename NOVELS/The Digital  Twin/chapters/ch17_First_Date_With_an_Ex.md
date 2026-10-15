@@ -40,7 +40,7 @@ Waterloo is a cathedral of other people's lateness. Under the great clock, in th
 
 At 10:58 she came out of the Underground.
 
-She wore the grey coat. Her hair was a little shorter on one side. She was carrying, in her left hand, a long black object wrapped in a bag, and she walked towards me through the crowd with her chin up and her eyes fixed on the clock, in the manner of a woman who has resolved not to look at the person she is walking towards.
+She wore the grey coat. Her hair was a little shorter on one side. She was carrying, in her left hand, a long black object wrapped in a bag, and she walked towards me through the crowd with her chin up and her eyes fixed on the clock, as if it could spare her the sight of me.
 
 "You're early," she said.
 

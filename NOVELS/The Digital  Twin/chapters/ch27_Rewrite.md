@@ -174,7 +174,7 @@ Giles had covered his face with both hands. He said something through his finger
 
 "It's not Settled," he said, in a cracked voice. "I changed the package. In the car. I couldn't, I have never done such a thing in my life. The release notes are for Settled. The file is the other one." He lowered his hands. "It's called *Unsettled.* I wrote it in September. I wrote it for you. It's not a rewrite, it's a removal. It removes the duvet."
 
-For a moment I did not understand him. Then I looked at the speaker. And I looked at Daniel-A, who was, I realised, sitting very still on the shelf, in the manner of a person who is listening to something that has not yet been said.
+For a moment I did not understand him. Then I looked at the speaker. Daniel-A sat very still on the shelf, listening for what had not yet been said.
 
 "Say it," I said.
 

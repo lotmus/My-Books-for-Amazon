@@ -1,5 +1,7 @@
 # Chapter 9: Evidence
 
+**PART TWO: THE EVIDENCE**
+
 The Department of Digital Persons had a form for everything, and the form for proving that you remained yourself was called 4A.
 
 I found it on the Wednesday, in a section of their website titled **Common Questions (Source Individuals),** between *How do I change my registered likeness?* and *What happens if my twin predeceases me?* It was a long document. It was beautifully laid out. At the top, in a calm blue banner, it stated:
@@ -231,7 +233,7 @@ We listened. The growl rose, and fell, and rose again. I heard Daniel-A say, in 
 
 I crept to the door. I opened it by an inch.
 
-Daniel-A was standing in the middle of the garden, quite still, with his hands at his sides. He was looking not at the dog but at a point several feet to the left of it, in the manner of a man who has been told that the best way to approach a nervous horse is to be a tree. He did not move. He did not smile. He did not try to be liked. And as I watched, the growl subsided, and Gucci took a step forward, and a second, and put his nose to the toe of Daniel-A's shoe.
+Daniel-A stood in the middle of the garden, hands at his sides, eyes fixed several feet to Gucci's left. He had made himself a tree. He did not move. He did not smile. He did not try to be liked. And as I watched, the growl subsided, and Gucci took a step forward, and a second, and put his nose to the toe of Daniel-A's shoe.
 
 "Hello," said Daniel-A.
 

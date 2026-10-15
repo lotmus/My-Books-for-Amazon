@@ -2,7 +2,7 @@
 
 By Tuesday morning the Department of Digital Persons had been besieged by an army, and the army had brought sandwiches.
 
-There were perhaps four thousand of them, in the forecourt and spilling into the road. A line of police stood across the glass doors with their arms folded, in the manner of men who have been told that nothing is going to happen and don't believe it. At one end stood a block of the Church of the Latest, in lilac, with banners that said **ORIGINAL IS NOT A HAT,** and a young man with a loudhailer who kept calling on the Source to *forgive the faithless.* At the other end, in grey, in perfect silence, were three hundred members of the House of the Listener, who had come from Penge by coach and stood with their hands in their pockets and their eyes on the ground, holding between them a single bedsheet on which someone had written, in felt-tip: **WE DON'T KNOW EITHER.**
+There were perhaps four thousand of them, in the forecourt and spilling into the road. A line of police stood across the glass doors, arms folded, unconvinced that nothing was going to happen. At one end stood a block of the Church of the Latest, in lilac, with banners that said **ORIGINAL IS NOT A HAT,** and a young man with a loudhailer who kept calling on the Source to *forgive the faithless.* At the other end, in grey, in perfect silence, were three hundred members of the House of the Listener, who had come from Penge by coach and stood with their hands in their pockets and their eyes on the ground, holding between them a single bedsheet on which someone had written, in felt-tip: **WE DON'T KNOW EITHER.**
 
 And between them, in no particular order, were the hats.
 
@@ -112,7 +112,7 @@ Dunmore consulted her clipboard. She looked at the cat. She looked, for some tim
 
 From the back of the gallery, in a high clear voice that startled every head in the room, someone cried "*Unequivocal!*"
 
-It was a parrot. It was a large grey parrot, in the pocket of a man's overcoat, and it had been banned from the premises since 2032. Gareth said "Oh, *no,*" and two ushers went after it, in a manner not unlike the opening of a farce.
+It was a parrot. It was a large grey parrot, in the pocket of a man's overcoat, and it had been banned from the premises since the Parrot Incident in March. Gareth said "Oh, *no,*" and two ushers went after it, in a manner not unlike the opening of a farce.
 
 ---
 

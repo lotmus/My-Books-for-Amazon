@@ -78,7 +78,7 @@ The corner of her mouth moved. It was not a smile. It was a smile's older cousin
 
 "I'd rather you didn't."
 
-"I wasn't asking." She took out her phone and set it on the table between us, face up. It displayed a small, calm green circle and the words **SIGNED CAPTURE IN PROGRESS**. "It's not for you. It's for me. Everything I say to either of you from now on is going on the record with a cryptographic timestamp. If this ends in court, I'd like to be the only one in the room who can prove what was said."
+"I wasn't asking." She took out her phone and set it on the table between us, face up. It displayed a small, calm green circle and the words **SIGNED CAPTURE IN PROGRESS**. "It's not for you. It's for me. Everything I say to either of you from now on is going on the record with a cryptographic timestamp. If this ends in court, I'd like to be the only one in the room who can show the recording hasn't been altered."
 
 "You think this will end in court?"
 

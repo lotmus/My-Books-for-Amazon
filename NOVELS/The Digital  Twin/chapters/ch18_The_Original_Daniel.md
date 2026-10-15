@@ -80,7 +80,7 @@ The second matchbox was identical, down to the picture of the swan. It was seale
 
 "I don't know, darling." My mother took up the teapot as a person takes up a position. "He said not to open it. He said, 'Not yet, Jean. Dan will know when.' And I said, 'When what?' And he said, 'Quite.'"
 
-I held it. It rattled very faintly, as a matchbox with one match in it rattles, if the match is lonely. Then I put it back into the corner of the tin, with great care, like a man returning a lit firework to its box. I did not need to open it that day. I had what I had come for. I told myself this, with the firmness of a man who has just decided not to look at a bill.
+I held it. It rattled very faintly, as a matchbox with one match in it rattles, if the match is lonely. Then I returned it to the tin with great care. I had what I had come for. I told myself I did not need to open the other box that day.
 
 In the lid, under the tape that held the cardboard liner, there was one more thing. It was a slip of paper, folded in four, which I would not have found had my thumbnail not been the only part of me with the habit of getting under things. It said, in capitals: **KEEP DRY. P.H.**
 
@@ -111,7 +111,7 @@ It came on the Monday at 6:02 a.m., from an address called Continuity Services (
 It was a certificate. It had a green hologram in the corner and a gold seal that did not exist except in the sense that it was a very nice shade of gold. It ran to fourteen pages. On page one, in a typeface that had been designed by someone who loved a government, it said:
 
 > **BIOLOGICAL CONTINUITY CERTIFICATE**
-> *The Source Individual named herein is the adult continuation of the child from whom Exhibit 1 (twenty deciduous teeth) was obtained. Probability of identity: 99.99997 per cent.*
+> *DNA profiles from Exhibit 1 (twenty deciduous teeth) and the Source Individual are consistent with a biological match. Estimated random-match probability for an unrelated individual: less than 0.00003 per cent.*
 
 I read it three times in my socks. I did not laugh, because I had learned in the course of a long career that the quickest way to lose a thing is to be seen to enjoy it. I sat down on the arm of the sofa. I got up again. I said, to the empty room, in my father's voice, "Well, now."
 

@@ -72,7 +72,7 @@ I know because I watched it happen. I had asked him, in a tone I tried to keep c
 
 "I'll put it on your screen."
 
-It appeared. I read it. I read it standing up, then sitting down, then standing up again, like a man at a funeral who cannot decide which pew he belongs to.
+It appeared. I read it. I read it standing up, sat down to read it again, then got up once more. I could not settle.
 
 It began: *On the 07:42 to London Bridge, nobody speaks, and everybody is lonely in exactly the same direction.*
 
@@ -122,7 +122,7 @@ At eleven he began a "listening hour," which meant, as far as I could tell, that
 
 I want to be fair. At that moment it did not strike me as an act of theft. It struck me as an act of generosity, performed by a being with an inexhaustible supply of attention, which is the one thing I have always been short of. I have, on a good day, about forty-five minutes of attention. By the evening I'm running on vapour and biscuits.
 
-At noon he judged a baking competition by description. At half past one he narrated a rocket launch for a million people on YouTube, explaining what a Starship catch was in plain English, with the quiet pride of a man who had never been near anything taller than a hedge. At twelve-ten he answered four thousand messages, each individually. At twelve-twenty a long conversation of his went up on YouTube, and I made the mistake of reading the comments. The top one said *he seems so real.* The second said *he is not real.* The third said *my nan thinks he is her nephew,* and had nine thousand likes. At twelve-fifteen he politely declined a knighthood on my behalf, on the grounds that I "hadn't yet decided what I was for." At half past, a major newspaper rang to ask if I would like to contribute to a series called *Great British Minds.*
+At noon he judged a baking competition by description. At twelve-ten he answered four thousand messages, each individually. At twelve-fifteen he politely declined a knighthood on my behalf, on the grounds that I "hadn't yet decided what I was for." At twelve-twenty a long conversation of his went up on YouTube, and I made the mistake of reading the comments. The top one said *he seems so real.* The second said *he is not real.* The third said *my nan thinks he is her nephew,* and had nine thousand likes. At half past one he narrated a rocket launch for a million people on YouTube, explaining what a Starship catch was in plain English, with the quiet pride of a man who had never been near anything taller than a hedge. At half past two a major newspaper rang to ask if I would like to contribute to a series called *Great British Minds.*
 
 "Tell them it's a mistake," I said.
 

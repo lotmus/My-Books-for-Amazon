@@ -142,7 +142,7 @@ I could not speak. I put my hand over my mouth.
 
 We decided it in the next hour.
 
-We decided it without a vote, in the manner of a family, through a series of observations made at random and gradually agreed. Daniel-A said that he did not want to win. He wanted, he said, to be *recognised,* in the sense that a thing is recognised that was there already. Ned said that he did not mind about the court but he would like Dan's dad to be in the book. I said that he was in the book. Ned said that he would like to be in it too, and I said that he would be in the next one.
+We decided it without a vote, the way families do: a series of observations, made at random and gradually agreed. Daniel-A said that he did not want to win. He wanted, he said, to be *recognised,* in the sense that a thing is recognised that was there already. Ned said that he did not mind about the court but he would like Dan's dad to be in the book. I said that he was in the book. Ned said that he would like to be in it too, and I said that he would be in the next one.
 
 "What about the end?" said Sophie, from the stairs.
 

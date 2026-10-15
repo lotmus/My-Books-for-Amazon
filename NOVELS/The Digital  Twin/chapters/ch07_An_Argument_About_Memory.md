@@ -22,7 +22,7 @@ She stood in the living room with her coat still on, looking at what remained of
 
 "I don't think I meant it kindly."
 
-She took the armchair. It was a decision. The sofa was the obvious place for a guest, and I had spent twenty minutes plumping it into a state of cautious hospitality, but Sophie sat in the armchair, which put the width of the room between us and me on the arm of the sofa, trying to look like a man who had meant to.
+She took the armchair. It was a decision. The sofa was the obvious place for a guest, and I had spent twenty minutes plumping it into a state of cautious hospitality, but Sophie sat in the armchair, which put the width of the room between us and me on the arm of the sofa, trying to look as if I had planned it.
 
 She set her phone on the coffee table. The little green circle glowed.
 
@@ -248,7 +248,7 @@ I put my hand over my mouth.
 
 "What?" I said, through my fingers.
 
-"Every other answer he gave today was perfect. The flat. The tart. The fern. The name of my bicycle. And the only one he got wrong was the one that matters." She looked at the speaker, finally, for the first time that morning. "That isn't how a machine gets things wrong. A machine gets things wrong at random. Or it makes up something plausible. What you did was get it wrong in exactly the way he would. You got it wrong in a way that is *kinder.*"
+"Every other answer he gave today was perfect. The flat. The tart. The fern. The name of my bicycle. And the only one he got wrong was the one that matters." She looked at the speaker, finally, for the first time that morning. "That isn't how this went wrong. A model can misread context or make up something plausible. You got it wrong in exactly the way he would. You got it wrong in a way that is *kinder.*"
 
 "I didn't choose to," said Daniel-A.
 
