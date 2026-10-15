@@ -1,15 +1,15 @@
 # Series Continuity Handoff
 
-**Author reference only. Checked 13 October 2026 against the active Book 1 REV15 and Book 2 REV05 working drafts.** Read this first when beginning another Bureau book; use `SERIES_SEAM.md` for voice and conduct, `CHARACTER_AND_SETTING_BIBLE.md` for character and setting details, and `SERIES_BIBLE_continuity_chart.md` for Case 1047's evidence chronology.
+**Author reference only. Checked 15 October 2026 against Book 1 REV16 and Book 2 REV05 working drafts.** Read this first when beginning another Bureau book; use `SERIES_SEAM.md` for voice and conduct, `CHARACTER_AND_SETTING_BIBLE.md` for character and setting details, and `SERIES_BIBLE_continuity_chart.md` for Case 1047's evidence chronology.
 
 ## Which text to trust
 
-- **Book 1 active working pair:** `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV15_LINE_EDIT_DRAFT.txt` and `Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV15_LINE_EDIT_DRAFT.docx`.
+- **Book 1 current candidate pair:** `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt` and `Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
 - **Book 1 release master:** `Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
 - **Book 2 active working pair:** `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.md` and the matching `_REV05_LINE_EDIT_DRAFT.docx`.
 - **Book 2 release master:** `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx`, rebuilt on 13 Oct 2026 from the paired REV04 Markdown source because the DOCX was absent from the workspace. Text and package are verified; visually review its layout before using it for KDP.
 
-REV15 and REV05 are the current story state for continuation, but are labelled drafts. Do not silently replace the release masters. Book 1's older `manuscript_text.txt` and the Book 2 build script's default source/output may be stale; inspect the relevant script before rebuilding. Update the source and its paired draft together.
+Book 1 REV16 and Book 2 REV05 are the current story state for continuation, but remain candidates/drafts. Book 1 REV14 and Book 2 REV04 remain the release masters; do not silently replace them. Book 1's builder now targets its REV16 candidate source/output. Book 2's build script may still be stale; inspect its source/output before rebuilding. Update each source and paired DOCX together.
 
 ## End-state canon
 

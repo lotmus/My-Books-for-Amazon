@@ -1,7 +1,7 @@
 # Case 1047 — Private Continuity Chart
 ### (Author reference only — not for publication)
 
-Status checked 2026-10-13 against the active Book 1 REV15 and Book 2 REV05 drafts. For series-wide current canon and open hooks, see `NEXT_BOOK_HANDOFF.md`. The Louvre row below is explicitly non-canon historical planning, not a Book 1 clue.
+Status checked 2026-10-15 against the Book 1 REV16 candidate and Book 2 REV05 draft. For series-wide current canon and open hooks, see `NEXT_BOOK_HANDOFF.md`. The Louvre row below is explicitly non-canon historical planning, not a Book 1 clue.
 
 Purpose: track, for every major clue, what *actually* happened (per the Ch16 resolution) vs. what was *perceived*, in which *frame*, with what *timestamp*, in what *Bureau record*, and *who knew what, when*. Built to catch contradictions like the "case duration" bug found and fixed this session (several epilogue scenes said "a year"/"eleven months" when the book's own chapter openers — "By Wednesday morning" (Ch3 and Ch4), "Friday morning" — establish a span of days).
 

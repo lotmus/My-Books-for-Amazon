@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Rebuild the Kindle master docx from manuscript_text.txt.
+"""Rebuild the Book 1 REV16 candidate DOCX from its paired release-candidate source.
 
-manuscript_text.txt is written by sync_text_from_docx.py (see its docstring for the
-markup). Round trip checked 10 Oct 2026: text -> docx -> text is identical.
-The current master is copied to ..\\bak\\ (timestamped) before it is overwritten.
-Usage:  python rebuild_kindle.py            (rebuilds the master in place)
+manuscript_text_REV16_RELEASE_CANDIDATE.txt is the source (see the docstring at
+its top for the markup). REV16 remains a candidate; REV14 remains the release master.
+The candidate DOCX is copied to ..\\bak\\ (timestamped) before it is overwritten.
+Usage:  python rebuild_kindle.py            (rebuilds the REV16 candidate in place)
         python rebuild_kindle.py out.docx   (writes a test build elsewhere)
 """
 from __future__ import annotations
@@ -23,9 +23,9 @@ from docx.shared import Inches, Pt, RGBColor
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-SRC = HERE / "manuscript_text.txt"
+SRC = HERE / "manuscript_text_REV16_RELEASE_CANDIDATE.txt"
 FIG = HERE / "figures"
-OUT = ROOT / "FINAL_REV11_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
+OUT = ROOT / "FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
 NAVY = RGBColor(0x0C, 0x44, 0x7C)
 PIC_WIDTH = Inches(5.2)
 

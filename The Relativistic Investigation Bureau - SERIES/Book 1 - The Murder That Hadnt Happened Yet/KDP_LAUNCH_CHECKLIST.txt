@@ -1,6 +1,6 @@
 BOOK 1 KDP RELEASE CHECKLIST
 The Murder That Hadn't Happened Yet
-Status as of 14 October 2026 (PT)
+Status as of 15 October 2026 (PT)
 
 CURRENT STATUS
 REV16 is a release candidate, not a published or approved release. REV14 remains the release master. The source and candidate DOCX are paired; the candidate includes one internal cover image. Do not upload until the author-side preview and cover decision are complete.
@@ -8,7 +8,8 @@ REV16 is a release candidate, not a published or approved release. REV14 remains
 FILES
 - Manuscript candidate: FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
 - Paired editable source: scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt
-- KDP description: kdp_description_REV16_RELEASE_CANDIDATE.docx and .txt; exact copy is also in KDP_METADATA.txt
+- KDP description: kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt; exact copy is also in KDP_METADATA.txt
+- Back-cover panel: Kindle Back Cover.jpg is an accurate text-only 1600 x 2560 candidate; the old, misleading panel is retained in bak/ and must not be used.
 - Marketing cover: Kindle Front Cover.jpg
 - Release master preserved: FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
 
