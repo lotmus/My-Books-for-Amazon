@@ -19,3 +19,7 @@ REV3 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. Chapte
 ## REV6 (15 Oct 2026)
 
 New fixed points are in DISPATCH_LEDGER.md (REV6 additions). Key facts: Elise Marot is sent to the lower room on Wed ~10:20 by Glock's stamp; Reed's pension record sent to Reviews; Glock's mother died in the tenth month waiting for a pension book; pages 1 to 39 of the casualty model are the missing premise pages; Perrott refuses a countersignature at 23:00 on 22 June; under-secretary Lyle; committee members Tench, Dacre, Hallett; the brass chain of office replaces the gold circlet. Scan run on the finished file: no clashes found in times, counts or names.
+
+## REV7 (15 Oct 2026)
+
+Chapters 11 to 15 re-timed (see DISPATCH_LEDGER.md, REV7 additions). Facts fixed: 1746 receiver's agent is Mr Rutter (Lyle is 1815 only); Form 7B started 17:15, 90 minutes, countersigned 18:43; Ruth call 19:24 (3:58); Pembroke file entry 32 at 21:52, entry 33 at 04:31 Wednesday; return from 1746 at 11:12 with 198 kg (86 + 56 + 56). Scan run on the finished file: no clashes found in times, counts or names.

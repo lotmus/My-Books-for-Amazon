@@ -62,7 +62,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ## Content
 
-- Never write the name **Trump**. The topics are fine without the name (for example "the president", "Washington", "the US government"). Search for the name before every commit.
+- Never write the banned name (the surname of the former US president; it is not spelled out in this file on purpose). The topics are fine without the name (for example "the president", "Washington", "the US government"). Search for the name before every commit. This applies to every file: stories, appendices, notes, scores and this handbook.
 - How-to books use generic example people, not real names. Case studies that need a real, checkable source may name a channel or brand; lead with the channel brand where it differs from a person. Never use Lothar's own titles as examples inside a how-to book.
 - Remove unverifiable facts without asking. Keep only claims checked against official or reliable sources (publisher pages, Crossref, Open Library, government statistics, the product's own policy pages). Never invent a source.
 - Use concise wording with no content lost. Cut repetition and padding; do not cut teaching substance.
@@ -73,7 +73,13 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - Voice for the British novels: British deadpan, wry, not anarchic absurdism unless a book's own note asks for it.
 - Math / teaching on-ramps: never define a thing before the reader has felt the need for it, and never use a symbol before the arithmetic has already made the point. Tone treats the reader as an intelligent adult; pace assumes nothing has been met before. Banned at a hinge: clearly, obviously, simply, just, of course, it is easy to see.
 - Do not restore deleted series plans, retired folder names, or withdrawn Also-by pairings.
-- Pseudonym or changed names go in the story; the real name goes in the appendix/notes (the banned name is never written anywhere). Corrections novel: original homage to Amery's Das Koenigsprojekt, see its HANDOVER.md; never market as an adaptation.
+- **Pseudonyms and renamed people.** If a real person, place or model for a character is renamed in the story, the story uses the new name only. The real name appears only in the appendix or notes, as a short "modelled on" line. Exception: the banned name is never written anywhere, appendix included.
+- **Corrections novel (Amery homage).** *The Department of Historical Corrections* is an original homage to Carl Amery's *Das Königsprojekt*; see its `notes/HANDOVER.md`. Never market it as an adaptation. Acknowledgement check, repeated on every revision of that book:
+  1. Nothing is taken from *Das Königsprojekt* in names, scenes, plot sequences or phrases; the scan result is recorded in the book's `HANDOVER.md`.
+  2. The book is never called an adaptation or a sequel in the KDP listing, blurb, keywords or cover.
+  3. Amery is named only in the back-matter acknowledgement, never as a selling point.
+  4. If original material is ever copied in, remove or change the acknowledgement and get permission first.
+  5. The acknowledgement wording is re-checked against the book at each revision, so "my own premise, characters, names and wording" stays true.
 
 ---
 
@@ -188,4 +194,4 @@ Keep chats and tokens cheap without losing the thread.
 | Scores, covers, release order | `SCORES.md` |
 | Book-specific method | that book's `notes/` or `CLAUDE.md` |
 
-If this handbook and a book note conflict on a global rule (pen names, Trump, docx-only, no force-push, scoring method), this handbook wins. If they conflict on a detail inside one book (chapter order, build script, local voice), the book note wins.
+If this handbook and a book note conflict on a global rule (pen names, the banned name, docx-only, no force-push, scoring method), this handbook wins. If they conflict on a detail inside one book (chapter order, build script, local voice), the book note wins.

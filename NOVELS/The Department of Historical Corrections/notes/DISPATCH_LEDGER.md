@@ -93,3 +93,23 @@ Timeline fixes and new fixed points. The manuscript wins over this file.
 | Wed ~20:00 | Beatrice and Miriam in Records; Miriam annotates the 2008 receipt "Corrected, 15 Oct. Not personal." | 22 |
 
 Glock's mother: waited eleven months for a pension book after the Leeds flood; died in the tenth; book arrived in the eleventh. Gold circlet renamed brass chain of office; "monarchy" now "office for life".
+
+## REV7 additions (15 Oct 2026)
+
+| When | What | Chapter |
+|---|---|---|
+| Tue 05:00 | Eleanor tests Miriam; window opens 07:40 | 11 |
+| Tue 05:45 | Coil store; reconciliation clock 51:32 | 11 |
+| Tue 07:05 | Load plate: Arthur 86, Eleanor 56, bag 6 = 148 kg out (200 kg window) | 11 |
+| Tue 07:40 | Departure; arrival 14:10 on 3 Oct 1746 (46 seconds to arrive); laundry unobserved until 17:50; return planned 17:40 | 11, 12 |
+| 3 Oct 1746, 14:40 | Agnes: "They sign at five" | 11 |
+| 3 Oct 1746, 15:40 to 16:10 | Rutter (receiver's agent, was Lyle) and Cresswell enter; yard fight; Cresswell runs with the spare slip | 12 |
+| 3 Oct 1746, 16:58 | Agnes signs the schedule, three witnessed copies; return token warms 17:35 | 12 |
+| Tue 11:12 | Return, 198 kg (Arthur 86 + Eleanor 56 + Saye 56) | 13 |
+| Tue 16:00 / 16:40 | Pelling's message; thirty minutes at the registration centre | 13 |
+| Tue 17:15 to 18:43 | Form 7B (90 minutes; reader accepts on the third try); central scanner collects 18:50; Garrick countersigns 18:43 | 13 |
+| Tue 19:24 | Arthur's call to Ruth, 3:58 (exchange logs calls over four minutes); meeting set for 08:40 | 14 |
+| Tue 21:40 to 22:00 | Registry cabinets lock at 22:00; entry 32 at 21:52; copy made in 40 minutes | 15 |
+| Wed 04:00 to 04:31 | Miriam's account; duty officer's round 04:15; entry 33 at 04:31 | 15 |
+
+Renamed in REV7: the 1746 receiver's agent is Mr Rutter (not Lyle). Lyle is only the 1815 under-secretary.
