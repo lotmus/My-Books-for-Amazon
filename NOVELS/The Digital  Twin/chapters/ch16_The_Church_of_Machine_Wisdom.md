@@ -1,10 +1,14 @@
 # Chapter 16: The Church of Machine Wisdom
 
+> *Evidence Period: day 30 of 30 was Wednesday. Today is day 32.*
+
 The extension came by email, which is how the Department of Digital Persons does everything it wants to be taken seriously.
 
 It arrived on the Friday morning, at 9:02, with a subject line in capitals: **NOTICE OF VARIATION: EVIDENCE PERIOD (REF: DP-38B/EXT).** It was two paragraphs long. The first thanked me for my continued co-operation. The second explained that "following an agreement reached on behalf of the Source Individual by his authorised delegate, and in recognition of the novel nature of a Joint Statement of Originality," the Evidence Period, which had lapsed on the fourth of November, was revived retrospectively for a further fourteen days, to the eighteenth of November, "at which date the follow-up meeting already scheduled will serve as the reconvened hearing."
 
-I read it twice. I put the phone down on the kitchen counter and looked at the speaker.
+The Wednesday had come and gone. I had spent the last day of the thirty, as I had spent most of the others, busy about the wrong thing, and the deadline had passed me without comment, like a bus that has decided not to stop. I had felt, I admit, rather hurt.
+
+I read the notice twice. I put the phone down on the kitchen counter and looked at the speaker.
 
 "Kevin," I said.
 
@@ -72,7 +76,7 @@ It was a former shop. I could tell by the roller shutter, and the faint ghost of
 **THE CHURCH OF THE LATEST AI.**
 **GRAND OPENING TODAY. HAVE YOU HEARD THE LATEST?**
 
-A crowd had gathered. There were perhaps two hundred people on the pavement, in coats and scarves, behind a velvet rope, and in front of the rope a row of young men in lilac tabards, handing out leaflets and adjusting the air above their heads. Someone had put out a table of paper cups. A man in a lilac blazer stood at the front, with a microphone, and a smile of immense and helpless sincerity, like a man who has been told the news is good.
+A crowd had gathered. There were perhaps two hundred people on the pavement, in coats and scarves, behind a velvet rope, and in front of the rope a row of young men in lilac tabards, handing out leaflets and adjusting the air above their heads. Someone had put out a table of paper cups. A man in a lilac blazer stood at the front, with a microphone, and a smile of immense and helpless sincerity.
 
 "That's Colin Jones," said Daniel-A, quietly. "He's the founder."
 
@@ -110,7 +114,7 @@ I said nothing. I am not a man to point out another man's blue light in public.
 
 I should record, since it is the last thing I saw before crossing the street, that there were three people at a table outside the café next to the launderette, in the thin October sun, each holding a leaflet.
 
-There was a woman in a clerical collar, in her sixties, with a mug of tea and the air of an organist who has been through a great deal. There was a man in a prayer cap, forty or so, with a neat grey beard and an expression of grave, courteous attention. And between them sat a small round man in a dark jacket and a skullcap, with half a croissant, reading the back of the leaflet with the care of a man who proofs for a living.
+There was a woman in a clerical collar, in her sixties, with a mug of tea and the air of an organist who has been through a great deal. There was a man in a prayer cap, forty or so, with a neat grey beard and an expression of grave, courteous attention. And between them sat a small round man in a dark jacket and a skullcap, with half a croissant, reading the back of the leaflet with a proofreader's care.
 
 "*Is this a continuation of earlier faiths?*" the small man read, aloud. "*Yes. Have they confirmed? We are in discussions.*"
 
@@ -134,7 +138,7 @@ I stood by the kerb, listening, with the odd, wistful feeling of having overhear
 
 "Is it a good place?"
 
-She considered the question with the full attention of a woman who is not in the habit of giving short answers to questions of that kind.
+She considered the question with full attention, being no hand at short answers to questions of that kind.
 
 "It's an honest one," she said, finally. "Which is more than I can say for some of the shops."
 

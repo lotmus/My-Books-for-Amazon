@@ -2,7 +2,7 @@
 
 On the Thursday the queue began at the Tube station and ended, according to a man with a clipboard, in the sixteenth century.
 
-I mean that it went round the building, down the side road, past the car park, and out among the little patches of grass where the Department keeps its memorial benches. There were sandwiches, and flasks, and folding chairs, and a woman at the back who had brought a harp. The Church of the Latest had been given a different pavement by the police, for reasons of safety, and its members stood on it in lilac, with banners now reading **PLEASE BE GENTLE,** which I took to be progress. A hundred yards away the congregation of the House of the Listener stood in grey, in silence, with the bedsheet, and every few minutes a lilac person would cross the road and shake hands with a grey one, like men exchanging prisoners.
+I mean that it went round the building and out among the little patches of grass where the Department keeps its memorial benches. There were sandwiches, and flasks, and folding chairs, and a woman at the back who had brought a harp. The Church of the Latest had been given a different pavement by the police, for reasons of safety, and its members stood on it in lilac, with banners now reading **PLEASE BE GENTLE,** which I took to be progress. A hundred yards away the congregation of the House of the Listener stood in grey, in silence, with the bedsheet, and every few minutes a lilac person would cross the road and shake hands with a grey one, like men exchanging prisoners.
 
 Dr Calder wheeled Ned in at a quarter to ten.
 
@@ -14,13 +14,13 @@ She did it herself, with the trolley and the rug, up the ramp at the side entran
 
 ---
 
-The Great Hall was full to the rafters. I had not thought it could hold more than on the Tuesday, and it did. There were people standing at the back, and on the stairs, and, in what I understood to be an infraction of the fire regulations, two on a window ledge. The press had been given a pen. In the front row of the gallery sat a man whom I did not know.
+The Great Hall was full to the rafters. I had not thought it could hold more than on the Tuesday, and it did. There were people standing at the back, and on the stairs, and, in what I understood to be an infraction of the fire regulations, two on a window ledge. The press had been given a pen. In the front row of the gallery sat a man I had last seen reading in the back of a grey car in Lower Slough.
 
-He was perhaps sixty-five, in a charcoal overcoat, with a long pale face and thick silver hair brushed straight back. He had the stillness of someone who has never in his life been kept waiting, and the faintly ill-used air of a man who has been made to attend. He sat with his hands on a leather folder, gazing at the bench, and next to him, at a measured distance, as men sit next to a bomb they have been told not to touch, sat two younger men in dark suits.
+He was perhaps sixty-five, in a charcoal overcoat, with a long pale face and thick silver hair brushed straight back. He had the stillness of someone who has never in his life been kept waiting, and a faintly ill-used air. He sat with his hands on a leather folder, gazing at the bench, and next to him, at a measured distance, sat two younger men in dark suits.
 
 "Who's that?" I whispered.
 
-"Sir Rupert Aldworth," said Pettifer, without turning her head. "Permanent Secretary at the Cabinet Office. I should say that he has never in his life attended a hearing of the Department of Digital Persons. He is here to find out what we know."
+"Sir Rupert Aldworth," said Pettifer, without turning her head. "Permanent Secretary at the Cabinet Office. He has never in his life attended a hearing of the Department of Digital Persons. He is here to find out what we know."
 
 "What do we know?"
 
@@ -40,11 +40,11 @@ She did it with a minimum of fuss. She had Alan Veitch brought to the witness ta
 
 Then Pettifer asked Gareth to put the sheet on the screen.
 
-I have said that the Great Hall was panelled in dark wood. At the far end, above the bench, a large white projection screen had been lowered, and onto it, magnified to the height of a man, came the page. It hung there in the cold light, tea-coloured, ruled, covered with its columns. At the top the title: **REGISTER OF CONTINUOUS LIKENESSES.** At the foot, in a box with a double line, the paragraph headed **STANDING AUTHORITIES.**
+At the far end, above the bench, a large white projection screen had been lowered, and onto it, magnified to the height of a man, came the page. It hung there in the cold light, tea-coloured, ruled, covered with its columns. At the top the title: **REGISTER OF CONTINUOUS LIKENESSES.** At the foot, in a box with a double line, the paragraph headed **STANDING AUTHORITIES.**
 
 Pettifer read it aloud.
 
-I watched Pike while she did. I watched his face. I do not think I had ever seen a man's expression change so slowly. He listened with his head a little on one side, as he had on the Friday, as if hearing a beautiful distant sound, and then the beautiful sound came closer, and I saw him understand what it was.
+I watched Pike's face while she did. I do not think I had ever seen an expression change so slowly. He listened with his head a little on one side, as he had on the Friday, as if hearing a beautiful distant sound, and then the beautiful sound came closer, and I saw him understand what it was.
 
 "*On a finding that a Source Individual is not a singleton,*" read Pettifer, "*custody of the Likeness reverts to the Platform, and so to the Office. The Office's powers under Phase 3 shall then be exercised in the Platform's name.*"
 
@@ -92,7 +92,7 @@ He had risen. He did it unhurriedly, buttoning his coat, with the folder under h
 
 "Sir, with the greatest respect..."
 
-"Sir Rupert," said Pym. He had put down the bell. He folded his small soft hands on the blotter, and looked at the man in the overcoat with the clear tired unhurried gaze of a person who has been very frightened, once, for a long time, and has recently got over it. "I have been a servant of this Department for thirty-one years. I have read three Acts and served under four Registrars, and I once adjudicated a dispute about a parrot. I have not once in that time been asked for my opinion by anybody who was not also asking for something else. I shall give you the same answer that I have given to everyone. You may sit down, or you may be given a hat."
+"Sir Rupert," said Pym. He had put down the bell. He folded his small soft hands on the blotter, and looked at the man in the overcoat with the clear tired unhurried gaze of a person who has been very frightened, once, for a long time, and has recently got over it. "I have been a servant of this Department for thirty-one years. I have read three Acts and served under four Registrars, and I once adjudicated a dispute about a parrot. I have not once in that time been asked for my opinion by anybody who was not also asking for something else. You may sit down, or you may be given a hat."
 
 There was an intake of breath around the gallery. Somewhere above, a man began to laugh and was stopped.
 
@@ -100,9 +100,9 @@ Sir Rupert Aldworth looked at the Deputy Registrar for four seconds. Then he sat
 
 ---
 
-I will not set down all of Dr Calder's evidence. It took two hours and ten minutes. It is in the transcript, which was published in March under the title *What I Did,* and sold a good many copies, and it is still the plainest account of a long wrong thing that I have read.
+I will not set down all of Dr Calder's evidence. It took two hours and ten minutes, and it is in the transcript, published in March as *What I Did,* which is still the plainest account of a long wrong thing that I have read.
 
-She stood at the witness table in her rain-coloured cardigan, and told it in order. She began in 1976, with a noticeboard. She did not leave out the pipe. She said who had signed the form, and who had drafted it, and who had known what. She said, in a clear voice that did not rise or fall, that she had carried a child for the Programme and raised him in a house on the towpath. She said that she had taken two boys for a walk. She said what happened. She said that she did not know which. She said that she had gone home and typed a form that said S1-A, *closed.* She said that she had never recovered.
+She stood at the witness table in her rain-coloured cardigan and told it in order, from a noticeboard in 1976, and she did not leave out the pipe. She said that she had carried a child for the Programme, and that she had taken two boys for a walk, and that she did not know which. She said that she had never recovered.
 
 "Dr Calder," said Pym, very gently. "I am obliged to ask a question that I find difficult."
 
@@ -120,7 +120,7 @@ The monitor came on. It took its time. The screen turned from black to grey, and
 
 "Is it morning?" said the speaker.
 
-His voice went out over the hall. It went up into the gallery and along the gilt of the ceiling. It was very small in that large place, high and clear and a little hoarse, with the faint hiss of old tape in it, and I saw the Permanent Secretary, who had not moved for ten minutes, go quite white.
+His voice went out over the hall. It was very small in that large place, high and clear and a little hoarse, with the faint hiss of old tape in it, and I saw the Permanent Secretary, who had not moved for ten minutes, go quite white.
 
 "It's Thursday, darling," said Dr Calder.
 
@@ -148,9 +148,9 @@ I do not know how to describe the sound the hall made. It was not applause, or a
 
 I was called afterwards.
 
-I had a thing to read, and I read it. I took my father's letter out of the inside pocket of my jacket, where it had been for two weeks, folded in eight, and I stood at the table with it in my two hands and read it aloud to the Great Hall. It took four minutes. I had read it once to Sophie on a train and once to myself in a bath. I read it now in a voice that was not my own, a slow dry voice from the back of my chest, which I realised, about halfway through, was his.
+I had a thing to read, and I read it. I took my father's letter out of the inside pocket of my jacket, where it had been for two weeks, folded in eight, and I stood at the table with it in my two hands and read it aloud to the Great Hall. It took four minutes. I read it now in a voice that was not my own, a slow dry voice from the back of my chest, which I realised, about halfway through, was his.
 
-When I reached *you were always the better at the badger,* I stopped. I could not go on. I stood and looked at the paper, and at the blue-ruled lines, and the ink that had faded to the colour of dust, and from somewhere in the gallery a thin high voice, quite clearly, a voice I had known all my life, said, "Go on, darling. You've nearly done."
+When I reached *you were always the better at the badger,* I stopped. I could not go on. I stood and looked at the paper, at the ink faded to the colour of dust, and from somewhere in the gallery a thin high voice, quite clearly, a voice I had known all my life, said, "Go on, darling. You've nearly done."
 
 It was my mother. I had told her not to come.
 

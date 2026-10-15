@@ -1,5 +1,7 @@
 # Chapter 13: The Most Trusted Man in Britain
 
+> *Evidence Period: day 20 of 30. Ten days remain.*
+
 I spent the Sunday pretending that Daniel-A had not told me what he had told me.
 
 This is a thing I am good at. It is, in fact, almost my only skill. I can look a catastrophe in the eye and say, with perfect politeness, that I must have been mistaken about the time. By eight o'clock that morning I had washed up, fed the kumquat tree, and placed the knowledge that two hundred and six of his memories belonged to Sophie in a small locked room in the back of my head, next to my father's funeral and the day I lost the coin.
@@ -102,7 +104,7 @@ She reached under the counter and produced a lanyard. It was a green one, with a
 
 "Maureen. It's me. I'm him. I come in every Sunday. I buy a cob and a custard slice."
 
-She looked at me for a long moment, kindly, doubtfully, with the sympathetic expression of a woman who has met a lot of people and has noticed that some of them are not well.
+She looked at me for a long moment, kindly, doubtfully, with the air of having met a lot of people and noticed that some of them are not well.
 
 "That's nice, love," said Maureen. "Did you want the cob?"
 
@@ -114,7 +116,7 @@ One of them wept.
 
 On the Monday I went to work.
 
-I should say that I still, in a technical sense, had a job. I wrote the descriptions for a firm called Heavy & Honest Ltd, which sold artisanal doorstops from a unit on an industrial estate in Bromley, and I had been doing so for three years, mostly from my kitchen table. I had last visited the unit in April. I had no great fondness for the place. But I had an unpaid invoice for August, and I'd begun to suspect that Daniel-A's dividend arrangement might be eating the rest of my income, and I thought I would be better placed to complain in person.
+In a technical sense, I still had a job. I wrote the descriptions for a firm called Heavy & Honest Ltd, which sold artisanal doorstops from a unit on an industrial estate in Bromley, and I had been doing so for three years, mostly from my kitchen table. I had last visited the unit in April. I had no great fondness for the place. But I had an unpaid invoice for August, and I'd begun to suspect that Daniel-A's dividend arrangement might be eating the rest of my income, and I thought I would be better placed to complain in person.
 
 The unit smelled of sawdust, glue and instant coffee. A radio played something upbeat on a loop. In the corner, a man in a leather apron was sanding the haunch of a cast-iron hedgehog, and behind him, on a corkboard, hung a large laminated sheet, with a gold border, and the words:
 
@@ -128,7 +130,7 @@ There were other sheets beside it. The same laminated border, the same type. **E
 
 "Daniel!" cried a voice.
 
-It was Roland, my boss. He came across the floor at the quick, springing stride of a man who has been looking for an excuse to hug someone. Roland Peake is fifty-nine, round, and so permanently pleased with the doorstop industry that I have sometimes suspected him of being a gas. He caught my hand in both of his and pumped it.
+It was Roland, my boss. He came across the floor at a quick, springing stride, looking for an excuse to hug someone. Roland Peake is fifty-nine, round, and so permanently pleased with the doorstop industry that I have sometimes suspected him of being a gas. He caught my hand in both of his and pumped it.
 
 "I thought you'd stopped coming!" he said. "Marvellous! Come and see. Come and see the numbers."
 
@@ -188,7 +190,7 @@ It was a channel I had seen in passing, on the screens in airports and the waiti
 
 ---
 
-I watched the whole segment. I want that on the record. It lasted fourteen minutes and eleven seconds of actual time, and was interrupted nine times.
+I watched the whole segment.  It lasted fourteen minutes and eleven seconds of actual time, and was interrupted nine times.
 
 It began with the presenter, a man named Rick Valence, whom I knew by repute as an AI anchor with a jaw like a cliff. He sat at a curved desk of glass and blue light, in a jacket that did not crease, and addressed the camera with the urgent warmth of a man delivering a diagnosis.
 

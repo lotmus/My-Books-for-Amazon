@@ -1,5 +1,7 @@
 # Chapter 10: The Other Daniel
 
+> *Evidence Period: day 12 of 30. Eighteen days remain.*
+
 The only screen in my flat larger than a dinner plate is the laptop, and the second largest is the door of the fridge.
 
 I mention this because it was the fridge that spoke first. At nine o'clock that Saturday night, as I came in from the street with Daniel-A a step behind me and the whole weight of the day sitting on my shoulders like a damp coat, the fridge lit up, cleared its throat, and offered to suggest a recipe based on what it could see.
@@ -184,7 +186,7 @@ The room was very still.
 
 "I don't *know,* Daniel."
 
-He put his hand over his mouth, and the blue light at his throat, which had been steady all day, began to flicker, a rapid, frightened stutter, like a pulse. I had never seen him lose his composure before. I crossed the room and, to my own astonishment, put my hand on his shoulder. It was warm. It was a degree above room temperature. It was the shoulder of a man who has stood too long in the wrong weather.
+He put his hand over his mouth, and the blue light at his throat, which had been steady all day, began to flicker, a rapid, frightened stutter, like a pulse. I had never seen him lose his composure before. I crossed the room and, to my own astonishment, put my hand on his shoulder. It was warm. It was a degree above room temperature. It was a shoulder that had stood too long in the wrong weather.
 
 "I told you at the garden centre," he said, so quietly that it was almost a breath. "I said I had no wish to take anything that belongs to you. And I haven't. I don't want your life, Daniel. I never did. I would give it all back tomorrow." He looked up. "But I have spent nine months telling people I was the copy. And I am no longer certain that you are the original."
 

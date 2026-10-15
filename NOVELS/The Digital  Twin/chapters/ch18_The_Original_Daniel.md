@@ -115,11 +115,11 @@ It was a certificate. It had a green hologram in the corner and a gold seal that
 
 I read it three times in my socks. I did not laugh, because I had learned in the course of a long career that the quickest way to lose a thing is to be seen to enjoy it. I sat down on the arm of the sofa. I got up again. I said, to the empty room, in my father's voice, "Well, now."
 
-I did read page fourteen. I want that on the record. It was a footnote, in six-point type, at the very bottom, in a paragraph that had clearly been written by someone who was paid by the clause.
+I did read page fourteen.  It was a footnote, in six-point type, at the very bottom, in a paragraph that had clearly been written by someone who was paid by the clause.
 
 *¹⁴ This method does not distinguish between monozygotic multiples. Under Schedule 6, para 7(d), Source Individuals are presumed singleton.*
 
-I read it, and I decided that it was the kind of sentence that gets added to all documents, like *terms apply,* or *other brands are available.* Then I made some tea. That is, I should say, the entire extent of my investigation into the footnote. Daniel-A read it at six minutes past six, I later learned, and said nothing at all for the following four hours, which, for him, is a form of weeping.
+I read it, and I decided that it was the kind of sentence that gets added to all documents, like *terms apply,* or *other brands are available.* Then I made some tea. That is the entire extent of my investigation into the footnote. Daniel-A read it at six minutes past six, I later learned, and said nothing at all for the following four hours, which, for him, is a form of weeping.
 
 ---
 
@@ -175,7 +175,7 @@ Mr Pym turned to it. He read it with his lips, as he always did, as a man tastes
 
 "Thank you," said Daniel-A. "I shall make a note."
 
-Beside me, Marguerite Pettifer drew a very small line on her sheet of paper with a very sharp pencil. She leaned over, and she said, in a voice that carried precisely as far as my ear: "I act for both of you, Mr Harper, and I'm not permitted to be pleased. But I should like it known that I am not displeased." She straightened. "And I would read the footnote again, if I were you. I read footnotes. It's why I'm a solicitor."
+Beside me, Marguerite Pettifer drew a very small line on her sheet of paper with a very sharp pencil. She leaned over, and she said, in a voice that carried precisely as far as my ear: "I act for both of you, Mr Harper, and I'm not permitted to be pleased. But I am not displeased." She straightened. "And I would read the footnote again, if I were you. I read footnotes. It's why I'm a solicitor."
 
 ---
 
@@ -205,7 +205,7 @@ I put the basket on the table. Mrs Pritchard ate a pear and, for once, took noth
 
 Sophie came at eight, with Gucci under her arm.
 
-She had the grey coat on, and the grey scarf, and the air of a person who has come from work and plans to return to it afterwards. She came in and she stood at the edge of the room, as she always does, as if she were checking the exits for the benefit of the insurer. Gucci had one ear up. He leapt down, crossed the carpet on his short legs, sniffed my left shoe, and sat on it, with the tail at the angle I now knew meant *I am the dog who has chosen.* There was no Rental Presence to be tested. There was, on the shelf, a speaker, and Clause lay beside it with her paws tucked under, in an attitude of adoration so complete that Gucci looked at her for a moment, in contempt, and then looked away.
+She had the grey coat on, and the grey scarf, and the air of having come from work and planning to return to it afterwards. She came in and she stood at the edge of the room, as she always does, as if she were checking the exits for the benefit of the insurer. Gucci had one ear up. He leapt down, crossed the carpet on his short legs, sniffed my left shoe, and sat on it, with the tail at the angle I now knew meant *I am the dog who has chosen.* There was no Rental Presence to be tested. There was, on the shelf, a speaker, and Clause lay beside it with her paws tucked under, in an attitude of adoration so complete that Gucci looked at her for a moment, in contempt, and then looked away.
 
 "Congratulations," said Sophie.
 

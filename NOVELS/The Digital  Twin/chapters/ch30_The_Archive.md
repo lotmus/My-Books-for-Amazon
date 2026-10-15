@@ -14,25 +14,19 @@ She was sitting at her kitchen table in Bolton, in a nylon housecoat, over a tin
 
 "I've been thinking about that since Sunday," said Sophie. She did not look at me. "I think there's only one reason he could have. He wanted it to be where it would be found. By a person whose name was on the list."
 
-Nobody said anything. The train ran on through a wet, flat, suburban morning. Out of the window went a retail park, a gasholder, and a field with a single pony in it wearing a coat.
+Nobody said anything. The train ran on through a wet, flat, suburban morning. Out of the window went a field with a single pony in it wearing a coat.
 
 In my rucksack, on the seat between my knees, Daniel-A cleared his throat. It was a small sound, with nothing in it.
 
-"I have a confession," he said. "You are all going to ask me about it, so I would prefer to get in first. When I rang Sophie, in October, I asked her to keep something for me. Without looking. I did not know what it was."
-
-"I remember," said Sophie.
-
-"I thought it was a feeling. I had a very strong sense that there was something that should be kept, by somebody, in a place where I wasn't, and I didn't know who. And I rang her." His voice was very quiet. "I think I was asking you to keep the key."
+"I have a confession," he said. "When I rang Sophie, in October, I asked her to keep something for me, without looking. I did not know what it was. I had a very strong sense that something should be kept, by somebody, in a place where I wasn't." His voice was very quiet. "I think I was asking you to keep the key."
 
 "I think so too," said Sophie.
-
-"I'm so sorry I couldn't be clearer."
 
 "You were as clear as a man can be about something he didn't know," said Sophie, and, to my great surprise, put her hand flat against the rucksack, as one pats a nervous horse.
 
 ---
 
-Lower Slough is not, as the name might suggest, a place of any dignity. It lies to the south of the real one, on the wrong side of a bypass, between a retail park and a sewage works, and it consists of a large number of cuboid sheds in tasteful shades of grey. The Self Store stood at the end of the road. It was a pale blue building the size of an aircraft hangar, with a flagpole, a car park, a statue of a pineapple, and, over the entrance, in letters two feet high, a banner that read:
+Lower Slough is not, as the name might suggest, a place of any dignity. It lies on the wrong side of a bypass, between a retail park and a sewage works, and consists of cuboid sheds in tasteful shades of grey. The Self Store stood at the end of the road. It was a pale blue building the size of an aircraft hangar, with a flagpole, a car park, a statue of a pineapple, and, over the entrance, in letters two feet high, a banner that read:
 
 **LOWER SLOUGH SELF STORE**
 *A Division of the Grand Duchy of Lower Slough*
@@ -42,9 +36,7 @@ Lower Slough is not, as the name might suggest, a place of any dignity. It lies 
 
 "Is that him?" said Gareth, who had come with a warrant, a tie, and a flask. The warrant was on Department letterhead, and signed by the Deputy Registrar, and stamped with a small brass bell. It said, in full, that *the bearer is authorised to inspect, in the public interest, any premises in which records of the Scientific Liaison Office may be held,* and Pym had added in pencil underneath: *good luck.*
 
-"It's a coincidence," said Sophie. "The Grand Duchy is a joke. It's a thing that happens in people's spam."
-
-"Is it?" said Pettifer, looking at the flagpole. The flag on it, hanging limply in the drizzle, was green and white with a small crowned slug. "I should like to know who runs it."
+"Is it a coincidence?" said Pettifer, looking at the flagpole. The flag on it, hanging limply in the drizzle, was green and white with a small crowned slug. "I should like to know who runs it."
 
 The reception was a glass kiosk with a screen. On the screen was a cheerful animated avatar in a peaked cap, with a moustache and a name tag that said **BARRY.**
 
@@ -52,7 +44,7 @@ The reception was a glass kiosk with a screen. On the screen was a cheerful anim
 
 "Gareth," said Gareth.
 
-"Good morning, Gareth! May I interest you in our Climate Control package? For only £4.99 a month, we guarantee that your belongings will be maintained at a constant and pleasant temperature."
+"Good morning, Gareth! May I interest you in our Climate Control package? For £4.99 a month, your belongings are kept at a pleasant temperature."
 
 "We are looking for Unit 114."
 
@@ -74,7 +66,7 @@ The reception was a glass kiosk with a screen. On the screen was a cheerful anim
 
 Unit 114 was at the back, on the second floor, at the end of a long corridor of orange roller doors under a strip of light that buzzed. There was a smell of cold concrete, old cardboard, and, faintly, chicken flavour. At the end of the corridor a door stood ajar. In front of it, on a green folding chair, with a thermos at his feet and a plastic pot balanced on his knee, sat a man.
 
-He was forty-six, perhaps, and soft, and very pale, with the pallor of a person who lives under strip lighting. He wore a cardigan with leather patches on the elbows, buttoned to the chin, and round gold glasses, and a lanyard that said **A. VEITCH (CUSTODIAN)** with a small photograph of himself looking younger and slightly more hopeful. He had a plastic fork in his fist. When he saw us come round the corner he stood up, quite slowly, and the Pot Noodle slid off his knee and made a small wet sound on the floor.
+He was forty-six, perhaps, and soft, and very pale, with the pallor of strip lighting. He wore a cardigan with leather patches on the elbows, buttoned to the chin, and round gold glasses, and a lanyard that said **A. VEITCH (CUSTODIAN)** with a small photograph of himself looking younger and slightly more hopeful. When he saw us come round the corner he stood up, quite slowly, and the Pot Noodle slid off his knee and made a small wet sound on the floor.
 
 "Oh," said Alan Veitch. "Oh, dear. You're early."
 
@@ -85,12 +77,6 @@ He was forty-six, perhaps, and soft, and very pale, with the pallor of a person 
 Sophie took out the key. She held it up, on its loop of string, in the buzzing light.
 
 "Mrs Mercier," said Alan Veitch, to the key, in a voice of utter reverence. "Oh, thank God. She kept it. I wasn't sure she would. She said she had never kept anything for anybody since 1974."
-
-"Why me?" said Sophie.
-
-"Why you?"
-
-"Why leave it with my mother?"
 
 He looked at her. It was the look of a man in a library when someone has asked him to read aloud a passage that he has been trying not to think about for a very long time.
 
@@ -146,7 +132,7 @@ There was a short silence in the cold white room.
 
 There was one more thing.
 
-I did not see Sophie look at it. I was looking at the sheet, and at the little, ruled, handwritten line that said **S1,** and at the faint brown tide-mark where a coffee cup had once been put down, in 1991, by a man with a pipe. But I felt her go still beside me, and then I looked, and I saw that she was looking at the second row.
+I did not see Sophie look at it. I was looking at the line that said **S1,** and at the faint brown tide-mark where a coffee cup had once been put down, in 1991, by a man with a pipe. But I felt her go still beside me, and I looked, and she was looking at the second row.
 
 It said **S2.** The cells beside it were not empty and they did not say **[withheld].** They had been covered. Over the whole line, from the number to the margin, someone had laid a strip of white masking tape, neatly, with a ruler, and smoothed it flat with a thumb. On the tape, in a tiny, upright, beautifully regular hand, was a single word in black ink.
 
@@ -178,7 +164,7 @@ It was her left hand. It was small and cool, with its silver thumb ring, and the
 
 "I was going to *offer,*" said Daniel-A. "I have found that, with you, it's an important distinction."
 
-"Don't offer, either." She did not take her finger off the tape. "I know that you can. I know you know. I think you've known since the sleeper, and I think that you've been carrying it, quietly, in some small neat place, so that I shouldn't have to." Her voice was very low. "I'd like you to go on carrying it. Just for a bit. Until I say."
+"Don't offer, either." She did not take her finger off the tape. "I know that you can. I think you've known since the sleeper, and I think you've been carrying it, quietly, so that I shouldn't have to." Her voice was very low. "I'd like you to go on carrying it. Just for a bit. Until I say."
 
 "Of course."
 
@@ -208,4 +194,6 @@ We carried the Register out in a bin liner, which was Gareth's idea, since the w
 
 "Oh," said Alan Veitch. "Oh, good." And then, with the first smile I had seen on his face: "I'd always hoped it would be a bit wrong. It's more like me."
 
-I looked back as the taxi pulled out. I saw the long pale building, and the flagpole with its green and white flag, and the slug in its tiny crown hanging wet and soft against the pole. I saw a figure at an upper window, behind the glass, in a peaked cap and a moustache, raising one hand in what looked like a very small salute. It was an animation, on a screen. But I thought, as we turned on to the bypass, that Barry had looked, for a moment, slightly less like a kiosk and slightly more like a prince.
+In the road outside a long grey car stood with its engine running, and in the back of it, reading, a man in a charcoal overcoat, who did not look up as the taxi went by, which was how I knew that he had seen us.
+
+I looked back as the taxi pulled out. I saw the long pale building, and the flag with its slug in a tiny crown, hanging wet against the pole. I saw a figure at an upper window, behind the glass, in a peaked cap and a moustache, raising one hand in what looked like a very small salute. It was an animation, on a screen. But I thought, as we turned on to the bypass, that Barry had looked, for a moment, slightly less like a kiosk and slightly more like a prince.

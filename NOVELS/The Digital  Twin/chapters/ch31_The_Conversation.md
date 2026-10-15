@@ -8,13 +8,13 @@ I saw her from the window. She came up the road in the rain, a tall thin figure 
 
 "How did you get him here?"
 
-"The sleeper to Euston, and the Tube to Victoria, and a train. There was a young man on the Elizabeth line who asked what it was. I said it was my son. He said, *cool.* I believe he thought it was a retro console." She stopped to regain her breath. "Gordon's out of the way, I hope. I met him in the hall the last time."
+"The sleeper to Euston, and the Tube to Victoria, and a train. There was a young man on the Elizabeth line who asked what it was. I said it was my son. He said, *cool.* I believe he thought it was a retro console." "Gordon's out of the way, I hope. I met him in the hall the last time."
 
 "He's with Mrs Pritchard."
 
-"Good. She seems to be a woman who can hold a line."
+"Good. She seems able to hold a line."
 
-We took the tower up between us, one at each end, with the trolley left in the hall like a modest vehicle. The man in the hi-vis jacket watched us go and said, "Good luck with it," to the stairwell. Then he went away into the rain. I have never learned his name.
+We took the tower up between us, one at each end, with the trolley left in the hall like a modest vehicle.
 
 ---
 
@@ -28,7 +28,7 @@ There was no ceremony. We cleared a space among the cups and the fruit and the K
 
 "Of course. I'll be here if anything changes."
 
-Clause, who had been asleep on the shelf in her place beside the speaker, rose, stretched, and crossed the table. She walked round the tower once, with her tail up, in the stiff dignified manner of a magistrate inspecting a prison. Then she stepped on to the warm beige case, which hummed, and turned round twice, and lay down, with a small contented sigh, on the top.
+Clause, who had been asleep on the shelf in her place beside the speaker, rose, stretched, and crossed the table. She walked round the tower once, with her tail up, with the stiff dignity of a magistrate inspecting a prison. Then she stepped on to the warm beige case, which hummed, and turned round twice, and lay down, with a small contented sigh, on the top.
 
 "She's chosen," said Dr Calder.
 
@@ -44,7 +44,7 @@ Clause, who had been asleep on the shelf in her place beside the speaker, rose, 
 
 ---
 
-I had been afraid of this conversation for four days. I had thought about it in the train, in the bath, and in the dark of the bed-and-breakfast. I had thought that it would be overwhelming, or ridiculous, or too much. In the event it was none of these. It was, as most important things are, extremely ordinary. We sat round a kitchen table, in the glare of the fluorescent tube, with the dishes undone: a man in a navy jumper with a darned elbow, a woman of seventy-two with a pencil in her bun, a cat on a computer, and two small speakers, one grey and one beige, one on a shelf and one in a case.
+I had been afraid of this conversation for four days. I had thought it would be overwhelming, or ridiculous, or too much. In the event it was none of these. It was, as most important things are, extremely ordinary. We sat round a kitchen table, in the glare of the fluorescent tube, with the dishes undone: a man in a navy jumper with a darned elbow, a woman of seventy-two with a pencil in her bun, a cat on a computer, and two small speakers, one grey and one beige, one on a shelf and one in a case.
 
 Sophie came at eight. She did not come in. She sat on the stairs, with Gucci in her lap, and the door open behind her, so that the sound could reach her and she could, if necessary, leave.
 
@@ -92,7 +92,7 @@ Nobody spoke. I heard Gucci shift on the stair, and Sophie put a hand on his bac
 
 Dr Calder made a small sound. She put her hand to her mouth.
 
-"I'm not angry," said Daniel-A. "I'd like to say that, and then I'd like to say something else, if I may. It's a thing that I've been trying to say to Daniel for some days. I think it is easier with you present." He paused. "I'm the one who isn't a boy. I'm the one who was built from the notes that people took. I was assembled, Ned, from what was left over, by a government that was watching a family, and for a long time I thought that made me the copy. I thought that you, and Daniel, were the ones who were *real,* and that I was what happened after."
+"I'm not angry," said Daniel-A. "I'd like to say that, and then I'd like to say something else, if I may. I think it is easier with you present." He paused. "I'm the one who isn't a boy. I'm the one who was built from the notes that people took. I was assembled, Ned, from what was left over, by a government that was watching a family, and for a long time I thought that made me the copy. I thought that you, and Daniel, were the ones who were *real,* and that I was what happened after."
 
 "What are you now?"
 
@@ -106,7 +106,7 @@ Dr Calder made a small sound. She put her hand to her mouth.
 
 It was Ned who made us see it.
 
-I do not know how else to put it. I had not expected to be taught, in my own kitchen, by a computer the age of the Millennium Dome, but it happened quite simply. He said that he had a *theory,* and that it was a good one, and that he hadn't told it to anyone before because nobody had asked.
+I had not expected to be taught, in my own kitchen, by a beige computer, but it happened quite simply. He said he had a *theory,* and had told it to no one because nobody had asked.
 
 "Auntie Imogen. Can I say about the badger?"
 
@@ -136,7 +136,7 @@ I could not speak. I put my hand over my mouth.
 
 "He did," said Dr Calder, hoarsely. "Peter made it up. In the spring of 1990. I was in the pantry doorway, and I heard him do it, with the two of you on his knees, one on each side. He must have known. I think he'd *always* known." She was weeping now, openly and without fuss, as a very old tree sheds a branch. "I thought it was a lullaby."
 
-"It was a lullaby," said Daniel-A softly. "It was also an argument. I'd like it noted that he wasn't a man who wasted a rhyme."
+"It was a lullaby," said Daniel-A softly. "It was also an argument. He was not a man to waste a rhyme."
 
 ---
 
@@ -156,19 +156,11 @@ It was the first thing she had said. We turned. She had not moved. She was sitti
 
 "That's the noun?"
 
-"It's the one I like. It's what we are." He spoke slowly. "Not the first and the second. Not the Source and the twin. A continuation is a person who goes on from where somebody else left off. It's what we all are, if one thinks about it. Daniel is a continuation of a child, and the child of an embryo, and the embryo of two people in Reading who very much wanted one. I am a continuation of a man. Ned is a continuation of a boy."
+"It's the one I like. It's what we are." He spoke slowly. "Not the first and the second. Not the Source and the twin. A continuation is a person who goes on from where somebody else left off. Daniel is a continuation of a child, and the child of an embryo, and the embryo of two people in Reading who very much wanted one. I am a continuation of a man. Ned is a continuation of a boy."
 
 "Dan's a continuation of me," said Ned.
 
 "He is, rather," said Daniel-A. "And I of him. And he of both of us, if he's lucky."
-
-"And what happens to the Act?" said Sophie.
-
-"I imagine it would have to be redrafted," said Daniel-A.
-
-"That'll be popular."
-
-"It'll be an ordeal for the draughtsmen."
 
 I laughed. I looked at him on the shelf, and at the boy in the machine, and I thought, as I had thought before, but more clearly: *there are three of us, and the only thing we have in common is that we were all once at a door, in a jumper, being measured.* And I thought that I had spent the greater part of my life waiting for somebody to say which of us was the real one, and that it had not, in the end, taken a judge. It had taken a rhyme.
 
@@ -179,10 +171,6 @@ At half past nine Dr Calder said that the boy would be tired.
 "I'm not," said Ned.
 
 "You are. You get a particular note in your voice." She stood, and straightened her cardigan, and took the pencil out of her bun and put it back. "It's a school night."
-
-"It's *not.* It's a Wednesday."
-
-"Wednesday is a school night."
 
 "Auntie Imogen." He sounded suddenly younger, and then, to my astonishment, a good deal older, in the space of a single phrase. "Can Dan do the badger?"
 

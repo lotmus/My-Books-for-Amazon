@@ -116,7 +116,7 @@ It was not what I had said. It was a good deal worse.
 
 By seven the markets had opened. By seven fifteen, Nib was down eleven per cent, and ORIGINAL COIN, which had been rising for six days, fell ninety-one per cent in nine minutes, and the ticker underneath, which usually bore the cheerful statements of a fund manager, simply said **THIS IS A CORRECTION.** By eight the Church of the Latest had issued a statement in a lilac typeface, which described the idea as *a wound upon the Source,* and invited anyone troubled by it to join a Zoom session in Server Hall No. 1 at nine, with absolution available at a special introductory rate. At half past, a spokesman for the Prime Minister said that the Government did not comment on remarks made in a canteen. At ten past nine, the House of the Listener in Penge put a notice on its door, written on the back of a hymn sheet, which said: *We are not sure either. Please come in.*
 
-I read all of this on my phone, in the kitchen, in my pyjamas, with a piece of toast I had stopped eating. Clause had come down from the shelf and was sitting on the table, in front of me, in the manner of a very small, very old, very patient member of the clergy.
+I read all of this on my phone, in the kitchen, in my pyjamas, with a piece of toast I had stopped eating. Clause had come down from the shelf and was sitting on the table, in front of me, like a very small, very old, very patient member of the clergy.
 
 "I'd like to apologise," said Daniel-A, from the speaker.
 
@@ -164,6 +164,10 @@ I laughed. I couldn't help it, and then I found that I was crying, too, in the o
 
 My phone buzzed.
 
-I looked at it through my fingers. It was a message from Giles. It was in capitals and it had four exclamation marks, which, from Giles, was equivalent to a siren.
+I looked at it through my fingers, and it was Sophie, which stopped the crying at once, as a dropped tray does. It was a photograph of Gucci in a Bolton bus shelter, wearing the expression of an animal asked to admire a regional timetable. Underneath, in full sentences, because she has never been able to do otherwise: *Bolton. Raining. The records office has a queue system and I am number 41. I have not changed my mind about you and I have not made it up either. Eat something that is not toast. S.*
+
+I looked at the toast. I put it down.
+
+The phone buzzed again. This time it was Giles. It was in capitals and it had four exclamation marks, which, from Giles, was equivalent to a siren.
 
 *THEY'VE HEARD. RE-SCHEDULED. IT'S NO LONGER MONDAY. IT'S FRIDAY. MIDNIGHT. I AM SO SORRY. G.*

@@ -1,5 +1,7 @@
 # Chapter 12: Sophie Makes Everything Worse
 
+> *Evidence Period: day 19 of 30. Eleven days remain.*
+
 On the Saturday morning, I met my neighbour's wife.
 
 I had known Mr Fenwick for six years, in the way that you know a person on the second floor: by the sound of his slippers, the smell of his toast, and the way he nods at the post. He is a quiet man in his sixties with a moustache like a small, well-kept hedge. I had seen him in the stairwell perhaps four hundred times, and in all of them he had been alone. I had not, until that morning, met his wife.
@@ -112,7 +114,7 @@ I stared at her.
 
 "It's a good reason."
 
-"It's a *legal* reason. That isn't why you're doing this." She turned to face me, and the pale light caught the chip in her tooth, and I felt, as I always had, the old slow sinking of a man who has been understood. "Think about it. Ask yourself why you've spent the last three weeks trying to prove you're the only one. You didn't want to be anyone for three years, Daniel. You turned yourself into a very quiet, very reasonable man who writes about doorstops. You made yourself so small that a machine had to take your place. And now you want to be the *only* one."
+"It's a *legal* reason. That isn't why you're doing this." She turned to face me, and the pale light caught the chip in her tooth, and I felt, as I always had, the old slow sinking of being understood. "Think about it. Ask yourself why you've spent the last three weeks trying to prove you're the only one. You didn't want to be anyone for three years, Daniel. You turned yourself into a very quiet, very reasonable man who writes about doorstops. You made yourself so small that a machine had to take your place. And now you want to be the *only* one."
 
 "That isn't fair."
 

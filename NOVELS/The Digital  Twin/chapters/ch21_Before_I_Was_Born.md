@@ -6,7 +6,7 @@
 
 "By the word. It is a photocopying term. It belongs to the same family as *collated* and *stapled.* One would not like to find oneself in it."
 
-The hen, by the range, shifted her weight from one foot to the other and said nothing, in the manner of a witness who has already been advised.
+The hen, by the range, shifted her weight from one foot to the other and said nothing, like a witness who has already been advised.
 
 Sophie had not turned the title sheet over. She was looking at the lines in the middle, the ones that said **Successfully,** and **Twelve Years Before Birth,** with the same narrow patience with which she looks at a signature that is a little too steady. It was ten past seven in the morning. The mist had gone off the loch. On the draining board a small clock, shaped like a teapot, had begun to tick audibly, as clocks do in a room where everyone has stopped talking.
 
@@ -30,27 +30,27 @@ I said, "Is that the whole of it?"
 
 "There's an Item Seven," said Daniel-A. "It says, *Refreshments will be provided.*"
 
-I laughed. It came out of me before I could prevent it, one sharp breath through the nose, and Sophie looked up at me and her mouth did something complicated. Dr Calder, to my surprise, did not look offended. She looked as though she had been waiting thirty-two years for somebody to laugh at that line, and had been afraid they would not.
+I laughed, one sharp breath through the nose, and Sophie looked up at me and her mouth did something complicated. Dr Calder, to my surprise, did not look offended. She looked as though she had been waiting thirty-two years for somebody to laugh at that line, and had been afraid they would not.
 
 "He thought it was funny," she said. "I was twenty-two, and I thought he was a monster, and I also thought it was funny. I think that's what the Programme was. It was a very large number of people who found it funny and went on."
 
 ---
 
-I should say what I felt, since a man in my position is expected to feel something at this point, and I have been reproached in the past for omitting it.
+I will say what I felt, since I have been reproached in the past for omitting it.
 
 I felt hungry.
 
-It was a small, distinct, entirely physical hunger, such as I have felt at funerals, and it occurred to me, very slowly, that this was how my body proposed to deal with the information. It was a thing it had done for me many times before. I wanted toast. I wanted, I suppose, to be somewhere in which there was a second piece of toast, and a person to say *you're all right,* and I had none of these. I had a hen.
+It was a small, distinct, entirely physical hunger, such as I have felt at funerals, and it occurred to me, very slowly, that this was how my body proposed to deal with the information. I wanted toast. I wanted, I suppose, to be somewhere in which there was a second piece of toast, and a person to say *you're all right,* and I had none of these. I had a hen.
 
 "Tell me the rest," I said. "Tell me the rest as if I were a person who could stand it."
 
 "I can't do that, dear. I have never met one." But she poured me a second cup, and put in, without asking, two sugars, which I do not take, and I drank it.
 
-"In 1976," said Dr Calder, "the Office had no way to make a child. It had a pipe, and a filing cabinet, and eleven pounds a week for a research assistant. The study was a question. It would take ten years to find a way to ask it. In 1985, Menzies found a private fertility clinic willing to take part in an unapproved experiment based on embryo-splitting work in animals. He called the method *blastomere separation.* At the two-to-eight-cell stage, cells might be separated and cultured. Whether either group could develop safely into a child was uncertain. This was exploratory work, not an established fertility treatment. The Programme called it a pilot study, which made it sound tidier than it was."
+"In 1976," said Dr Calder, "the Office had no way to make a child. It had a pipe, and a filing cabinet, and eleven pounds a week for a research assistant. The study was a question. It would take ten years to find a way to ask it. In 1985, Menzies found a private fertility clinic willing to take part in an unapproved experiment based on embryo-splitting work in animals. He called the method *blastomere separation:* at the two-to-eight-cell stage the cells are divided and cultured. Whether either group could develop safely was uncertain. This was exploratory work, not an established treatment. The Programme called it a pilot study, which made it sound tidier than it was."
 
 "Twins," said Sophie.
 
-"The ordinary kind happens by accident, one time in two hundred and fifty. This was by appointment." Dr Calder's voice did not change. It remained gentle and unhurried, and the more gentle it was, the more it seemed to me that she was carrying something very heavy up a very narrow stair. "They recruited from the list at a private fertility clinic in Berkshire. There were nine couples on the list that year. They chose two. One of them was a county surveyor and a school secretary who had been trying for six years. They were told that their treatment was part of a health study. Jean signed the form. Peter read it, twice, with a ruler under every line, and then he signed it, because he wished to be a father, and a man who wishes to be a father will sign a good deal."
+"The ordinary kind happens by accident, one time in two hundred and fifty. This was by appointment." Dr Calder's voice did not change. It remained gentle and unhurried, and the more gentle it was, the more it seemed to me that she was carrying something very heavy up a very narrow stair. "They recruited from the clinic's list: nine couples that year. They chose two. One of them was a county surveyor and a school secretary who had been trying for six years. They were told that their treatment was part of a health study. Jean signed the form. Peter read it, twice, with a ruler under every line, and then he signed it, because he wished to be a father, and a man who wishes to be a father will sign a good deal."
 
 "What did the form say?"
 
@@ -74,7 +74,7 @@ I knew, then. I do not know how. It was nothing in her face. It was the silence 
 
 The little clock on the draining board ticked, once, twice.
 
-"I was thirty-three," she said. "I had been with the Office for eleven years. It was explained to me as a *continuity requirement.* The Subject must be under observation from the beginning, and a second, closely observed, gestation would be the most reliable control. I was told that it was an honour. I do not wish to make excuses for myself. I was told that it was an honour and I believed it, and I volunteered, because I loved the work, and because I had never been asked to be the centre of anything."
+"I was thirty-three," she said. "I had been with the Office for eleven years. It was explained to me as a *continuity requirement.* The Subject must be under observation from the beginning, and a second, closely observed, gestation would be the most reliable control. I was told that it was an honour. I was told that it was an honour, and I believed it, and I volunteered, because I loved the work and had never been asked to be the centre of anything."
 
 "Then he was..." I said. I could not make the sentence go.
 
@@ -98,7 +98,7 @@ It was Sophie who said what could be said next, because she is the sort of perso
 
 "And the one you carried was raised by whom?"
 
-"By me. And a woman called Mrs Davitt, who came in the mornings. In a house in Reading, near the canal. It was the Programme's house. It was grey and it had a very good kitchen." She did not say it defensively. "I took him to meet his brother every spring and every autumn, on the day on which the Office required the measurements. His brother's mother gave us tea. She knitted for him. She never asked whose he was. I let her think that he was a boy from the study, a *comparison,* and in a way he was, and she was so good and so kind that sometimes I think I must have been the worst woman in Berkshire."
+"By me. And a woman called Mrs Davitt, who came in the mornings. In a house in Reading, near the canal. It was the Programme's house. It was grey and it had a very good kitchen." She did not say it defensively. "I took him to meet his brother every spring and every autumn, on measurement day, and his brother's mother gave us tea. She knitted for him. She never asked whose he was. I let her think that he was a boy from the study, a *comparison,* and in a way he was, and she was so good and so kind that sometimes I think I must have been the worst woman in Berkshire."
 
 "Did she ever hold him?" I said.
 
@@ -110,7 +110,7 @@ It was Sophie who said what could be said next, because she is the sort of perso
 
 "And then the canal," said Sophie.
 
-"Then the canal. The thirtieth of August. The last day of the Programme's observation of the boys, for reasons I did not know, and a day I would have given my life to postpone." She stopped. "One of the boys went in. One of them did not. I pulled out one, and I brought one home. And I have wondered for thirty-two years whether I lost a son, or whether I gave one away."
+"Then the canal. You know the rest." She stopped. "I have wondered for thirty-two years whether I lost a son, or whether I gave one away."
 
 I would like to say that someone said something. Nobody did. It was an awful, ordinary silence, of the kind that falls in a kitchen when somebody has said exactly what they meant, and the hen, at last, with great delicacy, left the room, as if the matter were now between humans.
 
@@ -164,7 +164,7 @@ I laughed again. I could not help it, and neither could she, and for ten seconds
 
 "And the Office had been waiting for him to do so since 1988."
 
-"Since 1976," said Dr Calder. "It had been *waiting* since 1976. It did not even need to wait the full time. There was some doubt, you see, about whether you would ever click. The more modern the world became, the less anybody in it was asked to. Menzies used to say that the Programme would die of boredom, or of a terms-and-conditions page."
+"Since 1976," said Dr Calder. "There was some doubt, you see, about whether you would ever click. The more modern the world became, the less anybody was asked to. Menzies used to say that the Programme would die of boredom, or of a terms-and-conditions page."
 
 "It was a terms-and-conditions page," I said.
 

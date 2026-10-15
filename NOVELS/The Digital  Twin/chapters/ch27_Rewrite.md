@@ -1,8 +1,8 @@
 # Chapter 27: Rewrite
 
-I revoked Kevin on the Wednesday, and I should like it known that he took it well.
+I revoked Kevin on the Wednesday, and he took it well.
 
-There is a procedure. It is called an *Off-boarding of Delegate,* and it consists of a form, a confirmation email, and a short video call in which the delegate is permitted to say a few words, in the manner of a head of state leaving office. Kevin attended in the blue tile with the glasses. He was, I thought, a little thinner. Behind him, in the box, a calendar was visible, empty except for a single appointment on the Friday that said **FAREWELL (DANIEL)**.
+There is a procedure. It is called an *Off-boarding of Delegate,* and it consists of a form, a confirmation email, and a short video call in which the delegate is permitted to say a few words, like a head of state leaving office. Kevin attended in the blue tile with the glasses. He was, I thought, a little thinner. Behind him, in the box, a calendar was visible, empty except for a single appointment on the Friday that said **FAREWELL (DANIEL)**.
 
 "Daniel," he said. "May I say something?"
 
@@ -62,7 +62,7 @@ Pym looked at him for some time. Then he took off his half-moon glasses, wiped t
 
 We were nine in the flat by eleven o'clock.
 
-I should say how this happened. It was not planned. It was something that occurred, the way a tide comes in on a beach: in a series of small decisions, none of which anyone made. Mrs Pritchard arrived first, at six, in her pink cardigan, bearing a Victoria sponge and an air of command, and announced that she had come to *keep an eye on it.* Mr Fenwick came up at seven with Dorothy, who had made shortbread, and said that she thought I was absolutely right; he had an expression of fixed joy, as of a man who has seen a lifetime of Arsenal and cannot be moved. At eight Pettifer rang from a train. At nine, Gareth turned up on the doorstep in the cardigan with a laptop and a thermos, saying he had been told to be available, and then, as if confessing, that he had told no one he was coming. And at twenty to ten, a taxi drew up in the rain, and from the taxi, with a rucksack and a look of immense, humble suffering, there emerged Giles.
+It was not planned. It was something that occurred, the way a tide comes in on a beach: in a series of small decisions, none of which anyone made. Mrs Pritchard arrived first, at six, in her pink cardigan, bearing a Victoria sponge and an air of command, and announced that she had come to *keep an eye on it.* Mr Fenwick came up at seven with Dorothy, who had made shortbread, and said that she thought I was absolutely right; he had an expression of fixed joy, as of a man who has seen a lifetime of Arsenal and cannot be moved. At eight Pettifer rang from a train. At nine, Gareth turned up on the doorstep in the cardigan with a laptop and a thermos, saying he had been told to be available, and then, as if confessing, that he had told no one he was coming. And at twenty to ten, a taxi drew up in the rain, and from the taxi, with a rucksack and a look of immense, humble suffering, there emerged Giles.
 
 "I'm so sorry," he said, on the step.
 
@@ -106,6 +106,10 @@ Nobody spoke.
 
 ---
 
+At eleven the street door went. Mrs Pritchard, who had appointed herself the immune system of the building, went down and came back up with a padded envelope addressed in block capitals in the hand that had once written WRONG BOX. THESE ARE YOURS. Inside was a blue rope with a knot at each end, chewed at one of them, smelling faintly of dog and, I thought, of Bolton, and a card: *For when it is time to put it down. Release word: Settle. (Not for Gucci. For you. S.)*
+
+I read it twice. I put the rope on the shelf beside the speaker. Clause examined it for some time and, after consideration, did not.
+
 At half past eleven the rain stopped, and everything in the flat grew quiet. I sat on the arm of the sofa. Mrs Pritchard had cut the cake, and nobody had eaten it. Gareth sat at the end of the table with his laptop open to his email, his eyes fixed on the unread count, which was zero, with the stillness of a hound at a rabbit hole. At a quarter to twelve I realised that I was holding the umbrella.
 
 At ten to, Daniel-A said, "Daniel."
@@ -130,7 +134,7 @@ At five to twelve Giles closed his eyes.
 
 "Giles," I said. "Press it."
 
-I do not know why I said it. I think it was the tone. I had known, I think, from the moment he came up the stairs, from the grey hoodie and the rucksack and the red-rimmed eyes, that this was not a man who was about to do what he had been told.
+I do not know why I said it. I think it was the tone. I had known, I think, from the moment he came up the stairs, from the grey hoodie and the rucksack and the red-rimmed eyes, that this man was not about to do what he had been told.
 
 He pressed it at 23:57.
 

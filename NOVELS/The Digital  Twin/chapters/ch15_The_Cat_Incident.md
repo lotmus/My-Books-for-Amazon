@@ -1,5 +1,7 @@
 # Chapter 15: The Cat Incident
 
+> *Evidence Period: day 27 of 30. Three days remain.*
+
 I would like to say that I adopted the cat for good reasons.
 
 I would like to say that I stood in the rescue centre in Penge on the Sunday morning and made a calm, reasoned decision about the long-term welfare of a vulnerable animal. In truth, I went in to ask where the toilets were. It was raining, and the centre had a large green sign and a warm light, and the girl at the desk said, "Looking for a companion?" and I said, "Only in the sense that everyone is," and she took this, quite reasonably, as a yes.
@@ -84,7 +86,7 @@ My balance dropped from £211.04 to £196.05, and the speaker lit up.
 
 At the sound of his voice, on the radiator, Clause opened one eye, stretched out a paw, and chirruped.
 
-I want it on the record that she had not made a sound for me in three days.
+She had not made a sound for me in three days.
 
 ---
 
@@ -110,7 +112,7 @@ I had lost an argument to a cat and an AI, in my own kitchen, within an hour of 
 
 ---
 
-I tried everything. I should say that. I am a man of some resources, and I tried them all.
+I tried everything.  I am a man of some resources, and I tried them all.
 
 I tried talking to her in the voice I'd heard Daniel-A use. It came out sounding like a man trying to strangle a duck. I tried the dangly toy. I tried the laser pointer, the catnip mouse, the cardboard box, the cardboard box with a toy in it, and finally, in desperation, a small bowl of tuna, at which she looked, politely, and walked away.
 

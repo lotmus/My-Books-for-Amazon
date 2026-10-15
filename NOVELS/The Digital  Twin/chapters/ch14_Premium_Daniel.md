@@ -1,5 +1,7 @@
 # Chapter 14: Premium Daniel
 
+> *Evidence Period: day 22 of 30. Eight days remain.*
+
 Mr Fenwick was waiting for me on the stairs on the Tuesday morning with the radiant, slightly dazed look of a man who has seen a ghost and been given a biscuit.
 
 "Daniel," he said. "I've got to tell you what happened."
@@ -8,7 +10,7 @@ Mr Fenwick was waiting for me on the stairs on the Tuesday morning with the radi
 
 "I've been *referred.*"
 
-He stood on the half-landing with one hand on the banister, in a cardigan and slippers, with the stiff moustache and the light in the eye of a man who has just been to a revival meeting. Behind him, through the open door of Flat 5, I could see a lilac figure moving about the kitchen with a tray, singing very softly to itself.
+He stood on the half-landing with one hand on the banister, in a cardigan and slippers, with the stiff moustache and a revival-meeting light in his eye. Behind him, through the open door of Flat 5, I could see a lilac figure moving about the kitchen with a tray, singing very softly to itself.
 
 "Referred to what?"
 
@@ -160,7 +162,7 @@ I tapped it.
 
 "I know."
 
-"And I'd like to say..." He stopped. Then, with the fierce, clipped economy of a man who knows he has a short time to say a long thing, he said: "Daniel. Listen. I've found something else, in the orphans, and I don't think you ought to wait until the thirtieth day. It's about the date on the S1 marks. The last one. August 1994. I found a name beside the..."
+"And I'd like to say..." He stopped. Then, with fierce, clipped economy, he said: "Daniel. Listen. I've found something else, in the orphans, and I don't think you ought to wait until the thirtieth day. It's about the date on the S1 marks. The last one. August 1994. I found a name beside the..."
 
 "**One minute remaining,**" announced the calm voice of the air hostess, as if to a runway.
 

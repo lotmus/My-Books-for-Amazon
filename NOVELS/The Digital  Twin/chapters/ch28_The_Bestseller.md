@@ -186,6 +186,16 @@ It was the Salieri line. I had said it to myself, to the ceiling, to the fridge,
 
 "I know," I said, when I could. "That's how I meant it."
 
-On the arm of the sofa, my phone gave a small neat buzz. It was from Gareth. It was a text message, which in itself was a first. It had no capitals, no punctuation, and no greeting, and I read it three times, in the dim light of the screen, with the beginning of an extraordinary smile.
+On the arm of the sofa, my phone gave a small neat buzz. It was an email from an address I knew, with the subject line *Page 1, line 4.* The body said: *Comma. Also: it is good. I mean all of it. I read it four times in a hotel in Bolton with a dog on the radiator. The comma is still wrong. S.*
+
+"Is it wrong?" said Daniel-A, who reads over my shoulder in the sense that he is the shoulder.
+
+"Yes."
+
+"Shall I fix it?"
+
+"No," I said. "Leave it. It's hers."
+
+The phone gave a second small neat buzz. It was from Gareth, by text message, which in itself was a first. It had no capitals, no punctuation, and no greeting, and I read it three times, in the dim light of the screen, with the beginning of an extraordinary smile.
 
 *trial tues 10am. nib v you both. pym says bring the hat.*

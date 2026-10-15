@@ -52,7 +52,7 @@ Book 1 of the *Brave New Times* series. Each book is a standalone story set in t
 ## Price and rights
 
 - US$4.99 (70% royalty band), mirrored on other stores; KDP Select at Lothar's choice.
-- Not AI-narrated; do not tick AI-generated content unless the cover tool counts under KDP's current wording (check the question as asked on the day).
+- Answer KDP's AI-generated-content questions truthfully on the day (the cover is a script-drawn illustration; check how KDP's wording treats that).
 
 ## Look Inside
 
@@ -60,6 +60,6 @@ Chapters 1 to 3 (about 9,000 words, roughly the first 8% of the book) are the sa
 
 ## Files
 
-- Master: `The Digital Twin - REV1.docx` (later REV files replace it; older versions go to `bak\`)
+- Master: `The Digital Twin - REV2.docx` (later REV files replace it; older versions go to `bak\`)
 - Front cover: `cover/The Digital Twin - front cover 1000x1600.png` (embedded as the first page of the docx; upload the same image as the KDP cover)
 - No paperback (Lothar publishes Kindle only).

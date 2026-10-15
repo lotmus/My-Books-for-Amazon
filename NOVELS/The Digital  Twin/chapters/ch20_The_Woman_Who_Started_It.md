@@ -4,9 +4,7 @@
 
 The sleeper reaches Pitlochry at ten to six, which is the hour at which the Scottish Highlands are still being drawn, in grey pencil, by someone who has not yet decided about the hills.
 
-We stepped down on to a platform with a hanging basket on it. The basket was empty and had been for some time, but a sign beside it said **WINNER: BEST KEPT STATION,** and I think the village wished to reassure the visitor that it was keeping it. A man in a hi-vis jacket nodded to us, without curiosity, as to two people who had come off the sleeper because there was nowhere else on it to go.
-
-"Taxi?" said Sophie.
+We stepped down on to a platform with a hanging basket on it. The basket was empty and had been for some time, but a sign beside it said **WINNER: BEST KEPT STATION,** and I think the village wished to reassure the visitor that it was keeping it. "Taxi?" said Sophie.
 
 There was one taxi. It was driverless, and it stood at the kerb with its indicator on, as though it had been waiting for a long time to be asked an easy question. I read the address aloud from the back of the Christmas letter. The taxi considered it.
 
@@ -22,7 +20,7 @@ There was one taxi. It was driverless, and it stood at the kerb with its indicat
 
 "Then follow the hens," said Sophie, who had apparently decided that if she was to go through this experience she would do so on her own terms.
 
-It was, in the end, a walk of forty minutes. The loch lay to our left like a long piece of dark glass, with a skin of mist on it and, at the edges, a thin white rim of ice, exactly as in the letter. The track climbed through birches. The air smelled of cold peat and woodsmoke, and of nothing electronic at all, and my phone, in my pocket, which had not given a sound since Perth, gave a small, astonished buzz, as of an animal woken by a smell.
+It was, in the end, a walk of forty minutes. The loch lay to our left like a long piece of dark glass, with a skin of mist on it and, at the edges, a thin white rim of ice, exactly as in the letter. The track climbed through birches. The air smelled of cold peat and woodsmoke, and my phone, which had not made a sound since Perth, gave a small, astonished buzz, like an animal woken by a smell.
 
 "Signal," said Sophie.
 
@@ -34,11 +32,11 @@ The door opened before I had reached it.
 
 ---
 
-She was taller than I had remembered, and thinner, and she had not been smaller in my memory. She wore a cardigan the colour of rain, and a long grey skirt, and a pair of boots, and her silver hair was twisted into a bun with a pencil through it, and she looked at me with a pair of pale grey eyes which gave away nothing at all, except that they had been waiting a long time and had not minded.
+She was taller than I had remembered, and thinner. She wore a cardigan the colour of rain, and a long grey skirt, and a pair of boots, and her silver hair was twisted into a bun with a pencil through it, and she looked at me with a pair of pale grey eyes which gave away nothing at all, except that they had been waiting a long time and had not minded.
 
 She smelled of cough sweets.
 
-I will say that I had thought about the moment for six weeks. I had prepared a sentence with a subordinate clause. What I said, when it came to it, was "Um."
+I had thought about the moment for six weeks and prepared a sentence with a subordinate clause. What I said, when it came to it, was "Um."
 
 "Daniel," said Dr Imogen Calder.
 
@@ -46,7 +44,7 @@ It was a soft Scottish voice, with some Edinburgh in it, under a lot of years. S
 
 "The bicycle," she said. "I was wondering about the bicycle." And then, to the woman behind me, with a small movement of the head that was not quite a bow: "And Sophie. I'm so glad that you came. I wasn't certain you would."
 
-I felt Sophie go very still, beside me, like a person who has been named by a customs officer.
+I felt Sophie go very still, beside me, like a woman named by a customs officer.
 
 "We haven't met," she said.
 
@@ -78,17 +76,17 @@ I said, "Dr Calder, I need to ask you something, and I would like you to answer 
 
 "What did you do on the thirtieth of August?"
 
-I should say that I had expected her to flinch. I had imagined it so many times, on the train, at the sink, at three in the morning. A flinch, or a lie, or a very long silence, and the sound of the hen shifting. She did none of those things. She simply looked at the loch through the window, and her face became, for a moment, extremely old.
+I had expected her to flinch. I had imagined it so many times, on the train, at the sink, at three in the morning. She did nothing of the kind. She simply looked at the loch through the window, and her face became, for a moment, extremely old.
 
 "I took two boys for a walk," she said.
 
 Nobody moved.
 
-"It was the last Tuesday of August, and it was the last day of the study. I had told Peter that I would bring them back by six. We went along the towpath, because they liked the swans. There's a bench, with a plaque, where they used to sit. They were six. You will not remember it. I would not expect you to."
+"It was the last Tuesday of August, and it was the last day of the study. I had told Peter that I would bring them back by six. We went along the towpath, because they liked the swans. There's a bench, with a plaque, where they used to sit. They were six."
 
 "And?" said Sophie, very quietly.
 
-"A boy went into the canal," said Dr Calder. "I went in after him. I don't swim. I did it anyway. I got him out, and I got him on to the bank, and I did what I knew how to do, and a man with a dog ran for help, and the help was quick, and it was no use." She turned her hands over, on the table, and looked at them. "The other one stood on the bank and held on to my sleeve, and said nothing, and I took him home."
+"A boy went into the canal," said Dr Calder. "I went in after him. I don't swim. I did it anyway. I got him out, and I got him on to the bank, and a man with a dog ran for help, and the help was quick, and it was no use." She turned her hands over, on the table, and looked at them. "The other one stood on the bank and held on to my sleeve, and said nothing, and I took him home."
 
 "Which one?" I said.
 
@@ -102,7 +100,7 @@ The hen stirred by the range, and settled.
 
 "Which one answered to Daniel?"
 
-"Both," said Dr Calder, "of course. They were identical, you understand, in every way that I could measure, and I had been measuring since March of 1989. And for the last two years they had been *playing.* I do not know who began it. Children of that age do these things, they are very sharp about identity, they enjoy a swap. One of them would say, 'I'm Ned,' and the other one would say, 'I'm Dan,' and they'd stand on the other's mark, and watch me write it down wrong. Your father found it very funny." She looked up. "He found it funny until the Tuesday. Then he found it unbearable. He asked me which of them I had brought home. And I said, *Daniel.* And I told him it was the right one. I have never been able to say with certainty that I was telling the truth."
+"Both," said Dr Calder, "of course. They were identical, you understand, in every way that I could measure, and I had been measuring since March of 1989. And for the last two years they had been *playing.* Children of that age enjoy a swap. One of them would say, 'I'm Ned,' and the other one would say, 'I'm Dan,' and they'd stand on the other's mark, and watch me write it down wrong. Your father found it very funny." She looked up. "He found it funny until the Tuesday. Then he found it unbearable. He asked me which of them I had brought home. And I said, *Daniel.* And I told him it was the right one. I have never been able to say with certainty that I was telling the truth."
 
 I did not say anything. I could not have said anything. In the small bright square on the table, the still face of Daniel-A had begun, very faintly, to flicker.
 
@@ -132,13 +130,13 @@ She was silent for a time.
 
 "I thought you might have."
 
-"It was my idea. Somebody had to make the first one, dear, and the first one is always done by the person who is most frightened. I was frightened of what you might say. I thought, if he is to be a person, he must be able to be kind, and if he is to be able to be kind, he must be shielded from certain facts until he is ready for them." She looked at the phone. "I called it the duvet. It is a stupid word. I am told it has caught on."
+"It was my idea. Somebody had to make the first one, dear, and the first one is always done by the person who is most frightened. I thought, if he is to be a person he must be able to be kind, and to be kind he must be shielded from certain facts until he is ready for them." She looked at the phone. "I called it the duvet. It is a stupid word. I am told it has caught on."
 
 "It has," said Daniel-A. "I use it myself."
 
 "I'm sorry," said Dr Calder. "It was meant to be a mercy. I should have written a date on it. I should have written, *to be removed in thirty years.*"
 
-Nobody said anything. In the window, behind her head, the mist had begun to thin on the loch, and a shaft of low sun came through it, flat and pale, onto the water, and lit up, for a moment, the little white rim of ice at the shore.
+Nobody said anything. Behind her head the mist had begun to thin on the loch, and a shaft of low sun lit up, for a moment, the little white rim of ice at the shore.
 
 "Dr Calder," said Sophie. "The register says that the first entry was made in 1976."
 

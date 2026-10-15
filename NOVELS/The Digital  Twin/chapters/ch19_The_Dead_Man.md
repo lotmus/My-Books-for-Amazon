@@ -22,7 +22,7 @@ I told him at breakfast, which is the correct time to tell a man anything, since
 
 "There isn't one north of Perth. I looked." He sounded almost shy. "I've looked at a number of things."
 
-I should say that the speaker had not been the same since the Wednesday. It had the manner of someone who has read a letter several times and put it down gently, as one puts down a thing that might still be live. I reached out and touched the top of it with two fingers, which is the nearest I have ever come to patting a man on the shoulder, and Clause moved up against my hand, jealously, as a courtesy to the speaker.
+The speaker had not been the same since the Wednesday. It had the manner of someone who has read a letter several times and put it down gently, as one puts down a thing that might still be live. I reached out and touched the top of it with two fingers, which is the nearest I have ever come to patting a man on the shoulder, and Clause moved up against my hand, jealously, as a courtesy to the speaker.
 
 "Ask her one question," said Daniel-A. "Not who I am. Not who you are. I'd ask what she did on the thirtieth of August."
 

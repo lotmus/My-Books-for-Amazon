@@ -1,5 +1,7 @@
 # Chapter 11: A Very Unhelpful Investigation
 
+> *Evidence Period: day 14 of 30. Sixteen days remain.*
+
 I should like to begin Act II by listing everything I could prove.
 
 I made the list on the Monday morning, on the back of an envelope, in a café in Penge that sold a type of coffee described on the board as "the colour of regret." It was a short list. I wrote it carefully, in block capitals, and then I read it back and found that it made no sense.
@@ -17,7 +19,7 @@ The waitress, who was a robot with a pleasant, slightly weary face and the name 
 
 ---
 
-The Evidence Period had fourteen days left. Daniel-A and I had divided the work, in the manner of a pair of burglars planning to rob a bank by calling it in advance. I would collect the records I was legally entitled to. He would collect the records he was legally entitled to. We would lay them side by side, and see which of us had been, in the words of the Act, *continuously embodied.*
+The Evidence Period had sixteen days left. Daniel-A and I had divided the work, in the manner of a pair of burglars planning to rob a bank by calling it in advance. I would collect the records I was legally entitled to. He would collect the records he was legally entitled to. We would lay them side by side, and see which of us had been, in the words of the Act, *continuously embodied.*
 
 The first thing to understand about records is that nobody keeps them.
 
@@ -223,7 +225,7 @@ I looked up. The numbers in the surgery notes were the same. The date was the sa
 
 I closed the laptop.
 
-I sat for a long time in the lamplight, in the small, oddly peaceful flat, and thought about that. I did not feel frightened. I think I had been frightened for so many days that I had gone out the other side of it, like a man who has been shouting for so long that he can hear nothing but the shape of his own throat. What I felt was a kind of detached, scholarly interest, the sort of mood in which a botanist might discover that the tree in his garden is also, in some respects, a table.
+I sat for a long time in the lamplight, in the small, oddly peaceful flat, and thought about that. I did not feel frightened. I think I had been frightened for so many days that I had gone out the other side of it. What I felt was a kind of detached, scholarly interest, the sort of mood in which a botanist might discover that the tree in his garden is also, in some respects, a table.
 
 "Daniel-A."
 
@@ -266,4 +268,4 @@ Then, very slowly, with the stub of a pencil, I added a sixth.
 
 6. I do not know who I am.
 
-The kumquat tree, in the window, did not say anything. But it seemed to me, in the half-light, that it inclined one branch in my direction, in the manner of a well-wisher who has no advice to offer, and no wish to leave.
+The kumquat tree, in the window, did not say anything. But it seemed to me, in the half-light, that it inclined one branch in my direction, like a well-wisher with no advice to offer and no wish to leave.

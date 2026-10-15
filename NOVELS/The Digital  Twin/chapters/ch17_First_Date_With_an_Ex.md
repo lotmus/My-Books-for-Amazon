@@ -164,7 +164,7 @@ There was a pause.
 
 I would like to say that I took this well.
 
-What I did was sit down on a box of walking sticks, which gave way, and I went down into it with the helpless dignity of a man who has been taken by surprise by his own life. Sophie, beside me, did not move.
+What I did was sit down on a box of walking sticks, which gave way, and I went down into it with helpless dignity. Sophie, beside me, did not move.
 
 "So the umbrella," she said, very carefully, "wasn't ours."
 
