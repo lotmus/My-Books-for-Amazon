@@ -12,8 +12,6 @@ This is a work of fiction. The Bureau, its characters and cases are invented. Th
 
 # Table of Contents
 
-A Note for New Readers
-
 How to Read This Book (with Author’s Note)
 
 PROLOGUE - In Which a File Arrives Before Its Author
@@ -92,19 +90,9 @@ About the Author
 
 Also by Lothar J. Musiol
 
-# A Note for New Readers
-
-You can start with either Bureau mystery. Each book follows a complete investigation, and you need no previous case file to follow this one. If you prefer publication order, begin with *The Murder That Hadn’t Happened Yet*.
-
-Book 1 is a complete case in its own right. It leaves one piece of Bureau paperwork—the account labelled LOCALHOST—unexplained. That thread belongs to the wider series; it did not send the warning in this book.
-
-Derek Gent is the investigator. His cousin Penny is quick to test the order of events; Trevor Boltzman is the team’s mathematician and dependable tape-measure carrier; Alfred Weinstein is a Munich patent attorney who spots the question everyone else has missed. Mrs Marsh runs the building and treats impossible architecture as a tenancy matter. Sophie is Derek’s daughter; Tuppence is Sophie’s mother and Derek’s former partner; Tabitha is Trevor’s sister. Sherlock is the Bureau’s remote consultant, a dolphin: he comments, while Derek and Penny close the case.
-
-The central case reaches its own answer. The doorway railway, the Sunday slip, and the late voice remain open questions for the series, not missing pieces required to follow this case.
-
 # How to Read This Book
 
-No physics background is needed. The six-lesson course is optional: skip the lesson links as you read, and return only if the story sparks your curiosity.
+Welcome to the Bureau. This case stands alone, and no physics background is needed: read on and skip the lesson links. The optional six-lesson course is here only if the story sparks your curiosity.
 
 ## Author’s Note
 
@@ -124,7 +112,7 @@ In Which a File Arrives Before Its Author
 
 The warning arrived on a Monday morning at a time nobody wrote down. It was folded in four, it was dated the following day, and somebody had stood a mug of tea on one corner of it. It forbade a thing nobody in the room had thought of doing, on a train that was not yet in the building, and on the back, in the same flat capitals, it apologised for being late.
 
-At the time, the Relativistic Investigation Bureau was closing the file that had occupied it all last week. Case 1047 lay on Derek Gent’s desk for the last time: a fat buff folder; an email received at 9:17 one Tuesday morning, YOU HAVE BEEN MURDERED. THE PERPETRATOR IS YOU; and a photograph of his office doorway with his daughter standing in it, sent by the Bureau’s own case system, CASEBOOK, from an address that called itself LOCALHOST. It had taken a week, four clocks, a professor in Munich and most of Derek’s patience to close the case. CASEBOOK had filled its empty fields with whatever was nearest, and a phone nobody could name had been looking through the Bureau’s camera. The phone was still nobody.
+At the time, the Relativistic Investigation Bureau was busy closing a murder that had never happened. Case 1047 lay on Derek Gent’s desk for the last time: a fat buff folder; an email received at 9:17 one Tuesday morning, YOU HAVE BEEN MURDERED. THE PERPETRATOR IS YOU; and a photograph of his office doorway with his daughter standing in it, sent by the Bureau’s own case system, CASEBOOK, from an address that called itself LOCALHOST. It had taken a week, four clocks, a professor in Munich and most of Derek’s patience to establish that nobody had been murdered. CASEBOOK had filled its empty fields with whatever was nearest, and a phone nobody could name had been looking through the Bureau’s camera. The phone was still nobody. The email had been wrong about everything except the time.
 
 At ten to ten Penny Gent took the closing memo off the printer and read it standing up. The printer had laid its faint grey stripe down the left margin, as it had laid it down everything since Trevor cleaned the drum with a kitchen scourer. CASEBOOK had printed NOT YET in the box for the date of the next action, as it printed NOT YET in any date box nobody had filled. And it had taken Derek’s one-word note on LOCALHOST, REFUSED, and turned it into a line of capitals across the top of the page, as it did with every refusal it was given, so that the Bureau’s paperwork read like the notices on a building site.
 
@@ -3704,7 +3692,7 @@ Rule: If a thing seems to have no author, ask each word where it came from. Evid
 
 Wednesday, Like a Person
 
-At half past six on Tuesday Gucci arrived with Tabitha.
+At half past six Gucci arrived with Tabitha.
 
 He came in her coat collar, as he did when he came at all, and she set him down on the corridor carpet, and he looked at the sill where the yellow tape had lain until Trevor rolled it up on Monday evening, on the grounds that the platform had proved it could keep still without supervision. He took in the slabs and the bench and the train. Then he went and lay down a little way along the corridor, as if a railway were a piece of furniture he had declined to discuss.
 

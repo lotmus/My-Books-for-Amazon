@@ -4128,7 +4128,7 @@ Learning objective: Explain how the Einstein field equation relates geometry to 
 
 The Einstein field equation as a loop: matter tells spacetime how to curve, and spacetime tells matter how to move.
 
-And now Sherlock. The Bureau’s marine consultant solved nothing and invoiced for it. The Einstein field equations are established physics; the invoice is not.
+And now Sherlock. The Bureau’s marine consultant solved nothing and invoiced for it, which is not established physics either. The Einstein field equations are.
 
 Before the harder material: Lesson 14 established that causal order — what can affect what — is frame-independent, even though simultaneity for spacelike-separated events isn’t. Keep that distinction in your pocket. The light cones come from the metric. The Einstein field equation relates that geometry to matter and energy. It does not, by itself, invent the rule that a cause stays in the past of its effect.
 
@@ -4164,7 +4164,7 @@ Observers can accelerate. Someone can be falling into a black hole while someone
 
 Tensors do precisely that. The metric tensor tells us how to calculate spacetime intervals. From it we can work out spatial distances, elapsed proper times along paths, and the local light cones.
 
-[[IMAGE rib1_fig6_REV16.png | The metric line element: ds squared equals the sum over mu and nu from 0 to 3 of g mu nu times dx mu times dx nu; usually written ds² = g_μν dx^μ dx^ν with repeated indices summed.]]
+[[IMAGE rib1_fig6.jpg | The metric line element: ds squared equals the sum over mu and nu from 0 to 3 of g mu nu times dx mu times dx nu; usually written ds² = g_μν dx^μ dx^ν with repeated indices summed.]]
 
 Its components are numbers tied to the chosen coordinates. Change the coordinates and those numbers may change. The geometry they describe remains the same.
 
@@ -4220,7 +4220,11 @@ General Relativity works extraordinarily well. But it does not appear to provide
 
 → Glossary: [Singularity](#gloss_Singularity)
 
-This is where quantum gravity enters. Research programmes involving quantum mechanics, holography, entanglement, information, and emergent spacetime explore whether spacetime itself is fundamental.
+This is where quantum gravity enters. Research programmes involving: quantum mechanics,
+
+holography, entanglement, information,
+
+and emergent spacetime raise the possibility that spacetime itself might not be fundamental.
 
 That is an active research idea, not an established conclusion.
 
