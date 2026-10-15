@@ -1,4 +1,4 @@
-# Dispatch and capacity ledger (authoritative; REV2)
+# Dispatch and capacity ledger (authoritative; REV3)
 
 The manuscript wins over this file, but this file is what REV2 was written to. Times are London; the present is Monday 14 September 2026 unless stated.
 
@@ -43,3 +43,37 @@ Mon 17:10 briefing: 64 h left. Bell back at 18:00. Tue morning Eleanor sleeps, d
 - Cresswell: Saye's spare slip (ch 12, 26).
 - Chapter 1 title: "A Monday, As Observed".
 - Setting: **Northumberland** (the manuscript controls; the early development notes' "Scotland" is withdrawn).
+
+## REV3 additions (15 Oct 2026)
+
+Timeline fixes and new fixed points. The manuscript wins over this file.
+
+| When | What | Where (chapter) |
+|---|---|---|
+| 3 Oct 1746, afternoon | Eleanor nurses Tom Tully (6) in the Strath kitchen and keeps the tablets; the 1747 accounts show him paid fourpence in April for peat. She leaves her kit on the drying rack (Nan Tully finds it first) | 12, 13 |
+| Tue 15 Sep, 05:45 | Coil store: Miriam spots that the left "replacement" coil has the same part number; Eleanor checks the card, not the coil | 11 |
+| Tue ~18:00 to 18:45 | Form 7B at the Directorate: reader stalls at 91% twice, accepts on the third; Garrick countersigns with "Deviation noted" and the slogan YOUR RECORD IS YOUR SECURITY is planted | 13 |
+| Tue 21:52 | Arthur reads the Pembroke file (31 entries, from 11 Oct 2011); adds no. 32 and sets four terms | 15 |
+| Wed 04:00 | Miriam tells Arthur what the other Arthur signed (forty people in a room for twenty; two and a half years) | 15 |
+| Wed 11:00 | Hearing; Bell's "Would you have signed?" exchange; feed cut | 20, 21 |
+| Wed ~16:30 | Dr Rao weighs-everything; Dame Judith asks the off-record question | 22 |
+| Wed 17:05 | Receiver's delegate (Garrick) appointed; Pelling's instruction lapses; van due to leave Victoria Street 08:15 Thu; Bell's call names a school review for Samuel at 10:00 Thu | 22 |
+| Wed night | Fifteen envelopes (five people, three copies each) leave the building by 23:00 | 22 |
+| 22 Jun 1815, evening | Bell (younger) visits Hester's wrecked shop; she burns his card | 19 |
+| 22 Jun 1815, afternoon | Daniel and Hester at the newspaper window (Gazette lists officers only); 01:00 Daniel returns his indenture to Mr Ferris (law-stationer, Fetter Lane), who takes half the premium back to Daniel's mother | 19 |
+| 23 Jun 1815, 04:10 | Beatrice and Fanshawe arrive in Hester's back room (was "late on 22 June"); Hester's forty copies of the evening before are distinct from the forty street copies printed that night | 23, 19 |
+| 23 Jun 1815, 09:00 | Porter refuses a lady; Fanshawe holds the hat; Perrott accepts Beatrice as principal | 25 |
+| Wed 2029 | Lower archive: weighing in front of everyone, written on Eleanor's forearm; Ms Okafor passes "page seven": Karim's mother at Camberwell District Hall, Hall B | 24 |
+| Thu 08:14 | Garrick countersigns Pelling's instruction one minute before the van leaves; van goes with nothing to collect | 31 |
+
+## REV3 fixes to REV2 slips
+
+- Arthur's service: twelve years throughout (was eleven in chapter 2).
+- Eleanor's induction trip: 2011 (was 2019, after Arthur joined in 2014, which contradicted "why didn't you tell me when I joined").
+- Beatrice's arrival in 1815: 04:10 on 23 June (was late on 22 June, before events already narrated in the chapter before).
+- Forty copies: two separate runs (evening of 22 June, and the committee-morning street copies).
+- "Wakefield" in the apothecary scene is Huddersfield.
+- Captain Reed and "the officer from the ceremony" separated.
+- Waterloo news: reached London late on 21 June, Gazette Extraordinary dated 22 June, officers only named. "Four days old" became "known about for two days"; Perrott's back lane to Downing Street is a mile, not two.
+- Karim's mother: no longer "unlocated": her address is known and unreachable.
+- Garrick's tic is "For the avoidance of doubt"; "I'd like it noted" belongs to Reed.

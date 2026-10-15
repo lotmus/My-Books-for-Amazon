@@ -12,3 +12,6 @@ Draft chapter sequence subject to development: 1 Biscuits 2 Operations 3 Receipt
 
 ---
 REV2 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. The setting is Northumberland, not Scotland. Chapter list above is superseded; REV2 has 35 chapters (funeral folded into "The Country Above").
+
+---
+REV3 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. Chapters now 37 (new: "The Pembroke File"; the café half of the Ruth chapter is "The Spare Room", the call half is "A Protected Handset"). Facts fixed in REV3: Arthur joined twelve years ago (2014); Eleanor's induction trip was 2011; the Pembroke file starts 11 Oct 2011 and has 32 entries; Garrick is the Receiver's delegate from 17:03 on Wednesday; the van leaves Victoria Street at 08:15 on Thursday; Beatrice and Fanshawe reach 1815 at 04:10 on 23 June; Karim's mother is at Camberwell District Hall, Hall B (known, unreachable); Eleanor's left coil is the same part as the one that failed.

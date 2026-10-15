@@ -1,15 +1,15 @@
 # KDP listing: The Department of Historical Corrections
 
-Author field: **Lothar J. Musiol** (no pen name). Language: English (British spelling). Standalone novel, about 43,000 words (a Kindle read of roughly three hours). Kindle only; no paperback.
+Author field: **Lothar J. Musiol** (no pen name). Language: English (British spelling). Standalone novel, about 50,000 words (a Kindle read of roughly four hours). Kindle only; no paperback.
 
 ## Title and subtitle
 
 - Title: **The Department of Historical Corrections**
 - Subtitle: **A Comedy of Civil Service and Time** (matches the cover line)
 
-## Hook (one line)
+## Hook (one line, for the first line of the description and for ads)
 
-Belgium has stopped existing before lunch, and the only man who can fix history works in administration.
+Belgium has vanished. The only man who can put it back is a Grade Seven whose contract specifies London.
 
 ## Description (paste into KDP; bold and line breaks work in the editor)
 
@@ -21,7 +21,9 @@ The Department of Historical Corrections has seventy-two hours to undo the damag
 
 Arthur is an administrator. His contract specifies London. Quite a lot of 1815 is London.
 
-What follows is a comic thriller of forms, receipts and second copies: a printer's widow who wants to be paid, a clerk who will not sign a sheet carrying the wrong date, a mother who made one very human bargain, a cleaner who knows where the stopcock is, and a refusal that has to be said out loud in front of witnesses. It is about who gets to keep the record, and why the answer should never be only one person.
+What follows is a comic thriller of forms, receipts and second copies: a printer's widow who wants to be paid, a clerk who will not sign a sheet carrying the wrong date, a mother who made one very human bargain, a cleaner who knows where the stopcock is, and a refusal that has to be said out loud in front of witnesses. Every opening in time is weighed in kilograms, every rescue has a price, and not everyone Arthur loves is on the right side of the arithmetic.
+
+It is about who gets to keep the record, and why the answer should never be only one person.
 
 For readers of British deadpan, civil-service satire and time-travel mysteries with a pulse. Funny in the corridors; serious where it counts.
 
@@ -29,18 +31,18 @@ For readers of British deadpan, civil-service satire and time-travel mysteries w
 
 ## Keywords (7 boxes)
 
-1. British civil service time travel comedy
-2. funny alternate history novel
-3. bureaucracy satire time machine
+1. time travel comedy British civil service
+2. alternate history humour novel Waterloo 1815
+3. bureaucracy satire time travel
 4. dry British humour science fiction
-5. time travel mystery with heart
-6. office comedy history changed
-7. humorous speculative fiction Britain
+5. funny time travel mystery with heart
+6. office comedy time travel clerk
+7. Belgium alternate history funny
 
-## Categories (confirm exact names in the KDP picker)
+## Categories (confirm exact names in the KDP picker; I could not check the live picker)
 
 - Kindle Store > Kindle eBooks > Science Fiction & Fantasy > Science Fiction > Time Travel
-- Kindle Store > Kindle eBooks > Literature & Fiction > Humor & Satire > Satire
+- A humor/satire category (pick the closest "Humorous" or "Satire" leaf KDP offers)
 - Optional third: Alternative History (through KDP support)
 
 ## Price and rights
@@ -49,7 +51,11 @@ For readers of British deadpan, civil-service satire and time-travel mysteries w
 - Answer KDP's AI-generated-content questions truthfully on the day (the cover is a script-drawn illustration).
 - Do not market as an adaptation of, or substitute for, any other author's novel (see `notes/EDITORIAL_REVIEW_2026-10-15.md`, originality section). Describe it only by its own premise.
 
+## Cover check (REV3)
+
+Text on the cover: "Belgium has stopped existing. It is Monday." / THE DEPARTMENT OF HISTORICAL CORRECTIONS / A COMEDY OF CIVIL SERVICE AND TIME / LOTHAR J. MUSIOL. Spelling checked at full size and at 160 x 256 px thumbnail; the subtitle is now larger (35 px, inside the frame) so it still reads at thumbnail.
+
 ## Files
 
-- Master: `The Department of Historical Corrections - REV2.docx` (later REV files replace it; older versions go to `bak\`)
+- Master: `The Department of Historical Corrections - REV3.docx` (later REV files replace it; older versions go to `bak\`)
 - Front cover: `cover/The Department of Historical Corrections - front cover 1000x1600.png` (embedded as page one of the docx; upload the same image to KDP)

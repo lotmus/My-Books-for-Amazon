@@ -78,6 +78,6 @@ fq=font('Cormorant Garamond/CormorantGaramond-Italic-VariableFont_wght.ttf',58,6
 center('Belgium has stopped existing.',70,fq,(235,225,200))
 center('It is Monday.',140,fq,(235,225,200))
 d.line([400,225,600,225],fill=gold,width=2)
-fS=font('Josefin Sans/JosefinSans-VariableFont_wght.ttf',32,500)
-center('A COMEDY OF CIVIL SERVICE AND TIME',1330,fS,gold,spacing=5)
+fS=font('Josefin Sans/JosefinSans-VariableFont_wght.ttf',35,600)
+center('A COMEDY OF CIVIL SERVICE AND TIME',1318,fS,gold,spacing=2)
 img.convert('RGB').save(sys.argv[1]); print('ok')
