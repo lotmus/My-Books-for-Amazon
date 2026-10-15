@@ -181,3 +181,23 @@ Edited by `scripts/deepcut_2026-10-11.py` on top of the tightening pass: 22 phra
 - **Clues and physics kept:** Herbert's freehand order (sheet to door to voice to reading to refusal; sheet to train and nothing back; Sunday POSSIBLE. NOT SHOWN; the empty circle), "you cannot get a sender out of an order, only out of a mechanism", Seventeen as a duration, the hurry and Barbarian's letter, the voice's register, and "what reaches you is in your past".
 - **Checks:** 0 Word tables, no visible URLs, 76 internal links (one new), review line before About the Author, Also-by unchanged, 0.16 MB.
 - **Strict rescore:** prose 9.0, plot and clue fairness 8.9, characters 8.9, humour 8.9, pacing 9.0, facts 9.4, formatting/KDP 9.3, covers 9.0. Overall 9.0 (9.05).
+
+## 15 Oct 2026 — Back-cover elements and entry-order consistency
+
+- Set the back cover up with a short hook, spoiler-free premise-and-stakes blurb, British-mystery tone line, and brief author bio. No genuine review quote was available, so none was added.
+- Removed the Book 1 answer spoiler and Book 1 title from the back cover. Added the reader-facing note that no previous case or physics background is needed and that the six lessons are optional.
+- Updated the cover generator, back-cover image and KDP copy together. The KDP description now says the full case can be read before or after Book 1. The rest of the cover art is unchanged.
+
+## 15 Oct 2026 — Electronic back-cover end page (REV06)
+
+- Preserved the locked REV05 manuscript. Created `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV06_BACK_COVER_DRAFT.docx` and matching Markdown source, with the back-cover artwork on its own final page.
+- Built `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV06_BACK_COVER_DRAFT.epub` as the electronic edition candidate. The existing front cover remains the EPUB cover; the back-cover image is a separate final spine item after the story and end matter. No print wrap was created.
+- Package checks confirm EPUB ZIP structure, first uncompressed `mimetype`, front-cover metadata, and the final reading-order item containing only the back-cover image. Full visual Kindle-device QA remains a publisher-side preview step.
+
+## 15 Oct 2026 — Cover redesign and electronic package (REV07)
+
+- Replaced the flat vector cover with a daylight London office opening onto an impossible station platform. The room itself is lit by morning daylight; the waiting train, tape measure, papers and brass watch carry the story cues. The upper wall leaves a clean field for the title, and exact lettering is typeset in the build script.
+- Redesigned the text-only back cover with a coordinated navy-to-indigo ground and soft amber light. The hook, spoiler-free blurb, tone line and author bio remain intact and readable.
+- Updated `scripts/make_covers.py` to build the new art-and-type front plus matching back. Kept the source illustration, concept previews and compositor in `cover_concept_v2/` and `scripts/make_cover_concept_v2.py`.
+- Created REV07 DOCX, Markdown and EPUB candidates; REV05 and REV06 remain intact. The EPUB has a front-cover image and the new back-cover image as the final reading-order content, with a targeted CSS page break before that image. No print wrap was made.
+- Checked both covers at full size and thumbnail size, verified the DOCX package and EPUB ZIP/spine/media. KDP should be told the cover illustration is AI-generated.

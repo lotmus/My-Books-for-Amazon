@@ -3,7 +3,7 @@
 Old master: bak/2026-10-11 pre-diagrams/Foundations_Book1.docx (MD5 EC15EC72247A01BC8487B810601B8401).
 
 Rebuild (from scripts/diagrams/b1): `python3 figs_b1.py`, then `python3 build_b1.py <old master> t1.docx`, then
-`python3 kindle_links.py t1.docx "kindle_links - Foundations_Book1.json" --out Foundations_Book1.docx`.
+`python3 kindle_links.py t1.docx "publishing/kindle-links/kindle_links - Foundations_Book1.json" --out Foundations_Book1.docx`.
 The docx is the master. The chapter source mirror was regenerated from the current master on 12 Oct 2026 after the series audit.
 
 What changed

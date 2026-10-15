@@ -6,7 +6,7 @@ Updated 12 October 2026 after the repository production audit.
 
 - Books 1–7 now follow the canonical series order and list both Book 8 and Book 9, with matching Kindle link rules. Book 9 itself lists Books 1–8.
 - Book 7 Chapter 19 points to Book 9 Chapter 36 for production-test workflows. Chapter 28 points to Book 9 Chapter 33 for EMC pre-compliance instruments.
-- Book 6 now has `kindle_links - Power_and_Energy_Book6.json`.
+- Book 6 now has `publishing/kindle-links/kindle_links - Power_and_Energy_Book6.json`.
 - Chapter text and figure mirrors for Books 6, 7, and 9 have been refreshed from their DOCX masters. Book 9's mirror contains all 38 chapters.
 
 ## Refreshing Book 9 source mirrors

@@ -23,7 +23,7 @@ ap.add_argument('--listings', default=os.path.join(HERE, 'diagrams', 'b9', 'list
 ap.add_argument('--figs', default=os.path.join(HERE, 'diagrams', 'b9', 'fig'))
 ap.add_argument('--common', default=os.path.join(HERE, 'diagrams', 'common'))
 ap.add_argument('--out', default=os.path.join(ROOT, 'Test_and_Measurement_Instruments_Book9.docx'))
-ap.add_argument('--links', default=os.path.join(ROOT, 'kindle_links - Test_and_Measurement_Instruments_Book9.json'))
+ap.add_argument('--links', default=os.path.join(ROOT, 'publishing', 'kindle-links', 'kindle_links - Test_and_Measurement_Instruments_Book9.json'))
 ap.add_argument('--chapters', type=int, default=38)
 A = ap.parse_args()
 sys.path.insert(0, A.common)

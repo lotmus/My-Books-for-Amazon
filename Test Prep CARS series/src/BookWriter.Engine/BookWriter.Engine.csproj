@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- QuestPDF's Community license is free for this use (individual/non-enterprise, well
+         under its revenue threshold) but must be accepted in code (BookDocumentExporter does
+         this) or every render call throws. DocumentFormat.OpenXml is Microsoft's own free/MIT
+         library for .docx.
+
+         PdfPig (Apache-2.0, real owners EliotJones/PdfPig/BobLd, github.com/UglyToad/PdfPig) is
+         for READING text out of a source PDF (SourceDocumentReader), the opposite direction
+         from QuestPDF, which only ever WRITES a PDF this app generates itself. Deliberately NOT
+         the confusingly similarly-named "UglyToad.PdfPig" package: that one is a different,
+         single-owner, oddly-versioned ("1.7.0-custom-5") package unrelated to the real project,
+         verified before adding either one. -->
+    <PackageReference Include="PdfPig" Version="0.1.16" />
+    <PackageReference Include="QuestPDF" Version="2024.12.3" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.3.0" />
+  </ItemGroup>
+
+</Project>

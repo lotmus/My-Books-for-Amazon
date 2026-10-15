@@ -1,8 +1,8 @@
-﻿# Repository Guidelines
+# Repository Guidelines
 
 ## Project Structure & Module Organization
 
-This repository contains the source and production files for a nine-volume electrical-engineering series. Root-level `.docx` files are the authoritative manuscript masters. `chapters/BookN/` holds tagged-text mirrors and figures for each volume; its README names the corresponding master. `notes/` contains editorial, continuity, diagram, and publishing records. `scripts/` contains deployment and cover utilities. Root-level `kindle_links - ...json` files hold book-specific Kindle link rules. `bak/` contains retained snapshots; do not treat those as current source.
+This repository contains the source and production files for a nine-volume electrical-engineering series. Root-level `.docx` files are the authoritative manuscript masters. `chapters/BookN/` holds tagged-text mirrors and figures for each volume; its README names the corresponding master. `notes/` contains editorial, continuity, diagram, and publishing records, including repository guidance. `scripts/` contains deployment and cover utilities. `publishing/kindle-links/` contains book-specific Kindle link rules. `bak/` contains retained snapshots; do not treat those as current source.
 
 Preserve established filenames such as `Foundations_Book1.docx` and `RF_Microwave_and_Transceivers_Book4.docx`.
 

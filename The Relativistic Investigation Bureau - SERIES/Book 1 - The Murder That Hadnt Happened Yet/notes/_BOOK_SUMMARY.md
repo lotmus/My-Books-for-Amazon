@@ -4,7 +4,9 @@ Read this first. Only open the full manuscript for things that genuinely need it
 
 ## Canonical file
 
-Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the master docx and the KDP files; `scripts/` holds `rebuild_kindle.py`, its source `manuscript_text.txt` and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds stale files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
+Current release state (14 Oct 2026): REV14 remains the release master. REV16 is a candidate, paired as `scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt` and `FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; REV15 is the earlier line-edit draft. The candidate includes an internal cover image. The KDP marketing cover still needs a higher-resolution source and the candidate still needs Kindle Previewer review.
+
+Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the release and candidate DOCX files and KDP materials; `scripts/` holds `rebuild_kindle.py`, revisioned text sources, and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds stale files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
 
 A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independent git repo, no remote). **Not canonical.**
 
