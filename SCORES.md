@@ -1,4 +1,4 @@
-Standing rules for every assistant: see `notes/LOTHAR_RULES.md`.
+﻿Standing rules for every assistant: see `notes/LOTHAR_RULES.md`.
 
 ## Job queue
 
@@ -6,6 +6,7 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 
 | Book | Task | Status | Who |
 |---|---|---|---|
+| Protocol Flamingo REV11 | Pacing/clarity first; then voice/dialogue, continuity/science, and overall reader impact | queued (head of queue; waiting for a heavy-job slot) | agent |
 | EE Books 1-9 | Target-reader review and direct fixes across current repository masters; resolve remaining content and release gates | in progress | agent |
 | Physics Vol 1; Physics Vol 3; A Trip Is Not a New Life; Science Sparks; Life, Actually; Physics Vol 2 | Weak-books improvement pass | running | agent |
 | Bavarian Cooking Made Simple | Cover blend softening; replace 11 weak dish photos | queued | — |

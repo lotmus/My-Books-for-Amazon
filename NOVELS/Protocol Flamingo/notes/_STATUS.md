@@ -1,8 +1,11 @@
 ﻿# STATUS — Protocol Flamingo
 
-Last updated: 2026-10-13. The live manuscript is `Protocol_Flamingo_REV11.docx`; the matching reflowable ebook is `Protocol_Flamingo_REV11.epub`. `build_docx.js` generates an earlier, shorter draft and is not the source for REV11. The current DOCX contains about 77,092 extracted words and 2,570 body paragraphs (Word may count differently). `KDP_LISTING.md` holds the listing copy and `bak/` contains dated snapshots.
+Last updated: 2026-10-15. The live manuscript is `Protocol_Flamingo_REV11.docx`; the matching reflowable ebook is `Protocol_Flamingo_REV11.epub`. `build_docx.js` generates an earlier, shorter draft and is not the source for REV11. The current DOCX contains about 77,092 extracted words and 2,570 body paragraphs (Word may count differently). `KDP_LISTING.md` holds the listing copy and `bak/` contains dated snapshots.
 
 ## Current editorial status
+
+Version inventory (15 Oct 2026): REV11 DOCX and EPUB are the newest local pair and remain active. `origin/main` and `origin/protocol-flamingo-final-20261013` contain REV10 only; the separate REV11 backup in `bak/` is the pre-structural copy. The active REV10 DOCX/EPUB pair was moved into `bak/2026-10-15 version cleanup/`. Existing `.bak2` and pre-representation files were already in `bak/`. GitHub is not yet synchronized to REV11; the local checkout and `origin/main` have diverged, so no unsafe push was attempted.
+
 
 REV11 structural pass (13 Oct 2026): focused cuts to institutional repetition and rule restatement; explicit footage through-line; plain action beats and selective roughening of secondary dialogue. The manuscript is 1,961 extracted words shorter. Brussels is down about 21%, The Company about 16%, Triggered about 15%, Aboard by 480 words, and the specified Logistics material by about 190 words. Family beats, consent-centered climax, science boundary, and ending remain. Details and production checks: `Protocol_Flamingo_REV11_structural_revision_2026-10-13.md`. The pre-edit file is preserved in `bak/`.
 
