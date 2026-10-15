@@ -181,3 +181,12 @@ Edited by `scripts/deepcut_2026-10-11.py` on top of the tightening pass: 22 phra
 - **Clues and physics kept:** Herbert's freehand order (sheet to door to voice to reading to refusal; sheet to train and nothing back; Sunday POSSIBLE. NOT SHOWN; the empty circle), "you cannot get a sender out of an order, only out of a mechanism", Seventeen as a duration, the hurry and Barbarian's letter, the voice's register, and "what reaches you is in your past".
 - **Checks:** 0 Word tables, no visible URLs, 76 internal links (one new), review line before About the Author, Also-by unchanged, 0.16 MB.
 - **Strict rescore:** prose 9.0, plot and clue fairness 8.9, characters 8.9, humour 8.9, pacing 9.0, facts 9.4, formatting/KDP 9.3, covers 9.0. Overall 9.0 (9.05).
+
+
+## 14 Oct 2026 critical follow-up
+
+A critical follow-up to the 11 Oct full read-through checked the active REV05 chronology, science framing, course boundaries, and covers. The epilogue now opens, “At half past six on Tuesday…”, anchoring the Tuesday evening case close before the Wednesday school pickup. The Markdown source and paired DOCX were updated together. No story clues, physics, or relationship outcomes changed.
+
+**Scores (10-point scale):** humour 9.2; satire and stakes 9.0; science accuracy and fact/fiction boundary 9.4; section boundaries 9.5; dialogue 9.2; description 9.0; plot, pacing, and clue fairness 8.9/9.0/8.9; character arcs 9.1; prose and sentence craft 9.0; clarity and completeness 9.2; uniqueness 9.6; suspense, wonder, and payoff 9.1; continuity 9.4; covers 9.0. Overall reader score 9.1; recommendation 9.1; sellability 5.5.
+
+The remaining score gap is concentrated in dense science dialogue for casual SF readers and a few mysteries deliberately left open for the series. Interior illustrations are not needed for this text-led novel; the front cover is distinctive and legible, and the text-only back cover is clear. The revision remains draft pending visual DOCX/Kindle proof.
