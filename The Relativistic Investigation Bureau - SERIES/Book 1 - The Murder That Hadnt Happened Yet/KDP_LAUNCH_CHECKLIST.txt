@@ -3,7 +3,7 @@ The Murder That Hadn't Happened Yet
 Status as of 15 October 2026 (PT)
 
 CURRENT STATUS
-REV14 remains the preserved release master. REV17 is the newest release candidate and current working pair; it is not approved or published. See notes/WORK_QUEUE.md for continuity and editorial review, preview, and release work. Do not upload until those checks and author-side decisions are complete.
+REV14 remains the preserved release master. REV17 is the newest release candidate and current working pair; it is not approved or published. Continuity and editorial review is complete; see notes/WORK_QUEUE.md for the remaining preview, metadata, and author-side decisions. Do not upload until those remaining checks and decisions are complete.
 
 CURRENT FILES
 - Candidate manuscript: FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
@@ -21,7 +21,7 @@ COMPLETED / RECORDED
 - Version cleanup completed 15 Oct 2026; see notes/WORK_QUEUE.md. Superseded snapshots are in bak/ and must not be committed.
 
 REMAINING BEFORE UPLOAD
-[ ] Complete the Book 1 continuity and editorial reviews in notes/WORK_QUEUE.md; fix confirmed issues and update canon notes.
+[x] Complete continuity and editorial review; report: notes/CONTINUITY_EDITORIAL_REVIEW_20261015.md. Correct the stale Tuppence timeline and REV15/REV16 status references in the series notes and RIB agent instructions. No story-text continuity correction was needed.
 [ ] Open the actual REV17 EPUB in Kindle Previewer. Inspect phone/tablet/e-ink layouts, orientations and font sizes: cover, navigation, figures, equations, chapter starts, links, and final back-cover page. Resolve conversion issues and preview the final rebuilt file again.
 [ ] Review external cover at thumbnail size. Current JPEG is 1152 x 1728 px, RGB; KDP recommends 1600 x 2560 px. If re-exporting, use source artwork; do not stretch the existing JPEG.
 [ ] In KDP, verify title, subtitle, series/number, author and contributor, language, age range, keywords, categories, and description.
