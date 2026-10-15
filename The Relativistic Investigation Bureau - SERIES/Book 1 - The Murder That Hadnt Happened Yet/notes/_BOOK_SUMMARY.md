@@ -4,22 +4,21 @@ Read this first. Only open the full manuscript for things that genuinely need it
 
 ## Canonical file
 
-Current release state (14 Oct 2026): REV14 remains the release master. REV16 is a candidate, paired as `scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt` and `FINAL_REV16_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`; REV15 is the earlier line-edit draft. The candidate includes an internal cover image. The KDP marketing cover still needs a higher-resolution source and the candidate still needs Kindle Previewer review.
+Current release state (15 Oct 2026): REV14 remains the preserved release master; REV17 is the newest release candidate and current working pair (`scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`, `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`, and `The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`). The paired REV17 builders are `scripts/rebuild_kindle_REV17.py` and `scripts/build_epub_REV17.py`. The current canonical listing copy is `kdp_description.docx`; its versioned REV17 source remains alongside it. REV17 still needs fresh continuity/editorial review and Kindle Previewer review before release.
 
-Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the release and candidate DOCX files and KDP materials; `scripts/` holds `rebuild_kindle.py`, revisioned text sources, and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds stale files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
+The Book 1 work queue is `notes/WORK_QUEUE.md`; use it for next actions and release blockers. Superseded versions through REV17 are archived under `bak/superseded-through-REV17-2026-10-15/`. Preserve the REV14 master and all unique source, figure, reference, and production files. Do not stage or commit `bak/`.
+
+Folder: `Book 1 - The Murder That Hadnt Happened Yet/` holds the manuscript and KDP materials; `scripts/` holds the active REV17 source/build files and figures; `notes/` holds canon, status, and queue; `bak/` holds superseded snapshots. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. The canonical repository is the `lotmus/My-Books-for-Amazon` monorepo.
 
 A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independent git repo, no remote). **Not canonical.**
 
-`bak/` — pre-git backup archive. Do not touch.
-
 `CHARACTER_AND_SETTING_BIBLE.md` — looks/sound/smell/attitude for the main cast and key settings, compiled from what's actually in the manuscript. Check here before writing new descriptive material for an existing character so it stays consistent.
-
 ## Structure
 
 - Front matter → PROLOGUE → 16 Chapters (fiction) → EPILOGUE → Coming Next (YESTERDAY sting) → COURSE
 - APPENDIX: 16 Lessons. Forward arrows follow the **physics object**, not matching integers (Ch3→L2, Ch5→L3, Ch6→L5 … Ch16→L15; Epilogue has a formal `-> Lesson 16` after the kettle, plus the skip-line after Coming Next). Reverse arrows match the object (L1→Ch1, L3→Ch5, L4→Ch4, L16→Epilogue).
 - Back matter: SUMMARY, Glossary, About the Author, Further Reading (start-here list), Acknowledgements, Bibliography (17 real, verified books — never fabricate citations).
-- `manuscript_text.txt` — canonical working text. Rebuild the Kindle docx from this file; do not treat the docx as a second original.
+- `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt` is the current candidate source. Keep it paired with the REV17 DOCX and EPUB; do not treat the REV14 release master as superseded.
 - `kdp_description.docx` — the actual Amazon product listing copy. Keep it free of anything but the sales description itself.
 - Companion interactive physics demos live at `https://lotmus.github.io/relativistic-site/` (`github.com/lotmus/relativistic-site`). The book's hyperlinks (front matter + Lessons 2, 5, 15) point at that live Pages URL.
 
