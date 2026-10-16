@@ -742,7 +742,7 @@ The stakes are practical. Treating machines as unfeeling for too long risks seri
 
 Before Hans Moravec's speculative "mind children" future in Chapter 283, it helps to see where AI and robotics actually stand. By 2026 AI has gotten very good at language, reasoning, code, images, and multi-step tasks, but "talking is the easy part for a robot." Physically picking up something as simple as a coffee cup involves perception, force control, and real-world physics that fluent language never once has to solve.
 
-Robotics is already a massive but distinctly unglamorous industry. The International Federation of Robotics counted about 603,000 industrial robots installed worldwide in 2025 alone, more than twice the figure from a decade earlier, with more than five million now at work in factories; in 2024 nearly 200,000 professional service robots were also sold, mostly for transport and logistics. The "robot revolution" has been welding cars and moving boxes around for years now. It just hasn't been walking around looking humanoid while it does it.
+Robotics is already a massive but distinctly unglamorous industry. The International Federation of Robotics reported more than 600,000 industrial robots installed worldwide in 2025, with a global factory stock of about five million. It also reported nearly 250,000 professional service robots shipped that year, up 24 percent from 2024; these figures cover different categories and are not directly comparable. The "robot revolution" has been welding cars and moving boxes around for years now. It just hasn't been walking around looking humanoid while it does it.
 
 The current humanoid-robot boom has two drivers. One is practical: the built world (doors, stairs, shelves, tools) is human-shaped, so a humanoid form can use existing infrastructure without anyone redesigning a warehouse. The other is aesthetic: a two-armed robot simply "looks like the future" in a way a warehouse cart never quite manages. Real trials and deployments are underway at companies including Amazon, Toyota, Schaeffler, GXO Logistics, and Mercado Libre, though a slick 30-second demo video is a very different thing from an actual eight-hour work shift.
 
@@ -809,7 +809,6 @@ Then there is the Fermi paradox: if intelligence is common in the universe, wher
 - **Evidence beats intuition.** Design without a designer (Chapter 259), and evolution you can watch happening today (Chapter 273).
 - **Useful but incomplete models.** The modern synthesis (Chapter 260) and the gene's-eye view (Chapter 262) are powerful models. Neither explains the origin of life (Chapter 255) or consciousness (Chapter 281).
 
-**Going deeper.** Life, Actually covers evolution from the first cell onward in depth.
 
 ## 285. The Tube in the Mailbox
 
@@ -1968,4 +1967,3 @@ The recent decades move quickly. Yamanaka reprogrammed adult cells into induced 
 - **Evidence beats intuition.** DNA, not protein, carries heredity (Chapter 289), engineered foods show no special harm (Chapter 318), and eugenics failed even on its own mathematics (Chapter 304).
 - **Useful but incomplete models.** The one-gene-one-trait picture is useful and mostly wrong (Chapter 298), and the reference genome has been replaced by a pangenome (Chapter 322).
 
-**Going deeper.** Life, Actually covers the genetics chapters in more depth.
