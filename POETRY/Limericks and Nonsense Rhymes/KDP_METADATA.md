@@ -4,23 +4,21 @@
 
 **Author field:** Seamus O'Leary
 
-**Subtitle:** Classic nonsense verse and modern limericks
+**Subtitle:** Classic nonsense verse, modern limericks, and four-line rhymes
 
 **Opening product-description bullets (each under 80 characters):**
 
 - Ten original interior illustrations accompany classic and modern verse.
-- New limericks bring the form to phones, work, and streaming.
+- New limericks and four-line rhymes bring nonsense to phones, work, and streaming.
 
 **Description draft:**
 
 - Ten original interior illustrations accompany classic and modern verse.
-- New limericks bring the form to phones, work, and streaming.
+- New limericks and four-line rhymes bring nonsense to phones, work, and streaming.
 
-This illustrated collection pairs Edward Lear's classic nonsense verse with new limericks about modern life.
+This illustrated collection pairs Edward Lear's classic nonsense verse with new limericks and four-line nonsense rhymes about modern life.
 
 Meet the old eccentrics, improbable animals, and wandering travelers of classic nonsense, then follow modern mishaps involving autocorrect, remote meetings, streaming queues, chatbots, electric cars, and delivery drones.
-
-The contemporary limericks and all eleven illustrations (ten interiors and the cover) were generated with AI and edited or selected by Seamus O'Leary.
 
 **Upload disclosures:** Mark text and images as AI-generated in KDP’s content disclosure.
 
