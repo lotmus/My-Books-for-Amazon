@@ -132,3 +132,22 @@ Renamed in REV7: the 1746 receiver's agent is Mr Rutter (not Lyle). Lyle is only
 | autumn 2026 | Dots acquire names (about four a week); Arthur enters his fourteen | 37 |
 
 REV8 slips fixed: ch 6 Strath card removed "nineteen" years earlier (was seventeen); ch 36 "fourteen signatures" now eleven; ch 28 committee motives no longer attribute "assets" to a member.
+
+## REV9 additions (15 Oct 2026)
+
+Humour pass; no change to any transit, capacity or clock figure. New fixed points:
+
+| When | What | Chapter |
+|---|---|---|
+| 2019 | Department pass reader installed (stops at 91%, plate reads YOUR RECORD IS YOUR SECURITY); the third monitor's update request logged March 2019 | 2 |
+| Mon 17:10 | Briefing opens with apologies: Durrant, Glock, Belgium | 9 |
+| Wed 11:00 | Hearing apologies: Glock (remote, so absent), Durrant, Belgium (expected); Exhibit 1 is the biscuit packet | 20 |
+| Wed ~12:15 | Facilities log: the isolation bridge was logged in August as RESILIENCE UPGRADE (APPROVED), DO NOT TOUCH | 21 |
+| 23 Jun 1815, 09:00 | The porter has been on since five | 25 |
+| Thu from 06:41 | Miss Ahmed's form WHO ARE YOU?; Mrs Venn in the chair by the registry door | 31 |
+| Thu 09:10 | Apologies: Durrant, Reed (absence noted), Belgium (expected 09:17) | 32 |
+| Thu 13:10 and 14:00 | Mrs Crumb reinstates lunch; Durrant telephones (never a dentist in the restored history) | 33 |
+| Inquiry, six weeks later | Finch's four hours' overtime allowed with interest; Dame Judith gives evidence in stockinged feet | 34 |
+| Weeks after | Garrick's letter (Regional Complaints Handling) | 35 |
+| Exhibition | Exhibit 1 (the packet) lent by the inquiry; Hester counts six colours | 36 |
+| December | New pass reader reaches 100%; third monitor installs its update at 09:17 and waits for two signatures; Beatrice: "The country is no longer in flux" | 37 |

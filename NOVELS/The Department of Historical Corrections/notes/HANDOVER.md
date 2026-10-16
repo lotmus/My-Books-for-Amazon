@@ -68,3 +68,20 @@ REV8 is REV7 plus planted twists. About 54,250 body words. Scores and open items
 3. Amery named only in the back-matter acknowledgement (one hit in the file).
 4. No original material copied in.
 5. "Premise, characters, names and wording are my own": re-checked against the new scenes; still true.
+
+## REV9, 15 October 2026
+
+Humour pass in Lothar's British deadpan. About 56,300 body words (+1,870, all new scene or joke material; the 55k aim is met). REV8 is in `bak\`. Scores and the full list of running jokes with plant and payoff chapters: `notes/REVIEW_REV9_2026-10-15.md` (overall 8.6, sellability 8.1, Humour 8.2). Not cold-read, not checked in Kindle Previewer.
+
+- **What was added:** a joke system, not a density increase. Running jokes: the pass reader that stops at 91% (2019, ch 2/13, paid ch 37), the third monitor's update (ch 2, 21, 37), apologies for absence with Belgium as a member (ch 9, 20, 32, 37), Exhibit 1 the biscuit packet (ch 20, 36), the chair for people who have ceased to exist (ch 1, 31, 37), "Mrs Crumb, while the country is in flux" (ch 1, 37), the contract that specifies London (ch 1, 37), "Don't build a plan around an adverb" (ch 2, 32), Durrant the dentist (ch 1, 33), Facilities (ch 1, 6, 21, 33, 37), Garrick's avoidance of doubt (ch 13, 22, 31, 35), Finch the porter's overtime (ch 25, 30, 34), Mrs Venn's coat and biscuits (ch 24, 31, 33), Form 7B's "see attached" (ch 13, 33), Fanshawe's "On my last mission" (ch 1, 37).
+- **Left alone, on purpose:** Glock's scenes (one sentence, "had read the small print"), the twists and their plants (COST dots, Glock's notebook and Leeds, Hallett's son), the tense chapters (17, 24, 26 to 29), and physics (REV10). Do not add jokes to the Hallett or notebook scenes.
+- **Facts fixed by new text (also in DISPATCH_LEDGER.md):** the department's pass reader dates from 2019 and shares its make with the Directorate's (a hint, not an explanation); the third monitor's update request is March 2019; Mrs Crumb reinstates lunch at 13:10 on Thursday; Durrant telephones at 14:00; Garrick in the restored history works in Regional Complaints and has never heard of the Directorate.
+- **Tics:** "as though" 6 to 3 (words 498, 9,371, 21,607), "as if" 1; "It was not X. It was Y." 7 to 1 (the remaining one, in ch 13, is a joke on purpose).
+- **Slip fixed:** the Acknowledgement said the original name was kept "in the appendix"; the book has no appendix, so it now says "in the back matter". The name Bell still appears once, there.
+
+**Amery acknowledgement check (five points, re-run on REV9).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. Scan of the REV9 story body for the REV6 list (Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Amery, Koenig, König): zero hits. The new material is invented from the book's own paperwork (readers, monitors, forms, minutes) and uses no names or scenes from the novel. Still a check against published summaries; I have not read the novel.
+2. Never called an adaptation or sequel in the KDP listing, blurb, keywords or cover (KDP_Description.md checked: Amery is not named).
+3. Amery named only once, in the back-matter acknowledgement.
+4. No original material copied in.
+5. Acknowledgement wording re-checked against REV9: "my own premise, characters, names and wording" remains true; the only edit is "appendix" to "back matter".

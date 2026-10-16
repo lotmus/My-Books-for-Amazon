@@ -28,3 +28,7 @@ Chapters 11 to 15 re-timed (see DISPATCH_LEDGER.md, REV7 additions). Facts fixed
 ## REV8 (15 Oct 2026)
 
 New fixed points are in DISPATCH_LEDGER.md (REV8 additions). Key facts: Glock's notebook is black cloth, department issue, first entry 17/114 (Leeds, Correction 1,611, 12 Oct 2017); 14 of Arthur's 206 reviews carry a name; the registers hold 211 pencilled dots (53 Beatrice's); Arthur's fifth term in the Pembroke file conversation; Hallett (committee) has a son, a lieutenant of foot, unreported since 16 June 1815, found in a Brussels convent hospital in ch 36. Scan run on the finished file: no clashes found in times, counts or names.
+
+## REV9 (15 Oct 2026)
+
+Humour pass. New fixed points are in DISPATCH_LEDGER.md (REV9 additions). Key facts: the pass reader and the third monitor date from 2019 and March 2019; Belgium is recorded as an absent member in ch 9, 20 and 32; Exhibit 1 is the biscuit packet (protected, so it still reads Yorkshire in the restored world); Garrick works in Regional Complaints in the restored history; Durrant was a dentist only in the revised history. Scan run on the finished file: no clashes found in times, counts or names.
