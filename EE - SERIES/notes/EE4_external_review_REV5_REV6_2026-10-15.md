@@ -25,3 +25,12 @@ The external reader scored the REV5 manuscript 7.4/10. Main concerns were a rest
 ## Review limits / next checks
 
 The material additions respond to the fixable items in the REV5 review. DOCX ZIP integrity, OOXML validation, chapter extraction, and figure/source-mirror consistency pass. LibreOffice headless conversion failed on this host with “Could not find platform independent libraries <prefix>” and produced no PDF, so the revised pagination has not had a visual render check. These changes do not substitute for an independent RF-specialist review, instrument validation on a physical board, a Kindle Previewer/device check, or a fresh full 14-criterion external review. Verify vendor specifications again at publication.
+
+
+## REV7 content-gap audit — 15 October 2026
+
+A comparison of REV6 against eleven earlier full-length Book 4 snapshots found one substantive omission: Chapter 48 sections 48.6–48.8 were present in the 11 October candidate/review snapshots but absent from REV6. No other chapter, section, worked example, practice item, or figure title was found missing across those snapshots; apparent text-only differences elsewhere were rewrites or updates. Chapter count and figures remain unchanged.
+
+REV7 restores only those three sections, retaining REV6's current Chapter 48 text and its parser-scope qualification. The restored material covers (1) the relationship among S, Y, and H two-port parameters and conversions, (2) mixing measured linear networks with nonlinear compact transistor models in simulators that support both, and (3) noise-parameter fitting from tuner sweeps, including equations, source-impedance coverage, repeatability, reference-plane control, and limitations. The Chapter 48 takeaway now summarizes these additions, and Appendix C cites Lane's original noise-parameter paper.
+
+Validation: REV7 opens as DOCX; ZIP integrity passes; the Chapter 48 and back-matter tagged mirrors match a fresh extraction exactly. LibreOffice rendered the complete 300-page document. All page thumbnails were reviewed as contact sheets, and pages 226–228 containing Figure 48.1 and the restored material were inspected at full resolution; no clipping, overlap, or section-break defect was found. This was a content-gap repair, not a fresh external score or RF-specialist review.
