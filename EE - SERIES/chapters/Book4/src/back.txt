@@ -454,11 +454,13 @@ P: Texas Instruments IWR6843 and IWR1843 data sheets and the white paper "The Fu
 P: Charles H. Cox III, Analog Optical Links; Jianping Yao, "Microwave Photonics," Journal of Lightwave Technology, 2009; and Christopher V. Poulton et al. on silicon optical phased arrays, for Chapter 50.
 P: The ARRL Handbook for Radio Communications; 47 CFR Part 97 (sections 97.301 and 97.307); and the RTL-SDR and NanoVNA project documentation, for Chapter 51. ARRL, "HF Propagation: The Basics" (ionospheric propagation depends on band, time, and solar conditions): https://www.arrl.org/files/file/Technology/tis/info/pdf/8312011.pdf (accessed 13 October 2026).
 P: IS-GPS-200 for the L1 C/A signal level; Semtech SX1276 data sheet for LoRa sensitivity; AMSAT satellite database and live FM satellite status; ARISS current ISS station status; NOAA NESDIS, "A Legacy in Orbit: NOAA Decommissions the POES Satellite Constellation," 2025; and John D. Kraus, Radio Astronomy, 2nd edition, for Chapter 52.
-P: Source: Rogers Corporation, RO4000 Series High Frequency Circuit Materials Data Sheet (RO4350B)
+P: Source: Rogers Corporation, RO4000 Series High Frequency Circuit Materials Data Sheet (RO4350B), https://www.rogerscorp.com/-/media/project/rogerscorp/documents/advanced-electronics-solutions/english/data-sheets/ro4000-laminates-ro4003c-and-ro4350b---data-sheet.pdf
 P: Source: Analog Devices, Power Supply and Ground Design for a WiFi Transceiver
 P: Source: Analog Devices, AN-772: A Design and Manufacturing Guide for the Lead Frame Chip Scale Package
-P: Source: NanoVNA V2 user manual (NanoRFE)
-P: Source: tinySA Ultra specification
+P: Source: NanoRFE, NanoVNA V2 User Manual, https://nanorfe.org/nanovna-v2-user-manual.html
+P: Source: tinySA, TinySA4 Specification, https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification
+P: Source: Qorvo, GaN Power Amplifier Design Solutions, https://www.qorvo.com/resources/d/gan-power-amplifier-design-solutions-ebook-mwj
+P: Source: Analog Devices, AN-2591, “When It Comes to Long-Term Reliability of RF Amplifier ICs, Focus First on Die Junction Temperature,” https://www.analog.com/en/resources/app-notes/an-2591.html
 P: Source: Murata, CERALOCK temperature characteristics
 P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
 H1: About the Author
