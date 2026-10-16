@@ -1,0 +1,114 @@
+<UserControl x:Class="BookWriter.App.BookEditorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BookWriter.App">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- Open an existing manuscript. -->
+        <Border Style="{StaticResource PanelBorder}" Grid.Row="0" Margin="4">
+            <StackPanel Margin="8">
+                <TextBlock Text="Manuscript" FontWeight="SemiBold" Margin="0,0,0,6" />
+                <StackPanel Orientation="Horizontal">
+                    <Button x:Name="BtnOpenManuscript" Content="Open Manuscript..." Margin="0,0,10,0" Padding="10,4"
+                            Click="BtnOpenManuscript_Click"
+                            ToolTip="Import a .txt, .md or .docx manuscript. Book Writer splits it into chapters on its headings." />
+                    <TextBlock Text="Genre:" VerticalAlignment="Center" Margin="0,0,8,0" />
+                    <ComboBox x:Name="GenreCombo" Width="220" VerticalAlignment="Center"
+                              SelectionChanged="GenreCombo_SelectionChanged"
+                              ToolTip="Affects how the editor treats the text (story vs. expository science) and the exported book's subject." />
+                    <TextBlock x:Name="LoadedFileText" VerticalAlignment="Center" Margin="14,0,0,0"
+                               Foreground="{StaticResource MutedTextBrush}" TextTrimming="CharacterEllipsis" />
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- Which editorial passes to run, plus optional free-form notes. -->
+        <Border Style="{StaticResource PanelBorder}" Grid.Row="1" Margin="4">
+            <StackPanel Margin="8">
+                <TextBlock Text="Editorial passes" FontWeight="SemiBold" Margin="0,0,0,6" />
+                <WrapPanel x:Name="PassCheckboxPanel" Margin="0,0,0,6" />
+                <TextBlock Text="Editor notes (optional) — anything specific you want the editor to watch for:" Margin="0,0,0,4" />
+                <TextBox x:Name="EditorNotesBox" AcceptsReturn="True" TextWrapping="Wrap"
+                         Height="44" VerticalScrollBarVisibility="Auto" />
+                <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                    <Button x:Name="BtnEditChapter" Content="Edit This Chapter" Margin="0,0,6,0" Padding="10,4"
+                            Style="{StaticResource AccentButton}" IsEnabled="False" Click="BtnEditChapter_Click" />
+                    <Button x:Name="BtnEditAll" Content="Edit All Chapters" Margin="0,0,6,0" Padding="10,4"
+                            IsEnabled="False" Click="BtnEditAll_Click" />
+                    <Button x:Name="BtnCancelEdit" Content="Cancel" Margin="0,0,6,0" Padding="10,4"
+                            Visibility="Collapsed" Click="BtnCancelEdit_Click" />
+                    <Separator Margin="6,0" />
+                    <Button x:Name="BtnRevertChapter" Content="Revert This Chapter" Margin="6,0,6,0" Padding="10,4"
+                            IsEnabled="False" Click="BtnRevertChapter_Click" />
+                    <Button x:Name="BtnRevertAll" Content="Revert All" Margin="0" Padding="10,4"
+                            IsEnabled="False" Click="BtnRevertAll_Click" />
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- Status / progress + the shared cover-art / export panel. -->
+        <StackPanel Grid.Row="2" Margin="4,0,4,4">
+            <StackPanel Orientation="Horizontal" Margin="0,4,0,4">
+                <TextBlock x:Name="StatusText" VerticalAlignment="Center" Foreground="{StaticResource MutedTextBrush}" TextWrapping="Wrap" />
+                <ProgressBar x:Name="BusyBar" Width="140" Margin="16,0,0,0" IsIndeterminate="True" Visibility="Collapsed" VerticalAlignment="Center" />
+            </StackPanel>
+            <local:BookOutputControls x:Name="OutputControls" />
+        </StackPanel>
+
+        <!-- Chapter list on the left; original vs current + change log on the right. -->
+        <Grid Grid.Row="3" Margin="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="240" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Border Style="{StaticResource PanelBorder}" Grid.Column="0" Margin="0,0,4,0">
+                <ListBox x:Name="ChaptersListBox" BorderThickness="0" Background="Transparent"
+                         SelectionChanged="ChaptersListBox_SelectionChanged" />
+            </Border>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="150" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Border Style="{StaticResource PanelBorder}" Grid.Column="0" Margin="0,0,2,0">
+                        <DockPanel>
+                            <TextBlock DockPanel.Dock="Top" Text="Original (as imported)" FontWeight="SemiBold"
+                                       Margin="6,6,6,2" Foreground="{StaticResource MutedTextBrush}" />
+                            <TextBox x:Name="OriginalBox" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True"
+                                     VerticalScrollBarVisibility="Auto" BorderThickness="0" Background="Transparent" Padding="6" />
+                        </DockPanel>
+                    </Border>
+                    <Border Style="{StaticResource PanelBorder}" Grid.Column="1" Margin="2,0,0,0">
+                        <DockPanel>
+                            <TextBlock DockPanel.Dock="Top" x:Name="CurrentHeader" Text="Current" FontWeight="SemiBold"
+                                       Margin="6,6,6,2" Foreground="{StaticResource MutedTextBrush}" />
+                            <TextBox x:Name="CurrentBox" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True"
+                                     VerticalScrollBarVisibility="Auto" BorderThickness="0" Background="Transparent" Padding="6" />
+                        </DockPanel>
+                    </Border>
+                </Grid>
+                <Border Style="{StaticResource PanelBorder}" Grid.Row="1" Margin="0,4,0,0">
+                    <DockPanel>
+                        <TextBlock DockPanel.Dock="Top" Text="Editor's log for this chapter" FontWeight="SemiBold"
+                                   Margin="6,6,6,2" Foreground="{StaticResource MutedTextBrush}" />
+                        <TextBox x:Name="ChangeLogBox" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True"
+                                 VerticalScrollBarVisibility="Auto" BorderThickness="0" Background="Transparent" Padding="6" />
+                    </DockPanel>
+                </Border>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,4 +1,5 @@
 H1: Chapter 31. Bias, Ruggedness, and Protection
+H2: Movement 3. Robustness, Architecture, and Measurement
 P: A disconnected antenna is a well-known way to destroy a power transistor. At a 10:1 VSWR, two-thirds of a 100 W output comes back, and the peak voltage on the line rises from 100 V to about 182 V. A rugged amplifier is one designed to survive exactly that, and to notice it in time.
 P: Where you meet this: Ruggedness tests in device qualification, reflected-power alarms in transmitters, bias sequencing in GaN designs, and the protection circuitry of every power amplifier.
 P: A power amplifier that meets every specification on the bench can still fail in the field: an antenna is disconnected, a connector corrodes, the supply comes up in the wrong order, or the device heats and its bias drifts. This chapter covers the practical engineering that keeps the amplifier of Chapters 21 to 24 alive: setting and stabilizing the bias, surviving a mismatched load, and detecting faults fast enough to act on them.

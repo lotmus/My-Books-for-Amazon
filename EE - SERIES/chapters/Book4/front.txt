@@ -9,7 +9,6 @@ P: Part II, Chapters 20 to 41, follows the active radio from transmitter to ante
 P: Chapters 28 to 40 deepen this chain: the low-noise amplifier, mixers and frequency planning, the link budget, bias and ruggedness, vacuum tubes, RF exposure, transceiver isolation, class E and F design, envelope tracking and outphasing, amplifier measurement, digital predistortion, frequency synthesis, and power detection and control. Chapter 41 compares amplifier classes A through S, Doherty, and outphasing, then explains how an envelope-tracking supply can raise average efficiency by boosting its rail on signal peaks.
 P: Part III, Chapters 42 to 47, moves from amplifier principles to device technologies and design. Chapter 42 treats CMOS power amplifiers and breakdown limits; Chapter 43 is a class-by-class design cookbook. Chapter 44 develops a GaAs handset amplifier and pHEMT; Chapter 45 designs GaN broadband, Doherty, and space amplifiers. Chapter 46 designs RF SOI switches and surveys SiGe, InP, and emerging materials for millimeter and submillimeter waves. Chapter 47 designs with acoustic and micromechanical filters used in smartphone front ends.
 P: Part IV, Chapters 48 to 52, starts with measured data and ends at the bench. It covers Touchstone files and noise parameters, FMCW radar front ends, microwave photonics and optical phased arrays, buildable receivers, and antennas for satellites, GPS, LoRa, and the wider radio spectrum.
-P: Each chapter states the question it answers, develops the picture in words, and then works it through with declared numbers. Every number in a worked example was computed, not estimated, and every practice problem is worked in full in Appendix B, with the idea, the numbers, and a check. The book uses one set of reference values throughout: the speed of light is 2.998 × 10⁸ m/s, the system reference impedance is 50 Ω, and the reference board has εr = 3.55. The link-budget anchor is the Friis path factor at 2.45 GHz over 100 m between isotropic antennas, 9.48 × 10⁻⁹, or −80.2 dB, and the load-line anchors for 100 W are Ropt = 10.13 Ω at 50 V with a 5 V knee and 3.13 Ω at 28 V with a 3 V knee.
 P: The series gives each subject one home. Device physics, including why gallium nitride withstands high voltage, is Book 3's. The waveform, OFDM, and the band plan are Book 5's. Power conversion, including pulse modulators for tube transmitters, is Book 6's. Laminate properties at 10 GHz, packages, emission limits, test chambers, and certification are Book 7's. Readers who want the next level of depth should turn to the texts in Appendix C; this book's explanations, examples, and problems are its own.
 H1: Contents
 P: Part I. Passive Structures: Lines, Matching, Filters, and Antennas
@@ -30,20 +29,23 @@ P: Chapter 14. Propagation Beyond Free Space
 P: Chapter 15. Ferrites, Circulators, and Isolators
 P: Chapter 16. Measuring Antennas: Ranges and Gain
 P: Chapter 17. Noise in Passive Networks
-P: Chapter 18. A Bandpass Filter from Specification to Layout
+P: Chapter 18. A Bandpass Filter from Specification to Coupling Design
 P: Chapter 19. RF Switches
 P: Part II. Active Circuits: Amplifiers, Receivers, Oscillators, and Synthesizers
+P: Movement 1. Power Generation and Linearity
 P: Chapter 20. The Transmitter Chain and Its Devices
 P: Chapter 21. The Load Line
 P: Chapter 22. Amplifier Classes and Efficiency
 P: Chapter 23. Linearity, Back-Off, and the Doherty Amplifier
 P: Chapter 24. Heat, Combining, and the Path to the Antenna
+P: Movement 2. Receiving, Frequency, and the Link
 P: Chapter 25. Receiver Noise and Dynamic Range
 P: Chapter 26. Oscillators, Phase Noise, and the PLL
 P: Chapter 27. Radar
 P: Chapter 28. The Low-Noise Amplifier
 P: Chapter 29. Mixers and Frequency Planning
 P: Chapter 30. The Link Budget
+P: Movement 3. Robustness, Architecture, and Measurement
 P: Chapter 31. Bias, Ruggedness, and Protection
 P: Chapter 32. Vacuum Tubes: Klystrons, TWTs, and Magnetrons
 P: Chapter 33. RF Exposure and Safety

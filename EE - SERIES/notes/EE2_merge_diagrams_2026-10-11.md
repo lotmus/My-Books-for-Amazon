@@ -1,7 +1,7 @@
 # Book 2, Circuits, Components, and Control: merges, diagrams and voice pass (11 Oct 2026)
 
 Old master: bak/2026-10-11 pre-diagrams/Circuits_Components_and_Control_Book2.docx (MD5 12A5AFAF6AA385E266781727C7D852F7).
-Rebuild (scripts/diagrams/b2): `python3 figs_b2.py`; `python3 build_b2.py <old master> t1.docx`; `python3 kindle_links.py t1.docx "kindle_links - Circuits_Components_and_Control_Book2.json" --out <master>`; then `python3 ../common/docx2src.py <master> ../../../chapters/Book2`.
+Rebuild (scripts/diagrams/b2): `python3 figs_b2.py`; `python3 build_b2.py <old master> t1.docx`; `python3 kindle_links.py t1.docx "publishing/kindle-links/kindle_links - Circuits_Components_and_Control_Book2.json" --out <master>`; then `python3 ../common/docx2src.py <master> ../../../chapters/Book2`.
 
 - Merged the split topics: filters 6 + 21 (Sallen-Key and MFB become 6.5-6.10), resistors 7 + 22 (7.5-7.12), capacitors 8 + 23 (8.4-8.9), inductors 9 + 20 (9.4-9.10). Each merged chapter keeps both problem sets, numbered on (1-12), with Appendix B solutions renumbered to match, and one combined Appendix D summary. Old Chapters 24-32 are now 20-28 (28 chapters). Every chapter, section, figure, worked-example and § reference renumbered; "How This Book Is Organized" rewritten for the new layout; self-references inside merged chapters reworded ("Sections 7.1 to 7.4 gave...").
 - Follow-up on 12 Oct 2026: clarified the boundary between 7.3 resistor selection and 7.6 thermal derating; revised 8.3 to introduce self-resonance and point to the full impedance curve in 8.5; renamed 8.4 as the practical-capacitor sequence introduction. Regenerated the Book 2 source mirror.

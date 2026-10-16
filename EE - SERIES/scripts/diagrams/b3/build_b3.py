@@ -1,6 +1,6 @@
 """EE Book 3 (Semiconductor Physics and Devices): duplicate worked-example numbers fixed, 22 new diagrams,
 hooks, 'Where you meet this', From the Bench, What You'll Actually Use. Usage: python3 build_b3.py <old master> <out.docx>"""
-import sys, re, json, docx
+import os, sys, re, json, docx
 sys.path.insert(0, '../common')
 from eedoc import *
 from eebuild import *
@@ -79,6 +79,7 @@ for inn, L in SRC.items():
         rules.append({'find': t, 'to': '[%s](%s)' % (t, url), 'in': inn, 'max': 1})
 from mklinks import alsoby_rules
 rules += alsoby_rules(out)
+links_path = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..', 'publishing', 'kindle-links', 'kindle_links - Semiconductor_Physics_and_Devices_Book3.json'))
 json.dump({'note': 'EE Book 3 link rules (11 Oct 2026): Appendix D book titles -> Open Library search, papers -> Crossref search, Also-by -> Amazon Kindle search; keyword links, hidden URLs.', 'rules': rules},
-          open('kindle_links - Semiconductor_Physics_and_Devices_Book3.json', 'w'), indent=1, ensure_ascii=False)
+          open(links_path, 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
 print('typography', typo, 'renumbered WE', ren, counts, 'figures', len(refs), 'links', len(rules))

@@ -696,7 +696,6 @@ Most of these facts will probably still be true in twenty years. A few of them w
 - **Evidence beats intuition.** Clocks disagree (Chapter 35), gravity is geometry rather than a force (Chapter 36), empty space is not empty (Chapter 51), and trillions of neutrinos pass through you every second without trace (Chapter 45).
 - **Useful but incomplete models.** Newton's laws still fly spacecraft (Chapter 28) and fail near light speed. Quantum gravity (Chapter 38), string theory (Chapter 47) and the strand model (Chapter 53) are attempts to go beyond today's models, and Chapter 55 sets out how to tell such an attempt from fantasy.
 
-**Going deeper.** Physics, Actually, Volume 1 (motion, forces, time and relativity) and Volume 3 (the Standard Model, chaos and the edge of knowledge) cover this ground in depth.
 
 ## 59. Three Temperatures: Hot, Warm and Cold Claims
 
@@ -1741,7 +1740,6 @@ All of this is optional scaffolding. Use it if the numbers help, and skip it wit
 - **Evidence beats intuition.** There is no universal now (Chapter 60 and Chapter 61), the Big Bang had no center (Chapter 67), and most of the matter that holds galaxies together does not shine (Chapter 77).
 - **Useful but incomplete models.** The standard cosmological model fits a wide range of data with six parameters but leaves dark matter and dark energy unexplained (Chapter 77 and Chapter 78). As of 2026 the disagreement over the Hubble constant and the DESI hint of changing dark energy are signs that it is incomplete.
 
-**Going deeper.** Physics, Actually, Volume 2 (gravity, cosmology and the limits of spacetime) covers this ground in depth.
 
 ## 107. How to Read Claims About Living Longer
 
@@ -2066,7 +2064,6 @@ Sources deserve the same temperature check as claims. Peer-reviewed reviews and 
 - **Evidence beats intuition.** We already use the whole brain (Chapter 114), and multiplying fifty years of progress by two hundred is not a forecast (Chapter 119).
 - **Useful but incomplete models.** The hallmarks of ageing (Chapter 111) are a useful map of mechanisms, not a complete theory, and the forecasts in Chapter 113 are labeled as such.
 
-**Going deeper.** Life, Actually takes the biology of ageing and gene therapy further.
 
 ## 126. How to Read a Space Announcement
 

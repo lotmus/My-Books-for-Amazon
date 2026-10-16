@@ -5,9 +5,9 @@ Usage:
     python build_almanac.py [output.docx]                  Kindle edition (hyperlinked)
     python build_almanac.py --print [output.docx]          6x9 print edition: page numbers and
                                                            index (Word fills them in if installed)
-    python build_almanac.py --volume N [output.docx]       one volume of the three-volume set
+    python build_almanac.py --volume N [output.docx]       one volume of the five-volume set
                                                            (combine with --print if wanted)
-Sources: 10_ to 50_*.md are the five sections (chapters numbered continuously through the
+Sources: 10_ to 80_*.md are the eight sections (chapters numbered continuously through the
 whole book), 90_glossary.md is the glossary.
 Figures come from make_figures.py (run it first if figures/ is empty).
 """
@@ -45,7 +45,7 @@ BOOKMARK_LEVELS = 4     # every heading down to level 4 can be a link target
 
 PRINT = False           # set from the command line
 
-# Five sections. Each file holds numbered chapters ("## N. Title"); the numbers run
+# Eight sections. Each file holds numbered chapters ("## N. Title"); the numbers run
 # continuously through the whole book, so "Chapter N" in the text is unambiguous.
 PARTS = [
     ("Mathematics",
@@ -70,15 +70,30 @@ PARTS = [
      "Where the plot stops so someone can explain relativity, and the explanation turns out "
      "to be the best part.",
      ["50_science_in_the_novels.md"]),
+    ("Information, Computation and Intelligence",
+     "From bits and algorithms to machine learning and artificial intelligence: a look "
+     "at what information can do when matter is organised to process it.",
+     ["60_information_computation_intelligence.md"]),
+    ("Earth, Climate and the Living Planet",
+     "The restless planet beneath our feet, the atmosphere and oceans that regulate it, and the "
+     "evidence for a rapidly changing climate—and the choices available to us.",
+     ["70_earth_climate_living_planet.md"]),
+    ("When Science Can Harm",
+     "Knowledge can protect and heal, but it can also magnify danger. These chapters examine "
+     "harmful applications, failed safeguards and the difficult work of responsibility.",
+     ["80_when_science_can_harm.md"]),
 ]
 
 VOLUMES = {
     1: ("Volume 1: Mathematics", [0]),
     2: ("Volume 2: Physics, the Cosmos, and the Quantum", [1, 2, 4]),
     3: ("Volume 3: Biology", [3]),
+    4: ("Volume 4: Information, Computation and Intelligence", [5]),
+    5: ("Volume 5: Earth, Climate and the Risks of Science", [6, 7]),
 }
 
 GLOSSARY_FILE = "90_glossary.md"
+SOURCES_FILE = "95_sources.md"
 GLOSS_REF_RE = re.compile(r'\bChapter (\d+)\b')
 
 # Also by Lothar J. Musiol: (group, [(title, store search or None)]). The canonical list, rebuilt on
@@ -111,18 +126,6 @@ ALSO_BY = [
     ('Look First', [
         ('Look First, Volume 1: The Universe Has No Now', None),
         ('Look First, Volume 2: A Trip Is Not a New Life', None),
-    ]),
-    ('Electrical Engineering Series', [
-        ('Foundations of Electronics (Book 1)', 'Foundations of Electronics'),
-        ('Circuits, Components, and Control (Book 2)', 'Circuits, Components, and Control'),
-        ('Semiconductor Physics and Devices (Book 3)', 'Semiconductor Physics and Devices'),
-        ('RF, Microwave, and Transceivers (Book 4)', 'RF, Microwave, and Transceivers'),
-        ('Communications, Wireless, and SDR (Book 5)', 'Communications, Wireless, and SDR'),
-        ('Power and Energy (Book 6)', 'Power and Energy'),
-        ('Packaging, Layout, EMC, and Test (Book 7)', 'Packaging, Layout, EMC, and Test'),
-    ]),
-    ('History', [
-        ("The Dolphins' View of History", None),
     ]),
     ('Fiction', [
         ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", "The Murder That Hadn't Happened Yet"),
@@ -182,14 +185,14 @@ FIGURES = {
                           "moving observer: for them, B happens first. Neither of you is wrong."),
 }
 
-TOKEN_RE = re.compile(r'(\*\*.+?\*\*|\*[^*\n]+?\*)')
+TOKEN_RE = re.compile(r'(\[[^\]]+\]\(https?://[^)]+\)|\*\*.+?\*\*|\*[^*\n]+?\*)')
 STATUS_RE = re.compile(r'^\*Status: (.+?)\*$')
 LEVEL_RE = re.compile(r'^\*Level: (.+?)\*$')
 BOX_RE = re.compile(r'^> (.+)$')
 LABEL_DASH_RE = re.compile(r'^(Prologue|Epilogue|Appendix(?: [A-Z0-9]+)?) — (.+)$')
 PART_ROMAN_RE = re.compile(r'^Part (I|II|III|IV|V|VI|VII)\b')
 NUM_HEADING_RE = re.compile(r'^(\d+)\.\s')
-LABEL_NUM_RE = re.compile(r'^(Chapter|Storey|Lesson|Lecture|Appendix)\s+(\d+)\b')
+LABEL_NUM_RE = re.compile(r'^(Chapter|Lesson|Lecture|Appendix)\s+(\d+)\b')
 LABEL_RANGE_RE = re.compile(r'^(?:Chapters|Lessons|Lectures)\s+(\d+)\s*[–-]\s*(\d+)\b')
 CHAPTER_NUM_RE = re.compile(r'\bChapter \d+\b')
 TIMES_RE = re.compile(r'(?<=[\d)]) x (?=[\d(])')
@@ -255,8 +258,9 @@ def page_geometry(sec):
         sec.left_margin, sec.right_margin = Inches(0.875), Inches(0.5)
         sec.top_margin, sec.bottom_margin = Inches(0.7), Inches(0.7)
     else:
-        sec.left_margin = sec.right_margin = Inches(1.1)
-        sec.top_margin = sec.bottom_margin = Inches(1.0)
+        sec.page_width, sec.page_height = Inches(3.6), Inches(4.8)
+        sec.left_margin = sec.right_margin = Inches(0.3)
+        sec.top_margin = sec.bottom_margin = Inches(0.3)
     sec.header_distance = sec.footer_distance = Inches(0.35)
 
 
@@ -412,7 +416,10 @@ def add_runs_from_markdown(paragraph, text):
     for part in TOKEN_RE.split(text):
         if not part:
             continue
-        if part.startswith('**') and part.endswith('**') and len(part) > 4:
+        link = re.fullmatch(r'\[([^\]]+)\]\((https?://[^)]+)\)', part)
+        if link:
+            add_external_link(paragraph, link.group(1), link.group(2))
+        elif part.startswith('**') and part.endswith('**') and len(part) > 4:
             paragraph.add_run(part[2:-2]).bold = True
         elif part.startswith('*') and part.endswith('*') and len(part) > 2:
             paragraph.add_run(part[1:-1]).italic = True
@@ -659,6 +666,31 @@ def render_glossary(doc):
             flush_left(p, space_after=8)
 
 
+def render_sources(doc):
+    path = os.path.join(CH_DIR, SOURCES_FILE)
+    if not os.path.exists(path):
+        return
+    new_section(doc, 'Sources and Further Reading')
+    heading(doc, 1, 'Sources and Further Reading')
+    with open(path, 'r', encoding='utf-8') as f:
+        lines = f.read().splitlines()
+    for raw in lines:
+        line = raw.strip()
+        if not line or line.startswith('# '):
+            continue
+        if line.startswith('### '):
+            heading(doc, 2, line[4:])
+        elif line.startswith('## '):
+            continue
+        elif line.startswith('- '):
+            p = doc.add_paragraph(style='List Bullet')
+            add_runs_from_markdown(p, line[2:])
+            p.paragraph_format.first_line_indent = Inches(0)
+            BODY_PARAGRAPHS.append((p, 'SOURCES'))
+        else:
+            body(doc, line, 'SOURCES', first=True)
+
+
 # ---------- linking ----------
 def _text_run(text, base_rpr):
     r = OxmlElement('w:r')
@@ -778,18 +810,21 @@ FOREWORD = [
     "individuals. What you measure depends on how you are moving, while a few quantities stay the "
     "same for everyone. Copies are never exact, and the errors add up to everything that ever "
     "lived. Waves add before they are counted, and knowing has a price.",
-    "The book runs in five sections, and the order is deliberate. Mathematics comes first, because "
+    "The book runs in eight sections, and the order is deliberate. Mathematics comes first, because "
     "it is the language everything else is written in. Physics and the Cosmos uses that language "
     "on motion, energy, time, gravity and the history of the universe, and then holds claims "
     "about living longer and settling the Moon and Mars to the same standard. Quantum Physics "
     "goes underneath, to the rules that run atoms, light and chips. Biology shows what those "
-    "rules produced on one wet planet in four billion years. Science in the Novels closes the "
-    "book with relativity told as a detective story. The Afterword collects the rules and points "
+    "rules produced on one wet planet in four billion years. Science in the Novels retells "
+    "relativity through a detective story. Information, Computation and Intelligence follows "
+    "information into algorithms and learning systems; Earth, Climate and the Living Planet "
+    "returns to the ground beneath our feet. When Science Can Harm examines the risks created by "
+    "powerful knowledge and the safeguards we build around it. The Afterword collects the rules and points "
     "back to where each one turned up.",
     "The chapters are numbered straight through the book, so a reference such as Chapter "
     "148 means the same thing wherever you meet it, and on a Kindle you can tap it. You can "
     "read the sections in any order, but three runs reward reading front to back: Mathematics, "
-    "the opening course of Quantum Physics (Chapters 144 to 156), and the closing course "
+    "the opening sequence of Quantum Physics (Chapters 144 to 156), and the QED course "
     "on quantum electrodynamics (Chapters 223 to 252).",
     "This edition is updated through October 2026; claims that are likely to change are marked "
     "\"as of 2026\".",
@@ -809,38 +844,40 @@ FOREWORD_CLOSE = (
 )
 
 WHO_FOR = [
-    "**This book is for curious adults and technically minded readers who want a rigorous but "
-    "readable map of mathematics, physics, life and the questions science has not yet answered.**",
+    "**This book is for curious general readers. You do not need a science degree, advanced "
+    "mathematics or specialist knowledge to begin.**",
     "It is not a textbook, not a proof course and not an exhaustive encyclopedia. There are no "
     "problem sets, the mathematics is explained rather than proved, and whole fields are left out "
-    "on purpose. Think of it as an atlas: 354 short, numbered chapters, each of which can be read "
-    "on its own, with cross-references that tell you where an idea came from and where it goes next.",
+    "on purpose. Think of it as an atlas: 389 short, numbered chapters, each of which starts with "
+    "the idea in ordinary language and can be read on its own. Cross-references are invitations, "
+    "not prerequisites.",
     "Each chapter carries two labels under its title. The status line says how sure science is "
     "about the chapter's claims; the level line says how much of the book you need to have read "
     "first. Both are explained in the Introduction. Every chapter ends with a one-sentence "
-    "summary, and the Reader Routes after the Introduction suggest paths through the book for "
-    "five different interests.",
-    "Where a topic deserves more room than an atlas can give it, a short note points to the "
-    "deeper books in the same family: Physics, Actually (three volumes), Life, Actually, "
-    "Math, Actually (four volumes) and Quantum, Actually (two volumes).",
+    "summary, selected sources and further reading appear at the back, and the Reader Routes after the Introduction suggest paths through the book for "
+    "eight different interests.",
     "*Updated through October 2026. Statements that are likely to change, such as mission "
     "schedules, drug approvals and the status of open measurements, are marked \"as of 2026\".*",
 ]
 LEVEL_INTRO = (
-    "Under the status line sits a second label, the level. It tells you how much of the book a "
-    "chapter assumes. There are five levels:"
+    "The book has one intended level throughout: the curious general reader. The labels below "
+    "are reading suggestions, not entry requirements. Every chapter should explain the idea it "
+    "needs; a technical passage adds detail for readers who want it, while the plain-language "
+    "route remains available. There are five labels:"
 )
 LEVEL_LEGEND = [
     ("Start here", "no background needed; a good place to enter the book or a section."),
     ("Foundation", "introduces ideas that later chapters rely on, and assumes nothing earlier."),
-    ("Builds on earlier chapters", "readable once you know the chapters it names; on a Kindle "
-     "you can tap them."),
-    ("Technical", "uses equations or formal machinery, and names the chapters to read first."),
+    ("Builds on earlier chapters", "makes a connection to the chapters it names; you can still "
+     "follow the main idea without reading them first."),
+    ("Technical", "offers an optional layer of equations or formal detail; the chapter explains "
+     "the point in words as well."),
     ("Optional deep dive", "rewarding, but nothing later depends on it; skip it freely."),
 ]
 LEVEL_CLOSE = (
-    "The two labels answer different questions. A chapter can be Settled and Technical (the "
-    "Dirac equation, Chapter 241) or Start here and partly Speculative (Chapter 57). A few chapters also carry short "
+    "The two labels answer different questions. A chapter can be Settled and include an optional "
+    "technical layer (the Dirac equation, Chapter 241) or Start here and partly Speculative "
+    "(Chapter 57). A few chapters also carry short "
     "boxed notes: *Why this matters*, *Engineer's view*, *Common wrong picture*, and in the "
     "hardest chapters *Skip if you only want the idea*, which gives the main point in a few "
     "lines so you can move on. Each part, and each large block within a part, ends with a short "
@@ -850,7 +887,7 @@ LEVEL_CLOSE = (
 )
 ROUTES_INTRO = (
     "You can read straight through, and the order is deliberate. But the book is built as an "
-    "atlas, and most readers will get more from following a route. Five suggestions follow; the "
+    "atlas, and most readers will get more from following a route. Eight suggestions follow; the "
     "chapter numbers are the ones printed in the headings, and every route can be left at any point."
 )
 ROUTES = [
@@ -869,7 +906,8 @@ ROUTES = [
      "electromagnetism through phase and potentials, from a single electron to a superconducting "
      "circuit. Chapters 223–252 are the full course in quantum electrodynamics; it assumes the "
      "Mathematics section, especially Chapter 11, Chapter 12 and Chapter 25. Finish with Chapter "
-     "354 (Interpretations on Trial)."),
+     "354 (Interpretations on Trial), then Part 6 follows information into computation, learning "
+     "and AI. Part 8 examines the risks and responsibilities that accompany powerful tools."),
     ("Science for science fiction.",
      "Relativity and time: Chapter 35, Chapter 36 and Chapters 60–66 (no universal now, the block "
      "universe). Black holes: Chapters 80–84, then Chapter 156. Wormholes and time travel: "
@@ -877,14 +915,13 @@ ROUTES = [
      "travel: Chapters 85–92. A reality check on the Moon and Mars: Chapters 126–143. Quantum "
      "interpretation: Chapter 153 and Chapter 354. Then Science in the Novels, Chapters 333–353, "
      "where the physics is told as a detective story."),
-    ("The engineer refreshing fundamentals.",
+    ("The mathematical and physics toolkit.",
      "Mathematics: Chapters 7–12 (trigonometry, the sinusoid, logarithms, the decibel, complex "
      "numbers, Euler's formula), Chapter 14, Chapters 16–20, Chapter 22 (Fourier and the FFT), "
      "Chapter 23 (Laplace) and Chapter 25 (matrices). Waves and fields: Chapter 49 (Light), "
      "Chapter 52 (Optics), Chapter 229 and Chapter 230 (Maxwell's equations and potentials), and "
      "Chapters 173–186. Quantum and QED: Chapters 144–148, Chapters 231–237, then Chapters "
-     "162–164 for the overview and Chapters 245–252 for the machinery. Devices: Chapter 56 "
-     "(Semiconductors) and Chapters 213–217 (from QED to a superconducting circuit)."),
+     "162–164 for the overview and Chapters 245–252 for the machinery."),
     ("Life and evolution.",
      "Chapters 253–257 (what life is and how it may have started), Chapters 258–273 (evolution, "
      "from Darwin to evolution you can watch), Chapters 274–284 (brains, minds, AI and "
@@ -892,6 +929,15 @@ ROUTES = [
      "Chapters 300–304 (Mendel and his shadow), Chapters 305–320 (the tools, cloning and food), "
      "and Chapters 321–332 (the genome, testing and the ethics of editing). For the human body, "
      "add Chapters 107–125 on ageing and medicine."),
+    ("Information, computation and AI.",
+     "Part 6, Chapters 355–367, starts with probability and statistics, then follows information "
+     "through algorithms, learning systems and language models to the limits of quantum computing."),
+    ("Earth and climate.",
+     "Part 7, Chapters 368–379, explains Earth's connected systems, the greenhouse effect, the "
+     "evidence for human-caused warming, impacts, mitigation and adaptation."),
+    ("Science, power and risk.",
+     "Part 8, Chapters 380–389, follows science into weapons, human research, industrial pollution, "
+     "surveillance and the safeguards needed to reduce harm."),
 ]
 
 PREFACE = [
@@ -952,15 +998,18 @@ AFTERWORD_CLOSE = (
     "book has done what it set out to do. The universe keeps the books. You can read them now."
 )
 
-ABOUT = (
-    "Lothar J. Musiol is a graduate of Munich University of Applied Sciences and has spent many "
-    "years in the semiconductor industry. Meanwhile, he studied science with enough depth to know "
-    "exactly where he simplifies in his explanations, and where he does not. He gained most of his "
-    "experience in the United States, where he supported several start-ups. Today, he makes good "
-    "use of his dual citizenship and divides his time between San Clemente (California) and Passau "
-    "(Bavaria). His goal is to present complex relationships more clearly and engagingly than many "
-    "treatments manage, without obscuring their true complexity."
-)
+ABOUT = [
+    "Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than "
+    "forty years in the semiconductor industry, first at Germany's largest company in the field, "
+    "then at a string of American start-ups. He studied physics alongside all of it, seriously "
+    "enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible "
+    "use, lets him split his time between San Clemente, California, and Passau, Bavaria, where "
+    "Austria begins at the garden fence. The household includes one married daughter, one grumpy "
+    "Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than "
+    "volume.",
+    "He writes to make complex ideas clearer and more engaging than most treatments manage, "
+    "without ever pretending they are simpler than they actually are.",
+]
 
 
 def front_matter(doc, volume_label):
@@ -1053,6 +1102,7 @@ def back_matter(doc):
     p.paragraph_format.space_before = Pt(12)
 
     render_glossary(doc)
+    render_sources(doc)
 
     if PRINT:
         new_section(doc, 'Index')
@@ -1063,7 +1113,8 @@ def back_matter(doc):
 
     new_section(doc, 'About the Author')
     heading(doc, 1, "About the Author")
-    body(doc, ABOUT, first=True)
+    for i, paragraph in enumerate(ABOUT):
+        body(doc, paragraph, first=(i == 0))
 
     new_section(doc, 'Also by Lothar J. Musiol')
     heading(doc, 1, "Also by Lothar J. Musiol")

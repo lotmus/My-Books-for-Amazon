@@ -1,0 +1,37 @@
+H1: Chapter 32 — Capacitors and Inductors as Circuit Elements
+P: Unplug an old television or a camera flash, and some of the capacitors inside can still hold a dangerous charge minutes later. Capacitors and inductors store energy, and they resist sudden change: a capacitor's voltage cannot jump, and neither can an inductor's current.
+P: Where you meet this: Decoupling and bulk capacitors, power-supply inductors, timing circuits, filters, and motor and relay coils.
+H2: 32.1 The v-i Relationships, Restated for Circuit Use
+P: Part I defined capacitance and inductance from field physics. For circuit analysis, what matters is each element's voltage-current (v-i) relationship, restated here in the form used throughout the rest of this book:
+EQ: Capacitor:  i = C dv/dt      Inductor:  v = L di/dt
+P: Both relationships are fundamentally different in character from a resistor's V = IR: a resistor's voltage and current are related instantaneously and algebraically, while a capacitor's current and an inductor's voltage depend on the rate of change of the other quantity, making both elements inherently dynamic — their behavior depends on the circuit's history, not only its instantaneous state, which is precisely why they are called dynamic or energy-storage elements, in contrast to a resistor's purely dissipative behavior.
+H2: 32.2 Continuity Conditions
+P: Two facts follow directly from the v-i relationships above and are used constantly in transient analysis (Chapter 33): a capacitor's voltage cannot change instantaneously (an instantaneous voltage change would require i = C dv/dt to be infinite, which no real source can supply), and an inductor's current cannot change instantaneously (for the parallel reason that an instantaneous current change would require v = L di/dt to be infinite).
+KEY: Capacitor voltage and inductor current are the two quantities that must remain continuous across any switching event. Everything else in a circuit — resistor voltages and currents, capacitor current, inductor voltage — can and generally does change abruptly the instant a switch operates. This single fact is the starting point for every transient-analysis problem in the next chapter.
+H2: 32.3 Energy Storage, Revisited
+P: Part I established that a capacitor stores energy U = ½Cv² and, in its closing chapters, that an inductor stores energy U = ½Li². Both expressions reappear constantly in circuit-level energy accounting, and both make explicit, in circuit terms, why the two continuity conditions above must hold: an instantaneous jump in capacitor voltage or inductor current would correspond to an instantaneous jump in stored energy, which would require an infinite instantaneous power delivery — physically impossible for any real, finite source.
+FIG: fig32_1.png | Figure 32.1 — The defining v-i relationships for a capacitor and an inductor. | A capacitor and an inductor are drawn with their voltage and current reference arrows beside the defining v-i equations.
+H2: 32.4 Series and Parallel Combinations, Revisited
+P: Part I introduced the capacitor combination rules (parallel adds, series reciprocal-sums) alongside the parallel-plate capacitor derivation. Inductors, it is worth noting explicitly here, combine exactly like resistors rather than like capacitors — series inductances add directly, and parallel inductances combine by reciprocal sum:
+EQ: Lseries = L1 + L2 + … ,     1/Lparallel = 1/L1 + 1/L2 + …
+P: This gives a useful, if slightly untidy, memory anchor across all three passive elements: resistors and inductors share one combination pattern (series adds, parallel reciprocal-sums), while capacitors follow the opposite pattern — a fact traceable, in each case, back to whether the element's defining relationship involves current or its time-integral (charge) on one side.
+WE: Worked Example 32.1
+PROB: A 10 µF capacitor's voltage is changing at a rate of 500 V/s. Find the current through it.
+SOL: i = C dv/dt = (10×10⁻⁶)(500) = 5.0×10⁻³ A = 5.0 mA.
+WE: Worked Example 32.2
+PROB: A 3.0 H inductor and a 6.0 H inductor are connected (a) in series and (b) in parallel. Find the equivalent inductance in each case.
+SOL: (a) Series: L = 3.0 + 6.0 = 9.0 H. (b) Parallel: 1/L = 1/3.0 + 1/6.0 = 2/6.0 + 1/6.0 = 3/6.0, so L = 2.0 H — following exactly the same combination pattern as resistors, not capacitors.
+MIS: Because a resistor's power is always positive (dissipated as heat, regardless of current direction, since P = I²R involves a squared term), it is easy to assume the same must be true of a capacitor's or inductor's instantaneous power. It is not: a capacitor or inductor's instantaneous power, p(t) = v(t)i(t), is regularly negative — precisely during the portion of a cycle when the element is returning previously-stored energy back to the rest of the circuit rather than absorbing more of it. Averaged over a full cycle of steady sinusoidal operation, an ideal capacitor or inductor's net energy exchange is exactly zero (all the energy it absorbs during part of the cycle, it returns during another part), which is the seed of the “reactive power” concept developed fully in Chapter 35 — reactive power is, in a real sense, this back-and-forth energy exchange, tallied up and given its own name and unit.
+BENCH: Discharge large capacitors before touching them, through a resistor rather than a screwdriver, and confirm with a meter. For inductors, check the saturation current: beyond it the core saturates, the inductance collapses and the current can spike. A '10 µH' inductor is only 10 µH below its rated current.
+H3: Practice Problems
+LI: A capacitor's voltage changes at a constant rate of 200 V/s, producing a current of 4.0 mA through it. Find its capacitance.
+LI: An inductor carries a current changing at 10 A/s, producing a voltage of 2.0 V across it. Find its inductance.
+LI: Two inductors, 4.0 H and 4.0 H, are connected in parallel. Find the equivalent inductance.
+LI: Explain briefly why an inductor's current, unlike a resistor's, cannot change instantaneously when a switch in its circuit is closed.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Capacitor voltage and inductor current are continuous.
+LI: Stored energy ½CV² and ½LI².
+LI: Combination rules, which for capacitors are the reverse of resistors.
+P: Mostly for exams and deeper study
+LI: The formal duality between capacitors and inductors.

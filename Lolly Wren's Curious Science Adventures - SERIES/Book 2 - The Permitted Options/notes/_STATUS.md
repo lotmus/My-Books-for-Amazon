@@ -73,3 +73,13 @@ Review: `../../notes/IMAGE_AUDIT_20261013.md`. Overall reader score now **9.6/10
 ## Diagram display-size check (13 Oct 2026)
 
 Book 2 has no interior diagrams, so no diagram resizing was needed. Its designed back-cover panel remains the final reading page and stays at its publication dimensions. The EPUB archive integrity and XML parsing passed; its in-reading back-cover image has alt text.
+
+## Aim-to-10 reader pass (15 Oct 2026)
+
+The active file inventory was checked before editing. The reviewed DOCX and its Kindle EPUB remain the active pair; the original canonical draft and dated snapshots remain preserved in `bak/`. No superseded root-level editions needed moving, and no unique source or production files were changed.
+
+A focused second pass tightened the game explanation in Chapter Eight: the classical limit, entangled-particle advantage, no-signalling point, and relationship between the win rate and Bell score are now explicit. Chapter Ten’s fixed-background explanation was shortened. DOCX and EPUB text match. The science claims and plot outcomes were not changed.
+
+Final extremely critical reader score remains **9.7/10 overall**. Focused reread: humour/satire 9.4, stakes 9.8, plot/payoff 9.5, pacing/suspense 9.4, characters/dialogue 9.6, prose/clarity/originality 9.7, science/continuity 10, Kindle/section boundaries 10, images/accessibility 10. Remaining deductions are reader-preference tradeoffs: a dialogue-led, argument-heavy middle; dry rather than laugh-out-loud humour; and a deliberate series mystery. Further cuts or extra jokes risk changing the book’s chosen voice and stakes.
+
+DOCX and EPUB archives, XML/XHTML, navigation, internal links, metadata, alt text, cover placement, and the three 800 × 440 px diagrams passed structural checks. Hyperlink/bookmark counts remain 151/81. A fresh visual render could not run because bundled LibreOffice is unavailable on this host; the prior edition’s render was visually checked before these text-only revisions.

@@ -25,3 +25,22 @@
 - Kept the later reviewed manuscript’s standalone note and line-break repair. No plot rewrite was warranted: the remaining pacing concern is a reader-preference tradeoff, not a clear defect that can be fixed without changing the book’s deliberate, argument-led structure.
 
 The prior addicted-reader review scored Book 2 **9.6/10**. This pass raises the package to **9.7/10**; the story’s pacing and unresolved series mystery remain the limits. It can be read first, though it necessarily gives a few brief facts about earlier events. Those are continuity context, not prerequisites.
+
+## Second-pass rereview (15 October 2026)
+
+After the first 9.7/10 review, I made a focused clarity and pace edit in Chapters Eight and Ten. The quantum-game passage now distinguishes its 75 percent classical ceiling from the roughly 85 percent entangled strategy, identifies the equivalent Bell score, and states the game’s classical win limit. The explanation of the fixed experimental background is shorter. These changes make the science easier to follow without turning the dialogue into a lecture or changing the story’s rules.
+
+| Criterion | First pass | Second pass |
+|---|---:|---:|
+| Overall | 9.7 | 9.7 |
+| Jokes and satire | 9.4 | 9.4 |
+| Stakes and emotional force | 9.8 | 9.8 |
+| Plot, reveals, and payoff | 9.5 | 9.5 |
+| Pacing and suspense | 9.1 | 9.4 |
+| Characters, dialogue, description | 9.6 | 9.6 |
+| Prose, clarity, originality | 9.5 | 9.7 |
+| Science and continuity | 10 | 10 |
+| Sections and Kindle mechanics | 10 | 10 |
+| Illustrations and accessibility | 10 | 10 |
+
+Recommendation remains yes. The remaining score gaps describe real taste risks rather than a fixable factual or mechanical error: the middle asks for patience with extended argument, the satire is intentionally dry, and the series mystery stays open while Book 2 resolves its own emotional and procedural arc. More cuts or inserted punchlines would be a larger stylistic rewrite, not a clear correction. The EPUB’s XHTML was synchronized with the DOCX and structurally validated. A fresh DOCX render was unavailable because this host lacks the required bundled LibreOffice executable; the preceding edition’s rendered layout had been checked before these text-only edits.

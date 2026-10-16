@@ -182,25 +182,22 @@ Edited by `scripts/deepcut_2026-10-11.py` on top of the tightening pass: 22 phra
 - **Checks:** 0 Word tables, no visible URLs, 76 internal links (one new), review line before About the Author, Also-by unchanged, 0.16 MB.
 - **Strict rescore:** prose 9.0, plot and clue fairness 8.9, characters 8.9, humour 8.9, pacing 9.0, facts 9.4, formatting/KDP 9.3, covers 9.0. Overall 9.0 (9.05).
 
+## 15 Oct 2026 — Back-cover elements and entry-order consistency
 
-## 14 Oct 2026 critical follow-up
+- Set the back cover up with a short hook, spoiler-free premise-and-stakes blurb, British-mystery tone line, and brief author bio. No genuine review quote was available, so none was added.
+- Removed the Book 1 answer spoiler and Book 1 title from the back cover. Added the reader-facing note that no previous case or physics background is needed and that the six lessons are optional.
+- Updated the cover generator, back-cover image and KDP copy together. The KDP description now says the full case can be read before or after Book 1. The rest of the cover art is unchanged.
 
-A critical follow-up to the 11 Oct full read-through checked the active REV05 chronology, science framing, course boundaries, and covers. The epilogue now opens, “At half past six on Tuesday…”, anchoring the Tuesday evening case close before the Wednesday school pickup. The Markdown source and paired DOCX were updated together. No story clues, physics, or relationship outcomes changed.
+## 15 Oct 2026 — Electronic back-cover end page (REV06)
 
-**Scores (10-point scale):** humour 9.2; satire and stakes 9.0; science accuracy and fact/fiction boundary 9.4; section boundaries 9.5; dialogue 9.2; description 9.0; plot, pacing, and clue fairness 8.9/9.0/8.9; character arcs 9.1; prose and sentence craft 9.0; clarity and completeness 9.2; uniqueness 9.6; suspense, wonder, and payoff 9.1; continuity 9.4; covers 9.0. Overall reader score 9.1; recommendation 9.1; sellability 5.5.
+- Preserved the locked REV05 manuscript. Created `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV06_BACK_COVER_DRAFT.docx` and matching Markdown source, with the back-cover artwork on its own final page.
+- Built `The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV06_BACK_COVER_DRAFT.epub` as the electronic edition candidate. The existing front cover remains the EPUB cover; the back-cover image is a separate final spine item after the story and end matter. No print wrap was created.
+- Package checks confirm EPUB ZIP structure, first uncompressed `mimetype`, front-cover metadata, and the final reading-order item containing only the back-cover image. Full visual Kindle-device QA remains a publisher-side preview step.
 
-The remaining score gap is concentrated in dense science dialogue for casual SF readers and a few mysteries deliberately left open for the series. Interior illustrations are not needed for this text-led novel; the front cover is distinctive and legible, and the text-only back cover is clear. The revision remains draft pending visual DOCX/Kindle proof.
-## 15 October 2026 — First-time-reader on-ramp
+## 15 Oct 2026 — Cover redesign and electronic package (REV07)
 
-- Added a non-spoiler orientation before the existing reading/science note. It establishes that either book can be read first, introduces the returning cast, distinguishes the continuing LOCALHOST question from Book 2's warning, and names the unresolved threads without giving away Book 1's answer.
-- Removed Book 1's central-answer spoiler from Book 2's opening recap. The updated contents entry links to the new reader note.
-- Replaced the redundant “this case stands alone” sentence in “How to Read This Book” with a direct note that no physics background is needed and the six-lesson course is optional.
-- Updated the KDP description to accurately promise the orientation and a self-contained case.
-- The Book 2 REV05 Markdown and paired DOCX were updated together. The REV04 release master was not changed.
-
-## 15 Oct 2026 — Critical first-entry and cover-copy pass
-
-- Removed the Book 1 answer spoiler from the back-cover hook: the new copy says Derek is closing “the Bureau’s previous case.” Rebuilt and visually checked the back cover from `scripts/make_covers.py`; its reader guidance now says no prior case or physics background is needed. Left the front cover unchanged.
-- Brought the KDP description into alignment with the cover and the any-order series rule. It now says plainly that the complete case can be read before or after Book 1, no physics background is needed, and the lessons are optional. Replaced the misleading “sequel” search phrase with “standalone.”
-- Rechecked the new-reader orientation against the opening and middle-case references: the current warning and investigation remain distinct from the unresolved LOCALHOST thread; no prior answer is needed to understand the case. The case resolves its central question; the railway, Sunday slip and late voice remain openly marked as series mysteries.
-- Updated the marketing assessment after the on-ramp change. Ease of entry and sellability improve; neither readership data nor visual Kindle/Word proof is available to justify a 10. Revision remains a draft pending those checks.
+- Replaced the flat vector cover with a daylight London office opening onto an impossible station platform. The room itself is lit by morning daylight; the waiting train, tape measure, papers and brass watch carry the story cues. The upper wall leaves a clean field for the title, and exact lettering is typeset in the build script.
+- Redesigned the text-only back cover with a coordinated navy-to-indigo ground and soft amber light. The hook, spoiler-free blurb, tone line and author bio remain intact and readable.
+- Updated `scripts/make_covers.py` to build the new art-and-type front plus matching back. Kept the source illustration, concept previews and compositor in `cover_concept_v2/` and `scripts/make_cover_concept_v2.py`.
+- Created REV07 DOCX, Markdown and EPUB candidates; REV05 and REV06 remain intact. The EPUB has a front-cover image and the new back-cover image as the final reading-order content, with a targeted CSS page break before that image. No print wrap was made.
+- Checked both covers at full size and thumbnail size, verified the DOCX package and EPUB ZIP/spine/media. KDP should be told the cover illustration is AI-generated.

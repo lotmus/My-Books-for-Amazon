@@ -1,7 +1,7 @@
 H1: Appendix A. Quick Reference: Formulas, Spec Cheat Sheets, Checklists, and SCPI Basics
 H2: A.1 Formulas used in this book
 P: Accuracy (Chapter 1): error = ±(% of reading × reading + % of range × range), or ±(% of reading + counts × resolution).
-P: Uncertainty (Chapter 2): combine independent standard uncertainties as the root sum of squares; a rectangular limit ±a has u = a/√3; expanded U = k u with k = 2 for about 95 %. Test uncertainty ratio = tolerance/U, 4:1 or better.
+P: Uncertainty (Chapter 2): combine independent standard uncertainties as the root of the sum of squares; a rectangular limit ±a has u = a/√3; expanded U = k u, with k chosen for desired coverage and effective degrees of freedom (k = 2 is approximately 95 % for a near-normal result with large degrees of freedom). Test uncertainty ratio = tolerance/U; 4:1 or better is a common target, not a universal acceptance rule.
 P: Loading (Chapter 3): a source Rs read by a meter Rin reads Rin/(Rs + Rin) of the true value; a probe's capacitance has a reactance 1/(2πfC).
 P: Remote sense (Chapter 5): the load voltage error without sense is I × (R_lead+ + R_lead−).
 P: Diode from the log plot (Chapter 7): n = slope per decade/(Vt ln 10), Vt ln 10 = 59.5 mV at 300 K; Rs = excess voltage/I at high current; Zener rz = ΔV/ΔI.
@@ -35,7 +35,7 @@ P: Budget bench (Chapters 37 and 38): a VNA proves a match only to about 10 dB s
 H2: A.2 Safe limits before every curve-tracer sweep
 LI: Voltage below the part's absolute maximum (or the breakdown you intend to find, with the current limited).
 LI: Current compliance or series resistance below the maximum continuous current; a low limit for breakdown sweeps (100 µA to 1 mA).
-LI: Peak power below what the package survives for the pulse width; pulsed sweeps for anything above about 0.5 W.
+LI: Keep every point within the device’s safe operating area for the actual pulse width, repetition rate, duty cycle, and mounting conditions. Use pulsed sweeps only when the instrument and fixture control pulse width and duty cycle, and verify applicable transient thermal and SOA limits. There is no universal wattage threshold that makes pulsed operation safe.
 LI: Gate drive within the gate's ±V rating; a gate resistor (10 to 100 Ω) at the socket against oscillation.
 LI: High-voltage interlock closed; never touch the fixture with the sweep enabled.
 H2: A.3 Reading a VI you did not write
@@ -339,6 +339,7 @@ P: 6. First: a CAT III true-rms DMM, a 12-bit 70 MHz scope with 10:1 probes, a 0
 H1: Appendix C. Sources
 P: The specifications, commands, and facts quoted in this book were checked against the documentation below, current in October 2026; the books listed go deeper. Instrument datasheets and firmware are revised often, so check the version you own.
 P: JCGM 100:2008, Evaluation of measurement data: Guide to the expression of uncertainty in measurement (GUM), and JCGM 200:2012, the International vocabulary of metrology (VIM), for accuracy, precision, uncertainty, and traceability (Chapters 1 and 2). ILAC-G8:09/2019, Guidelines on decision rules and statements of conformity, for guard bands (Chapter 2).
+P: NIST, Metrological Traceability: Frequently Asked Questions and NIST Policy, https://www.nist.gov/metrology/metrological-traceability, for result documentation and the distinction between a traceable result and a calibrated instrument (Chapters 2 and 36).
 P: IEC 61010-1 and IEC 61010-031, safety requirements for measuring equipment and hand-held probe assemblies, for measurement categories (Chapter 4).
 P: Keithley (Tektronix), Low Level Measurements Handbook, 7th edition, for guarding, thermal EMF, the delta method, and picoampere technique (Chapters 3, 6, 14).
 P: Keithley (Tektronix), Model 2450 SourceMeter Reference Manual and User's Manual, and the application note on I-V characterization of diodes with the 2450, for the SCPI commands and specifications (Chapters 6, 7, 35). The npTDMS documentation, for reading TDMS files in Python (Chapter 35).
@@ -346,13 +347,14 @@ P: Keysight Technologies, B1500A and B1505A data sheets and the Parametric Measu
 P: Infineon, Toshiba, and Nexperia application notes on MOSFET datasheet parameters, gate charge, double-pulse testing, and thermal impedance, and JEDEC JESD24 and JESD51 series, for the test definitions of Chapter 8. ngspice user's manual, for the diode model parameters (Chapter 8).
 P: Markus Frejek and Karl-Heinz Kübbeler, the open-source AVR transistor tester (documentation on mikrocontroller.net), for the hobby component tester (Chapter 7).
 P: Keysight Technologies, 34465A and 3458A data sheets, the Fluke 8588A specifications, and the Keithley DMM7510 data sheet, for multimeter architecture, apertures, and specifications (Chapter 12).
+P: Keysight Technologies, Digital Multimeters 34460A, 34461A, 34465A, 34470A Data Sheet (5991-1983), https://www.keysight.com/us/en/assets/7018-03846/data-sheets/5991-1983.pdf, temperature coefficients for the 34465A (Chapter 1).
 P: Keysight Technologies, Impedance Measurement Handbook, 6th edition, and the E4980A and E4990A data sheets, for LCR and impedance analyzer methods and ranges (Chapter 13).
 P: Keysight Technologies, 53230A data sheet and the application note Fundamentals of Time Interval Measurements; NIST Special Publication 1065, Handbook of Frequency Stability Analysis (W. J. Riley), for counters and the Allan deviation (Chapter 15).
 P: NI, LabVIEW manual and LabVIEW API reference (Python Node, .NET, TDMS, and VISA functions), the LabVIEW 2026 Q3 release notes, the Integrating Python Code in LabVIEW compatibility table, and the Community Edition usage details page, checked in October 2026 (Chapter 35).
 P: NI, TestStand help (process models, step types, module adapters, reports, and database logging), and the NI-DAQmx documentation with the nidaqmx Python API reference, including the DAQmx buffer size allocation article (Chapter 35).
 P: IVI Foundation, VISA specification (VPP-4.3) and SCPI-1999; PyVISA documentation, for remote control (Chapters 11, 34, 35).
 P: Tektronix, ABCs of Probes Primer, and the oscilloscope and probe data sheets of Keysight, Rohde & Schwarz, Tektronix, Rigol, and Siglent, for scope architecture, probe loading, and specifications (Chapters 16 to 18, 37).
-P: Keysight Technologies, Spectrum Analysis Basics (Application Note 150), and the X-Series signal analyzer and N9038B EMI receiver documentation; Rohde & Schwarz FSW and ESR documentation; CISPR 16-1-1 and CISPR 32, for spectrum, EMI, and limit values (Chapters 21, 22, 33).
+P: Keysight Technologies, Spectrum Analysis Basics (Application Note 150), and the X-Series signal analyzer and N9038B EMI receiver documentation; Rohde & Schwarz FSW and ESR documentation; CISPR 16-1-1 and CISPR 32, for spectrum, EMI, and limit values (Chapters 21, 22, 33); Rohde & Schwarz, “Understanding EMI Precompliance Testing,” and Tektronix, “EMI Troubleshooting with the Latest-Generation Oscilloscopes,” for the relative, geometry-sensitive use of near-field probes (Chapter 33; https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_brochures_and_datasheets/pdf_1/Educational_Note_-_Understanding_EMI_Precompliance_Testing.pdf; https://www.tek.com/en/documents/application-note/emi-troubleshooting-with-the-latest-generation-oscilloscopes)
 P: Keysight Technologies, Noise Figure Measurement Accuracy: The Y-Factor Method (Application Note 57-2), and phase-noise analyzer documentation, for noise figure and phase noise (Chapter 24).
 P: Keysight Technologies, Understanding the Fundamental Principles of Vector Network Analysis (Application Note 1287-1), and VNA calibration and de-embedding application notes from Keysight, Rohde & Schwarz, Anritsu, and Copper Mountain, for network analysis (Chapters 25 to 27).
 P: 3GPP TS 38.104 (NR base station radio transmission and reception), TS 36.104 (LTE), IEEE 802.11ax and 802.11be, and the Bluetooth RF-PHY test specification on the Bluetooth specifications page, for EVM, ACLR, and modulation limits (Chapters 29 to 32).
@@ -405,3 +407,10 @@ P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing
 P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
 P: In German
 P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
+EQ: TEST AND MEASUREMENT INSTRUMENTS
+P: Electrical Engineering Series, Book 9
+P: Every measurement is a conversation between an instrument, a circuit, and the limits of what either can know.
+P: Learn to choose, connect, and use bench instruments with care: digital multimeters, oscilloscopes, power supplies, source-measure units, spectrum analyzers, network analyzers, and more. Worked examples, practice problems, and practical bench procedures turn specifications into defensible measurements.
+P: For students, technicians, and engineers who want results they can explain and reproduce.
+P: Also in the Electrical Engineering Series: Foundations of Electronics; Circuits, Components, and Control; Semiconductor Physics and Devices; RF, Microwave, and Transceivers; Communications, Wireless, and SDR; Power and Energy; Packaging, Layout, EMC, and Test; Firmware and Software for Electronics.
+P: Lothar J. Musiol writes practical guides to electronics, engineering, and the ideas behind them.

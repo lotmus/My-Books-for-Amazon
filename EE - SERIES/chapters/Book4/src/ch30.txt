@@ -1,5 +1,5 @@
 H1: Chapter 30. The Link Budget
-P: A 5.8 GHz link across 10 km starts at 27 dBm and arrives at −52.7 dBm, a drop of almost 80 dB even with two 25 dBi antennas helping. What's left over, 27.3 dB above the receiver's sensitivity, is the fade margin, the number that decides how often the link drops on a bad day.
+P: At 5.8 GHz, a 10 km link loses 127.7 dB in free space. Two 25 dBi antennas and 27 dBm at the transmitter leave −52.7 dBm at the receiver, 27.3 dB above sensitivity. That margin looks generous until rain, pointing error, a wet radome, or an optimistic cable-loss entry asks for its share. The margin has not yet met the weather.
 P: Where you meet this: Microwave backhaul, satellite ground terminals, IoT coverage estimates, drone and telemetry links, and every system proposal that promises a range.
 P: A link budget adds up every gain and loss between the transmitter's output and the receiver's detector and compares the result with what the demodulator needs. It ties together almost every topic in this book and Book 5: power amplifier output, feeder loss, antenna gain, path loss, receiver noise, and the SNR or Eb/N0 that a modulation needs. Because everything is in decibels, the budget is a column of additions, and the bottom line, the margin, says how much fading or degradation the link can tolerate. This chapter builds a terrestrial budget in dBm and a satellite budget in the G/T form.
 H2: 30.1 The terrestrial budget
@@ -20,9 +20,9 @@ H2: Worked Example 30.3
 P: Problem. A ground antenna has 40 dBi of gain and sees an antenna temperature of 50 K. Its LNA has a 0.8 dB noise figure. Find the system temperature and G/T.
 P: Solution. Te = 290(10^0.08 − 1) = 58.7 K, so Tsys = 50 + 58.7 = 108.7 K, or 20.4 dBK. G/T = 40 − 20.4 = 19.6 dB/K. If the system temperature were 150 K, G/T would fall to 18.2 dB/K; the quieter LNA is worth about 1.4 dB, the same as a 17% larger dish diameter.
 H2: 30.3 Margins and availability
-P: The margin a link needs depends on how often it may fail. Rain fading at frequencies above about 10 GHz is described statistically: a link designed for 99.99% availability, about 53 minutes of outage per year, needs far more rain margin than one designed for 99.9%. Multipath fading on terrestrial links is countered by diversity, two antennas spaced vertically or two frequencies, rather than by power alone. Adaptive modulation, as in Book 5, trades throughput for margin, dropping to a robust format during a fade instead of losing the link.
+P: The margin a link needs depends on how often it may fail. Rain fading at frequencies above about 10 GHz is described statistically: a link designed for 99.99% availability, about 53 minutes of outage per year, needs far more rain margin than one designed for 99.9%. Multipath fading on terrestrial links is countered by diversity, two antennas spaced vertically or two frequencies, rather than by power alone. Adaptive modulation, as in Book 5, trades throughput for margin, dropping to a robust format during a fade instead of losing the link. In Worked Example 30.1, a 30 dB fade would leave −82.7 dBm, 2.7 dB below the stated −80 dBm sensitivity: the chosen mode no longer closes, so the radio must step down to a more robust mode or lose packets until conditions recover.
 P: Where this continues. Chapter 52 works link budgets a reader can check on the roof: GPS at −128.5 dBm, LoRa at 915 MHz, and amateur satellites with Doppler. Satellite systems are in Book 5, "Satellites and Non-Terrestrial Networks".
-BENCH: Write every link budget with the source of each number beside it, and keep the margins separate: fade margin, implementation loss, and the unknowns you can name. Optimistic antenna gains and forgotten connector losses are the usual errors. When the margin is thin, more antenna gain usually costs less than more transmitter power, because the gain helps both directions of the link.
+BENCH: Write every link budget with the source of each number beside it, and keep fade margin, implementation loss, and named unknowns separate. In the 10 km example, a 30 dB fade takes the received signal below sensitivity; the radio must fall back to a more robust mode or lose packets. A margin without a stated failure response is only a number.
 H2: Practice
 P: 1. Find the free-space path loss at 24 GHz over 2 km.
 P: 2. A link has 20 dBm transmit power, 30 dBi antennas at both ends, no feeder loss, and 120 dB path loss. Find the received power.
@@ -37,3 +37,4 @@ LI: Received power and fade margin.
 LI: C/N0 from EIRP, path loss, and G/T.
 P: Mostly for exams and deeper study
 LI: Availability statistics and rain-fade models in detail.
+P: Part II, Movement 2. Power Delivery and Verification

@@ -1,0 +1,15 @@
+# Book Writer reads its own copy of this file at config/asset_api.ini (gitignored -- copy this
+# example there and fill in the keys you have). None are required to run the app; each provider
+# tier is simply skipped when its key is blank, and a chapter/outline/cover falls all the way
+# through to an honest placeholder if every tier is unconfigured or fails.
+#
+# Same key names MediaStar.GPT's own config/asset_api.ini uses, so you can copy the relevant
+# lines straight across from that app's config if you already use it there.
+
+# Outline planning + chapter prose + manuscript editing (tried in this order: Anthropic -> OpenAI/Gemini/Grok -> Yandex)
+anthropic_key=
+openai_key=
+gemini_key=
+xai_key=
+yandex_api_key=
+yandex_folder_id=

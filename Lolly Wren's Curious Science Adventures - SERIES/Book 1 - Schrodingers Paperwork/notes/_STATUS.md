@@ -130,3 +130,16 @@ Physics checked: uncertainty as a preparation trade-off; no-cloning for general 
 Strict rescore: **9.5 on the indie benchmark, 8.8 against Pratchett and Fforde**; sellability 9.1. What still keeps it under 10 at Pratchett/Fforde level: Chapters 9-12 still carry long explanatory runs outside these set pieces, and the comic set pieces depend more on dialogue than on events.
 
 Still open: rebuild the EPUB from REV4, then upload.
+
+
+## REV5 critical-reader review and EPUB rebuild (15 Oct 2026)
+
+Current active master: `Schrodingers_Paperwork_BOOK_1 - REV5.docx`. REV4 is preserved in `bak/`. The active Kindle EPUB was rebuilt from REV5. The local NOVELS folder and GitHub book folder previously had identical REV4 content; the reviewed REV5 is now the active manuscript.
+
+Fixes: Chapter 9 removes a self-repeating line and tightens Fainrose’s repeated diagnosis before Vale explains Column B. Chapter 10 now describes environmental interactions as spreading records and suppressing interference, and distinguishes einselection’s pointer states from the unresolved question of a single experienced outcome. The optional lesson section continues to mark the measurement problem as unsettled.
+
+EPUB checks: DOCX/EPUB text parity (86,457 raw words), 33 Heading 1 navigation entries, no broken internal fragments, all embedded images have alt text, 19 interior diagrams are no larger than 800 x 440 px, selected light front cover is the EPUB cover resource, and the back-cover panel is last in the reading content. Package XML parses; archive integrity check passes. No Kindle device simulator was available for visual rendering.
+
+Version inventory: REV1–REV3 and prior DOCX/EPUB snapshots were already in `bak/`; REV4 is now retained there as the immediate predecessor. The alternate back-cover PNG is preserved as a unique source asset. Temporary Office lock file is not a manuscript version and is not included.
+
+Review note: `notes/CRITICAL_READER_REVIEW_20261015.md`. Final assessment: 9.7/10 for the book’s intended indie science-satire audience; 8.9/10 against a deliberately severe Pratchett/Fforde literary benchmark.

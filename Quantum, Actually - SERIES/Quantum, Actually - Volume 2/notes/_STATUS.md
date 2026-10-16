@@ -1,5 +1,13 @@
 # Quantum, Actually, Volume 2 (A QED Course): status
 
+## 16 Oct 2026, current-master and version-history verification
+
+Confirmed `Quantum, Actually - Volume 2.docx` as the latest master. Its content is byte-identical to the master already tracked on `origin/main`; no older manuscript content needed to be restored. All clearly superseded manuscript versions remain under this book's `bak/`, while unique source, reference, and production files remain preserved.
+
+The immediately preceding master differs only in the updated *Gravity, Actually* title in the Also By material. The current master retains the public-reader fixes: one true Prologue, nine Opening Chapters, one Epilogue, 87 lessons, 52 lesson concept maps plus three table-replacement images, alt text for every image, no live Word tables, 880 glossary links, 17 external links, and linked bibliography references. No manuscript rewrite was made during this verification because the latest master already contains the required fixes.
+
+Still open: a full continuous read-through.
+
 ## 10 Oct 2026, strict rescore from a careful sampled reread: 8.7 -> 9.0
 
 Sampled: front matter, How to read this book, the Contents, Opening Chapters 1 and 6, Lesson 1 exercises and solutions, Lesson 77 (Lamb shift, numbers checked), the Interlude, Epilogue, Bibliography and back matter. Not a full read-through. (The SCORES row said 8.8, undated; 8.7 is my strict score before today's fixes.)

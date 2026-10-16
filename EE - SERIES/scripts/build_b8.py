@@ -23,7 +23,7 @@ ap.add_argument('--listings', default=os.path.join(HERE, 'diagrams', 'b8', 'list
 ap.add_argument('--figs', default=os.path.join(HERE, 'diagrams', 'b8', 'fig'))
 ap.add_argument('--common', default=os.path.join(HERE, 'diagrams', 'common'))
 ap.add_argument('--out', default=os.path.join(ROOT, 'Firmware_and_Software_for_Electronics_Book8.docx'))
-ap.add_argument('--links', default=os.path.join(ROOT, 'kindle_links - Firmware_and_Software_for_Electronics_Book8.json'))
+ap.add_argument('--links', default=os.path.join(ROOT, 'publishing', 'kindle-links', 'kindle_links - Firmware_and_Software_for_Electronics_Book8.json'))
 A = ap.parse_args()
 sys.path.insert(0, A.common)
 import docx

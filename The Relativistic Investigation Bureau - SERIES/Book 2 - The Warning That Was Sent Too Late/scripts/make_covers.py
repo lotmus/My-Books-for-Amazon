@@ -1,9 +1,6 @@
-"""Kindle covers for The Warning That Was Sent Too Late (RIB Book 2), in Book 1's trade dress:
-night-blue sky with a dusk-orange horizon, cream and gold slab-serif title, gold rules and RIB monogram,
-byline 'Lothar J. Musiol / writing as Spezala Genara Relavi (S.G.R.)'.
-Everything is drawn by this script (no photographs, no real people, no third-party art).
-Fonts: Google Fonts (SIL Open Font License): Coustard, Cinzel, Libre Baskerville, EB Garamond.
-Usage: python make_covers.py OUTDIR  ->  Kindle Front Cover.jpg (1600x2560), Kindle Back Cover.jpg (1600x2560)"""
+"""Rebuild the RIB Book 2 ebook covers.
+The compositor uses the retained daylight office-and-platform artwork in cover_concept_v2/ and typesets the exact cover copy in Georgia. The front illustration is AI-generated; disclose the image in KDP's content questionnaire.
+Usage: python scripts/make_covers.py . -> update Kindle Front Cover.jpg and Kindle Back Cover.jpg (1600x2560)"""
 import sys, os, math, random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -324,6 +321,9 @@ def back():
     return out
 
 if __name__ == '__main__':
-    f = front(); b = back()
-    for name, im in (('front', f), ('back', b)):
-        t = im.copy(); t.thumbnail((800, 1280)); t.save(f'{OUT}/preview_{name}.jpg', quality=85)
+    from pathlib import Path
+    import runpy
+    book_dir = Path(__file__).resolve().parent.parent
+    runpy.run_path(str(book_dir / 'scripts' / 'make_cover_concept_v2.py'), run_name='__main__')
+
+

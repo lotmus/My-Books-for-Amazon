@@ -1,0 +1,30 @@
+bin/
+obj/
+.vs/
+
+# Bundled third-party binaries (large, redistributable, not source) -- ffmpeg.exe goes here,
+# copied in manually, same convention MediaStar.GPT itself uses for its own Tools/ folder.
+Tools/*
+!Tools/.gitkeep
+
+# Bundled font files (large, redistributable, not source) -- same convention as Tools/ above.
+LatoFont/*
+!LatoFont/.gitkeep
+
+# Real API keys -- never commit these. See config/asset_api.ini.example for the format.
+config/asset_api.ini
+
+# Generated exports/output -- a user's own written books, not source.
+Exports/
+
+# Local build output dropped at the repo root (a `dotnet publish` folder and stray copies of
+# the built exe/pdb/shortcut) -- the real build output lives under bin/ and obj/, already
+# ignored above.
+/Release/
+/BookWriter.exe
+/BookWriter*.pdb
+/BookWriter.lnk
+
+# Runnable exe published to the repo root (dotnet publish output)
+/bin-run/
+dist/

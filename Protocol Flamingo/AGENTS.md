@@ -2,11 +2,11 @@
 
 ## Project Structure & Module Organization
 
-This repository contains the *Protocol Flamingo* manuscript and its Amazon KDP materials. `Protocol_Flamingo_REV10.docx` is the current manuscript; make story edits in that Word file. `build_docx.js` contains an earlier, shorter draft as JavaScript data and is not the source for REV10. `KDP_LISTING.md` holds the listing copy, keywords, categories, and pricing. The two `kdp ... Protocol Flamingo.jpg` files are cover assets. `notes/` contains status and editorial working notes; `bak/` contains dated and superseded snapshots. Keep new working notes in `notes/` and archival copies in `bak/`.
+This repository contains the *Protocol Flamingo* manuscript and its Amazon KDP materials. `Protocol_Flamingo_REV11.docx` is the current manuscript; make story edits in that Word file. `build_docx.js` contains an earlier, shorter draft as JavaScript data and is not the source for REV11. `KDP_LISTING.md` holds the listing copy, keywords, categories, and pricing. The two `kdp ... Protocol Flamingo.jpg` files are cover assets. `notes/` contains status and editorial working notes; `bak/` contains dated and superseded snapshots. Keep new working notes in `notes/` and archival copies in `bak/`.
 
 ## Build, Test, and Development Commands
 
-- `node build_docx.js` generates `Protocol_Flamingo_script_draft.docx` from the legacy script. It requires Node.js and the installed `docx` package. It does not rebuild REV10; do not treat its output as the current book.
+- `node build_docx.js` generates `Protocol_Flamingo_script_draft.docx` from the legacy script. It requires Node.js and the installed `docx` package. It does not rebuild REV11; do not treat its output as the current book.
 - No automated test or lint command is configured. For manuscript changes, review the edited document in Word and confirm front matter, chapter order, and layout before delivery.
 
 ## Coding Style & Naming Conventions

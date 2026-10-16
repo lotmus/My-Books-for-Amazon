@@ -15,11 +15,13 @@ P: Problem. The 400 kW load needs 5 minutes of runtime through a 96% inverter, u
 P: Solution. The load needs 400 × 5/60 = 33.3 kWh. Dividing by 0.96 and by 0.8 gives 43.4 kWh of installed battery capacity. A generator that starts in 15 s uses only a small part of that; the rest covers a failed first start.
 P: Key idea. Backup power is a chain of energy stores sized by time: the supply's bulk capacitor rides through milliseconds, the UPS battery through minutes, and the generator through hours. Each must cover the gap until the next one takes over.
 H2: 15.3 Hold-up time in a power supply
-P: A server power supply must keep its output in regulation for a specified hold-up time, often 10 to 20 ms, after the AC input disappears, long enough to ride through a UPS or transfer-switch transition. The energy comes from the bulk capacitor on the high-voltage DC bus after the power-factor stage of Chapter 7. The converter after it keeps regulating as the bus falls from its normal value to the minimum at which it still works, so the usable energy is ½C(V1² − V2²), and the capacitance follows directly.
+P: A server power supply must keep its output in regulation for a specified hold-up time, often 10 to 20 ms, after the AC input disappears, long enough to ride through a UPS or transfer-switch transition. The energy comes from the bulk capacitor on the high-voltage DC bus after the power-factor stage of Chapter 7. The converter after it keeps regulating as the bus falls from its normal value to the minimum at which it still works. In the first-cut energy balance, P is the average power drawn from the DC bus, including downstream conversion loss; if only output power is known, use Pbus = Pout/η. The usable capacitor energy is ½C(V1² − V2²), and the capacitance follows directly.
+P: This ideal energy calculation assumes the capacitor can deliver the required current without a significant terminal drop. ESR adds an immediate I·ESR drop and I²·ESR heating; ESL and busbar inductance add a short transient drop at the load step. If the bus crosses the converter’s undervoltage threshold early, the nominal energy calculation overstates ride-through and the server can reset before the UPS transfer completes. Check the capacitor bank’s ripple-current and impedance data at temperature and end of life, then verify bus voltage during the specified transfer test.
+P: For scale, if the 3 kW example draws about 10 A from its 300 V bus and the bank has 50 mΩ ESR, the instantaneous ESR drop is 0.5 V and the dissipation is 5 W while that current flows. The energy estimate still needs the ESR, wiring inductance, temperature, and end-of-life checks; even a small drop matters if the converter is already near its undervoltage threshold.
 EQ: C = 2 P thold / (V1² − V2²)
-FIG: fig15_1.png | Figure 15.1 — Bulk-capacitor voltage after the AC input fails, with a 3 kW supply drawing constant power (Worked Example 15.3). 857 µF falls from 400 V to 300 V in 10 ms; 615 µF reaches 250 V in the same time, so a converter that works down to 250 V needs less capacitance. | Plot of capacitor voltage against time from 0 to 14 milliseconds. Two downward-curving traces start at 400 volts. The 857 microfarad trace reaches 300 volts at 10 milliseconds; the 615 microfarad trace falls faster and reaches 250 volts at 10 milliseconds. A dashed vertical line marks 10 milliseconds.
+FIG: fig15_1.png | Figure 15.1 — Bulk-capacitor voltage after the AC input fails, with a 3 kW DC-bus load drawing constant power (Worked Example 15.3). 857 µF falls from 400 V to 300 V in 10 ms; 615 µF reaches 250 V in the same time, so a converter that works down to 250 V needs less capacitance. | Plot of capacitor voltage against time from 0 to 14 milliseconds. Two downward-curving traces start at 400 volts. The 857 microfarad trace reaches 300 volts at 10 milliseconds; the 615 microfarad trace falls faster and reaches 250 volts at 10 milliseconds. A dashed vertical line marks 10 milliseconds.
 H2: Worked Example 15.3
-P: Problem. A 3 kW server supply needs 10 ms of hold-up. Its bus normally sits at 400 V and the converter works down to 300 V. Find the bulk capacitance.
+P: Problem. A server supply drawing 3 kW from its DC bus needs 10 ms of hold-up. Its bus normally sits at 400 V and the converter works down to 300 V. Find the bulk capacitance.
 P: Solution. C = 2 × 3000 × 0.010 / (400² − 300²) = 60/70,000 = 857 µF. Allowing the converter to work down to 250 V would reduce it to 615 µF, which is why hold-up requirements shape the wide-input design of the DC-DC stage.
 H2: 15.4 Generators and transfer
 P: Diesel or gas generators carry long outages. An automatic transfer switch moves the load from utility to generator once the generator is stable, and back when the utility returns; the UPS covers the transfer. Large sites test generators monthly under load, and they are increasingly supplemented or replaced by battery energy storage that also provides grid services when the utility is healthy, a link to the grid codes of Chapter 16.
@@ -45,8 +47,8 @@ BENCH: Test the backup the way it will fail: open the upstream breaker rather th
 H2: Practice
 P: 1. A 1 MW load is carried by a UPS at 97%. Find its waste.
 P: 2. Find the battery energy for 150 kW over 10 minutes with a 95% inverter and 90% depth of discharge.
-P: 3. Find the hold-up capacitance for 1.6 kW, 16 ms, 390 V to 320 V.
-P: 4. How long does 500 µF hold up 1 kW between 400 V and 300 V?
+P: 3. A server supply draws 1.6 kW from its DC bus during hold-up. Find the capacitance for 16 ms, 390 V to 320 V.
+P: 4. How long does 500 µF hold up a 1 kW DC-bus load between 400 V and 300 V?
 P: 5. Why does a double-conversion UPS have no transfer time?
 P: 6. Why does eco mode save energy?
 P: 7. Find the energy released by a 100 F capacitor discharging from 16 V to 8 V.
@@ -55,7 +57,7 @@ P: 9. Find the availability of three independent parallel paths each 99 % availa
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Battery sizing from power, time, and efficiency.
-LI: Hold-up C = 2Pt/(V1² − V2²).
+LI: Hold-up C = 2Pt/(V1² − V2²), where P is average DC-bus input power including downstream conversion loss.
 LI: Availability of redundant paths.
 P: Mostly for exams and deeper study
 LI: Generator transient behavior in detail.
