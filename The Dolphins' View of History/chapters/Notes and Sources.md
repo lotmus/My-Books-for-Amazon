@@ -434,6 +434,8 @@ Afonso I of Kongo’s letter to Portugal, 1526. Afonso I to João III, 25 August
 
 ## 1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left
 
+*The 1876 constitution. *Government of the Ottoman Empire. “The Ottoman Constitution, Promulgated December 23, 1876.” English translation in The American Journal of International Law 2, no. 4, Supplement (1908): 367–387, articles 8 and 11. [Text](https://en.wikisource.org/wiki/Ottoman_constitution_of_1876).
+
 *The empire as a whole, and the Janissary levy. *Finkel, Caroline. [Osman’s Dream: The Story of the Ottoman Empire, 1300–1923](https://openlibrary.org/works/OL8203300W). New York: Basic Books, 2005.
 
 *The fall of Constantinople. *Crowley, Roger. [1453: The Holy War for Constantinople and the Clash of Islam and the West](https://openlibrary.org/works/OL8387090W). New York: Hyperion, 2005.
@@ -753,6 +755,8 @@ Keeling Curve and Mauna Loa measurements. Keeling Curve, Scripps Institution of 
 The 400 ppm threshold in the Mauna Loa record. National Oceanic and Atmospheric Administration, Global Monitoring Laboratory, May 2013. [NOAA report](https://gml.noaa.gov/news/pdfs/7074.pdf)
 
 *Arrhenius’s 1896 calculation. *Arrhenius, Svante. “[On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground](https://doi.org/10.1080/14786449608620846).” Philosophical Magazine 41 (1896): 237–76.
+
+The 2021 heat-related deaths. British Columbia Coroners Service. [Extreme Heat and Human Mortality: A Review of Heat-Related Deaths in B.C. in Summer 2021](https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/death-review-panel/extreme_heat_death_review_panel_report.pdf). 2022.
 
 *The 2021 heat dome. *Philip, Sjoukje Y., et al. “[Rapid Attribution Analysis of the Extraordinary Heat Wave on the Pacific Coast of the US and Canada in June 2021](https://doi.org/10.5194/esd-13-1689-2022).” Earth System Dynamics 13 (2022): 1689–1713.
 

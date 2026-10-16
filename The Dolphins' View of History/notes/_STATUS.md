@@ -12,3 +12,7 @@ Updated 15 Oct 2026 (PT). **Current master:** `The Dolphins' View of History - R
 - Kindle Previewer was not run (desktop control unavailable); inspect the EPUB-ready book on LOTHAR-HP before upload.
 - An outside reader has not reviewed REV4.
 - Decide whether to upload to KDP after those checks.
+
+
+## Follow-up review — 16 Oct 2026
+REV4 received a targeted follow-up based on the independent review: two repeated paragraphs were removed from the dictator survey; the climate chapter now cites British Columbia Coroners Service findings for the 2021 heat dome; the Ottoman chapter adds a short reading of Articles 8 and 11 of the 1876 Constitution with a primary-source citation; and the Timeline now describes Artemis II as a completed mission. The Japanese source/Professor scene, six timeline strips, and descriptive image alt text were already present. Latin America was not expanded because its existing CONADEP-based treatment is already substantial. Repetition check: 2,426 sentences scanned, none repeated. Structural check: 51 Heading 1, 19 images (0 missing descriptions), 365 hyperlinks, 0 tables. LibreOffice rendered 421 pages; edited pages were visually checked. D: copy synced; old active versions preserved under bak/2026-10-16 pre-review-update.

@@ -6,8 +6,6 @@ The entries are not obscure: countries with libraries, universities, cathedrals,
 
 Germany is the entry dolphin scholars open first. By the 19th and early 20th centuries, Germany, a country that had not existed as a single state until 1871, had become one of humanity’s centers of science, philosophy, engineering, music, and industry.
 
-Germany produced Beethoven, Bach, Goethe, Kant, Einstein, and leading universities; by the early twentieth century, the country stood among humanity’s centers of science, engineering, music, and industry.
-
 Defeat in the First World War, a hyperinflation so severe that, by the famous anecdote, the wheelbarrow was worth more than the money in it, and then the Great Depression left a young democracy short of friends and short of patience. Adolf Hitler was appointed chancellor in January 1933, after elections that had made his party the largest in parliament but never gave it a majority, and promptly arranged for there to be no more that mattered. His movement promoted dictatorship, extreme nationalism, racism, persecution, and conquest. Germany’s immense industrial and scientific capabilities were increasingly directed toward war. Many of the country’s finest minds, Einstein among them, fled.
 
 The result was the Second World War, the most destructive conflict in human history. Somewhere between seventy and eighty-five million people died, most of them civilians.
@@ -21,8 +19,6 @@ Japan became a modern power within a lifetime; Italy, heir to Rome and the Renai
 The file has other entries too: Greece lived under a junta (1967–74); Iraq under Saddam Hussein (1979–2003); Cambodia lost between a fifth and a quarter of its people under the Khmer Rouge (1975–79); Portugal was authoritarian from 1926 to 1974. Chile and Argentina’s juntas belong in the Latin America chapter.
 
 Across the file, dolphin historians found a familiar sequence: humiliation, economic collapse, or fear, followed by promises of order, pride, and someone to blame. Courts and newspapers weakened, opposition followed, and emergency became the excuse. Culture offered no immunity; writers and composers did not vote. Historians still debate how much compliance came from conviction and how much from obedience. The record contains both.
-
-The steps were depressingly similar as well. The courts and the newspapers went first. Then the opposition. Then came the emergency, a word dolphin historians have come to dislike. Very little of it required villains who saw themselves that way. Historians still argue how much of it came from ordinary people simply following orders and how much from convinced, willing participants; the record has room for both.
 
 After the war, Germany rebuilt as a democracy and advocate for European cooperation. It even acquired a word for confronting the past: Vergangenheitsbewältigung.
 

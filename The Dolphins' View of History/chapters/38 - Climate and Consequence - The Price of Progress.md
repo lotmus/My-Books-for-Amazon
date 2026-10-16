@@ -8,7 +8,7 @@ On May 9, 2013, NOAA instruments recorded 400.03 parts per million at Mauna Loa,
 
 Since its creation in 1988, the Intergovernmental Panel on Climate Change has issued six assessments, each more confident that human activity is driving accelerating change.
 
-The 2021 Pacific Northwest heat dome took Portland above 46°C (115°F) and Lytton, British Columbia, to 49.6°C (121°F). Fire destroyed most of Lytton the next day. Hundreds died across a region with little air conditioning. Australia’s 2019–20 Black Summer burned an area roughly the size of the United Kingdom.
+The 2021 Pacific Northwest heat dome took Portland above 46°C (115°F) and Lytton, British Columbia, to 49.6°C (121°F). Fire destroyed most of Lytton the next day. British Columbia’s coroner later identified 619 heat-related deaths; most were older adults, and more than half lived alone. Australia’s 2019–20 Black Summer burned an area roughly the size of the United Kingdom.
 
 These were measurements, not forecasts: global temperatures above preindustrial levels, warmer and more acidic oceans, rising seas, ice loss, and widespread coral bleaching. The observational record shows more frequent and severe extremes.
 

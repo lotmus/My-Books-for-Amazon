@@ -1148,7 +1148,7 @@ Religious minorities were governed through local courts and communal privileges 
 
 The capital sat on the Bosphorus, the strait between the Black Sea and the Sea of Marmara, where dolphins still swim alongside the commuter ferries, and the commuters, like the citizens of every capital this book has watched, do not look up.
 
-What Europe’s diplomats called two centuries of decline looked less tidy from inside the empire, which spent that time adapting rather than simply falling. Defeats by Austria and Russia cost it the Balkans piece by piece, Greece won independence in the 1820s, and by the 1850s Europe’s diplomats were calling it the sick man of Europe, a phrase attributed to Tsar Nicholas I, a rival with every reason to write the obituary early. The empire defaulted on its debts in 1875 and handed part of its revenue to European creditors. A first constitution, proclaimed in 1876, was suspended within two years. In 1908 a group of officers, the Young Turks, restored it and then discovered the era’s favorite remedy for an empire of many peoples, which was nationalism, in this case Turkish.
+What Europe’s diplomats called two centuries of decline looked less tidy from inside the empire, which spent that time adapting rather than simply falling. Defeats by Austria and Russia cost it the Balkans piece by piece, Greece won independence in the 1820s, and by the 1850s Europe’s diplomats were calling it the sick man of Europe, a phrase attributed to Tsar Nicholas I, a rival with every reason to write the obituary early. The empire defaulted on its debts in 1875 and handed part of its revenue to European creditors. Its 1876 constitution called all imperial subjects Ottomans “without distinction” of religion in Article 8, then named Islam as the state religion in Article 11. Professor Click-Click-Whoosh set the two articles beside each other: “Equal belonging, with its boundary written into the same document.” The sultan suspended the constitution within two years. In 1908 a group of officers, the Young Turks, restored it and then discovered the era’s favorite remedy for an empire of many peoples, which was nationalism, in this case Turkish.
 
 The empire entered the First World War in late 1914 on Germany’s side. It beat a British and French landing at Gallipoli in 1915, a victory that made a young commander named Mustafa Kemal famous, and in the same year its government began deporting the Armenians of Anatolia. On April 24, 1915, Armenian leaders in Constantinople were arrested; over the following months hundreds of thousands of people were marched into the Syrian desert, where they died of thirst, starvation, and massacre. The toll is usually put near a million, out of an Armenian population of perhaps two million, and Assyrians and Greeks were killed in large numbers as well. The word is genocide, as most scholars of the subject agree, and the word was coined in the 1940s by Raphael Lemkin with this case partly in mind. The Turkish state disputes the term. More than thirty countries, the United States among them, have formally recognized it.
 
@@ -1208,8 +1208,6 @@ The entries are not obscure: countries with libraries, universities, cathedrals,
 
 Germany is the entry dolphin scholars open first. By the 19th and early 20th centuries, Germany, a country that had not existed as a single state until 1871, had become one of humanity’s centers of science, philosophy, engineering, music, and industry.
 
-Germany produced Beethoven, Bach, Goethe, Kant, Einstein, and leading universities; by the early twentieth century, the country stood among humanity’s centers of science, engineering, music, and industry.
-
 Defeat in the First World War, a hyperinflation so severe that, by the famous anecdote, the wheelbarrow was worth more than the money in it, and then the Great Depression left a young democracy short of friends and short of patience. Adolf Hitler was appointed chancellor in January 1933, after elections that had made his party the largest in parliament but never gave it a majority, and promptly arranged for there to be no more that mattered. His movement promoted dictatorship, extreme nationalism, racism, persecution, and conquest. Germany’s immense industrial and scientific capabilities were increasingly directed toward war. Many of the country’s finest minds, Einstein among them, fled.
 
 The result was the Second World War, the most destructive conflict in human history. Somewhere between seventy and eighty-five million people died, most of them civilians.
@@ -1223,8 +1221,6 @@ Japan became a modern power within a lifetime; Italy, heir to Rome and the Renai
 The file has other entries too: Greece lived under a junta (1967–74); Iraq under Saddam Hussein (1979–2003); Cambodia lost between a fifth and a quarter of its people under the Khmer Rouge (1975–79); Portugal was authoritarian from 1926 to 1974. Chile and Argentina’s juntas belong in the Latin America chapter.
 
 Across the file, dolphin historians found a familiar sequence: humiliation, economic collapse, or fear, followed by promises of order, pride, and someone to blame. Courts and newspapers weakened, opposition followed, and emergency became the excuse. Culture offered no immunity; writers and composers did not vote. Historians still debate how much compliance came from conviction and how much from obedience. The record contains both.
-
-The steps were depressingly similar as well. The courts and the newspapers went first. Then the opposition. Then came the emergency, a word dolphin historians have come to dislike. Very little of it required villains who saw themselves that way. Historians still argue how much of it came from ordinary people simply following orders and how much from convinced, willing participants; the record has room for both.
 
 After the war, Germany rebuilt as a democracy and advocate for European cooperation. It even acquired a word for confronting the past: Vergangenheitsbewältigung.
 
@@ -1748,7 +1744,7 @@ On May 9, 2013, NOAA instruments recorded 400.03 parts per million at Mauna Loa,
 
 Since its creation in 1988, the Intergovernmental Panel on Climate Change has issued six assessments, each more confident that human activity is driving accelerating change.
 
-The 2021 Pacific Northwest heat dome took Portland above 46°C (115°F) and Lytton, British Columbia, to 49.6°C (121°F). Fire destroyed most of Lytton the next day. Hundreds died across a region with little air conditioning. Australia’s 2019–20 Black Summer burned an area roughly the size of the United Kingdom.
+The 2021 Pacific Northwest heat dome took Portland above 46°C (115°F) and Lytton, British Columbia, to 49.6°C (121°F). Fire destroyed most of Lytton the next day. British Columbia’s coroner later identified 619 heat-related deaths; most were older adults, and more than half lived alone. Australia’s 2019–20 Black Summer burned an area roughly the size of the United Kingdom.
 
 These were measurements, not forecasts: global temperatures above preindustrial levels, warmer and more acidic oceans, rising seas, ice loss, and widespread coral bleaching. The observational record shows more frequent and severe extremes.
 
@@ -2584,6 +2580,8 @@ Afonso I of Kongo’s letter to Portugal, 1526. Afonso I to João III, 25 August
 
 ## 1299 to Today: The Sublime Porte — The Ottoman Empire and the Map It Left
 
+*The 1876 constitution. *Government of the Ottoman Empire. “The Ottoman Constitution, Promulgated December 23, 1876.” English translation in The American Journal of International Law 2, no. 4, Supplement (1908): 367–387, articles 8 and 11. [Text](https://en.wikisource.org/wiki/Ottoman_constitution_of_1876).
+
 *The empire as a whole, and the Janissary levy. *Finkel, Caroline. [Osman’s Dream: The Story of the Ottoman Empire, 1300–1923](https://openlibrary.org/works/OL8203300W). New York: Basic Books, 2005.
 
 *The fall of Constantinople. *Crowley, Roger. [1453: The Holy War for Constantinople and the Clash of Islam and the West](https://openlibrary.org/works/OL8387090W). New York: Hyperion, 2005.
@@ -2903,6 +2901,8 @@ Keeling Curve and Mauna Loa measurements. Keeling Curve, Scripps Institution of 
 The 400 ppm threshold in the Mauna Loa record. National Oceanic and Atmospheric Administration, Global Monitoring Laboratory, May 2013. [NOAA report](https://gml.noaa.gov/news/pdfs/7074.pdf)
 
 *Arrhenius’s 1896 calculation. *Arrhenius, Svante. “[On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground](https://doi.org/10.1080/14786449608620846).” Philosophical Magazine 41 (1896): 237–76.
+
+The 2021 heat-related deaths. British Columbia Coroners Service. [Extreme Heat and Human Mortality: A Review of Heat-Related Deaths in B.C. in Summer 2021](https://www2.gov.bc.ca/assets/gov/birth-adoption-death-marriage-and-divorce/deaths/coroners-service/death-review-panel/extreme_heat_death_review_panel_report.pdf). 2022.
 
 *The 2021 heat dome. *Philip, Sjoukje Y., et al. “[Rapid Attribution Analysis of the Extraordinary Heat Wave on the Pacific Coast of the US and Canada in June 2021](https://doi.org/10.5194/esd-13-1689-2022).” Earth System Dynamics 13 (2022): 1689–1713.
 
