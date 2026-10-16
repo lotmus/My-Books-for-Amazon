@@ -1,6 +1,6 @@
 # The World Behaves (Mostly)
 
-**Original poems by Seamus O’Leary**
+**Original poems by Kira Vale**
 
 *Working title and opening draft*
 
