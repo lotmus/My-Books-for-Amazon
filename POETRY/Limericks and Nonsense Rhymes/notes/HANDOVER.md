@@ -3,6 +3,7 @@
 ## Current package — REV02
 
 - Author byline: Seamus O'Leary. The name is a nod to Edward Lear. Do not include another author identity or that author's catalog in this edition.
+- About the Author: expanded into an in-character nonsense story, retaining the Lear nod.
 - Book-specific content direction: no personal names are prohibited in this book. Follow the user's choices for names and subjects.
 
 - Manuscript: `Limericks_and_Other_Rhymes_for_People_Who_Should_Know_Better_v2.md`
