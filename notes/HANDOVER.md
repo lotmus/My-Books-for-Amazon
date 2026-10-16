@@ -191,3 +191,18 @@ Checked PR #173 in the parent repository and the independent `NOVELS/Brave New T
 
 The parent repo's PR #173 description says the purpose was to restore missing novel source and keep it synced; the embedded `.claude/worktrees/twin-status-594e8a` inside the nested repo is what makes that fork appear to contain every book. Do not confuse that embedded copy with the current REV5 book directory or with the parent repo PR.
 
+
+
+## Shared-checkout uncommitted entries grouped by book — 2026-10-16
+Grouped the current 660 porcelain entries in the shared checkout by path. Largest groups:
+
+- `NOVELS/Look First - SERIES`: 194 entries, all deletions at this old location. A relocated `SCIENCE  Series/Look First - SERIES/` tree is untracked and contains a complete copy; earlier comparison found 138 matching/56 different tracked files, so this is not a safe blanket move.
+- `EE, Actually  Series/chapters`: 173 entries (166 modifications, 7 untracked groups); plus 51 more entries across root-level export DOCX/EPUB and notes. This is a multi-book series-wide source/export update, not a single-book delta.
+- `The Dolphins' View of History/chapters`: 122 entries (75 deletions, 26 modifications, 21 untracked groups); the new REV4 DOCX and chapters are mixed into this area. Requires full release/version review.
+- `NOVELS/The Digital  Twin`: 65 tracked deletions; relocated nested Book 1 files and the separate Brave New Times repo exist elsewhere. Prior comparison found substantial mismatch, so do not restore/delete wholesale.
+- `SCIENCE  Series/Science Sparks`: 18 entries (including a REV5 candidate).
+- `NOVELS/Lolly Wren's Curious Science Adventures - SERIES`: 5; `HOW TO  Series/Your First YouTube Channel That Rocks`: 4; Bavarian Cooking: 2.
+- Remaining status entries include direct book exports, series metadata, and added relocated directories. Several root-level REV files may overlap with material already present on origin/main or in book worktrees; status alone cannot decide which copy is newest.
+
+The old-location deletions plus untracked relocated trees explain much of the shared checkout's apparent churn. Do not commit the whole checkout: it mixes at least Look First, the Digital Twin, EE Books 1–9, Dolphins, Science Sparks, Poetry and other books. No moves or staging were made.
+
