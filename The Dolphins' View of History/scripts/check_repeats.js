@@ -1,6 +1,7 @@
 // Checks the built book for repeated sentences (Lothar's rule, 2026-10-04: no sentence appears twice anywhere in
-// the book). Run after a build, from anywhere: node scripts/check_repeats.js [folder-of-docx]
-// It reads chapters/*.docx and reports, outside the deliberate devices listed in ALLOWED:
+// the book). Run after a build, from anywhere: node scripts/check_repeats.js [master.docx|folder-of-docx]
+// By default it reads the REV4 master; passing a folder keeps the legacy per-chapter mode.
+// It reports, outside the deliberate devices listed in ALLOWED:
 //   1. exact duplicate sentences of three or more words,
 //   2. runs of seven or more words shared by two places,
 //   3. near-duplicate sentences (word-order similarity of 0.7 or more, eight or more words each),
@@ -11,7 +12,7 @@ const path = require("path");
 process.chdir(path.join(__dirname, ".."));
 const JSZip = require("jszip");
 
-const DIR = process.argv[2] || "chapters";
+const INPUT = process.argv[2] || "The Dolphins' View of History - REV4.docx";
 const SKIP_FILES = [/^Also by/];            // a list of titles
 const NOTES_FILE = /^Notes and Sources/;    // citations: entry-level check only
 const RUN = 7;                              // words in a shared run
@@ -45,8 +46,18 @@ function sentences(text) {
 async function paragraphs(file) {
   const zip = await JSZip.loadAsync(fs.readFileSync(file));
   const xml = await zip.file("word/document.xml").async("string");
-  return xml.split("</w:p>").map(p =>
-    decode([...p.matchAll(/<w:t(?:\s[^>]*)?>([^<]*)<\/w:t>/g)].map(m => m[1]).join(""))).filter(Boolean);
+  const styleXml = await zip.file("word/styles.xml").async("string");
+  const styleNames = new Map();
+  for (const node of styleXml.match(/<w:style\b[\s\S]*?<\/w:style>/g) || []) {
+    const id = node.match(/w:styleId="([^"]+)"/);
+    const name = node.match(/<w:name\b[^>]*w:val="([^"]+)"/);
+    if (id && name) styleNames.set(id[1], decode(name[1]));
+  }
+  return (xml.match(/<w:p(?:\s[^>]*)?>[\s\S]*?<\/w:p>/g) || []).map(p => {
+    const styleId = p.match(/<w:pStyle\b[^>]*w:val="([^"]+)"/);
+    const text = decode([...p.matchAll(/<w:t(?:\s[^>]*)?>([^<]*)<\/w:t>/g)].map(m => m[1]).join(""));
+    return { text, style: styleId ? (styleNames.get(styleId[1]) || styleId[1]) : "Normal" };
+  }).filter(p => p.text);
 }
 
 const allowed = k => ALLOWED.some(a => k.includes(a));
@@ -61,19 +72,27 @@ function lcsRatio(a, b) {
 }
 
 (async () => {
-  const files = fs.readdirSync(DIR).filter(f => f.endsWith(".docx") && !SKIP_FILES.some(r => r.test(f))).sort();
+  const isFile = fs.existsSync(INPUT) && fs.statSync(INPUT).isFile();
+  const masterMode = isFile;
+  const DIR = masterMode ? path.dirname(INPUT) : INPUT;
+  const files = masterMode ? [path.basename(INPUT)] : fs.readdirSync(DIR)
+    .filter(f => f.endsWith(".docx") && !SKIP_FILES.some(r => r.test(f))).sort();
   const rows = [];      // {loc, text, k, w}
   const notes = [];     // {loc, k}
   for (const f of files) {
-    const label = /^\d\d - /.test(f) ? f.slice(0, 2) : f.slice(0, 14).trim();
+    const label = masterMode ? "REV4" : (/^\d\d - /.test(f) ? f.slice(0, 2) : f.slice(0, 14).trim());
     const paras = await paragraphs(path.join(DIR, f));
+    const notesStart = masterMode ? paras.findIndex(p => p.style === "Heading 1" && p.text.trim() === "Notes and Sources") : -1;
     paras.forEach((p, i) => {
-      if (i === 0) return;   // the chapter heading
-      if (NOTES_FILE.test(f)) { notes.push({ loc: `${label}:${i}`, k: key(p), text: p }); return; }
-      for (const s of sentences(p)) rows.push({ loc: `${label}:${i}`, text: s, k: key(s), w: words(key(s)) });
+      if (!masterMode && i === 0) return;   // the chapter heading
+      if (masterMode) {
+        if (i >= notesStart && p.style === "Note Entry") { notes.push({ loc: `${label}:${i}`, k: key(p.text), text: p.text }); return; }
+        if (i >= notesStart || !["Body Text", "Normal"].includes(p.style)) return;
+      } else if (NOTES_FILE.test(f)) { notes.push({ loc: `${label}:${i}`, k: key(p.text), text: p.text }); return; }
+      for (const s of sentences(p.text)) rows.push({ loc: `${label}:${i}`, text: s, k: key(s), w: words(key(s)) });
     });
   }
-  console.log(`${files.length} files, ${rows.length} sentences scanned (plus ${notes.length} notes entries)`);
+  console.log(`${masterMode ? "master" : `${files.length} files`}, ${rows.length} sentences scanned (plus ${notes.length} notes entries)`);
   let flagged = 0;
 
   // 1. exact duplicates

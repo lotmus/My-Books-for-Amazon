@@ -1,0 +1,51 @@
+PART: Part III. EMC, Simulation, and Test
+H1: Chapter 21. Why a Board Radiates
+P: A board with a fast clock radiates without needing a transmitter section. Two milliamperes of a clock harmonic around a fingernail-sized loop can put the field within a dozen decibels of the legal limit at three metres. The chamber reports the field, not the designer's intentions.
+P: Where you meet this: Every product's FCC or CE emissions report, every 'mystery peak' in a pre-compliance scan, and every hobby project in which an OLED on jumper wires or a fast SPI bus makes a nearby FM radio hiss.
+P: No one designs a circuit board to be an antenna, but every board with a fast clock is one. If a package harmonic couples into a co-located receiver band, it can desensitize the radio and consume the link margin calculated in Book 4, Chapter 30; the loss of usable throughput then appears in the communications system Book 5 develops. The EMC report is a separate test, and still has to pass. A current that flows out along a trace and back along its return forms a loop, and a loop carrying a changing current radiates. This chapter derives how strongly, shows why the field grows with the square of frequency, and explains why the harmonics of a clock, not the clock itself, are usually what fails a test. Antenna theory proper is Book 4's; here the antenna is an accident to be made small.
+P: Reality check. The small-loop equation assumes a known current and loop area. Fabrication changes the loop through plane clearances, via placement, and cable attachment; laminate properties move resonances as well. A missing return via can turn an intended signal path into a common-mode source, so the ideal estimate is a screening calculation. Chapters 5 and 28 show the checks that decide whether the board has margin.
+H2: 21.1 The small loop
+P: A loop much smaller than a wavelength, carrying a current I around an area A, radiates a far field proportional to f²AI/r. Ott gives a practical form for a loop above a ground plane, including the ground reflection that the measurement method of Chapter 25 deliberately includes: E ≈ 263 × 10⁻¹⁶ f²AI/r volts per meter, with f in hertz, A in square meters, I in amperes, and r in meters. Three of the four quantities are under the designer's control. Area is set by layout: how far a trace runs from its return. Current is set by the drivers and their loads. Frequency is set by the signals, and since every edge contains high harmonics, by the rise time.
+EQ: E ≈ 263 × 10⁻¹⁶ f² A I / r   (V/m)
+H2: Worked Example 21.1
+P: Problem. A 25 MHz clock has a 100 MHz harmonic current of 2 mA flowing around a loop of 2 cm². Find the field at 3 m and compare it with the FCC Class B limit there. Then find the field of the fundamental with the same current.
+P: Solution. E = 263 × 10⁻¹⁶ × (10⁸)² × 2 × 10⁻⁴ × 2 × 10⁻³ / 3 = 3.51 × 10⁻⁵ V/m, or 30.9 dBµV/m. The FCC Class B limit from 88 to 216 MHz at 3 m is 150 µV/m, 43.5 dBµV/m, so the margin is 12.6 dB. At 25 MHz with the same current, the field is (25/100)² = 1/16 as large, 24.1 dB lower, 6.8 dBµV/m. The harmonic radiates sixteen times more for the same current, which is the anchor number of this book.
+P: Key idea. A small current loop radiates in proportion to its area, its current, and the square of the frequency. Halve the area and the field falls by 6 dB; the harmonics of a clock radiate far more efficiently than the clock itself.
+H2: 21.2 The spectrum of a clock
+P: A clock is a trapezoidal wave, and its spectrum has two corners. Up to f1 = 1/(πτ), with τ the pulse width, the harmonic amplitudes are flat; between f1 and f2 = 1/(πtr), with tr the rise time, they fall at 20 dB per decade; above f2 they fall at 40 dB per decade. A perfect 50% duty cycle would contain only odd harmonics, but real clocks have small duty-cycle errors and unequal rise and fall times, so even harmonics such as the fourth appear, weaker than the odd ones but rarely negligible. Because the loop's radiation rises at 40 dB per decade, multiplying a spectrum that falls at 20 dB per decade gives net growth up to f2: for a 1 ns edge, f2 = 318 MHz, so the worst radiated harmonics usually lie in the hundreds of megahertz.
+EQ: f1 = 1/(πτ),   f2 = 1/(π tr)
+FIG: fig21_1.png | Figure 21.1 — Radiated envelope of a 25 MHz clock: the loop factor f² adds 40 dB/decade to a trapezoid spectrum that is flat to f₁ = 15.9 MHz, falls at 20 dB/decade to f₂, and at 40 above. With 1 ns edges (f₂ = 318 MHz) the field keeps rising to 318 MHz; 3 ns edges (106 MHz) flatten it a factor of three earlier. | Log-log envelope of relative field against frequency: rising steeply to 15.9 megahertz, then more slowly; the 1 nanosecond curve keeps rising to 318 megahertz, the 3 nanosecond curve levels off at 106 megahertz.
+H2: Worked Example 21.2
+P: Problem. A 25 MHz clock has a 50% duty cycle and 1 ns edges. Find its two spectral corners and describe the radiated field from a fixed loop between them.
+P: Solution. The pulse width is 20 ns, so f1 = 1/(π × 20 ns) = 15.9 MHz, below the fundamental, and f2 = 1/(π × 1 ns) = 318 MHz. Between them the current spectrum falls at 20 dB per decade while the loop's efficiency rises at 40 dB per decade, so the radiated field rises at 20 dB per decade up to about 318 MHz and then stays roughly flat. Slowing the edge to 3 ns lowers f2 to 106 MHz and pulls down every harmonic above it, which is why slew-rate control is a cheap first fix.
+H2: 21.3 What the designer controls
+P: The cures follow from the formula. Keep high di/dt loops small: route every fast signal over an unbroken return plane so the return current flows directly beneath it, making the loop area the trace length times its height above the plane, a fraction of a millimeter. Never cut a slot in the plane under a fast trace, because the return must then detour around the slot and the loop area grows by orders of magnitude. Use the slowest edges the timing allows, and spread-spectrum clocking where the protocol tolerates it. Filter every signal that leaves the board, because the next chapter shows that a cable is a far better antenna than any loop on the board.
+H2: 21.4 Slots, seams, and heat sinks that resonate
+P: An enclosure seam or a ventilation slot is also an antenna. By Babinet's principle a thin slot of length L in a metal sheet radiates like a dipole of the same length, and it resonates when L is half a wavelength. A 15 cm seam therefore resonates near 1 GHz and passes almost everything at that frequency. Below resonance, a slot attenuates roughly as SE ≈ 20 log₁₀(λ/2L), so the longest dimension of an opening, not its area, sets the shielding. A row of small holes shields far better than one long slot of the same open area, and gasketed seams with fasteners every few centimeters keep the longest gap short.
+P: Heat sinks give the same trouble from the other side. A heat sink bolted to a switching transistor couples to the switching node through the device's tab capacitance, and a fin assembly of length L acts as a monopole that resonates at a quarter wavelength. Grounding the heat sink to the return plane at several points, or using an insulating pad with a grounded shield layer, moves that resonance out of the band or removes the drive.
+EQ: f_res = c / 2L  (slot),    SE ≈ 20 log₁₀(λ / 2L)  for L < λ/2
+H2: Worked Example 21.3
+P: Problem. An enclosure has a 15 cm seam. Find its resonant frequency and its shielding effectiveness at 300 MHz. What is the shielding at 300 MHz if fasteners limit the longest gap to 3 cm?
+P: Solution. f_res = 3 × 10⁸ / (2 × 0.15) = 1.0 GHz. At 300 MHz, λ = 1 m, so SE ≈ 20 log₁₀(1/0.3) = 10.5 dB, which is little protection. With the gap limited to 3 cm, SE ≈ 20 log₁₀(1/0.06) = 24.4 dB, about 14 dB better, and the resonance moves up to 5 GHz.
+H2: 21.5 The reader lab on jumper wires
+H2: Worked Example 21.4
+P: Problem. The reader lab's OLED display is wired to the ESP32-S3 with 10 cm jumper wires, and its SPI clock leaves a 250 MHz harmonic current of 0.5 mA around a 3 cm² loop between the clock wire and its ground wire. Find the field at 3 m and the margin against FCC Class B. How much lower would the same current be on a board, 0.2 mm above its ground plane, with a 6 cm trace?
+P: Solution. E = 263 × 10⁻¹⁶ × (2.5 × 10⁸)² × 3 × 10⁻⁴ × 0.5 × 10⁻³/3 = 8.2 × 10⁻⁵ V/m, 38.3 dBµV/m, 7.7 dB below the 46.0 dBµV/m limit from 216 to 960 MHz. On the board the loop is 6 cm × 0.2 mm = 0.12 cm², 25 times smaller, so the field falls by 20 log₁₀ 25 = 28.0 dB. Loose jumpers also carry common-mode current, Chapter 22's subject, which usually makes them worse than this estimate. A home-built project that is not marketed falls under FCC Part 15's rules for home-built devices, but a nearby FM or DAB radio will still complain.
+P: Loops, slots, and heat sinks are the small antennas. Chapter 22 turns to the large ones, the cables attached to every product.
+BENCH: Find the loop: trace each fast signal's current out and back and shrink the area it encloses. A reference plane directly under the trace is worth more than any filter. Slow the edges to what the timing allows, because the field above f₂ falls with them. Keep the reader lab's display and sensor wiring short and twisted with its ground, or move it onto a board.
+H2: Practice
+P: 1. Find the field at 3 m from a 1 cm² loop carrying 5 mA at 200 MHz.
+P: 2. By how many decibels does the field change if the loop area is cut from 4 cm² to 1 cm²?
+P: 3. A 50 MHz clock has 2 ns edges. Find f2.
+P: 4. How many decibels more does the 150 MHz harmonic of a 50 MHz clock radiate than the fundamental with the same current?
+P: 5. The ESP32-S3's 40 MHz crystal leaves an 80 MHz harmonic current of 2 mA around a 2 cm² loop. Find the field at 3 m and the margin against FCC Class B.
+P: 6. Why does a slot in the ground plane under a clock trace increase radiation?
+P: 7. Find the resonant frequency of a 10 cm slot.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: E ≈ 263 × 10⁻¹⁶ f² A I/r for a small loop.
+LI: dBµV/m conversions.
+LI: Trapezoid spectrum corners f₁ and f₂.
+LI: Slot resonance c/2L.
+P: Mostly for exams and deeper study
+LI: Full-wave radiation of a complete board.

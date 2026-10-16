@@ -3,34 +3,32 @@ The Murder That Hadn't Happened Yet
 Status as of 15 October 2026 (PT)
 
 CURRENT STATUS
-REV17 is a release candidate, not a published or approved release. REV14 remains the release master. REV17 adds the back-cover panel as the final ebook page; the separate REV17 EPUB also includes it. Do not upload until the author-side preview and cover decision are complete.
+REV14 remains the preserved release master. REV17 is the newest release candidate and current working pair; it is not approved or published. Continuity and editorial review is complete; see notes/WORK_QUEUE.md for the remaining preview, metadata, and author-side decisions. Do not upload until those remaining checks and decisions are complete.
 
-FILES
-- Manuscript candidate: FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
+CURRENT FILES
+- Candidate manuscript: FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
 - Paired editable source: scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt
-- Kindle upload candidate: The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub
-- KDP description: kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt; exact copy is also in KDP_METADATA.txt
-- Back-cover panel: Kindle Back Cover.jpg is the final page of the REV17 ebook; it uses the full panel with no barcode area. The old, misleading panel is retained in bak/ and must not be used.
-- Marketing cover: Kindle Front Cover.jpg
-- Release master preserved: FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
+- Reflowable EPUB: The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub
+- Builders: scripts/rebuild_kindle_REV17.py and scripts/build_epub_REV17.py
+- Listing copy: kdp_description.docx (synced to the REV17 candidate); versioned text/DOCX are retained beside it
+- Marketing cover: Kindle Front Cover.jpg; internal back-cover page: Kindle Back Cover.jpg
+- Preserved release master: FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
 
-COMPLETED IN THIS CANDIDATE
-☑ Front cover appears once as an internal first page; title page follows it.
-☑ Back-cover panel appears as the final page in the REV17 DOCX and begins on a fresh page in the EPUB; no barcode space is reserved.
-☑ Welcome note tells readers no physics background is needed and lessons are optional.
-☑ Linked contents, chapter/course headings, six science figures with alt text, and back matter included.
-☑ Internal link targets and DOCX package integrity checked; all 138 internal links resolve, and all seven embedded images have alt text.
-☑ Static 150-page render checked; contents fit on one page and no non-cover page is stranded with a single line.
-☑ KDP description corrected so it does not imply Sophie is in danger; its age guidance and no-prior-physics note match the book.
-☑ Suggested categories avoid Time Travel: Hard Science Fiction; Mystery > Private Investigators; Humorous Science Fiction.
+COMPLETED / RECORDED
+- REV17 contains a welcoming note: no physics background is needed; optional material is for curiosity sparked by the story.
+- Age guidance in the REV17 description: 14+; strong readers aged 12–13 may enjoy with adult support for denser physics discussions.
+- The EPUB's final spine item contains the back-cover image; it is laid out as a full final page without a barcode area.
+- Version cleanup completed 15 Oct 2026; see notes/WORK_QUEUE.md. Superseded snapshots are in bak/ and must not be committed.
 
 REMAINING BEFORE UPLOAD
-☐ External marketing cover: current JPEG is 1152 x 1728 px (RGB, 0.85 MB). It is below KDP's 1600 x 2560 recommendation. Create/export from an appropriately high-resolution source; do not merely stretch the existing file. Check title and byline at thumbnail size and compare them to the KDP listing.
-☐ Open the REV17 EPUB in Kindle Previewer or KDP's online previewer. Inspect the internal front cover, final back-cover page, linked navigation, figures, course equations, and chapter starts on phone/tablet/e-ink layouts. Resolve conversion defects and re-upload the final file if changed.
-☐ Author decides publication date, price, KDP Select enrollment, and whether to use optional author photo/newsletter links.
-☐ In the KDP account, confirm title, subtitle, series name/number, primary author plus contributor, language, age range, keywords, categories, and description.
-☐ Answer the current KDP AI-content disclosure based on the book and cover creation history.
-☐ After publication, verify the live Amazon detail page and series page.
+[x] Complete continuity and editorial review; report: notes/CONTINUITY_EDITORIAL_REVIEW_20261015.md. Correct the stale Tuppence timeline and REV15/REV16 status references in the series notes and RIB agent instructions. No story-text continuity correction was needed.
+[ ] Open the actual REV17 EPUB in Kindle Previewer. Inspect phone/tablet/e-ink layouts, orientations and font sizes: cover, navigation, figures, equations, chapter starts, links, and final back-cover page. Resolve conversion issues and preview the final rebuilt file again.
+[ ] Review external cover at thumbnail size. Current JPEG is 1152 x 1728 px, RGB; KDP recommends 1600 x 2560 px. If re-exporting, use source artwork; do not stretch the existing JPEG.
+[ ] In KDP, verify title, subtitle, series/number, author and contributor, language, age range, keywords, categories, and description.
+[ ] Author decides publication date, price, KDP Select, and optional author photo/newsletter links. Current price and Select suggestions are proposals only.
+[ ] Answer KDP's AI-content disclosure based on how the manuscript and images were created.
+[ ] Confirm whether Physics, Actually is publicly available under the title named in Book 1's back matter.
+[ ] After publication, verify the live Amazon detail page and series page.
 
 METADATA
 Title: The Murder That Hadn't Happened Yet
@@ -39,8 +37,4 @@ Series: The Relativistic Investigation Bureau, Book 1
 Primary author: Lothar J. Musiol
 Contributor: Spezala Genara Relavi (Author)
 Age guidance: 14+; strong readers aged 12–13 may enjoy with adult support for denser physics discussions.
-Description, seven keywords, and proposed categories: KDP_METADATA.txt
-Pricing and KDP Select enrollment are proposals, not author decisions.
-
-CURRENT KDP FILE GUIDANCE
-KDP accepts DOC/DOCX, EPUB and KPF among other formats; check DOCX conversion in Kindle Previewer ([supported formats](https://kdp.amazon.com/en_US/help/topic/G200634390/)). KDP recommends a separate RGB JPEG marketing cover at 1600 x 2560 px ([cover guidance](https://kdp.amazon.com/en_US/help/topic/G6GTK3T3NUHKLEFX)).
+Description, keywords, categories, and launch proposals: KDP_METADATA.txt. Verify all fields in the KDP account before upload.

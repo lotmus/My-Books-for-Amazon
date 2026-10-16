@@ -1,27 +1,24 @@
 # Book summary — The Relativistic Investigation Bureau, Book 1: "The Murder That Hadn't Happened Yet"
 
-## Current state (15 October 2026)
-
-The current manuscript candidate is REV17: `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`, paired with `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` and `The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`. The EPUB places `Kindle Back Cover.jpg` on the final page with no barcode area. `FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx` remains the release master pending author approval; REV17 is not approved or published. The current KDP copy is `kdp_description_REV17_RELEASE_CANDIDATE.txt` and its matching DOCX. Build the DOCX with `scripts/rebuild_kindle_REV17.py` and the EPUB with `scripts/build_epub_REV17.py`. Historical revision notes below document prior states and do not override these current paths.
-
 Read this first. Only open the full manuscript for things that genuinely need it — continuity checks, exact wording, placing new content. Check `git log` before re-running any mechanical audit; it may already be done.
 
 ## Canonical file
 
-Folder (since the 2 Oct 2026 sort): `Book 1 - The Murder That Hadnt Happened Yet/` holds the release master, current candidate, and KDP files; `scripts/` holds the REV16 and REV17 builders and sources, plus `build_epub_REV17.py` and `figures/`; `notes/` holds this file and the launch notes; `bak/` holds superseded files. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. Lives in the `lotmus/My-Books-for-Amazon` monorepo at `The Relativistic Investigation Bureau - SERIES/` (branch `main`).
+Current release state (15 Oct 2026): REV14 remains the preserved release master; REV17 is the newest release candidate and current working pair (`scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`, `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`, and `The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`). The paired REV17 builders are `scripts/rebuild_kindle_REV17.py` and `scripts/build_epub_REV17.py`. The current canonical listing copy is `kdp_description.docx`; its versioned REV17 source remains alongside it. REV17 still needs fresh continuity/editorial review and Kindle Previewer review before release.
+
+The Book 1 work queue is `notes/WORK_QUEUE.md`; use it for next actions and release blockers. Superseded versions through REV17 are archived under `bak/superseded-through-REV17-2026-10-15/`. Preserve the REV14 master and all unique source, figure, reference, and production files. Do not stage or commit `bak/`.
+
+Folder: `Book 1 - The Murder That Hadnt Happened Yet/` holds the manuscript and KDP materials; `scripts/` holds the active REV17 source/build files and figures; `notes/` holds canon, status, and queue; `bak/` holds superseded snapshots. Series notes (seam, bibles) are in the series `notes/`. Demo URL: `https://lotmus.github.io/relativistic-site/`. The canonical repository is the `lotmus/My-Books-for-Amazon` monorepo.
 
 A separate copy exists under `WORD/` (originally `D:\...\WORD`, its own independent git repo, no remote). **Not canonical.**
 
-`bak/` — pre-git backup archive. Do not touch.
-
 `CHARACTER_AND_SETTING_BIBLE.md` — looks/sound/smell/attitude for the main cast and key settings, compiled from what's actually in the manuscript. Check here before writing new descriptive material for an existing character so it stays consistent.
-
 ## Structure
 
 - Front matter → PROLOGUE → 16 Chapters (fiction) → EPILOGUE → Coming Next (YESTERDAY sting) → COURSE
 - APPENDIX: 16 Lessons. Forward arrows follow the **physics object**, not matching integers (Ch3→L2, Ch5→L3, Ch6→L5 … Ch16→L15; Epilogue has a formal `-> Lesson 16` after the kettle, plus the skip-line after Coming Next). Reverse arrows match the object (L1→Ch1, L3→Ch5, L4→Ch4, L16→Epilogue).
 - Back matter: SUMMARY, Glossary, About the Author, Further Reading (start-here list), Acknowledgements, Bibliography (17 real, verified books — never fabricate citations).
-- `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt` — current candidate source. Rebuild with `scripts/rebuild_kindle_REV17.py`; do not use the stale `manuscript_text.txt` export.
+- `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt` is the current candidate source. Keep it paired with the REV17 DOCX and EPUB; do not treat the REV14 release master as superseded.
 - `kdp_description.docx` — the actual Amazon product listing copy. Keep it free of anything but the sales description itself.
 - Companion interactive physics demos live at `https://lotmus.github.io/relativistic-site/` (`github.com/lotmus/relativistic-site`). The book's hyperlinks (front matter + Lessons 2, 5, 15) point at that live Pages URL.
 
@@ -87,7 +84,7 @@ Check `git log` for the detailed history before assuming any of this needs redoi
 
 ## Keep-and-reassign pass — 2026-09-29
 
-Current candidate source is `scripts/manuscript_text_REV16_RELEASE_CANDIDATE.txt`. Rebuild the candidate DOCX with `scripts/rebuild_kindle.py`.
+Working file is `manuscript_text.txt`. Rebuild Kindle with `rebuild_kindle.py`.
 
 What moved, not cut:
 - How to Read no longer solves the drawer. Sherlock dump left the Prologue; marine/mackerel lives at the Ch5 consultant note after "Sherlock who?"

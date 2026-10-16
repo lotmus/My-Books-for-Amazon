@@ -1,0 +1,222 @@
+================================================================================
+KINDLE DIRECT PUBLISHING (KDP) METADATA
+The Murder That Hadn't Happened Yet
+Book 1: The Relativistic Investigation Bureau Series
+================================================================================
+
+[Updated 15 Oct 2026 (PT). The manuscript is now the REV17 release candidate; REV14 remains the release master. REV17 adds the back-cover panel as the final ebook page and has paired DOCX and EPUB files. The revised KDP description is also REV17. The candidate is not approved or published. Final release still needs the high-resolution front cover, author-side Kindle preview, and publication decisions.]
+
+TITLE
+The Murder That Hadn't Happened Yet
+
+SUBTITLE (Optional - use in marketing materials)
+A Relativistic Investigation Bureau Mystery
+
+AUTHOR NAME
+Decided by Lothar on 2 Oct 2026: both names appear, as
+"Lothar J. Musiol writing as Spezala Genara Relavi".
+- Front cover and Audible cover: "Lothar J. Musiol / writing as Spezala Genara
+  Relavi (S.G.R.)" (front) and "LOTHAR J. MUSIOL / WRITING AS SPEZALA GENARA
+  RELAVI" (Audible). Back cover About the Author starts "Lothar J. Musiol
+  writing as Spezala Genara Relavi (allegedly)."
+- Title pages of Book 1 and Book 2: "By Lothar J. Musiol / writing as Spezala
+  Genara Relavi (S.G.R.)".
+- KDP fields: Author (primary) = Lothar J. Musiol. Contributors: add Spezala
+  Genara Relavi with the role "Author". KDP's name fields take a name only, so
+  the words "writing as" stay on the cover and title page, not in the field.
+  Use the same two entries for Book 2.
+
+SERIES INFORMATION
+Series: The Relativistic Investigation Bureau
+Series Position: Book 1
+Series Name on KDP: "The Relativistic Investigation Bureau"
+
+================================================================================
+CATEGORIES (KDP now allows 3)
+================================================================================
+
+[Revised 10 Oct 2026 (PT). Time Travel dropped: nobody travels in time, and
+the book says so; readers who buy it for time travel would feel misled.
+Derek is a paid investigator, so Private Investigators fits better than
+Amateur Sleuth, and the humour earns its own shelf.]
+1. Fiction > Science Fiction > Hard Science Fiction
+2. Fiction > Mystery, Thriller & Suspense > Mystery > Private Investigators
+3. Fiction > Science Fiction > Humorous
+(Category names in the picker change from time to time; choose the nearest match.)
+
+================================================================================
+KEYWORDS (7 keywords/phrases - comma separated for KDP)
+================================================================================
+
+[Revised 15 Oct 2026 (PT): no keyword repeats a category or the title
+(KDP indexes those already), no misleading time-travel claim, each under
+50 characters.]
+
+physics mystery novel, einstein relativity fiction, funny british detective agency, clock discrepancy mystery, father daughter mystery london, clever comic science fiction, mystery with a dolphin detective
+
+[INDIVIDUAL KEYWORDS FOR RESEARCH:]
+1. physics mystery novel
+2. einstein relativity fiction
+3. funny british detective agency
+4. clock discrepancy mystery
+5. father daughter mystery london
+6. clever comic science fiction
+7. mystery with a dolphin detective
+
+================================================================================
+KINDLE BLURB (Book Description for KDP Store Page)
+[280 words, under KDP's 4,000-character limit. COPY EXACTLY.]
+================================================================================
+
+[This REV17 description is mirrored exactly in
+kdp_description_REV17_RELEASE_CANDIDATE.docx and .txt. It avoids implying
+Sophie is in danger, accurately describes the clock in the photograph, and
+states that no physics background is needed.]
+
+A MURDER THAT HASN'T HAPPENED YET.
+A photograph dated tomorrow.
+And his daughter, paused in the doorway.
+
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email saying that he has been murdered. It is polite, precise, and signed by Derek himself. The attached photograph shows him face-down on his office floor. A brass clock reads 11:03 — tomorrow, according to the email. In the doorway behind him, his twelve-year-old daughter is caught mid-step.
+
+The clocks disagree.
+The universe disagrees.
+The paperwork, unfortunately, does not.
+
+Derek has until 11:03 the next morning to find out who — or what — filed his death. Special relativity cannot explain the case. General relativity cannot either. With his sharp-tongued cousin Penny, his hyper-literal colleague Trevor, and a physicist who suspects time may not be fundamental, Derek follows the evidence through a mystery built from clocks, frames of reference, and one very ordinary cucumber.
+
+For readers who loved the “wait, WHAT” of Arrival or Tenet, but wanted it funnier, more British, and solvable with an ordinary cucumber.
+
+If you cannot trust time, can you trust what you think has already happened to the people you love?
+
+The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau: a mystery with real physics, dry jokes, and a case solved by reading the clocks properly. No physics background is needed to follow the story. Sixteen short, optional lessons at the back explain the real relativity behind its clues for readers whose curiosity the story sparks.
+
+Recommended for readers aged 14 and up. Strong readers aged 12 to 13 may also enjoy the mystery, with adult support for the denser physics discussions.
+
+================================================================================
+PRICING & ENROLLMENT
+================================================================================
+
+RECOMMENDED LAUNCH PRICE: $3.99 USD
+
+AMAZON KDPAGE PRICING:
+USD: $3.99
+GBP: £3.15 (auto-calculated)
+EUR: €3.79 (auto-calculated)
+CAD: $5.29 (auto-calculated)
+AUD: $6.49 (auto-calculated)
+
+KINDLE UNLIMITED ENROLLMENT: YES (90-day launch window)
+- Recommends KU Select enrollment for first 90 days to maximize visibility
+- After 90 days, re-evaluate and consider wider distribution
+
+ROYALTY RATE: 70% (requires price $2.99-$9.99)
+
+================================================================================
+AUTHOR BIOGRAPHY (for Author Central / the KDP author page)
+================================================================================
+[Written 1 Oct 2026 from the book's own About the Author page, so the facts
+and pronouns match it: Spezala Genara Relavi is "she", Lothar J. Musiol is
+"he". The old draft had "they", a "[relevant field]" blank, and a "describe
+the crime precisely enough and you might prevent it" line that is not the
+Bureau's principle in the book. Both names are used (decided 2 Oct 2026),
+so keep both paragraphs.]
+
+Spezala Genara Relavi (S.G.R.) is the alleged author of The Relativistic Investigation Bureau series. She has never been formally accused of understanding General Relativity, though several of her fictitious colleagues maintain that she does. She divides her time between London, Munich, and a small pink filing cabinet labelled PRE-TRANSFORMATION / DO NOT OBSERVE. She has not yet been murdered, although she understands this may be subject to change without further notice.
+
+Lothar J. Musiol is German by birth and American by choice, and he writes in British because he regards it as the most awkward American dialect. For exactly that reason he is a staunch aficionado of British films such as Four Weddings and a Funeral. The preposterous accent, however, was inspired by Love Actually, in which a daft sod named Colin Frissell flies to America and has a conversation in a bar before arriving at the true purpose of his travels. The author found that eye-opening and still hopes to get there one day, if he keeps up his admittedly naff British long enough.
+
+A graduate of Munich University of Applied Sciences, he spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+
+The Murder That Hadn't Happened Yet is Book 1.
+
+[OPTIONAL, only if they exist: author website / newsletter link. KDP does not require either. Leave out rather than print a placeholder.]
+
+================================================================================
+CONTENT WARNINGS / CONTENT NOTES (OPTIONAL)
+================================================================================
+
+Content: No on-page death or violence. The murder is foretold by a photograph and never happens. Mild language (e.g. "my arse"), a parent fearing for a child, and some innuendo played for laughs.
+Suggested age: 14+. Strong readers aged 12 to 13 may enjoy the mystery with adult support for the denser physics discussions. No physics background is needed to follow the case; the equations are in the optional course.
+(KDP has no content-rating field for ebooks. Its only content question is whether the book is sexually explicit: answer No.)
+
+================================================================================
+PUBLICATION DATE
+================================================================================
+
+Release Date: [DECISION FOR LOTHAR]. You can publish now or set a pre-order date up to a year out.
+Format: Kindle eBook
+Language: English (KDP has a single "English" option; the book uses British spelling throughout, which is fine)
+
+================================================================================
+KDP LISTING CHECKLIST
+================================================================================
+
+REQUIRED:
+☑ Title: The Murder That Hadn't Happened Yet
+☑ Author Name: Lothar J. Musiol (primary) + Spezala Genara Relavi (contributor, Author); see AUTHOR NAME
+☑ Categories: 3 proposed above
+☑ Blurb (above, identical to kdp_description_REV17_RELEASE_CANDIDATE.docx)
+☑ Keywords (7 phrases provided)
+☑ Price: $3.99 proposed (70% royalty band is $2.99 to $9.99)
+☑ KDP Select / Kindle Unlimited: proposed YES
+☐ Publication Date: [DECISION FOR LOTHAR]
+
+COVER REQUIREMENTS (checked 15 Oct 2026 against the current files):
+- Marketing/front cover: `Kindle Front Cover.jpg`, JPEG, RGB, 1152 x 1728 px, 0.85 MB. It is below KDP's 1600 x 2560 px recommendation. KDP advises against enlarging small source art to meet the recommendation; re-render from a higher-resolution source before upload. [KDP cover guidelines](https://kdp.amazon.com/en_US/help/topic/G6GTK3T3NUHKLEFX).
+- The attempted generated variant was not adopted: it was lower resolution and introduced inaccurate decorative text.
+- Internal content cover: included once as the first page of the REV17 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
+- Back-cover panel: `Kindle Back Cover.jpg` is an accurate 1600 x 2560 text-only page at the end of the REV17 DOCX and EPUB. The full image is used with no barcode area. It replaces a superseded panel that incorrectly suggested time travel and contained a fabricated testimonial; the old image is retained in `bak/` and must not be used.
+- Audible cover and back cover are separate assets and are not used as the Kindle eBook marketing cover.
+
+MANUSCRIPT (REV17 release candidate):
+- Candidate DOCX: `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
+- Kindle upload candidate: `The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`.
+- Editable source: `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`; rebuild the DOCX with `scripts/rebuild_kindle_REV17.py` and the EPUB with `scripts/build_epub_REV17.py`. REV14 release master is unchanged.
+- The source includes the internal front cover, linked table of contents, title/copyright pages, story, optional course, glossary, author matter, bibliography and final back-cover page.
+- Six interior science diagrams retain descriptive alt text. Together with the front cover and final back-cover page, the REV17 DOCX has eight inline images.
+- Structural preflight checks: internal links resolve to bookmarks; heading styles and page breaks are present; DOCX package opens cleanly. Final Kindle Previewer/KDP online preview remains an account-side release check. The EPUB builder adds a page break before the final back-cover panel.
+- See `KDP_LAUNCH_CHECKLIST.txt` for remaining actions. Do not call the candidate upload-ready until the external cover is corrected or an explicit decision accepts KDP's lower-resolution reminder and the KDP preview is checked.
+
+SERIES SETUP:
+☑ Series name: "The Relativistic Investigation Bureau"
+☑ Series position: Book 1
+☐ Series page: created in KDP's Series tab after the book is live
+
+================================================================================
+MARKETING ANGLES (For promotional materials)
+================================================================================
+
+ANGLE 1 - Mystery Readers:
+"A locked-room mystery where the room is spacetime itself. Derek Gent has a day to solve a murder that hasn't happened yet, and every clue says the crime may be a mistake in how the event was written down."
+
+ANGLE 2 - Science Fiction Readers:
+"Hard physics meets murder mystery. A photograph timestamped tomorrow at 11:03 shows Derek dead on his office floor. The relativity is real (Lorentz transformations, gravitational time dilation, holography handled honestly), and it is the only toolkit that can tell a murder from a filing error."
+[Fixed 1 Oct 2026: the old angles said "24 hours", "11 hours in the future" and "erase the crime"; none of that matches the book.]
+
+ANGLE 3 - Literary/Smart Readers:
+"British wit meets rigorous physics in a novel that asks: if you can't trust time, can you trust your own existence? Philosophical, impossible, and darkly funny—a mystery that knows its own nature."
+
+ANGLE 4 - Mass/Crossover Readers (people who don't normally read SF):
+"You don't need to know any physics to read this. You just need to have ever worried about someone you love. A father gets proof of his own murder — and proof his daughter was there. Everything he learns trying to save her turns out to be true and false at the same time, and by the end you'll understand why, without a single equation. For fans of Arrival, Tenet, or anything that rearranged how you think about time in the last five minutes."
+
+================================================================================
+POST-LAUNCH STRATEGY
+================================================================================
+
+WEEK 1: Launch buzz
+- Post in SF/mystery forums (Reddit: r/scifibooks, r/mystery)
+- Notify newsletter subscribers
+- Request early reviews from ARCs
+
+MONTH 1-3: Visibility in KU
+- Monitor page reads vs. purchases
+- Adjust keywords if needed based on search data
+- Prepare Book 2 for announcement
+
+MONTH 3+: Post-KU evaluation
+- Analyze sales data
+- Decide on wider distribution or continued KU exclusivity
+- Launch Book 2 series momentum
+
+================================================================================

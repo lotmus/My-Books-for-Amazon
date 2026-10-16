@@ -29,3 +29,6 @@ bak/
 # Docx master and EPUB upload; PDF stays ignored
 # *.epub is no longer ignored (Lothar, 11 Oct 2026): EPUB is the upload format
 *.pdf
+
+# Brave New Times series has its own repo (lotmus/Brave-New-Times)
+/NOVELS/Brave New Times/

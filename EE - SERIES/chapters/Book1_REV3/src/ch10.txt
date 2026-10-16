@@ -1,0 +1,47 @@
+H1: Chapter 10 — Sources of the Magnetic Field
+P: Run 10 A through a straight wire past a compass and the needle swings. Ørsted noticed the effect in 1820. At a centimeter from the wire the field is about 200 microtesla, four times the Earth's, which is why high-current traces and magnetic sensors should not share a neighborhood.
+P: Where you meet this: Inductors and transformers, relays and solenoids, MRI magnets, and the magnetic coupling between neighboring traces on a board.
+H2: 10.1 Moving Charge Makes a Field
+P: Chapter 9 described how a magnetic field pushes on moving charge. The complementary fact — and the one that reveals magnetism and electricity as genuinely unified — is that moving charge itself produces a magnetic field. A stationary charge produces only an electric field; the same charge, once set in motion, produces a magnetic field as well, without losing its electric field. Current-carrying wires, not permanent magnets, are the fundamental source of magnetic fields in essentially all of modern electrical engineering; permanent magnets turn out to owe their field to countless aligned electron orbits and spins, which behave, to good approximation, like tiny current loops at the atomic scale.
+H2: 10.2 The Field of a Long Straight Wire
+P: The magnetic field produced by a long, straight, current-carrying wire circles around the wire, with field lines forming closed circles centered on the wire and lying in planes perpendicular to it. The direction is given by a right-hand rule: point your right thumb in the direction of conventional current, and your curled fingers indicate the field's direction. The field's magnitude at a perpendicular distance r from the wire is:
+EQ: B = μ0 I / (2πr)
+P: where μ₀ is the permeability of free space:
+EQ: μ0 ≈ 4π × 10−7 T·m/A
+P: Since the 2019 redefinition of the SI, μ₀ is no longer an exactly defined constant — it is measured, and 4π×10⁻⁷ T·m/A is its familiar introductory approximation, accurate to many more decimal places than any circuit calculation in this book will ever need.
+P: Notice the structural resemblance to the electric field of an infinite line charge from Chapter 4 — both fall off as 1/r rather than the 1/r² of a point source, because both sources are effectively infinite lines rather than points, and the same expanding-geometry argument that gave 1/r for that line charge gives 1/r here as well.
+FIG: fig10_1.png | Figure 10.1 — The magnetic field of a long straight wire circles the wire, falling off as 1/r. | Cross-section of a long straight wire with circular magnetic-field lines around it; arrows show the field direction and its magnitude falls with radius.
+H2: 10.3 Force Between Two Parallel Wires
+P: Two parallel current-carrying wires each produce a field that exerts a force on the other, via the F = IL × B relation from Chapter 9. Wires carrying current in the same direction attract; wires carrying current in opposite directions repel — a result many students find backward on first encounter, since it is the reverse of the same-charges-repel rule for static charges. This attraction/repulsion between current-carrying wires was, historically, exact enough to measure that it was used for decades to define the ampere itself, before the 2019 SI redefinition tied the ampere to the elementary charge instead.
+H2: 10.4 Ampere's Law
+P: Just as Gauss's law provides a shortcut to the electric field for sufficiently symmetric charge distributions, Ampere's law provides the analogous shortcut for the magnetic field of sufficiently symmetric current distributions. It states that the line integral of B around any closed path (an “Amperian loop”) equals μ₀ times the net current enclosed by that path:
+EQ: ∮ B · dl = μ0 Ienc
+P: Applied to a circular Amperian loop of radius r centered on a long straight wire, where by symmetry B is constant in magnitude around the loop and everywhere tangent to it, this reduces immediately to B(2πr) = μ₀I, recovering the result of Section 10.2 with almost no work — exactly the payoff Gauss's law provided for the electric field.
+KEY: Ampere’s law is to the magnetic field exactly what Gauss’s law is to the electric field. Both are always true, but both are only directly solvable for the field when enough symmetry exists to argue the field has constant magnitude around some convenient loop — an infinite straight wire or a solenoid being the standard examples on the magnetic side. Without that symmetry, the law still holds, but finding B from it requires the far more general, and considerably more work-intensive, Biot–Savart approach instead.
+H2: 10.5 The Field of a Solenoid
+P: A solenoid — a long coil of wire wound in a tight helix — produces, to a good approximation deep inside the coil (away from its ends), a uniform magnetic field parallel to its axis, closely analogous to the uniform field between parallel-plate capacitor plates. Applying Ampere's law to a rectangular loop that runs partly inside and partly outside the solenoid gives:
+EQ: B = μ0 n I
+P: where n is the number of turns of wire per unit length along the solenoid's axis. Solenoids are the standard way to produce a strong, uniform, and controllable magnetic field in a compact region, and they form the physical basis of the inductor, a component taken up in the next chapter of this book.
+FIG: fig10_2.png | Figure 10.2 — Inside a long solenoid, the magnetic field is nearly uniform. | A solenoid is drawn as repeated wire turns, with nearly parallel magnetic-field arrows inside and return lines outside.
+H2: 10.6 Ferromagnetic Materials
+P: Placing a ferromagnetic core — iron being the most familiar example — inside a solenoid dramatically increases the resulting field, often by a factor of several hundred to several thousand, because the core's own atomic-scale magnetic moments (electron orbits and spins) align with the applied field and add their own contribution to it, in direct analogy with how a dielectric's molecular dipoles respond to an applied electric field (Chapter 6). This effect is captured by replacing μ₀ with an effective permeability μ = μᵣμ₀, where the relative permeability μᵣ can be in the thousands for common transformer-grade iron. This is exactly why practical inductors and transformers are wound around iron or ferrite cores rather than left as air-core coils: the same number of turns and the same current produce a vastly stronger field, or equivalently, a much smaller and lighter coil can produce the field a much larger air-core solenoid would need to match.
+WE: Worked Example 10.1
+PROB: A long straight wire carries a current of 5.0 A. Find the magnetic field at a distance of 2.0 cm from the wire.
+SOL: B = μ₀I/(2πr) = (4π×10⁻⁷)(5.0) / [2π(0.020)] = 5.0 × 10⁻⁵ T — exactly the same order of magnitude as Earth's own field, which is why a compass placed near a current-carrying wire is visibly deflected.
+WE: Worked Example 10.2
+PROB: A solenoid has 800 turns over a length of 20 cm and carries a current of 2.0 A. Find the magnetic field inside it, and find the new field if an iron core with relative permeability 1500 is inserted.
+SOL: Turns per unit length: n = 800/0.20 = 4000 turns/m. Air-core field: B = μ₀nI = (4π×10⁻⁷)(4000)(2.0) ≈ 1.0 × 10⁻² T = 10 mT. With the iron core: B = μᵣμ₀nI = 1500 × 10 mT = 15 T — an enormous field, and in practice, iron cores saturate (their internal alignment reaches a maximum) well before reaching such an extreme value, so this idealized result overstates what a real core would achieve at this current; the qualitative point, that the core provides a three-orders-of-magnitude boost, still holds at more realistic operating currents.
+MIS: The like-charges-repel, unlike-charges-attract rule from electrostatics is so deeply ingrained by this point in the book that it is tempting to assume current-carrying wires must follow an analogous rule based on current direction. They do not follow the electrostatic pattern at all: parallel currents in the same direction attract, and parallel currents in opposite directions repel — the reverse of the “same repels, opposite attracts” pattern from charge. The two situations are governed by genuinely different force laws (Coulomb's law versus the magnetic force law), and importing intuition from one to the other, without working through the right-hand rule explicitly, reliably produces the wrong sign.
+BENCH: Current loops make magnetic fields, and big loops make big fields. Keep a high-current path and its return close together, as twisted wires or a trace over a solid ground plane, so their fields largely cancel. This single habit fixes a surprising share of noise and EMC problems.
+H3: Practice Problems
+LI: Two long parallel wires, 5.0 cm apart, each carry a current of 3.0 A in the same direction. State whether they attract or repel.
+LI: A solenoid has 600 turns over a length of 30 cm and carries a current of 2.0 A. Find the magnetic field inside it (air core).
+LI: At what distance from a wire carrying 10 A does the magnetic field equal 1.0 × 10⁻⁴ T?
+LI: A solenoid produces a field of 8.0 mT with an air core at a given current. Find the field at the same current if a ferrite core of relative permeability 200 is inserted.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: B = μ₀I/(2πr) near a long wire, and B = μ₀nI inside a solenoid.
+LI: Loop area as the thing to minimize.
+P: Mostly for exams and deeper study
+LI: Biot–Savart integration for arbitrary shapes.
+LI: Ampère's law with carefully chosen paths.

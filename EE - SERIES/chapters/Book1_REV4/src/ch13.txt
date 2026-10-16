@@ -1,0 +1,67 @@
+PART: Part II — Mathematics and Measurement
+H1: Chapter 13 — Quantities, Units, and the SI System
+P: In 1999 NASA lost the Mars Climate Orbiter because one team's software reported thruster impulse in pound-force seconds while the navigation software expected newton-seconds. The spacecraft arrived far too low and was lost in the Martian atmosphere. Nobody had got the physics wrong. They had got the units wrong.
+P: Where you meet this: Datasheets, which mix units freely (mils and millimeters, °F and °C, dBm and watts), and every calculation you hand to someone else.
+P: Every number in engineering is a number of something. This sounds too obvious to state, and yet the single most common source of catastrophic error in engineering calculation is a number that lost track of what it was a number of. This chapter is about keeping that attachment intact.
+H2: 13.1 Quantity, Numerical Value, and Unit
+P: A physical quantity is written as a numerical value multiplied by a unit. When we write R = 4.7 kΩ, we are making a multiplicative statement: the resistance equals 4.7 times the quantity "one kilohm." The multiplication is real, not notational, and this single realization is what makes unit algebra work.
+P: Because the multiplication is real, units obey ordinary algebraic rules. They multiply, they divide, they cancel. If a current of 2 A flows through a resistance of 3 Ω, then
+EQ: V = IR = (2 A)(3 Ω) = 6 A·Ω = 6 V
+P: and the last step is not a convention but an identity: the volt is defined so that one ampere times one ohm is one volt. Every derived SI unit works this way. Learning to carry units through a calculation, rather than dropping them and reattaching them at the end, converts a whole class of silent errors into loud ones.
+FIG: fig13_1.png | Figure 13.1 — Four SI base units combine to form the derived electrical units. | Four SI base-unit boxes feed into a diagram of derived electrical units, showing how combinations of base units form them.
+H2: 13.2 The Seven Base Units
+P: The SI system defines seven base quantities and gives each a base unit. Everything else is built from them by multiplication and division.
+P: Quantity — Unit — Symbol
+P: LengthUnit: meterSymbol: m
+P: MassUnit: kilogramSymbol: kg
+P: TimeUnit: secondSymbol: s
+P: Electric currentUnit: ampereSymbol: A
+P: Thermodynamic temperatureUnit: kelvinSymbol: K
+P: Amount of substanceUnit: moleSymbol: mol
+P: Luminous intensityUnit: candelaSymbol: cd
+P: Electrical engineering uses four of these constantly — meter, kilogram, second, ampere — and the older name "MKSA system" for that subset still appears in older texts. Note that the base unit of mass is the kilogram, not the gram; the prefix is built into the base unit, which is a historical wrinkle with no deeper meaning and occasionally trips up dimensional bookkeeping.
+P: Since 2019 all seven are defined by fixing the numerical values of seven physical constants — the speed of light, the Planck constant, the elementary charge, and so on — rather than by reference to physical artifacts. The ampere, for instance, is now defined by fixing the elementary charge at exactly 1.602176634 × 10⁻¹⁹ C. This matters philosophically and to national measurement institutes; it changes nothing about how you calculate.
+H2: 13.3 Derived Units in Electrical Engineering
+P: The units you will actually use every day are derived: each is a specific combination of base units that has been given its own name because the combination occurs so often.
+P: Quantity — Unit — Symbol — In base units
+P: ChargeUnit: coulombSymbol: CIn base units: A·s
+P: VoltageUnit: voltSymbol: VIn base units: W/A = kg·m²/(A·s³)
+P: ResistanceUnit: ohmSymbol: ΩIn base units: V/A
+P: ConductanceUnit: siemensSymbol: SIn base units: A/V
+P: CapacitanceUnit: faradSymbol: FIn base units: C/V
+P: InductanceUnit: henrySymbol: HIn base units: Wb/A
+P: Magnetic fluxUnit: weberSymbol: WbIn base units: V·s
+P: FrequencyUnit: hertzSymbol: HzIn base units: 1/s
+P: PowerUnit: wattSymbol: WIn base units: J/s
+P: EnergyUnit: jouleSymbol: JIn base units: W·s
+P: Two entries deserve comment. The hertz is defined as one per second, and so is the becquerel, and so — dimensionally — is the radian per second; they are dimensionally identical and semantically distinct, which is why you cannot cancel Hz against rad/s without thinking. And the siemens is the reciprocal ohm; you will occasionally still meet its charming obsolete name, the mho, written with an upside-down omega.
+H2: 13.4 Dimensional Analysis as an Error Check
+P: Because units multiply and divide algebraically, any equation you write must balance dimensionally: the units on the left must reduce to the same combination of base units as the units on the right. If they do not, the equation is wrong, and you have found the error without knowing anything about the physics.
+P: This is the cheapest debugging tool in engineering and it is badly underused. Consider the time constant of an RC circuit, τ = RC. Is that dimensionally sensible? Resistance is V/A and capacitance is C/V, so
+EQ: RC = (V/A)(C/V) = C/A = (A·s)/A = s
+P: which is a time. Good. Had you misremembered the formula as R/C, the same check would have produced units of V²/(A·C) = V²/(A²·s), which is not a time, and the error would have surfaced immediately.
+WE: Worked Example 13.1
+P: Verify that the resonant frequency formula f = 1/(2π√(LC)) has units of hertz.
+P: The constant 2π is dimensionless, so we need only the units of 1/√(LC).
+P: Inductance: H = Wb/A = (V·s)/A. Capacitance: F = C/V = (A·s)/V.
+P: Their product: LC = [(V·s)/A]·[(A·s)/V] = s². The volts cancel, the amperes cancel, and we are left with seconds squared.
+P: Therefore √(LC) has units of seconds, and 1/√(LC) has units of 1/s, which is the hertz. The formula is dimensionally sound.
+P: Notice the limit of this check: dimensional analysis confirms the formula's units but cannot verify dimensionless factors. A formula can have the right units and still miss 2π, a common error in resonance calculations.
+KEY: Carry units through every calculation. Do not strip them at the start and reattach them at the end. Units that fail to cancel correctly are telling you the equation is wrong, and they are telling you before you have wasted an hour on the arithmetic.
+H2: 13.5 Units That Are Not Really Units
+P: Some quantities are ratios of two quantities with the same units, and therefore dimensionless. Gain, efficiency, power factor, reflection coefficient — how much of a signal bounces back when impedances do not match, made precise in Chapter 37 — and the Q factor of a resonant circuit — a single number describing how sharply it rings, made precise in Chapter 36 — are all pure numbers. They are often given a pseudo-unit anyway — "dB", "%", "dimensionless" — as a reminder of what kind of ratio they are.
+P: The radian is the most important of these. An angle in radians is defined as an arc length divided by a radius: meters over meters, dimensionless. This is precisely why angular frequency ω, measured in radians per second, has base units of 1/s, identical to frequency f in hertz — and precisely why ω = 2πf is not a unit conversion but a genuine numerical relationship between two different quantities that happen to share a dimension.
+MIS: It is tempting to treat radians per second and hertz as interchangeable because they share the same base units, and to convert between them by "canceling" the radian. They are not interchangeable. A signal at 1 kHz has ω = 6283 rad/s, not 1000 rad/s. The factor of 2π between them is real and physical: it is the number of radians in one full cycle. The radian being dimensionless means the units cannot catch this error for you — one of the few places where dimensional analysis offers no protection, and correspondingly one of the places where the mistake is most common.
+BENCH: Carry units through every line of a calculation, especially in spreadsheets and scripts, where they silently vanish. Watch the classic traps: PCB dimensions in mils (thousandths of an inch, not millimeters), copper weight in ounces per square foot (1 oz is about 35 µm thick), and wire gauge, where a bigger AWG number means a thinner wire.
+H3: Practice Problems
+LI: A capacitor of 100 nF is charged to 12 V. Using C = Q/V, find the stored charge, and express your answer in coulombs and in nanocoulombs.
+LI: Show by dimensional analysis that the quantity L/R has units of time.
+LI: The energy stored in an inductor is given by W = ½LI². Verify that this expression has units of joules.
+LI: A student writes the impedance of a capacitor as Z = ωC. Use dimensional analysis to show this cannot be correct, and determine what the correct expression must look like dimensionally.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Dimensional analysis as an error check on every formula.
+LI: Derived units: V = W/A, Ω = V/A, F = C/V, H = V·s/A.
+P: Mostly for exams and deeper study
+LI: The formal definitions of the SI base units.
+LI: Unit systems other than SI.

@@ -22,7 +22,7 @@ A conscious look does not collapse a street. A form does not either. What moves 
 
 Local order is always paid for somewhere else. There is no lid. Simplicity is not the scarce thing. An institution that promises to make reality simpler is moving complexity to a place it hopes you will not audit.
 
-The novels can be read alone. Reading in order is still one history. Do not re-explain a fact this file already settled, and do not undo it for a joke.
+Every novel must work as a reader's first book in the series. The books may be read in any order; no plot, relationship, scientific idea, or emotional payoff may require knowledge of another installment. Give each book its own clear setup, stakes, and satisfying local payoff; series mysteries may remain open, but no reader should need another installment to understand this one. Include enough context for returning characters and past events, briefly and naturally. Avoid gratuitous spoilers; if an earlier outcome is essential, state only what the reader needs. Cross-book references may reward returning readers, but must never be required for comprehension. Maintain one consistent chronology and shared facts across the series; do not contradict established continuity for convenience or a joke.
 
 Real physicists are named in lessons, glossaries, and bibliographies when the credit is theirs. The fictional consultants keep their disguised names in the story. Never call Eilstein "Einstein" in a scene. Never call the lecture's Einstein "Eilstein."
 
