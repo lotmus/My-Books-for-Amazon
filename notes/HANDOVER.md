@@ -169,3 +169,8 @@ Used Pandoc to extract the three committed DOCX candidates from Git archives int
 
 This confirms three genuinely distinct manuscripts. The PR #157 changes to sources (Chapter 1 opening, Chapter 43 class E example, Chapter 51 transmitter claim) should not be called superseded solely by filename/version: the newer REV6s differ extensively, and the two REV6 copies also differ. No master can be selected from version number alone. Reconcile chapter-by-chapter against the book owner/editor and verify which REV6 was delivered before promoting any one file to the active master. Keep both current REV6 variants and the open PR intact meanwhile.
 
+
+
+## Book 9 critical-revision branch check — 2026-10-16
+Branch `codex/book9-critical-revision-20261015` has six commits ahead and modifies the Book 9 source and exports through REV4. GitHub has no PR for this branch. Fetched origin/main already tracks `EE - SERIES/Test_and_Measurement_Instruments_Book9_REV5.docx` alongside the unversioned master and REV4. Thus this branch is historical input, not an unintegrated latest release; do not merge its REV4 export over the newer REV5. The shared checkout separately has uncommitted EE-series trees/files and must remain untouched until that owner reconciles them. No branch or source files changed in this check.
+
