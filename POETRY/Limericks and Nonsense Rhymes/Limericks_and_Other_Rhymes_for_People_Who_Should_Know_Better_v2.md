@@ -1,17 +1,17 @@
-# Limericks and Other Nonsense Rhymes (Illustrated)
+# Limericks and Other Rhymes for People Who Should Know Better (Illustrated)
 
 **Classic nonsense verse and modern limericks**
-Lothar J. Musiol
+Seamus O'Leary
 
 ## Copyright
 
-Copyright © 2026 Lothar J. Musiol
+Copyright © 2026 Seamus O'Leary
 
 All rights reserved for this edition's new selection, arrangement, editorial material, and human-edited modern poems. The nineteenth-century poems are public-domain texts. AI-generated text and illustrations are identified in the notes.
 
 ## Editor’s note
 
-A topical anthology pairing Edward Lear’s nonsense verse with new limericks about phones, apps, remote work, streaming, chatbots, and connected life. The modern poems were generated with AI and edited by Lothar J. Musiol for language, rhythm, and rhyme. Ten original interior illustrations accompany the poems.
+A topical anthology pairing Edward Lear’s nonsense verse with new limericks about phones, apps, remote work, streaming, chatbots, and connected life. The modern poems were generated with AI and edited by Seamus O'Leary for language, rhythm, and rhyme. Ten original interior illustrations accompany the poems.
 
 The classic texts are drawn from Edward Lear’s nineteenth-century nonsense books, including *A Book of Nonsense* and *Nonsense Songs, Stories, Botany, and Alphabets*. Early printings and later editions contain textual variants; this anthology preserves a readable selection and spelling. Sources are listed at the end.
 
@@ -29,8 +29,7 @@ The classic texts are drawn from Edward Lear’s nineteenth-century nonsense boo
 10. [Longer Nonsense Rhymes](#longer-nonsense-rhymes) (6)
 11. [Sources and Text Notes](#sources-and-text-notes)
 12. [About the Author](#about-the-author)
-13. [Also by Lothar J. Musiol](#also-by-lothar-j.-musiol)
-14. [Back Cover](#back-cover)
+13. [Back Cover](#back-cover)
 
 ## Animals, Birds & Beasts
 
@@ -1795,78 +1794,11 @@ Digitized public-domain editions consulted for identification and comparison:
 - [More Nonsense, Edward Lear (Project Gutenberg, eBook 13648)](https://www.gutenberg.org/ebooks/13648)
 - [The Jumblies and Other Nonsense Verses, Edward Lear (Project Gutenberg, eBook 34906)](https://www.gutenberg.org/ebooks/34906)
 
-The original limericks in “Modern Limericks” were generated with AI and edited by Lothar J. Musiol. The illustrations in this edition were generated with AI and selected and placed by Lothar J. Musiol. AI-generated material will be disclosed in the KDP publishing form.
+The original limericks in “Modern Limericks” were generated with AI and edited by Seamus O'Leary. The illustrations in this edition were generated with AI and selected and placed by Seamus O'Leary. AI-generated material will be disclosed in the KDP publishing form.
 
 ## About the Author
 
-Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
-
-He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
-
-## Also by Lothar J. Musiol
-
-### Physics, Actually
-
-- Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
-- Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
-- Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
-- Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
-
-### More Actually Books
-
-- Gravity, Actually: Einstein's Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
-- The Universe, Actually: What Humanity Currently Understands About Reality
-
-### Math, Actually
-
-- Math, Actually, Volume 1: From Arithmetic to Calculus
-- Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
-- Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
-- Math, Actually, Volume 4: From Category Theory to the Frontier
-
-### Quantum, Actually
-
-- Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
-- Quantum, Actually, Volume 2: A QED Course
-
-### Science Sparks
-
-- Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
-
-### Look First
-
-- Look First, Volume 1: The Universe Has No Now
-- Look First, Volume 2: A Trip Is Not a New Life
-
-### Electrical Engineering Series
-
-- Foundations of Electronics (Book 1)
-- Circuits, Components, and Control (Book 2)
-- Semiconductor Physics and Devices (Book 3)
-- RF, Microwave, and Transceivers (Book 4)
-- Communications, Wireless, and SDR (Book 5)
-- Power and Energy (Book 6)
-- Packaging, Layout, EMC, and Test (Book 7)
-- Firmware and Software for Electronics (Book 8)
-- Test and Measurement Instruments (Book 9)
-
-### History
-
-- The Dolphins' View of History
-
-### Fiction
-
-- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
-- The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
-- Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
-- The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
-- Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
-- In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
-- The Digital Twin: A British Comedy of Identity (Brave New Times, Book 1), Lothar J. Musiol writing as Rob O. Taylor
-
-### In German
-
-- Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
+The name Seamus O'Leary is a lighthearted nod to Edward Lear, whose nonsense verse inspired this collection.
 
 ## Back Cover
 
@@ -1876,4 +1808,4 @@ Meet Lear's eccentric characters, then turn to new limericks about autocorrect, 
 
 If these rhymes made you smile, please consider leaving an honest review.
 
-Lothar J. Musiol
+Seamus O'Leary
