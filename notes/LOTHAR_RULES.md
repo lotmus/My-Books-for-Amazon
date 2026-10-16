@@ -212,3 +212,11 @@ If this handbook and a book note conflict on a global rule (pen names, the banne
 - **Novel scene breaks**: a centered symbol, not blank lines.
 - **Cover and back cover pages** use no heading style.
 - **Optional**: embed one open-licence (SIL OFL) font for headings only in the epub; the body stays in the reader's default font.
+
+## KDP content policy (Lothar, 2026-10-15; applies to all books)
+
+- **Distinct products**: make each book a distinct product, with different scope, depth, structure, examples, stories, or audience.
+- **No copy-paste between books**: avoid copying and pasting large sections of text from one book into another. Rewrite, expand, or approach the material freshly.
+- **Honest listing**: title, subtitle, description and metadata must accurately reflect what is unique about that specific book.
+- **AI disclosure and quality**: disclose AI-generated content as KDP requires, and still meet the overall quality guidelines (an enjoyable reading experience, not too thin).
+- **Overlap check in every review**: each review checks overlap between sibling books (for example the Physics, Quantum and Actually series, the EE books, and the Math books). Fix overlap by rewriting or re-scoping, not by copying.
