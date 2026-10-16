@@ -213,3 +213,8 @@ Read `SCIENCE  Series/Look First - SERIES/notes/HANDOVER.md` and each volume's s
 
 The series handover explicitly scopes itself to Book 1 and says leave the sequel, leave `bak/`, unless the author asks for that book; Book 2's separate status also treats it as a distinct current manuscript. Do not move or archive either book's files under the series-level handover alone. The shared checkout has 194 deletions from old `NOVELS/Look First - SERIES` plus a full new `SCIENCE  Series/Look First - SERIES/` tree; 138 old/new files are byte-identical and 56 differ. This combines relocation and content edits, so resolve ownership/current version for each volume before any move. No Look First file changed in this audit.
 
+
+
+## Dolphins release reconciliation — 2026-10-16
+Fetched `origin/main` contains `The Dolphins' View of History - REV4.docx`, REV4 working Markdown, image set, review, and current status. The current `notes/_STATUS.md` declares REV4 the master; the 16 Oct follow-up review and rendering checks are recorded. In the dirty shared checkout, I hash-compared every modified/untracked file against origin/main: 54 files matched byte-for-byte; the 19 untracked REV4 image files also all matched. The other 76 status entries are deletions of old REV2/legacy chapter DOCX/Markdown paths that are absent from origin/main. Therefore the shared checkout's apparent 131-entry Dolphins change set is a stale-checkout mirror of already committed REV4 plus old-path removals, not an uncommitted newer revision to push. Preserve its old files through the existing book bak/record where present; do not stage this old checkout's whole Dolphins directory. The current remote master is already clear; no file changes made.
+
