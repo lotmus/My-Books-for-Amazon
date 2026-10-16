@@ -137,3 +137,23 @@ Real physics woven in only where the time travel needs it, plus a back-matter ap
 3. Amery is named only in the back-matter Acknowledgement.
 4. No original material copied in.
 5. "My own premise, characters, names and wording" is still true of REV11; the Acknowledgement is unchanged.
+
+
+## REV12, 15 October 2026
+
+Weak-spot pass on REV11. No story rule, twist, plant or running joke changed. Built from REV11 (now in `bak\`). Story body about 58,490 words (REV11 58,410); appendix about 5,300. Scores and detail: `notes/REVIEW_REV12_2026-10-15.md` (overall 8.9, sellability 8.3, Science 8.8).
+
+- **Diagrams:** five generated figures, one per lesson, `notes/build/figs.py` writes `notes/figures/fig1..fig5*.png` (801 px, inline at 2.98 in). `build.py` now turns `![alt](path)` into an inline picture with alt text and a following `*Figure N. ...*` line into a caption (styles Figure and Figure Caption). Logged in `notes/PICTURE_CREDITS.md`. Fig 5 is the exact matched solution for a rectangular barrier.
+- **Ch 13 and 35:** talk to business (see the review). The Hall B ticket now goes into evidence custody (Karim signs for a photograph; the card stays in the store until the inquiry closes on it), with Arthur's unsent reply questioned and admitted to be "for himself". Register entry unchanged.
+- **Ch 26:** a beat between the notebook and the fifteenth (Glock called out, Arthur alone with the book about three minutes, copies 17/114 into the grey notebook, MAROT file left alone), a scene break before the ceremonial room, a shorter public refusal (still "all fifteen are mine").
+- **Ch 12 and 15:** small trims only.
+- **Citations verified** (publisher or Nobel Foundation pages, 15 Oct 2026): Ashby 2003 (LRR 6, 1), CHSH 1969 (PRL 23, 880), Aspect, Dalibard and Roger 1982 (PRL 49, 1804), Hensen 2015 (Nature 526, 682), Gamow 1928 (Z. Phys. 51, 204), Nobel 2022 and 1986, plus Hafele and Keating 1972, Friedman et al. 1990 and Echeverria et al. 1991. One claim fixed: Aspect 1982 used an equivalent form of the test with a different bound, so the text no longer says it "found values above 2". Sources lists page numbers; titles containing a person's name are omitted (appendix says CHSH).
+- **Dropped or left alone, and why:** no new reveal anywhere; chapters 19 to 25 not touched; ch 12 and 15 not trimmed further because the cuts would have taken action or the Miriam scene; no diagram for the Operations clock watches (the lesson 1 figure uses the 0.6c example from the worked sums).
+- **Rebuild:** `python notes\build\figs.py <outdir>` for the figures; `python notes\build\build.py <md> <docx> <cover.png>`; the REV12 edit scripts were run from a temp folder (anchors are in `notes/build/editK.py` and `editL.py`).
+
+**Amery acknowledgement check (five points, re-run on REV12).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. Scan of the REV12 story body for the REV6 list (Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Koenig): zero hits; Amery appears once, in the Acknowledgement. The new material (a secretary's interruption, a custody form, five diagrams) has no counterpart in the summaries I could confirm. Still a check against published summaries; I have not read the novel.
+2. KDP_Description.md does not call it an adaptation or sequel or name Amery.
+3. Amery is named only in the back-matter acknowledgement.
+4. No original material copied in.
+5. The acknowledgement wording ("my own premise, characters, names and wording") is still true of REV12. "Bell" appears once, in the back-matter note; the appendix and figures say CHSH.

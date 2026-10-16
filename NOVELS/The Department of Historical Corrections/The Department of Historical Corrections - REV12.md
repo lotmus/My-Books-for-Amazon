@@ -28,7 +28,7 @@ Mrs Beatrice Crumb stood outside the registry holding a red folder. She was sixt
 
 The registry door was painted green. On the reverse, where the paint had flaked, an earlier notice prohibited entry to persons who had ceased to exist during the working day. Mrs Crumb kept a chair beside it for exceptions. Inside, the old pencil registers stood in their rows, their margins freckled with small dots that nobody had ever explained to him.
 
-Arthur sat down. He was Deputy Assistant Director of Historical Continuity, Western Europe, Grade Seven. For twelve years he had compiled assessments of other people’s interventions, a job requiring exactness, caution and a capacity to distinguish what had gone wrong from what had always been wrong. He had specifically chosen administration because nothing in the past could attack you through a spreadsheet. There had been one disputed case involving a Venetian tariff, but the tribunal had found for the spreadsheet. His usual finding was that an intervention had caused no material downstream effect. He wrote it so often that the phrase had begun to look like his handwriting.
+Arthur sat down. He was Deputy Assistant Director of Historical Continuity, Western Europe, Grade Seven. For twelve years he had compiled assessments of other people’s interventions, a job requiring exactness, caution and a capacity to distinguish what had gone wrong from what had always been wrong. He had specifically chosen administration because nothing in the past could attack you through a spreadsheet. There had been one disputed case involving a Venetian tariff, but the tribunal had found for the spreadsheet. His usual finding was that an intervention had caused no material downstream effect. He wrote it so often that the phrase had begun to look like his handwriting. He signed the same way, with the name and then a short flat line beneath it, which a former colleague had said made him look like a man signing on a shelf.
 
 The red folder said HISTORICAL CONTINUITY INCIDENT. SEVERITY IMPERIAL. Someone had added PLEASE DO NOT PANIC AGAIN.
 
@@ -172,7 +172,7 @@ The analyst thanked him with an intensity that embarrassed them both.
 
 The Department of Historical Corrections occupied four underground floors beneath a building officially possessing two. This occasionally distressed the lifts. A visitor who pressed B4 without authorisation was taken to a committee room and encouraged to reconsider.
 
-Arthur’s identity card admitted him directly to Operations, where the Retrospective Administrative Access System stood inside a circle of yellow paint. It resembled an Edwardian telephone exchange rebuilt by people who had heard encouraging things about electricity. Copper tubes disappeared into the ceiling. Three modern monitors had been attached with brackets. One displayed a date, one a percentage, and one demanded a software update.
+Arthur’s identity card admitted him directly to Operations, once the pass reader had climbed to ninety-one per cent and stopped, as it had done since its installation in 2019. Everyone pressed again. A small plate beneath it said YOUR RECORD IS YOUR SECURITY, and nobody had ever found the person to whom that should be reported. Beyond it, the Retrospective Administrative Access System stood inside a circle of yellow paint. It resembled an Edwardian telephone exchange rebuilt by people who had heard encouraging things about electricity. Copper tubes disappeared into the ceiling. Three modern monitors had been attached with brackets. One displayed a date, one a percentage, and one demanded a software update, as it had since March 2019, when Facilities had logged the request, assigned it a number and, in the department’s understanding, mislaid the number.
 
 Dr Eleanor Vale struck the third monitor with the heel of her hand.
 
@@ -215,6 +215,18 @@ She took him to a table on which lay a coat, a waistcoat, stockings, shoes, a po
 “So the famous bits are fixed.”
 
 “The observed bits. A washerwoman’s testimony constrains us just as much as a duke’s. We have historically been worse at finding washerwomen’s testimony.”
+
+“Observed,” said Arthur. “Like the cat in the box.”
+
+Eleanor’s face did what it did when somebody understood her incorrectly.
+
+“No. Nobody’s looking has ever changed anything in this building. What closes a minute is that something independent recorded it: a register, a bill, a washerwoman who told her sister. It’s a rule about evidence, not about eyes. Say cat again and I’ll weigh you twice.”
+
+“And once I’m in an open minute?”
+
+“Whatever you do there becomes part of what happened. It was always going to have been you. You can add. You can’t contradict. A physicist calls that self-consistency. A clerk calls it minutes already approved.”
+
+Arthur found the clerk’s version easier to live with.
 
 She turned his grey notebook over and showed him a metal thread woven into the binding.
 
@@ -1022,6 +1034,8 @@ For the first time, the warmth left Glock’s voice entirely. He looked past Ele
 
 After the lift had taken him away, Mrs Crumb went to the security desk and altered the access list. Glock’s authority remained on paper. His card would henceforth take him to the committee room.
 
+Facilities rang to confirm the change and asked for it in writing, on the Request to Alter Access form, which could only be obtained from Facilities. Mrs Crumb said she would put that in writing too.
+
 “That won’t stop him,” Eleanor said.
 
 “It will inconvenience him.”
@@ -1097,6 +1111,14 @@ Eleanor looked sharply at her.
 That was an accurate enough description of government for Eleanor to let it pass.
 
 They returned to Operations. Finding a new retrieval gap in 1815 would require locating Arthur without creating a witnessed interval which prevented the aperture. There were no trackers in the ordinary sense. The brass token could answer only when the machine found a physically possible line to it. Eleanor began searching the streets around Pike’s shop through the surviving maps and private records.
+
+“The two halves are entangled, aren’t they?” Miriam said from the doorway, where she had been told not to stand. “Token and stove. Whatever happens to one, the other knows.”
+
+“Entangled things are correlated. They aren’t in conversation.” Eleanor did not look up from the map. “Ask one half what it’s doing and you get a coin toss. The match only appears when somebody brings the two answers together, and that needs a letter, a telephone or, in this building, an aperture. The brass is warm because we push current through it. Whatever carries a message costs an opening.”
+
+“That sounds like a no.”
+
+“It’s a no with a receipt.”
 
 Mrs Crumb went to fetch the 1815 dispatch bundle. When she came back, a single index card lay on top. It had been removed from the public catalogue nineteen years earlier under her own initials.
 
@@ -1550,6 +1572,16 @@ She nodded.
 
 He sat down. On the whiteboard Eleanor had written CURRENT SEQUENCE. Underneath were the known interventions, in the order the protected department had experienced them: Fanshawe’s departure, incoming corpse and warning, propagation of the revision, Arthur’s departure, Miriam’s arrival, Arthur’s retrieval. Beside this was a separate column of calendar dates.
 
+Mrs Crumb opened the meeting by sitting down, and took the minutes herself, in her registry hand, because somebody had to and the alternative was Fanshawe.
+
+“Apologies for absence,” she said. “Mr Durrant, who is with a patient and extremely pleased. Mr Glock, who was not invited and has not said so. Belgium.”
+
+“Belgium?” said Fanshawe.
+
+“I am recording it as an apology. It is the only form of attendance it has left.”
+
+She wrote it down. Arthur understood that these would be the most accurate minutes the department had ever kept, and that nobody would be able to bear reading them.
+
 “They aren’t the same order,” Eleanor said. “Nothing here requires a person to cause their own existence. The future packet came from a branch already developing after Fanshawe’s act. We received its consequences before our slower survey instruments had finished describing the change.”
 
 “And the dead man?” Arthur asked.
@@ -1686,9 +1718,21 @@ Beatrice’s face tightened. For a moment Arthur thought she would appeal to the
 
 “All right.”
 
-It was not forgiveness, either given or received. It was something smaller and more immediately useful.
+Neither of them called it forgiveness. It was smaller than that, and more immediately useful.
 
 Arthur opened the constitutional booklet. He read aloud the transfer of evidential discretion. Eleanor underlined it. Fanshawe supplied the original memorandum. Mrs Crumb laid beside it the 1746 index card. They had the beginning and end of Glock’s legal construction, and one conspicuous absence in the middle.
+
+Fanshawe, being fair about it, produced the forecast as well: a photographic reduction of the casualty extract, tables forty onward, with the cover sheet shrunk to the size of a playing card. “It was assessed,” he said. “I’m not a fool. It had the stamp.”
+
+The stamp read CONSISTENT WITH STATED SOURCES, ASSESSMENT UNIT (WESTERN EUROPE), over a signature reduced to a brown smudge with a line under it. Arthur approved of the unit, the stamp and the reduction, which made the signature look like everyone else’s.
+
+“Somebody in my unit,” he said. “They’re quick.”
+
+“Is that good?”
+
+“It’s what the stamp is for.” He had no memory of the sheet, which in that unit was not evidence of anything.
+
+Eleanor wrote *forecast: stamped* on the whiteboard, and for three days nobody looked at the cover sheet again.
 
 “We need the trust’s original limitations,” Arthur said.
 
@@ -2174,10 +2218,6 @@ Cresswell’s gaze settled on Arthur.
 
 “I have one of those faces.”
 
-“From London.”
-
-“There are a great many people there.”
-
 Cresswell came round the table. Agnes stood.
 
 “My copyist is occupied.”
@@ -2213,10 +2253,6 @@ Cresswell led Arthur into the yard. The cold struck his wet palms. Behind the la
 Saye ignored this. He held out a sheet.
 
 “An undertaking to cease interference pending independent review.”
-
-“Independent of whom?”
-
-“You are in no position to be clever.”
 
 Arthur looked at the portable frame. Its coils were smaller than Eleanor’s, their insulation patched. It could probably take one person at a time. Beside it were a battery case and a short stack of reference slips.
 
@@ -2302,15 +2338,7 @@ Arthur folded the sheet into the protected case.
 
 At twenty-five to six the return token began to warm against Eleanor’s wrist. Dusk had come early. Agnes walked with them to the laundry, carrying a lamp.
 
-“Your colleague,” she said, meaning Saye, who was being carried between two of the household men and looking at nothing, “claims to work for a government that has not happened.”
-
-“He does.”
-
-“And you oppose him.”
-
-“Yes.”
-
-“Then perhaps it needn’t.”
+“Your colleague,” she said, meaning Saye, who was being carried between two of the household men and looking at nothing, “claims to work for a government that has not happened. And you oppose him. Then perhaps it needn’t.”
 
 She set the lamp on a stone ledge and left them without asking to see the door open. Arthur watched her go back across the yard, shawl pulled tight, towards the accounts and the people whose future she actually had authority to change.
 
@@ -2346,19 +2374,21 @@ The Operations clock said 11:12. Nobody spoke. Then Eleanor looked at Saye.
 
 They put him in the former document drying room, which had a chair, a lavatory and no time apparatus. Fanshawe took first watch. It was not precisely a lawful detention, but the department’s ordinary legal adviser had acquired a dukedom during the revision and was not answering the phone.
 
-Beatrice took the protected case to Records to compare Agnes’s certified copy with the suppressed catalogue description. Arthur followed her.
+Miriam logged the return in the register, which now took two figures from each traveller: the department’s clock and the traveller’s own. She unbuckled Eleanor’s left watch, then the right, and wrote both down.
 
-“Does it match?”
+“Eleven twelve, and seventeen forty-one. Three hours thirty-one of yours against three thirty-two of ours.” She looked up. “Is that dilation?”
 
-“The original limitation does. Glock’s abstract omits three sentences.”
+“That’s me and a laundry.” Eleanor shook the watch as if it might confess. “A minute by speed alone would want a tenth of the speed of light. I was standing still. I set it by eye and I stopped once for a fever.”
 
-“Accidentally?”
+Miriam ruled a second column anyway, with the Operations ruler, in ink. “The field counts how much of you has happened,” Eleanor said. “It’s the one thing it can’t be lied to about.”
 
-She gave him a look.
+Beatrice put her head round the door with a form from Pensions about the man in the side room. Was he a member of staff, and if so how old?
 
-“I was hoping to ask an easy question.”
+“Three years older than Mr Pembroke,” she said. “They say that isn’t an age.”
 
-“Try another department.”
+“It’s the only kind there is,” said Eleanor.
+
+Beatrice took the protected case to Records to compare Agnes’s certified copy with the suppressed catalogue description. Arthur followed her and began to ask whether the omissions were accidental, and stopped when she looked at him.
 
 The omitted sentences said that the receiver could not extinguish a claim by refusing to admit its evidence; that petitions and refusals must be kept in independent custody; and that representation required consent. Glock’s 1815 annex kept the title and reversed each protection. It was not a mistranslation. It was a fraud with very good stationery.
 
@@ -2376,9 +2406,7 @@ Arthur looked at her.
 
 She put it in the evidence case.
 
-Eleanor spent the afternoon with the original memorandum, the substituted annex and the consequences. The repair could not restore every detail Arthur remembered. Their own witnessed actions, Hester’s resistance and the arrival of Miriam and the dead Arthur had all acquired protected evidence. What remained was the fraudulent legal branch, where one open interval still permitted a correction.
-
-“We restore the original terms at the duplicate dispatch,” she said, “but only if nobody has copied it outside Glock’s control first. A proof documents what was proposed. It doesn’t certify what was adopted. That’s why the countersignature matters.”
+Eleanor spent the afternoon with the original memorandum, the substituted annex and the consequences. The repair could not restore every detail Arthur remembered. Their own witnessed actions, Hester’s resistance and the arrival of Miriam and the dead Arthur had all acquired protected evidence. What remained was the fraudulent legal branch, where one open interval still permitted a correction: the duplicate dispatch, provided nobody had copied it outside Glock’s control first, and provided it was countersigned. A proof documents what was proposed. It does not certify what was adopted.
 
 Arthur wrote it down. He had learned to distrust rules which appeared only when they became useful. This one was already in the two receipts.
 
@@ -2422,19 +2450,13 @@ She looked at him.
 
 He led them into a side room. “I didn’t know,” he said. “I knew there were discrepancies. I didn’t know the central register was refusing contradictory evidence by design.”
 
-“He needs the refusal,” Arthur said. “While every dispute stays visible, no single witness can settle the country.”
+“He needs the refusal,” Arthur said. “While every dispute stays visible, no single witness can settle the country. We want an inquiry where more than one office keeps the evidence and he doesn’t choose the witnesses.”
 
-“Then what do you want from me?”
-
-“An inquiry with independent custody of the evidence. Not a departmental review. More than one office must keep it, and he must not choose every witness.”
-
-Beatrice put a copy of the access receipt before him, with her signed admission.
-
-“Including this.”
+Beatrice put a copy of the access receipt on the desk, with her signed admission. “Including this.”
 
 Pelling read it. His face changed. He did not offer her comfort, which Arthur appreciated on her behalf.
 
-“Tomorrow morning at nine,” he said. “An emergency evidential hearing. I cannot promise the result.”
+“Tomorrow morning at nine,” he said. “An emergency evidential hearing. I can’t promise the result.”
 
 “That would spoil the point,” Arthur said.
 
@@ -2496,6 +2518,8 @@ He held still. The glass was warm. On a screen above the desk a bar filled slowl
 
 He pressed again. The bar went to ninety-one per cent.
 
+Arthur knew the sensation. It was the one at his own front door, four floors under the ground, and it had never occurred to him to ask who had chosen the make.
+
 Form 7B ran to four pages. It asked for his reference status (settled, pending or other, see overleaf), his mother’s maiden name, his mother’s mother’s maiden name, and whether he had ever been known by any other name, to which he wrote *Brown*, crossed it out and felt he had committed something. Overleaf, under *other*, was a space two inches wide. Beatrice, who had come to watch the door, regarded it for some time.
 
 “You could write ‘see attached’,” she said.
@@ -2505,6 +2529,8 @@ Form 7B ran to four pages. It asked for his reference status (settled, pending o
 “That’s the genius of it.”
 
 The queue behind them was not a queue so much as a collection of people who had been told to sit down. A woman in a good coat and her second-best temper explained that her daughter’s bicycle licence proved the girl was alive, that the central extract said otherwise and that it was a perfectly good licence with a photograph. “She’s eleven,” she said. “She did the test. There’s a cone.” Arthur said he was sure there was. The woman looked at his thumb on the glass and then at his face, and he understood that he had been taken for someone with influence, which he was beginning to think was the most dangerous thing a person could be mistaken for in that building.
+
+Behind her a man held a dog licence to which the central extract had added a date of death, for the dog, and left the owner alive. “He’s an Alsatian,” he told nobody. “He’s under the chair. He’s in perfect health. He has been dead since Tuesday.” The colleague at the desk asked whether the dog could attend in person. The dog, when consulted, declined to come out.
 
 At 18:20 the reader stalled a second time. At 18:38 Garrick looked at the wall clock, then at the screen, then at his own thumb, which offered no help.
 
@@ -2642,10 +2668,6 @@ Nobody argued. It was almost worse than if they had. Eleanor came in and shut th
 
 “I kept you alive,” she said. “I also kept you small. I knew I was doing both. I told myself the first excused the second.”
 
-“And if Glock had never touched Belgium?”
-
-“You’d have retired in 2051 with a clock, never knowing. And I’d have thought that was a good outcome.”
-
 The clock over the cabinet said 21:52. He took out a pen. He initialled the first entry, and the second, down all thirty-one, while the three of them watched. He did not strike anything out. When he reached the end he wrote, below Fanshawe’s hand:
 
 *32. Tuesday 15 September, 21.52. Subject informed. Subject disagreed. Subject continues, on terms.*
@@ -2730,7 +2752,7 @@ Miriam was quiet long enough for the machine to tick twice. “It was a Tuesday,
 
 “And he believed that.”
 
-“For two and a half years. It was true, mostly. People got beds. You got a signature on everything else, one at a time, each of them small. I was in the archive. Jon brought me tea. You came down every night with your hands full of things people had asked you for, and you looked—“ She stopped, and chose. “You looked like someone doing the one job he’d ever been good at.”
+“For two and a half years. It was true, mostly. People got beds. You got a signature on everything else, one at a time, each of them small. You came down every night with your hands full of things people had asked you for, and you looked—“ She stopped, and chose. “You looked like someone doing the one job he’d ever been good at.”
 
 “Which was?”
 
@@ -2749,8 +2771,6 @@ Footsteps passed the glass at quarter past and did not pause. The duty officer w
 “I’m not him,” Arthur said.
 
 “No. You’re better at the start, and you’ve a worse haircut.” She wiped her face with the heel of her hand. “I keep waiting for you to do something he did, so I’ll know what to say. Then you do something he never did. You went and read your own file.”
-
-“I don’t think that’s an achievement.”
 
 “It’s the first thing he should have done,” said Miriam, “and he didn’t, and it killed him. Go to bed, Arthur.”
 
@@ -3194,11 +3214,11 @@ She told him: Wren, Samuel, private, in a regiment she named, in a company she h
 
 “Pike.” He looked at her properly then. “If ever you need a thing signed, send it before ten. After that I am not a Christian.”
 
-She put the note in her glove with the half-sheet. It was not a promise. It was a line on good paper in a clerk’s hand, and she walked back down Downing Street holding it ready to be asked for.
+She put the note in her glove with the half-sheet. It was no promise, only a line on good paper in a clerk’s hand, and she walked back down Downing Street holding it ready to be asked for.
 
 That evening she went back to the shop alone. The front window had been broken. Inside, drawers stood open, paper lay across the floor and the press had been damaged with a degree of method which made her angrier than mere destruction would have. Someone had bent the frisket frame and split a wooden support. The unused type had been tipped into water.
 
-She stood in the doorway and let herself feel it. There were things one could endure efficiently and things which deserved the full expense of anger. The press had belonged to her husband, then to her through years of work and arguments with men who called it his even after he was dead. It was not a symbol. It was how she ate.
+She stood in the doorway and let herself feel it. There were things one could endure efficiently and things which deserved the full expense of anger. The press had belonged to her husband, then to her through years of work and arguments with men who called it his even after he was dead. The press was no symbol; it was how she ate.
 
 “I am sorry about the window,” said a voice from the dark of the back room. “That was not instructed.”
 
@@ -3324,7 +3344,7 @@ Glock looked at him for some time. Then he picked up the proof, folded it along 
 
 “Few are. It is the sort of thing a man tells the person who is listening.” He opened the door himself. “Goodnight. Do give my compliments to Mrs Dunning.”
 
-When he had gone, Perrott sat for a quarter of an hour without moving. Then he took his own blotter from the shelf, wrote *Received a caller, 11 p.m. Declined to countersign. Date incorrect*, signed it and put the time. It was not heroism. It was the clause, and it was the only thing in the room he knew how to read in a hurry.
+When he had gone, Perrott sat for a quarter of an hour without moving. Then he took his own blotter from the shelf, wrote *Received a caller, 11 p.m. Declined to countersign. Date incorrect*, signed it and put the time. Heroism did not come into it: the clause was the only thing in the room he knew how to read in a hurry.
 
 By midnight they had the borrowed press in a cellar behind a bookseller’s shop. Gant complained about the danger, the hour and the inconvenience, while setting the damaged forme with painstaking care. Hester put Glock’s note beside the annex and asked him to print both on a single sheet, with her own short account of the attempted seizure beneath.
 
@@ -3458,6 +3478,18 @@ Pelling sat at the centre of the table, flanked by retired judge Dame Judith Nor
 
 Two clerks kept separate minutes. A third recorded the proceedings on equipment supplied by the university. Glock had objected in writing to the duplication. Pelling had appended the objection to all three records.
 
+The hearing opened with apologies for absence, which Pelling read out himself. There were three: a Mr Glock, who had written to say that he would attend remotely and would therefore also be absent; a Mr Durrant, who was with a patient; and Belgium, which the clerks were instructed to record as expected. The minutes of the previous meeting were taken as read. There were none, and Ives, who respected provenance, asked that the absence of a text be noted.
+
+Dame Judith asked whether the exhibits had been numbered. Cole said that they had. Exhibit 1, tendered by Mr Pembroke as evidence of a changed past, was a packet of Yorkshire cocoa biscuits bearing the words *Grown locally since 1841*.
+
+“Is it relevant?” Dame Judith asked.
+
+“It was the first thing that changed.”
+
+“Then it is the first exhibit.” She looked at it with an interest she did not trouble to hide. “May I have one?”
+
+Cole said that this would break the continuity of the evidence. Dame Judith said that she had once sentenced a man on the evidence of a sandwich, and that it was a point of principle. The packet remained closed.
+
 Before anyone spoke, Dame Judith North asked that a statement be entered. In the register as it now stood she had never been called to the bar. She sat by courtesy of Mr Pelling’s invitation, and she kept, in the lining of her handbag, a private file of eleven judgments the central extract said she had never given.
 
 “I am not neutral about which record is believed,” she said. “I am merely telling you so. It seems the least a judge can do.”
@@ -3582,7 +3614,7 @@ It was a clever question. It had been built, Arthur thought, by a man who had as
 
 Dame Judith wrote something down, underlined it twice and said, to the transcript, “The witness has declined to claim a certainty he does not possess. We shall note it.”
 
-For the space of a breath Glock looked as though he had been given exactly what he asked for, and found it was not what he wanted.
+For the space of a breath Glock looked like a man who had been given exactly what he asked for, and had read the small print.
 
 Glock’s gaze moved towards the notebook.
 
@@ -3650,6 +3682,8 @@ Eleanor gave him a look so concentrated that Arthur almost felt sorry for him.
 
 “We may need those.”
 
+Facilities, telephoned from the corridor, confirmed that the bridge had been logged in August as RESILIENCE UPGRADE (APPROVED), DO NOT TOUCH, and had accordingly not been touched, by them or by anyone who might have noticed it.
+
 She sent him to isolate the ordinary electrical supply. Miriam kept the lever down. Arthur held the inspection lamp while Eleanor traced the bridge through the old wiring. Beatrice brought the original circuit diagram, not the revised version supplied with Glock’s upgrade.
 
 At the top of the stairs, a crash sounded. Glock’s officers had returned with an emergency seizure order and were attempting to force the access door. Pelling met them in the corridor with Dame Judith and two ordinary security staff who had been told, in clear language, that a minister was countermanding the order. Nobody knew which authority would prevail. For the moment, uncertainty was useful.
@@ -3682,7 +3716,7 @@ The room went dark. The hum stopped so abruptly that Arthur heard himself breath
 
 The book lay still. A thin line of smoke rose from its spine.
 
-Eleanor checked the monitor on battery power. The original reference remained. The freight window’s rated load had fallen from twenty-one hundred kilograms to fourteen hundred.
+Eleanor checked the date monitor on battery power. The third monitor, which no power cut had ever discouraged, offered her an update. The original reference remained. The freight window’s rated load had fallen from twenty-one hundred kilograms to fourteen hundred.
 
 Arthur looked at the rescue list.
 
@@ -3874,6 +3908,14 @@ Dr Anand Rao, the university physicist Ives had brought as a second pair of eyes
 
 Eleanor read it twice and wrote WEIGH EVERYTHING across the top in capitals. It was the first time Arthur had seen her thank someone for being right at her expense.
 
+Rao had a second page, which he did not turn round. Eleanor asked what was on it.
+
+“A footnote. Your closed minutes are closed the way a thick wall is closed. Almost nothing that is mostly forbidden is entirely forbidden: the chance of something getting across falls off with the thickness, very steeply, and for anything heavier than a letter it’s a number I wouldn’t print.” He capped his pen. “I don’t know that your machine does it. Walls usually do. I’d put it in the margin and not mention it again.”
+
+“Under COST?”
+
+“Somewhere the budget can’t see it.”
+
 “If,” Arthur said.
 
 “We heard,” Beatrice replied.
@@ -3902,7 +3944,7 @@ He looked at her.
 
 “I have savings, Mr Pembroke. It has been an uneventful nineteen years in some respects.”
 
-He did not argue. She was not purchasing absolution. She was paying for a broken press.
+He did not argue. She was paying for a broken press; absolution did not come into it.
 
 At eight that evening Miriam went down to Records and found Beatrice at the long table with the 2008 register open in front of her. It was open at the same page it had been open at since six.
 
@@ -4360,7 +4402,7 @@ Arthur handed him the clipboard.
 
 At nine on the morning of 23 June 1815, Beatrice Crumb presented herself at the committee rooms with a document case and the expression of a woman who had already waited long enough.
 
-The porter asked her business.
+The porter, who had been on since five and wished it known, asked her business.
 
 “Mr Perrott. A discrepancy in the duplicate instrument.”
 
@@ -4396,7 +4438,7 @@ He looked at her for what might have been a minute. Then he turned to the others
 
 “I have been right since Lady Day.”
 
-It was not a victory. It was three men who had each held a different piece of a doubt and had not known the others had one. Beatrice, who had spent nineteen years among registers and knew the exact value of a doubt held in common, said nothing at all and took out her watch.
+Nobody could have called it a victory: three men had each held a different piece of a doubt, and had not known the others had one. Beatrice, who had spent nineteen years among registers and knew the exact value of a doubt held in common, said nothing at all and took out her watch.
 
 The porter returned within a minute, having read nothing, and delivered the answer with the relief of a man who had not been required to think.
 
@@ -4552,7 +4594,7 @@ Arthur did not ask what had been cleaned. He had seen enough of the dead man’s
 
 “You were here.”
 
-“I was in the room above, sir, with the door open. Six men and a rule. He said no, quite politely, and the Lieutenant before this one drew, and then it was done.” He said it as though reading a report he had written many times and been unable to file. “I put it down as a threat to the register. That is what the form has a box for.”
+“I was in the room above, sir, with the door open. Six men and a rule. He said no, quite politely, and the Lieutenant before this one drew, and then it was done.” He said it in the flat voice of a report he had written many times and been unable to file. “I put it down as a threat to the register. That is what the form has a box for.”
 
 “And now?”
 
@@ -4622,6 +4664,38 @@ There were fourteen. A tariff in Lyon, a school catchment, a pension scale, a li
 
 “I did not show the other one. He was grateful enough not to ask.” He lifted a cup and did not drink from it. “People who know what a signature costs sign more carefully. That is the whole of my theory. I have kept your book since my mother’s funeral, Mr Pembroke. I thought you ought to know you were not the only one who keeps a record.”
 
+The secretary put her head round the door. “The judges are seated, Receiver.”
+
+Glock looked at the clock above the shelves, which said eight minutes to four. “Drink your tea, Mr Pembroke,” he said, and went out, leaving the door ajar and the book on the desk, which Arthur understood to be the point.
+
+He did not drink the tea. He turned back through the fourteen with the pencil from the grey notebook and added the months in the margins, and stopped at the total, because it was not a number he could write down. He copied *17/114* onto a clean line instead, with the date. His handwriting looked smaller than Glock’s. The MAROT file sat on the shelf, thick and old, and he left it alone. It was the one thing in the room he had not been asked to read.
+
+Glock came back at five minutes to four and sat down without apology.
+
+“There is a fifteenth,” he said. “It isn’t in the book. I did not keep it. I used it.”
+
+He took a folded sheet from inside the back cover and flattened it with the side of his hand, the way one irons a collar. It was a photocopy of a covering page, full size, with the crest bitten off by the copier. *DESCENDANT REPORT (EXTRACT), TABLES 40–118. For consistency against stated sources only.* Beneath it was a stamp, CONSISTENT WITH STATED SOURCES, then a date, Friday 21 August 2026, and a name with a short flat line under it.
+
+Arthur knew the line.
+
+He remembered the Friday. Thirty-one items from Reviews at twenty to five, a sandwich, and the third monitor asking to be updated; thirty tariffs and schedules and one extract, which he had checked, as instructed, against the sources it cited. They were consistent. He had said so, accurately, and gone home.
+
+“The two hundred and sixth,” said Glock. “Item twenty-two of thirty-one. The other thirty were real. I find it helps. Tables forty onward, because pages one to thirty-nine said what the tables depended on, and you were not asked about those. I wrote no figure. Every number is correct. I removed the pages that said what they were correct about, and I put your stamp on the rest. Director Fanshawe is a careful man in his way. He asked whether it had been assessed. It had. By Western Europe.”
+
+“You said you invented nothing.”
+
+“I didn’t. You signed it on a Friday afternoon in the ordinary course of business. I chose the Friday.” He folded his hands. “I did not forge it, Mr Pembroke. I should think less of both of us.”
+
+“The form—”
+
+“—did not ask you to read the first thirty-nine pages. No. I have read the form.”
+
+Twenty-three days from the Friday to the Sunday on which Fanshawe went through. Arthur counted them twice. He had come into the room believing he was the department’s witness. It appeared he was also a signatory to the mistake it was trying to correct, which was no better a position, but was at least an accurate one.
+
+“Keep the copy,” Glock said. “I have the original.”
+
+Arthur folded the sheet into the grey notebook. It was the only generous thing Glock had done all day, and it had been done to be useful.
+
 Observed events were closed. It was the department’s first rule and its kindest, and it had never once occurred to Arthur that it applied to his own handwriting. He could not go back and not sign. He could only add.
 
 He pushed the book back across the desk.
@@ -4635,6 +4709,8 @@ Arthur did not answer, because he did not yet have it in a form that would survi
 The secretary appeared at the door. It was a minute to four.
 
 “Shall we?” said Glock, and went ahead of him, and held the door.
+
+* * *
 
 Arthur entered the ceremonial room without his coat. It had been weighed and left in the sanitation cupboard, along with Eleanor’s spare tools and three bags of possessions which would never acquire new owners. The lack of it made him feel underdressed for declining his own office.
 
@@ -4698,7 +4774,7 @@ Arthur thought of Ruth in the café, of Karim holding his mother’s letter, of 
 
 He raised his voice.
 
-“I do not consent to this office. I do not appoint Mr Glock to determine admissible history on my behalf. I do not waive any person’s right to keep or present contradictory evidence. I have signed findings in this department whose consequences I did not follow. Fourteen of them are in Mr Glock’s notebook, and I ask that it be recorded that they are mine. A record that holds my signature has to be one I can be asked about in public. That is what I decline to give up. No previous signature of mine should be read as consent to powers concealed from me.”
+“I do not consent to this office. I do not appoint Mr Glock to determine admissible history on my behalf. I do not waive any person’s right to keep or present contradictory evidence. I have signed findings in this department whose consequences I did not follow. Fourteen are in Mr Glock’s notebook. A fifteenth is not, because he used it: the assessment stamped on the casualty tables on which Director Fanshawe acted. I did not ask what the first thirty-nine pages said. Let it be recorded that all fifteen are mine. A record that holds my signature has to be one I can be asked about in public. No previous signature of mine is consent to powers concealed from me.”
 
 Glock had expected the notebook to cost Arthur his nerve. It had cost him his innocence, which, Arthur discovered, he had been wearing as a hat.
 
@@ -4770,7 +4846,7 @@ Captain Reed came in without hurry, with his hands where everyone could see them
 
 “I was on the staircase three years ago, sir,” he said to Arthur’s young lieutenant, or to the room. “We shot an unarmed man for saying no. We were told it was the register. I’ve read the register since. It doesn’t say that.”
 
-The officer lowered the pistol by a few inches. It was not surrender. It was hesitation. Behind Arthur, the reference-room door opened.
+The officer lowered the pistol by a few inches. It was hesitation rather than surrender. Behind Arthur, the reference-room door opened.
 
 Eleanor stood there with a coil of severed cable over one shoulder.
 
@@ -5130,7 +5206,7 @@ Miriam lowered her head for a moment. Then she closed the freight aperture. The 
 
 There was no allowance for Glock.
 
-Arthur realised it before Eleanor said it. Glock, protected and physically present in the future, would remain in a branch whose endpoint they intended to disable. He could not be left with the controls. He could not be silently abandoned while they congratulated themselves on preserving people.
+Arthur realised it before Eleanor said it. Glock, protected and physically present in the future, would remain in a branch whose endpoint they intended to disable. He could not be left with the controls. He could not be silently abandoned while they congratulated themselves on preserving people. There was another reason, which Arthur kept to himself. The sheet in his notebook had two authors, and an inquiry that heard only one of them would learn half of how it was done.
 
 Captain Reed brought him into the passage. Glock saw the closed freight aperture and understood.
 
@@ -5200,7 +5276,7 @@ The captain shook his head.
 
 
 
-They returned to the reference room. Eleanor copied the complete forecast model onto the small protected medium brought for that purpose. Its original premise pages identified the emergency settlement as the cause of the projected war. She verified the export against Saye’s checksum, then gave it to Arthur.
+They returned to the reference room. Eleanor copied the complete forecast model onto the small protected medium brought for that purpose. Its original premise pages identified the emergency settlement as the cause of the projected war. Tables 40 to 118 followed, with their covering sheet scanned in. Arthur held the photocopy from his notebook beside the screen. The flat line under the name matched, down to the place where the copier had bitten the crest. “That’s the one,” Eleanor said, and asked nothing else, which he counted in her favour. She verified the export against Saye’s checksum, then gave it to Arthur.
 
 The final step was mechanical. The future endpoint’s central reference had to be disconnected after their personnel return began, so Glock could not reopen it from another room. Eleanor set a physical delay using a falling weight and a switch, a crude device whose operation did not depend on software Glock had supplied. It would cut the reference ninety seconds after release. Their return window began in thirty.
 
@@ -5368,6 +5444,10 @@ Hester broke the bread and handed her half.
 
 Arthur came back from 2029 to a room full of voices. After the regimented quiet of the future hall, the noise struck him as something almost luxurious. People were asking for water, telephones, toilets, relatives, explanations. One man wanted a form because a form would tell him what kind of situation he was in. Miss Ahmed gave him a chair and said they would decide that together.
 
+By eight she had made him a form. She made it on the back of a duty rota, with a felt pen, and it had one question, in capitals: WHO ARE YOU? Beneath it was a space as wide as the paper. The man who had wanted a form wrote his name, his trade and the name of his dog. A woman wrote that she would like to be told by someone else. Dev wrote *Dev. Sorry*, crossed out *Sorry*, and wrote it again. Miss Ahmed pinned them all to the wall. “It’s the first form I’ve ever seen anybody glad to fill in,” she said, and looked slightly ashamed of having noticed.
+
+The chair beside the registry door, which Mrs Crumb kept for people who had ceased to exist during the working day, had been occupied since six by Mrs Venn. She had been told what it was for and had replied that in that case it was the only seat in the building with a claim on her. She sat in it with her handbag on her knee and a paper bag of biscuits beside her, and offered one to Miriam, who took it, out of manners, and then regretted it. “Terrible,” said Mrs Venn, with satisfaction. “I did say.”
+
 Eleanor went directly to the console. Miriam counted the arrivals herself, comparing Jon’s ledger with Ives’s record. Twenty-two names, twenty-two living people. She touched the last line and let out a breath which seemed to have been waiting three years.
 
 Arthur gave Cole the model archive. The solicitor signed for it, then handed a duplicate receipt to Ives. Neither congratulated him before checking that the file opened. He approved of this so much that he nearly sat down on the floor.
@@ -5468,6 +5548,30 @@ Arthur looked through the narrowing aperture. Hester stood beside Daniel in the 
 
 The light closed. The last route to 1815 was complete. Eleanor shut down the channel and leaned against the console, shaking from fatigue.
 
+Fanshawe was sitting on a crate with a dressing on his forehead, being told by Miss Ahmed to keep it dry. Arthur sat on the next crate and took the sheet out of the grey notebook.
+
+“Tables forty to a hundred and eighteen,” he said. “You asked whether the forecast had been assessed.”
+
+“It had a stamp.”
+
+“It was mine.” He held it out. “Friday the twenty-first of August. I checked the sources it cited, and I wasn’t asked about the rest. I would like you to hear that from me before the inquiry does.”
+
+Fanshawe read it twice, which for him was a considerable expenditure.
+
+“I didn’t read the name,” he said. “I read the stamp. That’s what a stamp is for.”
+
+“That’s what I thought.”
+
+“I should like it minuted that I was not deceived by a stranger.” He handed it back and, for once, did not begin a sentence with On my last mission. “It’s an unusual position. I don’t care for it.”
+
+“No. Term six,” said Arthur. “Nothing I sign leaves the building without the pages it depends on.”
+
+“That will slow the unit down.”
+
+“It signs forty a week.”
+
+“Thirty-nine, then,” said Fanshawe, and shut his eyes.
+
 The reconciliation clock showed one hour and eleven minutes.
 
 At 08:19 Garrick telephoned from a car park in Victoria Street. For the avoidance of doubt, he said, he had countersigned the Minister’s instruction at 08:14, in the wrong ink, one minute before the van was due to leave. The van, which had a rota, had left anyway, with nothing to collect and a form saying so.
@@ -5478,7 +5582,13 @@ They had enough time to make the decision properly, and not enough to pretend it
 
 Eleanor presented the reconciliation comparison to the hearing. The corrected duplicate removed the unrestricted receivership from the chain of authority. Its downstream institutional consequences no longer supported Glock’s 2029 regime or the casualty forecast generated by that regime. The Low Countries settlement returned towards the baseline branch in which Belgium emerged as a country. Most large-scale features of the remembered 2026 were recoverable.
 
-Some things could not be made as though they had never happened. Twenty-two people had arrived from the future. Miriam had arrived earlier. Two versions of Glock were in separate rooms. Arthur’s older body lay in the mortuary. The protected records of Hester, Agnes, Perrott and the hearing existed. Their preservation did not require keeping Glock’s government, but it required acknowledging displaced people and evidence as part of the new present.
+“Most?” said Pelling.
+
+“Don’t build a plan around an adverb,” said Arthur, who had been saving it since Monday.
+
+Eleanor gave him a look which he chose to take as pride, and which she later said had been about the attribution.
+
+Some things could not be unmade. Twenty-two people had arrived from the future. Miriam had arrived earlier. Two versions of Glock were in separate rooms. Arthur’s older body lay in the mortuary. The protected records of Hester, Agnes, Perrott and the hearing existed. Their preservation did not require keeping Glock’s government, but it required acknowledging displaced people and evidence as part of the new present.
 
 “And unprotected lives on the altered branch?” Dame Judith asked.
 
@@ -5546,6 +5656,8 @@ When he hung up, Beatrice stood in the doorway. She did not ask whether he was a
 
 At 09:10 everyone gathered within the protected floors. The arrivals sat in the large room under the watch of medical staff. Miriam checked the head count. Ives held the duplicate registry. Pelling and the observers stood beside the console. The two Glocks remained in separate secure rooms, each with an independent witness and a copy of the detention grounds. Saye sat outside the drying room, no longer locked in but not free to leave without notice.
 
+Mrs Crumb opened the meeting by sitting down and read the apologies. Mr Durrant, with a patient. Captain Reed, of the Registration Guard, who had asked that his absence be noted, and it was noted. Belgium, expected at seventeen minutes past.
+
 Eleanor asked Arthur whether he consented to the reference comparison. It was a technical use of his induction history, limited to this reconciliation. The terms were written on one page. He read them. Cole read them. Neither was embarrassed by the time it took.
 
 Arthur put his hand on the plate.
@@ -5574,6 +5686,10 @@ The restored government’s first response was to ask why a former junior minist
 
 Pelling, who was no longer a minister and had regained his old dislike of unnecessary regulation, answered that he had been the existing minister at the time. This proved unsatisfactory to the Cabinet Office, but made an excellent beginning to the record.
 
+Mrs Crumb reinstated lunch at ten past one. She did it retroactively, in writing, with a note to Facilities explaining that it had been cancelled in error and that she would like this noted. Facilities, to general alarm, replied within four minutes.
+
+At two Mr Durrant telephoned. In the restored history he had never been a dentist, and he wished to know where he had left his desk. Mrs Crumb told him it was where he had left it. He sounded, Arthur thought, disappointed, and asked whether any of his patients might be transferred, as a courtesy. They had, he said, been very good about it.
+
 By noon, three senior officials had arrived. Arthur met them in the committee room with Cole, Dame Judith and Ives. The independent copies were already off-site, carried by authorised couriers to the university and court registry. The evidence could be restricted for proper reasons, but could no longer be made singular by taking one case from one room.
 
 One official asked whether the department had considered the reputational consequences of disclosure.
@@ -5594,6 +5710,8 @@ Miss Ahmed read it and crossed out three phrases.
 
 Arthur accepted the corrections.
 
+The certificate kept one feature of its ancestors. Under *Other* there was a box, and Arthur, remembering a space two inches wide on Victoria Street, had made it a full page. Beside it, in his smallest type, he had printed *See attached*, and he had then attached something. Miss Ahmed held the sheet at arm’s length. “That,” she said, “is the first time I’ve seen that phrase mean anything.”
+
 Miriam took the first group upstairs. At the street door, Karim stopped beneath the daylight. The city was loud with buses, construction, people speaking into phones. A cyclist swore at a taxi. Nobody asked Karim for an orange band.
 
 He touched his bare wrist.
@@ -5603,6 +5721,8 @@ He touched his bare wrist.
 “We need to stay together for now,” Miriam said. “Because we don’t know the way to the accommodation. Not because you’re forbidden.”
 
 He considered this and stepped onto the pavement.
+
+Mrs Venn came out last, in a coat the inquiry had found for her at a charity shop in Victoria, which she distrusted on principle. She weighed it on the scales in the post office across the road, with the manager’s permission, and wrote the figure inside the collar. It was four hundred grams lighter than her old one. “That,” she said, “is the first thing this world has got wrong.”
 
 He went back downstairs to the side room. The dead Arthur still lay beneath the sheet. A medical examiner had attended and confirmed the wound. The death would be registered under a displaced-person designation until a court could determine the formal wording. Arthur had objected to unidentified male. The man was unusually identified.
 
@@ -5712,7 +5832,11 @@ The question came from a parliamentary committee whose members had received a cl
 
 The existence of RAAS had been disclosed in limited terms after the independent hearing refused to surrender its records. Public reaction had ranged from disbelief to a strong conviction that time travel explained the state of the trains. The government had established a statutory inquiry. It had also established a communications group to ensure that nobody described the inquiry as an admission of anything before it had admitted it formally.
 
+Pelling, back on the benches and happier there, had tabled a written question asking how many forms would be needed to abolish a form. He was told that a form would be provided.
+
 Arthur appeared beside Eleanor, Miss Ahmed and Ives. Fanshawe gave evidence separately. Beatrice attended with her own legal representative. The Glocks were being investigated for fraud, unlawful detention, assault and conspiracy. Their different ages complicated attribution but did not prevent it.
+
+Dame Judith North gave evidence in her stockinged feet, which the chair, after consultation with the clerk and a precedent from 1887, allowed. In the public gallery sat a solicitor from Leamington named Haldane, who had come, she told the usher, to see whether paragraph forty-one would be mentioned. It was not mentioned. Dame Judith nodded to her once from the witness table, as to the only person in the room who had read the whole of it.
 
 The committee chair asked Arthur the question again.
 
@@ -5778,7 +5902,7 @@ Beatrice received a formal finding of serious misconduct, lost her management au
 
 Saye gave evidence against both Glocks and faced his own proceedings. Cresswell had been arrested at the committee rooms on the twenty-third of June 1815; the charge sheet survived, and so did the constable’s entry for a brass curiosity taken from his pocket. The inquiry authorised contact only to establish his condition and offer lawful return, not to rescue him from accountability.
 
-He also read into the record the fourteen entries in Glock’s black notebook which carried his signature, with the dates and the numbers of months. The committee asked why he was volunteering them. He said that they were the only evidence nobody else was going to bring, and that an inquiry into who signs for consequences ought to begin with the person who had signed.
+He also read into the record the fourteen entries in Glock’s black notebook which carried his signature, with the dates and the numbers of months, and a fifteenth that was not in it: the sheet of 21 August, with what it covered and what it did not. The committee asked why he was volunteering them. He said that they were the only evidence nobody else was going to bring, and that an inquiry into who signs for consequences ought to begin with the person who had signed.
 
 Before the final session, the later Glock asked to see Arthur. Cole advised that there was no obligation to attend. Arthur went, with the solicitor present and the conversation recorded. He no longer confused listening to a man with granting him control of the room.
 
@@ -5870,6 +5994,8 @@ At the end of the final session, the chair thanked Arthur for his service. He ac
 
 “Exactly.”
 
+“Mr Finch,” the chair added, consulting a note, “is recorded as having claimed four hours’ overtime on the morning of the twenty-third of June 1815. The inquiry finds the claim in order, with interest. It is the first matter before us to be settled without a further hearing.” Cole wrote that down with visible joy.
+
 There was a pause while the clerk added the names. Arthur watched the pen move and, for once, did not feel that paperwork was arriving after the important thing. It was the important thing still being done.
 
 ## 35 People with Addresses
@@ -5900,21 +6026,15 @@ He crossed out a sentence beginning uniquely qualified.
 
 Miriam rented a small flat after the first month. Beatrice helped carry boxes and resisted rearranging the kitchen for nearly an hour. Then she moved the cups. Miriam moved them back after she left. Neither mentioned this at dinner the following Tuesday, which Arthur considered a promising development.
 
-The arrivals met weekly in a room above a community centre. At first government observers attended every meeting. Miss Ahmed asked them to stop unless invited. The people had spent enough time being an administrative event. They needed to complain about one another without it becoming evidence of integration difficulties.
+The arrivals met weekly in a room above a community centre. Miss Ahmed had asked the government observers to stop attending unless invited. The people had spent enough time being an administrative event, and needed to complain about one another without it becoming evidence of integration difficulties.
 
 Arthur was invited to one meeting because he had promised an update on records. He brought the latest search results and no presentation. Jon approved of the absence of slides. Mrs Venn asked whether anyone had located her husband’s burial. Elise wanted copies of the documents establishing her marriage in the branch she remembered. Karim wanted news of his mother.
 
-Karim’s mother remained out of reach. The inquiry had preserved her name and the page from Ms Okafor’s pad, with its address in Camberwell, in a branch that no longer had a door to it. The closed terminal could not be reopened simply because the need was serious. Eleanor was examining other possible documentary gaps, but none had yet met the constraints.
+Karim’s mother remained out of reach. The inquiry had preserved her name and the page from Ms Okafor’s pad, with its address in Camberwell, in a branch that no longer had a door to it. The closed terminal could not be reopened simply because the need was serious. Eleanor was examining other possible documentary gaps, but none had yet met the constraints. Rao’s footnote stayed in the margin where she had put it.
 
-“So you’re still looking,” Karim said.
+“So you’re still looking,” Karim said. “Not just keeping the paper.”
 
-“Yes.”
-
-“Not just keeping the paper.”
-
-Arthur met his eyes.
-
-“The search has a named person responsible and a date for the next report. Keeping the paper is how you can check whether we do it.”
+Arthur told him the search had a named person responsible and a date for the next report, and that keeping the paper was how Karim could check whether they did it.
 
 Karim took the report date and put it in his phone. He had acquired the habit of checking adults against reminders. Arthur hoped it would serve him well and regretted the circumstances of its acquisition.
 
@@ -5926,7 +6046,7 @@ After the meeting, Jon showed Arthur a photograph of himself standing beside his
 
 “Until one of us moves.”
 
-The joke was small and belonged to them. Arthur found it more encouraging than any official integration statistic.
+North Jon had brought his bucket to the meeting, on principle. South Jon had asked what it was for, and been told it was for being there.
 
 Back at the department, Eleanor was supervising the removal of Glock’s wiring. Every component was photographed, labelled and retained for the inquiry. A contractor asked whether the old brass switches could be replaced with a more efficient digital system. Eleanor said yes, provided the manual isolation remained physically independent and someone other than the supplier could inspect the design.
 
@@ -5934,23 +6054,71 @@ Back at the department, Eleanor was supervising the removal of Glock’s wiring.
 
 “Put the cost on the page where the benefits are.”
 
-Arthur watched her sign the requisition. She had begun asking other engineers to challenge her assumptions, and had discovered that this was more annoying than recommending that they do so. The laboratory meetings were longer. The equipment was becoming safer in ways which would never make a dramatic demonstration.
+Arthur watched her sign the requisition. The laboratory meetings were longer. The equipment was becoming safer in ways which would never make a dramatic demonstration.
 
-They went for coffee after work. No one was missing, the machine was shut down and neither carried a protected token. Arthur found the absence of contingency planning almost indecent.
+They went for coffee after work. No one was missing, the machine was shut down and neither carried a protected token. Arthur found the absence of contingency planning almost indecent. Eleanor asked what he did when the past behaved itself, and he said he had become suspicious of endings. She told him to try gardening. He said that seemed to involve deadlines too.
 
-“What do you do,” Eleanor asked, “when the past behaves itself?”
-
-“I used to read.”
-
-“Used to?”
-
-“Lately I’ve become suspicious of endings.”
-
-“Try gardening.”
-
-“That seems to involve deadlines too.”
+He said that seemed to involve deadlines too.
 
 She laughed. They spoke about ordinary things: her flat, his neglected plant, a restaurant she liked, a book he had failed to finish twice for different reasons. He did not tell her that the conversation felt a privilege.
+
+A letter came that week on Regional Complaints Handling paper, signed G. in blue ink. Mr Garrick, who in the restored history had never worked for a Registration Directorate, there having been none, wrote to say that for the avoidance of doubt he had no recollection of any events concerning Victoria Street, a van or a clipboard, and wished that understood. He added that he had found in his desk drawer a clipboard he did not remember owning, and a note in his own hand reading *Deviation noted*, and that he did not propose to look into it. He enclosed the note. His lanyard, he mentioned, was now the colour of an ordinary Tuesday. Arthur filed the letter under G, then moved it to D.
+
+The other envelope was not post.
+
+Beatrice found it on the Thursday, in the tray on the enquiries desk, under a leaflet about opening hours. She knew it was wrong because she had emptied the tray herself at five the evening before, and she emptied things properly.
+
+It was a queue ticket, the buff card a council hands out for a counter that will never reach your number. HALL B was printed across the top, then 0417, then a date in November 2029. On the back, in blue ballpoint, someone had written: *K. Eat properly. They have said Sunday. I have kept your scarf. Mum.*
+
+Beatrice had put on gloves before she thought about it. She rang Eleanor, who came up with a lamp, a magnifier and, after some consideration, a second pair of gloves. The incoming book showed nothing. The survey instruments, which needed three hours to describe a change, described none. The copper had drawn no current since the machine was shut down. No aperture had opened anywhere in the building, and none could have.
+
+With his permission, and with Karim at her elbow, Eleanor laid the ticket beside his mother’s letter. The hand was the same.
+
+“There is no door,” Arthur said. “You told him so.”
+
+“There isn’t. Nobody opened one.” Eleanor put the magnifier down. “Dr Rao would call this tunnelling. A wall thick enough to be called closed is still not perfectly closed. The chance falls off very fast with the thickness and never quite reaches nothing. For this wall I wouldn’t print the number.” She looked at the ticket. “It got through.”
+
+“Could you send something back the same way?”
+
+“No.” She said it before he had finished. “I can’t aim it, I can’t repeat it and I can’t ask it for another. A thing that gets through once by luck isn’t a method, and if I build a method I’ll have built what Glock built, with better stationery.”
+
+Beatrice already had the register open. Under OUTCOME she wrote *arrived*. Under COST she wrote *none known*. In the margin, in pencil, she added *clerical tunnel (not repeatable)*.
+
+“That isn’t a term,” said Eleanor.
+
+“It is now. I write down what arrives.”
+
+Karim read the back of the ticket twice, standing up.
+
+“I haven’t got a scarf,” he said. “She means my hat. She calls everything a scarf.”
+
+Nobody in the room could think of a better test of authorship.
+
+“Is it still true?” he asked. “Where she is?”
+
+“It was true when she wrote it,” Eleanor said. She added nothing, which was the most exact thing she could have said.
+
+Karim asked whether he could keep it.
+
+“Not yet,” Eleanor said. “It’s the only thing in the building that arrived without a door. It goes into the evidence store with Glock’s wiring until the inquiry has closed on it, and I can’t tell you when that will be.”
+
+“She wrote it to me.”
+
+“Yes.” Beatrice had the custody form out already. “A photograph to conservation standard goes home with you. The card stays here. It’s the rule that stopped Glock choosing what counts, and it doesn’t stop applying because the card is yours.”
+
+Karim read the form to the end, which Arthur noticed, because nobody had told him to. He signed for the photograph and did not say thank you. He asked to carry the card down to the store himself, and at the door he stood a moment longer than the form required before he handed it over.
+
+That evening Arthur wrote a reply, in capitals, in the clerk’s way, and signed it with the short flat line. It was addressed to Hall B. Nothing in the building could carry it, and he had told Karim so before he began.
+
+“Then what’s it for?” Karim had asked.
+
+“So the file shows that somebody answered.”
+
+“That isn’t the same as sending it.”
+
+“No,” Arthur said. “It isn’t.”
+
+Karim looked at him until it was uncomfortable and went home with the photograph. Arthur filed the reply anyway. He had never been able to leave a receipt unsigned, and he knew that this one was for himself.
 
 On Sunday he visited his mother. He brought the protected photograph only after asking whether she wanted to see evidence of another life Ruth had lived. She did. They sat at the kitchen table while he told her what he knew. She asked about the children, about Peter, about the blue bag. She cried. So did Arthur. Then she asked whether he had eaten, because grief had not removed her other responsibilities.
 
@@ -5974,6 +6142,8 @@ Arthur read the letter in the public reading room with Beatrice, Eleanor and Mir
 
 She began by acknowledging payment for the press, then corrected the amount owed to Gant, who had discovered an additional charge after becoming helpful. She reported that Daniel’s hand was improving, that the committee had paid the original account after Perrott supplied a sharply worded reminder, and that Glock’s remaining agents had ceased visiting the shop once ordinary legal attention made their work less private.
 
+Mr Perrott, she added, had sent the committee his account for the clerk’s time, with the sum written in words, in so small a hand that the committee had taken it for a smudge and paid it twice. He had noted that too.
+
 Then the letter changed its purpose without announcing the change.
 
 Hester wrote that she had reopened the shop under her own full name. The old sign had said PIKE PRINTER, which customers interpreted as the late Mr Pike whenever they wished to question her prices. The new sign said HESTER PIKE PRINTING AND STATIONERY. Some customers objected. Most still wanted their notices by Thursday.
@@ -5988,11 +6158,13 @@ Hester said she had considered asking whether the business prospered, whether sh
 
 She hoped Arthur had reached home. She hoped Mrs Crumb’s daughter had done the same, whatever home meant for them. She did not ask whether they had restored the world they preferred. She asked whether the people who had helped them would be allowed to remain in its account.
 
+She had counted the colours on Arthur’s biscuit packet, she wrote, and made it six, and one she could not name. She had not yet forgiven the printer.
+
 At the foot was a postscript: I have kept copies of everything. You would be unbearable if I had not.
 
 Arthur laughed, then read the last page again.
 
-The search for Daniel’s brother had already produced an answer. Samuel Wren had survived Waterloo, spent months recovering from a leg wound and returned to London late in 1815. A pension application carried his signature. A later parish entry placed him at Daniel’s address. It was not an entirely happy life; the records included debt and pain. It was a life, and the answer Daniel had asked for was yes.
+The search for Daniel’s brother had already produced an answer. Samuel Wren had survived Waterloo, spent months recovering from a leg wound and returned to London late in 1815. A pension application carried his signature. A later parish entry placed him at Daniel’s address. Not an entirely happy life; the records included debt and pain. But a life, and the answer Daniel had asked for was yes.
 
 They could send that fact back only through a new, lawful correspondence window. The original letter’s existence did not itself create one. Eleanor searched the shop’s later accounts and found an interval in which an unrecorded enclosure could have been added to a packet returned by the solicitor. The proposed intervention would convey information without changing a known observation of the packet’s contents. Its possible effects still required assessment. Daniel might act differently on hearing that his brother survived. He might travel, spend money, abandon a search. Information was an intervention too.
 
@@ -6012,9 +6184,11 @@ Arthur visited the exhibition when the documents went on display. A school group
 
 The teacher said that was a good question. Arthur, standing behind them, resisted the urge to answer.
 
+The case beside it held Exhibit 1, a packet of Yorkshire cocoa biscuits, lent by the inquiry and labelled *Grown locally since 1841 (no longer)*. It drew more visitors than the Gazette. A boy asked what Yorkshire cocoa was. The label did not say, which Arthur thought the curator’s most honest decision.
+
 On his way out, he bought a postcard of the printing press from the museum shop. He sent it to Beatrice with the message: Payment enclosed in the usual sense of the phrase.
 
-She returned it through internal post with a note identifying an error in the caption’s date. Arthur checked. She was right. He wrote to the museum, which corrected the online entry and promised to amend the next print run.
+She returned it through internal post with a note identifying an error in the caption’s date. Arthur checked. She was right. The caption had also called the clerk who witnessed the seizure A. Brown, and she had let that stand, on the grounds that Arthur’s own notebook described it as a professional name. He wrote to the museum, which corrected the online entry and promised to amend the next print run.
 
 No aperture was required.
 
@@ -6026,21 +6200,23 @@ It displayed all four basement floors, admitted visitors according to their appo
 
 The department kept its name after a public consultation in which the leading alternative was Past Mistakes. Its new director was appointed from outside, a former ombudsman named Dr Salma Hartigan who had read the inquiry report and declined the office twice before receiving the powers she considered necessary. On her first day she asked why the director’s room was larger than the arrivals’ interview room. Facilities had an explanation. She listened, then exchanged them.
 
-Arthur remained Deputy Assistant Director of Historical Continuity. His new remit included independent witness records and compensation follow-through. He had been offered a grander title and asked instead for two additional staff. One request was approved immediately; the other required a business case. He wrote the case.
+Arthur remained Deputy Assistant Director of Historical Continuity. His new remit included independent witness records and compensation follow-through. He had been offered a grander title and asked instead for two additional staff. One request was approved immediately; the other required a business case. He wrote the case. His contract was reissued. It still specified London. Beatrice, reading it over his shoulder, observed that quite a lot of 1815 was, and he asked her to put that in writing, which she declined.
 
-Fanshawe sent a postcard from a coastal town where he was learning, unsuccessfully, to make furniture. He said the difficulty was that wood did not respond to rank. Beatrice pinned the card above her temporary advisory desk. She had six months left on her contract and had begun training the people who would replace her. She was better at it than she expected, and more critical of their filing than they found restful.
+Fanshawe sent a postcard from a coastal town where he was learning, unsuccessfully, to make furniture. It began, inevitably, *On my last mission* and went on to describe a chisel. He said the difficulty was that wood did not respond to rank. Beatrice pinned the card above her temporary advisory desk. She had six months left on her contract and had begun training the people who would replace her. She was better at it than she expected, and more critical of their filing than they found restful.
 
 Miriam accepted a laboratory post at a university. She still consulted on RAAS, but under a contract which allowed her to refuse assignments. Her first refusal concerned a weekend. Beatrice invited her to lunch instead. They went to a restaurant and argued about the menu, an achievement neither described in those terms.
 
 The Glocks remained in custody under separate case numbers, and their lawyers disagreed about whether the later man’s admissions could be used against the earlier one. The court asked for evidence of each act. Arthur answered requests to clarify his notebook, carefully, and did not follow every hearing.
 
-On a cold Monday, Arthur arrived at work with a bag of pastries for the new staff. The vending machine had jammed again. Its display offered Belgian chocolate rounds, but the mechanism declined to release them. He considered calling Eleanor, then called Facilities. Some problems deserved to remain small.
+On a cold Monday, Arthur arrived at work with a bag of pastries for the new staff. The new pass reader at the lift, which Eleanor had insisted on and Facilities had fitted in nine days, took his card and reached a hundred per cent at once. He stood and looked at it. Then, from habit, he pressed it again, and it let him through a second time, which he put down to enthusiasm. The vending machine had jammed again. Its display offered Belgian chocolate rounds, but the mechanism declined to release them. He considered calling Eleanor, then called Facilities. Some problems deserved to remain small. Facilities arrived in four minutes and the machine was fixed before Arthur reached his desk. He did not like to ask what it had been promised.
 
 In the corridor outside Records the duty board said MONDAY, and Monday it was. The analyst who had once changed it to Tuesday now held a post in which she kept her own chalk. In the bottom corner, small, she had added WE CHECKED.
 
+The chair beside the registry door had acquired a card in Beatrice’s hand: PLEASE SIT. She had ruled a line through the older notice and initialled the deletion. It had been empty for six weeks, which she took as evidence that it was working.
+
 In Records, the dispatch ledger lay open on the counter with its seventh column. Over the autumn it had begun to fill, slowly, in several hands. The first entry was in Arthur’s: *Ruth, Peter, Lucy, Sam. Unfulfilled. Kept.*
 
-Beside it, the old pencilled registers had begun to give up their dots. The names went in at about four a week, in several hands, starting with Prosser, lock-keeper, who had been left out of a Transport Act in 1953. Arthur had done his own fourteen at a single sitting, at the counter, because it seemed to him that this was where a signature ought to end up. The first read: *Margaret Glock, Leeds. Eleven months. Retained by A. Pembroke, 12 October 2017. Entered.*
+Beside it, the old pencilled registers had begun to give up their dots. The names went in at about four a week, in several hands, starting with Prosser, lock-keeper, who had been left out of a Transport Act in 1953. Arthur had done his own fifteen at a single sitting, at the counter, because it seemed to him that this was where a signature ought to end up. The first read: *Margaret Glock, Leeds. Eleven months. Retained by A. Pembroke, 12 October 2017. Entered.* The fifteenth had no single name to put against it, so he wrote the only accurate thing he had: *Everyone in Belgium. Tables 40 to 118 only. Assessed by A. Pembroke, 21 August 2026. Entered.*
 
 At nine seventeen, a junior archivist named Nisha brought him an envelope.
 
@@ -6056,7 +6232,7 @@ The envelope was ordinary cream paper. It bore no stamp, only an address in a ha
 
 He did not open it immediately. He logged the arrival, asked Nisha to remain as witness and called Eleanor. Then he noticed that the envelope was warm.
 
-Eleanor came from the laboratory carrying a meter. She examined the paper without touching the seal.
+Eleanor came from the laboratory carrying a meter. She wore one watch these days. The other, she had told him, was in a drawer in the correct year, and could look after itself. She examined the paper without touching the seal.
 
 “Protected fibre.”
 
@@ -6064,7 +6240,7 @@ Eleanor came from the laboratory carrying a meter. She examined the paper withou
 
 “No.”
 
-Arthur looked through the glass towards the main machine. It was shut down, its controls locked under the new two-person procedure. No incoming channel had opened. No telephone had rung.
+Arthur looked through the glass towards the main machine. It was shut down, its controls locked under the new two-person procedure. No incoming channel had opened. No telephone had rung. Only the third monitor showed any sign of life. It had installed its update at 09:17, seven years and one revision late, and was asking, politely, to restart. Under the new procedure that took two signatures, and neither Arthur nor Eleanor was willing to be the first.
 
 “Could it have been deposited earlier?”
 
@@ -6084,7 +6260,7 @@ At the bottom was a request: Please establish who is acknowledging delivery.
 
 Arthur read the sheet twice. The problem was not Glock’s receivership returning under another name. It described a different uncertainty: evidence apparently arriving before the event it purported to certify, without a paired machine anyone could identify. It might be fraud. It might be a surviving device. It might be someone using the archive’s promise to draw them into a new mistake.
 
-He found that his first feeling was not dread. It was curiosity, followed promptly by the desire for a proper breakfast.
+He found that his first feeling, to his own surprise, was curiosity, followed promptly by the desire for a proper breakfast.
 
 “We’re not opening a window,” Dr Hartigan said.
 
@@ -6092,9 +6268,9 @@ He found that his first feeling was not dread. It was curiosity, followed prompt
 
 Eleanor smiled slightly. Nisha wrote down the instruction. Ives remained on the telephone, already listing the records they could examine without leaving the century.
 
-Arthur placed the letter in a clear sleeve. There would be an investigation, independent copies, questions about premises and perhaps, eventually, a journey. There would also be lunch, staff leave and a meeting with the arrivals’ representatives at three. The future did not cancel the people already waiting.
+Arthur placed the letter in a clear sleeve. There would be an investigation, independent copies, questions about premises and perhaps, eventually, a journey. There would also be lunch, staff leave and a meeting with the arrivals’ representatives at three, which would open, as Beatrice now insisted all meetings should, with apologies for absence. He already knew that he would have to record one from 2034, unconfirmed. The future did not cancel the people already waiting.
 
-He called Beatrice, who was due in that afternoon, and asked whether she could look at a curious receipt. She said most receipts became curious if people failed to file them properly. He told her she might enjoy this one.
+He called Beatrice, who was due in that afternoon. “Mrs Crumb,” she said, out of habit, and then, after a pause in which he could hear her checking, “Beatrice. The country is no longer in flux. I looked.” He asked whether she could look at a curious receipt. She said most receipts became curious if people failed to file them properly. He told her she might enjoy this one.
 
 Then he opened the pastry bag and offered Nisha the first choice.
 
@@ -6107,6 +6283,309 @@ Received, he wrote.
 Then the date and, after some consideration, AS OBSERVED.
 
 
+## Lessons from the Department
+
+The Department’s physics is invented where it has to be and real where it can be. These five lessons sort one from the other.
+
+Each lesson begins with the scene that needed the idea. Then come the real physics, the Department’s own rule (labelled as invented), a worked example with numbers, one diagram, and three exercises to try, graded Core, Extension and Challenge, each with a full solution and the usual mistake.
+
+You need a pencil and a calculator that does powers of ten. Formulas are plain text: ^{2} means squared, × means times, and e^{x} is the exponential function (the “e^x” key). Constants used throughout: the speed of light c = 3.00 × 10^{8} metres per second; ħ (read “h-bar”) = 1.055 × 10^{-34} joule-seconds; the mass of an electron = 9.11 × 10^{-31} kilograms; one electronvolt (eV) = 1.602 × 10^{-19} joules.
+
+A warning that the Department would approve of. Nothing here makes time travel possible. Nobody knows a way to do it, and the book does not claim one. What the lessons show is that some of the rules a time-travelling clerk would meet are real rules, tested in laboratories, and that others are paperwork.
+
+## Lesson 1: A Clock Counts Only Itself
+
+### Where the story needs it
+
+Chapter 12: Nan Tully notices two watches on Eleanor’s wrists. “Neither is wrong,” Eleanor says. “They’re keeping different places.” Chapter 13: Miriam reads both at the return and asks, “Is that dilation?” Pensions want the age of the man on the trolley (chapter 9), and the two Glocks of chapter 17 differ by three years. The story needs one idea: a person’s age is what their own clock has counted, and that depends on the path they took.
+
+### The real physics
+
+Start two identical clocks together. Send one on a journey and bring it back. The two need not agree.
+
+Albert Einstein’s special relativity (1905) says that a clock moving at speed v ticks slower, as judged by a clock that stays put, by a factor of (1 − v^{2}/c^{2})^{1/2}. His general relativity (1915) adds that a clock higher in a gravitational field ticks faster. The time a clock counts along its own path is called its proper time.
+
+This has been measured. In October 1971 Joseph Hafele and Richard Keating carried caesium clocks round the world on scheduled airliners. The travelling clocks disagreed with the ones left at the United States Naval Observatory by tens to hundreds of nanoseconds, as the theory predicted. GPS satellites carry clocks that are corrected for both effects, or your phone would put you in the wrong street within minutes.
+
+![Diagram of two clocks over one journey. A vertical line shows the stay-at-home clock counting 10 years. A red line goes out to 3 light-years and back over 10 home years; the traveller at 0.6 times the speed of light counts 8 years. A dotted line marks the path of light.](notes/figures/fig1_two_clocks.png)
+
+*Figure 1. Two clocks, one journey. The home clock counts 10 years. The traveller, going out and back at 0.6c, counts 8 (10 × 0.8). The dotted line is light.*
+
+### The Department’s own rule (invented)
+
+In the book, the machine’s induction field recognises a returning traveller by how much of them has happened: their own count. So each traveller carries two clocks, and the register now takes two figures. That rule is invented. So is the passage itself.
+
+Real relativity does not age anyone by sending them to 1746. In the story, the man on the trolley is three years older than Arthur because he lived three years on a branch that Arthur has not lived. Nothing about speed is involved. It is the same bookkeeping (age is own time) with a different cause, and chapter 13 says so: the minute Eleanor loses is not relativity, it is a woman in a laundry.
+
+### Worked example
+
+Take an airliner at 250 metres per second (900 kilometres an hour) for 10 hours. How far behind does its clock fall?
+
+First the sums. Speed squared: 250 × 250 = 62,500. The speed of light squared: 3.00 × 10^{8} × 3.00 × 10^{8} = 9.00 × 10^{16}. Divide: 62,500 ÷ 9.00 × 10^{16} = 6.94 × 10^{-13}.
+
+For speeds far below c, the clock runs slow by half that ratio: 3.47 × 10^{-13}. That means 3.47 × 10^{-13} of a second is lost for every second flown.
+
+Ten hours is 36,000 seconds. 36,000 × 3.47 × 10^{-13} = 1.25 × 10^{-8} seconds: about 12.5 nanoseconds.
+
+The pattern in those steps is the formula. For speeds much smaller than c, time lost = elapsed time × v^{2} ÷ (2c^{2}). For speeds near c, use the full factor (1 − v^{2}/c^{2})^{1/2} instead.
+
+Now Eleanor’s minute. She was away 3 hours 32 minutes by the Operations clock, which is 12,720 seconds, and her own watch says 3 hours 31. What speed would explain a 60-second loss by speed alone?
+
+Fraction lost: 60 ÷ 12,720 = 0.00472. Using the small-speed rule: v^{2}/(2c^{2}) = 0.00472, so v^{2}/c^{2} = 0.00943 and v/c = 0.097. That is about a tenth of the speed of light, 29,000 kilometres a second. In a laundry, the minute is not relativity.
+
+A last case where the full factor matters. A ship travels at 0.6c (v/c = 0.6) for 10 years by the home calendar. The factor is (1 − 0.36)^{1/2} = 0.64^{1/2} = 0.8. The travellers count 10 × 0.8 = 8 years. (Turning round needs acceleration, which is why this is not a contradiction. The one who turned round is the one who ages less.)
+
+### Try it now
+
+**Core.** A person walks at 1.5 metres per second for 80 years (2.52 × 10^{9} seconds). How much less have they aged than someone who stood still?
+
+**Solution.** v^{2} = 2.25. c^{2} = 9.00 × 10^{16}. v^{2}/(2c^{2}) = 2.25 ÷ 1.8 × 10^{17} = 1.25 × 10^{-17}. Multiply by 2.52 × 10^{9} seconds: 3.15 × 10^{-8} seconds, about 32 nanoseconds. A lifetime of walking buys you thirty-two billionths of a second.
+
+**The usual mistake.** Forgetting to halve (or to square the speed), which gives answers that are wrong by a factor of two or by tens of orders of magnitude.
+
+**Extension.** A ship travels at 0.8c for 10 years by the home calendar. How many years do the travellers count?
+
+**Solution.** v/c = 0.8, so (v/c)^{2} = 0.64. 1 − 0.64 = 0.36. The square root is 0.6. The travellers count 10 × 0.6 = 6 years.
+
+**The usual mistake.** Using the small-speed rule here. It gives 10 × 0.32 = 3.2 years lost, so 6.8 years counted, which is wrong. The rule only works when v is much smaller than c.
+
+**Challenge.** A GPS satellite moves at about 3,870 metres per second. Using the small-speed rule, how many microseconds per day does its clock lose to motion? General relativity says the higher position makes it gain about 46 microseconds per day. What is the net, and how long until the ranging error reaches 100 metres?
+
+**Solution.** v^{2} = 1.50 × 10^{7}. Divide by 2c^{2} (1.8 × 10^{17}): 8.3 × 10^{-11}. A day is 86,400 seconds: 8.3 × 10^{-11} × 86,400 = 7.2 × 10^{-6} seconds, or 7.2 microseconds lost. Net: +46 − 7.2 = about +38 microseconds a day gained. Light travels 3.00 × 10^{8} × 38 × 10^{-6} = 11,400 metres in that time, so the position error grows by about 11.4 kilometres a day. To reach 100 metres: 100 ÷ 11,400 = 0.0088 of a day, about 13 minutes.
+
+**The usual mistake.** Treating the two effects as the same sign. They oppose: motion slows the clock, height speeds it up.
+
+## Lesson 2: Whatever Happened, Happened
+
+### Where the story needs it
+
+Chapter 2: Eleanor tells Arthur that whatever he does in an open minute “becomes part of what happened”. Chapter 7: Fanshawe, “That interval is closed, and what I did in it stays done.” Chapter 9: “Nothing here requires a person to cause their own existence.” Chapter 26: “He could not go back and not sign. He could only add.” The story needs one idea: you may act in the past, but the past you act in has to come out the same as the one that produced you.
+
+### The real physics
+
+Einstein’s equations of general relativity permit, on paper, paths that loop back to their own past (closed timelike curves). Whether nature allows such things is unknown, and most physicists doubt it. If it does, the question is what the laws say about a ball, or a letter, that goes round such a loop.
+
+The answer proposed by Igor Novikov in the 1980s, and called the self-consistency principle, is that only histories which agree with themselves can occur. A ball may enter the loop and knock its earlier self off course, but only in a way that produces the very ball that enters. In 1990 and 1991 a team including Kip Thorne tested this on billiard balls, a ball entering a wormhole that sends it back. They expected some starting conditions to leave no consistent history at all. They found the opposite: a wide class of them had far too many, infinitely many, and a search for starting conditions with none turned up nothing.
+
+So the principle does not forbid acting on the past. It forbids contradictions. What it leaves open is how many consistent histories there are.
+
+### The Department’s own rule (invented)
+
+The Department turns the principle into paperwork. A minute is closed once something independent recorded it, and a closed minute cannot be entered. What you do in an open minute is closed afterwards. Both are the book’s rules. So is the stricter rule of chapter 9, that no person is required to cause their own existence. Real self-consistency permits such loops, if they agree with themselves; the book chooses not to.
+
+### Worked example
+
+Here is a toy loop. A letter comes back from the future with a single digit N on it. You do a calculation on it: multiply by 3, add 4, keep only the last digit of the answer, and that is the digit you send back to your earlier self. For the loop to be consistent, the digit you send must be the digit that arrived.
+
+Try every digit. Write f(N) for “the last digit of 3N + 4”.
+
+N = 0: 3 × 0 + 4 = 4, so f = 4. Not equal to N.
+N = 1: 7. No. N = 2: 10, so 0. No.
+N = 3: 3 × 3 + 4 = 13, so f = 3. Equal to N: consistent.
+N = 4: 16, so 6. No. N = 5: 19, so 9. No. N = 6: 22, so 2. No. N = 7: 25, so 5. No.
+N = 8: 3 × 8 + 4 = 28, so f = 8. Equal to N: consistent.
+N = 9: 31, so 1. No.
+
+Two histories are allowed (3 and 8). Eight are not. (A real billiard ball can have far more than two; the toy has ten digits to try.) Nobody forbids the letter. The loop only decides which letters can exist. Note, too, that nothing in the loop says where the digit came from: it exists because it agrees with itself, and that is the part the Department’s auditors dislike.
+
+![Diagram with the digits 0 to 9 on top and 0 to 9 below. Grey arrows map each digit N to the last digit of 3N plus 4. Thick blue vertical arrows show that only 3 and 8 map to themselves.](notes/figures/fig2_consistent_loop.png)
+
+*Figure 2. The toy loop. Each digit that arrives sends back the last digit of 3N + 4. Only 3 and 8 map to themselves, so only those letters can exist.*
+
+### Try it now
+
+**Core.** The rule is “last digit of 5N + 3”. Which digits are consistent?
+
+**Solution.** Try the digits: 0 → 3, 1 → 8, 2 → 13 so 3, 3 → 18 so 8, 4 → 23 so 3, 5 → 28 so 8, 6 → 33 so 3, 7 → 38 so 8, 8 → 43 so 3, 9 → 48 so 8. No digit matches itself. No consistent history exists, so no such letter can arrive. In physics, a loop like this would not occur. The billiard-ball studies of 1991 searched for starting conditions with no consistent history and found none.
+
+**The usual mistake.** Reading “no consistent history” as “the time machine breaks”. It means that this particular letter-and-rule cannot be set up.
+
+**Extension.** The rule is “last digit of N × N”. Which digits are consistent?
+
+**Solution.** 0 → 0, 1 → 1, 2 → 4, 3 → 9, 4 → 16 so 6, 5 → 25 so 5, 6 → 36 so 6, 7 → 49 so 9, 8 → 64 so 4, 9 → 81 so 1. Matches: 0, 1, 5 and 6. Four consistent histories.
+
+**The usual mistake.** Stopping at the first match. Self-consistency does not promise a unique answer, only agreement.
+
+**Challenge.** Under the book’s rules, which of these may happen? (a) A traveller copies out a letter that he found, and posts it to the finder’s past, so that the letter he found is the one he copied. (b) A traveller is born only because of a journey he has not yet made.
+
+**Solution.** Real self-consistency allows both, if they agree with themselves. The book’s rule of chapter 9 forbids (b), because in (b) a person is required to cause their own existence. It says nothing against (a), where nobody’s existence depends on the loop, though the letter’s origin is a puzzle the Department is content to leave on a shelf.
+
+**The usual mistake.** Believing that real physics forbids (b). It does not know; the prohibition is the author’s.
+
+## Lesson 3: What “Observed” Does and Does Not Mean
+
+### Where the story needs it
+
+Chapter 2: Arthur says, “Observed. Like the cat in the box.” Eleanor: “No. Nobody’s looking has ever changed anything in this building.” The Department’s rule is about records, not eyes. The story needs the distinction because the whole plot turns on which minutes are closed, and that has to be a rule about evidence.
+
+### The real physics
+
+In quantum mechanics a measurement is a physical interaction. To see an electron, something has to bounce off it, and that something carries momentum. The electron cannot be left as it was.
+
+No mind is required. A photon hitting a speck of dust, a stray air molecule or the cell of a detector does the job, and nothing needs to be looking. Erwin Schrödinger’s cat (1935) was devised to show how strange the theory sounds when it is applied to everyday objects, not to claim that cats wait for people.
+
+A related but separate fact is Werner Heisenberg’s uncertainty relation (1927): the position spread Δx and the momentum spread Δp of a particle cannot both be made small, and Δx × Δp is at least ħ/2. The relation limits what can be prepared. The disturbance is what a particular measurement does. Both are real; neither needs an observer with a mind.
+
+![Two sketches of light meeting an electron. Top: short-wavelength light gives a sharp position and a hard kick, drawn as a long arrow. Bottom: long-wavelength light gives a small kick but a blurred position, drawn as a large grey cloud.](notes/figures/fig3_looking_at_electron.png)
+
+*Figure 3. Looking at an electron. Light short enough to fix its position gives a hard kick. Light gentle enough for a small kick gives a blurred picture. (Not to scale.)*
+
+### The Department’s own rule (invented)
+
+The book uses “observed” in the sense of a bailiff’s observation: an independent record exists, such as a register, a bill or a washerwoman who told her sister. An interval with such a record is closed, and the machine cannot enter it. That has nothing to do with the quantum measurement problem. The book borrows the word and Eleanor, who knows better, objects.
+
+### Worked example
+
+How badly does looking at an electron disturb it? Suppose we want to know where an electron is to within 1 nanometre (10^{-9} metres).
+
+Uncertainty: the momentum spread must be at least ħ ÷ (2 × Δx) = 1.055 × 10^{-34} ÷ (2 × 10^{-9}) = 5.3 × 10^{-26} kilogram-metres per second.
+
+Divide by the electron’s mass to get a speed spread: 5.3 × 10^{-26} ÷ 9.11 × 10^{-31} = 5.8 × 10^{4} metres per second: about 58 kilometres a second.
+
+Disturbance: to see a 1 nm feature we need light of about 1 nm wavelength. A photon of wavelength λ has momentum h/λ, where h = 6.63 × 10^{-34}. So p = 6.63 × 10^{-34} ÷ 10^{-9} = 6.6 × 10^{-25} kilogram-metres per second. If the electron absorbs or scatters a good part of that, it moves at 6.6 × 10^{-25} ÷ 9.11 × 10^{-31} = 7.3 × 10^{5} metres per second. If the photon bounces straight back, the electron can take up to twice that. Looking at an electron is not gentle.
+
+### Try it now
+
+**Core.** Locate an electron to within 0.1 nanometre (the size of an atom). What is the least speed spread?
+
+**Solution.** Δp ≥ 1.055 × 10^{-34} ÷ (2 × 10^{-10}) = 5.3 × 10^{-25}. Divide by 9.11 × 10^{-31}: 5.8 × 10^{5} metres per second. Ten times smaller space, ten times larger speed spread.
+
+**The usual mistake.** Using the diameter where the formula wants the spread, or forgetting the 2.
+
+**Extension.** A bowling ball of mass 7 kilograms is located to within 1 millimetre. What is the least speed spread? Is it noticeable?
+
+**Solution.** Δv ≥ 1.055 × 10^{-34} ÷ (2 × 7 × 10^{-3}) = 7.5 × 10^{-33} metres per second. In the whole age of the universe (4 × 10^{17} seconds) that speed would carry it about 3 × 10^{-15} metres, far less than the width of an atom, so nobody will ever see it. The effect is real everywhere; it is only large for small things.
+
+**The usual mistake.** Thinking the relation switches off for big objects. It applies to them too; the number is merely tiny.
+
+**Challenge.** Visible light has a wavelength of about 500 nanometres. What speed could one such photon give an electron by being completely absorbed, and why do microscope-makers not use it to look at atoms?
+
+**Solution.** p = 6.63 × 10^{-34} ÷ (5 × 10^{-7}) = 1.3 × 10^{-27}. Divide by the electron’s mass: 1.5 × 10^{3} metres per second. Light of that wavelength cannot resolve anything smaller than roughly its own wavelength, 500 nm, so it cannot see an atom (0.1 nm) at all. To see an atom you need shorter wavelengths, which carry more momentum: the same relation, 5,000 times shorter wavelength, 5,000 times the kick.
+
+**The usual mistake.** Believing that gentler light helps. For a single photon, longer wavelength means a gentler kick and a blurrier picture, and the picture is the problem.
+
+## Lesson 4: Two Copies, No Message
+
+### Where the story needs it
+
+Chapter 6: Miriam asks whether the brass tokens are entangled, “whatever happens to one, the other knows”. Eleanor says no: entangled things are correlated and are not in conversation. Chapter 7: the committee ratifies when “two sealed copies” are found to agree. Chapter 31: the tokens “could signal readiness and direction” but “could not carry a conversation”. The story needs the idea because the rule that a message costs an opening, and cannot be got for free, is the reason the characters cannot phone 1815 for nothing.
+
+### The real physics
+
+Entanglement is a correlation between two quantum systems that cannot be written as two independent descriptions. Take two particles prepared so that their spins are opposite whatever axis you measure along, a state called the singlet. Alice measures one particle and Bob the other, each choosing an axis. If the axes are an angle θ apart, the chance that their results are opposite is cos^{2}(θ/2).
+
+So at θ = 0 they are always opposite; at 90 degrees, half the time; at 180 degrees, never.
+
+Alice, looking at her results alone, sees an even coin toss whatever Bob chooses. Bob’s choice does not change her statistics. The pattern only appears when the two lists are brought together, and that takes a letter, a telephone or a light beam. So entanglement carries no message.
+
+![Top: a source S sends one member of a pair to Alice and one to Bob; each list on its own is a coin toss and no message passes between them. Bottom: a curve of the share of opposite results against the angle between the axes, falling from 1 at 0 degrees to 0.75 at 60 degrees, 0.5 at 90 degrees and 0 at 180 degrees.](notes/figures/fig4_correlated_tokens.png)
+
+*Figure 4. A pair made together. Each list alone is a coin toss. Only when the lists are compared does the share of opposite results follow cos²(θ/2), where θ is the angle between the axes.*
+
+What makes it more than two sealed envelopes is a test devised by John Clauser, Michael Horne, Abner Shimony and Richard Holt in 1969. Any scheme where each particle carries a pre-agreed instruction (envelopes, copies, an agreed plan) can score at most 2 in their combination of four correlations. Quantum mechanics can reach 2√2, about 2.83. Experiments, including Alain Aspect’s in 1982 (in an equivalent form of the test) and the loophole-closing ones of 2015, violated that bound. The Delft experiment of 2015 found 2.42, give or take 0.20. Clauser, Aspect and Anton Zeilinger shared the Nobel Prize in Physics in 2022 for this work.
+
+### The Department’s own rule (invented)
+
+That communications consume a physical opening is the book’s rule. The brass tokens, the stove and the paper slip are invented. What is real is the point Eleanor makes: whatever correlation the tokens had, it would not be a way of talking.
+
+### Worked example
+
+Two spins in the singlet state, measured along axes 60 degrees apart. What fraction of results are opposite?
+
+Half the angle: 60 ÷ 2 = 30 degrees. Cosine of 30 degrees = 0.866. Square it: 0.75. Three-quarters of the pairs are opposite. A quarter are the same.
+
+Now let Alice vary her axis and watch only her own results. Whatever angle she picks, half of her results are “up” and half “down”. Bob sees the same on his side. Nothing Alice does changes what Bob counts. That is why it carries no message.
+
+### Try it now
+
+**Core.** The two axes are 90 degrees apart. What fraction of results are opposite?
+
+**Solution.** Half the angle: 45 degrees. cos 45 degrees = 0.707. Squared: 0.5. Half the pairs are opposite and half the same.
+
+**The usual mistake.** Forgetting to halve the angle: cos^{2}(90°) = 0 would say the results are never opposite.
+
+**Extension.** Alice and Bob measure 10,000 pairs along axes 120 degrees apart. How many of the pairs do you expect to be opposite? What can Bob learn about Alice’s axis from his own 10,000 results alone?
+
+**Solution.** Half the angle: 60 degrees. cos 60 degrees = 0.5. Squared: 0.25. So 0.25 × 10,000 = 2,500 pairs opposite and 7,500 the same. From his own results, Bob learns nothing about her axis: about 5,000 up and 5,000 down whatever Alice does. He can only see the 2,500 and 7,500 when he compares his list with hers.
+
+**The usual mistake.** Believing Bob would see his results “shift” when Alice changes axis.
+
+**Challenge.** In chapter 7 the committee accepts a recommendation when “two sealed copies held by separate recipients are found to agree”. Is that entanglement? What would be different if it were?
+
+**Solution.** No. Both copies were made from the same text before they were sealed, so they agree because they were copied. This is a shared instruction, the “envelope” case, which scores at most 2 on the Clauser-Horne-Shimony-Holt test. A true entangled pair would score above 2 under some choices of axes, which no pair of paper copies could, and still would not carry any message.
+
+**The usual mistake.** Calling any two things that always match “entangled”. Matching alone is cheap. The test is whether the correlations beat 2.
+
+## Lesson 5: The Wall That Is Not Quite Closed
+
+### Where the story needs it
+
+Chapter 22: Dr Rao, checking the mass budget, has a footnote he does not turn round: closed minutes are closed the way a thick wall is closed, and what is mostly forbidden is not entirely forbidden. Chapter 35: a Hall B queue ticket, in Aliyah Rahimi’s hand, turns up in the enquiries tray, with no aperture and no entry in the log. Beatrice enters it as a clerical tunnel. The story needs it because the ticket is the one thing in the book that crosses a barrier the rules say cannot be crossed, once, and cannot be asked for again.
+
+### The real physics
+
+A quantum particle is described by a wave. When a wave meets a barrier that a rolling ball could never climb, the wave does not stop at the surface; it dies away inside, steeply, but it is not zero on the far side. So there is a small chance of finding the particle there. This is quantum tunnelling.
+
+George Gamow used it in 1928 to explain how alpha particles leave atomic nuclei. It is also how a scanning tunnelling microscope (Gerd Binnig and Heinrich Rohrer, 1981) feels single atoms, how a tunnel diode works, and part of how flash memory stores data.
+
+For a particle of mass m and energy E meeting a barrier of height V and thickness L, the chance of getting through is roughly e^{−2κL}, where κ = (2m(V − E))^{1/2} ÷ ħ. (This is the thick-barrier estimate; a factor of order one is left out.) The thing to see is the exponent. It grows in proportion to the thickness and to the square root of the mass, so the odds fall off exponentially with both.
+
+![A wave arrives from the left and meets a grey barrier. Inside the barrier the wave dies away steeply in red. On the far side a small wave continues, showing a small chance of finding the particle there.](notes/figures/fig5_tunnelling.png)
+
+*Figure 5. A wave meeting a barrier it cannot climb. It dies away steeply inside but not to zero, so a small wave appears beyond. (Calculated for a rectangular barrier; heights not to scale.)*
+
+### The Department’s own rule (invented)
+
+That an observed interval is a barrier, that its thickness is the number of independent records around it, and that a paper ticket could cross it, are all the book’s. So is the word “tunnel” in Beatrice’s register. Real tunnelling concerns particles. Scaled to anything as large as a person, the formula gives an answer so close to zero that the exercise below is its own comment: the book never lets a person through, only a ticket, once.
+
+### Worked example
+
+An electron of energy 1 eV meets a barrier 2 eV high (so V − E = 1 eV) and 1 nanometre thick. What are the odds?
+
+Convert: V − E = 1.602 × 10^{-19} joules. 2m(V − E) = 2 × 9.11 × 10^{-31} × 1.602 × 10^{-19} = 2.92 × 10^{-49}. Square root: 5.40 × 10^{-25}. Divide by ħ: κ = 5.40 × 10^{-25} ÷ 1.055 × 10^{-34} = 5.12 × 10^{9} per metre, which is 5.12 per nanometre.
+
+Now 2κL with L = 1 nm: 2 × 5.12 × 1 = 10.2. The chance is e^{-10.2} = 3.6 × 10^{-5}: about 1 in 28,000.
+
+Double the thickness to 2 nm: 2κL = 20.5, so e^{-20.5} = 1.3 × 10^{-9}, about 1 in 800 million. Doubling the wall did not halve the odds. It squared them, and that is the whole lesson.
+
+Halve it to 0.5 nm: e^{-5.12} = 6.0 × 10^{-3}: about 1 in 170.
+
+### Try it now
+
+**Core.** For the same electron and barrier, how thick must the barrier be to bring the chance down to one in a million (10^{-6})?
+
+**Solution.** e^{-2κL} = 10^{-6}. Take the natural logarithm: 2κL = ln(10^{6}) = 13.8. L = 13.8 ÷ (2 × 5.12 per nanometre) = 1.35 nanometres.
+
+**The usual mistake.** Using a base-10 logarithm where the equation has e. Check with a calculator: e^{-13.8} should give a millionth.
+
+**Extension.** In a scanning tunnelling microscope the barrier is the gap between a tip and a surface, with V − E about 4.5 eV for a typical metal. By what factor does the current change if the tip moves back by 0.1 nanometre (one ångström)?
+
+**Solution.** κ = 5.12 × (4.5)^{1/2} = 5.12 × 2.12 = 10.9 per nanometre. For a move of 0.1 nanometre: 2κ × 0.1 = 2.17. e^{-2.17} = 0.114. The current falls to about 11 per cent, nearly a factor of nine for a gap change smaller than an atom. That is why the microscope can feel single atoms.
+
+**The usual mistake.** Forgetting that κ scales with the square root of V − E, so 4.5 times the barrier is about 2.1 times the κ, not 4.5 times.
+
+**Challenge.** Now scale up. A person of 70 kilograms meets a barrier whose height above their energy is 1 joule, one metre thick. What is the exponent, and what are the odds?
+
+**Solution.** 2m(V − E) = 2 × 70 × 1 = 140. Square root: 11.8. Divide by ħ: κ = 11.8 ÷ 1.055 × 10^{-34} = 1.1 × 10^{35} per metre. 2κL with L = 1 m: 2.2 × 10^{35}. The odds are e^{-2.2 × 10^{35}}. To express in tens: divide the exponent by 2.30 (the natural log of ten): 2.2 × 10^{35} ÷ 2.30 = 9.7 × 10^{34}. The odds are one in 10^{(9.7 × 10^{34})}: a 1 followed by about 10^{35} zeros. Written out at one digit to a millimetre, the zeros would stretch about a hundred thousand times across the observable universe, which is roughly 9 × 10^{26} metres wide. The odds are not zero. They are not worth waiting for.
+
+**The usual mistake.** Saying that this proves a person could walk through a wall “eventually”. The odds, multiplied by every attempt the universe could make in its lifetime, are still nothing.
+
+## Sources for the Lessons
+
+These are the standard references behind the lessons. Each was checked against the publisher’s or the Nobel Foundation’s own page in October 2026. Titles that contain a person’s name are left out.
+
+Hafele, J. C. and Keating, R. E., “Around-the-World Atomic Clocks: Predicted Relativistic Time Gains” and “Around-the-World Atomic Clocks: Observed Relativistic Time Gains”, Science 177 (4044), 14 July 1972, pages 166 and 168.
+
+Ashby, N., “Relativity in the Global Positioning System”, Living Reviews in Relativity 6, article 1 (2003).
+
+Friedman, J., Morris, M. S., Novikov, I. D., Echeverria, F., Klinkhammer, G., Thorne, K. S. and Yurtsever, U., “Cauchy problem in spacetimes with closed timelike curves”, Physical Review D 42, 1915 (1990); and Echeverria, F., Klinkhammer, G. and Thorne, K. S., “Billiard balls in wormhole spacetimes with closed timelike curves: Classical theory”, Physical Review D 44, 1077 (1991).
+
+Clauser, J. F., Horne, M. A., Shimony, A. and Holt, R. A., “Proposed experiment to test local hidden-variable theories”, Physical Review Letters 23, 880 (1969); Aspect, A., Dalibard, J. and Roger, G., Physical Review Letters 49, 1804 (1982); Hensen, B. et al., Nature 526, 682 (2015). Nobel Prize in Physics 2022: Aspect, Clauser and Zeilinger.
+
+Gamow, G., “Zur Quantentheorie des Atomkernes”, Zeitschrift für Physik 51, 204 (1928); Binnig, G. and Rohrer, H., the scanning tunnelling microscope, Nobel Prize in Physics 1986 (shared with Ernst Ruska).
+
+Values of the constants: the National Institute of Standards and Technology (NIST) reference on constants, units and uncertainty.
+
 ## A Note to Readers
 
 If this book made you laugh, or made you slightly nervous about the forms you signed last week, please consider leaving a short, honest review. A sentence is plenty. It helps other readers find the Department, and the Department would, for once, like to be found.
@@ -6115,7 +6594,7 @@ If this book made you laugh, or made you slightly nervous about the forms you si
 
 This is an original novel: its premise, characters, names and wording are my own. It was inspired, in spirit only, by Carl Amery’s *Das Königsprojekt*, a German novel of a secret institution that intervenes in history, of what such intervention costs, and of the deadpan with which institutions describe it. It is a homage, not an adaptation, and I recommend the original.
 
-Glock is modelled on Bell. The name has been changed in the story, as is the department’s practice with persons who might otherwise be asked about it; the original is kept here, in the appendix, where it can be consulted by anyone with a reason.
+Glock is modelled on Bell. The name has been changed in the story, as is the department’s practice with persons who might otherwise be asked about it; the original is kept here, in the back matter, where it can be consulted by anyone with a reason.
 
 ## About the Author
 

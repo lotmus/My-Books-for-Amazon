@@ -1,13 +1,13 @@
 # Status: The Department of Historical Corrections
 
-- **State:** draft, REV11 built 15 Oct 2026 (overall 8.8, sellability 8.2; see `notes/REVIEW_REV11_2026-10-15.md`). Needs a cold read and a Kindle Previewer check before upload.
-- **Master:** `The Department of Historical Corrections - REV11.docx` with `.md` working copy, about 58,400 body words in 37 chapters plus a 4,800-word physics appendix. Kindle page size 3.6 x 4.8 in, 0.3 in margins, no tables. REV1 to REV10 are in `bak\` (REV2 also in git, 3d429a55).
+- **State:** draft, REV12 built 15 Oct 2026 (overall 8.9, sellability 8.3; see `notes/REVIEW_REV12_2026-10-15.md`). Needs a cold read and a Kindle Previewer check before upload.
+- **Master:** `The Department of Historical Corrections - REV12.docx` with `.md` working copy, about 58,490 body words in 37 chapters plus a 5,300-word physics appendix with five diagrams. Kindle page size 3.6 x 4.8 in, 0.3 in margins, no tables. REV1 to REV11 are in `bak\` (REV2 also in git, 3d429a55).
 - **Package:** `KDP_Description.md` (hook, description, 7 keywords, categories), `cover\The Department of Historical Corrections - front cover 1000x1600.png`.
 - **Pen name:** none; Lothar J. Musiol. British spelling, About the Author Version A (Colin line) and Gucci.
 - **Rules:** never write the banned name (see LOTHAR_RULES.md; searched the book, notes, rules file and SCORES.md: none); no MTW; no Word tables; Kindle only.
 - **Ledger:** `notes/DISPATCH_LEDGER.md` is authoritative for transit, capacity and the day-by-day clock.
 - **Overlap:** do not market as an adaptation of Amery's novel.
-- **Next:** cold read; Kindle Previewer; a physicist should check the appendix; a cold reader should test the Humour line (see the review note for jokes that could be cut); then upload.
+- **Next:** cold read; Kindle Previewer; a physicist should check the appendix (citations verified 15 Oct); a cold reader should test the Humour line (see the review note for jokes that could be cut); then upload.
 - **Build:** `notes/build/` (editA to editE make REV2 from REV1; editF to editJ make REV3 from REV2; build.py makes the docx; cover.py the cover). Paths inside the scripts point at the box's /workspace/histcorr and need adjusting to rerun.
 
 REV6 built 15 Oct 2026: chapters 16 to 20 re-paced, Glock's menace shown through actions, seven new scenes, about 52,400 body words, overall 8.3 (see notes/REVIEW_REV6_2026-10-15.md). Not yet cold-read or Kindle Previewer checked.
@@ -22,3 +22,5 @@ REV10 built 15 Oct 2026: the signature twist (Arthur's own stamp on Glock's doct
 
 
 REV11 built 15 Oct 2026: real physics tied to the time travel (proper time, self-consistency, what "observed" means, entanglement, tunnelling) in chapters 2, 6, 13, 22 and 35, plus the back-matter appendix Lessons from the Department (five lessons with worked examples and Core / Extension / Challenge exercises, about 4,800 words). Story body about 58,400 words; overall 8.8, sellability 8.2, Science 8.4 (notes/REVIEW_REV11_2026-10-15.md). Master is now `The Department of Historical Corrections - REV11.docx` with `.md`; REV10 is in `bak\`. Not cold-read, not checked in Kindle Previewer, physics not specialist-reviewed.
+
+REV12 built 15 Oct 2026: five generated diagrams in the appendix (one per lesson, 2.98 in wide, alt text and captions); chapters 13 and 35 converted from talk to action, the Hall B ticket now has a cost (evidence custody); chapter 26 given room between the notebook and the fifteenth; small trims in 12 and 15; every appendix citation verified online. About 58,490 body words; overall 8.9, sellability 8.3, Science 8.8 (notes/REVIEW_REV12_2026-10-15.md). Master is now `The Department of Historical Corrections - REV12.docx` with `.md`; REV11 is in `bak\`. Not cold-read, not checked in Kindle Previewer, physics not specialist-reviewed.

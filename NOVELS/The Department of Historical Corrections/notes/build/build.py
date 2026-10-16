@@ -42,6 +42,8 @@ sb=mk('Scene Break'); sb.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; s
 ctr=mk('Centered'); ctr.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER
 toc1=mk('TOC 1'); setfont(toc1,9); toc1.paragraph_format.space_after=Pt(2); toc1.paragraph_format.left_indent=Inches(0.12)
 tocp=mk('TOC Part'); setfont(tocp,9,True); tocp.paragraph_format.space_before=Pt(5); tocp.paragraph_format.space_after=Pt(2)
+fcap=mk('Figure Caption'); setfont(fcap,8,False,True); fcap.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; fcap.paragraph_format.space_after=Pt(8); fcap.paragraph_format.space_before=Pt(2)
+fig_p=mk('Figure'); fig_p.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; fig_p.paragraph_format.keep_with_next=True; fig_p.paragraph_format.space_before=Pt(6); fig_p.paragraph_format.space_after=Pt(0)
 cop=mk('Small'); setfont(cop,8); cop.paragraph_format.space_after=Pt(4)
 tt=mk('Novel Title'); setfont(tt,24,True,False,BLUE); tt.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; tt.paragraph_format.space_before=Pt(60); tt.paragraph_format.space_after=Pt(8)
 tsub=mk('Subtitle'); setfont(tsub,11,False,True); tsub.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER
@@ -112,6 +114,15 @@ for h,body in chapters:
         if not s_.strip(): continue
         if s_.strip() in ('* * *','---'): para('* * *','Scene Break'); continue
         if s_.startswith('### '): para(s_[4:].strip(),'Heading 2'); continue
+        mi=re.match(r'^!\[(.*)\]\((.*)\)$',s_.strip())
+        if mi:
+            alt,pth=mi.group(1),mi.group(2)
+            pth=os.path.join(os.path.dirname(os.path.abspath(MD)),pth)
+            fp=doc.add_paragraph(style='Figure'); pic=fp.add_run().add_picture(pth,width=Inches(2.98))
+            dp=pic._inline.docPr; dp.set('descr',alt); dp.set('title',alt[:60]); dp.set('name',os.path.basename(pth))
+            continue
+        if s_.strip().startswith('*Figure '):
+            para(s_.strip(),'Figure Caption'); continue
         para(s_.strip())
 def section(h,body,style_para=None):
     nm=heading(h); entries.append(('ch',h,nm))

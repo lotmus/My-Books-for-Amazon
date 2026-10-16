@@ -176,3 +176,13 @@ Humour pass; no change to any transit, capacity or clock figure. New fixed point
 | Mon, after Glock's visit | Miriam asks whether token and stove are entangled; Eleanor: correlated, not in conversation; whatever carries a message costs an opening | 6 |
 | Wed night | Dr Rao's footnote: closed minutes are closed like a thick wall; "somewhere the budget can't see it" | 22 |
 | Weeks after (Thursday of Garrick's week) | Hall B queue ticket 0417, November 2029, found in the enquiries tray; no aperture, no current, not in the incoming book; Aliyah Rahimi's hand; Beatrice's register entry: arrived, cost none known, clerical tunnel (not repeatable); Karim keeps the ticket, a photograph is filed; Arthur's unsent reply to Hall B | 35 |
+
+
+## REV12 additions (15 Oct 2026)
+
+| When | What | Chapter |
+|---|---|---|
+| Weeks after Garrick's week, Thursday | The Hall B ticket (0417, November 2029) is not kept by Karim: it goes into the department's evidence store (with Glock's wiring) until the inquiry has closed on it; Karim signs for a conservation-standard photograph and carries the card to the store himself. Register entry unchanged | 35 |
+| Same evening | Arthur's reply to Hall B (capitals, flat-line signature) is filed, not sent; told to Karim in advance; "for himself" | 35 |
+| Thu, 15:52 to 15:55 (Ceremony day) | The secretary calls Glock out ("The judges are seated, Receiver"); Arthur is alone with the black notebook for about three minutes, adds the margin months, copies 17/114 and the date into the grey notebook, leaves the MAROT file alone; Glock returns at 15:55 and produces the fifteenth | 26 |
+| Thu, 16:00 | Public refusal is shorter: fifteenth named once (no table range in ch 26's speech; the range stays in ch 31); "all fifteen are mine" unchanged | 26 |

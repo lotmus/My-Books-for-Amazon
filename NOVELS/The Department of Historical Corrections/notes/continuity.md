@@ -41,3 +41,8 @@ New fixed points are in DISPATCH_LEDGER.md (REV10 additions). Key facts: Arthur 
 ## REV11 (15 Oct 2026)
 
 Physics pass. New fixed points are in DISPATCH_LEDGER.md (REV11 additions). Key facts: from chapter 13 the register takes two figures per traveller (department clock, traveller's own); Eleanor's own time for the 1746 trip was 3 h 31 against 3 h 32; Pensions asked the dead man's age; Dr Rao's footnote (ch 22) and the Hall B ticket (ch 35: HALL B, 0417, November 2029, Aliyah Rahimi's hand, "clerical tunnel (not repeatable)"); nothing else about 2029, Camberwell or the terminal changed (Karim's mother is still unreachable). The appendix, Lessons from the Department, follows chapter 37 and precedes the Acknowledgement. Scan run on the finished file: no clashes found in dates, counts or names.
+
+
+## REV12 (15 Oct 2026)
+
+Weak-spot pass (diagrams, ch 13, 26, 35 and 12 and 15 trims, citation check). New fixed points are in DISPATCH_LEDGER.md (REV12 additions). Key facts: the Hall B ticket is in evidence custody, not with Karim, and he holds a photograph; in ch 26 Glock leaves the room about three minutes before the ceremony (secretary: "The judges are seated, Receiver") and Arthur copies 17/114 into the grey notebook; nothing else about dates, counts or names changed. Scan run on the finished file: no clashes found.
