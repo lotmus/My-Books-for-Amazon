@@ -1,6 +1,8 @@
-# KDP metadata draft — REV01
+# KDP metadata draft — REV02
 
-**Title field:** Limericks and Other Nonsense Rhymes (Illustrated)
+**Title field:** Limericks and Other Rhymes for People Who Should Know Better (Illustrated)
+
+**Author field:** Seamus O'Leary
 
 **Subtitle:** Classic nonsense verse and modern limericks
 
@@ -18,7 +20,7 @@ This illustrated collection pairs Edward Lear's classic nonsense verse with new 
 
 Meet the old eccentrics, improbable animals, and wandering travelers of classic nonsense, then follow modern mishaps involving autocorrect, remote meetings, streaming queues, chatbots, electric cars, and delivery drones.
 
-The contemporary limericks and all eleven illustrations (ten interiors and the cover) were generated with AI and edited or selected by Lothar J. Musiol.
+The contemporary limericks and all eleven illustrations (ten interiors and the cover) were generated with AI and edited or selected by Seamus O'Leary.
 
 **Upload disclosures:** Mark text and images as AI-generated in KDP’s content disclosure.
 
