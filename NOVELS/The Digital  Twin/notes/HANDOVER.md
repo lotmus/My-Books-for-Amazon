@@ -23,3 +23,14 @@ Last reconciled: 15 October 2026 (after REV2).
 - Book 2 hook still lands: Ch 35 ends with S2 MERCIER, S. and Sophie's phone dark on the cloth, not ringing.
 - Banned-name rule: see notes/LOTHAR_RULES.md; the manuscript and docx were grepped clean.
 - Do not touch the Historical Corrections folder (another agent).
+
+
+## REV4 (15 Oct 2026)
+- Master is now `The Digital Twin - REV4.docx`; REV3 moved to `bak\2026-10-15 REV3\` (on the D: copy). Branch `dt-rev4-20261015`.
+- Edits are scripted in `notes/build/rev4_a.py` to `rev4_e.py` (helper `rev4_part1.py`), run on the REV3 chapters. Rebuild with `notes/build/build_docx.py` (needs the two canonical files copied next to the chapters).
+- New scenes: Ch 22 Securishred (decoy box, hen against policy, true certificate); Ch 31 Pettifer/Calder reveal; Ch 32 DP-0000000/A reveal; Ch 27 Kevin's confession; Ch 35 Argument Pack disagreement, PENDING to ADOPTED, retainer refund.
+- Running gags to keep consistent in Book 2: Pettifer's peppermints, the interested-parties list, "Hydrate responsibly", the oven door, nulls end up on the news, "He's allowed".
+- Twists used: DP-0000000/A; Pettifer and Calder (Imogen/Marguerite); Kevin's minutes. Dropped: Lessing as Marguerite's friend; Giles as registrant; Sophie as a Mercier relative (Book 2).
+- Known fact: the Ch 4 register date field is blank; the date 2 March 1999 comes from page one of the Register (Ch 32).
+- Book 2 hook unchanged: Ch 35 S2 MERCIER and Sophie's phone dark on the cloth.
+- Banned-name rule: manuscript, notes and docx grepped clean. Do not touch the Historical Corrections folder.

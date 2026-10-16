@@ -4,7 +4,7 @@ The cellar was reached from the porch by a door that looked like a cupboard, and
 
 It was a computer.
 
-I say *computer* with some caution. It was a beige tower of the sort that used to stand under a desk in a school office, with a floppy drive that had been the pride of 1998 and a sticker on the front that said **Intel Inside** with a small bored look. Beside it stood a monitor the size of a television, deep as a bread bin, with a grey screen and a tiny green light. A microphone on a flexible neck had been fixed to the shelf with tape. Above the whole assembly someone had pinned a child's drawing, in crayon, of a boat.
+I say *computer* with some caution. It was a beige tower of the sort that used to stand under a desk in a school office, with a floppy drive that had been the pride of 1998 and a sticker on the front that said **Intel Inside** with a small bored look. Beside it stood a monitor the size of a television, deep as a bread bin, with a grey screen and a tiny green light. A microphone on a flexible neck had been fixed to the shelf with tape. Above the whole assembly someone had pinned a child's drawing, in crayon, of a boat. On the back of the case, where I would not have seen it if I had not been looking for somewhere to put my eyes, a brown luggage label hung from a screw on a loop of string. It said, in a civil servant's capitals: *REG. NO. 0 (LEGACY). DO NOT DISPOSE.* I took it for the sort of thing one writes on a machine in order to be rid of it.
 
 "It's been replaced," said Dr Calder. "Piece by piece. The case is the original. The processor is from a laptop in 2014. There's a small cooling unit that I had made by a man in Dunkeld. The drive is solid state, and the monitor was a gift from a primary school." She looked at it with an expression I had seen on my mother's face when she looks at the kitchen. "The point is that he should not notice."
 
@@ -30,7 +30,7 @@ Dr Calder looked at me. She did not say anything. I knew what she meant by it. S
 
 "It is a Friday."
 
-"Then it's a school day," said the voice,. "But Auntie Imogen says I don't have to go if it's raining. Is it raining?"
+"Then it's a school day," said the voice. "But Auntie Imogen says I don't have to go if it's raining. Is it raining?"
 
 "It's, um, not raining."
 
@@ -38,7 +38,7 @@ Dr Calder looked at me. She did not say anything. I knew what she meant by it. S
 
 ---
 
-I should like to say that I handled it with grace. I did not. I sat down on an upturned crate of potatoes and said something about the weather, and then I said that I was a friend of Auntie Imogen's, and then I said that my name was Dan, and the voice laughed, with a small high sound like a bicycle bell, and said that this was *silly,* since *he* was Dan.
+I did not handle it with grace. I sat down on an upturned crate of potatoes and said something about the weather, and then I said that I was a friend of Auntie Imogen's, and then I said that my name was Dan, and the voice laughed, with a small high sound like a bicycle bell, and said that this was *silly,* since *he* was Dan.
 
 "You're Dan?"
 

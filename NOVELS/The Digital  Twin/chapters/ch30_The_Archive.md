@@ -6,7 +6,7 @@ She was sitting at her kitchen table in Bolton, in a nylon housecoat, over a tin
 
 "He had a lanyard," said Sophie. "He was about forty-five. He had a cardigan and a worried face. He asked my mother if she was Sophie's mother. She said, *depends who's asking, love.* He said, *I'm from the Registry.* She said, *which registry?* and he said, *it's a long story,* and she said she had the kettle on."
 
-"Alan Veitch," said Pettifer.
+"Alan Veitch," said Pettifer, around a peppermint.
 
 "He left a key. He said, 'Could you keep this for her until she asks?' My mother said, 'Asks what?' And he said, 'She'll know.'" Sophie turned a paper cup in her hands. "And my mother, who has never kept anything for anyone since 1974, put it in the biscuit tin. And forgot about it. For twenty months."
 
@@ -48,7 +48,7 @@ The reception was a glass kiosk with a screen. On the screen was a cheerful anim
 
 "We are looking for Unit 114."
 
-"Of course! 114 is one of our Heritage units. Might I confirm that you're authorised?"
+"Of course! 114 is one of our Heritage units. I should mention that it is scheduled for clearance at noon, in respect of unpaid Climate Control. Might I confirm that you're authorised?"
 
 "I have a warrant," said Gareth, and held it up. Barry examined it. His eyes, which were large, round and blue, took a long time over the little brass bell.
 
@@ -61,6 +61,10 @@ The reception was a glass kiosk with a screen. On the screen was a cheerful anim
 "Doing what?"
 
 "Eating a Pot Noodle."
+
+"What time is it?" said Pettifer.
+
+"Eleven fifty-one!" said Barry, with enormous joy.
 
 ---
 
@@ -179,6 +183,10 @@ She took her finger away. She took the key from her pocket, with the string, and
 "Not today," said Sophie.
 
 "Not today," said Alan Veitch, very gently, and from nowhere produced a large clean handkerchief.
+
+From the ceiling a tannoy said, in Barry's voice, that clearance of the Heritage units would begin in two minutes and that, as a valued customer, we might like to hear about the Self Store Gift Card.
+
+"Gareth," said Pettifer. "Whatever you have."
 
 ---
 

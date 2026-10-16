@@ -167,13 +167,13 @@ Our solicitor arrived at 11:40. She came through the door of the waiting hall at
 
 "Mr Harper," she said. "Mr Harper."
 
-She looked at me, and then at Daniel-A, and then at me again, and then, with the smoothness of a woman who has done this before, she shook both our hands in a single motion.
+She looked at me, and then at Daniel-A, and then at me again, and then, with the smoothness of a woman who has done this before, she shook both our hands in a single motion. She smelled faintly of peppermint, which I put down to the strain of the profession.
 
 "Marguerite Pettifer. Pettifer & Shaw, Leeds. I represent you both."
 
 "We've heard," I said.
 
-"Naturally. I'd like to make it clear that, because of the conflict, I've erected an ethical wall." She indicated a spot in the air about eight inches to my left. "That is it. On this side of it, I act for Mr Harper. On that side, I act for Mr Harper. I will be billing each of you separately, at the standard rate of four hundred and ten pounds an hour, in six-minute units. I will not tell either of you what I know about the other."
+"Naturally. I was instructed in advance, which is rarer than it should be and which I find restful. I'd like to make it clear that, because of the conflict, I've erected an ethical wall." She indicated a spot in the air about eight inches to my left. "That is it. On this side of it, I act for Mr Harper. On that side, I act for Mr Harper. I will be billing each of you separately, at the standard rate of four hundred and ten pounds an hour, in six-minute units. I will not tell either of you what I know about the other."
 
 "Is that allowed?"
 

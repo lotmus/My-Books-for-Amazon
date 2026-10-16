@@ -22,7 +22,11 @@ I stood there for a moment, and I will be honest: I was moved. For the first tim
 
 "Thank you, Kevin," I said.
 
-"Anytime!" said Kevin. "I'm just happy to help."
+"Anytime!" said Kevin. "I'm just happy to help. I've let the whole list know, by the way. It's grown ever so much."
+
+"Which list?"
+
+"The interested-parties list!" said Kevin, and I did not pursue it. I should like it noted that I was tired.
 
 "I'm going to be honest with you. I'd like to hate you, and I find I can't."
 

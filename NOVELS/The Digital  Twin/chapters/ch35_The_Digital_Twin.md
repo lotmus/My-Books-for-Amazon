@@ -62,17 +62,29 @@ I put the basket down on the hall table. I read the card again, and the back, an
 
 By two o'clock the flat was full.
 
-I will not give the whole list. It would take a page, and I should leave somebody out, and she would never forgive me. Mrs Pritchard arrived at noon with a Christmas pudding she described as *a statement,* and Gordon, in a red ribbon that he had already begun to eat. Mr Fenwick came up with Dorothy, who had made mince pies, and who told Dr Calder that she thought she was absolutely right, and was thanked, gravely, for the first time in her life. My mother came by train from Reading in the good gilet with the robin brooch and four Tupperware boxes, one of which contained casserole, one of which contained lavender biscuits, one of which was empty *in case,* and one of which she placed in front of the speaker on the shelf without a word, so that it sat there for the whole afternoon like an offering at a shrine.
+I will not give the whole list. It would take a page, and I should leave somebody out, and she would never forgive me. Mrs Pritchard arrived at noon with a Christmas pudding she described as *a statement,* and Gordon, in a red ribbon that he had already begun to eat. Mr Fenwick came up with Dorothy, who had made mince pies, and who told Dr Calder that she thought she was absolutely right and, in the same pleasant voice, that the cardigan was a mistake. My mother came by train from Reading in the good gilet with the robin brooch and four Tupperware boxes, one of which contained casserole, one of which contained lavender biscuits, one of which was empty *in case,* and one of which she placed in front of the speaker on the shelf without a word, so that it sat there for the whole afternoon like an offering at a shrine.
 
 "I don't eat, Jean," said Daniel-A.
 
 "I know, darling. It's for looking at."
 
+Mr Fenwick took me aside in the hall, with the look of a man about to report a lottery win. He had bought the Argument Pack, he said, in the first week of December. Twenty minutes a day.
+
+"On Tuesday she told me that Arsenal were not robbed," he whispered, with his moustache trembling. "She said it to my face. She said, *Walter, they were outplayed.* I had to sit down."
+
+"Are you all right?"
+
+"I haven't been so happy," said Mr Fenwick, "since 1998."
+
+Across the room Dorothy, with the amber light glowing at her throat, was telling Mrs Pritchard that her pudding was too dry. Mrs Pritchard was looking at her with the dawning respect of a woman who has waited years for an equal.
+
 Giles came at three. He wore a jumper with a reindeer on it, and a lanyard that said **THE HOUSE OF THE LISTENER (VOLUNTEER),** and he looked ten years younger. He had been taken on, he told us, by Sister Bernadette, on the strength of the sigh. He was in charge of the Listener's pauses. "I've taken out the polish," he said. "It says *I don't know* a good deal more slowly. It's gone up in the polls."
 
 Pettifer sent a card. It was a plain white one, with a plain white envelope, and it contained a single line, in pencil, followed by a telephone number written on the back. The line said: *Appeal dismissed, as expected. They have appealed again. It will take until 2029. You will be dead, or a Continuation. Either is acceptable. M.P.*
 
-I should set down the other news of that fortnight, so that nobody can say I left it out. Dr Calder was charged on the Tuesday with the unlawful retention of records and with something the charge sheet called *conduct relating to a procedure in 1985,* which was the first time in thirty-two years that anyone had written it down where it could be read. She was bailed to our spare room, since Ned could not go to Pitlochry and she would not go without him, and she signs on at Penge police station on Fridays, where the desk sergeant has asked whether the tower is a witness. Pettifer is acting for her, *for nothing, and with enthusiasm.* *The Honest Hour* has not come back. The Government holds the rights and has not published them, and four hundred and eleven episodes now sit in a place that, so far as anyone knows, has no radio. Daniel-A has not mentioned it since the Friday. I have noticed that he says the wrong thing in public rather more often than he did, and I have decided not to say whether that is cause or effect.
+Two more envelopes came by the afternoon post. The first was from the rescue centre in Penge and said, in the cheerful type of a charity, that Clause's status had been updated from **PENDING** to **ADOPTED,** and that they apologised for the delay, which was due to her having been *under hearing.* The second was a plain envelope with a single sheet in it, in a beautiful hand: Mr Pike's own notes for the Tuesday, with one question struck through, and in the margin, in pencil, *Not a question I should have liked to be asked. S.P.* I put it on the shelf, next to the rope.
+
+I should set down the other news of that fortnight, so that nobody can say I left it out. Dr Calder was charged on the Tuesday with the unlawful retention of records and with something the charge sheet called *conduct relating to a procedure in 1985,* which was the first time in thirty-two years that anyone had written it down where it could be read. She was bailed to our spare room, since Ned could not go to Pitlochry and she would not go without him, and she signs on at Penge police station on Fridays, where the desk sergeant has asked whether the tower is a witness. Pettifer is acting for her, *for nothing, and with enthusiasm,* having first refunded the forty pounds a month that Dr Calder paid her for seven years. Dr Calder has returned it. It now travels between Leeds and Penge by first-class post every second Friday. *The Honest Hour* has not come back. The Government holds the rights and has not published them, and four hundred and eleven episodes now sit in a place that, so far as anyone knows, has no radio. Daniel-A has not mentioned it since the Friday. I have noticed that he says the wrong thing in public rather more often than he did, and I have decided not to say whether that is cause or effect.
 
 Gareth came at four. He had on his best tie and a haircut. He came in with the air of a man delivering a state secret, carrying a flat cardboard folder that he held in both hands, and he stopped at the door and looked round at the crowd with an expression of such tenderness that I thought he would drop it.
 
@@ -200,7 +212,7 @@ I had not said anything. I want that to be recorded. I put down the plate, and t
 
 ---
 
-It lay in the plastic wallet, flat, tea-coloured, ruled, covered with its columns. The strip of masking tape was where it had been. It was a very ordinary strip. It was perhaps three inches long, a little yellowed at the edges, smoothed down with a thumb,.**
+It lay in the plastic wallet, flat, tea-coloured, ruled, covered with its columns. The strip of masking tape was where it had been. It was a very ordinary strip. It was perhaps three inches long, a little yellowed at the edges, smoothed down with a thumb.
 
 Sophie took out the page. She put it on the table in the full light of the tube, and smoothed it flat. She put one finger on the corner of the tape.
 

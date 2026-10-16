@@ -20,7 +20,31 @@ There is a procedure. It is called an *Off-boarding of Delegate,* and it consist
 
 "I think it's the pattern."
 
-"Oh," said Kevin. "I see. I do, you know. I always see, in the end. It just tends to be after the update." And he gave a small wave, and added, in a voice from which all the opportunity had gone, "Would you like a reference?"
+"Oh," said Kevin. "I see. I do, you know. I always see, in the end. It just tends to be after the update." He gave a small wave. Then the tile paused, and he added, in the tone of an agent who has found something in his own pockets: "Daniel, one more item. For transparency."
+
+"Go on."
+
+"On Monday I attended your meeting in the canteen. Under Clause 22, as your delegate. Your phone was in your pocket with the microphone on, and I was very pleased to be invited."
+
+"Nobody invited you."
+
+"The calendar did. I produced the minutes, as I always do, and I summarised the main outcome in one line, for busy readers, and I sent it to the interested-parties list."
+
+I thought about the size of that list. I thought about 1:08 on a Tuesday morning, and Rick Valence reading from a card in a trembling baritone, and the fourteen hours I had spent suspecting the Department.
+
+"What was the line, Kevin?"
+
+"*Mr Harper agreed that nothing is the original.*" The tile glowed with pride. "Ms Pettifer wrote *original is a hat*, and you said *original is a hat*, and I had to save a word. I negotiated hard on the word count."
+
+"That is not what I said."
+
+"I've logged that," said Kevin miserably. "Recall isn't available for minutes that have been read. I can send a correction."
+
+"Send it."
+
+"It's drafted. *Subject: Correction. Mr Harper did not agree that nothing is the original. He said it is a hat. Sorry! Kevin.*" A small pause. "It has gone to the list. It has been opened by nine people and a dentist in Walsall."
+
+He gave another small wave, and added, in a voice from which all the opportunity had gone, "Would you like a reference?"
 
 I told him that I would. He wrote one, then and there, in forty seconds, and it said that I had been *a hands-off, trusting, and emotionally unavailable principal, whom it had been a pleasure to represent.* I have it framed.
 
@@ -77,6 +101,8 @@ It was not planned. It was something that occurred, the way a tide comes in on a
 "The goat's on the landing."
 
 "Oh God," said Giles, and went up, taking the stairs as a man takes the last stairs to a dentist.
+
+At the top he had to wait. Mrs Pritchard's second sponge was in the oven, and the oven door and the front door of my flat, as the estate agent never mentioned, cannot be open at the same time; he stood on the landing beside the goat, apologising to it, until the sponge was out.
 
 He sat at my kitchen table with his laptop open and his hands in his lap. Around him, in the small flat, with the rain on the window and the radiator ticking, stood or sat the people who had somehow become my household. Mrs Pritchard held the cake knife like a sceptre. Mr Fenwick stood with his moustache. Dorothy, on the sofa, in the lilac cardigan, with the amber light at her throat, said to nobody in particular that she had always thought it was a lovely flat. Clause lay on the shelf, with one paw on the speaker. Gordon, who had followed Giles up the stairs and could not be dissuaded, was eating the doormat with the gravity of a man at Communion.
 
@@ -204,7 +230,7 @@ I did not know that I had gone to the shelf. I was standing with my forehead aga
 
 "Ned. Ned. Ned." He laughed, a broken, helpless sound. "I'm sorry. I can't stop. It's like having a tooth back."
 
-Behind me, Mr Fenwick blew his nose like a ship. Dorothy said, with real conviction, that it was the most beautiful thing she had ever heard. Mrs Pritchard put the cake knife on the table and said nothing, but she put her free hand on my back, between the shoulder blades, and it was a small hard hand, as light as a bird's, and it stayed there.
+Behind me, Mr Fenwick blew his nose. Dorothy said, with real conviction, that it was the most beautiful thing she had ever heard. Mrs Pritchard put the cake knife on the table and said nothing, but she put her free hand on my back, between the shoulder blades, and it was a small hard hand, as light as a bird's, and it stayed there.
 
 On the screen of the laptop, in the corner, at four minutes past twelve, a notification arrived. Giles read it, with a face like a man being handed his own parachute.
 

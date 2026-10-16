@@ -228,7 +228,7 @@ She did not telephone first. She came up the stairs at the speed of a woman who 
 
 "She prefers him."
 
-"They do." She put the envelope on the coffee table. "Sit down. I'm going to say this once, and then I'm going to bill you for it, and then I'm going to deny that I said it."
+"They do." She put the envelope on the coffee table, took a small round tin from her pocket, and put a peppermint in her cheek, which I had begun to notice she did before saying anything she meant to deny. "Sit down. I'm going to say this once, and then I'm going to bill you for it, and then I'm going to deny that I said it."
 
 I sat on the arm of the sofa. The speaker glowed on the shelf, and Clause sat in front of it, as before, upright and attentive.
 

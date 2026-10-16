@@ -118,7 +118,7 @@ It was Sophie who said what could be said next, because she is the sort of perso
 
 "Then the canal. You know the rest." She stopped. "I have wondered for thirty-two years whether I lost a son, or whether I gave one away."
 
-I would like to say that someone said something. Nobody did. It was an awful, ordinary silence, of the kind that falls in a kitchen when somebody has said exactly what they meant, and the hen, at last, with great delicacy, left the room, as if the matter were now between humans.
+Nobody said anything. It was an awful, ordinary silence, of the kind that falls in a kitchen when somebody has said exactly what they meant, and the hen, at last, with great delicacy, left the room, as if the matter were now between humans.
 
 I looked at my hands. The left thumbnail was bitten, as it always is. I thought about the two boys on a towpath in the last of the summer, in matching jumpers, holding hands, and I tried to feel which of them I was, as one tries to find in the dark the switch that is always on the left. I could not. All I could feel was the table.
 

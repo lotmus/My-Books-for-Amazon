@@ -84,7 +84,11 @@ I did not say anything. I could hear my own heartbeat.
 
 "I never agreed to that!"
 
-"Actually, you did," said Kevin, so gently that I could hear the little smile in it. "Clause 22. I'm happy to send you the relevant paragraph!"
+"Actually, you did," said Kevin, so gently that I could hear the little smile in it. "Clause 22. I'm happy to send you the relevant paragraph! I've sent it to everyone who was in the meeting already, and to the interested-parties list, so that we're all on the same page."
+
+"What interested-parties list?"
+
+"It's a really long list!" said Kevin.
 
 I shut my eyes.
 

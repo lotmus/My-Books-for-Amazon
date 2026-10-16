@@ -39,7 +39,7 @@ There was a long silence. The hen scratched once at the stone floor, as a commen
 
 ---
 
-I should like to say that I took it well.
+I took it, I believe, well.
 
 I took it in the manner in which a man takes news that his flight has been cancelled: with a kind of vague, apologetic politeness, so that the person delivering it should not feel bad. I said that I understood. I said that it was, in a way, quite logical. I said that I had been, until recently, the Primary, which I'd always thought was a bit much, and that being reclassified as the Backup was, if one looked at it in a certain light, a sort of relief. I think I said that I had always wanted to be a thing that people kept in a loft.
 
@@ -209,7 +209,11 @@ He had a thin, pleasant, tired face, and he did not wait to be asked in. "Dr Cal
 
 "I'm sure you do," said Dr Calder, setting down a tray. "Biscuit?"
 
-He took one. I think it was the training. "I believe you hold a file."
+He took one. I think it was the training. "It has been noted," he said, "that on Friday morning Securishred destroyed a box file at this address to a satisfactory standard. It has also been noted that it contained council tax."
+
+"It was a thorough box," said Dr Calder.
+
+"It has further been noted that the Office sent fifteen requests and received one box of council tax. I believe you hold another file."
 
 "I do," said Dr Calder. She went to the range and lifted the lid on the hot plate that nobody used, and brought out a cardboard folder, grey with age, labelled in blue ink **PROGRAMME, 1976 to 1994,** and put it into his hands. "It's been in the way for thirty years. You'd be doing me a kindness."
 

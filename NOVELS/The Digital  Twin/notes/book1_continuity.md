@@ -231,3 +231,11 @@ Source: Codex's 15 Oct manuscript (branch `codex/digital-twin-critical-revision`
 - Ch 32: the younger of Sir Rupert's two men is Mr Lessing. Ch 35: Pym moved on the Monday to Deputy Registrar of Lost Property (Mammalian), the annexe, no window; he left the folder with Gareth on the Friday.
 - Calder's Programme account: Ch 21 only (Ch 20 is origin; Ch 32 is the legal reveal).
 - Automated scan on the REV2 text: every weekday/date pair correct; key numbers consistent; no stray spellings of Pettifer, Calder, Mercier, Veitch, Aldworth. Not a human front-to-back read.
+
+
+## REV4 changes
+- DP-0000000 (Ch 4) is a legacy record, DP-0000000/A is Daniel-A's linked record, date field blank, registered 2 March 1999 per page one of the Register; Schedule Four para 9 consent of the antecedent registrant (Edmund Calder, "Ned").
+- Pettifer = Imogen; Calder = Marguerite; correspondence since winter 2019; standing instruction GBP 40 a month, file marked "Hypothetical". Lanyard borrowed from Gareth; no friend in Records.
+- Securishred (Ch 22): technician Gavin, arrives 8:22, gone before half past eight; decoy box; certificate.
+- Kevin: attended the canteen via the phone; list of nine people and a dentist in Walsall.
+- Barry: unit 114 cleared at noon (Ch 30), eleven fifty-one.
