@@ -106,9 +106,7 @@ She held it up for me to see.
 
 ---
 
-I would like to say that the idea was kept.
-
-It was not. It was out in fourteen hours.
+The idea was not kept. It was out in fourteen hours.
 
 I do not know who did it. I have my theories, and so has Gareth, who spent the next week in a state of nervous exaltation and, I believe, entirely innocent of any wrong. All I know is that at 1:08 on the Tuesday morning the Cloud Coin Network interrupted its coverage of a mattress to say that it had received, from a source inside the Department, a transcript of *a conversation with the man at the centre of the Digital Twin Act,* in which he had stated, according to Rick Valence, who read the words from a card in a trembling baritone, that **"nothing is the original."**
 

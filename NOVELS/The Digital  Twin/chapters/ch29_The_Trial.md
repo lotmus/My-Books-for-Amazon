@@ -22,7 +22,7 @@ They had moved us to the Great Hall.
 
 I had not known there was one. It was on the ground floor, at the back of the glass building, behind a door marked **MAINTENANCE (DO NOT ENTER),** and it was a high, cold, handsome room, panelled in dark wood, with a gallery all the way round. It had been built in 1974, according to a plaque, to hold the Annual General Meeting of a body called the Registry of Persons, which had been abolished in 1989, and had not been used since except for fire drills. The room smelled of old varnish and a mild damp excitement. Every seat in the gallery was full.
 
-Deputy Registrar Pym sat on a raised bench at the far end, in a black gown that was a little too long for him, behind a desk that held a jug of water, a blotter, and the brass bell. He looked like a very small tortoise in a very large cathedral. At his side, on a low chair, with his laptop and his biro, was Gareth, who had been promoted that morning to *Clerk of the Hearing,* and who had put on, in honour of the occasion, a tie.
+Deputy Registrar Pym sat on a raised bench at the far end, in a black gown that was a little too long for him, behind a desk that held a jug of water (the label said *Hydrate responsibly*), a blotter, and the brass bell. He looked like a very small tortoise in a very large cathedral. At his side, on a low chair, with his laptop and his biro, was Gareth, who had been promoted that morning to *Clerk of the Hearing,* and who had put on, in honour of the occasion, a tie.
 
 I took my place at the table on the left. Pettifer was already there, in the charcoal suit, with her single sheet of paper in front of her and her hands folded on top of it. She nodded to me. She did not speak. On the table beside her, set out with the formality of a dead relative, stood a small bowler hat, in black painted iron, with a card in front of it that said **EXHIBIT H.**
 
@@ -84,7 +84,7 @@ I will pass over the middle of the day. It had in it a great deal of law, and a 
 
 "Then I withdraw it, sir," said Giles, and burst into tears, and was permitted to sit down.
 
-It had in it Mrs Pritchard, who was not a witness but came to hear, and who took a seat in the front row of the gallery and was understood to have bribed a usher with a banana. It had in it Dorothy, who attended with Mr Fenwick, and who said in the corridor at lunch to a startled journalist that she thought the Registrar was *absolutely right.* And at ten past two, in accordance with Schedule 6, paragraph 3, the Court received the corroborative evidence of a mammal.
+It had in it Mrs Pritchard, who was not a witness but came to hear, and who took a seat in the front row of the gallery and was understood to have bribed an usher with a banana. It had in it Dorothy, who attended with Mr Fenwick, and who said in the corridor at lunch to a startled journalist that she thought the Registrar was *absolutely right.* And at ten past two, in accordance with Schedule 6, paragraph 3, the Court received the corroborative evidence of a mammal.
 
 I had brought Clause in her basket. She is not a cat who enjoys a journey. She emerged on the green baize of the witness table with her tail like a bottle brush and her amber eyes narrowed to two bored slits, and Adjudicator Pauline Dunmore, of the Mammalian Division, came forward in her hi-vis tabard, with her iron-grey bun and her clipboard, and said that she had adjudicated four hundred and thirty-one trials, including a pig and a loud donkey, and that this was her first cat that was both a witness and a *friend of the Court.*
 

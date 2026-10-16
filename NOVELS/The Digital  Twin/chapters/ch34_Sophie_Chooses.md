@@ -182,6 +182,8 @@ There was a short silence. Then Daniel-A did something I had not seen him do. He
 
 "It's not kind. It's an observation." She lifted her cup to him. "It's a thing that I've found to be true of people."
 
+I thought of a small voice from a trolley, saying *he's allowed,* and kept it to myself. It seemed to me that it was Ned's to say again.
+
 ---
 
 We stayed another hour.

@@ -91,7 +91,7 @@ It was not Sophie.
 
 It was a woman in a hi-vis tabard.
 
-She stood in the doorway with a clipboard held against her chest like a shield, and a lanyard that read **DEPARTMENT OF DIGITAL PERSONS: SCHEDULE 6 ADJUDICATOR.** She was in her late fifties, short and wide, with iron-grey hair drawn back into a bun that could have been used to calibrate instruments. Her name badge said **PAULINE DUNMORE** and below it, in smaller type, **Mammalian Division.**
+She stood in the doorway with a clipboard held against her chest, and a lanyard that read **DEPARTMENT OF DIGITAL PERSONS: SCHEDULE 6 ADJUDICATOR.** She was in her late fifties, short and wide, with iron-grey hair drawn back into a bun that could have been used to calibrate instruments. Her name badge said **PAULINE DUNMORE** and below it, in smaller type, **Mammalian Division.**
 
 "Mr Harper," she said. "Mr Harper."
 
@@ -133,7 +133,7 @@ It began as a low, ominous rumble, like a distant generator. It rose into a shor
 
 I am going to try to describe him accurately.
 
-He is a Pomeranian. He weighs 2.1 kilograms, and has the ruff of a small lion having a bad day. He is brown, with grey creeping in about the muzzle and eyebrows and the tips of his paws, so that he looks like a retired general who has been told that the war is over and is refusing to accept it. He has black button eyes, and one ear that stands up and one that has never, in his seven years, been persuaded to. He stood in the doorway with his feet apart and his tail curled over his back like a question mark, and stared at me with the cold fury of a customs officer who has found something in my luggage.
+He is a Pomeranian. He weighs 2.1 kilograms, and has the ruff of a small lion having a bad day. He is brown, with grey creeping in about the muzzle and eyebrows and the tips of his paws, so that he looks like a retired general who has been told that the war is over and is refusing to accept it. He has black button eyes, and one ear that stands up and one that has never, in his seven years, been persuaded to. He stood in the doorway with his feet apart and his tail curled over his back, and stared at me with the cold fury of a customs officer who has found something in my luggage.
 
 "Gucci," I said.
 
@@ -149,7 +149,7 @@ I will not describe the next few minutes in detail, since there are things a man
 
 "Right," said Pauline Dunmore, at last. "To the garden."
 
-The garden was a rectangle of flagstones with a bay tree in a pot and a tangle of rope toys. It had a table, a chair, a fence, and, by the back wall, a flower bed in which nothing grew except an air of defiance. Adjudicator Dunmore positioned herself by the bay tree, with her clipboard, a stopwatch, and a small camera on a tripod. Sophie stood by the kitchen door. Gucci waited on the flags, in the exact centre of the garden, like a customs post.
+The garden was a rectangle of flagstones with a bay tree in a pot and a tangle of rope toys. It had a table, a chair, a fence, and, by the back wall, a flower bed in which nothing grew except an air of defiance. Adjudicator Dunmore positioned herself by the bay tree, with her clipboard, a stopwatch, and a small camera on a tripod. Sophie stood by the kitchen door. Gucci waited on the flags, in the exact centre of the garden.
 
 "Mr Harper first," said Dunmore. "The Source. Mr Harper, the Digital Person, if you'd go inside and wait in the kitchen."
 
@@ -161,7 +161,7 @@ I was alone with the dog.
 
 I walked across the flags. The dog watched me with total immobility.
 
-I knelt down. My knees cracked like a pistol. I held out my hand, palm up, the way you do, and I said, in a voice that sounded to me like the voice of a man of a hundred and four, "Hello, mate."
+I knelt down. My knees cracked. I held out my hand, palm up, the way you do, and I said, in a voice that sounded to me like the voice of a man of a hundred and four, "Hello, mate."
 
 Gucci sniffed my hand.
 

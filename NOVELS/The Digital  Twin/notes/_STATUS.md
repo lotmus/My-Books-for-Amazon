@@ -1,4 +1,12 @@
-# The Digital Twin: status (15 Oct 2026, REV3)
+# The Digital Twin: status (15 Oct 2026, REV4)
+
+**Master:** `The Digital Twin - REV4.docx` (Kindle page 3.6 x 4.8 in, 0.3 in margins, Heading 1 per chapter on a new page, linked contents, no tables, cover on page 1; about 113,100 words in the 35 chapters). REV3 is in `bak\2026-10-15 REV3\`, REV2 and REV1 in their own bak folders. Full four-angle scores and the twist log: `notes/REVIEW_REV4_2026-10-15.md`.
+
+Scores (REV4, strict, no 10s): plot 9.2, characters 9.2, prose 8.8, pacing 9.0, continuity 9.1, dialogue 9.2, humour 9.0, Kindle formatting 8.9, front/back matter 9.0, cover/KDP 8.4. Overall 9.1, sellability 8.6.
+Open items: Lothar read-through; outside readers; Kindle Previewer; cover approval.
+
+(REV3 status follows for reference.)
+
 
 **Master:** `The Digital Twin - REV3.docx` (Kindle page 3.6 x 4.8 in, 0.3 in margins, Heading 1 per chapter on a new page, linked contents without page numbers, no tables, cover on page 1; about 109,500 words in the 35 chapters). REV2 is in `bak\2026-10-15 REV2\`, REV1 in `bak\2026-10-15 REV1\`.
 **Working copy:** `chapters/ch01..ch35` (Markdown). Rebuild: `python notes/build/build_docx.py <book folder> <out.docx> cover/<cover.png>` (needs the two canonical files copied next to the chapters). REV3 edits are scripted in `notes/build/rev3_edits.py` and `fix1.py` (run on the REV2 chapters).

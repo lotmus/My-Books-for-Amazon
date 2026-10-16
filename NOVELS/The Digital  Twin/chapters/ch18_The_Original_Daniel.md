@@ -66,7 +66,7 @@ I opened it.
 
 There they were. Twenty small teeth, each one in its own twist of paper, each one dated, in the neat pencil of a man who counted gaps in hedges for a living. *Lower left, central incisor. 3.11.92. Came out in a Weetabix.* I picked one up. It weighed less than the paper. It was about the size of a grain of rice, and slightly yellow, and it had been in my head.
 
-I will say only that I held it for some time. My mother, who is not a woman who stops talking in a kitchen, did not say a word, and the man on the radio got Peru wrong a second time.
+I will say only that I held it for some time. My mother, who has never stopped talking in a kitchen, did not say a word, and the man on the radio got Peru wrong a second time.
 
 "He kept all of them," I said at last.
 
@@ -92,7 +92,7 @@ In the lid, under the tape that held the cardboard liner, there was one more thi
 
 ---
 
-The laboratory was in a unit on a trading estate in Croydon, between a vape shop and a business that sold only doors, and it was accredited, according to the certificate by the entrance, under Schedule 6, paragraph 7, as a **Facility for Corroborative Biological Continuity.** Gareth had come to supervise. He wore the cardigan buttoned one hole out,.
+The laboratory was in a unit on a trading estate in Croydon, between a vape shop and a business that sold only doors, and it was accredited, according to the certificate by the entrance, under Schedule 6, paragraph 7, as a **Facility for Corroborative Biological Continuity.** Gareth had come to supervise. He wore the cardigan buttoned one hole out, and he photographed everything, including the seals, the technician and the door, with the guilty thoroughness of a man who has once deleted something and been haunted by it.
 
 "Everything has to be sealed in your presence, Mr Harper, and then in mine, and then in the presence of the technician, and then we all have to watch each other seal it."
 
@@ -193,7 +193,7 @@ Mrs Pritchard was there, in the pink cardigan, with a bottle of sherry and a ban
 
 "I said it with confidence."
 
-The courier arrived at ten past five. It was the first one, the one who is calm as a tide, with the tablet lit, and behind him, silent, the broad one with the clipboard like a shield, and behind *him,* tall and nineteen and apologetic, the trainee, who was carrying a fruit basket as if it were a sleeping child. It was a very large basket. It was mostly pears.
+The courier arrived at ten past five. It was the first one, the one who is calm as a tide, with the tablet lit, and behind him, silent, the broad one with the clipboard, and behind *him,* tall and nineteen and apologetic, the trainee, who was carrying a fruit basket as if it were a sleeping child. It was a very large basket. It was mostly pears.
 
 "Delivery for the confirmed party," said the first courier. "Sign here, please. Congratulations on the precedence."
 
@@ -217,7 +217,7 @@ She had the grey coat on, and the grey scarf, and the air of having come from wo
 
 She laughed. It was the laugh like something falling downstairs, and everyone in the room stopped and turned to look at it, and Mr Fenwick said, "Good heavens."
 
-Then she picked up the certificate from the table, because she is a woman who cannot be near an authenticated document without reading it, and she read it standing up, all fourteen pages, with the small crease between her eyebrows. It took her about two minutes. She reached the end, and she read page fourteen. I watched it happen. It took her eleven seconds, and then, with great care, she laid the certificate face down on the table, as one lays down a card that one does not wish to be seen to have played.
+Then she picked up the certificate from the table, because she cannot be near an authenticated document without reading it, and she read it standing up, all fourteen pages, with the small crease between her eyebrows. It took her about two minutes. She reached the end, and she read page fourteen. I watched it happen. It took her eleven seconds, and then, with great care, she laid the certificate face down on the table, as one lays down a card that one does not wish to be seen to have played.
 
 "Euston," she said. "Tomorrow. Quarter past nine. The sleeper."
 

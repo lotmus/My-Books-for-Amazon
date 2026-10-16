@@ -8,7 +8,7 @@ I saw her from the window. She came up the road in the rain, a tall thin figure 
 
 "How did you get him here?"
 
-"The sleeper to Euston, and the Tube to Victoria, and a train. There was a young man on the Elizabeth line who asked what it was. I said it was my son. He said, *cool.* I believe he thought it was a retro console." "Gordon's out of the way, I hope. I met him in the hall the last time."
+"The sleeper to Euston, and the Tube to Victoria, and a train. The barrier at Victoria asked him to look at the camera. I explained that he was my son. It said, *Please remove your hat.* A young man on the train asked what it was, and I said it was my son, and he said *cool.* I believe he thought it was a retro console." She looked up the stairwell. "Gordon's out of the way, I hope. I have been warned about him."
 
 "He's with Mrs Pritchard."
 
@@ -44,7 +44,71 @@ Clause, who had been asleep on the shelf in her place beside the speaker, rose, 
 
 ---
 
-I had been afraid of this conversation for four days. I had thought it would be overwhelming, or ridiculous, or too much. In the event it was none of these. It was, as most important things are, extremely ordinary. We sat round a kitchen table, in the glare of the fluorescent tube, with the dishes undone: a man in a navy jumper with a darned elbow, a woman of seventy-two with a pencil in her bun, a cat on a computer, and two small speakers, one grey and one beige, one on a shelf and one in a case.
+Pettifer arrived at twenty past seven, without notice, which is how she arrives at everything.
+
+She came up the stairs at her usual speed, with the tea-coloured flask under her arm and a single sheet of paper in her fist, and stopped in the kitchen doorway like a woman who has walked into a room she has already billed for. She looked at the tower, and the cat on the tower, and the tall thin figure at the end of the table. She did not look at me.
+
+"Imogen," she said.
+
+"Marguerite," said Dr Calder, without getting up. "You've cut your hair."
+
+"You've changed your cardigan."
+
+"It's the same one."
+
+"I know," said Pettifer. "I was being polite."
+
+Neither of them said anything more. It occurred to me that I was the only person in the room who was surprised, apart from the cat, who has never in her life been surprised.
+
+"You've met," I said.
+
+"We have never met," said Pettifer. "We have corresponded." She took the peppermint tin from her pocket, looked at it, and set it down on the table beside the Kindle, with the lid turned towards Dr Calder. "At Christmas. For seven years."
+
+I looked at the tin. The lid had a Highland stag on it and the name of a sweet shop in Pitlochry. I had watched Pettifer put one of those in her cheek on several occasions, and each time I had put it down to the profession. I should like it understood that I am not proud of this.
+
+"She wrote to me in the winter of 2019," said Pettifer, to the table. "She gave no reason. She said that a piece of paper had come in the post, that she had read the first line and could not read the second, and that she wanted a solicitor who read footnotes. I had written a note on the presumption of singleton in a law journal that nobody reads. It had a footnote that said the Act was a very large building on a very small hole." She did not look at Dr Calder. "She set up a standing instruction. If anyone called Daniel Harper should ever appear before the Department of Digital Persons, Pettifer & Shaw were to act for him. She paid forty pounds a month out of a pension. I thought it eccentric. I kept it going for seven years, in a file marked *Hypothetical.* In January it stopped being hypothetical."
+
+"You told me there was a wall," I said.
+
+"There is a wall."
+
+"You said you weren't permitted to cross it."
+
+"I am not permitted to cross it," said Pettifer. "I did not say which side I was standing on." She turned the flask a quarter-turn. "I also lied about a friend in Records. There was no friend in Records. There was a map in a Christmas card, and a lanyard I borrowed from Gareth, who would like me not to say so."
+
+"Why tell me now?"
+
+"Because the instruction was that I should not tell you until she did, or until she was in a courtroom, whichever came first. She is, as I see, in a kitchen. I judged that near enough." For the first time that I had seen, her mouth did something that was not a straight line. "And because I wished to say, once, with a witness present, that I am pleased. I am not permitted to be pleased. I am pleased. I shall be billing for it."
+
+I should have been angry. I looked for the anger, as one looks for keys, and found only a faint sense that I had been rather well looked after, for seven years, by a woman who billed in six-minute units in order to hide it.
+
+"Are you going to resign?" I said. "From me?"
+
+"I have a conflict. It is not a conflict of interest. It is a conflict of affection, and the Law Society has no form for it. If you would like me to withdraw, I shall withdraw, and I shall send you a very good name in Leeds."
+
+"You read the footnote," I said.
+
+"I read all of them."
+
+"Then no."
+
+Dr Calder had said nothing throughout. She was looking at the peppermint tin, and she was smiling, as a person smiles who has put a message in a bottle and been surprised to find the bottle on her own table.
+
+"I should add," said Pettifer, picking up the flask, "that my other client has asked me to act for her as well, in due course, when the Director of Public Prosecutions has finished his sandwich. I have said that I will. I have not said for how much."
+
+"Is there a lady?" said Ned, from the tower. "I can't see."
+
+"There is, darling," said Dr Calder. "She's a friend of mine."
+
+"Is she a Dan?"
+
+"No," said Pettifer, with dignity. "I am a Marguerite."
+
+"That's a lot of letters," said Ned, with respect.
+
+---
+
+I had been afraid of this conversation for four days. I had thought it would be overwhelming, or ridiculous, or too much. In the event it was none of these. It was, as most important things are, extremely ordinary. We sat round a kitchen table, in the glare of the fluorescent tube, with the dishes undone: a man in a navy jumper with a darned elbow, a woman of seventy-two with a pencil in her bun, a solicitor with a flask, a cat on a computer, and two small speakers, one grey and one beige, one on a shelf and one in a case.
 
 Sophie came at eight. She did not come in. She sat on the stairs, with Gucci in her lap, and the door open behind her, so that the sound could reach her and she could, if necessary, leave.
 
