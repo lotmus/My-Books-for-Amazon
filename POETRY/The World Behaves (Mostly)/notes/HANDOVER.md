@@ -14,3 +14,7 @@ New companion collection, started from scratch on 2026-10-16. No poems are being
 ## Editorial bar
 
 Keep a poem only if its subject is understandable and its language feels alive. When it rhymes, the rhyme must be pleasing rather than forced. Its ending should add a satisfying thought, image, turn, or laugh. Vary forms and rhythms; do not force comedy onto serious subjects or rhyme onto a poem that wants another form.
+
+## Author presentation
+
+The manuscript includes an evocative literary-persona bio for Kira Vale. Do not add invented credentials, awards, reader praise, or claims about personal life experiences.

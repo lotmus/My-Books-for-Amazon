@@ -209,3 +209,7 @@ We cannot bring the source back near,
 Or make its vanished hour our own;
 But something reaches us from there,
 And makes the dark feel less alone.
+
+## About the Poet
+
+Kira Vale writes poems that move between the intimate and the immense: a small kindness at the kitchen sink, a difficult change, the old light of a distant star. Her work can be wry, tender, or questioning, and looks for meaning in ordinary details without pretending every question has an easy answer. She writes for readers who want a poem to leave them with something to feel, consider, or carry into the day.
