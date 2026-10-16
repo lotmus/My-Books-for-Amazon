@@ -1,0 +1,607 @@
+H1: Appendix A — Formula Reference
+H2: Part I — The Physics of Electricity and Magnetism
+H3: SI Prefixes
+P: These prefixes recur throughout this book and throughout the rest of this series, and it is worth having the full range fixed firmly in mind rather than only the two or three you happen to use most often — a stray factor of a thousand, misread from an unfamiliar prefix, is one of the most common sources of an answer that is wrong by several orders of magnitude despite every other step being correct.
+P: Prefix — Symbol — Factor
+P: teraSymbol: TFactor: 10¹²
+P: gigaSymbol: GFactor: 10⁹
+P: megaSymbol: MFactor: 10⁶
+P: kiloSymbol: kFactor: 10³
+P: (none)Symbol: —Factor: 10⁰
+P: milliSymbol: mFactor: 10⁻³
+P: microSymbol: µFactor: 10⁻⁶
+P: nanoSymbol: nFactor: 10⁻⁹
+P: picoSymbol: pFactor: 10⁻¹²
+P: femtoSymbol: fFactor: 10⁻¹⁵
+H3: Electrostatics
+P: Quantity — Formula
+P: Coulomb's law — F = kq₁q₂/r² , k = 8.99×10⁹ N·m²/C²
+P: Electric field (point charge) — E = kq/r²
+P: Electric field, force — E = F/q₀
+P: Gauss's law — Φᴇ = Qₑₙᴄ/ε₀
+P: Field, infinite sheet — E = σ/(2ε₀)
+P: Field, infinite line — E = λ/(2πε₀r)
+P: Potential (point charge) — V = kq/r
+P: Potential energy (pair) — U = kqQ/r
+P: Field ↔ potential (uniform) — E = ΔV/d
+H3: Capacitance
+P: Quantity — Formula
+P: Capacitance — C = Q/V
+P: Parallel plate — C = ε₀A/d  (with dielectric: κε₀A/d)
+P: Energy stored — U = ½CV² = ½QV = Q²/(2C)
+P: Capacitors in parallel — Cₚ = C₁ + C₂ + …
+P: Capacitors in series — 1/Cₛ = 1/C₁ + 1/C₂ + …
+H3: Current, Resistance, and Circuits
+P: Quantity — Formula
+P: Current — I = dQ/dt
+P: Current density, drift velocity — J = I/A = nqv_d
+P: Resistance — R = ρL/A
+P: Ohm's law — V = IR
+P: Power — P = IV = I²R = V²/R
+P: Series resistors — Rₛ = R₁ + R₂ + …
+P: Parallel resistors — 1/Rₚ = 1/R₁ + 1/R₂ + …
+H3: Magnetism
+P: Quantity — Formula
+P: Magnetic force on charge — F = qv×B , F = qvB sinθ
+P: Force on current-carrying wire — F = IL×B , F = BIL sinθ
+P: Radius of circular motion — r = mv/(qB)
+P: Field of a long straight wire — B = μ₀I/(2πr) , μ₀ = 4π×10⁻⁷ T·m/A
+P: Field inside a solenoid — B = μ₀nI  (with core: μᵣμ₀nI)
+P: Ampere's law — ∮ B·dl = μ₀Iₑₙᴄ
+H3: Induction
+P: Quantity — Formula
+P: Magnetic flux — Φʙ = BA cosθ
+P: Faraday's law — ε = −N dΦʙ/dt
+P: Motional EMF — ε = BLv
+P: Self-inductance — ε = −L dI/dt
+P: Speed of light — c = 1/√(ε₀μ₀) ≈ 3.00×10⁸ m/s
+H2: Part II — Mathematics and Measurement
+H3: Units and Measurement
+P: Prefix pairs that cancel: µ×M = m×k = n×G = p×T = 1
+P: Relative uncertainty of a product: add the relative uncertainties
+P: Absolute uncertainty of a sum or difference: add the absolute uncertainties
+H3: Circuit Algebra
+P: Series resistance: R = R₁ + R₂ + …
+P: Parallel resistance: 1/R = 1/R₁ + 1/R₂ + …, and for two, R = R₁R₂/(R₁ + R₂)
+P: Voltage divider: V_out = V_in·R₂/(R₁ + R₂)
+P: Current divider: I₁ = I_total·R₂/(R₁ + R₂)
+P: Quadratic roots: x = [−b ± √(b² − 4ac)]/2a
+P: Binomial approximation, small x: (1 + x)ⁿ ≈ 1 + nx
+P: Two-by-two determinant: D = a₁b₂ − a₂b₁
+H3: Exponentials, Logarithms, Decibels
+P: Decay: v(t) = V₀·e^(−t/τ);  Rise: v(t) = V_f(1 − e^(−t/τ))
+P: Time constants: τ = RC and τ = L/R
+P: Settling: 63% at 1τ, 86% at 2τ, 95% at 3τ, 99.3% at 5τ
+P: Log laws: log(ab) = log a + log b; log(a/b) = log a − log b; log(aⁿ) = n log a
+P: Power ratio: G(dB) = 10·log₁₀(P₂/P₁);  Voltage ratio: G(dB) = 20·log₁₀(V₂/V₁)
+P: Key values: 3 dB = ×2 power; 6 dB = ×2 voltage; 10 dB = ×10 power; 20 dB = ×10 voltage
+P: Absolute: 0 dBm = 1 mW; +30 dBm = 1 W; −30 dBm = 1 µW
+H3: Trigonometry and Sinusoids
+P: General sinusoid: v(t) = V_m·sin(ωt + φ), with ω = 2πf = 2π/T
+P: Pythagorean: sin²θ + cos²θ = 1
+P: Sum of angles: sin(A+B) = sin A cos B + cos A sin B; cos(A+B) = cos A cos B − sin A sin B
+P: Double angle: sin 2θ = 2 sin θ cos θ; cos 2θ = 1 − 2sin²θ
+P: RMS of a sinusoid: V_rms = V_m/√2 ≈ 0.707 V_m (square wave: V_m; triangle: V_m/√3)
+H3: Complex Numbers
+P: Rectangular: z = a + jb, with j² = −1
+P: Magnitude: |z| = √(a² + b²);  Angle: θ = arctan(b/a), adjusted for quadrant
+P: Conjugate: z* = a − jb, and z·z* = a² + b²
+P: Polar product: magnitudes multiply, angles add
+P: Euler: e^(jθ) = cos θ + j sin θ;  cos θ = (e^(jθ) + e^(−jθ))/2;  sin θ = (e^(jθ) − e^(−jθ))/2j
+H3: Phasors and Impedance
+P: Phasor of V_m·cos(ωt + φ): V = (V_m/√2)∠φ using RMS convention
+P: Impedances: Z_R = R;  Z_L = jωL;  Z_C = 1/(jωC) = −j/(ωC)
+P: Series impedance adds; parallel impedance by product-over-sum; admittance Y = 1/Z adds in parallel
+P: Impedance angle = phase by which voltage leads current
+H3: Calculus
+P: Component laws: i = C·dv/dt;  v = L·di/dt
+P: d/dt of e^(kt) = k·e^(kt);  of sin(ωt) = ω cos(ωt);  of cos(ωt) = −ω sin(ωt);  of tⁿ = n·t^(n−1)
+P: ∫e^(kt) dt = e^(kt)/k;  ∫cos(ωt) dt = sin(ωt)/ω;  ∫tⁿ dt = t^(n+1)/(n+1)
+P: In sinusoidal steady state: d/dt → ×jω, and ∫dt → ÷jω
+H2: Part III — DC and AC Circuit Theory
+H3: Kirchhoff's Laws and Basic Relations
+P: Quantity — Formula
+P: Kirchhoff's Current Law — Σ Iin = Σ Iout at any node
+P: Kirchhoff's Voltage Law — Σ V = 0 around any closed loop
+P: Voltage divider — V₁ = V·R₁/(R₁+R₂)
+P: Current divider — I₁ = I·R₂/(R₁+R₂)
+H3: Equivalent Circuits
+P: Quantity — Formula
+P: Thevenin resistance — R_Th: sources deactivated, look into terminals
+P: Thevenin voltage — V_Th = open-circuit voltage
+P: Norton current — I_N = short-circuit current = V_Th/R_Th
+P: Maximum power transfer — R_L = R_Th ; P_max = V_Th²/(4R_Th)
+H3: Dynamic Elements and Transients
+P: Quantity — Formula
+P: Capacitor v-i relation — i = C dv/dt
+P: Inductor v-i relation — v = L di/dt
+P: Inductors in series/parallel — Ls = L1+L2+… ; 1/Lp = 1/L1+1/L2+…
+P: RC time constant — τ = RC
+P: RL time constant — τ = L/R
+P: General transient form — x(t) = x_final + (x_initial − x_final)e^(−t/τ)
+H3: Phasors and Impedance
+P: Quantity — Formula
+P: Impedance, resistor — Z_R = R
+P: Impedance, inductor — Z_L = jωL
+P: Impedance, capacitor — Z_C = 1/(jωC) = −j/(ωC)
+P: RMS from peak — V_rms = V_m/√2
+H3: AC Power
+P: Quantity — Formula
+P: Real power — P = V_rms I_rms cosθ  (W)
+P: Reactive power — Q = V_rms I_rms sinθ  (VAR)
+P: Apparent power — S = V_rms I_rms  (VA) ; S = √(P²+Q²)
+P: Power factor — cosθ = P/S
+H3: Resonance and Transformers
+P: Quantity — Formula
+P: Resonant angular frequency — ω₀ = 1/√(LC)
+P: Quality factor (series RLC) — Q = ω₀L/R
+P: Bandwidth — = ω₀/Q
+P: Ideal transformer — V₂/V₁ = N₂/N₁ ; I₂/I₁ = N₁/N₂
+H3: Smith Chart and Impedance Matching
+P: Quantity — Formula
+P: Reflection coefficient — Γ = (Z − Z₀)/(Z + Z₀) = (z − 1)/(z + 1)
+P: VSWR — VSWR = (1 + |Γ|)/(1 − |Γ|)
+P: Return loss — RL (dB) = −20log₁₀|Γ|
+P: L-network series reactance (R_L < Z₀) — X_s = √[R_L(Z₀ − R_L)]
+P: L-network shunt susceptance — B_p = X_s/(R_L² + X_s²)
+P: Short-circuited stub susceptance — B = −Y₀cot(βl)
+P: Open-circuited stub susceptance — B = +Y₀tan(βl)
+P: RF choke sizing (rule of thumb) — X_L ≥ (5 to 10)×Z₀
+H3: Sensors and Interfaces (Chapters 8, 15, 27, 33)
+P: Quantity — Formula
+P: ADC step (resolution) — LSB = full-scale range/2ᴺ
+P: NTC thermistor, B-equation — R(T) = R₂₅ e^(B(1/T − 1/T₂₅)), T in kelvin
+P: Thermistor sensitivity — dR/dT = −BR/T²
+P: Wheatstone bridge output — V_out = V_s[R₂/(R₁ + R₂) − R₄/(R₃ + R₄)]
+P: Load-cell output — V_out = (rated output in mV/V) × V_excitation × load/capacity
+P: Speed of sound in air — v ≈ 331.3 + 0.606T m/s, T in °C
+P: RC rise time, 30 % to 70 % (I²C) — t_r = 0.8473RC
+P: Energy cost — cost = P × hours/1000 × price per kWh
+H1: Appendix B — Practice Problem Solutions
+P: Every practice problem in the book is worked here in full, chapter by chapter: the idea, the formula, the numbers, and a check. Attempt each problem before you read its solution; the Preface explains why that matters more than it seems.
+H2: Chapter 1 Solutions
+P: 1. The charge is a whole number of electron charges, so divide the total by e. |q| = 8.0 nC = 8.0×10⁻⁹ C, and n = |q|/e = (8.0×10⁻⁹ C)/(1.602×10⁻¹⁹ C) ≈ 5.0×10¹⁰ electrons. Check the sign: the rod is negative, so these are excess electrons, not missing ones. Fifty billion sounds like a lot, yet it is only about one extra electron for every 10¹³ atoms in a small rod.
+P: 2. Charge is conserved and identical spheres share it equally. Total before contact: (+6.0 nC) + (−2.0 nC) = +4.0 nC. After touching, each sphere carries half: +2.0 nC. Check: 2.0 + 2.0 = 4.0 nC, the same total as before. The usual mistake is to split 6.0 and 2.0 separately or to forget the sign of the negative charge.
+P: 3. Current is charge per second, so Q = IΔt = (2.0 A)(60 s) = 120 C. The number of elementary charges is n = Q/e = 120/(1.602×10⁻¹⁹) ≈ 7.5×10²⁰. Check the order of magnitude: one coulomb is about 6.24×10¹⁸ charges, and 120 × 6.24×10¹⁸ ≈ 7.5×10²⁰.
+P: 4. Work one contact at a time, conserving charge and splitting equally each time. First contact: the neutral sphere (0) touches +9.0 nC; the total +9.0 nC splits into +4.5 nC each. Second contact: the same sphere (+4.5 nC) touches −3.0 nC; the total +1.5 nC splits into +0.75 nC each. Final charges: the first sphere +4.5 nC, the travelling sphere +0.75 nC, the third sphere +0.75 nC. Check: 4.5 + 0.75 + 0.75 = 6.0 nC, equal to the starting total 9.0 − 3.0 = 6.0 nC.
+H2: Chapter 2 Solutions
+P: 1. Use Coulomb's law with magnitudes, then decide the direction from the signs. F = k|q₁q₂|/r² = (8.99×10⁹)(4.0×10⁻⁶)(6.0×10⁻⁶)/(0.30)² = 0.2158/0.090 ≈ 2.4 N. The charges have opposite signs, so the force is attractive: each charge is pulled toward the other along the line joining them. Newton's third law gives the same 2.4 N on both.
+P: 2. Rearrange Coulomb's law for the distance: r = √(kq²/F) = √[(8.99×10⁹)(1.0×10⁻⁶)²/1.0] = √(8.99×10⁻³) ≈ 0.095 m, about 9.5 cm. Check: at 9.5 cm, F = (8.99×10⁹)(10⁻¹²)/(0.095)² ≈ 1.0 N. A microcoulomb is a large charge for everyday objects; two of them push hard even at ten centimeters.
+P: 3. Find each force on the middle charge separately, give it a direction, then add as vectors along the line. From +2.0 µC at x = 0 (10 cm away): attractive, so it pulls the −3.0 µC charge toward x = 0, with F₁ = (8.99×10⁹)(2.0×10⁻⁶)(3.0×10⁻⁶)/(0.10)² ≈ 5.39 N. From +1.0 µC at x = 20 cm (10 cm away): also attractive, pulling toward x = 20 cm, with F₂ = (8.99×10⁹)(1.0×10⁻⁶)(3.0×10⁻⁶)/(0.10)² ≈ 2.70 N. They point in opposite directions, so the net force is 5.39 − 2.70 ≈ 2.7 N toward x = 0. The usual mistake is to add the magnitudes (8.1 N) without drawing the arrows.
+P: 4. Draw one sphere: gravity mg acts down, the string tension T acts along the string, 10° from vertical, and the Coulomb repulsion F acts horizontally, away from the other sphere. In equilibrium, vertical: T cos 10° = mg; horizontal: T sin 10° = F. Dividing eliminates T: F = mg tan 10° = (1.0×10⁻³ kg)(9.81 m/s²)(0.1763) ≈ 1.73×10⁻³ N. The geometry gives the separation: each sphere hangs L sin 10° = (0.50 m)(0.1736) = 0.0868 m from the vertical, so r = 2L sin 10° ≈ 0.174 m. Now Coulomb's law: kq²/r² = F, so q = r√(F/k) = (0.174)√(1.73×10⁻³/8.99×10⁹) ≈ 7.6×10⁻⁸ C, about 76 nC on each sphere. Check: the tension is mg/cos 10° ≈ 9.96×10⁻³ N, a little more than the weight, as it must be when the string also supplies the sideways force.
+H2: Chapter 3 Solutions
+P: 1. The field of a point charge is E = k|q|/r² = (8.99×10⁹)(12×10⁻⁹)/(0.10)² ≈ 1.08×10⁴ N/C. Direction: field lines end on negative charge, so at the point the field points radially inward, toward the charge. Check the units: N·m²/C² × C / m² = N/C.
+P: 2. Each charge is 2.0 cm from the midpoint, so each contributes E = kq/r² = (8.99×10⁹)(5.0×10⁻⁹)/(0.020)² ≈ 1.12×10⁵ N/C. At the midpoint, the field of +q points away from +q, toward −q, and the field of −q points toward −q as well, so the two add instead of cancelling: E ≈ 2.25×10⁵ N/C, directed from the positive charge toward the negative one. The usual mistake is to assume that equal and opposite charges cancel at the midpoint; that happens with two equal charges of the same sign.
+P: 3. F = qE, with q = −e for the electron. The magnitude is (1.602×10⁻¹⁹ C)(500 N/C) ≈ 8.0×10⁻¹⁷ N. Because the charge is negative, the force points opposite to the field: in the −x direction. Check: field arrows show the push on a positive test charge, so an electron always goes against them.
+P: 4. τ = pE sin θ = (2.0×10⁻²⁹ C·m)(3.0×10⁵ N/C) sin 90° = 6.0×10⁻²⁴ N·m. Perpendicular is the orientation of maximum torque; at 0° or 180° the torque would be zero. The torque turns the dipole until p lines up with E.
+H2: Chapter 4 Solutions
+P: 1. Gauss's law: Φ = Q_enc/ε₀ = (2.0×10⁻⁹ C)/(8.85×10⁻¹² C²/N·m²) ≈ 226 N·m²/C. The 3.0 cm radius never enters: the flux through a closed surface depends only on the charge inside, not on the size or shape of the surface. Check with a direct calculation: E = kQ/r² at r = 0.030 m is 2.0×10⁴ N/C, and E × 4πr² = 2.0×10⁴ × 0.01131 ≈ 226 N·m²/C.
+P: 2. For an infinite sheet, E = σ/(2ε₀) = (4.0×10⁻⁶ C/m²)/[2(8.85×10⁻¹² C²/N·m²)] ≈ 2.26×10⁵ N/C, pointing away from the positively charged sheet on both sides. The 2.0 cm is a distractor: an ideal infinite sheet gives the same field at every distance, because its field lines are parallel and never spread out. A real sheet behaves this way only at distances small compared with its size.
+P: 3. Suppose the field immediately outside the surface had a component along the surface. That component would push the free charges sideways along the surface, and they would move. In electrostatic equilibrium nothing moves, so the charges keep rearranging until the sideways component is zero. What remains is a field perpendicular to the surface. Gauss's law then fixes its size: a small pillbox straddling the surface gives E = σ/ε₀ immediately outside, and zero inside the metal.
+P: 4. For a long line of charge, E = λ/(2πε₀r) = (5.0×10⁻⁹ C/m)/[2π(8.85×10⁻¹² C²/N·m²)(0.040 m)] ≈ 2.25×10³ N/C, directed radially away from the wire. Note the 1/r fall-off, slower than a point charge's 1/r², because the field lines spread in two dimensions instead of three.
+H2: Chapter 5 Solutions
+P: 1. V = kq/r = (8.99×10⁹)(3.0×10⁻⁹)/(0.15) ≈ 180 V. Potential is a scalar, so there is no direction to state; it is positive because the charge is positive and the reference is zero at infinity.
+P: 2. The work needed equals the potential energy at the end, since U = 0 at infinity: W = kqQ/r = (8.99×10⁹)(2.0×10⁻⁹)(5.0×10⁻⁹)/(0.10) ≈ 9.0×10⁻⁷ J. It is positive because like charges repel and you must push. Check: the same answer comes from W = qV, with V = kQ/r = 449.5 V from the fixed charge: (2.0×10⁻⁹)(449.5) ≈ 9.0×10⁻⁷ J.
+P: 3. In a uniform field, ΔV = Ed = (2.0×10⁴ V/m)(5.0×10⁻³ m) = 100 V. Check the units: V/m × m = V.
+P: 4. Energy first: the electron gains KE = |q|ΔV = (1.602×10⁻¹⁹ C)(500 V) ≈ 8.0×10⁻¹⁷ J, which is 500 eV. Then speed from KE = ½mv²: v = √(2KE/m) = √[2(8.0×10⁻¹⁷)/(9.11×10⁻³¹)] ≈ 1.33×10⁷ m/s, about 4.4 % of the speed of light. Is the non-relativistic formula good enough? The relativistic correction scales with KE/(mc²) = 500 eV/511 keV ≈ 0.001, so the classical answer is off by only about 0.1 %. Above about 10 keV, as in an old CRT or an X-ray tube, you would need the relativistic formula.
+H2: Chapter 6 Solutions
+P: 1. Q = CV = (4.0×10⁻⁶ F)(12 V) = 4.8×10⁻⁵ C = 48 µC. Energy: U = ½CV² = ½(4.0×10⁻⁶)(12)² ≈ 2.9×10⁻⁴ J, which is 0.29 mJ. Check with the other form: U = ½QV = ½(48 µC)(12 V) = 288 µJ.
+P: 2. With C = ε₀A/d, doubling d halves C. The charge is fixed (the capacitor is isolated), so V = Q/C doubles. The energy U = Q²/(2C) also doubles. Where did the extra energy come from? The plates attract each other, and you did work pulling them apart; that work is now stored in the field, which fills twice the volume at the same field strength (E = σ/ε₀ does not change with Q fixed).
+P: 3. A dielectric multiplies the capacitance by κ: C = κC₀ = 3.5 × 10 pF = 35 pF. The dielectric's molecules polarize and partly cancel the field, so the same charge produces a smaller voltage, and C = Q/V rises.
+P: 4. Capacitors in parallel add: C = 2.0 + 4.0 + 4.0 = 10.0 µF. The source charges this total: Q = CV = (10.0×10⁻⁶ F)(9.0 V) = 9.0×10⁻⁵ C = 90 µC. Check by parts: 18 µC + 36 µC + 36 µC = 90 µC, since every capacitor sees the full 9.0 V.
+H2: Chapter 7 Solutions
+P: 1. Q = IΔt = (3.0 A)(5.0 s) = 15 C. Check the units: an ampere is a coulomb per second, so A × s = C.
+P: 2. R = ρL/A. Tripling L multiplies R by 3; halving A multiplies R by 2, because R ∝ 1/A. Together R rises by 3 × 2 = 6. This is what happens when a wire is stretched: it gets longer and thinner at the same time.
+P: 3. Use the linear model R(T) = R₀[1 + α(T − T₀)]. Here ΔT = 80 − 20 = 60 °C, so R = 100[1 + (0.004)(60)] = 100 × 1.24 = 124 Ω. A 24 % change from a 60 °C rise is why copper windings and PCB traces run noticeably more resistive when hot.
+P: 4. Equal length and equal resistance means ρ_Cu L/A_Cu = ρ_Al L/A_Al, so A_Cu/A_Al = ρ_Cu/ρ_Al = (1.68×10⁻⁸)/(2.65×10⁻⁸) ≈ 0.634. The copper wire needs only about 63 % of the aluminum wire's cross-section. Aluminum still wins on overhead power lines because it is about a third as dense, so the thicker aluminum wire is roughly half the weight of the copper one.
+H2: Chapter 8 Solutions
+P: 1. Ohm's law: R = V/I = 9.0 V/0.30 A = 30 Ω. Power: P = VI = (9.0)(0.30) = 2.7 W. Check: I²R = (0.30)²(30) = 2.7 W. A 2.7 W resistor is a large part; a common 0.25 W resistor would burn.
+P: 2. Product over sum: R = R₁R₂/(R₁ + R₂) = (4.0)(12)/(4.0 + 12) = 48/16 = 3.0 Ω. Check: the parallel result must be smaller than the smaller resistor, and 3.0 Ω < 4.0 Ω.
+P: 3. From P = V²/R, R = V²/P = (5.0)²/0.25 = 100 Ω. This is a minimum: a smaller resistor would draw more current and dissipate more than 0.25 W. Following this chapter's bench note, a designer would derate to half power and choose about 200 Ω, or a 0.5 W part.
+P: 4. The divider rule: V₈ₖ = V × R₈ₖ/(R₂ₖ + R₈ₖ) = 10 × 8.0/(2.0 + 8.0) = 8.0 V. Check: the current is 10 V/10 kΩ = 1.0 mA, and (1.0 mA)(8.0 kΩ) = 8.0 V; the other 2.0 V falls across the 2.0 kΩ.
+P: 5. This is the divider rule with the LDR on top: V_out = 3.3 × 10/(10 + R_LDR), with resistances in kilohms. Dim hallway: V_out = 3.3 × 10/40 ≈ 0.83 V. Desk lamp: V_out = 3.3 × 10/13 ≈ 2.54 V. More light gives a higher voltage, which is what a night light or a display-brightness control wants. Power in the LDR under the lamp: I = 3.3/13 kΩ ≈ 0.254 mA, and P = I²R = (0.254×10⁻³)²(3000) ≈ 0.19 mW, far below a GL5528-type cell's 100 mW rating.
+H2: Chapter 9 Solutions
+P: 1. F = |q|vB sin 90° = (1.602×10⁻¹⁹ C)(3.0×10⁵ m/s)(0.20 T) ≈ 9.6×10⁻¹⁵ N. The direction follows from F = qv × B with the electron's negative sign, so it is opposite to what the right-hand rule gives for a positive charge.
+P: 2. F = BIL = (0.30 T)(4.0 A)(0.50 m) = 0.60 N, perpendicular to both the wire and the field. This is the force that turns every electric motor.
+P: 3. The magnetic force F = qv × B is always perpendicular to the velocity. A force at right angles to the motion does no work (W = F·d = 0), so the kinetic energy and the speed cannot change; only the direction can. That is why a charge in a uniform field moves in a circle at constant speed.
+P: 4. From r = mv/(qB): v = rqB/m = (0.10 m)(1.602×10⁻¹⁹ C)(0.80 T)/(1.67×10⁻²⁷ kg) ≈ 7.7×10⁶ m/s. Check: that is 2.6 % of the speed of light, so the non-relativistic formula is fine.
+H2: Chapter 10 Solutions
+P: 1. Parallel wires with currents in the same direction attract; opposite currents repel. Here they attract, with a force per meter of F/L = μ₀I₁I₂/(2πd) = (2×10⁻⁷)(3.0)(3.0)/(0.050) ≈ 3.6×10⁻⁵ N/m, about the weight of a few milligrams per meter. The usual mistake is to borrow the charge rule (like repels like); for currents it is the other way round.
+P: 2. Turns per meter: n = N/ℓ = 600/0.30 m = 2000 turns/m. Field inside: B = μ₀nI = (4π×10⁻⁷)(2000)(2.0) ≈ 5.0×10⁻³ T = 5.0 mT. Check: about a hundred times Earth's field, typical for a small air-core coil.
+P: 3. From B = μ₀I/(2πr): r = μ₀I/(2πB) = (4π×10⁻⁷)(10)/[2π(1.0×10⁻⁴)] = 0.020 m = 2.0 cm. For comparison, Earth's field is about 5×10⁻⁵ T, so within a few centimeters of a 10 A cable a compass is unreliable.
+P: 4. With the same current and turns, B scales with the relative permeability: B = 200 × 8.0 mT = 1.6 T. In practice a ferrite saturates at roughly 0.3 to 0.5 T, so a real ferrite core would not reach 1.6 T; the linear scaling holds only below saturation, as Worked Example 10.2 warns.
+H2: Chapter 11 Solutions
+P: 1. Faraday's law for N turns: |ε| = N A dB/dt = (50)(0.020 m²)(0.50 T/s) = 0.50 V. Check the units: T·m²/s = Wb/s = V.
+P: 2. Motional EMF: ε = BLv = (0.50 T)(0.30 m)(4.0 m/s) = 0.60 V. The rod sweeps out 1.2 m² of area per second, so the flux through the circuit changes at 0.50 × 1.2 = 0.60 Wb/s, the same answer from Faraday's law.
+P: 3. As the north pole approaches, the flux through the loop, pointing away from the magnet, increases. Lenz's law says the induced current opposes the change, so it makes a field pointing back toward the magnet: the near face of the loop becomes a north pole, which repels the approaching magnet. By the right-hand rule, a north face toward you means the current circulates counterclockwise as seen from the magnet's side. Check with energy: if the loop attracted the magnet instead, the magnet would speed up and the current would grow with no energy input, which is impossible.
+P: 4. |ε| = L|dI/dt| = (0.20 H)(5.0 A/s) = 1.0 V. Check the units: H × A/s = (V·s/A)(A/s) = V.
+H2: Chapter 12 Solutions
+P: 1. The field E at a point is the force per unit charge a test charge would feel there: a vector, with a size and a direction, in N/C or V/m. The potential V is the potential energy per unit charge a test charge would have there: a scalar, in volts, defined relative to a reference point. Field tells you which way a charge is pushed; potential tells you how much energy each coulomb gains or loses moving between two points. They are linked: the field points from high potential to low, and its size is the rate at which the potential falls with distance.
+P: 2. They describe the same fact, that a static charge produces a field whose strength falls as 1/r² and whose lines start and end on charges. Coulomb's law states it as a force between two point charges; Gauss's law states it as a total flux through a closed surface. Section 4.3 shows that applying Gauss's law to a sphere around a point charge gives Coulomb's law back. The surface form is more convenient for symmetric charge distributions, and it is the form that survives into Maxwell's equations.
+P: 3. A resistor turns the energy delivered to it into heat, which leaves the circuit for good. An ideal capacitor stores the energy in its electric field, ½CV², and can return all of it to the circuit later. Both limit current in some sense, but only the resistor dissipates; the capacitor only borrows.
+P: 4. Turning the coil through the magnetic field induces a current when a load is connected. That current, by Lenz's law, produces a force that opposes the motion causing it, a braking torque. More load means more current and a stronger braking torque, so whoever turns the crank must push harder. This is energy conservation: every watt delivered to the load is a watt of mechanical work at the shaft.
+P: 5. ε₀ comes from electrostatics, from the force between charges (Coulomb's law). μ₀ comes from magnetism, from the force between current-carrying wires. Maxwell's equations predict waves of linked electric and magnetic fields travelling at c = 1/√(ε₀μ₀). Putting in the two measured constants gives about 3.00×10⁸ m/s, which matched the measured speed of light. No optical measurement went into the calculation, so the match told Maxwell that light is an electromagnetic wave.
+P: 6. A capacitor is defined by Q = CV, so its current is i = C dv/dt: a fast change of voltage needs a large current, and the capacitor resists sudden voltage changes. An inductor is defined by Φ = LI, so its voltage is v = L di/dt: a fast change of current needs a large voltage, and the inductor resists sudden current changes. Swap voltage and current, and capacitance and inductance, and one statement turns into the other. That duality returns in Chapter 32 and in every AC circuit in Part III.
+H2: Chapter 13 Solutions
+P: 1. Q = CV = (100×10⁻⁹ F)(12 V) = 1.2×10⁻⁶ C. In nanocoulombs that is 1200 nC, or 1.2 µC. Check with prefixes: 100 n × 12 = 1200 n.
+P: 2. Write each unit in base units. A henry is V·s/A (from v = L di/dt) and an ohm is V/A. So H/Ω = (V·s/A)/(V/A) = s. L/R is a time; it is the time constant of an RL circuit, as Chapter 33 shows.
+P: 3. H·A² = (V·s/A)(A²) = V·A·s. A volt times an ampere is a watt, and a watt times a second is a joule. The ½ is a pure number and does not change the units, so W = ½LI² is an energy, as required.
+P: 4. ω has units 1/s and a farad is A·s/V (from C = Q/V), so ωC has units (1/s)(A·s/V) = A/V. That is siemens, a conductance, not an impedance. Impedance must be V/A, so ωC must sit in the denominator: Z = 1/(ωC), or Z = 1/(jωC) once the phase is included. Check with intuition: a capacitor should pass high frequencies more easily, so its impedance must fall as ω rises, which 1/(ωC) does and ωC does not.
+H2: Chapter 14 Solutions
+P: 1. Move the decimal point in steps of three and pick the matching prefix. 0.000000015 F = 15×10⁻⁹ F = 15 nF. 68000 Ω = 68×10³ Ω = 68 kΩ. 0.0025 A = 2.5×10⁻³ A = 2.5 mA. 1500000000 Hz = 1.5×10⁹ Hz = 1.5 GHz.
+P: 2. V = IR = (4.7 kΩ)(3.2 mA) = 15.04 V, because kilo × milli = 10³ × 10⁻³ = 1. P = VI = (15.04 V)(3.2 mA) ≈ 48.1 mW. Check: I²R = (3.2 mA)²(4.7 kΩ) = 10.24×10⁻⁶ × 4.7×10³ ≈ 48.1×10⁻³ W.
+P: 3. Put everything in nanofarads first: 470 pF = 0.47 nF, 1.2 nF stays, and 0.01 µF = 10 nF. Total: 0.47 + 1.2 + 10 = 11.67 nF, about 11.7 nF. The usual mistake is adding 470 + 1.2 + 0.01 as if the prefixes were the same.
+P: 4. f = 1/T = 1/(20×10⁻⁹ s) = 50×10⁶ Hz = 50 MHz. ω = 2πf = 2π(50×10⁶) ≈ 3.14×10⁸ rad/s. Check: 1/(20 n) = 0.05 G = 50 M.
+H2: Chapter 15 Solutions
+P: 1. Leading zeros never count; trailing zeros count when there is a decimal point. 0.00250 has three (2, 5 and the trailing 0). 1200 is ambiguous: two, three, or four, depending on what the writer meant, which is why scientific notation exists. 1.200×10³ has four. 100.0 has four. 0.0001 has one.
+P: 2. V = IR = (4.7 kΩ)(2.0 mA) = 9.4 V. For a product, relative uncertainties add (worst case): 5 % + 2 % = 7 %. So V = 9.4 V ± 7 % = 9.4 V ± 0.66 V, roughly 8.7 V to 10.1 V. Check by extremes: (4.935 kΩ)(2.04 mA) ≈ 10.07 V and (4.465 kΩ)(1.96 mA) ≈ 8.75 V.
+P: 3. Difference: 100.0 − 99.5 = 0.5 mm. For a difference, absolute uncertainties add: 0.2 + 0.2 = ±0.4 mm. Relative to the result that is 0.4/0.5 = 80 %. Each measurement was good to 0.2 %, yet their difference is known only to 80 %. Subtracting two nearly equal measurements destroys precision; measure the difference directly instead, for example with a differential measurement or a bridge (Chapter 27).
+P: 4. Add the two parts of the specification. At 10.000 V: 0.05 % of reading = 5 mV, plus 2 counts = 2 mV, total ±7 mV, which is 0.07 % of reading. At 0.100 V: 0.05 % of reading = 0.05 mV, plus the same 2 mV, total ±2.05 mV, which is 2.05 % of reading, about thirty times worse. The fixed count term dominates small readings, so switch to a lower range (here a 200 mV range) for small voltages.
+P: 5. Pin voltage at 14.4 V: the divider ratio is 10/(47 + 10) = 0.1754, so V_pin = 14.4 × 0.1754 ≈ 2.53 V, inside the 2.9 V range with some margin. One count at the pin is 2.9 V/4096 ≈ 0.708 mV; at the battery that is 0.708 mV/0.1754 ≈ 4.0 mV per count. A ±50 mV error at the pin becomes ±50/0.1754 ≈ ±0.29 V at the battery. The resolution is a few millivolts, but the accuracy is about a third of a volt, too coarse to tell a half-charged lead-acid battery from a full one without calibrating against a meter.
+H2: Chapter 16 Solutions
+P: 1. Divide both sides by I: R = V/I = 3.3 V/150 µA = 3.3/(150×10⁻⁶) = 22×10³ Ω = 22 kΩ. Check: 22 kΩ is a standard E12 value, a hint that the numbers came from a real design.
+P: 2. Reciprocal formula: 1/R = 1/1000 + 1/2000 + 1/3000 = (6 + 3 + 2)/6000 = 11/6000, so R = 6000/11 ≈ 545.5 Ω. Product over sum twice: 1 kΩ ∥ 2 kΩ = (1000)(2000)/3000 ≈ 666.7 Ω; then 666.7 ∥ 3000 = (666.7)(3000)/3666.7 ≈ 545.5 Ω. The two agree, and the result is below the smallest resistor, as any parallel combination must be.
+P: 3. Divider: V_out = V_in R₂/(R₁ + R₂), so 2.5 = 9 × 10k/(R₁ + 10k). Rearranged: R₁ + 10k = 9 × 10k/2.5 = 36 kΩ, so R₁ = 26 kΩ. Check: 9 × 10/36 = 2.5 V. In practice you would pick a 27 kΩ standard value and get 9 × 10/37 ≈ 2.43 V.
+P: 4. The binomial approximation (1 + x)ⁿ ≈ 1 + nx for small x. √1.06 = (1 + 0.06)^½ ≈ 1 + 0.03 = 1.030; the exact value is 1.02956, so the error is +0.04 %. 1/0.98 = (1 − 0.02)⁻¹ ≈ 1 + 0.02 = 1.020; the exact value is 1.02041, so the error is −0.04 %. Both errors are of order x², which is why the approximation is so good for a few percent.
+H2: Chapter 17 Solutions
+P: 1. From the second equation, x = y + 1. Substitute into the first: 2(y + 1) + 3y = 12, so 5y + 2 = 12, y = 2, and x = 3. Check in both equations: 2(3) + 3(2) = 12 and 3 − 2 = 1.
+P: 2. Make the b coefficients cancel: multiply the first equation by 2 and the second by 5, giving 8a + 10b = 44 and 15a − 10b = 25. Adding: 23a = 69, so a = 3. Back-substitute: 4(3) + 5b = 22, so b = 2. Check: 3(3) − 2(2) = 5.
+P: 3. D = (6)(1) − (3)(2) = 0. A zero determinant means there is no unique solution. Here the first equation is exactly twice the second (6x + 2y = 10 is 2 × (3x + y = 5)), so the two lines coincide and there are infinitely many solutions. In a circuit, a zero determinant usually means you wrote the same equation twice, for example a KCL equation at every node including the reference.
+P: 4. Cramer's rule. D = (100)(90) − (−40)(−40) = 9000 − 1600 = 7400. D₁ replaces the first column by the sources: (5)(90) − (−40)(0) = 450, so I₁ = 450/7400 ≈ 0.0608 A = 60.8 mA. D₂ replaces the second column: (100)(0) − (5)(−40) = 200, so I₂ = 200/7400 ≈ 0.0270 A = 27.0 mA. Both are positive, so both mesh currents flow in the directions you assumed when writing the equations. Check: 100(0.0608) − 40(0.0270) = 6.08 − 1.08 = 5.0.
+H2: Chapter 18 Solutions
+P: 1. Ohm's law gives I = V/R = (1/R)V, a straight line through the origin. With R = 2 kΩ the slope is 1/R = 0.5 mS: 1 mA at 2 V, 2 mA at 4 V, −1 mA at −2 V. The steeper the line, the smaller the resistance.
+P: 2. H(100 Hz) = 1/√(1 + 0.1²) = 1/√1.01 ≈ 0.995. H(1 kHz) = 1/√2 ≈ 0.707. H(10 kHz) = 1/√(1 + 10²) = 1/√101 ≈ 0.0995. A decade below the corner the filter barely touches the signal; at the corner it is down to 0.707 (−3 dB); a decade above it passes about a tenth.
+P: 3. The source drops 50I across its internal resistance, so V = 12 − 50I. Setting V = 8 V: 50I = 4 V, so I = 0.080 A = 80 mA. Check the end points of the load line: open circuit 12 V at 0 A, short circuit 0 V at 12/50 = 240 mA.
+P: 4. On log-log axes the slope is Δlog|H|/Δlog f = log(1/100)/log(10) = −2. In decibels a factor of 100 in magnitude is 20 log 100 = 40 dB, so the rolloff is 40 dB per decade. Each pole contributes 20 dB per decade, so this suggests a second-order response.
+P: 5. Slope = Δp/Δt = (1012.6 − 1016.4) hPa/3 h = −3.8/3 ≈ −1.27 hPa/h. Each reading has a relative error of ±0.12 hPa, so the 3-hour change is known to about ±0.24 hPa (worst case), and the slope to about ±0.08 hPa/h. The ±1.0 hPa absolute accuracy does not matter here: it is the same offset in both readings and cancels in the difference. A 3.8 hPa fall in three hours is what the Met Office's shipping forecast calls falling quickly.
+H2: Chapter 19 Solutions
+P: 1. τ = RC = (22×10³ Ω)(100×10⁻⁹ F) = 2.2×10⁻³ s = 2.2 ms. After 5 ms: v = 9 e^(−5/2.2) = 9 e^(−2.27) ≈ 9 × 0.103 ≈ 0.93 V. Check: 5 ms is a little more than two time constants, and e⁻² ≈ 0.135, so the answer should be somewhat below 9 × 0.135 = 1.2 V.
+P: 2. dB = 10 log₁₀(ratio). 2 → 3.01 dB; 10 → 10 dB; 100 → 20 dB; 0.5 → −3.01 dB; 1000 → 30 dB. Every factor of 10 adds 10 dB; halving subtracts 3 dB.
+P: 3. Voltage gain in dB is 20 log₁₀(250) ≈ 47.96 dB, about 48 dB. The attenuator subtracts 6 dB: 41.96 dB overall. As a voltage ratio, 10^(41.96/20) ≈ 125. Check: 6 dB is a voltage factor of 1.995, close to 2, and 250/2 = 125.
+P: 4. dBm is decibels relative to 1 mW: P = 1 mW × 10^(−95/10) = 10^(−9.5) mW ≈ 3.16×10⁻¹⁰ mW = 3.16×10⁻¹³ W. With +12 dB of gain, −95 + 12 = −83 dBm, which is 10^(−8.3) mW ≈ 5.01×10⁻⁹ mW = 5.01×10⁻¹² W. Check: 12 dB is a factor of 15.8, and 3.16×10⁻¹³ × 15.8 ≈ 5.0×10⁻¹² W. Adding decibels is much easier than multiplying these tiny numbers, which is why radio engineers live in dBm.
+H2: Chapter 20 Solutions
+P: 1. Multiply degrees by π/180. 45° = π/4 ≈ 0.785 rad; 90° = π/2 ≈ 1.571 rad; 120° = 2π/3 ≈ 2.094 rad; 270° = 3π/2 ≈ 4.712 rad. Going back, multiply radians by 180/π: π/6 = 30°, 2π/3 = 120°, 3π/2 = 270°.
+P: 2. Compare with A sin(2πft + φ): amplitude 2.5 A, frequency 1000 Hz, period T = 1/f = 1 ms, phase −45° (the wave lags a plain sine by an eighth of a cycle). At t = 0: i = 2.5 sin(−45°) = 2.5 × (−0.707) ≈ −1.77 A.
+P: 3. The amplitude (peak) is half the peak-to-peak: 10/2 = 5 V. For a sinusoid, RMS = peak/√2 = 5/1.414 ≈ 3.54 V. A meter on AC reads this RMS value.
+P: 4. Write the sum as 3 cos ωt + 4 sin ωt. It equals A cos(ωt − φ) with A cos φ = 3 and A sin φ = 4. Squaring and adding, and using cos²φ + sin²φ = 1: A² = 9 + 16 = 25, so A = 5 V. You cannot add 3 and 4 because the two waves never peak at the same instant: when one is at its maximum the other is at zero. Only waves exactly in phase add their amplitudes directly.
+H2: Chapter 21 Solutions
+P: 1. Add and subtract real and imaginary parts separately: z₁ + z₂ = (4 + 2) + j(3 − 5) = 6 − j2; z₁ − z₂ = (4 − 2) + j(3 + 5) = 2 + j8. Multiply out and use j² = −1: (4 + j3)(2 − j5) = 8 − j20 + j6 − j²15 = 8 + 15 − j14 = 23 − j14.
+P: 2. Magnitude: |5 + j12| = √(25 + 144) = 13; angle: arctan(12/5) ≈ 67.4°, in the first quadrant since both parts are positive. So 5 + j12 = 13∠67.4°. Back to rectangular: 10∠−60° = 10 cos(−60°) + j10 sin(−60°) = 5 − j8.66.
+P: 3. Multiply numerator and denominator by the conjugate of the denominator, 4 + j: numerator (2 + j3)(4 + j) = 8 + j2 + j12 + j²3 = 5 + j14; denominator (4 − j)(4 + j) = 16 + 1 = 17. Result: 5/17 + j14/17 ≈ 0.294 + j0.824. Check by multiplying back: (0.294 + j0.824)(4 − j) = 1.176 + 0.824 + j(3.296 − 0.294) = 2.00 + j3.00.
+P: 4. Multiplying by j rotates by 90°. j² = −1 (two quarter-turns, a half-turn). j³ = −j (three quarter-turns). j⁴ = 1 (a full turn, back to the start). 1/j = −j (a quarter-turn backwards), which you can check: j × (−j) = −j² = 1. In general jⁿ repeats every four steps, so jⁿ depends only on the remainder of n divided by 4.
+H2: Chapter 22 Solutions
+P: 1. Use e^(jθ) = cos θ + j sin θ. e^(jπ) = cos π + j sin π = −1. e^(jπ/2) = 0 + j1 = j. e^(j2π) = 1 + j0 = 1. On the unit circle these are a half-turn, a quarter-turn, and a full turn.
+P: 2. |3 + j4| = √(9 + 16) = 5, and θ = arctan(4/3) ≈ 0.927 rad ≈ 53.13°. So 3 + j4 = 5e^(j0.927). Check: 5 cos 0.927 ≈ 3.00 and 5 sin 0.927 ≈ 4.00.
+P: 3. cos θ = (e^(jθ) + e^(−jθ))/2 and sin θ = (e^(jθ) − e^(−jθ))/(2j). Square the cosine: (e^(2jθ) + 2 + e^(−2jθ))/4. Square the sine, using (2j)² = −4: −(e^(2jθ) − 2 + e^(−2jθ))/4. Add them: the e^(2jθ) and e^(−2jθ) terms cancel, and the constants give (2 + 2)/4 = 1. So cos²θ + sin²θ = 1.
+P: 4. Re{10e^(j(500t + π/4))} = 10 cos(500t + π/4) V. The angular frequency is ω = 500 rad/s, so f = 500/(2π) ≈ 79.6 Hz. At t = 2 ms the angle is 500 × 0.002 + 0.785 = 1.785 rad, and cos(1.785) ≈ −0.213, so v ≈ −2.13 V. The usual mistake is to evaluate the cosine with the calculator in degree mode.
+H2: Chapter 23 Solutions
+P: 1. A phasor holds the RMS magnitude and the phase of a cosine. Voltage: 170 cos(377t + 30°) is already a cosine, and its RMS value is 170/√2 ≈ 120.2 V, so V = 120.2∠30° V (the US mains voltage, 120 V RMS at 60 Hz). Current: sin(377t) = cos(377t − 90°), and 4.24/√2 ≈ 3.00 A, so I = 3.00∠−90° A.
+P: 2. At 2 kHz, ω = 2π(2000) ≈ 12 566 rad/s. Inductor: Z_L = jωL = j(12 566)(0.022) ≈ j276 Ω, or 276∠90° Ω. Capacitor: Z_C = 1/(jωC) = −j/(12 566 × 470×10⁻⁹) ≈ −j169 Ω, or 169∠−90° Ω. Check the trend: double the frequency and Z_L doubles while Z_C halves.
+P: 3. ω = 2π(400) ≈ 2513 rad/s, so Z_L = jωL = j251 Ω and Z = 470 + j251 Ω. Polar: |Z| = √(470² + 251²) ≈ 533 Ω, angle arctan(251/470) ≈ +28.1°. Current: I = V/Z = 24∠0°/533∠28.1° ≈ 45.0∠−28.1° mA. The current lags the voltage by 28.1°, as it must in an inductive circuit.
+P: 4. Worked Example 23.1 uses R = 1 kΩ and C = 0.1 µF. Equal magnitudes need R = 1/(ωC), so ω = 1/(RC) = 1/(1000 × 10⁻⁷) = 10⁴ rad/s, and f = 10⁴/(2π) ≈ 1592 Hz. There Z = 1000 − j1000 Ω, with |Z| ≈ 1414 Ω and angle −45°. The output across R is R/|Z| = 1000/1414 ≈ 0.707 of the input: the −3 dB point. This frequency, 1/(2πRC), is the corner frequency of the RC filter in Chapter 36.
+H2: Chapter 24 Solutions
+P: 1. i = C dv/dt = (1×10⁻⁶ F)(2000 V/s) = 2×10⁻³ A = 2 mA. A constant slope of voltage means a constant current, which is how a current source charging a capacitor makes a linear ramp.
+P: 2. v = L di/dt = (0.050 H) × d/dt[3 sin(1000t)] = (0.050)(3)(1000) cos(1000t) = 150 cos(1000t) V. Amplitude: 150 V. Phase: cosine leads sine by 90°, so the voltage leads the current by 90°, as it must for an inductor. Check: ωLI = (1000)(0.050)(3) = 150 V.
+P: 3. Chain rule: dv/dt = −10 × 2000 × sin(2000t + 30°) = −20 000 sin(2000t + 30°) V/s. Amplitude: 20 000 V/s, which is ω times the original amplitude. Differentiating a sinusoid multiplies it by ω and shifts it 90° ahead.
+P: 4. By integration: v = (1/C)∫i dt = (1/10×10⁻⁶)(5×10⁻³ A)(0.200 s) = (10⁵)(10⁻³) = 100 V. By charge: Q = It = (5 mA)(200 ms) = 1 mC, and v = Q/C = 10⁻³/10⁻⁵ = 100 V. The two agree, because integrating a constant current is the same as multiplying it by time.
+H2: Chapter 26 Solutions
+P: 1. KCL: what flows in flows out. 2.0 A + 6.0 A = I_out, so I_out = 8.0 A, leaving the node.
+P: 2. In a single loop the same current flows through every element, and series resistances add: R = 2.0 + 3.0 + 4.0 = 9.0 Ω. I = V/R = 9.0 V/9.0 Ω = 1.0 A. Check with KVL: 2.0 + 3.0 + 4.0 = 9.0 V of drops, equal to the source.
+P: 3. V = IR = (1.0 A)(4.0 Ω) = 4.0 V. Check with the divider rule: 9.0 × 4.0/9.0 = 4.0 V.
+P: 4. If more current flowed into a node than out, charge would pile up there without limit. An ordinary node is a junction of wires with no place to store charge (unlike a capacitor plate), and charge cannot be created or destroyed (Chapter 1). So every coulomb that arrives must leave in the same instant, and the currents into a node must sum to zero. That statement is KCL.
+H2: Chapter 27 Solutions
+P: 1. Series resistances add: 3.0 + 5.0 + 2.0 = 10 kΩ. Divider rule: V₅ₖ = 20 × 5.0/10 = 10 V. Check: the current is 20 V/10 kΩ = 2.0 mA, and (2.0 mA)(5.0 kΩ) = 10 V.
+P: 2. Current divider: each branch takes a share inversely proportional to its resistance. I₄ₖ = 30 × 12/(4.0 + 12) = 22.5 mA; I₁₂ₖ = 30 × 4.0/16 = 7.5 mA. Check: 22.5 + 7.5 = 30 mA, and both branches see the same voltage, (22.5 mA)(4.0 kΩ) = 90 V = (7.5 mA)(12 kΩ).
+P: 3. Work from the inside out. 4.0 Ω ∥ 12 Ω = (4.0)(12)/(16) = 3.0 Ω. Add the series 6.0 Ω: R = 9.0 Ω.
+P: 4. Unloaded: V_out = 10 × 9.0/(1.0 + 9.0) = 9.0 V. Loaded: the 9.0 kΩ load in parallel with the 9.0 kΩ lower resistor gives 4.5 kΩ, so V_out = 10 × 4.5/(1.0 + 4.5) ≈ 8.18 V, about 9 % low. The divider formula assumes no load current; keep the load at least ten times the lower resistor, or buffer the output (Book 2).
+P: 5. Use the B-equation R = R₂₅ e^(B(1/T − 1/T₂₅)), with temperatures in kelvin. At 25 °C, R = 10 kΩ, so V_out = 3.3 × 10/(10 + 10) = 1.65 V. At 40 °C (313.15 K): R = 10 kΩ × e^(3950(1/313.15 − 1/298.15)) = 10 kΩ × e^(−0.635) ≈ 5.30 kΩ, so V_out = 3.3 × 5.30/(10 + 5.30) ≈ 1.14 V. A 15 °C rise lowers the output by about 0.51 V, roughly 34 mV per degree. The output falls as the temperature rises because the NTC sits at the bottom of the divider.
+P: 6. Divider output: V = 5.0 × R_bottom/(R_top + R_bottom). With 1.0 kΩ over 2.0 kΩ: 5.0 × 2/3 ≈ 3.33 V. That is above the 2.475 V high threshold, so it reads as a 1, and below the 3.6 V maximum, but with only about 0.27 V of margin; a 5.25 V supply would give 3.5 V. With 2.2 kΩ over 3.3 kΩ: 5.0 × 3.3/5.5 = 3.0 V, which clears the threshold by 0.5 V and stays 0.6 V below the maximum. The second divider is the better choice, and it draws 5.0 V/5.5 kΩ ≈ 0.91 mA.
+H2: Chapter 28 Solutions
+P: 1. KCL at the node: the source current equals the current leaving through both resistors. 6 = V/3.0 + V/6.0 = V(0.333 + 0.167) = 0.5V, so V = 12 V. Check: 12/3 + 12/6 = 4 + 2 = 6 A.
+P: 2. Write KCL at each node, currents leaving on the left and sources on the right. Node 1: V₁/4.0 + (V₁ − V₂)/2.0 = 2. Node 2: (V₂ − V₁)/2.0 + V₂/5.0 + (V₂ − V₃)/3.0 = 0. Node 3: (V₃ − V₂)/3.0 + V₃/8.0 = 0. In matrix form the coefficients are [0.75, −0.5, 0; −0.5, 1.0333, −0.3333; 0, −0.3333, 0.4583], and the solution is V₁ ≈ 4.61 V, V₂ ≈ 2.91 V, V₃ ≈ 2.12 V. Check node 1: 4.61/4 + (4.61 − 2.91)/2 = 1.152 + 0.848 = 2.00 A. The matrix is symmetric, as it always is for a circuit with only resistors and independent current sources.
+P: 3. An ordinary node equation needs every branch current written as a voltage difference divided by a resistance. A voltage source has no resistance, so its current can be anything; it is set by the rest of the circuit. A supernode draws one boundary around both nodes and the source. The unknown source current leaves one node and enters the other, so it cancels from the combined KCL equation. The source itself supplies the missing second equation: V_a − V_b = V_s.
+H2: Chapter 29 Solutions
+P: 1. One mesh, one current: I = V/R_total = 20/(3.0 + 7.0) = 2.0 A. Check: drops of 6.0 V and 14.0 V add to 20 V.
+P: 2. Take both mesh currents clockwise, with the 8.0 V source driving I₁. KVL around mesh 1: 8.0 = 3.0I₁ + 5.0(I₁ − I₂), which is 8.0I₁ − 5.0I₂ = 8.0. KVL around mesh 2: 0 = 5.0(I₂ − I₁) + 2.0I₂, which is −5.0I₁ + 7.0I₂ = 0. From the second equation, I₂ = (5/7)I₁. Substituting: 8I₁ − (25/7)I₁ = 8, so (31/7)I₁ = 8 and I₁ = 56/31 ≈ 1.81 A, I₂ = 40/31 ≈ 1.29 A. The shared 5.0 Ω resistor carries I₁ − I₂ ≈ 0.52 A. Check mesh 2: 5.0 × (−0.52) + 2.0 × 1.29 ≈ 0.
+P: 3. Mesh analysis assigns one current to each window of a circuit drawn flat on the page. In a non-planar circuit at least one branch must cross another without connecting, so the windows are not defined and the meshes overlap in ways that make the KVL bookkeeping ambiguous. Nodal analysis only needs nodes and branches, which every circuit has, so it works for any circuit.
+H2: Chapter 30 Solutions
+P: 1. Norton current: I_N = V_Th/R_Th = 12 V/4.0 Ω = 3.0 A. The resistance is unchanged: R_N = R_Th = 4.0 Ω, in parallel with the current source. Check: the open-circuit voltage of the Norton form is (3.0 A)(4.0 Ω) = 12 V.
+P: 2. With nothing connected, all of the Norton current flows through R_N: V_oc = I_N R_N = (2.0 A)(6.0 Ω) = 12 V. This is the Thevenin voltage.
+P: 3. Maximum power transfer: R_L = R_Th = 6.0 Ω. The load then sees half the Thevenin voltage, 6.0 V, so P = V²/R = 36/6.0 = 6.0 W; equivalently P = V_Th²/(4R_Th) = 144/24 = 6.0 W. The same 6.0 W is lost inside the source, so the efficiency is only 50 %.
+P: 4. An ideal voltage source holds its terminal voltage fixed whatever the current. Setting it to zero means it holds zero volts whatever the current, and an element with zero volts across it at any current is a short circuit, 0 Ω. (An ideal current source set to zero carries zero current at any voltage, an open circuit.)
+H2: Chapter 31 Solutions
+P: 1. Superposition adds the contributions with their signs: 3.0 V + (−1.0 V) = 2.0 V, with the polarity of the voltage source's contribution.
+P: 2. With R = 4.0 Ω and both sources active, the current is 2.0 + 1.5 = 3.5 A, so the true power is P = I²R = (3.5)²(4.0) = 49 W. Adding the powers of each source alone gives (2.0)²(4.0) + (1.5)²(4.0) = 16 + 9 = 25 W, almost half too small. The missing 24 W is the cross term 2I₁I₂R = 2(2.0)(1.5)(4.0) = 24 W, since (I₁ + I₂)² = I₁² + 2I₁I₂ + I₂². Power is not linear in current, so superpose currents and voltages first, then compute power once.
+P: 3. One simplified circuit per independent source: three circuits, each with one source active and the other two set to zero (voltage sources shorted, current sources opened). Dependent sources stay in every circuit.
+H2: Chapter 32 Solutions
+P: 1. i = C dv/dt, so C = i/(dv/dt) = (4.0×10⁻³ A)/(200 V/s) = 2.0×10⁻⁵ F = 20 µF.
+P: 2. v = L di/dt, so L = v/(di/dt) = 2.0 V/(10 A/s) = 0.20 H.
+P: 3. Inductors in parallel combine like resistors in parallel: 1/L = 1/4.0 + 1/4.0 = 0.5, so L = 2.0 H. Two equal parts in parallel give half of one, as with resistors (ignoring any magnetic coupling between them).
+P: 4. v = L di/dt. A sudden jump in current would make di/dt infinite and so need an infinite voltage, which no circuit can supply. So the current changes smoothly, starting from whatever value it had, and the inductor's voltage jumps instead. The same fact explains the spark when an inductive circuit is opened: the current tries to keep flowing, and the voltage rises until something breaks down.
+H2: Chapter 33 Solutions
+P: 1. τ = RC = (2.0×10³ Ω)(50×10⁻⁶ F) = 0.10 s. After one time constant: v = V_s(1 − e⁻¹) = 12(1 − 0.368) ≈ 7.6 V, which is 63 % of the final 12 V.
+P: 2. τ = L/R = 4.0 H/20 Ω = 0.20 s.
+P: 3. Final current: I_f = V/R = 10/20 = 0.50 A. After two time constants: i = 0.50(1 − e⁻²) = 0.50(1 − 0.135) ≈ 0.43 A, which is 86 % of the final value, reached at t = 0.40 s.
+P: 4. In DC steady state nothing changes, so di/dt = 0 for every inductor. Since v = L di/dt, the voltage across each inductor is zero whatever current it carries, and an element with zero volts at any current behaves like a wire. A real inductor keeps the small resistance of its winding.
+P: 5. Rise time between 30 % and 70 %: from v = V(1 − e^(−t/τ)), t₃₀ = −τ ln 0.7 and t₇₀ = −τ ln 0.3, so t_r = τ ln(0.7/0.3) = 0.8473RC. Largest pull-up: R_max = t_r/(0.8473C) = 300 ns/(0.8473 × 150 pF) ≈ 2.36 kΩ. Smallest pull-up, set by the 3 mA the drivers can sink while holding 0.4 V: R_min = (3.3 − 0.4)/3 mA ≈ 967 Ω. A 2.2 kΩ resistor fits, with t_r = 0.8473 × 2.2 kΩ × 150 pF ≈ 280 ns.
+H2: Chapter 34 Solutions
+P: 1. Z = R + Z_C = 30 − j40 Ω. Magnitude √(30² + 40²) = 50 Ω; angle arctan(−40/30) ≈ −53.1°. So Z = 50∠−53.1° Ω, a 3-4-5 triangle.
+P: 2. I = V/Z = 50∠0°/50∠−53.1° = 1.0∠53.1° A. The current leads the voltage by 53.1°, as in any capacitive circuit.
+P: 3. For a sinusoid, V_peak = √2 V_rms = 1.414 × 240 ≈ 339 V. Insulation and component ratings must survive this peak, not the 240 V RMS figure.
+P: 4. Rectangular: 20∠0° = 20 + j0 and 20∠90° = 0 + j20, so the sum is 20 + j20 Ω. Polar: |Z| = √(20² + 20²) = 20√2 ≈ 28.3 Ω at 45°, so Z ≈ 28.3∠45° Ω. Impedances add in rectangular form; adding the magnitudes (40 Ω) would be wrong.
+H2: Chapter 35 Solutions
+P: 1. P = V_rms I_rms cos θ, so I_rms = P/(V_rms cos θ) = 1500/(240 × 0.90) ≈ 6.94 A. At unity power factor the same 1500 W would need only 6.25 A; the extra current heats the wiring without doing useful work.
+P: 2. Apparent power: S = V_rms I_rms = (100)(15) = 1500 VA. Real power: P = S cos θ = 1500 × 0.60 = 900 W. With cos θ = 0.60, sin θ = 0.80 (a 3-4-5 triangle), so the reactive power is Q = S sin θ = 1500 × 0.80 = 1200 var, positive because the current lags. Check: √(900² + 1200²) = 1500 VA.
+P: 3. In a pure inductance the current lags the voltage by exactly 90°, so cos θ = 0 and P = V_rms I_rms cos θ = 0. Current flows, but for half of each cycle the inductor stores energy in its field and for the other half it returns it to the source. The net energy per cycle is zero; only the wiring's resistance turns some of the circulating current into heat.
+P: 4. Real power: P = V_rms I_rms × PF = 120 × 2.5 × 0.85 = 255 W. Energy per day: 0.255 kW × 10 h = 2.55 kWh; per 30-day month, 76.5 kWh. Cost: 76.5 kWh × $0.25/kWh ≈ $19.13 per month. A dashboard that multiplied RMS volts by RMS amps would report 300 VA and overstate the bill by about 18 %.
+H2: Chapter 36 Solutions
+P: 1. ω₀ = 1/√(LC) = 1/√[(5.0×10⁻³)(20×10⁻⁹)] = 1/√(1.0×10⁻¹⁰) = 1.0×10⁵ rad/s. f₀ = ω₀/(2π) ≈ 15 915 Hz, about 15.9 kHz.
+P: 2. For a series RLC circuit, Q = ω₀L/R = (1.0×10⁵)(5.0×10⁻³)/2.0 = 500/2.0 = 250. That is a very sharp resonance: the bandwidth is f₀/Q ≈ 64 Hz.
+P: 3. The turns ratio is N₂/N₁ = 120/480 = 0.25. An ideal transformer conserves power, so V₁I₁ = V₂I₂ and I₁ = I₂(N₂/N₁) = 20 × 0.25 = 5.0 A. Check: 480 × 5.0 = 2400 VA = 120 × 20.
+P: 4. For a given power P = VI, a higher voltage needs less current, and the loss in the line is I²R. Raising the voltage tenfold cuts the current tenfold and the line loss a hundredfold. Transformers make the trade cheap: step up at the power station, transmit at hundreds of kilovolts, and step down in stages near the consumer.
+P: 5. f_c = 1/(2πRC) = 1/[2π(2.2×10³)(47×10⁻⁹)] ≈ 1539 Hz, about 1.54 kHz. The same formula holds for low-pass and high-pass; only which element the output is taken across changes.
+H2: Chapter 37 Solutions
+P: 1. Normalize: z = Z_L/Z₀ = (30 + j40)/50 = 0.6 + j0.8. Then Γ = (z − 1)/(z + 1) = (−0.4 + j0.8)/(1.6 + j0.8). Multiply above and below by the conjugate 1.6 − j0.8: the numerator becomes (−0.4)(1.6) + 0.64 + j(1.28 + 0.32) = j1.6, and the denominator 1.6² + 0.8² = 3.2. So Γ = j0.5 = 0.5∠90°. Check: |Γ| < 1, as it must be for a passive load.
+P: 2. VSWR = (1 + |Γ|)/(1 − |Γ|) = 1.5/0.5 = 3.0. Return loss = −20 log₁₀|Γ| = −20 log₁₀ 0.5 ≈ 6.0 dB. A quarter of the power is reflected (|Γ|² = 0.25), so about 1.25 dB is lost at this mismatch.
+P: 3. R_L = 20 Ω is below 50 Ω, so put the series element next to the load and the shunt element on the 50 Ω side. Q = √(50/20 − 1) = √1.5 ≈ 1.225. Series reactance: X_s = QR_L ≈ 24.5 Ω, an inductor of L = X_s/ω = 24.5/(2π × 5×10⁸) ≈ 7.80 nH. Shunt reactance: X_p = R_s/Q = 50/1.225 ≈ 40.8 Ω, a capacitor of C = 1/(ωX_p) ≈ 7.80 pF. Check: 20 + j24.5 Ω has admittance 0.02 − j0.0245 S; the capacitor adds +j0.0245 S, leaving 0.02 S, which is 50 Ω.
+P: 4. X_L ≥ 8 × 75 = 600 Ω. L = X_L/ω = 600/(2π × 9×10⁸) ≈ 1.06×10⁻⁷ H, about 106 nH. Choose the next standard value up, 120 nH, and check its self-resonant frequency is well above 900 MHz.
+H2: Chapter 38 Solutions
+P: 1. KCL says the currents into a node sum to zero. A node stores no charge, and charge is conserved, so whatever flows in must flow out at the same instant. KVL says the voltages around a closed loop sum to zero. Potential is a property of position, like height on a map: walk any loop back to where you started and you are at the same potential, so the rises and drops must cancel.
+P: 2. Count the equations. Nodal analysis needs one per node minus the reference; mesh analysis needs one per mesh. Choose the method with fewer. Current sources favor nodal analysis, because they drop straight into a KCL equation; voltage sources favor mesh analysis, because they drop straight into a KVL equation. A non-planar circuit rules out mesh analysis.
+P: 3. At R_L = 0 the load voltage is zero and the current is at its maximum, V_Th/R_Th. As R_L rises, the voltage rises toward V_Th and the current falls toward zero. Power, the product of the two, is zero at both ends and peaks between them, at R_L = R_Th, where the load gets V_Th²/(4R_Th).
+P: 4. Superposition works because voltages and currents depend linearly on the sources: double a source and its contribution doubles. Power depends on the square of current (or the product of voltage and current), and (a + b)² ≠ a² + b²; the cross term 2ab is missing from the sum of the separate powers. So superpose voltages and currents, then compute power from the totals.
+P: 5. Below resonance, ωL is smaller than 1/(ωC): the inductive reactance has fallen with frequency and the capacitive reactance has risen. The net reactance ωL − 1/(ωC) is negative, so the circuit is capacitive and the current leads the voltage.
+P: 6. An ideal transformer neither stores nor dissipates energy, so the power into the primary equals the power out of the secondary: V₁I₁ = V₂I₂. The voltages follow the turns ratio, V₂/V₁ = N₂/N₁. For the products to stay equal, the currents must follow the inverse ratio, I₂/I₁ = N₁/N₂. Step the voltage up tenfold and the current steps down tenfold.
+H1: Appendix C — Glossary
+P: Accuracy — closeness of a measurement to the true value. Distinct from precision and from resolution.
+P: ADC (analog-to-digital converter) — a circuit that turns a voltage into a number; an N-bit ADC splits its range into 2ᴺ steps.
+P: Admittance — the reciprocal of impedance, Y = 1/Z, in siemens. Adds for parallel branches.
+P: Ampere (A) — SI unit of electric current; one coulomb per second.
+P: Ampere's law — Relates the circulation of the magnetic field around a closed loop to the current enclosed by that loop.
+P: Amplitude — the peak departure of a sinusoid from zero, written V_m. Not the same as the RMS value.
+P: Apparent power (S) — The product of RMS voltage and RMS current, measured in volt-amperes (VA), combining real and reactive power.
+P: Argand diagram — the complex plane, with real part plotted horizontally and imaginary part vertically.
+P: Branch — A single path between two nodes in a circuit, generally containing one circuit element.
+P: Capacitance (C) — The ratio of charge stored to voltage applied across a pair of conductors; measured in farads.
+P: Conductor — A material in which charge (typically electrons) moves freely in response to an electric field.
+P: Conjugate — the complex number with the sign of its imaginary part reversed, written z*. Used to make denominators real.
+P: Coulomb (C) — SI unit of electric charge.
+P: Coulomb's law — The force between two point charges is proportional to the product of the charges and inversely proportional to the square of their separation.
+P: Decibel — a logarithmic ratio. 10·log₁₀ for power ratios, 20·log₁₀ for voltage ratios. Dimensionless unless a reference is stated, as in dBm.
+P: Derivative — the instantaneous rate of change of a quantity, written dv/dt.
+P: Determinant — a scalar computed from a square matrix. A zero determinant signals that a system has no unique solution.
+P: Dielectric — An insulating material placed between a capacitor's plates to increase its capacitance.
+P: Dimensional analysis — checking that both sides of an equation reduce to the same combination of base units. It cannot detect missing dimensionless factors.
+P: Drift velocity — The average velocity of charge carriers in the direction of current flow, superimposed on much larger random thermal motion.
+P: Electric field (E) — Force per unit charge at a point in space; the physical condition set up by charge that a second charge responds to.
+P: Electric flux — A measure of the electric field passing through a given surface.
+P: Electric potential (V) — Potential energy per unit charge; commonly called voltage.
+P: Electromotive force (EMF) — The energy per unit charge supplied by a source (battery, generator, or induction) that drives current around a circuit.
+P: Elementary charge (e) — The smallest unit of free charge, carried by the proton (+e) and the electron (−e).
+P: Engineering notation — scientific notation restricted to exponents that are multiples of three, so each maps onto an SI prefix.
+P: Equipotential surface — A surface on which every point is at the same electric potential; always perpendicular to the local electric field.
+P: Euler's formula — e^(jθ) = cos θ + j sin θ. The link between exponentials and sinusoids, and the foundation of phasor analysis.
+P: Faraday's law — A changing magnetic flux through a loop induces an electromotive force around that loop.
+P: Ferromagnetic material — A material (such as iron) whose internal atomic-scale current loops align strongly with an applied magnetic field, greatly amplifying it.
+P: Gauss's law — The total electric flux through a closed surface is proportional to the net charge enclosed.
+P: Hysteresis — two switching thresholds instead of one, so that a slowly changing or noisy input causes one clean change of state instead of chatter.
+P: Impedance (Z) — The complex-number generalization of resistance, relating voltage and current phasors: V = IZ.
+P: Inductance (L) — A coil's characteristic constant relating the induced EMF opposing a change in its own current to the rate of that current's change.
+P: Insulator — A material in which electrons remain bound to individual atoms and do not conduct appreciable current under ordinary fields.
+P: Integral — the accumulated total of a quantity, equivalently the area under its curve.
+P: I²C — a two-wire bus (clock and data) on which chips only pull the lines low and pull-up resistors return them high.
+P: j — the imaginary unit, defined by j² = −1. Written i by mathematicians; electrical engineers use j because i denotes current.
+P: Kirchhoff's Current Law (KCL) — The sum of currents entering any node equals the sum of currents leaving it.
+P: Kirchhoff's Voltage Law (KVL) — The sum of voltage rises and drops around any closed loop is zero.
+P: LDR (light-dependent resistor) — a photoresistor whose resistance falls as the light on it increases.
+P: Lenz's law — The direction of an induced current always opposes the change in magnetic flux that produced it.
+P: Level shifting — converting a logic signal between two supply voltages, such as 5 V and 3.3 V.
+P: Load cell — a metal element carrying strain gauges wired as a bridge, whose output is proportional to the force or weight on it.
+P: LSB (least significant bit) — the smallest step an ADC can resolve: its full-scale range divided by 2ᴺ.
+P: Magnetic field (B) — The field that exerts a force on moving charge; measured in tesla.
+P: Magnetic flux — A measure of the magnetic field passing through a given surface; measured in webers.
+P: Mesh — A loop in a planar circuit that contains no other loop within it.
+P: Mesh analysis — A systematic circuit-analysis method using loop (mesh) currents as unknowns, governed by KVL.
+P: Mutual inductance (M) — A measure of the coupling between two coils, by which a changing current in one induces a voltage in the other.
+P: Nodal analysis — A systematic circuit-analysis method using node voltages as unknowns, governed by KCL.
+P: Node — A point in a circuit where two or more elements connect, all at the same potential.
+P: Norton equivalent — A simplified representation of a linear network as a current source in parallel with a resistance.
+P: Ohm's law — For an ohmic material, voltage across it is proportional to the current through it: V = IR.
+P: Passive sign convention — The convention assigning a passive element's voltage polarity so assumed current enters at its + terminal.
+P: Permeability of free space (μ₀) — The constant relating magnetic field to the current that produces it in vacuum.
+P: Permittivity of free space (ε₀) — The constant relating electric field to the charge that produces it in vacuum.
+P: Phase — the angular offset of a sinusoid from a reference, in degrees or radians.
+P: Phasor — a complex number encoding the RMS magnitude and phase of a sinusoid, with the time dependence factored out.
+P: Power factor — The cosine of the phase angle between voltage and current; the fraction of apparent power that is real power.
+P: Precision — the repeatability of a measurement. An instrument can be precise and inaccurate simultaneously.
+P: Pull-up resistor — a resistor from a signal line to the supply that holds the line high unless something pulls it low.
+P: Quality factor (Q) — A measure of how sharply peaked a resonant circuit's response is.
+P: Reactance — the imaginary part of impedance. Positive for inductors, negative for capacitors. Stores energy rather than dissipating it.
+P: Reactive power (Q) — Power exchanged between source and load each cycle with zero net average transfer, measured in VAR.
+P: Real power (P) — The average power actually delivered to and consumed by a load, measured in watts.
+P: Resistance (R) — The opposition a conductor presents to current flow; measured in ohms.
+P: Resistivity (ρ) — An intrinsic material property describing how strongly a material resists current flow, independent of its shape.
+P: Resolution — the smallest change an instrument can display. Independent of accuracy.
+P: Resonant frequency — The frequency at which a circuit's inductive and capacitive reactance exactly cancel.
+P: RMS (root-mean-square) — The value of a sinusoid that delivers the same average power to a resistor as a DC value of the same number.
+P: Significant figures — the digits of a number that carry real information about its precision.
+P: Superconductivity — A state, reached below a critical temperature in certain materials, of exactly zero electrical resistivity.
+P: Supermesh — A combined mesh technique used when a current source is shared between two meshes.
+P: Supernode — A combined node technique used when a voltage source connects two non-reference nodes.
+P: Superposition — The principle that the net force, field, voltage, or current from multiple linear sources equals the sum of the contributions from each source acting alone, with all other independent sources deactivated in turn.
+P: Tesla (T) — SI unit of magnetic field.
+P: Thermistor — a resistor made to change strongly with temperature; an NTC type's resistance falls as it warms.
+P: Thevenin equivalent — A simplified representation of a linear network as a voltage source in series with a resistance.
+P: Time constant (τ) — The characteristic timescale of a first-order transient, equal to RC or L/R.
+P: Tolerance — the guaranteed range within which a component value lies, usually a percentage of the marked value.
+P: Transformer — A device using mutual inductance between two windings to change voltage and current by a fixed turns ratio.
+P: Transient — The temporary response of a circuit as it moves from one steady condition to another.
+P: Volt (V) — SI unit of electric potential; one joule per coulomb.
+P: Voltage divider — A pair of series resistors that splits an applied voltage between them in proportion to their resistances.
+P: Wheatstone bridge — two voltage dividers side by side with the output taken between their midpoints, zero when balanced.
+P: Worst-case analysis — evaluating a design with every component at its least favorable tolerance extreme simultaneously.
+H1: Appendix D — Chapter Summaries
+P: The following summaries are meant for review after finishing the book, not as a substitute for reading each chapter in full — they compress each chapter to its central thread, deliberately leaving out the worked examples, misconceptions, and much of the connective reasoning that make the ideas stick on a first read. Use them the way you would use a set of flashcards: to check, a week or a month after finishing a chapter, whether its core idea has actually stayed with you, and to see at a glance how the thirty-eight chapters connect into a single, continuous argument rather than a list of unrelated topics.
+H2: Chapter 1 — Electric Charge
+P: Charge is a fundamental property of matter, quantized in units of the elementary charge e, and always conserved. Objects become charged not by creating charge but by moving electrons between materials — by friction, by contact, or by induction. Conductors allow their electrons to move freely; insulators do not. This distinction, purely a matter of how tightly electrons are bound, is the seed from which the entire rest of electrical engineering grows: every subsequent chapter is, in one way or another, a study of what charge does once it is free to move, or of what happens when a field acts on charge that cannot move.
+H2: Chapter 2 — Coulomb's Law and the Electric Force
+P: Coulomb's law quantifies the force between two point charges: proportional to the product of the charges, inversely proportional to the square of their separation. The inverse-square form reflects the geometry of a spreading sphere and reappears throughout physics. Superposition — that forces from multiple sources add as vectors — is what makes any charge configuration, however complex, tractable in principle, even though the bookkeeping quickly becomes the practical bottleneck rather than the physics itself.
+H2: Chapter 3 — The Electric Field
+P: Rather than charges acting on each other directly across empty space, each charge sets up a field that fills the surrounding space, and a second charge responds only to the local field at its own position. This reframing — force as a two-step process, source to field to second charge — resolves the “action at a distance” puzzle and sets up field lines as a way of visualizing both direction (the tangent to the line) and strength (how closely lines are spaced) at a glance.
+H2: Chapter 4 — Electric Flux and Gauss's Law
+P: Gauss's law relates the total electric flux through any closed surface to the net charge enclosed, and is exactly equivalent to Coulomb's law — but for symmetric charge distributions (spheres, infinite lines, infinite sheets), it turns what would be a difficult integral into simple algebra by letting you choose a Gaussian surface that matches the distribution's own symmetry. Applied to a conductor, it explains why excess charge sits only on the outer surface and why the field inside a conductor in equilibrium is always exactly zero.
+H2: Chapter 5 — Electric Potential Energy and Voltage
+P: Electric potential — voltage — is potential energy per unit charge, a scalar quantity that is almost always more convenient to work with than the field directly, since it adds algebraically with no direction to track. Field and potential are two views of the same physics: the field points in the direction potential falls off fastest, and for a uniform field this reduces to the simple, practically important relation E = ΔV/d. Only potential differences, never an absolute potential, are ever physically meaningful.
+H2: Chapter 6 — Conductors, Capacitance, and Dielectrics
+P: A capacitor is any pair of conductors that stores equal and opposite charge at some voltage between them, with capacitance C = Q/V depending only on geometry. The parallel-plate formula C = ε₀A/d (or κε₀A/d with a dielectric) is derived directly from the field of a charged sheet and the field-to-voltage relation of the previous chapter. Capacitors store real energy in their electric field, and — in a rule that inverts the resistor pattern from the next chapter — combine in parallel by simple addition and in series by reciprocal sum.
+H2: Chapter 7 — Electric Current and Resistance
+P: Current is the rate at which charge moves past a point, conventionally taken in the direction positive charge would flow, even though in metals it is electrons moving the opposite way. Individual charge carriers drift remarkably slowly; what makes a circuit respond quickly is the field's own rapid propagation, not the carriers' speed. Resistance, R = ρL/A, depends on both geometry and an intrinsic material property, resistivity, which itself depends on temperature — increasing for metals, decreasing for semiconductors, a contrast that hints at the very different physics underlying each.
+H2: Chapter 8 — Ohm's Law and a First Look at Circuits
+P: Ohm's law, V = IR, is an empirical rule (not a fundamental law) that holds well for metals and manufactured resistors, though it fails deliberately for diodes and transistors later in this series. Power dissipated in a resistor, P = IV = I²R = V²/R, is converted irreversibly to heat. Resistors combine by direct addition in series and reciprocal sum in parallel — the opposite pattern from capacitors — and a series pair forms a voltage divider, one of the most common sub-circuits in all of electronics. The LED's series resistor works from a 3.3 V microcontroller pin too, and a light-dependent resistor in a divider turns light into a voltage.
+H2: Chapter 9 — Magnetism and the Magnetic Field
+P: Unlike the electric field, the magnetic field exerts a force only on moving charge, given by F = qv×B: always perpendicular to both velocity and field, and therefore never capable of doing work or changing a particle's speed — only its direction. A charge moving perpendicular to a uniform field travels in a circle; a current-carrying wire, being a great many moving charges together, feels a corresponding force F = IL×B, the mechanism behind every electric motor.
+H2: Chapter 10 — Sources of the Magnetic Field
+P: Moving charge does not only respond to magnetic fields — it produces them, unifying electricity and magnetism into a single phenomenon. A long straight wire produces a field falling off as 1/r; two such wires attract if their currents run the same direction and repel if opposite, the reverse of the static-charge rule. Ampere's law provides the same kind of symmetry-exploiting shortcut for magnetic fields that Gauss's law provides for electric fields, most usefully in deriving the uniform field inside a solenoid, whose strength can be amplified enormously by a ferromagnetic core.
+H2: Chapter 11 — Electromagnetic Induction
+P: A changing magnetic flux through a loop induces an electromotive force, by Faraday's law, ε = −N dΦʙ/dt — the single fact underlying every electric generator and transformer. Lenz's law, encoded in that minus sign, guarantees the induced current always opposes the change that produced it, a direct consequence of energy conservation. A coil's own self-inductance, quantifying its resistance to changes in its own current, is the first hint of the inductor as a third fundamental circuit element, alongside the resistor and capacitor.
+H2: Chapter 12 — Toward Maxwell's Equations
+P: Maxwell's four equations — two versions of Gauss's law, Faraday's law, and a corrected Ampere's law — unify everything in this book into one self-consistent system. Maxwell's own addition, the displacement current, completes a symmetry that predicts self-sustaining electromagnetic waves, propagating at a speed computable from ε₀ and μ₀ alone, that turns out to match the measured speed of light exactly — revealing light itself as an electromagnetic wave, and setting up every later book in this series as, in one way or another, a special case of these same four equations.
+H2: Chapter 13 — Quantities, Units, and the SI System
+P: A quantity is a number times a unit, and the multiplication is real, so units obey algebra. Seven SI base units; the electrical derived units are built from four of them. Dimensional analysis catches structural errors for free but cannot detect a missing dimensionless factor such as 2π, which distinguishes hertz from radians per second.
+H2: Chapter 14 — Prefixes, Scientific Notation, and Engineering Notation
+P: Prefixes multiply by powers of ten and case is significant. Engineering notation restricts exponents to multiples of three so they map onto prefixes. Reciprocal prefix pairs cancel: micro times mega is one, milli times kilo is one. Exponents must match before mantissas can be added.
+H2: Chapter 15 — Precision, Significant Figures, and Uncertainty
+P: A measurement includes its uncertainty. Significant figures describe how to report a result, not how to compute one, so do not round intermediate steps. Relative uncertainties add for products; absolute uncertainties add for sums. Subtracting nearly equal numbers destroys precision. Accuracy, precision, and resolution are three different things. An ADC's resolution (0.71 mV per count on the ESP32-S3) is not its accuracy (about ±50 mV), and a sensor reading is only as good as the constants behind it, such as the temperature-dependent speed of sound.
+H2: Chapter 16 — Algebra for Circuit Analysis
+P: The reciprocal of a sum is not the sum of the reciprocals. Product-over-sum handles exactly two parallel elements. Voltage divides in proportion to resistance, current in inverse proportion. The discriminant of a quadratic tells you whether a second-order circuit is overdamped, critically damped, or oscillatory.
+H2: Chapter 17 — Systems of Linear Equations
+P: Circuit equations from Kirchhoff's laws are linear, so systematic solution methods apply. Elimination scales better than substitution. A zero determinant indicates the system has no unique solution — either redundant equations or, less often, a physically inconsistent circuit — not an arithmetic mistake. The matrix form G·V = I is what simulators actually solve.
+H2: Chapter 18 — Functions, Graphs, and Limiting Behavior
+P: Read a transfer function at its limits before plotting it: low-frequency asymptote, high-frequency asymptote, and behavior at the corner give the shape. Log axes turn power laws into straight lines whose slope reveals the order of the system. A logarithmic axis has no zero. A trend is a slope: the weather station's pressure change per hour, where a constant offset cancels and only the relative accuracy matters.
+H2: Chapter 19 — Exponentials, Logarithms, and the Decibel
+P: The exponential is the function whose rate of change equals itself, which is why it governs every first-order circuit. Logarithms convert multiplication to addition, which is the entire reason decibels exist. Use 10·log for power and 20·log for voltage. dB values add along a chain; dBm values do not.
+H2: Chapter 20 — Trigonometry and the Sinusoid
+P: A sinusoid is fixed by three numbers: amplitude, angular frequency, and phase. Radians are required for calculus; degrees are convenient for phase. The Pythagorean identity produces impedance magnitudes and the sum-of-angles identity produces mixing. RMS is defined by equal heating, and the 0.707 factor applies only to sinusoids.
+H2: Chapter 21 — Complex Numbers
+P: A complex number carries two quantities at once, which for engineers means magnitude and phase. Rectangular form suits addition; polar form suits multiplication. The conjugate makes denominators real. Multiplying by j is a 90° rotation, and j² = −1 is that fact applied twice.
+H2: Chapter 22 — Euler's Formula and the Complex Exponential
+P: Euler's formula identifies e^(jθ) with a unit arrow at angle θ, bridging rotation and oscillation. A real sinusoid is the real part of a rotating complex exponential. Differentiating that exponential multiplies it by jω, which converts calculus into arithmetic.
+H2: Chapter 23 — Phasors and Impedance
+P: In a linear circuit at one frequency, only amplitude and phase vary, so the frequency can be factored out into a phasor. Impedance is the resulting complex voltage-to-current ratio: R, jωL, and 1/(jωC). Every DC circuit technique carries over with R replaced by Z. Component voltages add as phasors, so they may exceed the supply voltage.
+H2: Chapter 24 — Calculus for Electrical Engineering
+P: A derivative is a rate and an integral is an accumulation. Capacitors and inductors are defined by derivatives, which is why a capacitor blocks DC and an inductor passes it. Differentiating a sinusoid brings down a factor of ω and advances the phase by 90°, which is exactly the jω of phasor analysis.
+H2: Chapter 25 — Where This Book Leads Next
+P: Part III uses Chapters 16, 17, 19, and 24 for transients and Chapters 20 to 23 continuously for AC, with the Smith chart of Chapter 37 as the RF extension. Filters use Chapters 18 and 19. RF work leans on complex arithmetic and decibels throughout. The Fourier and Laplace transforms generalize the phasor idea, and nothing later in the series depends on a fundamentally unfamiliar mathematical foundation, even though later material builds on these tools in more demanding ways.
+H2: Chapter 26 — Circuit Elements and Kirchhoff's Laws
+P: KCL (charge conservation at a node) and KVL (potential as a well-defined function of position, applied around a loop) are the two laws sufficient, together with each element's own v-i relationship, to solve any circuit. The passive sign convention fixes voltage polarity relative to assumed current direction so that power calculations come out with a consistent, interpretable sign.
+H2: Chapter 27 — Equivalent Resistance and Dividers
+P: Series/parallel reduction, whenever it applies, is the fastest path to a solution. The voltage divider splits voltage in proportion to each resistor's own value; the current divider splits current in proportion to the other resistor's value — an inversion worth rederiving rather than memorizing. A common sensor interface is a divider: a thermistor or LDR changes resistance, and the divider turns that change into a voltage. A Wheatstone bridge removes the large common voltage so a small change can be compared or amplified, which is how an analog thermostat and a load cell work, and a divider also brings a 5 V signal safely down to 3.3 V.
+H2: Chapter 28 — Nodal Analysis
+P: Treating node voltages as unknowns and applying KCL at each non-reference node produces a system solvable for any resistive network, planar or not. Voltage sources between two non-reference nodes require the supernode technique.
+H2: Chapter 29 — Mesh Analysis
+P: Treating mesh currents as unknowns and applying KVL around each mesh is nodal analysis's dual, applicable only to planar circuits. Current sources shared between meshes require the supermesh technique. Choosing between nodal and mesh analysis is a practical efficiency decision, not a question of correctness — both, done right, agree.
+H2: Chapter 30 — Thevenin and Norton Equivalents
+P: Any linear network, viewed from two terminals, reduces to a single source and a single resistance — a voltage source in series (Thevenin) or a current source in parallel (Norton), related by I_N = V_Th/R_Th. Maximum power transfer to a load occurs when the load resistance matches R_Th, at a cost of only 50% efficiency.
+H2: Chapter 31 — Superposition and Linearity
+P: In a linear circuit with multiple sources, each source's individual contribution to a voltage or current can be found separately and summed — a direct consequence of the linearity of Ohm's law, KCL, and KVL. Superposition does not extend to power, since power depends nonlinearly (via squaring or multiplication) on voltage and current.
+H2: Chapter 32 — Capacitors and Inductors as Circuit Elements
+P: A capacitor's current and an inductor's voltage depend on the rate of change of the other quantity, making both elements dynamic rather than instantaneous like a resistor. Capacitor voltage and inductor current cannot change instantaneously — the starting point for transient analysis. Inductors combine like resistors (series adds, parallel reciprocal-sums); capacitors combine the opposite way.
+H2: Chapter 33 — First-Order Transients
+P: RC and RL circuits, following a switching event, relax exponentially toward a new steady state, governed by the time constant τ = RC or τ = L/R. Every such transient follows the same general form, x(t) = x_final + (x_initial − x_final)e^(−t/τ), regardless of which specific quantity or circuit is involved. The same exponential sets how long a debounced button takes to settle and how fast an I²C bus can run: t_r = 0.8473RC from 30 % to 70 %.
+H2: Chapter 34 — Sinusoidal Steady-State Analysis
+P: With impedance defined, every DC technique from Chapters 26–31 — KVL/KCL, series/parallel combination, dividers, nodal and mesh analysis, Thevenin/Norton, superposition — applies unchanged to AC circuits, using complex impedances in place of real resistances. RMS values, not peak amplitudes, are the practical standard for quoting AC voltages and currents.
+H2: Chapter 35 — AC Power and Power Factor
+P: Average AC power is P = V_rms I_rms cosθ, where cosθ, the power factor, measures what fraction of the apparent power (S = V_rms I_rms) is real, useful power (P) rather than reactive power (Q) that is exchanged but not net-delivered. Low power factor means larger current for the same real power, and correspondingly larger transmission losses — the practical reason power factor correction matters. An energy dashboard multiplies real power by time; cycling appliances need their average power, and multiplying RMS volts by RMS amps overstates the cost of motor loads.
+H2: Chapter 36 — Resonance, Frequency Response, and Transformers
+P: A series RLC circuit's inductive and capacitive reactances cancel exactly at the resonant frequency ω₀ = 1/√(LC), leaving a purely resistive, current-maximizing impedance; the quality factor Q measures how sharply peaked this resonance is. An ideal transformer trades voltage for current (or vice versa) in exact proportion to its turns ratio, keeping apparent power unchanged — the basis of high-voltage long-distance power transmission.
+H2: Chapter 37 — The Smith Chart, Impedance Matching, and Bias Networks
+P: Matching a complex load to a real system impedance requires a conjugate match, not merely equal resistances. The Smith chart plots the reflection coefficient Γ over a grid of constant-resistance circles and constant-reactance arcs, letting an L-network or a microstrip stub be designed graphically: series elements move a point along a circle of constant r, shunt elements along a circle of constant g. RF chokes and high-value resistors bias a stage without disturbing its matching networks, because one presents a high reactance and the other draws negligible current, at the frequency that actually matters.
+H2: Chapter 38 — Where This Series Goes Next
+P: Every technique in this book applies only to linear circuits. Books 2 and 3 introduce the nonlinear semiconductor devices — diodes, transistors — that make up the bulk of real electronics, and Book 3 shows how their small-signal, linearized behavior around a fixed operating point reduces, once again, to exactly the linear circuit analysis this book has built.
+H1: Appendix E — A Practical Circuit-Analysis Checklist
+P: This appendix collects, in one place, the habits this book has recommended chapter by chapter — not new material, but a single reference to run through when a solution comes out wrong, or before trusting one that came out right.
+H2: Before Writing Any Equations
+LI: Identify every node, and confirm you have not accidentally split a single node (joined by plain wire) into two, or merged two genuinely distinct nodes into one.
+LI: Assign a current direction and voltage polarity to every branch, using the passive sign convention, and mark them directly on the diagram rather than trying to hold them in your head.
+LI: For nodal analysis, choose a reference node — usually the one with the most connections — and set it to 0 V.
+LI: For mesh analysis, confirm the circuit is planar before proceeding; if it is not, nodal analysis is the only systematic option available.
+LI: Check for supernodes (a voltage source directly between two non-reference nodes) or supermeshes (a current source shared between two meshes) before writing ordinary node or mesh equations.
+H2: While Solving
+LI: Count your equations against your unknowns before solving — one KCL equation per non-reference node (or one combined equation per supernode), or one KVL equation per mesh (or one per supermesh, plus its constraint equation).
+LI: For AC (phasor) problems, confirm every impedance is written correctly — R for a resistor, jωL for an inductor, 1/(jωC) or −j/(ωC) for a capacitor — and that ω has been computed correctly from the source frequency before any impedance is evaluated numerically.
+LI: Add and subtract complex numbers in rectangular form; multiply and divide them in polar form. Converting to the wrong form for a given operation is one of the most common sources of arithmetic error in phasor problems.
+H2: After Solving
+LI: If a branch current came out negative, that is not necessarily an error — it means the actual current flows opposite to your originally assumed direction, and the magnitude is still correct.
+LI: Check KCL and KVL directly against your final answer: plug the solved voltages and currents back into the original node and loop equations and confirm they balance, rather than trusting the algebra that produced them.
+LI: Where two independent methods are available for the same quantity (for instance, nodal analysis and a direct Thevenin-equivalent reduction), solving the same problem both ways is one of the most reliable checks available — genuine agreement between two structurally different methods is strong evidence against a hidden error in either one.
+LI: For power calculations in multi-source circuits, confirm you superposed voltages/currents first and computed power only once, from the final total — never by summing individually-computed powers from each source.
+LI: For transient problems, confirm the initial and final conditions separately before writing the general exponential solution — an error in either endpoint propagates through the entire time-domain answer even if the time constant itself is correct.
+H2: A Final Habit Worth Keeping
+P: Every method in this book — nodal analysis, mesh analysis, Thevenin equivalents, superposition, phasor analysis — is built on the same two laws from Chapter 26. When a solution feels uncertain, the most reliable recovery is rarely to search for a more advanced technique; it is to return to KCL and KVL directly, applied carefully and patiently to the specific circuit in front of you, and to let the rest of the book's machinery earn back your trust one correctly-checked step at a time.
+H1: Appendix F — Further Reading
+P: This book derives and verifies every result it uses from first principles, so none of the following is required to read it. They are listed for readers who want to go beyond a single introductory chapter in a given area — organized by part, with a dedicated list for Chapter 37's specialized topic, impedance matching and the Smith chart, which draws on a body of RF and microwave engineering well beyond this book's scope.
+H2: Part I — The Physics of Electricity and Magnetism
+P: David J. Griffiths, Introduction to Electrodynamics — the standard next step in rigor beyond this book's algebra-based treatment, developing Maxwell's equations in their full vector-calculus form.
+P: Daniel Fleisch, A Student's Guide to Maxwell's Equations — a friendlier companion to Griffiths, walking through each of the four equations term by term — arguably the better next step for a reader who liked this book's approachable style specifically.
+P: David Halliday, Robert Resnick, and Jearl Walker, Fundamentals of Physics — a broader general-physics reference, useful if you want more worked problems at this same introductory level across all of physics, not only electricity and magnetism.
+H2: Part II — Mathematics and Measurement
+P: Erwin Kreyszig, Advanced Engineering Mathematics — the standard engineering-mathematics reference; it covers every topic in this part in more depth and continues into differential equations, transforms, and vector calculus.
+P: K. A. Stroud (with Dexter J. Booth), Engineering Mathematics — a gentler, more example-driven companion if Kreyszig's pace feels too fast.
+P: Fluke, Fluke 117 Electrician’s Multimeter specifications — DC-voltage accuracy specification used in Section 15.7.
+P: Tektronix, How Oscilloscope Probes Affect Your Measurement — probe resistance, capacitance, and circuit loading.
+P: Espressif Systems, "ESP32-S3 Series Datasheet," section 5.5 (ADC Characteristics), and ESP-IDF "ADC Calibration Driver" guide: primary references for the input range, calibrated error limit, and correction method used in Chapters 15 and 27.
+H2: Part III — DC and AC Circuit Theory
+P: Charles K. Alexander and Matthew N. O. Sadiku, Fundamentals of Electric Circuits — the standard next-level circuits textbook, with far more worked problems and a treatment of Laplace-domain circuit analysis that this book only opens the door to in Chapter 25.
+P: Paul Horowitz and Winfield Hill, The Art of Electronics — not a substitute for a formal circuits course, but the standard reference for the practical, component-level electronics that the next book in this series builds on.
+H2: For Chapter 37 — The Smith Chart, Impedance Matching, and Bias Networks
+P: David M. Pozar, Microwave Engineering — the standard graduate-level microwave engineering textbook; its treatment of the Smith chart, impedance matching, and microstrip design is the most complete and rigorous available, and the single source this chapter leaned on most heavily.
+P: Phillip H. Smith, Electronic Applications of the Smith Chart — written by the chart's originator, often referred to as the Smith Chart Handbook; the most thorough single-topic treatment of the chart itself and its graphical constructions.
+P: Chris Bowick, RF Circuit Design — a shorter, design-oriented companion, strong on practical lumped-element matching networks and filter design.
+P: Guillermo Gonzalez, Microwave Transistor Amplifiers: Analysis and Design — extends this chapter's bias-network treatment into full small-signal amplifier design.
+P: Ulrich L. Rohde and David P. Newkirk, RF/Microwave Circuit Design for Wireless Applications — a further, more advanced treatment of matching networks and RF circuit design in a systems context.
+P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+H1: About the Author
+P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+H1: Also by Lothar J. Musiol
+P: Physics, Actually
+P: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+P: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+P: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+P: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+P: More Actually Books
+P: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+P: The Universe, Actually: What Humanity Currently Understands About Reality
+P: Math, Actually
+P: Math, Actually, Volume 1: From Arithmetic to Calculus
+P: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+P: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+P: Math, Actually, Volume 4: From Category Theory to the Frontier
+P: Quantum, Actually
+P: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+P: Quantum, Actually, Volume 2: A QED Course
+P: Science Sparks
+P: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+P: Look First
+P: Look First, Volume 1: The Universe Has No Now
+P: Look First, Volume 2: A Trip Is Not a New Life
+P: Electrical Engineering Series
+P: Circuits, Components, and Control (Book 2)
+P: Semiconductor Physics and Devices (Book 3)
+P: RF, Microwave, and Transceivers (Book 4)
+P: Communications, Wireless, and SDR (Book 5)
+P: Power and Energy (Book 6)
+P: Packaging, Layout, EMC, and Test (Book 7)
+P: Firmware and Software for Electronics (Book 8)
+P: Test and Measurement Instruments (Book 9)
+P: History
+P: The Dolphins’ View of History
+P: Fiction
+P: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+P: In German
+P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
