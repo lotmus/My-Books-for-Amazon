@@ -112,18 +112,6 @@ ALSO_BY = [
         ('Look First, Volume 1: The Universe Has No Now', None),
         ('Look First, Volume 2: A Trip Is Not a New Life', None),
     ]),
-    ('Electrical Engineering Series', [
-        ('Foundations of Electronics (Book 1)', 'Foundations of Electronics'),
-        ('Circuits, Components, and Control (Book 2)', 'Circuits, Components, and Control'),
-        ('Semiconductor Physics and Devices (Book 3)', 'Semiconductor Physics and Devices'),
-        ('RF, Microwave, and Transceivers (Book 4)', 'RF, Microwave, and Transceivers'),
-        ('Communications, Wireless, and SDR (Book 5)', 'Communications, Wireless, and SDR'),
-        ('Power and Energy (Book 6)', 'Power and Energy'),
-        ('Packaging, Layout, EMC, and Test (Book 7)', 'Packaging, Layout, EMC, and Test'),
-    ]),
-    ('History', [
-        ("The Dolphins' View of History", None),
-    ]),
     ('Fiction', [
         ("The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)", "The Murder That Hadn't Happened Yet"),
         ('The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)', 'The Warning That Was Sent Too Late'),
@@ -189,7 +177,7 @@ BOX_RE = re.compile(r'^> (.+)$')
 LABEL_DASH_RE = re.compile(r'^(Prologue|Epilogue|Appendix(?: [A-Z0-9]+)?) — (.+)$')
 PART_ROMAN_RE = re.compile(r'^Part (I|II|III|IV|V|VI|VII)\b')
 NUM_HEADING_RE = re.compile(r'^(\d+)\.\s')
-LABEL_NUM_RE = re.compile(r'^(Chapter|Storey|Lesson|Lecture|Appendix)\s+(\d+)\b')
+LABEL_NUM_RE = re.compile(r'^(Chapter|Lesson|Lecture|Appendix)\s+(\d+)\b')
 LABEL_RANGE_RE = re.compile(r'^(?:Chapters|Lessons|Lectures)\s+(\d+)\s*[–-]\s*(\d+)\b')
 CHAPTER_NUM_RE = re.compile(r'\bChapter \d+\b')
 TIMES_RE = re.compile(r'(?<=[\d)]) x (?=[\d(])')
@@ -789,7 +777,7 @@ FOREWORD = [
     "The chapters are numbered straight through the book, so a reference such as Chapter "
     "148 means the same thing wherever you meet it, and on a Kindle you can tap it. You can "
     "read the sections in any order, but three runs reward reading front to back: Mathematics, "
-    "the opening course of Quantum Physics (Chapters 144 to 156), and the closing course "
+    "the opening sequence of Quantum Physics (Chapters 144 to 156), and the QED course "
     "on quantum electrodynamics (Chapters 223 to 252).",
     "This edition is updated through October 2026; claims that are likely to change are marked "
     "\"as of 2026\".",
@@ -877,14 +865,13 @@ ROUTES = [
      "travel: Chapters 85–92. A reality check on the Moon and Mars: Chapters 126–143. Quantum "
      "interpretation: Chapter 153 and Chapter 354. Then Science in the Novels, Chapters 333–353, "
      "where the physics is told as a detective story."),
-    ("The engineer refreshing fundamentals.",
+    ("The mathematical and physics toolkit.",
      "Mathematics: Chapters 7–12 (trigonometry, the sinusoid, logarithms, the decibel, complex "
      "numbers, Euler's formula), Chapter 14, Chapters 16–20, Chapter 22 (Fourier and the FFT), "
      "Chapter 23 (Laplace) and Chapter 25 (matrices). Waves and fields: Chapter 49 (Light), "
      "Chapter 52 (Optics), Chapter 229 and Chapter 230 (Maxwell's equations and potentials), and "
      "Chapters 173–186. Quantum and QED: Chapters 144–148, Chapters 231–237, then Chapters "
-     "162–164 for the overview and Chapters 245–252 for the machinery. Devices: Chapter 56 "
-     "(Semiconductors) and Chapters 213–217 (from QED to a superconducting circuit)."),
+     "162–164 for the overview and Chapters 245–252 for the machinery."),
     ("Life and evolution.",
      "Chapters 253–257 (what life is and how it may have started), Chapters 258–273 (evolution, "
      "from Darwin to evolution you can watch), Chapters 274–284 (brains, minds, AI and "
@@ -952,15 +939,18 @@ AFTERWORD_CLOSE = (
     "book has done what it set out to do. The universe keeps the books. You can read them now."
 )
 
-ABOUT = (
-    "Lothar J. Musiol is a graduate of Munich University of Applied Sciences and has spent many "
-    "years in the semiconductor industry. Meanwhile, he studied science with enough depth to know "
-    "exactly where he simplifies in his explanations, and where he does not. He gained most of his "
-    "experience in the United States, where he supported several start-ups. Today, he makes good "
-    "use of his dual citizenship and divides his time between San Clemente (California) and Passau "
-    "(Bavaria). His goal is to present complex relationships more clearly and engagingly than many "
-    "treatments manage, without obscuring their true complexity."
-)
+ABOUT = [
+    "Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than "
+    "forty years in the semiconductor industry, first at Germany's largest company in the field, "
+    "then at a string of American start-ups. He studied physics alongside all of it, seriously "
+    "enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible "
+    "use, lets him split his time between San Clemente, California, and Passau, Bavaria, where "
+    "Austria begins at the garden fence. The household includes one married daughter, one grumpy "
+    "Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than "
+    "volume.",
+    "He writes to make complex ideas clearer and more engaging than most treatments manage, "
+    "without ever pretending they are simpler than they actually are.",
+]
 
 
 def front_matter(doc, volume_label):
@@ -1063,7 +1053,8 @@ def back_matter(doc):
 
     new_section(doc, 'About the Author')
     heading(doc, 1, "About the Author")
-    body(doc, ABOUT, first=True)
+    for i, paragraph in enumerate(ABOUT):
+        body(doc, paragraph, first=(i == 0))
 
     new_section(doc, 'Also by Lothar J. Musiol')
     heading(doc, 1, "Also by Lothar J. Musiol")
