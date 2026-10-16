@@ -1,4 +1,6 @@
-![Cover: Limericks and Other Rhymes for People Who Should Know Better](images/cover.png){width=2.8in}`r`n`r`n\newpage`r`n`r`n# Limericks and Other Rhymes for People Who Should Know Better (Illustrated)
+![Cover: Limericks and Other Rhymes for People Who Should Know Better](images/cover.png){width=2.8in}
+
+# Limericks and Other Rhymes for People Who Should Know Better (Illustrated)
 
 **Classic nonsense verse and modern limericks**
 Seamus O'Leary
