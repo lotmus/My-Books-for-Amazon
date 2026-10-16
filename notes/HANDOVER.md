@@ -157,3 +157,15 @@ The merged PR #218 revision record explicitly states the delivered 294-page REV6
 ### Protocol Flamingo follow-up
 Checked current origin/main's tracked tree and status: REV11 DOCX and EPUB are already present, and the active status explicitly names them as the newest pair, with REV10 preserved in bak. PR #223 was closed without merge and is unnecessary to resurrect for the active release; the desired REV11 pair is already on main. Its old PR diff against the merge base is misleading because the history differs. The separate dirty version-cleanup worktree contains an untracked pacing read-through directory and must be retained for owner review, but it is not needed to publish REV11.
 
+
+
+## Book 4 DOCX variant comparison — 2026-10-16
+Used Pandoc to extract the three committed DOCX candidates from Git archives into `C:/Temp/book4-docx-compare-20261016`, then compared extracted plain-text lines. This was read-only; no repository manuscript was edited.
+
+- Open PR #157's critical-reader manuscript (`RF_Microwave_and_Transceivers_Book4.docx`): 108,940 extracted words.
+- Current origin/main `RF_Microwave_and_Transceivers_Book4_REV6.docx`: 111,234 extracted words.
+- Current origin/main `RF_Microwave_and_Transceivers_Book4_REV6_reader_revision.docx`: 111,594 extracted words.
+- Text comparison found 65 changed blocks between the PR #157 DOCX and the first REV6; 58 between the two REV6 DOCXs; and 87 between the PR #157 DOCX and the reader-revision REV6. Several are substantive: organization/movement structure, worked examples, cross-volume links, sources, and field-case notes. Extraction counts are approximate and include non-body DOCX text; they are not authoritative Word counts.
+
+This confirms three genuinely distinct manuscripts. The PR #157 changes to sources (Chapter 1 opening, Chapter 43 class E example, Chapter 51 transmitter claim) should not be called superseded solely by filename/version: the newer REV6s differ extensively, and the two REV6 copies also differ. No master can be selected from version number alone. Reconcile chapter-by-chapter against the book owner/editor and verify which REV6 was delivered before promoting any one file to the active master. Keep both current REV6 variants and the open PR intact meanwhile.
+
