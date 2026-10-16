@@ -1,6 +1,6 @@
 PART: Part III. The Facility and the Grid
 H1: Chapter 14. The Data-Center Power Chain
-P: A 10 MW hall of AI racks needs about 12.4 MW at its utility transformer. The missing 2.4 MW is lost in six conversions along the way, from the medium-voltage transformer to the regulator beside each processor, and the cooling plant has to remove all of it a second time. The cooling plant makes no distinction between heat from a necessary conversion and heat from a poor one.
+P: A 10 MW hall of AI racks needs about 12.4 MW at its utility transformer. The missing 2.4 MW is lost in six conversions along the way, from the medium-voltage transformer to the regulator beside each processor, and the cooling plant has to remove it a second time. The meter records both the conversion and the cooling.
 P: Where you meet this: Every data-center PUE report, every rack power-shelf specification, every announcement of a higher-voltage rack bus, and every power-capping setting in a cluster scheduler.
 P: Chapter 1 used the data center to show that a percent of efficiency is worth megawatts. This chapter follows the power from the utility to the processor and counts the losses at each stage. It is facility power: transformers, uninterruptible power supplies, power distribution, rack power supplies, and the board-level converters that end at Book 7's 875 A at 0.8 V. The chain's overall efficiency is the product of its stages, so a small loss at each adds up to a large one in total.
 H2: 14.1 The stages
