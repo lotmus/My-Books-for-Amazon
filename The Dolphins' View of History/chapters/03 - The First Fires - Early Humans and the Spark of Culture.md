@@ -1,4 +1,4 @@
-## The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture
+# The Old Stone Age, a Million Years Ago: The First Fires — Early Humans and the Spark of Culture
 
 For a very long time, the main thing that distinguished the branch from any other ground-dwelling ape was that it walked upright and had learned to hold a stone.
 
@@ -6,11 +6,11 @@ Then, at some point more than a million years ago — the dolphins concede the e
 
 Homo erectus is the leading suspect. Scorched bone and ash layers at several sites, most famously Wonderwerk Cave in South Africa, put controlled fire in erectus hands by roughly one million years ago, with older, patchier evidence pushing the date back further still.
 
-The record gets messier the further back it is pushed. Ash and burned bone at Wonderwerk mark controlled use; whether the same hominins could reliably start a fire from scratch, rather than simply keeping a naturally occurring one alive and carrying its embers, is a separate and much harder question, and the two skills likely arrived a very long time apart. At Qesem Cave in Israel, hearths dated to around 300,000 years ago show fire used habitually and repeatedly in the same spot, which is closer to what most people picture when they hear the word.
+The record gets messier the further back it is pushed. Ash and burned bone at Wonderwerk mark controlled use; whether the same hominins could reliably start a fire from scratch, rather than simply keeping a naturally occurring one alive and carrying its embers, is a separate and much harder question. The two skills likely arrived a very long time apart. At Qesem Cave in Israel, hearths dated to around 300,000 years ago show fire used habitually and repeatedly in the same spot, which is closer to what most people picture when they hear the word.
 
 Fire did three things at once, and dolphins rank them in order of surprise.
 
-It cooked food. Cooking breaks down tough fibers and denatures proteins before a single tooth gets involved, meaning more calories extracted per bite and less of the day spent chewing. Some researchers tie this directly to the brain's later growth spurt — a brain is metabolically expensive, and cooking may have been what first paid the bill.
+It cooked food. Cooking breaks down tough fibers and denatures proteins before a single tooth gets involved, meaning more calories extracted per bite and less of the day spent chewing. Some researchers tie this directly to the brain’s later growth spurt — a brain is metabolically expensive, and cooking may have been what first paid the bill.
 
 The primatologist Richard Wrangham has argued at length that cooking did more than feed the brain: it reshaped the whole animal, shrinking the teeth and the gut and freeing hours of the day, and made Homo erectus, in a sense, a species defined by dinner. The argument is contested, as most arguments about deep time are, because firm evidence of controlled fire is patchy at the very date the theory needs it most. It is plausible and not proved.
 
@@ -22,10 +22,10 @@ Stone tools kept pace. The earliest deliberately shaped stones, simple sharp-edg
 
 By 1.7 million years ago, Homo erectus was making the Acheulean hand axe: a symmetrical, teardrop-shaped tool that took real planning to produce and stayed in use, largely unchanged, for over a million years — the longest-running product design in history, by a spectacular margin.
 
-Fire did one more thing that took stone tools by surprise. At Pinnacle Point on South Africa's coast, toolmakers learned to bury certain stone in a bed of coals for a slow, controlled bake before knapping it, a heat treatment that made silcrete flake more predictably into sharper, thinner blades. The earliest confirmed example dates to around 164,000 years ago. Cooking improved the meal; this improved the knife that helped make the meal possible — heat spent on the tool instead of the dinner, a use nobody, dolphin or human, would have predicted from a species that had only just learned to keep a flame alive.
+Fire did one more thing that took stone tools by surprise. At Pinnacle Point on South Africa’s coast, toolmakers learned to bury certain stone in a bed of coals for a slow, controlled bake before knapping it, a heat treatment that made silcrete flake more predictably into sharper, thinner blades. The earliest confirmed example dates to around 164,000 years ago. Cooking improved the meal; this improved the knife that helped make the meal possible — heat spent on the tool instead of the dinner, a use nobody, dolphin or human, would have predicted from a species that had only just learned to keep a flame alive.
 
-Language is the hardest of the three to date, because words leave no bones. Some researchers think the capacity for complex speech was already present in the common ancestor of Neanderthals and modern humans, more than half a million years ago; others argue for something much later. Nobody, human or dolphin, knows. What the evidence does show is a species sitting in circles, handling shared tools, and teaching a hand axe's proportions to the next generation, and that already required some way of sharing what one mind knew with another.
+Language is the hardest of the three to date, because words leave no bones. Some researchers think the capacity for complex speech was already present in the common ancestor of Neanderthals and modern humans, more than half a million years ago; others argue for something much later. Nobody, human or dolphin, knows. What the evidence does show is a species sitting in circles, handling shared tools, and teaching a hand axe’s proportions to the next generation, and that already required some way of sharing what one mind knew with another.
 
 **Dolphin verdict:**
 
-*Every technology in this book, all the way to the last chapter, is downstream of that first kept flame. Cooking bought the calories for a bigger brain, the fire's light bought hours the sun used to take away, and the circle around it bought a species its first classroom. Dolphins have never needed a fire. They have also never had a campfire story, and on this one point, envy is not out of the question.*
+*Every technology, all the way to the last chapter, is downstream of that first kept flame. Cooking bought the calories for a bigger brain, the fire’s light bought hours the sun used to take away, and the circle around it bought a species its first classroom. Dolphins have never needed a fire. They have also never had a campfire story, and on this one point, envy is not out of the question.*

@@ -1,6 +1,6 @@
 # WORK QUEUE - The Dolphins' View of History
 
-**Status: queued, owner Codex (handed over by Lothar, 15 Oct 2026). Job: REV4.**
+**Status: complete, Codex (15 Oct 2026). Job: REV4.**
 Written 15 Oct 2026 by Grok Bot from REVIEW_REV3_2026-10-15.md, _STATUS.md and the previous WORK_QUEUE.md (old queue moved to bak\2026-10-15 old work queue\ on D:).
 
 Read first: notes/LOTHAR_RULES.md (repo root notes/), SCORES.md (Job queue), then this folder's notes\REVIEW_REV3_2026-10-15.md, notes\_STATUS.md, notes\PICTURE_CREDITS.md, notes\Held Back - Sections Written but Not in the Build.md.
@@ -45,3 +45,9 @@ Words before/after, chapters affected, the two vignettes (titles and sources), v
 - If the PowerShell tool throws an intermittent parse error, retry; for docx edits use python-docx or zip/XML with run structure and hyperlinks preserved; verify testzip(), XML parses, media count, hyperlink count after every write.
 - Scoring (honest, no inflation): four angles each with a score out of 10 and an issue list: target reader, harsh critic, subject expert / fact-checker, Amazon market; overall last, plus sellability out of 10. For science books use the science score areas in the rules file. Score only what you checked. Do not give 10s. Say plainly what was not checked (no outside reader, no cold read, Kindle Previewer run or not).
 - Reporting: short, answer-first: what changed (with before/after numbers: words, chapters, images), the new scores per angle and overall vs. before, what was NOT done and why, the commit hash, the exact file paths written, and what only Lothar can do.
+
+## Completion record — 15 October 2026
+
+REV4 is complete and is the current master. Body count: 50,051 → 41,500 words (−8,551; 17.1%); whole document: 66,518 → 58,211. Per-chapter counts, sources, and QA are recorded in `REVIEW_REV4_2026-10-15.md`. Both new vignettes are sourced and linked; the Afonso I source is linked; verdicts are varied; the final page is a text-only back cover; active Markdown copies are synced. Repeat scan is clean, with 51 Heading 1 paragraphs, 19 inline images, 363 hyperlinks, no tables, valid DOCX XML/ZIP, and successful 420-page LibreOffice render.
+
+Kindle Previewer was not run because desktop control is unavailable in this session. An outside reader has not reviewed REV4. These two checks remain before a KDP upload decision.

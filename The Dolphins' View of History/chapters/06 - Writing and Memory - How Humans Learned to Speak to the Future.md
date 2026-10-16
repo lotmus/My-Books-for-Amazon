@@ -1,8 +1,8 @@
-## From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
+# From 3200 BCE: Writing and Memory — How Humans Learned to Speak to the Future
 
 Start with one tablet. It is a square of baked clay about three inches across, made, probably in the city of Uruk, sometime between 3400 and 3000 BCE, and it fits in a human palm. Its marks record a large quantity of barley, a period of thirty-seven months, and two signs read as KU and ŠIM: Kushim. Nobody knows whether Kushim was a person, a job title, or an office. The same signs turn up on seventeen other tablets, mostly in accounts of barley and beer.
 
-Until this point, dolphin historians have had to reconstruct human behavior from bones, stone, and ash, the same evidence they would use on any other animal. With the Kushim tablet, the sources start talking back, and the first thing they say is how much barley is owed.
+Until this point, human behavior had to be reconstructed from bones, stone, and ash, the same evidence used on any other animal. With the Kushim tablet, the sources start talking back, and the first thing they say is how much barley is owed.
 
 Writing appears in Sumer, in southern Mesopotamia, by around 3200 BCE, in the form of cuneiform: wedge-shaped marks pressed into wet clay with a cut reed. Egyptian hieroglyphs emerge at almost the same time. Whether Egypt invented the idea on its own or picked it up from contact with Mesopotamian traders and then built an entirely different script around it is still argued; the two systems share a moment, not a form.
 
@@ -16,7 +16,7 @@ If Kushim was a person, the earliest name in the written record belongs to an ac
 
 Two more independent inventions of writing followed: Chinese script, attested from Shang dynasty oracle bones by around 1200 BCE though likely older, and Mesoamerican scripts including the Maya, fully developed by around the last centuries BCE. Four separate origins, spread across three continents (Asia twice over, in Mesopotamia and China, plus Africa and the Americas) and thousands of miles of mutual isolation, arriving at the same solution to the same problem.
 
-The problem, underneath the receipts, was memory's expiration date. Everything a human generation knew had previously lived only as long as someone who remembered it stayed alive to be asked.
+The problem, underneath the receipts, was memory’s expiration date. Everything a human generation knew had previously lived only as long as someone who remembered it stayed alive to be asked.
 
 A written mark does not need to be remembered. It needs only to be found.
 
@@ -24,13 +24,15 @@ A mark also does not drift. Human memory does, and it drifts in company. Each ti
 
 *Professor Click-Click-Whoosh, in the margin: “Modern humans have a name for the same wrong memory held by many heads at once: the Mandela effect, after the large number of them who remember Nelson Mandela dying in prison in the 1980s. He walked free in 1990, became president of South Africa, and died in 2013. The newspapers of 1990 say so, and they have not changed their minds. That is the whole case for clay.”*
 
-The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held thousands of tablets on medicine, astronomy, and literature, deliberately collected — the most famous early case of a society building a memory on purpose, for readers not yet born, following earlier deliberately kept archives at Ebla and Hattusa by well over a thousand years.
+The Library of Ashurbanipal, assembled in Nineveh in the 7th century BCE, held thousands of tablets on medicine, astronomy, and literature, deliberately collected. It was the most famous early case of a society building a memory on purpose, for readers not yet born, coming well over a thousand years after the earlier archives at Ebla and Hattusa.
 
-The far more famous Library of Alexandria, founded in Egypt under the Ptolemaic dynasty in the early 3rd century BCE, took the same idea and multiplied its ambition: not merely a collection, but an attempt to gather a copy of every text in the known world, reportedly by searching every ship that docked in Alexandria's harbor for scrolls worth transcribing. Its actual end is more mundane than its popular legend. There was no single dramatic burning by a single villain — a fire during Julius Caesar's visit in 48 BCE damaged part of the collection. Further decline followed political instability and reduced funding over the following centuries. The destruction of the associated Serapeum temple in 391 CE, under an edict against pagan sites, finished off what direct evidence can still trace. By the time of the Arab conquest in the 7th century, the library had already ceased to exist as a major institution for hundreds of years, which is why most historians reject the later, popular story blaming that conquest for its loss.
+The far more famous Library of Alexandria, founded in Egypt under the Ptolemaic dynasty in the early 3rd century BCE, took the same idea and multiplied its ambition. It aimed not merely at a collection but at a copy of every text in the known world, reportedly gathered by searching every ship that docked in Alexandria’s harbor for scrolls worth transcribing. Its actual end is more mundane than its popular legend. There was no single dramatic burning by a single villain — a fire during Julius Caesar’s visit in 48 BCE damaged part of the collection. Further decline followed political instability and reduced funding over the following centuries. The destruction of the associated Serapeum temple in 391 CE, under an edict against pagan sites, finished off what direct evidence can still trace. By the time of the Arab conquest in the 7th century, the library had already ceased to exist as a major institution for hundreds of years, which is why most historians reject the later, popular story blaming that conquest for its loss.
 
 *“We pass down what we know only by living demonstration,” the Society recorded. “A calf learns to hunt by watching its mother hunt, generation after generation, and if a pod is lost, its particular hunting culture is lost with it. Humans built a version of memory that survives the death of everyone who held it. After this chapter, they stop forgetting on our clock, and start forgetting, if at all, on their own.”*
 
-This is the moment the ratchet from the first chapter acquires a memory. A tool can be copied only by someone who sees it; a written instruction can be copied by someone born three centuries later on another continent. Everything from a legal code to a shipping manifest to, eventually, dolphin scholarship's own subject matter, depends on this one invention holding.
+This is the moment the ratchet from the first chapter acquires a memory. A tool can be copied only by someone who sees it; a written instruction can be copied by someone born three centuries later on another continent. Everything from a legal code to a shipping manifest to, eventually, history’s own subject matter, depends on this one invention holding.
+
+Not everything people wrote down was grand. About 1750 BCE, in the Mesopotamian city of Ur, a customer named Nanni sent a clay tablet to a copper merchant named Ea-nasir. Nanni complained that the copper was not the quality he had paid for, that his messenger had been treated rudely, and that he had had enough. Nobody knows whether Ea-nasir ever replied. The tablet survived because clay does not rot, and it is often called the oldest customer complaint on record.
 
 **Dolphin verdict:**
 
