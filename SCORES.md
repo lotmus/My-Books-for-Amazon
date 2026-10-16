@@ -10,6 +10,7 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 | The Department of Historical Corrections | REV11: real physics tied to the time travel (ch 2, 6, 13, 22, 35) and the appendix Lessons from the Department; Amery five-point check re-run | complete (15 Oct 2026) | agent |
 | The Dolphins' View of History | REV3: heavy-chapter restraint and bridges, chapter merges, cast page and reading guide, four vignettes, zero sentences over 300 characters; length cut not achieved (-0.6 percent) | complete (15 Oct 2026) | agent |
 | The Department of Historical Corrections | REV10: signature twist (Arthur's own stamp on Glock's doctored forecast; plants ch 1 and 9, reveal ch 26, fallout ch 29, 31, 34, 37), Amery five-point check re-run | complete (15 Oct 2026) | agent |
+| Test and Measurement Instruments (Book 9) | Review-driven revision toward the strongest defensible scores; technical corrections, structure/voice pass, DOCX and EPUB QA | queued (two heavy manuscript jobs active) | Codex |
 | EE Books 1–7 | Diagrams, voice, and "What you'll actually use" pass | running | agent |
 | EE Books 1–9 | Book 9 series retrofit (Also-by, score row, and Book 7 pointers) | complete | agent |
 | Physics Vol 1; Physics Vol 3; A Trip Is Not a New Life; Science Sparks; Life, Actually; Physics Vol 2 | Weak-books improvement pass | running | agent |
