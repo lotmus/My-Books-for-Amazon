@@ -174,3 +174,8 @@ This confirms three genuinely distinct manuscripts. The PR #157 changes to sourc
 ## Book 9 critical-revision branch check — 2026-10-16
 Branch `codex/book9-critical-revision-20261015` has six commits ahead and modifies the Book 9 source and exports through REV4. GitHub has no PR for this branch. Fetched origin/main already tracks `EE - SERIES/Test_and_Measurement_Instruments_Book9_REV5.docx` alongside the unversioned master and REV4. Thus this branch is historical input, not an unintegrated latest release; do not merge its REV4 export over the newer REV5. The shared checkout separately has uncommitted EE-series trees/files and must remain untouched until that owner reconciles them. No branch or source files changed in this check.
 
+
+
+## Physics Volume 1 one-commit candidate check — 2026-10-16
+Reviewed `codex/physics-v1-current-20261015` (one commit ahead of origin/main; no PR found). The commit changes only the two KDP DOCX masters and adds Prologue/Chapter 12 opener JPG+PNG assets. Pandoc extraction shows the paperback text has 37 changed blocks, mostly updated TOC page numbers plus small surrounding changes; Kindle extraction has three changed blocks, including opener alt-text and illustration inventory. Extracted word counts: paperback main 51,288 vs branch 51,228; Kindle main 51,269 vs branch 51,239. These small count differences and the absence of a book-level status/handover mean newest/approved release is not confirmed from the commit title alone. Keep the branch as a distinct candidate; do not merge or overwrite the active masters before the book owner confirms these Kindle corrections and checks the illustrations. No source files changed.
+
