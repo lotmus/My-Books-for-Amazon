@@ -1,4 +1,4 @@
-![Cover: Limericks and Other Rhymes for People Who Should Know Better](images/cover.png){width=2.8in}
+![Cover: Limericks and Other Rhymes for People Who Should Know Better](images/cover.png){width=2.65in}
 
 # Limericks and Other Rhymes for People Who Should Know Better (Illustrated)
 
