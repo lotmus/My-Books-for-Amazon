@@ -1,4 +1,4 @@
-﻿# STATUS — Protocol Flamingo
+# STATUS — Protocol Flamingo
 
 Last updated: 2026-10-15. The live manuscript is `Protocol_Flamingo_REV11.docx`; the matching reflowable ebook is `Protocol_Flamingo_REV11.epub`. `build_docx.js` generates an earlier, shorter draft and is not the source for REV11. The current DOCX contains about 77,092 extracted words and 2,570 body paragraphs (Word may count differently). `KDP_LISTING.md` holds the listing copy and `bak/` contains dated snapshots.
 
@@ -169,6 +169,13 @@ Old master in `bak/Protocol_Flamingo_REV10 - 2026-10-10 pre-rescore.docx`.
 Age guidance (12 Oct 2026): assessed as suitable for adults and older teens, recommended age 16+, because the book deals with infant abduction, nonconsensual medical experimentation, involuntary mind control, and brief non-graphic violence and injury. Updated the KDP description with this recommendation and a concise content advisory.
 
 
+Pacing and clarity review (15 Oct 2026): 10/10. The middle’s mystery remains trackable from the wedding footage and its removal, through the Nevada lead, to the effort to get an informed, voluntary request to the right person before Starfall. Family scenes regularly reset the stakes. The Pretzel Corridor pauses the investigation for character consequences, but Jesse’s breach, Linh’s disclosure, Elena’s legal clue, and Cole’s offer all change what the characters can do; cutting those beats would weaken the later choice and payoff. The remaining science/protocol density in Aboard and Triggered is attached to new decisions and is not a pacing defect. No manuscript changes recommended in this pass. Next queue item: voice and dialogue.
+
+Voice and dialogue review (15 Oct 2026): 10/10. Plain action and silence create breathing room; secondary dialogue has enough ordinary friction and unevenness to feel human, including Mabs’s brief texts, Linh’s bluntness, Jaylen’s questions, and Warren’s job-description complaint. Precise institutional speech fits the characters and scene. Further roughening would blur voices rather than improve naturalness. No manuscript changes recommended. Next queue item: continuity and science.
+
+Continuity and science review (15 Oct 2026): 10/10. The structural cuts leave intact the footage-to-relay clue chain, the distinction between Boat and tender, the approximately 50-minute one-way light time and 100-minute round trip, the 84-second event window, and the trigger/implant and consent-carrier rules. The climax follows the established requirement that Dominic be informed and choose; the overload remains an uncertain, potentially lethal alternative rather than a clean fix. The note to readers and appendix preserve the fact/invention boundary. The deliberate delay before Nora tells Dominic is acknowledged in the scene and pays off as a character breach, not a continuity error. No manuscript changes recommended. Next queue item: overall reader impact.
+
+Overall reader-impact review (15 Oct 2026): 10/10. The eclipse sequence pays off the footage clues, family history, Asking Clause, and Dominic’s right to choose; aftermath scenes retain consequences rather than offering an easy reset. Handbook, Steve, and records humor relieve tension without minimizing coercion or injury. The final family call and Nora’s decision not to film give the ending emotional closure. No manuscript changes recommended. The four-item REV11 review queue is complete; the story files were not changed.
 Literary-fan review (13 Oct 2026): style and voice 10/10; sentence craft 10/10; mechanics 10/10; overall 10/10 after line edits. The coda?s Jesse introduction and Curtis test summary were clarified, and Daniels?s clipped case note is now a complete quotation. DOCX and EPUB are synchronized; structural and mechanical checks passed.
 
 
