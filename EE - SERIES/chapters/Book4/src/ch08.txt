@@ -45,3 +45,4 @@ LI: Array gain ≈ element gain + 10 log N.
 LI: Grating-lobe limit d/λ < 1/(1 + sin θmax).
 P: Mostly for exams and deeper study
 LI: Array synthesis by Chebyshev and Taylor weighting.
+P: Part I, Movement 2. Passive Building Blocks and Measurement

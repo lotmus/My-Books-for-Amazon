@@ -1,5 +1,5 @@
 H1: Chapter 7. The Antenna
-P: Cut a dipole to a twentieth of a wavelength, give it 2 Ω of wire loss, and half the power you feed it simply heats the wire. Double its length and the efficiency jumps to more than 80 %. Small antennas aren't just weaker; they are inefficient, and that one fact shapes every gadget that radiates.
+P: Cut a dipole to a twentieth of a wavelength, give it 2 Ω of wire loss, and half the power you feed it simply heats the wire. Double its length and the efficiency jumps to more than 80 %. Small antennas are not merely weaker; they are inefficient, and that one fact shapes every gadget that radiates. The enclosure usually joins the antenna whether the schematic admits it or not.
 P: Where you meet this: Every phone, router, key fob, satellite dish, and car radar, and every link budget that uses dBi.
 P: An antenna is a transducer between guided waves on a transmission line and electromagnetic waves in space. Its input impedance determines how much power is accepted at its feed; an external matching network may transform the line impedance to that input impedance. Matching and radiation are related, but they are different jobs.
 H2: 7.1 Directivity, efficiency, and gain

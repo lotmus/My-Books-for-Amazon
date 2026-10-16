@@ -23,7 +23,7 @@ P: Without DPD a base-station amplifier might need 9 dB of back-off from its pea
 EQ: η_classB(BO) = (π/4) × 10^(−BO/20)
 H2: Worked Example 38.3
 P: Problem. Compare the ideal class B efficiency at 9 dB and at 6 dB of back-off.
-P: Solution. At 9 dB, η = 0.785 × 0.355 = 27.9%. At 6 dB, η = 0.785 × 0.501 = 39.4%. DC power for the same average output falls by a factor of 39.4/27.9 = 1.41, a 29% reduction in the power the station draws for its amplifiers, before any Doherty improvement.
+P: Solution. At 9 dB, η = 0.785 × 0.355 = 27.9%. At 6 dB, η = 0.785 × 0.501 = 39.4%. DC power for the same average output falls by a factor of 39.4/27.9 = 1.41, a 29% reduction in the power the station draws for its amplifiers, before any Doherty improvement. Without predistortion, reclaiming that 3 dB by driving OFDM peaks into compression spreads energy into adjacent channels; the base station must back off again or risk failing its emission limit and interfering with neighboring users.
 H2: 38.5 Practical limits
 P: DPD adds a digital block, an observation receiver, and training software, which pay for themselves in base stations but are marginal in low-power devices. It cannot correct noise or distortion that originates before the amplifier, and it must track changes in temperature, supply, and load, the antenna mismatch of Chapter 31 included. Envelope-tracking transmitters of Chapter 36 depend on it, because the supply modulation itself creates distortion that only DPD removes.
 P: Code. A memory-polynomial fit is a least-squares problem of a few dozen complex unknowns; the fixed-point arithmetic that runs it in real time is in Book 8, Firmware and Software for Electronics, "Fixed-Point Math and DSP".
