@@ -1,0 +1,55 @@
+H1: Chapter 13. Crosstalk
+P: Two traces, a tenth of a millimeter apart, run side by side for ten centimeters. The quiet one picks up 4 % of its neighbor's swing at the near end and, on the outer layer, a tenth of it at the far end. Move them three times farther apart, or put them inside the board, and most of it disappears.
+P: Where you meet this: Every serial-link channel analysis, every DDR memory layout, every 'keep three widths apart' rule of thumb, and every noisy ADC that shares a ribbon cable with a fast clock.
+P: Two traces that run side by side are coupled by their mutual capacitance and mutual inductance. A fast edge on one, the aggressor, induces noise on the other, the victim. Crosstalk closes eyes in serial links, corrupts quiet analog signals, and carries noise from one part of a board to another. This chapter separates the two kinds of crosstalk, near-end and far-end, computes their sizes from the coupling coefficients, and shows why spacing, stripline routing, and short parallel runs control them. The treatment follows Johnson and Graham and Bogatin.
+H2: 13.1 Mutual capacitance and inductance
+P: The aggressor's changing voltage drives a current through the mutual capacitance Cm into the victim, and its changing current induces a voltage on the victim through the mutual inductance Lm. The two effects are expressed relative to each line's own capacitance C and inductance L per unit length. On the victim, the capacitive and inductive currents add in the backward direction, toward the near end where the aggressor is driven, and subtract in the forward direction, toward the far end.
+H2: 13.2 Near-end crosstalk
+P: Near-end, or backward, crosstalk appears at the victim's end nearest the driver, as a pulse that begins with the aggressor's edge and lasts for twice the coupled length's delay. Once the coupled length exceeds the saturation length, half the distance an edge travels during its rise time, the near-end noise reaches a maximum set by the backward coefficient Kb and stays there however long the parallel run.
+EQ: Kb = ¼ (Cm/C + Lm/L),    Lsat = tr v / 2
+H2: Worked Example 13.1
+P: Problem. Two microstrips have Cm/C = 0.05 and Lm/L = 0.07. Find the saturated near-end crosstalk. What is the saturation length for a 50 ps edge on a line where signals travel at half the speed of light, and for a 200 ps edge?
+P: Solution. Kb = ¼ × (0.05 + 0.07) = 0.030, so a 1 V edge produces up to 30 mV of near-end noise. The saturation length is 50 ps × 1.5 × 10⁸ m/s/2 = 3.75 mm for the 50 ps edge and 15.0 mm for the 200 ps edge. On a modern board with fast edges, almost every parallel run is longer than the saturation length, so the near-end crosstalk is at its full value and only spacing can reduce it.
+H2: 13.3 Far-end crosstalk
+P: Far-end, or forward, crosstalk travels with the aggressor's edge and arrives at the victim's far end at the same time as the edge does. It is proportional to the coupled length and to the edge's slope, and to the difference between the capacitive and inductive coupling ratios. In a homogeneous dielectric, as in a stripline, the two ratios are equal, and far-end crosstalk vanishes. In a microstrip, part of the field is in air, the inductive ratio exceeds the capacitive one, and far-end crosstalk grows with every centimeter of parallel run.
+EQ: Vf / Va ≈ (length / (2v)) × (Cm/C − Lm/L) / tr
+H2: Worked Example 13.2
+P: Problem. The microstrips of Example 13.1 run in parallel for 10 cm on Book 4's reference microstrip, with εeff = 2.79, and the aggressor has a 50 ps edge. Find the far-end crosstalk. Repeat for 20 cm, and for 10 cm with a 100 ps edge.
+P: Solution. The speed is c/√2.79 = 1.795 × 10⁸ m/s, so length/(2v) = 0.1/(3.59 × 10⁸) = 279 ps. With Cm/C − Lm/L = −0.02, Vf/Va = 279 × (−0.02)/50 = −0.111: an inverted pulse of 11% of the aggressor's swing. At 20 cm it is 22%, and with a 100 ps edge over 10 cm it is 5.6%. The same pair routed as a stripline would have essentially no far-end crosstalk, which is the strongest reason to route long, fast buses on inner layers.
+P: Key idea. Near-end crosstalk saturates and is controlled by spacing. Far-end crosstalk grows with length and edge rate, and vanishes in a stripline. Route long fast runs inside the board and keep aggressors away from victims.
+H2: 13.4 A Practical Trace-Spacing Rule
+P: Coupling falls quickly as traces move apart because the reference plane confines each trace's fields. The practical layout rule is to keep sensitive traces apart and maintain a close, continuous return plane; the familiar 3W guideline is a starting point, not a guarantee. Section 13.6 quantifies the spacing and plane-height tradeoff.
+H2: 13.5 Other coupling paths
+P: Crosstalk is not only between parallel traces. Vias in a dense array couple to each other through the board; a via field under a BGA can dominate a channel's crosstalk at high data rates, and ground vias placed between signal vias reduce it. Connectors and package pins couple in the same way. Signals that share a return path, as in Chapter 9's ground bounce, couple through the common impedance. A complete crosstalk budget for a high-speed link adds all these contributions as noise sources in the receiver's eye, as Chapter 14 does.
+H2: 13.6 How crosstalk falls with spacing
+P: Section 13.4 gave the practical spacing guideline. A useful approximation for microstrip and stripline makes coupled noise proportional to 1/[1 + (s/h)^2], where s is center-to-center spacing and h is height above the reference plane. It predicts a fifth of the coupling when s/h rises from 1 to 3. The model also shows another option: reducing h with a thinner dielectric lowers coupling without using more routing area.
+EQ: crosstalk ∝ 1 / [1 + (s/h)²]
+FIG: fig13_1.png | Figure 13.1 — Near-end crosstalk against center spacing with the 1/[1 + (s/h)²] rule, scaled to 4.0 % at s = h = 0.1 mm. Tripling the spacing gives 0.8 %; halving the height to 0.05 mm at the same spacing gives 1.6 %. | Two falling curves of crosstalk percent against spacing; points mark 4.0 percent and 0.8 percent on the upper curve and 1.6 percent on the lower one.
+H2: Worked Example 13.3
+P: Problem. Two traces 0.1 mm above their plane have 4 % near-end crosstalk at a center spacing of 0.1 mm. Estimate the crosstalk at 0.3 mm spacing, and at 0.1 mm spacing with the plane 0.05 mm below.
+P: Solution. At s/h = 1 the factor is 1/2; at s/h = 3, 1/10, so the crosstalk falls to 4 % × (1/10)/(1/2) = 0.8 %. With h = 0.05 mm at 0.1 mm spacing, s/h = 2 and the factor is 1/5, giving 1.6 %: thinning the dielectric gains a factor of 2.5 without moving the traces.
+H2: 13.7 Adding up many aggressors
+P: A victim trace in a dense bus has neighbors on both sides and more beyond them, and each contributes crosstalk. The worst-case budget adds their amplitudes, assuming every aggressor switches in the direction that hurts the victim at the same instant. For many aggressors with independent data that worst case is rare, and a statistical budget adds their contributions as the root of the sum of squares, which is smaller. Which one is right depends on the error rate required and the data patterns: a parallel memory bus whose lines switch together on the same clock edge can approach the linear sum, while independent serial lanes behave closer to the statistical one. Channel tools such as COM, Section 14.5, model crosstalk statistically and fold it into the noise that sets the error rate.
+EQ: worst case: X = Σ|xᵢ|;    statistical: X = √(Σ xᵢ²)
+H2: Worked Example 13.4
+P: Problem. A victim has two adjacent aggressors that each couple 2 % and two next-nearest aggressors that each couple 0.5 %. Find the worst-case and statistical crosstalk, and the worst-case noise on an 800 mV swing.
+P: Solution. Worst case: 2 + 2 + 0.5 + 0.5 = 5.0 %, or 40 mV on 800 mV. Statistical: √(2 × 0.02² + 2 × 0.005²) = √(0.00085) = 2.9 %, or 23 mV. The two nearest neighbors dominate both sums, so widening their spacing, Section 13.6, buys most of the improvement.
+P: Crosstalk is one way a channel loses margin. Loss, equalization, and the resulting eye, Chapter 14, are the others.
+BENCH: Check the spacing in units of the height to the plane, not in millimeters: s/h is what counts. Route long, fast buses as stripline to kill far-end crosstalk. When a victim is quiet and sensitive, such as an ADC input, give it its own ground on both sides and keep the aggressor's edges as slow as the system allows.
+H2: Practice
+P: 1. Find Kb for Cm/C = 0.03 and Lm/L = 0.04.
+P: 2. Find the saturation length for a 100 ps edge in a stripline with εr = 3.6.
+P: 3. Find the far-end crosstalk for the microstrips of Example 13.2 over 20 cm with a 50 ps edge.
+P: 4. By what factor does crosstalk fall when spacing increases from s = h to s = 2h, using the 1/(1 + (s/h)²) rule?
+P: 5. Why is far-end crosstalk essentially zero in a stripline?
+P: 6. Two striplines with a plane 0.1 mm away run with s = h and couple 4.0 % at the near end. Using the 1/(1 + (s/h)²) rule, what coupling remains if the router moves them to s = 3h, and what center spacing is that?
+P: 7. By what factor does the crosstalk fall when s/h rises from 2 to 4?
+P: 8. Four aggressors each couple 1 %. Find the worst-case and statistical crosstalk.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Kb = ¼(Cm/C + Lm/L).
+LI: Saturation length trv/2.
+LI: Far-end crosstalk in microstrip.
+LI: Spacing rule 1/(1 + (s/h)²).
+P: Mostly for exams and deeper study
+LI: Even- and odd-mode analysis of coupled lines.
