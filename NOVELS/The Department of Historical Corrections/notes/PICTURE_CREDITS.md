@@ -10,3 +10,5 @@
 | Figure 5, tunnelling (lesson 5) | Generated, 15 Oct 2026, matplotlib via `notes/build/figs.py`; wave computed by matching conditions for a rectangular barrier; no third-party material | `notes/figures/fig5_tunnelling.png` |
 
 Figures are 801 px wide, placed at 2.98 in. Alt text and captions are in the manuscript. No photographs.
+
+| Back cover, 1000 x 1600 | Generated for this book (`notes/build/backcover.py`, text only, Windows system fonts Georgia and Segoe UI); no third-party material | `cover/The Department of Historical Corrections - back cover 1000x1600.png` |

@@ -157,3 +157,5 @@ Weak-spot pass on REV11. No story rule, twist, plant or running joke changed. Bu
 3. Amery is named only in the back-matter acknowledgement.
 4. No original material copied in.
 5. The acknowledgement wording ("my own premise, characters, names and wording") is still true of REV12. "Bell" appears once, in the back-matter note; the appendix and figures say CHSH.
+
+- **Back cover (new rule, LOTHAR_RULES.md, 15 Oct 2026):** added as the last page: `cover\The Department of Historical Corrections - back cover 1000x1600.png` (text only on one colour, made by `notes/build/backcover.py` with Windows fonts), inline at 2.59 x 4.15 in so it fits the page, with alt text; no barcode, price or ISBN. `build.py` takes the back cover as an optional fourth argument. KDP_Description.md word counts updated and the appendix line now says each lesson has a diagram.

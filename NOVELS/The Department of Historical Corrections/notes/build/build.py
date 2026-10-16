@@ -139,6 +139,11 @@ for l in back[[k for k in back if k.startswith('Also by')][0]]:
     if not l: continue
     if l.startswith('**'): para(l.strip('*'),'Group')
     elif l.startswith('- '): para(l[2:],'Also By Item')
+if len(sys.argv)>4 and os.path.exists(sys.argv[4]):
+    bcp=pagebreak_para('Centered'); bcp.paragraph_format.space_before=Pt(0); bcp.paragraph_format.space_after=Pt(0)
+    bpic=bcp.add_run().add_picture(sys.argv[4],height=Inches(4.15))
+    bpic._inline.docPr.set('descr','Back cover: the title, the tagline "Belgium has stopped existing. It is Monday.", a short blurb, three selling lines, a one-sentence author note and the Also-by series list.')
+    bpic._inline.docPr.set('title','Back cover')
 for kind,text,nm in entries:
     link_entry(text,nm,'TOC 1')
 body_el=doc.element.body
