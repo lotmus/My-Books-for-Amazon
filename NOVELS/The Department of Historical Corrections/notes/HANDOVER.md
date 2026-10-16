@@ -85,3 +85,28 @@ Humour pass in Lothar's British deadpan. About 56,300 body words (+1,870, all ne
 3. Amery named only once, in the back-matter acknowledgement.
 4. No original material copied in.
 5. Acknowledgement wording re-checked against REV9: "my own premise, characters, names and wording" remains true; the only edit is "appendix" to "back matter".
+
+## REV10, 15 October 2026
+
+The signature twist. No rule changed; nobody meets an earlier self. Built from REV9 (now in `bak\`). About 57,300 body words (REV9 56,300).
+
+**The twist.** The casualty forecast Director Fanshawe acted on carried a covering sheet stamped CONSISTENT WITH STATED SOURCES, Assessment Unit (Western Europe), signed by Arthur on Friday 21 August 2026 (23 days before Fanshawe crossed on Sunday 13 September). It was item 22 of a routine batch of 31 from Reviews, and the item's scope was tables 40 to 118 "for consistency against stated sources only". Glock had removed pages 1 to 39 (the premise pages Saye later identifies) and slipped the item into the batch; he wrote no figure, forged nothing, and chose the Friday. Arthur's check was accurate and limited, so Glock's "I invented nothing" and "never found it necessary to lie" stay true in his own terms. It is Arthur's 206th and last review (Glock's count of "two hundred and six reviews in ten years" is unchanged).
+
+**Date check (against continuity.md and the ledger before writing).** Fanshawe's crossing is Sunday 13 Sep 14:05 (ch 9 ledger); 21 Aug 2026 is a Friday; Arthur has been in the Assessment Unit, Western Europe since 2 Jun 2016 (Pembroke file) and a Deputy Assistant Director for twelve years; the Leeds review is 12 Oct 2017; the pages-1-to-39 gap is Saye's (ch 18, 20). No clash found. Fanshawe's ch 20 answer ("No" to an independent assessment) still holds: he accepted an internal stamp, not an independent assessment.
+
+**Plants, reveal, fallout.**
+- Plant 1, ch 1: Arthur signs with the name and a short flat line under it ("a man signing on a shelf"), next to the line that his usual finding looks like his handwriting.
+- Plant 2, ch 9: Fanshawe produces a photographic reduction of the extract; the cover sheet is a card-sized stamp over a brown smudge "with a line under it"; Arthur: "Somebody in my unit. They're quick." Eleanor writes *forecast: stamped*. Arthur has no memory of the sheet.
+- Reveal, ch 26 (chosen over ch 15, which already carries the dots and the Pembroke file): after the black notebook's fourteen entries Glock produces a fifteenth that he did not keep because he used it. Arthur recognises the line; remembers the Friday. Glock gives him the photocopy ("I have the original"). Arthur's refusal speech now includes it: "all fifteen are mine".
+- Fallout, ch 29: a second reason Arthur insists Glock is brought back (an inquiry hearing one author learns half); the sheet is matched to its scan in the model export. Ch 31: Arthur tells Fanshawe himself ("It was mine"), adds term six ("Nothing I sign leaves the building without the pages it depends on"; "It signs forty a week." "Thirty-nine, then."). Ch 34: Arthur reads the fifteenth into the inquiry record. Ch 37: Arthur enters his own fifteen; the fifteenth reads *Everyone in Belgium. Tables 40 to 118 only. Assessed by A. Pembroke, 21 August 2026. Entered.*
+
+**Kept intact:** the dots/COST twist, the notebook, Hallett, all REV9 running jokes, the rules ("nothing requires a person to cause their own existence" is untouched in ch 9). No physics (REV11).
+
+**Tics:** "as though" 3 (unchanged: words 498, 9,371, 21,607); no "It was not X. It was Y." added.
+
+**Amery acknowledgement check (five points, re-run on REV10).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. Scan of the REV10 story body for the REV6 list (Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Amery, Koenig): zero hits; Amery appears once, in the Acknowledgement. The new material is an assessor's stamp on a forged-by-omission forecast; it uses nothing from the novel. Still a check against published summaries; I have not read the novel.
+2. KDP_Description.md does not call it an adaptation or sequel or name Amery.
+3. Amery is named only in the back-matter acknowledgement.
+4. No original material copied in.
+5. The acknowledgement wording ("my own premise, characters, names and wording") is still true of REV10. "Bell" appears only in the back-matter note and in notes; the story body has only ordinary bells and the word "labelled".

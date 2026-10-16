@@ -32,3 +32,7 @@ New fixed points are in DISPATCH_LEDGER.md (REV8 additions). Key facts: Glock's 
 ## REV9 (15 Oct 2026)
 
 Humour pass. New fixed points are in DISPATCH_LEDGER.md (REV9 additions). Key facts: the pass reader and the third monitor date from 2019 and March 2019; Belgium is recorded as an absent member in ch 9, 20 and 32; Exhibit 1 is the biscuit packet (protected, so it still reads Yorkshire in the restored world); Garrick works in Regional Complaints in the restored history; Durrant was a dentist only in the revised history. Scan run on the finished file: no clashes found in times, counts or names.
+
+## REV10 (15 Oct 2026)
+
+New fixed points are in DISPATCH_LEDGER.md (REV10 additions). Key facts: Arthur signed the cover sheet of the casualty extract (tables 40 to 118, "for consistency against stated sources only") on Friday 21 August 2026, item 22 of 31, his 206th and last review; 23 days before Fanshawe crossed (Sun 13 Sep); Glock removed pages 1 to 39 and chose the date; Arthur signs with a short flat line under the name; term six added in ch 31; Arthur's own entries in the registers are now fifteen. Scan run on the finished file: no clashes found in dates, counts or names.

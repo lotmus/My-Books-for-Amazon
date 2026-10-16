@@ -151,3 +151,16 @@ Humour pass; no change to any transit, capacity or clock figure. New fixed point
 | Weeks after | Garrick's letter (Regional Complaints Handling) | 35 |
 | Exhibition | Exhibit 1 (the packet) lent by the inquiry; Hester counts six colours | 36 |
 | December | New pass reader reaches 100%; third monitor installs its update at 09:17 and waits for two signatures; Beatrice: "The country is no longer in flux" | 37 |
+
+## REV10 additions (15 Oct 2026)
+
+| When | What | Chapter |
+|---|---|---|
+| Fri 21 Aug 2026, ~16:40 | Reviews sends Arthur 31 items; item 22 is the extract of the descendant report (tables 40 to 118) for consistency against stated sources only; he stamps CONSISTENT WITH STATED SOURCES, Assessment Unit (Western Europe), signs with the flat line; his 206th review | planted 1, 9; revealed 26 |
+| Sun 13 Sep, 14:05 | Fanshawe crosses (23 days later) acting on that assessment; he asked whether it had been assessed, took the stamp, did not read the name | 7, 9, 26, 31 |
+| Mon 14 Sep, ~17:10 | Fanshawe shows a card-sized reduction of the cover sheet; Eleanor notes "forecast: stamped" | 9 |
+| Thu ~15:55 (2029) | Glock gives Arthur the photocopy; Arthur adds the fifteenth to his refusal | 26 |
+| Thu (2029) | Eleanor matches the photocopy to the scan in the model export | 29 |
+| Thu ~08:25 | Arthur tells Fanshawe; term six | 31 |
+| Inquiry, six weeks later | Arthur reads the fifteenth into the record | 34 |
+| December | Arthur enters his fifteen: "Everyone in Belgium. Tables 40 to 118 only." | 37 |
