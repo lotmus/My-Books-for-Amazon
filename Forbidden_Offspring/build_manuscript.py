@@ -28,7 +28,10 @@ for n in list(short):
     if os.path.exists(f): short[n]=(short[n][0],body(open(f,encoding='utf-8').read()))
 def join(*fs): return "\n\n* * *\n\n".join(body(rd(f)) for f in fs)
 out=[]
-out.append("# Forbidden Offspring\n\n*A novel*\n")
+BYLINE="Lothar J. Musiol writing as Genevieve Crisp"
+out.append("# Forbidden Offspring\n\n*A novel*\n\n"+BYLINE+"\n\n"
+"Copyright © 2026 Lothar J. Musiol. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.\n\n"
+"This is a work of fiction. All people, clinics, universities, companies, parties and offices in the story are invented, and any resemblance to real ones is coincidence. The Appendix and the Notes and Further Reading refer to real science and real publications.\n")
 out.append("---\n\n# Consent\n\n"+body(rd("prologue_consent_v1.md")).replace("* * *","---")+"\n")
 out.append("\n# PART ONE: STONE\n")
 P1=[(1,"Four Minutes",["ch01_four_minutes_Stone_v1.md","ch02_the_transfer_Stone_v1.md"]),
@@ -70,6 +73,15 @@ for k,fn in enumerate(PART2):
     out.append(NL+"## "+str(n)+". "+title+NL+NL+b+NL)
 out.append("\n---\n\n# Appendix: The Science Behind the Story\n\n"+body(rd("appendix_genetics_v2.md"))+"\n")
 out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v2.md"))+"\n")
+# back matter: pen-name note + About the Author (Version B, American-English book) + Also by (canonical list)
+ab=open("notes/ABOUT_THE_AUTHOR - canonical.md",encoding="utf-8").read()
+vb=ab.split("## Version B",1)[1].split("Plain-text copies",1)[0].strip()
+pen="Genevieve Crisp is a pseudonym. She takes full responsibility for the four minutes."
+out.append("\n---\n\n# About the Author\n\n"+pen+"\n\n"+vb+"\n")
+al=open("notes/ALSO_BY - canonical list.md",encoding="utf-8").read()
+al=al.split("## Also by Lothar J. Musiol",1)[1].split("## Also by Kevin",1)[0].strip()
+al="\n".join(l for l in al.split("\n") if not l.startswith("- Forbidden Offspring"))  # leave out the book itself
+out.append("\n---\n\n# Also by Lothar J. Musiol\n\n"+al+"\n")
 txt="\n".join(out)
 # reader copy: strip internal verification notes and the working status section
 txt=re.sub(r"\s*\*\((?:Verify|Cite from)[^)]*\)\*","",txt)

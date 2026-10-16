@@ -2,6 +2,12 @@
 
 *A novel*
 
+Lothar J. Musiol writing as Genevieve Crisp
+
+Copyright © 2026 Lothar J. Musiol. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
+
+This is a work of fiction. All people, clinics, universities, companies, parties and offices in the story are invented, and any resemblance to real ones is coincidence. The Appendix and the Notes and Further Reading refer to real science and real publications.
+
 ---
 
 # Consent
@@ -11,7 +17,7 @@
 
 Patients: **Raymond A. Pruitt** and **Constance M. Pruitt**
 Date: **April 14, 1999**
-Attending physician: **Frank Stone, M.D.**
+Attending physician: **Frank N. Stone, M.D.**
 
 I understand that my embryo(s) will be examined for a single, named inherited condition: **the one that took Mr. Pruitt's brother at the age of seven.**
 
@@ -119,7 +125,7 @@ The transfer itself took eleven minutes, which was seven more than the part that
 
 Connie Pruitt lay on the table with her knees draped in paper and her husband holding her hand as if it were a railing on a boat. Ray Pruitt drove a delivery truck for a bakery supplier. Connie worked the line in a school cafeteria. They had saved for four years and been turned down by two other clinics, and ours, whose program for couples of their means I had helped design for reasons I called charitable and had never examined, was the third door. They looked at me the way people look at a man who is about to hand them what they have prayed for, which is to say, without any suspicion at all.
 
-I told them it was a good embryo. That was true. I told them it had been corrected for the condition they feared, a rare error that had taken Ray's brother at seven. That was also true. I told them nothing else, and I want to be plain about what that cost me, because the answer is that it cost me nothing. I felt nothing. I had expected to. A man is supposed to flinch.
+I told them it was a good embryo. That was true. I told them it had been corrected for the condition they feared, a rare error that had taken Ray's brother at seven. That was also true. I told them nothing else, and it cost me nothing. I felt nothing. I had expected to. A man is supposed to flinch.
 
 Connie said, "Is it a boy or a girl?"
 
@@ -157,7 +163,7 @@ I have said many untrue things in my life. That one I said best.
 
 I examined him. The paperwork recorded a healthy male infant, reflexes intact, length and weight at the fiftieth percentile. I pressed the stethoscope to his chest and felt, through the diaphragm, a very small heart going about its work, and for the first time since the night of the four minutes, I was afraid.
 
-It was not fear of being caught. I want that understood. It was a plain animal fear, like discovering that the dog you left in the house has learned to open the door.
+It was not fear of being caught. It was a plain animal fear, like discovering that the dog you left in the house has learned to open the door.
 
 On the way out, Ray shook my hand. His palm was rough from the truck. He said, "Thank you, Doc. For everything."
 
@@ -182,7 +188,7 @@ There had been a photographer.
 
 * * *
 
-I have said that the clinic's director was a competent and courteous woman. I should say something more, since she is going to matter. I will call her R., because she has asked me never to use her name, and because, more than any person in my life, she deserved to be protected from it.
+The clinic's director was a competent and courteous woman, and she is going to matter. I will call her R., because she has asked me never to use her name, and because, more than any person in my life, she deserved to be protected from it.
 
 She had come to the clinic in the year after I did. She was an administrator by training and a gardener by temperament, and she had an unusual gift, which was that she trusted everyone slightly less than they thought. She was fifty-two in the year 2000. She wore low heels, and carried a large handbag, and kept a bowl of mints on the corner of her desk, which she offered to everyone, including the man who came to read the meter. She had once, in a staff meeting, quoted a poem about bees. She was the only person in the building who ever asked me how I was and waited for the answer.
 
@@ -240,13 +246,13 @@ The old incubator stood in the corner on its own stand, a squat cream machine th
 
 I took off my coat. I hung it on the hook. I washed my hands, for a long time, in the old steel sink.
 
-I will not say what I did. I have said I will not. I will say that it was quiet, and that my hands were steady, and that at some point, in the middle of it, I became aware that I was humming. It was a tune my mother used to sing, a nursery thing about a lamb that I had not remembered in fifty years. I stopped. I started again. I finished what I was doing, and put it back, and closed the door.
+I will not say what I did. I have said I will not. It was quiet, my hands were steady, and at some point, in the middle of it, I became aware that I was humming. It was a tune my mother used to sing, a nursery thing about a lamb that I had not remembered in fifty years. I stopped. I started again. I finished what I was doing, and put it back, and closed the door.
 
 The red light glowed. The machine hummed, and went on humming.
 
 It occurred to me that I was happy.
 
-I want to be exact about this. It was not the happiness of a man who has done good, or even of one who has done well. It was a smaller, stranger, more private thing: the simple happiness of someone who has found the one room in the world in which he is entirely himself. I sat down on the stool and put my head in my hands and stayed there, with my coat on its hook and the light over the bench, for what must have been an hour.
+It was not the happiness of a man who has done good, or even of one who has done well. It was a smaller, stranger, more private thing: the simple happiness of someone who has found the one room in the world in which he is entirely himself. I sat down on the stool and put my head in my hands and stayed there, with my coat on its hook and the light over the bench, for what must have been an hour.
 
 Then I went home. I had been in the building for three hours and fourteen minutes. No one had seen me. The cameras in the corridor had looked at the empty floor, as they had been looking at it for years, with the patient indifference of machines whose recording tapes had been reused so often that they carried only a faint gray hiss.
 
@@ -339,7 +345,7 @@ I opened and locked it on the first Thursday of every month. I did it on the fir
 
 I kept notes on the children the way a farmer keeps notes on weather: not because the notes change anything, but because a man who does not write it down begins to believe he remembers it.
 
-There were never many. I will say that in my defense, if a defense is wanted. Over eleven years, in four hours a week, on one old incubator, I made fewer than sixty people. Some of those I never saw again after the transfer. Some I saw once, at a distance, in a park or a school corridor, and went home pleased and ashamed. The ones I tracked I tracked from outside, through the same public tables and school newsletters that had given me Danny Pruitt, and the notes that follow are what those sources gave me, and what I could not help noticing.
+There were never many. I say that in my defense, if a defense is wanted. Over eleven years, in four hours a week, on one old incubator, I made fewer than sixty people. Some of those I never saw again after the transfer. Some I saw once, at a distance, in a park or a school corridor, and went home pleased and ashamed. The ones I tracked I tracked from outside, through the same public tables and school newsletters that had given me Danny Pruitt, and the notes that follow are what those sources gave me, and what I could not help noticing.
 
 I give them as I wrote them, with the names changed in my head if not on the page.
 
@@ -373,7 +379,7 @@ There were four I watched more closely, because they were interesting to me, and
 
 **A boy named Julian,** whom I will not describe in detail. He was the easiest child to like I have ever seen. Teachers liked him. Other children liked him. He was funny in the way that makes adults feel clever for noticing. He did not seem to need anything, which is a quality we admire in children and rarely examine. I wrote: *an unusually well-adjusted subject, high social intelligence, no concerns.* That is the sentence in all my notes that I would most like to take back.
 
-I want to be careful about this, because I have been tempted since to tell a different story. I did not make Julian what he became. I have checked, with the only tools I have left, and the answer is that nothing I did could have produced it, because what he turned into is a thing that happens to a small fraction of all children at random, in every place and age, and that I had not designed and could not have prevented. It was bad luck. I want that written down, in my own hand, in case someone later wishes it to have been me.
+I have been tempted since to tell a different story. I did not make Julian what he became. I have checked, with the only tools I have left, and the answer is that nothing I did could have produced it, because what he turned into is a thing that happens to a small fraction of all children at random, in every place and age, and that I had not designed and could not have prevented. It was bad luck. I want that written down, in my own hand, in case someone later wishes it to have been me.
 
 * * *
 
@@ -393,7 +399,7 @@ What lived in it I have already told you. A bundle of pages, bound with a green 
 
 I opened it on the first Thursday of every month. I stood with my back to the door, facing the wall, and turned the dial in the way that muscles remember. I took out the pages and read them through, once, from the first to the last. I did this to check that nothing had changed. It was a ritual of the sort that only a lonely man invents, and I performed it with the same attention that other men give to a church.
 
-It was a comfort. I will say that. I do not think a man can understand how deep a comfort until he has had one, and the shape of it was a small gray door in a plain room and a dial that turned, and the sense that behind it, perfectly preserved, lay all of the reasons for my life.
+It was a comfort. I do not think a man can understand how deep a comfort until he has had one, and the shape of it was a small gray door in a plain room and a dial that turned, and the sense that behind it, perfectly preserved, lay all of the reasons for my life.
 
 I never doubted the cabinet. It did not occur to me that it could be doubted. A lock that has held for eleven years has the authority of a law.
 
@@ -416,7 +422,7 @@ A coach saw it, laughed, and called something. She opened her eyes and shrugged.
 
 I did the arithmetic in my seat. The roar in the room had no clean echoes in it, no single surface for a sound to bounce from. The wall was smooth tile and a few feet from the edge of the lane, and a ceiling full of baffles was doing everything possible to prevent it from being useful. A child with ordinary hearing could not have found that wall. A child with the circuits I had built could, because they were not made to hear a wall. They were made to hear where sound has been.
 
-I want to be accurate about what I felt. I did not feel triumph. A man who has been told for eleven years that his life's secret work is a delusion would have felt triumph, and I did not, because it was not a delusion, and the only thing that is worse than being told you are wrong is being proved right at the edge of a swimming pool with nobody to tell.
+I did not feel triumph. A man who has been told for eleven years that his life's secret work is a delusion would have felt triumph, and I did not, because it was not a delusion, and the only thing that is worse than being told you are wrong is being proved right at the edge of a swimming pool with nobody to tell.
 
 Her parents were in the second row, a woman in a linen jacket and a man with a laptop open on his knee. A professor and an engineer, I would learn. They were reading together, not watching, and when the girl got out, dripping, and ran up to them to describe something, the mother put one finger on the page to hold her place and said, "Tell me in a sentence, sweetheart. Then I'll listen."
 
@@ -434,7 +440,7 @@ That was a Tuesday. I remember because the following Monday my left hand began t
 
 I called her B. in the notes. Danny was A. It was neat, and it spared me from using names, which have a way of attaching themselves to things.
 
-I did not follow her. I want that understood, because a man in my position might be expected to. I had given up following the first month. What I did was subscribe, in the name of the clinic, to the quarterly bulletin of the school district, and to the county library's newsletter, and to a small magazine for parents that listed prizes. There is a great deal to be learned from prize lists. They are the only public record in the country of what children can do.
+I did not follow her, though a man in my position might be expected to. I had given up following the first month. What I did was subscribe, in the name of the clinic, to the quarterly bulletin of the school district, and to the county library's newsletter, and to a small magazine for parents that listed prizes. There is a great deal to be learned from prize lists. They are the only public record in the country of what children can do.
 
 B. appeared in them four times in two years. She won a prize at a regional science fair for a poster entitled *How Do Animals Tell Where They Are?* She took second at a school spelling bee, deliberately, I suspected, having lost the final word on a vowel that she must have known. She played the oboe. She took a ribbon for a project involving marbles and the speed of sound in different floors. Her photograph appeared in a library newsletter next to a story about a bake sale, a thin girl in a green sweater with a ribbon on her chest and her head turned slightly to the left, listening to something that the photographer could not hear.
 
@@ -474,7 +480,7 @@ Line five said: *In 11 participants, we identified a short unannotated region of
 
 It was not an artifact. I knew it as one knows a voice in a crowd. Eleven participants, and none of them mine. The fragment was one of ours, or something very like it, and it was sitting in a stranger's blood on the other side of the world.
 
-I want to be careful about how I explain what I understood in that kitchen, because I understood several things at once, and not in order.
+I understood several things in that kitchen at once, and not in order.
 
 The first was that I was not the only person who had ever done this. I had assumed, with the vanity of a man who works alone, that I was. But nobody makes an artifact that looks like that unless somebody has made the thing itself, and if somebody else had, there was a world in which the work was already moving, unwatched, with all my controls missing.
 
@@ -595,7 +601,7 @@ I woke at four on most mornings. I made tea, and stood at the kitchen window whi
 
 I did not tell myself what I was waiting for. I told myself it was the weather.
 
-The note had come on a Monday. I have said that I should have stopped there. What I did not say was that I read it standing in the hall, in my coat, and the first thing I felt was not fear. It was something much closer to relief, the plain physical relief of a man who has carried a case for eleven years and has at last been told where to put it down.
+I read the note standing in the hall, in my coat, and the first thing I felt was not fear. It was something much closer to relief, the plain physical relief of a man who has carried a case for eleven years and has at last been told where to put it down.
 
 I did not sleep that night. At four I stood at the window and the fox did not come.
 
@@ -625,7 +631,7 @@ His parents were at work, which I had also checked, from the clinic's records, w
 
 The boy opened the door before I knocked.
 
-He was eleven that autumn. I want to say that he looked like any child of that age, and he did. He had a gray sweater with a hole at one cuff and he held a book he was not reading, and he stood to one side of the doorway at an angle that I understood later was geometry. He was keeping me where the room would tell him what I did.
+He was eleven that autumn. He looked like any child of that age. He had a gray sweater with a hole at one cuff and he held a book he was not reading, and he stood to one side of the doorway at an angle that I understood later was geometry. He was keeping me where the room would tell him what I did.
 
 "You took the stairs," he said.
 
@@ -649,7 +655,7 @@ I had come with a speech. I had practiced it in the car: that the Singapore matt
 
 "What you did. I've read it. All of it."
 
-I want to be exact here, because later I would be asked, by people with power, how long I had known. The answer is that I knew in that moment. Not before. I had locked the indexed notes in a place I considered a vault, and in nine seconds a child told me, without raising his voice, that the vault had been a courtesy.
+Later I would be asked, by people with power, how long I had known. The answer is that I knew in that moment. Not before. I had locked the indexed notes in a place I considered a vault, and in nine seconds a child told me, without raising his voice, that the vault had been a courtesy.
 
 "Where did you find it?"
 
@@ -665,7 +671,7 @@ My mouth was dry. "That was confidential."
 
 "You kept a copy in the vault. With your notes on what to say." He said it without reproach, the way one reports a misfiled form. "You write everything down. It's the thing I like best about you."
 
-I will not describe what I felt. I will say that I had told myself for eleven years that a locked room was a private room, and that the only person who had ever shared my handwriting was a boy of eleven in a gray sweater.
+I will not describe what I felt. I had told myself for eleven years that a locked room was a private room, and the only person who had ever shared my handwriting was a boy of eleven in a gray sweater.
 
 "How long," I said.
 
@@ -696,7 +702,7 @@ When she had gone the boy lifted the lid, smelled it with his eyes closed, and s
 
 "I'm an average child with unusual hearing," he said. "It's the same thing." He fetched two bowls, as if he had done it all his life, and sat down across from me with the book beside his spoon. "I'm going to say what I want. Then you can say what you want. Then we'll see if there's a place where they touch."
 
-I want to be honest about what I felt, since it was not what I had prepared for. I felt, to my surprise, the thing I feel in front of a good student.
+It was not what I had prepared for. I felt, to my surprise, the thing I feel in front of a good student.
 
 * * *
 
@@ -857,7 +863,7 @@ I should say what else was on the desk, since it is part of the picture.
 
 On the left was a folded sheet of paper from the front office, which had come up with the morning mail. It was a routine confirmation, in the dull language of such forms, that a patient of the clinic had returned a positive result. The patient was a woman in her late thirties, from the other side of the county. She and her husband had waited seven years. In November I had taken three embryos out of an incubator and done something to them that I had promised a child I would not do, and in March I had placed one of them in her, with a steady hand and a firm voice, and told her, with a smile, that it was a good embryo.
 
-It had held. I looked at the sheet for a long time. I did not feel guilt. I want to be honest: I felt something I can only describe as tenderness, of the kind a man feels for a thing he has made and has not yet met.
+It had held. I looked at the sheet for a long time. I did not feel guilt. I felt something I can only describe as tenderness, of the kind a man feels for a thing he has made and has not yet met.
 
 I folded the sheet in half. I put it under the stapler.
 
@@ -971,7 +977,7 @@ You have just read Stone's account. I should say that I have not changed a word 
 
 I have been tempted. There are places where I could have improved him: made him kinder, or crueler, or simply less in love with the sound of his own sentences. There are places where I know he is wrong, and I could have said so in a footnote. I have not. A man's account of himself is a piece of evidence, and the only honest thing to do with evidence is to hand it over whole. What follows is my own account, which he would have corrected, and which I have tried to keep as plain as his.
 
-I was sixteen when I found it, and I want to say at once that I was not looking for it.
+I was sixteen when I found it, and I was not looking for it.
 
 * * *
 
@@ -1023,6 +1029,8 @@ The notebook was in the bottom drawer, under a folded cardigan.
 
 It had a black cover with soft corners. The spine had been mended with tape. The aide, who had followed me in with a tray of tea, said the doctor liked to hold it: that he would not be parted from it, that they let him keep it by the bed, and that he sometimes sat for an hour with his hand flat on the cover, the way you rest a hand on a sleeping dog.
 
+I opened the cover. On the flyleaf, in the square capitals of a man who labels his jars, it said **PROPERTY OF FRANK N. STONE, M.D.** Under that: **IF FOUND, RETURN TO DR. FRANK N. STONE.** He had considered that the notebook might one day be found by someone other than himself, and had addressed the return to himself anyway. I never learned what the N stood for. Nothing else I read in four years used it. Said quickly, with the N run in, it sounded like the name of a different and more famous doctor, and I decided not to say it aloud.
+
 I opened it standing up.
 
 The first line was in small, upright, impeccable handwriting, in black ink.
@@ -1047,7 +1055,7 @@ I do not know why I said it. I am told by people who know about these things tha
 
 * * *
 
-I did not take the notebook. I want to be clear. It was his, and it was not mine to carry off in a bag. I took a hundred and twelve photographs of it with my telephone, standing in the corridor, page by page, and I put it back in the drawer under the cardigan, and I closed the drawer, and I said goodbye to him.
+I did not take the notebook. It was his, and it was not mine to carry off in a bag. I took a hundred and twelve photographs of it with my telephone, standing in the corridor, page by page, and I put it back in the drawer under the cardigan, and I closed the drawer, and I said goodbye to him.
 
 He raised his good hand. It did not wave. It lifted a few inches off the blanket and let itself drop again, which I took to be the same thing.
 
@@ -1160,7 +1168,7 @@ I got it wrong exactly once, and I was thirteen. The history teacher was a mild,
 
 His pulse went through the roof.
 
-I want to be fair to myself. It was a hundred and forty. It was a pulse like a drum solo, and it went with a small dry swallow and a quarter-second hesitation before *missing.* Every instinct I had said *liar.* I had been listening to my father tell customers the truck was *ten minutes out* for thirteen years. I knew a lie when I heard one.
+In my defense, it was a hundred and forty. It was a pulse like a drum solo, and it went with a small dry swallow and a quarter-second hesitation before *missing.* Every instinct I had said *liar.* I had been listening to my father tell customers the truck was *ten minutes out* for thirteen years. I knew a lie when I heard one.
 
 "You didn't lose them," I said.
 
@@ -1297,13 +1305,13 @@ So I did what he had done. I watched from far away.
 
 * * *
 
-I used the public things. A school district publishes its enrollment tables, and a county its birth notices, and a newspaper its columns about the Fourth of July picnics. A church prints its baptisms. A small-town paper will tell you, if you ask it nicely, that Mrs. So-and-so's grandson has taken first prize in the regional spelling contest and is thought to be *something of a prodigy.* I became a connoisseur of that word.
+I used the public things. A school district publishes its enrollment tables, and a county its birth notices, and a newspaper its columns about the Fourth of July picnics. A church prints its baptisms. A small-town paper will tell you, if you ask it nicely, that Mrs. So-and-so's grandson has taken first prize in the regional spelling contest and is thought to be *something of a prodigy.* I became a connoisseur of that word. It means a child who has been noticed by a newspaper with nothing else to print.
 
 I used the clinic. There was a program, I learned, a small one, which had offered help to families of modest means over the course of eleven years. It had a name, a logo with a green leaf, and a yearly newsletter. The back issues were in a university library. I read them in a carrel, in a building where nobody knew me, and made notes on the backs of grocery receipts. I read fifty-eight names in the photograph captions, with last names, under a banner that said **OUR FAMILY GROWS.**
 
 And I used the ear.
 
-I have said that people with the package reveal themselves in a hundred small ways, if one knows how to listen. A pause before a loud noise. A glance at a door before it opens. A way of leaving a room, a half-second before an argument begins in the next one. Children do it more than adults, because adults have learned to cover it. I sat in a good many parks. I stood at the edge of a good many playgrounds, a tall kid of eighteen with a notebook and an apologetic face, listening. I was twice asked by a parent whether I was lost. I said that I was waiting for a friend.
+I have said that people with the package reveal themselves in a hundred small ways, if one knows how to listen. A pause before a loud noise. A glance at a door before it opens. A way of leaving a room, a half-second before an argument begins in the next one. Children do it more than adults, because adults have learned to cover it. I sat in a good many parks. I stood at the edge of a good many playgrounds, a tall kid of eighteen with a notebook and an apologetic face, listening. I was twice asked by a parent whether I was lost. I said that I was waiting for a friend. Nobody asked which friend, which says something about parents, or about my face.
 
 I made one rule. I made it on the bus, the first day, and wrote it on the inside cover of the notebook in block letters, so I could not fool myself.
 
@@ -1341,7 +1349,7 @@ On the bus home I thought: *he's all right.* I had expected to feel satisfaction
 
 By the winter I had found nineteen, and approached none.
 
-I should say what that cost. It was not a matter of loneliness, though I was lonely. It was a matter of knowledge. A person who has found nineteen strangers whom he knows more about than they know about themselves is not an observer. He is something else. I felt it first as a kind of weight, then as a kind of vertigo, and in the end as a low steady shame, like the sound of a refrigerator in a quiet house. I knew that a girl of fifteen in a town in the north was going to be offered a place at a music school, and that she would have to choose between it and a different life, and that her choosing would turn on whether anyone told her what she was. I knew that a boy of twelve had stopped talking at school. I knew his mother's name. I was not permitted, by my own rule, to call her up and say *he can hear the fluorescent lights.*
+It cost something. It was not a matter of loneliness, though I was lonely. It was a matter of knowledge. A person who has found nineteen strangers whom he knows more about than they know about themselves is not an observer. He is something else. I felt it first as a kind of weight, then as a kind of vertigo, and in the end as a low steady shame, like the sound of a refrigerator in a quiet house. I knew that a girl of fifteen in a town in the north was going to be offered a place at a music school, and that she would have to choose between it and a different life, and that her choosing would turn on whether anyone told her what she was. I knew that a boy of twelve had stopped talking at school. I knew his mother's name. I was not permitted, by my own rule, to call her up and say *he can hear the fluorescent lights.*
 
 I went to see her anyway. I did not speak. I sat across the street in a car I had borrowed from a friend, and listened to her through an open window, and heard her say, very gently, to her son, *it's all right, sweetheart, you don't have to say anything.* He did not. But he leaned his head, a little, against her arm.
 
@@ -1373,9 +1381,9 @@ I do not know how to explain what I heard. It was not a sound. It was the absenc
 
 I checked the sheet. I looked at every name. She was not on it.
 
-I looked at the date on the notebook in my bag. I did the arithmetic on my fingers, as a child does. A five-year-old in the autumn of 2018 had been born in the early months of 2013. She had been conceived, if she had been conceived through the clinic, in the spring of 2012.
+I looked at the date on the notebook in my bag. I did the arithmetic on my fingers, as a child does. A five-year-old in the autumn of 2018 had been born at the end of 2012. She had been conceived, if she had been conceived through the clinic, in the spring of 2012.
 
-I thought of a Thursday in November of 2011, and a man sitting at his bench with three embryos in an incubator, and a couple who had waited seven years.
+I thought of a Tuesday in November of 2011, and a man sitting at his bench with three embryos in an incubator, and a couple who had waited seven years.
 
 I thought: *the last batch.*
 
@@ -1394,7 +1402,7 @@ I wrote *last batch* on the sheet. I put a star beside it, and a second, and I d
 
 I found her in a basement, which is where linguists are kept.
 
-It was the autumn of 2019. I was nineteen, in my second year of a degree that combined biology and chemistry in roughly equal parts of bewilderment, and I had a list. Beside one name, in my own small handwriting, was a note: *Phonetics? Sound lab? Hears first.* I had spent eight months working out what that meant. It had meant a good many hours in libraries, reading the acknowledgments sections of papers on speech perception, until one name appeared three times in a row. A student, a second-year, in a laboratory at a state university four hours from my parents' flat.
+It was the autumn of 2019. I was nineteen, in my second year of a degree that combined biology and chemistry in roughly equal parts of bewilderment, and I had a list. Beside one name, in my own small handwriting, was a note: *Phonetics? Sound lab? Hears first.* I had spent eight months working out what that meant. It had meant a good many hours in libraries, reading the acknowledgments sections of papers on speech perception, until one name appeared three times in a row. A student, a second-year, in a laboratory at a state university four hours from my parents' apartment.
 
 I took the bus. I told my mother I was visiting a friend.
 
@@ -1411,6 +1419,8 @@ About the fortieth repetition she opened her eyes, and looked directly at the do
 * * *
 
 She came out. She was nineteen, small, with a pencil in her hair and a lanyard with a name on it that I have promised not to repeat. I will call her Mira.
+
+I would like it noted that I did not approach her. I stood in a corridor and held my breath until I was found. It is a technicality, and I have lived on it ever since.
 
 "You stopped breathing when I did the glottal one," she said.
 
@@ -1585,7 +1595,7 @@ I thought: *no. Not you.*
 
 I said nothing. We shook hands afterward, in the crush at the door. He said, "I think we'd get on," and I said, "I think so too," and neither of us was lying.
 
-That is how I came to keep a secret from the person with the most reason to be told. I want to be honest about my motives. I did not suspect him of anything. I had no evidence, and I do not trust a suspicion with no evidence. It was simply that I had heard something I did not recognize, and I had learned, from Stone's notebook, from a thousand hours in a hospital, and from my own life, that when I do not recognize a sound I should leave it alone until I do.
+That is how I came to keep a secret from the person with the most reason to be told. I did not suspect him of anything. I had no evidence, and I do not trust a suspicion with no evidence. It was simply that I had heard something I did not recognize, and I had learned, from Stone's notebook, from a thousand hours in a hospital, and from my own life, that when I do not recognize a sound I should leave it alone until I do.
 
 I left it alone for six years. In that time he found me.
 
@@ -1613,7 +1623,7 @@ I said it was.
 
 I graduated in the spring of 2026, in a large hall with a vaulted ceiling and the smell of cut flowers.
 
-I had my degree. I had a long black gown and a hood in the colors of my school, which my mother said was the nicest shade of green she had ever seen. My parents had driven four hours. My father wore his good jacket, and had cleaned his fingernails, and sat for two hours with his hands on his knees, looking at the stage with the stern happiness of someone carrying a piano up a flight of stairs. My mother cried from the first name to the last.
+I had my medical degree. I had a long black gown and a hood in the colors of my school, which my mother said was the nicest shade of green she had ever seen. My parents had driven four hours. My father wore his good jacket, and had cleaned his fingernails, and sat for two hours with his hands on his knees, looking at the stage with the stern happiness of someone carrying a piano up a flight of stairs. My mother cried from the first name to the last.
 
 When my own name was called, I walked across the stage, and I heard it all: the shuffle of the audience, the creak of the stage, the man at the microphone clearing his throat before the next name. And over it, in the third row from the back, a woman I knew, saying under her breath, in a voice that nobody else could possibly have heard: *That's my boy.*
 
@@ -1661,7 +1671,7 @@ It did not begin with a vow. It began with a promise to answer the telephone. Th
 
 We met, that first year, in a rented room above a bakery in a town I will not name. There were fourteen of us. We sat on mismatched chairs, with paper cups, under a ceiling stained brown at one corner, and the florist had brought tulips, which she distributed without ceremony. I remember the smell of yeast. I remember Elias at the back, perched on the edge of a stool like a man ready to leave.
 
-We argued. I want to be clear that it was not a quarrel, though it was nearly one, and that it was the most important conversation I have ever been part of. We argued about what the gifted owe the rest.
+We argued. It was not a quarrel, though it was nearly one, and it was the most important conversation I have ever been part of. We argued about what the gifted owe the rest.
 
 "Nothing," said the man who built the boat. He said it mildly, from a corner, with his arms folded. "We owe nothing. We didn't ask. If I owe anything, it's to be left alone."
 
@@ -1698,7 +1708,7 @@ I did not know yet whether it was a promise or a warning. I know now that it was
 
 They moved in the spring of 2027, on a Tuesday in April, to an apartment in Munich with a balcony facing a courtyard.
 
-I will say at once that I did not want them to go. I said the opposite. I said that it was a wonderful opportunity, and that Germany was a serious country, and that Mira's German, which she had acquired in nineteen months of evening classes and a good deal of eavesdropping, was already better than mine. All of that was true. But I had found them, eight years earlier, in a basement, and they were the first of us that I had been able to tell the truth to, and I had a childish sense that if they went away I would have to start again.
+I did not want them to go. I said the opposite. I said that it was a wonderful opportunity, and that Germany was a serious country, and that Mira's German, which she had acquired in nineteen months of evening classes and a good deal of eavesdropping, was already better than mine. All of that was true. But I had found them, eight years earlier, in a basement, and they were the first of us that I had been able to tell the truth to, and I had a childish sense that if they went away I would have to start again.
 
 Mira had been offered a post at a phonetics institute at a university (invented). It was the sort of position that a linguist hears about once, and at the end of a conversation she had no intention of having. A professor in Munich had read a paper of hers on vowel perception and written to say that she could not be allowed to waste it in a basement. The salary was modest. The labs were not. The institute had a soundproofed chamber that Mira described, on the telephone, in the voice of a woman describing a lover.
 
@@ -1720,7 +1730,7 @@ The building was on a street of tall pale houses with green shutters, in a quart
 
 "I know." Mira was behind me with a lamp under each arm. "I've never been so happy."
 
-The flat was on the third floor. It had high ceilings and a parquet floor, and the previous tenants had left behind a grandfather clock that neither of them knew what to do with. There was a long hallway, a kitchen with a yellow stove, two bedrooms, a room for work, and the balcony. I went out onto it and stood at the rail. Below me was a courtyard with a chestnut tree and a row of bicycles, and on the far side, at an angle, a pair of tall windows with lace curtains. Somewhere behind the curtains, very faintly, a clock was ticking.
+The apartment was on the third floor. It had high ceilings and a parquet floor, and the previous tenants had left behind a grandfather clock that neither of them knew what to do with. There was a long hallway, a kitchen with a yellow stove, two bedrooms, a room for work, and the balcony. I went out onto it and stood at the rail. Below me was a courtyard with a chestnut tree and a row of bicycles, and on the far side, at an angle, a pair of tall windows with lace curtains. Somewhere behind the curtains, very faintly, a clock was ticking.
 
 I turned my head. I listened. I counted.
 
@@ -1792,7 +1802,7 @@ I said that it sounded reasonable. It sounded like the most reasonable thing I h
 
 That summer, a paper appeared in a physics journal under a name I knew.
 
-It was Elias's. It was eleven pages, and three of them were equations. It had been submitted in March and refereed in a two weeks, by three reviewers who had each written, in the polite and slightly stunned language of their profession, that they could find nothing wrong with it. The world went mad for a week.
+It was Elias's. It was eleven pages, and three of them were equations. It had been submitted in March and refereed in two weeks, by three reviewers who had each written, in the polite and slightly stunned language of their profession, that they could find nothing wrong with it. The world went mad for a week.
 
 I do not mean the whole world. I mean the small, well-lit part of it that reads such things. For seven days there were articles and podcasts and breathless threads. A professor in Zurich called it *the most elegant thing I have seen since my student days.* A man at a conference stood up in the middle of someone else's talk and applauded. The newspapers ran a photograph, taken for a university newsletter, of a shy young man in a gray cardigan, looking at the camera as one looks at a bus that has failed to stop.
 
@@ -1831,7 +1841,7 @@ I have thought many times since that this was my first real mistake. I was not w
 
 ## 14. The Prize
 
-Julian found out in 2028, and I will say how, since it is the one thing in this account that I cannot blame on anyone else.
+Julian found out in 2028, and here is how, since it is the one thing in this account that I cannot blame on anyone else.
 
 He did not hear it from a friend. He did not find a file or pick a lock. He worked it out, the way a good student works out the answer to a problem he has not been shown, from the shape of what was left on the page. And he did it at dinner, in a quiet restaurant in a state capital, over a plate of fish that neither of us touched.
 
@@ -1949,7 +1959,7 @@ I was, I think, the only person in the hall who was afraid of it.
 
 Julian took his seat in the Senate in the spring of 2030.
 
-It happened without any election. The man who had held the seat for twenty-two years died in his sleep, in February, at the age of eighty-one, and the governor, who had been Julian's patron for a decade, appointed him to fill the vacancy. He was thirty years old. He had turned thirty on the first of January. It was, as the newspapers all noted, the youngest age the Constitution allows.
+It happened without any election. The man who had held the seat for twenty-two years died in his sleep, in February, at the age of eighty-one, and the governor, who had been Julian's patron for a decade, appointed him to fill the vacancy. He was thirty years old. He had turned thirty that January. It was, as the newspapers all noted, the youngest age the Constitution allows.
 
 I watched the swearing-in on a screen, in a hospital cafeteria, over a bowl of soup. A tall man in a good coat put his hand on a book, and said the words, and turned to the cameras. He did not look at the cameras. He looked, I could swear, through them, with an expression of such warm and perfect composure that a woman at the next table said: "Oh, he's lovely."
 
@@ -1968,9 +1978,9 @@ I did it, as I always did. It was the one thing I was sure of.
 
 ## 15. The Child
 
-Their daughter was born in December of 2027, in a hospital by the river, at eleven minutes past four in the afternoon.
+Their daughter was born in December of 2027, in a hospital by the river, at eleven minutes past four in the morning.
 
-I was not there. I was on a night shift in a ward three thousand miles away, with a cold cup of coffee and a patient who would not stop humming. Mira called me at ten past eleven, my time, in a whisper, and said: "Seven pounds. She has all her fingers. She's looking at me as if I owed her an explanation."
+I was not there. I was on a night shift in a ward an ocean away, with a cold cup of coffee and a patient who would not stop humming. Mira called me a little after five, my time, in a whisper, and said: "Seven pounds. She has all her fingers. She's looking at me as if I owed her an explanation."
 
 "What have you called her?"
 
@@ -1990,7 +2000,7 @@ I went in the summer of 2030, when Lena was two and a half.
 
 It was the first time I had been in Europe since the move, and I had forgotten how the light behaves there in July. It does not arrive so much as extend, hour after hour, past nine in the evening, with a long gold patience, as if it had nowhere better to be. Jonas met me at the station in a linen shirt that did not suit him. He had a way of carrying my bag as if it were a rare instrument. We took the tram, and he told me about a bridge he was working on, with the detailed and affectionate pessimism of a man who loved a thing that might fall down.
 
-The flat was on the third floor, over a courtyard. The stairs were stone, and they carried every footfall to every wall. I stood on the second landing and listened. A radio, a floor above, playing something with a cello in it. A tap. A woman's voice, lightly arguing, in Turkish. A clock.
+The apartment was on the third floor, over a courtyard. The stairs were stone, and they carried every footfall to every wall. I stood on the second landing and listened. A radio, a floor above, playing something with a cello in it. A tap. A woman's voice, lightly arguing, in Turkish. A clock.
 
 "It's like being inside an instrument," I said.
 
@@ -2093,7 +2103,7 @@ She fell asleep against me, in the dark. I did not move for a long time. Somewhe
 
 Julian made the offer in the autumn of 2030, on the telephone, in the voice of a man ordering lunch.
 
-He had been a senator for four months. I had seen him on the news, standing on the steps of a building in a good coat, saying that he would serve the people of his state with humility. I had heard the applause go on a half second too long. I had put the television off and gone for a walk.
+He had been a senator for six months. I had seen him on the news, standing on the steps of a building in a good coat, saying that he would serve the people of his state with humility. I had heard the applause go on a half second too long. I had put the television off and gone for a walk.
 
 He called on a Sunday. I did not give him my number. I never learned how he got it.
 
@@ -2133,7 +2143,7 @@ I understood two things. The first was that I would never be able to tell him no
 
 I had the copies. I had four of them, in four places, and I had known their locations since I was eleven. I had a laboratory I could have rented, a bank balance that would have embarrassed me, and thirty-one people across three continents who trusted me. I had a world that might need what Stone had planned, if it were done kindly, with consent, openly, by people who understood what it cost.
 
-I made a list. I always make a list.
+I made a list. I always make a list. My mother says I came out of the womb with a clipboard, and that she would have noticed the shape.
 
 *For.* We are few, and we are fragile. A single bad winter, a single indiscreet scientist, a single hearing in a legislature could end us. A larger number would be safer. The senator is proof that no one is safe in any case. A world of people like Mira could solve in a decade what now takes a century. A child born with a gift is not harmed by being born.
 
@@ -2250,7 +2260,7 @@ I put the bagel down.
 
 * * *
 
-I should say how little I knew about Julian by then, and how much I thought I knew.
+I knew little about Julian by then, and thought I knew a great deal.
 
 I knew he was good. I had said it to myself so many times that it had stopped being an observation and become a sort of furniture. I knew that he had a gift, and that the gift was people, and that behind it lay something I could not hear. I knew he had called me *Danny* on the telephone in 2030 and offered to pay for a laboratory. I knew I had said no.
 
@@ -2308,7 +2318,7 @@ I have thought about what I could have said. I could have said, *it's complicate
 
 There was a long silence, and in it I could hear her breathing, and behind her breathing, as clear as a bell, the sound of Lena in the next room, practicing the recorder.
 
-"Four years," said Mira.
+"Five years," said Mira.
 
 "Ten, if you count the debate."
 
@@ -2334,7 +2344,7 @@ I sat in the car for forty minutes, and a woman with a shopping cart tapped on t
 
 It was a year and eleven days.
 
-I will say that I learned a great deal about silence in that time, and that most of it was unwelcome. I learned that my ears, which could tell a lie from a pulse at forty feet, could not tell me what I was doing wrong. I learned that the quiet ones, who had always rung me on Sundays, called on other days, and spoke to one another first. I learned from the florist, in a long careful email with a photograph of tulips attached, that *Mira told us.* Not in anger, she said. In sequence. *She told us, one by one, in the order that you found us. You'll be pleased to know it took four days. She said you would want it done properly.*
+I learned a great deal about silence in that time, and most of it was unwelcome. I learned that my ears, which could tell a lie from a pulse at forty feet, could not tell me what I was doing wrong. I learned that the quiet ones, who had always rung me on Sundays, called on other days, and spoke to one another first. I learned from the florist, in a long careful email with a photograph of tulips attached, that *Mira told us.* Not in anger, she said. In sequence. *She told us, one by one, in the order that you found us. You'll be pleased to know it took four days. She said you would want it done properly.*
 
 I was not pleased. I read it at my desk with a cold coffee, and I had the odd sensation of reading my own obituary, written by someone who had liked me.
 
@@ -2361,7 +2371,7 @@ I went.
 
 They had put a smoothie bar where the waiting room used to be.
 
-I want to say that I took this in calmly, but I stood in the doorway of the old Central Valley lobby with a laminated visitor's badge on a lanyard around my neck, and what I thought, with great clarity, was: *I hope nobody was ever told bad news here, for the smoothie's sake.* It was a very nice smoothie bar. It had reclaimed wood and a chalkboard that said **TODAY: MANGO + CALM.** A young man in a green apron was explaining to a woman with a stroller that the kale was local.
+I did not take this in calmly. I stood in the doorway of the old Central Valley lobby with a laminated visitor's badge on a lanyard around my neck, and what I thought, with great clarity, was: *I hope nobody was ever told bad news here, for the smoothie's sake.* It was a very nice smoothie bar. It had reclaimed wood and a chalkboard that said **TODAY: MANGO + CALM.** A young man in a green apron was explaining to a woman with a stroller that the kale was local.
 
 The lobby was the same lobby. That was the unsettling part. They had kept the high ceiling and the black and white tiles, and the radiator under the window that Stone had hated. They had painted over the gloom with a color the brochure called *Meadow* and hung, on the long wall where the donors' plaques used to be, a mural of a very large, very friendly tree. Under the tree, in a loose and cheerful script, were the words **EVERY CHILD DESERVES TO BE HEARD.**
 
@@ -2584,13 +2594,13 @@ I told her I was a neurologist.
 
 "Yes," she said. "But what else?"
 
-I will say it was hard not to tell her.
+It was hard not to tell her.
 
 * * *
 
 The idea was simple. After a stroke, a core of tissue dies at once, and around it lies a larger zone that is dying slowly. It has the blood it needs, in a thin trickle, but not enough to live on, and not enough to die by. If you could keep that zone alive for a few hours more, long enough for the blood to return, you might save a great deal. The question was how.
 
-I will not describe the molecule. It is not mine to describe, and it is not interesting to anyone who has not spent years in a laboratory. I will say that it took us three years to find a version that did not kill the mice, another two to find one that did not kill the monkeys, and a long and very dull year of trials in people who had volunteered for a thing they could not have understood.
+I will not describe the molecule. It is not mine to describe, and it is not interesting to anyone who has not spent years in a laboratory. It took us three years to find a version that did not kill the mice, another two to find one that did not kill the monkeys, and a long and very dull year of trials in people who had volunteered for a thing they could not have understood.
 
 We got a result in 2033. It was small. It was a molecule that, given in the right hour, protected cells that would otherwise have died. We published it in the usual way, in a good journal that few people read. The world did not notice. It was one of a thousand such results that year, and it mattered to forty people, who read the abstract.
 
@@ -2604,9 +2614,9 @@ It was a nuisance. A trial of an acute drug is meant to start within hours, and 
 
 We looked, and it was true. In the old injuries, the ones that were supposed to be finished, repeated courses of the same molecule did something that had nothing to do with saving tissue. They woke things. Circuits that had gone dark when the blood failed came up, slowly, like lights in a house after a power cut. A man who had not used his left hand in six years held a cup. A woman who had lost a word at fifty found it, at fifty-six, in the middle of a sentence about her cat.
 
-We ran the late-recovery trial in 2035. It was long and very dull, and nobody believed it until the third site reported. By the autumn of 2036 it was approved, in a small way and with a great many conditions, for strokes more than a year old.
+We ran the late-recovery trial from the summer of 2034. It was long and very dull, and nobody believed it until the third site reported, in the winter of 2035. By the autumn of 2036 it was approved, in a small way and with a great many conditions, for strokes more than a year old.
 
-I do not want to make too much of this. It was a slow, modest, expensive result, arrived at by accident and mostly by other people. But I will say that on the day the third site reported, I went into the stairwell and stood against the wall with my hands over my face, and Dr. Voss, who had followed me out, said nothing at all for a full minute, and then said, quite gently: "I thought so. It's him, isn't it? The man in the chair."
+I do not want to make too much of this. It was a slow, modest, expensive result, arrived at by accident and mostly by other people. But on the day the third site reported, I went into the stairwell and stood against the wall with my hands over my face, and Dr. Voss, who had followed me out, said nothing at all for a full minute, and then said, quite gently: "I thought so. It's him, isn't it? The man in the chair."
 
 I said that I did not know what she meant.
 
@@ -2618,11 +2628,11 @@ I did not go to the celebration. I went to the care home.
 
 * * *
 
-Stone was eighty-three. He was in the chair by the window, which was the third window he had had, in the third home. The staff had changed several times since 2016, but the nurses all knew him as *Dr. Frank,* and they all said he was no trouble. He did not try to leave, and he did not shout, and when anyone sang in the corridor he turned his head toward it with an expression of faint, wary approval.
+Stone was eighty-four. He was in the chair by the window, which was the third window he had had, in the third home. The staff had changed several times since 2016, but the nurses all knew him as *Dr. Frank,* and they all said he was no trouble. He did not try to leave, and he did not shout, and when anyone sang in the corridor he turned his head toward it with an expression of faint, wary approval.
 
 I told him what the paper said. I did not know whether he understood it. I read him the abstract, in an even voice, as one reads to a child, and when I had finished I put the paper on the table and said: "I think it might help."
 
-He looked at me. I had grown used to this look, over seventeen years, and I could not have said what was in it. It might have been intelligence. It might have been the long patience of a creature that waits at a window.
+He looked at me. I had grown used to this look, over nearly twenty years, and I could not have said what was in it. It might have been intelligence. It might have been the long patience of a creature that waits at a window.
 
 His right hand moved on the blanket. It was not a gesture. It was a hand deciding to be a hand.
 
@@ -2640,11 +2650,11 @@ There is a question that I put to myself in those years, and I will set it down,
 
 The question was: *what if it works?*
 
-I mean the cure. I mean the real one, the one still some years away, the one that would take a man who had not spoken in twenty years and give him back his voice. I mean what he would do with it.
+I mean the cure. I mean the real one, the one still some years away, the one that would take a man who had not spoken in more than twenty years and give him back his voice. I mean what he would do with it.
 
 I had thought about this at length. I had written lists, as I do, in a notebook with a black cover. *For:* he is a man, and it is not mine to withhold. *For:* mercy. *For:* the chance that, once his mind returned, he would see what I saw. *Against:* the index. *Against:* the century. *Against:* the fact that a man who believed what he had believed could believe it again.
 
-But the index was gone. I knew that. I had seen him look at his own handwriting and fail to read it. He was eighty-three, and whatever the molecule gave him, it could not give him back a language that the stroke had taken. The danger I imagined, a rejuvenated Stone, striding out of a hospital with the plan in his head, was a danger I had invented. The man in the chair could not do arithmetic.
+But the index was gone. I knew that. I had seen him look at his own handwriting and fail to read it. He was eighty-four, and whatever the molecule gave him, it could not give him back a language that the stroke had taken. The danger I imagined, a rejuvenated Stone, striding out of a hospital with the plan in his head, was a danger I had invented. The man in the chair could not do arithmetic.
 
 It was, I realized, a relief.
 
@@ -2659,7 +2669,7 @@ In the corridor, a cart went by with a rattling wheel. I counted eleven seconds.
 
 I had a rule, and Julian had a better one.
 
-Mine was *no one is approached by surprise.* It had taken me fifteen years to build. It was careful and kind and it had kept me, so far as I could tell, from doing a single useful thing for four of the people on my list. His was simpler. His was *approach everyone, gently, with money.*
+Mine was *no one is approached by surprise.* It had taken me seventeen years to build. It was careful and kind and it had kept me, so far as I could tell, from doing a single useful thing for four of the people on my list. His was simpler. His was *approach everyone, gently, with money.*
 
 I went through the list that night, at the kitchen table, with a cup of tea going cold. There were four names with a box drawn round them, each in my own small handwriting, each with a question mark. I had not touched the sheet in years. I had told myself that it was a matter of time, and care, and the right words.
 
@@ -2671,9 +2681,9 @@ I took a month's leave. I put the notebook in the glove compartment and drove.
 
 **Tobias** was the boy who had stopped talking.
 
-He was twenty-eight now. I found him in a low brick building at the edge of a college town that had once been a hosiery factory and was now, according to the sign, **THE LEAF STUDIO: A SPACE FOR LISTENING.** The sign was green. I did not need to read it to know whose it was. I stood in the parking lot with my hands in my pockets and told myself that I would be calm.
+He was twenty-nine now. I found him in a low brick building at the edge of a college town that had once been a hosiery factory and was now, according to the sign, **THE LEAF STUDIO: A SPACE FOR LISTENING.** The sign was green. I did not need to read it to know whose it was. I stood in the parking lot with my hands in my pockets and told myself that I would be calm.
 
-It was a very good studio. I want to say that, because it would be much easier to tell you it was a prison. It was warm and quiet, with high windows and wooden floors and a smell of beeswax. It had been soundproofed by someone who knew what they were doing: the walls were thick and curved, the corners rounded, and the one clock on the wall had been fitted with a mechanism that did not tick. In the middle of the main room there were eleven people, aged from nine to fifty, sitting in a loose circle on cushions and doing absolutely nothing. A woman with a viola played one long note. They listened.
+It was a very good studio. It would be much easier to tell you it was a prison. It was warm and quiet, with high windows and wooden floors and a smell of beeswax. It had been soundproofed by someone who knew what they were doing: the walls were thick and curved, the corners rounded, and the one clock on the wall had been fitted with a mechanism that did not tick. In the middle of the main room there were eleven people, aged from nine to fifty, sitting in a loose circle on cushions and doing absolutely nothing. A woman with a viola played one long note. They listened.
 
 I counted. Eight of the eleven turned their heads, a few degrees, to a car that went by on the road three hundred yards away.
 
@@ -2715,7 +2725,7 @@ I sat there with my hands on my knees. I had come to rescue someone, and the per
 
 **Imke** was the young woman who could hear the building.
 
-She was thirty-four. She lived in a room at a private clinic forty miles north, which belonged to a company that belonged to a trust, and the receptionist, who was very sweet, said that Ms. Imke saw visitors on Wednesdays between two and four.
+She was thirty-five. She lived in a room at a private clinic forty miles north, which belonged to a company that belonged to a trust, and the receptionist, who was very sweet, said that Ms. Imke saw visitors on Wednesdays between two and four.
 
 It was a pleasant room. It had a window seat. It had a cat, a fat white one called Rudolph, and a bookshelf full of paperbacks about the sea. She was small and fair and a little pale, in a blue cardigan, and she sat in the window with her feet tucked under her and watched me come in.
 
@@ -2737,7 +2747,7 @@ I sat down in the other chair. "Dr. Okonjo."
 
 "He's lovely. He used to work somewhere else." She waved a hand. "Julian visits sometimes. Do you know him? He's the nicest man. He brought me the cat."
 
-*He brought her the cat.* I want you to understand what I felt. It was not rage. It was something much more difficult, a sort of astonished, nauseated helplessness, like watching a man you have been told is a thief hand a coat to a stranger on a cold night.
+*He brought her the cat.* It was not rage. It was something much more difficult, a sort of astonished, nauseated helplessness, like watching a man you have been told is a thief hand a coat to a stranger on a cold night.
 
 "Do you want to leave?" I said.
 
@@ -2779,7 +2789,7 @@ I have thought about that word a great deal. It is the word we all use for the t
 
 **Maren** was the woman who lived in a field, and she would not see me.
 
-I found her in a county I will not name, in a place that was less a field than a long, tilted piece of hillside with some goats on it. She had built a house the size of a garden shed out of old pallets, and she had a stove, and a rain barrel, and a view. She was thirty-four. She had been an excellent student, a record of straight A's, until the day she walked out of an exam in the middle of a sentence and did not go back.
+I found her in a county I will not name, in a place that was less a field than a long, tilted piece of hillside with some goats on it. She had built a house the size of a garden shed out of old pallets, and she had a stove, and a rain barrel, and a view. She was thirty-five. She had been an excellent student, a record of straight A's, until the day she walked out of an exam in the middle of a sentence and did not go back.
 
 She was sitting on the step of the shed in a man's wool coat, peeling a turnip, when I came up the path. She watched me approach. She did not stand up.
 
@@ -2809,11 +2819,11 @@ I did not tell her what she was. She did not ask. We watched the goats for an ho
 
 I drove home through a long gray rain.
 
-I will say what I learned, since I promised to set down everything. It was this. I had spent fifteen years believing that the thing wrong with the four question marks was that they did not know. I had told myself that when I could find the right words, they would be saved by the telling. And I had found that two of them were happy, one was loyal, and one had chosen to live in a field, and that every one of them had been found by someone who did not tell them anything at all.
+Here is what I learned. I had spent seventeen years believing that the thing wrong with the four question marks was that they did not know. I had told myself that when I could find the right words, they would be saved by the telling. And I had found that two of them were happy, one was loyal, and one had chosen to live in a field, and that every one of them had been found by someone who did not tell them anything at all.
 
 *They let me find out,* Tobias had said.
 
-I had thought of my rule as kindness. I saw now that it was control, in a gentler coat. I had wanted to be the one to decide when each of them was ready. It was Stone's sin, in miniature, and I had worn it for fifteen years without noticing, because it fitted so well.
+I had thought of my rule as kindness. I saw now that it was control, in a gentler coat. I had wanted to be the one to decide when each of them was ready. It was Stone's sin, in miniature, and I had worn it for seventeen years without noticing, because it fitted so well.
 
 I pulled over at a rest stop, in the rain, and sat in the car for an hour with the engine off. A truck went by. I heard the driver humming. I listened to him until he was gone.
 
@@ -2830,7 +2840,7 @@ It does not scan. It is the best I have done.
 
 It came out in pieces, the way a flood does, and for a long time none of us could tell which piece was the water.
 
-The first piece was the manuscript. I have said that Stone rejected it in 2011, on grounds he described as *insufficient validation*, and that I had always assumed it would reappear. It reappeared three times. Each time it had been improved a little, as a tooth is improved by the dentist, and each time a different set of reviewers had found, with a different set of sighs, that the unannotated region was probably an artifact. In the spring of 2035, a fourth journal, one that did not ask hard questions, printed it. It ran to eleven pages. Its authors, three men and a woman who had by then lost most of their hair, thanked their funders and their families and, at the very bottom, in a sentence that no one read for months, a *dedicated reviewer.*
+The first piece was the manuscript. I have said that Stone rejected it in 2011, on grounds he described as *insufficient validation*, and that I had always assumed it would reappear. It reappeared three times. Each time it had been improved a little, as a tooth is improved by the dentist, and each time a different set of reviewers had found, with a different set of sighs, that the unannotated region was probably an artifact. In the autumn of 2035, a fourth journal, one that did not ask hard questions, printed it. It ran to eleven pages. Its authors, three men and a woman who had by then lost most of their hair, thanked their funders and their families and, at the very bottom, in a sentence that no one read for months, a *dedicated reviewer.*
 
 The second piece was a clinic audit. A county, in a state I will not name, had reorganized its health services, and a junior accountant, whose name I never learned, was sent to a basement to reconcile the old logs. In a ledger of facility hours, between the cleaning schedule and the freezer maintenance, she found a column for after-hours use of an incubator. It was the same four hours, every week, for eleven years, signed by the same initials. She went to her supervisor. Her supervisor said that it was probably a research arrangement. She wrote a memo anyway, because she was the sort of person who writes memos. The memo went to the wrong office, then the right one.
 
@@ -2842,7 +2852,7 @@ It appeared on a Monday. By Monday evening it had been translated into forty lan
 
 I noticed one more thing, a week later, in a footnote, and it was the footnote that made me put down my tea.
 
-The editor-in-chief of the fourth journal, the one that did not ask hard questions, sat on the advisory board of the Leaf Foundation. So did the county's new health commissioner, who had been appointed in January, and who had opened the basement ledgers in February *as part of a routine transparency review.* Neither of them was a villain. Both had been sent, by someone, a very pleasant letter.
+The editor-in-chief of the fourth journal, the one that did not ask hard questions, sat on the advisory board of the Leaf Foundation. So did the county's new health commissioner, who had been appointed in July, and who had opened the basement ledgers in August *as part of a routine transparency review.* Neither of them was a villain. Both had been sent, by someone, a very pleasant letter.
 
 I called Elias. He listened to all of it without a word.
 
@@ -2874,7 +2884,7 @@ I kept my voice level. I think I managed it.
 
 The world had a month of fear and a season of procedures.
 
-Employers began to ask. They said they were *updating the onboarding packet.* The packet now had a voluntary section, which was voluntary in the way that a handshake is. A saliva swab, offered in a small plastic tube, for *wellness purposes.* A company in the Midwest made a notice of it. A bank in the South announced that it would hire only people who had *consented to the sequencing of non-medical variants.* Within three weeks, thirty others had followed.
+Employers began to ask. They said they were *updating the onboarding packet.* The packet now had a voluntary section, which was voluntary in the way that a handshake is. A saliva swab, offered in a small plastic tube, for *wellness purposes.* A company in the Midwest made a show of it. A bank in the South announced that it would hire only people who had *consented to the sequencing of non-medical variants.* Within three weeks, thirty others had followed.
 
 Schools were next. A district in the Northwest sent a letter to parents asking about *family history of exceptional ability.* Another district printed a flyer with a cartoon of a magnifying glass and the words *Know Your Child.* A mother in a suburb I had once lived near was filmed outside a school holding a sign that said **WE ARE NOT AFRAID.** She looked afraid.
 
@@ -2914,7 +2924,7 @@ She was seventy-one, in the examination room with her husband, for a follow-up o
 
 "Doctor, are you one of them?"
 
-I should say that I had prepared for this. I had rehearsed it in the car and in the shower and once, absurdly, in front of the bathroom mirror, as I used to rehearse telling my parents. I had a number of answers. They were all excellent. I opened my mouth to give one.
+I had prepared for this. I had rehearsed it in the car and in the shower and once, absurdly, in front of the bathroom mirror, as I used to rehearse telling my parents. I had a number of answers. They were all excellent. I opened my mouth to give one.
 
 Then I listened to her.
 
@@ -2956,7 +2966,7 @@ I was not present. A nurse told me, a week later, in the corridor. She had been 
 
 "*Slowly.*" She frowned. "Or maybe *Soon.* He said it in a sort of whisper. I don't think he knew he'd said it."
 
-I stood in the corridor with my hands in my pockets and my eyes on the floor. I knew which word he had meant. I knew it as one knows one's own name. It was the word he had written in capitals at the top of his schedule, the one instruction he had given himself for the century. The expert in the bow tie had said *a population-level effect,* and Stone had looked at a screen and seen, perhaps for the first time in four years, a figure he recognized.
+I stood in the corridor with my hands in my pockets and my eyes on the floor. I knew which word he had meant. I knew it as one knows one's own name. It was the word he had written in capitals at the top of his schedule, the one instruction he had given himself for the century. The expert in the bow tie had said *a population-level effect,* and Stone had looked at a screen and seen, perhaps for the first time since the stroke, a figure he recognized.
 
 * * *
 
@@ -3047,7 +3057,7 @@ The second was the screenings. By then the Leaf Foundation ran eleven hundred of
 
 The third was Wren.
 
-Wren was twenty-three and had been born in the spring of 2013. I had first met her in the autumn of 2035, when she walked into the cafeteria of my hospital on a Tuesday and sat down across from me, with a tray of fries and the clear, steady look of a girl who had once waved at me from a sandpit.
+Wren was twenty-three and had been born in December of 2012. I had first met her in December of 2035, when she walked into the cafeteria of my hospital on a Tuesday and sat down across from me, with a tray of fries and the clear, steady look of a girl who had once waved at me from a sandpit.
 
 "I'd like to know," she said.
 
@@ -3155,7 +3165,7 @@ I thought about it. I thought, truthfully, for the length of a breath.
 
 That night I sat in the kitchen with the laptop open and the light off.
 
-I could hear the whole building. In 4C, where the widow had died twenty years earlier, a young couple were making love, very quietly and with great concentration. In the stairwell, someone was carrying a bicycle.
+I could hear the whole building. Through the ceiling, a young couple were making love, very quietly and with great concentration. In the stairwell, someone was carrying a bicycle.
 
 I thought about Stone.
 
@@ -3192,13 +3202,13 @@ I put the cup down. I remember that it made a small, precise click against the c
 
 * * *
 
-I should say what Julian had become.
+Here is what Julian had become.
 
 He was thirty-six, the same age as I was. He was the front-runner. The word in the newspapers was *unstoppable*, which journalists use when they are tired of being surprised. He had been a state representative at twenty-four, a senator at thirty, and had spent six years being so reasonable that people had begun to believe it was a policy position. He talked about the dignity of ordinary people. He talked about the future in the tone that other people use for the weather. When he laughed, a crowd laughed a half-second afterward, as if it had been given permission.
 
 He had never, in all those years, said a word to me that I could have repeated to a stranger. He sent a card every Christmas. *Interesting how some of us are lucky. J.* I kept them in a drawer with the rock.
 
-I will not pretend I loved him. I will say that for twenty years I had listened to a man whose pulse was as steady as a clock, and had been unable to hear anything behind it. That is its own kind of knowledge. I had come to believe that he was the only person I had ever met who did not need to lie, because he had no gap between what he said and what he was. It was the most frightening thing I knew.
+I will not pretend I loved him. For fourteen years I had listened to a man whose pulse was as steady as a clock, and had been unable to hear anything behind it. That is its own kind of knowledge. I had come to believe that he was the only person I had ever met who did not need to lie, because he had no gap between what he said and what he was. It was the most frightening thing I knew.
 
 The announcer said that the senator had been taken to a hospital. She said it twice. Then there was a silence of the kind that only a live broadcast can produce, in which someone is reading something that has not yet been written, and then she said, in a voice with all the weight gone out of it, that the senator had died.
 
@@ -3228,7 +3238,7 @@ She looked at me. She was a young woman, with a nose ring and a blunt, honest fa
 
 I felt three things.
 
-I have tried since to put them in order, and I cannot, because they came together, one on top of another, in a heap. The first was relief. It was physical. A muscle in my back, which I had not known was clenched, let go all at once, like a knot cut with a knife. The second was guilt, and it came a half-second later, not as an idea but as an ache, in the same place. I had spent twenty years refusing to say what I knew about that man, and now a stranger with a grievance and a legal rifle had done what I would not, and what I would have been ashamed to want.
+I have tried since to put them in order, and I cannot, because they came together, one on top of another, in a heap. The first was relief. It was physical. A muscle in my back, which I had not known was clenched, let go all at once, like a knot cut with a knife. The second was guilt, and it came a half-second later, not as an idea but as an ache, in the same place. I had spent fourteen years refusing to say what I knew about that man, and now a stranger with a grievance and a legal rifle had done what I would not, and what I would have been ashamed to want.
 
 The third thing I did not recognize. It had no name. It was a kind of vertigo: the sense of a floor that had always been there, and that I had been holding up, and that was no longer mine to hold.
 
@@ -3417,7 +3427,7 @@ He did not say it with feeling. He said it as one says a word one has been looki
 
 I said, "It's Danny. It's always been Danny."
 
-He frowned, as though he had been handed the wrong form. Then something in his face gave way, and I saw the man who had stood in my mother's examination room thirty-six years earlier and said, to the baby in the carrier, *hello.*
+He frowned, as though he had been handed the wrong form. Then something in his face gave way, and I saw the man who had stood in an examination room thirty-six years earlier and said, to the baby in the carrier, *hello.*
 
 * * *
 
@@ -3452,6 +3462,8 @@ It was the nearest thing to an apology that I ever heard him make. It was not en
 * * *
 
 A girl called Wren has asked whether she may meet him. She is twenty-three. She says she would like to know what he looks like. I have told her that she may, when he is ready, and that I will ask him first.
+
+The rest of us have gone on being what we were. Tobias sent a postcard of his bean plot with one word on the back. It was not *cabbage.* Maren, who has never owned a telephone, sent an egg by post. It arrived whole, which I take as a verdict on the postal service and not on me. Theo is at home, and his mother, I am told, has stopped writing him letters, because she has stopped needing to.
 
 On the second to last day of treatment, I brought him a newspaper.
 
@@ -3564,7 +3576,7 @@ I let it run.
 
 This book is fiction, and its central scientific premise is invented. The rules of inheritance it uses are real. This appendix separates the two.
 
-## 1. How inheritance works
+## How inheritance works
 
 DNA is a double helix: two strands twisted around each other, held together by pairs of chemical "letters." James Watson and Francis Crick proposed this structure in [a two-page paper in 1953](https://doi.org/10.1038/171737a0), building on X-ray images made by others, notably Rosalind Franklin. Her best-known image, "Photo 51," was shown to Watson by a colleague without her knowledge. Franklin died in 1958, aged 37, and was not among the three men who shared the [1962 Nobel Prize in Physiology or Medicine](https://www.nobelprize.org/prizes/medicine/1962/summary/) for the discovery. That history of credit, and of whose data was used with or without consent, is a quiet background to this book's own questions.
 
@@ -3583,33 +3595,33 @@ When a heterozygous parent has a child, each egg or sperm cell carries one of th
 
 **Several variants at once.** If the variants sit on different chromosomes, they are inherited independently, and the chances multiply. The chance that a child receives all of ten independent variants from one carrier parent is one in 1,024. Variants close together on the same chromosome tend to travel together, because chromosomes are inherited in large pieces, though pieces are shuffled at each generation. This is why a full "package" is unlikely to pass intact to one child, and why the story treats reassembly as a matter of odds.
 
-## 2. Germline and body cells
+## Germline and body cells
 
 Editing a fertilized egg or early embryo changes cells that will become every tissue, including the cells that make eggs and sperm (the *germline*). That is why such a change is inherited, and why it is the most controversial kind. An edit in a body cell (a *somatic* edit) affects only that person and is not passed on.
 
 In real life, early-embryo editing has a known difficulty called *mosaicism*: some cells carry the change and others do not. It also risks unintended changes elsewhere in the genome. The story passes over these problems, because Stone's work is secret and the narrator does not describe it.
 
-## 3. Gene technology
+## Gene technology
 
 Gene editing means making a targeted change to DNA. The best-known tool, CRISPR-Cas9, was described in [a 2012 paper in *Science*](https://doi.org/10.1126/science.1225829), and its developers Jennifer Doudna and Emmanuelle Charpentier received the [2020 Nobel Prize in Chemistry](https://www.nobelprize.org/prizes/chemistry/2020/summary/). The first reported use of CRISPR on human embryos, [in 2015 in China](https://doi.org/10.1007/s13238-015-0153-5), used non-viable embryos. In 2018 a Chinese researcher, He Jiankui, announced that he had edited embryos that became twin girls; in December 2019 a Shenzhen court [sentenced him to three years in prison](https://www.technologyreview.com/2019/12/30/131061/he-jiankui-sentenced-to-three-years-in-prison-for-crispr-babies) and fined him.
 
 Rules differ by country. [Section 5 of Germany's Embryo Protection Act of 1990](https://lxgesetze.de/eschg/5) makes altering the genetic information of a human germline cell a criminal offence, punishable by up to five years in prison or a fine, with narrow exceptions. In the United States, [an appropriations rider](https://www.scientificamerican.com/article/congress-revives-ban-on-altering-the-dna-of-human-embryos-used-for-pregnancies) first signed in December 2015, and renewed since, bars the Food and Drug Administration from reviewing applications to begin clinical research in which a human embryo is intentionally modified to carry a heritable change. Both facts bear on the book's setting and its characters' choice to stay hidden.
 
-## 4. Intelligence and the cognitive package
+## Intelligence and the cognitive package
 
 In the book, a few "dozens" of changes produce an exceptional mind. Real genetics is not like that. Intelligence is *polygenic*: studies of large populations have found thousands of common variants, each with a tiny effect, and the environment matters as well. Twin studies suggest that the heritable share of intelligence [rises from about 20 percent in infancy to perhaps 80 percent in later adulthood](https://doi.org/10.1038/mp.2014.105), but the known variants predict only a modest part of individual differences. There is no known set of dozens of edits that would produce an Einstein.
 
-## 5. The dolphin package
+## The dolphin package
 
 Bottlenose dolphins hunt by echolocation: they emit clicks and interpret the returning echoes with very fine timing. Humans also use tiny timing differences between the ears to locate sounds; under the best conditions, [trained listeners can detect a difference of roughly ten millionths of a second](https://web.pa.msu.edu/acoustics/brughera.pdf). Dolphins and humans, however, differ in anatomy as much as in genes: the dolphin's click-producing structures, jaw and hearing apparatus have no counterpart in a human body.
 
 The book's claim, that rewritten circuits in a human brain could give echo-resolution and social prediction from partial sounds, is invented. No such edit is known, and the book does not describe one. This is deliberate. It keeps the story about people and consequences, not methods.
 
-## 6. Detection
+## Detection
 
 Whole-genome sequencing reads a person's DNA and compares it to a reference. Stretches that do not match the human reference can stand out, which is the basis of the story's fear of detection. Consumer ancestry and health tests look at selected positions only, and would not reveal most of what the book describes.
 
-## 7. What is fact and what is fiction
+## What is fact and what is fiction
 
 | In the book | Status |
 |---|---|
@@ -3661,3 +3673,81 @@ Whole-genome sequencing reads a person's DNA and compares it to a reference. Str
 - Bear, Greg. *Darwin's Radio.* 1999. *Blood Music.* Novelette 1983; novel 1985.
 - Huxley, Aldous. *Brave New World.* 1932.
 - Niccol, Andrew (writer and director). *Gattaca.* Film, 1997.
+
+
+---
+
+# About the Author
+
+Genevieve Crisp is a pseudonym. She takes full responsibility for the four minutes.
+
+Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+
+He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+
+
+---
+
+# Also by Lothar J. Musiol
+
+**Physics, Actually**
+
+- Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+- Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+- Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+- Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+
+**More Actually Books**
+
+- Gravity, Actually: Einstein's Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+- The Universe, Actually: What Humanity Currently Understands About Reality
+
+**Math, Actually**
+
+- Math, Actually, Volume 1: From Arithmetic to Calculus
+- Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+- Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+- Math, Actually, Volume 4: From Category Theory to the Frontier
+
+**Quantum, Actually**
+
+- Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+- Quantum, Actually, Volume 2: A QED Course
+
+**Science Sparks**
+
+- Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+
+**Look First**
+
+- Look First, Volume 1: The Universe Has No Now
+- Look First, Volume 2: A Trip Is Not a New Life
+
+**Electrical Engineering Series**
+
+- Foundations of Electronics (Book 1)
+- Circuits, Components, and Control (Book 2)
+- Semiconductor Physics and Devices (Book 3)
+- RF, Microwave, and Transceivers (Book 4)
+- Communications, Wireless, and SDR (Book 5)
+- Power and Energy (Book 6)
+- Packaging, Layout, EMC, and Test (Book 7)
+- Firmware and Software for Electronics (Book 8)
+- Test and Measurement Instruments (Book 9)
+
+**History**
+
+- The Dolphins' View of History
+
+**Fiction**
+
+- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+- The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+- Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+- The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+- Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+- In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+
+**In German**
+
+- Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?

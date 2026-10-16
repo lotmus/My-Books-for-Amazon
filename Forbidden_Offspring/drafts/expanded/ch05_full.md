@@ -92,7 +92,7 @@ I woke at four on most mornings. I made tea, and stood at the kitchen window whi
 
 I did not tell myself what I was waiting for. I told myself it was the weather.
 
-The note had come on a Monday. I have said that I should have stopped there. What I did not say was that I read it standing in the hall, in my coat, and the first thing I felt was not fear. It was something much closer to relief, the plain physical relief of a man who has carried a case for eleven years and has at last been told where to put it down.
+I read the note standing in the hall, in my coat, and the first thing I felt was not fear. It was something much closer to relief, the plain physical relief of a man who has carried a case for eleven years and has at last been told where to put it down.
 
 I did not sleep that night. At four I stood at the window and the fox did not come.
 
@@ -122,7 +122,7 @@ His parents were at work, which I had also checked, from the clinic's records, w
 
 The boy opened the door before I knocked.
 
-He was eleven that autumn. I want to say that he looked like any child of that age, and he did. He had a gray sweater with a hole at one cuff and he held a book he was not reading, and he stood to one side of the doorway at an angle that I understood later was geometry. He was keeping me where the room would tell him what I did.
+He was eleven that autumn. He looked like any child of that age. He had a gray sweater with a hole at one cuff and he held a book he was not reading, and he stood to one side of the doorway at an angle that I understood later was geometry. He was keeping me where the room would tell him what I did.
 
 "You took the stairs," he said.
 
@@ -146,7 +146,7 @@ I had come with a speech. I had practiced it in the car: that the Singapore matt
 
 "What you did. I've read it. All of it."
 
-I want to be exact here, because later I would be asked, by people with power, how long I had known. The answer is that I knew in that moment. Not before. I had locked the indexed notes in a place I considered a vault, and in nine seconds a child told me, without raising his voice, that the vault had been a courtesy.
+Later I would be asked, by people with power, how long I had known. The answer is that I knew in that moment. Not before. I had locked the indexed notes in a place I considered a vault, and in nine seconds a child told me, without raising his voice, that the vault had been a courtesy.
 
 "Where did you find it?"
 
@@ -162,7 +162,7 @@ My mouth was dry. "That was confidential."
 
 "You kept a copy in the vault. With your notes on what to say." He said it without reproach, the way one reports a misfiled form. "You write everything down. It's the thing I like best about you."
 
-I will not describe what I felt. I will say that I had told myself for eleven years that a locked room was a private room, and that the only person who had ever shared my handwriting was a boy of eleven in a gray sweater.
+I will not describe what I felt. I had told myself for eleven years that a locked room was a private room, and the only person who had ever shared my handwriting was a boy of eleven in a gray sweater.
 
 "How long," I said.
 

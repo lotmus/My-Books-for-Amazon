@@ -20,7 +20,7 @@ I put the bagel down.
 
 ---
 
-I should say how little I knew about Julian by then, and how much I thought I knew.
+I knew little about Julian by then, and thought I knew a great deal.
 
 I knew he was good. I had said it to myself so many times that it had stopped being an observation and become a sort of furniture. I knew that he had a gift, and that the gift was people, and that behind it lay something I could not hear. I knew he had called me *Danny* on the telephone in 2030 and offered to pay for a laboratory. I knew I had said no.
 
@@ -78,7 +78,7 @@ I have thought about what I could have said. I could have said, *it's complicate
 
 There was a long silence, and in it I could hear her breathing, and behind her breathing, as clear as a bell, the sound of Lena in the next room, practicing the recorder.
 
-"Four years," said Mira.
+"Five years," said Mira.
 
 "Ten, if you count the debate."
 
@@ -104,7 +104,7 @@ I sat in the car for forty minutes, and a woman with a shopping cart tapped on t
 
 It was a year and eleven days.
 
-I will say that I learned a great deal about silence in that time, and that most of it was unwelcome. I learned that my ears, which could tell a lie from a pulse at forty feet, could not tell me what I was doing wrong. I learned that the quiet ones, who had always rung me on Sundays, called on other days, and spoke to one another first. I learned from the florist, in a long careful email with a photograph of tulips attached, that *Mira told us.* Not in anger, she said. In sequence. *She told us, one by one, in the order that you found us. You'll be pleased to know it took four days. She said you would want it done properly.*
+I learned a great deal about silence in that time, and most of it was unwelcome. I learned that my ears, which could tell a lie from a pulse at forty feet, could not tell me what I was doing wrong. I learned that the quiet ones, who had always rung me on Sundays, called on other days, and spoke to one another first. I learned from the florist, in a long careful email with a photograph of tulips attached, that *Mira told us.* Not in anger, she said. In sequence. *She told us, one by one, in the order that you found us. You'll be pleased to know it took four days. She said you would want it done properly.*
 
 I was not pleased. I read it at my desk with a cold coffee, and I had the odd sensation of reading my own obituary, written by someone who had liked me.
 

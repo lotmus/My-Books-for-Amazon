@@ -30,7 +30,7 @@ The second was the screenings. By then the Leaf Foundation ran eleven hundred of
 
 The third was Wren.
 
-Wren was twenty-three and had been born in the spring of 2013. I had first met her in the autumn of 2035, when she walked into the cafeteria of my hospital on a Tuesday and sat down across from me, with a tray of fries and the clear, steady look of a girl who had once waved at me from a sandpit.
+Wren was twenty-three and had been born in December of 2012. I had first met her in December of 2035, when she walked into the cafeteria of my hospital on a Tuesday and sat down across from me, with a tray of fries and the clear, steady look of a girl who had once waved at me from a sandpit.
 
 "I'd like to know," she said.
 
@@ -138,7 +138,7 @@ I thought about it. I thought, truthfully, for the length of a breath.
 
 That night I sat in the kitchen with the laptop open and the light off.
 
-I could hear the whole building. In 4C, where the widow had died twenty years earlier, a young couple were making love, very quietly and with great concentration. In the stairwell, someone was carrying a bicycle.
+I could hear the whole building. Through the ceiling, a young couple were making love, very quietly and with great concentration. In the stairwell, someone was carrying a bicycle.
 
 I thought about Stone.
 

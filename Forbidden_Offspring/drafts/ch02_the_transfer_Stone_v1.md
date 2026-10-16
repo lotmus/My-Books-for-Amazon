@@ -8,7 +8,7 @@ The transfer itself took eleven minutes, which was seven more than the part that
 
 Connie Pruitt lay on the table with her knees draped in paper and her husband holding her hand as if it were a railing on a boat. Ray Pruitt drove a delivery truck for a bakery supplier. Connie worked the line in a school cafeteria. They had saved for four years and been turned down by two other clinics, and ours, whose program for couples of their means I had helped design for reasons I called charitable and had never examined, was the third door. They looked at me the way people look at a man who is about to hand them what they have prayed for, which is to say, without any suspicion at all.
 
-I told them it was a good embryo. That was true. I told them it had been corrected for the condition they feared, a rare error that had taken Ray's brother at seven. That was also true. I told them nothing else, and I want to be plain about what that cost me, because the answer is that it cost me nothing. I felt nothing. I had expected to. A man is supposed to flinch.
+I told them it was a good embryo. That was true. I told them it had been corrected for the condition they feared, a rare error that had taken Ray's brother at seven. That was also true. I told them nothing else, and it cost me nothing. I felt nothing. I had expected to. A man is supposed to flinch.
 
 Connie said, "Is it a boy or a girl?"
 
@@ -46,7 +46,7 @@ I have said many untrue things in my life. That one I said best.
 
 I examined him. The paperwork recorded a healthy male infant, reflexes intact, length and weight at the fiftieth percentile. I pressed the stethoscope to his chest and felt, through the diaphragm, a very small heart going about its work, and for the first time since the night of the four minutes, I was afraid.
 
-It was not fear of being caught. I want that understood. It was a plain animal fear, like discovering that the dog you left in the house has learned to open the door.
+It was not fear of being caught. It was a plain animal fear, like discovering that the dog you left in the house has learned to open the door.
 
 On the way out, Ray shook my hand. His palm was rough from the truck. He said, "Thank you, Doc. For everything."
 

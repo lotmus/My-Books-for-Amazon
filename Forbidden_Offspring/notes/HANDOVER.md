@@ -6,7 +6,7 @@ Written 13 Oct 2026. Read `../../notes/LOTHAR_RULES.md` first (standing rules fo
 
 ## What the book is
 
-A near-future thriller about secret human embryo editing. Title: **Forbidden Offspring** (working title was *The Edit*). Pen name: **Frank Stone** (set by Lothar, 12 Oct 2026; also the name of the scientist character). The pen name is not yet in `LOTHAR_RULES.md`: do not add an About the Author or Also-by page until Lothar says whether it stands alone (like Kevin Drew Peters) or sits under Lothar J. Musiol. American English. Deadpan, dry, understated. Target (raised in Revision 2): about 200 pages, about 60,000 words, **24 chapters**.
+A near-future thriller about secret human embryo editing. Title: **Forbidden Offspring** (working title was *The Edit*). Pen name: **Genevieve Crisp** (Gene + CRISP[R], a pun the book never explains; Lothar, 13 Oct 2026; earlier Frank Stone, then Frank N. Stone, dropped because the author and the scientist are different people). The scientist is Frank Stone in speech and narration; his paperwork says Frank N. Stone (consent form, notebook flyleaf in ch. 8), a quiet sound-alike joke that the book never names or explains. Do not write the famous name anywhere (Lothar, 13 Oct 2026). (set by Lothar, 12 Oct 2026; also the name of the scientist character). The pen name is not yet in `LOTHAR_RULES.md`: Lothar decided on 13 Oct 2026 that it is the dual byline "Lothar J. Musiol writing as Genevieve Crisp" (as in Lolly Wren), so the book carries About the Author (Version B) and the canonical Also-by page. American English. Deadpan, dry, understated. Target (raised in Revision 2): about 200 pages, about 60,000 words, **24 chapters**.
 
 Premise in one paragraph: In 1999 Dr. Frank Stone, a fertility doctor, secretly adds a second, illegal edit protocol to a few dozen IVF embryos (cognitive package for most; an extra, invented "dolphin" auditory-spatial package for exactly two). The embryos go to the parents who came for IVF, who are told only about one disease correction. Part One is Stone's own written account, ending with his stroke in 2012. Part Two is told by the main edited child (Danny Pruitt, placeholder name), who finds the notebook, tracks down the cohort, decides not to restart Stone's work, becomes a physician, develops a stroke treatment, and gives it to the old, fragile Stone in 2036.
 
@@ -20,9 +20,9 @@ Premise in one paragraph: In 1999 Dr. Frank Stone, a fertility doctor, secretly 
 - `build_manuscript.py`: rebuilds the manuscript from the drafts. Run from the repo root: `python3 Forbidden_Offspring/build_manuscript.py`. It prints total words and per-chapter counts. To change the book, edit a draft and rebuild.
 - `bak/` (ignored by git): older versions. Never delete anything; move old versions there.
 
-## Current status (13 Oct 2026, after Revision 2)
+## Current status (13 Oct 2026, after Revision 3)
 
-About 58,500 words (about 195 pages). 24 chapters. Every chapter is a full draft. Revision 2 added four new Part Two chapters (The Foundation, The Cabinet, Four Question Marks, The Draft), the Mr. Hale and Connie's-diploma scenes, a cure-mechanism bridge, a managed-leak clue, a cable-panel satire scene, the Wren and Theo payoffs, a fixed Part One ordering (chapter 5), verified appendix and bibliography with hidden-URL keyword links, and an American-English pass. Still needed: a read-through by Lothar; line edit for the strongest voice in Danny's chapters; docx master and EPUB; a cover; the KDP listing; About the Author and Also-by (blocked on the pen-name rule). The reader review is in `notes/REVIEW_2026-10-13.md`.
+About 59,150 words (about 197 pages). 24 chapters, every one a full draft. Revision 3 (13 Oct, evening) was a full read-through: about 15 timeline slips fixed (Wren's birth, Stone's ages, Lena's birth time, the leak moved to autumn 2035, Julian's birthday), 28 narrator tics cut, closing lines for Tobias, Maren and Theo, appendix sub-heads un-numbered. Produced: docx master and EPUB (`Forbidden_Offspring_v1.docx/.epub`, built by `build_docx_epub.py`), a typographic cover (`make_cover.py`, `Forbidden_Offspring_cover_v1.jpg`), the dual byline, About the Author and Also-by. Score 8.7, sellability 8.4 (`notes/REVIEW_2026-10-13.md`). Still needed: Lothar's read-through; a line edit for blunter Danny sentences in chapters 8 and 10 to 16; one small threat in chapters 10 to 13; back cover; KDP listing; approval of the pen-name paragraph and cover wording.
 
 ## The hard rules (do not break)
 
@@ -48,7 +48,7 @@ About 58,500 words (about 195 pages). 24 chapters. Every chapter is a full draft
 
 ## Open items (updated 13 Oct 2026)
 
-- Pen name: bio and Also-by treatment (needs Lothar).
+- (Resolved 13 Oct 2026) Pen name: byline is "Lothar J. Musiol writing as Genevieve Crisp", the same dual as Lolly Wren. Title page, copyright page, pen-name note, About the Author (Version B) and Also-by are in the build. The pen-name paragraph wording is a draft for Lothar to approve.
 - Lothar's read-through and any changes to the Revision 2 plot (it is a large change).
 - Optional: more distinct voice for Danny in chapters 8, 10 to 16 (some similes still echo Stone's).
 - Docx master (6x9, headings per `LOTHAR_RULES.md`), linked contents, EPUB, cover, KDP description and keywords.

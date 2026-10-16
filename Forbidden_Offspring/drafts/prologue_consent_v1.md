@@ -9,7 +9,7 @@
 
 Patients: **Raymond A. Pruitt** and **Constance M. Pruitt**
 Date: **April 14, 1999**
-Attending physician: **Frank Stone, M.D.**
+Attending physician: **Frank N. Stone, M.D.**
 
 I understand that my embryo(s) will be examined for a single, named inherited condition: **the one that took Mr. Pruitt's brother at the age of seven.**
 
