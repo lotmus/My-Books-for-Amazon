@@ -204,3 +204,11 @@ The remaining score gap is concentrated in dense science dialogue for casual SF 
 - Brought the KDP description into alignment with the cover and the any-order series rule. It now says plainly that the complete case can be read before or after Book 1, no physics background is needed, and the lessons are optional. Replaced the misleading “sequel” search phrase with “standalone.”
 - Rechecked the new-reader orientation against the opening and middle-case references: the current warning and investigation remain distinct from the unresolved LOCALHOST thread; no prior answer is needed to understand the case. The case resolves its central question; the railway, Sunday slip and late voice remain openly marked as series mysteries.
 - Updated the marketing assessment after the on-ramp change. Ease of entry and sellability improve; neither readership data nor visual Kindle/Word proof is available to justify a 10. Revision remains a draft pending those checks.
+
+## 15 October 2026 newcomer and accessibility pass (REV05)
+
+- Simplified the new-reader orientation and compressed the Prologue and Chapter 1 recap of Book 1 so the previous case is legible without competing with the new mystery.
+- Moved the optional science/history author’s note from the front matter to after the story, before the optional course; revised the KDP description to explain this clearly.
+- Added a one-line plain-English restatement after the technical explanation in Chapter 22.
+- Updated both active REV05 source and DOCX together. REV04 release master remains untouched. DOCX package and internal links were structurally checked; visual Word/Kindle proof is still pending.
+- No whole-book rescore was performed in this targeted pass. Reassess newcomer accessibility, early pacing, and exposition clarity after a complete read and visual proof.

@@ -43,3 +43,7 @@ REV15 and REV05 are the current story state for continuation, but are labelled d
 ## Working rules
 
 Preserve British spelling, one speaker per dialogue paragraph, the established dry series voice, and the distinction between well-tested physics, open research, and invented anomalies. Give the next book a new physical question and a fair, observable test. Make every book a valid first entry: resolve its own case, supply essential relationship context, and keep open series mysteries from obstructing the current story. See `SERIES_SEAM.md`, “Reading order is optional.” Don't reset settled relationships or turn an unexplained series hook into a convenient answer without building the mechanism on-page.
+
+## Book 2 status — 15 October 2026
+
+The active working pair remains the REV05 Markdown and matching DOCX. A targeted newcomer-accessibility pass simplified the orientation, shortened the prior-case recap in the Prologue and Chapter 1, moved the optional science/history note to after the story, and added a plain-English restatement after Chapter 22’s technical explanation. `KDP.md` now explains that no physics background is needed and that the optional note and six lessons follow the story. REV04 remains the release master and was not changed. The DOCX package and link structure were checked; visual Word and Kindle proof, followed by a complete rescore, remain outstanding.

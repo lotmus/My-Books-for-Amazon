@@ -15,7 +15,7 @@ The layout follows Book 1's `KDP_METADATA.txt`. Fields marked **Lothar decides**
 
 ## Description (paste into KDP)
 
-About 360 words and 1,980 characters, well under KDP's 4,000-character limit. The copy identifies the self-contained case, introduces the cast, and says the books can be read in either order. Every fact is checked against the book: the sheet, the NOT YET box, the instruction, the door, YESTERDAY, the late voice, Monday to Wednesday, and the cast.
+About 383 words and 2,127 characters, well under KDP's 4,000-character limit. The copy identifies the self-contained case, introduces the cast, and says the books can be read in either order. Every fact is checked against the book: the sheet, the NOT YET box, the instruction, the door, YESTERDAY, the late voice, Monday to Wednesday, and the cast.
 
 > A WARNING DATED TOMORROW.
 > A DOOR THAT OPENED ONTO A RAILWAY.
@@ -31,7 +31,7 @@ About 360 words and 1,980 characters, well under KDP's 4,000-character limit. Th
 >
 > With his cousin Penny, who will not let anybody reorder what has already happened; Trevor, armed with a tape measure; a visiting patent attorney from Munich who has been lied to by railways in four countries; and a building superintendent who regards the platform as a breach of the lease, Derek has until Wednesday to put one morning in the right order, before a landlord, two insurance companies and a very patient train do it for him.
 >
-> The Warning That Was Sent Too Late is Book 2 of the Relativistic Investigation Bureau. Its complete case can be read before or after Book 1; no physics background is needed, and six optional lessons follow the story. A brief orientation introduces the Bureau, its people and the open thread carried forward from the first case. It is a British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it.
+> The Warning That Was Sent Too Late is Book 2 of the Relativistic Investigation Bureau. Its complete case can be read before or after Book 1; no physics background is needed. A brief orientation introduces the Bureau, its people and the open thread carried forward from the first case. After the story, an optional author’s note separates established science and history from the invented case, followed by six optional lessons for readers who want to explore further. It is a British mystery where the physics is real, the jokes are dry, and the hardest thing to do with a train is not get on it.
 >
 > Recommended for readers aged 14 and up. Strong readers aged 12 to 13 may also enjoy the mystery, with adult support for the denser physics discussions.
 
