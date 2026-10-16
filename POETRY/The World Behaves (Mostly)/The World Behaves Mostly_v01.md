@@ -1,10 +1,10 @@
 # The World Behaves (Mostly)
 
-**Original rhymed poems by Seamus O’Leary**
+**Original poems by Seamus O’Leary**
 
 *Working title and opening draft*
 
-This is a new, original poetry collection. It stands apart from the companion nonsense book: the poems here should make sense on a first reading, have a clear emotional or comic point, and use rhyme that sounds natural aloud. The subjects can range freely—from love and family to work, weather, technology, the natural world, history, and space travel. The voice may be funny, tender, observant, or rueful; each poem should earn its ending.
+This is a new, original poetry collection. It stands apart from the companion nonsense book: the poems here should make sense on a first reading, have a clear emotional or comic point, and use rhyme that sounds natural aloud. The subjects can range freely—from love and family to work, weather, technology, the natural world, history, and space travel. The collection will mix funny, serious, intelligent, and thought-provoking work. Most poems will rhyme, using varied schemes and forms such as ballads and sonnets; blank verse and free verse can appear when they suit the subject. Some lyrics may draw on the broad tradition of reflective poems about nature, human feeling, and meaning, while speaking in a distinctly modern voice. Each poem should earn its ending.
 
 ## Contents in progress
 
@@ -21,29 +21,32 @@ This is a new, original poetry collection. It stands apart from the companion no
 - “The Astronaut’s First Morning”
 - “The Moon Keeps Office Hours”
 
+### Time and perspective
+- “The Light That Arrives Late”
+
 ---
 
 ## Love and Company
 
 ### Love, With the Dishes
 
-The plates were stacked; the sink was full;
-The day had spent its final pull.
+The plates were stacked beside the sink;
+We stood too tired to stop and think.
 You washed; I dried. We spoke of rain,
-The neighbor’s cat, the train, the train.
+The restless cat, the passing train.
 
 No violins came through the wall;
-The kettle clicked. The clock was small.
+The kettle clicked. That was all.
 You handed me a chipped blue cup;
 I held it while you filled it up.
 
-The years can make a grand affair
-Of things that mostly happen there:
+The years leave quiet evidence there:
+In simple things we might ignore:
 A coat held open at the door,
 A light left on across the floor.
 
 So if they ask what love can do,
-I’ll say: it learns the cups from you.
+It knows which cup belongs to you.
 It dries the plate. It knows the way
 Back to the sink at end of day.
 
@@ -149,12 +152,12 @@ The clock escaped his command.
 His coffee hovered, brown and round,
 A little planet, unbound.
 He sipped it through a straw and saw
-Earth turn beneath him without flaw
+Earth turned beneath him, vast and raw.
 
-Earth wheeled below, blue, cloud, and sea,
-The place he loved from memory.
-Each shore and cloud was sharply clear,
-Yet home seemed somehow very near.
+His home turned blue and green below;
+The cloudbanks caught the morning glow.
+No street or face came into view;
+Yet all he loved was there, he knew.
 
 He checked each gauge, bolt, and seal,
 The things that made the silence real.
@@ -182,3 +185,27 @@ Then clouds rolled in and closed the show.
 The moon said, “Sorry. Time to go.”
 I went to bed, the curtains drawn,
 And left it to the coming dawn.
+
+## Time and Perspective
+
+### The Light That Arrives Late
+
+We point at stars and give them names,
+As if a name could bring them near;
+Their light, that crossed the dark like flame,
+Left home before our own was here.
+
+Some stars are gone; their light goes on
+Across the dark in silver streams.
+The present holds a vanished dawn
+And reads the past in borrowed beams.
+
+We, too, keep voices after years,
+Though time remakes the things they mean;
+A phrase once heard through joy or tears
+Can tint each room we have ever seen.
+
+We cannot bring the source back near,
+Or make its vanished hour our own;
+But something reaches us from there,
+And makes the dark feel less alone.
