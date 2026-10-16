@@ -26,8 +26,8 @@ H2: 8.4 The pulse transformer's droop
 P: The finite magnetizing inductance draws a growing current during a pulse; through PFN/source resistance this produces pulse-top droop. In the flat-top equivalent circuit, let R_PFN be the PFN/source resistance and R′_L the load referred to the primary. The magnetizing inductance sees R_eq = R′_L ∥ R_PFN, so the idealized pulse-top droop is D = 1 − exp[−τR_eq/Lm]. For small D, D ≈ τR_eq/Lm. This model isolates magnetizing-inductance droop; leakage inductance, winding capacitance, switching behavior, and core reset require separate checks. The designer balances high magnetizing inductance against leakage and capacitance, and must reset the core to prevent flux walk toward saturation.
 EQ: D = 1 − exp[−τ(R′_L ∥ R_PFN)/Lm]
 H2: Worked Example 8.4
-P: Problem. For the matched modulator of Example 8.3, the PFN output impedance and the primary-referred load are each 10 Ω. What primary magnetizing inductance limits the 1 µs pulse-top droop to 5%? What is that inductance referred to the secondary of the 1:10 transformer?
-P: Solution. R_eq = 10 ∥ 10 = 5 Ω. From D = 1 − exp(−τR_eq/Lm), the minimum magnetizing inductance is Lm = τR_eq/ln[1/(1 − D)] = (1 µs)(5 Ω)/ln(1/0.95) = 97.5 µH on the primary. Referred to the secondary, multiply by 10²: 9.75 mH. The small-droop approximation gives 100 µH and 10 mH, respectively.
+P: Problem. For the matched modulator of Example 8.3, the PFN output impedance and the primary-referred load are each 10 Ω. What primary magnetizing inductance limits the 1 μs pulse-top droop to 5%? What is that inductance referred to the secondary of the 1:10 transformer?
+P: Solution. R_eq = 10 ∥ 10 = 5 Ω. From D = 1 − exp(−τR_eq/Lm), the minimum magnetizing inductance is Lm = τR_eq/ln[1/(1 − D)] = (1 μs)(5 Ω)/ln(1/0.95) = 97.5 μH on the primary. Referred to the secondary, multiply by 10²: 9.75 mH. The small-droop approximation gives 100 μH and 10 mH, respectively.
 H2: 8.5 The Marx generator
 P: When a pulse must reach hundreds of kilovolts, charging one capacitor to that voltage would require a supply and insulation at the full voltage the whole time. Erwin Marx's 1924 generator avoids it. N capacitors are charged in parallel through resistors to a moderate voltage V. Spark gaps, or in modern designs solid-state switches, then reconnect them in series, and the output momentarily reaches about NV. The erected capacitance is C/N, and the stored energy, N × ½CV², is the same before and after. Marx generators test insulation with standard lightning impulses, 1.2 µs rise and 50 µs fall, drive flash X-ray tubes and ion accelerators, and, built from MOSFETs or IGBTs with sub-microsecond switching, power pulsed electric-field food processing and medical ablation.
 EQ: Vout ≈ N V,   Cerected = C / N,   E = N × ½ C V²
@@ -51,7 +51,7 @@ P: 1. Find the energy in a 100 µF capacitor charged to 5 kV.
 P: 2. A Marx generator has 12 stages charged to 25 kV. Estimate its output.
 P: 3. Design a pulse-forming network for 25 Ω and a 1 µs pulse: find its total capacitance and inductance.
 P: 4. The network of the previous problem is charged to 8 kV. Find the load voltage and the pulse power into a matched load.
-P: 5. A pulse transformer has a 50 Ω PFN output impedance matched to a 50 Ω primary-referred load. For a 2 µs pulse, find the primary magnetizing inductance that limits pulse-top droop to 2%.
+P: 5. A pulse transformer has a 50 Ω PFN output impedance matched to a 50 Ω primary-referred load. For a 2 µs pulse, estimate the primary magnetizing inductance for 2% pulse-top droop using the small-droop model.
 P: 6. Why is a sharp edge on a high-voltage electrode a problem even when the average field is acceptable?
 P: 7. Find the stored energy of a five-stage Marx generator with 1 µF capacitors charged to 20 kV, and its erected voltage.
 P: 8. Why does creepage, unlike clearance, not need correction for altitude?

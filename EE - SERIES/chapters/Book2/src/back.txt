@@ -541,6 +541,7 @@ P: Rockwell Automation, PowerFlex Dynamic Brake Resistor Calculator, Publication
 P: Clifford E. Cummings, Clock Domain Crossing (CDC) Design & Verification Techniques Using SystemVerilog — a widely used paper on synchronizers, Gray-coded FIFO pointers, and handshakes (Chapter 28).
 P: Forrest M. Mims III, Getting Started in Electronics — the hand-drawn classic for the 555, 4000-series, and 7400-series builds of Section 4.5 and the projects without a controller of Section 27.6.
 P: Nexperia, 74HC14 and 74HCT14 Hex Inverting Schmitt Trigger data sheet (2024), for representative operating ranges and input thresholds: https://assets.nexperia.com/documents/data-sheet/74HC_HCT14.pdf.
+P: Texas Instruments, Comparator Output Types, Application Report SLCA006 — open-collector/open-drain outputs, pull-up requirements, and output-level limits.
 P: YosysHQ, nextpnr documentation and Project IceStorm, for current iCE40 device and open-source tool support: https://github.com/YosysHQ/nextpnr.
 P: Tiny Tapeout, current shuttle, process, and pricing pages, for time-sensitive tile, board, shipping, and delivery details: https://www.tinytapeout.com/.
 P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.

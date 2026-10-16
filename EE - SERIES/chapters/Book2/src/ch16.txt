@@ -1,5 +1,5 @@
 H1: Chapter 16 — Comparators, Hysteresis, and Open-Collector Outputs
-P: A thermostat that clicks on and off ten times a second as the room crosses the set point is the comparator problem in miniature. The cure is the same in both: two thresholds instead of one.
+P: A thermostat whose relay chatters as the room crosses its set point is the comparator problem in miniature. Repeated switching shortens relay life and can make the controlled temperature worse; two thresholds usually prevent most of the indecision.
 P: Where you meet this: Button inputs, zero-crossing detectors, battery-low indicators, overcurrent trips and open-drain interrupt lines.
 P: Somewhere in almost every analog system, a continuous voltage has to become a decision: the battery is low, the temperature is too high, the zero crossing has arrived. A comparator makes that decision. Chapter 5 introduced it as an op-amp-shaped part with the feedback deliberately left off. This chapter shows why a bare comparator misbehaves on slow, noisy signals, how a little positive feedback fixes that, and how the open-collector output lets several comparators, or several chips, share one wire.
 H2: 16.1 What Makes a Comparator Different
