@@ -117,6 +117,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - For science books the score areas are: physics (or subject) accuracy, exercises and solutions, clarity for non-physicists, structure and pacing, prose, pictures, sources and licences, Kindle formatting, KDP listing, and covers.
 - Covers are judged from the files in the book folder. A file that exists only under `bak/` counts as draft.
 - Status labels in `SCORES.md`: published = live on Amazon; ready = manuscript closed with an upload package or KDP description; draft = still being written or fixed.
+- No file is named or declared "final" (FINAL in a file name, status or listing) until the book has completed at least 5 external review cycles (outside readers/reviewers, not only internal scoring). Record each cycle in the book's notes. Until then use REVn names (Lothar, 2026-10-15).
 
 ---
 
