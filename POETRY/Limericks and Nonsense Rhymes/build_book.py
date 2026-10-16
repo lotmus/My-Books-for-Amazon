@@ -51,6 +51,37 @@ def make_reference_docx(path: Path) -> None:
     doc.save(path)
 
 
+def put_cover_on_first_page(path: Path) -> None:
+    doc = Document(path)
+    body = doc._body._body
+    paragraphs = doc.paragraphs
+    cover_index = next(
+        (i for i, paragraph in enumerate(paragraphs)
+         if paragraph._p.xpath(".//w:drawing")),
+        None,
+    )
+    if cover_index is None:
+        raise RuntimeError("The cover image was not found in the generated DOCX")
+
+    cover = paragraphs[cover_index]._p
+    caption = None
+    if cover_index + 1 < len(paragraphs):
+        candidate = paragraphs[cover_index + 1]
+        if candidate.text.startswith("Cover:"):
+            caption = candidate._p
+
+    body.remove(cover)
+    body.insert(0, cover)
+    if caption is not None:
+        body.remove(caption)
+        body.insert(1, caption)
+        title_index = 2
+    else:
+        title_index = 1
+    doc.paragraphs[title_index].paragraph_format.page_break_before = True
+    doc.save(path)
+
+
 def main() -> None:
     if not SOURCE.exists():
         raise SystemExit(f"Missing manuscript: {SOURCE}")
@@ -72,6 +103,7 @@ def main() -> None:
     ]
     subprocess.run(common + metadata + ["--to=epub3", "--epub-title-page=false", "--toc", "--toc-depth=2", "--epub-cover-image=images/cover.png", "--output", str(epub)], cwd=HERE, check=True)
     subprocess.run(common + metadata + ["--to=docx", f"--reference-doc={ref}", "--output", str(docx)], cwd=HERE, check=True)
+    put_cover_on_first_page(docx)
     print(f"Built {epub.name} ({epub.stat().st_size:,} bytes)")
     print(f"Built {docx.name} ({docx.stat().st_size:,} bytes)")
 
