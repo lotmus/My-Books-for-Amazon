@@ -2,7 +2,9 @@
 
 ## Current state
 
-**Update 2026-10-12: REV23 is the current working manuscript in this folder:** `Your_First_YouTube_Channel_REV23_sources.docx`. It updates RPM definitions and the Chapter 15 revenue example and refreshes core metadata. REV22 is retained as the prior source; REV17 references below are historical. KDP metadata and description should match REV23’s title page: *Your First YouTube Channel*, subtitle *A Six-Week Guide to Useful Videos, Viewer Feedback, and YouTube’s Changing Rules*, author Kevin Drew Peters. Do not run the legacy Markdown builder: its chapter inputs are incomplete and it predates these revisions. Render and inspect REV23 before release.
+**Update 2026-10-16: REV26 is the current working manuscript:** `Your_First_YouTube_Channel_REV26_sources.docx`. It carries forward the checked REV25 material and adds four concise refinements: wait 24–48 hours before drawing conclusions from early counts, as general patience rather than an algorithm rule; make factual, rights, and delivery fixes promptly; comment on other creators’ videos only with genuine, relevant contributions and no repeated promotional drops; and describe the video in the opening lines before placing a useful link near the top. Affiliate links keep their disclosure beside them. A short note says AI-written description drafts should be checked against the video and stripped of invented claims or keyword stuffing. No change to the accepted `watch?v=` link format was needed; the manuscript keeps its generic `[link]` placeholders. REV25 is archived in `bak/`; REV22–24 are also in `bak/`. REV26 rendered to 126 page images and was visually checked, including the changed pages 19, 21, 68, and 95; no layout defect was found. QA images are in `bak/REV26_QA_2026-10-16/`. The byline is Kevin Drew Peters, matching the KDP listing and the author’s instruction to use the same pen name as the Kindle book; the REV10 front and back covers match. Do not run the legacy Markdown builder: its chapter inputs are incomplete and predate these revisions.
+
+**Literary fan review, 2026-10-13, second pass:** The REV25 text scores 10/10 overall as practical nonfiction: practical voice 10, sentence craft 10, literary distinction 10 within the creator-guide form, clarity 10, and word-level mechanics 10. The score is an editorial judgment, not an external reader result. It repairs link-boundary corruption, breaks up dense technical instructions, improves the diagnostic and closing passages, and retains all source links. The 2026-10-15 LibreOffice render and visual review are recorded in the current-state note above. Full findings: `notes/Literary_Reader_Review_2026-10-13.md`.
 
 **Collection-readiness work, 2026-10-12:** The listing explains the book’s method and recommends it primarily for adult beginners; older teens around 16+ may benefit with parent or guardian guidance. The reader-test brief is still a plan; no human test is claimed. Sensitivity review scored A− with low stereotype risk; see `notes/Representation_Review_2026-10-12.md`. Number audit fixes are applied in REV23; remaining checks include full render and visual review, independent reader test, EPUB conversion and link checks, and live KDP metadata verification before upload.
 
@@ -284,7 +286,7 @@ used now.
    on named, checkable creator case studies; this book doesn't have any yet
    because no session has done that research pass. Worth doing before this
    book is called complete.
-4. Author is Lothar J. Musiol (set 1 Oct 2026); the earlier pen name is retired.
+4. On 1 October 2026 the author was temporarily set to Lothar J. Musiol. This was later reversed at the author’s request; the current byline is Kevin Drew Peters, matching the KDP listing.
 5. Author confirmed (session 2) that this book should match the Kindle
    book's choice of visible, non-cloaked inline hyperlinks and colorful
    workflow diagrams — now used in the *Create* chapter.
