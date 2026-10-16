@@ -178,3 +178,18 @@ Twist-ledger pass on REV12 (plan: `notes/TWIST_LEDGER_PLAN.md`) plus a repetitio
 5. "My own premise, characters, names and wording" is still true of REV13.
 
 **Name rule.** Banned name: zero hits anywhere. Glock's modelled-on name appears once, in the back-matter note.
+
+## REV14, 16 October 2026
+
+Line-and-structure pass on REV13. Body 60,481 words in 39 chapters; appendix 5,342. Scores and detail: `notes/REVIEW_REV14_2026-10-16.md` (overall 9.0, sellability 8.3). REV13 is in `bak\`. **Old chapter numbers in earlier notes: see `notes/CHAPTER_RENUMBERING_REV13.md`.**
+
+Done: ch 23 lengthened to about 1,610 words (weighing scene, Miriam's card), ch 36 to about 1,440 (Glock reading the first page of the pension book aloud); ch 19 to 25 cut for repetition and given physical business; ending (ch 32, 35, 37, 38, 39) trimmed and the Garrick letter moved from ch 37 to ch 39; "looked at him/her" 42 to 13 and other adverb tics trimmed. No twist, rule, plant or payoff changed.
+
+**Amery acknowledgement check (five points, re-run on REV14).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. Scan of story body and appendix for Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Koenig: zero hits. New material (a weighing scale, an index card, a pension book read aloud) has no counterpart in the summaries I could confirm. Still a check against published summaries; I have not read the novel.
+2. KDP_Description.md does not call it an adaptation or sequel or name Amery.
+3. Amery is named only in the back-matter acknowledgement.
+4. No original material copied in.
+5. "My own premise, characters, names and wording" is still true of REV14.
+
+**Name rule.** Banned name: zero hits anywhere. Glock's modelled-on name appears once, in the back-matter note.
