@@ -1800,7 +1800,15 @@ The original limericks in “Modern Limericks” were generated with AI and edit
 
 ## About the Author
 
-The name Seamus O'Leary is a lighthearted nod to Edward Lear, whose nonsense verse inspired this collection.
+Reliable information about Seamus O'Leary is difficult to obtain, largely because his official records are kept by a committee of seven umbrellas, and the umbrellas disagree about everything except Tuesdays. One claims he was born in a cupboard full of maps; another insists he arrived by parcel, addressed to “The Man Who Was Expected Last Thursday.” The third refuses to discuss the matter until someone brings it a small, dry cloud.
+
+As a young fellow, Seamus tried to become a lighthouse keeper, although he had no lighthouse and was afraid of the sea whenever it looked back. He therefore installed a lamp on a very tall hat and took up residence on a hill. Ships began steering toward him, which was inconvenient, as he was usually on the other side of the hill looking for his hat. A passing goat was appointed deputy keeper, but resigned after mistaking the moon for a large white turnip and attempting to tow it home in a wheelbarrow.
+
+Seamus next opened a school for unusually thoughtful spoons. The spoons learned arithmetic, astronomy, and how to stir tea without waking the cup. Their best pupil, a teaspoon called Admiral, discovered a new continent behind the pantry door. Unfortunately, the continent moved whenever anyone tried to put it on a map, so it was eventually made Professor of Geography and allowed to remain where it pleased.
+
+In the evenings, Seamus writes down the reports brought to him by the cat, the goat, the umbrellas, and a very small moon that rents a room in his boot. He tries to make each report rhyme, though the moon is difficult to manage and the goat will only speak in footnotes. The name Seamus O'Leary is a lighthearted nod to Edward Lear, whose nonsense verse showed how respectably an absurdity may wear a hat while boarding a boat that has no business on land.
+
+Seamus is currently searching for the seventh umbrella. It has gone to sea with the map, the wheelbarrow, and a letter addressed to next Tuesday. If it returns, the committee promises to issue a statement. The statement will be brief, unless the spoons have learned shorthand.
 
 ## Back Cover
 
