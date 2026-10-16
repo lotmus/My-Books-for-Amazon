@@ -7,7 +7,7 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 
 MD=sys.argv[1]; OUT=sys.argv[2]; COVER=sys.argv[3]
-BLUE=RGBColor(0x1F,0x4E,0x79); FONT='Georgia'
+BLUE=RGBColor(0x2A,0x5C,0xAA); FONT='Georgia'
 doc=Document()
 sec=doc.sections[0]
 sec.page_width=Inches(3.6); sec.page_height=Inches(4.8)
@@ -28,8 +28,8 @@ lang=OxmlElement('w:lang'); lang.set(qn('w:val'),'en-GB'); n.element.get_or_add_
 h1=st['Heading 1']; setfont(h1,16,True,False,BLUE)
 h1.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; h1.paragraph_format.page_break_before=True
 h1.paragraph_format.space_before=Pt(14); h1.paragraph_format.space_after=Pt(12); h1.paragraph_format.keep_with_next=True
-h2=st['Heading 2']; setfont(h2,11,True,False,BLUE)
-h2.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.LEFT; h2.paragraph_format.space_before=Pt(10); h2.paragraph_format.space_after=Pt(4); h2.paragraph_format.keep_with_next=True
+h2=st['Heading 2']; setfont(h2,12.5,True,False,BLUE)
+h2.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; h2.paragraph_format.space_before=Pt(10); h2.paragraph_format.space_after=Pt(4); h2.paragraph_format.keep_with_next=True
 def mk(name,base='Normal'):
     try: s=st[name]
     except KeyError: s=st.add_style(name,WD_STYLE_TYPE.PARAGRAPH)
@@ -80,7 +80,7 @@ def link_entry(text,anchor,style):
     p=doc.add_paragraph(style=style)
     h=OxmlElement('w:hyperlink'); h.set(qn('w:anchor'),anchor); h.set(qn('w:history'),'1')
     r=OxmlElement('w:r'); rpr=OxmlElement('w:rPr'); rs=OxmlElement('w:rStyle'); 
-    c=OxmlElement('w:color'); c.set(qn('w:val'),'1F4E79'); rpr.append(c)
+    c=OxmlElement('w:color'); c.set(qn('w:val'),'2A5CAA'); rpr.append(c)
     u=OxmlElement('w:u'); u.set(qn('w:val'),'single'); rpr.append(u); r.append(rpr)
     t=OxmlElement('w:t'); t.text=text; t.set(qn('xml:space'),'preserve'); r.append(t); h.append(r); p._p.append(h)
 
@@ -99,7 +99,7 @@ for b in blocks:
 p=doc.add_paragraph(style='Centered'); p.paragraph_format.space_after=Pt(0)
 p.add_run().add_picture(COVER,width=Inches(2.55))
 pp=pagebreak_para('Novel Title'); pp.paragraph_format.space_before=Pt(50); pp.add_run('The Department of Historical Corrections')
-para('A Novel','Subtitle'); para('','Normal'); para('**Lothar J. Musiol**','Centered')
+para('A Novel','Subtitle'); _a=para('**Lothar J. Musiol**','Centered'); _a.paragraph_format.space_before=Pt(24)
 pc=pagebreak_para('Small'); pc.add_run('Copyright © 2026 Lothar J. Musiol. All rights reserved.')
 para('This is a work of fiction. Historical settings are used imaginatively; the Department, its technology and its people are invented, and any resemblance to actual persons, living or dead, or to any department that has ever misplaced a country, is coincidental.','Small')
 para('No part of this book may be reproduced without written permission, except for brief quotations in reviews.','Small')
@@ -112,7 +112,8 @@ for h,body in chapters:
     for l in body:
         s_=l.rstrip()
         if not s_.strip(): continue
-        if s_.strip() in ('* * *','---'): para('* * *','Scene Break'); continue
+        if s_.strip() in ('* * *','---'):
+            sbp=doc.add_paragraph(style='Scene Break'); sbp.add_run('* * *'); continue
         if s_.startswith('### '): para(s_[4:].strip(),'Heading 2'); continue
         mi=re.match(r'^!\[(.*)\]\((.*)\)$',s_.strip())
         if mi:

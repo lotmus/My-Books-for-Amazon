@@ -1,6 +1,6 @@
 # KDP listing: The Department of Historical Corrections
 
-Author field: **Lothar J. Musiol** (no pen name). Language: English (British spelling). Standalone novel, about 58,500 words plus a 5,300-word back-matter appendix with five diagrams (a Kindle read of roughly five hours). Kindle only; no paperback.
+Author field: **Lothar J. Musiol** (no pen name). Language: English (British spelling). Standalone novel, about 60,500 words plus a 5,300-word back-matter appendix with five diagrams (a Kindle read of roughly five hours). Kindle only; no paperback.
 
 ## Title and subtitle
 
@@ -61,5 +61,6 @@ Text on the cover: "Belgium has stopped existing. It is Monday." / THE DEPARTMEN
 
 ## Files
 
-- Master: `The Department of Historical Corrections - REV11.docx` (later REV files replace it; older versions go to `bak\`)
+- Upload: `The Department of Historical Corrections - REV13.epub`; fallback `REV13.docx` (later REV files replace them; older versions go to `bak\`)
 - Front cover: `cover/The Department of Historical Corrections - front cover 1000x1600.png` (embedded as page one of the docx; upload the same image to KDP)
+

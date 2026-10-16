@@ -159,3 +159,22 @@ Weak-spot pass on REV11. No story rule, twist, plant or running joke changed. Bu
 5. The acknowledgement wording ("my own premise, characters, names and wording") is still true of REV12. "Bell" appears once, in the back-matter note; the appendix and figures say CHSH.
 
 - **Back cover (new rule, LOTHAR_RULES.md, 15 Oct 2026):** added as the last page: `cover\The Department of Historical Corrections - back cover 1000x1600.png` (text only on one colour, made by `notes/build/backcover.py` with Windows fonts), inline at 2.59 x 4.15 in so it fits the page, with alt text; no barcode, price or ISBN. `build.py` takes the back cover as an optional fourth argument. KDP_Description.md word counts updated and the appendix line now says each lesson has a diagram.
+
+## REV13, 16 October 2026
+
+Twist-ledger pass on REV12 (plan: `notes/TWIST_LEDGER_PLAN.md`) plus a repetition and junk check. Body about 60,500 words in 39 chapters; appendix 5,342. Scores and detail: `notes/REVIEW_REV13_2026-10-16.md` (overall 8.9, sellability 8.3). REV12 is in `bak\`.
+
+**New and changed chapters.** Planned 22b is chapter 23 "Reason for Return" (Beatrice's dot: Schedule 14, 1988, inspector Alan Corley, alive). Planned 34b is chapter 36 "Visiting Hours" (the 1991 nurse was Margaret Glock). Fanshawe's village (Tullymoss) is revealed in chapter 32. Plants: ch 1, 6, 7, 9, 12, 15. Fallout: ch 35, 39.
+
+**Renumbering.** Old 23 to 25 are now 24 to 26; old 26 to 30 are now 27 to 31 (so the ceremony is 27 and "Ten Thirty" 31); old 31 to 33 are now 32 to 34; old 34 is 35; old 35 is 37; old 36 is 38; old 37 is 39. Earlier notes (DISPATCH_LEDGER, REVIEW_REV8 to REV12) use the old numbers.
+
+**Rules kept.** Nothing added to the ceremony chapter; no new time-travel rule; nobody causes their own existence (Corley is alive and left out, not resurrected; the nurse never time-travelled). Glock is not made sympathetic.
+
+**Amery acknowledgement check (five points, re-run on REV13).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. Scan of the story body and appendix for Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Koenig: zero hits. The new material (a transfer schedule, a ward, a moss) has no counterpart in the summaries I could confirm. Still a check against published summaries; I have not read the novel.
+2. KDP_Description.md does not call it an adaptation or sequel or name Amery.
+3. Amery is named only in the back-matter acknowledgement.
+4. No original material copied in.
+5. "My own premise, characters, names and wording" is still true of REV13.
+
+**Name rule.** Banned name: zero hits anywhere. Glock's modelled-on name appears once, in the back-matter note.
