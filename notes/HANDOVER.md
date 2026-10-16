@@ -206,3 +206,10 @@ Grouped the current 660 porcelain entries in the shared checkout by path. Larges
 
 The old-location deletions plus untracked relocated trees explain much of the shared checkout's apparent churn. Do not commit the whole checkout: it mixes at least Look First, the Digital Twin, EE Books 1–9, Dolphins, Science Sparks, Poetry and other books. No moves or staging were made.
 
+
+
+## Look First relocation and book-level handovers — 2026-10-16
+Read `SCIENCE  Series/Look First - SERIES/notes/HANDOVER.md` and each volume's status before deciding its current file. Book 1 (*The Universe Has No Now*) status names `export/The_Universe_Has_No_Now.docx` as KDP ingest, 112,883-word stamp (1 Oct), and explicitly says docx only/no EPUB. Book 2 (*A Trip Is Not a New Life*) status names `A Trip Is Not a New Life - Kindle.docx` as its 6x9 Kindle file; the status calls the 46-chapter combined manuscript the current book, with source sections in the same folder. The logs date from 1–3 Oct and do not establish which of the later on-disk path copies is authoritative.
+
+The series handover explicitly scopes itself to Book 1 and says leave the sequel, leave `bak/`, unless the author asks for that book; Book 2's separate status also treats it as a distinct current manuscript. Do not move or archive either book's files under the series-level handover alone. The shared checkout has 194 deletions from old `NOVELS/Look First - SERIES` plus a full new `SCIENCE  Series/Look First - SERIES/` tree; 138 old/new files are byte-identical and 56 differ. This combines relocation and content edits, so resolve ownership/current version for each volume before any move. No Look First file changed in this audit.
+
