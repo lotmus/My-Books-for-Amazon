@@ -27,7 +27,7 @@ P: Solution. 20 × 4 = 80 edges per turn, × 3 turns per second = 240 edges per 
 P: Key idea. An interrupt handler records that something happened; the rest of the program decides what it means and does the work. Short handlers, queues, and flags keep every other deadline intact.
 P: Common misconception. Interrupts are always better than polling. Polling a slow input every few milliseconds in a loop that already runs that often costs almost nothing and cannot cause a race condition. Interrupts earn their complexity when the event is short, rare, or must wake the chip from sleep.
 P: AI Pair-Programming Note
-P: Generated ISR code often calls Serial.println, printf, or ESP_LOGI inside the handler, uses delay() for debouncing inside the ISR, or forgets the pull-up. Search every ISR for any call that can block or print, and compare every pin's pull configuration with the spec's pin table.
+P: Generated ISR code often calls Serial.println, printf, or ESP_LOGI inside the handler, uses delay() for debouncing inside the ISR, or forgets the pull-up. Search every ISR for any call that can block or print, and compare every pin's pull configuration with the spec's pin table. If the handler spends its time printing, the event log may be complete while the control loop misses its next deadline.
 BENCH: To see how long your ISR really takes, set a spare GPIO high at the start of the ISR and low at the end, and measure the pulse on a scope or logic analyzer. The same trick, on the edge that triggers the interrupt and the GPIO, measures the interrupt latency. Two pins and two lines of code replace a lot of guessing.
 H2: Practice
 P: 1. (Core) Which ESP32-S3 pins are strapping pins, and why should a button not pull one of them low at reset?
