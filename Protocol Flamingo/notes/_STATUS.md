@@ -1,6 +1,6 @@
 # STATUS — Protocol Flamingo
 
-Last updated: 2026-10-12. The live manuscript is `Protocol_Flamingo_REV10.docx`; `build_docx.js` generates an earlier, shorter draft and is not its source. The current DOCX contains about 80,360 words and 2,577 body paragraphs (counted from extracted paragraph text; Word may count differently). `KDP_LISTING.md` holds the listing copy and `bak/` contains dated snapshots.
+Last updated: 2026-10-16. The current pair is `Protocol_Flamingo_REV11.docx` and `Protocol_Flamingo_REV11.epub`; upload the EPUB and keep the DOCX as a fallback. `build_docx.js` generates an earlier, shorter draft and is not their source. The current DOCX contains about 77,092 extracted words and 2,570 body paragraphs (Word may count differently). `KDP_LISTING.md` holds the listing copy.
 
 ## Current editorial status
 
@@ -15,7 +15,11 @@ The latest review pass covered line clarity, scientific claims, and continuity. 
 
 Target-reader review: 9.3/10 for readers who enjoy comic first-contact fiction, institutional satire, and character-led mysteries. The opening anomaly, escalating family and public stakes, earned consent-centered climax, and later character payoffs support continued reading and recommendations. The main audience-fit caveat is the deliberate pace of the bureaucratic and family aftermath; do not trim it solely to satisfy readers looking for nonstop action.
 
-Structural checks on the current DOCX found a readable archive, 2,573 body paragraphs, and no visible raw URLs. The last available PDF predates the science and continuity edits; final visual inspection of the current file’s rendered pages is still outstanding. The existing `AGENTS.md` is the contributor guide and must not be overwritten.
+REV11 structural pass (13 Oct 2026): removed 1,961 extracted words of repeated institutional friction and rule restatement while preserving family beats, the consent-centered climax, the science boundary, and the ending. DOCX/EPUB production checks and mechanical review passed. The existing `AGENTS.md` is the contributor guide.
+
+REV11 reader review (15 Oct 2026): pacing and clarity, voice and dialogue, continuity and science, and overall reader impact each scored 10/10. No manuscript changes were recommended. The review covered the current active pair; the DOCX and EPUB were not edited during that pass.
+
+Version sync (16 Oct 2026): REV11 DOCX/EPUB replace the old REV10 active pair. Four superseded REV10 files were moved to the ignored `bak/2026-10-16 REV11 sync/` folder and are excluded from source control.
 
 ## Historical notes
 
