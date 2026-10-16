@@ -164,3 +164,15 @@ Humour pass; no change to any transit, capacity or clock figure. New fixed point
 | Thu ~08:25 | Arthur tells Fanshawe; term six | 31 |
 | Inquiry, six weeks later | Arthur reads the fifteenth into the record | 34 |
 | December | Arthur enters his fifteen: "Everyone in Belgium. Tables 40 to 118 only." | 37 |
+
+
+## REV11 additions (15 Oct 2026)
+
+| When | What | Chapter |
+|---|---|---|
+| Tue 11:12 (return from 1746) | Miriam logs two figures per traveller from now on: department clock and the traveller's own. Eleanor: right-hand watch 17:41, set to 14:10 on arrival, so 3 h 31 own against 3 h 32 department; not dilation (that would need v/c = 0.097) | 13 |
+| Tue, after 11:12 | Pensions ask whether the man in the side room is staff and how old; Beatrice told them three years older than Mr Pembroke | 13 |
+| Mon 14 Sep, morning | Eleanor to Arthur: whatever you do in an open minute becomes part of what happened; closed means independently recorded; "Say cat again and I'll weigh you twice" | 2 |
+| Mon, after Glock's visit | Miriam asks whether token and stove are entangled; Eleanor: correlated, not in conversation; whatever carries a message costs an opening | 6 |
+| Wed night | Dr Rao's footnote: closed minutes are closed like a thick wall; "somewhere the budget can't see it" | 22 |
+| Weeks after (Thursday of Garrick's week) | Hall B queue ticket 0417, November 2029, found in the enquiries tray; no aperture, no current, not in the incoming book; Aliyah Rahimi's hand; Beatrice's register entry: arrived, cost none known, clerical tunnel (not repeatable); Karim keeps the ticket, a photograph is filed; Arthur's unsent reply to Hall B | 35 |

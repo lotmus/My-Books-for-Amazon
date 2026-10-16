@@ -28,6 +28,8 @@ lang=OxmlElement('w:lang'); lang.set(qn('w:val'),'en-GB'); n.element.get_or_add_
 h1=st['Heading 1']; setfont(h1,16,True,False,BLUE)
 h1.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.CENTER; h1.paragraph_format.page_break_before=True
 h1.paragraph_format.space_before=Pt(14); h1.paragraph_format.space_after=Pt(12); h1.paragraph_format.keep_with_next=True
+h2=st['Heading 2']; setfont(h2,11,True,False,BLUE)
+h2.paragraph_format.alignment=WD_ALIGN_PARAGRAPH.LEFT; h2.paragraph_format.space_before=Pt(10); h2.paragraph_format.space_after=Pt(4); h2.paragraph_format.keep_with_next=True
 def mk(name,base='Normal'):
     try: s=st[name]
     except KeyError: s=st.add_style(name,WD_STYLE_TYPE.PARAGRAPH)
@@ -46,12 +48,16 @@ tsub=mk('Subtitle'); setfont(tsub,11,False,True); tsub.paragraph_format.alignmen
 grp=mk('Group'); setfont(grp,9,True); grp.paragraph_format.space_before=Pt(5); grp.paragraph_format.space_after=Pt(2); grp.paragraph_format.keep_with_next=True
 item=mk('Also By Item'); setfont(item,8.5); item.paragraph_format.space_after=Pt(2); item.paragraph_format.left_indent=Inches(0.1)
 
-TOK=re.compile(r'(\*\*|\*)')
+TOK=re.compile(r'(\*\*|\*|\^\{[^}]*\}|_\{[^}]*\})')
 def add_runs(p,text):
     b=i=False
     for part_ in TOK.split(text):
         if part_=='**': b=not b
         elif part_=='*': i=not i
+        elif part_ and part_[:2] in ('^{','_{') and part_.endswith('}'):
+            r=p.add_run(part_[2:-1]); r.bold=b or None; r.italic=i or None
+            if part_[0]=='^': r.font.superscript=True
+            else: r.font.subscript=True
         elif part_:
             r=p.add_run(part_); r.bold=b or None; r.italic=i or None
 bm_id=[100]
@@ -105,6 +111,7 @@ for h,body in chapters:
         s_=l.rstrip()
         if not s_.strip(): continue
         if s_.strip() in ('* * *','---'): para('* * *','Scene Break'); continue
+        if s_.startswith('### '): para(s_[4:].strip(),'Heading 2'); continue
         para(s_.strip())
 def section(h,body,style_para=None):
     nm=heading(h); entries.append(('ch',h,nm))

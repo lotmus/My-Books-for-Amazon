@@ -36,3 +36,8 @@ Humour pass. New fixed points are in DISPATCH_LEDGER.md (REV9 additions). Key fa
 ## REV10 (15 Oct 2026)
 
 New fixed points are in DISPATCH_LEDGER.md (REV10 additions). Key facts: Arthur signed the cover sheet of the casualty extract (tables 40 to 118, "for consistency against stated sources only") on Friday 21 August 2026, item 22 of 31, his 206th and last review; 23 days before Fanshawe crossed (Sun 13 Sep); Glock removed pages 1 to 39 and chose the date; Arthur signs with a short flat line under the name; term six added in ch 31; Arthur's own entries in the registers are now fifteen. Scan run on the finished file: no clashes found in dates, counts or names.
+
+
+## REV11 (15 Oct 2026)
+
+Physics pass. New fixed points are in DISPATCH_LEDGER.md (REV11 additions). Key facts: from chapter 13 the register takes two figures per traveller (department clock, traveller's own); Eleanor's own time for the 1746 trip was 3 h 31 against 3 h 32; Pensions asked the dead man's age; Dr Rao's footnote (ch 22) and the Hall B ticket (ch 35: HALL B, 0417, November 2029, Aliyah Rahimi's hand, "clerical tunnel (not repeatable)"); nothing else about 2029, Camberwell or the terminal changed (Karim's mother is still unreachable). The appendix, Lessons from the Department, follows chapter 37 and precedes the Acknowledgement. Scan run on the finished file: no clashes found in dates, counts or names.

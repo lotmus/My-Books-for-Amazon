@@ -1,6 +1,6 @@
 # KDP listing: The Department of Historical Corrections
 
-Author field: **Lothar J. Musiol** (no pen name). Language: English (British spelling). Standalone novel, about 56,000 words (a Kindle read of roughly four and a half hours). Kindle only; no paperback.
+Author field: **Lothar J. Musiol** (no pen name). Language: English (British spelling). Standalone novel, about 58,400 words plus a 4,800-word back-matter appendix (a Kindle read of roughly five hours). Kindle only; no paperback.
 
 ## Title and subtitle
 
@@ -26,6 +26,8 @@ What follows is a comic thriller of forms, receipts and second copies: a printer
 It is about who gets to keep the record, and why the answer should never be only one person.
 
 And it is properly funny about it: the pass reader that always stops at ninety-one per cent, the monitor that has been asking for an update since 2019, a committee that records Belgium as an apology for absence, and a packet of biscuits that ends up as Exhibit 1.
+
+The back of the book has *Lessons from the Department*: five short physics lessons (time dilation, self-consistency, what "observed" really means, entanglement, tunnelling), each with worked examples and exercises, for anyone who wants to know which parts of the machine are real and which are paperwork.
 
 For readers of British deadpan, civil-service satire and time-travel mysteries with a pulse. Funny in the corridors; serious where it counts.
 
@@ -59,5 +61,5 @@ Text on the cover: "Belgium has stopped existing. It is Monday." / THE DEPARTMEN
 
 ## Files
 
-- Master: `The Department of Historical Corrections - REV9.docx` (later REV files replace it; older versions go to `bak\`)
+- Master: `The Department of Historical Corrections - REV11.docx` (later REV files replace it; older versions go to `bak\`)
 - Front cover: `cover/The Department of Historical Corrections - front cover 1000x1600.png` (embedded as page one of the docx; upload the same image to KDP)
