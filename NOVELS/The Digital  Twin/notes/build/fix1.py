@@ -1,8 +1,0 @@
-exec(open('rev3_edits.py').read().split('# ---- 1.')[0])
-R(21,"a Rhode Island Red conducting","a hen conducting")
-R(21,"left the room by the cat flap","left by the scullery door")
-R(24,"I understood it in the van afterwards, when I watched her face.","I understood it a little later, watching her face at the sink.")
-R(24,"She went to the Aga and lifted the lid on the hot plate that nobody used,","She went to the range and lifted the lid on the hot plate that nobody used,")
-R(24,"At the sink Dr Calder rinsed the cups.","Giles came out of the coal-hole in the shape of a man who had been dipped. He said, \"I'll go by the loch path,\" and went, at a run, and was a black smudge by the water before anyone could tell him there was no need.\n\nAt the sink Dr Calder rinsed the cups.")
-R(18,"£14, itemised, with a note that the hyphen in *Daniel-A* had been charged as a character.","£14, itemised, with a separate line for the hologram.")
-R(18,"The Department emailed an invoice","The laboratory emailed an invoice")

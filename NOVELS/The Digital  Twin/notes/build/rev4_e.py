@@ -1,4 +1,0 @@
-from rev4_part1 import rep
-rep("ch32", "Registered: 2 March 1999. Holder:", "Registered: [blank]. Holder:")
-rep("ch32", "\"The second of March 1999,\" said Daniel-A, from the rucksack, so quietly that the Hall had to lean. \"That is the day my orphans resume.\"\n\n\"It is the day the Registry's audit found the Programme,\" said Pettifer, \"and found,",
-"\"The date field is blank, sir,\" said Pettifer. \"The record was migrated from paper. But page one of the Register, which Mr Veitch has been good enough to produce, gives the day on which the Registry's audit found the Programme. It is the second of March 1999.\"\n\n\"That is the day my orphans resume,\" said Daniel-A, from the rucksack, so quietly that the Hall had to lean.\n\n\"It is the day the Registry found,")
