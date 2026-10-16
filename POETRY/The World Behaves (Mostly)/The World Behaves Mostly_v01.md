@@ -12,6 +12,9 @@ This is a new, original poetry collection. It stands apart from the companion no
 - “Love, With the Dishes”
 - “The Map Between Us”
 - “The Unsent Message”
+- “The Toast”
+- “The Phone at Dinner”
+- “A Houseplant Complains”
 
 ### Daily life and its machinery
 - “The Instructions”
@@ -20,6 +23,8 @@ This is a new, original poetry collection. It stands apart from the companion no
 - “Instructions for a Modern Oracle”
 - “A Sonnet for the Unread Email”
 - “The Cat on the Lecture Notes”
+- “The Missing Sock Inquiry”
+- “How to Leave a Party”
 
 ### Earth, sky, and space
 - “The Astronaut’s First Morning”
@@ -28,11 +33,18 @@ This is a new, original poetry collection. It stands apart from the companion no
 - “Orbit”
 - “The Last Tree in the Lot”
 - “Snow in April”
+- “The Ferry at First Light”
+- “A Sonnet for Mars”
+- “The Weather Has Its Own Grammar”
 
 ### Time and perspective
 - “The Light That Arrives Late”
 - “The Museum at Closing Time”
 - “A Good Question”
+- “The Laundromat at Midnight”
+- “Two Minutes After Midnight”
+- “After the Rain”
+- “The Choice”
 
 ---
 
@@ -109,9 +121,9 @@ Became a keepsake straightaway.
 ### The Meeting That Could Have Been an Email
 
 We gathered round the polished screen
-To ask what all the charts could mean.
-The first chart showed the second chart;
-The third explained the first part.
+To choose between two plans, both lean.
+One chart compared the plans by price;
+The next made savings look precise.
 
 A voice said, “We should circle back.”
 The clock performed a quiet crack.
@@ -121,7 +133,7 @@ And called the loop a fresh device.
 At last someone leaned toward the mic:
 “Which plan, then? We could make this quick.”
 The chair said, “A.” The room agreed.
-That was the answer we would need.
+No further charts were then required.
 
 We wrote it down and sent it round.
 The email landed safe and sound.
@@ -421,7 +433,219 @@ A fact can open one clear door;
 A question keeps the hallway wide.
 We walked back home, and asked once more
 What else the dark might hold inside.
+## Love and Company: More Poems
 
+### The Phone at Dinner
+
+The phone lay face-up by the plate,
+A second guest who never ate.
+It lit the table blue and cold
+And scrolled the worries bought and sold.
+
+You turned it over. “There,” you said.
+The room grew warm; the screen went dead.
+The soup had cooled. The bread was tough.
+The evening, somehow, was enough.
+
+We spoke of work, the neighbor’s tree,
+The small repairs we’d yet to see.
+The phone stayed quiet in its place.
+I learned again your listening face.
+
+### A Houseplant Complains
+
+I bought a plant to learn to care
+For something rooted, green, and fair.
+It drooped each time I missed a day;
+I took the hint and changed my way.
+
+I moved it closer to the light,
+Then moved it back; the sun was bright.
+I watered twice. It looked distressed.
+I asked the florist what was best.
+
+“Leave it alone,” the florist said.
+I gave it room and let it be.
+It found its shape beside the light;
+I stopped to help. It did all right.
+
+## Daily Life and Its Machinery: More Poems
+
+### The Missing Sock Inquiry
+
+The laundry basket has a trick:
+It takes one sock; the rest go quick.
+I questioned every drawer and shoe;
+The dryer hummed, but never knew.
+
+I blamed the dog. He looked offended.
+The cat looked pleased. The case was pending.
+I checked the sleeves, the towel, the hall;
+One sock had vanished, that was all.
+
+I bought a dozen, paired and bright.
+By Thursday, half had left from sight.
+I keep one lonely sock on show:
+A small white flag to those who go.
+
+### How to Leave a Party
+
+You say, “We really must be going,”
+While neither of your coats is showing.
+Your host begins a tale at length;
+You nod, and summon hidden strength.
+
+You stand. You sit. You praise the cheese.
+The host asks, “Tea?” “Oh, yes, please.”
+A friend arrives; you greet them all;
+The doorway vanishes down the hall.
+
+At last you say, “We have to run.”
+The host says, “Wait, we’ve just begun.”
+You wave, escape, and reach the street—
+Then text: “That was a lovely evening. We should meet.”
+
+## Earth, Sky, and Space: More Poems
+
+### The Ferry at First Light
+
+The ferry eased away from shore
+Before the town began to stir.
+A gull kept pace, then asked for more;
+The harbor lights began to blur.
+
+We stood beneath the salt-stiff air,
+The deck still dark, the coffee strong.
+A woman held her ticket there
+As if it knew where she belonged.
+
+The far coast gathered from the gray:
+A line of roofs, a church, a crane.
+We crossed a strip of ordinary sea
+And found the day had changed again.
+
+### A Sonnet for Mars
+
+We point our instruments at rust-red ground,
+And send a little rover through the cold.
+It reads the stones without a human sound,
+While we await the pictures it will hold.
+
+We map the valleys, name each distant rise,
+And test the dust for traces left behind.
+The planet keeps its billion-year disguise;
+Our questions travel faster than our kind.
+
+A bootprint there would matter, yet how much?
+The world is not a prize we get to claim.
+We bring our hunger, tools, and need to touch,
+And leave our fingerprints beside a name.
+
+Perhaps the wisest mission we can send
+Is learning what we owe before we land.
+
+### The Weather Has Its Own Grammar
+
+Cloud gathers over the ridge.
+The leaves turn their pale sides out.
+A crow abandons the fence
+and takes the long way home.
+
+No forecast says what a field knows:
+the pressure in its grasses,
+the smell of rain still miles away,
+the small birds going quiet.
+
+Then weather writes across the window
+in a hand no one can keep.
+By morning, every branch has learned
+another shape for green.
+
+## Time and Perspective: More Poems
+
+### The Laundromat at Midnight
+
+At twelve, the dryers turn like moons
+Above the rows of empty chairs.
+A man folds shirts beneath the tunes
+Of radio hosts and late-night cares.
+
+He sorts each sleeve, each seam, each pair,
+The ordinary made precise.
+A child asleep against a chair
+Has dreamed the hum a lullaby.
+
+The washers finish, one by one;
+The glass doors open, warm and wide.
+The night has done what nights have done:
+Returned the small things, clean and dried.
+
+### Two Minutes After Midnight
+
+The date changed while I washed a cup.
+The clock advanced; the sink stayed full.
+The year began; the kettle shut.
+The house remained its usual self.
+
+No trumpet sounded in the hall.
+No hidden door swung open wide.
+The old year left its coat behind;
+The new one wore it, tried the stride.
+
+I dried the cup and set it down.
+The first small act was just the same.
+Yet somewhere, past the sleeping town,
+A light came on and called its name.
+
+### After the Rain
+
+The pavement keeps the sky awhile,
+In broken pools along the street.
+The traffic slows; a child can smile
+At clouds reflected near their feet.
+
+The storm has rinsed the plane-tree leaves;
+The gutters carry twigs and grit.
+A sparrow tests the air, then leaves
+A wet stone ledge to rise from it.
+
+No one can hold the rain in place,
+Or ask the shining day to stay.
+But for a moment, every face
+Can see the world refreshed by gray.
+
+### The Choice
+
+A road divided at the hill:
+One climbed toward noise, one curved below.
+The faded sign stood silent still;
+No arrow said which way to go.
+
+I asked a walker passing by.
+She said, “I took the lower track.”
+I asked if she was glad. “Sometimes.”
+She smiled, then turned and wandered back.
+
+The choice was not a test of worth,
+Nor proof one path was false or true.
+We choose a road; we make its meaning
+By what we notice as we move.
+
+
+## Love and Company: A Quiet Poem
+
+### The Toast
+
+You did not say everything heals.
+You put the kettle on.
+You set a plate beside my chair
+and left the toast where I could reach it.
+
+The rain took its time at the glass.
+You stayed until the room changed color.
+I do not remember what we said.
+I remember the butter softening,
+the quiet shared without being solved.
 ## About the Poet
 
 Kira Vale writes poems that move between the intimate and the immense: a small kindness at the kitchen sink, a difficult change, the old light of a distant star. Her work can be wry, tender, or questioning, and looks for meaning in ordinary details without pretending every question has an easy answer. She writes for readers who want a poem to leave them with something to feel, consider, or carry into the day.
