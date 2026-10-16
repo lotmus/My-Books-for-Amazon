@@ -1,27 +1,41 @@
-# Limericks and Other Nonsense Rhymes
+# Limericks and Other Nonsense Rhymes (Illustrated)
 
-**A working anthology**  
+**Classic nonsense verse and modern limericks**
 Lothar J. Musiol
 
----
+## Copyright
+
+Copyright © 2026 Lothar J. Musiol
+
+All rights reserved for this edition's new selection, arrangement, editorial material, and human-edited modern poems. The nineteenth-century poems are public-domain texts. AI-generated text and illustrations are identified in the notes.
 
 ## Editor’s note
 
-This collection brings together limericks and longer nonsense poems from the POETRY folder. Duplicate limericks have been removed and the short verses are grouped by subject. The selection favors clear, satisfying rhyme and a complete comic turn; bulk-generated batches with broken grammar, forced endings, or repeated templates have been left out.
+A topical anthology pairing Edward Lear’s nonsense verse with new limericks about phones, apps, remote work, streaming, chatbots, and connected life. The modern poems were generated with AI and edited by Lothar J. Musiol for language, rhythm, and rhyme. Ten original interior illustrations accompany the poems.
 
-The source files identify these verses as traditional public-domain material. Verify every text against its original edition and resolve textual variants before publication.
+The classic texts are drawn from Edward Lear’s nineteenth-century nonsense books, including *A Book of Nonsense* and *Nonsense Songs, Stories, Botany, and Alphabets*. Early printings and later editions contain textual variants; this anthology preserves a readable selection and spelling. Sources are listed at the end.
 
 ## Contents
 
-1. [Animals, Birds & Beasts](#animals-birds-beasts) (38)  
-2. [Food, Drink & the Table](#food-drink-the-table) (16)  
-3. [Hats, Clothes & Household Oddities](#hats-clothes-household-oddities) (20)  
-4. [Journeys, Escapes & Mishaps](#journeys-escapes-mishaps) (22)  
-5. [Old Men & Other Eccentrics](#old-men-other-eccentrics) (65)  
-6. [Young Ladies & Other Characters](#young-ladies-other-characters) (18)  
-7. [Longer Nonsense Rhymes](#longer-nonsense-rhymes) (6)
+1. [Copyright](#copyright)
+2. [Editor’s note](#editors-note)
+3. [Animals, Birds & Beasts](#animals-birds-beasts) (37 classics)
+4. [Food, Drink & the Table](#food-drink-the-table) (16 classics)
+5. [Hats, Clothes & Household Oddities](#hats-clothes-household-oddities) (19 classics)
+6. [Journeys, Escapes & Mishaps](#journeys-escapes-mishaps) (22 classics)
+7. [Old Men & Other Eccentrics](#old-men-other-eccentrics) (65 classics)
+8. [Young Ladies & Other Characters](#young-ladies-other-characters) (17 classics)
+9. [Modern Limericks](#modern-limericks) (22)
+10. [Longer Nonsense Rhymes](#longer-nonsense-rhymes) (6)
+11. [Sources and Text Notes](#sources-and-text-notes)
+12. [About the Author](#about-the-author)
+13. [Also by Lothar J. Musiol](#also-by-lothar-j.-musiol)
+14. [Back Cover](#back-cover)
 
 ## Animals, Birds & Beasts
+
+![An old gentleman discovers a flock nesting in his beard.](images/01_birds_in_the_beard.jpg)
+*The beard becomes a birdhouse.*
 
 ### 1
 
@@ -284,93 +298,86 @@ Who had an immoderate mouth;
 But in swallowing a dish that was quite full of fish,
 He was choked, that Old Man of the South.
 
-### 38
-
-There was an Old Man of Aôsta
-Who possessed a large Cow, but he lost her;
-But they said, “Don't you see she has run up a tree,
-You invidious Old Man of Aôsta?”
-
 ## Food, Drink & the Table
 
-### 39
+### 38
 
 There was an Old Person of Chili,
 Whose conduct was painful and silly;
 He sate on the stairs, eating apples and pears,
 That imprudent Old Person of Chili.
 
-### 40
+### 39
 
 There was an Old Man of Kilkenny,
 Who never had more than a penny;
 He spent all that money in onions and honey,
 That wayward Old Man of Kilkenny.
 
-### 41
+### 40
 
 There was an Old Person of Ischia,
 Whose conduct grew friskier and friskier;
 He danced hornpipes and jigs, and ate thousands of figs,
 That lively Old Person of Ischia.
 
-### 42
+### 41
 
 There was an Old Man of Vienna,
 Who lived upon Tincture of Senna;
 When that did not agree, he took Camomile Tea,
 That nasty Old Man of Vienna.
 
-### 43
+### 42
 
 There was an Old Person of Leeds,
 Whose head was infested with beads;
 She sat on a stool and ate gooseberry-fool,
 Which agreed with that Person of Leeds.
 
-### 44
+### 43
 
 There was an Old Person whose habits
 Induced him to feed upon Rabbits;
 When he’d eaten eighteen, he turned perfectly green,
 Upon which he relinquished those habits.
 
-### 45
+### 44
 
 There was an old person of Minety,
 Who purchased five hundred and ninety
 Large apples and pears, which he threw unawares
 At the heads of the people of Minety.
 
-### 46
+### 45
 
 There was an old man on the Humber,
 Who dined on a cake of Burnt Umber;
 When he said, “It’s enough!” they only said, “Stuff!
 You amazing old man on the Humber!”
 
-### 47
+### 46
 
 There was an old person of Putney,
 Whose food was roast spiders and chutney,
 Which he took with his tea, within sight of the sea,
 That romantic old person of Putney.
 
-### 48
+### 47
 
 There was an old person of Pett,
 Who was partly consumed by regret;
 He sate in a cart, and ate cold apple tart,
 Which relieved that old person of Pett.
 
-### 49
+### 48
 
 There was an old person of Bray,
 Who sang through the whole of the day
 To his ducks and his pigs, whom he fed upon figs,
 That valuable person of Bray.
 
-### 50
+### 49
 
 There was an Old Man of Calcutta,
 Who perpetually ate bread and butter,
@@ -378,28 +385,28 @@ Till a great bit of muffin,
 On which he was stuffing,
 Choked that horrid Old Man of Calcutta.
 
-### 51
+### 50
 
 There was an Old Man of the Coast,
 Who placidly sat on a post;
 But when it was cold he relinquished his hold,
 And called for some hot buttered toast.
 
-### 52
+### 51
 
 There was an Old Man of Berlin,
 Whose form was uncommonly thin,
 Till he once, by mistake, was mixed up in a cake,
 So they baked the old man of Berlin.
 
-### 53
+### 52
 
 There was an Old Person of Rheims,
 Who was troubled by horrible dreams;
 So to keep him awake they fed him with cake,
 That afflicted Old Person of Rheims!
 
-### 54
+### 53
 
 There was an Old Man of the East,
 Who gave all his children a feast;
@@ -408,275 +415,271 @@ That it killed that Old Man of the East.
 
 ## Hats, Clothes & Household Oddities
 
-### 55
+![Birds settle on a very large bonnet.](images/04_bonnet_birds.jpg)
+*A bonnet with room for unexpected guests.*
+
+### 54
 
 There was an Old Man with a nose,
 Who said, “If you choose to suppose
 That my nose is too long, you are certainly wrong!”
 That remarkable Man with a nose.
 
-### 56
+### 55
 
 There was an Old Man on a hill,
 Who seldom, if ever, stood still;
 He ran up and down in his Grandmother’s gown,
 Which adorned that Old Man on a hill.
 
-### 57
+### 56
 
 There was an Old Man with a flute,—
 A “sarpint” ran into his boot!
 But he played day and night, till the “sarpint” took flight,
 And avoided that Man with a flute.
 
-### 58
+### 57
 
 There was an Old Man of the West,
 Who wore a pale plum-colored vest;
 When they said, “Does it fit?” he replied, “Not a bit!”
 That uneasy Old Man of the West.
 
-### 59
+### 58
 
 There was an Old Man of the Wrekin,
 Whose shoes made a horrible creaking;
 But they said, “Tell us whether your shoes are of leather,
 Or of what, you Old Man of the Wrekin?”
 
-### 60
+### 59
 
 There was a Young Lady whose nose
 Was so long that it reached to her toes;
 So she hired an Old Lady, whose conduct was steady,
 To carry that wonderful nose.
 
-### 61
+### 60
 
 There was an Old Person of Tring,
 Who embellished his nose with a ring;
 He gazed at the moon every evening in June,
 That ecstatic Old Person of Tring.
 
-### 62
+### 61
 
 There was a Young Lady of Dorking,
 Who bought a large bonnet for walking;
 But its color and size so bedazzled her eyes,
 That she very soon went back to Dorking.
 
-### 63
+### 62
 
 There was an old man of Thermopylae,
 Who never did anything properly;
 But they said, “If you choose to boil eggs in your shoes,
 You shall never remain in Thermopylae.”
 
-### 64
+### 63
 
 There was an old man in a barge,
 Whose nose was exceedingly large;
 But in fishing by night, it supported a light,
 Which helped that old man in a barge.
 
-### 65
+### 64
 
 There was an old man of Toulouse
 Who purchased a new pair of shoes;
 When they asked, “Are they pleasant?” he said, “Not at present!”
 That turbid old man of Toulouse.
 
-### 66
+### 65
 
 There was an old man of Dee-side
 Whose hat was exceedingly wide,
 But he said, “Do not fail, if it happen to hail,
 To come under my hat at Dee-side!”
 
-### 67
+### 66
 
 There was a young person in green,
 Who seldom was fit to be seen;
 She wore a long shawl, over bonnet and all,
 Which enveloped that person in green.
 
-### 68
+### 67
 
 There was an old man who screamed out
 Whenever they knocked him about:
 So they took off his boots, and fed him with fruits,
 And continued to knock him about.
 
-### 69
+### 68
 
 There was a young person in red,
 Who carefully covered her head,
 With a bonnet of leather, and three lines of feather,
 Besides some long ribands of red.
 
-### 70
+### 69
 
 There was an old person of Cassel,
 Whose nose finished off in a tassel;
 But they call'd out, “Oh well! don't it look like a bell!”
 Which perplexed that old person of Cassel.
 
-### 71
+### 70
 
 There was an old man of West Dumpet,
 Who possessed a large nose like a trumpet;
 When he blew it aloud, it astonished the crowd,
 And was heard through the whole of West Dumpet.
 
-### 72
+### 71
 
 There is a young lady, whose nose,
 Continually prospers and grows;
 When it grew out of sight, she exclaimed in a fright,
 “Oh! Farewell to the end of my nose!”
 
-### 73
+### 72
 
 There was an old man of Thames Ditton,
 Who called out for something to sit on;
 But they brought him a hat, and said, “Sit upon that,
 You abruptious old man of Thames Ditton!”
 
-### 74
-
-There was a Young Lady of Dorking,
-Who bought a large bonnet for walking;
-But its colour and size so bedazzled her eyes,
-That she very soon went back to Dorking.
-
 ## Journeys, Escapes & Mishaps
 
-### 75
+### 73
 
 There was a Young Lady of Portugal,
 Whose ideas were excessively nautical;
 She climbed up a tree to examine the sea,
 But declared she would never leave Portugal.
 
-### 76
+### 74
 
 There was an Old Man in a boat,
 Who said, “I’m afloat! I’m afloat!”
 When they said, “No, you ain’t!” he was ready to faint,
 That unhappy Old Man in a boat.
 
-### 77
+### 75
 
 There was an Old Person of Basing,
 Whose presence of mind was amazing;
 He purchased a steed, which he rode at full speed,
 And escaped from the people of Basing.
 
-### 78
+### 76
 
 There was an Old Man of Quebec,—
 A beetle ran over his neck;
 But he cried, “With a needle I’ll slay you, O beadle!”
 That angry Old Man of Quebec.
 
-### 79
+### 77
 
 There was an old person of Bree,
 Who frequented the depths of the sea;
 She nurs’d the small fishes, and washed all the dishes,
 And swam back again into Bree.
 
-### 80
+### 78
 
 There was an old person of Loo,
 Who said, “What on earth shall I do?”
 When they said, “Go away!” she continued to stay,
 That vexatious old person of Loo.
 
-### 81
+### 79
 
 There was an old person of Skye,
 Who waltz’d with a Bluebottle fly:
 They buzz’d a sweet tune, to the light of the moon,
 And entranced all the people of Skye.
 
-### 82
+### 80
 
 There was an old person of Rye
 Who went up to town on a fly;
 But they said, “If you cough, you are safe to fall off!
 You abstemious old person of Rye!”
 
-### 83
+### 81
 
 There was an old person of Dundalk,
 Who tried to teach fishes to walk;
 When they tumbled down dead, he grew weary, and said,
 “I had better go back to Dundalk!”
 
-### 84
+### 82
 
 There was an old Man in a Garden,
 Who always begged every one's pardon;
 When they asked him, “What for?” he replied, “You're a bore!
 And I trust you'll go out of my garden.”
 
-### 85
+### 83
 
 There was an old person of Ware,
 Who rode on the back of a bear;
 When they ask'd, “Does it trot?” he said, “Certainly not!
 He's a Moppsikon Floppsikon bear!”
 
-### 86
+### 84
 
 There was an old person of Wilts,
 Who constantly walked upon stilts;
 He wreathed them with lilies and daffy-down-dillies,
 That elegant person of Wilts.
 
-### 87
+### 85
 
 There was an old person of Grange,
 Whose manners were scroobious and strange;
 He sailed to St. Blubb in a waterproof tub,
 That aquatic old person of Grange.
 
-### 88
+### 86
 
 There was an old man whose despair
 Induced him to purchase a hare:
 Whereon one fine day he rode wholly away,
 Which partly assuaged his despair.
 
-### 89
+### 87
 
 There was an old person of Ickley,
 Who could not abide to ride quickly;
 He rode to Karnak on a tortoise's back,
 That moony old person of Ickley.
 
-### 90
+### 88
 
 There was an old person of Hyde,
 Who walked by the shore with his bride,
 Till a Crab who came near fill'd their bosoms with fear,
 And they said, “Would we'd never left Hyde!”
 
-### 91
+### 89
 
 There was an old person of Rimini,
 Who said, “Gracious! Goodness! O Gimini!”
 When they said, “Please be still!” she ran down a hill,
 And was never more heard of at Rimini.
 
-### 92
+### 90
 
 There was an old person of Bow,
 Whom nobody happened to know;
 So they gave him some soap, and said coldly, “We hope
 You will go back directly to Bow!”
 
-### 93
+### 91
 
 There was an Old Man of Melrose,
 Who walked on the tips of his toes;
@@ -684,7 +687,7 @@ But they said, “It ain’t pleasant,
 To see you at present,”
 You stupid Old Man of Melrose.
 
-### 94
+### 92
 
 There was a Young Lady of Lucca,
 Whose lovers completely forsook her;
@@ -692,7 +695,7 @@ She ran up a tree
 And said, “Fiddle-de-dee!”
 Which embarrassed the people of Lucca.
 
-### 95
+### 93
 
 There was an Old Man of Tobago,
 Who lived on rice, gruel and sago;
@@ -700,7 +703,7 @@ Till, much to his bliss,
 His physician said this—
 To a leg, sir, of mutton you may go.
 
-### 96
+### 94
 
 There was a Young Girl of Majorca,
 Whose Aunt was a very fast walker;
@@ -710,420 +713,420 @@ Which astonished that Girl of Majorca.
 
 ## Old Men & Other Eccentrics
 
-### 97
+### 95
 
 There was an Old Man with a gong,
 Who bumped at it all the day long;
 But they called out, “Oh, law! you’re a horrid old bore!”
 So they smashed that Old Man with a gong.
 
-### 98
+### 96
 
 There was an Old Man of Columbia,
 Who was thirsty, and called out for some beer;
 But they brought it quite hot, in a small copper pot,
 Which disgusted that man of Columbia.
 
-### 99
+### 97
 
 There was an Old Lady of Chertsey,
 Who made a remarkable curtsey;
 She twirled round and round, till she sank underground,
 Which distressed all the people of Chertsey.
 
-### 100
+### 98
 
 There was an Old Person of Buda,
 Whose conduct grew ruder and ruder,
 Till at last with a hammer they silenced his clamor.
 By smashing that Person of Buda.
 
-### 101
+### 99
 
 There was an Old Man of Moldavia,
 Who had the most curious behavior;
 For while he was able, he slept on a table,
 That funny Old Man of Moldavia.
 
-### 102
+### 100
 
 There was an Old Person of Hurst,
 Who drank when he was not athirst;
 When they said, “You’ll grow fatter!” he answered “What matter?”
 That globular Person of Hurst.
 
-### 103
+### 101
 
 There was an Old Person of Cadiz,
 Who was always polite to all ladies;
 But in handing his daughter, he fell into the water,
 Which drowned that Old Person of Cadiz.
 
-### 104
+### 102
 
 There was an Old Man of the Isles,
 Whose face was pervaded with smiles;
 He sang “High dum diddle,” and played on the fiddle,
 That amiable Man of the Isles.
 
-### 105
+### 103
 
 There was an Old Man of Apulia,
 Whose conduct was very peculiar;
 He fed twenty sons upon nothing but buns,
 That whimsical Man of Apulia.
 
-### 106
+### 104
 
 There was an Old Person of Philœ,
 Whose conduct was scroobious and wily;
 He rushed up a Palm when the weather was calm,
 And observed all the ruins of Philœ.
 
-### 107
+### 105
 
 There was an Old Man with a poker,
 Who painted his face with red ochre.
 When they said, “You’re a Guy!” he made no reply,
 But knocked them all down with his poker.
 
-### 108
+### 106
 
 There was an Old Person of Prague,
 Who was suddenly seized with the plague;
 But they gave him some butter, which caused him to mutter,
 And cured that Old Person of Prague.
 
-### 109
+### 107
 
 There was an Old Man of Peru,
 Who watched his wife making a stew;
 But once, by mistake, in a stove she did bake
 That unfortunate Man of Peru.
 
-### 110
+### 108
 
 There was an Old Man of the North,
 Who fell into a basin of broth;
 But a laudable cook fished him out with a hook,
 Which saved that Old Man of the North.
 
-### 111
+### 109
 
 There was an Old Person of Troy,
 Whose drink was warm brandy and soy,
 Which he took with a spoon, by the light of the moon,
 In sight of the city of Troy.
 
-### 112
+### 110
 
 There was an Old Person of Mold,
 Who shrank from sensations of cold;
 So he purchased some muffs, some furs, and some fluffs,
 And wrapped himself well from the cold.
 
-### 113
+### 111
 
 There was an Old Man of Cape Horn,
 Who wished he had never been born;
 So he sat on a Chair till he died of despair,
 That dolorous Man of Cape Horn.
 
-### 114
+### 112
 
 There was an old Person of Cromer,
 Who stood on one leg to read Homer;
 When he found he grew stiff, he jumped over the cliff,
 Which concluded that Person of Cromer.
 
-### 115
+### 113
 
 There was an Old Man of the Hague,
 Whose ideas were excessively vague;
 He built a balloon to examine the moon,
 That deluded Old Man of the Hague.
 
-### 116
+### 114
 
 There was an Old Person of Spain,
 Who hated all trouble and pain;
 So he sate on a chair with his feet in the air,
 That umbrageous Old Person of Spain.
 
-### 117
+### 115
 
 There was an Old Man who said, “Well!
 Will nobody answer this bell?
 I have pulled day and night, till my hair has grown white,
 But nobody answers this bell!”
 
-### 118
+### 116
 
 There was an Old Man in a casement,
 Who held up his hands in amazement;
 When they said, “Sir, you’ll fall!” he replied, “Not at all!”
 That incipient Old Man in a casement.
 
-### 119
+### 117
 
 There was an Old Man of Peru.
 Who never knew what he should do;
 So he tore off his hair, and behaved like a bear,
 That intrinsic Old Man of Peru.
 
-### 120
+### 118
 
 There was an Old Man at a Junction,
 Whose feelings were wrung with compunction
 When they said, “The Train’s gone!” he exclaimed, “How forlorn!”
 But remained on the rails of the Junction.
 
-### 121
+### 119
 
 There was an old person of Deal,
 Who in walking used only his heel;
 When they said, “Tell us why?” he made no reply,
 That mysterious old person of Deal.
 
-### 122
+### 120
 
 There was an old person of Bromley,
 Whose ways were not cheerful or comely;
 He sate in the dust, eating spiders and crust,
 That unpleasing old person of Bromley.
 
-### 123
+### 121
 
 There was an old person in black,
 A Grasshopper jumped on his back;
 When it chirped in his ear, he was smitten with fear,
 That helpless old person in black.
 
-### 124
+### 122
 
 There was an old person of Pinner,
 As thin as a lath, if not thinner;
 They dressed him in white, and roll’d him up tight,
 That elastic old person of Pinner.
 
-### 125
+### 123
 
 There was an old person of China,
 Whose daughters were Jiska and Dinah,
 Amelia and Fluffy, Olivia and Chuffy,
 And all of them settled in China.
 
-### 126
+### 124
 
 There was an old man in a Marsh,
 Whose manners were futile and harsh;
 He sate on a log, and sang songs to a frog,
 That instructive old man in a Marsh.
 
-### 127
+### 125
 
 There was an old person of Wick,
 Who said, “Tick-a-Tick, Tick-a-Tick;
 Chickabee, Chickabaw.” And he said nothing more,
 That laconic old person of Wick.
 
-### 128
+### 126
 
 There was an old man at a Station,
 Who made a promiscuous oration;
 But they said, “Take some snuff!—You have talk’d quite enough,
 You afflicting old man at a Station!”
 
-### 129
+### 127
 
 There was an old man of Three Bridges,
 Whose mind was distracted by midges,
 He sate on a wheel, eating underdone veal,
 Which relieved that old man of Three Bridges.
 
-### 130
+### 128
 
 There was an old man of Hong Kong,
 Who never did anything wrong;
 He lay on his back, with his head in a sack,
 That innocuous old man of Hong Kong.
 
-### 131
+### 129
 
 There was an old person of Fife,
 Who was greatly disgusted with life;
 They sang him a ballad, and fed him on salad,
 Which cured that old person of Fife.
 
-### 132
+### 130
 
 There was an old person of Slough,
 Who danced at the end of a bough;
 But they said, “If you sneeze, you might damage the trees,
 You imprudent old person of Slough.”
 
-### 133
+### 131
 
 There was an old person of Down,
 Whose face was adorned with a frown;
 When he opened the door, for one minute or more,
 He alarmed all the people of Down.
 
-### 134
+### 132
 
 There was an old person of Hove,
 Who frequented the depths of a grove;
 Where he studied his books, with the wrens and the rooks,
 That tranquil old person of Hove.
 
-### 135
+### 133
 
 There was an old person of Woking,
 Whose mind was perverse and provoking;
 He sate on a rail, with his head in a pail,
 That illusive old person of Woking.
 
-### 136
+### 134
 
 There was an old person of Dean
 Who dined on one pea, and one bean;
 For he said, “More than that, would make me too fat,”
 That cautious old person of Dean.
 
-### 137
+### 135
 
 There was an old person of Cannes,
 Who purchased three fowls and a fan;
 Those she placed on a stool, and to make them feel cool
 She constantly fanned them at Cannes.
 
-### 138
+### 136
 
 There was an old man of Cashmere,
 Whose movements were scroobious and queer;
 Being slender and tall, he looked over a wall,
 And perceived two fat ducks of Cashmere.
 
-### 139
+### 137
 
 There was an old person of Florence,
 Who held mutton chops in abhorrence;
 He purchased a Bustard, and fried him in Mustard,
 Which choked that old person of Florence.
 
-### 140
+### 138
 
 There was an old person of Pisa,
 Whose daughters did nothing to please her;
 She dressed them in gray, and banged them all day,
 Round the walls of the city of Pisa.
 
-### 141
+### 139
 
 There was an old person of Sheen,
 Whose expression was calm and serene;
 He sate in the water, and drank bottled porter,
 That placid old person of Sheen.
 
-### 142
+### 140
 
 There was a young person of Janina,
 Whose uncle was always a fanning her;
 When he fanned off her head, she smiled sweetly, and said,
 “You propitious old person of Janina!”
 
-### 143
+### 141
 
 There was an old man of Spithead,
 Who opened the window, and said,—
 “Fil-jomble, fil-jumble, fil-rumble-come-tumble!”
 That doubtful old man of Spithead.
 
-### 144
+### 142
 
 There was an old person of Filey,
 Of whom his acquaintance spoke highly;
 He danced perfectly well, to the sound of a bell,
 And delighted the people of Filey.
 
-### 145
+### 143
 
 There was an old man whose remorse
 Induced him to drink Caper Sauce;
 For they said, “If mixed up with some cold claret-cup,
 It will certainly soothe your remorse!”
 
-### 146
+### 144
 
 There was an old man of Ibreem,
 Who suddenly threaten'd to scream;
 But they said, “If you do, we will thump you quite blue,
 You disgusting old man of Ibreem!”
 
-### 147
+### 145
 
 There was an old person of Newry,
 Whose manners were tinctured with fury;
 He tore all the rugs, and broke all the jugs,
 Within twenty miles' distance of Newry.
 
-### 148
+### 146
 
 There was an old man of Dumblane,
 Who greatly resembled a crane;
 But they said, “Is it wrong, since your legs are so long,
 To request you won't stay in Dumblane?”
 
-### 149
+### 147
 
 There was an old man of Port Grigor,
 Whose actions were noted for vigour;
 He stood on his head till his waistcoat turned red,
 That eclectic old man of Port Grigor.
 
-### 150
+### 148
 
 There was an old person of Sark,
 Who made an unpleasant remark;
 But they said, “Don't you see what a brute you must be,
 You obnoxious old person of Sark!”
 
-### 151
+### 149
 
 There was an old person of Barnes,
 Whose garments were covered with darns;
 But they said, “Without doubt, you will soon wear them out,
 You luminous person of Barnes!”
 
-### 152
+### 150
 
 There was an old person in gray,
 Whose feelings were tinged with dismay;
 She purchased two parrots, and fed them with carrots,
 Which pleased that old person in gray.
 
-### 153
+### 151
 
 There was an old person of Sestri,
 Who sate himself down in the vestry;
 When they said, “You are wrong!” he merely said “Bong!”
 That repulsive old person of Sestri.
 
-### 154
+### 152
 
 There was an old person of Blythe,
 Who cut up his meat with a scythe;
 When they said, “Well! I never!” he cried, “Scythes for ever!”
 That lively old person of Blythe.
 
-### 155
+### 153
 
 There was an old Lady of Winchelsea,
 Who said, “If you needle or pin shall see
 On the floor of my room, sweep it up with the broom!”
 That exhaustive old Lady of Winchelsea!
 
-### 156
+### 154
 
 There was an Old Man of Leghorn,
 The smallest that ever was born;
@@ -1131,7 +1134,7 @@ But quickly snapped up he
 Was once by a Puppy,
 Who devoured that Old Man of Leghorn.
 
-### 157
+### 155
 
 There was an Old Man of Bohemia,
 Whose daughter was christened Euphemia,
@@ -1139,7 +1142,7 @@ Till one day, to his grief,
 She married a thief,
 Which grieved that Old Man of Bohemia.
 
-### 158
+### 156
 
 There was an Old Man of Corfu,
 Who never knew what he should do;
@@ -1147,7 +1150,7 @@ So he rushed up and down,
 Till the sun made him brown,
 That bewildered Old Man of Corfu.
 
-### 159
+### 157
 
 There was an Old Person of Ems,
 Who casually fell in the Thames;
@@ -1155,14 +1158,14 @@ And when he was found
 They said he was drowned,
 That unlucky Old Person of Ems.
 
-### 160
+### 158
 
 There was an Old Person of Stroud,
 Who was horribly jammed in a crowd;
 Some she slew with a kick, some she scrunched with a stick,
 That impulsive Old Person of Stroud.
 
-### 161
+### 159
 
 There was an Old Person of Cheadle
 Who was put in the stocks by the beadle
@@ -1171,94 +1174,91 @@ That horrible person of Cheadle.
 
 ## Young Ladies & Other Characters
 
-### 162
+### 160
 
 There was a Young Lady whose chin
 Resembled the point of a pin;
 So she had it made sharp, and purchased a harp,
 And played several tunes with her chin.
 
-### 163
+### 161
 
 There was a Young Lady of Norway,
 Who casually sat in a doorway;
 When the door squeezed her flat, she exclaimed, “What of that?”
 This courageous Young Lady of Norway.
 
-### 164
+### 162
 
 There was a Young Lady of Bute,
 Who played on a silver-gilt flute;
 She played several jigs to her Uncle’s white Pigs:
 That amusing Young Lady of Bute.
 
-### 165
+### 163
 
 There was a Young Lady of Turkey,
 Who wept when the weather was murky;
 When the day turned out fine, she ceased to repine,
 That capricious Young Lady of Turkey.
 
-### 166
+### 164
 
 There was a Young Person of Crete,
 Whose toilette was far from complete;
 She dressed in a sack spickle-speckled with black,
 That ombliferous Person of Crete.
 
-### 167
+### 165
 
 There was a Young Lady of Clare,
 Who was madly pursued by a Bear;
 When she found she was tired, she abruptly expired,
 That unfortunate Lady of Clare.
 
-### 168
+### 166
 
 There was a Young Lady whose eyes
 Were unique as to color and size;
 When she opened them wide, people all turned aside,
 And started away in surprise.
 
-### 169
+### 167
 
 There was a young person in pink,
 Who called out for something to drink;
 But they said, “O my daughter, there’s nothing but water!”
 Which vexed that young person in pink.
 
-### 170
+### 168
 
 There was a young lady in blue,
 Who said, “Is it you? Is it you?”
 When they said, “Yes, it is,” she replied only, “Whizz!”
 That ungracious young lady in blue.
 
----
-Sources: Project Gutenberg editions of Edward Lear's A Book of Nonsense and More Nonsense. All in the public domain.
-
-### 171
+### 169
 
 There was a young lady of Greenwich,
 Whose garments were border'd with Spinach;
 But a large spotty Calf bit her shawl quite in half,
 Which alarmed that young lady of Greenwich.
 
-### 172
+### 170
 
 There was a young person of Ayr,
 Whose head was remarkably square:
 On the top, in fine weather, she wore a gold feather;
 Which dazzled the people of Ayr.
 
-### 173
+### 171
 
 There was a young person whose history
 Was always considered a mystery;
 She sate in a ditch, although no one knew which,
 And composed a small treatise on history.
 
-### 174
+### 172
 
 There was a Young Lady of Parma,
 Whose conduct grew calmer and calmer;
@@ -1266,7 +1266,7 @@ When they said, “Are you dumb?”
 She merely said, “Hum!”
 That provoking Young Lady of Parma.
 
-### 175
+### 173
 
 There was a Young Lady of Tyre,
 Who swept the loud chords of a lyre;
@@ -1274,7 +1274,7 @@ At the sound of each sweep
 She enraptured the deep,
 And enchanted the city of Tyre.
 
-### 176
+### 174
 
 There was a Young Lady of Hull,
 Who was chased by a virulent bull;
@@ -1282,7 +1282,7 @@ But she seized on a spade,
 And called out, “Who's afraid?”
 Which distracted that virulent bull.
 
-### 177
+### 175
 
 There was a Young Lady of Welling,
 Whose praise all the world was a-telling;
@@ -1290,7 +1290,7 @@ She played on a harp,
 And caught several carp,
 That accomplished Young Lady of Welling.
 
-### 178
+### 176
 
 There was a Young Lady of Russia,
 Who screamed so that no one could hush her;
@@ -1298,16 +1298,174 @@ Her screams were extreme,
 No one heard such a scream,
 As was screamed by that lady of Russia.
 
-### 179
+## Modern Limericks
 
-There was a Young Lady whose eyes
-Were unique as to colour and size;
-When she opened them wide, people all turned aside,
-And started away in surprise.
+### Phones, Apps & Online Life
+
+![A smartphone frames a moonlit selfie that has erased its subject.](images/09_selfie_filter.jpg)
+*The filter gets carried away.*
+
+My phone set an alarm for six,
+Then snoozed it with three little clicks.
+It woke up at ten,
+And snoozed off again—
+Its calendar’s full of such tricks.
+
+I texted, “I’ll meet you at eight,”
+Autocorrect changed it to “bait.”
+My friend brought a kite,
+Said, “What a fine sight!
+We’ll fish for our supper—how great!”
+
+A weather app charged me a fee
+For a forecast of clouds I could see.
+It said, “Maybe rain,”
+Then billed me again—
+For predicting the weather for free.
+
+A cookie popped up on my screen
+And asked what my browsing might mean.
+I clicked “Accept all,”
+It recorded my call—
+Now it knows what I eat, watch, and stream.
+
+I posed for a selfie at noon,
+But my phone used a filter too soon.
+It smoothed out my face,
+Then erased the whole place,
+And left me alone with the moon.
+
+### Work, Meetings & Remote Life
+
+![A remote worker falls asleep at a laptop while a pillow takes the call.](images/05_remote_work_pillow.jpg)
+*The pillow joins the meeting.*
+
+A worker logged in from the bed,
+Still half-asleep and half-dead.
+The boss asked, “You there?”
+“I’m here,” came the air—
+Then the pillow replied in his stead.
+
+A freelancer muted the call,
+But an update took over the wall.
+It blinked once at ten,
+Then popped up again—
+Now a sticky note covers it all.
+
+I joined the work call in a tie,
+With pajamas concealed from the eye.
+When I stood up for tea,
+They all noticed my knee—
+And the chair gave a sympathetic sigh.
+
+I gave my report for an hour,
+With charts that displayed all my power.
+Then someone said, “Wait—
+You’re muted, mate!”
+I’d lectured a fern and a flower.
+
+My calendar booked me a break
+At precisely the hour I could take.
+I accepted the date,
+Then it shifted to eight—
+And added a call about cake.
+
+### Streaming, Games & Cloud Life
+
+A streaming service at ten
+Asked, “Are you still watching?” again.
+I shouted, “I’m not!”
+Then watched the whole lot—
+And answered its question at ten.
+
+I put on a podcast for sleep;
+Its host had a voice calm and deep.
+I drifted away,
+But it autoplayed all day—
+Now I know how to raise sheep.
+
+An app chose my songs for the day,
+Then kept all the new ones at bay.
+It played one refrain
+Again and again—
+Now I hum it in every café.
+
+I stored all my files in a cloud,
+And the cloud grew unbearably proud.
+It said, “I’m the best,”
+Then refused me a rest—
+And backed up my sneeze to the crowd.
+
+A gamer stayed up through the night,
+Till his screen lit the kitchen bright.
+He slept in his chair,
+While his avatar there
+Won a race without him in sight.
+
+### Chatbots & Smart Devices
+
+![A cat sleeps on a charger beside a helpful chatbot and a smart speaker.](images/10_chatbot_at_desk.jpg)
+*The household help has its own ideas.*
+
+A chatbot devised me a plan
+To finish the work that I can.
+I asked, “Where to start?”
+It replied, “That’s the art—
+I’ll explain it as soon as I can.”
+
+A researcher tried to unfriend
+A bot that kept liking each trend.
+It toasted their feed,
+Then sent one more plea:
+“Would you kindly accept me, my friend?”
+
+A coder’s laptop went flat,
+So he asked a chatbot to chat.
+“Where’s the charger?” he cried.
+The bot said, “Inside.”
+It was right: it was under the cat.
+
+My speaker turned on every light
+When I asked it to dim them at night.
+I said, “That’s too bright!”
+It replied, “You’re quite right,”
+Then turned on the porch light to spite.
+
+### Travel, Cars & Delivery Drones
+
+![A drone carrying noodles tangles with a rooftop weather vane.](images/07_drone_noodle_delivery.jpg)
+*The delivery route takes a turn.*
+
+![An electric car stops beside a charger with a nearly empty battery.](images/08_electric_car.jpg)
+*Range anxiety in the village square.*
+
+A GPS sent us to sea,
+Past the highway, the pier, and the quay.
+When we asked for a route,
+It calmly said, “Out—
+The next turn is somewhere in the sea.”
+
+My electric car, full of pride,
+Said, “No charging is needed,” and sighed.
+“I’ve range to spare!”
+It stalled in the square—
+With a charger in sight just outside.
+
+A drone brought my noodles at noon,
+Then circled my roof like a loon.
+It lowered the bag,
+But snagged on a flag—
+And delivered my lunch to the moon.
 
 ## Longer Nonsense Rhymes
 
+![An owl and cat sail beneath the moon with a pig carrying a ring.](images/11_owl_pussycat_new.jpg)
+*A moonlit voyage with unusual company.*
+
 ### The Owl and the Pussy-Cat
+
+![An owl and cat sail beneath the moon with a pig carrying a ring.](images/02_owl_and_pussycat.jpg)
+*A moonlit proposal at sea.*
 
 The Owl and the Pussy-Cat went to sea
 In a beautiful pea-green boat,
@@ -1346,6 +1504,9 @@ The moon,
 They danced by the light of the moon.
 
 ### The Jumblies
+
+![The Jumblies set sail in their sieve.](images/03_jumblies_at_sea.jpg)
+*An improbable vessel leaves shore.*
 
 I.
 They went to sea in a Sieve, they did,
@@ -1620,3 +1781,99 @@ How cheerfully he seems to grin,
 How neatly spreads his claws,
 And welcomes little fishes in,
 With gently smiling jaws!
+
+
+## Sources and Text Notes
+
+The classic poems are selected from nineteenth-century works by Edward Lear. The limericks draw on *A Book of Nonsense* (first published 1846; later editions expanded the collection) and *More Nonsense* (1872). Longer poems are found in *Nonsense Songs, Stories, Botany, and Alphabets* (1871) and related collections. Original editions differ in spelling, punctuation, and occasional wording; this edition uses a readable text and retains selected traditional spellings.
+
+Digitized public-domain editions consulted for identification and comparison:
+
+- [A Book of Nonsense, Edward Lear (Project Gutenberg, eBook 13646)](https://www.gutenberg.org/ebooks/13646)
+- [Nonsense Songs, Stories, Botany, and Alphabets, Edward Lear (Project Gutenberg, eBook 13647)](https://www.gutenberg.org/ebooks/13647)
+- [Nonsense Books, Edward Lear (Project Gutenberg, eBook 13650)](https://www.gutenberg.org/ebooks/13650)
+- [More Nonsense, Edward Lear (Project Gutenberg, eBook 13648)](https://www.gutenberg.org/ebooks/13648)
+- [The Jumblies and Other Nonsense Verses, Edward Lear (Project Gutenberg, eBook 34906)](https://www.gutenberg.org/ebooks/34906)
+
+The original limericks in “Modern Limericks” were generated with AI and edited by Lothar J. Musiol. The illustrations in this edition were generated with AI and selected and placed by Lothar J. Musiol. AI-generated material will be disclosed in the KDP publishing form.
+
+## About the Author
+
+Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+
+He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+
+## Also by Lothar J. Musiol
+
+### Physics, Actually
+
+- Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+- Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+- Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+- Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+
+### More Actually Books
+
+- Gravity, Actually: Einstein's Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+- The Universe, Actually: What Humanity Currently Understands About Reality
+
+### Math, Actually
+
+- Math, Actually, Volume 1: From Arithmetic to Calculus
+- Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+- Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+- Math, Actually, Volume 4: From Category Theory to the Frontier
+
+### Quantum, Actually
+
+- Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+- Quantum, Actually, Volume 2: A QED Course
+
+### Science Sparks
+
+- Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+
+### Look First
+
+- Look First, Volume 1: The Universe Has No Now
+- Look First, Volume 2: A Trip Is Not a New Life
+
+### Electrical Engineering Series
+
+- Foundations of Electronics (Book 1)
+- Circuits, Components, and Control (Book 2)
+- Semiconductor Physics and Devices (Book 3)
+- RF, Microwave, and Transceivers (Book 4)
+- Communications, Wireless, and SDR (Book 5)
+- Power and Energy (Book 6)
+- Packaging, Layout, EMC, and Test (Book 7)
+- Firmware and Software for Electronics (Book 8)
+- Test and Measurement Instruments (Book 9)
+
+### History
+
+- The Dolphins' View of History
+
+### Fiction
+
+- The Murder That Hadn't Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+- The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+- Schrödinger's Paperwork (Lolly Wren's Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+- The Permitted Options (Lolly Wren's Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+- Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+- In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+- The Digital Twin: A British Comedy of Identity (Brave New Times, Book 1), Lothar J. Musiol writing as Rob O. Taylor
+
+### In German
+
+- Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?
+
+## Back Cover
+
+From a bird-filled beard to a drone with a delivery problem, this illustrated collection brings classic nonsense verse into conversation with the absurdities of modern life.
+
+Meet Lear's eccentric characters, then turn to new limericks about autocorrect, remote meetings, streaming queues, chatbots, electric cars, and more. Ten original interior illustrations accompany the poems.
+
+If these rhymes made you smile, please consider leaving an honest review.
+
+Lothar J. Musiol

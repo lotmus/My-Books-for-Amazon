@@ -1,14 +1,24 @@
 # Handover
 
-## Current state
+## Current package — REV01
 
-- Working anthology: `../Limericks_and_Other_Nonsense_Rhymes_v1.md`
-- Text-only editorial draft; not a publication-ready EPUB or DOCX.
-- Sources: `POETRY/edward_lear_limericks_100.txt`, `POETRY/more_public_domain_limericks_100.txt`, and selected longer poems from `POETRY/public_domain_nonsense_rhymes.txt`.
-- Included 179 distinct limericks (duplicate versions removed) and 6 longer nonsense poems. The short verses are grouped by subject; bulk-generated verse with broken grammar, forced rhymes, or repeated templates was excluded.
+- Manuscript: `../Limericks_and_Other_Nonsense_Rhymes_v1.md`
+- Kindle upload candidate: `../Limericks_and_Other_Nonsense_Rhymes_REV01.epub`
+- DOCX fallback: `../Limericks_and_Other_Nonsense_Rhymes_REV01.docx`
+- Cover image: `../images/cover.jpg`
+- KDP listing draft: `../KDP_METADATA.md`
+- Rebuild command: run `build_book.py` with Python and Pandoc available.
+- Contents: 176 unique classic limericks in six topical groups, 22 modern AI-generated and edited limericks, and six longer classic poems.
+- Art: ten AI-generated interior illustrations plus an AI-generated cover. Interior art is embedded in both book files and totals about 1.8 MB; EPUB total size is about 2.5 MB.
+- Project Gutenberg source references are listed in the manuscript. Textual provenance and variants still require a poem-by-poem comparison with original editions before upload.
 
-## Before publication
+## KDP checks still open
 
-- Verify source texts and public-domain status against original editions; resolve variants and transcription errors.
-- Review the topical groupings and continue curating only pieces with natural rhyme, sound meter, and a clear comic payoff.
-- Follow repository-wide rules in `../../notes/LOTHAR_RULES.md`.
+- Render and inspect the DOCX fallback. LibreOffice/Word rendering was unavailable in the build environment.
+- Open the EPUB in Kindle Previewer, check navigation and image behavior on representative devices, and confirm image alt text.
+- Verify classic texts against digitized original editions and retain records in case KDP requests public-domain proof.
+- Do the publisher's AI-generated text and image disclosure in the KDP form.
+- Keep `(Illustrated)` in the title field and the two short originality bullets first in the KDP description. The book has ten relevant interior illustrations; KDP's current policy lists ten or more original illustrations as a public-domain differentiation path, but KDP makes the acceptance decision.
+- Obtain external reviews; this remains a draft until the standing five-cycle review rule is met.
+
+Follow repository-wide rules in `../../notes/LOTHAR_RULES.md`.
