@@ -16,7 +16,7 @@ P: microSymbol: µFactor: 10⁻⁶
 P: nanoSymbol: nFactor: 10⁻⁹
 P: picoSymbol: pFactor: 10⁻¹²
 P: femtoSymbol: fFactor: 10⁻¹⁵
-P: Case is not decorative. A capital M is mega, a lower-case m is milli, and they differ by a factor of a billion. A capital K is not a valid prefix at all — kilo is always lower-case k — while a capital K is the symbol for the kelvin. Writing 5 KΩ instead of 5 kΩ is a small sin; writing 5 mA when you meant 5 MA is a career-defining one.
+P: A capital M is mega, a lower-case m is milli, and they differ by a factor of a billion. A capital K is not a valid prefix at all — kilo is always lower-case k — while a capital K is the symbol for the kelvin. In the 5 V, 2 V LED example of Chapter 8, 330 Ω limits current to about 9 mA; reading 330 mΩ instead predicts about 9 A from an ideal source. The notation is small. The consequence is not.
 P: Note also that the prefix binds tighter than the exponent. The expression mm² means (mm)², that is, 10⁻⁶ m², not 10⁻³ m². This catches people constantly in current-density and sheet-resistance calculations.
 H2: 14.2 Scientific Notation
 P: Scientific notation writes every number as a value between 1 and 10, multiplied by a power of ten: 47000 becomes 4.7 × 10⁴, and 0.00033 becomes 3.3 × 10⁻⁴. The mantissa always has exactly one digit before the decimal point.

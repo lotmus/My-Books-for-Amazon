@@ -1,5 +1,5 @@
 H1: Chapter 19 — Exponentials, Logarithms, and the Decibel
-P: The power reaching your phone from a cell tower can change by a factor of a million or more as you walk from a window to a basement. Decibels squash that range into numbers people can add in their heads, and the exponential function, the other half of this chapter, describes how every capacitor charges.
+P: The power reaching your phone from a cell tower can change by a factor of a million or more as you walk from a window to a basement. A linear scale is not much use over that range, so decibels let engineers add ratios without carrying six extra zeros. The exponential function, the other half of this chapter, describes how every capacitor charges.
 P: Where you meet this: Signal strength in dBm, amplifier gain and filter attenuation in dB, audio levels, RC charging curves, and battery discharge.
 P: The exponential function describes every natural charging and discharging process in electronics, and the logarithm is its inverse. Between them they underpin the decibel, which is the unit electrical engineers use for almost every ratio they care about. This chapter builds all three.
 H2: 19.1 The Exponential Function
@@ -7,8 +7,8 @@ P: The function eˣ has the defining property that its rate of change equals its
 P: The standard forms are decay and growth toward a limit:
 EQ: v(t) = V₀·e^(−t/τ)     and     v(t) = V_f·(1 − e^(−t/τ))
 P: where τ is the time constant, equal to RC for a resistor-capacitor pair and L/R for a resistor-inductor pair — both of which you verified dimensionally in Chapter 13.
-P: The numbers worth memorizing are these: after one time constant, a decaying quantity has fallen to 37% of its initial value, and a rising one has reached 63% of its final value. After three time constants, 95%. After five, 99.3%, which is why "five time constants" is the conventional engineering definition of settled.
-FIG: fig19_1.png | Figure 19.1 — Charging and discharging exponentials, marked at one, three, and five time constants. | Charging and discharging exponential curves are plotted against time, with vertical markers at one, three, and five time constants.
+P: The numbers worth memorizing are these: after one time constant, a decaying quantity has fallen to 37% of its initial value, and a rising one has reached 63% of its final value. After three time constants, 95%. After five, 99.3%, which is why "five time constants" is the conventional engineering definition of settled. With the 47 kΩ and 10 µF values in Worked Example 19.1, τ is 0.47 s and five τ is 2.35 s. Replacing 47 kΩ with 4.7 kΩ by a prefix slip makes that delay 0.047 s; a debounce or timing circuit would then behave on a different schedule.
+FIG: fig19_1.png | Figure 19.1 — Charging and discharging in the 47 kΩ, 10 µF example (τ = 0.47 s), marked at 0.47 s, 1.41 s, and 2.35 s. | Charging and discharging exponential curves are plotted against time, with vertical markers at one, three, and five time constants.
 WE: Worked Example 19.1
 P: A 10 µF capacitor charges through a 47 kΩ resistor toward 5 V. How long until it reaches 4 V?
 P: First the time constant: τ = RC = (47 × 10³)(10 × 10⁻⁶) = 0.47 s. Note the prefix cancellation from Chapter 14 — kilo times micro is milli, so 47 × 10 = 470 ms directly.

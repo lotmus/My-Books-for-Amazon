@@ -547,6 +547,8 @@ P: David Halliday, Robert Resnick, and Jearl Walker, Fundamentals of Physics —
 H2: Part II — Mathematics and Measurement
 P: Erwin Kreyszig, Advanced Engineering Mathematics — the standard engineering-mathematics reference; it covers every topic in this part in more depth and continues into differential equations, transforms, and vector calculus.
 P: K. A. Stroud (with Dexter J. Booth), Engineering Mathematics — a gentler, more example-driven companion if Kreyszig's pace feels too fast.
+P: Fluke, Fluke 117 Electrician’s Multimeter specifications — DC-voltage accuracy specification used in Section 15.7.
+P: Tektronix, How Oscilloscope Probes Affect Your Measurement — probe resistance, capacitance, and circuit loading.
 P: Espressif Systems, "ESP32-S3 Series Datasheet," section 5.5 (ADC Characteristics), and ESP-IDF "ADC Calibration Driver" guide: primary references for the input range, calibrated error limit, and correction method used in Chapters 15 and 27.
 H2: Part III — DC and AC Circuit Theory
 P: Charles K. Alexander and Matthew N. O. Sadiku, Fundamentals of Electric Circuits — the standard next-level circuits textbook, with far more worked problems and a treatment of Laplace-domain circuit analysis that this book only opens the door to in Chapter 25.
