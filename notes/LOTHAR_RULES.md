@@ -86,6 +86,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 ## Kindle and layout
 
 - **Headings** (Lothar, 2026-10-11, applies to every book): bold, 16pt, dark-to-medium blue, centered, in a font that is Kindle-compatible and survives an EPUB import (Amazon Ember where already in use; otherwise a standard embedded font Word/KDP ships natively — Georgia, Bookerly, Caecilia, or similar; never a system font that gets substituted silently). Each chapter (and any other top-level heading: Prologue, Epilogue, appendices, Notes and Sources, Further Reading, Also-by) starts at the top of a fresh page — insert a page break before the heading, not just extra blank lines. Word page size: **6in x 9in** for the master docx, not US Letter or A4 (superseded for novels and ebook masters by the 3.6 x 4.8 in rule below, 13 Oct 2026). Note for future assistants (confirmed 12 Oct 2026): these are reflowable ebooks, so Kindle's conversion (KindleGen/KDP) ignores the Word page size entirely and reflows text to whatever screen the reader has — there is no single "Kindle screen size" a reflowable manuscript's page can literally match. 6x9 is chosen because an oversized master page (Letter/A4) can still cause visible-on-Kindle margin and embedded-image/table scaling quirks during conversion; that is the only thing the Word page size actually affects here. Matching a real device's pixel aspect ratio only matters for a fixed-layout Kindle book (comics, heavily illustrated children's books) — none of these titles are built that way, so don't chase device pixel dimensions on the master docx. This is a standing formatting rule for all 30+ books, not a one-off for any single title; apply it the next time a book's layout is touched rather than as its own dedicated pass across the whole catalog at once.
+  - **Superseded in part (Lothar, 2026-10-15):** heading colour is now #2A5CAA and sizes/levels follow the "Headings and text style" section below; where this bullet differs, that section wins.
 - Images inline only. No text boxes, no floating images.
 - Photos about **440 px** wide, JPEG, with a gentle warm colour boost so dishes and subjects look inviting. Crop to the subject. Replace dull, blurry, or unappetising photos.
 - Diagrams with small labels about **800 px**.
@@ -196,3 +197,18 @@ Keep chats and tokens cheap without losing the thread.
 | Book-specific method | that book's `notes/` or `CLAUDE.md` |
 
 If this handbook and a book note conflict on a global rule (pen names, the banned name, upload format (EPUB; docx only as fallback), no force-push, scoring method), this handbook wins. If they conflict on a detail inside one book (chapter order, build script, local voice), the book note wins.
+
+## Headings and text style (Lothar, 2026-10-15; applies to every text page of every book)
+
+- **Headings**: all headings are centered, colour **#2A5CAA** (dark-leaning medium blue). Use real heading styles, never manual bold. Two or three heading levels only.
+- **Major headings** (chapter and part titles): 15-16 pt, page break before.
+- **Subheadings**: 12-13 pt, same blue, bold, no page break.
+- Never leave a heading alone at the bottom of a page (keep with next).
+- **Spacing**: no extra blank lines or empty paragraphs after text lines or headings. Spacing comes from the paragraph style.
+- **Body text**: left-aligned, not justified. A small first-line indent OR a small gap between paragraphs, not both. One body font and size for the whole book; in epub use relative sizing so the reader's own text setting works.
+- **Boxes and exercise blocks**: shaded or bordered paragraphs, never tables.
+- **No tables in text.** A table is allowed only as a picture, because Kindle renders tables unpredictably.
+- **Captions**: small and centered under the image; every image has alt text.
+- **Novel scene breaks**: a centered symbol, not blank lines.
+- **Cover and back cover pages** use no heading style.
+- **Optional**: embed one open-licence (SIL OFL) font for headings only in the epub; the body stays in the reader's default font.
