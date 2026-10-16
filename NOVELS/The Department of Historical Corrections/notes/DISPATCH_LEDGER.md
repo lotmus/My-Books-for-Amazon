@@ -112,4 +112,23 @@ Glock's mother: waited eleven months for a pension book after the Leeds flood; d
 | Tue 21:40 to 22:00 | Registry cabinets lock at 22:00; entry 32 at 21:52; copy made in 40 minutes | 15 |
 | Wed 04:00 to 04:31 | Miriam's account; duty officer's round 04:15; entry 33 at 04:31 | 15 |
 
-Renamed in REV7: the 1746 receiver's agent is Mr Rutter (not Lyle). Lyle is only the 1815 under-secretary.
+Renamed in REV7: the 1746 receiver's agent is Mr Rutter (not Lyle). Lyle is only the 1815 under-secretary.
+
+
+## REV8 additions (15 Oct 2026)
+
+| When | What | Chapter |
+|---|---|---|
+| 1953, line 408 | Prosser, lock-keeper (canal), left out of a Transport Act; first dot checked by Beatrice | 15 |
+| Mon night to Tue 22:00 | Beatrice checks 211 dots in the old registers; 53 in her hand | 15 |
+| Tue ~22:30 | Arthur's term five: nothing entered as a number again | 15 |
+| 1994 | Correction 1,611: Leeds Civic Hall duplicate registers moved to a basement annex (provisional until assessed) | 26 |
+| Thu 12 Oct 2017 | Arthur's review 17/114: RETAIN, no material downstream effect | 26 |
+| Sat 9 Dec 2017 | Leeds flood; Margaret Glock waits eleven months, dies in the tenth; Glock starts the notebook after her funeral | 10, 26 |
+| 2019 | Resilience pilot buys three portable frames | 2, 26 |
+| Thu 22 Jun 1815, evening | Glock offers Hallett news of his son; later tells Perrott at 23:00 that Hallett "has a boy in Flanders" | 19 |
+| Fri 23 Jun 1815, 10:12 to 10:15 | Hallett withholds his signature, asks Beatrice, signs (committee ratifies at 10:14) | 28 |
+| Fri 23 Jun 1815, ~10:24 | Hallett has Glock's courier-route offer minuted | 30 |
+| autumn 2026 | Dots acquire names (about four a week); Arthur enters his fourteen | 37 |
+
+REV8 slips fixed: ch 6 Strath card removed "nineteen" years earlier (was seventeen); ch 36 "fourteen signatures" now eleven; ch 28 committee motives no longer attribute "assets" to a member.
