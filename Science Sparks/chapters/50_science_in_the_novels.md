@@ -433,4 +433,3 @@ However many decohered branches might still "contain" her sister, the branch she
 - **Evidence beats intuition.** Clocks run slow (Chapter 340), cucumbers shrink (Chapter 341), and a train can seem to arrive before it left without breaking causality (Chapter 345).
 - **Useful but incomplete models.** Newton is approximately right (Chapter 336), singularities mark where general relativity breaks down (Chapter 337), and spacetime may itself be emergent (Chapter 346).
 
-**Going deeper.** For relativity told as fiction at full length, see the Relativistic Investigation Bureau novels, The Murder That Hadn't Happened Yet and The Warning That Was Sent Too Late.
