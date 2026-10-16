@@ -11,7 +11,7 @@ P: Capacitor energy ½CV²; PFN: Ctotal = τ/(2Z0), Ltotal = τZ0/2, Vload = Vch
 P: Switching loss: Psw = ½VI(tr + tf)fs; synchronous-buck PCoss ≈ [Eoss,HS(Vin) + Eoss,LS(Vin)]fs (for constant Coss, ½[Coss,HS + Coss,LS]Vin²fs); Pgate = QgVgfs; Pdead = 2VF I tdt fs.
 P: Current-mode plant pole fp = 1/(2πRC); Type II with zero on fp: PM ≈ 90° − arctan(fc/fp2). Buck DCM: M = 2/(1 + √(1 + 4K/D²)), K = 2L/(RTs).
 P: Battery E = Q·Vnom; Li-ion 3.6 V nominal, 4.2 V full. Inverter VLL,rms = 0.612 m Vdc (SPWM), up to 0.707 Vdc (SVPWM). nsync = 120f/p. PUE = Pfacility/PIT.
-P: UPS battery E = P t/(ηinv DoD); hold-up C = 2Pt/(V1² − V2²). RoCoF = (ΔP/S) f0/(2H); droop ΔP/P = −(Δf/f0)/R.
+P: UPS battery E = P t/(ηinv DoD); hold-up C = 2Pt/(V1² − V2²), with P as average DC-bus input power including downstream conversion loss. RoCoF = (ΔP/S) f0/(2H); droop ΔP/P = −(Δf/f0)/R.
 P: Fault current Ifault ≈ Irated/Zpu; transformer η max at x = √(Pcore/Pcu). Multiphase slew N(Vin − Vout)/L; Vout = VID − RLL I.
 P: Bootstrap C ≥ Qg/ΔV; IMiller = Cgd dv/dt. Pulsed Pavg = ½CV²·PRF. Voc rises ≈ 0.3%/K in the cold. Wireless ηmax = x/(1 + √(1 + x))², x = k²Q1Q2.
 P: Chain efficiency η = η₁η₂…ηₙ. LDO junction TJ = TA + (Vin − Vout)Iout θJA. Buck input capacitor Irms = Iout√(D(1 − D)); minimum output Vin ton,min fsw.
@@ -173,8 +173,8 @@ P: 9. 10 MW × 1.1/1.2 kW = 9167 servers.
 H2: Chapter 15
 P: 1. 30.9 kW.
 P: 2. 25 kWh / 0.855 = 29.2 kWh.
-P: 3. 2 × 1600 × 0.016 / (390² − 320²) = 1030 µF.
-P: 4. ½ × 500 µF × 70,000 / 1000 = 17.5 ms.
+P: 3. Required ideal capacitance is C = 2Pt/(V₁² − V₂²) = 2 × 1600 × 0.016/(390² − 320²) = 1030 µF. Check: ½C(390² − 320²) = 25.6 J, equal to 1.6 kW × 16 ms. This is a minimum energy calculation; ESR drop, tolerance, aging, temperature, and converter undervoltage margin require additional design allowance. Usual mistake: choosing the nominal capacitance without checking end-of-life capacitance and ripple-current limits.
+P: 4. Available energy is ½ × 500 µF × (400² − 300²) = 17.5 J, so ideal hold-up is 17.5 J/1000 W = 17.5 ms. Check: the result is time because joules divided by watts are seconds. ESR and bus inductance reduce the practical margin; compare the minimum bus voltage with the converter threshold during a transfer test. Usual mistake: using only the voltage difference instead of V₁² − V₂².
 P: 5. The inverter supplies the load all the time; when the utility fails, only the source feeding the DC bus changes.
 P: 6. It bypasses both conversion stages while the utility is healthy, removing their losses.
 P: 7. ½ × 100 × (256 − 64) = 9600 J.
@@ -207,14 +207,15 @@ P: 3. 0, perfect cancellation.
 P: 4. 0.05 mΩ.
 P: 5. 0.5 µs.
 P: 6. The phases switch at evenly staggered instants, so the combined current has N ripple cycles per switching period.
-P: 7. With one phase the loss is 0.6 + 0.006I², with two 1.2 + 0.003I²; they are equal when 0.003I² = 0.6, I = 14.1 A. Above about 14 A two phases lose less, which is why two phases win at 20 A.
+P: 7. Idea: include the extra fixed switching loss before adding a phase. Check: equate 0.6 + 0.006I² and 1.2 + 0.003I²; then 0.003I² = 0.6, so I = 14.1 A. Above this crossover, two phases have lower modeled loss; at 20 A they win. Usual mistake: comparing only I²R conduction and ignoring the additional 0.6 W fixed loss. Real phase shedding also needs transition and current-balance checks.
 P: 8. Ripple currents are out of phase between the coupled windings and see a large effective inductance, while a load step drives all phases in the same direction, where the coupling cancels and only the small leakage inductance limits the slew.
 P: 9. 1 + 0.0039 × 75 = 1.29, a 29 % rise.
+P: 10. Idea: check each phase, not only the total. Check: 0.10 × 100 A = 110 A in the high phase; the other seven carry (800 − 110)/7 = 98.6 A each. The 110 A phase exceeds the stated 105 A limit by 5 A, so thermal or current-limit action may remove it and increase the remaining phase currents. Usual mistake: assuming an 800 A aggregate rating proves that every phase is within its limit.
 H2: Chapter 19
 P: 1. 2 A.
-P: 2. 60 mW.
+P: 2. The drive power is P = QgVgfs = 50 nC × 12 V × 100 kHz = 60 mW. Check: coulombs per cycle times volts times cycles per second gives watts. Usual mistake: leaving out the switching frequency or converting nC incorrectly.
 P: 3. 1 µF.
-P: 4. 0.4 A.
+P: 4. The Miller current is Cgd·dv/dt = 5 pF × 80 V/ns = 0.4 A. Check the units: farads times volts per second are amperes. Usual mistake: using the bus voltage instead of the edge rate; the injected current is set by dv/dt.
 P: 5. The injected current must lift the gate from a negative voltage all the way to threshold, giving more margin before the device turns on.
 P: 6. Some digital isolators provide higher data rates, more consistent timing, or higher CMTI, and avoid LED aging. Neither technology is universally better: compare the required insulation class, working-voltage lifetime, surge rating, CMTI, temperature range, signal type, and safety certification for the actual application.
 P: 7. 1/(2π√(2 × 10⁻¹⁷)) = 35.6 MHz.
@@ -261,7 +262,7 @@ P: YHDC, Product Specification: Current Transformer SCT013-000 (2015-08-07), rat
 P: Espressif Systems, ESP32-S3 Series Datasheet v2.2, Table 5-6 (calibrated ADC effective range, 0-2.9 V at highest attenuation), and ESP-IDF ESP32-S3 ADC documentation, for Chapter 7. https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf; https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/api-reference/peripherals/adc/index.html
 P: Hansjoachim Bluhm, Pulsed Power Systems, and E. Kuffel, W. S. Zaengl, and J. Kuffel, High Voltage Engineering: Fundamentals, for Chapter 8; IEC 60664-1:2020+AMD1:2025 CSV for insulation coordination, clearance, and creepage (https://webstore.iec.ch/en/publication/107319); Microchip AN1471 for synchronous-buck MOSFET loss summation (https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ApplicationNotes/ApplicationNotes/01471A.pdf); IEC 61010-1:2010+AMD1:2016 CSV, clause 6.3.1, for accessible-part hazardous-live limits within the standard’s scope (measurement, control, and laboratory equipment). https://webstore.iec.ch/en/publication/59769; Infineon, Understanding and interpreting the CoolSiC MOSFET 1200 V datasheet (2025), Section 4.3.8, for voltage-dependent Coss and Eoss integration. https://www.infineon.com/assets/row/public/documents/60/42/infineon-an2025-10-understanding-and-interpreting-the-coolsic-mosfet-1200v-datasheet-applicationnotes-en.pdf
 P: JLL, 2026 Global Data Center Outlook (January 2026), for the capacity and cost planning figures in Chapter 1.
-P: Christophe Basso, Designing Control Loops for Linear and Switching Power Supplies, for Chapter 10, and Sanjaya Maniktala, Switching Power Supplies A-Z, 2nd edition, for Chapters 9 and 11. Texas Instruments, SLVA462, Understanding Thermal Dissipation and Design of a Heatsink (2011), for the thermal network and airflow-dependent heatsink selection (https://www.ti.com/lit/an/slva462/slva462.pdf); Texas Instruments, “Optimized Thermal Design for Three-phase Motor Drives in Power Tools – Part 2,” for its case-specific 100 LFM airflow example (https://www.ti.com/document-viewer/lit/html/SSZTCT5/GUID-36CE88B1-C26A-4BBD-BBE7-68A67A44BD71) (Chapter 9).
+P: Christophe Basso, Designing Control Loops for Linear and Switching Power Supplies, for Chapter 10, and Sanjaya Maniktala, Switching Power Supplies A-Z, 2nd edition, for Chapters 9 and 11. Texas Instruments, SLVA462, Understanding Thermal Dissipation and Design of a Heatsink (2011), for the thermal network and airflow-dependent heatsink selection (https://www.ti.com/lit/an/slva462/slva462.pdf); Texas Instruments, “Optimized Thermal Design for Three-phase Motor Drives in Power Tools – Part 2,” for its case-specific 100 LFM airflow example (https://www.ti.com/document-viewer/lit/html/SSZTCT5/GUID-36CE88B1-C26A-4BBD-BBE7-68A67A44BD71) (Chapter 9). Nichicon, “Application Guidelines for Aluminum Electrolytic Capacitors,” for component-specific temperature-life estimates and operating conditions (https://www.nichicon.co.jp/english/series_items/catalog_pdf/e-aluminum.pdf). Infineon, AN2019-05, “PC and TC Diagrams,” for product-specific power-cycling and thermal-cycling data (https://www.infineon.com/assets/row/public/documents/60/42/infineon-an2019-05-pc-and-tc-diagrams-applicationnotes-en.pdf). Keysight, “Power Analyzer: The Swiss Army Knife of Electronics Testing,” for bandwidth and waveform-dependent instrument selection (https://www.keysight.com/blogs/en/tech/educ/2023/power-analyzer).
 P: Thomas B. Reddy, Linden's Handbook of Batteries, 5th edition, for Chapter 12; IATA Lithium Battery Guidance for the 100 Wh cabin limit.
 P: Bimal K. Bose, Modern Power Electronics and AC Drives, for Chapter 13.
 P: MathWorks, Surface Mount PMSM and PMSM Torque Estimator documentation, for the d-q torque equation, saliency term, and amplitude-invariant phase-peak current convention (Chapter 13): https://www.mathworks.com/help/autoblks/ref/surfacemountpmsm.html; https://www.mathworks.com/help/simscape-electrical/ref/pmsmtorqueestimator.html
