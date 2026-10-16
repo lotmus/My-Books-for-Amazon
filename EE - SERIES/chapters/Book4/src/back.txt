@@ -462,6 +462,9 @@ P: Source: tinySA, TinySA4 Specification, https://tinysa.org/wiki/pmwiki.php?n=T
 P: Source: Qorvo, GaN Power Amplifier Design Solutions, https://www.qorvo.com/resources/d/gan-power-amplifier-design-solutions-ebook-mwj
 P: Source: Analog Devices, AN-2591, “When It Comes to Long-Term Reliability of RF Amplifier ICs, Focus First on Die Junction Temperature,” https://www.analog.com/en/resources/app-notes/an-2591.html
 P: Source: Murata, CERALOCK temperature characteristics
+P: Source: Murata, “Basics of Capacitors (2): What Kind of Characteristics Do Capacitors Exhibit?” https://article.murata.com/en-sg/article/basics-of-capacitors-2
+P: Source: KEMET, C1023 X7R automotive capacitor data sheet (20 February 2025)
+P: Source: ETSI, TS 138 104 V19.6.0 (2026-09), Table 6.5.2.2-1 and clause 6.5.2.3
 P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
 H1: About the Author
 P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
