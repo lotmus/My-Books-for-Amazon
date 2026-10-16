@@ -14,9 +14,10 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 | EE Books 1–9 | Book 9 series retrofit (Also-by, score row, and Book 7 pointers) | complete | agent |
 | Physics Vol 1; Physics Vol 3; A Trip Is Not a New Life; Science Sparks; Life, Actually; Physics Vol 2 | Weak-books improvement pass | running | agent |
 | How to Publish Your First Kindle Book | REV43 prose and presentation polish after critical reread | complete | agent |
-| Bavarian Cooking Made Simple | Cover blend softening; replace 11 weak dish photos | queued | — |
+| Bavarian Cooking Made Simple | Merge Codex commit 446e8813 (checked: two ingredient fixes, safe); cover blend softening; replace 11 weak dish photos; back cover; Kindle recipe formatting; brief: Bavarian  Cooking/notes/WORK_QUEUE.md | queued | Codex |
 | The Digital Twin | REV1 docx + cover + KDP description; REV2 line edit, Act III loss, Sophie beats, countdown; REV3 set pieces, endings, tic and simile cuts, KDP refresh, Also-by and Identity; REV4 humour pass, three twists with plants, pacing scenes (Ch 22, 30, 31), officials' registers | complete (15 Oct 2026) | agent |
-| Quantum, Actually, Volume 1 | Part Two tightening | queued | — |
+| The Dolphins' View of History | REV4: real 15-25 percent compression of survey chapters, Neolithic and digital/climate vignettes, varied verdicts, md resync, Afonso link, back cover, Previewer check; brief: notes/WORK_QUEUE.md | queued | Codex |
+| Quantum, Actually, Volume 1 | Part Two tightening (prose only; exercises untouched), back cover, 3.6x4.8 page size; brief: notes/WORK_QUEUE.md in the volume folder | queued | Codex |
 
 
 # Scores and release plan
