@@ -182,6 +182,3 @@ Then clouds rolled in and closed the show.
 The moon said, “Sorry. Time to go.”
 I went to bed, the curtains drawn,
 And left it to the coming dawn.
-
-
-
