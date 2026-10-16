@@ -4,7 +4,7 @@
 
 *Level: Start here.*
 
-*The book closes where science meets story. The next chapters follow the sixteen chapters of a comic detective novel, one relativity concept each; read straight through, they make a short course in relativity.*
+*The book closes where science meets story. The next seventeen chapters are a short course in relativity, one concept each. The five chapters after that dramatize the same ideas as scenes from the novels themselves.*
 
 Special Relativity starts from two rules, and the first one is almost embarrassingly modest: the laws of physics look the same to anyone moving at a constant velocity. Run any experiment you like in a sealed, smoothly moving lab, and nothing will tell you whether you're "really" sitting still or cruising along at a thousand miles an hour. Fine. Reasonable. Newton would have nodded along.
 
@@ -292,23 +292,35 @@ That leaves one question open. If descriptions can vary so completely while some
 
 *Early chapters: a detective explains relativity to two colleagues via a suspicious photograph.*
 
-The detective lays the photograph on the table and does not look at it. "Before we discuss what happened," he says, "we need to agree on what an event is. Anything that happens, anywhere, needs four numbers to pin it down. Three for where. One for when."
+The detective set the photograph on the table and did not turn it over.
 
-Telling a friend to meet you at a particular café isn't enough on its own. You need the street, the floor and the time, and leaving off any one of those turns "meet at the café" into a coin flip over which of several meetings, on several different days, you actually meant. Spacetime events demand the same four-number address, applied to everything that ever happens, appointments included.
+"Before we discuss what happened," he said, "we need to agree on what an event is."
 
-That sounds obvious until the detective adds the wrinkle. Two observers moving relative to each other can look at the same pair of events and disagree about those numbers, and neither of them is confused. There is simply no single correct coordinate system everyone is obliged to use, however much the universe might prefer to hand out one right answer.
+One of his colleagues exhaled, slowly, which was as close as they came to open rebellion. "It's a timestamp and a dead man, sir. Not a seminar."
 
-Here the café comparison breaks. Two friends can always settle a dispute about a café's address by walking over and checking. Two observers in relative motion cannot settle a dispute about an event's coordinates that way, because neither is making a mistake. "Where" and "when" depend on how you yourself are moving; they are not fixed scenery waiting to be read off.
+"Anything that happens, anywhere, needs four numbers to pin it down. Three for where. One for when." He counted them off on his fingers. "Tell a friend to meet you at the café and leave off the street, the floor, or the time, and you haven't made an appointment. You've made a coin flip, across however many cafés and days you failed to specify. An event wants the same four-number address. This one included."
 
-This matters enormously for a photograph. "A photograph never shows you an event as it happens," the detective says. "It shows you light that has since traveled from the event to the camera." A timestamp is a claim about the relationship between the event and the camera's own clock, and those two things are not automatically the same. The two colleagues discover, to their visible dismay, that "the photo says 11:03" is a much weaker statement than it sounds.
+The physicist, his other colleague, saw where this was going and got there first. "Except the moment you bring in a second observer, the numbers stop agreeing."
 
-To translate between one observer's coordinates and another's, the detective reaches for the Lorentz transformation. He spares them the algebra: in plain English it is a conversion rule between two observers' rulers and clocks. An ordinary unit conversion, miles into kilometers, only ever touches distance. Feed it a distance and a distance comes back out, however the two of you are moving.
+"Exactly." The detective looked pleased, in the way he always looked pleased when someone else said the thing he was about to say. "Two observers moving relative to each other can look at the very same pair of events and come away with two different sets of numbers, and neither of them has made an error. There is no single correct coordinate system the universe hands out, however much it might prefer to."
 
-The Lorentz transformation refuses to stay in its lane. A shift in position can drag a shift in the time coordinate along with it, something no ordinary unit conversion has ever done. That coupling is what breaks simultaneity: two events that happen "at the same time" for one observer may happen at different times for another, and both are right.
+"The café comparison breaks down here, though," the physicist went on. "Two friends can always settle an address dispute by walking over and checking. Two observers in relative motion can't settle a coordinate dispute that way. Neither one is wrong. 'Where' and 'when' depend on how you're moving. They were never fixed scenery waiting to be read off."
 
-"None of which," he adds, "is any use for solving an actual murder at everyday speeds." At walking pace, or even motorway pace, the effect is smaller than the scheduling uncertainty of the London Underground, which is his way of saying it is essentially nothing. The case in front of them turns on an unexplained gap of nearly two hours, so ordinary relative motion goes straight off the suspect list.
+"Which matters enormously," the detective said, nodding at the photograph, "for this." He turned it over at last. "A photograph never shows you an event as it happens. It shows you light that has since traveled from the event to the camera." He let that sit. "A timestamp is a claim about the relationship between the event and the camera's own clock. Those two things are not automatically the same."
 
-The same theory hides a sharper tool. If explaining a time discrepancy would require two observers to move faster than light relative to each other, that is no parameter you get to fudge until it works. "That," says the detective, "is Special Relativity telling you, quite firmly and without apology, that one of your premises is wrong. The frame, the event, the clock, or the photograph. Pick one."
+The non-physicist colleague looked at the photograph, then at their own watch, with visible betrayal. "So 'the photo says eleven-oh-three' —"
+
+"— is a much weaker statement than it sounds. Yes."
+
+He went to the whiteboard. "To translate between one observer's coordinates and another's, you want the Lorentz transformation. I'll spare you the algebra. In plain English, it's a conversion rule between two observers' rulers and clocks. An ordinary unit conversion, miles into kilometers, only ever touches distance. Feed it a distance, get a distance back, however the two of you are moving."
+
+"This one doesn't stay in its lane, though," the physicist said. "A shift in position can drag a shift in the time coordinate along with it. No ordinary unit conversion has ever managed that. That coupling is what breaks simultaneity: two events that happen 'at the same time' for one observer can happen at different times for another, and both of them are right."
+
+"None of which," the detective said, capping his marker, "is any use for solving an actual murder at everyday speeds. At walking pace, or even motorway pace, the effect is smaller than the scheduling uncertainty of the London Underground. Which is my way of saying it's essentially nothing." He tapped the timestamp. "Our gap is nearly two hours. Ordinary relative motion just went off the suspect list."
+
+The non-physicist colleague brightened. It did not last.
+
+"The same theory hides a sharper tool. If explaining a two-hour gap required two observers to be moving faster than light relative to each other, that isn't a parameter you get to fudge until the numbers behave." He set the marker down. "That is special relativity telling you, quite firmly and without apology, that one of your premises is wrong. The frame. The event. The clock. Or the photograph." He looked at both of them. "Pick one."
 
 > **In one sentence.** Told as a murder investigation, special relativity shows that a contradiction about time means one of your premises is wrong.
 
@@ -320,21 +332,31 @@ The same theory hides a sharper tool. If explaining a time discrepancy would req
 
 *The Louvre scene: a detective walks a physicist colleague through a gallery to explain spacetime's geometry.*
 
-In the Louvre, the detective walks his physicist colleague past the paintings and uses nothing else. He starts with something every gallery-goer already half-understands: linear perspective.
+The detective did not stop walking until he reached the first gallery, where he finally slowed down enough for the physicist to catch up.
 
-"Those lines meeting at the vanishing point," he says, "are not in the scene. The painter put them there." They are an artifact of a coordinate system, one particular way of projecting a three-dimensional scene onto a flat surface. Change the viewpoint and the converging lines change with it, while the scene itself hasn't moved an inch.
+"Those lines," he said, nodding at a painting's converging avenue of trees, "meeting at the vanishing point. They are not in the scene. The painter put them there."
 
-Then he stretches the idea. Imagine each painting as a slice through a three-dimensional object. Observers standing in different places see different slices, and the object is bigger than any single slice can show. It is a neat way of smuggling in the thought that our three-dimensional experience might itself be a slice of something larger.
+The physicist looked, then looked again. The detective was right, infuriatingly.
 
-Add time as a fourth dimension and the floor shifts underfoot. An "event" stops being a point that moves through time and becomes simply a point in four-dimensional spacetime.
+"An artifact of a coordinate system," the detective went on. "One particular way of projecting a three-dimensional scene onto a flat surface. Change the viewpoint and the converging lines change with it. The scene itself hasn't moved an inch."
 
-The physicist heads off the most tempting mistake before it can settle in. "Time is not a fourth spatial direction bolted onto the other three." On an ordinary canvas, moving further in any direction, up, sideways or diagonally, only ever adds to the distance between two points. A ruler never subtracts.
+"You're enjoying this," the physicist said.
 
-In spacetime, the time coordinate carries the opposite algebraic sign from the spatial ones. When the two are combined, separation in time works against separation in space. Mathematicians call this Lorentzian geometry, as opposed to the Euclidean geometry of a page or a canvas, where every direction adds in the same obliging way.
+"I am." He moved to the next painting without waiting. "Now stretch it. Imagine each painting as a slice through a three-dimensional object. Observers standing in different places see different slices, and the object is bigger than any single slice can show." He paused in front of a portrait, as if it might object. "A neat way of smuggling in the thought that our three-dimensional experience might itself be a slice of something larger."
 
-That sign difference is exactly why spacetime resists being drawn. "We are trying to draw four dimensions on three-dimensional paper," the physicist says, "and paper isn't equipped for the job. No ruler you can hold ever subtracts."
+"Add time as a fourth dimension," the physicist said, before the detective could, "and the floor shifts underfoot." He had had enough of being led by the elbow. "An event stops being a point that moves through time and becomes simply a point in four-dimensional spacetime. And before you say it wrong: time is not a fourth spatial direction bolted onto the other three."
 
-The detective tries one last flourish: the people standing in the paintings aren't merely objects occupying space, they are events. That earns a second correction. "A person is a worldline," says the physicist. "A whole string of events. You are being generous to call them one."
+The detective inclined his head, conceding the point without admitting he had been about to make it worse.
+
+"On an ordinary canvas," the physicist continued, "moving further in any direction — up, sideways, diagonally — only ever adds to the distance between two points. A ruler never subtracts."
+
+"And in spacetime?"
+
+"The time coordinate carries the opposite algebraic sign from the spatial ones. Combine the two and separation in time works against separation in space. Mathematicians call it Lorentzian geometry, as opposed to the Euclidean geometry of a page or a canvas, where every direction adds the same obliging way." He gestured at the gallery wall. "That sign difference is exactly why spacetime resists being drawn. We are trying to put four dimensions on three-dimensional paper, and paper isn't equipped for the job. No ruler you can hold ever subtracts."
+
+The detective tried one last flourish, nodding at a wall of painted faces. "And the people in the paintings. Not objects occupying space. Events."
+
+"A person is a worldline," the physicist said, not unkindly. "A whole string of events. You're being generous to call them one."
 
 > **In one sentence.** A painting is a slice of four-dimensional spacetime, and a person is a whole worldline, not a single event.
 
@@ -346,7 +368,7 @@ The detective tries one last flourish: the people standing in the paintings aren
 
 *Later chapters: the Underground train and a very confused newspaper.*
 
-On the Underground comes what sounds like a paradox. Why did the train seem to arrive before it left? The detective's mysterious double gently points out that this is the wrong question. "Ask instead which events are connected by a causal curve." A causal curve is a path that something (light, a signal, a physical influence) could travel between two events.
+On the Underground comes what sounds like a paradox. Why did the train seem to arrive before it left? The detective's double — the identical stranger who has been one step ahead of this entire investigation since the opening chapter, and whose motives nobody at the Bureau has yet agreed on — leans against a pillar and points out that this is the wrong question. "Ask instead which events are connected by a causal curve." A causal curve is a path that something — light, a signal, a physical influence — could travel between two events.
 
 That is where light cones come in, and correctly. Drop a stone in a still pond and a ripple spreads outward at a fixed speed. Anything the ripple has reached has felt the splash. Anything still beyond its expanding edge hasn't felt it and can't have, because the ripple hasn't traveled there yet.
 
@@ -360,7 +382,7 @@ A newspaper on a station bench carries three headlines in a row: RELATIVITY PROV
 
 Physics is not breaking down. The same reasoning tames the more serious worry that a headline might appear before the article supposedly causing it. That is a strange coordinate description, and no message from the future is involved.
 
-One last wrinkle, tossed off almost in passing: a real train moves through curved spacetime, while simple light-cone diagrams assume flat spacetime. So General Relativity is back in the picture, and the flat-spacetime story about light cones may not be the whole story once actual gravity gets involved.
+One last wrinkle, tossed off almost in passing: a real train moves through curved spacetime, while simple light-cone diagrams assume flat spacetime. So General Relativity is back in the picture, and the flat-spacetime story about light cones is a first approximation rather than the final word once actual gravity gets involved. The double smiles, as if this were somehow his doing, and is gone before anyone can ask him to finish the thought properly.
 
 > **In one sentence.** Light cones decide which events can influence which, and real gravity complicates the flat-spacetime picture.
 
@@ -380,11 +402,11 @@ A vector has a magnitude and a direction, the way a wind report does. "Fifteen m
 
 A tensor generalizes the idea further, describing relationships that reach across several directions at once. Squeeze a rubber sheet and it won't compress by one uniform amount everywhere. How much it gives depends on which direction you pull and which direction you then measure the response in. One number can't capture that, and neither can one arrow. You need a whole grid of numbers, with precise rules for how its entries transform when you switch coordinate systems. That grid is a tensor.
 
-"Now the important one," says the voice in his head, and the physicist relays it. The metric tensor is spacetime's own instruction manual for measurement. Think of the schoolroom rule for straight-line distance, then allow it to change its conversion rate from place to place. The metric encodes distances, time intervals, angles and causal structure, and it can vary smoothly across spacetime once spacetime is curved.
+"Now the important one," says the voice in his head, and the physicist relays it. Next is the metric tensor: spacetime's own rulebook for turning raw coordinates into actual distances, times, angles and causal relationships. Think of the schoolroom rule for straight-line distance, then allow it to change its conversion rate from place to place. The metric can vary smoothly across spacetime once spacetime is curved.
 
 On the other side of the ledger sits the stress-energy tensor. It is less an instruction manual than an accountant's exhaustive inventory: energy density, momentum density, and all the stresses, pressures and flows of matter and energy moving through a region. It records everything physical that is actually there to do the curving.
 
-Between the two sit the curvature tensors, each a further refinement of the last, building up to Einstein's own. "We need all of them," the physicist says dryly, "because spacetime is complicated." The machinery compresses down to a single relationship, with geometry on one side and matter and energy content on the other. Matter tells spacetime how to curve; spacetime tells matter how to move.
+Between the two sit the curvature tensors, each a further refinement of the last, building up to Einstein's own. "We need all of them," the physicist says dryly, "because spacetime is complicated." The machinery compresses down to the same single relationship this course has now stated three times, in Chapter 335 and again in Chapter 346, because it keeps being the whole point: matter tells spacetime how to curve; spacetime tells matter how to move.
 
 Then comes local flatness, arguably the most useful idea in the whole tour. Zoom in on any sufficiently small, freely falling patch of curved spacetime, and it looks like the flat spacetime of Special Relativity. The Earth plays the same trick. Stand in a backyard and the ground looks flat in every direction; only the view from orbit reveals the globe. Both views are true, and the backyard view is simply what curvature looks like once you've zoomed in far enough.
 
@@ -402,9 +424,9 @@ The voice in his head insists it is a dolphin. When the physicist finally says, 
 
 *Expert-panel chapter: three physicists give three different answers to the same question.*
 
-A panel of three physicists stages a genuine, unresolved disagreement, and nobody is crowned the winner.
+Three physicists sit behind a folding table that does nothing to make the room feel less like a lecture hall, and stage a genuine, unresolved disagreement in which nobody is crowned the winner.
 
-The first speaks for straightforward instrumentalism. "The formalism says nothing whatever about what an electron is doing when nobody's looking. That question produces no numbers the theory can check, so the theory declines to answer it."
+The first speaks for straightforward instrumentalism, hands folded, visibly the most comfortable person in the building. "The formalism says nothing whatever about what an electron is doing when nobody's looking. That question produces no numbers the theory can check, so the theory declines to answer it."
 
 The traditional picture treats a quantum system before measurement like a roulette wheel still spinning. Every slot is a live possibility with its own odds attached. Only when the ball drops into one slot, "collapse," do all the other slots' chances vanish at once, as if they had never been live at all.
 
@@ -416,7 +438,7 @@ The third physicist is plainly impatient with both camps. Each one, he says, pro
 
 He also gets the sharpest line. "The word 'measurement' sounds like a special class of event that the rest of nature is exempt from. There is no such class. A surveyor is a physical system. A form is a physical system. There is no magic in a clipboard." Measurement, on this reading, is ordinary physical interaction. It carries no metaphysical privilege, however official it looks with a signature attached.
 
-The human rebuttal carries just as much weight, and it is the more affecting of the positions. When the many-worlds physicist insists that no one was truly lost, the woman whose sister was erased from the record answers him. "I am here. I am the one who noticed."
+The human rebuttal carries just as much weight, and it is the more affecting of the positions. A woman near the back of the room — the reason any of them are in it, a sister gone in circumstances this panel's physics was convened to explain away — has sat silent through all three answers. When the many-worlds physicist insists that no one was truly lost, only decohered into a branch nobody in this room can reach, she finally answers him. "I am here. I am the one who noticed."
 
 However many decohered branches might still "contain" her sister, the branch she is living in has lost her. A many-worlds picture, however mathematically elegant, does not by itself make a real loss un-happen for the person living through it. The physics may be symmetric across branches; the grief, inconveniently, is not. The many-worlds physicist concedes it is the one objection he has never answered well.
 

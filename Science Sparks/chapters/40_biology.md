@@ -126,7 +126,7 @@ Even today, microbes outweigh and out-chemistry all animal life combined, quietl
 
 *Level: Optional deep dive; builds on Chapter 254.*
 
-Quantum biology lives or dies by one disciplined question. Biology is quantum, trivially, as is all matter, including the chair you're sitting on. The real question is whether a specific quantum effect that classical physics cannot mimic actually changes what an organism does.
+Quantum biology lives or dies by one disciplined question. Biology is quantum, trivially, as is all matter — the point Chapter 254 already made about the chair you're sitting on. The real question is whether a specific quantum effect that classical physics cannot mimic actually changes what an organism does.
 
 Quantum tunneling is the best-supported case. It lets protons and electrons "cheat" through an energy barrier instead of climbing all the way over it, as if a ball passed through a hill. The picture shows that there's a barrier and a way around it, and it is wrong in exactly the way that makes the effect quantum. A real ball kicked at a real hill without enough speed never reaches the other side, not once, not ever. A proton or electron facing the equivalent barrier sometimes turns up on the far side anyway, with no runway, no assist, and no violation of any law. At that scale a particle behaves less like a small solid ball on one definite path and more like a smeared-out possibility with some presence on both sides of the barrier at once, and every so often the far-side presence is what gets detected. This shows up concretely in certain enzymes, which accelerate reactions faster than classical physics alone would predict.
 
@@ -853,7 +853,7 @@ Their method, building physical models from measurements, was borrowed directly 
 
 By then the known facts were on the table: a backbone of sugar and phosphate, four kinds of bases, a helix some twenty angstroms wide, a repeat every thirty-four angstroms, and a curious regularity noticed in 1950. Adenine and thymine always turned up in matching amounts, and so did guanine and cytosine. On 28 February 1953, Watson found that cardboard cutouts of the bases would pair up, each type with one partner, in a way that satisfied both the width of the helix and that puzzling ratio.
 
-A zipper is the obvious comparison, two rows of teeth meshing together, but a zipper's teeth are interchangeable. DNA's bases are not: each fits only its one designated partner, the way a key fits one lock. That exclusivity turns the pairing into a template. Knowing one rail of the ladder tells you exactly what the other rail must be, so each strand can specify a new copy of its partner.
+The zipper comparison from Chapter 261 is exactly what Watson was staring at: cardboard cutouts whose shapes only fit one way round. That exclusivity turns the pairing into a template. Knowing one rail of the ladder tells you exactly what the other rail must be, so each strand can specify a new copy of its partner.
 
 A second paper, published 30 May 1953, proposed that replication worked by each strand serving as the template for a new one. It also speculated, correctly as later work confirmed, that mutations might sometimes arise when a base flickers briefly into a rare alternate chemical shape. The first paper's title reads less like a landmark discovery than an apology: "A Structure for Deoxyribose Nucleic Acid."
 
@@ -901,7 +901,7 @@ The model's central prediction was that replication is "semiconservative": each 
 
 Two rival guesses were in play. "Conservative" replication imagined the original double helix staying fully intact while a separate new copy got built alongside it, like photocopying a page and filing the original away untouched. "Dispersive" replication imagined old and new material chopped up and scattered through both resulting helices, like shredding two documents and reassembling two new ones from the mixed confetti. The real answer splits the difference in a specific way: each new helix keeps one entire original strand and pairs it with one entire new strand, the two rails cleanly separated. The experiment is still taught as the textbook case of a clean, decisive result, and has been called, without much exaggeration, "the most beautiful experiment in biology."
 
-Crick built on all this in 1957 and 1958 to formalize what he called the "central dogma": genetic information flows from DNA to RNA to protein, and not in reverse. He paired it with a "sequence hypothesis" describing how that information is encoded. Think of an architect's master blueprint (DNA) copied onto a disposable working drawing (RNA) that a construction crew uses to put up a building (protein). No amount of renovating the finished building edits marks back onto the blueprint in the drafting office. The one place the picture strains is that a protein, once built, often helps decide which blueprints get copied next.
+Crick built on all this in 1957 and 1958 to formalize what he called the "central dogma": genetic information flows from DNA to RNA to protein, and not in reverse — the one-way architect's-blueprint route already laid out in Chapter 261. He paired it with a "sequence hypothesis" describing how that information is encoded. The one place the picture strains is that a protein, once built, often helps decide which blueprints get copied next.
 
 The central dogma has since been modestly qualified. The discovery of reverse transcription in 1970 showed that RNA can, in specific circumstances, be copied back into DNA. It has never been overturned where it matters most: information has never been shown to flow from a protein back into a gene.
 
@@ -1705,7 +1705,7 @@ Celera, meanwhile, found it could not profitably sell access to a genome the pub
 
 *Level: Builds on earlier chapters: Chapter 321.*
 
-A famous betting pool on how many genes the human genome contains drew guesses from 26,000 to well over 150,000. It was won by the lowest realistic guess, around 25,947. The real figure settled lower still, at close to 20,000 protein-coding genes, comparable to and in some cases barely different from far simpler organisms like roundworms and fruit flies.
+A famous betting pool on how many genes the human genome contains drew guesses from under 26,000 to well over 150,000. It was won by the lowest realistic guess, around 25,947. The real figure settled lower still, at close to 20,000 protein-coding genes, comparable to and in some cases barely different from far simpler organisms like roundworms and fruit flies.
 
 Human complexity comes from doing more with the genes available. Alternative splicing (introduced in Chapter 293) lets some 20,000 genes generate over 100,000 distinct proteins, and the regulatory sequences controlling when and where those genes switch on occupy more of the genome than the genes themselves.
 
