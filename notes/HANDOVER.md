@@ -50,3 +50,110 @@ Leave these for the session that has them open. They are not the shared copy unt
 
 **15 Oct 2026, RIB sync:** The Relativistic Investigation Bureau folder on `main` now contains tracked local RIB files plus GitHub-only Book 1 REV17 assets. Earlier GitHub copies with same-name conflicts are preserved under `The Relativistic Investigation Bureau - SERIES/bak/github-pre-sync-2026-10-15/`. Current RIB guidance is in that folder's `AGENTS.md` and `notes/NEXT_BOOK_HANDOFF.md`: Book 1 REV17 candidate, Book 2 REV05 working pair; REV14 and REV04 remain release masters. Keep archived files as reference, not active working copies.
 **15 Oct 2026, Holistic Brain Farts:** Retired as a separate active book because the user has dedicated books for its material. The full 17-file PC copy is archived at `SCIENCE  Series\Science Sparks\bak\Lothar's Holistic Brain Farts - 2026-10-15\`. Do not restore or continue the separate book unless asked. Its former GitHub files were removed from `main` in a cleanup PR; Git history retains the previous tracked version. The backup is intentionally local and must not be committed.
+
+**16 Oct 2026, reconciliation resumed:** Filesystem access is enabled. The shared checkout is `pc-checkout-cleanup-2026-10-13`, HEAD `0d423f69`, with 1,271 changed/untracked entries. After fetching, `origin/main` is at `9ed7e1be`; the shared branch differs by 140 local and 576 remote commits. Do not merge that branch wholesale or reset the shared checkout. A clean per-task worktree is at `C:\Temp\book-reconciliation-audit-20261016`, branch `codex/book-reconciliation-audit-20261016`, based on `origin/main`.
+
+The largest concrete path change found so far is Look First: 194 files tracked at `NOVELS\Look First - SERIES` are now present at `SCIENCE  Series\Look First - SERIES`; direct blob comparison finds 138 unchanged and 56 changed. This is a relocation mixed with content edits, not a simple rename. Its existing status/handover notes are stale about the path and do not yet establish that all 56 differences are intended. Do not stage or move this series until those differences are reconciled against its current manuscript/status and any candidate branches.
+
+Current status work is read-only except this handover note and the earlier Poetry book-local note. RIB Book 2 version cleanup was recorded and committed locally as `82d1065` in the nested RIB repository, but its remote URL is invalid; do not push. Poetry REV02 is active; the Word file remains locked, 16 files still match the pushed branch in the latest comparison, and branch content still needs review against `notes/LOTHAR_RULES.md` before merge. The earlier root-level 1,271-entry inventory remains unreconciled. Continue by comparing each book’s handoff/current master to the matching local branch/worktree, then reconcile one book at a time in this clean worktree. Never include `bak\` snapshots or another book’s files in a commit.
+
+**Discovery, 16 Oct 2026:** `.codex-worktrees\` inside the shared checkout is not just 27 small status entries: it contains 28 full nested worktree trees, approximately 94,102 files / 14.3 GB total. These are likely why Git reports only one untracked directory entry per nested worktree; the nested `.git` files stop normal recursive status. Do not delete them or move them as ordinary folders. First match every directory to `git worktree list`, inspect its branch and dirty state, then use `git worktree move` or archive through Codex only when its owner/state is confirmed. Several names correspond to recent Book 3/6/7/9, QED, Physics, Lolly, Bavarian Cooking and Auswandern work, so their content may be current work, not old backups.
+
+The 28 nested worktrees have all been matched to Git's registered worktree list. Status audit: 26 are clean; two carry uncommitted changes and must be preserved exactly—`auswandern-rev118` (4 changed files) and `qed-v2-current-20261015` / branch `codex/qed-v2-status-20261016` (110 changed files). Their tracked branches/commits remain in the shared Git repository. To remove the nested-worktree clutter safely, move all 28 with `git worktree move` to `D:\Offload\.codex\worktrees\repo-reconciliation-2026-10-16\<name>`; do not delete them or discard their dirty files. Recheck each status after moving.
+
+
+**16 Oct 2026, worktree clutter mitigation:** All 28 nested paths were confirmed as registered worktrees. A Git move attempt on the first worktree was denied by the filesystem, so no worktree was moved. Instead, `.codex-worktrees/` was added to the shared checkout's local `.git/info/exclude`; this reduced its visible status entries from 1,271 to 1,244 without changing the nested worktrees or their individual status. The empty destination directory created during the failed move attempt remains at `D:\Offload\.codex\worktrees\repo-reconciliation-2026-10-16`; no files were placed there. Continue with one-book content reconciliation; do not treat the local exclude as a version cleanup or commit.
+
+**16 Oct 2026, branch state check:** Compared each nested worktree branch with `origin/main`. Of the 28 worktrees, 19 clean branches have zero commits unique to them (their commit history is already contained in `origin/main`), seven clean branches have one or more unique commits, and the two dirty worktrees are not ahead by commits. The two dirty ones remain the Auswandern REV118 working tree and QED Volume 2 current tree noted above. Main-checkout status is now 1,244 after the local exclude.
+
+**Digital Twin duplication found:** `NOVELS\Brave New Times\` is a separate nested Git repository (`Brave-New-Times.git`) containing 3,348 files / about 459 MB. Its Book 1 folder contains `.claude\worktrees\twin-status-594e8a`, a full 3,048-file repository worktree that includes other books. This explains why an “AI fork” can appear to contain the whole collection. It is a nested repository/worktree, not a Book 1 version; do not archive it into a book's `bak\` or remove it as a duplicate without reconciling its unique Book 2–7 material.
+
+Open PR #173 (`claude/twin-status-594e8a`) is a separate main-repository change to `The Digital Twin` (59 files, about 10,241 insertions). It is still open and is not the same path/repository as `NOVELS\Brave New Times\`; keep them distinct during reconciliation. No PR was merged or closed in this audit.
+
+**16 Oct 2026, Digital Twin source comparison:** The tracked main-checkout path `NOVELS\The Digital  Twin\` has 65 deleted files. The parallel nested-repository location `NOVELS\Brave New Times\Book 1 - The Digital Twin\` has only 2 byte-identical counterparts, 41 changed chapter/series files, and 22 missing prior files. The missing set includes source/blueprint files and captured work logs; preserve them. These are not safe to treat as one clean rename. The book's own nested repo and open PR #173 are separate candidate histories; compare their status/handoff and exact chapter files before choosing a master. Do not stage either copy as a wholesale replacement.
+
+**16 Oct 2026, Brave New Times nested repository audit:** `NOVELS\Brave New Times\` is an independent Git repo on `main`, locally one commit ahead and four behind its own `origin/main`. Its Book 1 status still declares REV5 as the master, but the nested repo has 38 modified tracked Book 1 files, two deleted tracked files, and untracked REV5 EPUB/DOCX, cover options, build scripts and the Book 2 head-start files. Treat this as unfinished local Book 1/Book 2 work; preserve it and do not push the nested branch until the status, missing REV4 pair, and complete untracked list are reconciled. Its embedded `.claude\worktrees\twin-status-594e8a` alone accounts for 3,035 untracked entries in the nested repo status and contains a copy of the wider book repository. This is the literal source of the “all books in that fork” appearance. PR #173 remains open as a separate candidate for the same novel; compare its chapter text to the nested repo before choosing a master.
+
+
+## Auswandern worktree update — 2026-10-16
+The user reports checking current `origin/main` in an isolated worktree: the book already has a newer committed REV128 EPUB; an earlier EPUB generated from REV115 was not committed or pushed over it; there was no new book-only change to merge. The latest `main` was fetched and the clean worktree archived; no files were committed, pushed, or merged. This update refers to that isolated clean worktree and does not by itself resolve the separate registered dirty checkout `D:/My Books for Amazon/.codex-worktrees/auswandern-rev118`, whose status still shows four modified files pending owner review.
+
+
+
+## Full dirty-worktree sweep — 2026-10-16
+Ran `git worktree list --porcelain` and checked each existing registered checkout with `git status --porcelain=v1 --untracked-files=normal`. The following are dirty; counts are status entries, so one untracked directory can contain many files:
+
+- Main shared checkout `C:/Users/lomus/git-dirs/My-Books-for-Amazon.git`: 660 entries.
+- `C:/Temp/book-reconciliation-audit-20261016`: 1 modified handover file.
+- `C:/Users/lomus/AppData/Local/Temp/bav-main-wt-16499`: 1,030 entries.
+- `C:/Users/lomus/AppData/Local/Temp/ee-series-readiness-current-20261013`: 8.
+- `C:/Users/lomus/AppData/Local/Temp/ee35/wt`: 1; `.../grokgrav/br-wt9`: 1.
+- `C:/Users/lomus/AppData/Local/Temp/grokgrav/main-wt`: 17; `main-wt7`: 212; `main-wt8`: 213; `main-wt9`: 208.
+- `C:/Users/lomus/AppData/Local/Temp/hc-rev2`: 2; `lolly1-rev2`: 1.
+- `C:/Users/lomus/git-dirs/wt-scallywag`: 4; `wt-sleepless`: 1.
+- `C:/Users/lomus/tmp-rules-wt`: 3,355 entries, primarily mass deletions; do not stage or clean without explicit review.
+- `C:/Users/lomus/wt-hc13`: 1; `wt-hc8`: 56; `wt-hc9`: 1.
+- `D:/My Books for Amazon/.claude/worktrees/youthful-wilson-76f830`: 3,703 entries, extensive deletions and modifications; do not stage or clean without review.
+- `D:/My Books for Amazon/.codex-worktrees/auswandern-rev118`: 4 modified files. User separately reports REV115 EPUB work was superseded by the already committed REV128 EPUB on origin/main, and the clean isolated worktree was archived. This report does not identify these four changes, so keep them pending review.
+- `D:/My Books for Amazon/.codex-worktrees/qed-v2-current-20261015`: 110 entries.
+- `D:/Offload/.codex/worktrees/book4-critical-revision-20261015/My Books for Amazon`: 1 untracked review note.
+- `D:/Offload/.codex/worktrees/digital-twin-paths/My Books for Amazon`: 56.
+- `D:/Offload/.codex/worktrees/physics-vol2-current-pass/My Books for Amazon`: 92.
+- `D:/Offload/.codex/worktrees/protocol-flamingo-version-cleanup/My Books for Amazon`: 1 untracked pacing-readthrough directory.
+- `D:/Offload/.codex/worktrees/science-sparks-consolidation/My Books for Amazon`: 1 untracked build directory.
+- `D:/Offload/.codex/worktrees/universe-latest-fix-audit/My Books for Amazon`: 5 (REV19 work and REV18 removal).
+- `D:/Offload/.codex/worktrees/will-legacy-reconcile/My Books for Amazon`: 1 untracked output directory.
+- `D:/Offload/.codex/worktrees/youtube-rev26-description-guidance/My Books for Amazon`: 1 untracked source document.
+- Separate nested repository `D:/My Books for Amazon/NOVELS/Brave New Times`, branch main: 38 modified, 2 deleted, 11 untracked path entries; includes a nested Claude worktree.
+- Registered RIB Book 1 review path `D:/My Books for Amazon - RIB Book 1 review` is marked prunable because its Git directory points to a missing location; status unavailable.
+
+No entries from this sweep were staged, committed, pushed, merged, cleaned, deleted, or moved. Earlier commit-ahead inventory is distinct and must be reviewed book-by-book before cherry-picking or merging. This note is an inventory, not an ownership determination.
+
+
+
+## Branches with commits ahead of fetched origin/main — 2026-10-16
+Ran `git rev-list --left-right --count origin/main...HEAD` for registered worktrees. This compares commit ancestry, not book content or whether a PR is merged. Main shared checkout is 140 commits ahead / 576 behind and is not a safe whole-branch push/merge candidate. Other ahead worktrees:
+
+- 1 ahead / 39 behind — `codex/ilwm-own-edition-20261016`.
+- 77 ahead / 576 behind — detached `C:/Users/lomus/AppData/Local/Temp/ee35/wt`.
+- 24 ahead / 576 behind — detached `C:/Users/lomus/AppData/Local/Temp/grokgrav/br-wt9`.
+- 32 ahead / 576 behind — detached `C:/Users/lomus/AppData/Local/Temp/qa1wt`.
+- 3 ahead / 30 behind — Auswandern literary pass branch `auswandern-rev129-main-sync-20261016`; user reports the clean isolated worktree has no book-only change to merge because committed REV128 supersedes the earlier REV115 EPUB.
+- 1 ahead / 260 behind — Bavarian Cooking reader polish.
+- 6 ahead / 95 behind — Book 9 critical revision.
+- 1 ahead / 239 behind — EE Book 4 gatedriver/critical reader branch.
+- 1 ahead / 39 behind — Giving Birth REV04.
+- 1 ahead / 317 behind — Kindle literary review.
+- 1 ahead / 158 behind — Physics Volume 1 current.
+- 1 ahead / 164 behind — book-location index.
+- 1 ahead / 38 behind — Protocol Flamingo REV11 publish.
+- 138 ahead / 576 behind — Protocol Flamingo version cleanup.
+- 121 ahead / 576 behind — Universe reconcile audit.
+- 139 ahead / 576 behind — detached YouTube REV26 description guidance.
+- 1 ahead / 20 behind — YouTube REV26 mainline.
+
+Large ahead counts against origin/main often indicate these worktrees are based on a different/stale history; they do not equal that many new book edits and are not approval to push. Before integration, compare each candidate's book-only diff, release/status handover, and remote PR state against current main. No branches were pushed or merged as part of this inventory.
+
+
+
+## Review of small ahead branches and live PRs — 2026-10-16
+Inspected the commit(s) ahead of origin/main for 1-commit branches and queried GitHub PR state.
+
+- Several commits have the same patch already in origin/main according to `git cherry`: Bavarian Cooking PR #146, Giving Birth PR #217, and YouTube REV26 PR #224 are merged; their local branch divergence is historical, not pending integration. Do not re-merge.
+- The current Book 4 review branch commit is unique, but PR #157 remains OPEN while the later Book 4 REV6 release PR #218 is already MERGED. Treat #157 as potentially superseded; do not merge it without checking whether its edits are represented in REV6/current source. The registered worktree also has a separate untracked note outside the PR.
+- Protocol Flamingo REV11 PR #223 is CLOSED and not merged. Its diff removes REV10 from active paths and adds REV11, but the associated worktree also has an untracked pacing read-through directory. Confirm current main's active master/status before any replacement PR; do not resurrect PR #223 blindly.
+- The open book-location PR #200 changes three index/handover notes only, has no checks, and GitHub reports mergeable UNKNOWN. Review of its diff shows the path update still advertises stale editions (for example Auswandern REV115, Protocol Flamingo REV10, and QED Volume 2 without later release metadata) while moving folder names. It is not a reliable current-master index and should not be merged as-is.
+- Unique small commits with no matching merged PR identified in this sweep: alternate edition of In Love with Murder (#branch codex/ilwm-own-edition-20261016), Physics Volume 1 masters (#branch codex/physics-v1-current-20261015), and the location-index branch noted above. These need book-status/current-file review before integration.
+
+PR checks: #157 has validate-docx success but no review decision and mergeable UNKNOWN; #200 has no checks and mergeable UNKNOWN. No PR was merged/closed, branch pushed, or local file staged/committed by this review.
+
+
+
+### Correction after inspecting the Book 4 REV6 record
+The merged PR #218 revision record explicitly states the delivered 294-page REV6 is a different variant from a separate 295-page REV6 already on main, and that editorial reconciliation is still required before choosing an upload master. Therefore PR #157 cannot be considered superseded just because #218 merged. PR #157's source edits (chapters 1, 43, 51 plus diagram content) are not represented in the current source tree at origin/main; its DOCX and source changes require a three-way editorial comparison against both REV6 variants before deciding whether to integrate. Keep #157 open/pending review; do not close or merge it automatically.
+
+
+
+### Protocol Flamingo follow-up
+Checked current origin/main's tracked tree and status: REV11 DOCX and EPUB are already present, and the active status explicitly names them as the newest pair, with REV10 preserved in bak. PR #223 was closed without merge and is unnecessary to resurrect for the active release; the desired REV11 pair is already on main. Its old PR diff against the merge base is misleading because the history differs. The separate dirty version-cleanup worktree contains an untracked pacing read-through directory and must be retained for owner review, but it is not needed to publish REV11.
+
