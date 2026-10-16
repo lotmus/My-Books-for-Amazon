@@ -1,0 +1,368 @@
+H1: Appendix A. Constants and Formulas Used in This Book
+P: Memory bandwidth = width × per-pin rate/8. DDR5-6400 channel: 51.2 GB/s. HBM4 at 11 Gbit/s × 2048 bits: 2.8 TB/s (55×). Interface power = bit rate × energy per bit.
+P: Current: I = P/V; 700 W at 0.8 V = 875 A.
+P: Connection density = 10⁶/p² per mm² (p in µm). Reticle limit 26 × 33 mm = 858 mm².
+P: Target impedance Ztarget = ΔV/ΔI. Copper sheet resistance ρ/t: 0.49 mΩ/square for 1 oz (35 µm); ρCu = 1.72 × 10⁻⁸ Ω·m. First-cut inductance scales: a 1.6 mm board via is roughly 0.75 nH for one published geometry; a broad plane pair is about μ₀h per square (0.13 nH/square at 0.1 mm spacing); published die-side bump models include 50 pH, but the effective array loop is geometry- and return-dependent.
+P: Stripline dielectric loss αd ≈ 8.686πf√εr tan δ/c dB/m. At 10 GHz: FR-4 (4.5, 0.020) 38.6 dB/m; low-loss (3.55, 0.0037) 6.3 dB/m.
+P: Return-current fraction within ±a of a trace at height h: (2/π) arctan(a/h). Critical length ≈ tr·v/6. Via stub resonance ≈ c/(4l√εr).
+P: Thermal: Tj = Tcoolant + PΣθ; interface θ = t/(kA); coolant P = ṁcpΔT; water cp = 4186 J/(kg·K); air 1005 J/(kg·K), 1.2 kg/m³.
+P: MEMS: x = a/ω0²; C = ε0A/g; thermal noise an = √(4kBTω0/(mQ)); resonator bandwidth f0/Q.
+P: Yield: Y = exp(−D0A); dies per wafer ≈ π(d/2)²/A − πd/√(2A). Shoreline bandwidth = lanes per mm × rate.
+P: Bond wire ≈ 1 nH/mm; XL = 2πfL; ground bounce = NL ΔI/Δt.
+P: Solder shear strain Δγ ≈ Δα ΔT DNP/h; Engelmaier Nf ≈ ½(Δγ/2εf)^(1/c), c ≈ −0.442, εf ≈ 0.325. Black: MTTF = A J^(−n) exp(Ea/kBT).
+P: Capacitor |Z| = √(ESR² + (ωL − 1/ωC)²); fSRF = 1/(2π√(LC)); parallel count N ≈ 2πf ESL/Z.
+P: Stripline (IPC-2141): Z0 ≈ (60/√εr) ln[4b/(0.67π(0.8w + t))]; delay √εr/c per unit length.
+P: Crosstalk: Kb = ¼(Cm/C + Lm/L); Lsat = trv/2; far end Vf/Va ≈ (len/2v)(Cm/C − Lm/L)/tr; spacing rule 1/(1 + (s/h)²).
+P: High-speed links: fNyquist = Rs/2; PAM4 penalty 9.5 dB; BER 10⁻¹² needs Q = 7.03; KP4 threshold 2.4 × 10⁻⁴ (Q = 3.49).
+P: Optics: energy per bit = P/rate; single-mode fiber ≈ 0.35 dB/km at 1310 nm; margin = Ptx − Σlosses − Psens.
+P: Gyroscope: aC = 2Ωv, v = x0ωd. Dead reckoning: x = ½abt²; θ = bt; θRW = ARW√t.
+P: TSV R = ρL/A. Stack yield = yᴺ. Patch L ≈ λ₀/(2√εr); array EIRP = Pel + 20 log₁₀N + Gel. Assembly yield Y = exp(−Np); defect level DL = 1 − Y^(1−T); stencil area ratio d/(4t) ≥ 0.66. TDR: Z = Z₀(1 + ρ)/(1 − ρ), resolution tr·v/2; TRL usable 20°–160°.
+P: Robot: Pmech = τω; Ibus = Pmech/(ηVbus); runtime = E/Pavg.
+P: dBµV/m = 20 log₁₀(E/1 µV/m); 100 µV/m = 40.0 dBµV/m; 150 µV/m = 43.5; 200 µV/m = 46.0; 500 µV/m = 54.0.
+P: Differential-mode loop over ground (Ott): E ≈ 263×10⁻¹⁶ f² A I / r (V/m; f in Hz, A in m², I in A, r in m).
+P: Common-mode cable (Ott): E ≈ 1.257×10⁻⁶ f L Icm / r (V/m; L in m).
+P: FCC Part 15 Class B at 3 m: 40.0 (30–88 MHz), 43.5 (88–216), 46.0 (216–960), 54.0 dBµV/m (above 960 MHz). Distance 10 m to 3 m: +10.5 dB.
+P: CISPR 32 Class B at 10 m, quasi-peak: 30 dBµV/m (30–230 MHz), 37 dBµV/m (230–1000 MHz).
+P: Field from a reading: E = V + AF + Lcable (dB). CISPR bandwidths: 200 Hz, 9 kHz (150 kHz–30 MHz), 120 kHz (30–1000 MHz), 1 MHz (above 1 GHz).
+P: Conducted, CISPR 32 Class B: 66–56 dBµV QP (150–500 kHz), 56 QP / 46 AV (0.5–5 MHz), 60 QP / 50 AV (5–30 MHz). LISN 50 µH / 50 Ω.
+P: ESD (IEC 61000-4-2): 150 pF, 330 Ω; first peak about 3.75 A per kV (contact). Surge (IEC 61000-4-5): 1.2/50 µs, 8/20 µs, 2 Ω.
+P: Multiphase buck: D = Vout/Vin; ripple ΔI = (Vin − Vout)D/(L fs); output ripple at N fs. Fan laws: Q ∝ N, Δp ∝ N², P ∝ N³, sound ≈ 50 log₁₀(N₂/N₁) dB.
+P: Silicon resonator TCf ≈ −30 ppm/K uncompensated. Bond-wire low-pass τ = L/(2Z₀), added rise ≈ 2.2τ. Arrhenius AF = exp[(Ea/kB)(1/Tu − 1/Ts)], kB = 8.617 × 10⁻⁵ eV/K.
+P: MLCC effective C = C_nom × k_bias × k_temp (X7R ±15 %). Via aspect ratio = thickness/drill, about 10:1 standard. Crosstalk sums: worst case Σ|xᵢ|, statistical √Σxᵢ². Jitter TJ = DJ + 2Q·RJ; Q(10⁻⁶) = 4.75.
+P: Placement Cpk = min(USL − µ, µ − LSL)/(3σ). Friis FSPL = 20 log₁₀(4πd/λ); noise floor −174 dBm/Hz + 10 log₁₀B + NF. VNA noise floor ∝ IFBW; sweep ≈ points/IFBW. Magnetometer heading error ≈ arctan(B_off/H); wire field µ₀I/(2πr).
+P: Slot resonance f = c/2L; aperture SE ≈ 20 log₁₀(λ/2L). Cable resonance c/2L (λ/2), c/4L (λ/4). Scan to 1, 2, or 5 GHz for highest internal frequency below 108 MHz, 500 MHz, or 1 GHz; above, 5× (FCC ≤ 40 GHz, CISPR 32 ≤ 6 GHz). FCC peak limit = average + 20 dB; average = peak − 20 log₁₀(1/d).
+P: Stepped scan: step ≤ RBW/2; T = steps × dwell. Fully anechoic above 1 GHz: S_VSWR ≤ 6 dB; horn footprint w = 2d tan(θ/2). Touch current I = 2πfCV; CM choke f₀ = 1/(2π√(L·2C_Y)).
+P: Signal-line surge through 42 Ω; TVS V_C = V_BR + I_PP R_dyn. 80/80 rule: x̄ + kS ≤ L, k = 2.04 (3), 1.69 (4), 1.52 (5), 1.42 (6), 1.20 (12). Motor-drive common mode I = C dv/dt.
+P: Substrates: 77 GHz microstrip αd = 27.3 εr(εeff − 1) tan δ/[√εeff(εr − 1)λ₀], αc ≈ 8.686 Rs/(Z₀w), Rs = √(πfµ₀ρ); spiral L = 2.34 µ₀n²d_avg/(1 + 2.75ρ). Vibration: Grms = √(π/2 fn Q PSD), Q ≈ √fn, Z₁σ = 9.8 Grms/fn² in; Steinberg Z = 0.00022B/(c t r √L). IMU: offset = (up + down)/2, scale = (up − down)/2, σ = noise density/√(2T). Optics: ER = 10 log₁₀(P1/P0), OMA = P1 − P0. I²C rise tr = 0.8473 RC. Scan time = patterns × chain length/f_shift. Optical: depth of focus ±Nc; Nyquist 1/(2 × pixel pitch). Filter heat P(1 − 10^(−IL/10)); drift = TCF × ΔT.
+H1: Appendix B. Answers to the Practice Problems
+H2: Chapter 1
+P: 1. Four stacks give 4 × 2.8 = 11.2 TB/s. A DDR5-6400 channel is 64 bits × 6.4 GT/s/8 = 51.2 GB/s, so four channels give 204.8 GB/s, 55 times less.
+P: 2. I = P/V = 1000/0.7 = 1429 A.
+P: 3. 1024 × 9.6 × 10⁹/8 = 1.23 × 10¹² B/s, 1.23 TB/s.
+P: 4. 8 TB/s is 64 Tbit/s, and 64 × 10¹² × 2 × 10⁻¹² J = 128 W.
+P: 5. 2800/51.2 = 54.7, so about 55 channels.
+P: 6. Its connections run millimeters through a silicon interposer or bridge at micrometer pitch, so thousands of signals fit and each costs little energy; a board-level DIMM connection is centimeters long at a millimeter pitch.
+P: 7. Ridge = peak/bandwidth = 400 × 10¹²/3.2 × 10¹² = 125 operations per byte. Workloads below 125 operations per byte are limited by memory.
+P: 8. Each token reads the whole model once, so 16 × 10¹²/140 × 10⁹ = 114 tokens per second.
+H2: Chapter 2
+P: 1. 10⁶/55² = 331 per mm² and 10⁶/25² = 1600 per mm².
+P: 2. Density goes as 1/p², so (150/25)² = 36 times.
+P: 3. A chip-scale package may be at most about 1.2 times the die in each dimension: 1.2 × 5 = 6 mm, so about 6 × 6 mm.
+P: 4. Its join is wire bonding and its skeleton is a lead frame.
+P: 5. The lithography tool's exposure field, the reticle, is limited to 26 × 33 mm.
+P: 6. No. Its redistribution layer is built directly on the molded die to form the package itself; an interposer is a separate wiring layer between dies and a substrate.
+P: 7. At 9 µm, 10⁶/81 = 12,346 per mm², and 50 mm² holds about 617,000 connections. At 40 µm, 625 per mm² gives 31,250, about twenty times fewer.
+P: 8. Below about 20 µm the solder volume per joint becomes too small to accommodate warpage and coplanarity variation, and neighboring joints bridge.
+H2: Chapter 3
+P: 1. Ztarget = ΔV/ΔI = (0.02 × 1.0 V)/200 A = 100 µΩ.
+P: 2. R□ = ρ/t = 1.72 × 10⁻⁸/70 × 10⁻⁶ = 0.25 mΩ per square.
+P: 3. R□ = 1.72 × 10⁻⁸/17.5 × 10⁻⁶ = 0.98 mΩ; three squares give 2.95 mΩ, and 100 A drops 0.29 V, far too much for a core rail.
+P: 4. V = L di/dt = 50 × 10⁻¹² × 500 A/10⁻⁶ s = 25 mV.
+P: 5. 600 A/0.1 A = 6000 bumps for the supply, and as many again for the return.
+P: 6. It shortens the high-current path from centimeters of plane to millimeters, reducing both resistance and loop inductance, so the drop and the step response stay within the budget.
+P: 7. V = IR = 600 × 0.05 × 10⁻³ = 30 mV.
+P: 8. D = 1/12 = 0.083. ΔI = (12 − 1) × 0.083/(150 × 10⁻⁹ × 10⁶) = 0.917/0.15 = 6.1 A peak to peak.
+H2: Chapter 4
+P: 1. αd = 8.686π × 2.4 × 10⁹ × √4.5 × 0.020/2.998 × 10⁸ = 9.3 dB/m, so a 10 cm line loses 0.93 dB.
+P: 2. At 14 GHz, αd = 8.686π × 14 × 10⁹ × 2.12 × 0.020/2.998 × 10⁸ = 54.1 dB/m; 0.25 m loses 13.5 dB.
+P: 3. αd = 8.686π × 14 × 10⁹ × √3.4 × 0.002/2.998 × 10⁸ = 4.7 dB/m; 0.25 m loses 1.2 dB, about a tenth of FR-4's.
+P: 4. δ = 66/√(10¹⁰) mm = 6.6 × 10⁻⁴ mm = 0.66 µm.
+P: 5. Δt = (√4.2 − √3.9) × 0.1/2.998 × 10⁸ = 0.0746 × 0.1/2.998 × 10⁸ = 24.9 ps.
+P: 6. Lower loss, a more stable dielectric constant, better heat handling, and higher density.
+P: 7. K = 1 + (2/π) arctan(1.4 × 1²) = 1 + 0.637 × 0.951 = 1.61.
+P: 8. Worked Example 4.4 gives 0.49 dB/cm, so 2 cm loses 0.98 dB, about 20 % of the power.
+P: 9. The thermal resistances are unchanged, 0.97 and 6.34 K/W, so 5 W gives 4.8 K on AlN and 31.7 K on alumina.
+H2: Chapter 5
+P: 1. Half the return current lies within ±h, here ±0.2 mm, a band 0.4 mm wide centered under the trace.
+P: 2. (2/π) arctan 5 = 0.637 × 1.373 = 0.87, so 87 %.
+P: 3. v = c/√4 = 1.5 × 10⁸ m/s; the critical length is tr v/6 = 35 × 10⁻¹² × 1.5 × 10⁸/6 = 0.87 mm.
+P: 4. f = c/(4l√εr) = 2.998 × 10⁸/(4 × 10⁻³ × 1.897) = 39.5 GHz.
+P: 5. The reference microstrip, εeff = 2.79, has a delay of √2.79/c = 55.7 ps/cm, so 10 cm takes 557 ps.
+P: 6. The return current, which flows directly under the trace, must detour around the split, enlarging the loop; the impedance changes, causing reflections, and the large loop radiates and couples to other circuits.
+P: 7. f = c/(2L√εr) = 3 × 10⁸/(2 × 0.2 × 2) = 375 MHz.
+H2: Chapter 6
+P: 1. 800 mm² = 8 cm², so 1000/8 = 125 W/cm².
+P: 2. θ = (85 − 30)/1000 = 0.055 K/W from junction to coolant.
+P: 3. θ = t/(kA) = 10⁻⁴/(4 × 6 × 10⁻⁴) = 0.042 K/W.
+P: 4. ṁ = P/(cp ΔT) = 45,000/(4186 × 8) = 1.34 kg/s, about 1.34 L/s or 81 L/min.
+P: 5. V̇ = P/(ρ cp ΔT) = 45,000/(1.2 × 1005 × 12) = 3.11 m³/s.
+P: 6. Heat can be rejected to outside air through dry coolers or towers without mechanical chillers whenever the outside temperature is below the coolant temperature, which with 35 to 45 °C coolant is most of the year in most climates.
+P: 7. ΔT = θ″ × q = 0.08 × 200 = 16 K.
+P: 8. Fan power goes as the cube of speed: 2³ = 8 times.
+H2: Chapter 7
+P: 1. x = a/ω₀² = 9.81/(2π × 2000)² = 9.81/1.58 × 10⁸ = 62 nm.
+P: 2. B = f₀/Q = 70 × 10⁶/20,000 = 3.5 kHz.
+P: 3. The noise goes as 1/√m, so it falls by √10 = 3.16.
+P: 4. ΔC/C = Δg/g = 20 nm/2 µm = 1 %.
+P: 5. 0.46 × 0.46 = 0.212 mm².
+P: 6. Removing air removes most of the damping, raising Q, which narrows the resonance and lowers the thermal noise.
+P: 7. SNR = 94 dB SPL − 32 dBA = 62 dB, since microphones are specified at 94 dB SPL (1 Pa).
+P: 8. The span is 70 K, so 70 × 30 = 2100 ppm, or 0.21 %.
+H2: Chapter 8
+P: 1. A = 4 cm², so D₀A = 0.4 and Y = exp(−0.4) = 67.0 %.
+P: 2. π × 150²/100 = 706.9 and π × 300/√(2 × 100) = 66.6, so about 640 dies.
+P: 3. Y = exp(−0.1 × 1) = 0.905, so 640 × 0.905 = 579 good dies.
+P: 4. 0.995⁶ = 0.970, so 97.0 %.
+P: 5. 300 × 8 Gbit/s = 2.4 Tbit/s per millimeter, or 300 GB/s per millimeter.
+P: 6. A small die on a mature process already yields well, so splitting it gains little yield, while the extra testing, assembly steps, interface area, and package cost remain.
+P: 7. 2 TB/s = 1.6 × 10¹³ bit/s, and 1.6 × 10¹³ × 1.5 × 10⁻¹² = 24 W.
+H2: Chapter 9
+P: 1. L ≈ 1.5 nH, so X = 2π × 5.8 × 10⁹ × 1.5 × 10⁻⁹ = 54.7 Ω, more than the 50 Ω system.
+P: 2. V = N L ΔI/Δt = 8 × 10⁻⁹ × 0.02/(0.5 × 10⁻⁹) = 0.32 V.
+P: 3. f = 1/(2π√(10⁻⁹ × 0.3 × 10⁻¹²)) = 9.19 GHz.
+P: 4. X = 2π × 28 × 10⁹ × 30 × 10⁻¹² = 5.3 Ω.
+P: 5. A bond wire's nanohenry of inductance has hundreds of ohms of reactance at millimeter-wave frequencies, while a bump's tens of picohenries have only a few ohms.
+P: 6. The vias carry heat from the die into the board's planes, and they give a low-inductance ground connection, replacing many ground bond wires.
+P: 7. TJ ≈ Ttop + ψJT P = 70 + 0.8 × 3 = 72.4 °C.
+P: 8. τ = L/(2Z₀) = 10⁻⁹/100 = 10 ps, so the added rise is about 2.2τ = 22 ps.
+H2: Chapter 10
+P: 1. Δγ = Δα ΔT DNP/h = 14 × 10⁻⁶ × 100 × 5/0.1 = 0.07.
+P: 2. Δγ = 10 × 10⁻⁶ × 80 × 15/0.3 = 0.040. Nf = ½(Δγ/2εf)^(1/c) = ½ × (0.040/0.65)^(−1/0.442) = ½ × 0.0615^(−2.26) ≈ 274 cycles.
+P: 3. Nf ∝ Δγ^(1/c), so halving the strain multiplies life by 2^(1/0.442) = 2^2.26 = 4.8.
+P: 4. AF = exp[(0.7/8.617 × 10⁻⁵)(1/358.15 − 1/378.15)] = exp(8124 × 1.477 × 10⁻⁴) = exp(1.20) = 3.3.
+P: 5. MTTF ∝ J⁻², so 1.5² = 2.25: the life falls to 44 %.
+P: 6. The underfill bonds the die to the substrate so that the two bend together under temperature change instead of shearing the bumps, reducing the cyclic strain on each joint.
+P: 7. MSL 4 allows 72 hours out of the bag at ≤ 30 °C and 60 % RH before reflow; after that the part must be baked.
+P: 8. 1/358.15 − 1/398.15 = 2.81 × 10⁻⁴ K⁻¹; AF = exp(8124 × 2.81 × 10⁻⁴) = exp(2.28) = 9.8.
+H2: Chapter 11
+P: 1. f = 1/(2π√(22 × 10⁻⁶ × 0.3 × 10⁻⁹)) = 1.96 MHz.
+P: 2. Each part's ESL has 2π × 5 × 10⁷ × 0.3 × 10⁻⁹ = 94 mΩ at 50 MHz, so N = 94/2 = 47 parts.
+P: 3. ωL = Z gives f = Z/(2πL) = 0.03/(2π × 20 × 10⁻¹²) = 239 MHz.
+P: 4. f = 1/(2π√(2 × 10⁻¹² × 4 × 10⁻⁶)) = 56.3 MHz; Z₀ = √(L/C) = √(2 × 10⁻¹²/4 × 10⁻⁶) = 0.71 mΩ.
+P: 5. At 200 MHz both are far above their self-resonances, so both behave as the same mounted inductance and have the same impedance.
+P: 6. The die capacitance and package inductance form a parallel resonance whose peak impedance can far exceed the target unless resistance in the network lowers its Q.
+P: 7. f = 1/(2π√(0.7 × 10⁻⁹ × 10⁻⁶)) = 6.0 MHz.
+P: 8. 22 µF × 0.35 = 7.7 µF.
+H2: Chapter 12
+P: 1. Z₀ = (60/√3.6) ln[4 × 0.25/(0.67π(0.8 × 0.10 + 0.018))] = 31.6 × ln(4.85) = 31.6 × 1.58 = 49.9 Ω.
+P: 2. Cores 5 × 0.2 = 1.0 mm, prepregs 4 × 0.12 = 0.48 mm, copper 10 × 0.025 = 0.25 mm: 1.73 mm.
+P: 3. √4.0 × 0.0254/2.998 × 10⁸ = 2 × 8.47 × 10⁻¹¹ s = 169.4 ps per inch.
+P: 4. 2 × 10⁻³ × √3.6/2.998 × 10⁸ = 2 × 10⁻³ × 1.897/2.998 × 10⁸ = 12.7 ps.
+P: 5. It falls.
+P: 6. An asymmetric stack has unequal expansion and resin shrinkage on its two sides, so it warps during lamination and reflow.
+P: 7. Worked Example 12.2 gave 47.4 Ω with εr = 3.5. With εr = 3.0, 87/√4.41 = 41.4, and 41.4 × 1.206 = 50.0 Ω, a rise of about 2.6 Ω.
+P: 8. 3.2 mm/10 = 0.32 mm.
+H2: Chapter 13
+P: 1. Kb = ¼(0.03 + 0.04) = 0.0175, 1.75 %.
+P: 2. v = 2.998 × 10⁸/√3.6 = 1.58 × 10⁸ m/s; Lsat = tr v/2 = 100 × 10⁻¹² × 1.58 × 10⁸/2 = 7.9 mm.
+P: 3. length/(2v) = 0.2/(3.59 × 10⁸) = 557 ps, so Vf/Va = 557 × (−0.02)/50 = −0.223, −22.3 %.
+P: 4. From 1/(1 + 1) = 1/2 to 1/(1 + 4) = 1/5, a reduction to 40 %.
+P: 5. In a homogeneous dielectric the capacitive and inductive coupling ratios are equal, so their forward contributions cancel.
+P: 6. The rule scales the coupling by (1 + 1)/(1 + 9) = 0.2, so 4.0 % falls to 0.8 %, at a center spacing of 3 × 0.1 = 0.3 mm.
+P: 7. (1 + 4)/(1 + 16) = 0.29, a factor of 3.4.
+P: 8. Worst case 4 × 1 % = 4 %; statistical √(4 × 0.01²) = 2 %.
+H2: Chapter 14
+P: 1. PAM4 carries 2 bits per symbol, so 212.5/2 = 106.25 Gbaud; Nyquist is half the baud rate, 53.1 GHz.
+P: 2. UI = 1/112 × 10⁹ = 8.9 ps.
+P: 3. (26 − 6)/0.8 = 25 inches.
+P: 4. Q = 7.03, from BER = ½ erfc(Q/√2) = 10⁻¹².
+P: 5. The eye height is 2Qσ = 2 × 7.03 × 2 mV = 28.1 mV.
+P: 6. It subtracts interference computed from past decisions, which are noise-free symbols, instead of filtering the noisy received signal.
+P: 7. COM = 20 log₁₀(A/N) = 3 dB, so A/N = 10^(3/20) = 1.41.
+P: 8. TJ = DJ + 2Q·RJ = 2 + 2 × 7.03 × 0.2 = 4.8 ps.
+H2: Chapter 15
+P: 1. 9 W/(400 × 10⁹ bit/s) = 22.5 pJ/bit.
+P: 2. 3.2 × 10¹² × 5 × 10⁻¹² = 16 W.
+P: 3. Losses 1.5 + 0.175 = 1.675 dB, so the received power is −2.7 dBm and the margin −2.7 − (−9) = 6.3 dB.
+P: 4. 10 × 0.35 = 3.5 dB.
+P: 5. Pluggable: 64 × 25 W = 1600 W. Co-packaged: 64 × 1.6 Tbit/s = 102.4 Tbit/s × 5 pJ/bit = 512 W.
+P: 6. Lasers are the least reliable and most temperature-sensitive part of the link; external laser modules can be cooled separately and replaced without reworking the package.
+P: 7. Its 3.3 dB of margin buys 3.3/0.35 = 9.4 km more fiber, so about 11.4 km in total, though dispersion would limit a real link first.
+P: 8. The 16 lanes need 16 × 20 = 320 mW at the chip; through 2 dB, 320/0.631 = 507 mW of light, and at 15 % efficiency 507/0.15 = 3.4 W.
+P: 9. ER = 10 log₁₀(2.0/0.5) = 6.0 dB. The average is 1.25 mW, 0.97 dBm, and the OMA is 1.5 mW, 1.76 dBm.
+H2: Chapter 16
+P: 1. v = x₀ω = 10 × 10⁻⁶ × 2π × 15 × 10³ = 0.942 m/s; Ω = 10°/s = 0.1745 rad/s; aC = 2Ωv = 2 × 0.1745 × 0.942 = 0.329 m/s².
+P: 2. b = 0.5 × 9.81 × 10⁻³ = 4.905 × 10⁻³ m/s²; x = ½bt² = ½ × 4.905 × 10⁻³ × 120² = 35.3 m.
+P: 3. θ = ARW√t = 0.05 × √9 = 0.15°.
+P: 4. g sin 0.5° = 9.81 × 0.00873 = 0.0856 m/s², or 8.7 mg.
+P: 5. θ = bt = 10 °/h × 0.5 h = 5°.
+P: 6. Integration turns its small biases and noise into errors that grow with time, and as the square of time for position, so without external corrections the estimate drifts away within seconds to minutes.
+P: 7. b = 0.1 × 9.81 = 0.981 m/s², so after 10 s the velocity error is 9.81 m/s, and a velocity-zero detector fires about 9.81/9.81 = 1.0 s late; including the bias that accumulates during the delay, as in Worked Example 16.3, Δt = bt/(g − b) = 1.1 s.
+P: 8. arctan(1/20) = 2.9°.
+P: 9. Offset (1.012 − 0.990)/2 = 0.011 g, 11 mg; scale (1.012 + 0.990)/2 = 1.001, 0.1 % high.
+H2: Chapter 17
+P: 1. Rate = 2.8 × 10¹² × 8/2048 = 10.9 Gbit/s per pin, which is why HBM4 parts are quoted above 11 Gbit/s.
+P: 2. 10⁶/40² = 625 per mm².
+P: 3. R = ρL/A = 1.72 × 10⁻⁸ × 30 × 10⁻⁶/(π × (1.5 × 10⁻⁶)²) = 5.16 × 10⁻¹³/7.07 × 10⁻¹² = 0.073 Ω.
+P: 4. 0.98¹⁶ = 0.724, 72.4 %.
+P: 5. 2.8 TB/s = 2.24 × 10¹³ bit/s; × 3 × 10⁻¹² J = 67 W.
+P: 6. θ = t/(kA) = 12 × 10 × 10⁻⁶/(0.5 × 100 × 10⁻⁶) = 1.2 × 10⁻⁴/5 × 10⁻⁵ = 2.4 K/W.
+P: 7. 280/3900 = 7.2 %.
+P: 8. E = αCV² = 0.5 × 40 × 10⁻¹⁵ × 0.5² = 5 fJ.
+H2: Chapter 18
+P: 1. λ = 3 × 10⁸/77 × 10⁹ = 3.9 mm, so λ/2 = 1.95 mm.
+P: 2. λ₀ = 10.71 mm; L ≈ λ₀/(2√3.5) = 10.71/3.74 = 2.86 mm.
+P: 3. EIRP = 5 + 20 log₁₀ 64 + 5 = 5 + 36.1 + 5 = 46.1 dBm.
+P: 4. 20 log₁₀ 2 = 6.0 dB: 3 dB from twice the power and 3 dB from twice the gain.
+P: 5. 0.8 × 4 = 3.2 dB.
+P: 6. The metal would block and detune the antennas, so heat must leave from the opposite side of the package.
+P: 7. λ = 3 × 10⁸/60 × 10⁹ = 5.0 mm; d ≤ λ/(1 + sin 45°) = 5.0/1.707 = 2.93 mm.
+P: 8. λ = 10.7 mm; FSPL = 20 log₁₀(4π × 100/0.0107) = 101.4 dB.
+H2: Chapter 19
+P: 1. Y = exp(−Np) = exp(−5000 × 5 × 10⁻⁶) = exp(−0.025) = 0.975.
+P: 2. DL = 1 − Y^(1−T) = 1 − 0.975^0.02 = 1 − exp(−0.0005) = 500 ppm.
+P: 3. d/(4t) = 0.30/(4 × 0.10) = 0.75, above the 0.66 guideline.
+P: 4. LW/(2(L + W)t) = 0.18/(2 × 0.9 × 0.10) = 1.00.
+P: 5. Boundary scan (IEEE 1149.1), complemented by X-ray inspection.
+P: 6. DL = 1 − 0.95^0.05 = 2561 ppm with 95 % coverage, and 1 − 0.95^0.01 = 513 ppm with 99 %.
+P: 7. Cpk = (60 − 0)/(3 × 20) = 1.0.
+P: 8. Each chain holds 8000 flip-flops, so 10,000 patterns take 8 × 10⁷ shifts, 1.6 s at 50 MHz; with 100× compression, 0.016 s.
+H2: Chapter 20
+P: 1. v = 2.998 x 10^8/sqrt(3.55) = 1.59 x 10^8 m/s. Distance = v t/2 = 30.0 mm. Resolution is about v tr/2 = 2.8 mm, so both edges are resolvable.
+P: 2. Z = 50 x (1 + 0.06)/(1 - 0.06) = 56.4 ohms. The +/-5% band is 47.5 to 52.5 ohms, so the coupon is out of tolerance; inspect trace width and the reference plane near that location.
+P: 3. v = 2.998 x 10^8/sqrt(3.55) = 1.59 x 10^8 m/s. A 24 ps one-way mismatch corresponds to delta-L = v delta-t = 3.82 mm.
+P: 4. The loss difference is 0.4 dB over 50 mm, so incremental trace loss is 0.008 dB/mm or 0.08 dB/cm, assuming common launches cancel and both coupons use the same stack-up.
+P: 5. It misses by 1.8 - 1.0 = 0.8 dB. Recheck dielectric loss versus frequency, copper roughness/plating, finished trace geometry, and launch removal against the modeled coupon.
+P: 6. With fixed line lengths, each 90-degree frequency scales as 1/sqrt(epsilon_r): 4.24 x sqrt(3.55/3.80) = 4.10 GHz and 12.65 x sqrt(3.55/3.80) = 12.23 GHz. Their usable bands shift to about 0.91-7.29 GHz and 2.72-21.73 GHz. Together they still cover 2-16 GHz, but the changed substrate shifts the overlap and should be represented in the coupon calibration model.
+P: 7. |S11|^2 = 10^(-2/10) = 0.631 and |S21|^2 = 10^(-1/10) = 0.794; the sum is 1.425, greater than one. Check calibration, port normalization, connector/fixture movement, and data-channel mapping.
+P: 8. No. The thru-check drift (0.6 dB) is larger than the observed lot difference (0.4 dB), so the board change is not distinguishable from measurement drift. Restore and verify the calibration/fixture, repeat both coupon measurements with the same reference plane and settings, then compare against the modeled loss and measurement uncertainty.
+H2: Chapter 21
+P: 1. E = 263 × 10⁻¹⁶ × (2 × 10⁸)² × 10⁻⁴ × 5 × 10⁻³/3 = 1.75 × 10⁻⁴ V/m, 44.9 dBµV/m.
+P: 2. The field is proportional to area: 20 log₁₀(4/1) = 12.0 dB lower.
+P: 3. f₂ = 1/(πtr) = 1/(π × 2 × 10⁻⁹) = 159 MHz.
+P: 4. The loop field grows as f², so (150/50)² = 9, 20 log₁₀ 9 = 19.1 dB.
+P: 5. E = 263 × 10⁻¹⁶ × (8 × 10⁷)² × 2 × 10⁻⁴ × 2 × 10⁻³/3 = 2.24 × 10⁻⁵ V/m, 27.0 dBµV/m, 13.0 dB below the 40.0 dBµV/m limit from 30 to 88 MHz.
+P: 6. The return current must detour around the slot, so the loop it forms with the signal current is much larger, and the field grows with that area.
+P: 7. f = c/2L = 3 × 10⁸/0.2 = 1.5 GHz.
+H2: Chapter 22
+P: 1. E = 1.257 × 10⁻⁶ × 1.5 × 10⁸ × 2 × 2 × 10⁻⁶/3 = 2.51 × 10⁻⁴ V/m, 48.0 dBµV/m.
+P: 2. 40 dBµV/m = 100 µV/m; Icm = 10⁻⁴ × 3/(1.257 × 10⁻⁶ × 2 × 10⁸ × 1) = 1.19 µA.
+P: 3. V = L di/dt = 0.5 × 10⁻⁹ × 0.05/2 × 10⁻⁹ = 12.5 mV.
+P: 4. 20 log₁₀((100 + 200)/100) = 9.5 dB.
+P: 5. The differential currents flow in opposite directions through the core, so their fluxes cancel and the choke presents little impedance to them.
+P: 6. The pigtail's inductance has a large reactance at high frequency, so noise current flows through it onto the outside of the shield instead of returning on the inside.
+P: 7. f = c/2L = 3 × 10⁸/4 = 75 MHz.
+H2: Chapter 23
+P: 1. 20 log₁₀ 200 = 46.0 dBµV/m.
+P: 2. 20 log₁₀ 90 = 39.1 dBµV/m at 10 m; with 1/r scaling, +20 log₁₀(10/3) = +10.5 dB, about 49.5 dBµV/m at 3 m.
+P: 3. 37 + 10.5 = 47.5 dBµV/m.
+P: 4. E = V + AF + L = 30 + 15 + 3 = 48 dBµV/m.
+P: 5. The FCC Class B limit from 216 to 960 MHz is 46.0 dBµV/m, so 48 dBµV/m fails by 2 dB.
+P: 6. The product standard supplies the limits and the class; the method standard defines how the measurement was made, and the result means nothing without both.
+P: 7. For a highest internal frequency between 108 and 500 MHz, the scan extends to 2 GHz.
+H2: Chapter 24
+P: 1. 120 kHz at 50 MHz (30 to 1000 MHz) and 1 MHz at 2 GHz.
+P: 2. A 1 % spread of 200 MHz is 2 MHz; 10 log₁₀(2000/120) = 12.2 dB.
+P: 3. 0.3 % of 33 MHz is 99 kHz, narrower than the 120 kHz bandwidth, so the reduction is negligible.
+P: 4. Yes; it is within the usual 6 dB margin, so it is maximized and measured with quasi-peak, which can only read the same or lower.
+P: 5. Its envelope is constant, so its peak, its weighted quasi-peak, and its average are equal.
+P: 6. Frequency modulation moves energy among frequencies but does not change the signal's amplitude, so the total power is the same; only its spectral density falls.
+P: 7. The step is at most RBW/2 = 4.5 kHz, so (30 − 0.15) × 10⁶/4500 = 6633 steps, 6633 s, about 1.8 hours.
+P: 8. Average = peak + 20 log₁₀ d, and 20 log₁₀ d = −6 dB gives d = 0.50, 50 %.
+H2: Chapter 25
+P: 1. 45 − 20 log₁₀(10/3) = 45 − 10.5 = 34.5 dBµV/m.
+P: 2. √(R² + (h + he)²) − √(R² + (h − he)²) = √(9 + 3.24) − √(9 + 0.04) = 3.499 − 3.007 = 0.492 m.
+P: 3. λ = 0.1 m, so 2D²/λ = 2 × 0.09/0.1 = 1.8 m.
+P: 4. ±4 dB of the theoretical value.
+P: 5. Above 1 GHz the beams are narrower and the ground reflection would create deep, position-sensitive nulls, so the method suppresses it to approximate free space.
+P: 6. The radiated pattern and the floor reflection make the field vary with position; maximizing records the worst case, so the result does not depend on where the antenna happened to be.
+P: 7. w = 2d tan(θ/2) = 2 × 3 × tan 15° = 1.61 m.
+H2: Chapter 26
+P: 1. 20 log₁₀(2000 µV) = 66.0 dBµV.
+P: 2. I = C dv/dt = 50 × 10⁻¹² × 200/10 × 10⁻⁹ = 1.0 A.
+P: 3. 20 mV = 86.0 dBµV; 86.0 − 63.6 + 6 = 28.4 dB.
+P: 4. A second-order filter gives 40 dB a decade above its corner, so 300 kHz/10 = 30 kHz.
+P: 5. C = 1/((2π × 39.7 × 10³)² × 10 × 10⁻⁶) = 1.61 µF.
+P: 6. They connect the mains lines to protective earth, so their 50 or 60 Hz current flows through anyone touching an ungrounded chassis; safety standards cap that touch current.
+P: 7. I = 2πfCV = 2π × 50 × 2.2 × 10⁻⁹ × 230 = 0.16 mA.
+P: 8. f = 1/(2π√(10⁻³ × 4.4 × 10⁻⁹)) = 75.9 kHz.
+H2: Chapter 27
+P: 1. 3.75 A per kV × 8 kV = 30 A.
+P: 2. V = L di/dt = 5 × 10⁻⁹ × 30/0.8 × 10⁻⁹ = 188 V.
+P: 3. I = 4000/2 = 2000 A.
+P: 4. Peak = 3 × (1 + 0.8) = 5.4 V/m.
+P: 5. ETSI EN 301 489.
+P: 6. The inductance of the trace between the connector and a distant clamp develops a large voltage at nanosecond edges, so the discharge reaches the circuit before the clamp can divert it.
+P: 7. I ≈ (2000 − 40)/42 = 46.7 A.
+P: 8. Rmax = 300 ns/(0.8473 × 120 pF) = 2.95 kΩ, so 2.7 kΩ; Rmin = (3.3 − 0.4)/3 mA = 967 Ω, so 1 kΩ.
+H2: Chapter 28
+P: 1. λ = c/(f√εr) = 3 × 10⁸/(3 × 10⁹ × 2.10) = 47.7 mm.
+P: 2. λ/10 = 4.8 mm.
+P: 3. The field is proportional to the area: 20 log₁₀ 2 = 6.0 dB.
+P: 4. No; with several decibels of uncertainty, a margin of about 6 dB is the usual target.
+P: 5. A 2.5D planar solver such as Momentum, AXIEM, or Sonnet.
+P: 6. No; it locates sources and compares changes, but it is not calibrated to the far-field limit.
+P: 7. x̄ + kS = 37.0 + 2.04 × 1.0 = 39.0 dBµV/m, below 40.0, so yes, with 1.0 dB to spare.
+H2: Chapter 29
+P: 1. T = 1/500 = 2 ms.
+P: 2. 200/5 = 40 updates.
+P: 3. Pmech = τω = 50 × 3 = 150 W; the bus supplies 150/0.9 = 167 W, so I = 167/48 = 3.5 A.
+P: 4. 1500 Wh/375 W = 4 hours.
+P: 5. 1280 × 720 × 3 × 60 = 165.9 × 10⁶ B/s, 165.9 MB/s.
+P: 6. The fast feedback loop holds each joint on its trajectory and rejects disturbances between model updates, so the model only needs to set targets at the rate the task changes, not at the rate disturbances arrive.
+P: 7. I = C dv/dt = 470 × 10⁻¹² × 5 × 10⁹ V/s = 2.35 A.
+H1: Appendix C. Sources
+P: Howard Johnson and Martin Graham, High-Speed Digital Design and High-Speed Signal Propagation; Eric Bogatin, Signal and Power Integrity, Simplified, 3rd edition, for Chapters 3 to 5.
+P: John H. Lau, Semiconductor Advanced Packaging, and Rao R. Tummala (editor), Fundamentals of Device and Systems Packaging, 2nd edition, for Chapter 2; TSMC, Intel, and JEDEC (JESD270-4, HBM4) public documentation for the 2026 packages and memory.
+P: Micron Technology, HBM4 product information (2026), for the 2.8 TB/s per-stack figure.
+P: Madhavan Swaminathan and A. Ege Engin, Power Integrity Modeling and Design for Semiconductors and Systems, for target impedance.
+P: Laminate manufacturers' data sheets for Dk and Df, read at the frequency of use; IPC-4101 for laminate classes.
+P: Frank P. Incropera et al., Fundamentals of Heat and Mass Transfer, for Chapter 6; ASHRAE TC 9.9 guidance for liquid cooling in data centers.
+P: Howard Johnson and Martin Graham for crosstalk (Chapter 13); IEEE 802.3ck for 100 Gbit/s electrical lanes, IEEE 802.3dj for 200 Gbit/s-per-lane work, IEEE 802.3df for 400/800 GbE, and the relevant IEEE specifications for KP4 forward-error correction (Chapter 14); OIF co-packaging documents (Chapter 15).
+P: Werner Engelmaier, solder-joint fatigue papers, and J. R. Black, "Electromigration—A Brief Survey and Some Recent Results" (IEEE Trans. Electron Devices, 1969), for Chapter 10; the UCIe specification for die-to-die links (Chapter 8).
+P: David Titterton and John Weston, Strapdown Inertial Navigation Technology, 2nd edition, and IEEE Std 952 for Allan variance (Chapter 16).
+P: Stephen D. Senturia, Microsystem Design, and Chang Liu, Foundations of MEMS, for Chapter 7; SiTime product information for the Titan resonators (2025).
+P: JEDEC JESD270-4 (HBM4) and hybrid-bonding papers from the IEEE Electronic Components and Technology Conference, for Chapter 17; Duixian Liu, Brian Gaucher, Ulrich Pfeiffer, and Janusz Grzyb (editors), Advanced Millimeter-Wave Technologies: Antennas, Packaging and Circuits, for Chapter 18.
+P: IPC-7525 (stencil design), IPC-7351 (land patterns), IEEE Std 1149.1 (boundary scan), and T. W. Williams and N. C. Brown, "Defect Level as a Function of Fault Coverage" (IEEE Trans. Computers, 1981), for Chapter 19; Keysight and Tektronix application notes on TDR and TRL calibration, and IEEE P370 for de-embedding, for Chapter 20.
+P: Henry W. Ott, Electromagnetic Compatibility Engineering, for radiation from loops and cables, grounding, filtering, and shielding (Chapters 21, 22, and 26).
+P: Mark I. Montrose, Printed Circuit Board Design Techniques for EMC Compliance, 2nd edition, for layout (Chapters 21, 22, and 28).
+P: Eric Bogatin, Signal and Power Integrity—Simplified, 3rd edition, for return paths and the planes (Chapter 22).
+P: CISPR 16-1-1:2019; CISPR 16-1-2:2014+A1:2017; CISPR 16-1-4:2025; CISPR 16-2-1:2014+A1:2017; CISPR 16-2-3:2016+A1:2019+A2:2023; CISPR 16-4-2:2011+A1:2014+A2:2018; and ANSI/IEEE C63.4-2014 (reaffirmed 2025) with C63.4a-2017, for receiver, coupling-device, site, method, and uncertainty references in Chapters 23 to 25. Verify the edition adopted in the target market. IEC catalogue: https://webstore.iec.ch/ ; IEEE Standards: https://standards.ieee.org/standard/C63_4-2014.html
+P: CISPR 32:2015+A1:2019 (Edition 2.1, multimedia emissions), CISPR 35:2016 (immunity), and 47 CFR Part 15 Subpart B (US unintentional-radiator limits), for Chapters 23, 24, 26, and 27. FCC rules: https://www.ecfr.gov/current/title-47/chapter-I/subchapter-A/part-15
+P: IEC 61000-4-2:2025 (Edition 3), IEC 61000-4-3:2020 (Edition 4), IEC 61000-4-4:2012 (Edition 3), IEC 61000-4-5:2014+A1:2017 (Edition 3.1), and IEC 61000-4-6:2023 (Edition 5), for the immunity-test methods in Chapter 27. Product standards choose the test levels and performance criteria. IEC catalogue: https://webstore.iec.ch/
+P: Keysight PathWave ADS, Cadence AWR Microwave Office, Sonnet, Ansys HFSS, and Dassault CST Studio Suite documentation, as tools named in Chapter 28.
+P: Intel and Infineon multiphase controller application notes, and Robert W. Erickson and Dragan Maksimović, Fundamentals of Power Electronics, 3rd edition, for interleaved phases (Chapter 3); MLCC manufacturers' DC-bias curves (Murata, TDK, Samsung Electro-Mechanics) for Chapter 11.
+P: JEDEC JESD22-A108 (HTOL) and JESD47 for accelerated life qualification (Chapter 10); Douglas C. Montgomery, Introduction to Statistical Quality Control, for process capability (Chapter 19).
+P: CISPR TR 16-4-3:2004+A1:2006 (Edition 2.1) and CISPR 32:2015+A1:2019 Annex material on the 80/80 statistical assessment of series production (Chapter 28); FCC 47 CFR 15.33 and 15.35 for the upper scan frequency and the peak and average limits above 1 GHz (Chapters 23 and 24).
+P: IEC 62368-1:2023 (Edition 4) for audio/video and ICT safety; IEC 60990:2016 (Edition 3) for touch-current measurement methods, which do not themselves set limits; IEC 60601-1:2005+A1:2012+A2:2020 (Edition 3.2) for medical electrical equipment; and IEC 60664-1:2020+A1:2025 (Edition 3.1) for insulation coordination (Chapter 26). Applicability and adopted editions vary by product and market. IEC catalogue: https://webstore.iec.ch/
+P: Ajinomoto Fine-Techno, ABF GL102 data; DuPont GreenTape 9K7 and 951 data sheets; Rogers RO3003 and RO4350B data sheets; Corning EAGLE XG data sheet; S. S. Mohan et al., "Simple Accurate Expressions for Planar Spiral Inductances" (IEEE JSSC, 1999), for Sections 4.6 to 4.10.
+P: Dave S. Steinberg, Vibration Analysis for Electronic Equipment, 3rd edition, for Section 10.7.
+P: TDK InvenSense, ICM-42688-P data sheet; Bosch Sensortec, BME280 data sheet; TDK InvenSense, MPU-6050 product specification, for Chapter 16; Sony IMX219 and Raspberry Pi Camera Module 2 documentation, ISO 12233, and IEEE 1149.1, for Chapter 19.
+P: IEC 60825-1:2014 (Edition 3; laser product safety) and the STMicroelectronics VL53L1X data sheet for Section 15.7; NXP UM10204 Rev. 7.0 (I2C-bus specification) and 47 CFR 15.23 for Chapters 21 and 27. See the Chapter 26 safety references above.
+P: Standards change, and national adoptions can differ from the IEC publication. The editions below identify references checked for this revision; they do not claim every market has adopted them unchanged. Before design release or certification, verify the current product standard, national adoption, amendments, and laboratory procedure.
+P: If this book gave you something, a laugh, an idea, or a better question, I'd love to hear about it. A short review on Amazon, even a sentence or two, helps other curious readers find it, and I read every one.
+H1: About the Author
+P: Lothar J. Musiol is a graduate of Munich University of Applied Sciences who spent more than forty years in the semiconductor industry, first at Germany's largest company in the field, then at a string of American start-ups. He studied physics alongside all of it, seriously enough to know exactly how much he is simplifying. Dual citizenship, put to its most sensible use, lets him split his time between San Clemente, California, and Passau, Bavaria, where Austria begins at the garden fence. The household includes one married daughter, one grumpy Teacup Pomeranian named Gucci, and eleven chickens, listed in order of seniority rather than volume.
+P: He writes to make complex ideas clearer and more engaging than most treatments manage, without ever pretending they are simpler than they actually are.
+H1: Also by Lothar J. Musiol
+P: Physics, Actually
+P: Physics, Actually, Volume 1: Motion, Forces, Time, and Relativity
+P: Physics, Actually, Volume 2: Gravity, Cosmology, and the Limits of Spacetime
+P: Physics, Actually, Volume 3: The Standard Model, Chaos, and the Edge of Knowledge
+P: Life, Actually: From the First Cell to the Edited Genome and the Search for Life Elsewhere
+P: More Actually Books
+P: Gravity, Actually: Einstein’s Relativity in Plain Words: Falling, Time, Black Holes, and the Waves We Finally Heard
+P: The Universe, Actually: What Humanity Currently Understands About Reality
+P: Math, Actually
+P: Math, Actually, Volume 1: From Arithmetic to Calculus
+P: Math, Actually, Volume 2: From Multivariable Calculus to Set Theory & Logic
+P: Math, Actually, Volume 3: From Differential Equations to Abstract Algebra
+P: Math, Actually, Volume 4: From Category Theory to the Frontier
+P: Quantum, Actually
+P: Quantum, Actually, Volume 1: Questions and Answers from the Double Slit to the Superconducting Wire
+P: Quantum, Actually, Volume 2: A QED Course
+P: Science Sparks
+P: Science Sparks: Physics, Life, and Mathematics — The Same Few Rules, Told in Highlights
+P: Look First
+P: Look First, Volume 1: The Universe Has No Now
+P: Look First, Volume 2: A Trip Is Not a New Life
+P: Electrical Engineering Series
+P: Foundations of Electronics (Book 1)
+P: Circuits, Components, and Control (Book 2)
+P: Semiconductor Physics and Devices (Book 3)
+P: RF, Microwave, and Transceivers (Book 4)
+P: Communications, Wireless, and SDR (Book 5)
+P: Power and Energy (Book 6)
+P: Firmware and Software for Electronics (Book 8)
+P: Test and Measurement Instruments (Book 9)
+P: History
+P: The Dolphins’ View of History
+P: Fiction
+P: The Murder That Hadn’t Happened Yet (The Relativistic Investigation Bureau, Book 1), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: The Warning That Was Sent Too Late (The Relativistic Investigation Bureau, Book 2), Lothar J. Musiol writing as Spezala Genara Relavi (S.G.R.)
+P: Schrödinger’s Paperwork (Lolly Wren’s Curious Science Adventures, Book 1), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: The Permitted Options (Lolly Wren’s Curious Science Adventures, Book 2), Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)
+P: Protocol Flamingo (The Invasion Storybooks, Book 1), Lothar J. Musiol writing as George Herbert Fontaine
+P: In Love with Murder, Actually: A Derailed Mystery in Provence, Lothar J. Musiol writing as Romuald Livingston
+P: In German
+P: Auswandern – Ab in die USA, Kanada, Australien oder Neuseeland?

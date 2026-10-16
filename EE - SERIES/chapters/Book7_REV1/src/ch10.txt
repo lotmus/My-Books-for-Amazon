@@ -58,4 +58,3 @@ LI: Board resonance and Miles' equation for random vibration.
 P: Mostly for exams and deeper study
 LI: Finite-element fatigue models.
 LI: Weibull statistics of test populations.
-H2: Part I continues. Board delivery, decoupling, and verification

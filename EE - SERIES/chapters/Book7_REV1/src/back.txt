@@ -2,7 +2,7 @@ H1: Appendix A. Constants and Formulas Used in This Book
 P: Memory bandwidth = width × per-pin rate/8. DDR5-6400 channel: 51.2 GB/s. HBM4 at 11 Gbit/s × 2048 bits: 2.8 TB/s (55×). Interface power = bit rate × energy per bit.
 P: Current: I = P/V; 700 W at 0.8 V = 875 A.
 P: Connection density = 10⁶/p² per mm² (p in µm). Reticle limit 26 × 33 mm = 858 mm².
-P: Target impedance Ztarget = ΔV/ΔI. Copper sheet resistance ρ/t: 0.49 mΩ/square for 1 oz (35 µm); ρCu = 1.72 × 10⁻⁸ Ω·m. First-cut inductance scales: a 1.6 mm board via is roughly 0.75 nH for one published geometry; a broad plane pair is about μ₀h per square (0.13 nH/square at 0.1 mm spacing); published die-side bump models include 50 pH, but the effective array loop is geometry- and return-dependent.
+P: Target impedance Ztarget = ΔV/ΔI. Copper sheet resistance ρ/t: 0.49 mΩ/square for 1 oz (35 µm); ρCu = 1.72 × 10⁻⁸ Ω·m.
 P: Stripline dielectric loss αd ≈ 8.686πf√εr tan δ/c dB/m. At 10 GHz: FR-4 (4.5, 0.020) 38.6 dB/m; low-loss (3.55, 0.0037) 6.3 dB/m.
 P: Return-current fraction within ±a of a trace at height h: (2/π) arctan(a/h). Critical length ≈ tr·v/6. Via stub resonance ≈ c/(4l√εr).
 P: Thermal: Tj = Tcoolant + PΣθ; interface θ = t/(kA); coolant P = ṁcpΔT; water cp = 4186 J/(kg·K); air 1005 J/(kg·K), 1.2 kg/m³.

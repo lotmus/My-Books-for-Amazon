@@ -1,6 +1,6 @@
 PART: Part II. EMC, Simulation, and Test
 H1: Chapter 21. Why a Board Radiates
-P: No one designs a board to be a radio transmitter, yet every board with a 25 MHz crystal is one. Two milliamperes of a clock harmonic, flowing around a loop the size of a fingernail, produce a field at three meters that a test receiver measures within a dozen decibels of the legal limit. The receiver does not care whether the designer meant to transmit.
+P: No one designs a board to be a radio transmitter, yet every board with a 25 MHz crystal is one. Two milliamperes of a clock harmonic, flowing around a loop the size of a fingernail, produce a field at three meters that a test receiver measures within a dozen decibels of the legal limit.
 P: Where you meet this: Every product's FCC or CE emissions report, every 'mystery peak' in a pre-compliance scan, and every hobby project in which an OLED on jumper wires or a fast SPI bus makes a nearby FM radio hiss.
 P: No one designs a circuit board to be an antenna, but every board with a fast clock is one. A current that flows out along a trace and back along its return forms a loop, and a loop carrying a changing current radiates. This chapter derives how strongly, shows why the field grows with the square of frequency, and explains why the harmonics of a clock, not the clock itself, are usually what fails a test. Antenna theory proper is Book 4's; here the antenna is an accident to be made small.
 H2: 21.1 The small loop

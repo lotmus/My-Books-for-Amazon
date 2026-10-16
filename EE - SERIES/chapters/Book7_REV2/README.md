@@ -1,0 +1,1 @@
+Tagged-text mirror for Packaging_Layout_EMC_and_Test_Book7_REV2.docx. REV2 is the reviewed draft that added the Chapter 1 queue sentence and includes the prior technical edits. The DOCX remains authoritative.
