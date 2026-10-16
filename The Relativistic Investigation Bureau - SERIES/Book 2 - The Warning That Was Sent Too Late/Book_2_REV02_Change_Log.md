@@ -201,3 +201,11 @@ Edited by `scripts/deepcut_2026-10-11.py` on top of the tightening pass: 22 phra
 - Updated `scripts/make_covers.py` to build the new art-and-type front plus matching back. Kept the source illustration, concept previews and compositor in `cover_concept_v2/` and `scripts/make_cover_concept_v2.py`.
 - Created REV07 DOCX, Markdown and EPUB candidates; REV05 and REV06 remain intact. The EPUB has a front-cover image and the new back-cover image as the final reading-order content, with a targeted CSS page break before that image. No print wrap was made.
 - Checked both covers at full size and thumbnail size, verified the DOCX package and EPUB ZIP/spine/media. KDP should be told the cover illustration is AI-generated.
+
+## 16 October 2026 newcomer-accessibility follow-up (REV05)
+
+- Kept the welcoming, no-background-needed note before the story and moved the optional science/history material to after the case, ahead of the course. Updated the Contents entry and preserved the existing note bookmark in the DOCX.
+- Compressed the prior-case recap in the Prologue so it establishes the open LOCALHOST account without retelling Book 1’s solution.
+- Added a two-line plain-English restatement after Herbert’s explanation in Chapter 22.
+- Updated the active REV05 Markdown/DOCX pair and KDP copy. Preserved the newer REV07 cover and electronic candidate work on main; the REV07 EPUB must be regenerated from the revised text. REV04 remains the release master.
+- The previous whole-book scores are unchanged; this targeted pass has not been fully rescored. Visual Word/Kindle proof remains outstanding.

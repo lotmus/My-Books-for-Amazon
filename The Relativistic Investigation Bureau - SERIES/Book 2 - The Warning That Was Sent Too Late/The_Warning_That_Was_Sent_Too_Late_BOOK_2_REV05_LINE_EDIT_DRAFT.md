@@ -12,7 +12,7 @@ This is a work of fiction. The Bureau, its characters and cases are invented. Th
 
 # Table of Contents
 
-How to Read This Book (with Author’s Note)
+How to Read This Book
 
 PROLOGUE - In Which a File Arrives Before Its Author
 
@@ -64,6 +64,8 @@ EPILOGUE - Wednesday, Like a Person
 
 Coming Next in the Relativistic Investigation Bureau Series
 
+Optional Author’s Note: Real Science and Fiction
+
 COURSE (lessons, glossary, further reading, bibliography)
 
 Lesson 1 - Too Late Is Not a Frame
@@ -94,25 +96,13 @@ Also by Lothar J. Musiol
 
 Welcome to the Bureau. This case stands alone, and no physics background is needed: read on and skip the lesson links. The optional six-lesson course is here only if the story sparks your curiosity.
 
-## Author’s Note
-
-As in the first case, the science and historical details identified below are real; the case is fiction. The relativity used here is well tested in the situations described. Closed timelike curves occur in some mathematical solutions of General Relativity, but none have been observed; the self-consistency principle is a proposal, not an established physical law. The case accounts for the morning sheet’s words, route, and arrival; relativity does not send it from its own future. The platform, Sunday slip, and voice remain open questions.
-
-Real: the speed of light and what it does, and does not do, to the order of events; the slowing of moving clocks, including the 1971 Hafele–Keating flights, whose caesium clocks came home about 59 billionths of a second behind after flying east and about 273 billionths of a second ahead after flying west; the SI second, tied to the caesium-133 hyperfine transition since 1967 and now defined by fixing its unperturbed frequency at exactly 9,192,631,770 Hz; the DCF77 time signal, broadcast from near Frankfurt for Germany’s national metrology institute, the PTB in Braunschweig; and Paddington station and its airport trains. The films named in the course are real films, and every book in the bibliography exists.
-
-Invented: the Bureau and everyone in it; the building, its landlord, his surveyor and both insurers; form PL/9 and every other form; the school; the morning sheet and Sunday’s lost-property slip; and the impossible platform in the doorway.
-
-Weinstein’s night train is real. The Sud Expresso (the Sud Express, in French) ran overnight from the French–Spanish border at Hendaye and Irún, across Spain, to Lisbon, and entered Portugal at Vilar Formoso. It was suspended on 17 March 2020 amid the pandemic and border closures. That is why Weinstein speaks of it in the past tense. The border clocks are real too: mainland Portugal moved to Central European Time, Spain’s time, in September 1992, and went back to Western European Time in 1996. A government can move every clock in a country by an hour with a signature. It cannot make one of them tick slower.
-
-If you finish the book unsure whether a warning can be early and late at once, congratulations. You are thinking like an investigator. The Bureau files that under Lesson 6.
-
 # PROLOGUE
 
 In Which a File Arrives Before Its Author
 
 The warning arrived on a Monday morning at a time nobody wrote down. It was folded in four, it was dated the following day, and somebody had stood a mug of tea on one corner of it. It forbade a thing nobody in the room had thought of doing, on a train that was not yet in the building, and on the back, in the same flat capitals, it apologised for being late.
 
-At the time, the Relativistic Investigation Bureau was busy closing a murder that had never happened. Case 1047 lay on Derek Gent’s desk for the last time: a fat buff folder; an email received at 9:17 one Tuesday morning, YOU HAVE BEEN MURDERED. THE PERPETRATOR IS YOU; and a photograph of his office doorway with his daughter standing in it, sent by the Bureau’s own case system, CASEBOOK, from an address that called itself LOCALHOST. It had taken a week, four clocks, a professor in Munich and most of Derek’s patience to establish that nobody had been murdered. CASEBOOK had filled its empty fields with whatever was nearest, and a phone nobody could name had been looking through the Bureau’s camera. The phone was still nobody. The email had been wrong about everything except the time.
+At the time, the Bureau was closing the previous case. A photograph of Derek’s office doorway had come through its own camera from a phone no one could identify. The account, LOCALHOST, remained open, but it belonged to the old file. It had not sent this warning.
 
 At ten to ten Penny Gent took the closing memo off the printer and read it standing up. The printer had laid its faint grey stripe down the left margin, as it had laid it down everything since Trevor cleaned the drum with a kitchen scourer. CASEBOOK had printed NOT YET in the box for the date of the next action, as it printed NOT YET in any date box nobody had filled. And it had taken Derek’s one-word note on LOCALHOST, REFUSED, and turned it into a line of capitals across the top of the page, as it did with every refusal it was given, so that the Bureau’s paperwork read like the notices on a building site.
 
@@ -3644,6 +3634,10 @@ He told it in order, because Herbert would not have accepted it in any other way
 
 “The sentence. You read it on Monday, so you refused. You refused, so the form wrote it. Every word came from somewhere, and not one of them came from anybody who meant the sentence. That is a closed loop of information. People call it a bootstrap, and they are right to be uneasy, because nobody knows whether the universe allows loops in time at all. Hawking suspected it forbids them. Nobody has proved it either way. But Novikov’s principle says that if such loops exist, the only versions that can happen are the ones that agree with themselves. Yours agrees with itself. Every word of it is accounted for, and none of it is anybody’s.”
 
+“So the paper has a printer and a route. The sentence has no first author.”
+
+“Exactly. The paper has a history. The sentence has a closed one.”
+
 “And the train itself?”
 
 “The train is the one witness in this case I cannot interview. Your form tells you how. It does not tell you why there is a railway in your wall, and neither can I.” The pencil was picked up again. “And it explains one sheet. It does not explain the slip at Paddington. Did that have a ring on it?”
@@ -3863,6 +3857,18 @@ Three days earlier the file had said it had no ring on it, and everybody had agr
 It was no longer blank.
 
 SUNDAY SLIP (PADDINGTON LOST PROPERTY). CASE STATUS: RING LOGGED. SENDER STILL UNKNOWN.
+
+# Optional Author’s Note: Real Science and Fiction
+
+As in the first case, the science and historical details identified below are real; the case is fiction. The relativity used here is well tested in the situations described. Closed timelike curves occur in some mathematical solutions of General Relativity, but none have been observed; the self-consistency principle is a proposal, not an established physical law. The case accounts for the morning sheet’s words, route, and arrival; relativity does not send it from its own future. The platform, Sunday slip, and voice remain open questions.
+
+Real: the speed of light and what it does, and does not do, to the order of events; the slowing of moving clocks, including the 1971 Hafele–Keating flights, whose caesium clocks came home about 59 billionths of a second behind after flying east and about 273 billionths of a second ahead after flying west; the SI second, tied to the caesium-133 hyperfine transition since 1967 and now defined by fixing its unperturbed frequency at exactly 9,192,631,770 Hz; the DCF77 time signal, broadcast from near Frankfurt for Germany’s national metrology institute, the PTB in Braunschweig; and Paddington station and its airport trains. The films named in the course are real films, and every book in the bibliography exists.
+
+Invented: the Bureau and everyone in it; the building, its landlord, his surveyor and both insurers; form PL/9 and every other form; the school; the morning sheet and Sunday’s lost-property slip; and the impossible platform in the doorway.
+
+Weinstein’s night train is real. The Sud Expresso (the Sud Express, in French) ran overnight from the French–Spanish border at Hendaye and Irún, across Spain, to Lisbon, and entered Portugal at Vilar Formoso. It was suspended on 17 March 2020 amid the pandemic and border closures. That is why Weinstein speaks of it in the past tense. The border clocks are real too: mainland Portugal moved to Central European Time, Spain’s time, in September 1992, and went back to Western European Time in 1996. A government can move every clock in a country by an hour with a signature. It cannot make one of them tick slower.
+
+If you finish the book unsure whether a warning can be early and late at once, congratulations. You are thinking like an investigator. The Bureau files that under Lesson 6.
 
 # COURSE
 

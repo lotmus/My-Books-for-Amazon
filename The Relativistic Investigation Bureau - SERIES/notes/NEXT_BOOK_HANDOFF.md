@@ -44,3 +44,7 @@ REV17 and REV05 are the current story state for continuation; REV17 is a release
 ## Working rules
 
 Preserve British spelling, one speaker per dialogue paragraph, the established dry series voice, and the distinction between well-tested physics, open research, and invented anomalies. Give the next book a new physical question and a fair, observable test. Don't reset settled relationships or turn an unexplained series hook into a convenient answer without building the mechanism on-page.
+
+## Book 2 update — 16 October 2026
+
+The active source and DOCX remain REV05; REV04 remains the release master. The welcoming note stays before the story, while the optional science/history note now follows the case and precedes the six-lesson course. The TOC, KDP copy, and active DOCX were updated; the Prologue recap was shortened and Chapter 22 now includes a plain-English restatement. Main also contains newer REV07 cover/electronic-candidate work; preserve it. Regenerate the REV07 EPUB from revised REV05 before release, then visually proof the DOCX and Kindle file. The targeted edits have not received a full rescore.
