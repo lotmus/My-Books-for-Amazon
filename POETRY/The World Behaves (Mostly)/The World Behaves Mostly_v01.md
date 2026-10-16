@@ -11,18 +11,28 @@ This is a new, original poetry collection. It stands apart from the companion no
 ### Love and company
 - “Love, With the Dishes”
 - “The Map Between Us”
+- “The Unsent Message”
 
 ### Daily life and its machinery
 - “The Instructions”
 - “The Meeting That Could Have Been an Email”
 - “A Small Repair”
+- “Instructions for a Modern Oracle”
+- “A Sonnet for the Unread Email”
+- “The Cat on the Lecture Notes”
 
 ### Earth, sky, and space
 - “The Astronaut’s First Morning”
 - “The Moon Keeps Office Hours”
+- “The Mountain at the Edge of Town”
+- “Orbit”
+- “The Last Tree in the Lot”
+- “Snow in April”
 
 ### Time and perspective
 - “The Light That Arrives Late”
+- “The Museum at Closing Time”
+- “A Good Question”
 
 ---
 
@@ -109,9 +119,9 @@ We circled once, then circled twice,
 And called the loop a fresh device.
 
 At last someone leaned toward the mic:
-“Could we just say what we must pick?”
-The room went still. The slides went dim.
-The answer took one sentence: “Him.”
+“Which plan, then? We could make this quick.”
+The chair said, “A.” The room agreed.
+That was the answer we would need.
 
 We wrote it down and sent it round.
 The email landed safe and sound.
@@ -209,6 +219,208 @@ We cannot bring the source back near,
 Or make its vanished hour our own;
 But something reaches us from there,
 And makes the dark feel less alone.
+## Love and Company: Further Poems
+
+### The Unsent Message
+
+At half past one, the room was blue;
+I typed three words: “I miss you.”
+I watched them glow against the night,
+As if the words could choose to go.
+
+The distance was a modest kind:
+A train, two stops, a change of mind.
+No border, storm, or ocean lay
+Between the things I meant to say.
+
+I feared the phrase would sound too small,
+Or like a hook, or nothing at all.
+I set the phone beside the bed;
+The unsent words stayed where they’d been.
+
+At dawn, I wrote: “I’m coming by.”
+The morning did not ask me why.
+You opened up. We made some tea.
+The words were there, but so were we.
+
+## Daily Life and Its Machinery: Further Poems
+
+### Instructions for a Modern Oracle
+
+I asked the search bar, “What is true?”
+It showed me seven points of view,
+A sponsored link, a sponsored guide,
+And fourteen ways to pick a side.
+
+I asked it how to sleep at night.
+It offered lamps with softer light,
+A watch that counts my every dream,
+And tea that costs as much as steam.
+
+I asked, “What should I do today?”
+It drew a map, then moved the day.
+I closed the screen and made some bread;
+The oracle approved the spread.
+
+### A Sonnet for the Unread Email
+
+The subject line announced a brief reply;
+The message filled a page before the day.
+I read the opening, then let it lie,
+And watched its little red flag hold its sway.
+
+It asked for one small answer, yes or no;
+I drafted six, each longer than the last.
+I weighed the tone, the commas, where to go,
+Then chose the safest phrase and pressed “reply.”
+
+The cursor blinked, a patient tiny eye.
+I wrote: “That works.” I checked it twice again.
+A thought occurred: perhaps I should explain
+The context, caveat, timeline, and the why.
+
+I sent the line. The screen returned to blue.
+The whole long afternoon had fit in two.
+
+### The Cat on the Lecture Notes
+
+I spread my notes across the floor
+And left the office door ajar.
+The cat sat squarely on the chart,
+And covered up the crucial part.
+
+I moved him gently. He returned
+And chose the graph I most had learned.
+He pinned the proof beneath one paw,
+As if he’d found a useful flaw.
+
+I asked him what the symbols meant.
+He blinked, which seemed a firm dissent.
+Then stretched, and with one lazy sweep,
+Erased the theorem. Went to sleep.
+
+## Earth, Sky, and Space: Further Poems
+
+### The Mountain at the Edge of Town
+
+The mountain keeps the evening light
+Long after rooftops lose the day.
+It does not hurry into night
+Or ask the clouds to look its way.
+
+We build our roads along its side,
+We name its bends, we mark its height;
+The mountain lets our measures slide
+And wears the weather as it might.
+
+I went there with a crowded head,
+A list of tasks, a half-made plan.
+The pines let all the wind pass through;
+The mountain did not ask who ran.
+
+I came back down. The work remained.
+The sky had changed. I had, a little.
+The mountain held its quiet place,
+Unmoved, though every leaf could tremble.
+
+### Orbit
+
+The planet turned beneath the ship,
+A blue and clouded turning stone.
+The astronaut let silence slip
+Between the stars and thoughts of home.
+
+No border showed from up that high,
+No fence, no flag, no dotted line.
+The rivers wound beneath the sky;
+The night side glittered, bright as wine.
+
+The radio returned a voice,
+A simple check: “Your systems good?”
+He answered yes. The signal passed.
+The little human world still stood.
+
+He watched the continents revolve,
+Their storms and coastlines in one view.
+The questions did not all resolve;
+But one grew harder to ignore:
+What do we owe this world we share,
+When every home is turning there?
+
+### The Last Tree in the Lot
+
+They marked the tree with orange paint
+And posted plans beside the gate.
+The lot would soon be shops and homes;
+The tree stood where the curb would go.
+
+A child had tied a ribbon there,
+A faded strip of summer air.
+The foreman read the posted sheet;
+The branches stirred above the street.
+
+No speech could make the numbers lie:
+The town needed rooms, the costs ran high.
+They shifted one small line of stone;
+The tree stayed standing, not alone.
+
+A new path curved around its shade.
+The plans were altered, not unmade.
+The child came back at closing time
+And found the ribbon, leaf, and sign.
+
+### Snow in April
+
+By noon the blacktop had turned silver.
+The tulips wore small white caps.
+One bird stood on the fence,
+looking offended by the calendar.
+
+The forecast called it a brief return.
+The branches held their breath.
+Then a drop let go,
+bright as a bead from a loosened sleeve.
+
+No season apologized.
+The snow thinned into the soil.
+The bird lifted off,
+carrying no explanation.
+
+## Time and Perspective: Further Poems
+
+### The Museum at Closing Time
+
+At closing, every footstep slows;
+The guards begin their quiet rounds.
+A king in paint keeps watch below
+A ceiling full of borrowed clouds.
+
+A helmet rests behind its glass,
+A cup a potter shaped by hand.
+The years have made the makers pass;
+Their fingerprints still understand.
+
+The lights go out from room to room.
+The old things keep their patient place.
+We leave the dark to hold the room
+And take our briefness through the gate.
+
+### A Good Question
+
+A child asked why the stars stay bright
+Though none of them can hear us call.
+I had a fact, concise and right;
+I let it wait. I heard them all.
+
+We stood beneath the winter sky,
+The answer small against the cold.
+The child kept looking, asking why;
+The stars kept what they had not told.
+
+A fact can open one clear door;
+A question keeps the hallway wide.
+We walked back home, and asked once more
+What else the dark might hold inside.
 
 ## About the Poet
 

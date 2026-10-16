@@ -2,7 +2,7 @@
 
 ## Project status
 
-New companion collection, started from scratch on 2026-10-16. No poems are being carried over from the archive or the nonsense book. The initial eight poems in the manuscript are original working drafts.
+New companion collection, started from scratch on 2026-10-16. No poems are being carried over from the archive or the nonsense book. The initial eighteen poems in the manuscript are original working drafts.
 
 - Working title: *The World Behaves (Mostly)*
 - Working byline: Kira Vale
