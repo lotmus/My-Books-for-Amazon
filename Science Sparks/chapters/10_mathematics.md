@@ -76,7 +76,7 @@ That unassuming fact, along with two simpler ones, makes absolute value the firs
 
 > **In one sentence.** An unknown is a slot in a relationship, so solving an equation means finding the values that make the relationship true, and checking them against the real situation.
 
-## 3. Functions, Graphs and Graph Analysis
+## 3. Functions and Their Graphs
 
 *Status: Settled.*
 
@@ -98,27 +98,29 @@ Now a useful shortcut: learn the shape of one "parent" graph, and a short catalo
 
 You can chain functions together, feeding the output of one in as the input of the next, and order matters. Socks then shoes gets you out the door; shoes then socks gets you a mess. Running one function and then another usually gives a completely different result from running them in reverse, so composition is nothing you can casually swap around. A function has a genuine inverse, a way of running it backwards, only when it is one-to-one, meaning no two different inputs land on the same output. When an inverse exists, its graph is the exact mirror image of the original, flipped across the diagonal line where every input equals its own output.
 
-Exponential functions have a distinctive personality: their growth rate at any moment is proportional to the value they've already reached. The bigger they are, the faster they grow, which is the runaway feeling behind compound interest, epidemics, and anything viral. The special constant that turns up everywhere in this territory, approximately 2.71828, emerges naturally as the limiting value you get by compounding interest more and more often, checking in so frequently that you are essentially compounding continuously.
+Exponential functions and logarithms belong together: one raises a base to a power, and the other asks which power was used. Their most useful applications, including compounding and logarithmic scales, get their own chapters later in the section.
 
-Logarithms are the inverse operation to exponentials. They earn their keep by turning multiplication into addition, the trick that made slide rules and old-fashioned calculation possible, and by letting you solve directly for an exponent buried inside a relationship, which is otherwise awkward to isolate.
-
-Here is a small preview of something huge, still several chapters away. Take a curve, a squared function being the standard example, pick a point on it, and draw a straight line to a nearby second point on the curve. That connecting line's steepness is a decent stand-in for how the curve behaves right around there. Now drag the second point closer and closer to the first. The steepness doesn't wander around; it settles, drifting toward one specific value. Near the input value of one on a squared function, those shrinking-interval steepnesses drift toward two. That settling-down value is an early, informal glimpse of the derivative, which gets its full, formal treatment much later in this section.
+A curve's steepness at one point has a precise name, the derivative. The idea returns later, after the book has built the small step needed to define it: what happens when two points on a curve move arbitrarily close together.
 
 **Worked example.** A farmer has 60 meters of fencing to build a rectangular pen against a long barn wall, so only three sides need fence. Which shape encloses the most area? Let d be the length of each of the two sides that stick out from the wall. The side parallel to the wall gets the remaining 60 - 2d meters, so the area is the function A(d) = d times (60 - 2d) = 60d - 2d squared. The leading coefficient, -2, is negative, so this parabola opens downward and its vertex is the highest point. The area is zero at d = 0 and at d = 30, and the axis of symmetry sits halfway between, at d = 15. Then the long side is 60 - 2 x 15 = 30 meters, and the area is 15 x 30 = 450 square meters. Nudge either way to check: d = 14 gives 14 x 32 = 448, and d = 16 gives 16 x 28 = 448, both smaller.
 
 > **In one sentence.** A function gives exactly one output for each input, and its graph lets you read off where it rises, falls, peaks and crosses zero without guessing.
 
-## 4. Functions, Graphs, and Limiting Behavior
+## 4. Transfer Functions at the Edges
 
 *Status: Settled.*
 
 *Level: Builds on earlier chapters: Chapter 3.*
 
-A transfer function can often be understood at a glance without plotting the whole thing. Read off its behavior at low frequency, at high frequency, and around whatever corner sits between the two. Plotted on logarithmic axes, a curving power-law relationship becomes a dead straight line, and the slope of that line directly reveals the order of the underlying system, a single number that tells you how aggressively the response rises or falls.
+A transfer function describes how a system changes an input signal. You can often understand its broad behavior without plotting every point: ask what happens at low frequency, what happens at high frequency, and what changes between them. A simple RC low-pass filter makes the idea concrete. Put a resistor and capacitor in a circuit, take the output across the capacitor, and slow changes get through while rapid ones are smoothed away. The transition is gradual, not a little electronic door slamming shut.
+
+For a resistor of 1,000 ohms and a capacitor of 0.1 microfarads, the corner frequency is about 1,600 cycles per second. Well below it, at 100 Hz, the output is almost as large as the input. At the corner, it is about 0.707 of the input, or 3 decibels down. Far above it, at 10,000 Hz, it is only about 0.16 of the input. You do not need the formula to see the story: bass gets through; much of the treble does not.
+
+Logarithmic axes help engineers see both ends of a very wide frequency range on one page. A power law becomes a straight line on such a plot, and its slope helps reveal how many stages of filtering are at work. One catch: a logarithmic scale has no zero, so a response that starts at exactly zero cannot be placed on it. No matter how far left you travel, the scale approaches zero without arriving. Mathematics has arranged the map so the destination is not printed on it.
 
 One persistent gotcha of log axes is that they have no zero at all. Zero cannot be represented on a logarithmic scale, which trips up anyone trying to plot a response that starts from nothing. A log scale effectively counts how many times you'd have to double a number to reach some target, and no count of doublings, however large or however negative, ever lands exactly on zero. You can always halve again and still have something left over. This way of reading frequency-response plots is the everyday tool of filter design.
 
-> **In one sentence.** Reading a curve at its extremes, low frequency, high frequency and the corner between, tells an engineer most of what a transfer function does.
+> **In one sentence.** A transfer function tells you what a system lets through, and its behavior at low and high frequencies reveals the broad shape of the answer.
 
 ## 5. Coordinate Systems
 
@@ -196,7 +198,7 @@ Nearly everything else in trigonometry leans on one identity. Square the sine of
 
 From that fact and a little more circle geometry you can grind out nearly every other identity in the subject. The sine of two angles added together is the sine of the first times the cosine of the second, plus the cosine of the first times the sine of the second. The cosine of a sum is the cosine of the first times the cosine of the second, minus the sine of the first times the sine of the second. With those two sum formulas in hand, the formulas for doubling an angle or halving one fall out for free.
 
-Plot sine or cosine and you get a wave, rolling up and down forever, which you can stretch, squeeze, or slide however you like. An ocean swell behaves the same way: its crest height above calm water and the time between crests mean the same thing wherever along the beach, and whenever in the tide cycle, you happen to be watching. How high the wave rises above its resting line is its amplitude, and how long one full cycle lasts is its period. You can shove the whole wave sideways (a phase shift) or up and down (a vertical shift) without touching its basic shape. Tangent is a different animal. It repeats twice as often as sine or cosine, and it shoots off toward infinity wherever cosine hits zero, since tangent is sine divided by cosine and you can't divide by zero.
+Plot sine or cosine and you get a wave. Its height, timing and starting position have useful names—amplitude, period and phase—and the next chapter shows how those three numbers describe a signal. Tangent is different: it shoots off toward infinity wherever cosine reaches zero, because tangent is sine divided by cosine.
 
 Most triangles you actually meet have no right angle in them at all. For those you need two more tools. The Law of Sines says that in any triangle, if you divide each side by the sine of the angle across from it, you get the same number whichever side you pick, a beautifully simple piece of bookkeeping. The Law of Cosines is the Pythagorean theorem's big brother: it relates one side of a triangle to the other two sides and the angle trapped between them, and it collapses back into the ordinary Pythagorean theorem the instant that angle is a right angle.
 
@@ -208,7 +210,7 @@ The reverse trip, from a ratio back to an angle, calls on the inverse trig funct
 
 **Worked example.** Now finish the mast. You stand 50 meters from its base on level ground, sight the top with a protractor held at eye level 1.6 meters above the ground, and read an angle of 32 degrees. How tall is the mast? The tangent of 32 degrees is about 0.6249, and the tangent is the opposite side divided by the adjacent side, so the height above your eye is 50 x 0.6249, about 31.2 meters. Adding your eye height gives 31.2 + 1.6 = 32.8 meters for the whole mast. Run the problem backward as a check: 31.2 divided by 50 is 0.624, and the inverse tangent of 0.624 comes out at about 32 degrees, the angle you measured. Walk 30 meters closer, so you stand 20 meters from the base, and the ratio becomes 31.2 / 20 = 1.56, whose inverse tangent is about 57.3 degrees. Same mast, much steeper look.
 
-> **In one sentence.** In a right triangle the ratios of the sides depend only on the angle, which is why trigonometry can measure heights and distances you cannot reach.
+> **In one sentence.** Trigonometry links angles to distances, letting you measure a mast from the ground and describe a signal that keeps repeating.
 
 ## 8. Trigonometry and the Sinusoid
 
@@ -222,9 +224,11 @@ Radians are the required currency for calculus to work properly, while degrees r
 
 RMS, root mean square, is defined by matching heating effect, which is a different thing from simple averaging. The familiar factor of about 0.707 (one over the square root of two) applies only to sinusoids. A square wave's RMS value equals its peak, and a triangle wave's RMS value is its peak divided by the square root of three, so blindly reusing the sinusoid factor for another waveform shape is a reliable way to get the wrong answer.
 
+**A quick check.** A 10-volt peak sine wave has an RMS voltage of about 7.07 volts. A square wave that alternates between +10 and −10 volts has an RMS voltage of 10 volts. Both average to zero over a full cycle; RMS answers a different question: how much heating would the signal produce in a resistor? The meter reading is useful precisely because an average of zero would be a rather poor way to describe either signal.
+
 > **In one sentence.** A sinusoid is fixed by amplitude, frequency and phase, and the 0.707 rule for RMS values belongs to sine waves alone.
 
-## 9. Logarithms and Potencies
+## 9. Powers, Roots, and Logarithms
 
 *Status: Settled.*
 
@@ -705,4 +709,3 @@ And LU factorization is nothing more than the bookkeeping of ordinary Gaussian e
 - **Evidence beats intuition.** Infinitely many terms can add up to a finite number (Chapter 21), and the overshoot at the corners of a Fourier square wave never disappears however many terms you add (Chapter 22). Careful definitions such as the limits of Chapter 15 settle questions intuition gets wrong.
 - **Useful but incomplete models.** The derivative replaces a curve by its tangent line (Chapter 16), and a truncated series replaces a function by a few terms (Chapter 21). Nearly all of applied mathematics consists of approximations that are good enough and known to be approximations.
 
-**Going deeper.** Math, Actually (four volumes) takes every topic in this section further, from arithmetic to category theory.

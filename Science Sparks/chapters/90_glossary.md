@@ -4,6 +4,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 
 **Aharonov-Bohm effect.** The shift in an electron's interference pattern caused by a magnetic field confined to a region the electron never enters, showing that the potential, not just the field, matters. See Chapter 176; Chapter 177.
 
+**Adaptation.** Changes in infrastructure, behaviour or ecosystems that reduce harm from climate effects already happening or expected. See Chapter 378.
+
 **Allele.** One of the alternative versions of a gene; you carry two for most genes, one from each parent. See Chapter 298; Chapter 301.
 
 **Amplitude.** The number attached to each possible outcome of a quantum measurement; its squared size gives the probability, and unlike probabilities, amplitudes can cancel. See Chapter 144; Chapter 158.
@@ -34,9 +36,15 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 
 **Cambrian explosion.** The burst, beginning about 540 million years ago, in which most major animal body plans appear in the fossil record within a few tens of millions of years. See Chapter 267.
 
+**Carbon cycle.** The movement of carbon among air, oceans, rocks, soils and living things. See Chapters 372 and 373.
+
 **Chaos.** Behavior governed by exact laws that is still unpredictable in practice, because tiny differences in starting conditions grow exponentially; the butterfly gets the credit, and the blame. See Chapter 50; Chapter 76.
 
 **Chromosome.** One of the long, packaged DNA molecules in a cell's nucleus; humans have 23 pairs, one set from each parent. See Chapter 296; Chapter 297.
+
+**Climate.** The pattern and statistics of weather over decades, including averages and extremes. See Chapter 370.
+
+**Climate model.** A computer calculation that represents the movement of energy and matter through the climate system to compare possible futures. See Chapter 374.
 
 **Cloning.** Making an organism genetically identical to another, as with Dolly the sheep in 1996; the copy shares the genome but not the upbringing or the memories. See Chapter 314; Chapter 315.
 
@@ -73,6 +81,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 **DNA.** The double-stranded molecule, wound into a double helix, that stores hereditary information as a sequence of four chemical letters, A, C, G, and T. See Chapter 261; Chapter 288; Chapter 290.
 
 **Dominant.** Describes an allele whose effect shows even when only one copy is present. See Chapter 298; Chapter 301.
+
+**Dual-use research.** Research that can benefit health or society but could also be misapplied to cause harm. See Chapter 383.
 
 **Doping.** Adding a tiny amount of a chosen impurity to a semiconductor to give it extra electrons or extra holes, which is what makes diodes and transistors possible. See Chapter 56.
 
@@ -131,6 +141,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 **Geodesic.** The straightest possible path through curved spacetime, which freely falling objects follow without any force pushing them. See Chapter 36; Chapter 336.
 
 **Germline editing.** Changing the DNA of eggs, sperm, or embryos, so that the change is inherited by all future descendants. See Chapter 329.
+
+**Greenhouse effect.** The warming caused when gases in the atmosphere absorb and emit infrared radiation, slowing Earth's loss of heat to space. See Chapter 371.
 
 **Gravitational wave.** A ripple in the shape of spacetime itself, sent out by accelerating masses such as merging black holes and first detected directly in 2015. See Chapter 37.
 
@@ -192,6 +204,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 
 **Messenger RNA.** A working copy of a gene that carries its instructions from the DNA to the ribosomes, where proteins are built. See Chapter 293.
 
+**Mitigation.** Actions that reduce the causes of climate change, especially by lowering net greenhouse-gas emissions. See Chapter 377.
+
 **Multicellularity.** Life built from many cooperating cells that divide the labor; it evolved independently more than twenty times. See Chapter 266.
 
 **Mutation.** A change in the DNA sequence, from a single letter to a large rearrangement, caused by copying errors, radiation, or chemicals. See Chapter 295.
@@ -223,6 +237,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 **Pilot-wave theory.** The interpretation in which every particle always has a definite position and is guided by a wave that never collapses; the price is open nonlocality. See Chapter 153.
 
 **Planck's constant.** The tiny number that sets the scale of quantum effects, linking a photon's energy to its frequency. See Chapter 158; Chapter 228.
+
+**Plate tectonics.** The movement and interaction of Earth's large rocky plates, which build mountains, open oceans and cause earthquakes. See Chapter 369.
 
 **Polygenic score.** An estimate of genetic risk built by adding up the small effects of many DNA variants; useful for populations and blunt for individuals. See Chapter 326.
 
@@ -260,6 +276,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 
 **Renormalization.** The procedure that absorbs the infinities of QED into measured values of charge and mass, best seen as translating between descriptions at different scales. See Chapter 164; Chapter 210; Chapter 212.
 
+**Risk.** The possibility of harm, shaped by the hazard, who or what is exposed, and their vulnerability. See Chapter 387.
+
 **Ribosome.** The cell's protein factory, which reads messenger RNA three letters at a time and links amino acids in the order it specifies. See Chapter 293.
 
 **RNA world.** The hypothesis that early life used RNA both to store information and to speed up chemical reactions, before DNA and proteins took over those jobs. See Chapter 255.
@@ -288,6 +306,10 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 
 **Standard Model.** The theory listing the known fundamental particles and the three forces besides gravity that act on them; it works extremely well and is known to be incomplete. See Chapter 39.
 
+**Statistical sample.** A subset of a population selected to estimate what is true of the whole; its design affects how reliable the estimate is. See Chapter 356.
+
+**Statistics.** Methods for collecting, summarising and interpreting data while accounting for variation and uncertainty. See Chapters 355 and 356.
+
 **Strange loop.** Douglas Hofstadter's term for a system that, by moving through its own levels, ends up referring to itself, which he proposed as the root of a self. See Chapter 40; Chapter 275.
 
 **String theory.** A proposal that fundamental particles are tiny vibrating strings, which could unify all the forces including gravity but has not yet made a tested prediction. See Chapter 47.
@@ -297,6 +319,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 **Superconductor.** A material that, below a critical temperature, carries current with zero resistance because its electrons move together in one coherent quantum state. See Chapter 178; Chapter 217.
 
 **Superposition.** A quantum state that is a weighted combination of several possible outcomes whose amplitudes can still interfere; it is not merely not knowing which is true. See Chapter 144; Chapter 161.
+
+**Surveillance.** Systematic observation or collection of information about people, which can support services but also intrude on privacy and power. See Chapter 386.
 
 **Symmetry.** A change you can make to a system that leaves its laws unchanged; each continuous symmetry comes with a conserved quantity. See Chapter 46; Chapter 245.
 
@@ -333,6 +357,8 @@ Each entry names the place where the idea is properly taught. On a Kindle, tap t
 ## W
 
 **Wave function.** The mathematical description of a quantum state, assigning an amplitude to every possible position or outcome. See Chapter 158; Chapter 231.
+
+**Weather.** The state of the atmosphere at a particular time and place, such as temperature, wind and rain. See Chapter 370.
 
 **Weak force.** The force responsible for some radioactive decay and for changing one kind of quark into another; it acts only over extremely short distances. See Chapter 39.
 
