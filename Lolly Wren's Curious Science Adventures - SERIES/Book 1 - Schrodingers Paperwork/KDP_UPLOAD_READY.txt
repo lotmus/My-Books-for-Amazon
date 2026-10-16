@@ -1,19 +1,19 @@
 SCHRÖDINGER'S PAPERWORK - KINDLE UPLOAD PACKAGE
 Ready for KDP Publication
 Generated: September 21, 2026
-Corrected and verified against the actual files: September 28, 2026 (see note at end)
+Current files verified: October 15, 2026 (REV5 manuscript + rebuilt Kindle EPUB)
 
 ================================================================================
 FINAL FILES (Root Directory)
 ================================================================================
 
-1. Schrodingers_Paperwork_BOOK_1 - REV4.docx
+1. Schrodingers_Paperwork_BOOK_1 - REV5.docx
    - Manuscript with full 13/10 edit pass on chapters 9-11, plus a full
      content/didactic-simplicity/correctness/formatting audit since
    - Redundant Miss Pike observation removed (~75 words) - verified absent
    - Lolly's self-awareness moment added (character arc deepening) - verified present
    - All physics lectures integrated and formatted
-   - Ready for direct KDP upload or Kindle Create conversion
+   - Ready for direct KDP upload or Kindle Create conversion. Rebuilt EPUB: Schrodingers_Paperwork_KINDLE.epub
 
 2. Kindle cover artwork (selected 13 Oct 2026)
    - Front cover upload: KINDLE_FRONT_COVER_LIGHT.jpg (1312x1652 px).
@@ -195,3 +195,10 @@ the blurb now says so; "eighteen short lessons" became "one for each chapter".
 Keywords and categories revised above. The manuscript now has no visible URLs:
 Further Reading titles link to the book (Open Library) or paper (DOI), the
 video list is linked by title, and everything was checked to resolve.
+
+
+CURRENT FILE CHECK (15 Oct 2026)
+- Active manuscript: Schrodingers_Paperwork_BOOK_1 - REV5.docx. REV4 is archived under bak/.
+- Active Kindle file: Schrodingers_Paperwork_KINDLE.epub rebuilt from REV5. EPUB package XML, text parity, navigation anchors, links, image alt text and dimensions checked.
+- Cover files: KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652) and KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168); back panel is the final page.
+- Archived older manuscript/EPUB snapshots remain under bak/ and are not current upload files.

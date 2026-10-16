@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BookWriter.App/BookWriter.App.csproj" />
+    <Project Path="src/BookWriter.Engine/BookWriter.Engine.csproj" />
+  </Folder>
+</Solution>

@@ -16,6 +16,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
   - **Lothar J. Musiol writing as Quentin Edmund Darling (Q.E.D.)**: Lolly Wren's Curious Science Adventures books.
   - **Lothar J. Musiol writing as Romuald Livingston**: *In Love with Murder, Actually*.
   - **Lothar J. Musiol writing as George Herbert Fontaine**: *Protocol Flamingo*.
+  - **Lothar J. Musiol writing as Rob O. Taylor**: *The Digital Twin* (Brave New Times, Book 1; British spelling; the real name appears only on the title page and About the Author, never in the KDP author field). It is listed on Lothar's Also-by page like the other pen-name fiction.
   - **Anneliese Tauber** (a mother of four who read her children many fairy tales; no Bavaria claim in the Step Stories): *Bavarian Cooking Made Simple* and *The Wee Scallywag and the Gentle Elf*, *Scally and the Sleepless Stream* and *Scally and the Hill with the Hanging Socks* (The Step Stories, children’s STEM fantasy; decided 11 Oct 2026 to build one family-friendly brand; American spelling and USA audience; full rules in `notes/STEP_STORIES_HANDOVER.md`). Never list her books in Lothar's Also-by, and never mention Lothar’s name in her books. Her Also-by page lists only Anneliese Tauber books. Her About the Author is two or three warm sentences in the same voice.
 - Do not bring back retired titles or series names on any Also-by page. The retired list lives in `notes/ALSO_BY - canonical list.md`.
 
@@ -35,10 +36,12 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ## Files and folders
 
-- Working format is **docx**: every book is written, reviewed and kept as a Word master during development. Markdown working copies are fine. The file uploaded to KDP is an **EPUB** built from the docx (clarified by Lothar 11 Oct 2026; the earlier wording "docx only, never EPUB" was a misreading). Keep the docx as the master and rebuild the EPUB from it. File names carry the version (for example `..._Book1_v8.docx` and `..._Book1_v8.epub`, built from `Book1_Story_v8.txt`); when you make a new version, move the previous one to `bak\` and keep only the current master at the top of the folder (Lothar, 12 Oct 2026). Do not build or offer PDF unless asked. EPUB files may be committed (the `*.epub` ignore rule was removed on 11 Oct 2026); commit only the EPUB of the book you are working on.
-- Never delete anything. Move old files into the book's `bak\` subfolder, or into a dated folder under `D:\bak\`.
+- Upload format is **EPUB**. Docx is kept only as a fallback for manual issues Lothar cannot resolve in his epub editor (changed 2026-10-15). No PDF. Docx layout rules (3.6 x 4.8 in page, margins ~0.3 in, etc.) still apply to the docx and epub content. Markdown working copies are fine. Keep a current docx alongside the EPUB for that fallback. File names carry the version (for example `..._Book1_v8.docx` and `..._Book1_v8.epub`, built from `Book1_Story_v8.txt`); when you make a new version, move the previous one to `bak\` and keep only the current master at the top of the folder (Lothar, 12 Oct 2026). Do not build or offer PDF unless asked (no PDF, per the 2026-10-15 rule). EPUB files may be committed (the `*.epub` ignore rule was removed on 11 Oct 2026); commit only the EPUB of the book you are working on.
+- Never delete anything. Move old files into the book's `bak\` subfolder. There is no common backup folder: not `D:\bak`, and not a shared `bak\` at the repo root.
 - Only the current master, its md working copy, and notes stay at the top of each book folder. Older versions go into that book's `bak\`.
 - Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
+- **`bak\` belongs to the book, never to a common folder.** Every book (or series volume) keeps its own old versions, backups, patch scripts, QA extracts and retired temp worktrees in its own `bak\`, next to its master file. For a series folder, use the volume's `bak\`; use the series-level `bak\` only for material that belongs to no single volume. Do not create or use `D:\bak` or `D:\My Books for Amazon\bak`. Name subfolders by date and reason, for example `2026-10-11 pre-cover\`.
+- If you find a per-book file in a common `bak\` (for example `D:\My Books for Amazon\bak`), move it into that book's own `bak\`. Never delete it.
 - Stay inside the book folder you were asked to work on. If something outside it looks worth touching, say so and wait to be asked.
 - If a book's own note disagrees with `notes/HANDOVER.md`, the book's note wins inside that book. If a manuscript file disagrees with a status log, the manuscript wins.
 - Run `git status` from `D:\My Books for Amazon`, not from a book folder.
@@ -59,7 +62,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 
 ## Content
 
-- Never write the name **Trump**. The topics are fine without the name (for example "the president", "Washington", "the US government"). Search for the name before every commit.
+- Never write the banned name (the surname of the former US president; it is not spelled out in this file on purpose). The topics are fine without the name (for example "the president", "Washington", "the US government"). Search for the name before every commit. This applies to every file: stories, appendices, notes, scores and this handbook.
 - How-to books use generic example people, not real names. Case studies that need a real, checkable source may name a channel or brand; lead with the channel brand where it differs from a person. Never use Lothar's own titles as examples inside a how-to book.
 - Remove unverifiable facts without asking. Keep only claims checked against official or reliable sources (publisher pages, Crossref, Open Library, government statistics, the product's own policy pages). Never invent a source.
 - Use concise wording with no content lost. Cut repetition and padding; do not cut teaching substance.
@@ -70,16 +73,25 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - Voice for the British novels: British deadpan, wry, not anarchic absurdism unless a book's own note asks for it.
 - Math / teaching on-ramps: never define a thing before the reader has felt the need for it, and never use a symbol before the arithmetic has already made the point. Tone treats the reader as an intelligent adult; pace assumes nothing has been met before. Banned at a hinge: clearly, obviously, simply, just, of course, it is easy to see.
 - Do not restore deleted series plans, retired folder names, or withdrawn Also-by pairings.
+- **Pseudonyms and renamed people.** If a real person, place or model for a character is renamed in the story, the story uses the new name only. The real name appears only in the appendix or notes, as a short "modelled on" line. Exception: the banned name is never written anywhere, appendix included.
+- **Corrections novel (Amery homage).** *The Department of Historical Corrections* is an original homage to Carl Amery's *Das Königsprojekt*; see its `notes/HANDOVER.md`. Never market it as an adaptation. Acknowledgement check, repeated on every revision of that book:
+  1. Nothing is taken from *Das Königsprojekt* in names, scenes, plot sequences or phrases; the scan result is recorded in the book's `HANDOVER.md`.
+  2. The book is never called an adaptation or a sequel in the KDP listing, blurb, keywords or cover.
+  3. Amery is named only in the back-matter acknowledgement, never as a selling point.
+  4. If original material is ever copied in, remove or change the acknowledgement and get permission first.
+  5. The acknowledgement wording is re-checked against the book at each revision, so "my own premise, characters, names and wording" stays true.
 
 ---
 
 ## Kindle and layout
 
-- **Headings** (Lothar, 2026-10-11, applies to every book): bold, 16pt, dark-to-medium blue, centered, in a font that is Kindle-compatible and survives an EPUB import (Amazon Ember where already in use; otherwise a standard embedded font Word/KDP ships natively — Georgia, Bookerly, Caecilia, or similar; never a system font that gets substituted silently). Each chapter (and any other top-level heading: Prologue, Epilogue, appendices, Notes and Sources, Further Reading, Also-by) starts at the top of a fresh page — insert a page break before the heading, not just extra blank lines. Word page size: **6in x 9in** for the master docx, not US Letter or A4. Note for future assistants (confirmed 12 Oct 2026): these are reflowable ebooks, so Kindle's conversion (KindleGen/KDP) ignores the Word page size entirely and reflows text to whatever screen the reader has — there is no single "Kindle screen size" a reflowable manuscript's page can literally match. 6x9 is chosen because an oversized master page (Letter/A4) can still cause visible-on-Kindle margin and embedded-image/table scaling quirks during conversion; that is the only thing the Word page size actually affects here. Matching a real device's pixel aspect ratio only matters for a fixed-layout Kindle book (comics, heavily illustrated children's books) — none of these titles are built that way, so don't chase device pixel dimensions on the master docx. This is a standing formatting rule for all 30+ books, not a one-off for any single title; apply it the next time a book's layout is touched rather than as its own dedicated pass across the whole catalog at once.
+- **Headings** (Lothar, 2026-10-11, applies to every book): bold, 16pt, dark-to-medium blue, centered, in a font that is Kindle-compatible and survives an EPUB import (Amazon Ember where already in use; otherwise a standard embedded font Word/KDP ships natively — Georgia, Bookerly, Caecilia, or similar; never a system font that gets substituted silently). Each chapter (and any other top-level heading: Prologue, Epilogue, appendices, Notes and Sources, Further Reading, Also-by) starts at the top of a fresh page — insert a page break before the heading, not just extra blank lines. Word page size: **6in x 9in** for the master docx, not US Letter or A4 (superseded for novels and ebook masters by the 3.6 x 4.8 in rule below, 13 Oct 2026). Note for future assistants (confirmed 12 Oct 2026): these are reflowable ebooks, so Kindle's conversion (KindleGen/KDP) ignores the Word page size entirely and reflows text to whatever screen the reader has — there is no single "Kindle screen size" a reflowable manuscript's page can literally match. 6x9 is chosen because an oversized master page (Letter/A4) can still cause visible-on-Kindle margin and embedded-image/table scaling quirks during conversion; that is the only thing the Word page size actually affects here. Matching a real device's pixel aspect ratio only matters for a fixed-layout Kindle book (comics, heavily illustrated children's books) — none of these titles are built that way, so don't chase device pixel dimensions on the master docx. This is a standing formatting rule for all 30+ books, not a one-off for any single title; apply it the next time a book's layout is touched rather than as its own dedicated pass across the whole catalog at once.
+  - **Superseded in part (Lothar, 2026-10-15):** heading colour is now #2A5CAA and sizes/levels follow the "Headings and text style" section below; where this bullet differs, that section wins.
 - Images inline only. No text boxes, no floating images.
 - Photos about **440 px** wide, JPEG, with a gentle warm colour boost so dishes and subjects look inviting. Crop to the subject. Replace dull, blurry, or unappetising photos.
 - Diagrams with small labels about **800 px**.
-- Word page size for novel and ebook masters: a **Kindle screen**, 3.6 x 4.8 in (6-inch Paperwhite proportions) with 0.3 in margins, so Word's page breaks look like a Kindle's. Every image must fit inside the 3.0 in text width and the page height (scale down, keep proportions). Each Heading 1 (chapter, appendix, back-matter section) starts a new page (Page break before). Added 13 Oct 2026.
+- Page size for novel and ebook masters (docx fallback and epub content; the upload format is EPUB, see Files and folders): a **Kindle screen**, 3.6 x 4.8 in (6-inch Paperwhite proportions) with 0.3 in margins, so Word's page breaks look like a Kindle's. Every image must fit inside the 3.0 in text width and the page height (scale down, keep proportions). Each Heading 1 (chapter, appendix, back-matter section) starts a new page (Page break before). Added 13 Oct 2026.
+- **Back cover for every Amazon book** (Lothar, 2026-10-15): although all books are Kindle ebook only (no paperbacks), every book ends with a back cover as the last page, in the style of the front cover but with text instead of pictures. Content is as usual for a paperback back cover: a blurb or tagline, a few review-style hook lines or selling points, a short author bio line (author name rules apply), the Also-by list, and the series line where relevant. No barcode, no price and no ISBN box, since it is ebook only. Add it when a book is next revised; existing finished books get it when they are next touched. Keep it Kindle-friendly: epub (and the docx fallback), page size 3.6 x 4.8 in, an inline image of the styled back-cover page or styled text on the cover colour; no tables.
 - Embedded front cover about **1000×1600** (separate KDP cover files may be larger, for example 1600×2560).
 - Back covers are **text-only on a single colour**. No barcode on the ebook back cover art unless a print wrap needs it.
 - Contents page: list and link everything (every appendix item, About the Author, Also-by). **No page numbers** on the contents page.
@@ -105,6 +117,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - For science books the score areas are: physics (or subject) accuracy, exercises and solutions, clarity for non-physicists, structure and pacing, prose, pictures, sources and licences, Kindle formatting, KDP listing, and covers.
 - Covers are judged from the files in the book folder. A file that exists only under `bak/` counts as draft.
 - Status labels in `SCORES.md`: published = live on Amazon; ready = manuscript closed with an upload package or KDP description; draft = still being written or fixed.
+- No file is named or declared "final" (FINAL in a file name, status or listing) until the book has completed at least 5 external review cycles (outside readers/reviewers, not only internal scoring). Record each cycle in the book's notes. Until then use REVn names (Lothar, 2026-10-15).
 
 ---
 
@@ -145,7 +158,7 @@ Assistants follow this, and gently coach Lothar when the pattern slips.
 - Give a job **one complete brief up front** (all fixes, decisions settled). Do not redirect it mid-run.
 - **Finish and report one job** before starting the next on the same book.
 - After a job, record the outcome in `SCORES.md` (score before and after, open items).
-- Clean up temp worktrees and transfer folders afterwards by **moving them to `D:\bak`**, never deleting them.
+- Clean up temp worktrees and transfer folders afterwards by **moving them into the `bak\` of the book they were for**, never deleting them.
 - If a job stalls or the connection drops, **resume from its last pushed commit** instead of starting over.
 
 ---
@@ -156,7 +169,7 @@ Keep chats and tokens cheap without losing the thread.
 
 - When a chat gets long, **first save the current state** (job queue, open items, decisions) into `SCORES.md` and this rules file, **then** compact or start a fresh chat that begins by reading `notes/LOTHAR_RULES.md` and `SCORES.md`.
 - Keep `SCORES.md` and this rules file **short**: move finished jobs and old notes to `notes/ARCHIVE.md`.
-- After each job, move temp worktrees and transfer folders to `D:\bak`, never deleting them.
+- After each job, move temp worktrees and transfer folders into the `bak\` of the book they were for, never deleting them.
 - **Read only the parts of files you need** instead of whole books when that is enough.
 - **Reuse existing scripts** instead of rewriting them.
 - Keep reports short: **results and open items only**.
@@ -184,4 +197,27 @@ Keep chats and tokens cheap without losing the thread.
 | Scores, covers, release order | `SCORES.md` |
 | Book-specific method | that book's `notes/` or `CLAUDE.md` |
 
-If this handbook and a book note conflict on a global rule (pen names, Trump, docx-only, no force-push, scoring method), this handbook wins. If they conflict on a detail inside one book (chapter order, build script, local voice), the book note wins.
+If this handbook and a book note conflict on a global rule (pen names, the banned name, upload format (EPUB; docx only as fallback), no force-push, scoring method), this handbook wins. If they conflict on a detail inside one book (chapter order, build script, local voice), the book note wins.
+
+## Headings and text style (Lothar, 2026-10-15; applies to every text page of every book)
+
+- **Headings**: all headings are centered, colour **#2A5CAA** (dark-leaning medium blue). Use real heading styles, never manual bold. Two or three heading levels only.
+- **Major headings** (chapter and part titles): 15-16 pt, page break before.
+- **Subheadings**: 12-13 pt, same blue, bold, no page break.
+- Never leave a heading alone at the bottom of a page (keep with next).
+- **Spacing**: no extra blank lines or empty paragraphs after text lines or headings. Spacing comes from the paragraph style.
+- **Body text**: left-aligned, not justified. A small first-line indent OR a small gap between paragraphs, not both. One body font and size for the whole book; in epub use relative sizing so the reader's own text setting works.
+- **Boxes and exercise blocks**: shaded or bordered paragraphs, never tables.
+- **No tables in text.** A table is allowed only as a picture, because Kindle renders tables unpredictably.
+- **Captions**: small and centered under the image; every image has alt text.
+- **Novel scene breaks**: a centered symbol, not blank lines.
+- **Cover and back cover pages** use no heading style.
+- **Optional**: embed one open-licence (SIL OFL) font for headings only in the epub; the body stays in the reader's default font.
+
+## KDP content policy (Lothar, 2026-10-15; applies to all books)
+
+- **Distinct products**: make each book a distinct product, with different scope, depth, structure, examples, stories, or audience.
+- **No copy-paste between books**: avoid copying and pasting large sections of text from one book into another. Rewrite, expand, or approach the material freshly.
+- **Honest listing**: title, subtitle, description and metadata must accurately reflect what is unique about that specific book.
+- **AI disclosure and quality**: AI-content disclosure in the KDP form is Lothar's own step; agents do not handle it. Quality guideline still applies: enjoyable, not too thin.
+- **Overlap check in every review**: each review checks overlap between sibling books (for example the Physics, Quantum and Actually series, the EE books, and the Math books). Fix overlap by rewriting or re-scoping, not by copying.
