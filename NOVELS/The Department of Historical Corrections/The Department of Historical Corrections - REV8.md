@@ -26,9 +26,9 @@ Mrs Beatrice Crumb stood outside the registry holding a red folder. She was sixt
 
 “Come in.”
 
-The registry door was painted green. On the reverse, where the paint had flaked, an earlier notice prohibited entry to persons who had ceased to exist during the working day. Mrs Crumb kept a chair beside it for exceptions.
+The registry door was painted green. On the reverse, where the paint had flaked, an earlier notice prohibited entry to persons who had ceased to exist during the working day. Mrs Crumb kept a chair beside it for exceptions. Inside, the old pencil registers stood in their rows, their margins freckled with small dots that nobody had ever explained to him.
 
-Arthur sat down. He was Deputy Assistant Director of Historical Continuity, Western Europe, Grade Seven. For twelve years he had compiled assessments of other people’s interventions, a job requiring exactness, caution and a capacity to distinguish what had gone wrong from what had always been wrong. He had specifically chosen administration because nothing in the past could attack you through a spreadsheet. There had been one disputed case involving a Venetian tariff, but the tribunal had found for the spreadsheet.
+Arthur sat down. He was Deputy Assistant Director of Historical Continuity, Western Europe, Grade Seven. For twelve years he had compiled assessments of other people’s interventions, a job requiring exactness, caution and a capacity to distinguish what had gone wrong from what had always been wrong. He had specifically chosen administration because nothing in the past could attack you through a spreadsheet. There had been one disputed case involving a Venetian tariff, but the tribunal had found for the spreadsheet. His usual finding was that an intervention had caused no material downstream effect. He wrote it so often that the phrase had begun to look like his handwriting.
 
 The red folder said HISTORICAL CONTINUITY INCIDENT. SEVERITY IMPERIAL. Someone had added PLEASE DO NOT PANIC AGAIN.
 
@@ -1098,7 +1098,7 @@ That was an accurate enough description of government for Eleanor to let it pass
 
 They returned to Operations. Finding a new retrieval gap in 1815 would require locating Arthur without creating a witnessed interval which prevented the aperture. There were no trackers in the ordinary sense. The brass token could answer only when the machine found a physically possible line to it. Eleanor began searching the streets around Pike’s shop through the surviving maps and private records.
 
-Mrs Crumb went to fetch the 1815 dispatch bundle. When she came back, a single index card lay on top. It had been removed from the public catalogue seventeen years earlier under her own initials.
+Mrs Crumb went to fetch the 1815 dispatch bundle. When she came back, a single index card lay on top. It had been removed from the public catalogue nineteen years earlier under her own initials.
 
 Eleanor read it.
 
@@ -1714,7 +1714,7 @@ Beatrice wrote the next number and, at the head of the column beside it, in capi
 
 Arthur asked how many lines the department had written since it began. Beatrice did not need the register.
 
-“One thousand nine hundred and four, since 1938. In pencil, mostly, and none with a weight.” She ran a finger along the whiteboard’s headings. “There has never been a column for who paid.”
+“One thousand nine hundred and four, since 1938. In pencil, mostly, and none with a weight.” She ran a finger along the whiteboard’s headings, then, absently, down the margin of the old register open beside it, where a small pencilled dot sat against one line, as dots did every few pages. “There has never been a column for who paid.”
 
 “Paid what?”
 
@@ -1754,11 +1754,11 @@ He went with Eleanor. Fanshawe was formally suspended and Beatrice had compromis
 
 The committee room had a long table, six chairs and a jug of water nobody had requested. Pelling stood when they entered. Glock did not.
 
-“Mr Pembroke. I’m glad you returned safely.”
+“Mr Pembroke. I’m glad you returned safely. I should also say that I have read your assessments for some years. They are the clearest in the department. ‘No material downstream effect.’ It is a comforting sentence.”
 
 Arthur sat opposite him.
 
-“Your clerk was less helpful.”
+“It’s a finding, not a comfort. Your clerk was less helpful.”
 
 “Mr Saye had instructions to facilitate your return.”
 
@@ -2670,7 +2670,35 @@ Something at the corner of her mouth moved, against orders. At two minutes to te
 
 “Then I’d like you to keep two.”
 
-“The sweep locks the cabinet,” Beatrice said. “It does not lock the copier.” She made the copy herself on the old registry machine, one page at a time, while the sweep went by outside the glass and checked the cabinet and moved on. It took forty minutes and the machine jammed twice. Arthur stood beside it. Neither of them said anything that could not have been said in front of the register.
+“The sweep locks the cabinet,” Beatrice said. “It does not lock the copier.” She made the copy herself on the old registry machine, one page at a time, while the sweep went by outside the glass and checked the cabinet and moved on. It took forty minutes and the machine jammed twice. Arthur stood beside it. For the first half hour neither of them said anything that could not have been said in front of the register.
+
+Then the machine jammed a second time, and while Beatrice coaxed the sheet out, Arthur, leaning on the shelf, looked at the nearest ledger. It had fallen open at a page with a small pencilled dot in the margin. There was another three pages on. He had seen them all his working life, the way one sees the grain in a desk.
+
+“What are the dots?”
+
+“What dots?” Then she heard herself. “The Registrar before me called them the clerk’s cough. I was taught not to ask. I didn’t, until Monday night, when Eleanor ruled her column.” She held the sheet to the light, found it was fine and lowered it. “I thought I could fill in a line I knew. Nineteen fifty-three, line four hundred and eight. A canal. A lock-keeper called Prosser, who had worked the same lock for eleven years and then, for the purposes of a Transport Act, hadn’t. He is in every file before the correction and in none after. Not dead, Arthur. Left out.”
+
+“And the dot?”
+
+“That is what the registrar did when she found out. Afterwards. Years afterwards, usually. There was no column, so she made a mark and said nothing.” The copier hummed. “Some are people left out for good. Some for a while. I started on Monday night and I have not slept a great deal. Two hundred and eleven.”
+
+“Two hundred and eleven people.”
+
+“Fifty-three of the dots are in my hand.” She did not look at him. “I thought they were something to do with the pencil.”
+
+He took the grey notebook and wrote *Prosser, lock-keeper. Left out.* on a clean line, because it was the only thing within reach that could be done in the next ten seconds. He did not feel any better. He felt clerical, which was presumably what he was for.
+
+“Five,” he said.
+
+“I beg your pardon?”
+
+“My terms. Five. Nothing in this department is entered as a number again. A name, or nothing.”
+
+“That will make the Directorate extremely unhappy.”
+
+“Then it will have something in common with me.”
+
+She fed in the next page. It went through cleanly, and neither of them remarked on it.
 
 Eleanor caught up with him at the foot of the stairs, when the others had gone.
 
@@ -2934,7 +2962,7 @@ Glock said nothing. He reached across the desk, took the rubber stamp from besid
 
 “Sir,” said the young man, and Elise Marot was walked away between two guards, still carrying the band.
 
-“You wrote her name in a notebook,” Glock told Arthur. “I wrote it in mine. It seemed only fair.”
+“You wrote her name in a notebook,” Glock told Arthur. He took a small black one from his breast pocket, of the same cloth and make as Arthur’s grey, and turned it so that a single line showed. “I wrote it in mine. It seemed only fair.”
 
 Eleanor’s hand closed on Arthur’s elbow. Three minutes had gone.
 
@@ -3130,6 +3158,8 @@ Daniel read the whole of it. He read the second column twice, moving his lips, a
 
 A woman beside them, in a mourning bonnet that was too new, said without turning her head, “Nor mine.”
 
+On her other side a stout man in a good coat read the officers’ column three times, put a lozenge in his mouth with the air of a man making a decision, and asked nobody in particular whether a Lieutenant Hallett had been posted. A clerk at the door told him that nobody below a certain rank had been posted that morning and nobody above it had been unposted either. The man thanked him for the news and went away with his tin shut.
+
 Daniel took his hand from the glass. The print of it stayed on the pane, with the splint and four fingers, for as long as they stood there.
 
 “He told me you have to be written down or you’ve not happened,” he said. His voice cracked on it. “He was joking. He wanted to be in the Gazette.”
@@ -3278,7 +3308,7 @@ Perrott read it by the candle, following the lines with his finger. “It is dat
 
 “I do not countersign on expectation.”
 
-“Of course not.” Glock took a small book from his pocket and opened it, not hurrying. “Mrs Dunning. Your landlady. She holds this house on a lease which falls in at Michaelmas. The freeholder is an acquaintance of mine, a most reasonable man, who has been thinking of selling to a brewery. I mention it because you have lived here for twenty-nine years, and the landlady’s lodgers have been offered the first refusal on rooms in the new building. At the rents of the new building.” He closed the book. “I do not threaten you, Mr Perrott. I tell you where you stand.”
+“Of course not.” Glock took a small black notebook from his pocket and opened it, not hurrying. “Mrs Dunning. Your landlady. She holds this house on a lease which falls in at Michaelmas. The freeholder is an acquaintance of mine, a most reasonable man, who has been thinking of selling to a brewery. I mention it because you have lived here for twenty-nine years, and the landlady’s lodgers have been offered the first refusal on rooms in the new building. At the rents of the new building.” He closed the book. “I do not threaten you, Mr Perrott. I tell you where you stand.”
 
 Perrott put down the pie. His hands were quite steady, which he noticed and thought remarkable. “If the thing you describe is intended as a threat, sir, it is addressed to the wrong man. I rent a room. I have rented one all my life. I have no objection to moving.”
 
@@ -3288,7 +3318,11 @@ Perrott put down the pie. His hands were quite steady, which he noticed and thou
 
 Glock looked at him for some time. Then he picked up the proof, folded it along its own crease and put it back in his coat.
 
-“You will find,” he said, “that the committee are very easily persuaded by the person who speaks last.” He opened the door himself. “Goodnight. Do give my compliments to Mrs Dunning.”
+“You will find,” he said, “that the committee are very easily persuaded by the person who speaks last. Mr Hallett, for instance, was most reasonable this evening. He has a boy in Flanders.”
+
+“I was not aware that Mr Hallett had a boy.”
+
+“Few are. It is the sort of thing a man tells the person who is listening.” He opened the door himself. “Goodnight. Do give my compliments to Mrs Dunning.”
 
 When he had gone, Perrott sat for a quarter of an hour without moving. Then he took his own blotter from the shelf, wrote *Received a caller, 11 p.m. Declined to countersign. Date incorrect*, signed it and put the time. It was not heroism. It was the clause, and it was the only thing in the room he knew how to read in a hurry.
 
@@ -4560,6 +4594,44 @@ The tea steamed. On the shelf behind Glock stood a row of box files, labelled in
 
 “I have a file on everyone I might one day have to protect.” Glock closed the book. “It’s a kindness, really. Ask Mr Baines whether he’d rather be a stranger to me.”
 
+“You will want to know why you,” Glock said. Arthur had not asked. “The portrait is a convenience. The reason is on the first page.”
+
+He opened the book in front of him again, turned it round and pushed it across the desk with one finger, between the cups.
+
+It was black cloth, department issue, the twin of the grey one in Arthur’s pocket. The first entry was in Glock’s small upright hand and began *17/114*. Arthur knew the number the way one knows the postcode of a childhood house. Under it Glock had copied out a finding, word for word.
+
+*Review of Correction 1,611 (Leeds Civic Hall: duplicate register set moved to basement annex, 1994). Provisional until assessed. RETAIN. No material downstream effect. A. Pembroke, Assessment Unit, Western Europe. 12 October 2017.*
+
+In the margin, smaller: *Flood, 9 December. M. Glock. Eleven months.*
+
+“The duplicates were moved to save a lift,” Glock said. “It was provisional. It needed one assessor to say it could stay. You read the plan. The plan said the annex was dry.”
+
+“I didn’t go to Leeds.”
+
+“The form did not require it.”
+
+Arthur remembered the sentence. He remembered, which was worse, that it had given him a small private pleasure to write it well.
+
+“Turn the page,” said Glock.
+
+There were fourteen. A tariff in Lyon, a school catchment, a pension scale, a lighthouse that nobody had needed until a night in March. Each was a finding with Arthur’s name at the foot, a name in Glock’s hand in the margin, and in most a number of months. Beatrice had counted two hundred and eleven dots and he had not asked whose signatures stood against them. He had not wanted to know.
+
+“Two hundred and six reviews in ten years,” Glock said. “Fourteen with a name in this book. I did not make the damage. I read what you had passed. Every measure since 2019 was a precedent of yours: the frames, the receiver, the registers. I invented nothing. I have only stopped pretending that nobody signs.”
+
+“Why show me?”
+
+“I did not show the other one. He was grateful enough not to ask.” He lifted a cup and did not drink from it. “People who know what a signature costs sign more carefully. That is the whole of my theory. I have kept your book since my mother’s funeral, Mr Pembroke. I thought you ought to know you were not the only one who keeps a record.”
+
+Observed events were closed. It was the department’s first rule and its kindest, and it had never once occurred to Arthur that it applied to his own handwriting. He could not go back and not sign. He could only add.
+
+He pushed the book back across the desk.
+
+“That isn’t why I’m refusing,” he said.
+
+“Then why?”
+
+Arthur did not answer, because he did not yet have it in a form that would survive being said to Glock.
+
 The secretary appeared at the door. It was a minute to four.
 
 “Shall we?” said Glock, and went ahead of him, and held the door.
@@ -4626,7 +4698,9 @@ Arthur thought of Ruth in the café, of Karim holding his mother’s letter, of 
 
 He raised his voice.
 
-“I do not consent to this office. I do not appoint Mr Glock to determine admissible history on my behalf. I do not waive any person’s right to keep or present contradictory evidence. No previous signature of mine should be read as consent to powers concealed from me.”
+“I do not consent to this office. I do not appoint Mr Glock to determine admissible history on my behalf. I do not waive any person’s right to keep or present contradictory evidence. I have signed findings in this department whose consequences I did not follow. Fourteen of them are in Mr Glock’s notebook, and I ask that it be recorded that they are mine. A record that holds my signature has to be one I can be asked about in public. That is what I decline to give up. No previous signature of mine should be read as consent to powers concealed from me.”
+
+Glock had expected the notebook to cost Arthur his nerve. It had cost him his innocence, which, Arthur discovered, he had been wearing as a hat.
 
 Glock seized his arm.
 
@@ -4900,7 +4974,7 @@ He listed those present, identified the documents and asked Glock whether he dis
 
 Perrott wrote that down. Glock looked less pleased to hear his own answer repeated by the pen.
 
-The committee members examined the source. Their motives were not pure. One worried that an unchecked receiver might seize assets in which he had an interest. Another disliked Glock. A third had signed the preliminary recommendation and feared being held responsible for the annex. Beatrice did not require virtue where ordinary self-interest would support proper examination. She required that the result be accurately recorded.
+The committee members examined the source. Their motives were not pure. Sir Ralph Dacre had been refused a seat on the receivership by a man in a very good coat. Mr Tench had signed the preliminary recommendation and feared being held responsible for the annex. Mr Hallett said nothing about his reasons and kept his tin of lozenges closed. Beatrice did not require virtue where ordinary self-interest would support proper examination. She required that the result be accurately recorded.
 
 Hester stood beside the window holding the corrected proof. Daniel sat with his injured hand in his lap. Fanshawe pressed a cloth to his forehead and tried not to bleed on anything evidential.
 
@@ -4968,7 +5042,33 @@ She did not look at him.
 
 “Then I shall be here to bear the result.”
 
-At ten twelve Perrott finished the comparison. He prepared a note explaining that the annex’s asserted source did not support its unrestricted powers, and that the certified instrument therefore incorporated the original limitations. The three committee members signed. Perrott sanded the ink and waited for it to dry.
+At ten twelve Perrott finished the comparison. He prepared a note explaining that the annex’s asserted source did not support its unrestricted powers, and that the certified instrument therefore incorporated the original limitations. Tench signed, and squared the page against the desk afterwards. Dacre signed without sitting. Mr Hallett took the pen, looked at the line and did not use it.
+
+“A moment,” he said. “Madam.”
+
+Beatrice crossed to the window with him and kept her back to Glock, who was watching the porter’s knee. Hallett opened the tin, took out a lozenge and did not eat it.
+
+“Mr Glock called on me last night. I have a boy. A lieutenant of foot. He was not in the Gazette, and not in the second list, and I have asked at every office between the Strand and the Horse Guards.” He turned the lozenge over. “Mr Glock says he knows which hospital. He says he could write it down for me this morning. He says it would be very natural if I were slow with my pen, and as natural if I were not.”
+
+“Do you believe him?”
+
+“He has no reason to lie, which is what frightens me.” He looked at her. “You know things, madam. I do not enquire how. Is my son alive?”
+
+She had a century’s histories in her head and not one of them was indexed by lieutenants.
+
+“I don’t know,” she said. “If I said yes, I should be selling you something. What I can do is write down his name and regiment, ask for a search of every record I can reach, and bring you the answer if I can find a lawful way to bring it. I cannot promise the news.”
+
+“That is all?”
+
+“It is exactly what I have.”
+
+Hallett looked at the tin. Then he looked at Glock, who had turned his head and was waiting with a friendly interest.
+
+He signed. It took him two attempts at the H.
+
+“I should like it minuted that I was slow,” he said to Perrott.
+
+“I shall minute that you were thorough,” said Perrott, and sanded the ink and waited for it to dry.
 
 Nothing happened to the room. No wall shivered. No country appeared in the distance. Beatrice had seen enough corrections to know that important moments were often visually disappointing.
 
@@ -5133,6 +5233,14 @@ Hester came after them carrying the second duplicate. She had chosen a different
 The apprentice looked surprised by this departure from ordinary commercial practice, then pushed the cart into the street.
 
 Inside, Beatrice kept the window open. The fruit seller had been joined by a man from the neighbouring office and a woman carrying laundry. They could see Glock, the porter, Fanshawe’s bloody cloth and Perrott at his desk. None understood the whole dispute. They understood enough to object when Hob tried to close the shutters from outside.
+
+Glock turned his head very slightly towards Mr Hallett, who was standing nearest, with his tin. “The Strand,” he said, in the voice of a man mentioning the weather. “Tell me which way the courier goes, and I will give you the name of the hospital before he reaches the corner.”
+
+For two days Mr Hallett would have given a great deal for that sentence. He shut the tin.
+
+“Mr Perrott,” he said, loudly enough for the porter, the fruit seller and the laundry woman, “Mr Glock has just offered me my son’s whereabouts in exchange for the courier’s route. I should like it minuted.”
+
+“Minuted,” said Perrott, and wrote it down. Glock closed his mouth. He had been quoted.
 
 Perrott signed the dispatch register at ten twenty-eight. He gave his duplicate to the regular courier, who had arrived by the front door and wanted to know why everyone was in the way.
 
@@ -5330,7 +5438,7 @@ Hester handed over a packet already prepared. “Three copies. One for you. The 
 
 “And the money is entered. I’ll have a press working by next week.”
 
-Daniel asked whether Arthur had found his brother. Beatrice had no answer. She wrote the name and regiment in her notebook, then told him exactly what she would do: ask for a search of the existing records, return an answer if a safe correspondence gap could be established, and make no promise about the news itself.
+Daniel asked whether Arthur had found his brother. Beatrice had no answer. She wrote the name and regiment in her notebook, then told him exactly what she would do: ask for a search of the existing records, return an answer if a safe correspondence gap could be established, and make no promise about the news itself. She had said much the same that morning to a man with a tin of lozenges, and it had been enough then.
 
 He nodded. He had learned enough about promises to prefer this one.
 
@@ -5670,6 +5778,8 @@ Beatrice received a formal finding of serious misconduct, lost her management au
 
 Saye gave evidence against both Glocks and faced his own proceedings. Cresswell had been arrested at the committee rooms on the twenty-third of June 1815; the charge sheet survived, and so did the constable’s entry for a brass curiosity taken from his pocket. The inquiry authorised contact only to establish his condition and offer lawful return, not to rescue him from accountability.
 
+He also read into the record the fourteen entries in Glock’s black notebook which carried his signature, with the dates and the numbers of months. The committee asked why he was volunteering them. He said that they were the only evidence nobody else was going to bring, and that an inquiry into who signs for consequences ought to begin with the person who had signed.
+
 Before the final session, the later Glock asked to see Arthur. Cole advised that there was no obligation to attend. Arthur went, with the solicitor present and the conversation recorded. He no longer confused listening to a man with granting him control of the room.
 
 Glock sat behind a plain table. Without the excellent coat, the private office and the people waiting for his instructions, he looked like an intelligent civil servant who had slept badly. Arthur found this more disturbing than if prison had transformed him into a visibly different kind of person.
@@ -5690,7 +5800,15 @@ Glock looked towards the recorder. “You are making a virtue of machinery again
 
 “Some will. That doesn’t require us to help.”
 
-For a while Glock said nothing. Then he said, “Leeds. The third floor,” and Arthur remembered the porridge of paper and the queue outside, and the people asked to produce what the office had drowned.
+For a while Glock said nothing. Then he said, “Leeds. The third floor,” and Arthur, who had never been to Leeds and had once signed a sentence about it, saw the porridge of paper and the queue outside, and the people asked to produce what the office had drowned.
+
+“I passed the retention,” Arthur said. “I didn’t go.”
+
+“No. The form did not require it.”
+
+“I should like that on the recorder.”
+
+“It is on the recorder.” Glock turned one hand over on the table. “That is what I mean by a record, Mr Pembroke.”
 
 “I wanted a record that could not be lost,” he said.
 
@@ -5884,7 +6002,9 @@ He removed it. He had nearly become helpful beyond his authority.
 
 The final message said that the records confirmed Samuel Wren survived the battle and returned to London later that year. It stated that the information did not imply he was currently well or that Daniel should abandon ordinary efforts to contact him. Arthur added a personal thanks to Hester and Daniel, and an account of the independent archive where their names and actions were retained.
 
-The dispatch weighed less than a biscuit. It required fourteen signatures, three of which were genuinely useful and several of which the new system would eventually learn to combine. He filed suggestions after the message had gone.
+The dispatch weighed less than a biscuit. It required eleven signatures, three of which were genuinely useful and several of which the new system would eventually learn to combine. He filed suggestions after the message had gone.
+
+A second request went in the same week, under the same limits. The registers of a convent hospital in Brussels listed a Lieutenant Hallett, wounded on the sixteenth of June and moved when the guns came near the city; a day-book at a Strand bank showed a Mr Hallett sending money for a passage home in July. The message was one line and promised nothing beyond what it said. The independent reviewer approved it in an afternoon, which Arthur chose to regard as progress and not as a comment on the first.
 
 Agnes Strath’s papers received their own public catalogue entry. Her authorship of the limitations was established from the drafts and witnessed copies, without claiming that she had anticipated modern time travel or solved problems she had never encountered. The archive described what she had done: required a temporary custodian to preserve challenges, permit independent copies and respect the refusal of representation. It was enough. Among the estate’s effects an inventory of 1747 listed a snuffbox of unknown metal, which would not open. Eleanor asked for a photograph, studied it in a silence that Arthur chose not to interrupt, and then asked, courteously, that the museum leave it exactly as it was.
 
@@ -5919,6 +6039,8 @@ On a cold Monday, Arthur arrived at work with a bag of pastries for the new staf
 In the corridor outside Records the duty board said MONDAY, and Monday it was. The analyst who had once changed it to Tuesday now held a post in which she kept her own chalk. In the bottom corner, small, she had added WE CHECKED.
 
 In Records, the dispatch ledger lay open on the counter with its seventh column. Over the autumn it had begun to fill, slowly, in several hands. The first entry was in Arthur’s: *Ruth, Peter, Lucy, Sam. Unfulfilled. Kept.*
+
+Beside it, the old pencilled registers had begun to give up their dots. The names went in at about four a week, in several hands, starting with Prosser, lock-keeper, who had been left out of a Transport Act in 1953. Arthur had done his own fourteen at a single sitting, at the counter, because it seemed to him that this was where a signature ought to end up. The first read: *Margaret Glock, Leeds. Eleven months. Retained by A. Pembroke, 12 October 2017. Entered.*
 
 At nine seventeen, a junior archivist named Nisha brought him an envelope.
 

@@ -22,4 +22,9 @@ New fixed points are in DISPATCH_LEDGER.md (REV6 additions). Key facts: Elise Ma
 
 ## REV7 (15 Oct 2026)
 
-Chapters 11 to 15 re-timed (see DISPATCH_LEDGER.md, REV7 additions). Facts fixed: 1746 receiver's agent is Mr Rutter (Lyle is 1815 only); Form 7B started 17:15, 90 minutes, countersigned 18:43; Ruth call 19:24 (3:58); Pembroke file entry 32 at 21:52, entry 33 at 04:31 Wednesday; return from 1746 at 11:12 with 198 kg (86 + 56 + 56). Scan run on the finished file: no clashes found in times, counts or names.
+Chapters 11 to 15 re-timed (see DISPATCH_LEDGER.md, REV7 additions). Facts fixed: 1746 receiver's agent is Mr Rutter (Lyle is 1815 only); Form 7B started 17:15, 90 minutes, countersigned 18:43; Ruth call 19:24 (3:58); Pembroke file entry 32 at 21:52, entry 33 at 04:31 Wednesday; return from 1746 at 11:12 with 198 kg (86 + 56 + 56). Scan run on the finished file: no clashes found in times, counts or names.
+
+
+## REV8 (15 Oct 2026)
+
+New fixed points are in DISPATCH_LEDGER.md (REV8 additions). Key facts: Glock's notebook is black cloth, department issue, first entry 17/114 (Leeds, Correction 1,611, 12 Oct 2017); 14 of Arthur's 206 reviews carry a name; the registers hold 211 pencilled dots (53 Beatrice's); Arthur's fifth term in the Pembroke file conversation; Hallett (committee) has a son, a lieutenant of foot, unreported since 16 June 1815, found in a Brussels convent hospital in ch 36. Scan run on the finished file: no clashes found in times, counts or names.

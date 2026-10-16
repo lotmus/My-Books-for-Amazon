@@ -47,4 +47,24 @@ Chapters 11 to 15 re-paced the way 16 to 20 were; "as though" cut from 24 to 6 a
 2. Never called an adaptation or sequel in the KDP listing, blurb, keywords or cover (KDP_Description.md checked: it does not name Amery).
 3. Amery named only in the back-matter acknowledgement, not as a selling point.
 4. If original material is ever copied in, remove or change the acknowledgement and get permission first.
-5. Acknowledgement wording ("premise, characters, names and wording are my own") re-checked against the book at this revision: still true.
+5. Acknowledgement wording ("premise, characters, names and wording are my own") re-checked against the book at this revision: still true.
+
+
+## REV8, 15 October 2026
+
+REV8 is REV7 plus planted twists. About 54,250 body words. Scores and open items: notes/REVIEW_REV8_2026-10-15.md (overall 8.5).
+
+**Twist log (Lothar asked for as many of six as fit without clashes).**
+- **Used, big:** (2) COST column / the dots (plants ch 1, 9; reveal ch 15; paid off ch 26, 37). (1+3) Leeds and Glock's black notebook, merged (plants ch 1, 10, 17, 19; reveal ch 26; paid off ch 26 speech, 34, 37). (6) Hallett, a committee member who helps Glock for his son's sake (plants ch 19 twice; reveal ch 28; loyalty test ch 30; paid off ch 36).
+- **Dropped:** (4) earlier-self reversal: Arthur never meets an earlier self and the book's own rule forbids a person causing their own existence. (5) literal late-book "observed events bite": every candidate duplicated chapters 9, 24 or 29 or clashed with chapter 36; one adapted line kept in ch 26.
+- **Facts fixed:** Arthur's finding on Correction 1,611 (Leeds Civic Hall duplicate registers moved to a basement annex in 1994) is dated 12 Oct 2017; the flood is 9 Dec 2017; Glock's mother Margaret waited eleven months, died in the tenth (about Oct 2018), book in the eleventh; her funeral starts Glock's notebook; the resilience pilot and frames are 2019. Arthur signed 206 reviews in ten years; 14 have a name in Glock's notebook. The old registers carry 211 pencilled dots (people the record lost, for good or for a while); 53 are in Beatrice's hand; first checked is lock-keeper Prosser, 1953, line 408. Arthur's term five (ch 15): nothing is entered as a number again, a name or nothing. Hallett: a lieutenant's father; Glock called on him on the evening of 22 June; Hallett withholds his signature until 10:14 on 23 June; Glock's courier offer at about 10:24; the second lawful message (ch 36) finds the son in a Brussels convent hospital.
+- **Slips fixed:** ch 6 "seventeen years earlier" now nineteen (the Strath card); ch 36 "fourteen signatures" now eleven.
+
+**Name rule:** Glock is the story's name; "Bell" appears only in the back-matter acknowledgement and in these notes (checked: story body zero).
+
+**Amery acknowledgement check (five points, re-run at REV8).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. REV8 scan of the story body for Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Koenig: zero hits. The new material (Leeds records, dots, Hallett, the black notebook) has no counterpart in the summaries I could confirm. I have still not read the novel; this remains a check against published summaries.
+2. Not called an adaptation or sequel in KDP_Description.md, blurb, keywords or cover (it does not name Amery).
+3. Amery named only in the back-matter acknowledgement (one hit in the file).
+4. No original material copied in.
+5. "Premise, characters, names and wording are my own": re-checked against the new scenes; still true.
