@@ -6,7 +6,7 @@ H2: 24.1 The Derivative as a Rate
 P: The derivative of a quantity with respect to time is its rate of change: how fast it is going up or down at a particular instant. Written dv/dt, it is the slope of the graph of v against t at that moment.
 P: Circuit theory is full of derivatives because two of the three basic components are defined by them. A capacitor's current is proportional to the rate of change of its voltage, and an inductor's voltage is proportional to the rate of change of its current:
 EQ: i = C·dv/dt     and     v = L·di/dt
-P: Read these as physical statements rather than formulas. A capacitor passes current only while its voltage is changing — hold the voltage constant and the current stops, which is why a capacitor blocks DC. An inductor develops voltage only while its current is changing — hold the current constant and the voltage vanishes, which is why an inductor is a short circuit to DC.
+P: Read these as physical statements rather than formulas. In the ideal model, a capacitor passes current only while its voltage is changing — hold the voltage constant and the current stops, which is why an ideal capacitor blocks DC. An ideal inductor develops voltage only while its current is changing — hold the current constant and the voltage vanishes, which is why an ideal inductor is a short circuit to DC. Real components also have leakage, winding resistance, and other nonideal effects.
 FIG: fig24_1.png | Figure 24.1 — Differentiating a sinusoid shifts its phase by 90 degrees; integrating shifts it by -90 degrees. | A sinusoid, its derivative, and its integral are plotted together; the derivative leads by 90 degrees and the integral lags by 90 degrees.
 P: The derivatives you need are few:
 LI: A constant has derivative zero. Nothing changing means no rate of change.
@@ -17,8 +17,8 @@ LI: Sine and cosine swap: the derivative of sin(ωt) is ω·cos(ωt), and the de
 MIS: The derivative of sin(ωt) is ω·cos(ωt), not cos(ωt). The factor of ω is dropped constantly and the consequences are severe, because ω is often a large number — at mains frequency it is 377, and in RF work it is in the billions. Omitting it does not make an answer slightly wrong; it makes it wrong by orders of magnitude. The factor appears because of the chain rule: differentiating the inside function ωt gives ω, which multiplies the result.
 H2: 24.2 The Integral as an Accumulation
 P: Integration is the reverse of differentiation: given a rate, it recovers the total accumulated. Geometrically it is the area under a curve.
-P: Rearranging the capacitor relation shows the accumulation directly. If i = C·dv/dt, then the voltage is the accumulated current divided by capacitance:
-EQ: v(t) = (1/C)·∫ i dt
+P: Rearranging the capacitor relation shows the accumulation directly. If i = C·dv/dt, then the voltage change from a starting time t₀ to time t is the accumulated current divided by capacitance:
+EQ: v(t) − v(t₀) = (1/C)·∫[t₀ to t] i(τ) dτ
 P: This says a capacitor's voltage is proportional to the total charge that has flowed into it — the integral of current is charge, which is exactly the statement that a coulomb is an ampere-second. The capacitor is a device that remembers how much current has passed, which is why it is a memory element and why its state must be specified as an initial condition when solving a circuit.
 P: The integrals worth knowing are the derivatives read backwards: the integral of tⁿ is t^(n+1)/(n+1), the integral of e^(kt) is e^(kt)/k, the integral of cos(ωt) is sin(ωt)/ω, and the integral of sin(ωt) is −cos(ωt)/ω. Each integration divides by ω and retards the phase by 90°, which is the 1/jω of capacitive impedance.
 H2: 24.3 Definite Integrals, Averages, and RMS
