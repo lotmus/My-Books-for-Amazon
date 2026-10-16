@@ -3120,7 +3120,7 @@ Before he left, Miriam held out the orange strip from her wrist. “Take this to
 
 It weighed almost nothing. He put it with the documents and went up the stairs at a run, with nine minutes left and Beatrice behind him calling for the lift to wait.
 
-## 19 The Printer Keeps a Copy
+## 19 Written Down
 
 After the men vanished into the apothecary’s cupboard, Hester Pike sat down for the first time that day and discovered that her knees were shaking.
 
@@ -3310,6 +3310,14 @@ She gave him a coin as well. “Tell him I haven’t come back. Then find Mr Gan
 
 “It will be when he hears my name.”
 
+Ned went, at a run, which in his case was a form of respect.
+
+Hester swept the glass into the corner of the window frame, wrote CLOSED PENDING on a half-sheet and pinned it where the pane had been. It was the most accurate sign the shop had ever carried.
+
+## 20 The Printer Keeps a Copy
+
+The most important refusal of the week was made by a man holding a pie.
+
 The knock came at eleven at night, two doors from the committee rooms, at the lodging of a clerk named Perrott. He opened it himself, in his shirtsleeves, with a candle and a half-eaten pie.
 
 The man on the step had a card ready. It was a thick card and he held it so that the engraving caught the light. L. GLOCK. “Mr Perrott. I apologise for the hour. May I come in?”
@@ -3346,7 +3354,7 @@ Glock studied him for some time. Then he picked up the proof, folded it along it
 
 “Few are. It is the sort of thing a man tells the person who is listening.” He opened the door himself. “Goodnight. Do give my compliments to Mrs Dunning.”
 
-When he had gone, Perrott sat for a quarter of an hour without moving. Then he took his own blotter from the shelf, wrote *Received a caller, 11 p.m. Declined to countersign. Date incorrect*, signed it and put the time. Heroism did not come into it: the clause was the only thing in the room he knew how to read in a hurry.
+When he had gone, Perrott sat without moving until the pie went cold. Then he took his own blotter from the shelf, wrote *Received a caller, 11 p.m. Declined to countersign. Date incorrect*, signed it and put the time. Heroism did not come into it: the clause was the only thing in the room he knew how to read in a hurry.
 
 By midnight they had the borrowed press in a cellar behind a bookseller’s shop. Gant complained about the danger, the hour and the inconvenience, while setting the damaged forme with painstaking care. Hester propped Glock’s note against the annex on the imposing stone and asked him to set both on a single sheet, with her own short account of the attempted seizure beneath.
 
@@ -3468,11 +3476,11 @@ She wrote the message twice. One copy she hid beneath the stove’s ash tray. Th
 
 Then she went back to the cellar and began setting the original terms Arthur had left in his notes. She could not yet certify them. But she could have the type ready when someone brought the proof.
 
-## 20 Evidence in Person
+## 21 Evidence in Person
 
 The hearing was held in a room normally used for procurement appeals. This was appropriate in one respect: everyone present wished they had bought something else.
 
-The usher, who had a lanyard appeal booked for half past twelve, announced the time at intervals, and nobody thanked him.
+The usher, who had a lanyard appeal booked for half past twelve, announced the time at intervals, and nobody thanked him. Rain had started on the high windows. Wet coats hung steaming on the radiator, and the polish was the municipal kind used on every room in which people are made to wait.
 
 Pelling sat at the centre of the table, flanked by retired judge Dame Judith North, solicitor Aisha Cole and archivist Professor Stephen Ives. None had worked for the department. None remembered Belgium in the same way as Arthur. That last fact mattered. He could not assume the truth he had come to establish.
 
@@ -3498,21 +3506,11 @@ Arthur began with the simplest claim: a memorandum had been substituted on 21 Ju
 
 The questions were slow. Arthur laid his documents out in the order he would need them, and the usher, unasked, moved the water jug two inches so that it stopped standing on Hester’s proof. Arthur wanted to hurry the questions and knew that was precisely why they were necessary.
 
-Fanshawe admitted his intervention. Cole asked whether he had sought an independent assessment of Glock’s casualty forecast.
-
-“No.”
-
-“Why not?”
-
-“The forecast was classified.”
-
-“You were director of the department.”
-
-“Yes.”
+Fanshawe admitted his intervention. Cole asked whether he had sought an independent assessment of Glock’s casualty forecast. He had not; the forecast was classified. Cole observed that he had been director of the department. He agreed that he had.
 
 “Could you have required an assessment?”
 
-Fanshawe looked at the table.
+Fanshawe studied the table, which was veneer over chipboard and had nothing to offer him.
 
 “Yes.”
 
@@ -3532,9 +3530,9 @@ The room went quiet. Beatrice took off her spectacles.
 
 “I would want to. That is why someone else should have had the power to stop me.”
 
-Dame Judith made a note. Arthur saw her underline something once.
+Dame Judith made a note. Arthur saw her underline something once. He found that he was gripping the edge of his chair, and made his hand let go.
 
-Miriam entered carrying no papers. She told them about the future registration rooms, the orange bands and Arthur’s death. She was precise about what she had seen and what others had told her. She refused to identify the officer who fired because she had not seen his face clearly enough.
+Miriam entered carrying no papers. Cole offered her a chair; she stood behind it instead and put both hands on its back. She told them about the future registration rooms, the orange bands and Arthur’s death. She was precise about what she had seen and what others had told her. She refused to identify the officer who fired because she had not seen his face clearly enough.
 
 “But you believe Mr Glock ordered it?” Cole asked.
 
@@ -3580,7 +3578,7 @@ Saye was brought in under guard and identified the model export. Glock’s expre
 
 Saye testified that the forecast’s earliest model assumption was the emergency receiver settlement. Glock had removed the premise pages before presenting the casualties as an independent danger. Eleanor showed the matching export identifier and missing page range. The evidence did not prove that the war would never happen. It proved that Fanshawe had been asked to prevent a danger on a materially false account of its causes.
 
-Pelling’s face had grown pale.
+Pelling had gone pale and was turning his pen end over end on the blotter, a quarter-turn at a time.
 
 Glock did not lean towards the camera. He waited for the room to finish, as one waits for a train already booked.
 
@@ -3626,7 +3624,7 @@ Arthur felt the room recede for a second. He had expected Glock to know. Expecti
 
 Glock looked wrong-footed. He had offered a secret bargain and found a public difficulty instead.
 
-Dame Judith asked whether immediate suspension of the future reference sealing was physically possible. Eleanor said yes, if Glock cooperated. Glock said cooperation required recognition of the existing authority. Cole asked whether this meant Arthur’s signature. Glock did not answer directly.
+Dame Judith asked whether suspending the future sealing was physically possible. Eleanor said yes, if Glock cooperated. Glock said cooperation required recognition of the existing authority. Cole asked whether he meant Arthur’s signature, and he did not answer directly.
 
 “Twelve ten,” said the usher, from the door.
 
@@ -3642,7 +3640,7 @@ Glock smiled faintly.
 
 The university technician disconnected the cable. The screen went black. In the sudden silence, everyone could hear an alarm sounding from the floors below.
 
-## 21 The Verifying Machine
+## 22 The Verifying Machine
 
 The hearing had not made Arthur king. Eleanor repeated that twice while they ran downstairs, because it mattered and everyone was inclined to panic before hearing it.
 
@@ -3756,7 +3754,7 @@ She drew three dates on the whiteboard: 1815, 2026, 2029.
 
 Beatrice handed her a fresh pen. This time, neither of them paused over it.
 
-## 22 The Case for Refusal
+## 23 The Case for Refusal
 
 By late afternoon the department smelled of burnt insulation and toast. The toast came from a small machine Beatrice had brought from the registry, where it was officially used for drying envelopes. Pelling ate two slices standing up. Dame Judith accepted one and asked whether butter had survived the revision. Nobody was certain, but the yellow substance available was serviceable.
 
@@ -3782,9 +3780,7 @@ He looked at the floor tiles. “I think I’d have signed on the Tuesday. Possi
 
 They planned around what they knew. The final duplicate dispatch in 1815 could still carry the original memorandum and the genuine limitations; Hester’s register showed that the instrument had not been finally countersigned. Glock’s younger self would try to prevent that. His older self would try to seal the future register before the detainees could be evacuated. The present department had a damaged stabiliser, a live inquiry and less than eighteen hours before reconciliation.
 
-“We can’t send the same person everywhere,” Pelling said.
-
-“Thank you,” Eleanor replied. “That is a surprisingly persistent misconception.”
+Pelling remarked that they could not send the same person everywhere. Eleanor thanked him; it was a surprisingly persistent misconception.
 
 Arthur had to attend the future sealing, because his refusal, delivered before independent witnesses and lodged outside Glock’s custody, would destroy the claim that the receiver had willingly vested authority. But he also knew Hester, the shop and the 1815 route. Eleanor was needed to cut the future link, Miriam knew the detainees, Beatrice the record chain and Fanshawe the dispatch desk.
 
@@ -3814,11 +3810,7 @@ He accepted the limitation.
 
 Arthur, Eleanor and Miriam would enter the future complex through the old document lift during a service interruption Miriam remembered and the building plan corroborated. They would reach the detainees, establish a route to the freight aperture and obtain the full forecast model if possible. Arthur would refuse the office in the ceremonial room, where Glock had assembled witnesses to legitimise it. The refusal would be transmitted to the independent present hearing through a separate narrow audio channel. Glock’s own audience would become evidence against his account.
 
-“He can turn off the transmission,” Cole said.
-
-“He can turn off his,” Eleanor replied. “We use the service line Miriam opened. It carries very little. Voice and a time mark.”
-
-“And if he takes that away?”
+Cole asked what happened if Glock cut the transmission. Eleanor said he could cut his own; they would use the service line Miriam had opened, which carried very little, voice and a time mark. And if he took that away?
 
 Arthur put the grey notebook on the table.
 
@@ -3846,7 +3838,7 @@ Nobody spoke. Dame Judith, who had come up from the hearing room with her handba
 
 “And what does the delegate propose to do?”
 
-“I’m directed to collect, by nine tomorrow, all material held outside the central extract in connection with this week’s hearing. There’s a van. It leaves Victoria Street at a quarter past eight.” He consulted the clipboard. “I’ve also got Minister Pelling’s instruction, which I can sign, if I choose, before the van goes, and which would make it the Receiver’s delegate’s own order that the evidence is to be kept. I’ve got two instructions and one signature. I thought you should know the time of the van.”
+“I’m directed to collect, by nine tomorrow, all material held outside the central extract in connection with this week’s hearing. There’s a van. It leaves Victoria Street at a quarter past eight.” He consulted the clipboard. “I’ve also got Minister Pelling’s instruction, which I can countersign before the van goes, and which would make it the delegate’s own order that the evidence is kept. Two instructions and one signature. I thought you should know the time of the van.”
 
 “Why?” Arthur said.
 
@@ -3868,7 +3860,7 @@ Nobody in the lobby breathed. Glock had never named a child. He had named a time
 
 “I do.”
 
-Pelling pressed the button and the line went dead. The guard studied the ceiling, which had not been so thoroughly examined since the building was put up.
+Pelling pressed the button and the line went dead. The guard studied the ceiling, which had not been so thoroughly examined since the building was put up. Arthur found that he had picked up Garrick’s pen from the plinth and was clicking it, and put it down.
 
 “He’ll do it,” Pelling said, to nobody. “He won’t do anything. He’ll schedule it.” He sat down on the edge of the fern’s plinth with the letter in his hand. “I am the Minister for Personal Registration, and I am apparently the Minister for nothing, and I shall have to find something to be sacked from.”
 
@@ -3884,15 +3876,11 @@ Pelling pressed the button and the line went dead. The guard studied the ceiling
 
 “It’s a printer’s method,” Arthur said. “Somebody told me that proofs burn. The answer is more than one of them, in more than one pocket.”
 
-Garrick, who had been writing, looked up. “May I say that I never heard that.”
-
-“Say what you like.”
-
-“I shall say I took a note of everything, and collected nothing, because there was nothing in the building to collect.” His hand trembled on the clipboard. “It’s a deviation,” he said. “I’ve had two this week. They’re getting easier.”
+Garrick, who had been writing, said he would report that he had taken a note of everything and collected nothing, there being nothing in the building to collect. His hand trembled on the clipboard. “It’s a deviation,” he said. “I’ve had two this week. They’re getting easier.”
 
 Nobody thanked him. It was the correct response. He took himself back through the lobby doors with the anxious dignity of the newly decisive.
 
-That night, in the registry, Judith North, Aisha Cole, Stephen Ives, Pelling and the university’s man Rao each took three copies, and each wrote the name of a person who would take another. Fifteen envelopes went out of the building by eleven. Arthur sat watching the registry clock. It was the first time he had seen evidence leave a room and felt it was getting safer.
+That night, in the registry, Judith North, Aisha Cole, Stephen Ives, Pelling and the university’s man Rao each took three copies, and each wrote the name of a person who would take another. Fifteen envelopes went out of the building by eleven. The toaster ticked as it cooled. Arthur sat watching the registry clock. It was the first time he had seen evidence leave a room and felt it was getting safer.
 
 The remaining problem was power. The future evacuation and the 1815 correction could not run simultaneously. The portable reference book could sustain one active transit channel at a time. Beatrice and Fanshawe must depart first, then remain in 1815 until the future team returned. Their return would come last, if there was capacity and a gap.
 
@@ -3928,7 +3916,7 @@ Miriam turned to her mother.
 
 “Yes. I’m trying to work out the proportions.”
 
-## 23 Reason for Return
+## 24 Reason for Return
 
 They went to the registry to pack the documents. Arthur followed with Hester’s account. He described the printer: the way she asked for payment before accepting explanations, the damage to Daniel’s hand, her distrust of unsolicited rescue. Beatrice listened with the attention of someone learning the terms of an important appointment.
 
@@ -4080,7 +4068,7 @@ Arthur laughed before he could stop himself.
 
 Beatrice looked through, took a breath and knocked on the doorframe.
 
-## 24 Two Women in Records
+## 25 Two Women in Records
 
 Hester answered the knock with a kitchen knife in her hand. She looked at Beatrice, then at Fanshawe, then at the two bags.
 
@@ -4290,7 +4278,7 @@ Hester laughed softly. The sky outside the cellar window had begun to lighten. S
 
 They had paper, witnesses and a little more time than he believed.
 
-## 25 The Service Lift
+## 26 The Service Lift
 
 In 2029, the service lift smelled of warm metal and cleaning fluid. Miriam stepped out first, then held the door while Arthur and Eleanor followed. The opening behind them folded into darkness. There would be no going back through that minute.
 
@@ -4482,7 +4470,7 @@ Arthur handed him the clipboard.
 
 “So will we.”
 
-## 26 The Man at the Front Door
+## 27 The Man at the Front Door
 
 At nine on the morning of 23 June 1815, Beatrice Crumb presented herself at the committee rooms with a document case and the expression of a woman who had already waited long enough.
 
@@ -4662,7 +4650,7 @@ Nobody looked heroic. Glock swore, Fanshawe bled from the forehead, Hester rubbe
 
 It was the right instruction. People began moving towards something they knew how to do.
 
-## 27 The Ceremony
+## 28 The Ceremony
 
 The corridor to the ceremonial room ran past a staircase, and Arthur had resolved not to look at it and looked at it anyway.
 
@@ -4936,7 +4924,7 @@ Eleanor stood there with a coil of severed cable over one shoulder.
 
 “I’ve cut the bolts,” she said. “Arthur. Now.”
 
-## 28 A Queue with an End
+## 29 A Queue with an End
 
 Arthur went through the door backwards, keeping his hands where the officer could see them. Eleanor closed it and dropped a metal bar into its brackets. Someone struck the other side almost immediately.
 
@@ -5120,7 +5108,7 @@ Glock did not blink.
 
 “Probably,” Reed said. “Step away.”
 
-## 29 The Corrected Proof
+## 30 The Corrected Proof
 
 Perrott had never expected to hold a meeting with a man restrained by a porter, but he saw no reason to let that lower the standard of the minutes.
 
@@ -5262,7 +5250,7 @@ Glock said, “Close that window.”
 
 He could not answer without explaining himself to people he had not selected.
 
-## 30 No Longer the Only Copy
+## 31 No Longer the Only Copy
 
 In the future reference room, Captain Reed took Glock away from the switch. Glock went with him reluctantly, talking all the while about consequences, authority and the captain’s career. Reed listened with the exhausted courtesy of a man who had already lost one of those things and was trying to preserve the others.
 
@@ -5380,7 +5368,7 @@ The aperture opened. Eleanor went first, then Miriam. Arthur followed carrying t
 
 He did not see the future go dark. He heard a switch click as he crossed, and then heard twenty-two people talking in the receiving room.
 
-## 31 Ten Thirty
+## 32 Ten Thirty
 
 Daniel ran with the certified duplicate under his coat. His injured hand made balance difficult, and the passage behind the committee room was narrow enough that he struck his shoulder twice. Behind him, Cresswell shouted his name and tried to make an order of it.
 
@@ -5522,7 +5510,7 @@ Hester broke the bread and handed her half.
 
 “Eat while you wait. It’s one of the few things waiting doesn’t prevent.”
 
-## 32 The Last Return
+## 33 The Last Return
 
 Arthur came back from 2029 to a room full of voices. After the regimented quiet of the future hall, the noise struck him as something almost luxurious. People were asking for water, telephones, toilets, relatives, explanations. One man wanted a form because a form would tell him what kind of situation he was in. Miss Ahmed gave him a chair and said they would decide that together.
 
@@ -5670,7 +5658,7 @@ The reconciliation clock showed one hour and eleven minutes.
 
 At 08:19 Garrick telephoned from a car park in Victoria Street. For the avoidance of doubt, he said, he had countersigned the Minister’s instruction at 08:14, in the wrong ink, one minute before the van was due to leave. The van, which had a rota, had left anyway, with nothing to collect and a form saying so.
 
-## 33 What Could Be Kept
+## 34 What Could Be Kept
 
 They had enough time to make the decision properly, and not enough to pretend it was easy.
 
@@ -5774,7 +5762,7 @@ Mrs Crumb went to the vending machine. She returned with a packet of Belgian cho
 
 Nobody opened it for some time.
 
-## 34 The Country Above
+## 35 The Country Above
 
 The restored government’s first response was to ask why a former junior minister had convened a hearing in a department which officially did not exist.
 
@@ -5918,7 +5906,7 @@ Arthur left them arranging it.
 
 That evening he opened the Belgian biscuits at last. They were exactly as good as he remembered, and not remotely equal to what they had cost. He ate two, put the packet away and made something proper for dinner.
 
-## 35 The Inquiry into the Inquiry
+## 36 The Inquiry into the Inquiry
 
 Six weeks later, Arthur was asked whether the Department of Historical Corrections should continue to exist.
 
@@ -6014,7 +6002,7 @@ At the end of the final session, the chair thanked Arthur for his service. He ac
 
 There was a pause while the clerk added the names. Arthur watched the pen move and, for once, did not feel that paperwork was arriving after the important thing. It was the important thing still being done.
 
-## 36 Visiting Hours
+## 37 Visiting Hours
 
 The later Glock’s letter reached Arthur in the week the finding was published. It asked for fifteen minutes, on lined paper, in the small upright hand Arthur now knew better than his own. Remand visiting hours were Tuesdays and Thursdays, two to four, and Glock had used none of them.
 
@@ -6156,7 +6144,7 @@ Eleanor was waiting in the car park. She had been told, correctly, that she shou
 
 She unbuckled the left watch, looked at it, and put it in her coat pocket. “I’ll find it a drawer,” she said.
 
-## 37 People with Addresses
+## 38 People with Addresses
 
 Miriam’s first ordinary job application in the restored present asked her to explain a three-year gap which had not yet happened.
 
@@ -6282,7 +6270,7 @@ Arthur returned to London on an ordinary train. It was late. He considered, for 
 
 It was considerably less exciting than time travel. It also addressed the people currently responsible.
 
-## 38 The Account Is Still Open
+## 39 The Account Is Still Open
 
 Hester Pike’s letter was found in a collection donated to a provincial archive in 1936 and catalogued in 1978 as miscellaneous trade correspondence. It had been there all along, though all along had become a phrase Arthur used with care.
 
@@ -6346,7 +6334,7 @@ She returned it through internal post with a note identifying an error in the ca
 
 No aperture was required.
 
-## 39 Ordinary Business
+## 40 Ordinary Business
 
 By December, the lift had been made honest.
 
@@ -6516,7 +6504,7 @@ A last case where the full factor matters. A ship travels at 0.6c (v/c = 0.6) fo
 
 ### Where the story needs it
 
-Chapter 2: Eleanor tells Arthur that whatever he does in an open minute “becomes part of what happened”. Chapter 7: Fanshawe, “That interval is closed, and what I did in it stays done.” Chapter 9: “Nothing here requires a person to cause their own existence.” Chapter 27: “He could not go back and not sign. He could only add.” The story needs one idea: you may act in the past, but the past you act in has to come out the same as the one that produced you.
+Chapter 2: Eleanor tells Arthur that whatever he does in an open minute “becomes part of what happened”. Chapter 7: Fanshawe, “That interval is closed, and what I did in it stays done.” Chapter 9: “Nothing here requires a person to cause their own existence.” Chapter 28: “He could not go back and not sign. He could only add.” The story needs one idea: you may act in the past, but the past you act in has to come out the same as the one that produced you.
 
 ### The real physics
 
@@ -6528,7 +6516,7 @@ So the principle does not forbid acting on the past. It forbids contradictions. 
 
 ### The Department’s own rule (invented)
 
-The Department turns the principle into paperwork. A minute is closed once something independent recorded it, and a closed minute cannot be entered. What you do in an open minute is closed afterwards. Both are the book’s rules. So is the stricter rule of chapter 9, that no person is required to cause their own existence. Real self-consistency permits such loops, if they agree with themselves; the book chooses not to. The later twists keep to it: the chain from a rescue in 1991 to a signature in 2017 to a grudge in 2018 (chapters 9 and 36) runs one way, through records, and nobody in it causes themselves.
+The Department turns the principle into paperwork. A minute is closed once something independent recorded it, and a closed minute cannot be entered. What you do in an open minute is closed afterwards. Both are the book’s rules. So is the stricter rule of chapter 9, that no person is required to cause their own existence. Real self-consistency permits such loops, if they agree with themselves; the book chooses not to. The later twists keep to it: the chain from a rescue in 1991 to a signature in 2017 to a grudge in 2018 (chapters 9 and 37) runs one way, through records, and nobody in it causes themselves.
 
 ### Worked example
 
@@ -6625,7 +6613,7 @@ Disturbance: to see a 1 nm feature we need light of about 1 nm wavelength. A pho
 
 ### Where the story needs it
 
-Chapter 6: Miriam asks whether the brass tokens are entangled, “whatever happens to one, the other knows”. Eleanor says no: entangled things are correlated and are not in conversation. Chapter 7: the committee ratifies when “two sealed copies” are found to agree. Chapter 32: the tokens “could signal readiness and direction” but “could not carry a conversation”. The story needs the idea because the rule that a message costs an opening, and cannot be got for free, is the reason the characters cannot phone 1815 for nothing.
+Chapter 6: Miriam asks whether the brass tokens are entangled, “whatever happens to one, the other knows”. Eleanor says no: entangled things are correlated and are not in conversation. Chapter 7: the committee ratifies when “two sealed copies” are found to agree. Chapter 33: the tokens “could signal readiness and direction” but “could not carry a conversation”. The story needs the idea because the rule that a message costs an opening, and cannot be got for free, is the reason the characters cannot phone 1815 for nothing.
 
 ### The real physics
 
@@ -6677,7 +6665,7 @@ Now let Alice vary her axis and watch only her own results. Whatever angle she p
 
 ### Where the story needs it
 
-Chapter 22: Dr Rao, checking the mass budget, has a footnote he does not turn round: closed minutes are closed the way a thick wall is closed, and what is mostly forbidden is not entirely forbidden. Chapter 37: a Hall B queue ticket, in Aliyah Rahimi’s hand, turns up in the enquiries tray, with no aperture and no entry in the log. Beatrice enters it as a clerical tunnel. The story needs it because the ticket is the one thing in the book that crosses a barrier the rules say cannot be crossed, once, and cannot be asked for again.
+Chapter 23: Dr Rao, checking the mass budget, has a footnote he does not turn round: closed minutes are closed the way a thick wall is closed, and what is mostly forbidden is not entirely forbidden. Chapter 38: a Hall B queue ticket, in Aliyah Rahimi’s hand, turns up in the enquiries tray, with no aperture and no entry in the log. Beatrice enters it as a clerical tunnel. The story needs it because the ticket is the one thing in the book that crosses a barrier the rules say cannot be crossed, once, and cannot be asked for again.
 
 ### The real physics
 

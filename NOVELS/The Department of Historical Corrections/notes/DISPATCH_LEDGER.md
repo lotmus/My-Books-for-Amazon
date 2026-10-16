@@ -187,4 +187,4 @@ Humour pass; no change to any transit, capacity or clock figure. New fixed point
 | Thu, 15:52 to 15:55 (Ceremony day) | The secretary calls Glock out ("The judges are seated, Receiver"); Arthur is alone with the black notebook for about three minutes, adds the margin months, copies 17/114 and the date into the grey notebook, leaves the MAROT file alone; Glock returns at 15:55 and produces the fifteenth | 26 |
 | Thu, 16:00 | Public refusal is shorter: fifteenth named once (no table range in ch 26's speech; the range stays in ch 31); "all fifteen are mine" unchanged | 26 |
 
-> **Chapter numbers in this ledger are the pre-REV13 numbers** (REV12 and earlier). Chapters 23 to 37 are now 24 to 35 and 37 to 39, with new chapters 23 and 36: see `CHAPTER_RENUMBERING_REV13.md`.
+> **Chapter numbers in this ledger are the pre-REV13 numbers** (REV12 and earlier). Chapters have been renumbered twice since (REV13 and REV15, 40 chapters now): see `CHAPTER_RENUMBERING_REV13.md`.

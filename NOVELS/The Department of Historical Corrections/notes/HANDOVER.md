@@ -193,3 +193,16 @@ Done: ch 23 lengthened to about 1,610 words (weighing scene, Miriam's card), ch 
 5. "My own premise, characters, names and wording" is still true of REV14.
 
 **Name rule.** Banned name: zero hits anywhere. Glock's modelled-on name appears once, in the back-matter note.
+
+## REV15, 16 October 2026
+
+Structure pass on REV14. Old chapter 19 (about 3,700 words) is split into ch 19 "Written Down" and ch 20 "The Printer Keeps a Copy"; every later chapter is one higher (40 chapters). Ch 21 and 23 given setting and interior beats and less talk. Body 60,651 words; appendix 5,342. Scores and detail: `notes/REVIEW_REV15_2026-10-16.md` (overall 9.0, sellability 8.3). REV14 is in `bak\`. **Chapter numbers in all earlier notes: see `notes/CHAPTER_RENUMBERING_REV13.md`** (it maps old, REV13/14 and REV15). The five appendix chapter references were updated (ch 28, 37, 33, 23, 38).
+
+**Amery acknowledgement check (five points, re-run on REV15).**
+1. Nothing taken from Das Koenigsprojekt in names, scenes, plot sequences or phrases. Scan of story body and appendix for Vatican, Swiss Guard, Stuart, Wittelsbach, Scone, Luther, Leonardo, Pope, Congregation, da Vinci, Koenig: zero hits. The new text (a split, an opening line about a pie, a pinned notice, weather) has no counterpart in the summaries I could confirm. Still a check against published summaries; I have not read the novel.
+2. KDP_Description.md does not call it an adaptation or sequel or name Amery.
+3. Amery is named only in the back-matter acknowledgement.
+4. No original material copied in.
+5. "My own premise, characters, names and wording" is still true of REV15.
+
+**Name rule.** Banned name: zero hits anywhere. Glock's modelled-on name appears once, in the back-matter note.
