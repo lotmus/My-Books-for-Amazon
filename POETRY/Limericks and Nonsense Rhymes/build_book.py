@@ -97,7 +97,7 @@ def main() -> None:
     common = [str(PANDOC), str(SOURCE), "--from=markdown+hard_line_breaks", "--standalone"]
     metadata = [
         "--metadata=title=Limericks and Other Rhymes for People Who Should Know Better (Illustrated)",
-        "--metadata=subtitle=Classic nonsense verse and modern limericks",
+        "--metadata=subtitle=Classic nonsense verse, modern limericks, and four-line rhymes",
         "--metadata=author=Seamus O'Leary",
         "--metadata=lang=en-US",
     ]
