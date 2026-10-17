@@ -1,73 +1,60 @@
 # The Wee Scallywag and the Gentle Elf: Guide for Parents and Teachers
 
-Draft for the back of the book. Written to be honest and checkable: it promises curiosity, vocabulary and good habits, not exam results. Items marked VERIFY need a check against the current standards document before printing.
+This guide describes the current 11-chapter edition. The story mixes fantasy with science ideas; claims in the story and activities should be checked before publication, especially the tunnelling, tides, genetics and animal/water safety passages.
 
 ## What this book is
-A fantasy adventure for ages 6–9 to read aloud (ages 8–10 can read it alone). Every fact the elf Hopsi states is true, and every piece of magic is marked as magic. The children test things before they believe them.
+A fantasy adventure for ages 6–9 to read aloud (ages 8–10 can read it alone). Hopsi distinguishes the story’s explicit magic from the science ideas, while the children observe, count, test and sometimes revise their first impressions.
 
 ## The habits of a scientist the story models
-- **"How do we know?"** Hal asks it. The answer is always: Look. Count. Test.
-- **Write it down.** Hal’s slate is a lab notebook: lever test, grasshopper counts, the bent stick.
-- **Appearance is not always reality.** The fish is deeper than it looks. The stick looks bent. The mirror swaps left and right.
-- **Fair tests and honest results.** Hopsi says only what is true, and a true "I don't know" counts.
+- **Ask how we know.** Hal looks, counts and tests instead of relying on appearances.
+- **Write it down.** His slate records observations and results, including when he was wrong.
 - **Notice what others miss.** Tabitha spots the firm path from the reeds.
-- **Being wrong is part of it.** Sparefunk’s fake fly fails. Hal’s first lever try needed ten fingers.
+- **Use fair tests and admit uncertainty.** Hopsi distinguishes what she knows from what she does not know.
+- **Revise an idea when evidence changes.** The children compare what they expected with what they observe.
 
 ## What each chapter teaches
-1. **The Stuck Wheel:** forces and a problem to solve; the idea of a bargain with small print.
-2. **The Lord of the Riverbank:** levers (a see-saw), a fair test, hail and rainbows.
-3. **The Ghost in the Wall:** tunnelling (a marble and a hill; real only for the tiniest things); why the sun shines; the idea that a reflection can feel like another world.
-4. **The Toad of the Ford:** genes as a recipe (half the cards from each parent, shuffled, with copying slips); variation; counting and recording data; camouflage and why the colour that fits becomes common.
-5. **The Pike and the Torn Tag:** light bends when it slows in water (barrow wheel); the quickest path is not always the shortest (lifeguard); testing with a stick.
-6. **The Girl with the Apples:** careful observation and asking the one question nobody asked.
-7. **The Quick Way and the True Way:** shortest is not quickest; reading evidence (reeds mean wet); mirror reversal.
-8. **The True Name:** reading mirror writing; being brave enough to tell the truth.
-9. **Saturday:** sunlight is eight minutes old; time and speed.
-
-## How it connects to school science (VERIFY before printing)
-These are links, not claims of coverage.
-
-**US, Next Generation Science Standards (grades 3–5, VERIFY codes):**
-- 3-LS3-1, inheritance and variation of traits (recipe cards).
-- 3-LS4-2, how variations among individuals may give advantages (grasshoppers).
-- 4-PS4-2, light, reflection and seeing (mirrors, bent light).
-- 3-PS2-1, forces (levers, see-saws).
-- 5-ESS1-1, the Sun and its distance (eight-minute light).
-- 3-ESS2-1, weather (storm, hail, fog).
-
-**England, National Curriculum KS1–2 (VERIFY):** forces (Years 3 and 5), light (Years 3 and 6), evolution and inheritance (Year 6), working scientifically (all years).
-
-**Beyond the syllabus on purpose:** tunnelling, how fast things change time. They are seed ideas to make children curious, not things to be tested.
+1. **The Stuck Wheel:** forces, problem solving and the small print in a bargain.
+2. **The Lord of the Riverbank:** levers, fair tests, hail and rainbows.
+3. **The Ghost in the Wall:** quantum tunnelling by analogy, why the Sun shines, reflections and explicitly magical ghost-world events.
+4. **The Toad of the Ford:** inheritance and variation, camouflage, counting and recording observations; the counts do not prove what caused the differences.
+5. **The Pike and the Torn Tag:** refraction, apparent depth, quickest paths, and safe adult-led help around water and wild animals.
+6. **The Howl and the Moon:** animal behaviour and the Moon’s phases.
+7. **The Hot Night:** fire safety and consequences of a broken promise.
+8. **The Girl with the Apples:** careful observation and asking the missing question.
+9. **The Quick Way and the True Way:** route choice, evidence, mirror reversal and the culvert journey with an adult.
+10. **The True Name:** honesty, trust and the story’s rules of magic.
+11. **Sunday:** sunlight travel time, tides, and the village’s recovery after the mill’s flour is restored.
 
 ## Discussion questions
-- Why did Hal write his results down? What would have happened if he hadn't?
-- Why is a fish deeper than it looks? What else looks different from how it is?
-- If the shortest way is the slowest, how would you plan a journey?
-- Which chapter did you believe and which did you test? How could you test it?
+- Why did Hal write his results down? What would have happened if he had not?
+- Why does a fish look shallower than it is? What else can look different from how it is?
+- If the shortest way is not the quickest, how would you plan a journey?
+- Which idea did you test or revise after seeing evidence?
 - Who noticed something the others missed?
-- Which part of the story is magic and which is true? How can you tell?
+- Which events are explicitly magic, and which are science ideas? How can you tell?
+- What should the children do when they find an unfamiliar animal or reach open water?
 
-## Words to grow (a short word wall)
-lever, force, hail, rainbow, inherit, variation, recipe (for a gene), camouflage, bend (refraction), reflection, tunnelling, eight-minute light.
+## Words to grow
+lever, force, hail, rainbow, inherit, variation, recipe (as an analogy for genes), camouflage, refraction, reflection, tunnelling, tide, inertia.
 
-## Try it at home (adult supervision for water)
-The ten experiments are on the "Hopsi’s True Things" page at the back of the book. Each takes five minutes and uses things from a kitchen or garden.
+## Try it at home
+The “Hopsi’s True Things” section includes short activities. An adult should choose and supervise activities involving water, heat, tools, food, or outdoor exploration. Stay with a grown-up at ponds, streams and other open water. Never touch hot ashes or approach an unfamiliar animal; ask an adult for help.
 
 ## Accuracy notes for adults
-- Light speed in water is about three-quarters of its speed in air, so "a quarter slower" is a fair child-sized number.
-- "A fish is always deeper than it looks" holds when you look into the water from above.
-- Sunlight takes about eight minutes and twenty seconds to reach Earth; the book says "about eight minutes".
-- Genes are described by analogy (a recipe). Real genes are made of DNA; the analogy is a start, not the whole story.
-- The tunnelling picture is an analogy. Real tunnelling is quantum behaviour of very small particles and matters in how the Sun's core releases energy.
-- Mirror-image sugars: a mirror-image of the sugar glucose tastes sweet but the body cannot use it as food. The book does not claim more than that.
+- Light travels more slowly in water than in air; refraction makes submerged objects appear shallower.
+- Sunlight takes about eight minutes and twenty seconds to reach Earth; the story rounds this to about eight minutes.
+- Genes are described by analogy. Genes are made of DNA, and inheritance is more complex than recipe cards.
+- Quantum tunnelling is a behaviour of particles at very small scales; the marble-and-hill image is only an analogy.
+- The Moon’s differential pull and inertia produce two tidal bulges. Local tides vary with coast shape and other factors; the story gives a simplified explanation.
+- The story’s animal encounters are fictional. Children should keep back from wild or unfamiliar animals and get an adult.
 
 ## Sources to verify before printing
-- NASA, "How long does it take sunlight to reach Earth?" (Sun-Earth distance and light travel time).
-- Next Generation Science Standards (nextgenscience.org) for the codes above.
-- UK Department for Education, "National curriculum in England: science programmes of study".
-- A physics teacher or physicist to check the tunnelling and refraction passages, and a biology teacher for the genes passage.
+- NASA, “How long does it take sunlight to reach Earth?”
+- NOAA, “What causes tides?”
+- Next Generation Science Standards and the UK National Curriculum, if curriculum links are retained.
+- A physics teacher or physicist to check tunnelling and tides, and a biology teacher to check genetics and animal-safety language.
 
-## Draft blurb (replaces the old keyword-heavy one)
-When the mill wheel stops, Hal has three days to bargain, fight and think his way to a full flour sack. He has a quick-tempered scallywag who steals his boots, a gentle elf who only says what is true, and a wolf pup who will not leave his foot. Then a soft voice offers a shortcut.
+## Draft blurb
+When the mill wheel stops, Hal has three days to bargain, fight and think his way to a full flour sack. He has a quick-tempered scallywag who steals his boots, a gentle elf who tries to tell the truth, and a wolf pup who appears at the mill pond. Then a soft voice offers a shortcut.
 
-A fantasy adventure for ages 6–9 with real science at its heart: levers, rainbows, genes, light and the secrets of the Sun. Every fact is checked and every bit of magic is marked. Ten easy experiments and a parent and teacher guide at the back. For curious children and the grown-ups who read to them.
+A fantasy adventure for ages 6–9 with science ideas woven into the story: levers, rainbows, inheritance, light, the Moon and tides. Includes short activities and a guide for parents and teachers. For curious children and the grown-ups who read to them.

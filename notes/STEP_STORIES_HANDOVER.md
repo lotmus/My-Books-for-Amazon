@@ -7,7 +7,7 @@ Children's STEM-fantasy chapter books by **Anneliese Tauber** (pen name, the sam
 
 | Book | Folder | Current files | Words | Pictures |
 |---|---|---|---|---|
-| 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v21.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v21.txt` | about 11,500 | 65 + cover |
+| 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v22.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v22.txt` | about 11,700 | 65 + cover |
 | 2. Scally and the Sleepless Stream | `Scally_and_the_Sleepless_Stream` | `..._Book2_v16.docx`, `.epub`, story `Book2_Story_v16.txt` | about 14,300 | 85 + cover |
 | 3. Scally and the Hill with the Hanging Socks | `Scally_and_the_Hill_with_the_Hanging_Socks` | `..._Book3_v8.docx`, `.epub`, story `Book3_Story_v8.txt` | about 22,600 | 119 + cover |
 
@@ -56,3 +56,5 @@ The docx is the working master; the **EPUB is the upload file for KDP**. File na
 
 ## Where to read more
 Each book folder has a `README.md`, a `KDP_Description.md` (title, subtitle, description, keywords, categories, upload checklist) and `build\README.md` (Book 1). Book 3 also has `Book3_Outline_v1.md`.
+
+**16 Oct 2026, Book 1 update:** v22 is the current working pair (11 chapters, about 11,700 words, 65 story illustrations). The v22 picture-only check records four remaining visual gaps. The pending teacher/physicist and safety review remains open, and no fresh Kindle Previewer pass is recorded for v22; keep it as a draft until those checks are complete. The prior v21 pair remains recoverable from Git history and is archived in the local worktree under `bak/2026-10-16 pre-v22/`.
