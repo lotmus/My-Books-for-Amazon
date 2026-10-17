@@ -526,3 +526,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - D: reports 21 book-scoped status paths against the older shared-checkout index. It contains no newer or unique Book 3 content.
 - Created local-only standalone pilot at D:\Offload\.codex\worktrees\split-pilot-scally-hill-socks-v10-20261017, commit 87844d5. It contains the 152 active files from current main plus a local .gitignore and notes/SEPARATION_AUDIT.md, is clean, and has no remote.
 - No build, preview, picture review or editorial QA was run. The KDP checklist still requires teacher, doctor and wildlife review of science and safety before upload. The shared D: checkout was not changed.
+
+
+## Test Prep CARS Book 1: Chemical and Physical Foundations checkpoint — 2026-10-17
+
+- Current main at 31bb85a9 contains the 46-chapter Markdown set, outline, figures, DOCX and DOCX builder. The Book 1 source commit a5dc7f05 states DOCX-only until final; no EPUB or new build was created in this audit.
+- The shared D: checkout has 22 status paths (21 modified Markdown files and the root DOCX). All 22 are byte-identical to current main; the DOCX is already tracked in main and only appears untracked against the stale D: index. No unique book content needs rescuing. Existing bak/ and ignored output folders were not inspected.
+- The existing local-only pilot matched all 68 current-main book files byte-for-byte. Added a local .gitignore and notes/SEPARATION_AUDIT.md; it now has 70 tracked files at commit 7f51a5f, is clean, and has no remote.
+- No shared D: files were changed. No build, test, or export was run.
