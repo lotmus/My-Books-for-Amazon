@@ -518,3 +518,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - D: reports 41 book-scoped status paths against the stale shared-checkout index. They represent the current v22 package and line endings; no unique Book 1 content needs rescuing.
 - Created local-only standalone pilot at D:\Offload\.codex\worktrees\split-pilot-wee-scallywag-v22-20261017, commit f699fd9. It contains the 153 active files from current main plus a local .gitignore and notes/SEPARATION_AUDIT.md, is clean, and has no remote.
 - No build or editorial review was run. The KDP checklist still calls for science and safety review and a phone/e-ink screen review before upload. The shared D: checkout was not changed.
+
+
+## Scally and the Hill with the Hanging Socks v10 checkpoint — 2026-10-17
+
+- Current main at 73c4953e contains the v10 story master, DOCX and EPUB. The D: active tree has 145 files; all 145 exist in current main, with 143 byte-identical and two differing only by CRLF/LF. No D-only or other content differences were found. Current main has seven additional tracked build files: b3_cover.py, b3_gen.log, b3_gen2.log, b3_sheet.py, b3_sheet2.py, make_covers_book3.py and v8_patch.py. Existing bak/ and junk/ were excluded and never read.
+- D: reports 21 book-scoped status paths against the older shared-checkout index. It contains no newer or unique Book 3 content.
+- Created local-only standalone pilot at D:\Offload\.codex\worktrees\split-pilot-scally-hill-socks-v10-20261017, commit 87844d5. It contains the 152 active files from current main plus a local .gitignore and notes/SEPARATION_AUDIT.md, is clean, and has no remote.
+- No build, preview, picture review or editorial QA was run. The KDP checklist still requires teacher, doctor and wildlife review of science and safety before upload. The shared D: checkout was not changed.
