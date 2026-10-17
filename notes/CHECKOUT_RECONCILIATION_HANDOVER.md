@@ -449,3 +449,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - SHA-256 comparison confirms all three files match the tracked copies in the local standalone pilot at `D:\Offload\.codex\worktrees\split-pilot-giving-birth-ivy-league-20261017` (snapshot commit `18e7e995`, sourced from monorepo commit `f930c861`). The pilot is clean and has no remote.
 - The original REV04 change was already merged by PR #217 on 2026-10-16 (source commit `fc502e6`). The D: copies add no unique book changes. No files were copied, committed, or changed in the shared checkout or existing REV04 worktree during this audit.
 - Result: the title is ready as a local standalone snapshot; private remote creation remains deferred until collection-wide source and pending work are reconciled.
+
+## 2026-10-17 - Limericks and Nonsense Rhymes local split checkpoint
+
+- The current package is REV02: the v2 Markdown manuscript, REV02 EPUB upload candidate, REV02 DOCX fallback, metadata, build script, illustrations, archive-screening note, and current-main handover.
+- The shared D: book folder contains 17 source/build/art files; SHA-256 comparison found all 17 byte-identical to current main. Current main tracks one additional notes/HANDOVER.md absent from the older shared checkout. The D: untracked files reflect its older base; no unique book edit was found. Two untracked Poetry-root files outside this book were excluded and left untouched.
+- PR #216 (the Limericks update) and PR #215 (a different poetry title) are already merged. The standalone local pilot at D:\Offload\.codex\worktrees\split-pilot-limericks-nonsense-20261017 contains all 18 current-main book files, is clean, has no remote, and was snapshotted from b57991ff as fa6e785.
+- The book bak folder was excluded from inventory and was not opened or copied. External review, classic-source verification, document rendering, Kindle Previewer inspection, and KDP disclosure remain open before publication.
+- Result: the book has a verified local standalone snapshot and no unique shared-checkout content to merge. Private remote creation remains deferred until collection-wide source and pending work are reconciled.
