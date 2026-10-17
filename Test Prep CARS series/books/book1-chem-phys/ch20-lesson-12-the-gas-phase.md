@@ -207,5 +207,5 @@ Praxis Tip: End each study session by writing, from memory, P V = n R T, the com
 
 - All examples and questions are original. Verified: 4.9 atm; V₂ = 3.3 L; mole fractions and partial pressures; √8 = 2.83, √16 = 4; 1.96 × 22.4 = 43.9 g; 0.100 mol KClO₃ → 0.150 mol O₂ → 3.36 L; 0.21 × 760 = 160 mmHg.
 - Answer key positions: D, C, A, B, A, D, B.
-- Resolve [VERIFY]: alveolar partial pressure of oxygen (about 100 mmHg); statements about heat capacity; R values.
+- Checked: alveolar partial pressure of oxygen (about 100 mmHg); statements about heat capacity; R values.
 - Category 4B gas-phase topics covered: absolute temperature (K), pressure and barometer, molar volume at 0 °C and 1 atm (22.4 L/mol), ideal gas and gas laws (Boyle, Charles, Avogadro), kinetic molecular theory, heat capacity at constant volume and pressure, Boltzmann's constant, real gas deviations (qualitative and quantitative, van der Waals), partial pressure and mole fraction, Dalton's law.

@@ -2,9 +2,9 @@
 
 **Timing and conditions**
 
-This is the second half of the first full-length exam for the Chemical and Physical Foundations section: 30 original questions, five passages (Questions 1 to 22) followed by eight independent questions (Questions 23 to 30). Allow 48 minutes, about 1.6 minutes per question, in one sitting. Use scratch paper only: no notes and no calculator. A periodic table may be consulted from the Appendix "Formula, Constant and Fact Sheet", but nothing else on that sheet is allowed until you review (on test day the real exam supplies a periodic table on screen). Use g = 10 m/s² unless a passage says otherwise.
+This is the second half of the first full-length exam for the Chemical and Physical Foundations section: 29 original questions, five passages (Questions 1 to 22) followed by seven independent questions (Questions 23 to 29). Allow 47 minutes, about 1.6 minutes per question, in one sitting. Use scratch paper only: no notes and no calculator. A periodic table may be consulted from the Appendix "Formula, Constant and Fact Sheet", but nothing else on that sheet is allowed until you review (on test day the real exam supplies a periodic table on screen). Use g = 10 m/s² unless a passage says otherwise.
 
-Write your answer letters, with a confidence level (high, medium or low) for each, on scratch paper or in your notebook; an ebook cannot be written in. Check only when you have finished all 30.
+Write your answer letters, with a confidence level (high, medium or low) for each, on scratch paper or in your notebook; an ebook cannot be written in. Check only when you have finished all 29.
 
 Praxis Tip: Start the clock before you read the first passage, and note the time at Question 10 (target: about 16 minutes), at Question 20 (target: about 32 minutes) and at the end. A practice exam without a clock is a rehearsal for a different exam.
 
@@ -211,9 +211,9 @@ A mass spectrum of the freshly prepared mixture shows two molecular-ion peaks, a
    C. 36 : 1
    D. 9 : 1
 
-**Questions 23-30**
+**Questions 23-29**
 
-These eight questions are independent of the passages.
+These seven questions are independent of the passages.
 
 23. A ball is kicked from level ground at 20 m/s at an angle of 30° above the horizontal. Ignoring air resistance, its maximum height above the ground is
    A. 10 m
@@ -257,12 +257,6 @@ These eight questions are independent of the passages.
    C. 2-butanone (a ketone)
    D. 2-methyl-2-propanol
 
-30. A sample of double-stranded DNA is found to be 30% adenine by number of bases. What is the percentage of guanine?
-   A. 30%
-   B. 40%
-   C. 70%
-   D. 20%
-
 ---
 
 **Stop here.** Finish every question and write down your answers (on scratch paper) before you continue to the explanations.
@@ -298,18 +292,17 @@ These eight questions are independent of the passages.
 27. **B.** If heat is a reactant, raising the temperature shifts the equilibrium toward the products (Le Chatelier), producing more brown NO₂. The other observations are either the opposite of that expectation or are changes that do not shift the equilibrium. [4B · Skill 3] (A cooling would favor the exothermic direction, which would make the color lighter if the forward reaction were endothermic; C a catalyst changes the rate but not the equilibrium composition; D argon at constant volume does not change the concentrations or the equilibrium.)
 28. **A.** ΔG = ΔH − TΔS = 30 kJ/mol − (400 K)(0.100 kJ/(mol·K)) = 30 − 40 = −10 kJ/mol. Convert ΔS to kJ first. The reaction is spontaneous above 300 K, where TΔS exceeds ΔH. [5E · Skill 2] (B reverses the order of the terms and finds TΔS − ΔH; C uses −TΔS alone and ignores ΔH; D adds ΔH to TΔS instead of subtracting.)
 29. **D.** The nucleophilic CH₃ group of the Grignard reagent adds to the electrophilic carbonyl carbon, giving a magnesium alkoxide. Protonation by the acid gives the tertiary alcohol (CH₃)₃COH, 2-methyl-2-propanol. [5D · Skill 1] (A the Grignard reagent adds a carbon group; it is not a hydride donor; B the carbon group adds to the carbonyl carbon, not at the end of the chain; C no oxidation takes place, and the carbonyl carbon is not retained as a carbonyl.)
-30. **D.** In double-stranded DNA, A pairs with T and G with C, so %A = %T = 30% and the remaining 40% is split equally between G and C: %G = 20%. [5D · Skill 2] (A assumes guanine pairs with adenine and matches its amount; B gives the combined G + C content; C subtracts the adenine percentage from 100.)
 
 **Score and review**
 
 Count your correct answers and compare with your confidence notes. Then log every miss in your error log ([Strategy: The Question Method](chapter:4)) with a cause (content gap, misread, rushed, trap choice, calculation slip), the lesson number and the category tag shown in brackets. Pay particular attention to misses made with high confidence; those are false beliefs and cost the most.
 
-How to read your result out of 30:
+How to read your result out of 29:
 
-- **27 to 30 correct:** you are working at a strong level. Keep practicing under timed conditions and chase the remaining misses.
-- **22 to 26 correct:** solid, with a few gaps. Redo the misses cold in three days and review the lessons below.
-- **17 to 21 correct:** go back to the lessons matching your misses, then retake the questions you missed after a week.
-- **16 or fewer:** spend a week on the lessons that match your misses before you take another full-length section.
+- **26 to 29 correct:** you are working at a strong level. Keep practicing under timed conditions and chase the remaining misses.
+- **21 to 25 correct:** solid, with a few gaps. Redo the misses cold in three days and review the lessons below.
+- **16 to 20 correct:** go back to the lessons matching your misses, then retake the questions you missed after a week.
+- **15 or fewer:** spend a week on the lessons that match your misses before you take another full-length section.
 
 Where to go for each miss:
 
@@ -319,11 +312,11 @@ Where to go for each miss:
 - Questions 14 to 17: [Lesson 15](chapter:24), kinetics.
 - Questions 18 to 22: [Lesson 8](chapter:15), nuclear decay, plus [Lesson 21](chapter:31) for mass spectrometry (Questions 21, 22).
 - Question 23: [Lesson 1](chapter:7). Question 24: [Lesson 5](chapter:12). Question 25: [Lesson 6](chapter:13). Question 26: [Lesson 11](chapter:19).
-- Question 27: [Lesson 15](chapter:24). Question 28: [Lesson 14](chapter:23). Question 29: [Lesson 19](chapter:29). Question 30: [Lesson 25](chapter:36).
+- Question 27: [Lesson 15](chapter:24). Question 28: [Lesson 14](chapter:23). Question 29: [Lesson 19](chapter:29).
 
 Praxis Tip: Keep your error log honest: one line per miss, with the cause in a single word. After two exams the pattern is usually obvious and a little embarrassing, which is exactly what makes it useful.
 
-Praxis Tip: Check your timing notes. You aimed to reach Question 10 by about 16 minutes, Question 20 by about 32 minutes, and to finish at 48. If you were behind at Question 10, you were probably over-investing in a passage; if you finished early, you probably skimmed too fast on a few.
+Praxis Tip: Check your timing notes. You aimed to reach Question 10 by about 16 minutes, Question 20 by about 32 minutes, and to finish at 47. If you were behind at Question 10, you were probably over-investing in a passage; if you finished early, you probably skimmed too fast on a few.
 
 Praxis Tip: Flag and move. Any question that has taken more than about two minutes gets a guess, a flag, and a fresh start on the next one. The flagged question will look easier on the second visit, and the points you free up for later questions are worth the same.
 
@@ -335,8 +328,8 @@ For the full routine on turning an exam into a study plan, read "Strategy: Revie
 
 **Author verification note (remove before publishing)**
 
-- Verified numeric answers (all computed and asserted in gen/exam1b.py): 1 magnification −5; 2 f = 20 cm; 3 P = −2.0 D; 6 E = 0.98 V; 7 mass 3.2 g (9,650 C, 0.100 mol e⁻, 0.050 mol Cu); 8 n = 2 (slope 0.059/2 ≈ 0.03 V/decade); 14 rate = k[A][B]²; 15 k = 2.0 M⁻² s⁻¹; 16 Eₐ ≈ 125 kJ/mol (slope −15,000 K × 8.3); 18 t½ = 8 d; 21 10%; 22 36 : 1 (90 : 2.5); 23 5 m; 24 0.10 m; 25 300 Hz (closed-pipe fundamental 100 Hz); 28 ΔG = −10 kJ/mol; 30 G = 20%.
+- Verified numeric answers (all computed and asserted in gen/exam1b.py): 1 magnification −5; 2 f = 20 cm; 3 P = −2.0 D; 6 E = 0.98 V; 7 mass 3.2 g (9,650 C, 0.100 mol e⁻, 0.050 mol Cu); 8 n = 2 (slope 0.059/2 ≈ 0.03 V/decade); 14 rate = k[A][B]²; 15 k = 2.0 M⁻² s⁻¹; 16 Eₐ ≈ 125 kJ/mol (slope −15,000 K × 8.3); 18 t½ = 8 d; 21 10%; 22 36 : 1 (90 : 2.5); 23 5 m; 24 0.10 m; 25 300 Hz (closed-pipe fundamental 100 Hz); 28 ΔG = −10 kJ/mol.
 - Passage 2 table values are rounded from the Nernst equation with 0.059 V/n; all were checked within rounding.
 - Skill mix: Skill 3 on Questions 4, 9, 12, 19, 27; Skill 4 on Questions 1, 8, 10, 14, 16, 18, 21.
-- Answer key positions: B, C, D, B, C, B, B, C, A, A, C, C, B, B, A, D, B, D, A, D, A, C, C, D, A, A, B, A, D, D
+- Answer key positions: B, C, D, B, C, B, B, C, A, A, C, C, B, B, A, D, B, D, A, D, A, C, C, D, A, A, B, A, D
 - All passages and questions are original, with invented data; no copyrighted exam content was used.

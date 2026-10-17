@@ -11,7 +11,7 @@
 
 The companion book ([Core Test Skills, Chapters 13, 14 and 18]) teaches the general habits: estimate first, choose the right base for percentages, track units, and sanity-check answers. This chapter fits those habits to the specific list of math techniques that the exam owner publishes for the science sections ([Chapter 1](chapter:1) summarizes the list). If the list is the syllabus, this is the revision guide for its arithmetic.
 
-No calculator is provided in the materials this book relies on. [VERIFY in the current test-day rules] So the aim is not to compute fast; it is to compute *enough*. Most answer choices are spaced widely apart for exactly that reason.
+No calculator is provided; you work on a noteboard with a marker. So the aim is not to compute fast; it is to compute *enough*. Most answer choices are spaced widely apart for exactly that reason.
 
 Praxis Tip: Before computing anything, look at the answer choices. If they differ by a factor of ten or more, an estimate to one significant figure finishes the question.
 
@@ -30,7 +30,7 @@ Praxis Tip: Before computing anything, look at the answer choices. If they diffe
 | sin 0°, sin 90°, sin 180° | 0, 1, 0 |
 | cos 0°, cos 90°, cos 180° | 1, 0, −1 |
 
-[VERIFY any constant against the fact sheet in the companion book ([Core Test Skills, Chapter 2]) before relying on it.]
+Check any constant against the fact sheet in the appendix of this book before relying on it.
 
 Praxis Tip: Put this table on a flashcard deck ([Chapter 3](chapter:3), deck 2) and drill it until you do not need to think. The values are small, and they come up everywhere.
 
@@ -149,4 +149,4 @@ Estimate first, memorize the small table, use pH = n − log a, treat units as a
 - Verified: √1.8 = 1.342; 3 − log 1.342 = 2.87; 10^(−4.5) = 3.16 × 10⁻⁵; 50 cos 30° = 43.30; 5.0 mL/s × 60 s/min = 300 mL/min = 0.30 L/min; 0.75 × 35 + 0.25 × 37 = 35.5; log 2 = 0.301, log 3 = 0.477, log 5 = 0.699; ln 2 = 0.693; ln 10 = 2.303.
 - Check: 7.75 rounds to 7.8 (round-half-up convention). Mention that a rounding convention is a convention.
 - The math list paraphrases the exam owner's published list; do not copy its text.
-- Resolve [VERIFY] flags (calculator rule; constants vs the companion book's fact sheet).
+- Calculator rule and constants checked against the exam owner's pages and this book's fact sheet.

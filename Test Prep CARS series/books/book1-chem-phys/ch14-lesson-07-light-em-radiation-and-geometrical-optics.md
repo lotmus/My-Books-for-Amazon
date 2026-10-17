@@ -241,5 +241,5 @@ Praxis Tip: End each study session by writing, from memory, c = f λ, E = h f, n
 
 - All examples and questions are original. Verified: f = 6.0 × 10¹⁴ Hz; E = 2.5 eV; θ₂ = 19.5°; v = 2.0 × 10⁸ m/s; λ = 333 nm; θ_c = 41.8°; q = 60 cm and m = −2.0; q = −20 cm and m = +2.0; P = −2.0 D; Δy = 3.0 mm; I₀/8.
 - Answer key positions: B, C, A, D, C, A, B.
-- [VERIFY] on the optical power of the eye (about 60 diopters) resolved (standard physiology).
+- The optical power of the eye (about 60 diopters) was checked (standard physiology).
 - Category 4D optics topics covered: electromagnetic radiation properties and spectrum, photon energy, visual spectrum and color, interference, double slit, diffraction, polarization, reflection, refraction and Snell's law, dispersion, total internal reflection, spherical mirrors, thin lenses, lens strength, optical instruments and the eye. Spectroscopy is in Lesson 21.

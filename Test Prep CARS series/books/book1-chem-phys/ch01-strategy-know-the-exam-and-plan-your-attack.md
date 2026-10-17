@@ -33,7 +33,7 @@ The following facts were checked against the exam owner's published pages when t
 | Unscored items | Some questions are field-test items that do not count toward your score |
 | Provided resource | A periodic table is available on screen during the section |
 | Calculus | Not required |
-| Calculator | No calculator is provided in the material this book relies on. [VERIFY in the current test-day rules] |
+| Calculator | No calculator is provided. The test center gives you a noteboard booklet and a marker for calculations. |
 
 Two consequences follow at once. First, since a wrong answer costs nothing extra, you never leave a question blank (see [Core Test Skills, Chapter 12]). Second, a score of 125 on this section is a statement about your performance on this section, not a prediction of anything else; the total is the sum of four.
 
@@ -47,7 +47,7 @@ Ten passage sets of 4 to 6 questions plus 15 independent questions makes 59. If 
 
 The section is built on two "foundational concepts," each with five content categories.
 
-*Foundational Concept 4 (about 40 percent of the questions [VERIFY: exam owner's current category weightings]).* Living organisms transport materials, sense their environment, process signals and respond, using processes that physics describes. The five categories:
+*Foundational Concept 4 (about 40 percent of the questions).* Living organisms transport materials, sense their environment, process signals and respond, using processes that physics describes. The five categories:
 
 - 4A: translational motion, forces, work, energy and equilibrium in living systems
 - 4B: fluids for circulation of blood, gas movement and gas exchange
@@ -125,7 +125,7 @@ Use the official numbers: 59 questions, 95 minutes. Reserve 5 minutes at the end
 - Time per question: 90 ÷ 59 ≈ 1.525 minutes, about 1 minute 31 seconds.
 - Checkpoints (elapsed minutes at the end of question n): n = 15 → 22.9; n = 30 → 45.8; n = 45 → 68.6; n = 59 → 90.
 
-(If you use the whole 95 minutes with no reserve, as [Strategy: Test-Day Plan, Pacing and Stress](chapter:38) does, the checkpoints become 24, 48, 72 and 95. Both are the same method with different assumptions.)
+([Strategy: Test-Day Plan, Pacing and Stress](chapter:38) uses the same plan: 90 working minutes and a 5-minute reserve. Without a reserve the checkpoints would be 24, 48, 72 and 95.)
 
 (Check: 1.5254 × 15 = 22.88; × 30 = 45.76; × 45 = 68.64; × 59 = 90.)
 
@@ -156,7 +156,7 @@ Praxis Tip: Tag every practice question you do with a category (4A to 5E). After
 
 Praxis Tip: Read the official content outline for each lesson as you reach it. It is a topic checklist, written by the people who write the exam, and it is free.
 
-Praxis Tip: Familiarize yourself with the exam's on-screen tools (highlighting, strikethrough, flagging) by using the exam owner's free practice-tool page, and practice with them before test day. Fumbling with the interface costs time you cannot spare. [VERIFY current tools]
+Praxis Tip: Familiarize yourself with the exam's on-screen tools (highlighting, strikethrough, flagging) by using the exam owner's free tutorial and practice tools, and practice with them before test day. Fumbling with the interface costs time you cannot spare.
 
 Praxis Tip: The section comes first. You walk in rested and nervous, which is the best and worst combination for the longest passage you will see all day. Practice starting a timed section cold, without a warm-up.
 
@@ -186,6 +186,6 @@ Fifty-nine questions in 95 minutes, 10 passage sets plus 15 independent question
 **Author verification note (remove before publishing)**
 
 - Source: exam owner's published "What's on the MCAT Exam?" page and the Chemical and Physical Foundations section guide (59 questions, 95 minutes, 10 passage sets of 4-6 plus 15 independent questions; section scale 118-132; total 472-528; no extra penalty for wrong answers; field-test items; discipline, foundational concept and skill percentages; math list). Record the URLs and the date checked in the Source and License Ledger. Do not reproduce the owner's text; this chapter paraphrases facts only.
-- Resolve [VERIFY] flags: current calculator rule; current on-screen tools; the break structure. A "Test Day" page lists a 10-minute break after the first section.
+- Checked against the exam owner's pages: 59 questions and 95 minutes; 10 passage sets of 4 to 6 questions plus 15 independent questions; periodic table on screen; no penalty for guessing; foundational concept weights of 40 and 60 percent; two 10-minute breaks and one 30-minute mid-exam break; noteboard and marker, no calculator. The exam software offers highlighting, strikethrough and flagging, as described in the owner's tutorial; record the date you checked.
 - Check arithmetic: 59 − 15 = 44; 44/10 = 4.4; shares 17.7, 14.75, 14.75, 8.85, 2.95; 90/59 = 1.5254; checkpoints 22.88, 45.76, 68.64, 90; skill counts 20.65, 26.55, 5.9, 5.9.
 - Cross-references in square brackets, "[Core Test Skills, Chapter N]", point to the companion book; replace with the final cross-reference convention before publishing.

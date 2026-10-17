@@ -2,11 +2,11 @@
 
 **Timing and conditions**
 
-This is the second half of Full-Length Exam 2: thirty original questions in the style of the Chemical and Physical Foundations section, made up of five passage sets (22 questions) followed by eight independent questions. Allow 48 minutes, which is about 1.6 minutes per question. Take it in one sitting, with scratch paper, no notes and no calculator. You may consult a periodic table from the Appendix "Formula, Constant and Fact Sheet", but nothing else on it; the real exam supplies a periodic table, and the constants list is for review only. Use g = 10 m/s² unless a passage says otherwise. Write your answer letters, with a confidence level (high, medium or low) for each, on scratch paper or in your notebook; an ebook cannot be written in. Check your answers only when you have finished.
+This is the second half of Full-Length Exam 2: twenty-nine original questions in the style of the Chemical and Physical Foundations section, made up of five passage sets (22 questions) followed by seven independent questions. Allow 47 minutes, which is about 1.6 minutes per question. Take it in one sitting, with scratch paper, no notes and no calculator. You may consult a periodic table from the Appendix "Formula, Constant and Fact Sheet", but nothing else on it; the real exam supplies a periodic table, and the constants list is for review only. Use g = 10 m/s² unless a passage says otherwise. Write your answer letters, with a confidence level (high, medium or low) for each, on scratch paper or in your notebook; an ebook cannot be written in. Check your answers only when you have finished.
 
 Praxis Tip: Start the clock before you read the first passage. A practice exam without a clock is a rehearsal for a different exam, and a pleasant one.
 
-Praxis Tip: Do the independent questions (23 to 30) when you reach them, but if you are running late at Question 22, skip ahead and take the quick ones first. They are worth exactly as much as the passage questions.
+Praxis Tip: Do the independent questions (23 to 29) when you reach them, but if you are running late at Question 22, skip ahead and take the quick ones first. They are worth exactly as much as the passage questions.
 
 Praxis Tip: On each passage, spend 30 seconds on the table or equation, not on the prose. Circle the units on your scratch paper and write the one relation you expect to use. Then read the questions.
 
@@ -217,7 +217,7 @@ Experiment 3: monochromatic light strikes a metal surface of work function 2.1 e
    C. Use 700 nm light at rising intensity and look for any photocurrent
    D. Use 400 nm light with the lamp moved twice as far away
 
-**Questions 23-30**
+**Questions 23-29**
 
 These eight questions are independent of the passages above and of each other.
 
@@ -271,12 +271,6 @@ The next question refers to initial-rate data for the reaction A + B → product
    C. 2-Methyl-1-propanol
    D. 2-Methyl-2-propanol
 
-30. A researcher suspects that compound I is a competitive inhibitor of an enzyme. Which experiment is the most direct test?
-   A. Measure the rate at one saturating [S], with and without I
-   B. Measure the product formed over time at one [S] without I
-   C. Measure the rate at several enzyme amounts with I at one [S]
-   D. Measure initial rates over a range of [S] with and without I; compare Km and Vmax
-
 ---
 
 **Stop here.** Finish every question and write down your answers (on scratch paper) before you continue to the explanations.
@@ -312,16 +306,15 @@ The next question refers to initial-rate data for the reaction A + B → product
 27. **A.** Because x is small compared with 0.10, Ka = x²/0.10, so x² = 1.0 × 10⁻⁶ and [H⁺] = 1.0 × 10⁻³ M. The pH is 3.0. The ionization is 1%, which justifies the approximation. [5A · Skill 2] (B treats the acid as completely ionized; C sets pH equal to pKa; D uses Ka × C as [H⁺] without the square root.)
 28. **C.** Experiments 1 and 2: doubling [A] doubles the rate, so the reaction is first order in A. Experiments 2 and 3: doubling [B] increases the rate by a factor of 4, so it is second order in B. Rate = k[A][B]², with k = 2.0 M⁻²s⁻¹. [5E · Skill 4] (A treats B as first order, but doubling [B] raised the rate fourfold; B assigns the orders to the wrong reactants; D assumes the same order for A as for B.)
 29. **D.** Oxidation requires a hydrogen on the carbinol carbon. 2-Methyl-2-propanol is tertiary and has none, so it is not oxidized. Primary alcohols go to carboxylic acids with dichromate, and secondary alcohols go to ketones. [5D · Skill 1] (A is oxidized to butanoic acid; B is oxidized to 2-butanone; C is oxidized to 2-methylpropanoic acid.)
-30. **D.** A competitive inhibitor raises the apparent Km and leaves Vmax unchanged. This is seen only by varying [S] with and without the inhibitor, typically in a double-reciprocal plot in which the lines cross on the 1/v axis. At very high [S] the inhibitor is outcompeted. [5E · Skill 3] (A competitive inhibition is overcome at saturating substrate, so no effect would be seen; B has no inhibitor, so it cannot show inhibition; C does not vary substrate, which is what separates inhibition types.)
 
 **Score and review**
 
-Count your correct answers out of 30.
+Count your correct answers out of 29.
 
-- **27 to 30:** excellent. Review only the misses, and any answer you gave with low confidence even if it was right.
-- **22 to 26:** solid. Sort your misses by topic using the map below and redo each one cold in three days.
-- **17 to 21:** the main ideas are there, but there are gaps. Reread the lessons for your two weakest topics, then redo this exam's misses.
-- **16 or fewer:** go back to the lessons in the map for every topic you missed, and retake the whole of Part B after a week.
+- **26 to 29:** excellent. Review only the misses, and any answer you gave with low confidence even if it was right.
+- **21 to 25:** solid. Sort your misses by topic using the map below and redo each one cold in three days.
+- **16 to 20:** the main ideas are there, but there are gaps. Reread the lessons for your two weakest topics, then redo this exam's misses.
+- **15 or fewer:** go back to the lessons in the map for every topic you missed, and retake the whole of Part B after a week.
 
 Where to go for each miss (lesson numbers refer to Book 1):
 
@@ -331,7 +324,7 @@ Where to go for each miss (lesson numbers refer to Book 1):
 - Questions 14 to 17 (periodic trends, intermolecular forces, boiling points): Lessons 9 and 11.
 - Questions 18 to 22 (Bohr levels, Beer-Lambert law, photoelectric effect): Lessons 9 and 7; Question 20 also uses Lesson 21 (spectroscopy).
 - Question 23: Lesson 1. Question 24: Lesson 2. Question 25: Lesson 3. Question 26: Lesson 4.
-- Question 27: Lesson 16. Question 28: Lesson 15. Question 29: Lesson 19. Question 30: Lesson 24.
+- Question 27: Lesson 16. Question 28: Lesson 15. Question 29: Lesson 19.
 
 Praxis Tip: Keep an error log. For every miss write the question number, the cause (content gap, misread, rushed, trap choice or calculation slip), the lesson, and the one sentence that would have fixed it.
 
@@ -347,6 +340,6 @@ Praxis Tip: Before you move on, read the chapter "Strategy: Reviewing a Practice
 
 - All passages and questions are original, with invented numbers. Verified numeric answers: ΔH = −60 kJ/mol; ΔS = −100 J/mol·K; crossover T = 600 K; ΔG(T) slope = +0.100 kJ/mol·K; coupled ΔG°′ = −16 kJ/mol; E = 5.0 × 10⁴ V/m; v(P⁺) = 1.0 × 10⁵ m/s and r = 0.20 m (d = 0.40 m); Q⁺ d = 0.60 m; R⁺ = 80 u; doubled B gives d = 0.20 m; Rf values 0.20, 0.40, 0.90; n = 3 to 2 photon 1.89 eV, 656 nm; ε = 1.5 × 10⁴ M⁻¹cm⁻¹; T = 50%; KEmax = 1.0 eV; 700 nm photon = 1.77 eV; discrete answers: 20 s, 25 N, 300 W, 3.0 × 10⁵ Pa, pH 3.0, rate = k[A][B]² with k = 2.0 M⁻²s⁻¹.
 - Boiling points in Passage 4 are rounded approximations of literature values; the 1240 eV·nm and 13.6 eV values are the usual rounded constants.
-- Answer key positions: C, D, C, B, D, A, A, B, D, A, C, B, A, C, C, B, A, B, A, B, D, C, B, B, A, D, A, C, D, D.
-- Skill counts: Skill 3 on Questions 9, 13, 17, 22 and 30; Skill 4 on Questions 3, 7, 11, 15, 19 and 28.
+- Answer key positions: C, D, C, B, D, A, A, B, D, A, C, B, A, C, C, B, A, B, A, B, D, C, B, B, A, D, A, C, D.
+- Skill counts: Skill 3 on Questions 9, 13, 17 and 22; Skill 4 on Questions 3, 7, 11, 15, 19 and 28.
 - Score bands and timing are suggestions, not predictions of exam performance.

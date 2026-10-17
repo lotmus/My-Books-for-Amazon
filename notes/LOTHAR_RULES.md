@@ -43,6 +43,7 @@ Repo root on the PC: `D:\My Books for Amazon`. Git directory: `C:\Users\lomus\gi
 - Do not commit `bak\` snapshots, audit scripts, or `relativistic-site\`.
 - **`bak\` belongs to the book, never to a common folder.** Every book (or series volume) keeps its own old versions, backups, patch scripts, QA extracts and retired temp worktrees in its own `bak\`, next to its master file. For a series folder, use the volume's `bak\`; use the series-level `bak\` only for material that belongs to no single volume. Do not create or use `D:\bak` or `D:\My Books for Amazon\bak`. Name subfolders by date and reason, for example `2026-10-11 pre-cover\`.
 - If you find a per-book file in a common `bak\` (for example `D:\My Books for Amazon\bak`), move it into that book's own `bak\`. Never delete it.
+- **Formats: docx only until the final version.** For every book, build and share only the Word (.docx) file while the book is a draft or under review. Build the EPUB only for the final version, when the book is ready to upload. Do not leave draft EPUBs lying around; move any that exist into that book's `bak\`.
 - Stay inside the book folder you were asked to work on. If something outside it looks worth touching, say so and wait to be asked.
 - If a book's own note disagrees with `notes/HANDOVER.md`, the book's note wins inside that book. If a manuscript file disagrees with a status log, the manuscript wins.
 - Run `git status` from `D:\My Books for Amazon`, not from a book folder.

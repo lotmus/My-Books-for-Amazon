@@ -58,12 +58,12 @@ Suppose after Exam 1 your counts are:
 
 | Topic | Questions | Missed |
 |---|---|---|
-| Physics (Lessons 1-8) | 20 | 8 |
+| Physics (Lessons 1-8) | 19 | 8 |
 | General chemistry (9-17) | 24 | 6 |
 | Organic chemistry (18-22) | 10 | 3 |
 | Biochemistry (23-25) | 6 | 2 |
 
-Misses by topic: physics 8/20 = 40%; general chemistry 6/24 = 25%; organic chemistry 3/10 = 30%; biochemistry 2/6 = 33%. The total is 19 misses out of 60 questions, so 41 correct. Physics is the weakest area both in the count (8 of 19 misses, about 42%) and in the rate. Say the causes for the 8 physics misses were three calculation slips, three content gaps (two on circuits, one on Doppler), and two misreads. Two actions follow: (1) re-read Lesson 5 and Lesson 6, then redo the Practice: Physics Mixed Set cold; (2) before every calculation on the next exam, write the units and a rough estimate, to cut the slips.
+Misses by topic: physics 8/19 = 42%; general chemistry 6/24 = 25%; organic chemistry 3/10 = 30%; biochemistry 2/6 = 33%. The total is 19 misses out of 59 questions, so 40 correct. Physics is the weakest area both in the count (8 of 19 misses, about 42%) and in the rate. Say the causes for the 8 physics misses were three calculation slips, three content gaps (two on circuits, one on Doppler), and two misreads. Two actions follow: (1) re-read Lesson 5 and Lesson 6, then redo the Practice: Physics Mixed Set cold; (2) before every calculation on the next exam, write the units and a rough estimate, to cut the slips.
 
 Notice what you do *not* conclude. You do not conclude "I am bad at physics." You conclude "two topics and one habit."
 

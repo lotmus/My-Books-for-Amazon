@@ -244,5 +244,5 @@ Praxis Tip: End each study session by writing, from memory, Coulomb's law, V = I
 
 - All examples and questions are original. Verified: Coulomb force 0.60 N and 0.15 N; E = 5,000 V/m; electron speed 5.9 × 10⁶ m/s; circuit: 6.0 Ω total, 2.0 A, 8.0 V, 4.0 V, 0.67 and 1.33 A, 24 W; capacitor: 24 μC, 144 μJ, 1.5 μF, 8.0 μF; proton radius 4.2 cm and force 1.6 × 10⁻¹³ N.
 - Answer key positions: A, C, B, D, A, C, D.
-- [VERIFY] on the myelin description resolved (standard physiology).
+- The myelin description was checked (standard physiology).
 - Category 4C topics covered: electrostatics, Coulomb's law, field, potential, circuit elements (current, EMF, resistance, Ohm's law, series and parallel, resistivity), capacitance (series, parallel, energy, dielectrics), conductivity, meters, magnetism (Lorentz force), and the nerve-cell tie-in. Electrochemistry is in Lesson 17.

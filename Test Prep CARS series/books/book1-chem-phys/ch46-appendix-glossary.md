@@ -816,6 +816,8 @@ Praxis Tip: Treat every sign convention as a term to define on your scratch pape
 
 **Zymogen** — An inactive enzyme precursor activated by cleavage, such as pepsinogen. (Lesson 24)
 
+---
+
 **Author verification note (remove before publishing)**
 
 - All definitions are original wording written for this book and were not copied from any commercial glossary.

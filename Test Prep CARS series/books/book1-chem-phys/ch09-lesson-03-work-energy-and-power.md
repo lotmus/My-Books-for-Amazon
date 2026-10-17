@@ -78,7 +78,7 @@ Praxis Tip: Hold on to P = F v. It lets you move from force to power without goi
 
 so the mechanical advantage MA = F_out / F_in = d_in / d_out. Real machines lose some work to friction, so the real MA is less than the ideal. No machine multiplies work; it only trades force for distance.
 
-**A short note on momentum (optional).** Linear momentum p = m v, and a net force changes it according to F Δt = Δp (the impulse). In a collision with no external forces, total momentum is conserved. This book's reading of the exam owner's published content list for this category does not show momentum as a named topic, so treat it as a short extra: useful for recoil and collision questions, but not a priority. [VERIFY against the current outline]
+**A short note on momentum (optional).** Linear momentum p = m v, and a net force changes it according to F Δt = Δp (the impulse). In a collision with no external forces, total momentum is conserved. The exam owner's published content list for this category does not name momentum as a topic, so treat it as a short extra: useful for recoil and collision questions, but not a priority.
 
 **Worked Example 1: Work by an angled force (skill: the cosine)**
 

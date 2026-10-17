@@ -1,7 +1,7 @@
 # Book 1 Outline: Chemical and Physical Foundations (MCAT series)
 
 **Series author:** U. B. Smart  
-**Genre in Book Writer:** Exam Prep Course  **Chapters:** 46 (v2)  **Status:** Chapters 1-9, 11-15, 17-21, 23-26, 28-32, 34-36 drafted (6 strategy chapters and all 25 lessons); practice sets (10, 16, 22, 27, 33, 37), exam sections (39-43), wrappers (38, 41) and appendices (44-46) still to do. See `books/book1-chem-phys/`.
+**Genre in Book Writer:** Exam Prep Course  **Chapters:** 46 (v2)  **Status:** All 46 chapters are drafted (6 strategy chapters, 25 lessons, 6 practice sets, 2 full-length exams of two parts each, and 3 appendices). Two full-length exams: Part A has 30 questions in 48 minutes and Part B has 29 in 47, so each exam has 59 questions (10 passage sets plus 15 independent questions) in 95 minutes. The formula appendix includes a selected periodic table. Format facts were checked against the exam owner's pages on 16 October 2026; re-check before each edition. Until the final version, build only the .docx (`tools/ebook/build_docx.py`); build the EPUB only for the final version. See `books/book1-chem-phys/`.
 **Covers:** the exam's Chemical and Physical Foundations of Biological Systems section (general chemistry, physics, organic chemistry, and the biochemistry that section draws on).
 
 Before drafting, re-check the exam owner's *current* free content outline and format page. Confirm section length, question counts and timing, and adjust topics to match. Do not copy any prep book's table of contents. The order below is my own dependency-based sequence.

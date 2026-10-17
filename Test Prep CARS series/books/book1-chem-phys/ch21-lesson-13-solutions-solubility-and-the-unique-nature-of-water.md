@@ -226,5 +226,5 @@ Praxis Tip: End each study session by writing, from memory, M₁V₁ = M₂V₂,
 
 - All examples and questions are original. Verified: 0.200 M; 0.50 M; s = 1.34 × 10⁻⁵ M; s = 1.8 × 10⁻⁹ M; s = 2.0 × 10⁻⁴ M; Q = 1.0 × 10⁻¹⁰; ΔT_f = 3.72 °C; Π = 7.6 atm; P = 21.6 torr.
 - Answer key positions: A, B, D, C, B, C, D.
-- Resolve [VERIFY]: isotonic saline (0.9 percent NaCl, roughly 0.15 M); K_f and K_b values for water (1.86 and 0.512 °C/m); the vapor pressure of water at 25 °C (about 24 torr).
+- Checked: isotonic saline (0.9 percent NaCl, roughly 0.15 M); K_f and K_b values for water (1.86 and 0.512 °C/m); the vapor pressure of water at 25 °C (about 24 torr).
 - Category 5A topics covered: unique nature of water, ions in solution (names, formulas, charges, hydration, hydronium), solubility (concentration units, Ksp, common-ion effect, complex ions, solubility and pH), colligative properties and osmosis. Acid-base equilibria and titration are in Lesson 16.

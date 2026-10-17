@@ -212,5 +212,5 @@ Praxis Tip: End each study session by writing, from memory, the five decay types
 
 - All examples and questions are original. Verified: ²³⁸U → ²³⁴Th + α; ¹⁴C → ¹⁴N; 80/8 = 10 mg and 80 × 2^(−1.5) = 28.3 mg; λ = 3.2 × 10⁻⁵ s⁻¹, A = 3.2 × 10⁷ Bq; 11,460 and 17,190 years; Δm = 0.030378 u, 28.3 MeV, 7.07 MeV per nucleon; √(37/35) = 1.028.
 - Answer key positions: D, A, C, B, A, D, C.
-- [VERIFY] tags resolved (standard facts): carbon-14 half-life about 5,730 years; technetium-99m half-life about 6 hours; PET 511 keV photons. Binding energy per nucleon peaks near iron.
+- Standard facts checked: carbon-14 half-life about 5,730 years; technetium-99m half-life about 6 hours; PET 511 keV photons. Binding energy per nucleon peaks near iron.
 - Category 4E atomic nucleus topics covered: atomic number and weight, neutrons, protons, isotopes, nuclear forces, binding energy, radioactive decay (α, β, γ), half-life, exponential decay and semilog plots, and the mass spectrometer. Mass spectroscopy of molecules is in Lesson 21.

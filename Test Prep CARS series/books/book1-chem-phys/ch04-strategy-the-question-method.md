@@ -30,7 +30,7 @@ Spend one to two minutes on a typical passage. You are building a map, not memor
 4. **Data:** read the table or graph labels: axes, units, scales (linear or log).
 5. **Surprises:** a sentence beginning "however," a footnote about conditions, an odd result. These are where the questions hide.
 
-Highlight sparingly. A passage that is half highlighted has told you nothing. Use highlighting for numbers, units and defined terms, if the interface offers it. [VERIFY current on-screen tools]
+Highlight sparingly. A passage that is half highlighted has told you nothing. Use highlighting for numbers, units and defined terms, if the interface offers it.
 
 Praxis Tip: Write the passage's equation on your scratch page in your own symbols before you start the questions. Hunting back for it five times costs more than writing it once.
 
@@ -145,4 +145,4 @@ Read, predict, eliminate, verify. Read passages for variables, equations and sur
 - The Stokes-type formula (2/9)(ρ_s − ρ_f)g r²/η is the standard terminal speed for small spheres at low Reynolds number; a reviewer should confirm the wording "small spheres at low speed" is adequate.
 - Answer key positions in this chapter: B, D, A, C (one per letter after A-D rotation).
 - The three-pass minute allocations (60-65, 20-25, 5) are heuristics. They sum to 85-95; adjust before release.
-- Resolve [VERIFY] about on-screen tools.
+- On-screen tools: highlighting, strikethrough and flagging, as described in the exam owner's tutorial; confirm on the date you check.

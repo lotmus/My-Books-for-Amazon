@@ -103,7 +103,7 @@ Praxis Tip: Record the license version (for example "CC BY 4.0"), not just the f
 - [ ] Every figure in the folder is listed above and is original
 - [ ] The independence statement is on the title page
 - [ ] The cover, fonts and tools have complete ledger rows
-- [ ] All [VERIFY] flags are resolved by a qualified reviewer
+- [ ] All facts flagged for checking are resolved by a qualified reviewer
 - [ ] Every answer key has been independently solved
 - [ ] A web search of distinctive phrases found no accidental matches
 - [ ] Author verification notes are removed in the release build

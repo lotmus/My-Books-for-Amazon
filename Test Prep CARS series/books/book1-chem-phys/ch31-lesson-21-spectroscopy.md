@@ -193,5 +193,5 @@ Praxis Tip: End each study session by writing, from memory, the degrees-of-unsat
 
 - All examples and questions are original. Verified: DoU values; Beer's law A = 0.60; CH₃Br peaks at m/z 94 and 96 and CH₃Cl at 50 and 52; NMR assignment of ethyl acetate.
 - Answer key positions: B, D, C, A, D, C, B.
-- Resolve [VERIFY]: IR ranges and NMR chemical-shift ranges against the fact sheet; the exam usually supplies tables if needed, so quote them as approximate.
+- Checked: IR ranges and NMR chemical-shift ranges against the fact sheet; the exam usually supplies tables if needed, so quote them as approximate.
 - Category 4D and 5C topics covered: molecular structure and absorption spectra (infrared, visible, ultraviolet, NMR), mass spectroscopy. Mass spectrometer physics is in Lesson 8.

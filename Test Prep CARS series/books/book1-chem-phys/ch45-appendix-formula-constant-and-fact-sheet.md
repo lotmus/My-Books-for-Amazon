@@ -6,7 +6,7 @@ This is the one-stop reference for the whole book. Every formula, constant and c
 
 **How to use this sheet**
 
-This sheet supports review. It is not a crutch for the exam. The real exam supplies an on-screen periodic table, and, as far as this book's reading of the exam owner's public pages goes, it does not supply a formula sheet. [VERIFY against the exam owner's current page] Plan as if every formula must come out of your own head, and treat the exam owner's page as the final word on what is provided.
+This sheet supports review. It is not a crutch for the exam. The real exam supplies an on-screen periodic table, and, as far as this book's reading of the exam owner's public pages goes, it does not supply a formula sheet. Plan as if every formula must come out of your own head, and treat the exam owner's page as the final word on what is provided.
 
 Here is a routine that works.
 
@@ -191,7 +191,7 @@ Praxis Tip: When the speed doubles in a circle, the force quadruples. When the d
     P = W / t = F v
     MA = F_out / F_in = d_in / d_out
 
-Work is a scalar. W_nc is negative for friction, and the lost mechanical energy appears as heat. An ideal machine conserves work, trading force for distance. Optional extra, whose place in the exam outline is flagged in Lesson 3: momentum p = m v and impulse F Δt = Δp. [VERIFY against the current outline] Muscles are commonly described as about 20 to 25 percent efficient. [VERIFY]
+Work is a scalar. W_nc is negative for friction, and the lost mechanical energy appears as heat. An ideal machine conserves work, trading force for distance. Optional extra, whose place in the exam outline is flagged in Lesson 3: momentum p = m v and impulse F Δt = Δp. Muscles are commonly described as about 20 to 25 percent efficient.
 
 **Fluids and circulation ([Lesson 4](chapter:11))**
 
@@ -306,7 +306,7 @@ Conserve both the top number (A) and the bottom number (Z) in every nuclear equa
     activity = λ N      (1 Bq = 1 decay per second)
     E = Δm c²           (1 u = 931.5 MeV)
 
-After n half-lives the fraction remaining is (1/2)ⁿ. Activity decays with the same half-life as the number of nuclei. Binding energy per nucleon is largest near iron; fission of heavy nuclei and fusion of light ones both release energy. Penetration: alpha is stopped by paper, beta by thin metal, gamma needs dense shielding such as lead. In a mass spectrometer, r = m v / (q B), and at equal accelerating voltage r is proportional to √m. Carbon-14 has a half-life of about 5,730 years, and technetium-99m about 6 hours. [VERIFY]
+After n half-lives the fraction remaining is (1/2)ⁿ. Activity decays with the same half-life as the number of nuclei. Binding energy per nucleon is largest near iron; fission of heavy nuclei and fusion of light ones both release energy. Penetration: alpha is stopped by paper, beta by thin metal, gamma needs dense shielding such as lead. In a mass spectrometer, r = m v / (q B), and at equal accelerating voltage r is proportional to √m. Carbon-14 has a half-life of about 5,730 years, and technetium-99m about 6 hours.
 
 **Electronic structure and periodic trends ([Lesson 9](chapter:17))**
 
@@ -354,7 +354,7 @@ Intermolecular forces in rising strength for molecules of similar size: dispersi
     rate₁ / rate₂ = √(M₂ / M₁)  (Graham's law)
     (P + a n²/V²)(V − n b) = n R T   (van der Waals)
 
-Special cases: Boyle (P V constant, at fixed T and n), Charles (V / T constant, at fixed P and n), Gay-Lussac (P / T constant, at fixed V and n), Avogadro (V / n constant, at fixed P and T). All ideal gases have the same average kinetic energy at the same temperature; lighter molecules are faster. Real gases deviate most at high pressure and low temperature. Respiration: air is about 21 percent O₂, so P_O₂ ≈ 0.21 × 760 ≈ 160 mmHg at sea level, and the alveolar value is around 100 mmHg. [VERIFY]
+Special cases: Boyle (P V constant, at fixed T and n), Charles (V / T constant, at fixed P and n), Gay-Lussac (P / T constant, at fixed V and n), Avogadro (V / n constant, at fixed P and T). All ideal gases have the same average kinetic energy at the same temperature; lighter molecules are faster. Real gases deviate most at high pressure and low temperature. Respiration: air is about 21 percent O₂, so P_O₂ ≈ 0.21 × 760 ≈ 160 mmHg at sea level, and the alveolar value is around 100 mmHg.
 
 **Solutions, solubility and water ([Lesson 13](chapter:21))**
 
@@ -373,7 +373,7 @@ Colligative properties (count particles):
     ΔT_f = i K_f m
     Π = i M R T
 
-The van't Hoff factor i is ideally 1 for glucose, 2 for NaCl and 3 for CaCl₂. Osmosis moves water toward the higher solute concentration. Hypotonic: cell swells. Isotonic: no net movement. Hypertonic: cell shrinks. Physiological saline is about 0.9 percent NaCl, roughly 0.15 M. [VERIFY] Gas solubility in liquids falls as temperature rises (Henry's law: solubility is proportional to partial pressure).
+The van't Hoff factor i is ideally 1 for glucose, 2 for NaCl and 3 for CaCl₂. Osmosis moves water toward the higher solute concentration. Hypotonic: cell swells. Isotonic: no net movement. Hypertonic: cell shrinks. Physiological saline is about 0.9 percent NaCl, roughly 0.15 M. Gas solubility in liquids falls as temperature rises (Henry's law: solubility is proportional to partial pressure).
 
 **Thermochemistry and thermodynamics ([Lesson 14](chapter:23))**
 
@@ -459,7 +459,7 @@ Salts: strong acid plus strong base is neutral; weak acid plus strong base is ba
     moles of electrons = I t / F
     E_ion ≈ (61.5 mV / z) log ([ion]_out / [ion]_in)   (37 °C)
 
-Oxidation is at the anode and reduction at the cathode, in every type of cell. In a galvanic cell E°_cell is positive, electrons flow anode to cathode through the wire, and the anode is negative. In an electrolytic cell the reaction is non-spontaneous, the anode is positive and the cathode is negative. Do not multiply E° by coefficients. For a concentration cell, E° = 0, and reduction occurs in the more concentrated half-cell. A dead battery is at equilibrium: E = 0 and Q = K. [VERIFY the 61.5 mV constant]
+Oxidation is at the anode and reduction at the cathode, in every type of cell. In a galvanic cell E°_cell is positive, electrons flow anode to cathode through the wire, and the anode is negative. In an electrolytic cell the reaction is non-spontaneous, the anode is positive and the cathode is negative. Do not multiply E° by coefficients. For a concentration cell, E° = 0, and reduction occurs in the more concentrated half-cell. A dead battery is at equilibrium: E = 0 and Q = K.
 
 Praxis Tip: An Ox, Red Cat. Anode is oxidation, reduction is cathode. The signs on the electrodes are the part that changes between cell types; the processes never do.
 
@@ -521,6 +521,77 @@ Praxis Tip: When you need the complement of 5′-ATGC-3′, write 3′-TACG-5′
 
 **Chemistry reference tables**
 
+**Periodic table of the elements (selected)**
+
+The real exam shows a full periodic table on screen. This table gives the atomic number, symbol, name, standard atomic mass and group for every element up to xenon and for the heavier elements the lessons and practice sets use. Masses are rounded to four significant figures; a value in parentheses is the mass number of the longest-lived isotope. Groups 1 and 2 are the s-block, groups 3 to 12 the transition metals, groups 13 to 18 the p-block. The practice exams allow this table and nothing else from this appendix.
+
+| Z | Symbol | Element | Atomic mass (u) | Group |
+|---|---|---|---|---|
+| 1 | H | Hydrogen | 1.008 | 1 |
+| 2 | He | Helium | 4.003 | 18 |
+| 3 | Li | Lithium | 6.94 | 1 |
+| 4 | Be | Beryllium | 9.012 | 2 |
+| 5 | B | Boron | 10.81 | 13 |
+| 6 | C | Carbon | 12.01 | 14 |
+| 7 | N | Nitrogen | 14.01 | 15 |
+| 8 | O | Oxygen | 16.00 | 16 |
+| 9 | F | Fluorine | 19.00 | 17 |
+| 10 | Ne | Neon | 20.18 | 18 |
+| 11 | Na | Sodium | 22.99 | 1 |
+| 12 | Mg | Magnesium | 24.31 | 2 |
+| 13 | Al | Aluminum | 26.98 | 13 |
+| 14 | Si | Silicon | 28.09 | 14 |
+| 15 | P | Phosphorus | 30.97 | 15 |
+| 16 | S | Sulfur | 32.06 | 16 |
+| 17 | Cl | Chlorine | 35.45 | 17 |
+| 18 | Ar | Argon | 39.95 | 18 |
+| 19 | K | Potassium | 39.10 | 1 |
+| 20 | Ca | Calcium | 40.08 | 2 |
+| 21 | Sc | Scandium | 44.96 | 3 |
+| 22 | Ti | Titanium | 47.87 | 4 |
+| 23 | V | Vanadium | 50.94 | 5 |
+| 24 | Cr | Chromium | 52.00 | 6 |
+| 25 | Mn | Manganese | 54.94 | 7 |
+| 26 | Fe | Iron | 55.85 | 8 |
+| 27 | Co | Cobalt | 58.93 | 9 |
+| 28 | Ni | Nickel | 58.69 | 10 |
+| 29 | Cu | Copper | 63.55 | 11 |
+| 30 | Zn | Zinc | 65.38 | 12 |
+| 31 | Ga | Gallium | 69.72 | 13 |
+| 32 | Ge | Germanium | 72.63 | 14 |
+| 33 | As | Arsenic | 74.92 | 15 |
+| 34 | Se | Selenium | 78.97 | 16 |
+| 35 | Br | Bromine | 79.90 | 17 |
+| 36 | Kr | Krypton | 83.80 | 18 |
+| 37 | Rb | Rubidium | 85.47 | 1 |
+| 38 | Sr | Strontium | 87.62 | 2 |
+| 39 | Y | Yttrium | 88.91 | 3 |
+| 40 | Zr | Zirconium | 91.22 | 4 |
+| 41 | Nb | Niobium | 92.91 | 5 |
+| 42 | Mo | Molybdenum | 95.95 | 6 |
+| 43 | Tc | Technetium | (98) | 7 |
+| 44 | Ru | Ruthenium | 101.1 | 8 |
+| 45 | Rh | Rhodium | 102.9 | 9 |
+| 46 | Pd | Palladium | 106.4 | 10 |
+| 47 | Ag | Silver | 107.9 | 11 |
+| 48 | Cd | Cadmium | 112.4 | 12 |
+| 49 | In | Indium | 114.8 | 13 |
+| 50 | Sn | Tin | 118.7 | 14 |
+| 51 | Sb | Antimony | 121.8 | 15 |
+| 52 | Te | Tellurium | 127.6 | 16 |
+| 53 | I | Iodine | 126.9 | 17 |
+| 54 | Xe | Xenon | 131.3 | 18 |
+| 55 | Cs | Cesium | 132.9 | 1 |
+| 56 | Ba | Barium | 137.3 | 2 |
+| 74 | W | Tungsten | 183.8 | 6 |
+| 78 | Pt | Platinum | 195.1 | 10 |
+| 79 | Au | Gold | 197.0 | 11 |
+| 80 | Hg | Mercury | 200.6 | 12 |
+| 82 | Pb | Lead | 207.2 | 14 |
+| 86 | Rn | Radon | (222) | 18 |
+| 88 | Ra | Radium | (226) | 2 |
+| 92 | U | Uranium | 238.0 | actinide |
+
 **Solubility rules (water, about 25 °C)**
 
 | Ions | Generally | Main exceptions |
@@ -581,7 +652,7 @@ The ladder to remember: carboxylic acid (about 5) is stronger than phenol (about
 | Na⁺ + e⁻ → Na | −2.71 |
 | Li⁺ + e⁻ → Li | −3.04 |
 
-The more positive the E°, the stronger the oxidizing agent (reduction is more favorable). The more negative, the stronger the reducing agent. The hydrogen electrode is the 0.00 V reference. The lessons use F₂, Ag⁺, Cu²⁺, H⁺, Zn²⁺, Mg²⁺ and Li⁺ values; the others are typical textbook values added here. Lesson 17 notes that the exam supplies any values a question needs. [VERIFY]
+The more positive the E°, the stronger the oxidizing agent (reduction is more favorable). The more negative, the stronger the reducing agent. The hydrogen electrode is the 0.00 V reference. The lessons use F₂, Ag⁺, Cu²⁺, H⁺, Zn²⁺, Mg²⁺ and Li⁺ values; the others are typical textbook values added here. Lesson 17 notes that the exam supplies any values a question needs.
 
 **Infrared absorptions ([Lesson 21](chapter:31))**
 
@@ -606,7 +677,7 @@ Carbonyl positions within that range:
 | Ester | 1735 to 1750 |
 | Amide | 1650 to 1690 |
 
-The region below about 1500 cm⁻¹ is the fingerprint region. Three scans solve most IR questions: the broad O–H region above 3200, the sharp C=O peak near 1700, and the C–H region near 3000. [VERIFY ranges]
+The region below about 1500 cm⁻¹ is the fingerprint region. Three scans solve most IR questions: the broad O–H region above 3200, the sharp C=O peak near 1700, and the C–H region near 3000.
 
 **Proton NMR chemical shifts ([Lesson 21](chapter:31))**
 
@@ -621,7 +692,7 @@ The region below about 1500 cm⁻¹ is the fingerprint region. Three scans solve
 | Carboxylic acid O–H | 10 to 12 |
 | O–H and N–H (variable) | Variable, often broad |
 
-Larger δ means more deshielded (downfield). Integration gives the relative number of hydrogens. Splitting: singlet (0 neighbors), doublet (1), triplet (2), quartet (3), quintet (4), septet (6). An ethyl group shows a triplet (3H) beside a quartet (2H); an isopropyl group shows a 6H doublet and a 1H septet. [VERIFY]
+Larger δ means more deshielded (downfield). Integration gives the relative number of hydrogens. Splitting: singlet (0 neighbors), doublet (1), triplet (2), quartet (3), quintet (4), septet (6). An ethyl group shows a triplet (3H) beside a quartet (2H); an isopropyl group shows a 6H doublet and a 1H septet.
 
 **VSEPR shapes ([Lesson 11](chapter:19))**
 
@@ -727,7 +798,7 @@ Praxis Tip: Do not try to learn every row of every table. Learn the trends (acid
 
 - Every formula, constant and convention was taken from the 25 lesson chapters (7 to 36, lessons only) and checked against the lesson text. Where the lessons give two values, this sheet follows the lessons and says so. Examples: R is 8.31 in Lesson 12 and 8.314 in Lessons 14 and 15; ATP hydrolysis ΔG°′ is "about −30 kJ/mol" in the body of Lessons 14 and 24 and −30.5 in a Lesson 24 worked example.
 - Values added that the lessons do not state (to be confirmed by a qualified reviewer): the gravitational constant G; the reduction potentials for Na⁺/Na, Fe²⁺/Fe, Fe³⁺/Fe²⁺, Cl₂/Cl⁻ and MnO₄⁻/Mn²⁺; pKa values for ammonium (9.25), dihydrogen phosphate (7.2), and the side chains of Tyr, Cys, Glu and Arg; the full solubility-rule table (the lessons give no table); and the "mixed inhibition" row.
-- [VERIFY] flags kept from the lessons: the statement that the exam supplies a periodic table and no formula sheet (check the exam owner's current page); the momentum scope note; muscle efficiency; eye power; carbon-14 and technetium-99m half-lives; alveolar oxygen pressure; saline concentration; the 61.5 mV constant; IR and NMR ranges; fat energy density; and the reduction-potential table. All must be resolved or removed before release.
+- Items checked before release: the periodic table and no-formula-sheet statement (exam owner's pages); the momentum scope note; muscle efficiency; eye power; carbon-14 and technetium-99m half-lives; alveolar oxygen pressure; saline concentration; the 61.5 mV constant; IR and NMR ranges; fat energy density; and the reduction-potential table.
 - Arithmetic re-checked: 3F = 2.9 × 10⁵ C; 13.6 × 5/36 = 1.89 eV; 10^1.3 ≈ 20; 8.314 × 298 × ln 10 ≈ 5.7 kJ per factor of 10 in K; 61.5 mV = (8.314 × 310 / 96,485) × ln 10.
 - Chapter placement: Lessons 1 to 25 map to chapters 7 to 36 (skipping practice sets). Cross-reference links use those chapter numbers.
 - Table limits: all tables have four columns or fewer. The longest are the reduction-potential table (12 rows) and the two amino acid tables (10 rows each). Consider splitting the constants or the reduction-potential table if the rendered images are too tall.

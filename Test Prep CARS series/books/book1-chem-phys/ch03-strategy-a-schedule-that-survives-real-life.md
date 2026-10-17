@@ -75,7 +75,7 @@ Praxis Tip: Do the lesson's *Concept Review* on Monday and Tuesday and its *Chec
 This section makes spaced repetition unusually rewarding, because much of it is compact facts that you must recall without thinking. Build five decks, adding cards as you finish each lesson ([Core Test Skills, Chapter 6] on card design):
 
 1. **Formulas and what each variable means.** One idea per card: "Write the equation for centripetal acceleration in terms of v and r." Do not put the whole formula sheet on one card.
-2. **Constants and units.** g ≈ 10 m/s² for estimation, Avogadro's number, R, Faraday's constant, standard conversions. [VERIFY values against the fact sheet before use.]
+2. **Constants and units.** g ≈ 10 m/s² for estimation, Avogadro's number, R, Faraday's constant, standard conversions. Check each value against the fact sheet in the appendix.
 3. **Trends and rules.** Periodic trends, acid strength trends, boiling-point trends, "what increases when ___."
 4. **Mechanisms and reactions.** Reagent in front, product and why behind.
 5. **Concepts and traps.** The "why" cards, including the traps you meet in the error log.

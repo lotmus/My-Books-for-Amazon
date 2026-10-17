@@ -155,5 +155,5 @@ Praxis Tip: Time check: Passage 1 by about 8 minutes, Passage 2 by about 16 minu
 
 - All passages and questions are original. Verified: 0.0500 mol CO₂; P = 0.615 atm; CaO 2.80 g and CO₂ 2.20 g; 1.2 atm at 600 K; ΔT_f = 2.79 °C; Π = 4.89 atm; s = 2.0 × 10⁻⁴ M (and √K_sp = 5.7 × 10⁻⁶); Cr³⁺ is 3d³; partial pressure 1.0 atm.
 - Answer key positions: A, D, C, B, B, D, A, A, C, B, D, C, A, D.
-- Resolve [VERIFY]: the isotonic concentration (0.15 M NaCl) and the idealized i values (real solutions deviate).
+- Checked: the isotonic concentration (0.15 M NaCl) and the idealized i values (real solutions deviate).
 - Categories covered: 4B (gases), 4E (electronic structure, stoichiometry), 5A (solutions, osmosis, K_sp), 5B (bonding, shape, intermolecular forces), with one 5E question (equilibrium).

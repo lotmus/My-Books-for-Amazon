@@ -14,7 +14,7 @@ Praxis Tip: Take the diagnostic cold. Studying first defeats its purpose, and yo
 
 **Two kinds of baseline**
 
-*1. Official practice material.* The most representative practice items are the exam owner's own, and the owner sells official practice exams and question banks and publishes some free materials. They are copyrighted, so use them for your own practice only: do not copy, retype or share them. Check the exam owner's student site for what is currently free and what is sold. [VERIFY current offerings] Save the official full-length exams for your scheduled simulations ([Core Test Skills, Chapter 25]); they are scarce, and you can take each one fresh only once.
+*1. Official practice material.* The most representative practice items are the exam owner's own, and the owner sells official practice exams and question banks and publishes some free materials. They are copyrighted, so use them for your own practice only: do not copy, retype or share them. Check the exam owner's student site for what is currently free and what is sold. Save the official full-length exams for your scheduled simulations ([Core Test Skills, Chapter 25]); they are scarce, and you can take each one fresh only once.
 
 *2. This book's original diagnostic.* The 16 questions below cover the lessons in the book, one or two per lesson area. They are original. They are a coverage check, not a miniature exam. Use them to decide where to begin.
 
@@ -175,4 +175,4 @@ A baseline is a measurement. Use the original diagnostic here to point you at le
 - All 16 questions are original. Verified arithmetic: 2 × 20/10 = 4 s; (50 − 20)/10 = 3; √(2 × 10 × 5) = 10; 1,000 × 10 × 3 = 30,000 Pa; 12/2 = 6 A; 340/440 = 0.77; 1/q = 1/60; (1/2)³; H₂ limiting, 4 × 18 = 72 g; 10 × 600/300 = 20; −40,000 + 30,000 = −10,000 J; 6 + 2 = 8; 100 × 2/4 = 50.
 - Answer key positions: B, A, C, B, D, A, D, B, D, C, C, A, B, A, C, D (A 4, B 4, C 4, D 4).
 - The worked example's counts were checked: general chemistry correct = Q9, Q10, Q11, Q13 = 4 of 6.
-- Resolve [VERIFY] about current free and paid official materials; record sources in the ledger.
+- Record the date you checked the exam owner's list of free and paid official materials in the ledger.
