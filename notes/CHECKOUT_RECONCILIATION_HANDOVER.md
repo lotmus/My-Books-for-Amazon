@@ -4,11 +4,11 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at d4230f7e (PR #285). Expanded status is 523 file entries: 152 modified, 36 deleted, and 335 untracked. The default short status compresses those untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 677 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 17, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 5ac90a02 (PR #286). Expanded status is 523 file entries: 152 modified, 36 deleted, and 335 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 678 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 17, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
-The earlier 344-file map is superseded. The latest 333 untracked rows classify as 150 same-path matches (148 byte-exact and two line-ending-normalized), 182 old-alias content matches, and one no-main candidate (LOTHAR_RULES.docx); there are no ambiguous basename matches. The four current-main-only Lolly Wren Book 2 files are now included in the old-alias matches.
+The untracked-path audit is now complete at 335 entries. It finds 276 byte-exact matches at canonical or known-alias paths, 19 text matches after BOM/line-ending normalization, and 38 exact blobs at other current-main paths within mapped scopes. One local-only candidate is root `LOTHAR_RULES.docx`; one protected entry was counted only in the total and skipped without reading. The two Book 2 build files initially flagged as different (`build/book.css` and `build/drop_first_image.lua`) are among the normalized matches; their only differences are line endings. There are no remaining unclassified untracked paths.
 
 ## Completed
 
@@ -219,6 +219,13 @@ The text-history match remains unresolved. Keep both pilots local-only until the
 ### Exact backup verification for deleted paths (17 Oct 2026)
 
 All 36 deleted-path entries in the D: status were compared with the original Git blobs and the corresponding book-level `bak` trees. Every file now has an exact backup. The one missing copy was `KIDS  books/The_Wee_Scallywag_and_the_Gentle_Elf/Step_Stories_Texts/Book1_Story_v21.txt`; a same-named file in `bak\Story_previous_versions\` was a different revision. The exact old-branch blob (`37a9ac1cf19e0207e13be80baceba0c42c42cb35`) was restored to `KIDS  books\The_Wee_Scallywag_and_the_Gentle_Elf\bak\2026-10-17 missing-deletion-backup-recovery\Step_Stories_Texts\Book1_Story_v21_pre-main-branch.txt`. Its Git blob hash was verified. The recovery folder is ignored, so the expanded D: status remains 523 (152 modified, 36 deleted, 335 untracked), 142 commits ahead and 677 behind current main `d4230f7e` (PR #285). No protected book paths were included.
+
+### Untracked-path classification (17 Oct 2026)
+
+A fresh `git status --porcelain --untracked-files=all` count confirms 335 untracked entries in the D: checkout. Of these, 276 are byte-exact matches at canonical or known legacy-alias paths; 19 are text matches after removing a UTF-8 BOM and normalizing CRLF/CR to LF; and 38 are exact Git blobs located elsewhere under their mapped current-main scopes. One root-level `LOTHAR_RULES.docx` has no current-main counterpart. One protected path is included in the count but its content was not opened or hashed. These categories total 335.
+
+The two apparent Book 2 build differences, `build/book.css` (784 local bytes, 776 main bytes) and `build/drop_first_image.lua` (164 local bytes, 157 main bytes), match after line-ending normalization. They need no backup or content sync. The earlier 333-entry map omitted these two from the normalized-text category; this classification supersedes it. No D: files were changed during this audit.
+
 ## Next work
 
 1. Keep Poetry blocked until the repository-wide policy matches are resolved and reviewed; no poem, DOCX, EPUB, or image has been promoted.
