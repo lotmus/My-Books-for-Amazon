@@ -534,3 +534,12 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - The shared D: checkout has 22 status paths (21 modified Markdown files and the root DOCX). All 22 are byte-identical to current main; the DOCX is already tracked in main and only appears untracked against the stale D: index. No unique book content needs rescuing. Existing bak/ and ignored output folders were not inspected.
 - The existing local-only pilot matched all 68 current-main book files byte-for-byte. Added a local .gitignore and notes/SEPARATION_AUDIT.md; it now has 70 tracked files at commit 7f51a5f, is clean, and has no remote.
 - No shared D: files were changed. No build, test, or export was run.
+
+
+## The Dolphins' View of History REV5 checkpoint — 2026-10-17
+
+- Current main at fc551116 contains the REV5 DOCX and the current review/status notes. The active tracked book tree has 90 files and no EPUB. The current book instructions declare REV5 DOCX the master and explicitly prohibit running the older scripts/_generate.js because it would overwrite REV5 with older text.
+- D: has 81 book-scoped status paths and 89 active files. Every D: active file exists in current main: 85 are byte-identical and four differ only by CRLF/LF. Current main has one additional active file, notes/AUDIT_REV4_2026-10-17.md. No D-only or other-different content was found. Existing bak/, node_modules/, dist/ and Exports/ were excluded and not read.
+- The old local pilot was a REV4 snapshot at 10fd77e. It is now reconciled to all 90 active files from current main at commit 840dfae, with only notes/SEPARATION_AUDIT.md added. The pilot is clean and has no remote. Its superseded REV4 DOCX was moved without inspection to ignored bak/pre-separation-REV4-2026-10-17/; the original remains in pilot Git history.
+- There is conflicting source-sync guidance: the new REV5 section in notes/CLAUDE.md says the Markdown tracks were synced from REV4, while notes/REVIEW_REV5_2026-10-17.md says they were synced with REV5 DOCX. The REV5 DOCX remains the stated master; this reconciliation did not rebuild or change book text. The work queue still describes the older REV4 job, so follow the newer REV5 status and review notes.
+- The REV5 review records a LibreOffice render before a final one-word refinement, with the final page count not rechecked. Kindle Previewer and an outside-reader review remain open. No build or publication QA was run, and the shared D: checkout was not changed.
