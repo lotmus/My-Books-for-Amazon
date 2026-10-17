@@ -28,6 +28,8 @@ Pull requests #40, #43, and #44 are merged.
 
 Leave these for the session that has them open. They are not the shared copy until that session commits them.
 
+**16 Oct 2026, shared checkout reconciliation:** The local `D:\My Books for Amazon` checkout still needs a per-book review. Read `notes/CHECKOUT_RECONCILIATION_HANDOVER.md` before working in that checkout; it records the live status, path-alias issue, Book 3 sync, and next books to triage. Never reset or clean the shared checkout, and do not merge its old branch wholesale.
+
 **Owner change, 1 Oct 2026, 16:30 PT.** The earlier sessions on RIB Book 1, Protocol Flamingo and the Mathematics Tower are dormant. One session now owns all three books: RIB Book 1 (manuscript, Kindle file, rebuild script, KDP files), Protocol Flamingo (`Protocol_Flamingo_Rev2.docx` and its notes), and the Mathematics Tower volume files. Do not edit them from another session. That session does no git operations; Lothar syncs separately. Backups of every file it changes are in `C:\Users\lomus\OneDrive\My Books for Amazon - session backups\2026-10-01 RIB-Flamingo-Tower\` (Tower backups also go in its `bak\Archive - not for publication` folder).
 
 **Results, 1 Oct 2026, 17:00 PT** (same session; still no git, so these files are changed on disk and uncommitted):
