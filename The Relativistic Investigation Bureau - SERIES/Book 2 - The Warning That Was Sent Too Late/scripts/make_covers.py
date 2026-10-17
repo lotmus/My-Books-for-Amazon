@@ -1,9 +1,6 @@
-"""Kindle covers for The Warning That Was Sent Too Late (RIB Book 2), in Book 1's trade dress:
-night-blue sky with a dusk-orange horizon, cream and gold slab-serif title, gold rules and RIB monogram,
-byline 'Lothar J. Musiol / writing as Spezala Genara Relavi (S.G.R.)'.
-Everything is drawn by this script (no photographs, no real people, no third-party art).
-Fonts: Google Fonts (SIL Open Font License): Coustard, Cinzel, Libre Baskerville, EB Garamond.
-Usage: python make_covers.py OUTDIR  ->  Kindle Front Cover.jpg (1600x2560), Kindle Back Cover.jpg (1600x2560)"""
+"""Rebuild the RIB Book 2 ebook covers.
+The compositor uses the retained daylight office-and-platform artwork in cover_concept_v2/ and typesets the exact cover copy in Georgia. The front illustration is AI-generated; disclose the image in KDP's content questionnaire.
+Usage: python scripts/make_covers.py . -> update Kindle Front Cover.jpg and Kindle Back Cover.jpg (1600x2560)"""
 import sys, os, math, random
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -306,7 +303,7 @@ def back():
     spaced(d, (800 * S, (y + 4) * S), 'Afterwards.', F(EBI, 60, 520), CREAM); y += 84
     y += 30; rule(y); y += 60
     body = F(EB, 46, 420); lead = 64
-    for t in ["On the Monday morning that Derek Gent closes the case of the murder that never happened, a sheet of paper appears on his desk where the folder lay a second before. It is on the Bureau’s own form. It is dated tomorrow. The box for the sender’s date of birth says NOT YET. And it says, in flat capitals: DO NOT ALLOW DEREK GENT TO BOARD THE MYSTERIOUS TRAIN.",
+    for t in ["On the Monday morning that Derek Gent closes the Bureau’s previous case, a sheet of paper appears on his desk where the folder lay a second before. It is on the Bureau’s own form. It is dated tomorrow. The box for the sender’s date of birth says NOT YET. And it says, in flat capitals: DO NOT ALLOW DEREK GENT TO BOARD THE MYSTERIOUS TRAIN.",
               "Then the office door opens onto a station platform that has no business being on the second floor of a London office building. An empty train stands waiting. Its board says YESTERDAY. And from somewhere inside it comes Derek’s own voice, telling him not to open the door.",
               "The door is already open.",
               "With his cousin Penny, Trevor and his tape measure, a visiting patent attorney from Munich and a building superintendent who regards the platform as a breach of the lease, Derek has until Wednesday to put one morning in the right order, before a landlord, two insurance companies and a very patient train do it for him."]:
@@ -316,7 +313,7 @@ def back():
     y += 40; rule(y + 26, 'ABOUT THE AUTHOR'); y += 70
     y = para(y, 'Lothar J. Musiol is German by birth and American by choice, and writes in British because Love Actually’s Colin Frissell made it look worth the trouble. He divides his time between San Clemente and Passau with a grumpy Teacup Pomeranian named Gucci and eleven chickens.', F(EB, 42, 420), CREAM, 58, center=True, x0=L + 20, width=R - L - 40)
     y += 40
-    y = para(y, 'Book 2 of the Relativistic Investigation Bureau, with six short physics lessons. It stands alone; Book 1 is The Murder That Hadn’t Happened Yet.', F(EB, 38, 420), CREAM, 52, center=True, x0=L + 60, width=R - L - 120)
+    y = para(y, 'Book 2 of the Relativistic Investigation Bureau. No previous case or physics background needed. Six optional lessons follow the story.', F(EB, 38, 420), CREAM, 52, center=True, x0=L + 60, width=R - L - 120)
     print('back cover text ends at y =', y)
     assert y < 2480, 'back cover text overflows'
     out = im.resize((1600, 2560), Image.LANCZOS)
@@ -324,6 +321,9 @@ def back():
     return out
 
 if __name__ == '__main__':
-    f = front(); b = back()
-    for name, im in (('front', f), ('back', b)):
-        t = im.copy(); t.thumbnail((800, 1280)); t.save(f'{OUT}/preview_{name}.jpg', quality=85)
+    from pathlib import Path
+    import runpy
+    book_dir = Path(__file__).resolve().parent.parent
+    runpy.run_path(str(book_dir / 'scripts' / 'make_cover_concept_v2.py'), run_name='__main__')
+
+

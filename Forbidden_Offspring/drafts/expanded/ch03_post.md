@@ -12,7 +12,7 @@ What lived in it I have already told you. A bundle of pages, bound with a green 
 
 I opened it on the first Thursday of every month. I stood with my back to the door, facing the wall, and turned the dial in the way that muscles remember. I took out the pages and read them through, once, from the first to the last. I did this to check that nothing had changed. It was a ritual of the sort that only a lonely man invents, and I performed it with the same attention that other men give to a church.
 
-It was a comfort. I will say that. I do not think a man can understand how deep a comfort until he has had one, and the shape of it was a small gray door in a plain room and a dial that turned, and the sense that behind it, perfectly preserved, lay all of the reasons for my life.
+It was a comfort. I do not think a man can understand how deep a comfort until he has had one, and the shape of it was a small gray door in a plain room and a dial that turned, and the sense that behind it, perfectly preserved, lay all of the reasons for my life.
 
 I never doubted the cabinet. It did not occur to me that it could be doubted. A lock that has held for eleven years has the authority of a law.
 

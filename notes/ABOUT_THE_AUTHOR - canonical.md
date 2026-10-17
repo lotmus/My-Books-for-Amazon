@@ -5,7 +5,7 @@ Approved by Lothar on 10 Oct 2026. The dog is Gucci. Use the text exactly as wri
 ## Where each version goes
 
 - **Version A** (British-English novels): The Relativistic Investigation Bureau Books 1–2, Lolly Wren’s Curious Science Adventures Books 1–2, Protocol Flamingo, In Love with Murder, Actually. Keep each book’s own pen-name paragraph(s) first (for example the S.G.R. paragraphs in RIB, the Q.E.D. note in Lolly Wren Book 1), then Version A.
-- **Version B** (all other books under Lothar’s name): Physics, Actually Vols 1–3, Life, Actually, Math, Actually Vols 1–4, Quantum, Actually Vols 1–2, Gravity, Actually, The Universe, Actually, Science Sparks, Look First Vols 1–2, The Dolphins’ View of History, EE Books 1–7.
+- **Version B** (all other books under Lothar’s name): Physics, Actually Vols 1–3, Life, Actually, Math, Actually Vols 1–4, Quantum, Actually Vols 1–2, Gravity, Actually, The Universe, Actually, Science Sparks, Look First Vols 1–2, The Dolphins’ View of History, EE Books 1–7, Forbidden Offspring (after its own pen-name paragraph).
 - **Never:** the Kevin Drew Peters books (How to Publish Your First Kindle Book, Your First YouTube Channel That Rocks), Auswandern (published, German), Bavarian Cooking, The Wee Scallywag and the Gentle Elf (both are Anneliese Tauber books with their own two-sentence bio).
 - Placement: replace an existing About the Author section; otherwise add one just before the Also-by page; Gravity, Actually and Look First Vol 1 have no back matter, so the About the Author page goes at the end.
 

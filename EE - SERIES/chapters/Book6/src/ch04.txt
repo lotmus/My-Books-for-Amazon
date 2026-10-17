@@ -1,5 +1,6 @@
 H1: Chapter 4. The Boost, the Buck-Boost, and the Control Loop
 P: A common belief holds that a boost converter can produce any voltage you like if the duty cycle is pushed close enough to one. The ideal formula, 1/(1 − D), agrees. A real inductor with 50 mΩ of resistance does not: with a 24 Ω load the gain tops out near 11, at 50 % efficiency, and pushing D further makes the output fall again.
+P: Model limit. The ideal gain and duty-cycle equations are first cuts. Inductor resistance, switch and diode drops, winding/core loss, current limit, and the boost converter’s right-half-plane zero set the real operating range. Use the operating-point component data, then verify stability and load-step behavior; Chapter 9 covers loss and measurement limits.
 P: Where you meet this: Every LED driver, every power bank that raises one lithium cell to 5 V, every robot or wearable that runs its electronics above its battery voltage, every SEPIC in an automotive supply, and every application note that warns about the right-half-plane zero.
 P: The buck can only step down. Rearranging its switch, inductor, and diode gives the boost, which steps up, and the buck-boost, which can do either. They power LED strings from batteries, the 400 V DC link of a power-factor corrector, and every phone that keeps its supply constant as its battery discharges. This chapter derives their voltage ratios, shows the feature that makes the boost harder to control, the right-half-plane zero, and outlines how a converter's feedback loop is designed and how fast it can respond to a load step.
 H2: 4.1 The boost converter
@@ -45,7 +46,7 @@ H2: Worked Example 4.6
 P: Problem. A SEPIC holds 12 V from an automotive input of 9 to 16 V. Find its duty-cycle range.
 P: Solution. D = Vout/(Vin + Vout): at 9 V, 12/21 = 0.571; at 16 V, 12/28 = 0.429. The range is comfortably inside 0.3 to 0.7, where the converter's losses are moderate.
 P: The boost, the buck-boost, and the control loop complete the non-isolated converters. When the input is the mains, or safety requires a barrier, the converter needs a transformer, and Chapter 5 adds one.
-BENCH: Before trusting a high step-up design, compute its gain with the inductor's DC resistance and the switch resistance included. Keep the loop crossover at a fifth of the right-half-plane zero at its lowest, which occurs at the heaviest load and the lowest input voltage. Remember that a boost cannot limit a short circuit on its output: the inductor and diode connect input to output even when the switch is off.
+BENCH: Before trusting a high step-up design, compute its gain with the inductor's DC resistance and the switch resistance included. Keep the loop crossover at a fifth of the right-half-plane zero at its lowest, which occurs at the heaviest load and the lowest input voltage. Remember that a boost cannot limit a short circuit on its output: the inductor and diode connect input to output even when the switch is off. The ideal gain has never had to carry the load home.
 H2: Practice
 P: 1. Find the duty cycle of a boost from 12 V to 48 V.
 P: 2. An inverting buck-boost runs from 12 V at D = 0.4. Find its output.

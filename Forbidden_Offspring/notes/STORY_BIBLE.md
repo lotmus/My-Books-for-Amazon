@@ -1,6 +1,6 @@
 # Forbidden Offspring
 
-**Pen name:** Frank Stone (set by Lothar, 12 Oct 2026). Not yet recorded in `notes/LOTHAR_RULES.md`. The scientist character is also named Frank Stone.
+**Pen name:** Genevieve Crisp (Gene + CRISP[R], a pun the book never explains; set 13 Oct 2026; the author is not the scientist). Recorded in `notes/LOTHAR_RULES.md`. The scientist is Frank Stone in speech and narration; his paperwork says Frank N. Stone (consent form, notebook flyleaf in ch. 8), a quiet sound-alike joke that the book never names or explains. Do not write the famous name anywhere (Lothar, 13 Oct 2026).
 **Scientist:** Frank Stone
 **Spelling:** American English
 **Status:** story bible only, no manuscript yet (12 Oct 2026). Title settled: Forbidden Offspring (formerly "The Edit")
@@ -226,8 +226,26 @@ Ideas only, transformed into this book's own situation; no borrowed scenes, name
 - The vault pages: the clinic director found the locked cabinet in 2012 and left it alone; whether it was ever opened is unresolved and could feed the leak (ch 18).
 - Ray and Connie know nothing (ch 20 leaves Ray told 'it can wait'). Connie's baby shoes and bracelet (ch 12).
 
+## Revision 2 (13 Oct 2026): the Julian conflict, Danny's flaw, open threads closed
+
+Decided by Lothar: "fix all to get to 10, aim at 11" after the reader review (`notes/REVIEW_2026-10-13.md`). These decisions supersede earlier ones where they conflict.
+
+- **Julian acts.** After the 2030 offer (ch 16) Julian moves against Danny's refusal. In 2032 his foundation buys the old clinic building and its records and opens the grey cabinet: he now holds Stone's original index pages but cannot read them (Stone lost the grammar; only Danny can read them, from Stone's notebook). He needs Danny as translator. This is the thriller engine of the middle of Part Two.
+- **Julian's plan.** He intends to reveal himself as "one of them" at the right moment (after a managed leak), run for president as the first openly enhanced leader of a tolerant nation, and then quietly pursue Stone's century plan with state resources. He is Stone's heir by temperament, not by design (bad luck stays: nothing made him a sociopath).
+- **Julian recruits the vulnerable.** His foundation finds the four "question mark" cohort members before Danny can help them, and offers them money, treatment and belonging. Danny's rule (no one approached by surprise) is beaten by Julian's rule (everyone is approached by kindness). Resolutions: the boy who stopped speaking (now a young man, Tobias) is happier among Julian's sign-language-and-music program than Danny feared, which complicates the picture; the young woman who "heard the building" (Imke) is in Julian's private clinic and well treated, and does not want to leave; the young man who left home (Theo) works for the foundation and is loyal; the woman who lives in a field (Maren) refuses everyone, including Julian, and is left in peace. None is a victim cartoon.
+- **The cabinet confrontation (2033).** In Stone's old laboratory Julian shows Danny the pages and the incubator and says he cannot read them. They duel by reading each other. Danny walks out refusing. Julian lets him go: "I'm very patient."
+- **Danny's flaw: certainty and deciding for others.** Boy: he trusts his ears completely and once convicts an innocent person of lying (comic, humbling; ch 9). Adult: he hid Julian's 2027 card and his own knowledge of Julian from Mira and the club for years; Mira finds out (ch 17) and ends contact for a year. In 2036 he drafts a public statement naming Julian and himself and exposing the cohort without asking anyone, which is exactly what Stone would have done.
+- **The Draft (2036).** The night before the shooting Danny has the statement written and scheduled. Mira begs him not to. He decides to send it at dawn. The assassination pre-empts him. His relief, guilt and "floor" now include the discovery that he was about to become Stone. He deletes the statement the next morning and tells Mira.
+- **The last-batch girl.** She is Wren (placeholder), born early 2013. After the leak she traces the clinic records herself and approaches Danny: "I would like to know." She reverses his rule and speaks for the young: she wants to be known, not hidden. She attends the Munich table (ch 23) and disagrees with the quiet majority; the club decides to let each carrier choose, including her.
+- **The vault pages** (left in the cabinet in 2012) are what Julian acquires; their fate: Danny takes the originals out of Julian's reach in the cabinet scene or Julian's death leaves them in the foundation's archive; the epilogue settles it (Danny retrieves them after the funeral and brings one copy to Stone).
+- **Cure bridging.** The 2033 molecule is acute (protects tissue in the first hours). During its trials Dr. Voss's group sees that repeated courses wake dormant circuits in old injuries; the 2035 late-recovery trial is the treatment Stone receives in 2036 under compassionate use.
+- **Satire sharpened.** Add a campaign focus-group scene (ch 14), a cable-panel scene (leak chapter) and a flat-pack of absurd slogans; keep the gun irony offstage and short.
+- **Voice.** Danny's sentences are blunter, funnier and more self-deprecating than Stone's; Stone keeps the long reasoned sentences and confessional tics. The "I want to be exact" family belongs to Stone only.
+- **Length.** Target raised to about 200 pages (about 60,000 words), 24 chapters. Part Two now runs: 8 The Notebook, 9 Odd Moments, 10 The Search, 11 The Phonetician, 12 Under Cover, 13 Munich, 14 The Prize, 15 The Child, 16 Restart, 17 The Foundation, 18 The Cabinet, 19 More Than Enough, 20 Four Question Marks, 21 The Leak, 22 The Draft, 23 Duck and Rabbit, 24 The Four Minutes.
+- **Placeholder names added:** Tobias, Imke, Theo, Maren, Wren, the foundation (working name "Leaf Foundation", after the clinic program's green leaf logo).
+
 ## Open decisions
-1. Pen name is Frank Stone; still open: whether it stands alone (like Kevin Drew Peters) or "Lothar J. Musiol writing as", and its About the Author and Also-by treatment.
+1. Pen name is Genevieve Crisp, settled 13 Oct 2026 as the dual byline "Lothar J. Musiol writing as Genevieve Crisp" (same as Lolly Wren). About the Author is Version B after a pen-name paragraph; Also-by uses the canonical list.
 2. (Settled 12 Oct 2026: title is Forbidden Offspring, folder `Forbidden_Offspring`. Earlier working title: The Edit.)
 3. POV (settled 12 Oct 2026): two-part structure. Part One is told by Frank Stone (his account: the four minutes, the clinic, raising the boy, Singapore, his attempt to flee). The stroke is the hinge. Part Two is told by the edited offspring, now a teen or adult, who finds Stone's account and continues the story. Open sub-questions: narrator's age and first vs third person in Part Two; what Stone's surviving account is (see below).
 4. A concrete external threat or deadline (the Singapore papers, a regulator, a leak) to give the quiet plot a clock.

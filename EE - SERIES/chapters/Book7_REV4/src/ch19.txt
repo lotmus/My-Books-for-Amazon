@@ -1,0 +1,66 @@
+H1: Chapter 19. Design for Manufacture and Test
+P: A board has five thousand solder joints and each one is good with a probability of 99.9995 %. Fewer than one board in forty has a defect, which sounds excellent until you multiply by a million boards. Then the question becomes how many of those twenty-five thousand bad boards your test catches, and how many reach a customer.
+P: Where you meet this: Every contract manufacturer's line, every pick-and-place machine and reflow oven, every boundary-scan port on a JTAG header, every chip's scan test before it leaves the factory, and every camera module that is focused and tested before it goes into a phone or robot.
+P: A board that works on the bench is not yet a product. It must be built in volume, by machines, with solder paste, ovens, and inspection, and every unit must be tested quickly enough to be affordable and thoroughly enough that bad units do not reach the customer. Design for manufacture and design for test are the habits that make that possible, and they are decided in the layout, not on the factory floor.
+H2: 19.1 Assembly yield
+P: A modern board has thousands of solder joints, and each has a small probability of a defect: an open, a bridge, a tombstoned passive, a void under a power pad. Defect rates are quoted in parts per million per joint. As with die yield in Chapter 8, the board yield is the probability that none of its joints is defective, which for small rates is an exponential in the total expected number of defects.
+EQ: Y = exp(−N × p)
+H2: Worked Example 19.1
+P: Problem. A board has 2000 joints with a defect rate of 10 ppm per joint. Find the first-pass assembly yield.
+P: Solution. Y = exp(−2000 × 10×10⁻⁶) = exp(−0.02) = 0.980, so about 2% of boards have at least one defect. On a 10,000-unit build that is about 200 boards for rework, which is why the layout rules below, which lower p, are worth following.
+H2: 19.2 Layout rules that lower defects
+P: Solder paste is printed through a stencil, and an aperture releases its paste cleanly only if its opening area is large compared with the area of its walls. The area ratio, opening area divided by wall area, should be at least about 0.66; for a round aperture of diameter d in a stencil of thickness t it is d/(4t). Other rules follow from the same physical reasoning: pads sized to the component, thermal reliefs on large copper so a joint heats evenly, fiducials for the placement camera, components oriented consistently for the oven, and clearances around tall parts so inspection can see the joints.
+EQ: area ratio = (opening area)/(wall area) = d/(4t) for a circle
+H2: Worked Example 19.2
+P: Problem. A 0.25 mm round aperture is cut in a 0.10 mm stencil. Is its area ratio acceptable? What stencil thickness would make it so?
+P: Solution. The ratio is 0.25/(4 × 0.10) = 0.625, below 0.66, so paste release will be unreliable. A 0.08 mm stencil gives 0.25/0.32 = 0.78, acceptable, but it also thins the paste on larger parts; a stepped stencil or a larger aperture is the usual compromise.
+P: Key idea. Yield is the probability that none of thousands of joints fails, so per-joint defect rates in parts per million matter. The layout sets those rates through pads, apertures, and access.
+H2: 19.3 Test coverage and escapes
+P: Test cannot find every defect. The fraction of possible faults a test can detect is its coverage T. The defect level, the fraction of shipped units that are bad, depends on both the yield and the coverage. The Williams-Brown relation, developed for integrated circuits and widely used for boards, gives it directly, and it shows that coverage is the lever once yield is fixed.
+EQ: DL = 1 − Y^(1 − T)
+FIG: fig19_1.png | Figure 19.1 — Defect level shipped, 1 − Y^(1−T), against test coverage for yields of 98 % and 90 %. At 98 % yield, 95 % coverage ships 1010 ppm and 99 % ships 202 ppm. | Log plot of defect level in parts per million falling steeply as coverage approaches 100 percent; two curves, with points at 1010 and 202 ppm on the 98 percent curve.
+H2: Worked Example 19.3
+P: Problem. With Y = 0.98, find the defect level for test coverage of 95% and of 99%.
+P: Solution. For T = 0.95, DL = 1 − 0.98^0.05 = 0.00101, about 1010 ppm shipped bad. For T = 0.99, DL = 1 − 0.98^0.01 = 0.000202, about 202 ppm. Four more points of coverage reduce escapes fivefold.
+H2: 19.4 Test methods and access
+P: Automated optical and X-ray inspection check joints without electrical contact; X-ray is needed for ball-grid arrays, whose joints are hidden. In-circuit test presses a bed of nails onto test pads and measures components one at a time; a flying-probe tester does the same with moving probes and no custom fixture, more slowly. Boundary scan, IEEE 1149.1, adds a shift register at the pins of compliant chips so a tester can drive and read every pin through a four-wire port, reaching the joints under a BGA that no probe can touch. Functional test finally runs the product's own firmware. Each method needs something from the layout: test pads on a grid, the scan chain connected, and a programming header. Adding them after the layout is frozen is expensive.
+H2: 19.5 Placement accuracy and process capability
+P: After printing, the placement machine sets each part on its paste, and its accuracy is a statistical quantity. If the offset of placed parts from their pads has a mean µ and a standard deviation σ, and the design tolerates offsets between a lower limit LSL and an upper limit USL, the process capability index Cpk = min(USL − µ, µ − LSL)/(3σ) says how many standard deviations fit between the process and the nearest limit, in units of three. A Cpk of 1.0 puts the nearest limit at 3σ, about 1350 parts per million outside on that side; 1.33 puts it at 4σ, about 32 ppm; and 1.67 at 5σ, about 0.3 ppm. Because a board carries thousands of parts, the per-part rate multiplies, exactly as the defect rate did in Section 19.1, and factories quote Cpk of 1.33 or better for placement. Smaller parts and finer pitches shrink the tolerance faster than machines shrink σ, which is why 01005 and 008004 passives demand the best placement heads and why a mean offset, a calibration error, costs capability as surely as scatter does.
+EQ: Cpk = min(USL − µ, µ − LSL) / (3σ)
+H2: Worked Example 19.4
+P: Problem. A placement process has a mean offset of 5 µm and σ = 15 µm, and the pads tolerate ±75 µm. Find Cpk and the fraction of placements outside the tolerance. What fraction of boards with 2000 parts has at least one?
+P: Solution. Cpk = (75 − 5)/(3 × 15) = 1.56. The near limit is 70/15 = 4.67σ away, a one-sided tail of about 1.5 ppm; the far limit at 5.33σ adds about 0.05 ppm. A board with 2000 parts then has about 2000 × 1.5 × 10⁻⁶ = 0.003, so 0.3 % of boards carry a misplaced part. Removing the 5 µm mean offset would raise Cpk to 1.67 and cut that rate to about 0.6 ppm, nearly three times lower.
+H2: 19.6 Testing an ASIC and bringing up first silicon
+P: A chip is tested twice before it is sold: at wafer sort, through a probe card on every die, and at final test after packaging. The workhorse is scan: every flip-flop is chained into long shift registers, automatic test-pattern generation computes patterns that detect modeled faults, and the tester shifts each pattern in, clocks the logic once, and shifts the result out. Memories test themselves with built-in self-test, and the IEEE 1149.1 JTAG port of Section 19.4 gives the access. Tester time costs money by the second, so on-chip compression feeds many short internal chains from a few pins.
+P: The first wafers back from the fab are brought up on a bench board designed for it: current-limited supplies sequenced in the specified order, a current monitor on every rail, the JTAG port, and test points on the clocks. The order is always the same: power up and compare each rail's current with its prediction, read the JTAG ID, lock the PLLs, run the memory self-tests, then scan, then functional tests, and finally characterize the chip across voltage, temperature, and frequency with shmoo plots that show where it passes. FPGA prototypes of the design, run before tape-out, let the software team arrive with working code.
+H2: Worked Example 19.5
+P: Problem. A chip has 20 million scan flip-flops in 2000 chains and needs 15,000 patterns, shifted at 100 MHz. Find the scan test time, and the time with 50× compression. At a declared tester cost of $0.04 per second, what does scan cost per die in each case?
+P: Solution. Each chain holds 20 × 10⁶/2000 = 10,000 flip-flops, so each pattern takes 10,000 shift cycles, and 15,000 patterns take 1.5 × 10⁸ cycles, 1.5 s at 100 MHz. With 50× compression the internal chains are 50 times shorter and the time falls to 0.03 s. At $0.04 per second the cost falls from $0.06 to $0.0012 per die, and the saving on a million dies is about $59,000, before counting the testers that need not be bought.
+H2: 19.7 Testing a camera module
+P: A camera module, an image sensor behind a lens, is assembled by active alignment: the sensor streams images of a test chart while a robot moves the lens in six axes until the sharpness, measured as the spatial frequency response of slanted edges in the center and corners, peaks, and then UV-cured adhesive freezes it in place. The module is then tested for defective pixels, dark current, shading and color, and its calibration is stored in the module's memory. The reader lab's ESP32-S3 camera board shows the simpler alternative: a lens screwed into a threaded holder, focused once by hand.
+H2: Worked Example 19.6
+P: Problem. A Sony IMX219 sensor, used in the Raspberry Pi Camera v2, has 1.12 µm pixels behind an f/2.0 lens. Find the sensor's Nyquist frequency in line pairs per millimeter, and the depth of focus if a blur of two pixels is acceptable. Why does such a module need active alignment?
+P: Solution. Nyquist is 1/(2 × 1.12 µm) = 446 lp/mm. With an acceptable blur circle c = 2 × 1.12 = 2.24 µm, the depth of focus is ±Nc = ±2.0 × 2.24 = ±4.5 µm. Adhesive shrinkage during curing and the tolerances of the lens barrel and holder are each several micrometers, so a module assembled to mechanical stops alone would often be out of focus or tilted across the image; measuring the image while aligning puts the tolerance where it is needed.
+P: Assembly and test complete the product's journey through the factory. Chapter 20 turns to measuring what was built, starting with the interconnect itself.
+BENCH: Design the test before the layout freezes: test points on every net that a flying probe must reach, a boundary-scan chain through every compatible part, and a fiducial on every panel. For a new chip, plan its bring-up board with power sequencing, current monitors on every rail, and a JTAG connector, because the first silicon will need all three.
+P: On the Job
+P: Test and product engineers for an ASIC or SoC own the chip from the first wafer to volume. Their tools are the automatic test equipment, such as an Advantest V93000 or Teradyne UltraFLEX, scan-insertion and pattern-generation software from Synopsys, Cadence, or Siemens, and a bench bring-up board with programmable supplies. A typical task: receive first silicon, bring it up rail by rail, debug the scan patterns that fail on the tester but pass in simulation, then cut test time until the cost per die meets the business plan without letting the escape rate rise.
+P: For the instruments, automation, and measurement-data workflows used in production test, see Book 9, Chapter 36 (Test Sequencing, Production Test, and Measurement Data).
+H2: Practice
+P: 1. Find the yield of a board with 5000 joints at 5 ppm per joint.
+P: 2. Find the defect level for that yield with 98% coverage.
+P: 3. Find the area ratio of a 0.30 mm round aperture in a 0.10 mm stencil.
+P: 4. Find the area ratio of a 0.30 × 0.60 mm rectangular aperture in a 0.10 mm stencil, using LW/(2(L + W)t).
+P: 5. Which test method reaches joints under a BGA without physical probes?
+P: 6. A board yields 95 % before test. What defect level ships with 95 % test coverage, and with 99 %?
+P: 7. A placement process has no mean offset, σ = 20 µm, and a tolerance of ±60 µm. Find Cpk.
+P: 8. A chip has 8 million scan flip-flops in 1000 chains and needs 10,000 patterns at 50 MHz. Find the scan time without compression and with 100× compression.
+H3: What You’ll Actually Use
+P: Everyday working tools
+LI: Y = exp(−Np) for assembly yield.
+LI: Defect level 1 − Y^(1−T).
+LI: Stencil area ratio.
+LI: Cpk.
+LI: Scan test time = patterns × chain length / shift clock.
+P: Mostly for exams and deeper study
+LI: Fault-model theory and automatic test-pattern generation algorithms.

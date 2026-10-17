@@ -1,0 +1,15 @@
+<Window x:Class="BookWriter.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:BookWriter.App"
+        Title="Book Writer" Height="760" Width="1180"
+        Background="{DynamicResource BackgroundBrush}">
+    <TabControl Margin="4" Background="Transparent">
+        <TabItem Header="Write a Book">
+            <local:BookWriterView />
+        </TabItem>
+        <TabItem Header="Edit a Manuscript">
+            <local:BookEditorView />
+        </TabItem>
+    </TabControl>
+</Window>

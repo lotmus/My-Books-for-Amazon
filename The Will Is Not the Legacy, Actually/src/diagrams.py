@@ -5,8 +5,10 @@ from PIL import Image, ImageDraw, ImageFont
 import os, textwrap
 OUT=os.path.join(os.path.dirname(os.path.abspath(__file__)),'diagrams')
 FD='/usr/share/fonts/truetype/sand-box/google/Inter/Inter-VariableFont_opsz,wght.ttf'
+FONT_REG=FD if os.path.exists(FD) else r'C:\Windows\Fonts\Inter-Regular-slnt=0.ttf'
+FONT_BOLD=FD if os.path.exists(FD) else r'C:\Windows\Fonts\Inter-Bold-slnt=0.ttf'
 def F(sz,w=400):
-    f=ImageFont.truetype(FD,sz)
+    f=ImageFont.truetype(FONT_BOLD if w>=600 else FONT_REG,sz)
     try: f.set_variation_by_axes([14 if sz<20 else 24, w])
     except Exception: pass
     return f
@@ -113,7 +115,7 @@ def fig4():
     items=[(130,170,'Bank accounts','Institution, last 4 digits, statements: binder section 2'),
            (400,145,'Insurance','Policy numbers, beneficiaries: binder section 5'),
            (670,170,'Investments and pensions','Provider, account type, beneficiary form copy'),
-           (130,520,'Passwords','Password manager with emergency access; device codes sealed with the will'),
+           (130,520,'Passwords','Vault emergency access; backup device codes kept outside the will'),
            (400,560,'Documents','Original will, powers of attorney, deeds: where each original is'),
            (670,520,'Property and debts','Deeds, mortgage, anything recorded against the house')]
     for x,y,t,b in items: d.line([(cx,cy),(x,y)],fill=GREY,width=3)

@@ -1,3 +1,11 @@
+# REV4 source-of-truth update — 15 October 2026
+
+This section overrides older instructions below wherever they conflict. `The Dolphins' View of History - REV4.docx` is the current master and source of truth. REV3, REV4 batch drafts, and the former `chapters/*.docx` build outputs are superseded and belong in ignored `bak/`; do not use them to rebuild or replace REV4. The active Markdown working copies and `notes/The Dolphins' View of History - Complete Manuscript.md` were synced from REV4. They contain the Prologue, 40 chapters, and active appendices/back matter. The Timeline remains DOCX-only.
+
+The generator `scripts/_generate.js` predates REV4 and is not synchronized with the current master. **Do not run it** until it has been deliberately ported to REV4 and audited; it would overwrite the current deliverable with older text and chapter files.
+
+Standing rule: no sentence may repeat within this book. Run `scripts/check_repeats.js` against the current REV4 master after any text change. It checks exact repeated sentences, runs of seven or more words, near-duplicate sentences, and duplicate notes entries. It must report `No repeated sentences found.` Before a future build, update this checker to read that build's actual master.
+
 # The Dolphins' View of History — working instructions
 
 ## Scope: stay in this folder
@@ -150,3 +158,8 @@ touching, say so and wait to be asked — don't go do it.
 - **Physics chapter:** "The rest of the ledger" ported (trimmed, corrected, 13 sourced notes); "The outlook, without a trumpet" HELD in the Held Back note (repeats the appendix, Epilogue and Fractured Present chapter; dated claims; unsourced).
 - **The `.md` track matches the build again.** The changed chapter `.md` files and the Complete Manuscript `.md` were regenerated from the built `.docx` (unchanged paragraphs kept verbatim; new ones written with straight quotes; source links as Markdown links). The Long View `.md` now has the four folded timelines; the Complete Manuscript `.md` now has the Timeline, the review line, About the Author and the current Also-by. The known gap noted on 10 October is closed. `chapters/Also by Lothar J. Musiol.md` is kept by the Also-by process and matches the build in content.
 - Old master and old `.md` files: `bak/2026-10-11 pre-held-back/`.
+
+
+## Review refinements, 16 October 2026
+
+REV4 received a focused follow-up pass against an external review. The dictator overview’s repeated account of authoritarian takeovers was removed. Climate’s heat-dome paragraph now identifies the 619 heat-related deaths in British Columbia and summarizes the coroner’s profile of victims; the official report is cited in Notes and Sources. The Ottoman chapter now reads Articles 8 and 11 of the 1876 constitution together, with a cited primary-source entry. The Timeline’s Artemis II line reflects the completed 2026 mission. Six timeline strips, image alt text, and the Japanese primary-source/Professor scene were already present and verified. The Latin America chapter’s commission report and witness-based material were retained without expansion. No repeated sentences found after the edit.

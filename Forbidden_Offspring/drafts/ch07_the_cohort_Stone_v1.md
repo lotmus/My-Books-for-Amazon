@@ -6,7 +6,7 @@
 
 I kept notes on the children the way a farmer keeps notes on weather: not because the notes change anything, but because a man who does not write it down begins to believe he remembers it.
 
-There were never many. I will say that in my defense, if a defense is wanted. Over eleven years, in four hours a week, on one old incubator, I made fewer than sixty people. Some of those I never saw again after the transfer. Some I saw once, at a distance, in a park or a school corridor, and went home pleased and ashamed. The ones I tracked I tracked from outside, through the same public tables and school newsletters that had given me Danny Pruitt, and the notes that follow are what those sources gave me, and what I could not help noticing.
+There were never many. I say that in my defense, if a defense is wanted. Over eleven years, in four hours a week, on one old incubator, I made fewer than sixty people. Some of those I never saw again after the transfer. Some I saw once, at a distance, in a park or a school corridor, and went home pleased and ashamed. The ones I tracked I tracked from outside, through the same public tables and school newsletters that had given me Danny Pruitt, and the notes that follow are what those sources gave me, and what I could not help noticing.
 
 I give them as I wrote them, with the names changed in my head if not on the page.
 
@@ -40,7 +40,7 @@ There were four I watched more closely, because they were interesting to me, and
 
 **A boy named Julian,** whom I will not describe in detail. He was the easiest child to like I have ever seen. Teachers liked him. Other children liked him. He was funny in the way that makes adults feel clever for noticing. He did not seem to need anything, which is a quality we admire in children and rarely examine. I wrote: *an unusually well-adjusted subject, high social intelligence, no concerns.* That is the sentence in all my notes that I would most like to take back.
 
-I want to be careful about this, because I have been tempted since to tell a different story. I did not make Julian what he became. I have checked, with the only tools I have left, and the answer is that nothing I did could have produced it, because what he turned into is a thing that happens to a small fraction of all children at random, in every place and age, and that I had not designed and could not have prevented. It was bad luck. I want that written down, in my own hand, in case someone later wishes it to have been me.
+I have been tempted since to tell a different story. I did not make Julian what he became. I have checked, with the only tools I have left, and the answer is that nothing I did could have produced it, because what he turned into is a thing that happens to a small fraction of all children at random, in every place and age, and that I had not designed and could not have prevented. It was bad luck. I want that written down, in my own hand, in case someone later wishes it to have been me.
 
 ---
 

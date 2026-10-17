@@ -8,7 +8,7 @@ def body(text):
     i=0
     while i<len(lines):
         l=lines[i].strip()
-        if l=="" or l.startswith("#") or l.startswith("*Trial draft") or l.startswith("*Short draft") or l.startswith("*Expansion scene") or l.startswith("*Expanded draft") or l=="---":
+        if l=="" or l.startswith("#") or l.startswith("*Trial draft") or l.startswith("*Short draft") or l.startswith("*Expansion scene") or l.startswith("*Expanded draft") or l.startswith("*v2,") or l.startswith("*Revision 2 chapter") or l=="---":
             i+=1; continue
         break
     out=[]
@@ -28,7 +28,10 @@ for n in list(short):
     if os.path.exists(f): short[n]=(short[n][0],body(open(f,encoding='utf-8').read()))
 def join(*fs): return "\n\n* * *\n\n".join(body(rd(f)) for f in fs)
 out=[]
-out.append("# Forbidden Offspring\n\n*A novel*\n")
+BYLINE="Lothar J. Musiol writing as Genevieve Crisp"
+out.append("# Forbidden Offspring\n\n*A novel*\n\n"+BYLINE+"\n\n"
+"Copyright © 2026 Lothar J. Musiol. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the author, except in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.\n\n"
+"This is a work of fiction. All people, clinics, universities, companies, parties and offices in the story are invented, and any resemblance to real ones is coincidence. The Appendix and the Notes and Further Reading refer to real science and real publications.\n")
 out.append("---\n\n# Consent\n\n"+body(rd("prologue_consent_v1.md")).replace("* * *","---")+"\n")
 out.append("\n# PART ONE: STONE\n")
 P1=[(1,"Four Minutes",["ch01_four_minutes_Stone_v1.md","ch02_the_transfer_Stone_v1.md"]),
@@ -59,10 +62,26 @@ for n,t,fs in P1:
     out.append(NL+"## "+str(n)+". "+t+NL+NL+text+NL)
 out.append(f"\n## 7. {short[7][0]}\n\n"+short[7][1]+"\n")
 out.append("\n# PART TWO: THE OFFSPRING\n")
-for n in range(8,21):
-    out.append(f"\n## {n}. {short[n][0]}\n\n"+short[n][1]+"\n")
-out.append("\n---\n\n# Appendix: The Science Behind the Story\n\n"+body(rd("appendix_genetics_v1.md"))+"\n")
-out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v1.md"))+"\n")
+PART2=["ch08.md","ch09.md","ch10.md","ch11.md","ch12.md","ch13.md","ch14.md","ch15.md","ch16.md","ch17a_foundation.md","ch17b_cabinet.md","ch17.md","ch19b_question_marks.md","ch18.md","ch22_draft.md","ch19.md","ch20.md"]
+chap_words=[]
+for k,fn in enumerate(PART2):
+    n=8+k
+    raw=open(D+'expanded/'+fn,encoding='utf-8').read()
+    title=re.search(r"^## \d+[a-z]?\. (.+)$",raw,flags=re.M).group(1).strip()
+    b=body(raw)
+    chap_words.append((n,title,len(re.findall(r"\w+",b))))
+    out.append(NL+"## "+str(n)+". "+title+NL+NL+b+NL)
+out.append("\n---\n\n# Appendix: The Science Behind the Story\n\n"+body(rd("appendix_genetics_v2.md"))+"\n")
+out.append("\n---\n\n# Notes and Further Reading\n\n"+body(rd("bibliography_v2.md"))+"\n")
+# back matter: pen-name note + About the Author (Version B, American-English book) + Also by (canonical list)
+ab=open("notes/ABOUT_THE_AUTHOR - canonical.md",encoding="utf-8").read()
+vb=ab.split("## Version B",1)[1].split("Plain-text copies",1)[0].strip()
+pen="Genevieve Crisp is a pseudonym. She takes full responsibility for the four minutes."
+out.append("\n---\n\n# About the Author\n\n"+pen+"\n\n"+vb+"\n")
+al=open("notes/ALSO_BY - canonical list.md",encoding="utf-8").read()
+al=al.split("## Also by Lothar J. Musiol",1)[1].split("## Also by Kevin",1)[0].strip()
+al="\n".join(l for l in al.split("\n") if not l.startswith("- Forbidden Offspring"))  # leave out the book itself
+out.append("\n---\n\n# Also by Lothar J. Musiol\n\n"+al+"\n")
 txt="\n".join(out)
 # reader copy: strip internal verification notes and the working status section
 txt=re.sub(r"\s*\*\((?:Verify|Cite from)[^)]*\)\*","",txt)
@@ -72,4 +91,5 @@ txt=re.sub(r"\n\* \* \*\n\n## Status\n.*\Z","\n",txt,flags=re.S)
 open("Forbidden_Offspring/manuscript/Forbidden_Offspring_working_v1.md","w",encoding="utf-8").write(txt)
 words=len(re.findall(r"\w+",txt))
 print("words",words,"pages@300",round(words/300))
-for n in range(7,21): print(n,short[n][0],len(re.findall(r"\w+",short[n][1])))
+print(7,short[7][0],len(re.findall(r"\w+",short[7][1])))
+for n,t,w in chap_words: print(n,t,w)

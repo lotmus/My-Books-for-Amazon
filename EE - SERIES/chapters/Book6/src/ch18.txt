@@ -12,6 +12,7 @@ P: Problem. Find the ripple-cancellation factor at D = 1/12 for one, four, and s
 P: Solution. One phase: K = 1. Four phases at D = 1/12: ND = 0.333, m = 0, and K = 4 × (1/12)(1/4 − 1/12)/((1/12)(11/12)) = 0.727. Six phases: K = 0.545. Four phases at D = 0.25: ND = 1, an integer, so K = 0, perfect cancellation. A 48 V intermediate bus or a lower input voltage raises D and improves cancellation, one of the trade-offs in choosing the bus.
 H2: 18.2 Current sharing
 P: Parallel phases must share the load current, or one phase overheats. Each phase senses its own current, from a resistor, the inductor's DC resistance, or the switch's on-resistance in an integrated power stage, and the controller trims each phase's duty cycle to equalize them. Smart power stages report current and temperature digitally to the controller, which can also shed phases at light load as Chapter 11 described. With 20 phases, the 875 A load is 43.8 A per phase, a comfortable rating for an integrated power stage.
+P: A simple limit check shows why average current is not enough. Suppose eight phases supply 800 A, so the mean is 100 A per phase. If current sharing leaves one illustrative phase 10 % high, it carries 110 A while the other seven average about 98.6 A. A phase designed for a 105 A continuous limit is already overloaded even though the total is exactly 800 A; its current limit or thermal protection can remove it, forcing the remaining phases to pick up the load and risking a processor-rail droop. Real limits and transients must come from the selected power stage and controller data.
 H2: Worked Example 18.2
 P: Problem. A 20-phase regulator converts 12 V to 0.8 V at 800 kHz with 100 nH per phase. Find each phase's ripple and the total ripple with interleaving.
 P: Solution. D = 0.8/12 = 0.0667. Each phase's ripple is (12 − 0.8) × 0.0667/(100 nH × 800 kHz) = 9.33 A. With N = 20, ND = 1.33 and m = 1, so K = 20 × (0.0667 − 0.05)(0.10 − 0.0667)/(0.0667 × 0.933) = 0.179, and the total ripple is 1.67 A at 16 MHz, small compared with the 875 A load and easy for the output capacitors to absorb.
@@ -53,6 +54,7 @@ P: 6. Why does the output ripple appear at N times the switching frequency?
 P: 7. At what load current does adding a second phase reduce loss, for the regulator of Worked Example 18.5?
 P: 8. Why does inverse coupling reduce ripple without slowing the transient response?
 P: 9. Find the resistance change of a copper winding heated from 25 °C to 100 °C.
+P: 10. Eight phases supply 800 A. One phase carries 10 % above the 100 A mean; the other seven share the remainder equally. Find the high phase current and the mean current in the other phases. If the stated continuous limit is 105 A per phase, what is the design concern?
 H3: What You’ll Actually Use
 P: Everyday working tools
 LI: Interleaving and the cancellation factor K(N, D).

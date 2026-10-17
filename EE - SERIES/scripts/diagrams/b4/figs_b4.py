@@ -30,16 +30,19 @@ ax.set_ylim(0, 2.25); ax.invert_xaxis(); ax.legend(loc='upper center', ncol=1, f
 ax.text(0.98, 1.45, 'max 1 + |Γ|', fontsize=9.5, color=BLUE); ax.text(0.73, 0.5, 'min 1 − |Γ|', fontsize=9.5, color=BLUE)
 ax.text(0.5, 0.08, 'peaks repeat every half wavelength', ha='center', fontsize=9.5, color=GRAY)
 save(f, O + 'b4_standing.png')
-# ---- 3: return loss of the L and pi matches (Worked Examples 3.1, 3.2), from the component values
+# ---- 3: ideal L/pi matches and the same L-match with a modeled ground via
 f, ax = fig(8, 4.5); fr = np.linspace(1.5e9, 3.5e9, 2001); w = 2*np.pi*fr
 Zin = 1/(1/(10 + 1j*w*1.30e-9) + 1j*w*2.60e-12); RL1 = -20*np.log10(abs((Zin-50)/(Zin+50)))
 Z = 1/(1/10 + 1j*w*13.3e-12) + 1j*w*0.88e-9; Zin = 1/(1/Z + 1j*w*6.50e-12); RL2 = -20*np.log10(abs((Zin-50)/(Zin+50)))
-ax.plot(fr/1e9, RL1, color=BLUE, lw=2.2, label='L-network, Q = 2 (1.30 nH, 2.60 pF)')
-ax.plot(fr/1e9, RL2, color=RED, lw=2.2, label='pi network, Q = 5 (6.50 pF, 0.88 nH, 13.3 pF)')
+Zvia = 1/(1j*w*2.60e-12) + 1j*w*0.75e-9
+Yvia = 1/(10 + 1j*w*1.30e-9) + 1/Zvia; Zvia_in = 1/Yvia; RLvia = -20*np.log10(abs((Zvia_in-50)/(Zvia_in+50)))
+ax.plot(fr/1e9, RL1, color=BLUE, lw=2.2, label='L-network, ideal (Q = 2)')
+ax.plot(fr/1e9, RL2, color=RED, lw=2.2, label='pi network, ideal (Q = 5)')
+ax.plot(fr/1e9, RLvia, color=GREEN, lw=2, ls='--', label='L-network + 0.75 nH ground via*')
 ax.axhline(10, color=GRAY, ls='--', lw=1); ax.text(1.52, 10.6, '10 dB return loss', fontsize=9.5, color=GRAY)
 ax.annotate('', xy=(1.94, 7), xytext=(2.87, 7), arrowprops=dict(arrowstyle='<->', color=BLUE)); ax.text(2.405, 5.3, '1.94 to 2.87 GHz (38 %)', ha='center', color=BLUE, fontsize=9.5)
-ax.annotate('', xy=(2.31, 13), xytext=(2.57, 13), arrowprops=dict(arrowstyle='<->', color=RED)); ax.text(2.62, 13.4, '2.31 to 2.57 GHz (10 %)', color=RED, fontsize=9.5)
-ax.set_ylim(0, 40); ax.set_xlabel('frequency (GHz)'); ax.set_ylabel('return loss (dB, higher is better)'); ax.legend(loc='upper right', fontsize=9.5)
+ax.set_ylim(0, 40); ax.set_xlabel('frequency (GHz)'); ax.set_ylabel('return loss (dB, higher is better)'); ax.legend(loc='upper right', fontsize=8.8)
+ax.text(0.01, -0.24, '* Illustrative series via model; actual inductance depends on geometry and reference plane.', transform=ax.transAxes, fontsize=8.5, color=GRAY)
 save(f, O + 'b4_lmatch.png')
 # ---- 4: Smith chart, single-stub match of 100 + j50 ohm (Worked Example 4.2)
 f, ax = fig(8, 6.4); ax.set_aspect('equal'); blank(ax, (-1.15, 2.1), (-1.12, 1.12))

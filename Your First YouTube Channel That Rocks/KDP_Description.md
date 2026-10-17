@@ -2,16 +2,16 @@
 
 # KDP listing — Your First YouTube Channel
 
-Updated 12 October 2026: title fields aligned with REV23; positioning foregrounds the book’s eight-video, six-week method and one-change feedback cycle; audience guidance added for adults and older teens. YouTube threshold and under-18 payment claims were checked against official YouTube Help pages on 12 October 2026; this is not a full manuscript fact audit.
+Updated 16 October 2026: title and subtitle are unchanged from REV23 and match REV26; positioning foregrounds the book’s eight-video, six-week method and one-change feedback cycle; audience guidance added for adults and older teens. YouTube threshold and under-18 payment claims were checked against official YouTube Help pages on 12 October 2026; this is not a full manuscript fact audit.
 
 ## Title fields
 
-- **Title:** Your First YouTube Channel (matches the REV23 title page; confirm the live KDP listing before saving)
-- **Subtitle:** A Six-Week Guide to Useful Videos, Viewer Feedback, and YouTube’s Changing Rules (title page of REV23)
+- **Title:** Your First YouTube Channel (matches the REV26 title page; confirm the live KDP listing before saving)
+- **Subtitle:** A Six-Week Guide to Useful Videos, Viewer Feedback, and YouTube’s Changing Rules (title page of REV26)
 - **Author:** Kevin Drew Peters
 - **Series:** none. Companion to *How to Publish Your First Kindle Book*.
 - **Edition:** Updated October 2026
-- **Master file:** `Your_First_YouTube_Channel_REV23_sources.docx`
+- **Master file:** `Your_First_YouTube_Channel_REV26_sources.docx`
 
 ## Description (paste into KDP; plain paragraphs, about 1,900 characters)
 

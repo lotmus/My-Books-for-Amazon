@@ -18,7 +18,7 @@ There had been a photographer.
 
 ---
 
-I have said that the clinic's director was a competent and courteous woman. I should say something more, since she is going to matter. I will call her R., because she has asked me never to use her name, and because, more than any person in my life, she deserved to be protected from it.
+The clinic's director was a competent and courteous woman, and she is going to matter. I will call her R., because she has asked me never to use her name, and because, more than any person in my life, she deserved to be protected from it.
 
 She had come to the clinic in the year after I did. She was an administrator by training and a gardener by temperament, and she had an unusual gift, which was that she trusted everyone slightly less than they thought. She was fifty-two in the year 2000. She wore low heels, and carried a large handbag, and kept a bowl of mints on the corner of her desk, which she offered to everyone, including the man who came to read the meter. She had once, in a staff meeting, quoted a poem about bees. She was the only person in the building who ever asked me how I was and waited for the answer.
 

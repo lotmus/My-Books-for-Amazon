@@ -4,11 +4,7 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Updated 13 Oct 2026 (PT): categories, keywords, blurb and age guidance reviewed. Current release master REV14 contains 62,625 words; active line-edit draft REV15 contains 62,619. Listing copy checked against REV15. Every field except one is now filled and checked against the book.
-The one left open is the RELEASE DATE; only Lothar decides that. The AUTHOR
-NAME was decided on 2 Oct 2026 (see below). Website and newsletter lines are marked OPTIONAL: KDP does not
-require them. Price, categories and keywords are a ready-to-paste proposal;
-change them if you want, but nothing else is missing.]
+[Updated 15 Oct 2026 (PT). REV14 remains the preserved release master; REV17 is the newest release candidate, not an approved or published release. See notes/WORK_QUEUE.md and KDP_LAUNCH_CHECKLIST.txt for outstanding continuity/editorial, preview, and account decisions. The versioned REV17 description is mirrored in kdp_description.docx and kdp_description_REV17_RELEASE_CANDIDATE.docx/.txt.]
 
 TITLE
 The Murder That Hadn't Happened Yet
@@ -69,32 +65,25 @@ physics mystery novel, einstein relativity fiction, funny british detective agen
 
 ================================================================================
 KINDLE BLURB (Book Description for KDP Store Page)
-[About 320 words, under KDP's 4,000-character limit. COPY EXACTLY.]
+[280 words, under KDP's 4,000-character limit. COPY EXACTLY.]
 ================================================================================
-
-[Same text as kdp_description.docx (checked 13 Oct 2026; three accuracy edits 10 Oct 2026; age guidance added 13 Oct 2026: no "doom her" since the daughter is never in danger, the photo shows a clock rather than a timestamp, and the story needs no equations). That file now holds
-only the sales description; its old title/byline/"ABOUT THE BOOK" header lines
-were removed. Checked against the book: 9:17 email, 11:03 timestamp, Sophie
-twelve, Penny/Trevor/Barbarian, the cucumber. All true to Chapter 1 onward.
-Keep the two copies identical.]
-
 A MURDER THAT HASN'T HAPPENED YET.
-A photograph from tomorrow.
-And a filing error that has put his daughter in the picture.
+A photograph dated tomorrow.
+And his daughter, paused in the doorway.
 
-At 9:17 on a Tuesday morning, investigator Derek Gent receives an email informing him that he has been murdered. The message is polite, precise, and signed by Derek himself. Worse, the attached photograph shows him face-down on his own office floor, a brass clock on the desk reading 11:03 — the email says tomorrow — and frozen in the doorway behind him, mid-step, is his twelve-year-old daughter.
+At 9:17 on a Tuesday morning, investigator Derek Gent receives an email saying that he has been murdered. It is polite, precise, and signed by Derek himself. The attached photograph shows him face-down on his office floor. A brass clock reads 11:03 — tomorrow, according to the email. In the doorway behind him, his twelve-year-old daughter is caught mid-step.
 
-The clocks in the room disagree.
+The clocks disagree.
 The universe disagrees.
 The paperwork, unfortunately, does not.
 
-Derek has until tomorrow morning to find out who — or what — filed his own death. Special relativity can't explain it. General relativity can't either. And the deeper he digs with his sharp-tongued cousin Penny, his hyper-literal colleague Trevor, and a physicist who insists time itself might not be fundamental, the more it looks like reality itself has made a filing error — one that may have already decided whether his daughter walks through that doorway.
+Derek has until 11:03 the next morning to find out who — or what — filed his death. Special relativity cannot explain the case. General relativity cannot either. With his sharp-tongued cousin Penny, his hyper-literal colleague Trevor, and a physicist who suspects time may not be fundamental, Derek follows the evidence through a mystery built from clocks, frames of reference, and one very ordinary cucumber.
 
 For readers who loved the “wait, WHAT” of Arrival or Tenet, but wanted it funnier, more British, and solvable with an ordinary cucumber.
 
-A mystery that asks the only question that ever really mattered: if you can't trust time, can you trust what you think already happened to the people you love?
+If you cannot trust time, can you trust what you think has already happened to the people you love?
 
-The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau — a mystery where the physics is real, the jokes are dry, and the only way out is to read the clocks properly. No physics needed to follow the case; sixteen short lessons at the back explain the real relativity behind every clue, for readers who want it.
+The Murder That Hadn't Happened Yet is Book 1 of the Relativistic Investigation Bureau: a mystery with real physics, dry jokes, and a case solved by reading the clocks properly. No physics background is needed to follow the story. Sixteen short, optional lessons at the back explain the real relativity behind its clues for readers whose curiosity the story sparks.
 
 Recommended for readers aged 14 and up. Strong readers aged 12 to 13 may also enjoy the mystery, with adult support for the denser physics discussions.
 
@@ -167,28 +156,19 @@ REQUIRED:
 ☑ KDP Select / Kindle Unlimited: proposed YES
 ☐ Publication Date: [DECISION FOR LOTHAR]
 
-COVER REQUIREMENTS (checked 1 Oct 2026 on Kindle Front Cover.jpg):
-☑ JPEG, 1152 x 1728 px, 0.86 MB. Meets KDP's minimum (625 x 1000) and the
-  50 MB limit. KDP's ideal is 1600 x 2560 (ratio 1.6); this file is 1.5. It
-  will be accepted, but an upscale/re-export at 1600 x 2560 would look sharper
-  on high-resolution screens (Lothar's call).
-☑ Title legible at thumbnail size (tested at 100 x 150 px: THE MURDER /
-  HADN'T / YET read clearly)
-☑ Works in grayscale (e-ink): tested; title and byline stay readable
-☑ Series branding: "THE RELATIVISTIC INVESTIGATION BUREAU" and "BOOK 1 IN THE RIB SERIES"
-☑ No watermarks
-☑ Byline on the cover matches the KDP Author field: "Lothar J. Musiol / writing as
-  Spezala Genara Relavi (S.G.R.)" (cover redone 2 Oct 2026; see AUTHOR NAME)
+COVER REQUIREMENTS (checked 14 Oct 2026 against the current files):
+- Marketing/front cover: `Kindle Front Cover.jpg`, JPEG, RGB, 1152 x 1728 px, 0.85 MB. It is below KDP's 1600 x 2560 px recommendation. KDP advises against enlarging small source art to meet the recommendation; re-render from a higher-resolution source before upload. [KDP cover guidelines](https://kdp.amazon.com/en_US/help/topic/G6GTK3T3NUHKLEFX).
+- The attempted generated variant was not adopted: it was lower resolution and introduced inaccurate decorative text.
+- Internal content cover: included once as the first page of the REV17 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
+- Audible cover and back cover are separate assets and are not used as the Kindle eBook marketing cover.
 
-MANUSCRIPT (FINAL_REV11_..._KINDLE_READY.docx, revised 10 Oct 2026; about 0.4 MB):
-☑ .docx (KDP no longer accepts .mobi for ebooks)
-☑ Front matter: title page, copyright, linked table of contents
-☑ Back matter: author bio, Book 2 tease, further reading, bibliography
-☑ Formatting: every section heading is a real Word Heading 1 (so Kindle
-  builds its navigation), with a page break before each chapter/lesson;
-  48-entry front TOC is hyperlinked (every chapter, lesson, appendix item,
-  About the Author, Also by); 0 dead internal links; 0 Word tables; 6 inline
-  diagrams with alt text; typographic (curly) quotes throughout.
+MANUSCRIPT (REV17 release candidate):
+- Candidate: `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
+- Editable source: `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`; paired with the candidate DOCX. REV14 release master is preserved.
+- The source includes the internal front cover, linked table of contents, title/copyright pages, story, optional course, glossary, author matter and bibliography.
+- Six interior science diagrams retain descriptive alt text. Together with the front cover, the DOCX has seven inline images.
+- Structural preflight checks: internal links resolve to bookmarks; heading styles and page breaks are present; DOCX package opens cleanly. Final Kindle Previewer/KDP online preview remains an account-side release check.
+- See `KDP_LAUNCH_CHECKLIST.txt` for remaining actions. Do not call the candidate upload-ready until the external cover is corrected or an explicit decision accepts KDP's lower-resolution reminder and the KDP preview is checked.
 
 SERIES SETUP:
 ☑ Series name: "The Relativistic Investigation Bureau"

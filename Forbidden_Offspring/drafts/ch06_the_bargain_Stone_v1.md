@@ -14,7 +14,7 @@ When she had gone the boy lifted the lid, smelled it with his eyes closed, and s
 
 "I'm an average child with unusual hearing," he said. "It's the same thing." He fetched two bowls, as if he had done it all his life, and sat down across from me with the book beside his spoon. "I'm going to say what I want. Then you can say what you want. Then we'll see if there's a place where they touch."
 
-I want to be honest about what I felt, since it was not what I had prepared for. I felt, to my surprise, the thing I feel in front of a good student.
+It was not what I had prepared for. I felt, to my surprise, the thing I feel in front of a good student.
 
 ---
 

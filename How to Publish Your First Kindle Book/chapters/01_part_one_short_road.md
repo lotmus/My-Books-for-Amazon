@@ -22,9 +22,9 @@ If a line is blank, do not pay for an ad, a promotion, or a stack of free copies
 
 ## Chapter 1: Write one kind of book
 
-The example book is a cozy mystery: one ferry office, one missing guest, one week, and the woman who keeps the office has to solve it. That is one kind of book. Her sentence for it is: a gentle mystery, a small town, no gore.
+The example is a cozy mystery set in a ferry office. A guest vanishes, and the woman who runs the office has one week to find him. Its promise is simple: a gentle small-town mystery, without gore.
 
-Write the one sentence you could print under your title. Then write one page for the path: what the reader knows at the start and what they know at the end. If you can retell your book only by listing someone else’s chapters, you copied a table of contents; invent your own.
+Write one sentence you could print beneath your title, then one page tracing the reader's path: what they know at the start and what they understand by the end. If all you can do is list someone else's chapters, you have a table of contents, not the book's own shape. Find the story or argument that makes yours distinct.
 
 ### Your action
 
@@ -98,7 +98,7 @@ Show your first two sentences to one stranger. If they cannot say who the book i
 
 **The thumbnail test.** Shrink your cover until it is about the size of a postage stamp, or look at it on your phone’s screen at arm’s length. You must still read the title, and you must still know what kind of book it is. A quiet mystery should not look like a thriller or a textbook. Do not rely on color alone; some screens show the cover in gray. If the title fails, the rest of the design does not matter yet. Chapter 22 covers genre conventions, hierarchy, and what covers cost.
 
-**Keywords.** KDP gives you seven keyword boxes. Fill them with short phrases a reader would type, like the shared phrases from Chapter 2, not single words such as “book.” Her seven: small town sleuth, amateur detective inn, clean no gore, village puzzle, quiet village detective, gentle puzzle novel, weekend read. She leaves out the word “mystery”, because her category already carries it (Chapter 23).
+**Keywords.** KDP gives you seven keyword boxes. Fill them with short phrases a reader would type, like the shared phrases from Chapter 2, not single words such as “book.” Her seven phrases are: small-town sleuth, amateur sleuth at an inn, quiet village detective, gentle puzzle novel, village puzzle, clean read with no gore, weekend read. She leaves out the word “mystery”, because her category already carries it (Chapter 23).
 
 **Categories.** You choose up to three. Pick the closest true shelves where your five comparison books sit, not the biggest shelf in the store. Chapter 23 has the rules and the reasons.
 

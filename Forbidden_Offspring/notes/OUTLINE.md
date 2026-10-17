@@ -1,4 +1,25 @@
-# Forbidden Offspring: full outline (v1, 12 Oct 2026)
+# Forbidden Offspring: full outline (v2, 13 Oct 2026)
+
+## CURRENT STRUCTURE (Revision 2, 13 Oct 2026): 24 chapters, about 58,000 words, about 195 pages
+
+This section supersedes the 20-chapter map below. The old 33-item scene list further down is kept only as history. Chapter files live in `drafts/expanded/`; the build script (`build_manuscript.py`) numbers Part Two automatically from its ordered list.
+
+**Prologue:** Consent (a clinic form).
+
+**Part One: Stone** (chapters 1 to 7, 1999 to 2012): 1 Four Minutes, 2 Test Time, 3 The Ledger, 4 The Second Listener, 5 The Apartment, 6 The Bargain, 7 The Stroke.
+
+**Part Two: The Offspring** (chapters 8 to 24, 2012 to 2036):
+8 The Notebook (`ch08`) / 9 Odd Moments (`ch09`, now with the Mr. Hale misjudgment and Connie's diploma) / 10 The Search (`ch10`) / 11 The Phonetician (`ch11`) / 12 Under Cover (`ch12`) / 13 Munich (`ch13`) / 14 The Prize (`ch14`, with the satirical Senate year) / 15 The Child (`ch15`) / 16 Restart (`ch16`) / **17 The Foundation** (`ch17a_foundation`; 2032; Julian buys the clinic; Mira finds out about the card; a year of silence) / **18 The Cabinet** (`ch17b_cabinet`; 2033; the confrontation in Stone's laboratory; Julian screens children) / 19 More Than Enough (`ch17`; genomes out, the cure research, the late-recovery bridge) / **20 Four Question Marks** (`ch19b_question_marks`; 2034; Tobias, Imke, Theo, Maren; the rule changes) / 21 The Leak (`ch18`; 2035; a managed leak, the cable panel) / **22 The Draft** (`ch22_draft`; 2036; Danny drafts and schedules a statement exposing Julian, against Mira's plea, and Wren's urging) / 23 Duck and Rabbit (`ch19`; the assassination; Danny deletes the draft and sees he was about to be Stone; the Munich table, Wren, Theo) / 24 The Four Minutes (`ch20`; the cure given, the originals recovered, Ray, the sound).
+
+**Back matter:** Appendix (inheritance table, verified facts and links), Notes and Further Reading (verified, keyword links). About the Author and Also-by wait on the pen-name decision.
+
+The central spine of Part Two is now a duel: Julian wants Stone's work and needs Danny to read it; Danny's flaw (deciding for others) nearly makes him Stone. See `STORY_BIBLE.md`, Revision 2.
+
+---
+
+(Older plan below, superseded where it differs.)
+
+
 
 Working plan for both parts, built from `STORY_BIBLE.md`. Status marks: **[drafted]** = a trial draft exists in `drafts/`; **[new]** = not yet written. Dates follow the reality rule: before today (12 Oct 2026) only private events; anything public happens after 2026. Target length: 180 pages, about 55,000 words (see Length target).
 
@@ -50,7 +71,7 @@ Cast shorthand: **Stone** (scientist, narrator of Part One) / **the main offspri
 - **Prologue: Consent.** A one-page clinic consent form signed by Ray and Connie Pruitt (1999), authorizing one named correction; 'Other procedures authorized: none.' Draft: `drafts/prologue_consent_v1.md`. The epilogue echoes it with a question of consent (Stone and the cure).
 - **Appendix: The Science Behind the Story.** Inheritance rules, germline versus body cells, gene technology, intelligence and the dolphin package, detection, and a fact-versus-fiction table. Draft: `drafts/appendix_genetics_v1.md`. Facts to re-check are listed at its end. Counts toward the 180 pages (about 5 to 6 pages).
 - **Notes and Further Reading (bibliography).** Names Watson and the other real authors and works; the story text itself does not. Draft: `drafts/bibliography_v1.md`. All entries still need checking against publisher pages, Crossref or Open Library; use keyword hyperlinks with hidden URLs, linked from the appendix's in-text citations.
-- Then About the Author and Also-by, once the pen name and its rules are settled (Frank Stone is the pen name; its bio and Also-by treatment are still open).
+- Then About the Author and Also-by, once the pen name and its rules are settled (Genevieve Crisp is the pen name; byline, bio and Also-by were settled 13 Oct 2026).
 
 ---
 

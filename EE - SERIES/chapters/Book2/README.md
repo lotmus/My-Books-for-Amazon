@@ -1,1 +1,1 @@
-Tagged-text mirror of the docx master, extracted by scripts/diagrams/common/docx2src.py. The docx is the master; regenerate this folder after every change to it.
+Tagged-text mirror of Circuits_Components_and_Control_Book2_Rev1.docx, extracted by scripts/diagrams/common/docx2src.py. The revisioned docx is the master; regenerate this folder after every change to it.

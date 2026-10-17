@@ -13,7 +13,11 @@ cols = [('metal', None), ('Ge', 0.66), ('Si', 1.12), ('GaAs', 1.42), ('insulator
 for k, (name, g) in enumerate(cols):
     x = 0.4 + 2.05 * k; w = 1.5
     if g is None:
-        ax.add_patch(Rectangle((x, 0), w, 2.2, fc=BLUE, ec=INK, alpha=0.85)); ax.add_patch(Rectangle((x, 1.6), w, 2.2, fc='#dfe9f5', ec=INK))
+        # Draw both bands with translucency so the 0.6 eV overlap is visible,
+        # rather than allowing the upper band to conceal the lower one.
+        ax.add_patch(Rectangle((x, 1.6), w, 2.2, fc='#dfe9f5', ec=INK, alpha=0.85, zorder=1))
+        ax.add_patch(Rectangle((x, 0), w, 2.2, fc=BLUE, ec=INK, alpha=0.85, zorder=2))
+        ax.text(x + w/2, 1.9, 'overlap', ha='center', va='center', fontsize=8.5, color='white', weight='bold', zorder=3)
         ax.text(x + w/2, 4.3, 'bands overlap:\nfree electrons', ha='center', fontsize=9.5)
     else:
         ax.add_patch(Rectangle((x, 0), w, 1.6, fc=BLUE, ec=INK, alpha=0.85)); ax.add_patch(Rectangle((x, 1.6 + g), w, 1.6, fc='#dfe9f5', ec=INK))

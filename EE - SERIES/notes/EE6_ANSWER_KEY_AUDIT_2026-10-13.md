@@ -123,3 +123,27 @@ Expanded Chapter 19 Practice Problems 1-4 so the concise answer key shows the ca
 ## Chapter 18 multiphase-ripple answer-depth follow-up (13 October 2026)
 
 Expanded Practice Problems 18.1-18.3 from bare values to show ND, m = floor(ND), and the K substitutions. Problems 18.1 and 18.2 now interpret K as total output ripple relative to one phase's ripple in the ideal interleaving model. Problem 18.3 explains that integer ND gives ideal cancellation and that duty-cycle or timing mismatch can leave residual ripple. The DOCX and regenerated tagged mirror match. LibreOffice rendered a 162-page PDF; page 151 was inspected and all three answers fit cleanly. This is a local explanation improvement, not a design validation or completion of the 208-answer review; the buyer score remains unchanged.
+
+## Chapter 18 load-line and current-slew answers (13 October 2026)
+
+Practice Problems 18.4 and 18.5 now show the ratio calculations behind the 0.05 mΩ load-line slope and 0.5 µs current-ramp time. The latter states the simultaneous-phase and sustained-slew assumption and notes that output capacitors bridge the current deficit. The Book 6 mirror was regenerated. These small additions improve reproducibility; they do not validate a processor power-delivery design or change the interim series score.
+
+### Verification follow-up: Chapter 18 load-line and slew answers
+
+A fresh 162-page LibreOffice PDF was rendered; page 151 was inspected after replacing characters that the first render showed as question marks. The load-line and slew calculations are legible, and the answer-key number/body typography matches adjacent entries. Fresh extraction regenerated all 24 Book 6 mirror files, with only `src/back.txt` changed for this edit. DOCX ZIP integrity and parsing passed. Kindle Previewer 3.106.0 reports Supported/Success, zero errors, zero quality issues, and “No issues found.” The KPF embeds a byte-identical master DOCX (SHA-256 `ebe537d3a88d88a22072056be4ec7362c504c8730c5f22a5f0baae6e2ac06251`). This is selected-page evidence, not a full device proof or power-delivery design validation.
+
+## Chapter 22 wireless-transfer calculation answers (13 October 2026)
+
+Practice Problems 22.1–22.4 now show the figure-of-merit calculation and maximum-efficiency formula for both coupling examples, the resonant-frequency substitution with units, and the mutual-inductance calculation for k. The efficiency answers identify the result as an ideal matched coil-link limit, distinct from wall-to-battery performance. Master and tagged mirror were updated. This improves reproducibility for four bounded calculations; it does not establish a charger design or change the interim score.
+
+### Verification follow-up: Chapter 22 wireless-transfer answers
+
+Fresh extraction regenerated 24 Book 6 mirror files; only `src/back.txt` changed. DOCX ZIP integrity and python-docx parsing passed. LibreOffice rendered the updated manuscript to 162 pages; page 154 was inspected, and all four revised calculations are legible. Kindle Previewer 3.106.0 reports Supported/Success, zero errors, zero quality issues, and “No issues found.” The KPF embeds a byte-identical master DOCX (SHA-256 `a0596cef2b5a47caa19028c7e0354ffc5b78c73d43cef5156287ecf673ae790e`). These are calculation and selected-page checks, not a full Kindle-device review or charger-design validation.
+
+### Chapter 17 residual-current budget answer
+
+Appendix B Problem 17.9 now shows the 30 mA divided by three calculation, states that the 10 mA budget applies to all connected loads combined, and separates that design margin from the RCD's rating and trip threshold. The mirror was regenerated. This makes the safety-related arithmetic self-contained; it is not a site-specific leakage assessment or protection selection.
+
+### Verification follow-up: Chapter 17 RCD leakage budget
+
+Fresh extraction regenerated 24 Book 6 mirror files; only `src/back.txt` changed. DOCX ZIP integrity and python-docx parsing passed. LibreOffice rendered the updated manuscript to 162 pages; page 151 was inspected and the new calculation fits cleanly. Kindle Previewer 3.106.0 reports Supported/Success, zero errors, zero quality issues, and “No issues found.” The KPF embeds a byte-identical master DOCX (SHA-256 `b4219712c07f5c824f27b679fbbd1076a3f2df8f127aa5161c7f94a2c4b5210f`). This does not assess site leakage, local-code requirements, or actual RCD coordination.

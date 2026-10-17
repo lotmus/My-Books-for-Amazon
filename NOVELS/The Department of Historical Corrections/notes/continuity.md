@@ -1,0 +1,48 @@
+# Manuscript continuity
+
+Target: complete short novel, at least 40000 words, 30 chapters. Original British bureaucratic satire. Present is Monday 14 September 2026. Preserve opening premises, expand and revise prose for novel format. Author name from reference is optional; omit attribution rather than invent ownership.
+
+RAAS: only enters undocumented local intervals. Surviving independent contemporary observations constrain local action; causal descendants can change. Destroying known evidence does not remove the underlying observation. A correction is a live revision until reconciled; protected chambers, objects and inducted travellers keep old memories. One active history, not freely accessible multiverse. Displaced people can survive inside protected space and be naturalised into revised history; no resurrection from mere records. Return apertures have booked time/place, and travellers need physical access. Future terminal possible only as conditional descendant of present machine; communications consume physical opening. Breaking its historical prerequisites closes it; already arrived matter remains. No repeat visits to witnessed interval. Past changes commit in ledger order, not calendar order. 72-hour reconciliation cycle started Monday 09:17; after Thursday 09:17 correction hardens. Endpoint 1815 June 22 10:30 copied countersignature forecloses cheap repair, then must work later gaps.
+
+Mystery: Director Hugh Fanshawe's genuine June 21 intervention diverted conciliatory Low Countries memorandum, causing non-Belgian history. He acted on falsified casualty projections from Permanent Secretary Lionel Glock. Memo contains hidden Continuity Receiver clause derived from 1746 trust law fiction. Glock cultivates 2029 emergency government, intends Arthur (protected witness to all revisions, unusually old induction through childhood rescue) as nominal sovereign reference, Glock controls admissible evidence. Portrait Arthur as king, dead counterpart is future Arthur who refused and was killed 2029; cannot resurrect him, present Arthur distinct serial age. Future courier Miriam Crumb (daughter died baseline 2007, survives changed branch) sends corpse and warning; she is second operator. Beatrice knows daughter survival and compromised audit. Eleanor participated childhood rescue 1991 (via later travel) but concealed it; Arthur remembers sister Ruth dead baseline, survives new branch with different life. 1746 estate clerk Agnes Strath writes limited trust original, modern Glock broadens through 1815 missing annex. No royal bloodline plot.
+
+Arc: investigation London 1815 meets printer widow Hester Pike and clerk Daniel Wren; publicising evidence closes gap at cost missed return. Department future intrusion Miriam, corpse, Glock audit. Fanshawe found imprisoned aboard quarantine hulk after resisting second stage. Failed local restore but recover original annex; 1746 trust original proves consent clause, Agnes helped rather than overwritten. Glock's future constitutional ceremony names Arthur king to determine one authorised historical record; public distributed testimonies and independent deposit defeat monopoly. People not statistics. Beatrice admits manipulation, Miriam refuses mother's bargain. Climax coordinated 1815 printing, 2026 public audit, 2029 terminal rescue and revoke Receiver clause by witnessed refusal Arthur; no cheap reset, new settlement Belgium restored through limited original memo correction before final closing interval discovered by Hester duplicate date register. Need avoid late magic: establish misdated register and duplicate dispatch early. Future King Arthur died on one branch, current survives choice; corpse permanent obligation. Restore core baseline while explicitly preserve arrived Miriam and institutional evidence; Ruth baseline returns to deceased; Hester own future secured through her actions. Fanshawe faces inquiry. Department becomes accountable archive, sequel packet addressed by someone in year 2034 who knows no RAAS terminal exists then.
+
+Draft chapter sequence subject to development: 1 Biscuits 2 Operations 3 Receipt 4 Incoming 5 Printer 6 Body 7 Permanent Secretary 8 Quarantine 9 Terms 10 Daughter 11 Witnesses 12 Estate 13 Agnes 14 Receiver 15 Return 16 Other London 17 Family 18 Hearing 19 Warrant 20 Coronation 21 Inventory 22 Printer's debt 23 Public record 24 Night duty 25 Petition 26 Refusal 27 Last window 28 Settlement 29 Inquiry 30 Ordinary business.
+
+---
+REV2 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. The setting is Northumberland, not Scotland. Chapter list above is superseded; REV2 has 35 chapters (funeral folded into "The Country Above").
+
+---
+REV3 note (15 Oct 2026): the manuscript and `DISPATCH_LEDGER.md` control. Chapters now 37 (new: "The Pembroke File"; the café half of the Ruth chapter is "The Spare Room", the call half is "A Protected Handset"). Facts fixed in REV3: Arthur joined twelve years ago (2014); Eleanor's induction trip was 2011; the Pembroke file starts 11 Oct 2011 and has 32 entries; Garrick is the Receiver's delegate from 17:03 on Wednesday; the van leaves Victoria Street at 08:15 on Thursday; Beatrice and Fanshawe reach 1815 at 04:10 on 23 June; Karim's mother is at Camberwell District Hall, Hall B (known, unreachable); Eleanor's left coil is the same part as the one that failed.
+
+## REV6 (15 Oct 2026)
+
+New fixed points are in DISPATCH_LEDGER.md (REV6 additions). Key facts: Elise Marot is sent to the lower room on Wed ~10:20 by Glock's stamp; Reed's pension record sent to Reviews; Glock's mother died in the tenth month waiting for a pension book; pages 1 to 39 of the casualty model are the missing premise pages; Perrott refuses a countersignature at 23:00 on 22 June; under-secretary Lyle; committee members Tench, Dacre, Hallett; the brass chain of office replaces the gold circlet. Scan run on the finished file: no clashes found in times, counts or names.
+
+## REV7 (15 Oct 2026)
+
+Chapters 11 to 15 re-timed (see DISPATCH_LEDGER.md, REV7 additions). Facts fixed: 1746 receiver's agent is Mr Rutter (Lyle is 1815 only); Form 7B started 17:15, 90 minutes, countersigned 18:43; Ruth call 19:24 (3:58); Pembroke file entry 32 at 21:52, entry 33 at 04:31 Wednesday; return from 1746 at 11:12 with 198 kg (86 + 56 + 56). Scan run on the finished file: no clashes found in times, counts or names.
+
+
+## REV8 (15 Oct 2026)
+
+New fixed points are in DISPATCH_LEDGER.md (REV8 additions). Key facts: Glock's notebook is black cloth, department issue, first entry 17/114 (Leeds, Correction 1,611, 12 Oct 2017); 14 of Arthur's 206 reviews carry a name; the registers hold 211 pencilled dots (53 Beatrice's); Arthur's fifth term in the Pembroke file conversation; Hallett (committee) has a son, a lieutenant of foot, unreported since 16 June 1815, found in a Brussels convent hospital in ch 36. Scan run on the finished file: no clashes found in times, counts or names.
+
+## REV9 (15 Oct 2026)
+
+Humour pass. New fixed points are in DISPATCH_LEDGER.md (REV9 additions). Key facts: the pass reader and the third monitor date from 2019 and March 2019; Belgium is recorded as an absent member in ch 9, 20 and 32; Exhibit 1 is the biscuit packet (protected, so it still reads Yorkshire in the restored world); Garrick works in Regional Complaints in the restored history; Durrant was a dentist only in the revised history. Scan run on the finished file: no clashes found in times, counts or names.
+
+## REV10 (15 Oct 2026)
+
+New fixed points are in DISPATCH_LEDGER.md (REV10 additions). Key facts: Arthur signed the cover sheet of the casualty extract (tables 40 to 118, "for consistency against stated sources only") on Friday 21 August 2026, item 22 of 31, his 206th and last review; 23 days before Fanshawe crossed (Sun 13 Sep); Glock removed pages 1 to 39 and chose the date; Arthur signs with a short flat line under the name; term six added in ch 31; Arthur's own entries in the registers are now fifteen. Scan run on the finished file: no clashes found in dates, counts or names.
+
+
+## REV11 (15 Oct 2026)
+
+Physics pass. New fixed points are in DISPATCH_LEDGER.md (REV11 additions). Key facts: from chapter 13 the register takes two figures per traveller (department clock, traveller's own); Eleanor's own time for the 1746 trip was 3 h 31 against 3 h 32; Pensions asked the dead man's age; Dr Rao's footnote (ch 22) and the Hall B ticket (ch 35: HALL B, 0417, November 2029, Aliyah Rahimi's hand, "clerical tunnel (not repeatable)"); nothing else about 2029, Camberwell or the terminal changed (Karim's mother is still unreachable). The appendix, Lessons from the Department, follows chapter 37 and precedes the Acknowledgement. Scan run on the finished file: no clashes found in dates, counts or names.
+
+
+## REV12 (15 Oct 2026)
+
+Weak-spot pass (diagrams, ch 13, 26, 35 and 12 and 15 trims, citation check). New fixed points are in DISPATCH_LEDGER.md (REV12 additions). Key facts: the Hall B ticket is in evidence custody, not with Karim, and he holds a photograph; in ch 26 Glock leaves the room about three minutes before the ceremony (secretary: "The judges are seated, Receiver") and Arthur copies 17/114 into the grey notebook; nothing else about dates, counts or names changed. Scan run on the finished file: no clashes found.

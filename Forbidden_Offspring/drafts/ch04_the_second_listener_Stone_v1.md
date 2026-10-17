@@ -16,7 +16,7 @@ A coach saw it, laughed, and called something. She opened her eyes and shrugged.
 
 I did the arithmetic in my seat. The roar in the room had no clean echoes in it, no single surface for a sound to bounce from. The wall was smooth tile and a few feet from the edge of the lane, and a ceiling full of baffles was doing everything possible to prevent it from being useful. A child with ordinary hearing could not have found that wall. A child with the circuits I had built could, because they were not made to hear a wall. They were made to hear where sound has been.
 
-I want to be accurate about what I felt. I did not feel triumph. A man who has been told for eleven years that his life's secret work is a delusion would have felt triumph, and I did not, because it was not a delusion, and the only thing that is worse than being told you are wrong is being proved right at the edge of a swimming pool with nobody to tell.
+I did not feel triumph. A man who has been told for eleven years that his life's secret work is a delusion would have felt triumph, and I did not, because it was not a delusion, and the only thing that is worse than being told you are wrong is being proved right at the edge of a swimming pool with nobody to tell.
 
 Her parents were in the second row, a woman in a linen jacket and a man with a laptop open on his knee. A professor and an engineer, I would learn. They were reading together, not watching, and when the girl got out, dripping, and ran up to them to describe something, the mother put one finger on the page to hold her place and said, "Tell me in a sentence, sweetheart. Then I'll listen."
 
