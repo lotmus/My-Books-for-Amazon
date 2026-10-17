@@ -1,28 +1,28 @@
 BOOK 1 KDP RELEASE CHECKLIST
 The Murder That Hadn't Happened Yet
-Status as of 15 October 2026 (PT)
+Status as of 17 October 2026 (PT)
 
 CURRENT STATUS
-REV14 remains the preserved release master. REV17 is the newest release candidate and current working pair; it is not approved or published. Continuity and editorial review is complete; see notes/WORK_QUEUE.md for the remaining preview, metadata, and author-side decisions. Do not upload until those remaining checks and decisions are complete.
+REV14 remains the preserved release master. REV18 is the current review candidate and working pair; it is not approved or published. Continuity and editorial review is recorded; see notes/WORK_QUEUE.md for the remaining preview, metadata, and author-side decisions. Do not upload until those remaining checks and decisions are complete.
 
 CURRENT FILES
-- Candidate manuscript: FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
-- Paired editable source: scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt
-- Reflowable EPUB: The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub
-- Builders: scripts/rebuild_kindle_REV17.py and scripts/build_epub_REV17.py
-- Listing copy: kdp_description.docx (synced to the REV17 candidate); versioned text/DOCX are retained beside it
+- Candidate manuscript: The_Murder_That_Hadnt_Happened_Yet_REV18_REVIEW_CANDIDATE.docx
+- Paired editable source: scripts/manuscript_text_REV18_REVIEW_CANDIDATE.txt
+- Reflowable EPUB: Not generated; build only after the REV18 review closes
+- Builders: scripts/rebuild_kindle_REV18.py and scripts/build_epub_REV18.py
+- Listing copy: kdp_description.docx (synced to the current candidate; plot and age guidance unchanged); versioned text/DOCX are retained beside it
 - Marketing cover: Kindle Front Cover.jpg; internal back-cover page: Kindle Back Cover.jpg
 - Preserved release master: FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx
 
 COMPLETED / RECORDED
-- REV17 contains a welcoming note: no physics background is needed; optional material is for curiosity sparked by the story.
-- Age guidance in the REV17 description: 14+; strong readers aged 12–13 may enjoy with adult support for denser physics discussions.
+- REV18 retains the welcoming note: no physics background is needed; optional material is for curiosity sparked by the story.
+- Age guidance in the current description: 14+; strong readers aged 12–13 may enjoy with adult support for denser physics discussions.
 - The EPUB's final spine item contains the back-cover image; it is laid out as a full final page without a barcode area.
-- Version cleanup completed 15 Oct 2026; see notes/WORK_QUEUE.md. Superseded snapshots are in bak/ and must not be committed.
+- Version cleanup completed 15 Oct 2026; REV17 was superseded by REV18 on 17 Oct 2026; see notes/WORK_QUEUE.md. Superseded snapshots are in bak/ and must not be committed.
 
 REMAINING BEFORE UPLOAD
 [x] Complete continuity and editorial review; report: notes/CONTINUITY_EDITORIAL_REVIEW_20261015.md. Correct the stale Tuppence timeline and REV15/REV16 status references in the series notes and RIB agent instructions. No story-text continuity correction was needed.
-[ ] Open the actual REV17 EPUB in Kindle Previewer. Inspect phone/tablet/e-ink layouts, orientations and font sizes: cover, navigation, figures, equations, chapter starts, links, and final back-cover page. Resolve conversion issues and preview the final rebuilt file again.
+[ ] Build the REV18 EPUB, then open it in Kindle Previewer. Inspect phone/tablet/e-ink layouts, orientations and font sizes: cover, navigation, figures, equations, chapter starts, links, and final back-cover page. Resolve conversion issues and preview the final rebuilt file again.
 [ ] Review external cover at thumbnail size. Current JPEG is 1152 x 1728 px, RGB; KDP recommends 1600 x 2560 px. If re-exporting, use source artwork; do not stretch the existing JPEG.
 [ ] In KDP, verify title, subtitle, series/number, author and contributor, language, age range, keywords, categories, and description.
 [ ] Author decides publication date, price, KDP Select, and optional author photo/newsletter links. Current price and Select suggestions are proposals only.

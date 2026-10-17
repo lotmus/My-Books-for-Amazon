@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Rebuild the Book 1 REV17 candidate DOCX from its paired release-candidate source.
+"""Build the REV18 review-candidate DOCX from its paired source.
 
-manuscript_text_REV17_RELEASE_CANDIDATE.txt is the source (see the docstring at
-its top for the markup). REV17 remains a candidate; REV14 remains the release master.
-The candidate DOCX is copied to ..\\bak\\ (timestamped) before it is overwritten.
-Usage:  python rebuild_kindle.py            (rebuilds the REV17 candidate in place)
-        python rebuild_kindle.py out.docx   (writes a test build elsewhere)
+The candidate DOCX is copied to the book's `bak/` folder (timestamped) before it is overwritten.
+Usage:  python rebuild_kindle_REV18.py            (rebuilds the REV18 candidate in place)
+        python rebuild_kindle_REV18.py out.docx   (writes a test build elsewhere)
 """
 from __future__ import annotations
 
@@ -20,14 +18,16 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_LINE_SPACING
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
+from PIL import Image
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-SRC = HERE / "manuscript_text_REV17_RELEASE_CANDIDATE.txt"
+SRC = HERE / "manuscript_text_REV18_REVIEW_CANDIDATE.txt"
 FIG = HERE / "figures"
-OUT = ROOT / "FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx"
-NAVY = RGBColor(0x0C, 0x44, 0x7C)
-PIC_WIDTH = Inches(5.2)
+OUT = ROOT / "The_Murder_That_Hadnt_Happened_Yet_REV18_REVIEW_CANDIDATE.docx"
+NAVY = RGBColor(0x2A, 0x5C, 0xAA)
+PIC_WIDTH = Inches(3.0)
+PIC_HEIGHT = Inches(4.2)
 
 TOKEN = re.compile(r"\[([^\]]+)\]\((#[^)\s]+|https?://[^)\s]+)\)|(?<!\\)\*((?:\\\*|[^*])+?)(?<!\\)\*")
 MARKS = re.compile(r"(?:\s\{#([^}]+)\})+$")
@@ -100,7 +100,11 @@ def fmt(p, sa=None, sb=None, align=None, kwn=None, pbb=None):
 
 
 def picture(doc, name, alt):
-    doc.add_picture(str(FIG / name), width=PIC_WIDTH)
+    path = FIG / name
+    with Image.open(path) as image:
+        width = min(PIC_WIDTH, int(PIC_HEIGHT * image.width / image.height))
+        height = int(width * image.height / image.width)
+    doc.add_picture(str(path), width=width, height=height)
     p = doc.paragraphs[-1]
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     for dp in p._p.iter(qn("wp:docPr")):
@@ -111,9 +115,9 @@ def picture(doc, name, alt):
 def build(out: Path):
     doc = Document()
     sec = doc.sections[0]
-    sec.page_width, sec.page_height = Inches(8.5), Inches(11)
-    sec.left_margin = sec.right_margin = Inches(0.85)
-    sec.top_margin = sec.bottom_margin = Inches(0.8)
+    sec.page_width, sec.page_height = Inches(3.6), Inches(4.8)
+    sec.left_margin = sec.right_margin = Inches(0.3)
+    sec.top_margin = sec.bottom_margin = Inches(0.3)
     section = ""
     section_course = False  # the course keeps short quoted lines tight (2 pt after)
     paras = [x for x in SRC.read_text(encoding="utf-8").split("\n\n") if x.strip()]
@@ -128,15 +132,15 @@ def build(out: Path):
         if pbb:
             line = line[3:]
         im = re.fullmatch(r"\[\[IMAGE (.+?) \| (.*)\]\]", line)
-        head = dict(name="Amazon Ember", size=18, bold=True, color=NAVY)
+        head = dict(name="Amazon Ember", size=16, bold=True, color=NAVY)
         if im:
             p = picture(doc, im.group(1), im.group(2))
         elif line.startswith("#### "):
-            p = doc.add_paragraph(); inline(p, line[5:], **{**head, "size": 26}); fmt(p, 10, 6, C)
+            p = doc.add_paragraph(); inline(p, line[5:], **{**head, "size": 22}); fmt(p, 10, 6, C)
         elif line.startswith("### "):
-            p = doc.add_paragraph(); inline(p, line[4:], **head); fmt(p, 10, 16, C)
+            p = doc.add_paragraph(); inline(p, line[4:], **{**head, "size": 13}); fmt(p, 10, 16, C)
         elif line.startswith("## "):
-            p = doc.add_paragraph(style="Heading 2"); inline(p, line[3:], **head); fmt(p, 10, 16, C, kwn=True)
+            p = doc.add_paragraph(style="Heading 2"); inline(p, line[3:], **{**head, "size": 13}); fmt(p, 10, 16, C, kwn=True)
         elif line.startswith("# "):
             section = line[2:]
             section_course = section_course or section == "COURSE"
