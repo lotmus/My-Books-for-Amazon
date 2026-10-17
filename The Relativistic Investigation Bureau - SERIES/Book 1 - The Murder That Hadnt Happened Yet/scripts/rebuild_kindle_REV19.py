@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-"""Build the REV18 review-candidate DOCX from its paired source.
+"""Build the REV19 review-candidate DOCX from its paired source.
 
 The candidate DOCX is copied to the book's `bak/` folder (timestamped) before it is overwritten.
-Usage:  python rebuild_kindle_REV18.py            (rebuilds the REV18 candidate in place)
-        python rebuild_kindle_REV18.py out.docx   (writes a test build elsewhere)
+Usage:  python rebuild_kindle_REV19.py            (rebuilds the REV19 candidate in place)
+        python rebuild_kindle_REV19.py out.docx   (writes a test build elsewhere)
 """
 from __future__ import annotations
 
@@ -22,9 +22,9 @@ from PIL import Image
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-SRC = HERE / "manuscript_text_REV18_REVIEW_CANDIDATE.txt"
+SRC = HERE / "manuscript_text_REV19_REVIEW_CANDIDATE.txt"
 FIG = HERE / "figures"
-OUT = ROOT / "The_Murder_That_Hadnt_Happened_Yet_REV18_REVIEW_CANDIDATE.docx"
+OUT = ROOT / "The_Murder_That_Hadnt_Happened_Yet_REV19_REVIEW_CANDIDATE.docx"
 NAVY = RGBColor(0x2A, 0x5C, 0xAA)
 PIC_WIDTH = Inches(3.0)
 PIC_HEIGHT = Inches(4.2)

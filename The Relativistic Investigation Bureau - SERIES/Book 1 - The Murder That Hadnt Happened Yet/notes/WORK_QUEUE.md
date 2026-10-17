@@ -1,6 +1,6 @@
 # Book 1 Release Work Queue
 
-Updated 17 October 2026. Scope: *The Murder That Hadn't Happened Yet*, Book 1 of The Relativistic Investigation Bureau. REV14 remains the preserved release master; REV18 is the current review candidate and working pair. REV17 is superseded and archived locally. No publication or author-account decisions are recorded as final.
+Updated 17 October 2026. Scope: *The Murder That Hadn't Happened Yet*, Book 1 of The Relativistic Investigation Bureau. REV14 remains the preserved release master; REV19 is the current review candidate and working pair; REV18 is superseded and locally archived. REV17 is superseded and archived locally. No publication or author-account decisions are recorded as final.
 
 ## Completed in the 15 October clean-up
 
@@ -12,11 +12,18 @@ Updated 17 October 2026. Scope: *The Murder That Hadn't Happened Yet*, Book 1 of
 
 ## Next work, in order
 
-1. **Science and production verification:** Recheck the remaining scientific claims and mark the boundary between established physics and speculation; then build and preview the REV18 EPUB in Kindle Previewer across device layouts, orientations, and font sizes. Inspect cover, navigation, figures, equations, chapter starts, links, and final back-cover page; resolve defects and rerun preview after changes.
-2. **KDP account confirmation:** Verify the title, series/number, contributor fields, age guidance (14+, with adult support for denser physics discussions for strong 12–13 readers), categories, keywords, description, and AI-content disclosure in KDP. The repository checklist and metadata files identify REV18; the canonical listing copy and age guidance are unchanged.
+1. **Science and production verification:** Recheck the remaining scientific claims and mark the boundary between established physics and speculation; then build and preview the REV19 EPUB in Kindle Previewer across device layouts, orientations, and font sizes. Inspect cover, navigation, figures, equations, chapter starts, links, and final back-cover page; resolve defects and rerun preview after changes.
+2. **KDP account confirmation:** Verify the title, series/number, contributor fields, age guidance (14+, with adult support for denser physics discussions for strong 12–13 readers), categories, keywords, description, and AI-content disclosure in KDP. The repository checklist and metadata files identify REV19; the canonical listing copy and age guidance are unchanged.
 3. **Release decisions:** Author confirms publication date, price, KDP Select, optional links/photo, and final cover. Current front JPEG is 1152×1728 RGB: above KDP’s minimum, but below the ideal 1600×2560 size and 1.6:1 ratio. Re-export from source art if possible, without stretching. Investigate the EPUB's ~4.52 MiB size and duplicated cover image after preview; this is a quality optimization, not a recorded KDP rejection.
 4. **Availability check:** Verify whether *Physics, Actually* is publicly available under the title used in Book 1's back matter; adjust only if the claim is inaccurate. After publication, verify the live detail and series pages.
 
 ## Release state and handoff
 
-Do not upload until KDP preview, metadata verification, and author decisions are complete. Continuity reviews are recorded in `notes/CONTINUITY_EDITORIAL_REVIEW_20261015.md` and `notes/CONTINUITY_EDITORIAL_REVIEW_20261017.md`. Keep REV18 review-candidate source/DOCX/builders paired. Do not treat the superseded REV17 files in local `bak/` as active. Do not stage or commit anything under `bak/`; it is a local recovery archive. See `KDP_LAUNCH_CHECKLIST.txt` for the operational checklist and `notes/_BOOK_SUMMARY.md` for canon.
+Do not upload until KDP preview, metadata verification, and author decisions are complete. Continuity reviews are recorded in `notes/CONTINUITY_EDITORIAL_REVIEW_20261015.md`, `notes/CONTINUITY_EDITORIAL_REVIEW_20261017.md`, and `notes/CONTINUITY_EDITORIAL_REVIEW_REV19_20261017.md`. Keep the REV19 review-candidate source/DOCX/builder paired. Do not treat the superseded REV17 or REV18 files in local `bak/` as active. Do not stage or commit anything under `bak/`; it is a local recovery archive. See `KDP_LAUNCH_CHECKLIST.txt` for the operational checklist and `notes/_BOOK_SUMMARY.md` for canon.
+
+
+## REV19 focused line edit — 17 October 2026
+
+- Built the REV19 source/DOCX pair from REV18. Eight of the eighteen chapter-end `Rule:` labels were removed where the aphoristic line already lands cleanly; the sentences and course cross-links were retained. This addresses the cadence concern without removing the recurring motif.
+- REV18 source, DOCX, and version-specific builder files were moved into `bak/superseded-by-REV19-2026-10-17/` (local recovery only; never commit `bak/`). REV14 remains release master.
+- Prepared the REV19 EPUB builder from the previous version; it is available but was not run while the manuscript remains under review. See `notes/CONTINUITY_EDITORIAL_REVIEW_REV19_20261017.md` for the focused rescore. Full candidate is still not final: independent reader and Kindle visual QA remain open.

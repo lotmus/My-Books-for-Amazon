@@ -644,7 +644,7 @@ Trevor booked three seats on the half past one from Heathrow without being asked
 
 He locked the door. He tried the handle twice, which he never did, and then a third time, which he was ashamed of, and went down the stairs, and on the fourth step the step made its noise.
 
-Rule: If the algebra demands v > c, the premise is the suspect, not the universe.
+If the algebra demands v > c, the premise is the suspect, not the universe.
 
 [-> Lesson for this chapter: 2 - Lorentz Finally Gets Involved](#lesson_2)
 
@@ -718,7 +718,7 @@ In the corridor Herbert Matkowski was waiting with his coat over his arm and an 
 
 Weinstein followed him down. He did not argue. He had been graded by this man in public since he was nineteen, and the man had been right about the pencil every time.
 
-Rule: Height is cheap. A day’s disagreement between honest clocks is paperwork, not gravity.
+Height is cheap. A day’s disagreement between honest clocks is paperwork, not gravity.
 
 [-> Lesson for this chapter: 4 - Enter General Relativity](#lesson_4)
 
@@ -908,7 +908,7 @@ Somewhere over Belgium he took the phone out again and wrote her a text he did n
 
 It was true, and it would have frightened her more than anything in the photograph, so he saved it as a draft and put the phone away, and looked out of the window at a sky that was very blue and very far away and entirely uninterested in Wednesday.
 
-Rule: Nothing can tell from inside what its own fall means. You need a second object to compare.
+Nothing can tell from inside what its own fall means. You need a second object to compare.
 
 [-> Lesson for this chapter: 5 - The Apple](#lesson_5)
 
@@ -1344,7 +1344,7 @@ She said it all the way through, once, quietly. Then she folded the printout in 
 
 She texted nobody. She went to bed. In the morning she went in early and had the kettle on before anyone could ask.
 
-Rule: Two people can put different numbers on the same door. Ask where each of them started counting. [Optional lesson: The Door](#lesson_8)
+Two people can put different numbers on the same door. Ask where each of them started counting. [Optional lesson: The Door](#lesson_8)
 
 # Chapter 10 {#chapter_10}
 
@@ -1618,7 +1618,7 @@ He waited.
 
 She rang off. He stayed in the stairwell. Below him, in the street door, Mrs Marsh was explaining to a courier that a parcel addressed to the second floor was not the same thing as a parcel delivered to the second floor, and that he could take the stairs like a Christian. Derek listened to the whole argument, and found it soothing, and went back up.
 
-Rule: A length is both ends at once. A date and a time from different places are not an event.
+A length is both ends at once. A date and a time from different places are not an event.
 
 [-> Lesson for this chapter: 10 - The Cucumber](#lesson_10)
 
@@ -1802,7 +1802,7 @@ The reply came as the bus went past Sadler’s Wells.
 
 *Good,* wrote Sophie, and then, a minute later: *I worked out why it’s good. Not telling you yet. Want to see your face.*
 
-Rule: A flat record can hold depth if you read it with the right dictionary. Ask which way the feet are pointing.
+A flat record can hold depth if you read it with the right dictionary. Ask which way the feet are pointing.
 
 [-> Lesson for this chapter: 11 - The Hologram](#lesson_11)
 
@@ -2260,7 +2260,7 @@ Derek walked beside him without answering. Then he said, “Did your father ever
 
 “Then he is already halfway,” said Weinstein. “The back is where a man keeps his questions. Every physiotherapist in Bavaria will tell you so.”
 
-Rule: Gravity hides in a falling box. It shows itself in the difference between two places.
+Gravity hides in a falling box. It shows itself in the difference between two places.
 
 [-> Lesson for this chapter: 13 - Curved Corridors and Tides](#lesson_13)
 
@@ -2588,7 +2588,7 @@ She did not cross it out. She wrote the time beside it, *01:40*, and then, becau
 
 Tabitha arrived at the door at ten to two, winter time, wet and pleased, with a train that had arrived before it left, and found her brother asleep at his desk with the list of clocks under his cheek and her dog asleep under it and Derek Gent sitting by the window, watching the street, with the expression of a man who has finally been told what time it is.
 
-Rule: Causal order is the same for everyone. Labels are not. A train that arrives before it leaves is a timetable, not a time machine.
+Causal order is the same for everyone. Labels are not. A train that arrives before it leaves is a timetable, not a time machine.
 
 [-> Lesson for this chapter: 14 - The Train Arrived Before It Left](#lesson_14)
 
