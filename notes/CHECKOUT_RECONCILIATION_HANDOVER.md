@@ -369,6 +369,15 @@ The D Book 2 folder has 27 present active files; all 27 correspond to current ma
 A series-level current-tree pilot is at `D:\Offload\.codex\worktrees\split-pilot-lolly-wren-series-20261017`. It contains all 93 active tracked files from `Lolly Wren's Curious Science Adventures - SERIES` at the current-main snapshot, including the full Book 2 tree. There are no tracked bak paths. All 93 pilot blobs match exactly; the pilot is clean, has no remote, and contains no monorepo history. No D files were changed.
 ### Handover checkpoint after local split pilots (17 Oct 2026)
 At current `origin/main` snapshot `80d7eb20`, the D branch is 142 commits ahead / 753 behind. Expanded D status is 523 entries: 152 modified, 36 deleted, and 335 untracked. This follows one scoped move of an older D-side Markdown version into an ignored book-level bak folder; no other D book files were moved or edited. Eight additional local-only snapshot pilots were verified clean and remote-free during this continuation, including the current series-level snapshot. No separate GitHub repositories were created. The pilots and their source-snapshot hashes are documented in the preceding entries.
+### How to Publish Your First Kindle Book: local snapshot pilot (17 Oct 2026)
+A clean local snapshot repository is at `D:\Offload\.codex\worktrees\split-pilot-kindle-guide-20261017`, created from current-main commit `5cb88bab`. It contains 19 active tracked files from the canonical book folder; all 19 pilot blob IDs match that source exactly. The pilot is clean, has no remote, and contains no monorepo history. The current-main REV42 and REV43 packages remain together because their text differs and release approval is unresolved. Previously preserved D-side alternatives remain in the dated book backup noted above. No D checkout book file was changed.
+
+### REV6 review-file handoff check (17 Oct 2026)
+The approved source name `Schrodingers_Paperwork_BOOK1_REV6_REVIEW.docx` was absent from the current folder, Downloads, Desktop, Documents, Offload, and the book checkout. No copy or Word PDF export was performed; the destination was left untouched. Resume that step when the source file is available.
+
+### Refreshed D checkout checkpoint (17 Oct 2026)
+After fetching `origin/main` at `5cb88bab`, the local branch `pc-checkout-cleanup-2026-10-13` remains 142 commits ahead and 761 behind. Expanded status is 526 entries: 152 modified, 36 deleted, and 338 untracked. The repository has 115 registered worktrees. The fetch changed refs only; the D checkout files were not changed. No broad cleanup, reset, cherry-pick, promotion, commit, or merge was performed.
+
 ## Next work
 
 1. The D: Poetry folder now matches all 18 active files on current main. Do not rewrite the poems solely to silence the automated scan; the book handover records user approval for political-topic content. Finish the external review, original-source verification, Kindle Previewer inspection, and KDP disclosure checks before publication.
