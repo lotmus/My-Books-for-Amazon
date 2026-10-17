@@ -426,3 +426,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - This pilot is `Quantum, Actually - Volume 1`, not Lolly Wren’s Book 1 — Schrodinger’s Paperwork. It is local-only and not yet a published remote repository.
 - Continue the book-by-book reconciliation and create isolated per-book repos once each book’s active source and unique local work are verified. Keep remote publication until the collection inventory is accounted for; do not bulk-commit or force-push the shared checkout.
 
+## 2026-10-17 — Bavarian Cooking remains unresolved for separation
+
+- Latest handover baseline is `origin/main` at `90857808b35265c06c67f82e55ee757d2bff1f2d`. Since the last measured legacy checkout count, main has advanced only by documentation commits; the shared legacy checkout was last measured at 142 ahead / 772 behind and 529 changed or untracked entries (528 outside the single protected path).
+- The Bavarian alias `HOW TO  Series/Bavarian  Cooking` has two modified active files (Recipe Review and the Kindle DOCX), two deleted Rev11 DOCX variants, and one untracked `notes/WORK_QUEUE.md`. No `bak` content was read, and no source file was changed or moved.
+- The current D: Kindle DOCX and EPUB are byte-identical to the files in the existing local candidate folder `.codex-worktrees/bavarian-cooking-current-20261015/Bavarian  Cooking`. The Recipe Review file differs from that candidate. The local queue describes additional pending editorial and production work.
+- Not ready for a clean book-repo pilot yet: keep the review-note difference and deleted Rev11 files accounted for, and preserve the pending queue and ignored production assets. Do not publish a separate remote or discard the existing local state.
+- Next safe step: reconcile the D: review note and candidate worktree against current main and the pending queue, then snapshot the complete active Bavarian working set into an isolated book repo without scanning `bak`.
+
