@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at ca371b30 (PR #300). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 701 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 0438b165 (PR #301). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 703 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -178,6 +178,10 @@ The CARS series has one unique D: patch; all 204 distinct historical blobs alrea
 ### EE series history preservation (17 Oct 2026)
 
 Three unique EE patches contain 1,189 distinct historical blobs. Of these, 1,033 already existed in current main or the D: EE folder/backups; the remaining 156 (1,840,221 bytes) were restored with hash suffixes. The per-book backups contain 27 Book 4 blobs, two Book 5 blobs, seven Book 7 blobs, 28 Book 8 blobs, and 14 Book 9 blobs; 78 shared series-level blobs are in a separate series-level `bak` folder. Six manifests record original paths, object IDs, sizes, and backup paths. All hashes and sizes verify, the backup paths are ignored by Git, and no active EE edition changed. D: status remains 524 entries.
+
+### Department, Kindle-book, and Auswandern history review (17 Oct 2026)
+
+The 85 Department of Historical Corrections files in D: are already represented by current-main files; no unique D-branch history blobs need a separate copy. How to Publish Your First Kindle Book had two missing historical blobs (83,337 bytes), and Auswandern had four (55,923 bytes). All six (139,260 bytes) were restored with hash suffixes under their respective ignored `bak\2026-10-17 historical revision preservation\` folders. Both manifests record the source paths and Git object IDs; hashes and sizes verify. The current Auswandern release was left unchanged, and D: status remains 524 entries.
 
 ### Folder reorganization and live EE inventory (16 Oct 2026)
 
