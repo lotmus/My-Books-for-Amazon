@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at d6af8825 (PR #295). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 691 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 1f6d83ad (PR #296). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 693 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -158,6 +158,10 @@ The Hill with the Hanging Socks and the Sleepless Stream each have one unique D:
 ### In Love with Murder historical source preservation (17 Oct 2026)
 
 The unique D: patch for In Love with Murder, Actually contains eight distinct book-file blobs. Three are already in current main or the D: book folder; five historical Markdown and Python source/support versions were absent from both. The five files total 403,206 bytes and were restored with hash suffixes under the ignored `NOVELS\In Love with Murder, Actually\bak\2026-10-17 historical revision preservation\` folder. Its `manifest.tsv` records blob IDs, sizes, original paths, and backup paths. All five hashes and sizes match their historical Git objects. The release DOCX remains aligned with current main, and the unresolved edition candidate was left intact. D: status remains 524 entries.
+
+### Additional book history preservation (17 Oct 2026)
+
+Four more safe book scopes were checked across their unique D: patches. Missing historical blobs were restored into each book's ignored `bak\2026-10-17 historical revision preservation\` folder, with a manifest for each book: Bavarian Cooking, 10 blobs (2,566,033 bytes); Your First YouTube Channel That Rocks, three blobs (50,085 bytes); The Dolphins' View of History, 127 blobs (3,880,373 bytes); and The Universe, Actually, 44 blobs (3,268,290 bytes). These 184 files total 9,764,781 bytes. Their Git hashes and sizes were verified, no active edition was overwritten, and The Universe REV18 candidate remains unchanged. D: status is still 524 entries.
 
 ### Folder reorganization and live EE inventory (16 Oct 2026)
 
