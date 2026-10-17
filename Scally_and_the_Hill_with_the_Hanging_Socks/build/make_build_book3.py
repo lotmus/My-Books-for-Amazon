@@ -14,7 +14,9 @@ def rep(a, b, count=1):
 rep('TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"', 'TITLE1, TITLE2 = "Scally and the Hill", "with the Hanging Socks"')
 rep('FULL = "Scally and the Sleepless Stream"', 'FULL = "Scally and the Hill with the Hanging Socks"')
 m = re.search(r'STORY_FILE = "Book2_Story_v\d+\.txt"', s)
-STORY = sorted(f for f in os.listdir(os.path.join(os.path.dirname(HERE), "Step_Stories_Texts")) if f.endswith(".txt"))[-1]
+story_dir = os.path.join(os.path.dirname(HERE), "Step_Stories_Texts")
+story_files = [f for f in os.listdir(story_dir) if re.fullmatch(r"Book3_Story_v\d+\.txt", f)]
+STORY = max(story_files, key=lambda f: int(re.search(r"_v(\d+)\.txt$", f).group(1)))
 s = s.replace(m.group(0), 'STORY_FILE = "%s"' % STORY)
 rep('"Book 2 of " + SERIES', '"Book 3 of " + SERIES')
 rep('Scally_and_the_Sleepless_Stream_Book2_%s.docx', 'Scally_and_the_Hill_with_the_Hanging_Socks_Book3_%s.docx')
@@ -26,10 +28,13 @@ lines = []
 for e in plan:
     f = "p%03d_ch%02d.jpg" % (e["n"], e["chap"])
     if os.path.exists(os.path.join(P, f)):
-        lines.append("    %r: %r," % (e["key"], f))
+        lines.append("    (%r, %r)," % (e["key"], f))
 i = s.index("place = {")
 j = s.index("\n}\n", i) + 3
-s = s[:i] + "place = {\n" + "\n".join(lines) + "\n}\n" + s[j:]
+s = s[:i] + "place = [\n" + "\n".join(lines) + "\n]\n" + s[j:]
+rep("for _k, _v in place.items():", "for _k, _v in place:")
+rep("for k, v in place.items():", "for k, v in place:")
+rep("            pic(v)\n            break", "            pic(v)")
 
 # cast
 i = s.index("cast = [")
@@ -49,7 +54,12 @@ cast = '''cast = [
     ("Fourpence", "A small brown bird who sings five notes now."),
 '''
 s = s[:i] + cast + s[j:]
-rep("Ages 5–9. Little ones can follow the whole story from the pictures alone.", "Ages 7–10. Younger children can follow the whole story from the pictures alone.")
+s, age_replacements = re.subn(
+    r'centered\("For ages 7[–-]10\. Younger children can enjoy it as a read-aloud and explore the pictures with a grown-up\.", 12, italic=True\)',
+    'centered("Ages 7–10. Younger children can follow the whole story from the pictures alone.", 12, italic=True)',
+    s,
+)
+assert age_replacements == 1, age_replacements
 
 # guide pages
 i = s.index('heading("For Parents and Teachers", 1, "guide")')
@@ -118,5 +128,5 @@ centered("Book 4 of The Step Stories is coming soon.", 12, italic=True, after=14
 '''
 s = s[:i] + alsoby + s[j:]
 out = os.path.join(HERE, "build_book3.py")
-open(out, "w", encoding="utf-8").write(s)
+open(out, "w", encoding="utf-8", newline="\n").write(s)
 print("build_book3.py written;", len(lines), "anchors;", STORY)
