@@ -466,3 +466,12 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - The copied DOCX helper requires Pandoc. No build was run. No book-scoped handover or status file was found, so publication readiness remains unassessed.
 - The existing cars-sync worktree is clean and its branch tip is already contained in current main; its changes are not a separate pending PR.
 - The D: checkout, existing worktrees, and bak folders were left untouched. Private remote creation remains deferred until collection-wide source and pending work are reconciled.
+
+
+## 2026-10-17 - Science Sparks local split checkpoint
+
+- PR #220 merged the REV5 source update. The current status note identifies `scripts/build/Science Sparks - REV5.docx` as a review candidate; page-by-page visual review is still open, so this is not a publication sign-off.
+- The shared D: tree and current main have the same 41 tracked Science Sparks files after line-ending/BOM normalization. The D: root DOCX is byte-identical to the older tracked main DOCX and does not match the REV5 candidate. The latest candidate remains in the completed review worktree at `D:\Offload\.codex\worktrees\science-sparks-consolidation\My Books for Amazon\Science Sparks\scripts\build\Science Sparks - REV5.docx`.
+- In that completed worktree, the clearly superseded REV3 and REV4 build outputs were moved to `Science Sparks/bak/2026-10-17 superseded build outputs/`; REV5 remains active. The `bak/` directory was not scanned. The shared D: checkout was not modified.
+- The local standalone pilot at `D:\Offload\.codex\worktrees\split-pilot-science-sparks-rev5-20261017` contains 38 current-source files plus the REV5 candidate (39 tracked total), is clean, and has no remote. It omits the older root DOCX and internal QA files; those originals remain in their source locations.
+- Private remote creation remains deferred until collection-wide source and pending work are reconciled.
