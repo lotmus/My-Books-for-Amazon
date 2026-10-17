@@ -335,3 +335,18 @@ After confirming the organized D: EE folder's Book 1 REV2 predates the main REV4
 
 ## Physics Vol. 2 current-master and bak check — 2026-10-16
 The clean worktree branch `codex/physics-vol2-current-20261016` is 18 commits behind and zero ahead of origin/main; it has no unique candidate commit. The organized D: DOCX `SCIENCE  Series/Physics, Actually - SERIES/Volume 2/Physics Vol 2 - Gravity, Cosmology, and the Limits of Spacetime.docx` is byte-identical to origin/main at `Physics, Actually - SERIES/Volume 2/`. The current `notes/00_Status.md` names this as the working master, calls it a draft, and lists hostile-referee findings and whole-book review as open. Older/intermediate DOCX versions are already under that volume's `bak/`. No move, commit, or merge is needed; preserve the draft status and review gate.
+
+## EE chapter-mirror comparison against origin/main — 2026-10-16
+Compared the D: working chapter mirrors under `EE, Actually  Series/chapters/BookN` against the corresponding source folders in `origin/main:EE - SERIES/chapters/`, mapping local `Book1` to main `Book1_REV4` and local `Book7` to main `Book7_REV4` (their latest numbered source folders). Excluded nested `bak/` directories. Counts are exact-byte matches / newline-only differences / substantive differences / D-only files / main-only files:
+
+- Book1 vs REV4: 51 / 18 / 28 / 0 / 2.
+- Book2: 59 / 16 / 15 / 0 / 0.
+- Book3: 32 / 26 / 6 / 0 / 0.
+- Book4: 83 / 0 / 26 / 0 / 0.
+- Book5: 34 / 26 / 2 / 0 / 0.
+- Book6: 35 / 4 / 13 / 0 / 2.
+- Book7 vs REV4: 52 / 0 / 15 / 0 / 0.
+- Book8: 101 / 0 / 0 / 0 / 0.
+- Book9: 90 / 1 / 3 / 0 / 0.
+
+The live D: worktree currently reports 166 modified tracked chapter files and 7 untracked entries under this tree. These are not safe to bulk-move into `bak/`: Books 1–7 and 9 have real differences (including manuscript sources, metadata, and/or figures) from the chosen main path; Book8's tracked files match main exactly, while its local nested `bak/` is excluded. This is a file-to-file content comparison only; it does not establish which divergent prose is the latest approved edition. Preserve all remaining source differences and the untracked entries until each book's local status/review notes and export revision are checked. No chapter files were staged, committed, pushed, moved, or deleted in this comparison. The only prior file moves remain the 26 explicitly listed superseded EE numbered DOCXs above.
