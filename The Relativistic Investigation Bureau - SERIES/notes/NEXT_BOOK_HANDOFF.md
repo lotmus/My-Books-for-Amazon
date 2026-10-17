@@ -1,15 +1,15 @@
 # Series Continuity Handoff
 
-**Author reference only. Checked 15 October 2026 against the Book 1 REV17 release candidate and Book 2 REV05 working draft.** Read this first when beginning another Bureau book; use `SERIES_SEAM.md` for voice and conduct, `CHARACTER_AND_SETTING_BIBLE.md` for character and setting details, and `SERIES_BIBLE_continuity_chart.md` for Case 1047's evidence chronology.
+**Author reference only. Checked 17 October 2026 against the Book 1 REV18 review candidate and Book 2 REV05 working draft.** Read this first when beginning another Bureau book; use `SERIES_SEAM.md` for voice and conduct, `CHARACTER_AND_SETTING_BIBLE.md` for character and setting details, and `SERIES_BIBLE_continuity_chart.md` for Case 1047's evidence chronology.
 
 ## Which text to trust
 
-- **Book 1 release candidate pair:** `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`, `Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`, and `Book 1 - The Murder That Hadnt Happened Yet/The_Murder_That_Hadnt_Happened_Yet_REV17_Kindle_Reflowable.epub`. REV15 and REV16 have been removed from the active Git folder as superseded versions. REV14 remains the release master; REV17 is the current candidate. See `Book 1 - The Murder That Hadnt Happened Yet/notes/WORK_QUEUE.md` for the version-cleanup record.
+- **Book 1 review candidate pair:** `Book 1 - The Murder That Hadnt Happened Yet/scripts/manuscript_text_REV18_REVIEW_CANDIDATE.txt` and its paired `The_Murder_That_Hadnt_Happened_Yet_REV18_REVIEW_CANDIDATE.docx`. The REV18 EPUB is not yet built. REV17 is superseded and locally archived; REV14 remains the release master. See Book 1 `notes/WORK_QUEUE.md` and `notes/CONTINUITY_EDITORIAL_REVIEW_20261017.md`.
 - **Book 1 release master:** `Book 1 - The Murder That Hadnt Happened Yet/FINAL_REV14_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
 - **Book 2 active working pair:** `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV05_LINE_EDIT_DRAFT.md` and the matching `_REV05_LINE_EDIT_DRAFT.docx`.
 - **Book 2 release master:** `Book 2 - The Warning That Was Sent Too Late/The_Warning_That_Was_Sent_Too_Late_BOOK_2_REV04.docx`, rebuilt on 13 Oct 2026 from the paired REV04 Markdown source because the DOCX was absent from the workspace. Text and package are verified; visually review its layout before using it for KDP.
 
-REV17 and REV05 are the current story state for continuation; REV17 is a release candidate, not yet an approved release. Do not silently replace the release masters. Book 1's older `manuscript_text.txt` and the Book 2 build script's default source/output may be stale; inspect the relevant script before rebuilding. Keep each revision's source and paired DOCX together. Check the REV17 candidate in KDP Previewer before release.
+REV18 and REV05 are the current story state for continuation; REV18 is a review candidate, not an approved release. Do not silently replace the release masters. Book 1's older `manuscript_text.txt` and the Book 2 build script's default source/output may be stale; inspect the relevant script before rebuilding. Keep each revision's source and paired DOCX together. Build the REV18 EPUB and check it in KDP Previewer before release.
 
 ## End-state canon
 

@@ -544,7 +544,7 @@ Herbert Matkowski had once been Alfred Weinstein’s mathematics professor. He m
 
 “I didn’t send it.”
 
-“He assumed not. You never send him anything interesting.” There was a scuffle at the far end, and a second voice took over, older-sounding than its years, unhurried and slightly accented, with a habit of dropping to a whisper exactly when a thing interested it.
+“He assumed not. You never send him anything interesting.” There was a scuffle at the far end, and a second voice took over, unhurried, with a habit of dropping to a whisper exactly when a thing interested it.
 
 “Derek. It is Alfred. I have looked at your photograph for one hour. You are not dead in it.”
 
@@ -866,7 +866,7 @@ The pencil fell. It hit the table, rolled, and stopped against the clock in its 
 
 “And the apple?”
 
-“The apple is in the same position as your photograph. It falls, and it does not know it is falling. It cannot tell, from inside, what is happening to it. You have to stand outside the apple, with a frame, with a floor, with a second object to compare, before you can say what its motion means.” He put the pencil away. “A photograph does not know what it is a photograph of. It cannot tell you whether it is evidence of murder or of someone lying down. You need a second object. You need a comparison.”
+“The apple cannot tell you what its fall means. You need a second object to compare.” He put the pencil away. “Our photograph is no wiser. It cannot say whether the stain is blood or paint, or what happened before the shutter opened.”
 
 “So we need the metric,” said Trevor.
 
@@ -940,7 +940,7 @@ Derek opened his mouth and closed it again. It was a good question, and he disli
 
 The train came out of the tunnel at Acton Town into grey daylight, and the rain went sideways across the windows in the wind, and then they were underground again and the windows were mirrors. Derek watched his own reflection hanging in the dark outside, swaying with him, a man with a bag and a strap and a bad back who might be dead in two and a half hours.
 
-“In physics,” said Weinstein, more quietly, “a singularity is not necessarily a point where gravity becomes infinite or everything is crushed. A key sign is geodesic incompleteness: a freely falling observer’s path ends after a finite amount of proper time and cannot be continued within the spacetime model. The model’s map runs out; that does not tell us what the territory beyond it is like.” He closed the notebook. “Your file has a singularity in the date box. Respect it. It is the one place where the file has told you it doesn’t know.”
+“In physics,” said Weinstein, more quietly, “a singularity need not be a point where gravity becomes infinite. One warning sign is geodesic incompleteness: a freely falling observer reaches the end of the path the model can describe after a finite time by their own clock. The map runs out; it tells us nothing about the territory beyond.” He closed the notebook. “Your file has a singularity in the date box. Respect it. It is the one place where the file has told you it doesn’t know.”
 
 At Hammersmith Derek’s phone found a signal and rang at once. Sophie. He looked at it for a whole ring before he answered, because his hand had decided to be careful.
 
@@ -3530,7 +3530,9 @@ Say when Newton remains an excellent approximation.
 
 Newton vs. Einstein: the same falling apple, explained as a force or as motion along a geodesic.
 
-[[IMAGE rib1_fig2.jpg | Diagram: Newton explains the falling apple as a force pulling it down towards the Earth; Einstein explains the same fall as the apple following the straightest path through spacetime curved by the Earth.]]
+[[IMAGE rib1_fig2.jpg | Diagram comparing Newtonian force with relativistic free fall. The curved grid is a visual aid, not a literal view of spacetime; the apple follows a geodesic through spacetime curved by the Earth.]]
+
+Picture note: The curved grid is a visual aid, not a literal two-dimensional slice of spacetime. The path shown is a geodesic through the full four-dimensional spacetime geometry.
 
 Newton answered: There is a gravitational force.
 

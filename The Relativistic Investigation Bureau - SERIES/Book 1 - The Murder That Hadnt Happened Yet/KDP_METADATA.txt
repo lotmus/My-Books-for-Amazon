@@ -4,7 +4,7 @@ The Murder That Hadn't Happened Yet
 Book 1: The Relativistic Investigation Bureau Series
 ================================================================================
 
-[Updated 15 Oct 2026 (PT). REV14 remains the preserved release master; REV17 is the newest release candidate, not an approved or published release. See notes/WORK_QUEUE.md and KDP_LAUNCH_CHECKLIST.txt for outstanding continuity/editorial, preview, and account decisions. The versioned REV17 description is mirrored in kdp_description.docx and kdp_description_REV17_RELEASE_CANDIDATE.docx/.txt.]
+[Updated 17 Oct 2026 (PT). REV14 remains the preserved release master; REV18 is the active review candidate, not an approved or published release. See notes/WORK_QUEUE.md and KDP_LAUNCH_CHECKLIST.txt for preview and account decisions. The canonical listing copy remains kdp_description.docx; its versioned source text is unchanged.]
 
 TITLE
 The Murder That Hadn't Happened Yet
@@ -159,12 +159,12 @@ REQUIRED:
 COVER REQUIREMENTS (checked 14 Oct 2026 against the current files):
 - Marketing/front cover: `Kindle Front Cover.jpg`, JPEG, RGB, 1152 x 1728 px, 0.85 MB. It is below KDP's 1600 x 2560 px recommendation. KDP advises against enlarging small source art to meet the recommendation; re-render from a higher-resolution source before upload. [KDP cover guidelines](https://kdp.amazon.com/en_US/help/topic/G6GTK3T3NUHKLEFX).
 - The attempted generated variant was not adopted: it was lower resolution and introduced inaccurate decorative text.
-- Internal content cover: included once as the first page of the REV17 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
+- Internal content cover: included once as the first page of the REV18 candidate, before the title page. Its title and author/byline match the marketing cover and listing. Check it again in Kindle Previewer.
 - Audible cover and back cover are separate assets and are not used as the Kindle eBook marketing cover.
 
-MANUSCRIPT (REV17 release candidate):
-- Candidate: `FINAL_REV17_RELEASE_CANDIDATE_The_Murder_That_Hadnt_Happened_Yet_KINDLE_READY.docx`.
-- Editable source: `scripts/manuscript_text_REV17_RELEASE_CANDIDATE.txt`; paired with the candidate DOCX. REV14 release master is preserved.
+MANUSCRIPT (REV18 review candidate):
+- Candidate: `The_Murder_That_Hadnt_Happened_Yet_REV18_REVIEW_CANDIDATE.docx`.
+- Editable source: `scripts/manuscript_text_REV18_REVIEW_CANDIDATE.txt`; paired with the candidate DOCX. REV14 release master is preserved.
 - The source includes the internal front cover, linked table of contents, title/copyright pages, story, optional course, glossary, author matter and bibliography.
 - Six interior science diagrams retain descriptive alt text. Together with the front cover, the DOCX has seven inline images.
 - Structural preflight checks: internal links resolve to bookmarks; heading styles and page breaks are present; DOCX package opens cleanly. Final Kindle Previewer/KDP online preview remains an account-side release check.
