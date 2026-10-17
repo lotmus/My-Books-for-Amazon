@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at e03e6a7a (PR #271). Expanded status is 489 file entries: 120 modified, 36 deleted, and 333 untracked. The default short status compresses those untracked files into 67 directory rows, so it shows 223 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 662 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 29, CARS 22, Poetry 17, How To 12, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 78d20abe (PR #272). Expanded status is still 489 file entries: 120 modified, 36 deleted, and 333 untracked. The default short status compresses those untracked files into 67 directory rows, so it shows 223 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 664 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 29, CARS 22, Poetry 17, How To 12, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -163,6 +163,10 @@ The current-main book folder contains `The_Universe_Actually__REV15.docx` as its
 REV18 is the newest numbered local candidate, but its own notes say the 8.9 four-angle score belongs to REV16 and was not rerun for REV18; the cover and KDP description were not updated. The main REV15 release notes document a different, released master. Both DOCX files carry the same core created/modified timestamp, so package metadata does not resolve the release choice. Keep REV15 as the current released master and preserve REV18 as an unreleased candidate. Do not replace or archive either file until REV18 receives the required review and cover/listing decisions.
 
 The live D: folder has 170 active files versus 69 active paths in the main book folder: 162 D:-only paths, 61 main-only paths, and eight common paths. This path gap is expected to include the local revision scripts and candidate materials, so it is not a safe bulk-sync list.
+
+### The Universe Has No Now: unique-patch check (17 Oct 2026)
+
+The distinct Look First title “The Universe Has No Now” is already present on current `origin/main` at 173 paths. The D: checkout has no tracked paths for its current-main folder and no physical folder at that location. In unique patch `cd8a42d1`, the 14 book-scoped paths excluding the shared root score file were compared by blob ID: 12 match current main, while the DOCX export and `scripts/rescore_2026-10-10.py` have later current-main versions. No local edition or asset was found to recover or promote; the shared score file was excluded from content inspection.
 
 ### EE series local split pilot (16 Oct 2026)
 
