@@ -510,3 +510,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - Created local-only standalone pilot at D:\Offload\.codex\worktrees\split-pilot-scally-sleepless-v17-20261017. It began as a D: snapshot (0796bbe), then was aligned to the exact 109 active files from current main (a73b30c); its current HEAD is 1638bda. The clean pilot adds only .gitignore and notes/SEPARATION_AUDIT.md beyond the current main book tree. It has no remote.
 - The D: build folder lacked fonts, while current main tracks the four Comic Neue TTF inputs and OFL text. The v17 EPUB embeds four TTFs of matching names and sizes but different hashes; the pilot uses the tracked current-main font inputs. No build or editorial QA was run. The README/KDP checklist still calls for a full-size illustration review and external science/safety review before upload.
 - No shared D: files were changed or moved. The 105 D: status entries represent a stale shared-checkout index and line-ending differences, not newer book content.
+
+
+## The Wee Scallywag and the Gentle Elf v22 checkpoint — 2026-10-17
+
+- Current main at f3188761 contains the v22 story master, DOCX and EPUB, promoted by commit b22589d0. The D: active path inventory is identical: 153 files, of which 146 are byte-identical and seven differ only by CRLF/LF. No D-only, main-only, or other content differences were found. Existing bak/ and junk/ were excluded and never read.
+- D: reports 41 book-scoped status paths against the stale shared-checkout index. They represent the current v22 package and line endings; no unique Book 1 content needs rescuing.
+- Created local-only standalone pilot at D:\Offload\.codex\worktrees\split-pilot-wee-scallywag-v22-20261017, commit f699fd9. It contains the 153 active files from current main plus a local .gitignore and notes/SEPARATION_AUDIT.md, is clean, and has no remote.
+- No build or editorial review was run. The KDP checklist still calls for science and safety review and a phone/e-ink screen review before upload. The shared D: checkout was not changed.
