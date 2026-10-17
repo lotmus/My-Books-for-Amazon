@@ -442,3 +442,10 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - Not ready for a separate-repo pilot until REV26’s source/provenance and the deleted review-note history are reconciled, and `_source/` is explicitly kept outside any book snapshot. Preserve the current DOCX, notes, and local changes.
 - Next safe step: review only the book’s status and active files, reconcile the legacy changes against current main without opening `_source/` or `bak`, then build a scoped local pilot from the verified active book files.
 
+
+## 2026-10-17 - Giving Birth to an Ivy League Student split checkpoint
+
+- The shared D: checkout has three untracked paths for this title: the REV04 EPUB, revised REV04 DOCX, and `notes/STATUS.md`. An active-file inventory that pruned `bak/` found exactly these three files.
+- SHA-256 comparison confirms all three files match the tracked copies in the local standalone pilot at `D:\Offload\.codex\worktrees\split-pilot-giving-birth-ivy-league-20261017` (snapshot commit `18e7e995`, sourced from monorepo commit `f930c861`). The pilot is clean and has no remote.
+- The original REV04 change was already merged by PR #217 on 2026-10-16 (source commit `fc502e6`). The D: copies add no unique book changes. No files were copied, committed, or changed in the shared checkout or existing REV04 worktree during this audit.
+- Result: the title is ready as a local standalone snapshot; private remote creation remains deferred until collection-wide source and pending work are reconciled.
