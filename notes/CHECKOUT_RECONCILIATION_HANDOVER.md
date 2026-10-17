@@ -378,6 +378,18 @@ The approved source name `Schrodingers_Paperwork_BOOK1_REV6_REVIEW.docx` was abs
 ### Refreshed D checkout checkpoint (17 Oct 2026)
 After fetching `origin/main` at `5cb88bab`, the local branch `pc-checkout-cleanup-2026-10-13` remains 142 commits ahead and 761 behind. Expanded status is 526 entries: 152 modified, 36 deleted, and 338 untracked. The repository has 115 registered worktrees. The fetch changed refs only; the D checkout files were not changed. No broad cleanup, reset, cherry-pick, promotion, commit, or merge was performed.
 
+### Correction and Book 1 audit: Schrodinger’s Paperwork (17 Oct 2026)
+Correction to the prior REV6 handoff check: `Schrodingers_Paperwork_BOOK1_REV6_REVIEW.docx` was present in the Book 1 legacy folder at `NOVELS/Lolly Wren's Curious Science Adventures - SERIES/Book 1 - Schrodingers Paperwork`; the earlier filename search missed it. The review DOCX is byte-identical to the existing `Schrodingers_Paperwork_BOOK_1 - REV6.docx` (2,438,823 bytes, SHA-256 `e25c14d6e124…`). The REV6 destination already existed, so no copy or overwrite was needed.
+
+The review DOCX was opened read-only in Word and rendered to `C:\Users\lomus\venn_render\Schrodingers_Paperwork_BOOK1_REV6_REVIEW.pdf` (947 pages, 2,726,512 bytes). A separate PDF already in the book folder was preserved; it has a different hash and was not overwritten.
+
+At `origin/main` snapshot `2e987283`, the canonical Book 1 tree has 47 active tracked files. The legacy `NOVELS/` alias had 50 active files after excluding its `bak` tree: 46 common paths (eight byte-identical, 38 equal after BOM/newline normalization), four local-only review/candidate files, and one main-only REV5 package. No substantive difference was found among the 46 common paths. The existing Lolly Wren series pilot at `D:/Offload/.codex/worktrees/split-pilot-lolly-wren-series-20261017` remains clean and remote-free; all 93 blobs match current main exactly.
+
+Current-main REV5 is 90,313 words; local REV6 and the review DOCX are 90,331 words and text-different. The local REV5 DOCX was byte-identical to current main’s REV5 and was moved unchanged to `NOVELS/Lolly Wren's Curious Science Adventures - SERIES/Book 1 - Schrodingers Paperwork/bak/2026-10-17 REV5 exact duplicate of main/`; SHA-256 was verified after the move. Leave REV6 and its review files as the newer local candidate; no release approval or promotion was made. The new backup directory was not scanned.
+
+### Refreshed D checkout checkpoint (17 Oct 2026)
+At current `origin/main` snapshot `2e987283`, `pc-checkout-cleanup-2026-10-13` remains 142 commits ahead / 762 behind. Expanded status is 527 entries: 152 modified, 36 deleted, and 339 untracked; 115 worktrees are registered. Since the last checkpoint, only the verified local REV5 duplicate was moved into its book-level bak folder. No broad cleanup, reset, cherry-pick, commit, or book promotion was performed.
+
 ## Next work
 
 1. The D: Poetry folder now matches all 18 active files on current main. Do not rewrite the poems solely to silence the automated scan; the book handover records user approval for political-topic content. Finish the external review, original-source verification, Kindle Previewer inspection, and KDP disclosure checks before publication.
