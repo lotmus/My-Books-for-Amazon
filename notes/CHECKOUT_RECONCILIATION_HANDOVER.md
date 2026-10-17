@@ -457,3 +457,12 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - PR #216 (the Limericks update) and PR #215 (a different poetry title) are already merged. The standalone local pilot at D:\Offload\.codex\worktrees\split-pilot-limericks-nonsense-20261017 contains all 18 current-main book files, is clean, has no remote, and was snapshotted from b57991ff as fa6e785.
 - The book bak folder was excluded from inventory and was not opened or copied. External review, classic-source verification, document rendering, Kindle Previewer inspection, and KDP disclosure remain open before publication.
 - Result: the book has a verified local standalone snapshot and no unique shared-checkout content to merge. Private remote creation remains deferred until collection-wide source and pending work are reconciled.
+
+
+## 2026-10-17 - MCAT Book 1 Chemical and Physical Foundations local split checkpoint
+
+- The 65 active files under books/book1-chem-phys have the same file set as current main. The 20 modified chapter files in the shared D: checkout match main byte-for-byte; the other 26 raw-byte differences match after line-ending and BOM normalization. The outline and generated DOCX also match main. No unique local book content was found.
+- The local pilot at D:\Offload\.codex\worktrees\split-pilot-mcat-book1-chem-phys-20261017 contains the 67 current-main book, outline, and DOCX files, plus tools/ebook/build_docx.py. It is clean, has 68 tracked files, and has no remote. The book paths were unchanged between source commit a15c4410 and origin/main b89380a3; pilot commits are 9f64042 and eab44bc.
+- The copied DOCX helper requires Pandoc. No build was run. No book-scoped handover or status file was found, so publication readiness remains unassessed.
+- The existing cars-sync worktree is clean and its branch tip is already contained in current main; its changes are not a separate pending PR.
+- The D: checkout, existing worktrees, and bak folders were left untouched. Private remote creation remains deferred until collection-wide source and pending work are reconciled.
