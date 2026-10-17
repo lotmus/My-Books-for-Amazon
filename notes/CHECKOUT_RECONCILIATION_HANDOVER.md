@@ -557,3 +557,12 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 ## 2026-10-17 — Poetry status confirmation
 
 - The 17 active files in `POETRY/Limericks and Nonsense Rhymes` still match `origin/main` byte-for-byte. The two additional Poetry-root status entries are loose root notes, not part of the Limericks package; they remain untouched. Existing `bak/` was excluded. The prior local pilot and review/source caveats remain as recorded above.
+
+
+## 2026-10-17 — Department of Historical Corrections reconciliation
+
+- Rechecked the shared D: folder against fresh `origin/main` at `fcf1ba3a19b07bdebf228bf02a967eab64c1a7fa`. Both have the same 85 active files: 83 byte-identical and two matching after line-ending/BOM normalization; there are no D-only or main-only files and no substantive content differences. Existing `bak/` was not inspected. The shared checkout was not changed.
+- The existing local-only pilot now has a current-source audit note and `.gitignore`: 85 current-main book files match exactly, plus those two local support files (87 tracked total), clean, no remote. Pilot commit `6d44a25`; no build or tests were run.
+- Current edition is REV15 EPUB (upload candidate), with REV15 DOCX fallback and Markdown, according to the latest dated status and handover entries. The opening `_STATUS.md` header still identifies REV12 as master, which conflicts with its later REV13–REV15 entries; no book content was edited.
+- Publication/review work remains open in current status: cold read, Kindle Previewer, specialist physics review of the appendix, cold-reader humour check, and five external review cycles (0/5 at last recorded update). No build, validation, or publication review was run here.
+- Next safe group: 36 status entries under `SCIENCE  Series/Science Sparks` (existing REV5 candidate/pilot checkpoint) and one under `SCIENCE  Series/Quantum, Actually - SERIES` (the already noted Volume 2 `_STATUS.md` conflict).
