@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at e71b226d (PR #289). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 681 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at c37b5425 (PR #290). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 682 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -209,7 +209,7 @@ The D: Book 3 and Book 4 PNGs were older substantive diagrams; their exact pre-s
 
 ### Split-pilot current-tree and policy-history audit (17 Oct 2026)
 
-The EE split pilot remains clean and remote-free at 168 commits; its 1,870-file tree is byte-identical to the current-main EE tree, so the existing tree snapshot does not need refreshing. No historical policy scan has been completed for its filtered history.
+The EE split pilot remains clean and remote-free at 168 commits; its 1,870-file tree is byte-identical to current main. A whole-history scan checked 1,504 text blobs and 203 DOCX/EPUB archives, with zero archive failures. Five matching historical blobs occur only in three builder assertions that check the term is absent from generated output; no reader-facing EE manuscript, DOCX, or EPUB text matched. Keep the pilot local-only until the owner chooses how to handle the self-check strings. A strict new-repository scan would require rewriting the current assertions and starting from a clean snapshot; filtered history retains older assertion blobs. The monorepo remains the full history archive.
 
 Both clean Step Stories pilots also match the current-main book trees exactly across all 414 book files. The broader pilot at `D:\Offload\.codex\worktrees\split-pilot-step-stories-20261016` has 121 commits and 419 files; the narrower pilot at `D:\Offload\.codex\worktrees\split-pilot-step-stories-clean-20261016` has 82 commits and 416 files. Neither has a remote. The extra files are shared author/handover notes, not book-tree differences.
 
