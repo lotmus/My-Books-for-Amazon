@@ -836,6 +836,8 @@ Elsewhere, palm oil, groundnuts, cocoa, cotton, and Katanga copper moved outward
 
 Oil made a new version of the goldfields. Niger Delta, Angolan, and Gulf of Guinea resources brought wealth that often passed the people standing above them. Economists call the pattern the resource curse, though they debate how much comes from geology and how much from politics. The cases here turn on the deals governing where the money went: roads and schools in some places, palaces and weapons in others.
 
+One different bargain emerged in Botswana. The first large diamond mine was found in 1967, a year after independence; that year’s Mines and Minerals Act placed mining revenues under national control. A World Bank review estimated that close to 90 percent of mineral revenues from 1983 to 2014 went to physical and human capital, divided roughly between infrastructure and investments such as education and health. Botswana remained dependent on diamond income. The case shows how public institutions can turn some mineral wealth into shared assets, while leaving the economy exposed to the market for a single resource.
+
 Today the inventory includes cobalt for batteries, coltan for phone capacitors, and gold dug by hand in eastern Congo. Militias profit from some of these mines; dangerous, poorly paid work and child labor have been reported in artisanal cobalt mining.
 
 Africa did not need discovery to become valuable. Its kingdoms, soil, and minerals were rich before outsiders arrived. Ships, companies, and debt changed who collected the proceeds. The continent’s later poverty was not ancient; wealth moved, and the transfer endured.
@@ -1820,9 +1822,11 @@ The pattern persists: nuclear powers refrained from firing, civil-rights movemen
 
 Across the record, capability compounded faster than wisdom. Wisdom often arrived only after a new capability had been used badly.
 
-Capability ratchets: tools and instructions pass forward, giving each generation the last one’s starting point. Wisdom has no such inheritance; every age has to discover its limits anew.
+Capability ratchets: tools and instructions pass forward, giving each generation the last one’s starting point. Wisdom has no automatic inheritance; every age has to discover its limits anew.
 
-Wisdom has occasionally arrived in time: at a Christmas truce, in a submarine officer’s refusal to endorse a launch, and in a watch officer’s distrust of his own machine. Each was a rare individual choice, not a system.
+Not all wisdom arrived as an isolated refusal. Civil-rights campaigns turned organizing into court rulings and federal law; institutions carried that judgment beyond the lives of the people who first made the argument. The gains remained incomplete and contested, but they reveal a kind of inheritance the ratchet metaphor misses: each generation can receive protections as well as tools. They still have to be defended.
+
+At other moments, restraint rested on one person’s choice: a Christmas truce, a submarine officer’s refusal to endorse a launch, or a watch officer’s distrust of his own machine.
 
 Several timelines ran underneath everything else in this book, changing the whole time, without ever getting a chapter of their own. The plainest is the simplest number in the whole record: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion, a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. This book’s own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
 
@@ -2433,6 +2437,8 @@ Household life and burials at Neolithic Çatalhöyük. Haddow, Scott D., et al. 
 *Cobalt mining in the present-day Congo. *Kara, Siddharth. [Cobalt Red: How the Blood of the Congo Powers Our Lives](https://openlibrary.org/works/OL26346638W). New York: St. Martin’s Press, 2023.
 
 Afonso I of Kongo’s letter to Portugal, 1526. Afonso I to João III, 25 August 1526, Arquivo Nacional da Torre do Tombo, Corpo Cronológico, part 1, bundle 34, document 94; passage translated in [Christianity in the Kongo](https://www.cambridge.org/core/books/abs/portuguese-in-west-africa-14151670/christianity-in-the-kongo/B4656F226EE7B26AAB67437D29B597E8), Cambridge University Press.
+
+*Botswana’s diamond revenues and investment (1983–2014). *de la Brière, Bénédicte, Deon Filmer, Dena Ringold, Dominic Rohner, Karelle Samuda, and Anastasiya Denisova. [From Mines and Wells to Well-Built Minds: Turning Sub-Saharan Africa’s Natural Resource Wealth into Human Capital](https://documents1.worldbank.org/curated/en/687681493880957794/pdf/114770-PUB-PUBLIC-PUBDATE-5-2-17.pdf). Washington, DC: World Bank, 2017.
 
 ## 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 

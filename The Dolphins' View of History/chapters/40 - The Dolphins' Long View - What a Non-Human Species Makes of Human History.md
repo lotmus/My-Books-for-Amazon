@@ -16,9 +16,11 @@ The pattern persists: nuclear powers refrained from firing, civil-rights movemen
 
 Across the record, capability compounded faster than wisdom. Wisdom often arrived only after a new capability had been used badly.
 
-Capability ratchets: tools and instructions pass forward, giving each generation the last one’s starting point. Wisdom has no such inheritance; every age has to discover its limits anew.
+Capability ratchets: tools and instructions pass forward, giving each generation the last one’s starting point. Wisdom has no automatic inheritance; every age has to discover its limits anew.
 
-Wisdom has occasionally arrived in time: at a Christmas truce, in a submarine officer’s refusal to endorse a launch, and in a watch officer’s distrust of his own machine. Each was a rare individual choice, not a system.
+Not all wisdom arrived as an isolated refusal. Civil-rights campaigns turned organizing into court rulings and federal law; institutions carried that judgment beyond the lives of the people who first made the argument. The gains remained incomplete and contested, but they reveal a kind of inheritance the ratchet metaphor misses: each generation can receive protections as well as tools. They still have to be defended.
+
+At other moments, restraint rested on one person’s choice: a Christmas truce, a submarine officer’s refusal to endorse a launch, or a watch officer’s distrust of his own machine.
 
 Several timelines ran underneath everything else in this book, changing the whole time, without ever getting a chapter of their own. The plainest is the simplest number in the whole record: how many humans there were. For most of this book, the answer was small and slow. It took until 1804, on most estimates, for the global population to reach one billion, a milestone that arrived in the year Napoleon crowned himself emperor. The second billion took until 1927. The third took until 1960. The fourth took fourteen years. By 2022 the count passed eight billion. This book’s own chapters get denser and faster toward the end for the same reason the population curve does: there were, quite simply, more humans available to have more history.
 

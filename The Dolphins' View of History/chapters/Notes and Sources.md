@@ -288,6 +288,8 @@ Household life and burials at Neolithic Çatalhöyük. Haddow, Scott D., et al. 
 
 Afonso I of Kongo’s letter to Portugal, 1526. Afonso I to João III, 25 August 1526, Arquivo Nacional da Torre do Tombo, Corpo Cronológico, part 1, bundle 34, document 94; passage translated in [Christianity in the Kongo](https://www.cambridge.org/core/books/abs/portuguese-in-west-africa-14151670/christianity-in-the-kongo/B4656F226EE7B26AAB67437D29B597E8), Cambridge University Press.
 
+*Botswana’s diamond revenues and investment (1983–2014). *de la Brière, Bénédicte, Deon Filmer, Dena Ringold, Dominic Rohner, Karelle Samuda, and Anastasiya Denisova. [From Mines and Wells to Well-Built Minds: Turning Sub-Saharan Africa’s Natural Resource Wealth into Human Capital](https://documents1.worldbank.org/curated/en/687681493880957794/pdf/114770-PUB-PUBLIC-PUBDATE-5-2-17.pdf). Washington, DC: World Bank, 2017.
+
 ## 2600 BCE to 1491 CE: Before Columbus — Cities, Corn, and Knotted String
 
 *The Spanish soldiers wondering if they were dreaming. *Díaz del Castillo, Bernal. The Conquest of New Spain. c. 1568. Translated by J. M. Cohen. London: Penguin, 1963.

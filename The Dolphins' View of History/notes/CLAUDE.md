@@ -1,10 +1,10 @@
-# REV4 source-of-truth update — 15 October 2026
+# REV5 source-of-truth update — 17 October 2026
 
-This section overrides older instructions below wherever they conflict. `The Dolphins' View of History - REV4.docx` is the current master and source of truth. REV3, REV4 batch drafts, and the former `chapters/*.docx` build outputs are superseded and belong in ignored `bak/`; do not use them to rebuild or replace REV4. The active Markdown working copies and `notes/The Dolphins' View of History - Complete Manuscript.md` were synced from REV4. They contain the Prologue, 40 chapters, and active appendices/back matter. The Timeline remains DOCX-only.
+This section overrides older instructions below wherever they conflict. `The Dolphins' View of History - REV5.docx` is the current master and source of truth. REV4 and earlier drafts, REV4 batch drafts, and the former `chapters/*.docx` build outputs are superseded and belong in ignored `bak/`; do not use them to rebuild or replace REV5. The active Markdown working copies and `notes/The Dolphins' View of History - Complete Manuscript.md` were synced from REV4. They contain the Prologue, 40 chapters, and active appendices/back matter. The Timeline remains DOCX-only.
 
-The generator `scripts/_generate.js` predates REV4 and is not synchronized with the current master. **Do not run it** until it has been deliberately ported to REV4 and audited; it would overwrite the current deliverable with older text and chapter files.
+The generator `scripts/_generate.js` predates REV5 and is not synchronized with the current master. **Do not run it** until it has been deliberately ported to REV4 and audited; it would overwrite the current deliverable with older text and chapter files.
 
-Standing rule: no sentence may repeat within this book. Run `scripts/check_repeats.js` against the current REV4 master after any text change. It checks exact repeated sentences, runs of seven or more words, near-duplicate sentences, and duplicate notes entries. It must report `No repeated sentences found.` Before a future build, update this checker to read that build's actual master.
+Standing rule: no sentence may repeat within this book. Run `scripts/check_repeats.js` against the current REV5 master after any text change. It checks exact repeated sentences, runs of seven or more words, near-duplicate sentences, and duplicate notes entries. It must report `No repeated sentences found.` Before a future build, update this checker to read that build's actual master.
 
 # The Dolphins' View of History — working instructions
 

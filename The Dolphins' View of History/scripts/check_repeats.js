@@ -1,6 +1,6 @@
 // Checks the built book for repeated sentences (Lothar's rule, 2026-10-04: no sentence appears twice anywhere in
 // the book). Run after a build, from anywhere: node scripts/check_repeats.js [master.docx|folder-of-docx]
-// By default it reads the REV4 master; passing a folder keeps the legacy per-chapter mode.
+// By default it reads the REV5 master; passing a folder keeps the legacy per-chapter mode.
 // It reports, outside the deliberate devices listed in ALLOWED:
 //   1. exact duplicate sentences of three or more words,
 //   2. runs of seven or more words shared by two places,
@@ -12,7 +12,7 @@ const path = require("path");
 process.chdir(path.join(__dirname, ".."));
 const JSZip = require("jszip");
 
-const INPUT = process.argv[2] || "The Dolphins' View of History - REV4.docx";
+const INPUT = process.argv[2] || "The Dolphins' View of History - REV5.docx";
 const SKIP_FILES = [/^Also by/];            // a list of titles
 const NOTES_FILE = /^Notes and Sources/;    // citations: entry-level check only
 const RUN = 7;                              // words in a shared run
@@ -80,7 +80,7 @@ function lcsRatio(a, b) {
   const rows = [];      // {loc, text, k, w}
   const notes = [];     // {loc, k}
   for (const f of files) {
-    const label = masterMode ? "REV4" : (/^\d\d - /.test(f) ? f.slice(0, 2) : f.slice(0, 14).trim());
+    const label = masterMode ? "REV5" : (/^\d\d - /.test(f) ? f.slice(0, 2) : f.slice(0, 14).trim());
     const paras = await paragraphs(path.join(DIR, f));
     const notesStart = masterMode ? paras.findIndex(p => p.style === "Heading 1" && p.text.trim() === "Notes and Sources") : -1;
     paras.forEach((p, i) => {

@@ -32,6 +32,8 @@ Elsewhere, palm oil, groundnuts, cocoa, cotton, and Katanga copper moved outward
 
 Oil made a new version of the goldfields. Niger Delta, Angolan, and Gulf of Guinea resources brought wealth that often passed the people standing above them. Economists call the pattern the resource curse, though they debate how much comes from geology and how much from politics. The cases here turn on the deals governing where the money went: roads and schools in some places, palaces and weapons in others.
 
+One different bargain emerged in Botswana. The first large diamond mine was found in 1967, a year after independence; that year’s Mines and Minerals Act placed mining revenues under national control. A World Bank review estimated that close to 90 percent of mineral revenues from 1983 to 2014 went to physical and human capital, divided roughly between infrastructure and investments such as education and health. Botswana remained dependent on diamond income. The case shows how public institutions can turn some mineral wealth into shared assets, while leaving the economy exposed to the market for a single resource.
+
 Today the inventory includes cobalt for batteries, coltan for phone capacitors, and gold dug by hand in eastern Congo. Militias profit from some of these mines; dangerous, poorly paid work and child labor have been reported in artisanal cobalt mining.
 
 Africa did not need discovery to become valuable. Its kingdoms, soil, and minerals were rich before outsiders arrived. Ships, companies, and debt changed who collected the proceeds. The continent’s later poverty was not ancient; wealth moved, and the transfer endured.
