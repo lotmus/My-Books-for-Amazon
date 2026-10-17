@@ -418,3 +418,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - Existing local-only pilots for Lolly Wren’s series, Schrodinger’s Paperwork review candidate, and Giving Birth remain clean and verified; they have no remote and have not been published as separate repositories. They are pilots, not completed migrations.
 - Next: continue classifying the remaining legacy worktree entries book by book, preserve every unique source, resolve per-book status conflicts, then start isolated per-book repository migrations as soon as each book has a verified source of truth. Do not bulk-commit, bulk-merge, or force-push the shared legacy checkout.
 
+## 2026-10-17 — Quantum, Actually Volume 1 local split pilot
+
+- Current baseline is `origin/main` at `8e6c43dc6fffbf3ab8e88bfa0c39a3fcd66a7a25`. Compared with the preceding checkpoint at `6ed1ee3392211e417e16929ad918c3924c4da0a3`, only this handover file changed; the Quantum book tree is unchanged. The shared legacy checkout remains 142 commits ahead and 771 behind current main, with 529 changed or untracked entries on the last status check (528 outside the single protected path).
+- Scoped comparison for the separate book `Quantum, Actually - Volume 1`: 65 current-main files and 65 legacy-alias files; all paths match. 19 are byte-identical and 46 differ only by line endings/BOM; no substantive differences or missing/local-only active files. `bak` was excluded.
+- Created isolated local pilot at `D:\Offload\.codex\worktrees\split-pilot-quantum-actually-volume-1-20261017`, commit `59cd15b9f5957f52af53367f4597920b8858d576`: 65 tracked files, clean tree, no remote. It is a snapshot and does not carry monorepo history. No source files were changed in the shared D: checkout.
+- This pilot is `Quantum, Actually - Volume 1`, not Lolly Wren’s Book 1 — Schrodinger’s Paperwork. It is local-only and not yet a published remote repository.
+- Continue the book-by-book reconciliation and create isolated per-book repos once each book’s active source and unique local work are verified. Keep remote publication until the collection inventory is accounted for; do not bulk-commit or force-push the shared checkout.
+
