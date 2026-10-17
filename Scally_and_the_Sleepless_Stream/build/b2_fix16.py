@@ -1,0 +1,20 @@
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import b2_scenes as b
+D = ("EAR RULE: only Scally and Hopsi have pointed ears; Hal, Titch, Tabitha, Pip, Walt, Hal's mother, Mrs Crumb, the Mayor and every villager have small round human ears with no points at all. "
+     "DYNAMIC COMPOSITION, a low or high camera angle, characters at different heights, mid-action, nobody facing the viewer, no row. Normal skin tones, nobody green. ")
+SK = "Scally wears only thick grey wool socks, no boots. "
+BT = "Scally wears big old brown boots too large for him. "
+N = {
+ "b03_pennies_back": D + "A village road in daylight. Scally, red-eared and ashamed, hands pennies back one by one to a tired kindly Mrs Crumb (round ears, apron) and a young mother with a baby (round ears), who kisses his cheek, making him squirm; a pot of muddy water lies tipped over on the road, a hand-painted sign on the ground; Hopsi sits on a barrel eating a hop, watching calmly; baby wolf Gucci sits by. " + SK,
+ "b48_counting_notes": D + "Early morning on the mill step. Tabitha (curly bun, gray coat) sits upright counting on her fingers with her head tilted, listening to the humming air; Scally lies on his back on the top step with one arm over his face; Hal sleepy with his slate on his lap; Titch (red cap) nods off with a crust in each hand; Hopsi sits upright, tired but of normal skin color, with her needle; Gucci asleep across feet; a small brown bird on the roof with faint golden music notes in the air. " + SK,
+ "b84_pip_homecoming": D + "Evening mill yard, golden light. Small Pip (red cap, round ears) bolts out of a crowd of villagers and flings his arms round his big sister Titch's middle; Titch laughs, bending down; Pip points sternly at the pompous Mayor, who stands pink-faced in a waistcoat with a chain, one leg lifted as if he has just been made to stand on one leg; Hal's mother, a warm weathered woman in a kerchief with plainly round human ears, hugs Hal at the side; Old Walt on the donkey watches amused. Warm and funny.",
+ "b31_hopsi_i_think": D + "Dusk at the whirlpool bog. Hopsi walks to the very edge of the bank, a rope tied round her middle, with the rope paying out behind her to Scally, Hal and Tabitha who hold it braced with the rope wound round their fists, and Titch tying it round a boulder; Walt drives his pole into the ground and ties Dumpling to it; Hopsi looks up bravely at the tall pale mist above the dark whirl, her mouth open in a clear small voice. " + SK,
+ "b85_walt_letters": D + "A golden autumn evening on the mill step. Old Walt (grey beard growing two ways, eel-skin hat) sits on the step with Hal's slate on his knee and a stub of chalk gripped in his big weathered fist, squinting hard and sticking out his tongue as he draws a big wobbly letter W; Hal sits beside him pointing patiently, grinning; Dumpling the donkey sniffs the chalk; Fourpence the brown bird watches from the roof. Warm and funny, no readable words.",
+ "b86_dumpling_sits": D + "A misty bog of reeds and wet grey grass, viewed low along a narrow firm green path. The small round grey donkey Dumpling is unmistakably sitting in the middle of the path, hindquarters flat on the ground and front legs folded, ears pinned sideways, refusing to move; her stubborn face fills the foreground. Old Walt leans down to coax her with an apple, patient but amused. Titch offers half a crust from the path edge. Scally has both hands on the donkey's rump and is trying to push, but his boots slide harmlessly in the mud; he looks surprised as Dumpling does not budge. Hal kneels on the path sketching the scene on his slate; Tabitha hums beside him, listening to the donkey's grumble; Gucci sniffs a reed nearby. Clearly show the seated donkey as the main joke, with each child doing a different action, no group pose, no one looking at the viewer. Exactly Dumpling, Walt, Titch, Scally, Hal, Tabitha and Gucci; nobody else. " + BT,
+}
+for k, v in N.items():
+    b.S[k] = v
+if __name__ == "__main__":
+    for n in (sys.argv[1:] or list(N)):
+        b.gen.edit_with(n, b.REF, b.BASE + b.EXTRA + b.S[n], "3:2")

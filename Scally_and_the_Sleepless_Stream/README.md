@@ -1,9 +1,20 @@
-# Scally and the Sleepless Stream (The Step Stories, Book 2, by Anneliese Tauber)
+# Scally and the Sleepless Stream
 
-Branch `sleepless-stream` (made from `scallywag`, 12 Oct 2026). Rule from Lothar: Scally always tries a scam, lie or cheat, and Hopsi's plain truth makes him reconsider.
+The Step Stories, Book 2, by Anneliese Tauber.
 
-Status (12 Oct 2026): story v1 (critic pass applied), 41 painted pictures, covers, docx and EPUB built (EPUB 2.8 MB). Still to do: teacher check of science and safety, picture-only read-through, KDP description, About-the-Author wording check, merge to main.
+## Current working pair
 
-Cast changes since Book 1: Fourpence the little brown bird (hatched from the last square egg), Old Walt the stream-keeper with his donkey Dumpling, Mr Pomfrey the Mayor. Scally has lost his boots (wears Walt's boots at the end) and a goose follows him.
+- Story master: `Step_Stories_Texts/Book2_Story_v16.txt` (about 14,300 words, 11 chapters).
+- Word fallback: `Scally_and_the_Sleepless_Stream_Book2_v16.docx`.
+- KDP upload file: `Scally_and_the_Sleepless_Stream_Book2_v16.epub`.
+- 85 painted story illustrations; the EPUB also has its cover.
 
-Covers: `build/make_covers_book2.py` (cover art `Step_Stories_Pics_Final/00_cover_art.jpg`).
+Scally tries a dishonest shortcut in every book. Hopsi and the other children help him see the truth. This book develops stream science, observation, testing, storm and flood safety, and the idea that a good scientist says “I think” when the evidence is incomplete.
+
+## Build
+
+From `build/`, run `python build_book2.py`, then Pandoc as shown in `notes/STEP_STORIES_HANDOVER.md`. The builder reports `ANCHOR PROBLEM` if an illustration anchor does not match exactly one story paragraph. Convert the EPUB with Kindle Previewer 3 and confirm zero errors and zero quality issues before upload.
+
+## Still needed before upload
+
+Have a teacher or suitable science reviewer check the stream, lightning, flood and water-safety explanations. Review the full-size illustrations as a sequence, then complete the picture-only read-through and the KDP AI-illustration disclosure.

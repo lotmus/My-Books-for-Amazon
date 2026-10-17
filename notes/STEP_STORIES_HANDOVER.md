@@ -8,7 +8,7 @@ Children's STEM-fantasy chapter books by **Anneliese Tauber** (pen name, the sam
 | Book | Folder | Current files | Words | Pictures |
 |---|---|---|---|---|
 | 1. The Wee Scallywag and the Gentle Elf | `The_Wee_Scallywag_and_the_Gentle_Elf` | `..._Book1_v20.docx`, `.epub`, story `Step_Stories_Texts/Book1_Story_v20.txt` | about 11,200 | 65 + cover |
-| 2. Scally and the Sleepless Stream | `Scally_and_the_Sleepless_Stream` | `..._Book2_v15.docx`, `.epub`, story `Book2_Story_v15.txt` | about 14,000 | 83 + cover |
+| 2. Scally and the Sleepless Stream | `Scally_and_the_Sleepless_Stream` | `..._Book2_v16.docx`, `.epub`, story `Book2_Story_v16.txt` | about 14,300 | 85 + cover |
 | 3. Scally and the Hill with the Hanging Socks | `Scally_and_the_Hill_with_the_Hanging_Socks` | `..._Book3_v8.docx`, `.epub`, story `Book3_Story_v8.txt` | about 22,600 | 119 + cover |
 
 The docx is the working master; the **EPUB is the upload file for KDP**. File names carry the version (`..._v20`). When you change a book, copy the story file to the next version, rebuild, move the old version to `bak\Story_previous_versions` (not committed), and update `KDP_Description.md` and `notes/BOOK_LOCATIONS.md`. Junk goes to `junk\`. No PDFs, no Word tables, no floating images. The name Trump must never appear.
@@ -31,6 +31,8 @@ The docx is the working master; the **EPUB is the upload file for KDP**. File na
 - **Decided by Lothar, 13 Oct 2026:** the baby brother is **Beau** (nickname Biscuit, chosen by Pip) and the red-haired girl who arrives in Book 3's last line is **Dixie** (unnamed in Book 3; name her in Book 4). Southern-flavored names are welcome for new characters.
 - **Still open for Lothar:** whether the Book 3 split "pregnancy book, then baby book (Book 4)" is confirmed; which parent drinks too much at the Book 4 feast (theme decided: a parent drinks too much and is unwell, the children learn they will never drink that much; handle gently, no preaching).
 - **Book 4 plan:** the baby book (newborn weeks, sleepless nights, safe baby habits, a naming feast for Biscuit, the redhead arrives, heavy Lindgren and Pumuckl spirit). Hal's mother's baby is due in June (Book 3 story time).
+
+**16 Oct 2026, Book 2 update:** Book 2 v16 is the current pair (14,303 words, 11 chapters, 85 story pictures). The ending adds Walt learning his letters, with Hal as his patient teacher; a new picture shows Dumpling sitting in the bog while the children coax her. Repeated narration was trimmed, and the image count in the listing was updated. v15 and superseded image candidates are preserved in Book 2's `bak/`; the backup is not committed. Full teacher/science and safety review and picture-only read-through remain before KDP upload.
 
 ## Still to do
 1. Full-size review of the Book 3 pictures; redo the weak ones (tall red caps on Titch and Pip look gnome-like, Gucci's size varies). Redo recipe: `build/b3_pics.py <from> <to>` after deleting the bad files.

@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v15.txt"
+STORY_FILE = "Book2_Story_v16.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -24,6 +24,8 @@ blocks = [b.strip("\n") for b in re.split(r"\n\s*\n", body) if b.strip()]
 place = {
     'On the last Sunday of October the village held a picnic': 'b83_walnut_boats.jpg',
     'Pip came out of the crowd like a cork': 'b84_pip_homecoming.jpg',
+    'Every evening on the mill step Hal taught': 'b85_walt_letters.jpg',
+    'Halfway across, Dumpling stopped dead': 'b86_dumpling_sits.jpg',
     'Hal had been timing the echo.': 'b65_echo_count.jpg',
     'And then Scally stood up.': 'b66_scally_stands.jpg',
     'She said it flatly, the way she said it when she meant it.': 'b67_hopsi_dont_know.jpg',

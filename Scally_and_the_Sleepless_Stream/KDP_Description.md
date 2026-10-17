@@ -16,10 +16,10 @@ It is three o'clock in the morning and the whole valley is awake. The cockerel h
 
 So Hal, Scally the cheeky little devil, Hopsi the elf who only says what is true, Titch, Tabitha and a wolf cub called Gucci set off upstream with Old Walt the stream-keeper and his donkey, Dumpling. They build a raft, climb a waterfall, count their way through a thunderstorm and race a flash flood. Scally tries every trick in the book on the way, and Hopsi's plain truth keeps turning him round.
 
-Children see how floating works, why streams wander and pebbles go round, how an echo measures a cliff, how to count a storm, and why a scientist says "I think". Water, fire, storm and flood safety are woven in, and 83 painted pictures tell the whole story, so even non-readers from age 5 can follow it. Includes experiments and a guide for parents and teachers.
+Children see how floating works, why streams wander and pebbles go round, how an echo measures a cliff, how to count a storm, and why a scientist says "I think". Water, fire, storm and flood safety are woven in, and 85 painted pictures tell the whole story, so even non-readers from age 5 can follow it. Includes experiments and a guide for parents and teachers.
 
 ## What is in the book
-- 11 chapters, about 14,000 words, 83 painted illustrations (read-aloud from age 6; a first chapter book for ages 7 to 10).
+- 11 chapters, about 14,000 words, 85 painted illustrations (read-aloud from age 6; a first chapter book for ages 7 to 10).
 - "Hal's Slate: What We Found Out": 17 short fact and experiment notes.
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
@@ -42,7 +42,7 @@ Children see how floating works, why streams wander and pebbles go round, how an
 - Children's Books > Education & Reference > Science
 
 ## Upload checklist
-- Format: upload the EPUB `Scally_and_the_Sleepless_Stream_Book2.epub` (built from the docx master; Comic Neue embedded with its SIL Open Font License credit on the last page). No tables, images inline.
+- Format: upload the EPUB `Scally_and_the_Sleepless_Stream_Book2_v16.epub` (built from the docx master; Comic Neue embedded with its SIL Open Font License credit on the last page). No tables, images inline.
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer truthfully. Do not put tool names in the book.
 - Also-by: the book's last page lists Book 1 and Bavarian Cooking Made Simple. CHECK that Bavarian Cooking is live before upload, or remove that line.
 - Teacher or physicist check of the science (meanders, pebbles, floating, speed of sound and lightning count, flash floods, whirlpools) and a safety read (storm advice, the belayed rescue in chapter 7) before upload. `Message_to_Reader.md` in Book 1's folder can be adapted.
