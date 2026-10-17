@@ -111,6 +111,12 @@ REV18 is the newest numbered local candidate, but its own notes say the 8.9 four
 
 The live D: folder has 170 active files versus 69 active paths in the main book folder: 162 D:-only paths, 61 main-only paths, and eight common paths. This path gap is expected to include the local revision scripts and candidate materials, so it is not a safe bulk-sync list.
 
+### EE series local split pilot (16 Oct 2026)
+
+A local-only EE repository pilot was built from current `origin/main` at 42b50c8c using the current `EE - SERIES/` path and its historical `EE - Series/` spelling. The filtered history retains 168 commits. The standalone repo is `D:\Offload\.codex\worktrees\ee-series-split-pilot-20261016` on branch `main`; its 1,870 files and blob IDs match the current-main EE tree exactly. It has a clean worktree, no remotes, no alternates, and passes `git fsck --full --connectivity-only`.
+
+This prototype contains the current-main series only. It does not include the D: branch’s unique commits, D:-only candidate files, or ignored backups, and no policy scan of the filtered history has been completed. No book content was committed or pushed to GitHub. Use this independent pilot for review; do not use the temporary filter-source clone at `D:\Offload\.codex\worktrees\ee-series-filter-src-20261016`, which still shares objects with the handover clone. Automatic safety review blocked deleting that helper clone, so it remains in place; no D: files were touched.
+
 ## Next work
 
 1. Keep Poetry blocked until the repository-wide policy matches are resolved and reviewed; no poem, DOCX, EPUB, or image has been promoted.
