@@ -16,15 +16,15 @@ A new doctor and her quiet son Wen have come to town, a baby is on the way, and 
 
 So Hal, Scally the cheeky little devil, Hopsi the elf who only says what is true, Titch, Tabitha, little Pip and a wolf named Gucci follow the clicking up the hill, and find hundreds of tiny sleepers hanging upside down like socks on a line. To save them, the children must look, count and test, while the ice cracks on the pond, a blizzard rolls in, and Scally tries one trick too many.
 
-Children see how bats find their way with sound, how a doctor's scan makes a picture of a baby, why ice floats and how thick it must be to hold you, and how to stay safe in the snow. Winter, ice and medicine safety are woven in, about 119 painted pictures tell the whole story, and there are experiments and a guide for parents and teachers.
+Children see how bats find their way with sound, how a doctor's scan makes a picture of a baby, why ice floats and why ice must be assessed by adults before anyone goes on it, and how to stay safe in the snow. Winter, ice and medicine safety are woven in, about 119 painted pictures tell the whole story, and there are experiments and a guide for parents and teachers.
 
 ## What is in the book
-- 11 chapters, about 22,600 words, 119 painted illustrations (read-aloud from age 6; a chapter book for ages 7 to 10).
+- 11 chapters, about 23,700 words, 119 painted illustrations (read-aloud from age 6; a chapter book for ages 7 to 10).
 - "Hal's Slate: What We Found Out": 15 short fact and experiment notes.
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
 ## Age and reading
-- Age range: lead with 7 to 10 (read-aloud from 6; the pictures tell the story without reading); grade 2 to 5. Choose the closest option in the KDP form.
+- Age range: lead with 7 to 10 (read-aloud from 6; illustrated chapter book); grade 2 to 5. Choose the closest option in the KDP form.
 - Language: English (American spelling).
 
 ## Keywords (7 slots, suggestions)

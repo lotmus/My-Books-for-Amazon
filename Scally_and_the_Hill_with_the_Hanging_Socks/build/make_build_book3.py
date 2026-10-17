@@ -69,7 +69,7 @@ heading("What each chapter teaches", 2, center=False)
 for lead, t in [
     ("The First Frost:", "a promise you cannot keep (frost insurance), and safe ladder habits."),
     ("The Doctor" + A + "s Bag:", "how a doctor listens to a heartbeat, why medicine is never candy, and why we do not put our heads into things."),
-    ("Ice on the Pond:", "how thick ice must be to hold you, why white ice is weaker, why ice floats, and reach or throw."),
+    ("Ice on the Pond:", "how ice varies, why adults must check conditions, why ice floats, and reach or throw from safety."),
     ("The Hill That Clicks:", "bats, hibernation, why we never wake sleeping animals, and telling a grown-up where you are going."),
     ("The Mayor" + A + "s Cheese Cellar:", "rumors, checking facts, telling the truth when it costs you, and what bats eat."),
     ("Wen" + A + "s Listener:", "sound too high to hear, how bats find their way with echoes, and a scientist" + A + "s " + Q + "I do not know." + R),
@@ -82,7 +82,7 @@ for lead, t in [
     para(t, lead)
 heading("Staying safe: what this book models", 2, center=False)
 for lead, tx in [
-    ("Ice.", "Ice must be at least four inches thick to walk on, and clear ice is stronger than white ice. Ice over moving water is thinnest. Never go on ice alone, and never trust a claim that it is safe unless someone checked. If someone falls in, reach or throw; do not go out after them. If the ice cracks under you, lie flat and crawl back. Please check your local guidance."),
+    ("Ice.", "Ice thickness varies, and one measurement cannot prove a pond safe. Four inches is a general guideline for new, clear ice for one person on foot, not a guarantee. Ice may be thinner near shore, over moving water, or under snow. Stay off until an informed adult has checked conditions in several places and says it is safe. Never go alone. If someone falls in, call for help and reach or throw from a safe place; do not go out after them."),
     ("Wild animals.", "Never touch a bat or any wild animal that seems tame or hurt, and tell a grown-up. A few bats carry rabies. Never wake hibernating animals."),
     ("Medicine.", "Never take any medicine unless a grown-up you know well gives it to you. Some medicine tastes sweet on purpose."),
     ("Snow and cold.", "If you are lost in snow, stop, stay where you are, find a fence if you can, and make noise. In a blizzard, stay inside, and use a rope between buildings if you must go out. Tell someone where you are going and go in pairs."),
@@ -93,7 +93,7 @@ for lead, tx in [
 heading("Talk about it", 2, center=False)
 for q in [
     "Why does Scally hum a little tune before he tricks someone? How could you tell, if you were Pip?",
-    "Wen was afraid of the dark and went into the cave anyway. What did he do to feel braver?",
+    "Wen was afraid of the dark. How did he help himself stay calm while the group watched the cave from a safe distance?",
     "Hopsi says " + Q + "I was wrong" + R + " more than once. Is that easy or hard to do? How did people react?",
     "What do you think a new baby in a family feels like for a big brother or sister? What do you think Pip and Hal feel?",
     "What would you do if you were lost in the snow, or if someone said ice was safe and you were not sure?",
