@@ -390,8 +390,11 @@ The earlier 90,313 / 90,331 figures came from a basic XML text-node count and ar
 ### Schrodinger’s Paperwork: Book 1 review-candidate pilot (17 Oct 2026)
 A standalone local candidate pilot is at `D:/Offload/.codex/worktrees/split-pilot-schrodingers-paperwork-review-20261017`, commit `cb13078`. It contains the 47 active Book 1 files from current-main snapshot `74475d92` with all 47 source blobs exact, plus four local-only candidate/review files (REV6 DOCX, review DOCX, the existing review PDF, and the Venn-Jago review DOCX). The 51-file pilot is clean, has no remote, and contains no monorepo history. It preserves REV5 and REV6 together for comparison; no release decision or promotion was made. The existing Lolly Wren series pilot remains a clean, exact 93-file snapshot of current main.
 
+### Giving Birth to an Ivy League Student: local snapshot pilot (17 Oct 2026)
+A local snapshot repository is at `D:/Offload/.codex/worktrees/split-pilot-giving-birth-ivy-league-20261017`, commit `18e7e99`, from current-main snapshot `f930c861`. Its three active files are blob-identical to current main. The pilot is clean, has no remote, and contains no monorepo history. The book status identifies the REV04 DOCX/EPUB as the current working pair; the D-side active copies match main. The prior REV03 pair remains in its existing book-level bak folder, which was not scanned. No D-side file was moved or edited for this book.
+
 ### Refreshed D checkout checkpoint (17 Oct 2026)
-At current `origin/main` snapshot `74475d92`, `pc-checkout-cleanup-2026-10-13` remains 142 commits ahead / 764 behind. Expanded status is 529 entries: 153 modified, 36 deleted, and 340 untracked; 115 worktrees are registered. Since the last checkpoint, the verified local REV5 duplicate was moved into its book-level bak folder and the Book 1 status note was updated. No broad cleanup, reset, cherry-pick, commit, or book promotion was performed.
+At current `origin/main` snapshot `f930c861`, `pc-checkout-cleanup-2026-10-13` remains 142 commits ahead / 765 behind. Expanded status is 529 entries: 153 modified, 36 deleted, and 340 untracked; 116 worktrees are registered. Since the previous checkpoint, the local Book 1 status note was updated and two local-only snapshot pilots were added outside the D checkout. No broad cleanup, reset, cherry-pick, commit, or book promotion was performed.
 
 ## Next work
 
