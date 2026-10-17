@@ -1,6 +1,28 @@
 # Schrödinger's Paperwork: status
 
-Last updated: 13 Oct 2026. The long working log is `MANUSCRIPT_GUIDE.md`; this file holds the strict rescore and what is still open.
+Last updated: 17 Oct 2026. The long working log is `MANUSCRIPT_GUIDE.md`; this file holds the strict rescore and what is still open.
+
+
+
+## REV12 final Bell-boundary sweep (17 Oct 2026)
+
+**Current master:** `Schrodingers_Paperwork_BOOK_1 - REV12.docx`. **Current Kindle EPUB:** `Schrodingers_Paperwork_KINDLE.epub`, rebuilt from REV12. REV11 and its scorecard are archived under `bak/`; REV7–REV10 and interim packages remain in dated book-local archives.
+
+A final cross-manuscript scan found unqualified Bell shorthand in dialogue, the lesson recap, a rule line, and the glossary. REV12 aligns them: Bell-test violations exclude local hidden-variable models under standard assumptions; they do not eliminate every possible account, prove the fictional housing lattice is real entanglement, or select an interpretation.
+
+Final QA: DOCX ZIP/XML valid with 328 hyperlinks retained; EPUB ZIP/OPF/navigation, spine, manifest resources, and local links/anchors valid; title/author/language/contributor/series metadata present; 20 in-reading images have alt text; front cover is the cover resource; back-cover panel is last; all 19 interior diagrams are at most 800 × 440 px. EPUB size: 2.43 MB. Kindle Previewer and external physicist review remain outstanding.
+
+Post-fix internal score: **9.5/10 overall**, science/boundary 9.7. Full critique: `notes/CONTENT_REVIEW_REV12_20261017.md`. Remaining quality gates are external science review and device preview; the main craft opportunity is reducing consecutive expert explanations in Chapters 8–14 without cutting the optional lessons.
+
+## REV11 science and continuity correction pass (17 Oct 2026)
+
+**Current master:** `Schrodingers_Paperwork_BOOK_1 - REV11.docx`. **Current Kindle EPUB:** `Schrodingers_Paperwork_KINDLE.epub`, rebuilt from REV11. REV7–REV10 and interim package outputs are preserved in this book’s `bak/` folders; they are not upload candidates.
+
+The critical review found several overstatements at the boundary between real physics and the Ministry’s invented machine. REV11 corrects CHSH assumptions and inference, marks the lattice mechanism as fiction, defines the 78% as the share of listed claims about Margaret corroborated by surviving independent records, and separates that fictional audit from quantum-state fidelity and the district’s 308/411 recovery count. It also corrects the Lesson 2 measurement analogy; the three-party scope of CHSH monogamy; quantum error correction, entropy change, Brillouin, Landauer, Born–Oppenheimer, and holography language.
+
+Package QA: DOCX ZIP/XML parses; EPUB ZIP/XML and navigation parse; EPUB metadata includes title, author, language, contributor and series; 20 in-reading images have alt text; front cover is the cover resource; back-cover panel is last; all 19 interior diagrams are at most 800 × 440 px. EPUB is 2.43 MB. Kindle Previewer and an external physicist review have not been run.
+
+Post-fix strict internal score: **9.4/10 overall**. Science/boundary 9.5, structure/pacing 9.2, prose 9.3, consistency 9.5, formatting 9.5. Full scores and the unsoftened critique: `notes/CONTENT_REVIEW_REV11_20261017.md`. Remaining quality gates: external science review and Kindle Previewer; the main craft opportunity is reducing consecutive expert explanations in Chapters 8–14 without cutting the optional lesson material.
 
 ## Strict rescore, 10 Oct 2026: 8.8 before, 9.2 after
 
