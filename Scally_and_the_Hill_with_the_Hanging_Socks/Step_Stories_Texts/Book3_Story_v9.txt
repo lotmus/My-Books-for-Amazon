@@ -156,7 +156,7 @@ Dr. Liang’s house stood by the bridge, a small crooked house with a blue door 
 
 “I did that,” said Pip, with pride. “I was helping. I hung them out and they went stiff. It is a trick.”
 
-“It is called freezing,” said a voice at the gate. It was Wen. He was standing very straight, in a coat that was a bit too big for him, holding a tin kettle in both hands, and he looked at all five children and the wolf as though he were counting them. “Water in cloth turns to ice. That is why they stand. Do not poke them; they break.”
+“It is called freezing,” said a voice at the gate. It was Wen. He was standing very straight, in a coat that was a bit too big for him, holding a tin kettle in both hands, and he looked at the children and the wolf as though he were counting them. “Water in cloth turns to ice. That is why they stand. Do not poke them; they break.”
 
 Pip, who had been about to poke one, put his finger back in his pocket.
 
@@ -188,7 +188,7 @@ Every child had a turn. Titch’s went fast, like a mouse in a drum. Tabitha’s
 
 “Now the wolf,” said Dr. Liang.
 
-Gucci had never in his life been asked to stand still for anything. He stood still. He let the cold disc go against his great gray side, with his eyes rolling toward Hal in case this was a trick, and Dr. Liang closed her own eyes and listened, and so did the five of them, in turn, with the ends in their ears. It was slow and enormous: BOOM… BOOM… BOOM… like somebody knocking, very patiently, at the other side of a hill.
+Gucci had never in his life been asked to stand still for anything. He stood still. He let the cold disc go against his great gray side, with his eyes rolling toward Hal in case this was a trick, and Dr. Liang closed her own eyes and listened, and the children listened, one by one, with the earpieces in their ears. It was slow and enormous: BOOM… BOOM… BOOM… like somebody knocking, very patiently, at the other side of a hill.
 
 “A fine, strong heart,” said Dr. Liang. “Not a worry in it. His ears are another matter.” She lifted one of Gucci’s great ears and looked inside with the small lamp. “Perfectly clean. Perfectly healthy. And very wide awake.” She frowned. “Wolves and dogs can hear sounds much higher than we can. Sounds so high that we hear nothing at all. If he howled all night at a wall, I think he heard something that we cannot.”
 
@@ -246,7 +246,7 @@ Hal looked at her.
 
 “Butter is for squeaks,” said Hopsi, “and not for jams. I said so, a long time ago, about a wheel. But this is not a wheel. This is a rub: ears against tin. Butter makes it smaller. It is the same idea.”
 
-“There is butter on the table,” said Dr. Liang, who had not moved, and was holding the churn quite steady. She had a odd expression, like a person who is trying very hard not to laugh. “Spread it on the rim, Wen. Gently. And Pip, listen: do not pull, do not push, and when we say, tip your head to one side, like this, so one ear goes first. Do you understand?”
+“There is butter on the table,” said Dr. Liang, who had not moved, and was holding the churn quite steady. She had an odd expression, like a person who is trying very hard not to laugh. “Spread it on the rim, Wen. Gently. And Pip, listen: do not pull, do not push, and when we say, tip your head to one side, like this, so one ear goes first. Do you understand?”
 
 “Mmf,” said the churn, in a small voice.
 
@@ -262,7 +262,7 @@ Nobody was mad. Dr. Liang sat down on a chair and laughed until she had to wipe 
 
 “Yes,” said Pip, very meekly, and licked the milk off his chin.
 
-When they had cleaned up the kitchen, and washed Pip, and given him a bun, the five of them found that they were all standing in a ring round Wen, who had not been given anything.
+When they had cleaned up the kitchen, and washed Pip, and given him a bun, the group found that they were all standing in a ring round Wen, who had not been given anything.
 
 “We should have brought a present,” said Tabitha, in a low voice. “That is what Hopsi did for me.”
 
@@ -312,13 +312,13 @@ He was kneeling on the bank, at the very edge. He had his screwdriver in one han
 
 “Is that good?” said Pip.
 
-“It is not.” Wen wiped the needle on his sleeve. “My mother says ice has to be at least four inches thick to walk on. Not three. Not almost four. Four. I measured it here, at the edge, where it is thickest. Out in the middle, where the stream runs under it, it will be thinner.”
+“It is not.” Wen wiped the needle on his sleeve. “Four inches of new, clear ice is a general guide for one person on foot. It does not make every part of a pond safe. Ice can be thinner near shore, over moving water, and in places you have not measured. An adult has to check different places, and decide. We are staying off it.”
 
 “It looks fine,” said Pip.
 
 “It looks fine,” said Wen, “until it doesn’t.”
 
-Hal wrote it on his slate: ICE: 4 INCHES TO WALK. 1 INCH HERE. NO. Hopsi, who was sitting on a stump with three scarves wound round her neck and a bowl of dried hops in her lap, nodded slowly.
+Hal wrote it on his slate: ICE VARIES. ONE MEASUREMENT CANNOT PROVE IT SAFE. STAY OFF UNTIL AN ADULT CHECKS IT. Hopsi, who was sitting on a stump with three scarves wound round her neck and a bowl of dried hops in her lap, nodded slowly.
 
 “White ice is strong,” she said. “That is the strong kind. It is the color of milk. I read that.”
 
@@ -446,7 +446,7 @@ Pip thought about it. “That ice was like a big window,” he said, in a hoarse
 
 “You owe me a sock,” said Pip. “Wen got one.”
 
-For a moment nobody moved. Then Hal’s mother made a odd noise, and Titch lifted her face from her knees and began to laugh, with the tears still running down it, and then everybody was laughing, the shaky laughing of people who have been very frightened and have found out it was all right. Scally pulled off a boot. He pulled off a sock, and held it out, and Pip took it and put it on his hand like a mitten.
+For a moment nobody moved. Then Hal’s mother made an odd noise, and Titch lifted her face from her knees and began to laugh, with the tears still running down it, and then everybody was laughing, the shaky laughing of people who have been very frightened and have found out it was all right. Scally pulled off a boot. He pulled off a sock, and held it out, and Pip took it and put it on his hand like a mitten.
 
 “I will wash it,” said Scally. “I promise. I will wash it twice.”
 
@@ -524,69 +524,69 @@ First, Hal asked his mother. She was at the kitchen table, with a bowl of pickle
 
 So Hal wrote it on his slate, in his small neat hand: GONE TO HANGER HILL, THE CAVE. SEVEN CHILDREN, ONE WOLF. BACK BY THREE. HAL. He hung it on the mill door, where anyone could read it. Dr. Liang, who happened to be passing, read it through twice and nodded, and said that a person who left a note like that would always be easy to find, which is the first rule of any kind of adventure.
 
-It was a long hill, and a cold one. The sun, which was low in the sky all winter, lay along the frozen fields in long white stripes. They walked in pairs: Hal and Wen at the front, with the lantern, because Wen had said that if there was going to be dark, he would rather carry the light himself; Titch and Tabitha behind them; Pip with Scally, because nobody trusted either of them alone. Hopsi came last, with Gucci, and she was not talking. She was looking at the hill the way Hal had seen her look at the stream in the fall, as though it might be going to say something.
+It was a long hill, and a cold one. The sun, which was low in the sky all winter, lay along the frozen fields in long white stripes. They walked in pairs: Hal and Wen at the front; Titch and Tabitha behind them; Pip with Scally, because nobody trusted either of them alone. Hopsi came last, with Gucci, and she was not talking. The lantern stayed in Hal’s pack. They had agreed they would not take a light into the bats’ roost.
 
 Gucci did not growl. He walked up the last slope with his tail low and his ears forward, quietly, as if somebody had asked him to be polite to a person who was sleeping.
 
-The cave was a low crack in the face of a gray rock, about the height of a boy and the width of a barrel, half hidden by dead bracken and a tangle of icy roots. Out of it came a thin gray breath of cold, and a smell of wet stone and old leaves and something else, something faintly warm and animal, like the inside of a pocket.
+The cave mouth was a broad, shallow arch in the face of a gray rock, half hidden by dead bracken and a tangle of icy roots. The roost lay far back in the darkness, out of sight. A small notice had been nailed to a post below it: WINTER ROOST. KEEP BACK. NO LIGHTS. NO ENTRY. Dr. Liang had explained that bats needed their winter sleep, and that nobody should enter or shine a light into the roost. The children stopped at the boundary rope, well away from the opening.
 
 Wen stopped.
 
-“It is dark,” he said.
+“It is dark in there,” he said.
 
 “Yes,” said Hal.
 
-“I am not,” said Wen, “a person who likes the dark.” He said it all in one breath, in a rather flat, dry voice. He was holding the lantern in both hands, and his knuckles were white. “I thought I should mention it, in case I do something strange.”
+“I am not,” said Wen, “a person who likes the dark.” He said it all in one breath, in a rather flat, dry voice. “I thought I should mention it, in case I do something strange.”
 
 “What kind of strange?” said Titch.
 
-“I do not know. I have never been in a cave.”
+“I do not know. I have never been this close to a cave.”
 
-“Hold on to my sleeve,” said Hal, “and I will go first. Pip, you stay behind Titch, and Titch, you stay behind Tabitha. Hopsi, you stay at the back. Scally goes in the middle, where I can see him.”
+“We are not going inside,” said Hal. “We can watch from here. Nobody crosses the rope.”
 
 “I am an excellent cave explorer,” said Scally.
 
 “That is why.”
 
-They went in one at a time, bent double. The cold folded round them like a blanket. For a little way they could still see daylight over their shoulders, a thin pale gray slice of sky, and then the passage turned, and there was nothing but the lantern, a small gold light that threw their shadows up the walls and across the roof in great, lurching shapes. Water dripped somewhere. A long way off, something went tick.
+They stayed outside. Beyond the boundary rope, the hill held its breath. Water dripped somewhere deep in the rock. A long way off, something went tick.
 
 Wen’s hand found Hal’s sleeve, and held on.
 
-The passage opened out suddenly into a chamber, about the size of the mill kitchen, with a roof so high that the lantern light did not reach the top. The floor was wet and sandy. And all across the ceiling, and down the walls in long uneven rows, hung small brown bundles, hundreds and hundreds of them, close together, still.
+From the boundary they could not see the chamber or the sleepers. But when the clouds thinned, a little daylight reached the outer lip of the arch. There, just within the shadow, hung a handful of small brown shapes, still and folded together.
 
 They looked like socks.
 
 That was what Pip said. “Socks,” he whispered, in a voice of the purest wonder. “Somebody has hung up all their socks.”
 
-“Do not touch them,” said Wen. His voice had gone small and tight. He had stopped being afraid. He had simply stopped everything, the way a clock stops, and gone still, with his head tipped back and the lantern held out at arm’s length. “Look at them. They are not socks. They are folded.”
+“Do not go closer,” said Wen. His voice had gone small and tight. “Look at them. They are not socks. They are folded.”
 
-Each bundle had a head, no bigger than a thumb, tucked down against a small furry chest. Each one had two tiny ears and a pair of folded, leathery arms wrapped round itself like a cloak. They hung by their feet, upside down, from the stone, in rows and rows, and every one of them was asleep.
+At that distance they could make out only the small shapes, hanging by their feet, folded close against the stone. Every one was still.
 
 “Bats,” said Tabitha.
 
-She had said it softly, with her face tipped up and her eyes very wide. “My gran has them in the sea caves, by her house. She calls them the sleepers. They hang by their toes. She says if you are quiet in winter they will stay asleep, and if you wake them, they have to burn their food to stay warm, and then they run out before spring.”
+She had said it softly, with her face tipped up and her eyes very wide. “My gran has them in the sea caves, by her house. She calls them the sleepers. She says if you wake them in winter, they use up the food they need to last until spring.”
 
 “Is that true?” said Hal.
 
 “I think so,” said Tabitha. “It is what she says.”
 
-“I do not know,” said Hopsi. She had come up to the front at last, and she stood with her hands folded, looking up at the great hanging ceiling, still. Her voice was very low. “I did not know there were so many. I did not know they were here. I think Tabitha is right. I think so, but I do not know.” She turned to Wen. “Do you have your mother’s stethoscope?”
+“I do not know,” said Hopsi. She stood with her hands folded, watching the shadowed opening. Her voice was very low. “I did not know there were so many. I did not know they were here. I think Tabitha is right. I think so, but I do not know.” She turned to Wen. “Do you have your mother’s stethoscope?”
 
 “I did not ask to borrow it,” said Wen, and then stopped. “It is in my pocket. How did you know?”
 
 “It is a lump,” said Hopsi.
 
-He took it out, slowly. It was not easy for him. He put the cold silver disc to the air, a foot from the nearest sleeper, not touching it at all, and held his breath. “I cannot hear it,” he said. “It is too far. It is too small.”
+He took it out, slowly. It was not easy for him. He kept it at his side. “I cannot hear it,” he said. “It is too far. It is too small.”
 
-“Then do not,” said Hopsi. “We know they are alive, because they are hanging on. We do not have to prove it by waking one.”
+“Then do not,” said Hopsi. “We do not have to prove anything by disturbing them.”
 
 “Dr. Liang says a bat’s heart slows right down in winter,” said Wen, quietly, “to about the beat of a slow clock. She says they are not really asleep. She says it is called hibernating. It is more like a long pause.”
 
-They stood in the cold light of the lantern and looked at the sleepers. Nobody wanted to say anything. It was the quietest place Hal had ever been, a quiet that went all the way down. Gucci had lain down on the sandy floor with his nose between his paws. Even Scally, who talked in his sleep, had not said a word.
+They stood in the winter daylight and watched the shadows without moving closer. Nobody wanted to say anything. It was the quietest place Hal had ever been, a quiet that went all the way down. Gucci had lain down on the path with his nose between his paws. Even Scally, who talked in his sleep, had not said a word.
 
-Then, high up on the left, one of the bundles unfolded.
+Then, high inside the arch, one of the shapes stirred.
 
-It did it slowly. A small black wing opened, thin as a leaf, and a tiny face turned, with a nose like a crumpled button, and two enormous ears that went round, and round, listening. It opened its mouth. It made no sound that any of them could hear. But Wen, who was holding the lantern, felt the whole air hum, very faintly, against his face, and from somewhere up in the dark came the little, quick, dry noise he had heard every night for a month.
+A small black wing opened, thin as a leaf. The bat shifted, then folded itself still again. The children stayed quiet. From somewhere inside the hill came the little, quick, dry noise Wen had heard every night for a month.
 
 Tick-tick-tick-tick.
 
@@ -594,9 +594,9 @@ Tick-tick-tick-tick.
 
 The wing folded. The head tucked down. The tiny creature went still again, and the cave filled up with ordinary silence.
 
-“We should go,” said Hopsi, after a long time. “We have looked. That is enough. If we stay, we will make them wake, and they cannot spare it.”
+“We should go,” said Hopsi, after a long time. “We have seen enough. Let them sleep.”
 
-They went out the way they had come, in the same order, in silence. Hal went first with Wen’s hand on his sleeve, and at the bend in the passage, where daylight showed ahead like a gray door, Wen let go and walked out by himself, and stood in the open air with his eyes closed, breathing, for a long time.
+They turned away from the roost and walked down the hill in silence. Wen let go of Hal’s sleeve and walked by himself, breathing the cold air for a long time.
 
 “I was afraid,” he said at last.
 
@@ -706,7 +706,7 @@ Nobody noticed. He said it again. Gucci, who was sitting beside the table, said 
 
 A beat went by.
 
-“They do not,” said Scally. “I made it up. I made it up so I could sell you a hat. They are the size of a thumb. They hang upside down and sleep. They are in the cave right now, hundreds of them, and I saw them, and they are not filthy, and they are not dangerous. They are only asleep, and cold, and small, and if you put a rock over the door, they will not get to wake up.” His voice shook. “I am sorry. Your hats are free. I will give you all your money back. I will give you all your nickels.”
+“They do not,” said Scally. “I made it up. I made it up so I could sell you a hat. They are the size of a thumb. They hang upside down and sleep. They are in the cave right now, hundreds of them, and I saw them from the path, and they are not filthy, and they are not dangerous. They are only asleep, and cold, and small, and if you put a rock over the door, they will not get to wake up.” His voice shook. “I am sorry. Your hats are free. I will give you all your money back. I will give you all your nickels.”
 
 Somebody laughed. It was a short, startled laugh, and then somebody else laughed, and in a moment half the crowd was laughing, not unkindly, the way people laugh when somebody has surprised them by telling the truth. A woman in the front took off her brown hat, looked at it, and put it on the Mayor’s head.
 
@@ -726,7 +726,7 @@ The Mayor’s mouth opened and closed, like a fish.
 
 There was a long silence in the square.
 
-“Well!” said the Mayor at last, going a deep pink from the collar up. “I am a reasonable man, and always open to correction. But I have a cellar to fill, and I have announced it to the whole village.” He found he was still wearing a brown paper hat, in front of two hundred people, and took it off slowly. “Very well. I shall make a bargain. If somebody can show me, with their own eyes, and before the first warm evening of spring, that these bats of yours are worth more to this village than a hundred wheels of the finest cheddar in the county, I will take down the stake, and find another cave. If not,” and his mustache rose, a little uncertainly, “I seal it. That is fair.”
+“Well!” said the Mayor at last, going a deep pink from the collar up. “I am a reasonable man, and always open to correction. But I have a cellar to fill, and I have announced it to the whole village.” He found he was still wearing a brown paper hat, in front of two hundred people, and took it off slowly. “Very well. I shall make a bargain. If somebody can show me, before the first warm evening of spring, what these bats do for the village, I will take down the stake and find another cave. If not,” and his mustache rose, a little uncertainly, “I shall have to reconsider.”
 
 “That is fair,” said Hal, before he could stop himself.
 
@@ -750,7 +750,7 @@ Chapter 6. Wen’s Listener
 
 “We need to hear them,” said Wen.
 
-It was the third night after the village meeting, and the five of them, with Hopsi and Gucci, were sitting on the floor of Dr. Liang’s back room, among a heap of bits and pieces that Wen had been collecting all week. There was a funnel from Mrs. Crumb’s kitchen. There was a long brass spring from the broken clock in the church tower. There was a small silver bell, four copper wires, a cork, three buttons, an old pocket watch with no hands, and a tin whistle that Scally had won off a peddler.
+It was the third night after the village meeting, and all the children, with Hopsi and Gucci, were sitting on the floor of Dr. Liang’s back room, among a heap of bits and pieces that Wen had been collecting all week. There was a funnel from Mrs. Crumb’s kitchen. There was a long brass spring from the broken clock in the church tower. There was a small silver bell, four copper wires, a cork, three buttons, an old pocket watch with no hands, and a tin whistle that Scally had won off a peddler.
 
 “Why?” said Tabitha.
 
@@ -1129,41 +1129,33 @@ It was not snow as they had known snow. It was a wall. It came down out of the p
 
 “Right,” said Mrs. Crumb.
 
-She had come over from the hill at a run, with her sleeves already rolled, and she stood in the middle of Titch’s front room, with her fists on her hips, like a general. She was a big, floury, comfortable woman, and she had been born in the village and had helped half of it into the world. “Nobody panic. Millie, you sit right there, and breathe like I showed you. Mr. Mitchel, you boil water. Mrs. Millersen, you are going to fetch every clean towel in this house, and you are going to sit down in between.” She turned. “Doctor, your bag?”
+She had come over from the hill at a run, with her sleeves already rolled, and she stood in the middle of Titch’s front room, with her fists on her hips, like a general. She was a big, floury, comfortable woman, and she had been born in the village and had helped half of it into the world. “Nobody panic. Millie, you sit right there, and breathe like I showed you. Mr. Mitchel, you boil water. Mrs. Millersen, you are going to fetch every clean towel in this house, and you are going to sit down in between.” She turned. “The doctor?”
 
-“It is at my house,” said Dr. Liang.
+“Dr. Liang was called to the hill farm,” said Mrs. Crumb. “She was on her way back when the storm closed in. Mr. Mitchel went as far as the lane and found her before the drifts grew too deep. She has her bag, but she cannot reach us yet.”
 
-For the first time that day, her face changed.
+For the first time that day, Titch’s mother’s face changed.
 
-“By the bridge?” said Mrs. Crumb.
-
-“By the bridge. I was going to send for it. I did not think.” She looked out of the window, at the white. “It is seven minutes away, and I know the way with my eyes shut. It is early, and Millie is well, and I do not believe there is any danger. But I would like to have what I need. I will go and come back. Wen, stay here with Hal. Do not go outside for any reason.”
-
-“Mom,” said Wen.
-
-“I will be back in fifteen minutes.” She put on her coat and wound her scarf round her face, and her eyes, above it, were steady. “That is a promise. I keep them.”
-
-She went out into the white. The door shut. And that was the last any of them saw of Dr. Liang for a long time.
+“Mom,” said Wen. He looked toward the white window, but there was no sign of her.
 
 At first it was only like waiting for a pot to boil. Hal’s father had strung a rope from the mill door across the yard to the Mitchels’ door, a long, taut, hand-over-hand lifeline that you could follow with your eyes shut. “Nobody,” he said, in his voice that was not to be argued with, “leaves the rope. Not for a hat. Not for a dog. Not for your own mother. Anybody who lets go of that rope in this will be lost in ten steps. Do you understand?”
 
 “Yes, sir,” said everybody. Titch tied the far end of the rope to the Mitchels’ door post herself, with the knot she used for everything, and it held all night.
 
-The men went out in a chain, tied together by the waist, to look for the doctor, and came back twenty minutes later, covered in white, shaking their heads. They could not find the bridge. They could not even find the lane. The wind had blown the snow into drifts as high as a man’s chest, and in the dark and the swirl, there was nothing to hold on to at all.
+Titch’s father and Hal’s father checked the rope from the mill door to the Mitchels’ porch, staying clipped to it and turning back when the wind hid the next marker. They would not search beyond the houses in a whiteout. Dr. Liang was still somewhere beyond the lane, and the hill farm would have to wait until daylight.
 
 In the front room, Titch’s mother had gone quiet. Her breathing had changed. Mrs. Crumb was counting under her breath, and Hal’s mother, with a towel in each hand and a blanket round her shoulders, had stopped saying “It is perfectly all right,” and was just holding Titch’s mother’s hand.
 
 Wen stood by the window. He had been standing there since the door closed. He had not spoken once. He had his hands folded in front of him, very tightly, and his eyes on the white glass, and every few seconds he took out his pocket watch, the one with no hands, and looked at its blank face, as if it could tell him anything.
 
-“She said fifteen minutes,” he said at last, in a flat voice.
+“She should have been back by now,” he said at last, in a flat voice.
 
 “I know,” said Hal.
 
-“It has been fifty.”
+“It has been fifty minutes.”
 
 Nobody answered.
 
-“A person who is lost in snow should stop,” said Wen. “She knows that. She told me so herself. Stop where you are, and stay still, and make a noise. But she has no whistle. She has no light. She cannot see the house. She cannot hear it.” He swallowed. “She cannot hear anything.”
+“A person lost in snow should stop,” said Wen. “She told me so herself. Stay still and make a noise. But she has no whistle. She has no light. She cannot see the houses, and she cannot hear anything.” He swallowed.
 
 He said it slowly. Then, all at once, his whole face changed. He turned round. “The clock,” said Wen.
 
@@ -1239,9 +1231,9 @@ He went down the ladder in about three rungs. He did not stop to take the lanter
 
 “I stopped,” said Dr. Liang. She was shaking all over, and she was laughing. “I did what I tell everybody to do. I found a fence, and I stood still, and I held on. And I heard a bell.” She looked up at the little dark window high in the gable. “I could not see anything. But I could hear the bell, and the bell said, this way, this way. And then the dog came out of the snow like a gray ghost, and took my sleeve in his teeth.”
 
-“You said fifteen minutes,” said Wen. He was crying, openly, and did not seem to notice.
+“We were frightened,” said Wen. He was crying, openly, and did not seem to notice.
 
-“I am so sorry,” said Dr. Liang. “I am two hours late.” She took his face in both hands. “I will never be late again. Not by a minute. And if I am, I will stay by the fence.” She kissed the top of his head, hard, and then straightened up, and her face changed. “Where is Millie?”
+“I am so sorry I could not reach you sooner,” said Dr. Liang. She took his face in both hands. “I heard the bell and followed it. I am here now.” She kissed the top of his head, hard, and then straightened up, and her face changed. “Where is Millie?”
 
 “In there,” said Hal.
 
@@ -1385,15 +1377,15 @@ The Mayor looked at the forty people on the hill. They looked back at him. Not o
 
 “Very well,” said the Mayor stiffly. He set down his wheel of cheese on the grass, and folded his arms. “Proceed.”
 
-Hal cleared his throat. “We went into the cave in December,” he said, “with permission, and in daylight, and we did not touch anything. We looked. We counted. It took us three visits, because you cannot count four hundred bats at once.”
+Hal cleared his throat. “We watched the cave from outside in December,” he said. “We stayed behind the boundary rope, in daylight, and never shone a light or went inside. We did not disturb the bats.”
 
 “Four hundred?” said the butcher.
 
-“Four hundred and twelve,” said Hal. “That is our best estimate. We did not count them one at a time, because we would have woken them up. Tabitha’s gran counts seabirds on the cliffs this way, so Tabitha showed us. We counted all the bats in a square the size of a tablecloth, and then we measured how many tablecloths there were. It is called an estimate. It is not exact. But it is close.” He consulted his slate. “Dr. Liang says that a bat this size can eat five hundred small insects in an hour. Moths. Mosquitoes. Beetles. That is two hundred thousand insects a night, for four hundred bats. In a summer, that is more than twenty million.”
+“About four hundred,” said Hal. “That is our best estimate. We watched from outside and counted the shapes we could see without disturbing them. It is only an estimate.” He consulted his slate. “If four hundred bats each ate about five hundred small insects a night, that would be roughly two hundred thousand in one night. Over a hundred nights, the arithmetic comes to about twenty million. We do not know the exact number, and it depends on the bats and the insects. It is a rough way to picture how a colony’s appetite adds up.”
 
 A murmur went round the crowd.
 
-“The cabbage moth is the worst pest in this valley,” said Hal, “and everybody knows it. Every year it eats a third of the cabbages, and it lays eggs in the granary, and in the flour. My father has lost whole sacks of grain to it, in the mill.” He looked at his father, who nodded, once. “The bats eat the moths. They do not eat the cabbages. They do not eat the flour. They do not charge a nickel.” He swallowed. “That is what we found out. And that is only what we can count.”
+“The cabbage moth is the worst pest in this valley,” said Hal, “and everybody knows it. Every year it eats a third of the cabbages, and it lays eggs in the granary, and in the flour. My father has lost whole sacks of grain to it, in the mill.” He looked at his father, who nodded, once. “The bats eat some of the moths. They do not eat the cabbages. They do not eat the flour. They do not charge a nickel. Even if we could not prove a saving, they would still deserve a safe place to live.” He swallowed. “That is what we found out. And that is only what we can count.”
 
 “Quiet,” said Wen. “It is time.”
 
@@ -1431,7 +1423,7 @@ Nobody spoke.
 
 He bent, slowly, and picked up the cheese.
 
-“There is another cellar,” he said. “It has been there for forty years. It is under my own kitchen. It is cold, and dry, and it holds a hundred cheeses, and I have never once thought to look in it, because I had my eye on something grander.” He turned to the four men. “Take the stones home. Pull up the stake. This cave,” and his voice shook, “is the property of the bats.”
+“There is another cellar,” he said. “It has been there for forty years. It is under my own kitchen. It is cold, and dry, and it holds a hundred cheeses, and I have never once thought to look in it, because I had my eye on something grander.” He turned to the four men. “Take the stones home. Pull up the stake. I was wrong to make the bats’ safety depend on a contest with cheese. Their roost deserves protection in its own right.”
 
 Nobody cheered at first. They were too astonished. Then somebody started to clap, and then everybody did, and Mrs. Crumb threw her scarf in the air, and Gucci howled, a long, glad, full-throated wolf howl that went rolling out across the valley, and Hanger Hill, for the first time in its history, seemed to howl back.
 
@@ -1503,13 +1495,13 @@ Hal looked, counted and tested, and wrote it all on his slate. Here it is, with 
 
 2. Ultrasound is sound too high for people to hear. Dogs and wolves can hear some of it. Bats use it to talk and to hunt. Real bat detectors turn it into sounds we can hear, using electricity. Wen’s listener, made of a funnel and a spring, is a storybook machine.
 
-3. Bats hibernate in winter. Their hearts beat very slowly, and they live on the fat they stored up in the fall. Every time one wakes, it uses up some of that fat. That is why we never go into a bat cave in winter, and never shine a light on sleeping bats.
+3. Bats hibernate in winter. Their hearts beat very slowly, and they live on fat stored in the fall. Waking can use up precious energy. Never enter a winter roost or shine a light into it. Watch from a distance and follow local wildlife guidance.
 
 4. Never touch a bat, or any wild animal that seems tame or hurt. A very few bats carry a disease called rabies, and it is serious. If you see a bat on the ground, stay away and tell a grown-up.
 
-5. Bats eat insects. A small bat can eat hundreds of mosquitoes and moths in an hour. Farmers like bats because they eat the insects that eat crops.
+5. Bats eat insects. Some bats eat hundreds of insects in a night. The number depends on the bat and the size of its prey. Bats may eat insects that damage crops, though the amount varies.
 
-6. Ice safety. Ice has to be at least four inches thick to walk on, and clear ice is stronger than white, cloudy ice. Ice over moving water is thinnest. Never go on ice alone, and never trust somebody who says it is safe unless they checked. If somebody falls through, reach or throw: hold out a branch, a rope or a scarf. Do not go out after them. If the ice cracks under you, lie flat like a starfish and crawl back.
+6. Ice safety. Ice thickness changes from place to place, and one measurement cannot prove a pond is safe. Four inches is a general guideline for new, clear ice for one person on foot, not a guarantee. Ice may be thinner near shore, over moving water, or under snow. Stay off until an informed adult has checked conditions in several places and says it is safe. Never go alone. If someone falls through, call for help and reach or throw a branch, rope, or flotation aid from a safe place. Do not go out after them.
 
 7. Water gets bigger when it freezes, by about one part in eleven. That is why ice floats, and why pipes burst in winter, and why a full bottle of water left outside will crack. Almost nothing else does this.
 
