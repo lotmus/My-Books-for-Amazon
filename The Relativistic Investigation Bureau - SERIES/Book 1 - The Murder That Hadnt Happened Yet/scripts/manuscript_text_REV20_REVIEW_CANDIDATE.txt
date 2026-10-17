@@ -114,9 +114,9 @@ Welcome to the Bureau. No physics background is needed: read on and skip the les
 
 ## Author’s Note
 
-This novel is the first in The Relativistic Investigation Bureau series. The uses of Special and General Relativity here rest on well-tested physics; General Relativity is not a complete quantum theory. Holographic duality is a well-developed theoretical framework in particular settings; it does not prove that our universe is a cinema screen. The suggestion that time is non-fundamental is also a research proposal, not a result established by relativity. The crimes and investigations are fictional. The jokes are mine. The photograph in this case does not come from the future; the investigation traces it to a faulty filing system.
+This novel is the first in The Relativistic Investigation Bureau series. The uses of Special and General Relativity here rest on well-tested physics; General Relativity is not a complete quantum theory. Holographic duality is a well-developed theoretical framework in particular settings; it does not prove that our universe is a cinema screen. The suggestion that time is non-fundamental is also a research proposal, not a result established by relativity. The crimes and investigations are fictional. The jokes are mine.
 
-If you find yourself questioning whether time is fundamental, whether causality can be violated, or whether a sufficiently incompetent filing system could create paradoxes... congratulations. You’re thinking like an investigator.
+If you find yourself questioning whether time is fundamental or whether causality can be violated... congratulations. You’re thinking like an investigator.
 
 The Bureau appreciates your attention to detail.
 
