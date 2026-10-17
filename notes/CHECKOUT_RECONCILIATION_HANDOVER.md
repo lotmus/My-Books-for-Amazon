@@ -543,3 +543,17 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - The old local pilot was a REV4 snapshot at 10fd77e. It is now reconciled to all 90 active files from current main at commit 840dfae, with only notes/SEPARATION_AUDIT.md added. The pilot is clean and has no remote. Its superseded REV4 DOCX was moved without inspection to ignored bak/pre-separation-REV4-2026-10-17/; the original remains in pilot Git history.
 - There is conflicting source-sync guidance: the new REV5 section in notes/CLAUDE.md says the Markdown tracks were synced from REV4, while notes/REVIEW_REV5_2026-10-17.md says they were synced with REV5 DOCX. The REV5 DOCX remains the stated master; this reconciliation did not rebuild or change book text. The work queue still describes the older REV4 job, so follow the newer REV5 status and review notes.
 - The REV5 review records a LibreOffice render before a final one-word refinement, with the final page count not rechecked. Kindle Previewer and an outside-reader review remain open. No build or publication QA was run, and the shared D: checkout was not changed.
+
+
+## 2026-10-17 — Lolly Wren Book 2 standalone pilot
+
+- Rechecked against fresh `origin/main` at `c34163faa34f1cb31a705d067d7a3bddd7d0e261`. The shared D: Book 2 folder has 28 active files; current main has the same 28 relative paths. Ten are byte-identical; the other 18 have only line-ending/BOM normalization differences, and a decoded text comparison found no changed lines. No D-only or main-only active file was found. Existing `bak/` was not read, and the shared checkout was not changed.
+- The reviewed working manuscript and Kindle EPUB are `The_Permitted_Options_BOOK_2_REVISION_20261005.docx` and `The_Permitted_Options_KINDLE.epub`, as specified by the current book guide/status. The D: DOCX and EPUB match current main exactly.
+- Created local-only pilot at `D:\Offload\.codex\worktrees\split-pilot-lollywren-permitted-options-book2-20261017`, source snapshot `c34163f`, pilot commit `31931d4`. It contains the 28 current-main package files, a local `.gitignore`, and `notes/SEPARATION_AUDIT.md`; 30 tracked files, clean worktree, no remote. No build or tests were run.
+- Source provenance remains open: the book guide says the original DRAFT DOCX remains the canonical source draft, but it is absent from the 28-file current tracked package. Its location/provenance is unresolved; no backup was inspected or recovered. Keep remote publication deferred until this item and collection-wide accounting are complete.
+- Current notes still list a paperback wrap after final print pagination, a fresh visual render (the prior host lacked LibreOffice), and an optional painted cover. No publication review was performed in this checkpoint.
+- Next safe reconciliation target: the 85 safe status paths under `NOVELS/The Department of Historical Corrections`. The Lolly Wren series had 30 safe status paths: Book 1's seven are covered by its existing REV7 pilot checkpoint; Book 2's 23 were reconciled above.
+
+## 2026-10-17 — Poetry status confirmation
+
+- The 17 active files in `POETRY/Limericks and Nonsense Rhymes` still match `origin/main` byte-for-byte. The two additional Poetry-root status entries are loose root notes, not part of the Limericks package; they remain untouched. Existing `bak/` was excluded. The prior local pilot and review/source caveats remain as recorded above.
