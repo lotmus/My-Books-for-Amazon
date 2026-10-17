@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 6c1e6488 (PR #306). Expanded status was freshly counted at 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 713 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 229132e7 (PR #307). Expanded status was freshly counted at 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 715 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -312,6 +312,14 @@ Audit-scope correction: an initial broad scanner traversed scripts/_work, read t
 ### The Will Is Not the Legacy: active-copy and build-output audit (17 Oct 2026)
 
 The D: alias HOW TO  Series/The Will Is Not the Legacy, Actually has 47 non-backup files; current main has 42 paths at the canonical root. All 42 common paths match both D: HEAD and current main: 30 byte-identical and 12 text-normalized, with no substantive differences. Five additional D: files are ignored build outputs. The generated EPUB and DOCX have the same extracted text as their active current-main counterparts, and each exact output package is already preserved in the dated book bak folder. The remaining output files are transient visual-QA files; they were not treated as book editions. No newer D: manuscript or release package needs preservation or promotion, and the D: folder was left unchanged.
+
+### How to Publish Your First Kindle Book: active-path and release comparison (17 Oct 2026)
+
+The old D: alias has 16 non-backup files; current main has 19 files at the canonical root. All 16 D: paths have a current-main counterpart: seven byte-identical, two matching after BOM/newline normalization, and seven substantive differences. Those seven distinct D: files and their current-main counterparts were last changed by the same commit, so commit dates do not establish which path copy is newer. The D: versions are preserved under the ignored book bak folder at 2026-10-17 legacy-path alternatives, with a source/hash manifest. The two chapter blobs also have earlier history-preservation copies. No active D: file was overwritten.
+
+Current main contains a REV42 DOCX dated 15 Oct and REV43 DOCX/EPUB dated 13 Oct. Their extracted text differs (24,685 words for REV42 DOCX; 24,357 for REV43 DOCX and 24,365 for REV43 EPUB). The D: alias has no active DOCX or EPUB. Keep all three current-main packages intact; revision number and filename date do not by themselves resolve which package is the approved release.
+
+Audit-scope correction: an exact-copy hash loop recursively traversed this book's existing bak tree while checking the seven D: files. It read file bytes but printed no contents and changed no existing backup. The tree includes mixed historical material, so do not scan it again; use known manifests and narrowly scoped backup folders only.
 
 ## Next work
 
