@@ -434,3 +434,11 @@ The user authorized a Book 1-only content improvement pass. In the isolated work
 - Not ready for a clean book-repo pilot yet: keep the review-note difference and deleted Rev11 files accounted for, and preserve the pending queue and ignored production assets. Do not publish a separate remote or discard the existing local state.
 - Next safe step: reconcile the D: review note and candidate worktree against current main and the pending queue, then snapshot the complete active Bavarian working set into an isolated book repo without scanning `bak`.
 
+## 2026-10-17 — YouTube guide not ready for repository separation
+
+- Latest handover baseline: `origin/main` at `e27b301384ac9e8b0d5de02dd31177ccbcab91c1`. Since the legacy checkout baseline `6ed1ee3392211e417e16929ad918c3924c4da0a3`, main has advanced by three documentation-only commits. The shared legacy checkout is therefore 142 ahead / 773 behind, with 529 changed or untracked entries at the last status check (528 outside the single protected path).
+- The alias `HOW TO  Series/Your First YouTube Channel That Rocks` has five modified files (project instructions, listing, status, and reader-test/review material), one deleted review note, and one untracked `Your_First_YouTube_Channel_REV26_sources.docx`. The book’s AGENTS file identifies REV26 as the current manuscript and says the legacy builder cannot safely rebuild it. No source files were edited or moved.
+- The book’s own instructions state that `_source/` contains unrelated private production material that must not be carried into the book. That folder was not opened or scanned. `bak` was also excluded.
+- Not ready for a separate-repo pilot until REV26’s source/provenance and the deleted review-note history are reconciled, and `_source/` is explicitly kept outside any book snapshot. Preserve the current DOCX, notes, and local changes.
+- Next safe step: review only the book’s status and active files, reconcile the legacy changes against current main without opening `_source/` or `bak`, then build a scoped local pilot from the verified active book files.
+
