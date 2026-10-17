@@ -1,38 +1,20 @@
 SCHRÖDINGER'S PAPERWORK - KINDLE UPLOAD PACKAGE
-Ready for KDP Publication
+Book 1 review candidate — see the current-file check at the end before upload.
 Generated: September 21, 2026
-Current files verified: October 15, 2026 (REV5 manuscript + rebuilt Kindle EPUB)
+Current files verified: October 17, 2026 (REV7 manuscript + rebuilt Kindle EPUB)
 
 ================================================================================
-FINAL FILES (Root Directory)
+CURRENT REVIEW CANDIDATE FILES
 ================================================================================
 
-1. Schrodingers_Paperwork_BOOK_1 - REV5.docx
-   - Manuscript with full 13/10 edit pass on chapters 9-11, plus a full
-     content/didactic-simplicity/correctness/formatting audit since
-   - Redundant Miss Pike observation removed (~75 words) - verified absent
-   - Lolly's self-awareness moment added (character arc deepening) - verified present
-   - All physics lectures integrated and formatted
-   - Ready for direct KDP upload or Kindle Create conversion. Rebuilt EPUB: Schrodingers_Paperwork_KINDLE.epub
+- Manuscript: Schrodingers_Paperwork_BOOK_1 - REV7.docx
+- Kindle ebook: Schrodingers_Paperwork_KINDLE.epub (rebuilt from REV7)
+- Front cover: KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652 px)
+- Back-cover panel: KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168 px; final reading image)
+- KDP description: KDP_DESCRIPTION_FINAL.txt
+- Current content review and remaining checks: notes/CONTENT_REVIEW_REV7_20261017.md
 
-2. Kindle cover artwork (selected 13 Oct 2026)
-   - Front cover upload: KINDLE_FRONT_COVER_LIGHT.jpg (1312x1652 px).
-   - Back cover panel: KINDLE_BACK_COVER_LIGHT.jpg (784x1168 px), embedded as the final page of the manuscript.
-   - Signals three reader audiences simultaneously:
-     * Pratchett/Adams fans (absurdist humor)
-     * Sci-fi readers (retro-futuristic London aesthetic)
-     * Science readers (quantum physics + education angle)
-   - Female protagonist foregrounded (captures "women in science" searches)
-
-3. KDP_DESCRIPTION_FINAL.txt
-   - Kindle-optimized book description (308 words) - this is the
-     "KINDLE_OPTIMIZED" draft, chosen over two longer, more literary
-     alternatives that were also in circulation (see note at end)
-   - Opening hook (13 Oct 2026): "The form arrived completed, countersigned and stamped RECEIVED. Nobody had sent it yet."
-   - Names "The Simplification Initiative" as the plot's inciting device
-   - Tone matches cover: wry, absurdist, funny
-   - Physics course positioned as bonus, not barrier
-   - Mobile-scannable paragraph breaks
+The back-cover panel is included at the end of the DOCX and EPUB. Older manuscript and EPUB versions are preserved in bak/ and are not upload candidates. The package has not been checked in Kindle Previewer or by an external physicist; this checklist is not publication approval.
 
 ================================================================================
 METADATA FOR KDP ENTRY
@@ -182,8 +164,7 @@ fact.
 
 ================================================================================
 
-This package is publication-ready. All files are in your root directory.
-Go sell this book. It's 13/10.
+This checklist contains historical launch advice. Recheck current KDP requirements, metadata, pricing, and the review-candidate status before upload.
 
 Q.E.D.
 
@@ -197,8 +178,9 @@ Further Reading titles link to the book (Open Library) or paper (DOI), the
 video list is linked by title, and everything was checked to resolve.
 
 
-CURRENT FILE CHECK (15 Oct 2026)
-- Active manuscript: Schrodingers_Paperwork_BOOK_1 - REV5.docx. REV4 is archived under bak/.
-- Active Kindle file: Schrodingers_Paperwork_KINDLE.epub rebuilt from REV5. EPUB package XML, text parity, navigation anchors, links, image alt text and dimensions checked.
+CURRENT FILE CHECK (17 Oct 2026)
+- Active review-candidate manuscript: Schrodingers_Paperwork_BOOK_1 - REV7.docx. REV5 and REV6 plus source/review variants are preserved under bak/; the bak snapshots are not upload files.
+- Active Kindle file: Schrodingers_Paperwork_KINDLE.epub rebuilt from REV7. ZIP integrity and package XML parse; the navigation includes the Blue Envelopes interlude; title/creator/series metadata is present; 20 content images have alt text; all 19 interior diagrams are at most 800 x 440 px; both light covers are included, with the back panel as the final reading-content image.
+- Content changes in REV7 clarify the Sunday Phase Two/freeze timeline, keep the interlude and navigation aligned, improve one reflection beat, and carry the REV6 decoherence/scanner corrections. See notes/CONTENT_REVIEW_REV7_20261017.md for the critical review and remaining limits.
 - Cover files: KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652) and KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168); back panel is the final page.
 - Archived older manuscript/EPUB snapshots remain under bak/ and are not current upload files.

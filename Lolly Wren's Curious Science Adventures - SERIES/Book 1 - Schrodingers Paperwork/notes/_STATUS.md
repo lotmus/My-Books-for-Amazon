@@ -143,3 +143,12 @@ EPUB checks: DOCX/EPUB text parity (86,457 raw words), 33 Heading 1 navigation e
 Version inventory: REV1–REV3 and prior DOCX/EPUB snapshots were already in `bak/`; REV4 is now retained there as the immediate predecessor. The alternate back-cover PNG is preserved as a unique source asset. Temporary Office lock file is not a manuscript version and is not included.
 
 Review note: `notes/CRITICAL_READER_REVIEW_20261015.md`. Final assessment: 9.7/10 for the book’s intended indie science-satire audience; 8.9/10 against a deliberately severe Pratchett/Fforde literary benchmark.
+
+
+## REV7 content review (17 Oct 2026)
+
+Current review candidate: `Schrodingers_Paperwork_BOOK_1 - REV7.docx`; active Kindle package: `Schrodingers_Paperwork_KINDLE.epub`. REV7 starts from the newest local REV6 source and carries forward its interlude heading, scanner action, and more careful decoherence/einselection explanation. The content pass then clarifies the Sunday morning Phase Two/freeze timing, tightens Lolly's decision to look away from her father's care-home lounge, and aligns EPUB text, contents, and navigation. REV5/REV6 and alternate review/source files are preserved under `bak/2026-10-17 pre-REV7/`; snapshots are not for upload.
+
+Checks: DOCX ZIP and XML valid; 3,847 paragraphs; about 90,010 whitespace-counted words. EPUB ZIP integrity passes; OPF/XHTML/navigation parse; 34 navigation links include the interlude; 20 content images have descriptive alt text; all 19 interior diagrams are at most 800 x 440 px; the light front cover is the EPUB cover resource and the light back panel is the final reading-content image. This is an internal candidate check, not Kindle Previewer/device QA or external scientific review.
+
+Critical content rescore (intended comic-SF reader): **9.8/10 overall**; plot/payoff 9.8, character/dialogue 9.7, humour/satire 9.7, clarity/prose 9.7, pace/suspense 9.6, science boundary and internal continuity 9.8, package mechanics 10. The earlier strict benchmark against Pratchett/Fforde remains **8.9/10**: the explanatory middle still spends more time on expert argument than those authors typically do. This is a comparison gap, not a defect that should be “fixed” by imitating their voice. No honest review can guarantee a 10 for every reader. See `../../notes/CONTENT_REVIEW_REV7_20261017.md`.
