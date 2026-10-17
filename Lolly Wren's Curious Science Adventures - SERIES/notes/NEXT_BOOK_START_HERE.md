@@ -1,6 +1,6 @@
 # Start Here: Continuing the Lolly Wren Series
 
-Updated 15 October 2026. This page is the current entry point for planning the next installment. It summarizes authority and workflow; the Series Bible remains the detailed canon.
+Updated 17 October 2026. This page is the current entry point for planning the next installment. It summarizes authority and workflow; the Series Bible remains the detailed canon.
 
 ## Read in this order
 
@@ -17,11 +17,11 @@ Updated 15 October 2026. This page is the current entry point for planning the n
 
 | Book | Current continuity source | File status |
 |---|---|---|
-| 1 | `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1 - REV7.docx` | Canonical Book 1 master. |
+| 1 | `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1 - REV12.docx` | Canonical Book 1 master. |
 | 2 | `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx` | Current reviewed working copy and continuity source. |
 | 2 source | `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx` | Original canonical draft; it was not promoted or overwritten by the review copy. Do not silently copy one over the other. |
 
-Book 1's Kindle output is `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_KINDLE.epub`, built from REV7. Its current light covers are `KINDLE_FRONT_COVER_LIGHT.jpg` and `KINDLE_BACK_COVER_LIGHT.jpg`. Book 2's current Kindle output is `Book 2 - The Permitted Options/The_Permitted_Options_KINDLE.epub`, built from the reviewed working copy. Their front covers are `KINDLE_COVER_FINAL_2560.jpg` in the corresponding book folders.
+Book 1's Kindle output is `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_KINDLE.epub`, built from REV12. Its current light covers are `KINDLE_FRONT_COVER_LIGHT.jpg` and `KINDLE_BACK_COVER_LIGHT.jpg`. Book 2's current Kindle output is `Book 2 - The Permitted Options/The_Permitted_Options_KINDLE.epub`, built from the reviewed working copy. Their front covers are `KINDLE_COVER_FINAL_2560.jpg` in the corresponding book folders.
 
 ## Continuity at the end of Book 2
 

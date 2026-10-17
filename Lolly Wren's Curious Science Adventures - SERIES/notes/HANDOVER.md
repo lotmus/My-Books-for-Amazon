@@ -1,8 +1,8 @@
-# Current Series Handover - 12 Oct 2026
+# Current Series Handover - 17 Oct 2026
 
 For new installment work, start with `notes/NEXT_BOOK_START_HERE.md`. It identifies the reviewed continuity files, open story threads, fixed canon, science boundary, editing standards, and EPUB build workflow. Read `notes/SERIES_BIBLE.md` for the complete canon. Dated material below this current summary is retained as project history; follow the current file authority recorded here and in each book's latest `_STATUS.md`.
 
-- Book 1 master: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1 - REV7.docx`; Kindle EPUB beside it.
+- Book 1 master: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1 - REV12.docx`; Kindle EPUB beside it.
 - Book 2 reviewed continuity copy: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx`; Kindle EPUB beside it.
 - Book 2's original canonical draft (`The_Permitted_Options_BOOK_2_DRAFT.docx`) remains unpromoted and untouched. Do not replace either Book 2 file without an explicit author decision.
 - No Book 3 title, case, department, instrument, or science topic is chosen yet. Use the open threads and restrictions in the Series Bible; do not turn a possibility into fixed canon without recording the decision.
@@ -22,7 +22,7 @@ Each book folder holds exactly one master docx plus its KDP files at the root, a
 
 Series-level notes (this file, `SERIES_BIBLE.md`, `SERIES_DESCRIPTION.txt`, audits) live in the series `notes\`; old copies of them are in the series `bak\`. The DOCX files are editable masters. Current Kindle EPUB outputs are kept beside the active Book 1 and reviewed Book 2 masters; PDFs are not current deliverables.
 
-Book 1 root: `Schrodingers_Paperwork_BOOK_1 - REV7.docx`, `KDP_DESCRIPTION_FINAL.txt`, `KDP_UPLOAD_READY.txt` (metadata and keywords), `KINDLE_COVER_FINAL_2560.jpg`.
+Book 1 root: `Schrodingers_Paperwork_BOOK_1 - REV12.docx`, `Schrodingers_Paperwork_KINDLE.epub`, `KDP_DESCRIPTION_FINAL.txt`, `KDP_UPLOAD_READY.txt`, `KINDLE_FRONT_COVER_LIGHT.jpg`, and `KINDLE_BACK_COVER_LIGHT.jpg`.
 Book 2 root: original draft `The_Permitted_Options_BOOK_2_DRAFT.docx`; current reviewed copy `The_Permitted_Options_BOOK_2_REVISION_20261005.docx`; current EPUB `The_Permitted_Options_KINDLE.epub`; `KDP_DESCRIPTION.txt`.
 
 The parent repository is `D:\My Books for Amazon`, remote `https://github.com/lotmus/My-Books-for-Amazon.git`. The old `schrodingers-paperwork-manuscript` remote is gone. Do not pull it.

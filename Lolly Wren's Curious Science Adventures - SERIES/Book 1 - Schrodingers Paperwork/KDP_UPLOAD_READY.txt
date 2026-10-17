@@ -1,18 +1,18 @@
 SCHRÖDINGER'S PAPERWORK - KINDLE UPLOAD PACKAGE
 Book 1 review candidate — see the current-file check at the end before upload.
 Generated: September 21, 2026
-Current files verified: October 17, 2026 (REV7 manuscript + rebuilt Kindle EPUB)
+Current files verified: October 17, 2026 (REV12 manuscript + rebuilt Kindle EPUB)
 
 ================================================================================
 CURRENT REVIEW CANDIDATE FILES
 ================================================================================
 
-- Manuscript: Schrodingers_Paperwork_BOOK_1 - REV7.docx
-- Kindle ebook: Schrodingers_Paperwork_KINDLE.epub (rebuilt from REV7)
+- Manuscript: Schrodingers_Paperwork_BOOK_1 - REV12.docx
+- Kindle ebook: Schrodingers_Paperwork_KINDLE.epub (rebuilt from REV12)
 - Front cover: KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652 px)
 - Back-cover panel: KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168 px; final reading image)
 - KDP description: KDP_DESCRIPTION_FINAL.txt
-- Current content review and remaining checks: notes/CONTENT_REVIEW_REV7_20261017.md
+- Current content review and remaining checks: notes/CONTENT_REVIEW_REV12_20261017.md
 
 The back-cover panel is included at the end of the DOCX and EPUB. Older manuscript and EPUB versions are preserved in bak/ and are not upload candidates. The package has not been checked in Kindle Previewer or by an external physicist; this checklist is not publication approval.
 
@@ -179,8 +179,8 @@ video list is linked by title, and everything was checked to resolve.
 
 
 CURRENT FILE CHECK (17 Oct 2026)
-- Active review-candidate manuscript: Schrodingers_Paperwork_BOOK_1 - REV7.docx. REV5 and REV6 plus source/review variants are preserved under bak/; the bak snapshots are not upload files.
-- Active Kindle file: Schrodingers_Paperwork_KINDLE.epub rebuilt from REV7. ZIP integrity and package XML parse; the navigation includes the Blue Envelopes interlude; title/creator/series metadata is present; 20 content images have alt text; all 19 interior diagrams are at most 800 x 440 px; both light covers are included, with the back panel as the final reading-content image.
-- Content changes in REV7 clarify the Sunday Phase Two/freeze timeline, keep the interlude and navigation aligned, improve one reflection beat, and carry the REV6 decoherence/scanner corrections. See notes/CONTENT_REVIEW_REV7_20261017.md for the critical review and remaining limits.
+- Active review-candidate manuscript: Schrodingers_Paperwork_BOOK_1 - REV12.docx. REV5–REV10 and other source/review variants are preserved under bak/; the bak snapshots are not upload files.
+- Active Kindle file: Schrodingers_Paperwork_KINDLE.epub rebuilt from REV12. ZIP integrity and package XML parse; navigation includes the Blue Envelopes interlude; title/creator/series metadata is present; all 20 in-reading images have alt text; all 19 interior diagrams are at most 800 x 440 px; the light front cover is the cover resource and the light back-cover panel is the final reading-content image.
+- REV12 corrects science wording and makes the speculative civic mechanism explicit; it also defines the fictional 78% record-audit score and aligns it across the story and lessons. See notes/CONTENT_REVIEW_REV12_20261017.md for the critical review, scores, and remaining quality gates.
 - Cover files: KINDLE_FRONT_COVER_LIGHT.jpg (1312 x 1652) and KINDLE_BACK_COVER_LIGHT.jpg (784 x 1168); back panel is the final page.
 - Archived older manuscript/EPUB snapshots remain under bak/ and are not current upload files.

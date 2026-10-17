@@ -8,7 +8,7 @@ A book-specific guide may add manuscript mechanics (styles, bookmarks, how to ed
 
 Active continuity files:
 
-- Book 1 canonical master: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1 - REV7.docx`.
+- Book 1 canonical master: `Book 1 - Schrodingers Paperwork/Schrodingers_Paperwork_BOOK_1 - REV12.docx`.
 - Book 2 reviewed continuity copy: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_REVISION_20261005.docx`.
 - Book 2 original canonical draft: `Book 2 - The Permitted Options/The_Permitted_Options_BOOK_2_DRAFT.docx`. It remains unpromoted; do not overwrite it or silently substitute it for the reviewed copy when continuing story continuity.
 

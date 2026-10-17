@@ -1966,3 +1966,13 @@ The review fix is in the live Kindle file. Do not restore the previous wording f
 - Lessons and glossary: the "One-line summary" lines no longer copy the story's "Rule:" lines; glossary entries for no-deleting, Page curve, no-communication, second law, shell model and the gossip phrase reworded; the Loftus and Palmer paragraph no longer repeats the story's sentence.
 - Left alone on purpose: lesson template labels and "Reread, then…" navigation, Contents and Part-intro echoes, glossary "The other entries point here.", back links, the plaque list "Equivalent Residence Unit 7B", the two "Further viewing" entries that share a title.
 - Follow-up (2026-10-04, later): the 19 lesson recap labels are now unique ("What Chapter 1 was actually showing you." … "What Chapter 19 …"; Lesson 14b says "What the rest of Chapter 14 was showing you."), and the 13 "Reread, then carry on/go on/continue/move on." lines now name their lesson ("Reread Lesson 6, then go on."). The section labels (The idea, step by step / Where the popular version goes wrong. / Going deeper (skip freely). / Say it to Mrs Chain.), the intro list item, Contents and glossary navigation are headings or structure and repeat by design. Backup `bak\…before-labels-20261004-200926.docx`.
+
+
+## REV11 science and continuity pass (17 Oct 2026)
+
+Historical REV11 pair: `Schrodingers_Paperwork_BOOK_1 - REV11.docx` and `Schrodingers_Paperwork_KINDLE.epub`. The current pair is REV12; see `notes/CONTENT_REVIEW_REV12_20261017.md`. Preserve the distinction made there: the story’s 78% is a fictional documentary audit score, not quantum fidelity, a share of Margaret, or the 308/411 district recovery fraction. CHSH supports only the local-hidden-variable inference under stated assumptions; it does not prove the Ministry’s fictional houses are entangled. The story’s error-correction lattice is an analogy built from classical records.
+
+
+## REV12 final Bell-boundary sweep (17 Oct 2026)
+
+Current active pair: `Schrodingers_Paperwork_BOOK_1 - REV12.docx` and `Schrodingers_Paperwork_KINDLE.epub`. Bell-test assumptions and inference limits now match across dialogue, lesson text, rule summaries, and glossary. Read `notes/CONTENT_REVIEW_REV12_20261017.md` before further science edits.
