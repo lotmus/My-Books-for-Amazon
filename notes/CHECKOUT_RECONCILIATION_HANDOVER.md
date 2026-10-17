@@ -97,6 +97,12 @@ The physical D: EE folder is `EE, Actually  Series`; current `main` uses `EE - S
 
 The ignored EE inventory is separate from the 489 status rows: the legacy D: EE folder has 4,344 ignored files (4,321 inside `bak`, 23 other ignored files), and the D: `EE - SERIES` folder has 371 ignored files, all inside `bak`. These files remain untouched and must not be mistaken for cleanup candidates. The remaining unique-patch map still needs to distinguish series-folder moves, current-main content already synced into the D: working tree, and book-specific variants preserved in backups.
 
+### Auswandern revision and source comparison (16 Oct 2026)
+
+Current `main` has the committed REV128 DOCX and EPUB (commit 006c0348, 14 Oct). The D: alias folder `HOW TO  Series\Auswandern - Ab in die USA, Kanada, Australien oder Neuseeland` has active release packages only through REV118. Its REV115/REV118 DOCX files and REV115/REV118 KDP-description DOCX files are byte-identical to the same revisions on `main`; the D: folder has no REV128 package. No new book-only change needs promotion because the newer release is already on `main`.
+
+The live D: folder has 246 non-backup files versus 46 active paths on `main`: 13 relative paths are common, 233 are D:-only, and 33 are main-only. The local folder includes 204 files in `build`, 17 in `review_render`, and eight in `sites`; these outputs and site assets were not moved or deleted. Three common manuscript sources differ after normalizing BOM and line endings. Their latest main commits are 1e9ac3fe, 50621aa2, and 6ad7fba3 (13 Oct), while the D: file timestamps are 12 Oct. A line diff totals 151 lines present only in the main versions and 132 only in the D: versions. Keep the D: source variants for review until confirmed against the REV128 build inputs; do not overwrite or archive them based on revision numbers alone.
+
 ## Next work
 
 1. Keep Poetry blocked until the repository-wide policy matches are resolved and reviewed; no poem, DOCX, EPUB, or image has been promoted.
