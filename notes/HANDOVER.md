@@ -456,3 +456,14 @@ Book 5 main's latest commits are `7f80721c` and `6a61065e` on 13 October, which 
 Compared the local `Book5_REV3/src` files with main's tagged source mirror. Differences occur in chapters 1, 2, 4, 5, 6, 8, 10, 12, 15, 18, 21 and 25, plus `back.txt`; other compared source files match. These are not all harmless formatting changes: the local candidate adds first-cut implementation limits, synchronization and measurement caveats, additional transitions/checkpoints, and some asides; it also changes licensing, throughput, MIMO, and LoRa explanations. Main's October 13 zero-IF and spectrum-licensing fixes must be preserved or explicitly reconciled when comparing REV3, since the candidate note says the unnumbered master stayed unchanged. Keep the DOCX and source mirror intact; do not replace main's master or merge the source tree wholesale.
 
 The five remaining unmatched EE notes are separate candidates for their respective book reviews and are not Book 5 source. They remain to be inspected by book. No book files were modified, staged, committed, or pushed in this review.
+
+## EE revision notes classified — 2026-10-16
+
+Inspected the five unmatched EE note files left after the Book 5 source review. They are revision records, not additional DOCX/EPUB masters:
+
+- `Book4_REV5_2026-10-16.md` and `Book4_REV6_2026-10-16.md` describe the Book 4 pass. Current `origin/main` already contains Book 4 REV5 and REV6 through `36f6c33e`, plus the separate REV6 reader revision and its own record through `dfec0675`. The local notes add provenance but do not establish a newer uncommitted master than those committed versions. Retain the unique notes until their record content is captured or intentionally archived; do not treat them as separate upload editions.
+- `EE5_REV2_2026-10-15.md` is an earlier step in the Book 5 revision sequence. REV3 is explicitly based on REV2 and is the newer candidate; the unnumbered master remained unchanged. Keep REV2's provenance, but do not mistake it for a current master.
+- `EE5_REV3_2026-10-16.md` is the provenance note for the distinct Book 5 REV3 candidate described above. Keep it with that candidate pending reconciliation with main's 13 October fixes.
+- `EE6_CRITICAL_REVISION_2026-10-15.md` is a prior review record. The local Book 6 REV3 DOCX (691,260 bytes) and EPUB (673,228 bytes) are byte-identical to current `origin/main`'s committed Book 6 REV3 artifacts at `159bc592`; main also has a newer 16 October REV3 response note. No uncommitted Book 6 edition is represented by these files.
+
+These untracked notes carry some unique history and should not be bulk-deleted or moved just because their contents are not in main. No EE book files or notes in the D: checkout were changed during this classification.
