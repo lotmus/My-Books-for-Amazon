@@ -4,7 +4,7 @@ Updated 16 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 9f1ab56f. Expanded status is 489 rows: 120 modified, 36 deleted, and 333 untracked. The local branch is 142 commits ahead and 622 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 29, CARS 22, Poetry 17, How To 12, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at d93d2cb0. Expanded status is 489 rows: 120 modified, 36 deleted, and 333 untracked. The local branch is 142 commits ahead and 624 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 29, CARS 22, Poetry 17, How To 12, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -42,12 +42,13 @@ The earlier 344-file map is superseded. The latest 333 untracked rows classify a
 - **Gravity, Actually:** both active folders have 40 files: 23 byte-exact and 16 text files matching after line-ending normalization. The remaining DOCX differs only in package bytes; extracted text is identical at 37,251 words. The automated repository policy scan flags both copies, so neither was promoted.
 - **Giving Birth to an Ivy League Student:** the local REV04 DOCX, EPUB, and STATUS.md are byte-identical to their current-main counterparts; no new local content remains.
 - **Quantum, Actually, Volume 1:** the D: WORK_QUEUE.md is byte-identical to current main; the older queue is already preserved in the volume bak folder.
+- **Shared root guidance:** seven D: files (AGENTS.md, LOTHAR_RULES, Step Stories handover, root handover, BOOK_LOCATIONS, Also-by list, and SCORES) differ from current main. Main has the newer book/version and status records, including Step Stories v22/v17/v10; D: AGENTS also contained a useful per-book backup rule, now added to canonical AGENTS in this change. Preserve the other local differences before any checkout replacement. The root book-improvement prompts file has no main counterpart and remains local.
 - **CARS Book 1 candidate overlay (PR #243):** all 19 review-candidate Markdown chapters text-match the canonical Book 1 chapters on current main after normalizing BOM and line endings. There is no remaining candidate text to promote; the preserved copy remains labelled review-only.
 - **The Digital Twin:** the old outer-repository REV4 chapter snapshot has been compared with the dedicated Brave New Times REV5 source. The standalone REV5 remains the designated current master; no outer-branch commit is waiting to merge.
 
 ## Repository-boundary assessment
 
-A shared monorepo increases the blast radius of Git status and commits. At this snapshot, the D: checkout is 142 commits ahead and 622 behind origin/main (9f1ab56f), with historical path aliases. Its status has 489 rows: 120 modified, 36 deleted, and 333 untracked. The shared Git directory lists 112 worktrees (111 linked-worktree metadata directories); several jobs expose unrelated books to one checkout. Do not prune worktrees until their owners and dirty state are checked.
+A shared monorepo increases the blast radius of Git status and commits. At this snapshot, the D: checkout is 142 commits ahead and 624 behind origin/main (d93d2cb0), with historical path aliases. Its status has 489 rows: 120 modified, 36 deleted, and 333 untracked. The shared Git directory lists 112 worktrees (111 linked-worktree metadata directories); several jobs expose unrelated books to one checkout. Do not prune worktrees until their owners and dirty state are checked.
 
 The D: checkout has a `.git` file pointing to `C:\Users\lomus\git-dirs\My-Books-for-Amazon.git`, and `core.worktree` maps back to `D:\My Books for Amazon`. `git worktree list` prints the Git-dir path as its primary entry instead of D:. This unusual setup is not repaired; do not run worktree repair/remove or reset the shared checkout without a separate audit.
 
