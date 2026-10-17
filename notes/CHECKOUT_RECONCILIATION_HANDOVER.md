@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 150861cb (PR #292). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 685 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 3f1d12a9 (PR #293). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 687 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -146,6 +146,10 @@ For Dolphins patch 56e8fb49, both covers, the KDP description, and photo credits
 ### Wee Scallywag illustration history audit (17 Oct 2026)
 
 Across 33 unique commits scoped to The Wee Scallywag and the Gentle Elf, 18 modify illustrations, representing 136 distinct image blobs. Current main contains 84 of those versions. Of the 52 historical versions absent from main, 49 were already exact in this book's `bak`; the remaining three were missing from both main and D: backups. Those three files (1,025,623 bytes total), including two distinct cover variants, were restored into the book's ignored `bak\2026-10-17 unique-patch preservation\Step_Stories_Pics_Final\` folder with hash-suffixed names. All hashes match the source Git blobs, and D: status remains 489. No old image needed promotion to the active edition.
+
+### Wee Scallywag historical text and edition preservation (17 Oct 2026)
+
+A follow-up across 37 unique commits found 54 distinct historical text, DOCX, and EPUB blobs across 17 book-file paths that were absent from current main and every active or backup file in D:. These blobs total 75,406,647 bytes. All 54 were restored without overwriting active files into the ignored `KIDS  books\The_Wee_Scallywag_and_the_Gentle_Elf\bak\2026-10-17 historical revision preservation\` folder; hash suffixes distinguish versions, and `manifest.tsv` records each blob ID, size, source path, and backup path. Every restored file's Git blob ID and size were verified against its historical object. D: status remains 524 entries.
 
 ### Folder reorganization and live EE inventory (16 Oct 2026)
 
