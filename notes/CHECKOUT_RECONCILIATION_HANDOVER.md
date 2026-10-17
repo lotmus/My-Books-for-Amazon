@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 04e65582 (PR #278). Expanded status is 496 file entries: 125 modified, 36 deleted, and 335 untracked. The default short status compresses those untracked files into 69 rows, so it shows 230 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 670 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 30, CARS 22, Poetry 17, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 753d7859 (PR #279). Expanded status is 496 file entries: 125 modified, 36 deleted, and 335 untracked. The default short status compresses those untracked files into 69 rows, so it shows 230 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 671 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 30, CARS 22, Poetry 17, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -189,6 +189,10 @@ The distinct Look First title “The Universe Has No Now” is already present o
 A local-only EE repository pilot was built from current `origin/main` at 42b50c8c using the current `EE - SERIES/` path and its historical `EE - Series/` spelling. The filtered history retains 168 commits. The standalone repo is `D:\Offload\.codex\worktrees\ee-series-split-pilot-20261016` on branch `main`; its 1,870 files and blob IDs match the current-main EE tree exactly. It has a clean worktree, no remotes, no alternates, and passes `git fsck --full --connectivity-only`.
 
 This prototype contains the current-main series only. It does not include the D: branch’s unique commits, D:-only candidate files, or ignored backups, and no policy scan of the filtered history has been completed. No book content was committed or pushed to GitHub. Use this independent pilot for review; do not use the temporary filter-source clone at `D:\Offload\.codex\worktrees\ee-series-filter-src-20261016`, which still shares objects with the handover clone. Automatic safety review blocked deleting that helper clone, so it remains in place; no D: files were touched.
+
+### EE Kindle-link metadata audit (17 Oct 2026)
+
+All nine JSON files under the EE series Kindle-link metadata were parsed and compared by value against current `origin/main` at `753d7859`. Every JSON object has the same values on both sides; one file is byte-identical and the other eight differ only in formatting. No link metadata needs promotion or correction, and this audit does not change the D: status count.
 
 ## Next work
 
