@@ -11,19 +11,19 @@ Draft written 11 Oct 2026. Claims are limited to what the book actually does. It
 ## Description (about 170 words)
 **The wheel has stopped. The village has no flour. And the cheekiest boy in the valley has just stolen Hal's boots.**
 
-When Hal Millersen's mill wheel jams, he makes one small bargain with a wee scallywag: three days, one true name to guess, and one small thing nobody explains. Then things get strange. A gentle elf who only says what is true. A mill ghost in a flour-sack cloak. A toad that charges tolls. A wolf pup named Gucci who howls at the moon. A fire that goes wrong in the night. A soft-voiced stranger with candy and a "quicker way", and a mirror mill where everything runs backwards.
+When Hal Millersen's mill wheel jams, he makes one small bargain with a wee scallywag: three days, one true name to guess, and one small thing nobody explains. Then things get strange. A gentle elf who admits what she does not know. A mill ghost in a flour-sack cloak. A toad that charges tolls. A wolf pup named Gucci who howls at the moon. A fire that goes wrong in the night. A soft-voiced stranger with candy and a "quicker way", and a mirror mill where everything runs backwards.
 
-Every fact Hopsi the elf states is true, and every bit of magic is marked as magic. Along the way, children see how levers work, why a fish is deeper than it looks, how genes are like a recipe, why the moon changes shape, why the tides rise, and why a scientist is not afraid to say "I do not know".
+Hopsi the elf shares science ideas and admits when she does not know. Along the way, children explore levers, why a fish looks shallower than it is, how genes can be compared to a recipe, the Moon’s phases, tides, and the value of testing an idea.
 
 Includes ten experiments to try and a guide for parents and teachers.
 
 ## What is in the book (use in A+ or the look-inside)
-- 11 chapters, about 11,500 words, about 65 painted illustrations (the pictures tell the whole story, so non-readers from age 5 can follow it); read-aloud for ages 5 to 9, or a first chapter book for ages 8 to 10.
+- 11 chapters, about 11,700 words, about 65 painted illustrations; read-aloud for ages 6 to 9, or a first chapter book for ages 8 to 10.
 - "Hopsi's True Things": 16 short fact and experiment notes.
 - "For Parents and Teachers": the scientist's habits the story models, what each chapter teaches, a safety section, and discussion questions.
 
 ## Age and reading
-- Age range: lead with 6 to 9 (read-aloud from 5; the pictures tell the story without reading); grade 1 to 4. Choose the closest option in the KDP form.
+- Age range: lead with 6 to 9 (illustrations support younger listeners; independent reading around ages 8 to 10); grade 1 to 4. Choose the closest option in the KDP form.
 - Language: English (American spelling).
 
 ## Keywords (7 slots, suggestions)
@@ -44,7 +44,7 @@ Includes ten experiments to try and a guide for parents and teachers.
 - The book ends with a "Coming Next" page announcing Book 2, Scally and the Sleepless Stream (no date promised). Series naming idea: later books follow the pattern "Scally and the ..." under the series name The Step Stories. Change the wording to a real title and date once Book 2 is scheduled.
 
 ## Upload checklist
-- Format: the docx is the master and the EPUB is the upload. File names carry the version (for example ..._Book1_v21.epub). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
+- Format: the docx is the master and the EPUB is the upload. File names carry the version (for example ..._Book1_v22.epub). No tables. Images inline. Cover embedded about 1000x1600 (a larger separate KDP cover file is still to be made from `Step_Stories_Pics_Final/00_cover_art.jpg`).
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer the question accordingly and truthfully. Do not put tool names in the book (rule in LOTHAR_RULES).
 - Back cover: text only on a single color (not made yet).
 - Also-by: "Also by Anneliese Tauber" lists Bavarian Cooking Made Simple (Lothar, 11 Oct 2026). CHECK: that book is still a draft, so the page has no live link yet.

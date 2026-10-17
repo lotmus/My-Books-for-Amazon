@@ -1,9 +1,14 @@
-# Picture-only story check (12 Oct 2026)
+# Picture-only story check (updated for v22, 16 Oct 2026)
 
-Reading the 57 story pictures in order with no text. One line per picture says what a child would see happen. After the fixes below the order is: bargain, wall-run, boots walk, messengers, log launch, lever, storm, rainbow, the wheel is jammed, ghost seen, ghost trapped, marble hill, ghost tea, miller falls, mud morning, ... name reveal, parents at dawn, egg hatches, bird, boots turned to the road.
+The v22 DOCX contains 65 story illustrations and one embedded cover image. The EPUB contains the same 65 story illustrations and a single dedicated cover image. I checked the full story sequence against the current 11 chapters.
 
-Where the picture-only story still breaks (candidates for new pictures):
-1. Why the wheel is jammed is shown (deal, jamming) but the scallywag falling in the bog and the ghost's own tale (lost on the bog 200 years ago) are not shown.
-2. The moment the stranger first appears (fog, sweets) comes only at chapter 8, after a long run without him; a foreshadowing glimpse earlier (a long shadow near the mill in chapter 3 or 6) would help.
-3. No picture shows Hal's father learning the ghost is family (a hat in the light) except the sunrise.
-4. Tabitha's arrival at the fire is only visible in the fire picture.
+The visual arc remains: bargain, wall-run, walking boots, messengers, log launch, lever, storm, rainbow, jammed wheel, ghost, marble hill, miller’s fall, mud morning, the children’s discoveries, name reveal, village recovery, egg hatches, bird, and boots turned toward the road.
+
+## Remaining picture-only gaps
+
+1. The scallywag’s fall in the bog and the ghost’s own account of being lost there are not shown.
+2. The soft-voiced stranger appears late, with no earlier visual foreshadowing.
+3. No picture directly shows Hal’s father learning the ghost is family; the sunrise image carries the beat indirectly.
+4. Tabitha’s arrival at the fire is visible only in the fire scene.
+
+The v22 text now explicitly places Mrs. Crumb with the children at the ford and mill pond, and has her follow with a lantern through the culvert. The existing art still focuses on the children and action; the supervising adult may be outside the picture frame.
