@@ -1,6 +1,6 @@
 # KDP package: Scally and the Sleepless Stream (The Step Stories, Book 2)
 
-Draft written 12 Oct 2026. Claims are limited to what the book does. Items marked CHECK need a decision or a check before upload.
+Revised 16 Oct 2026 for Book 2 v17. Claims are limited to what the book does; an outside science and safety read remains before upload.
 
 ## Title and series
 - **Title:** Scally and the Sleepless Stream
@@ -12,19 +12,19 @@ Draft written 12 Oct 2026. Claims are limited to what the book does. Items marke
 ## Description (about 180 words)
 **The stream has started to hum, and nobody in the valley can sleep.**
 
-It is three o'clock in the morning and the whole valley is awake. The cockerel has given up. The baker's buns have come out black. And somewhere up the water, a sentence has never been finished.
+It is three o'clock in the morning and the whole valley is awake. The rooster has given up. The baker's buns have come out black. And somewhere up the water, a sentence has never been finished.
 
-So Hal, Scally the cheeky little devil, Hopsi the elf who only says what is true, Titch, Tabitha and a wolf cub called Gucci set off upstream with Old Walt the stream-keeper and his donkey, Dumpling. They build a raft, climb a waterfall, count their way through a thunderstorm and race a flash flood. Scally tries every trick in the book on the way, and Hopsi's plain truth keeps turning him round.
+So Hal, Scally the cheeky little devil, Hopsi the truth-loving elf, Titch, Tabitha and a wolf cub called Gucci set off upstream with Old Walt the stream-keeper and his donkey, Dumpling. They test a raft, climb the marked path beside a waterfall, shelter through a lightning storm, and face a flash flood. Along the way, they discover why lightning comes before thunder and why a sturdy building is the right shelter. Scally tries several scams and shortcuts, while Hopsi’s honest questions help him reconsider.
 
-Children see how floating works, why streams wander and pebbles go round, how an echo measures a cliff, how to count a storm, and why a scientist says "I think". Water, fire, storm and flood safety are woven in, and 85 painted pictures tell the whole story, so even non-readers from age 5 can follow it. Includes experiments and a guide for parents and teachers.
+Children see how floating works, why streams wander and pebbles go round, how an echo measures a cliff, how lightning and thunder can help estimate distance, and why a scientist says "I think". Water, fire, storm and flood safety are woven in, with 66 painted story illustrations that invite a picture walk with a grown-up. Includes experiments and a guide for parents and teachers.
 
 ## What is in the book
-- 11 chapters, about 14,000 words, 85 painted illustrations (read-aloud from age 6; a first chapter book for ages 7 to 10).
+- 11 chapters, about 13,500 words, 66 painted story illustrations plus the cover (read-aloud for younger children; independent readers ages 7 to 10).
 - "Hal's Slate: What We Found Out": 17 short fact and experiment notes.
 - "For Parents and Teachers": the habits of a scientist the story models, what each chapter teaches, a safety section, discussion questions, words to grow and a note for adults.
 
 ## Age and reading
-- Age range: lead with 7 to 10 (read-aloud from 6; the pictures tell the story without reading); grade 2 to 5. Choose the closest option in the KDP form.
+- Age range: lead with 7 to 10 (read-aloud from 5 or 6; the pictures invite discussion and a picture walk); grade 2 to 5. Choose the closest option in the KDP form.
 - Language: English (American spelling).
 
 ## Keywords (7 slots, suggestions)
@@ -42,10 +42,10 @@ Children see how floating works, why streams wander and pebbles go round, how an
 - Children's Books > Education & Reference > Science
 
 ## Upload checklist
-- Format: upload the EPUB `Scally_and_the_Sleepless_Stream_Book2_v16.epub` (built from the docx master; Comic Neue embedded with its SIL Open Font License credit on the last page). No tables, images inline.
+- Format: upload the EPUB `Scally_and_the_Sleepless_Stream_Book2_v17.epub` (built from the docx master; Comic Neue embedded with its SIL Open Font License credit on the last page). No tables, images inline.
 - **AI disclosure:** KDP asks whether text or images were AI-generated. The illustrations were AI-generated; answer truthfully. Do not put tool names in the book.
 - Also-by: the book's last page lists Book 1 and Bavarian Cooking Made Simple. CHECK that Bavarian Cooking is live before upload, or remove that line.
-- Teacher or physicist check of the science (meanders, pebbles, floating, speed of sound and lightning count, flash floods, whirlpools) and a safety read (storm advice, the belayed rescue in chapter 7) before upload. `Message_to_Reader.md` in Book 1's folder can be adapted.
+- Teacher or physicist check of the science (meanders, pebbles, floating, speed of sound, lightning safety, flash floods, and whirlpools) and a safety read (water, lightning, and flash-flood scenes) before upload. `Message_to_Reader.md` in Book 1's folder can be adapted.
 - Do not claim exam results or curriculum coverage in the listing.
 - Book 1's "Coming Next" page promises this book: update it to the published date and add a link once Book 2 is live.
 - Strict scores in SCORES.md are before an outside reader; rescore after the read.

@@ -12,7 +12,7 @@ TITLE1, TITLE2 = "Scally and the", "Sleepless Stream"
 FULL = "Scally and the Sleepless Stream"
 SERIES = "The Step Stories"
 AUTHOR = "Anneliese Tauber"
-STORY_FILE = "Book2_Story_v16.txt"
+STORY_FILE = "Book2_Story_v17.txt"
 VERSION = re.search(r"_(v\d+)\.txt$", STORY_FILE).group(1)
 STORY = os.path.join(B, "Step_Stories_Texts", STORY_FILE)
 Q = "“"; R = "”"; A = "’"
@@ -22,7 +22,7 @@ body = raw[raw.index("Chapter 1."):]
 blocks = [b.strip("\n") for b in re.split(r"\n\s*\n", body) if b.strip()]
 
 place = {
-    'On the last Sunday of October the village held a picnic': 'b83_walnut_boats.jpg',
+    'On the last Sunday in May the village held a picnic': 'b83_walnut_boats.jpg',
     'Pip came out of the crowd like a cork': 'b84_pip_homecoming.jpg',
     'Every evening on the mill step Hal taught': 'b85_walt_letters.jpg',
     'Halfway across, Dumpling stopped dead': 'b86_dumpling_sits.jpg',
@@ -31,31 +31,27 @@ place = {
     'She said it flatly, the way she said it when she meant it.': 'b67_hopsi_dont_know.jpg',
     'They crossed in single file, slowly.': 'b68_bog_crossing.jpg',
     'Hopsi had been watching, with her lips pressed together.': 'b69_hopsi_in_pot.jpg',
-    '“The tree is the tallest thing for a mile,”': 'b70_hopsi_warns.jpg',
-    '“One,” whispered Titch. “Two.”': 'b71_counting_storm.jpg',
+
+
     'Scally had been scratching his head.': 'b72_scally_pitches.jpg',
-    'It was the longest minute of Hal’s life.': 'b73_run_high_ground.jpg',
+    'They ran.': 'b73_run_high_ground.jpg',
     'They went home the long way.': 'b74_going_home.jpg',
-    '“GUCCI!” screamed Titch.': 'b75_gucci_dragged.jpg',
     'There was a short, loud argument.': 'b76_the_argument.jpg',
     'That night every light in the valley went out early': 'b77_village_sleeps.jpg',
     'Hal put one in his palm and spun it on the step.': 'b78_egg_spin.jpg',
-    'One gray afternoon at the end of October': 'b79_step_buns.jpg',
-    '“Wade it,” said Scally.': 'b80_wade_it.jpg',
-    'They launched the raft at noon.': 'b81_launch_raft.jpg',
+    'One gray afternoon near the end of May': 'b79_step_buns.jpg',
     'In the morning Scally sat on the mill step': 'b82_painting_sign.jpg',
     'Scally, at the back of the crowd, had not spoken.': 'b49_box_scheme.jpg',
     'Before they left, Walt gave out his own rules': 'b50_walt_rules.jpg',
     'Hal wrote the plan on his slate': 'b51_slate_plan.jpg',
-    'Scally began to laugh, and could not stop.': 'b53_laughing_blanket.jpg',
+    'Scally began to laugh, a little shakily.': 'b53_laughing_blanket.jpg',
     'Walt took out his whistle.': 'b54_whistle_fog.jpg',
     'They ate Titch’s crusts': 'b55_supper_stew.jpg',
     'Before dawn Hal crept down': 'b56_hal_dawn.jpg',
     'In the morning they came to the Falls.': 'b57_the_falls.jpg',
     '“Listen,” shouted Hal.': 'b58_hello_echo.jpg',
     '“Everyone all right?” said Walt': 'b59_count_heads.jpg',
-    'Titch had already done it.': 'b60_dumpling_pulls.jpg',
-    '“I’m scared,” said Scally.': 'b61_scally_scared.jpg',
+    'Scally’s hands were shaking. He stared at them.': 'b61_scally_scared.jpg',
     '“Walter,” he said.': 'b62_mayor_hat.jpg',
     'Old Walt took on an apprentice.': 'b63_walt_apprentice.jpg',
     'In the morning, the miller fell asleep in the flour hopper': 'b64_black_buns.jpg',
@@ -67,12 +63,7 @@ place = {
     "It was a gray donkey, small and round": "b06_walt_arrives.jpg",
     Q + "You don" + A + "t shout at it," + R + " said Old Walt.": "b07_walt_stick.jpg",
     "They set out at dawn.": "b08_setting_off.jpg",
-    "A bank had slipped into the stream.": "b09_green_pool.jpg",
-    "Titch had a log in each hand.": "b10_apple_swap.jpg",
-    "Hal found, in his surprise": "b11_float_test.jpg",
     "It took all morning. They cut six logs": "b12_raft_build.jpg",
-    "The raft slid out.": "b13_raft_spin.jpg",
-    "Four of them hauled": "b14_rescue_pool.jpg",
     "Walt sat down on a rock, in sections.": "b15_meander.jpg",
     "Hal knelt at the water. On the inside of the bend": "b16_pebbles.jpg",
     "They found him in clay": "b17_clay_rescue.jpg",
@@ -82,15 +73,9 @@ place = {
     "Nobody had an answer. In the silence, Hopsi got up.": "b21_three_stones.jpg",
     "They had to climb, one behind the other, on a rope.": "b22_falls_climb.jpg",
     "There was a pause. Then the cliff said": "b23_echo_trick.jpg",
-    "The next came without any count at all.": "b24_oak_struck.jpg",
-    "Scally was already beside him.": "b25_flood_rope.jpg",
-    "They all got up, at last, on a ledge": "b26_flood_ledge.jpg",
-    "It was the Source.": "b27_whirlpool.jpg",
-    "He stepped up to the edge of the bank.": "b28_hat_lie.jpg",
-    "Titch went after him.": "b29_gucci_saved.jpg",
+    '“Thunder weather,” said Walt, looking up. “We go to the stone shelter. Now.”': "b24_stone_shelter.jpg",
+    "It was the Source.": "b27_source_safe.jpg",
     "Hal took it out. It was soggy": "b30_slate_data.jpg",
-    "She was sitting very straight, on a stone": "b31_hopsi_i_think.jpg",
-    "It sang. It sang four notes": "b32_fifth_note.jpg",
     "Just before it went, they all saw": "b33_mist_bows.jpg",
     "It was the quietest thing any of them had ever heard,": "b34_stream_sleeps.jpg",
     "They had been there since dawn.": "b35_homecoming.jpg",
@@ -100,10 +85,8 @@ place = {
     "Then, one by one, they cracked.": "b39_gosling_boots.jpg",
     Q + "Right," + R + " said Scally, and got up.": "b40_long_way.jpg",
     "The first drop fell, round and heavy": "b41_rain.jpg",
-    '“Shelter!” said Scally.': 'b42_dry_seat.jpg',
     '“I know that voice,” he said.': 'b43_walt_story.jpg',
     'But Walt had turned to look at Dumpling': 'b44_scouting.jpg',
-    '“Hal,” he said. “Come here.”': 'b45_brown_water.jpg',
     'Hal’s mother crouched in front of him': 'b46_mother_rules.jpg',
     'Walt sat down on the grass beside him,': 'b47_walt_sack.jpg',
     'Tabitha had said nothing all morning.': 'b48_counting_notes.jpg',
@@ -281,7 +264,7 @@ heading("Meet the Characters", 1, "cast")
 cast = [
     ("Hal (Halbert) Millersen", "Almost 9. The miller" + A + "s son, with a slate for his notes. Looks, counts, tests, and writes WRONG when he is."),
     ("Scally, the wee scallywag", "A little devil with pointed ears and a leaf in his hair. He can never resist a scam, a lie or a shortcut. His true name is for special occasions."),
-    ("Hopsi (Elfie Didlhop)", "An elf with long swept-back ears. She only says what is true, and this time she has to learn to say “I think”."),
+    ("Hopsi (Elfie Didlhop)", "An elf with long swept-back ears. She loves the truth and is learning to say “I think” when she is unsure."),
     ("Titch Mitchel", "Almost 9. Red cap, quick fingers and a crust in each hand. The best knot-tier in the valley."),
     ("Tabitha Smoke", "Nearly 8. Curly black hair in a bun. Watches carefully and notices what nobody else did."),
     ("Pip", "6 and three-quarters. Titch" + A + "s little brother, who guards the mill step while the others are away."),
@@ -297,7 +280,7 @@ for n, t in cast:
     r = p.add_run(n)
     r.bold = True
     p.add_run("\n" + t)
-centered("Ages 5–9. Little ones can follow the whole story from the pictures alone.", 12, italic=True)
+centered("For ages 7–10. Younger children can enjoy it as a read-aloud and explore the pictures with a grown-up.", 12, italic=True)
 pagebreak()
 
 ci = 0
@@ -349,24 +332,24 @@ for b in blocks:
 toc_link()
 pagebreak()
 heading("For Parents and Teachers", 1, "guide")
-para("This is a fantasy adventure to read aloud at ages 5–9. Children from about 5 can follow the whole story from the pictures alone (a “picture walk”: turn the pages and ask what is happening), and older children can read it by themselves. Every fact the elf Hopsi states is true; where she is not sure, she says “I think”, which is what a scientist says. The magic is marked as magic.")
+para("This is a fantasy adventure for independent readers ages 7–10 and for younger children to enjoy as a read-aloud. The pictures invite a picture walk with a grown-up. Hopsi tries to distinguish what she knows from what she thinks, and she can make mistakes. The humming stream, the stranger’s voice and mist, the mirror reflections, the Source whirlpool’s spell, and the square egg changing shape are fantasy. The observations about moving water, storms, and flooding describe real science.")
 heading("The habits of a scientist in the story", 2, center=False)
 for lead, t in [
     (Q + "How do we know?" + R, "Look, count, test. Hal writes everything on his slate, and writes WRONG when he is."),
     ("Guess first, then test.", "What floats and what sinks? Hal guesses, then the pool tells him."),
     ("Say " + Q + "I think" + R + ".", "Hopsi learns that a scientist does not only know. She says what she thinks and how she would find out if she is wrong."),
-    ("Data beats a hunch.", "On his slate Hal counts every shortcut on the journey and finds that none saved any time."),
-    ("Honesty.", "Scally tries a scam, a lie or a cheat in every chapter, and the plain truth makes him think again."),
+    ("Data beats a hunch.", "Hal compares two failed shortcut attempts, then carefully says two examples are too few to prove a universal rule."),
+    ("Honesty.", "Scally tries scams, lies, and cheats during the adventure; plain truth and the consequences help him reconsider."),
 ]:
     para(t, lead)
 heading("What each chapter teaches", 2, center=False)
 for lead, t in [
     ("The Hum:", "an honest question about a mystery, and why a trick to sell a cure does not work."),
     ("Old Walt:", "why water cannot be stopped, only moved, and why you ask where it is going. Family safety rules."),
-    ("The Green Pool:", "what floats and what sinks, how a current carries a raft, and “reach or throw”."),
+    ("The Green Pool:", "floating and sinking, testing a homemade raft from a safe place, and why the children stop when it fails."),
     ("The Wandering Stream:", "why streams bend, why pebbles are round, and why a shortcut across unknown ground is dangerous."),
     ("The Fire and the Voice:", "how to build and put out a campfire safely, and telling the truth about hunger."),
-    ("The Count Between:", "echoes, how far a sound travels, counting between lightning and thunder, and where not to shelter in a storm."),
+    ("The Count Between:", "echoes, estimating distance from lightning and thunder, and seeking a substantial building when thunder is heard."),
     ("The Brown Water:", "flash floods, high ground, and saying “I am scared”."),
     ("The Whirl:", "whirlpools, why you never go near one, and why a lie cannot be an ending."),
     ("The Long Way Round:", "reading evidence, and “I think”."),
@@ -376,10 +359,10 @@ for lead, t in [
     para(t, lead)
 heading("Staying safe: what this book models", 2, center=False)
 for lead, tx in [
-    ("Water.", "Never go in alone. Reach or throw: hold out a stick or throw a rope, and do not go in after a friend. Cold water takes your breath away. Stay away from the edge of a whirlpool and from rising streams."),
+    ("Water.", "Children should swim only with a responsible adult watching closely. Stay away from deep, fast, or flooding water. If someone falls in, call an adult or emergency services, then reach or throw from firm ground. Never go in after them or approach a whirlpool’s edge."),
     ("Shortcuts and getting lost.", "Tell someone where you are going and when you will be back. Go in pairs. If you are lost, stand still, blow three blasts on a whistle and wait."),
     ("Fire.", "Build a campfire on bare stone with a ring of pebbles and a bucket of water. Put it out by drowning it, stirring it and drowning it again, until the ashes are cold to your hand."),
-    ("Storms.", "Count the seconds between flash and bang. A house or a car is the safest place. If you are caught outside, stay away from tall trees, open water and metal, and crouch low in a dip. This is general advice; please check your local guidance."),
+    ("Storms.", "If you hear thunder, go immediately to a substantial building or a hard-topped car. Counting estimates distance; it does not tell you it is safe to stay outside. Crouching outside does not make a storm safe."),
     ("Floods.", "Heavy rain upstream can make a stream rise fast. Never camp in a dry gully, and go to high ground at once."),
     ("Strangers.", "The Soft Voice from Book 1 offers a shortcut, as a stranger might. Agree a family code word, as the children do."),
 ]:
@@ -396,7 +379,7 @@ for q in [
 heading("Words to grow", 2, center=False)
 para("meander, current, pebble, echo, flash flood, whirlpool, float, evaporate, water cycle, data.")
 heading("A note for adults", 2, center=False)
-para("The science here is simplified for ages 5 to 9: a stream's bends come from faster water wearing the outside bank and slower water dropping sand on the inside; a thing floats if, for its size, it is lighter than the water it pushes aside; sound travels about a third of a kilometre per second, so a count of three between lightning and thunder is about a kilometre; whirlpools form where water drains toward a low outlet. The Mirror Mill and the humming stream are magic. Please have a teacher check the science and safety content before relying on it.")
+para("The science here is simplified for ages 7 to 10: in many streams, faster water often wears the outside bank while slower water deposits sediment on the inside; details depend on channel shape and depth; a boat floats because its hollow shape pushes aside enough water to support its weight; sound travels about a fifth of a mile per second, so a five-second flash-to-thunder count is roughly a mile; on hearing thunder, go to a substantial building or hard-topped car; water can swirl when currents meet or when rocks and banks redirect a flow; natural whirlpools are not all drains. The humming stream, stranger’s voice and mist, mirror reflections, Source whirlpool spell, and square egg changing shape are fantasy. Please have a teacher check the science and safety content before relying on it.")
 toc_link()
 pagebreak()
 heading("About the Author", 1, "about")

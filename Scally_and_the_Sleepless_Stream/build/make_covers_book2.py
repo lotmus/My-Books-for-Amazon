@@ -37,9 +37,9 @@ d.text((W // 2, y), "A fantasy adventure with real science", font=font("cb", 76)
 for line in textwrap.wrap("The stream has started to hum, and nobody in the valley can sleep. Somewhere up the water, a sentence has never been finished.", 36):
     d.text((W // 2, y), line, font=font("cb", 86), fill=NAVY, anchor="ma"); y += 110
 y += 50
-for para in ["Five children, a wolf cub, a donkey and a stream-keeper with a bad leg set off upstream: down a rapid on a raft, up a waterfall, through a thunderstorm, and over a flood.",
-             "Along the way, Scally tries every cheat in the book. Hopsi, who only says what is true, has to teach him why he shouldn\u2019t.",
-             "Children see why streams flow downhill and wander, what floats and what sinks, how an echo measures a cliff, how to count a storm, and why a scientist says \u201cI think\u201d."]:
+for para in ["Five children, a wolf cub, a donkey and a stream-keeper with a bad leg set off upstream: test a raft from the bank, choose the footbridge when it fails, shelter from lightning, and face a flash flood.",
+             "Along the way, Scally tries several scams and shortcuts. Hopsi\u2019s honest questions help him reconsider.",
+             "Children see why streams flow downhill and wander, what floats and what sinks, how an echo measures a cliff, why lightning arrives before thunder and where to shelter, and why a scientist says \u201cI think\u201d."]:
     for line in textwrap.wrap(para, 56):
         d.text((W // 2, y), line, font=font("c", 58), fill=INK, anchor="ma"); y += 80
     y += 46
@@ -47,7 +47,7 @@ y += 20; d.line([(300, y), (W - 300, y)], fill=RUST, width=5); y += 60
 for line in ["Water, fire and storm safety woven in,", "plus a guide for parents and teachers."]:
     d.text((W // 2, y), line, font=font("cb", 66), fill=NAVY, anchor="ma"); y += 88
 y += 30
-for line in ["Ages 5 to 9", "Book 2 of The Step Stories"]:
+for line in ["Read aloud to younger children; ages 7 to 10", "Book 2 of The Step Stories"]:
     d.text((W // 2, y), line, font=font("c", 62), fill=INK, anchor="ma"); y += 84
 d.text((W // 2, H - 100), "Anneliese Tauber", font=font("gb", 84), fill=NAVY, anchor="md")
 back.save(os.path.join(B, "Cover_Back_1600x2560.jpg"), quality=92)
