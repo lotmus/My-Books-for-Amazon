@@ -6,6 +6,7 @@ At most two heavy jobs running on LOTHAR-HP. Update when a job starts, finishes,
 
 | Book | Task | Status | Who |
 |---|---|---|---|
+| Scally and the Hill with the Hanging Socks | v10 package repair: preserve both pictures at a shared paragraph anchor, select the highest numeric story version, rebuild DOCX and EPUB | complete (16 Oct 2026; 119 story pictures plus cover; full-size picture review, external science/safety reviews and Kindle Previewer check remain open) | Codex |
 | Limericks and Other Nonsense Rhymes | REV01 anthology, rhyme repair, 10 interior illustrations, cover, EPUB/DOCX package and listing draft | complete (16 Oct 2026; source audit, visual preview and external reviews remain open) | Codex |
 | RF, Microwave, and Transceivers (Book 4) | REV6: address REV3-2 and REV4 external review; sourced X7R aging and ETSI EVM examples, uncertainty example, pacing/layout fix | complete (16 Oct 2026; internal rescore 7.9/10; specialist review still open) | Codex |
 | The Department of Historical Corrections | REV12: five appendix diagrams, ch 13 and 35 talk to action (Hall B ticket now has a cost), ch 26 spaced, citations verified online, Amery five-point check re-run | complete (15 Oct 2026) | agent |
