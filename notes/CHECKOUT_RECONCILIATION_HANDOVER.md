@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 124461c6 (PR #298). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 697 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 9238b198 (PR #299). Expanded status is 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 699 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -170,6 +170,10 @@ The Will Is Not the Legacy, Actually had 50 missing Markdown/Python history blob
 ### Lolly Wren series history preservation (17 Oct 2026)
 
 Four unique D: commits touched the Lolly Wren series. Ten historical blobs (340,231 bytes) were absent from current main and all D: series files/backups: three Book 1 files (164,858 bytes), three Book 2 files (55,828 bytes), and four series-level files (119,545 bytes). They were restored with hash suffixes into each book's own ignored `bak\2026-10-17 historical revision preservation\` folder and the series-level ignored `bak\2026-10-17 historical revision preservation\series-level\` folder. Separate manifests list the exact Git objects and source paths. Hashes and sizes verified; no active files changed and D: status remains 524 entries.
+
+### CARS, Math, Physics, and Quantum history audit (17 Oct 2026)
+
+The CARS series has one unique D: patch; all 204 distinct historical blobs already exist in current main or its D: folder/backups. Physics, Actually - SERIES has three unique patches and all 25 historical blobs are likewise represented. Math, Actually - SERIES has one unique patch; its one missing builder-script blob (81,559 bytes) is preserved under the series-level ignored dated `bak` folder. Quantum, Actually - SERIES has seven unique patches; nine missing source/edition blobs (6,367,447 bytes) are restored under the corresponding Volume 1 and Volume 2 `bak` folders (seven and two files respectively). All restored hashes and sizes were verified. No active editions changed; D: status remains 524 entries.
 
 ### Folder reorganization and live EE inventory (16 Oct 2026)
 
