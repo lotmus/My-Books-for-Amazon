@@ -11,11 +11,11 @@ from lxml import etree
 HERE = Path(__file__).resolve().parent
 BOOK = HERE.parent
 SERIES = BOOK.parent
-SOURCE = BOOK / "The_Murder_That_Hadnt_Happened_Yet_REV19_REVIEW_CANDIDATE.docx"
+SOURCE = BOOK / "The_Murder_That_Hadnt_Happened_Yet_REV20_REVIEW_CANDIDATE.docx"
 COVER = BOOK / "Kindle Front Cover.jpg"
 CSS = SERIES / "scripts" / "kindle-reflowable.css"
 METADATA = SERIES / "scripts" / "kindle-metadata.yaml"
-OUTPUT = BOOK / "The_Murder_That_Hadnt_Happened_Yet_REV19_Kindle_Reflowable.epub"
+OUTPUT = BOOK / "The_Murder_That_Hadnt_Happened_Yet_REV20_Kindle_Reflowable.epub"
 
 
 def main() -> None:
