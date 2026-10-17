@@ -27,3 +27,9 @@
 - Obtain external reviews; this remains a draft until the standing five-cycle review rule is met.
 
 Follow repository-level authoring and Git instructions.
+
+## 17 Oct 2026 checkout reconciliation
+
+The D: folder has 17 active files: 16 match current `main` byte-for-byte; the handover differs because this reconciliation note is local-only. Current `main` has one additional file, the REV02 DOCX. The D: folder contains no DOCX copy, so there is no local Word file to compare or replace. The user reports Word is closed.
+
+The current-main REV02 DOCX, EPUB, and Markdown manuscript, plus the D: EPUB and Markdown copies, trigger the repository-wide prohibited-name scan. The book-specific permission for political figures does not override the repository-wide rule. Do not merge the parallel poetry branch or publish this package until the hit is corrected. This reconciliation changed no poem, DOCX, EPUB, or image.
