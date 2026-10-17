@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at ab843f44 (PR #309). Expanded status was freshly counted at 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 719 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 5eb57af6 (PR #310). Expanded status was freshly counted at 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 721 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -330,6 +330,12 @@ Git reports five status entries under the old alias: two modified active files t
 ### Your First YouTube Channel That Rocks: active-copy comparison (17 Oct 2026)
 
 The D: alias and current-main root have the same 31 ordinary active paths. Ten are byte-identical and 21 match after BOM/newline normalization; there are no substantive differences or D-only/main-only active paths. The current-main set includes the REV26 source DOCX and REV10 cover files. No active D: copy needs promotion or backup based on this comparison. Backup directories were excluded and not read.
+
+### Forbidden Offspring: canonical tree and local split pilot (17 Oct 2026)
+
+Current main has 56 tracked paths under Forbidden_Offspring: 55 active paths and one tracked bak path. The D: legacy alias has only three common active files, all byte-identical; 52 current-main active paths are absent at that alias. A metadata-only walk counted 8,020 non-protected files under the D: alias .claude workspace (about 1,099.7 MiB), plus three ordinary files at the alias root. No .claude file contents were opened; protected-named subtrees and paths were excluded from the count. The alias has zero Git status entries, and its three indexed paths match main.
+
+A clean current-tree pilot is at D:/Offload/.codex/worktrees/forbidden-offspring-split-pilot-20261017, commit 1d362537. Its 55 active files are blob-identical to current main at 5eb57af6; the worktree is clean and has no remote. The pilot omits the tracked bak path and all .claude workspace material. It is a snapshot, not history extraction or a replacement for the monorepo archive.
 
 ## Next work
 
