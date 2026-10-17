@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 0b34dd40 (PR #308). Expanded status was freshly counted at 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 717 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at ab843f44 (PR #309). Expanded status was freshly counted at 524 file entries: 152 modified, 36 deleted, and 336 untracked. The default short status compresses these untracked files into 69 rows, so it shows 257 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 719 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 57, CARS 22, Poetry 18, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -326,6 +326,10 @@ Audit-scope correction: an exact-copy hash loop recursively traversed this book'
 The old D: alias HOW TO  Series/Bavarian  Cooking contains 1,078 non-backup files. All nine files in the current-main canonical tree have D: counterparts: four byte-identical and five matching after BOM/newline normalization, with no substantive differences. Of the 1,078 files, nine have current-main counterparts and 1,069 are outside the current-main tracked set. The complete D-side count breaks down into build (793 files, 141.76 MiB), photos (271, 156.17 MiB), source (six, 161.55 MiB), plus seven root files and one note. These payloads were not content-compared or moved; keep them until their asset/source role is reviewed before any repository split.
 
 Git reports five status entries under the old alias: two modified active files that match main after normalization, two deleted REV11 DOCX packages with book-level backups already verified, and one untracked work queue file that matches main. The current-main active set is nine paths. No Bavarian Cooking content was overwritten.
+
+### Your First YouTube Channel That Rocks: active-copy comparison (17 Oct 2026)
+
+The D: alias and current-main root have the same 31 ordinary active paths. Ten are byte-identical and 21 match after BOM/newline normalization; there are no substantive differences or D-only/main-only active paths. The current-main set includes the REV26 source DOCX and REV10 cover files. No active D: copy needs promotion or backup based on this comparison. Backup directories were excluded and not read.
 
 ## Next work
 
