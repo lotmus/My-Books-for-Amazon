@@ -4,7 +4,7 @@ Updated 16 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-`D:\My Books for Amazon` is one Git repository. Its checkout is on `pc-checkout-cleanup-2026-10-13`, with `origin/main` at `e5ab8d24`. The expanded `git status --porcelain --untracked-files=all` count is **410 entries**: 58 modified, 8 deleted, and 344 untracked. The checkout is 142 commits ahead and 591 behind `origin/main`. The older report of 1,288 entries is stale.
+`D:\My Books for Amazon` is one Git repository. Its checkout is on `pc-checkout-cleanup-2026-10-13`, with `origin/main` at `a42c3cd3`. The expanded `git status --porcelain --untracked-files=all` count is **410 entries**: 58 modified, 8 deleted, and 344 untracked. The checkout is 142 commits ahead and 593 behind `origin/main`. The older report of 1,288 entries is stale.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -18,13 +18,18 @@ The first-pass map of the 344 untracked files found 267 content matches to a uni
 - The D: Book 3 copy under `KIDS  books\Scally_and_the_Hill_with_the_Hanging_Socks` was synced to v10. All 145 active files now match current `main`; its 21 status rows are the old path alias, current files missing from the old branch's index, and v8 files moved into `bak`. The v8/v9 deliverables, prior local text/metadata/build files, 11 changed picture candidates, and duplicate nested fonts are preserved under that book's `bak\2026-10-16 root-sync after v10\`.
 - Book 2 is content-aligned with current `main`: all 104 active files in the D: `KIDS  books\Scally_and_the_Sleepless_Stream` folder match the root-level Book 2 paths in `origin/main` (exact bytes or line-ending-normalized text). Its v15 DOCX/EPUB are safely in `bak\2026-10-16_v17_sync\`. The bucket's 105 status rows are explained by the old path alias, current files appearing untracked there, and the two v15 tracked-path deletions; no local content needed promotion or copying.
 - The Department of Historical Corrections is also content-aligned: all 85 active files in the D: `NOVELS\The Department of Historical Corrections` folder match current `main`. Its `bak\2026-10-16 REV12`, `REV13`, and `REV14` folders preserve earlier revisions. No local content needed promotion or copying.
+- The Dolphins' View of History manuscript is mostly aligned with current `main`: excluding `bak` and `node_modules`, the D: folder has 86 active files versus 88 in `main`; 77 match byte-for-byte and 5 text files match after line-ending/BOM normalization. There are no D-only active paths. Four local variants remain to review (`.gitignore`, `scripts/_generate.js`, `scripts/make_back_cover.py`, and `scripts/make_front_cover.py`); `main` has two additional files (a comedy-draft cover and its generator). The REV4 DOCX and chapter content are already on `main`. The D: book has extensive dated backups, so do not overwrite the four local variants until their changes are reviewed and preserved.
+
+## Repository-boundary assessment
+
+The shared repository increases the blast radius: `git status` and commits span unrelated titles, and a single broad commit could mix book work. It did not itself create the 410 status rows. The main source of confusion is that the D: checkout is on a heavily divergent branch (142 ahead and 593 behind current `main`), with historical path aliases and local files mixed together. A clean, series-level repository for each independent publishing workflow would make future status, review, and commits easier to isolate. Keep tightly related books and their shared assets/builders together (for example, the Step Stories books); keep genuinely shared author guidance in a small separate workspace or copy the relevant guidance into each series repo. Do not migrate until this reconciliation is complete and a path/history map is ready. Extract from a clean `main` snapshot with history-preserving path filters, verify each new repo, and retain the current shared repo as a read-only rollback archive until validation is complete.
 
 ## Next work
 
 Triage the largest remaining path buckets in this order:
 
-1. `The Dolphins' View of History/chapters` — 65 status rows.
-2. `EE, Actually  Series/chapters` — 62.
+1. Review and preserve the four local Dolphins config/build-script variants; then finish its D: sync.
+2. `EE, Actually  Series/chapters` — 62 status rows.
 3. `POETRY/Limericks and Nonsense Rhymes` — 17.
 4. `KIDS  books/The_Wee_Scallywag_and_the_Gentle_Elf` — 10.
 5. `SCIENCE  Series/Science Sparks` — 7.
