@@ -103,6 +103,14 @@ Current `main` has the committed REV128 DOCX and EPUB (commit 006c0348, 14 Oct).
 
 The live D: folder has 246 non-backup files versus 46 active paths on `main`: 13 relative paths are common, 233 are D:-only, and 33 are main-only. The local folder includes 204 files in `build`, 17 in `review_render`, and eight in `sites`; these outputs and site assets were not moved or deleted. Three common manuscript sources differ after normalizing BOM and line endings. Their latest main commits are 1e9ac3fe, 50621aa2, and 6ad7fba3 (13 Oct), while the D: file timestamps are 12 Oct. A line diff totals 151 lines present only in the main versions and 132 only in the D: versions. Keep the D: source variants for review until confirmed against the REV128 build inputs; do not overwrite or archive them based on revision numbers alone.
 
+### The Universe, Actually: candidate versus released master (16 Oct 2026)
+
+The current-main book folder contains `The_Universe_Actually__REV15.docx` as its only master deliverable. The `SCORES.md` row mentions an REV16 fix pass, but there is no REV16 DOCX/EPUB in the main book folder; that scorecard note is not a newer release. The D: alias has `The_Universe_Actually__REV18.docx` and `REV18_NOTES.md` dated 11 Oct, with REV16 and REV17 retained under its local `bak`.
+
+REV18 is the newest numbered local candidate, but its own notes say the 8.9 four-angle score belongs to REV16 and was not rerun for REV18; the cover and KDP description were not updated. The main REV15 release notes document a different, released master. Keep REV15 as the current released master and preserve REV18 as an unreleased candidate. Do not replace or archive either file until REV18 receives the required review and cover/listing decisions.
+
+The live D: folder has 170 active files versus 69 active paths in the main book folder: 162 D:-only paths, 61 main-only paths, and eight common paths. This path gap is expected to include the local revision scripts and candidate materials, so it is not a safe bulk-sync list.
+
 ## Next work
 
 1. Keep Poetry blocked until the repository-wide policy matches are resolved and reviewed; no poem, DOCX, EPUB, or image has been promoted.
