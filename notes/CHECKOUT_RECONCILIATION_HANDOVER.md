@@ -4,7 +4,7 @@ Updated 17 Oct 2026, America/Los_Angeles.
 
 ## Current snapshot
 
-D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at 753d7859 (PR #279). Expanded status is 496 file entries: 125 modified, 36 deleted, and 335 untracked. The default short status compresses those untracked files into 69 rows, so it shows 230 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 671 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 30, CARS 22, Poetry 17, How To 18, notes 5, root-level 4, and Giving Birth 3.
+D:\My Books for Amazon is on pc-checkout-cleanup-2026-10-13 at b4e86e8e; this snapshot was measured against origin/main at e9a87130 (PR #280). Expanded status is 498 file entries: 127 modified, 36 deleted, and 335 untracked. The default short status compresses those untracked files into 69 rows, so it shows 232 rows; use `--untracked-files=all` for the expanded count. The local branch is 142 commits ahead and 672 behind that main snapshot. The older 1,288-entry count and the 466-row snapshot are stale. Largest residual path groups are KIDS 167, NOVELS 114 (including 85 Department of Historical Corrections files), Dolphins 79, Science 37, EE 32, CARS 22, Poetry 17, How To 18, notes 5, root-level 4, and Giving Birth 3.
 
 The local checkout uses older path prefixes, including `KIDS  books` (two spaces), while current `main` has moved many book folders to the repository root. These are path aliases inside the same repository, not separate repositories. Do not reset, clean, or merge the old branch wholesale: preserve and classify its commits and files book by book.
 
@@ -193,6 +193,12 @@ This prototype contains the current-main series only. It does not include the D:
 ### EE Kindle-link metadata audit (17 Oct 2026)
 
 All nine JSON files under the EE series Kindle-link metadata were parsed and compared by value against current `origin/main` at `753d7859`. Every JSON object has the same values on both sides; one file is byte-identical and the other eight differ only in formatting. No link metadata needs promotion or correction, and this audit does not change the D: status count.
+
+### EE legacy alias inventory and diagram sync (17 Oct 2026)
+
+A byte-hash audit compared 775 non-backup files in the D: `EE, Actually  Series` alias with 1,870 current-main EE paths. After syncing the two figures below, 459 same-relative-path files are byte-identical. Of the 71 remaining same-path byte differences, 38 text files match after BOM/line-ending normalization, 25 have substantive text differences (15 Markdown notes, eight Python files, and two Book 8 listing files), and eight Kindle-link JSON files have matching parsed values with formatting-only byte differences. No D-only file had an exact-content match at another path in the current EE tree. The 245 remaining D-only files are generated Python/.NET outputs under `scripts/diagrams` (`__pycache__`, `bin`, and `obj`), not manuscript or source candidates.
+
+The D: Book 3 and Book 4 PNGs were older substantive diagrams. Their exact pre-sync copies are preserved in `EE, Actually  Series\bak\2026-10-17 pre-main-diagram-sync\scripts\diagrams\...`; the active figures now match current main by SHA-256. This added two intentional modifications to the old D: worktree, bringing expanded status to 498 (127 modified, 36 deleted, 335 untracked), with 142 commits ahead and 672 behind current main `e9a87130` (PR #280). The 25 content-different text files remain clean tracked entries in the old branch; no text was promoted or overwritten during this audit.
 
 ## Next work
 
